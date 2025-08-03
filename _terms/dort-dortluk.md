@@ -2,6 +2,7 @@
 layout: term
 title: dört dörtlük
 slug: dort-dortluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tam, kusursuz olan

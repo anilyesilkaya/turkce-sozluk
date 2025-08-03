@@ -2,6 +2,7 @@
 layout: term
 title: imge
 slug: imge
+letter: I
 lisan: Türkçe
 anlamlar:
 - Zihinde tasarlanan ve gerçekleşmesi özlenen şey; hayal

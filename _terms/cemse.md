@@ -2,6 +2,7 @@
 layout: term
 title: cemse
 slug: cemse
+letter: C
 lisan: (General Motors Corporation marka adının GMC kısaltmasından)
 anlamlar:
 - Askerî hizmetlerde, çoğunlukla da askeri belli bir noktaya sevketmekte kullanılan bir tür kamyon

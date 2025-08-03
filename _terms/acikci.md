@@ -2,6 +2,7 @@
 layout: term
 title: açıkçı
 slug: acikci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Borsada fiyat dalgalanmalarından yararlanarak açıktan para kazanan kimse

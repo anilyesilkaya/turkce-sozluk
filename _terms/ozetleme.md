@@ -2,6 +2,7 @@
 layout: term
 title: özetleme
 slug: ozetleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özetlemek işi

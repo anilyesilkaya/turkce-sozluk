@@ -2,6 +2,7 @@
 layout: term
 title: çınlatabilmek
 slug: cinlatabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlatma ihtimali veya imkânı bulunmak

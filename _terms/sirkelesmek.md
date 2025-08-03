@@ -2,6 +2,7 @@
 layout: term
 title: sirkeleşmek
 slug: sirkelesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sirke durumuna gelmek

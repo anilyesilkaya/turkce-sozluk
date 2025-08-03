@@ -2,6 +2,7 @@
 layout: term
 title: filateli
 slug: filateli
+letter: F
 lisan: Fransızca philatélie
 anlamlar:
 - ► pulculuk

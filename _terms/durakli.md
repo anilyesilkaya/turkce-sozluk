@@ -2,6 +2,7 @@
 layout: term
 title: duraklı
 slug: durakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durağı olan

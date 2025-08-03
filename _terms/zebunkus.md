@@ -2,6 +2,7 @@
 layout: term
 title: zebunküş
 slug: zebunkus
+letter: Z
 lisan: Farsça zebūnkuş
 anlamlar:
 - Güçsüze acımayan, zavallıları ezen

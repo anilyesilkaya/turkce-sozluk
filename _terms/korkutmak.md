@@ -2,6 +2,7 @@
 layout: term
 title: korkutmak
 slug: korkutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkmasına yol açmak

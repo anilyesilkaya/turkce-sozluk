@@ -2,6 +2,7 @@
 layout: term
 title: emekli maaşı
 slug: emekli-maasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► emekli aylığı

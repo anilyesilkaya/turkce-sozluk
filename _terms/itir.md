@@ -2,6 +2,7 @@
 layout: term
 title: ıtır
 slug: itir
+letter: I
 lisan: Arapça ʿiṭr
 anlamlar:
 - Güzel koku

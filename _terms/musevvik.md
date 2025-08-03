@@ -2,6 +2,7 @@
 layout: term
 title: müşevvik
 slug: musevvik
+letter: M
 lisan: Arapça muşevviḳ
 anlamlar:
 - Arzusunu çoğaltan, isteğini artıran

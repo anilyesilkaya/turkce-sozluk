@@ -2,6 +2,7 @@
 layout: term
 title: atiklik
 slug: atiklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çabukluk

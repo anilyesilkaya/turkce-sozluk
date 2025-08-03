@@ -2,6 +2,7 @@
 layout: term
 title: kaypak
 slug: kaypak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kayağan

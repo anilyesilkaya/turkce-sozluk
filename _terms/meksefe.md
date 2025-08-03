@@ -2,6 +2,7 @@
 layout: term
 title: meksefe
 slug: meksefe
+letter: M
 lisan: Arapça miks̱efe
 anlamlar:
 - ► kondansatör

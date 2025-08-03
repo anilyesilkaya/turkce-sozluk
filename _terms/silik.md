@@ -2,6 +2,7 @@
 layout: term
 title: silik
 slug: silik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üstündeki yazı veya çizgiler silinmiş, bozulmuş, aşınmış olan

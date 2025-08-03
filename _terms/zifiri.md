@@ -2,6 +2,7 @@
 layout: term
 title: zifirî
 slug: zifiri
+letter: Z
 lisan: Arapça zefīrī
 anlamlar:
 - Çok koyu

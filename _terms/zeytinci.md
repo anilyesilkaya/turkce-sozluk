@@ -2,6 +2,7 @@
 layout: term
 title: zeytinci
 slug: zeytinci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zeytin ağacı yetiştiren kimse

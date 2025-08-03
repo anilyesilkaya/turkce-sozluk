@@ -2,6 +2,7 @@
 layout: term
 title: otobüsçü
 slug: otobuscu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otobüs işletmecisi

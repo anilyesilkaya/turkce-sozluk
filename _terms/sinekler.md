@@ -2,6 +2,7 @@
 layout: term
 title: sinekler
 slug: sinekler
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birçok sinek türünü içine alan çift kanatlılar familyası

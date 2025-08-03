@@ -2,6 +2,7 @@
 layout: term
 title: duygun
 slug: duygun
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► duyarlı

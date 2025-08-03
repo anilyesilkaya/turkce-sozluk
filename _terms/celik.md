@@ -2,6 +2,7 @@
 layout: term
 title: çelik
 slug: celik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kısa kesilmiş dal

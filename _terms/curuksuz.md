@@ -2,6 +2,7 @@
 layout: term
 title: çürüksüz
 slug: curuksuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürüğü olmayan

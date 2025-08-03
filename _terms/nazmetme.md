@@ -2,6 +2,7 @@
 layout: term
 title: nazmetme
 slug: nazmetme
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazmetmek işi

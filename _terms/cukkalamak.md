@@ -2,6 +2,7 @@
 layout: term
 title: cukkalamak
 slug: cukkalamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Hakkı olmayan bir şeyi alıp sahiplenmek

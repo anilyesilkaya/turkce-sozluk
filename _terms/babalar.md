@@ -2,6 +2,7 @@
 layout: term
 title: Babalar
 slug: babalar
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► Babayan

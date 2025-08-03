@@ -2,6 +2,7 @@
 layout: term
 title: yemenicilik
 slug: yemenicilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemenicinin yaptığı iş

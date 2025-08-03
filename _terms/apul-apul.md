@@ -2,6 +2,7 @@
 layout: term
 title: apul apul
 slug: apul-apul
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bacaklarını iki yana açıp sallanarak (yürümek)

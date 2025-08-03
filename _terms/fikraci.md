@@ -2,6 +2,7 @@
 layout: term
 title: fıkracı
 slug: fikraci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fıkra anlatan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: cezbelenme
 slug: cezbelenme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezbelenmek durumu

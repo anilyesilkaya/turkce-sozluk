@@ -2,6 +2,7 @@
 layout: term
 title: dilotu
 slug: dilotu
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"Çok konuşmak" anlamındaki dilotu yemek deyiminde geçen bir söz'

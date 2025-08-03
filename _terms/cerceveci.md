@@ -2,6 +2,7 @@
 layout: term
 title: çerçeveci
 slug: cerceveci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçeve yapan kimse

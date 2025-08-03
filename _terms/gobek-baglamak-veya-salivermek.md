@@ -2,6 +2,7 @@
 layout: term
 title: göbek bağlamak (veya salıvermek)
 slug: gobek-baglamak-veya-salivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - şişmanlayarak karnı büyümek, göbeklenmek

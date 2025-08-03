@@ -2,6 +2,7 @@
 layout: term
 title: artist
 slug: artist
+letter: A
 lisan: Fransızca artiste
 anlamlar:
 - Güzel sanatlardan birini meslek edinen kimse; sanatçı

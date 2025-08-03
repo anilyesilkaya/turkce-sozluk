@@ -2,6 +2,7 @@
 layout: term
 title: bilmezlikten gelmek
 slug: bilmezlikten-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bilmiyor görünmek

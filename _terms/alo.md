@@ -2,6 +2,7 @@
 layout: term
 title: alo
 slug: alo
+letter: A
 lisan: Fransızca allô
 anlamlar:
 - Telefon konuşmasına başlarken kullanılan bir seslenme sözü

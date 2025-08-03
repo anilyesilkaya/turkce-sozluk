@@ -2,6 +2,7 @@
 layout: term
 title: yetişek
 slug: yetisek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişmek işi

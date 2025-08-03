@@ -2,6 +2,7 @@
 layout: term
 title: derleyici
 slug: derleyici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derleme yapan kimse; derlemeci

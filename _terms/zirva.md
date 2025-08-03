@@ -2,6 +2,7 @@
 layout: term
 title: zırva
 slug: zirva
+letter: Z
 lisan: Farsça zįre-bā
 anlamlar:
 - Et, nohut, çeşitli meyveler ve balla yapılan bir tür yemek

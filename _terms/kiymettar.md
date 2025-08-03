@@ -2,6 +2,7 @@
 layout: term
 title: kıymettar
 slug: kiymettar
+letter: K
 lisan: Arapça ḳiymet + Farsça -dār
 anlamlar:
 - ► değerli

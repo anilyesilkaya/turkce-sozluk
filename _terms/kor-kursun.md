@@ -2,6 +2,7 @@
 layout: term
 title: kör kurşun
 slug: kor-kursun
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► serseri kurşun

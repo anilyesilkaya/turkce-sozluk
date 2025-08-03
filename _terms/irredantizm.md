@@ -2,6 +2,7 @@
 layout: term
 title: irredantizm
 slug: irredantizm
+letter: I
 lisan: Fransızca irrédentisme
 anlamlar:
 - ► kurtarımcılık

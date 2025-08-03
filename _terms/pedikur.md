@@ -2,6 +2,7 @@
 layout: term
 title: pedikür
 slug: pedikur
+letter: P
 lisan: Fransızca pédicure
 anlamlar:
 - Tırnakları kesip düzeltme, nasırları yumuşatma veya çıkarma gibi işlerden oluşan  ayak bakımı

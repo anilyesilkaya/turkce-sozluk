@@ -2,6 +2,7 @@
 layout: term
 title: sıhriyet
 slug: sihriyet
+letter: S
 lisan: Arapça ṣihriyyet
 anlamlar:
 - Evlenme sonucu oluşan akrabalık

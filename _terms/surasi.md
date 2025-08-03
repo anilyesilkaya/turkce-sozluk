@@ -2,6 +2,7 @@
 layout: term
 title: şurası
 slug: surasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şura

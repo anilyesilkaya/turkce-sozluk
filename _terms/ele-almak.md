@@ -2,6 +2,7 @@
 layout: term
 title: ele almak
 slug: ele-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şey üzerinde çalışmaya başlamak

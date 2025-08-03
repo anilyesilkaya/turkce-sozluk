@@ -2,6 +2,7 @@
 layout: term
 title: bağışıklama
 slug: bagisiklama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışıklamak işi

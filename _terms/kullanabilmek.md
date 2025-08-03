@@ -2,6 +2,7 @@
 layout: term
 title: kullanabilmek
 slug: kullanabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullanma ihtimali veya imkânı bulunmak

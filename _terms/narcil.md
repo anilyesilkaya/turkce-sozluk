@@ -2,6 +2,7 @@
 layout: term
 title: narcıl
 slug: narcil
+letter: N
 lisan: Arapça nārcīl
 anlamlar:
 - ► Hindistan cevizi

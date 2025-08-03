@@ -2,6 +2,7 @@
 layout: term
 title: suya sabuna dokunmamak
 slug: suya-sabuna-dokunmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sakıncalı konularla ilgilenmemek, bunlardan söz etmemek

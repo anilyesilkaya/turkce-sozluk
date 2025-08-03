@@ -2,6 +2,7 @@
 layout: term
 title: sezilmek
 slug: sezilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şey, bir durum anlaşılmak; hissedilmek

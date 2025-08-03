@@ -2,6 +2,7 @@
 layout: term
 title: sayımsız
 slug: sayimsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sayısız

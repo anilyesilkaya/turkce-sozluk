@@ -2,6 +2,7 @@
 layout: term
 title: bırakabilmek
 slug: birakabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bırakma ihtimali veya imkânı bulunmak

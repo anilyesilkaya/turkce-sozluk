@@ -2,6 +2,7 @@
 layout: term
 title: bollaştırmak
 slug: bollastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bol duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: ilaveten
 slug: ilaveten
+letter: I
 lisan: Arapça ʿilāveten
 anlamlar:
 - Ek olarak, ek yoluyla, ekleyerek

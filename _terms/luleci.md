@@ -2,6 +2,7 @@
 layout: term
 title: lüleci
 slug: luleci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çubuk, nargile, pipo vb.nde kullanılan lüleyi yapan kimse

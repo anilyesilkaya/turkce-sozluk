@@ -2,6 +2,7 @@
 layout: term
 title: bozuluverme
 slug: bozuluverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozuluvermek işi

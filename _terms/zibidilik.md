@@ -2,6 +2,7 @@
 layout: term
 title: zibidilik
 slug: zibidilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zibidi olma durumu

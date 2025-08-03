@@ -2,6 +2,7 @@
 layout: term
 title: yoldaş
 slug: yoldas
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yol arkadaşı

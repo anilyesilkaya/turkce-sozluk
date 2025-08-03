@@ -2,6 +2,7 @@
 layout: term
 title: feryadı basmak
 slug: feryadi-basmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - çığlık koparmak, yüksek sesle haykırmaya başlamak

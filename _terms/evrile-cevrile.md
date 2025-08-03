@@ -2,6 +2,7 @@
 layout: term
 title: evrile çevrile
 slug: evrile-cevrile
+letter: E
 lisan: Türkçe
 anlamlar:
 - Döndürülerek, evrilip çevrilerek

@@ -2,6 +2,7 @@
 layout: term
 title: tarsin etmek
 slug: tarsin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sağlamlaştırmak

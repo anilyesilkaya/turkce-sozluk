@@ -2,6 +2,7 @@
 layout: term
 title: mendil
 slug: mendil
+letter: M
 lisan: Arapça mendīl
 anlamlar:
 - Burun ve ter silmekte, el ve yüz kurulamakta kullanılan küçük, kare biçiminde kumaş veya yumuşak, ince kâğıt

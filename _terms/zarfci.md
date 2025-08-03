@@ -2,6 +2,7 @@
 layout: term
 title: zarfçı
 slug: zarfci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Tenha bir yolda yere içi doluymuş gibi görünen zarf veya cüzdan bırakan, sonra da bunları bulup alan kimseyi suçlayarak, tehdit ederek para sızdıran dolandırıcı; papelci

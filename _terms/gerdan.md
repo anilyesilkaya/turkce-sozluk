@@ -2,6 +2,7 @@
 layout: term
 title: gerdan
 slug: gerdan
+letter: G
 lisan: Farsça gerden
 anlamlar:
 - Vücudun omuzlarla baş arasında kalan ön bölümü

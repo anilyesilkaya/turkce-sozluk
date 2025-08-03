@@ -2,6 +2,7 @@
 layout: term
 title: arka vermek
 slug: arka-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - desteklemek

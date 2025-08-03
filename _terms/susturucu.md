@@ -2,6 +2,7 @@
 layout: term
 title: susturucu
 slug: susturucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susmasını sağlayan, susmasına sebep olan

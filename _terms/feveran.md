@@ -2,6 +2,7 @@
 layout: term
 title: feveran
 slug: feveran
+letter: F
 lisan: Arapça feverān
 anlamlar:
 - Kaynayıp fışkırma

@@ -2,6 +2,7 @@
 layout: term
 title: nüzullü
 slug: nuzullu
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► inmeli

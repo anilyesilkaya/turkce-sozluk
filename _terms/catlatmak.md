@@ -2,6 +2,7 @@
 layout: term
 title: çatlatmak
 slug: catlatmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlak duruma getirmek

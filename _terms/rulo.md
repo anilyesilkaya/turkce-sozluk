@@ -2,6 +2,7 @@
 layout: term
 title: rulo
 slug: rulo
+letter: R
 lisan: Fransızca rouleau
 anlamlar:
 - Dürülerek boru biçimi verilmiş deri veya kâğıt tomar

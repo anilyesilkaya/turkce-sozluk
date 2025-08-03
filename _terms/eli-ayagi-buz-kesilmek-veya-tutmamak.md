@@ -2,6 +2,7 @@
 layout: term
 title: eli ayağı buz kesilmek (veya tutmamak)
 slug: eli-ayagi-buz-kesilmek-veya-tutmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - güçsüz, dermansız kalmak

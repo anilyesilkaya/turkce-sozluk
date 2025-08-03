@@ -2,6 +2,7 @@
 layout: term
 title: örneklenme
 slug: orneklenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örneklenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: cümbüşlü
 slug: cumbuslu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► eğlenceli

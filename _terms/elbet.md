@@ -2,6 +2,7 @@
 layout: term
 title: elbet
 slug: elbet
+letter: E
 lisan: Arapça elbet
 anlamlar:
 - ► tabii

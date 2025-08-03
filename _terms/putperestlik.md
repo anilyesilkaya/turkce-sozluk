@@ -2,6 +2,7 @@
 layout: term
 title: putperestlik
 slug: putperestlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► fetişizm

@@ -2,6 +2,7 @@
 layout: term
 title: hafızasızlık
 slug: hafizasizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafızasız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: rötar
 slug: rotar
+letter: R
 lisan: Fransızca retard
 anlamlar:
 - ► gecikme

@@ -2,6 +2,7 @@
 layout: term
 title: kafese koymak
 slug: kafese-koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - aldatıp çıkar sağlamak

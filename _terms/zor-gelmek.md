@@ -2,6 +2,7 @@
 layout: term
 title: zor gelmek
 slug: zor-gelmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir işin yapılması birine güç gelmek

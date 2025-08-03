@@ -2,6 +2,7 @@
 layout: term
 title: pantolonculuk
 slug: pantolonculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pantoloncunun işi

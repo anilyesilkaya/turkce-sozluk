@@ -2,6 +2,7 @@
 layout: term
 title: kola çıkmak
 slug: kola-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kolluk kuvvetleri kamu düzenini korumak için etrafta dolaşmak

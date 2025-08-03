@@ -2,6 +2,7 @@
 layout: term
 title: anlatılma
 slug: anlatilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatılmak işi

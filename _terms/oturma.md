@@ -2,6 +2,7 @@
 layout: term
 title: oturma
 slug: oturma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturmak işi; kuut

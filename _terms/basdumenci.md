@@ -2,6 +2,7 @@
 layout: term
 title: başdümenci
 slug: basdumenci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dümencilik görevini yürüten en kıdemli ve yetkili dümenci

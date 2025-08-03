@@ -2,6 +2,7 @@
 layout: term
 title: ayağı alışmak
 slug: ayagi-alismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yere sürekli gitmek

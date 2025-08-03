@@ -2,6 +2,7 @@
 layout: term
 title: pençe
 slug: pence
+letter: P
 lisan: Farsça pence
 anlamlar:
 - Yırtıcı hayvanların ön ayaklarının parmaklarıyla tırnakları

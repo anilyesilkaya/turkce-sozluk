@@ -2,6 +2,7 @@
 layout: term
 title: çikolatalı
 slug: cikolatali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çikolatası olan

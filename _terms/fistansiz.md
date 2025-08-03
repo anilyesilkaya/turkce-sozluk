@@ -2,6 +2,7 @@
 layout: term
 title: fistansız
 slug: fistansiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fistan giymemiş

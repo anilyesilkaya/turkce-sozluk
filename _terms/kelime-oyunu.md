@@ -2,6 +2,7 @@
 layout: term
 title: kelime oyunu
 slug: kelime-oyunu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sözlerin çok anlamlı olmasından veya benzerliklerinden yararlanarak yapılan nükte veya aykırı anlamlandırma

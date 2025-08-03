@@ -2,6 +2,7 @@
 layout: term
 title: hazırlayabilmek
 slug: hazirlayabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırlama ihtimali veya imkânı bulunmak

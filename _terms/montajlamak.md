@@ -2,6 +2,7 @@
 layout: term
 title: montajlamak
 slug: montajlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kurgulamak

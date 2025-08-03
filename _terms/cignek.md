@@ -2,6 +2,7 @@
 layout: term
 title: çiğnek
 slug: cignek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çiğnemik

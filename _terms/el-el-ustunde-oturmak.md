@@ -2,6 +2,7 @@
 layout: term
 title: el el üstünde oturmak
 slug: el-el-ustunde-oturmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - herhangi bir iş yapmadan boş oturmak

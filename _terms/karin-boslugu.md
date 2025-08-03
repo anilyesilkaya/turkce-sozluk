@@ -2,6 +2,7 @@
 layout: term
 title: karın boşluğu
 slug: karin-boslugu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaburga kemikleriyle kalça kemiklerinin arasında vücudun her iki yanında bulunan bölge

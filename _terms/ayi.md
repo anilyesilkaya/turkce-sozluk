@@ -2,6 +2,7 @@
 layout: term
 title: ayı
 slug: ayi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Memelilerin etobur takımından, beş parmaklı, tabanlarına basarak yürüyen, yurdumuzda boz türü bulunan, iri gövdeli hayvan; kocaoğlan (Ursus arctos)

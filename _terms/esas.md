@@ -2,6 +2,7 @@
 layout: term
 title: esas
 slug: esas
+letter: E
 lisan: Arapça esās
 anlamlar:
 - Bir şeyin özünü oluşturan ana öge; yapı taşı, asliye

@@ -2,6 +2,7 @@
 layout: term
 title: sipere yatmak
 slug: sipere-yatmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - siper içine saklanmak, gizlenmek

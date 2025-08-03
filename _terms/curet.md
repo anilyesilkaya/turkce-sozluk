@@ -2,6 +2,7 @@
 layout: term
 title: cüret
 slug: curet
+letter: C
 lisan: Arapça curʾet
 anlamlar:
 - Kendini bilmezlik

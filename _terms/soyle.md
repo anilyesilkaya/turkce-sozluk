@@ -2,6 +2,7 @@
 layout: term
 title: şöyle
 slug: soyle
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şunun gibi, şuna benzer biçimde; şu biçimde, şu şekilde

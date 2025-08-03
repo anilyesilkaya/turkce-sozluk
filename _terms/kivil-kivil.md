@@ -2,6 +2,7 @@
 layout: term
 title: kıvıl kıvıl
 slug: kivil-kivil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Topluca hareket edip kaynaşarak

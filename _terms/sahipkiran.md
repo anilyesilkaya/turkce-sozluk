@@ -2,6 +2,7 @@
 layout: term
 title: sahipkıran
 slug: sahipkiran
+letter: S
 lisan: Arapça ṣāḥip + ḳırān
 anlamlar:
 - Güçlü ve üstün hükümdar

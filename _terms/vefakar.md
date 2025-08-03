@@ -2,6 +2,7 @@
 layout: term
 title: vefakâr
 slug: vefakar
+letter: V
 lisan: Arapça vefā + Farsça -kār
 anlamlar:
 - Vefası olan, sevgisi geçici olmayan; hakikatli, vefalı

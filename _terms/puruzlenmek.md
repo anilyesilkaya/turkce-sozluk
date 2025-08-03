@@ -2,6 +2,7 @@
 layout: term
 title: pürüzlenmek
 slug: puruzlenmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pürüz oluşmak, pürüzlü duruma gelmek

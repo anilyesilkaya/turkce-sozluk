@@ -2,6 +2,7 @@
 layout: term
 title: çağrılış
 slug: cagrilis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağrılmak işi

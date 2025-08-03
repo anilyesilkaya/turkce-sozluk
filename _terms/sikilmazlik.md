@@ -2,6 +2,7 @@
 layout: term
 title: sıkılmazlık
 slug: sikilmazlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► utanmazlık

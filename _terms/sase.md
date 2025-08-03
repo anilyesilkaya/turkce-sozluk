@@ -2,6 +2,7 @@
 layout: term
 title: şase
 slug: sase
+letter: Ş
 lisan: Fransızca sachet
 anlamlar:
 - İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak

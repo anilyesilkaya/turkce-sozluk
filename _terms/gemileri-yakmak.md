@@ -2,6 +2,7 @@
 layout: term
 title: gemileri yakmak
 slug: gemileri-yakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - geri dönüşü olmayan kararlar vermek

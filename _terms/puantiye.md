@@ -2,6 +2,7 @@
 layout: term
 title: puantiye
 slug: puantiye
+letter: P
 lisan: Fransızca pointillé
 anlamlar:
 - Noktalı, benekli (kumaş)

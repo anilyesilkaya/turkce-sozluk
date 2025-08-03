@@ -2,6 +2,7 @@
 layout: term
 title: meyyal
 slug: meyyal
+letter: M
 lisan: Arapça meyyāl
 anlamlar:
 - ► eğilimli

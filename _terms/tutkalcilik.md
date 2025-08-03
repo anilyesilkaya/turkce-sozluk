@@ -2,6 +2,7 @@
 layout: term
 title: tutkalcılık
 slug: tutkalcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutkalcının işi

@@ -2,6 +2,7 @@
 layout: term
 title: gözünü çıkarmak
 slug: gozunu-cikarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - beceriksizce davranmak, zarara uğratmak

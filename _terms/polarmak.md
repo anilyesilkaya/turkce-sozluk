@@ -2,6 +2,7 @@
 layout: term
 title: polarmak
 slug: polarmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Polarma olayına uğramak

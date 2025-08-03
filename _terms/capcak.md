@@ -2,6 +2,7 @@
 layout: term
 title: çapçak
 slug: capcak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çamçak

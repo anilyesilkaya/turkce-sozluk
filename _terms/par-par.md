@@ -2,6 +2,7 @@
 layout: term
 title: par par
 slug: par-par
+letter: P
 lisan: Türkçe
 anlamlar:
 - '"Bir yanıp bir sönmek, ışıl ışıl parlamak" anlamlarındaki par par yanmak deyiminde geçen bir söz'

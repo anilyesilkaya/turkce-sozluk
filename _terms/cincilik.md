@@ -2,6 +2,7 @@
 layout: term
 title: cincilik
 slug: cincilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cincinin yaptığı iş

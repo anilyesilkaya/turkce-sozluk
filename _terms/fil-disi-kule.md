@@ -2,6 +2,7 @@
 layout: term
 title: fil dişi kule
 slug: fil-disi-kule
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kendini toplumdan soyutlayan insanın, kendi içinde oluşturduğu dünya

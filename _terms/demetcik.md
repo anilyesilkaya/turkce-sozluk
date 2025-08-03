@@ -2,6 +2,7 @@
 layout: term
 title: demetçik
 slug: demetcik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Küçük demet

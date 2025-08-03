@@ -2,6 +2,7 @@
 layout: term
 title: zarurilik
 slug: zarurilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zorunluluk

@@ -2,6 +2,7 @@
 layout: term
 title: cezrî
 slug: cezri
+letter: C
 lisan: Arapça ceẕrī
 anlamlar:
 - ► köklü

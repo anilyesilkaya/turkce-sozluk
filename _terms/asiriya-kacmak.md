@@ -2,6 +2,7 @@
 layout: term
 title: aşırıya kaçmak
 slug: asiriya-kacmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - makul sınırın dışına çıkmak, fazla abartmak

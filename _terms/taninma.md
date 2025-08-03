@@ -2,6 +2,7 @@
 layout: term
 title: tanınma
 slug: taninma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanınmak işi; tanılma

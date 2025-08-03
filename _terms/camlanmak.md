@@ -2,6 +2,7 @@
 layout: term
 title: camlanmak
 slug: camlanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam takılmak

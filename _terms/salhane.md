@@ -2,6 +2,7 @@
 layout: term
 title: salhane
 slug: salhane
+letter: S
 lisan: Arapça salḫ + Farsça ḫāne
 anlamlar:
 - ► kesimevi

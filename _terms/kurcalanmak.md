@@ -2,6 +2,7 @@
 layout: term
 title: kurcalanmak
 slug: kurcalanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurcalama işi yapılmak

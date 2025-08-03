@@ -2,6 +2,7 @@
 layout: term
 title: organik bağ
 slug: organik-bag
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir teşkilat veya tüzel kişilikle arada bulunan ilişki

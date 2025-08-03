@@ -2,6 +2,7 @@
 layout: term
 title: teklifsiz
 slug: teklifsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Samimi, içli dışlı, sıkı fıkı

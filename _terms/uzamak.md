@@ -2,6 +2,7 @@
 layout: term
 title: uzamak
 slug: uzamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzun duruma gelmek, boyu büyümek

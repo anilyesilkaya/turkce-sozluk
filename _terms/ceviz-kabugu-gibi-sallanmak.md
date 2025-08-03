@@ -2,6 +2,7 @@
 layout: term
 title: ceviz kabuğu gibi sallanmak
 slug: ceviz-kabugu-gibi-sallanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok sallanmak

@@ -2,6 +2,7 @@
 layout: term
 title: kurşun
 slug: kursun
+letter: K
 lisan: Türkçe
 anlamlar:
 - Atom numarası 82, atom ağırlığı 207,21, yoğunluğu 11,3 olan, 327,4 °C'de eriyen, yumuşak ve bükülgen, mavimtırak esmer renkte bir element (simgesi Pb)

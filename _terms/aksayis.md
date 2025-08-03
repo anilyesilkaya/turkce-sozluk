@@ -2,6 +2,7 @@
 layout: term
 title: aksayış
 slug: aksayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: depo etmek
 slug: depo-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yığmak, biriktirmek

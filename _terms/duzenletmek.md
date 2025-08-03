@@ -2,6 +2,7 @@
 layout: term
 title: düzenletmek
 slug: duzenletmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenleme işini yaptırmak

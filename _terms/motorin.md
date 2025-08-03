@@ -2,6 +2,7 @@
 layout: term
 title: motorin
 slug: motorin
+letter: M
 lisan: Fransızca motorine
 anlamlar:
 - ► mazot

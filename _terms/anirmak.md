@@ -2,6 +2,7 @@
 layout: term
 title: anırmak
 slug: anirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Eşek bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: yanaştırma
 slug: yanastirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanaştırmak işi

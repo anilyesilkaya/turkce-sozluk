@@ -2,6 +2,7 @@
 layout: term
 title: köpürgen
 slug: kopurgen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gerekli gereksiz, hızlı, aralıksız ve bıktırıcı biçimde konuşan

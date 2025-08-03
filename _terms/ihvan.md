@@ -2,6 +2,7 @@
 layout: term
 title: ihvan
 slug: ihvan
+letter: I
 lisan: Arapça iḫvān
 anlamlar:
 - Yakın dostlar, samimi arkadaşlar

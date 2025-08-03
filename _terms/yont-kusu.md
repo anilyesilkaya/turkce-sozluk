@@ -2,6 +2,7 @@
 layout: term
 title: yont kuşu
 slug: yont-kusu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kuyruksallayan

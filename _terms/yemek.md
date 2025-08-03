@@ -2,6 +2,7 @@
 layout: term
 title: yemek
 slug: yemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ağızda çiğneyerek yutmak

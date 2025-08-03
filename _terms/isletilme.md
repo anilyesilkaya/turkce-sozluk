@@ -2,6 +2,7 @@
 layout: term
 title: işletilme
 slug: isletilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşletilmek işi

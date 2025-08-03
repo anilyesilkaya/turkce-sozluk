@@ -2,6 +2,7 @@
 layout: term
 title: ciğerini okumak
 slug: cigerini-okumak
+letter: C
 lisan: Türkçe
 anlamlar:
 - onun aklından geçenleri, gizli düşüncelerini bilmek

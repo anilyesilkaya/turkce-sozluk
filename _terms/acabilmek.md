@@ -2,6 +2,7 @@
 layout: term
 title: açabilmek
 slug: acabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açma ihtimali veya imkânı bulunmak

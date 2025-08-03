@@ -2,6 +2,7 @@
 layout: term
 title: içermek
 slug: icermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçine almak, içinde bulundurmak; ihtiva etmek

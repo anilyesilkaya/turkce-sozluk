@@ -2,6 +2,7 @@
 layout: term
 title: muayene
 slug: muayene
+letter: M
 lisan: Arapça muʿāyene
 anlamlar:
 - Bir kimsenin hasta olup olmadığını veya hastalığın ne olduğunu araştırma; sağlık muayenesi

@@ -2,6 +2,7 @@
 layout: term
 title: katmer
 slug: katmer
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyi oluşturan katlardan her biri

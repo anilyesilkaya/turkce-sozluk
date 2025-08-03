@@ -2,6 +2,7 @@
 layout: term
 title: burnunu sokmak
 slug: burnunu-sokmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - gerekmeden her işe karışmak

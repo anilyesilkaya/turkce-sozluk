@@ -2,6 +2,7 @@
 layout: term
 title: güvenceye bağlamak
 slug: guvenceye-baglamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvence altına almak

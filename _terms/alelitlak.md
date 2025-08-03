@@ -2,6 +2,7 @@
 layout: term
 title: alelıtlak
 slug: alelitlak
+letter: A
 lisan: Arapça ʿalā'l-iṭlāḳ
 anlamlar:
 - ► genellikle

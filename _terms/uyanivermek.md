@@ -2,6 +2,7 @@
 layout: term
 title: uyanıvermek
 slug: uyanivermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ansızın uyanmak

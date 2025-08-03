@@ -2,6 +2,7 @@
 layout: term
 title: çevirivermek
 slug: cevirivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çevirmek

@@ -2,6 +2,7 @@
 layout: term
 title: denemek
 slug: denemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değerini anlamak, gerekli niteliği taşıyıp taşımadığını bulmak için bir insanı, bir nesneyi veya bir düşünceyi sınamak; tecrübe etmek

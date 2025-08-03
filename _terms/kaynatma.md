@@ -2,6 +2,7 @@
 layout: term
 title: kaynatma
 slug: kaynatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynatmak işi

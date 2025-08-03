@@ -2,6 +2,7 @@
 layout: term
 title: ağzını açıp gözünü yummak
 slug: agzini-acip-gozunu-yummak
+letter: A
 lisan: Türkçe
 anlamlar:
 - öfke ile, sonunu düşünmeden ağzına gelen bütün ağır sözleri söylemek

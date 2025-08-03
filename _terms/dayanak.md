@@ -2,6 +2,7 @@
 layout: term
 title: dayanak
 slug: dayanak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanılacak şey; dayanç, istinatgâh, mesnet

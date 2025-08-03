@@ -2,6 +2,7 @@
 layout: term
 title: bulutçuk
 slug: bulutcuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Küçük bulut

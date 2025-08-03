@@ -2,6 +2,7 @@
 layout: term
 title: gıyaben
 slug: giyaben
+letter: G
 lisan: Arapça ġiyāben
 anlamlar:
 - Kendi yokken, ortada olmaksızın

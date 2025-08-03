@@ -2,6 +2,7 @@
 layout: term
 title: piknik
 slug: piknik
+letter: P
 lisan: Fransızca pique-nique
 anlamlar:
 - Yemek yemek, eğlenmek için açık alanda yapılan günübirlik gezinti

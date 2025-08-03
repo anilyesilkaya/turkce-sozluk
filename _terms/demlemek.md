@@ -2,6 +2,7 @@
 layout: term
 title: demlemek
 slug: demlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çay, kahve, bitki çayları vb.ni kaynar suyun içine attıktan sonra renk ve koku vermesi için bir süre bekletmek; demlendirmek

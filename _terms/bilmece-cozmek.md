@@ -2,6 +2,7 @@
 layout: term
 title: bilmece çözmek
 slug: bilmece-cozmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bilmecenin cevabını bulmak

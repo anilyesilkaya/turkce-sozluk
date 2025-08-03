@@ -2,6 +2,7 @@
 layout: term
 title: budalacasına
 slug: budalacasina
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► aptalca

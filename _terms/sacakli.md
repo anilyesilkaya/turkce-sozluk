@@ -2,6 +2,7 @@
 layout: term
 title: saçaklı
 slug: sacakli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçağı olan

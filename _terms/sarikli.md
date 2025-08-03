@@ -2,6 +2,7 @@
 layout: term
 title: sarıklı
 slug: sarikli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Başına sarık sarmış olan, sarığı olan; destarlı

@@ -2,6 +2,7 @@
 layout: term
 title: Güney
 slug: guney
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ekvator’un güney tarafında bulunan ülkeler veya uygarlıklar bölgesi

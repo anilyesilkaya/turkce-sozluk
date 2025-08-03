@@ -2,6 +2,7 @@
 layout: term
 title: tüketmek
 slug: tuketmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kullanarak, harcayarak yok etmek, bitirmek; yoğaltmak

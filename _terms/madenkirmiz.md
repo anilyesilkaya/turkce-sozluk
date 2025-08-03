@@ -2,6 +2,7 @@
 layout: term
 title: madenkırmız
 slug: madenkirmiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Antimon birleşimlerinden kırmızı renkte bir madde; kırmız madeni

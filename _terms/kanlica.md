@@ -2,6 +2,7 @@
 layout: term
 title: kanlıca
 slug: kanlica
+letter: K
 lisan: Türkçe
 anlamlar:
 - İğne yapraklı ağaçların bulunduğu orman zeminlerinde sonbahar aylarında yetişen, sapı ve şapkası turuncu tonlarında, berelendiğinde kırmızı sıvı salgılayan, bazitli bir tür mantar; çıntar (Lactarius deliciosus)

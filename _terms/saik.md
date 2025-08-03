@@ -2,6 +2,7 @@
 layout: term
 title: saik
 slug: saik
+letter: S
 lisan: Arapça sāʾiḳ
 anlamlar:
 - ► sebep

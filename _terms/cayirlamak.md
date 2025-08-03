@@ -2,6 +2,7 @@
 layout: term
 title: çayırlamak
 slug: cayirlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çayırlanmak

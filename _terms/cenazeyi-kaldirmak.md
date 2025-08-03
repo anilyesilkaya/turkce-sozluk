@@ -2,6 +2,7 @@
 layout: term
 title: cenazeyi kaldırmak
 slug: cenazeyi-kaldirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölüyü gömmek üzere götürmek

@@ -2,6 +2,7 @@
 layout: term
 title: kadınsız
 slug: kadinsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadın bulunmayan

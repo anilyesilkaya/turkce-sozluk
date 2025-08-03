@@ -2,6 +2,7 @@
 layout: term
 title: kolunda altın bileziği olmak
 slug: kolunda-altin-bilezigi-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kazanç sağlayan bir mesleği, zanaatı olmak

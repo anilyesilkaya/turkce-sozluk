@@ -2,6 +2,7 @@
 layout: term
 title: dübel
 slug: dubel
+letter: D
 lisan: Almanca Dubel
 anlamlar:
 - Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva

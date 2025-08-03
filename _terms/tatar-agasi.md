@@ -2,6 +2,7 @@
 layout: term
 title: tatar ağası
 slug: tatar-agasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Posta görevi yapan tatarların amiri

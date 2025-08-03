@@ -2,6 +2,7 @@
 layout: term
 title: mülaki olmak
 slug: mulaki-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - buluşmak, kavuşmak, görüşmek

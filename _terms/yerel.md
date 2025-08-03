@@ -2,6 +2,7 @@
 layout: term
 title: yerel
 slug: yerel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yöresel

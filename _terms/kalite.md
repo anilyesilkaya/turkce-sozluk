@@ -2,6 +2,7 @@
 layout: term
 title: kalite
 slug: kalite
+letter: K
 lisan: Fransızca qualité
 anlamlar:
 - ► nitelik

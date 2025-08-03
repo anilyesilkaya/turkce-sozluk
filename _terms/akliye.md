@@ -2,6 +2,7 @@
 layout: term
 title: akliye
 slug: akliye
+letter: A
 lisan: Arapça ʿaḳliyye
 anlamlar:
 - Akıl hastalıkları ile ilgili hekimlik kolu

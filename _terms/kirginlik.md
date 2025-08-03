@@ -2,6 +2,7 @@
 layout: term
 title: kırgınlık
 slug: kirginlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırgın olma durumu; iç burukluğu

@@ -2,6 +2,7 @@
 layout: term
 title: cımbız
 slug: cimbiz
+letter: C
 lisan: Rumca
 anlamlar:
 - Kıl vb. ince şeyleri tutmak veya çekmek için kullanılan küçük maşa

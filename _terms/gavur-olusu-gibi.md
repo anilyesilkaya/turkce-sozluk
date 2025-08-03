@@ -2,6 +2,7 @@
 layout: term
 title: gâvur ölüsü gibi
 slug: gavur-olusu-gibi
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok ağır ve hantal

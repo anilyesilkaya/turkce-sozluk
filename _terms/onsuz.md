@@ -2,6 +2,7 @@
 layout: term
 title: onsuz
 slug: onsuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - O olmaksızın

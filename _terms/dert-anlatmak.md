@@ -2,6 +2,7 @@
 layout: term
 title: dert anlatmak
 slug: dert-anlatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - derdini dökmek

@@ -2,6 +2,7 @@
 layout: term
 title: boran
 slug: boran
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sert rüzgâr, şimşek ve gök gürültüsü ile ortaya çıkan sağanak yağışlı hava olayı

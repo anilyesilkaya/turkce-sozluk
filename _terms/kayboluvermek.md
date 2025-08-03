@@ -2,6 +2,7 @@
 layout: term
 title: kayboluvermek
 slug: kayboluvermek
+letter: K
 lisan: Arapça ġayb + Türkçe oluvermek
 anlamlar:
 - Çabucak kaybolmak

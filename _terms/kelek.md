@@ -2,6 +2,7 @@
 layout: term
 title: kelek
 slug: kelek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olgunlaşmamış, ham kavun

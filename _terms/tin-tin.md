@@ -2,6 +2,7 @@
 layout: term
 title: tın tın
 slug: tin-tin
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçi boş bir nesneye vurulduğunda çıkan ses

@@ -2,6 +2,7 @@
 layout: term
 title: tıkama
 slug: tikama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkamak işi; berkitme

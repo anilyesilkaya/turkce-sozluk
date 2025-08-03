@@ -2,6 +2,7 @@
 layout: term
 title: göce
 slug: goce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Tarhana, bulgur yapmak için kullanılan kabuğu soyulmuş ve kırılmış buğday

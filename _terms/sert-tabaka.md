@@ -2,6 +2,7 @@
 layout: term
 title: sert tabaka
 slug: sert-tabaka
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► göz akı

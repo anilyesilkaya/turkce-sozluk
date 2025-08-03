@@ -2,6 +2,7 @@
 layout: term
 title: hafriyatçılık
 slug: hafriyatcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafriyatçının yaptığı iş

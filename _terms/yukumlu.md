@@ -2,6 +2,7 @@
 layout: term
 title: yükümlü
 slug: yukumlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyi yapma zorunluluğu olan; memur, mükellef

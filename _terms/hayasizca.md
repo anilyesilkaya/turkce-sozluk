@@ -2,6 +2,7 @@
 layout: term
 title: hayâsızca
 slug: hayasizca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayâsıza yakışan

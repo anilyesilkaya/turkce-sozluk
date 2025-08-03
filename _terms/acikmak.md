@@ -2,6 +2,7 @@
 layout: term
 title: acıkmak
 slug: acikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yemek yeme gereksinimi duymak

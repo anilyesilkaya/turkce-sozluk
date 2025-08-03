@@ -2,6 +2,7 @@
 layout: term
 title: bisiklet
 slug: bisiklet
+letter: B
 lisan: Fransızca bicyclette
 anlamlar:
 - Tekerlekleri pedal aracılığıyla ayakla döndürülen binek aracı; çiftteker, derrace, velespit

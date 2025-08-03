@@ -2,6 +2,7 @@
 layout: term
 title: doğma büyüme
 slug: dogma-buyume
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğduğundan beri

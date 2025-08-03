@@ -2,6 +2,7 @@
 layout: term
 title: pudra şekeri
 slug: pudra-sekeri
+letter: P
 lisan: Türkçe
 anlamlar:
 - Dövülerek ince un durumuna getirilmiş şeker

@@ -2,6 +2,7 @@
 layout: term
 title: boyut kazandırmak
 slug: boyut-kazandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yeni bir durum, içerik, genişlik, kapsam kazandırmak

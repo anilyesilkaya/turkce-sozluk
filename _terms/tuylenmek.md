@@ -2,6 +2,7 @@
 layout: term
 title: tüylenmek
 slug: tuylenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hayvanlarda tüy bitmek

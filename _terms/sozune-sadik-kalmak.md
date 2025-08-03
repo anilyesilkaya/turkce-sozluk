@@ -2,6 +2,7 @@
 layout: term
 title: sözüne sadık kalmak
 slug: sozune-sadik-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - verdiği söze bağlı olmak

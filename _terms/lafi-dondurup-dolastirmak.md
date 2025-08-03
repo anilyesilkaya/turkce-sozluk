@@ -2,6 +2,7 @@
 layout: term
 title: lafı döndürüp dolaştırmak
 slug: lafi-dondurup-dolastirmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - sözü uzatmak

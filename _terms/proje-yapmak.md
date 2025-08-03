@@ -2,6 +2,7 @@
 layout: term
 title: proje yapmak
 slug: proje-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - proje hazırlamak

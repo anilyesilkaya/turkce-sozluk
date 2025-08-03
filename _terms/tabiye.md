@@ -2,6 +2,7 @@
 layout: term
 title: tabiye
 slug: tabiye
+letter: T
 lisan: Arapça taʿbiye
 anlamlar:
 - Yerli yerine koyup hazırlama, yerleştirme

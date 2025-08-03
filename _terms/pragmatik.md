@@ -2,6 +2,7 @@
 layout: term
 title: pragmatik
 slug: pragmatik
+letter: P
 lisan: Fransızca pragmatique
 anlamlar:
 - ► yararcı

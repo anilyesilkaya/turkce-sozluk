@@ -2,6 +2,7 @@
 layout: term
 title: hasbetenlillah
 slug: hasbetenlillah
+letter: H
 lisan: Arapça ḥasbetenlillah
 anlamlar:
 - Tanrı için, Tanrı uğruna, Tanrı rızası için, karşılık beklemeksizin

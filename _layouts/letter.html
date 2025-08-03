@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+{%- comment -%}
+  Letter index layout for _terms collection
+  ─────────────────────────────────────────
+  • Each term document must have, at minimum, in its front-matter:
+        title:  <word>          # displayed text
+        letter: <capital-letter>
+  • Optional but recommended:
+        slug:   <url-slug>      # defaults to file name if missing
+  • Each letter index page (A.md, B.md, …) has:
+        layout:   letter
+        letter:   "A"
+        permalink: /liste/A.html
+{%- endcomment -%}
+
+<!-- A–Z navigation bar -->
+{% include letters.html %}
+
+<nav class="letter-nav">
+  {% for L in letters %}
+    <a href="{{ '/liste/' | append: L | append: '.html' | relative_url }}"{% if L == page.letter %} class="current"{% endif %}>
+      {{ L }}
+    </a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+</nav>
+
+<h1 class="letter-heading">{{ page.letter }} harfiyle başlayan sözcükler</h1>
+
+{%- assign list = site.terms
+     | where_exp: "t", "t.letter == page.letter"
+     | sort:      "title" -%}
+
+{% if list and list.size > 0 %}
+  <ul class="letter-list">
+    {%- for t in list -%}
+      {%- assign slug  = t.slug | default: t.basename_without_ext -%}
+      <li>
+        <a href="{{ '/terim/' | append: slug | append: '.html' | relative_url }}">
+          {{ t.title | default: slug }}
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+{% else %}
+  <p>Henüz bu harfle başlayan sözcük eklenmedi.</p>
+{% endif %}

@@ -2,6 +2,7 @@
 layout: term
 title: gece uçuşu
 slug: gece-ucusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Askerî amaçla uçakların geceleyin yaptığı uçuş

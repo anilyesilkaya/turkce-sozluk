@@ -2,6 +2,7 @@
 layout: term
 title: eş dizimli
 slug: es-dizimli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Anlam ve söz dizimi bakımından birbirleriyle ilişkili olup aynı dizimde yer alan (dil birimleri)

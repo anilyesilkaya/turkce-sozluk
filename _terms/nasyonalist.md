@@ -2,6 +2,7 @@
 layout: term
 title: nasyonalist
 slug: nasyonalist
+letter: N
 lisan: Fransızca nationaliste
 anlamlar:
 - ► milliyetçi

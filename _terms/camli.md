@@ -2,6 +2,7 @@
 layout: term
 title: camlı
 slug: camli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam takılmış, cam geçirilmiş, camı olan

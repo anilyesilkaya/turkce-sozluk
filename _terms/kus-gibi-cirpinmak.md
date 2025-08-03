@@ -2,6 +2,7 @@
 layout: term
 title: kuş gibi çırpınmak
 slug: kus-gibi-cirpinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çaresizlik içinde telaşlı davranmak

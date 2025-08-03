@@ -2,6 +2,7 @@
 layout: term
 title: susatmak
 slug: susatmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susamasına yol açmak, susuz bırakmak

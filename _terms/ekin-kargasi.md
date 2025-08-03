@@ -2,6 +2,7 @@
 layout: term
 title: ekin kargası
 slug: ekin-kargasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Tüyleri parlak, kara ve erguvani parıltılı bir tür karga (Corvus frugilefus)

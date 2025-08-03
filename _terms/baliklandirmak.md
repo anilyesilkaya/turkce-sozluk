@@ -2,6 +2,7 @@
 layout: term
 title: balıklandırmak
 slug: baliklandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balıklı duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: obje
 slug: obje
+letter: O
 lisan: Fransızca objet
 anlamlar:
 - ► nesne

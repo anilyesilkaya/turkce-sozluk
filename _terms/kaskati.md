@@ -2,6 +2,7 @@
 layout: term
 title: kaskatı
 slug: kaskati
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok sert, çok katı

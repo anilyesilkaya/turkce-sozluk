@@ -2,6 +2,7 @@
 layout: term
 title: cünüp
 slug: cunup
+letter: C
 lisan: Arapça cunub
 anlamlar:
 - Dinin buyurduğu biçimde henüz yıkanmadığı için temiz sayılmayan (kimse); cenabet

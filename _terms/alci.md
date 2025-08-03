@@ -2,6 +2,7 @@
 layout: term
 title: alçı
 slug: alci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçı taşının pişirilip toz durumuna getirilmesinden elde edilerek yapılarda, sanatta, mimarlıkta ve dişçilikte kullanılan madde

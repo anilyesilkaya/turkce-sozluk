@@ -2,6 +2,7 @@
 layout: term
 title: mayıs
 slug: mayis
+letter: M
 lisan: Türkçe
 anlamlar:
 - Taze sığır dışkısı

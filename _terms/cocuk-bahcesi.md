@@ -2,6 +2,7 @@
 layout: term
 title: çocuk bahçesi
 slug: cocuk-bahcesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Genellikle okul öncesi ve ilkokul çağında bulunan çocukların oynamaları için ayrılan ve düzenlenen, içinde kum havuzu, salıncak, kaydırak, tahterevalli, tırmanma merdiveni gibi oyun araçlarının bulunduğu bahçe

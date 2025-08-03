@@ -2,6 +2,7 @@
 layout: term
 title: kalınca
 slug: kalinca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalına yakın

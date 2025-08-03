@@ -2,6 +2,7 @@
 layout: term
 title: asilzade
 slug: asilzade
+letter: A
 lisan: Arapça aṣīl + Farsça zāde
 anlamlar:
 - ► soylu

@@ -2,6 +2,7 @@
 layout: term
 title: demetletme
 slug: demetletme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demetletmek işi

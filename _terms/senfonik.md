@@ -2,6 +2,7 @@
 layout: term
 title: senfonik
 slug: senfonik
+letter: S
 lisan: Fransızca symphonique
 anlamlar:
 - Senfoni ile ilgili, senfoniye dayanan

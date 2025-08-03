@@ -2,6 +2,7 @@
 layout: term
 title: bitkince
 slug: bitkince
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitkin bir biçimde

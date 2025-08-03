@@ -2,6 +2,7 @@
 layout: term
 title: aldı
 slug: aldi
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"söylemeye başladı" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: boynuz kulağı geçmek
 slug: boynuz-kulagi-gecmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir konuda daha sonra yetişenler yetenek ve başarı bakımından eskileri geçmek

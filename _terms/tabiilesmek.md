@@ -2,6 +2,7 @@
 layout: term
 title: tabiileşmek
 slug: tabiilesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğallaşmak

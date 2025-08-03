@@ -2,6 +2,7 @@
 layout: term
 title: posta pulu
 slug: posta-pulu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Posta ile gönderilen şeylere yapıştırılan ve para karşılığında alınan pul

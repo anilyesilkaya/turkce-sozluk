@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhtar ağzı
 slug: tezgahtar-agzi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyi beğendirmek için fazlaca konuşma, gereksiz övme

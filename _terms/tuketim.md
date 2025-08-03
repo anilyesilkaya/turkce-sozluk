@@ -2,6 +2,7 @@
 layout: term
 title: tüketim
 slug: tuketim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüketmek işi

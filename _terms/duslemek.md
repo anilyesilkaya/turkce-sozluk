@@ -2,6 +2,7 @@
 layout: term
 title: düşlemek
 slug: duslemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyi, bir kimseyi, bir durumu istenilen biçimde tasarlamak, zihinde canlandırmak

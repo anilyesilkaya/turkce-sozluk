@@ -2,6 +2,7 @@
 layout: term
 title: göz kaş süzmek
 slug: goz-kas-suzmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - dikkatle ve hissettirmeden bakışlarla kontrol altında tutmak

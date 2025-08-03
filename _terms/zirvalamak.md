@@ -2,6 +2,7 @@
 layout: term
 title: zırvalamak
 slug: zirvalamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Boş ve anlamsız sözler söylemek

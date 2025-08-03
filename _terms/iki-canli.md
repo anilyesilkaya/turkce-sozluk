@@ -2,6 +2,7 @@
 layout: term
 title: iki canlı
 slug: iki-canli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gebe

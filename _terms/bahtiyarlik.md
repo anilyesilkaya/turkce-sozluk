@@ -2,6 +2,7 @@
 layout: term
 title: bahtiyarlık
 slug: bahtiyarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► mutluluk

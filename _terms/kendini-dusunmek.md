@@ -2,6 +2,7 @@
 layout: term
 title: kendini düşünmek
 slug: kendini-dusunmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - daima kendi çıkarını kollamak, bencil davranmak

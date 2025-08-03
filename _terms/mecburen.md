@@ -2,6 +2,7 @@
 layout: term
 title: mecburen
 slug: mecburen
+letter: M
 lisan: Arapça mecbūren
 anlamlar:
 - Kendi isteğinin dışında, zorla, kaçınılmaz, zorunlu olarak

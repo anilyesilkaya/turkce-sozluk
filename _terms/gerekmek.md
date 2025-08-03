@@ -2,6 +2,7 @@
 layout: term
 title: gerekmek
 slug: gerekmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yapılabilmesi veya gerçekleşmesi bazı nesne, fiil vb.ne bağlı olmak; gerek olmak, lazım olmak, icap etmek, iktiza etmek

@@ -2,6 +2,7 @@
 layout: term
 title: mekkâre
 slug: mekkare
+letter: M
 lisan: Arapça mekkāre
 anlamlar:
 - Osmanlı ordusunda taşıma işlerinde kullanılan at, deve, katır vb. hayvanlar

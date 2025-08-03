@@ -2,6 +2,7 @@
 layout: term
 title: kaçınmak
 slug: kacinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak

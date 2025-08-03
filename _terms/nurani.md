@@ -2,6 +2,7 @@
 layout: term
 title: nurani
 slug: nurani
+letter: N
 lisan: Arapça nūrānī
 anlamlar:
 - ► ışıklı

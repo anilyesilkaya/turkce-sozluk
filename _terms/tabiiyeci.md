@@ -2,6 +2,7 @@
 layout: term
 title: tabiiyeci
 slug: tabiiyeci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğa bilimci

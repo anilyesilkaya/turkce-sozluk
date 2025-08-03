@@ -2,6 +2,7 @@
 layout: term
 title: deniztilkisi
 slug: deniztilkisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► saban balığı

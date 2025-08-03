@@ -2,6 +2,7 @@
 layout: term
 title: kalem beyi
 slug: kalem-beyi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalem efendisinden daha üst görevli

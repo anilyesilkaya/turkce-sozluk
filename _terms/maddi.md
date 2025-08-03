@@ -2,6 +2,7 @@
 layout: term
 title: maddi
 slug: maddi
+letter: M
 lisan: Arapça māddī
 anlamlar:
 - Madde ile ilgili; maddesel, özdeksel, manevi karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: çirozlaşmak
 slug: cirozlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uskumru, yumurtasını atarak zayıflamak

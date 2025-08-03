@@ -2,6 +2,7 @@
 layout: term
 title: şımartmak
 slug: simartmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şımarmasına yol açmak; yüzlemek

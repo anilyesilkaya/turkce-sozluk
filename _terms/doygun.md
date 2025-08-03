@@ -2,6 +2,7 @@
 layout: term
 title: doygun
 slug: doygun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Her türlü gereksinimini gidermiş, tatmin olmuş; müstağni

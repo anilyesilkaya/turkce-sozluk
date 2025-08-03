@@ -2,6 +2,7 @@
 layout: term
 title: kaşpusiye
 slug: kaspusiye
+letter: K
 lisan: Fransızca cache-poussière
 anlamlar:
 - Hafif üstlük

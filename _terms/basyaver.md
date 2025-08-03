@@ -2,6 +2,7 @@
 layout: term
 title: başyaver
 slug: basyaver
+letter: B
 lisan: Türkçe baş + Farsça yāver
 anlamlar:
 - Yaverlik görevini yürüten en kıdemli ve yetkili yaver; seryaver

@@ -2,6 +2,7 @@
 layout: term
 title: kepçe
 slug: kepce
+letter: K
 lisan: Farsça kefçe
 anlamlar:
 - Sulu yiyecekleri karıştırmaya ve dağıtmaya yarayan, uzun saplı, yuvarlak ve derince kaşık

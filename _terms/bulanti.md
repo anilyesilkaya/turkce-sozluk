@@ -2,6 +2,7 @@
 layout: term
 title: bulantı
 slug: bulanti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Midede duyulan ve insana kusacak gibi bir duygu veren durum

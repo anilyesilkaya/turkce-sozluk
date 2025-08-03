@@ -2,6 +2,7 @@
 layout: term
 title: dâhilî harp
 slug: dahili-harp
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► iç savaş

@@ -2,6 +2,7 @@
 layout: term
 title: egzersiz
 slug: egzersiz
+letter: E
 lisan: Fransızca exercice
 anlamlar:
 - ► alıştırma

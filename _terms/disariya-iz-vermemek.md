@@ -2,6 +2,7 @@
 layout: term
 title: dışarıya iz vermemek
 slug: disariya-iz-vermemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - belli etmemek, hissettirmemek

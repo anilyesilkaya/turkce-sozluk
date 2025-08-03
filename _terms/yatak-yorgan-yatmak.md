@@ -2,6 +2,7 @@
 layout: term
 title: yatak yorgan yatmak
 slug: yatak-yorgan-yatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ağır hasta olmak

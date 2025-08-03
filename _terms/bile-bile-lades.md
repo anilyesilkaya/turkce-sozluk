@@ -2,6 +2,7 @@
 layout: term
 title: bile bile lades
 slug: bile-bile-lades
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü bir durumu öyle gerektiği için kabullenmiş görünme, bilerek aldanmış görünme

@@ -2,6 +2,7 @@
 layout: term
 title: mızımak
 slug: mizimak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızıkçılık etmek

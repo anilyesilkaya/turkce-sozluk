@@ -2,6 +2,7 @@
 layout: term
 title: fesat
 slug: fesat
+letter: F
 lisan: Arapça fesād
 anlamlar:
 - ► bozukluk

@@ -2,6 +2,7 @@
 layout: term
 title: guguklu saat
 slug: guguklu-saat
+letter: G
 lisan: Türkçe
 anlamlar:
 - Açılan küçük kapıdan veya pencereden bir guguk kuşunun çıkması ve ötmesiyle saat başlarını, buçukları veya çeyrekleri bildiren saat; guguklu

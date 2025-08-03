@@ -2,6 +2,7 @@
 layout: term
 title: kavukçu
 slug: kavukcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavuk yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: Ay tutulması
 slug: ay-tutulmasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Güneş, Dünya, Ay dizilişinde Ay'ın uygun koşullarda Dünya gölgesine girmesi sonucu kararması; husuf

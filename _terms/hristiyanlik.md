@@ -2,6 +2,7 @@
 layout: term
 title: Hristiyanlık
 slug: hristiyanlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hristiyan dini; İsevilik, Nasranilik

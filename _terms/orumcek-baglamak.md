@@ -2,6 +2,7 @@
 layout: term
 title: örümcek bağlamak
 slug: orumcek-baglamak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - üzerinde örümcek ağı olmak

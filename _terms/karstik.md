@@ -2,6 +2,7 @@
 layout: term
 title: karstik
 slug: karstik
+letter: K
 lisan: Fransızca karstique
 anlamlar:
 - Karst özelliği taşıyan, karst ile ilgili

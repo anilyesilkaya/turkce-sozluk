@@ -2,6 +2,7 @@
 layout: term
 title: soğuk şaka
 slug: soguk-saka
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hoş karşılanmayan, yersiz nükte veya sözle yapılan şaka

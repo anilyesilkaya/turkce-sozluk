@@ -2,6 +2,7 @@
 layout: term
 title: sıhhat
 slug: sihhat
+letter: S
 lisan: Arapça ṣiḥḥat
 anlamlar:
 - ► sağlık

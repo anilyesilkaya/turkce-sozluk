@@ -2,6 +2,7 @@
 layout: term
 title: fingirdemek
 slug: fingirdemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Dikkati çekecek kadar kırıtkan, oynak davranmak

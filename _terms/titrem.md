@@ -2,6 +2,7 @@
 layout: term
 title: titrem
 slug: titrem
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ton (II)

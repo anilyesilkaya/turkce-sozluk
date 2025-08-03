@@ -2,6 +2,7 @@
 layout: term
 title: sınıf öğretmenliği
 slug: sinif-ogretmenligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınıf öğretmeninin yaptığı iş; sınıf muallimliği

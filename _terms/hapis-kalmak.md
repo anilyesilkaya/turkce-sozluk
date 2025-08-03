@@ -2,6 +2,7 @@
 layout: term
 title: hapis kalmak
 slug: hapis-kalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - mahkûm olarak hapiste yatmak

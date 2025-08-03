@@ -2,6 +2,7 @@
 layout: term
 title: radyasyonlu
 slug: radyasyonlu
+letter: R
 lisan: Türkçe
 anlamlar:
 - İçinde radyasyon bulunan

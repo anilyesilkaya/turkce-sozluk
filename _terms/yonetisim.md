@@ -2,6 +2,7 @@
 layout: term
 title: yönetişim
 slug: yonetisim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Resmî ve özel kuruluşlarda idari, ekonomik, politik otoritenin ortak kullanımı

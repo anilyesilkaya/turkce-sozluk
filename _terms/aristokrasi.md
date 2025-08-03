@@ -2,6 +2,7 @@
 layout: term
 title: aristokrasi
 slug: aristokrasi
+letter: A
 lisan: Fransızca aristocratie
 anlamlar:
 - ► soylu erki

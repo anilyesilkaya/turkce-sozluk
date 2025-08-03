@@ -2,6 +2,7 @@
 layout: term
 title: cari hesap
 slug: cari-hesap
+letter: C
 lisan: Türkçe
 anlamlar:
 - İki taraf arasında sürüp giden alacak verecek işlemlerinin tutulan hesabı

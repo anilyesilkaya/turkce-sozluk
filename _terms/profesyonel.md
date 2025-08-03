@@ -2,6 +2,7 @@
 layout: term
 title: profesyonel
 slug: profesyonel
+letter: P
 lisan: Fransızca professionnel
 anlamlar:
 - Bir işi kazanç sağlamak amacıyla yapan (kimse), amatör karşıtı

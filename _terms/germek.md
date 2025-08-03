@@ -2,6 +2,7 @@
 layout: term
 title: germek
 slug: germek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin uçlarından veya kenarlarından çekerek gergin duruma getirmek; çekmek, uzatmak

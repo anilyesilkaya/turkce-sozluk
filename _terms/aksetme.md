@@ -2,6 +2,7 @@
 layout: term
 title: aksetme
 slug: aksetme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yansıma

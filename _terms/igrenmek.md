@@ -2,6 +2,7 @@
 layout: term
 title: iğrenmek
 slug: igrenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Mide bulandırıcı bir his duymak, tiksinmek

@@ -2,6 +2,7 @@
 layout: term
 title: şehirleşme
 slug: sehirlesme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şehirleşmek işi; kentleşme

@@ -2,6 +2,7 @@
 layout: term
 title: enstrüman
 slug: enstruman
+letter: E
 lisan: Fransızca instrument
 anlamlar:
 - ► çalgı

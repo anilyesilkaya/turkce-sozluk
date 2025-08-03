@@ -2,6 +2,7 @@
 layout: term
 title: açılıverme
 slug: aciliverme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açılıvermek işi

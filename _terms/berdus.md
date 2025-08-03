@@ -2,6 +2,7 @@
 layout: term
 title: berduş
 slug: berdus
+letter: B
 lisan: Farsça berdūş
 anlamlar:
 - Başıboş, serseri kimse

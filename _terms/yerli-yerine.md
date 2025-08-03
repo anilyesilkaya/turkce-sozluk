@@ -2,6 +2,7 @@
 layout: term
 title: yerli yerine
 slug: yerli-yerine
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kendine ait olan yere

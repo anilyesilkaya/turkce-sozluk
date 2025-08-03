@@ -2,6 +2,7 @@
 layout: term
 title: lahana
 slug: lahana
+letter: L
 lisan: Rumca
 anlamlar:
 - Turpgillerden, geniş ve kalınca kat kat yaprakları olan, güz ve kış sebzesi olarak yetiştirilen ve birçok türü olan bitki; dürme, kelem (Brassica oleracea)

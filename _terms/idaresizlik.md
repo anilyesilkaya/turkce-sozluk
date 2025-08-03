@@ -2,6 +2,7 @@
 layout: term
 title: idaresizlik
 slug: idaresizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gevşeklik, beceriksizlik

@@ -2,6 +2,7 @@
 layout: term
 title: arda
 slug: arda
+letter: A
 lisan: Türkçe
 anlamlar:
 - İşaret olarak yere dikilen çubuk

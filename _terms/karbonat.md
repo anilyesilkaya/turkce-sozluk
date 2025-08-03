@@ -2,6 +2,7 @@
 layout: term
 title: karbonat
 slug: karbonat
+letter: K
 lisan: Fransızca carbonate
 anlamlar:
 - Karbonik asidin bazlarla birleşerek oluşturduğu tuzların genel adı

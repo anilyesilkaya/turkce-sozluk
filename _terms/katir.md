@@ -2,6 +2,7 @@
 layout: term
 title: katır
 slug: katir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Atgillerden, kısrak ile erkek eşeğin çiftleşmesinden doğan, gennelikle kısır olan melez hayvan

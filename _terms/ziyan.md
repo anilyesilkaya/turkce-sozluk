@@ -2,6 +2,7 @@
 layout: term
 title: ziyan
 slug: ziyan
+letter: Z
 lisan: Farsça ziyān
 anlamlar:
 - ► zarar

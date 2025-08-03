@@ -2,6 +2,7 @@
 layout: term
 title: özlentili
 slug: ozlentili
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özlem taşıyan, özlem dolu

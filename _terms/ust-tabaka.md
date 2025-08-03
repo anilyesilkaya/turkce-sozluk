@@ -2,6 +2,7 @@
 layout: term
 title: üst tabaka
 slug: ust-tabaka
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - İleri gelenler sınıfı

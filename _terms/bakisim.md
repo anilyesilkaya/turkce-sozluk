@@ -2,6 +2,7 @@
 layout: term
 title: bakışım
 slug: bakisim
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok şey arasında konum, biçim ve belirli bir eksene göre ölçü uygunluğu; simetri

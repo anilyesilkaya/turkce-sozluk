@@ -2,6 +2,7 @@
 layout: term
 title: istihkar
 slug: istihkar
+letter: I
 lisan: Arapça istiḥḳār
 anlamlar:
 - ► aşağılama

@@ -2,6 +2,7 @@
 layout: term
 title: nikap
 slug: nikap
+letter: N
 lisan: Arapça niḳāb
 anlamlar:
 - Yüz örtüsü; peçe

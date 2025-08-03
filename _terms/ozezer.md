@@ -2,6 +2,7 @@
 layout: term
 title: özezer
 slug: ozezer
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Cinsel zevk almak için kendisine eziyet edilmesi gereken veya eziyet çekerek cinsel zevk alan sapkın kimse; mazoşist

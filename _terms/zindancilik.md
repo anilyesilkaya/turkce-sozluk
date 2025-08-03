@@ -2,6 +2,7 @@
 layout: term
 title: zindancılık
 slug: zindancilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zindancının yaptığı iş

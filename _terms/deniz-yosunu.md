@@ -2,6 +2,7 @@
 layout: term
 title: deniz yosunu
 slug: deniz-yosunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denizlerde biten ve genellikle kıyılarda ve kayalıklarda yoğun olarak görülen bir bitki türü; erişte

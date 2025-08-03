@@ -2,6 +2,7 @@
 layout: term
 title: bıttım sabunu
 slug: bittim-sabunu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çitlembik yağından yapılan ve çeşitli hastalıkların tedavisinde kullanılan bir tür sabun

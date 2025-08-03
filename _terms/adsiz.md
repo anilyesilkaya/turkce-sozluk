@@ -2,6 +2,7 @@
 layout: term
 title: adsız
 slug: adsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adı olmayan; isimsiz

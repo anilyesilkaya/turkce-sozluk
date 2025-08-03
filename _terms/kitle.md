@@ -2,6 +2,7 @@
 layout: term
 title: kitle
 slug: kitle
+letter: K
 lisan: Arapça kutle
 anlamlar:
 - Bir yerde toplanmış, bir araya gelmiş insan topluluğu; kütle

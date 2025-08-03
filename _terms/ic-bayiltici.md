@@ -2,6 +2,7 @@
 layout: term
 title: iç bayıltıcı
 slug: ic-bayiltici
+letter: I
 lisan: Türkçe
 anlamlar:
 - Etkileme özelliği olan, kendinden geçiren, bayıltan

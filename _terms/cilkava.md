@@ -2,6 +2,7 @@
 layout: term
 title: cılkava
 slug: cilkava
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kurdun veya tilkinin ense postundan yapılan (kürk)

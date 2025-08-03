@@ -2,6 +2,7 @@
 layout: term
 title: zımnında
 slug: zimninda
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Dolayısıyla, için

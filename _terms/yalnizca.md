@@ -2,6 +2,7 @@
 layout: term
 title: yalnızca
 slug: yalnizca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalnız olarak

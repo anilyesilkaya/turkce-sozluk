@@ -2,6 +2,7 @@
 layout: term
 title: küstahlık
 slug: kustahlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küstah olma durumu

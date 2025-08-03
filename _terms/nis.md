@@ -2,6 +2,7 @@
 layout: term
 title: niş
 slug: nis
+letter: N
 lisan: Fransızca niche
 anlamlar:
 - Duvar içinde bırakılan oyuk

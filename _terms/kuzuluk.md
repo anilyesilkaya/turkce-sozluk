@@ -2,6 +2,7 @@
 layout: term
 title: kuzuluk
 slug: kuzuluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuzu barınağı, ağıl

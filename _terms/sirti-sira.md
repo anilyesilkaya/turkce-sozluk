@@ -2,6 +2,7 @@
 layout: term
 title: sırtı sıra
 slug: sirti-sira
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birinin arkasından, izinden

@@ -2,6 +2,7 @@
 layout: term
 title: buz duvarı
 slug: buz-duvari
+letter: B
 lisan: Türkçe
 anlamlar:
 - Samimi olmamaktan ortaya çıkan, arzu edilmeyen, arada soğukluk yaratan durum

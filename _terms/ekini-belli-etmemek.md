@@ -2,6 +2,7 @@
 layout: term
 title: ekini belli etmemek
 slug: ekini-belli-etmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - eksik, bozuk, yanlış, kusurlu bir işi sağlam ve doğru gibi göstermek

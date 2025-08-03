@@ -2,6 +2,7 @@
 layout: term
 title: içi pır pır etmek
 slug: ici-pir-pir-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - heyecanlanmak, hafifçe duygulanmak

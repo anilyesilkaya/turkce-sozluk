@@ -2,6 +2,7 @@
 layout: term
 title: atıcılık
 slug: aticilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atıcı olma durumu

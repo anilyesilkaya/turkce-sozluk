@@ -2,6 +2,7 @@
 layout: term
 title: ciltlik
 slug: ciltlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilt yapmaya yarayan malzeme

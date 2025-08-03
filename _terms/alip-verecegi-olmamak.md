@@ -2,6 +2,7 @@
 layout: term
 title: alıp vereceği olmamak
 slug: alip-verecegi-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyle hiçbir ilgisi olmamak

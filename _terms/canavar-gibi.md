@@ -2,6 +2,7 @@
 layout: term
 title: canavar gibi
 slug: canavar-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - iri yarı, saldırgan

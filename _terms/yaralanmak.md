@@ -2,6 +2,7 @@
 layout: term
 title: yaralanmak
 slug: yaralanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaralama işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: uçkurluk
 slug: uckurluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Şalvar, don vb.nde uçkur geçirilen katlanmış kenar

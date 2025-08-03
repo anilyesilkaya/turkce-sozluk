@@ -2,6 +2,7 @@
 layout: term
 title: çöllük
 slug: colluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çölü çok olan

@@ -2,6 +2,7 @@
 layout: term
 title: muttasıl
 slug: muttasil
+letter: M
 lisan: Arapça muttaṣil
 anlamlar:
 - ► bitişik

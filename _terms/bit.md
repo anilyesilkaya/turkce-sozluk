@@ -2,6 +2,7 @@
 layout: term
 title: bit
 slug: bit
+letter: B
 lisan: İngilizce bit (“ikili sayı” anlamındaki "binary digit" sözlerinin harflerinden)
 anlamlar:
 - Bilgisayarlarda ve genel ağda kullanılan 1 veya 0 olabilen sayısal veri birimi

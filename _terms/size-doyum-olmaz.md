@@ -2,6 +2,7 @@
 layout: term
 title: size doyum olmaz
 slug: size-doyum-olmaz
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir yerden ayrılırken söylenen bir nezaket sözü

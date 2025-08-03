@@ -2,6 +2,7 @@
 layout: term
 title: liderlik
 slug: liderlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liderin görevi

@@ -2,6 +2,7 @@
 layout: term
 title: nisyan
 slug: nisyan
+letter: N
 lisan: Arapça nisyān
 anlamlar:
 - ► unutma

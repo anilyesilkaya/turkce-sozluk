@@ -2,6 +2,7 @@
 layout: term
 title: posta treni
 slug: posta-treni
+letter: P
 lisan: Türkçe
 anlamlar:
 - Genellikle ticari mal veya posta ulaşımını sağlayan tren

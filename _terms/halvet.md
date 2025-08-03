@@ -2,6 +2,7 @@
 layout: term
 title: halvet
 slug: halvet
+letter: H
 lisan: Arapça ḫalvet
 anlamlar:
 - Issız yerde yalnız kalma

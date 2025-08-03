@@ -2,6 +2,7 @@
 layout: term
 title: büküntü
 slug: bukuntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükme sonucu oluşan biçim veya iz

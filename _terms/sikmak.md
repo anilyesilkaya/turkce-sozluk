@@ -2,6 +2,7 @@
 layout: term
 title: sıkmak
 slug: sikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çevresine sarılarak veya bir şey sararak çepeçevre basınç altına almak

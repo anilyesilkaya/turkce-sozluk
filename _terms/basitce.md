@@ -2,6 +2,7 @@
 layout: term
 title: basitçe
 slug: basitce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basit olarak, kolay tarafından

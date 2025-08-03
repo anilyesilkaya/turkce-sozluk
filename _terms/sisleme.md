@@ -2,6 +2,7 @@
 layout: term
 title: sisleme
 slug: sisleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sislemek işi

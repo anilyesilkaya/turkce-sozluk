@@ -2,6 +2,7 @@
 layout: term
 title: olgusal
 slug: olgusal
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olguya ilişkin

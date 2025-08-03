@@ -2,6 +2,7 @@
 layout: term
 title: memnun
 slug: memnun
+letter: M
 lisan: Arapça memnūn
 anlamlar:
 - Herhangi bir olaydan veya durumdan ötürü sevinç duyan, kıvançlı, mutlu

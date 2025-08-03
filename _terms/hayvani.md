@@ -2,6 +2,7 @@
 layout: term
 title: hayvani
 slug: hayvani
+letter: H
 lisan: Arapça ḥayvānī
 anlamlar:
 - ► hayvansal

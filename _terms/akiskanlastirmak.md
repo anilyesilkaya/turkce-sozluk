@@ -2,6 +2,7 @@
 layout: term
 title: akışkanlaştırmak
 slug: akiskanlastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akışkan duruma getirmek

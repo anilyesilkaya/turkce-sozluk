@@ -2,6 +2,7 @@
 layout: term
 title: saygısızca
 slug: saygisizca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saygısız bir biçimde, saygısız olarak; hürmetsizce, laubaliyane

@@ -2,6 +2,7 @@
 layout: term
 title: yeniden kurma
 slug: yeniden-kurma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sit alanlarında yıkılmış binaların aslına uygun olarak yeniden yapılması; rekonstrüksiyon

@@ -2,6 +2,7 @@
 layout: term
 title: iki baştan olmak
 slug: iki-bastan-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şey, her iki tarafın aynı şeyi istemesiyle, iyi niyetiyle gerçekleştirilebilmek

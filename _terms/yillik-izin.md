@@ -2,6 +2,7 @@
 layout: term
 title: yıllık izin
 slug: yillik-izin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir iş yerinde en az bir yıl çalışmış olanlara kanunen tanınmış olan izin

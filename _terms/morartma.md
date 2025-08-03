@@ -2,6 +2,7 @@
 layout: term
 title: morartma
 slug: morartma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Morartmak işi

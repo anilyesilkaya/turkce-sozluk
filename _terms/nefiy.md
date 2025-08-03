@@ -2,6 +2,7 @@
 layout: term
 title: nefiy
 slug: nefiy
+letter: N
 lisan: Arapça nefy
 anlamlar:
 - Sürme, sürgüne gönderme; sürgün

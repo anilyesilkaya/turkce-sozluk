@@ -2,6 +2,7 @@
 layout: term
 title: giydirip kuşatmak
 slug: giydirip-kusatmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - temiz, yeni giysilerle donatmak

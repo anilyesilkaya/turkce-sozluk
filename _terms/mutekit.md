@@ -2,6 +2,7 @@
 layout: term
 title: mutekit
 slug: mutekit
+letter: M
 lisan: Arapça muʿteḳid
 anlamlar:
 - Bir şeye inanan, itikat eden (kimse)

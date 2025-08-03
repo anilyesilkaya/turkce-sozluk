@@ -2,6 +2,7 @@
 layout: term
 title: yerleşik
 slug: yerlesik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Belli bir yere yerleşmiş; beledi

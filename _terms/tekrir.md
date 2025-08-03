@@ -2,6 +2,7 @@
 layout: term
 title: tekrir
 slug: tekrir
+letter: T
 lisan: Arapça tekrīr
 anlamlar:
 - Tekrar etme, yeniden söyleme

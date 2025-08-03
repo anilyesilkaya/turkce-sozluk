@@ -2,6 +2,7 @@
 layout: term
 title: beyni kaynamak
 slug: beyni-kaynamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aşırı sıcaktan sersemlemek, bunalmak

@@ -2,6 +2,7 @@
 layout: term
 title: not
 slug: not
+letter: N
 lisan: Fransızca note
 anlamlar:
 - Bir şeyi hatırlamak için yazılan kısa yazı

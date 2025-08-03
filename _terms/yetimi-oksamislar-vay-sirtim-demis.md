@@ -2,6 +2,7 @@
 layout: term
 title: yetimi okşamışlar, vay sırtım demiş
 slug: yetimi-oksamislar-vay-sirtim-demis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - öksüzün karnına vurmuşlar (öksüzü dövmüşler) "vay arkam" demiş

@@ -2,6 +2,7 @@
 layout: term
 title: açık fikirli
 slug: acik-fikirli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olayları ve özellikle yenilikleri iyi anlayıp gereği gibi karşılayabilen, düşündüğünü olduğu gibi söyleyebilen (kimse); açık görüşlü

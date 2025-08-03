@@ -2,6 +2,7 @@
 layout: term
 title: içlilik
 slug: iclilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Duygulu olma durumu; duygululuk

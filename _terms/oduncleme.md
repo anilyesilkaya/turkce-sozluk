@@ -2,6 +2,7 @@
 layout: term
 title: ödünçleme
 slug: oduncleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödünçlemek işi; ariyet; istiare

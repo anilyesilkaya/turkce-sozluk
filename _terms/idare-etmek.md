@@ -2,6 +2,7 @@
 layout: term
 title: idare etmek
 slug: idare-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yönetmek, çekip çevirmek

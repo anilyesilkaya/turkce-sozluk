@@ -2,6 +2,7 @@
 layout: term
 title: ödünç almak
 slug: odunc-almak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ödünçlemek

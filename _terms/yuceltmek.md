@@ -2,6 +2,7 @@
 layout: term
 title: yüceltmek
 slug: yuceltmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüce bir duruma getirmek

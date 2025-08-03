@@ -2,6 +2,7 @@
 layout: term
 title: mühim
 slug: muhim
+letter: M
 lisan: Arapça muhimm
 anlamlar:
 - ► önemli

@@ -2,6 +2,7 @@
 layout: term
 title: muvafakat etmek
 slug: muvafakat-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - uygun görmek, onaylamak, kabul etmek

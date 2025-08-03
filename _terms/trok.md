@@ -2,6 +2,7 @@
 layout: term
 title: trok
 slug: trok
+letter: T
 lisan: Fransızca troc
 anlamlar:
 - ► değişim

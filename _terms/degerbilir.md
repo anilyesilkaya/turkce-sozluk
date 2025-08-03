@@ -2,6 +2,7 @@
 layout: term
 title: değerbilir
 slug: degerbilir
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değeri olan şeyleri, kimseleri koruyan veya sayan (kimse); kadirbilir, kadirşinas, nimetşinas

@@ -2,6 +2,7 @@
 layout: term
 title: yarı
 slug: yari
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir bütünü oluşturan iki eşit parçadan her biri; nısıf, nim

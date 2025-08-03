@@ -2,6 +2,7 @@
 layout: term
 title: tövbe etmek
 slug: tovbe-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir işi bir daha yapmamaya söz vermek

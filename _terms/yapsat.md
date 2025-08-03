@@ -2,6 +2,7 @@
 layout: term
 title: yapsat
 slug: yapsat
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Konut yapıp satma işi

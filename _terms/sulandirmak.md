@@ -2,6 +2,7 @@
 layout: term
 title: sulandırmak
 slug: sulandirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sulu duruma gelmesini sağlamak

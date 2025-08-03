@@ -2,6 +2,7 @@
 layout: term
 title: sebepsiz yere
 slug: sebepsiz-yere
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► boşuna

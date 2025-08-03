@@ -2,6 +2,7 @@
 layout: term
 title: kodesi boylamak
 slug: kodesi-boylamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - cezaevine girmek

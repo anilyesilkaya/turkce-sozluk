@@ -2,6 +2,7 @@
 layout: term
 title: patron
 slug: patron
+letter: P
 lisan: Fransızca patron
 anlamlar:
 - Kumaşın biçilmesine yarayan, bir giysi örneğindeki parçaların biçimine göre kesilmiş kâğıt; kalıp

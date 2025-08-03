@@ -2,6 +2,7 @@
 layout: term
 title: tek taraflı
 slug: tek-tarafli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir yanı, tarafı olan

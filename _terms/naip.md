@@ -2,6 +2,7 @@
 layout: term
 title: naip
 slug: naip
+letter: N
 lisan: Arapça nāʾib
 anlamlar:
 - Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse

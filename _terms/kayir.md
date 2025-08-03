@@ -2,6 +2,7 @@
 layout: term
 title: kayır
 slug: kayir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Nehir veya çay sularının sürükleyip getirdiği kum ve çakıl taşları

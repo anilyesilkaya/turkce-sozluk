@@ -2,6 +2,7 @@
 layout: term
 title: av sezonu
 slug: av-sezonu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► av dönemi

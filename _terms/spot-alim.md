@@ -2,6 +2,7 @@
 layout: term
 title: spot alım
 slug: spot-alim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Fabrikalardan ve piyasalardan toptan ve vadeli senet karşılığında mal satın alma

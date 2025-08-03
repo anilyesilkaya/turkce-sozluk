@@ -2,6 +2,7 @@
 layout: term
 title: dalgınlaşabilme
 slug: dalginlasabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgınlaşabilmek işi

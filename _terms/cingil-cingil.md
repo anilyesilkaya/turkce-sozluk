@@ -2,6 +2,7 @@
 layout: term
 title: çingil çingil
 slug: cingil-cingil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çıngıl çıngıl

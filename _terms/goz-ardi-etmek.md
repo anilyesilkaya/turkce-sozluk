@@ -2,6 +2,7 @@
 layout: term
 title: göz ardı etmek
 slug: goz-ardi-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gereken önemi vermemek

@@ -2,6 +2,7 @@
 layout: term
 title: istavrit azmanı
 slug: istavrit-azmani
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ton balığı

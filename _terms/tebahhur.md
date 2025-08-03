@@ -2,6 +2,7 @@
 layout: term
 title: tebahhur
 slug: tebahhur
+letter: T
 lisan: Arapça tebaḫḫur
 anlamlar:
 - ► buharlaşma

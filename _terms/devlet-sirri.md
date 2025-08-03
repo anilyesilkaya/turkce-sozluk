@@ -2,6 +2,7 @@
 layout: term
 title: devlet sırrı
 slug: devlet-sirri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devletin güvenliği, ulusal varlığı, bütünlüğü, anayasal düzeni ve dış ilişkilerini içeren, kamuya açıklanmaması gereken çok gizli bilgi veya belge

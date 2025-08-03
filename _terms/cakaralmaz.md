@@ -2,6 +2,7 @@
 layout: term
 title: çakaralmaz
 slug: cakaralmaz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Basit, ilkel çakmak

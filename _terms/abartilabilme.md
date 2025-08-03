@@ -2,6 +2,7 @@
 layout: term
 title: abartılabilme
 slug: abartilabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartılabilmek durumu

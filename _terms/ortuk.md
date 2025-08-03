@@ -2,6 +2,7 @@
 layout: term
 title: örtük
 slug: ortuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtülü, kapalı

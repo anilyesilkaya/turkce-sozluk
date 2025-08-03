@@ -2,6 +2,7 @@
 layout: term
 title: toyca
 slug: toyca
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► acemice

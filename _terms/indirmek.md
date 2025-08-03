@@ -2,6 +2,7 @@
 layout: term
 title: indirmek
 slug: indirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yüksekten, sarp ve kötü yerden veya yukarıdan aşağıya inmesini sağlamak

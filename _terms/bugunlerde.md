@@ -2,6 +2,7 @@
 layout: term
 title: bugünlerde
 slug: bugunlerde
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde bulunulan zamanda, bu birkaç gün içinde; şimdilerde

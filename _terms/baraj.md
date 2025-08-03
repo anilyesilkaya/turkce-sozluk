@@ -2,6 +2,7 @@
 layout: term
 title: baraj
 slug: baraj
+letter: B
 lisan: Fransızca barrage
 anlamlar:
 - Suyu toplama, sulama ve elektrik üretme amacıyla akarsu üzerine yapılan bent

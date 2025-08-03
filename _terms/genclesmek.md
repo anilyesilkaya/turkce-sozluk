@@ -2,6 +2,7 @@
 layout: term
 title: gençleşmek
 slug: genclesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yeniden gençlik ve canlılık kazanmak; gencelmek

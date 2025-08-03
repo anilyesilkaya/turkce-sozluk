@@ -2,6 +2,7 @@
 layout: term
 title: cevabi
 slug: cevabi
+letter: C
 lisan: Arapça cevābī
 anlamlar:
 - Cevap niteliğinde olan

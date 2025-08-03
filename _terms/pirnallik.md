@@ -2,6 +2,7 @@
 layout: term
 title: pırnallık
 slug: pirnallik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pırnal çalılığı

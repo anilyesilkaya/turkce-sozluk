@@ -2,6 +2,7 @@
 layout: term
 title: tutumsuzluk
 slug: tutumsuzluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutumsuz olma durumu; idaresizlik, müsriflik, savurganlık

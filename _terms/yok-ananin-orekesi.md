@@ -2,6 +2,7 @@
 layout: term
 title: yok ananın örekesi
 slug: yok-ananin-orekesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - saçma bir söze karşı verilen karşılık

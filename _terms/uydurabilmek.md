@@ -2,6 +2,7 @@
 layout: term
 title: uydurabilmek
 slug: uydurabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurma ihtimali veya imkânı bulunmak

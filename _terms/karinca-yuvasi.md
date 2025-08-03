@@ -2,6 +2,7 @@
 layout: term
 title: karınca yuvası
 slug: karinca-yuvasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıncaların barındığı yer; köre

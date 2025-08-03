@@ -2,6 +2,7 @@
 layout: term
 title: ağızlamak
 slug: agizlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir boğazın veya bir limanın ağzını ortalamak

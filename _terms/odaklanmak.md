@@ -2,6 +2,7 @@
 layout: term
 title: odaklanmak
 slug: odaklanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Odaklama işine konu olmak; fokuslanmak

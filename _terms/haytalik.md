@@ -2,6 +2,7 @@
 layout: term
 title: haytalık
 slug: haytalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayta olma durumu

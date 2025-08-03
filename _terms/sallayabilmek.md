@@ -2,6 +2,7 @@
 layout: term
 title: sallayabilmek
 slug: sallayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sallama ihtimali veya imkânı bulunmak

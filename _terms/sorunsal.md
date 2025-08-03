@@ -2,6 +2,7 @@
 layout: term
 title: sorunsal
 slug: sorunsal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çözümü belli olmayan

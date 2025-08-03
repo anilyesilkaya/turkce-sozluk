@@ -2,6 +2,7 @@
 layout: term
 title: zorla
 slug: zorla
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zor kullanarak; cebren, zecren, metazori

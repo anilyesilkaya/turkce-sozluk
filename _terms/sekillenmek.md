@@ -2,6 +2,7 @@
 layout: term
 title: şekillenmek
 slug: sekillenmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► biçimlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: divaneleşmek
 slug: divanelesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Divane duruma gelmek

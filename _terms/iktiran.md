@@ -2,6 +2,7 @@
 layout: term
 title: iktiran
 slug: iktiran
+letter: I
 lisan: Arapça iḳtirān
 anlamlar:
 - ► yaklaşma

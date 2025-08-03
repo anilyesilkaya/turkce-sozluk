@@ -2,6 +2,7 @@
 layout: term
 title: 'lazer tedavisi '
 slug: lazer-tedavisi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lazer ışını kullanılarak yapılan tedavi

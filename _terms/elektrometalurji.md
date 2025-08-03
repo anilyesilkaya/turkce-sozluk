@@ -2,6 +2,7 @@
 layout: term
 title: elektrometalürji
 slug: elektrometalurji
+letter: E
 lisan: Fransızca électrométallurgie
 anlamlar:
 - Metalürji ürünlerinin elde edilmesinde ve arıtılmasında termik elektriğin ısı ve elektroliz özelliklerinin kullanılması

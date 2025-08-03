@@ -2,6 +2,7 @@
 layout: term
 title: hatasıyla savabıyla
 slug: hatasiyla-savabiyla
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yanlışlarıyla doğrularıyla, her şeyiyle

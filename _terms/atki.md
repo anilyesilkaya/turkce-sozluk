@@ -2,6 +2,7 @@
 layout: term
 title: atkı
 slug: atki
+letter: A
 lisan: Türkçe
 anlamlar:
 - Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü

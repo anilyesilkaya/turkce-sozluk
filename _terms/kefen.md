@@ -2,6 +2,7 @@
 layout: term
 title: kefen
 slug: kefen
+letter: K
 lisan: Arapça kefen
 anlamlar:
 - Ölünün gömülmeden önce sarıldığı beyaz bez; kefen bezi, yakasız gömlek, yakasız mintan

@@ -2,6 +2,7 @@
 layout: term
 title: skor
 slug: skor
+letter: S
 lisan: İngilizce score
 anlamlar:
 - ► sonuç

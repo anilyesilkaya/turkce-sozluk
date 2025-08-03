@@ -2,6 +2,7 @@
 layout: term
 title: dönenmek
 slug: donenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Olduğu yerde veya bir şeyin çevresinde dönmek

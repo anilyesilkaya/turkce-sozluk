@@ -2,6 +2,7 @@
 layout: term
 title: benibeşer
 slug: benibeser
+letter: B
 lisan: Arapça benī + beşer
 anlamlar:
 - ► insan

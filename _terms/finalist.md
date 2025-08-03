@@ -2,6 +2,7 @@
 layout: term
 title: finalist
 slug: finalist
+letter: F
 lisan: Fransızca finaliste
 anlamlar:
 - Şampiyonu belirleyecek son yarışmaya kalan sporcu veya takım

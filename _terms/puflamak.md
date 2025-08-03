@@ -2,6 +2,7 @@
 layout: term
 title: puflamak
 slug: puflamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - '"Puf" diye ses çıkararak sıkıntı veya üzüntüsünü belli etmek'

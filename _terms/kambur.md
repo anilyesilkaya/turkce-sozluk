@@ -2,6 +2,7 @@
 layout: term
 title: kambur
 slug: kambur
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bel veya göğüs kemiğinin eğrilmesi, raşitizm sonucu sırtta ve göğüste oluşan tümsek; çıkıntı, kambur zambur

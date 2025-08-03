@@ -2,6 +2,7 @@
 layout: term
 title: şeytan elması
 slug: seytan-elmasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► tatula

@@ -2,6 +2,7 @@
 layout: term
 title: ağzı açık ayran delisi (veya budalası)
 slug: agzi-acik-ayran-delisi-veya-budalasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - yeni gördüğü her şeye şaşkınlıkla bakan

@@ -2,6 +2,7 @@
 layout: term
 title: türlü
 slug: turlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birden çok türü bulunan; tür

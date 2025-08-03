@@ -2,6 +2,7 @@
 layout: term
 title: belginlik
 slug: belginlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belgin olma durumu; sarihlik, sarahat

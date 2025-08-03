@@ -2,6 +2,7 @@
 layout: term
 title: sersefil
 slug: sersefil
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok sefil olan; yoksul

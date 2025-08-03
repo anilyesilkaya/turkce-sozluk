@@ -2,6 +2,7 @@
 layout: term
 title: hal çaresi
 slug: hal-caresi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► çözüm yolu

@@ -2,6 +2,7 @@
 layout: term
 title: koşturma
 slug: kosturma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşturmak işi

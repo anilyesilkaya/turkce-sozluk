@@ -2,6 +2,7 @@
 layout: term
 title: ters yüz etmek
 slug: ters-yuz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir süre kullanılmış olan giysilerin içini dışına çevirmek

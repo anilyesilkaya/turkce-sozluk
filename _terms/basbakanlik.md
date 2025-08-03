@@ -2,6 +2,7 @@
 layout: term
 title: başbakanlık
 slug: basbakanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başbakan olma durumu; başvekillik, başvekâlet

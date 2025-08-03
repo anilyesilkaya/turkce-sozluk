@@ -2,6 +2,7 @@
 layout: term
 title: çakmak çakmak
 slug: cakmak-cakmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Parlar durumda

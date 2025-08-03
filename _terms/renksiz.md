@@ -2,6 +2,7 @@
 layout: term
 title: renksiz
 slug: renksiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rengi olmayan

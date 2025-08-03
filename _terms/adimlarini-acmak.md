@@ -2,6 +2,7 @@
 layout: term
 title: adımlarını açmak
 slug: adimlarini-acmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yürürken hızlanmak

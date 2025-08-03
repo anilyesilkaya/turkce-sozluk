@@ -2,6 +2,7 @@
 layout: term
 title: tertip olunmak
 slug: tertip-olunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - düzenlenmek

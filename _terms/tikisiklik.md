@@ -2,6 +2,7 @@
 layout: term
 title: tıkışıklık
 slug: tikisiklik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkışık olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: divane
 slug: divane
+letter: D
 lisan: Farsça dīvāne
 anlamlar:
 - Deli, kaçık, budala olan

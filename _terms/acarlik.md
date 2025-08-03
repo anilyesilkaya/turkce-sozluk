@@ -2,6 +2,7 @@
 layout: term
 title: Acarlık
 slug: acarlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acar halkından olma durumu

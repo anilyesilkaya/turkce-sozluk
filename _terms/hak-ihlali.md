@@ -2,6 +2,7 @@
 layout: term
 title: hak ihlali
 slug: hak-ihlali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kimseye kanunlarla belirlenen bazı hakları engelleme; hak kısıtlaması

@@ -2,6 +2,7 @@
 layout: term
 title: e-okul
 slug: e-okul
+letter: E
 lisan: Türkçe
 anlamlar:
 - Millî Eğitim Bakanlığı’na bağlı okullarda öğrenci ve yönetimle ilgili iş ve işlemlerin elektronik ortamda yürütüldüğü ve bilgilerin saklandığı sistem

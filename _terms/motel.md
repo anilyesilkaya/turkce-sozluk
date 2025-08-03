@@ -2,6 +2,7 @@
 layout: term
 title: motel
 slug: motel
+letter: M
 lisan: Fransızca motel
 anlamlar:
 - Motorlu taşıtlarla yolculuk edenlerin barınmalarını, arabalarını park etmelerini ve başka gereksinimlerini karşılamak için işlek kara yolları üzerinde yapılmış otel

@@ -2,6 +2,7 @@
 layout: term
 title: güceniklik
 slug: guceniklik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gücenik olma durumu; kırıklık

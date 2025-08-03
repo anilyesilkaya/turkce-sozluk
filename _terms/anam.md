@@ -2,6 +2,7 @@
 layout: term
 title: anam!
 slug: anam
+letter: A
 lisan: Türkçe
 anlamlar:
 - sese verilen tona göre şaşma, beğenme, acı, üzüntü vb. duygular anlatan söz

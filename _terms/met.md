@@ -2,6 +2,7 @@
 layout: term
 title: met
 slug: met
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çelik çomak oyununda kullanılan değnek parçası

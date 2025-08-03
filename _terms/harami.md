@@ -2,6 +2,7 @@
 layout: term
 title: harami
 slug: harami
+letter: H
 lisan: Arapça ḥarāmī
 anlamlar:
 - ► haydut

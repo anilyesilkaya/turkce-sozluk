@@ -2,6 +2,7 @@
 layout: term
 title: terhis
 slug: terhis
+letter: T
 lisan: Arapça terḫīṣ
 anlamlar:
 - Askerlik ödevini bitirenleri ordudan bırakma

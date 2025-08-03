@@ -2,6 +2,7 @@
 layout: term
 title: yemin billah
 slug: yemin-billah
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tanrı'nın adını anıp yemin ederek

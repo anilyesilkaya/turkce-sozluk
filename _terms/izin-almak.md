@@ -2,6 +2,7 @@
 layout: term
 title: izin almak
 slug: izin-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şey yapmak için onay sağlamak

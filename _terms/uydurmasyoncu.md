@@ -2,6 +2,7 @@
 layout: term
 title: uydurmasyoncu
 slug: uydurmasyoncu
+letter: U
 lisan: Türkçe
 anlamlar:
 - bk. uydurmacı

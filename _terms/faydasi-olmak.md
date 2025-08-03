@@ -2,6 +2,7 @@
 layout: term
 title: faydası olmak
 slug: faydasi-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - yararı olmak

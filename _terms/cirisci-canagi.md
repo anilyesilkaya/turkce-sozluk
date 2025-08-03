@@ -2,6 +2,7 @@
 layout: term
 title: çirişçi çanağı
 slug: cirisci-canagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiriş hazırlamakta kullanılan derin kap

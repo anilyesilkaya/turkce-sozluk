@@ -2,6 +2,7 @@
 layout: term
 title: arada bir
 slug: arada-bir
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ara sıra

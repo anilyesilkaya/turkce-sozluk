@@ -2,6 +2,7 @@
 layout: term
 title: sarhoştum aydım, böyle yaşamaktan caydım
 slug: sarhostum-aydim-boyle-yasamaktan-caydim
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"artık gerçekleri gördüm" anlamında kullanılan bir söz'

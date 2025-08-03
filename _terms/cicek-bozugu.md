@@ -2,6 +2,7 @@
 layout: term
 title: çiçek bozuğu
 slug: cicek-bozugu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek hastalığından yüzü delik deşik olmuş

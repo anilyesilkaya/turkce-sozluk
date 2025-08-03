@@ -2,6 +2,7 @@
 layout: term
 title: kucaklamak
 slug: kucaklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kollarla sarıp göğüs üzerine bastırmak; kuçmak, sarmak

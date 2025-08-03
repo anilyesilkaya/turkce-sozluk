@@ -2,6 +2,7 @@
 layout: term
 title: 'Mevlit Gecesi '
 slug: mevlit-gecesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hz. Muhammed’in doğum günü olan, kamerî aylardan Rebiyülevvel'in on ikinci gecesi

@@ -2,6 +2,7 @@
 layout: term
 title: alışabilmek
 slug: alisabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışma yeteneği veya ihtimali bulunmak

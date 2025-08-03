@@ -2,6 +2,7 @@
 layout: term
 title: cemaatleşmek
 slug: cemaatlesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cemaat durumuna gelmek

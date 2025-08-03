@@ -2,6 +2,7 @@
 layout: term
 title: akıntıölçer
 slug: akintiolcer
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir akarsuyun veya kanalın akıntı hızını ve düzeyini ölçmeye yarayan alet

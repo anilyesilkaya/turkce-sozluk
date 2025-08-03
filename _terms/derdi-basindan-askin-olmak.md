@@ -2,6 +2,7 @@
 layout: term
 title: derdi başından aşkın (olmak)
 slug: derdi-basindan-askin-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birçok sorunu bulunan

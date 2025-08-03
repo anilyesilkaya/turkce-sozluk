@@ -2,6 +2,7 @@
 layout: term
 title: upuzun
 slug: upuzun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çok uzun

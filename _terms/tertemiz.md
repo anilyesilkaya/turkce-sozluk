@@ -2,6 +2,7 @@
 layout: term
 title: tertemiz
 slug: tertemiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok temiz, her yanı temiz; arı sili, tiril tiril, pirüpak

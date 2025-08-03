@@ -2,6 +2,7 @@
 layout: term
 title: ladinî
 slug: ladini
+letter: L
 lisan: Arapça lādīnī
 anlamlar:
 - ► din dışı

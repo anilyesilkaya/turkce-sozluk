@@ -2,6 +2,7 @@
 layout: term
 title: cinleri (veya cin) tepesine çıkmak (veya binmek)
 slug: cinleri-veya-cin-tepesine-cikmak-veya-binmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok kızmak

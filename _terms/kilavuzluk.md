@@ -2,6 +2,7 @@
 layout: term
 title: kılavuzluk
 slug: kilavuzluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılavuz olma durumu; rehberlik, delalet

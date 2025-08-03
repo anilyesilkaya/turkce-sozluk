@@ -2,6 +2,7 @@
 layout: term
 title: yatık
 slug: yatik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dik olmayan, eğik, yatırılmış bir durumda olan; yatkın

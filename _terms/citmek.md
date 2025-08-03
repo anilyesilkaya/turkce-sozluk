@@ -2,6 +2,7 @@
 layout: term
 title: çitmek
 slug: citmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir araya getirmek; çitilemek (II), çitimek

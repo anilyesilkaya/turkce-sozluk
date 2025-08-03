@@ -2,6 +2,7 @@
 layout: term
 title: seğirtme
 slug: segirtme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seğirtmek işi

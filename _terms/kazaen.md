@@ -2,6 +2,7 @@
 layout: term
 title: kazaen
 slug: kazaen
+letter: K
 lisan: Arapça ḳażāʾen
 anlamlar:
 - ► kazara

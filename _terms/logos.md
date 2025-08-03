@@ -2,6 +2,7 @@
 layout: term
 title: logos
 slug: logos
+letter: L
 lisan: Yunanca
 anlamlar:
 - ► deyi (I)

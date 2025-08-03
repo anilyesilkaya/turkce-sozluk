@@ -2,6 +2,7 @@
 layout: term
 title: sürahi
 slug: surahi
+letter: S
 lisan: Arapça ṣurāḥī
 anlamlar:
 - İçecek koymaya yarar, cam, plastik vb.nden yapılan kap

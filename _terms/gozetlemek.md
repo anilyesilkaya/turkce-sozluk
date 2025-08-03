@@ -2,6 +2,7 @@
 layout: term
 title: gözetlemek
 slug: gozetlemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birine veya bir şeye gizlice bakmak; dikizlemek

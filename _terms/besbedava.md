@@ -2,6 +2,7 @@
 layout: term
 title: besbedava
 slug: besbedava
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok ucuz olan

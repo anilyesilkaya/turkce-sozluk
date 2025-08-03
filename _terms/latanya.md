@@ -2,6 +2,7 @@
 layout: term
 title: latanya
 slug: latanya
+letter: L
 lisan: Fransızca latanier
 anlamlar:
 - Bazı türleri evlerde süs bitkisi olarak yetiştirilen, bazı türlerinden de dokumalık iplik elde edilen bir tür palmiye (Latania rubra)

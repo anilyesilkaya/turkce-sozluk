@@ -2,6 +2,7 @@
 layout: term
 title: kandırabilmek
 slug: kandirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kandırma ihtimali veya imkânı bulunmak

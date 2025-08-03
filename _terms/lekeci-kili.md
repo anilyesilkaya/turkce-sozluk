@@ -2,6 +2,7 @@
 layout: term
 title: lekeci kili
 slug: lekeci-kili
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kumaşlardaki lekeleri çıkarmak için kullanılan bir kil türü

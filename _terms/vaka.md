@@ -2,6 +2,7 @@
 layout: term
 title: vaka
 slug: vaka
+letter: V
 lisan: Arapça vaḳʿa
 anlamlar:
 - ► olay

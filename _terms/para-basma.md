@@ -2,6 +2,7 @@
 layout: term
 title: para basma
 slug: para-basma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piyasaya yeni para çıkarma

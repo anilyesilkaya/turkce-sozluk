@@ -2,6 +2,7 @@
 layout: term
 title: tütsülük
 slug: tutsuluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► buhurluk

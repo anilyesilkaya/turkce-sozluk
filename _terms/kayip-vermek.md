@@ -2,6 +2,7 @@
 layout: term
 title: kayıp vermek
 slug: kayip-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ulus, toplum, kuruluş vb. değerli bireylerini yitirmek

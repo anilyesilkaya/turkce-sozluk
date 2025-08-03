@@ -2,6 +2,7 @@
 layout: term
 title: ıkıl ıkıl
 slug: ikil-ikil
+letter: I
 lisan: Türkçe
 anlamlar:
 - Boğulur gibi, sıkıntı ile soluyarak

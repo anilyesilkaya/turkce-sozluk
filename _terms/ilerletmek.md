@@ -2,6 +2,7 @@
 layout: term
 title: ilerletmek
 slug: ilerletmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlerlemesini sağlamak, ilerlemesine yol açmak

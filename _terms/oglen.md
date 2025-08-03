@@ -2,6 +2,7 @@
 layout: term
 title: öğlen
 slug: oglen
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öğle

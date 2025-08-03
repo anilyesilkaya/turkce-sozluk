@@ -2,6 +2,7 @@
 layout: term
 title: sıkı ağızlı
 slug: siki-agizli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gizli kalması gereken şeyleri başkasına söylemeyen, sır tutabilen

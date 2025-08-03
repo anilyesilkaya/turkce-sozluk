@@ -2,6 +2,7 @@
 layout: term
 title: kendi âlemine dalmak
 slug: kendi-alemine-dalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çevre ile ilgisini kesip iç dünyasına kapanmak

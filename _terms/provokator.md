@@ -2,6 +2,7 @@
 layout: term
 title: provokatör
 slug: provokator
+letter: P
 lisan: Fransızca provocateur
 anlamlar:
 - ► kışkırtıcı

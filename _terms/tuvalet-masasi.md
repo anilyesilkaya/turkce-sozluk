@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet masası
 slug: tuvalet-masasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kadınların süslenmek, taranmak, makyaj yapmak amacıyla kullandıkları aynalı bir masa türü

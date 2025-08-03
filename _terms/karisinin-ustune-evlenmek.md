@@ -2,6 +2,7 @@
 layout: term
 title: karısının üstüne evlenmek
 slug: karisinin-ustune-evlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - karısı varken bir kadınla daha evlenmek

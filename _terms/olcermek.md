@@ -2,6 +2,7 @@
 layout: term
 title: ölçermek
 slug: olcermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sönmekte olan ateşi, lambayı canlandırmak

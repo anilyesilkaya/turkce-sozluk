@@ -2,6 +2,7 @@
 layout: term
 title: tekst
 slug: tekst
+letter: T
 lisan: Fransızca texte
 anlamlar:
 - ► metin

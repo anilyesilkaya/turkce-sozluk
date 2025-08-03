@@ -2,6 +2,7 @@
 layout: term
 title: itibarıyla
 slug: itibariyla
+letter: I
 lisan: Türkçe
 anlamlar:
 - Söylenen zamanın öncesini kastederek

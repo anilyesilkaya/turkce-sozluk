@@ -2,6 +2,7 @@
 layout: term
 title: satılmak
 slug: satilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satma işi yapılmak; gitmek

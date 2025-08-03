@@ -2,6 +2,7 @@
 layout: term
 title: karalı
 slug: karali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karası (II) olan

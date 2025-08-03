@@ -2,6 +2,7 @@
 layout: term
 title: semah dönmek
 slug: semah-donmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - semah denilen kutsal dansı gerçekleştirmek

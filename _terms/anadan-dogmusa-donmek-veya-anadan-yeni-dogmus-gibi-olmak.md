@@ -2,6 +2,7 @@
 layout: term
 title: anadan doğmuşa dönmek (veya anadan yeni doğmuş gibi olmak)
 slug: anadan-dogmusa-donmek-veya-anadan-yeni-dogmus-gibi-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - dertsiz, tasasız bir duruma gelmek

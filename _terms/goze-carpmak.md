@@ -2,6 +2,7 @@
 layout: term
 title: göze çarpmak
 slug: goze-carpmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - dikkati üzerine çekmek

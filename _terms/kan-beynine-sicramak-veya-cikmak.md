@@ -2,6 +2,7 @@
 layout: term
 title: kan beynine sıçramak (veya çıkmak)
 slug: kan-beynine-sicramak-veya-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, hiddetlenmek, kontrolü yitirmek

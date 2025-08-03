@@ -2,6 +2,7 @@
 layout: term
 title: sıkı fıkı
 slug: siki-fiki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbiriyle çok samimi

@@ -2,6 +2,7 @@
 layout: term
 title: mukayyet olmak
 slug: mukayyet-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - korumak, gözetmek

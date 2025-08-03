@@ -2,6 +2,7 @@
 layout: term
 title: gözden gönülden çıkarmak
 slug: gozden-gonulden-cikarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - önem vermemek, ilgisini kesmek

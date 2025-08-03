@@ -2,6 +2,7 @@
 layout: term
 title: içten pazarlıklı
 slug: icten-pazarlikli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Öfkesini, kinini kimseye sezdirmeyen, iyi görünüp kötülük yapan

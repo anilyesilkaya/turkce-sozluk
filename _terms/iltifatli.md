@@ -2,6 +2,7 @@
 layout: term
 title: iltifatlı
 slug: iltifatli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yüze gülen, gönül alan

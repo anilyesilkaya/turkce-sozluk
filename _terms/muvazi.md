@@ -2,6 +2,7 @@
 layout: term
 title: muvazi
 slug: muvazi
+letter: M
 lisan: Arapça muvāzī
 anlamlar:
 - ► paralel

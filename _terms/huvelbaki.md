@@ -2,6 +2,7 @@
 layout: term
 title: hüvelbaki
 slug: huvelbaki
+letter: H
 lisan: Arapça huve + bāḳī
 anlamlar:
 - '"Baki kalan Allah''tır" anlamında ve genellikle mezar taşlarına yazılan bir söz'

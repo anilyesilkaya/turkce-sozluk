@@ -2,6 +2,7 @@
 layout: term
 title: telemetre
 slug: telemetre
+letter: T
 lisan: Fransızca télémètre
 anlamlar:
 - İki nokta arasındaki uzaklığı ölçmeye yarayan gereç

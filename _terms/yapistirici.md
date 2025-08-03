@@ -2,6 +2,7 @@
 layout: term
 title: yapıştırıcı
 slug: yapistirici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapıştırma özelliği olan, yapıştırmaya yarayan nesne; yapışkan

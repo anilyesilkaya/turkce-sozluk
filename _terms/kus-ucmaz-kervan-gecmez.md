@@ -2,6 +2,7 @@
 layout: term
 title: kuş uçmaz, kervan geçmez
 slug: kus-ucmaz-kervan-gecmez
+letter: K
 lisan: Türkçe
 anlamlar:
 - kimsenin uğramadığı ıssız ve sapa

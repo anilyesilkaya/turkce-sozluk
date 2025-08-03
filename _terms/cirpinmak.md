@@ -2,6 +2,7 @@
 layout: term
 title: çırpınmak
 slug: cirpinmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Acı ile debelenmek; çarpınmak

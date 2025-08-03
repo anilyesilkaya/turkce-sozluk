@@ -2,6 +2,7 @@
 layout: term
 title: çekincesiz
 slug: cekincesiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekincesi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: zurnacılık
 slug: zurnacilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zurnacının yaptığı iş; zurnazenlik

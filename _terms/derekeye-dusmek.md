@@ -2,6 +2,7 @@
 layout: term
 title: derekeye düşmek
 slug: derekeye-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - küçülmek

@@ -2,6 +2,7 @@
 layout: term
 title: tüfekçi
 slug: tufekci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüfek yapan, onaran veya satan kimse

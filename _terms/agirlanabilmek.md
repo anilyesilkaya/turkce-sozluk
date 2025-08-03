@@ -2,6 +2,7 @@
 layout: term
 title: ağırlanabilmek
 slug: agirlanabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlanma ihtimali bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: adını vermek
 slug: adini-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin adını söylemek

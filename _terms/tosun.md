@@ -2,6 +2,7 @@
 layout: term
 title: tosun
 slug: tosun
+letter: T
 lisan: Türkçe
 anlamlar:
 - Danalıktan yeni çıkmış genç boğa

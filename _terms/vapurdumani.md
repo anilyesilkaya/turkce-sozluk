@@ -2,6 +2,7 @@
 layout: term
 title: vapurdumanı
 slug: vapurdumani
+letter: V
 lisan: Türkçe
 anlamlar:
 - Koyu gri renk

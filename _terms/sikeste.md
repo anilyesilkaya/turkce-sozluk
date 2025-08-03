@@ -2,6 +2,7 @@
 layout: term
 title: şikeste
 slug: sikeste
+letter: Ş
 lisan: Farsça şikeste
 anlamlar:
 - Kırılmış

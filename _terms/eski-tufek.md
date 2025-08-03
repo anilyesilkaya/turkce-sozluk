@@ -2,6 +2,7 @@
 layout: term
 title: eski tüfek
 slug: eski-tufek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işte eski ve deneyimli olan kimse

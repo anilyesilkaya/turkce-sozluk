@@ -2,6 +2,7 @@
 layout: term
 title: öküz gibi
 slug: okuz-gibi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - aptal, anlayışsız bir biçimde

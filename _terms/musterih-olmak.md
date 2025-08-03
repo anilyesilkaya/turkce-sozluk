@@ -2,6 +2,7 @@
 layout: term
 title: müsterih olmak
 slug: musterih-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - içi rahat olmak, kaygıdan kurtulmak

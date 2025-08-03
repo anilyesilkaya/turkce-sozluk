@@ -2,6 +2,7 @@
 layout: term
 title: cilvekâr
 slug: cilvekar
+letter: C
 lisan: Farsça cilvekār
 anlamlar:
 - ► cilveli

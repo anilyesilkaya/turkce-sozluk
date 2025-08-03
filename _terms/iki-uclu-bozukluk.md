@@ -2,6 +2,7 @@
 layout: term
 title: iki uçlu bozukluk
 slug: iki-uclu-bozukluk
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► duygu durumu bozukluğu

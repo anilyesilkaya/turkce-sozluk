@@ -2,6 +2,7 @@
 layout: term
 title: sıkı sıkı
 slug: siki-siki
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tamamen

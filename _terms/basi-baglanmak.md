@@ -2,6 +2,7 @@
 layout: term
 title: başı bağlanmak
 slug: basi-baglanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - nişanlanmak veya evlendirilmek

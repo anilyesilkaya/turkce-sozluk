@@ -2,6 +2,7 @@
 layout: term
 title: kurulmak
 slug: kurulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurma işine konu olmak veya kurma işi yapılmak

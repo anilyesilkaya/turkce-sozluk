@@ -2,6 +2,7 @@
 layout: term
 title: dağıtıcılık
 slug: dagiticilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtıcının yaptığı iş; distribütörlük

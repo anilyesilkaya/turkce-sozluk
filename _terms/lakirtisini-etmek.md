@@ -2,6 +2,7 @@
 layout: term
 title: lakırtısını etmek
 slug: lakirtisini-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - hakkında konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: tutuklama
 slug: tutuklama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutuklamak işi; tevkif

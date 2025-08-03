@@ -2,6 +2,7 @@
 layout: term
 title: üzülüvermek
 slug: uzuluvermek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çabucak üzülmek

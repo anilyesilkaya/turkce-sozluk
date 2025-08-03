@@ -2,6 +2,7 @@
 layout: term
 title: haykırtı
 slug: haykirti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Acı acı bağırma sesi

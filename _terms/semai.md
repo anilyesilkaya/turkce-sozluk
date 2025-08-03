@@ -2,6 +2,7 @@
 layout: term
 title: semai
 slug: semai
+letter: S
 lisan: Arapça semāʿī
 anlamlar:
 - Klasik Türk müziğinde iki basit usulden biri

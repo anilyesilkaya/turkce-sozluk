@@ -2,6 +2,7 @@
 layout: term
 title: çükür
 slug: cukur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir yüzü balta, bir yüzü kazma olan araç

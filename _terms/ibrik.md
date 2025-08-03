@@ -2,6 +2,7 @@
 layout: term
 title: ibrik
 slug: ibrik
+letter: I
 lisan: Arapça ibrīḳ
 anlamlar:
 - Su koymaya yarayan kulplu, emzikli kap

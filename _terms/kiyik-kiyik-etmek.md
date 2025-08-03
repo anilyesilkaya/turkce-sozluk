@@ -2,6 +2,7 @@
 layout: term
 title: kıyık kıyık etmek
 slug: kiyik-kiyik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - küçük küçük parçalar hâlinde doğramak

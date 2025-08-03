@@ -2,6 +2,7 @@
 layout: term
 title: ibret olmak
 slug: ibret-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ders olmak

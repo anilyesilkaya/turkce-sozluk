@@ -2,6 +2,7 @@
 layout: term
 title: tokuşmak
 slug: tokusmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İki şey birbirine çarpmak, çarpışmak

@@ -2,6 +2,7 @@
 layout: term
 title: uçabilmek
 slug: ucabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçma ihtimali veya imkânı bulunmak

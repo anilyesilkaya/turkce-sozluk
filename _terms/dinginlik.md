@@ -2,6 +2,7 @@
 layout: term
 title: dinginlik
 slug: dinginlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dingin olma durumu; sükûnet

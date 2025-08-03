@@ -2,6 +2,7 @@
 layout: term
 title: kamış atmak (veya koymak)
 slug: kamis-atmak-veya-koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine oyun etmek, arabozanlık etmek

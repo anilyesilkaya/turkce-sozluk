@@ -2,6 +2,7 @@
 layout: term
 title: bir nebze
 slug: bir-nebze
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre, bir an

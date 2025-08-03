@@ -2,6 +2,7 @@
 layout: term
 title: hafif makineli
 slug: hafif-makineli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Elde taşınabilen mitralyöz

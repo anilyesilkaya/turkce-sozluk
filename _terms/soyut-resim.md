@@ -2,6 +2,7 @@
 layout: term
 title: soyut resim
 slug: soyut-resim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ressamın, doğada var olan varlıklar yerine kendi düş dünyasında oluşturduğu varlıkları ve nesneleri çizdiği resim

@@ -2,6 +2,7 @@
 layout: term
 title: Hazar Türkçesi
 slug: hazar-turkcesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazar Türklerinin kullandığı dil; Hazarca

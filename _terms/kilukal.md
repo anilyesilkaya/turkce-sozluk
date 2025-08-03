@@ -2,6 +2,7 @@
 layout: term
 title: kılükal
 slug: kilukal
+letter: K
 lisan: Arapça ḳīl + ḳāl
 anlamlar:
 - ► dedikodu

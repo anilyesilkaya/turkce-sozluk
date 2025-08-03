@@ -2,6 +2,7 @@
 layout: term
 title: çehre almak
 slug: cehre-almak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - tavır takınmak

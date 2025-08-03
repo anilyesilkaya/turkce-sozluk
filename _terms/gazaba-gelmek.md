@@ -2,6 +2,7 @@
 layout: term
 title: gazaba gelmek
 slug: gazaba-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - öfkelenmek, kızmak

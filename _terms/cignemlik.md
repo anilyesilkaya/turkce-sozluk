@@ -2,6 +2,7 @@
 layout: term
 title: çiğnemlik
 slug: cignemlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ağızda çiğnenecek miktarda olan; çiğnek (II), çiğnem

@@ -2,6 +2,7 @@
 layout: term
 title: garipsemek
 slug: garipsemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendini gurbette veya kimsesiz gibi düşünerek içlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: külliyen
 slug: kulliyen
+letter: K
 lisan: Arapça kulliyyen
 anlamlar:
 - ► tamamen

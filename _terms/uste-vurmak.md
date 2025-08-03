@@ -2,6 +2,7 @@
 layout: term
 title: üste vurmak
 slug: uste-vurmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - aynı mala birkaç kişinin talip olması durumunda fiyatı artırmak

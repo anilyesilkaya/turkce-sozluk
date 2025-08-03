@@ -2,6 +2,7 @@
 layout: term
 title: vakit
 slug: vakit
+letter: V
 lisan: Arapça vaḳt
 anlamlar:
 - ► zaman

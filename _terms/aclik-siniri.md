@@ -2,6 +2,7 @@
 layout: term
 title: açlık sınırı
 slug: aclik-siniri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir ülkede insanların sağlıklı bir biçimde yaşayabilmeleri için sahip olmaları gereken en düşük gelir düzeyi

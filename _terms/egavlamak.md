@@ -2,6 +2,7 @@
 layout: term
 title: egavlamak
 slug: egavlamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyi ayarlamak, sağlamak

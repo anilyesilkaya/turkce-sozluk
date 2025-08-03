@@ -2,6 +2,7 @@
 layout: term
 title: turşucu
 slug: tursucu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Turşu yapan veya satan kimse

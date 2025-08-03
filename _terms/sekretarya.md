@@ -2,6 +2,7 @@
 layout: term
 title: sekretarya
 slug: sekretarya
+letter: S
 lisan: Fransızca secrétariat
 anlamlar:
 - Genel sekreterler tarafından yönetilen kurumlarda yönetim merkezi

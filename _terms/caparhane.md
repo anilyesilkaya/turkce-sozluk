@@ -2,6 +2,7 @@
 layout: term
 title: çaparhane
 slug: caparhane
+letter: Ç
 lisan: Farsça T. çapar + Farsça ḫāne
 anlamlar:
 - Menzillerde ulakların, postacıların bulunduğu yer

@@ -2,6 +2,7 @@
 layout: term
 title: deneyimlemek
 slug: deneyimlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir iş veya konuyla ilgili olarak bire bir uygulama ve deneme yapmak; tecrübe etmek

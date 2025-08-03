@@ -2,6 +2,7 @@
 layout: term
 title: cirim
 slug: cirim
+letter: C
 lisan: Arapça cirm
 anlamlar:
 - ► hacim

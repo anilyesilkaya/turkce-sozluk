@@ -2,6 +2,7 @@
 layout: term
 title: giderebilme
 slug: giderebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giderebilmek işi

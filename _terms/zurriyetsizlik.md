@@ -2,6 +2,7 @@
 layout: term
 title: zürriyetsizlik
 slug: zurriyetsizlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zürriyetsiz olma durumu

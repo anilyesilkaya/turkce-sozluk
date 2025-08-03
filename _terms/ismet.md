@@ -2,6 +2,7 @@
 layout: term
 title: ismet
 slug: ismet
+letter: I
 lisan: Arapça ʿiṣmet
 anlamlar:
 - Ahlak kurallarına bağlı kalma durumu; sililik

@@ -2,6 +2,7 @@
 layout: term
 title: bücürleşmek
 slug: bucurlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bücür duruma gelmek

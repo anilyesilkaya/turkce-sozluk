@@ -2,6 +2,7 @@
 layout: term
 title: tikel
 slug: tikel
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kısmi

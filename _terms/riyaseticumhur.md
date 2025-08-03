@@ -2,6 +2,7 @@
 layout: term
 title: riyaseticumhur
 slug: riyaseticumhur
+letter: R
 lisan: Arapça riyaset + cumhur
 anlamlar:
 - ► cumhurbaşkanlığı

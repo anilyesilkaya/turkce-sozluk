@@ -2,6 +2,7 @@
 layout: term
 title: göz bağıcı
 slug: goz-bagici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göz bağı yapan kimse; bağıcı, illüzyonist

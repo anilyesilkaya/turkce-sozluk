@@ -2,6 +2,7 @@
 layout: term
 title: lakırtı
 slug: lakirti
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► söz

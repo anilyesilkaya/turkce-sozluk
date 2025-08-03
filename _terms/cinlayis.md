@@ -2,6 +2,7 @@
 layout: term
 title: çınlayış
 slug: cinlayis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlamak işi

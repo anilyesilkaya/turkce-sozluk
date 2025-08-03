@@ -2,6 +2,7 @@
 layout: term
 title: asuman
 slug: asuman
+letter: A
 lisan: Farsça āsmān
 anlamlar:
 - ► gök

@@ -2,6 +2,7 @@
 layout: term
 title: sezdiri
 slug: sezdiri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezdirmek işi

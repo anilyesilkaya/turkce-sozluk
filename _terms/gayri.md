@@ -2,6 +2,7 @@
 layout: term
 title: gayri
 slug: gayri
+letter: G
 lisan: Arapça ġayr
 anlamlar:
 - ► gayrı

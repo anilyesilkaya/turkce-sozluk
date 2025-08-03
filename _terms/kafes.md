@@ -2,6 +2,7 @@
 layout: term
 title: kafes
 slug: kafes
+letter: K
 lisan: Arapça ḳafes
 anlamlar:
 - Hayvanlar için aralıklı tel, metal veya ağaç çubuklardan yapılmış taşınabilir bölme

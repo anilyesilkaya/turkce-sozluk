@@ -2,6 +2,7 @@
 layout: term
 title: çünküsüz
 slug: cunkusuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Herhangi bir açıklamaya gerek duymayan

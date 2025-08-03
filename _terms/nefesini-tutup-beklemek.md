@@ -2,6 +2,7 @@
 layout: term
 title: nefesini tutup beklemek
 slug: nefesini-tutup-beklemek
+letter: N
 lisan: Türkçe
 anlamlar:
 - heyecan, merak veya endişeyle sonucu izlemek

@@ -2,6 +2,7 @@
 layout: term
 title: muti
 slug: muti
+letter: M
 lisan: Arapça muṭīʿ
 anlamlar:
 - ► itaatli

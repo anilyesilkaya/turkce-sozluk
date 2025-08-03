@@ -2,6 +2,7 @@
 layout: term
 title: üvey baba
 slug: uvey-baba
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Öz olmayan baba; babalık, cicibaba

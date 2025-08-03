@@ -2,6 +2,7 @@
 layout: term
 title: uğrak yeri
 slug: ugrak-yeri
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sık uğranılan yer

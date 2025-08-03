@@ -2,6 +2,7 @@
 layout: term
 title: müstağni
 slug: mustagni
+letter: M
 lisan: Arapça mustaġnī
 anlamlar:
 - ► doygun

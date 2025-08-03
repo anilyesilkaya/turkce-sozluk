@@ -2,6 +2,7 @@
 layout: term
 title: ballı pasta
 slug: balli-pasta
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bal ile yapılmış veya içine bal konmuş pasta

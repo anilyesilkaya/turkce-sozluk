@@ -2,6 +2,7 @@
 layout: term
 title: büklüm büklüm
 slug: buklum-buklum
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kıvrım kıvrım

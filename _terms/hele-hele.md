@@ -2,6 +2,7 @@
 layout: term
 title: hele hele
 slug: hele-hele
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karşısındakini söylemeye isteklendirmek için kullanılan bir söz

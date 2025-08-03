@@ -2,6 +2,7 @@
 layout: term
 title: düzmecelik
 slug: duzmecelik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzmece olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kavrama
 slug: kavrama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavramak işi

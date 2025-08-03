@@ -2,6 +2,7 @@
 layout: term
 title: inildemek
 slug: inildemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► inlemek

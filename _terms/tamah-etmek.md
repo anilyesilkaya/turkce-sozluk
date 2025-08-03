@@ -2,6 +2,7 @@
 layout: term
 title: tamah etmek
 slug: tamah-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - açgözlü davranmak

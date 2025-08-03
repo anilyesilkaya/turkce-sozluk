@@ -2,6 +2,7 @@
 layout: term
 title: kaburga
 slug: kaburga
+letter: K
 lisan: Moğolca
 anlamlar:
 - Eğe kemiklerinin oluşturduğu kafes

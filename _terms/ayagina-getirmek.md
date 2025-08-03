@@ -2,6 +2,7 @@
 layout: term
 title: ayağına getirmek
 slug: ayagina-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - sıra, saygı gözetmeksizin birinin yanına gelmesini sağlamak

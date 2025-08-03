@@ -2,6 +2,7 @@
 layout: term
 title: kefensiz
 slug: kefensiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kefene sarılmamış

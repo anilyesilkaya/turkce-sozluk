@@ -2,6 +2,7 @@
 layout: term
 title: pavurya
 slug: pavurya
+letter: P
 lisan: Rumca
 anlamlar:
 - Bir cins iri yengeç

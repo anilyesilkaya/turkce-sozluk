@@ -2,6 +2,7 @@
 layout: term
 title: vazife
 slug: vazife
+letter: V
 lisan: Arapça vaẓīfe
 anlamlar:
 - ► ödev

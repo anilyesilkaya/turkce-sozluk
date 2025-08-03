@@ -2,6 +2,7 @@
 layout: term
 title: cemiyetli
 slug: cemiyetli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cemiyet içinde geçen, derli toplu, dağınık olmayan

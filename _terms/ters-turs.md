@@ -2,6 +2,7 @@
 layout: term
 title: ters türs
 slug: ters-turs
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tamamen ters, birbirinin zıddı

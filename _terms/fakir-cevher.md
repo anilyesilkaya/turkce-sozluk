@@ -2,6 +2,7 @@
 layout: term
 title: fakir cevher
 slug: fakir-cevher
+letter: F
 lisan: Türkçe
 anlamlar:
 - İçindeki madenin oranı düşük olan maden cevheri

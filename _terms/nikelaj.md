@@ -2,6 +2,7 @@
 layout: term
 title: nikelaj
 slug: nikelaj
+letter: N
 lisan: Fransızca nickelage
 anlamlar:
 - Metal bir yüzeyi nikelle kaplama işi

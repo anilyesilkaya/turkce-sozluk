@@ -2,6 +2,7 @@
 layout: term
 title: köftün
 slug: koftun
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sığırlara yedirilen susam veya keten küspesi

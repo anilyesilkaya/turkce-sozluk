@@ -2,6 +2,7 @@
 layout: term
 title: ikincil ileti
 slug: ikincil-ileti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Metinde kastedilen ve geride kalan ikinci anlam

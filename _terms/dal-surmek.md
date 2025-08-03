@@ -2,6 +2,7 @@
 layout: term
 title: dal sürmek
 slug: dal-surmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yayılmak, kaplamak

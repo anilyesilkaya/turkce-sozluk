@@ -2,6 +2,7 @@
 layout: term
 title: manej
 slug: manej
+letter: M
 lisan: Fransızca manège
 anlamlar:
 - At eğitimi

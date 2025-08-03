@@ -2,6 +2,7 @@
 layout: term
 title: istenme
 slug: istenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstenmek işi; istenilme, arzulanma

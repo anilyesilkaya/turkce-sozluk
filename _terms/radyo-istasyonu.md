@@ -2,6 +2,7 @@
 layout: term
 title: radyo istasyonu
 slug: radyo-istasyonu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Radyo vericilerinin bulunduğu merkez

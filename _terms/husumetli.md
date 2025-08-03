@@ -2,6 +2,7 @@
 layout: term
 title: husumetli
 slug: husumetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Husumeti olan

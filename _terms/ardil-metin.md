@@ -2,6 +2,7 @@
 layout: term
 title: ardıl metin
 slug: ardil-metin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Öncel metin veya metinler aracılığıyla anlamsal, yapısal ve biçimsel yönlerden dönüştürülerek oluşturulmuş metin

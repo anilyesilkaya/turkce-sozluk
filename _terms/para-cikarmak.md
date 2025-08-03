@@ -2,6 +2,7 @@
 layout: term
 title: para çıkarmak
 slug: para-cikarmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - para basmak

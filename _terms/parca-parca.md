@@ -2,6 +2,7 @@
 layout: term
 title: parça parça
 slug: parca-parca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parçalanmış bir durumda; dilim dilim, ceste ceste, lime lime, pare pare, şerha şerha, şerham şerham

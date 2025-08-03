@@ -2,6 +2,7 @@
 layout: term
 title: hinterlant
 slug: hinterlant
+letter: H
 lisan: Almanca Hinterland
 anlamlar:
 - ► iç bölge

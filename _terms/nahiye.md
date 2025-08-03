@@ -2,6 +2,7 @@
 layout: term
 title: nahiye
 slug: nahiye
+letter: N
 lisan: Arapça nāḥiye
 anlamlar:
 - ► bucak

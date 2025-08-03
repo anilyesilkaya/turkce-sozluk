@@ -2,6 +2,7 @@
 layout: term
 title: bürokrasi
 slug: burokrasi
+letter: B
 lisan: Fransızca bureaucratie
 anlamlar:
 - Devlet kurumlarında çalışan üst düzey yöneticiler topluluğu

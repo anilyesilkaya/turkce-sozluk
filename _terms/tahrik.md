@@ -2,6 +2,7 @@
 layout: term
 title: tahrik
 slug: tahrik
+letter: T
 lisan: Arapça taḥrīk
 anlamlar:
 - Cinsel isteği, duyguları uyandırma, artırma

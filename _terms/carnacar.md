@@ -2,6 +2,7 @@
 layout: term
 title: çarnaçar
 slug: carnacar
+letter: Ç
 lisan: Farsça çārnāçār
 anlamlar:
 - ► ister istemez

@@ -2,6 +2,7 @@
 layout: term
 title: yayık dövmek
 slug: yayik-dovmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yayık yaymak

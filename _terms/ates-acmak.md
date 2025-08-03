@@ -2,6 +2,7 @@
 layout: term
 title: ateş açmak
 slug: ates-acmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ateşli silahla mermi atmak

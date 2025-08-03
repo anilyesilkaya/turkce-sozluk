@@ -2,6 +2,7 @@
 layout: term
 title: taş gibi
 slug: tas-gibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok sert, çok katı

@@ -2,6 +2,7 @@
 layout: term
 title: nazlı
 slug: nazli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kolayca gönlü olmayan, kendini ağır satan, ısrar bekleyen; nazende, nazenin

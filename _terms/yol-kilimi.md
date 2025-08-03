@@ -2,6 +2,7 @@
 layout: term
 title: yol kilimi
 slug: yol-kilimi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dar ve uzun olarak dokunmuş kilim türü

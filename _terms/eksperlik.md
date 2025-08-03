@@ -2,6 +2,7 @@
 layout: term
 title: eksperlik
 slug: eksperlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bilirkişinin görevi

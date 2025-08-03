@@ -2,6 +2,7 @@
 layout: term
 title: neme gerekçilik
 slug: neme-gerekcilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► neme lazımcılık

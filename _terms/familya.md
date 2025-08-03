@@ -2,6 +2,7 @@
 layout: term
 title: familya
 slug: familya
+letter: F
 lisan: İtalyanca famiglia
 anlamlar:
 - ► aile

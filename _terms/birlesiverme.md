@@ -2,6 +2,7 @@
 layout: term
 title: birleşiverme
 slug: birlesiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşivermek işi

@@ -2,6 +2,7 @@
 layout: term
 title: balabanlık
 slug: balabanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balaban olma durumu

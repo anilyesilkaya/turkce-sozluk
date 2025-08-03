@@ -2,6 +2,7 @@
 layout: term
 title: şoför okulu
 slug: sofor-okulu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sürücü kursu

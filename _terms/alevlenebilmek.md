@@ -2,6 +2,7 @@
 layout: term
 title: alevlenebilmek
 slug: alevlenebilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alevlenme ihtimali veya imkânı bulunmak

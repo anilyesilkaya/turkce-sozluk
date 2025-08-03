@@ -2,6 +2,7 @@
 layout: term
 title: bloklama
 slug: bloklama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bloklamak işi

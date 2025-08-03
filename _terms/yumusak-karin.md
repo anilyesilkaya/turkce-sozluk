@@ -2,6 +2,7 @@
 layout: term
 title: yumuşak karın
 slug: yumusak-karin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kişilerin, kurumların, ülkelerin konuşulmasından, gündeme getirilmesinden rahatsız olduğu durumlar, konular

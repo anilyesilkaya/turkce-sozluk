@@ -2,6 +2,7 @@
 layout: term
 title: delicoş
 slug: delicos
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hareketlerinde ve sözlerinde ölçülü olmayan, kabına sığmayan, çok coşkulu

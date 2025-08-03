@@ -2,6 +2,7 @@
 layout: term
 title: ton
 slug: ton
+letter: T
 lisan: Fransızca ton
 anlamlar:
 - İnsan veya çalgı sesinin yükseklik, alçaklık derecesi

@@ -2,6 +2,7 @@
 layout: term
 title: tezvir
 slug: tezvir
+letter: T
 lisan: Arapça tezvīr
 anlamlar:
 - Yalan söyleme

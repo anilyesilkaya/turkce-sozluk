@@ -2,6 +2,7 @@
 layout: term
 title: esmer
 slug: esmer
+letter: E
 lisan: Arapça esmer
 anlamlar:
 - Siyaha çalan buğday rengi

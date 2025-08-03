@@ -2,6 +2,7 @@
 layout: term
 title: Ermeni gelini gibi kırıtmak
 slug: ermeni-gelini-gibi-kiritmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ağır veya yavaş hareket etmek

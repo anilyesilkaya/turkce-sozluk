@@ -2,6 +2,7 @@
 layout: term
 title: yargılayabilmek
 slug: yargilayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yargılama ihtimali veya imkânı bulunmak

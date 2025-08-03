@@ -2,6 +2,7 @@
 layout: term
 title: ölü soyucu
 slug: olu-soyucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► mezar soyguncusu

@@ -2,6 +2,7 @@
 layout: term
 title: hacamatçılık
 slug: hacamatcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hacamatçının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: inanmazlık
 slug: inanmazlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnanmaz olma durumu

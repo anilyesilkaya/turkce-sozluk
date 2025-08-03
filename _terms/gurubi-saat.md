@@ -2,6 +2,7 @@
 layout: term
 title: gurubi saat
 slug: gurubi-saat
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► alaturka saat

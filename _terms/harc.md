@@ -2,6 +2,7 @@
 layout: term
 title: harç
 slug: harc
+letter: H
 lisan: Arapça ḫarc
 anlamlar:
 - Harcanan para

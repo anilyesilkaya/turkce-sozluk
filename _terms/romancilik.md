@@ -2,6 +2,7 @@
 layout: term
 title: romancılık
 slug: romancilik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Roman yazma sanatı

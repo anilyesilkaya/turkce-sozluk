@@ -2,6 +2,7 @@
 layout: term
 title: daluyku
 slug: daluyku
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► derin uyku

@@ -2,6 +2,7 @@
 layout: term
 title: zencirek
 slug: zencirek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Küçük zincir

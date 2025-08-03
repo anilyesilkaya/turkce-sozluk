@@ -2,6 +2,7 @@
 layout: term
 title: işin doğrusu
 slug: isin-dogrusu
+letter: I
 lisan: Türkçe
 anlamlar:
 - açıkçası

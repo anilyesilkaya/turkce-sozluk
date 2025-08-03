@@ -2,6 +2,7 @@
 layout: term
 title: sigortalı
 slug: sigortali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sigorta edilmiş

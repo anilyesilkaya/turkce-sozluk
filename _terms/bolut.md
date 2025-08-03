@@ -2,6 +2,7 @@
 layout: term
 title: bölüt
 slug: bolut
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zigotun bölünmesinden sonra oğulcukta ortaya çıkan ve az çok birbirine benzeyen parçaların her biri

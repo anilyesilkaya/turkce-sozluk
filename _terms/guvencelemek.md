@@ -2,6 +2,7 @@
 layout: term
 title: güvencelemek
 slug: guvencelemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güven altına almak, güvenliği sağlamak

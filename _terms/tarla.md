@@ -2,6 +2,7 @@
 layout: term
 title: tarla
 slug: tarla
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarıma elverişli olan, sınırlı ve belirli toprak parçası

@@ -2,6 +2,7 @@
 layout: term
 title: fantezi
 slug: fantezi
+letter: F
 lisan: Fransızca fantaisie
 anlamlar:
 - Sonsuz, sınırsız hayal; fantazya (II)

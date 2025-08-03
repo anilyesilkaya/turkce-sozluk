@@ -2,6 +2,7 @@
 layout: term
 title: söz götürmek
 slug: soz-goturmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - doğruluğu ve gerçekliği tartışılabilir olmak

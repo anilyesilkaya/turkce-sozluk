@@ -2,6 +2,7 @@
 layout: term
 title: şekerpare
 slug: sekerpare
+letter: Ş
 lisan: Farsça şeker + pāre
 anlamlar:
 - Çok tatlı bir tür kayısı

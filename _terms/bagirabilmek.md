@@ -2,6 +2,7 @@
 layout: term
 title: bağırabilmek
 slug: bagirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırma ihtimali veya imkânı bulunmak

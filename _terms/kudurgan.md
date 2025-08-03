@@ -2,6 +2,7 @@
 layout: term
 title: kudurgan
 slug: kudurgan
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► azgın

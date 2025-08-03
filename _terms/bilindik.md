@@ -2,6 +2,7 @@
 layout: term
 title: bilindik
 slug: bilindik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Önceden bilinmiş olan

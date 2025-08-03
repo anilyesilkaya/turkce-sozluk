@@ -2,6 +2,7 @@
 layout: term
 title: ambargo
 slug: ambargo
+letter: A
 lisan: Fransızca embargo
 anlamlar:
 - Bir malın serbest sürümünü engellemek için konulan yasak; engelleyim

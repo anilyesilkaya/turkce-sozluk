@@ -2,6 +2,7 @@
 layout: term
 title: içini sarmak
 slug: icini-sarmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sürekli aynı konuyu düşünmek, hep onunla meşgul olmak

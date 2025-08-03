@@ -2,6 +2,7 @@
 layout: term
 title: yüzde
 slug: yuzde
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işte aracı olan kimseye, görevinin karşılığı olarak belli bir hesaba göre verilen ücret; yüzdelik

@@ -2,6 +2,7 @@
 layout: term
 title: dilinin ucuna gelmek
 slug: dilinin-ucuna-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - söyleyecek duruma gelmek

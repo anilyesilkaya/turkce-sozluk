@@ -2,6 +2,7 @@
 layout: term
 title: coplama
 slug: coplama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coplamak işi

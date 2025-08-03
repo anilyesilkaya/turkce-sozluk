@@ -2,6 +2,7 @@
 layout: term
 title: parti parti
 slug: parti-parti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gruplar hâlinde (nesne veya kimse)

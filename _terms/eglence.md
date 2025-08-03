@@ -2,6 +2,7 @@
 layout: term
 title: eğlence
 slug: eglence
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlenme işi; âlem, cümbüş, sefahat, zevk

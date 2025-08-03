@@ -2,6 +2,7 @@
 layout: term
 title: kaynaşmak
 slug: kaynasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ayrılmayacak bir biçimde birleşmek

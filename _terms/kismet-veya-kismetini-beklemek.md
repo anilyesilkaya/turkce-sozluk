@@ -2,6 +2,7 @@
 layout: term
 title: kısmet (veya kısmetini) beklemek
 slug: kismet-veya-kismetini-beklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - evlenmeyi, evleneceği kimseyi beklemek

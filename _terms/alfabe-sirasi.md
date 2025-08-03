@@ -2,6 +2,7 @@
 layout: term
 title: alfabe sırası
 slug: alfabe-sirasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Harflerin alfabedeki belirli düzene göre dizilişi; abece sırası, alfabetik sıralama

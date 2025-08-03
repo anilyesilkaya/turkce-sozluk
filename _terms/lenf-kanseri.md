@@ -2,6 +2,7 @@
 layout: term
 title: 'lenf kanseri '
 slug: lenf-kanseri
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► lenfoma

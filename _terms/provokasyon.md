@@ -2,6 +2,7 @@
 layout: term
 title: provokasyon
 slug: provokasyon
+letter: P
 lisan: Fransızca provocation
 anlamlar:
 - ► kışkırtma

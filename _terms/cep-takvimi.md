@@ -2,6 +2,7 @@
 layout: term
 title: cep takvimi
 slug: cep-takvimi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cepte taşınabilecek küçük boy takvim

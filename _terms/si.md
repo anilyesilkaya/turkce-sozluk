@@ -2,6 +2,7 @@
 layout: term
 title: si
 slug: si
+letter: S
 lisan: İtalyanca si
 anlamlar:
 - Gam dizisinde la ile do arasındaki ses

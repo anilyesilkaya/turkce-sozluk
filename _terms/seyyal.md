@@ -2,6 +2,7 @@
 layout: term
 title: seyyal
 slug: seyyal
+letter: S
 lisan: Arapça seyyāl
 anlamlar:
 - Akan, akmakta olan

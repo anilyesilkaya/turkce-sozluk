@@ -2,6 +2,7 @@
 layout: term
 title: döngel
 slug: dongel
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► muşmula

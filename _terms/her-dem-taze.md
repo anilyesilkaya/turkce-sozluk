@@ -2,6 +2,7 @@
 layout: term
 title: her dem taze
 slug: her-dem-taze
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yaşlı olduğu hâlde genç görünen

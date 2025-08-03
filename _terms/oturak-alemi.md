@@ -2,6 +2,7 @@
 layout: term
 title: oturak âlemi
 slug: oturak-alemi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Anadolu'nun bazı yörelerinde, sadece erkeklerin katıldığı, çalgılı, içkili eğlence

@@ -2,6 +2,7 @@
 layout: term
 title: dolunmak
 slug: dolunmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► doluşulmak

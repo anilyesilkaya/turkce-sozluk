@@ -2,6 +2,7 @@
 layout: term
 title: düzenleyici
 slug: duzenleyici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işi, kuruluşu gerçekleştirip düzenli sonuç alınmasını üstlenen kimse; organizatör, aranjör

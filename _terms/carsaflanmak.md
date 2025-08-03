@@ -2,6 +2,7 @@
 layout: term
 title: çarşaflanmak
 slug: carsaflanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarşaflama işine konu olmak

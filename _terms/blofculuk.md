@@ -2,6 +2,7 @@
 layout: term
 title: blöfçülük
 slug: blofculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Blöfçü olma durumu

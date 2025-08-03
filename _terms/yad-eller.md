@@ -2,6 +2,7 @@
 layout: term
 title: yad eller
 slug: yad-eller
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Baba ocağından uzak yerler

@@ -2,6 +2,7 @@
 layout: term
 title: pırpırlı
 slug: pirpirli
+letter: P
 lisan: Türkçe
 anlamlar:
 - “Astsubay” anlamında kullanılan bir söz

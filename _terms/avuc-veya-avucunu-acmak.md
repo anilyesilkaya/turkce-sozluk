@@ -2,6 +2,7 @@
 layout: term
 title: avuç (veya avucunu) açmak
 slug: avuc-veya-avucunu-acmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - dilenmek, para istemek

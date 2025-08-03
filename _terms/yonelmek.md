@@ -2,6 +2,7 @@
 layout: term
 title: yönelmek
 slug: yonelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Belli bir yön tutmak, yüzünü belli bir yöne doğru çevirmek; yönlenmek, bükülmek, teveccüh etmek

@@ -2,6 +2,7 @@
 layout: term
 title: kucaktan kucağa
 slug: kucaktan-kucaga
+letter: K
 lisan: Türkçe
 anlamlar:
 - “Bir kişinin kucağından diğer bir kişinin kucağına geçmek” anlamındaki kucaktan kucağa dolaşmak (veya gezmek) deyiminde geçen bir söz

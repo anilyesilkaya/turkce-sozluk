@@ -2,6 +2,7 @@
 layout: term
 title: altınımsı
 slug: altinimsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► altınsı

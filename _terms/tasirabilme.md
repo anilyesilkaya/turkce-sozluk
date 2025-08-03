@@ -2,6 +2,7 @@
 layout: term
 title: taşırabilme
 slug: tasirabilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşırabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: kıvrakça
 slug: kivrakca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvrak bir biçimde; kıvrak kıvrak

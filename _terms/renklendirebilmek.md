@@ -2,6 +2,7 @@
 layout: term
 title: renklendirebilmek
 slug: renklendirebilmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Renklendirme ihtimali veya imkânı bulunmak

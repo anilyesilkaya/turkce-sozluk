@@ -2,6 +2,7 @@
 layout: term
 title: küskün
 slug: kuskun
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küsmüş olan (kimse)

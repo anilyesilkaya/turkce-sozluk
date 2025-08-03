@@ -2,6 +2,7 @@
 layout: term
 title: makul
 slug: makul
+letter: M
 lisan: Arapça maʿḳūl
 anlamlar:
 - Aklın benimseyebileceği, aklın kabul edebileceği, akla uygun nitelikte olan

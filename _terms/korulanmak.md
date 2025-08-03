@@ -2,6 +2,7 @@
 layout: term
 title: korulanmak
 slug: korulanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yer koru durumuna gelmek

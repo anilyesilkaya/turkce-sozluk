@@ -2,6 +2,7 @@
 layout: term
 title: düzenlemek
 slug: duzenlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenli, düzgün duruma getirmek, düzen vermek; tanzim etmek

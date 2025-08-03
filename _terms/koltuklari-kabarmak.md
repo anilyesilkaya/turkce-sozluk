@@ -2,6 +2,7 @@
 layout: term
 title: koltukları kabarmak
 slug: koltuklari-kabarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendine veya yakınlarına yapılan övgüden kıvanç duymak

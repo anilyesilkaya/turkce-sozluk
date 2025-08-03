@@ -2,6 +2,7 @@
 layout: term
 title: hesapça
 slug: hesapca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesaba göre, hesaba uygun olarak

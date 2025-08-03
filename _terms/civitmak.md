@@ -2,6 +2,7 @@
 layout: term
 title: cıvıtmak
 slug: civitmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvık duruma getirmek

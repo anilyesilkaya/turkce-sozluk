@@ -2,6 +2,7 @@
 layout: term
 title: çeteleşmek
 slug: cetelesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çete durumuna gelmek

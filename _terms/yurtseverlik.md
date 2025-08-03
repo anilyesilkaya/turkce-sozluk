@@ -2,6 +2,7 @@
 layout: term
 title: yurtseverlik
 slug: yurtseverlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yurtsever olma durumu; vatanseverlik, vatanperverlik

@@ -2,6 +2,7 @@
 layout: term
 title: aynalaşmak
 slug: aynalasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi ayna gibi yansıtmak

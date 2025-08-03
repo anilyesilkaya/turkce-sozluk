@@ -2,6 +2,7 @@
 layout: term
 title: postalatma
 slug: postalatma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Postalatmak işi

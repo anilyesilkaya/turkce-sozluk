@@ -2,6 +2,7 @@
 layout: term
 title: şeffaflık
 slug: seffaflik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► saydamlık

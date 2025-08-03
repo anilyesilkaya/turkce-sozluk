@@ -2,6 +2,7 @@
 layout: term
 title: ciğeri beş (veya on) para etmemek
 slug: cigeri-bes-veya-on-para-etmemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - değersiz, aşağılık bir kimse olmak

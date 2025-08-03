@@ -2,6 +2,7 @@
 layout: term
 title: kurt kapanı
 slug: kurt-kapani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurt yakalamak için yapılmış, üzeri çalı ile örtülü çukur

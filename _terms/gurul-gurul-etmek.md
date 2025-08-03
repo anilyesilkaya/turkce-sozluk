@@ -2,6 +2,7 @@
 layout: term
 title: gurul gurul etmek
 slug: gurul-gurul-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - “gurul gurul” sesi çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: yağlı
 slug: yagli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzerinde veya içinde yağı olan

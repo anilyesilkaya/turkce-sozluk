@@ -2,6 +2,7 @@
 layout: term
 title: azıtma
 slug: azitma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azıtmak işi

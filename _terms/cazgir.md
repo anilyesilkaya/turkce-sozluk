@@ -2,6 +2,7 @@
 layout: term
 title: cazgır
 slug: cazgir
+letter: C
 lisan: Türkçe
 anlamlar:
 - Güreşecek olan pehlivanları yüksek sesle izleyicilere tanıtan ve dua okuyarak onları alana süren kimse

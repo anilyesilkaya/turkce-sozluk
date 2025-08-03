@@ -2,6 +2,7 @@
 layout: term
 title: açığını kapamak (veya kapatmak)
 slug: acigini-kapamak-veya-kapatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - eksiğinin veya küçük düşürücü durumunun anlaşılmamasını sağlamak

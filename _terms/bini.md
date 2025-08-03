@@ -2,6 +2,7 @@
 layout: term
 title: bini
 slug: bini
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binmek işi

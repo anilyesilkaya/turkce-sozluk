@@ -2,6 +2,7 @@
 layout: term
 title: evla
 slug: evla
+letter: E
 lisan: Arapça evlāʾ
 anlamlar:
 - Daha iyi

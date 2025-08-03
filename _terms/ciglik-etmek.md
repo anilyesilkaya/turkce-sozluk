@@ -2,6 +2,7 @@
 layout: term
 title: çiğlik etmek
 slug: ciglik-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ters veya yersiz bir davranışta bulunmak

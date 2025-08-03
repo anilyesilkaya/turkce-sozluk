@@ -2,6 +2,7 @@
 layout: term
 title: arka
 slug: arka
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin temel tutulan yüzünün tam ters yanı; ense, ön karşıtı

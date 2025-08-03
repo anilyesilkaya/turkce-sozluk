@@ -2,6 +2,7 @@
 layout: term
 title: kuş gibi uçup gitmek (veya uçmak)
 slug: kus-gibi-ucup-gitmek-veya-ucmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok kısa süren bir hastalıkla ölmek

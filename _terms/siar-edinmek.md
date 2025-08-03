@@ -2,6 +2,7 @@
 layout: term
 title: şiar edinmek
 slug: siar-edinmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - benimsemek, ilke olarak kabul etmek

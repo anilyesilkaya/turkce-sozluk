@@ -2,6 +2,7 @@
 layout: term
 title: cinsel bunalım
 slug: cinsel-bunalim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsel isteğin doyurulmamasından doğan ruh hastalığı

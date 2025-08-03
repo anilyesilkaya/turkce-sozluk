@@ -2,6 +2,7 @@
 layout: term
 title: tornistan etmek
 slug: tornistan-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gemi geri dönmek

@@ -2,6 +2,7 @@
 layout: term
 title: kabahatli
 slug: kabahatli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabahati olan; töhmetli

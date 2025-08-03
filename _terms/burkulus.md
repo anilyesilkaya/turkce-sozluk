@@ -2,6 +2,7 @@
 layout: term
 title: burkuluş
 slug: burkulus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burkulmak işi

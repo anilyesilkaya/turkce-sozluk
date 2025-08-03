@@ -2,6 +2,7 @@
 layout: term
 title: ağrıtış
 slug: agritis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrıtmak işi

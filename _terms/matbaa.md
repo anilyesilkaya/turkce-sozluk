@@ -2,6 +2,7 @@
 layout: term
 title: matbaa
 slug: matbaa
+letter: M
 lisan: Arapça maṭbaʿa
 anlamlar:
 - ► basımevi

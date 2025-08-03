@@ -2,6 +2,7 @@
 layout: term
 title: kündeye almak (veya getirmek)
 slug: kundeye-almak-veya-getirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - güreşçi, rakibini altına alıp bir elini önden, ötekini arkadan geçirerek kilitlemek

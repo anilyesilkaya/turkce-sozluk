@@ -2,6 +2,7 @@
 layout: term
 title: tur atmak
 slug: tur-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - dolaşmak, dolaşıp gelmek, dönmek

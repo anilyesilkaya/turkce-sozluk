@@ -2,6 +2,7 @@
 layout: term
 title: hırdavatçı
 slug: hirdavatci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırdavat satan kimse

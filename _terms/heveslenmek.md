@@ -2,6 +2,7 @@
 layout: term
 title: heveslenmek
 slug: heveslenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► isteklenmek

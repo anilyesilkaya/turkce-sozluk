@@ -2,6 +2,7 @@
 layout: term
 title: tekzip etmek
 slug: tekzip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yalanlamak, doğru olmadığını açıklamak

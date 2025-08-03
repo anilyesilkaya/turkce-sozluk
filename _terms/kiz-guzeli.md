@@ -2,6 +2,7 @@
 layout: term
 title: 'kız güzeli '
 slug: kiz-guzeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok güzel, alımlı kız

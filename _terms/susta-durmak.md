@@ -2,6 +2,7 @@
 layout: term
 title: susta durmak
 slug: susta-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - köpek arka ayakları üzerinde durmak

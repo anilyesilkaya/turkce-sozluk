@@ -2,6 +2,7 @@
 layout: term
 title: şerit
 slug: serit
+letter: Ş
 lisan: Arapça şerīṭ
 anlamlar:
 - Dar, uzun dokuma veya kumaş parçası

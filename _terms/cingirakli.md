@@ -2,6 +2,7 @@
 layout: term
 title: çıngıraklı
 slug: cingirakli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıngırak taşıyan, üzerinde çıngırak bulunan

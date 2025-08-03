@@ -2,6 +2,7 @@
 layout: term
 title: tartısız
 slug: tartisiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartılmamış; vezinsiz

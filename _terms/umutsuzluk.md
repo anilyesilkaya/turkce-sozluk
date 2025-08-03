@@ -2,6 +2,7 @@
 layout: term
 title: umutsuzluk
 slug: umutsuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutsuz olma durumu; ümitsizlik

@@ -2,6 +2,7 @@
 layout: term
 title: çıkabilme
 slug: cikabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkabilmek işi

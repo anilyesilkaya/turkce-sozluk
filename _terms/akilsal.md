@@ -2,6 +2,7 @@
 layout: term
 title: akılsal
 slug: akilsal
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akli

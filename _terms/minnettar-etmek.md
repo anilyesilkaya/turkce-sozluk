@@ -2,6 +2,7 @@
 layout: term
 title: minnettar etmek
 slug: minnettar-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - birini iyilik yaparak borçlu bırakmak

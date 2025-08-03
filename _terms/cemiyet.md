@@ -2,6 +2,7 @@
 layout: term
 title: cemiyet
 slug: cemiyet
+letter: C
 lisan: Arapça cemʿiyyet
 anlamlar:
 - ► dernek

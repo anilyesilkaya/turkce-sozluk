@@ -2,6 +2,7 @@
 layout: term
 title: tahta kaşık
 slug: tahta-kasik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genellikle şimşir ağacından yapılan, yemek pişirirken, yerken veya halk oyunlarında kullanılan kaşık

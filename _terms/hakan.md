@@ -2,6 +2,7 @@
 layout: term
 title: hakan
 slug: hakan
+letter: H
 lisan: Türkçe
 anlamlar:
 - Türk, Moğol ve Tatar hanları için "hükümdarlar hükümdarı" anlamında kullanılan bir ünvan

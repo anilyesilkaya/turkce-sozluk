@@ -2,6 +2,7 @@
 layout: term
 title: alacalanmak
 slug: alacalanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaca bir duruma gelmek

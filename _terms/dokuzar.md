@@ -2,6 +2,7 @@
 layout: term
 title: dokuzar
 slug: dokuzar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokuz sayısının üleştirme sayı sıfatı

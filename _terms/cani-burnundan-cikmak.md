@@ -2,6 +2,7 @@
 layout: term
 title: canı burnundan çıkmak
 slug: cani-burnundan-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok kızgın olmak, öfkelenmek

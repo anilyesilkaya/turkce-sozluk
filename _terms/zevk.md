@@ -2,6 +2,7 @@
 layout: term
 title: zevk
 slug: zevk
+letter: Z
 lisan: Arapça ẕevḳ
 anlamlar:
 - Hoşa giden veya çekici bir şeyin elde edilmesinin veya düşünülmesinin insanda uyandırdığı hoş duygu

@@ -2,6 +2,7 @@
 layout: term
 title: Tanzimatçı
 slug: tanzimatci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanzimat hareketinde görev almış olan kimse

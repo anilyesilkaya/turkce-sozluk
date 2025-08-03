@@ -2,6 +2,7 @@
 layout: term
 title: beraberinde
 slug: beraberinde
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► birlikte

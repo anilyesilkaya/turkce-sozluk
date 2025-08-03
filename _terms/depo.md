@@ -2,6 +2,7 @@
 layout: term
 title: depo
 slug: depo
+letter: D
 lisan: Fransızca dépôt
 anlamlar:
 - Korunmak, saklanmak veya gerektiğinde kullanılmak için bir şeyin konulduğu yer; ardiye, hazne

@@ -2,6 +2,7 @@
 layout: term
 title: hırtlamba
 slug: hirtlamba
+letter: H
 lisan: Türkçe
 anlamlar:
 - Perişan, derbeder kılıklı

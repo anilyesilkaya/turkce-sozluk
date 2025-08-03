@@ -2,6 +2,7 @@
 layout: term
 title: dağlama
 slug: daglama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlamak işi

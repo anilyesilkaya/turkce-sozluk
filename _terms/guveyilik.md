@@ -2,6 +2,7 @@
 layout: term
 title: güveyilik
 slug: guveyilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► damatlık

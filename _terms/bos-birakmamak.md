@@ -2,6 +2,7 @@
 layout: term
 title: boş bırakmamak
 slug: bos-birakmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - para, yiyecek vb. şeylerle yardım ederek, yanında bulunarak ilgi göstermek

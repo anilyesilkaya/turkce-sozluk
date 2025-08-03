@@ -2,6 +2,7 @@
 layout: term
 title: sersemletici
 slug: sersemletici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sersemletmeye sebep olan, yol açan

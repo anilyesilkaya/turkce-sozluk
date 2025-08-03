@@ -2,6 +2,7 @@
 layout: term
 title: belirlenim
 slug: belirlenim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirli duruma gelme işi

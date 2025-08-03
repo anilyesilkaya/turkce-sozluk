@@ -2,6 +2,7 @@
 layout: term
 title: el terazi, göz mizan
 slug: el-terazi-goz-mizan
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"değerlerini, niteliklerini yaklaşık olarak tahmin edebilen" anlamında kullanılan bir söz'

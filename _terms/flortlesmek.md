@@ -2,6 +2,7 @@
 layout: term
 title: flörtleşmek
 slug: flortlesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Flört etmek

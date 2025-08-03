@@ -2,6 +2,7 @@
 layout: term
 title: kumlama
 slug: kumlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çam türü ağaçlarda yıl halkaları arasındaki görüntü ayrımını daha da belirtmek için yüzeye, hava basıncından yararlanarak kum püskürtme

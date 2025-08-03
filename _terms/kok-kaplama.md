@@ -2,6 +2,7 @@
 layout: term
 title: kök kaplama
 slug: kok-kaplama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağacın köklerinden elde edilen, güzel desenli bir kaplama türü

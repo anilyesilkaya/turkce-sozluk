@@ -2,6 +2,7 @@
 layout: term
 title: pastırma yazı
 slug: pastirma-yazi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Güzün sonundaki sıcak günler

@@ -2,6 +2,7 @@
 layout: term
 title: grotesk
 slug: grotesk
+letter: G
 lisan: Fransızca grotesque
 anlamlar:
 - Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu

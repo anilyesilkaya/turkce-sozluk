@@ -2,6 +2,7 @@
 layout: term
 title: dershane
 slug: dershane
+letter: D
 lisan: Arapça ders + Farsça ḫāne
 anlamlar:
 - ► derslik

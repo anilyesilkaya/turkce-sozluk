@@ -2,6 +2,7 @@
 layout: term
 title: çözme
 slug: cozme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözmek işi

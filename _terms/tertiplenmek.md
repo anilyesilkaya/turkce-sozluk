@@ -2,6 +2,7 @@
 layout: term
 title: tertiplenmek
 slug: tertiplenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sıraya konulmak, düzene sokulmak

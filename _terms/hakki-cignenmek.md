@@ -2,6 +2,7 @@
 layout: term
 title: hakkı çiğnenmek
 slug: hakki-cignenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - (birisi) hak kaybına uğratılmak

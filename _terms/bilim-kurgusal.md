@@ -2,6 +2,7 @@
 layout: term
 title: bilim kurgusal
 slug: bilim-kurgusal
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilim kurguya ait, bilim kurguya dayalı

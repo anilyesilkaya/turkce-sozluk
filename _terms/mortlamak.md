@@ -2,6 +2,7 @@
 layout: term
 title: mortlamak
 slug: mortlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► ölmek

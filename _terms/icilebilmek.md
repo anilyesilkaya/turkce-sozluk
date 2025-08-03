@@ -2,6 +2,7 @@
 layout: term
 title: içilebilmek
 slug: icilebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçilme ihtimali veya imkânı bulunmak

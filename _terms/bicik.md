@@ -2,6 +2,7 @@
 layout: term
 title: bicik
 slug: bicik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► meme

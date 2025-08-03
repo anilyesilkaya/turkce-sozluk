@@ -2,6 +2,7 @@
 layout: term
 title: sallanmak
 slug: sallanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bağlı bulunduğu yerde gevşek duruma gelip yerinden oynamak; kımıldamak

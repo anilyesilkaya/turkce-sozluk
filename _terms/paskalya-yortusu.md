@@ -2,6 +2,7 @@
 layout: term
 title: 'Paskalya Yortusu '
 slug: paskalya-yortusu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Hz. İsa’nın dirilişinin yıl dönümünü anmak için Hristiyanlarca kutlanan bayram; Paskalya

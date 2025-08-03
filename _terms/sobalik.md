@@ -2,6 +2,7 @@
 layout: term
 title: sobalık
 slug: sobalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sobaya girebilecek büyüklükte olan

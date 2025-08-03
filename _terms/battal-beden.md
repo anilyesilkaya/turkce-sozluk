@@ -2,6 +2,7 @@
 layout: term
 title: battal beden
 slug: battal-beden
+letter: B
 lisan: Türkçe
 anlamlar:
 - Normalden daha büyük ölçüde olan beden

@@ -2,6 +2,7 @@
 layout: term
 title: sakitlik
 slug: sakitlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakit olma durumu

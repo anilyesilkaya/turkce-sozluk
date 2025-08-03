@@ -2,6 +2,7 @@
 layout: term
 title: yassıca
 slug: yassica
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Biraz yassı

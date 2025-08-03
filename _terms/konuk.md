@@ -2,6 +2,7 @@
 layout: term
 title: konuk
 slug: konuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yere veya birinin evine kısa bir süre kalmak için gelen kimse; misafir, mihman

@@ -2,6 +2,7 @@
 layout: term
 title: zaman tüneli
 slug: zaman-tuneli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bilim kurguda değişik zamanlar arasında geçişin sağlandığına inanılan yer

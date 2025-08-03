@@ -2,6 +2,7 @@
 layout: term
 title: muafiyet sınavı
 slug: muafiyet-sinavi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Öğrencilerin herhangi bir dersten veya sınıftaki derslerin tamamından muaf tutulması amacıyla yapılan sınav

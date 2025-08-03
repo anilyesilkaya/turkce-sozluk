@@ -2,6 +2,7 @@
 layout: term
 title: ne altını bırakmak ne üstünü
 slug: ne-altini-birakmak-ne-ustunu
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir şeyin veya yerin her tarafını karıştırmak, dolaşmak vb

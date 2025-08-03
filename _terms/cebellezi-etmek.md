@@ -2,6 +2,7 @@
 layout: term
 title: cebellezi etmek
 slug: cebellezi-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çalmak

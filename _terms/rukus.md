@@ -2,6 +2,7 @@
 layout: term
 title: rüküş
 slug: rukus
+letter: R
 lisan: Arapça ruḳşe
 anlamlar:
 - Gülünç bir biçimde giyinip süslenen (kadın)

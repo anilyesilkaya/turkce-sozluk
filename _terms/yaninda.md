@@ -2,6 +2,7 @@
 layout: term
 title: yanında
 slug: yaninda
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeye, bir kimseye göre; indinde, nispetle

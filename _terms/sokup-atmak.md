@@ -2,6 +2,7 @@
 layout: term
 title: söküp atmak
 slug: sokup-atmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - gözden çıkarmak, kıymak, feda etmek

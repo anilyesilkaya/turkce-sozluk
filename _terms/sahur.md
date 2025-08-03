@@ -2,6 +2,7 @@
 layout: term
 title: sahur
 slug: sahur
+letter: S
 lisan: Arapça saḥūr
 anlamlar:
 - Ramazan ayında oruç tutanların gün doğmadan önce belirli saatte yedikleri yemek

@@ -2,6 +2,7 @@
 layout: term
 title: erk
 slug: erk
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► iktidar

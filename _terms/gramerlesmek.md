@@ -2,6 +2,7 @@
 layout: term
 title: gramerleşmek
 slug: gramerlesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► dil bilgiselleşmek

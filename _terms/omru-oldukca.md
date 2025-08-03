@@ -2,6 +2,7 @@
 layout: term
 title: ömrü oldukça
 slug: omru-oldukca
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - yaşadıkça

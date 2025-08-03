@@ -2,6 +2,7 @@
 layout: term
 title: pergelleri açmak
 slug: pergelleri-acmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - uzun adımlarla ve hızlı hızlı  yürümek

@@ -2,6 +2,7 @@
 layout: term
 title: ön ses
 slug: on-ses
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kelime başında bulunan ilk ses

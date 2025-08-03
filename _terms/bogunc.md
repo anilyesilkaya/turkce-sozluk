@@ -2,6 +2,7 @@
 layout: term
 title: boğunç
 slug: bogunc
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok sıkıntılı ruhsal durum

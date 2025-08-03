@@ -2,6 +2,7 @@
 layout: term
 title: arşınlamak
 slug: arsinlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşınla ölçmek

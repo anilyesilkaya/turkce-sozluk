@@ -2,6 +2,7 @@
 layout: term
 title: musalla
 slug: musalla
+letter: M
 lisan: Arapça muṣallā
 anlamlar:
 - ► namazgâh

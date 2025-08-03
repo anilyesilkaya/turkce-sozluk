@@ -2,6 +2,7 @@
 layout: term
 title: sürüye sürüye
 slug: suruye-suruye
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürükleyerek

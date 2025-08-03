@@ -2,6 +2,7 @@
 layout: term
 title: yâran
 slug: yaran
+letter: Y
 lisan: Farsça yārān
 anlamlar:
 - Dostlar

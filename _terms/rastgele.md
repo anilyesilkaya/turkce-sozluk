@@ -2,6 +2,7 @@
 layout: term
 title: rastgele
 slug: rastgele
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► gelişigüzel

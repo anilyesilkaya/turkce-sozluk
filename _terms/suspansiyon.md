@@ -2,6 +2,7 @@
 layout: term
 title: süspansiyon
 slug: suspansiyon
+letter: S
 lisan: Fransızca suspension
 anlamlar:
 - ► asıltı

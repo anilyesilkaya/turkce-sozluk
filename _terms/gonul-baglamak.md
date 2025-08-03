@@ -2,6 +2,7 @@
 layout: term
 title: gönül bağlamak
 slug: gonul-baglamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - severek bağlanmak, içten sevmek, âşık olmak

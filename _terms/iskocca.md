@@ -2,6 +2,7 @@
 layout: term
 title: İskoçça
 slug: iskocca
+letter: İ
 lisan: Türkçe
 anlamlar:
 - İskoç dili

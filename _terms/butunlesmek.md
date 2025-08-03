@@ -2,6 +2,7 @@
 layout: term
 title: bütünleşmek
 slug: butunlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütün duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: dünya bir araya gelse
 slug: dunya-bir-araya-gelse
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"dünyadaki bütün insanlar engel olmaya kalksa bile" anlamında kullanılan bir söz'

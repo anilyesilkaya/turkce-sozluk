@@ -2,6 +2,7 @@
 layout: term
 title: sefile
 slug: sefile
+letter: S
 lisan: Arapça sefįle
 anlamlar:
 - Sefalet içinde bulunan kadın

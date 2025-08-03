@@ -2,6 +2,7 @@
 layout: term
 title: ayrı gayrı
 slug: ayri-gayri
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsan ilişkilerindeki resmiyet

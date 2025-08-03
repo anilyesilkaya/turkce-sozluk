@@ -2,6 +2,7 @@
 layout: term
 title: çıkrıkçın
 slug: cikrikcin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir tür ördek

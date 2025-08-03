@@ -2,6 +2,7 @@
 layout: term
 title: tastamam
 slug: tastamam
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tıpatıp

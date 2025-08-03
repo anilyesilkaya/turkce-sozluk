@@ -2,6 +2,7 @@
 layout: term
 title: individüalizm
 slug: individualizm
+letter: I
 lisan: Fransızca individualisme
 anlamlar:
 - ► bireycilik

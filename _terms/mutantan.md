@@ -2,6 +2,7 @@
 layout: term
 title: mutantan
 slug: mutantan
+letter: M
 lisan: Arapça muṭanṭan
 anlamlar:
 - ► görkemli

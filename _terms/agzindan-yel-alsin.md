@@ -2,6 +2,7 @@
 layout: term
 title: ağzından yel alsın!
 slug: agzindan-yel-alsin
+letter: A
 lisan: Türkçe
 anlamlar:
 - ağzını hayra aç!

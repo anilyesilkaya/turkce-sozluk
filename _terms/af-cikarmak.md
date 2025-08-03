@@ -2,6 +2,7 @@
 layout: term
 title: af çıkarmak
 slug: af-cikarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir suçun bağışlanması için Türkiye Büyük Millet Meclisinden kanun çıkarmak

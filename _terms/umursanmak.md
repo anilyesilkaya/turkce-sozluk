@@ -2,6 +2,7 @@
 layout: term
 title: umursanmak
 slug: umursanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umursama durumuna konu olmak

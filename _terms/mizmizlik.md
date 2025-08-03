@@ -2,6 +2,7 @@
 layout: term
 title: mızmızlık
 slug: mizmizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızmız olma durumu

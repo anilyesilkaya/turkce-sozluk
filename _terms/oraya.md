@@ -2,6 +2,7 @@
 layout: term
 title: oraya
 slug: oraya
+letter: O
 lisan: Türkçe
 anlamlar:
 - O yere, o yöne

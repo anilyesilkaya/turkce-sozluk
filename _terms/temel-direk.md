@@ -2,6 +2,7 @@
 layout: term
 title: temel direk
 slug: temel-direk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin dayandığı, güç aldığı en önemli öge, nesne veya kişi

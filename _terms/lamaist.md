@@ -2,6 +2,7 @@
 layout: term
 title: lamaist
 slug: lamaist
+letter: L
 lisan: Fransızca lamaïst
 anlamlar:
 - ► lamacı

@@ -2,6 +2,7 @@
 layout: term
 title: makas
 slug: makas
+letter: M
 lisan: Arapça miḳaṣṣ
 anlamlar:
 - Bir eksen çevresinde dönebilecek biçimde çapraz eklemlenmiş, birbirine bakan yüzleri keskin iki çelik lamadan oluşmuş, arasına yerleştirilen herhangi bir şeyi kesmeye yarayan araç; sındı

@@ -2,6 +2,7 @@
 layout: term
 title: bagaj
 slug: bagaj
+letter: B
 lisan: Fransızca bagage
 anlamlar:
 - Yolcunun beraberinde götürdüğü giyim vb. eşya

@@ -2,6 +2,7 @@
 layout: term
 title: İstanbul nazendesi
 slug: istanbul-nazendesi
+letter: İ
 lisan: 'Türkçe '
 anlamlar:
 - ► ıtırşahi

@@ -2,6 +2,7 @@
 layout: term
 title: hafta sekiz, gün dokuz
 slug: hafta-sekiz-gun-dokuz
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"tedirgin edercesine sık sık" anlamında kullanılan bir söz'

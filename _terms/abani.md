@@ -2,6 +2,7 @@
 layout: term
 title: abani
 slug: abani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle sarık, bohça, kundak ve yorgan yüzü yapımında kullanılan, zemini beyaz, üzerinde safran renginde nakışlar bulunan ipek kumaş

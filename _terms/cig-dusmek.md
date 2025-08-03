@@ -2,6 +2,7 @@
 layout: term
 title: çiğ düşmek
 slug: cig-dusmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hoş karşılanmamak, kaba ve yersiz bulunmak

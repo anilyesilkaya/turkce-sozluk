@@ -2,6 +2,7 @@
 layout: term
 title: sığın
 slug: sigin
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► alageyik

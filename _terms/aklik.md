@@ -2,6 +2,7 @@
 layout: term
 title: aklık
 slug: aklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► beyazlık

@@ -2,6 +2,7 @@
 layout: term
 title: cascavlak
 slug: cascavlak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Saçsız (baş)

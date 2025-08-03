@@ -2,6 +2,7 @@
 layout: term
 title: boş gezenin boş kalfası
 slug: bos-gezenin-bos-kalfasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - işsiz güçsüz dolaşan (kimse)

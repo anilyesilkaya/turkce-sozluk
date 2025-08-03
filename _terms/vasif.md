@@ -2,6 +2,7 @@
 layout: term
 title: vasıf
 slug: vasif
+letter: V
 lisan: Arapça vaṣf
 anlamlar:
 - ► nitelik

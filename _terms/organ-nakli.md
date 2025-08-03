@@ -2,6 +2,7 @@
 layout: term
 title: organ nakli
 slug: organ-nakli
+letter: O
 lisan: Türkçe
 anlamlar:
 - İşlevini yitirmiş bir organın yerine sağlam bir organı koyma; organ aktarımı, transplantasyon

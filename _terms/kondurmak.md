@@ -2,6 +2,7 @@
 layout: term
 title: kondurmak
 slug: kondurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konma işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: yemeni
 slug: yemeni
+letter: Y
 lisan: Arapça yemenī
 anlamlar:
 - Kalıpla basılıp elle boyanan, kadınların başlarına bağladıkları tülbent; çember, çit (II), değirmi

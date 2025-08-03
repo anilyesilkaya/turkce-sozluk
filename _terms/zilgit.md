@@ -2,6 +2,7 @@
 layout: term
 title: zılgıt
 slug: zilgit
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► azarlama

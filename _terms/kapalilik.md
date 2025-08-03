@@ -2,6 +2,7 @@
 layout: term
 title: kapalılık
 slug: kapalilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapalı olma durumu

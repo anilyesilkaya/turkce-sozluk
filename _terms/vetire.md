@@ -2,6 +2,7 @@
 layout: term
 title: vetire
 slug: vetire
+letter: V
 lisan: Arapça vetīre
 anlamlar:
 - ► süreç

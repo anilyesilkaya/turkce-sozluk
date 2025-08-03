@@ -2,6 +2,7 @@
 layout: term
 title: hesaplaşma
 slug: hesaplasma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesaplaşmak işi

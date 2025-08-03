@@ -2,6 +2,7 @@
 layout: term
 title: hava kararmak
 slug: hava-kararmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - güneşin batmasıyla ortalık kararmak

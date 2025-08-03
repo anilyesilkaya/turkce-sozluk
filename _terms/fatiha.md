@@ -2,6 +2,7 @@
 layout: term
 title: Fatiha
 slug: fatiha
+letter: F
 lisan: Arapça fātiḥa
 anlamlar:
 - Kur'an'ın ilk suresi

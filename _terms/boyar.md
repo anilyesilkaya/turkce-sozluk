@@ -2,6 +2,7 @@
 layout: term
 title: boyar
 slug: boyar
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boyar madde

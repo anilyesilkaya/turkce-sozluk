@@ -2,6 +2,7 @@
 layout: term
 title: kadıncağız
 slug: kadincagiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendisine şefkat ve acıma duyulan kadın

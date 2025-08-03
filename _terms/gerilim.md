@@ -2,6 +2,7 @@
 layout: term
 title: gerilim
 slug: gerilim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerginlik; tansiyon

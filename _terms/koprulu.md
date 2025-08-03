@@ -2,6 +2,7 @@
 layout: term
 title: köprülü
 slug: koprulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köprüsü olan

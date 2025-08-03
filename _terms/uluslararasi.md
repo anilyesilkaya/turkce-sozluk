@@ -2,6 +2,7 @@
 layout: term
 title: uluslararası
 slug: uluslararasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çeşitli milletlerle birlikte yapılan; arsıulusal, memleketler arası, milletlerarası, beynelmilel, enternasyonal

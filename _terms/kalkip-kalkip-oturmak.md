@@ -2,6 +2,7 @@
 layout: term
 title: kalkıp kalkıp oturmak
 slug: kalkip-kalkip-oturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - öfke, heyecan vb. duygular sebebiyle yerinde duramaz olmak, hop oturup hop kalkmak

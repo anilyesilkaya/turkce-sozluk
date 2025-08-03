@@ -2,6 +2,7 @@
 layout: term
 title: şambaba
 slug: sambaba
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bir tür hamur tatlısı; baba tatlısı, şambabası

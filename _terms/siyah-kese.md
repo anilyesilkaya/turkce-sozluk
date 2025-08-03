@@ -2,6 +2,7 @@
 layout: term
 title: siyah kese
 slug: siyah-kese
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ahilikte esnafa ait nakit paraların saklandığı kese

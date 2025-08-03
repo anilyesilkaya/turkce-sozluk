@@ -2,6 +2,7 @@
 layout: term
 title: alıklaşmak
 slug: aliklasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alık duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: yıkatmak
 slug: yikatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkama işini yaptırmak

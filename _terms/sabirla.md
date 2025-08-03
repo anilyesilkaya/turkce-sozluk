@@ -2,6 +2,7 @@
 layout: term
 title: sabırla
 slug: sabirla
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabrederek, sabır göstererek

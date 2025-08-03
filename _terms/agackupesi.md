@@ -2,6 +2,7 @@
 layout: term
 title: ağaçküpesi
 slug: agackupesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hatmi

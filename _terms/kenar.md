@@ -2,6 +2,7 @@
 layout: term
 title: kenar
 slug: kenar
+letter: K
 lisan: Farsça kenār
 anlamlar:
 - Bir şeyin, bir yerin bitiş kısmı veya yakını; yaka, cidar, lep

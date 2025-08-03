@@ -2,6 +2,7 @@
 layout: term
 title: hayvan gibi
 slug: hayvan-gibi
+letter: H
 lisan: Türkçe
 anlamlar:
 - hayvana benzer biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: av dönemi
 slug: av-donemi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Av hayvanlarının avlanmasının serbest olduğu yılın belirli bölümü; av mevsimi, av sezonu, avlanma dönemi, avlanma mevsimi, avlanma sezonu

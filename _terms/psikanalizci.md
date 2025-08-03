@@ -2,6 +2,7 @@
 layout: term
 title: psikanalizci
 slug: psikanalizci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Hastalarını psikanalizle tedavi eden hekim; psikanalist

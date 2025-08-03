@@ -2,6 +2,7 @@
 layout: term
 title: asimetrik bar
 slug: asimetrik-bar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yan yana kurulmuş biri 1,60 m, diğeri 2,40 m yükseklikte iki esnek çubuktan oluşan jimnastik aleti; asimetrik paralel

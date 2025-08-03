@@ -2,6 +2,7 @@
 layout: term
 title: dudak benzeşmesi
 slug: dudak-benzesmesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dudak ünsüzlerinin veya ünlülerinin düz ünlüleri etkileyip yuvarlaklaştırması

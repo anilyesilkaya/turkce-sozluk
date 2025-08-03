@@ -2,6 +2,7 @@
 layout: term
 title: ortam yaratmak
 slug: ortam-yaratmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - imkân sağlamak

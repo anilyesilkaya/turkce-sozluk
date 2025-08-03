@@ -2,6 +2,7 @@
 layout: term
 title: maşlah
 slug: maslah
+letter: M
 lisan: Arapça maşlaḥ
 anlamlar:
 - Tek parçalı ve kol yerine yarıkları olan, pelerine benzer bir tür kadın üstlüğü

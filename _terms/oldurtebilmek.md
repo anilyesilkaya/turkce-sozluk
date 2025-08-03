@@ -2,6 +2,7 @@
 layout: term
 title: öldürtebilmek
 slug: oldurtebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürtme ihtimali veya imkânı bulunmak

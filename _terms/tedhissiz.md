@@ -2,6 +2,7 @@
 layout: term
 title: tedhişsiz
 slug: tedhissiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terörü olmayan

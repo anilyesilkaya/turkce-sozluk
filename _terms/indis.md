@@ -2,6 +2,7 @@
 layout: term
 title: indis
 slug: indis
+letter: I
 lisan: Fransızca indice
 anlamlar:
 - Bir harf üzerine konulan işaret

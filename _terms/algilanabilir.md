@@ -2,6 +2,7 @@
 layout: term
 title: algılanabilir
 slug: algilanabilir
+letter: A
 lisan: Türkçe
 anlamlar:
 - Duyular yardımıyla varlığı anlaşılabilir olan

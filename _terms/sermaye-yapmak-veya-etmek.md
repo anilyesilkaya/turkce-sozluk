@@ -2,6 +2,7 @@
 layout: term
 title: sermaye yapmak (veya etmek)
 slug: sermaye-yapmak-veya-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - iş yeri açmak için gereken parayı sağlamak

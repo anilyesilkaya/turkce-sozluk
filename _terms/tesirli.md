@@ -2,6 +2,7 @@
 layout: term
 title: tesirli
 slug: tesirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► etkili

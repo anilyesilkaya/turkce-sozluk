@@ -2,6 +2,7 @@
 layout: term
 title: guruldamak
 slug: guruldamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - “Gurul gurul” ses çıkarmak

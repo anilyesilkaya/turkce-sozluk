@@ -2,6 +2,7 @@
 layout: term
 title: gabavet
 slug: gabavet
+letter: G
 lisan: Arapça ġabāvet
 anlamlar:
 - ► kalın kafalılık

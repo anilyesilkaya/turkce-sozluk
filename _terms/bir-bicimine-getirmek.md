@@ -2,6 +2,7 @@
 layout: term
 title: bir biçimine getirmek
 slug: bir-bicimine-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çözüm yolu bulmak

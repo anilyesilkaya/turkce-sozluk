@@ -2,6 +2,7 @@
 layout: term
 title: kapı kapı dolaşmak (veya gezmek)
 slug: kapi-kapi-dolasmak-veya-gezmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ev ev gezmek

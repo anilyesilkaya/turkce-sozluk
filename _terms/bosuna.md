@@ -2,6 +2,7 @@
 layout: term
 title: boşuna
 slug: bosuna
+letter: B
 lisan: Türkçe
 anlamlar:
 - İşe yaramayan

@@ -2,6 +2,7 @@
 layout: term
 title: safiyane
 slug: safiyane
+letter: S
 lisan: Arapça ṣāfī + Farsça -āne
 anlamlar:
 - ► safça

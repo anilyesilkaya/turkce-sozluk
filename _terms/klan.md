@@ -2,6 +2,7 @@
 layout: term
 title: klan
 slug: klan
+letter: K
 lisan: Fransızca clan
 anlamlar:
 - ► boy (II)

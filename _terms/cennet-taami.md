@@ -2,6 +2,7 @@
 layout: term
 title: cennet taamı
 slug: cennet-taami
+letter: C
 lisan: Türkçe
 anlamlar:
 - Tadı çok güzel olan yemek veya yiyecek

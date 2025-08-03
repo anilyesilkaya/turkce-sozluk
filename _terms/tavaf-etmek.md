@@ -2,6 +2,7 @@
 layout: term
 title: tavaf etmek
 slug: tavaf-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyin çevresini dolaşmak

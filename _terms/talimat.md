@@ -2,6 +2,7 @@
 layout: term
 title: talimat
 slug: talimat
+letter: T
 lisan: Arapça taʿlīmāt
 anlamlar:
 - ► yönerge

@@ -2,6 +2,7 @@
 layout: term
 title: yaralamak
 slug: yaralamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Silah, bıçak vb. bir araçla veya vurarak yara açmak

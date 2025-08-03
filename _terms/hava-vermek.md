@@ -2,6 +2,7 @@
 layout: term
 title: hava vermek
 slug: hava-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - tekerlek vb. cisimleri hava ile şişirmek, şişkinliğini artırmak, hava basmak

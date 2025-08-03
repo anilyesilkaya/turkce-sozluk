@@ -2,6 +2,7 @@
 layout: term
 title: mıncırık
 slug: mincirik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Küçük, afacan, zeki (çocuk)

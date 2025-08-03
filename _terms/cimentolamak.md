@@ -2,6 +2,7 @@
 layout: term
 title: çimentolamak
 slug: cimentolamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimento sürmek, çimento ile sıvamak

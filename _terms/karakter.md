@@ -2,6 +2,7 @@
 layout: term
 title: karakter
 slug: karakter
+letter: K
 lisan: Fransızca caractère
 anlamlar:
 - Ayırt edici nitelik

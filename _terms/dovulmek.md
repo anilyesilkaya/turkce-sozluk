@@ -2,6 +2,7 @@
 layout: term
 title: dövülmek
 slug: dovulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövme işine konu olmak; pataklanmak, sopalanmak

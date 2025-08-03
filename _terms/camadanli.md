@@ -2,6 +2,7 @@
 layout: term
 title: camadanlı
 slug: camadanli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Camadan giymiş olan

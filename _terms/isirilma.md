@@ -2,6 +2,7 @@
 layout: term
 title: ısırılma
 slug: isirilma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isırılmak işi

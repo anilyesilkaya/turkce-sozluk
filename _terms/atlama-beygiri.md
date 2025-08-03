@@ -2,6 +2,7 @@
 layout: term
 title: atlama beygiri
 slug: atlama-beygiri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüksekliği değişik ölçülere ayarlanabilen ve atlamalar için kullanılan beden eğitimi aracı; beygir

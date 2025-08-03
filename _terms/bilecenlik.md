@@ -2,6 +2,7 @@
 layout: term
 title: bilecenlik
 slug: bilecenlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilecen olma durumu

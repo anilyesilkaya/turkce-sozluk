@@ -2,6 +2,7 @@
 layout: term
 title: seracı
 slug: seraci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sera yapan kişi

@@ -2,6 +2,7 @@
 layout: term
 title: çılgınca
 slug: cilginca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Deli gibi; çılgıncasına, çıldırasıya

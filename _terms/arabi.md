@@ -2,6 +2,7 @@
 layout: term
 title: Arabi
 slug: arabi
+letter: A
 lisan: Arapça ʿarabī
 anlamlar:
 - ► Arapça

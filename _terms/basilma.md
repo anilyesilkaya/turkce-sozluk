@@ -2,6 +2,7 @@
 layout: term
 title: basılma
 slug: basilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basılmak işi; tabedilme, tabolunma

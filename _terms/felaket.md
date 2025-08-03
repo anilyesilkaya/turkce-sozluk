@@ -2,6 +2,7 @@
 layout: term
 title: felaket
 slug: felaket
+letter: F
 lisan: Arapça felāket
 anlamlar:
 - Büyük zarar, üzüntü ve sıkıntılara yol açan olay veya durum; yıkım, katastrof

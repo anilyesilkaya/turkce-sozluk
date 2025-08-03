@@ -2,6 +2,7 @@
 layout: term
 title: remil
 slug: remil
+letter: R
 lisan: Arapça reml
 anlamlar:
 - Kumda birtakım çizgiler çizerek fala bakma

@@ -2,6 +2,7 @@
 layout: term
 title: baltayı taşa vurmak
 slug: baltayi-tasa-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - farkında olmayarak birine dokunacak sözler söylemek, pot kırmak

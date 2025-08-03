@@ -2,6 +2,7 @@
 layout: term
 title: boyunluk
 slug: boyunluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dış etkenler ve ani hareketlerden boynu korumak için kullanılan gereç

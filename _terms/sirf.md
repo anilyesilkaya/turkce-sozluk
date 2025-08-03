@@ -2,6 +2,7 @@
 layout: term
 title: sırf
 slug: sirf
+letter: S
 lisan: Arapça ṣirf
 anlamlar:
 - ► yalnızca

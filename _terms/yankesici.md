@@ -2,6 +2,7 @@
 layout: term
 title: yankesici
 slug: yankesici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin cebinden, çantasından ustalıkla, hissettirmeden bir şeyler çalan kimse; arpacı (II), cep faresi, cepçi, tırtıkçı

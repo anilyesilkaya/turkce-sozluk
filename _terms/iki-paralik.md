@@ -2,6 +2,7 @@
 layout: term
 title: iki paralık
 slug: iki-paralik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çok az

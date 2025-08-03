@@ -2,6 +2,7 @@
 layout: term
 title: çırpınıvermek
 slug: cirpinivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ansızın çırpınmak

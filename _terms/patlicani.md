@@ -2,6 +2,7 @@
 layout: term
 title: patlıcani
 slug: patlicani
+letter: P
 lisan: Arapça bādincānī
 anlamlar:
 - Patlıcan rengi

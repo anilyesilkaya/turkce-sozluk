@@ -2,6 +2,7 @@
 layout: term
 title: hizmete girmek
 slug: hizmete-girmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - çalışmaya başlamak

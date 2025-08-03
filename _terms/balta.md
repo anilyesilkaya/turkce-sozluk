@@ -2,6 +2,7 @@
 layout: term
 title: balta
 slug: balta
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ağacı kesme, yarma, yontma vb. işlerde kullanılan ağaç saplı, demir araç

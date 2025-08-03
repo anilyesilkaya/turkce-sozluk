@@ -2,6 +2,7 @@
 layout: term
 title: uhrevilik
 slug: uhrevilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uhrevi olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: pişman olmak
 slug: pisman-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yaptığı bir işin yanlış veya uygunsuz sonuç verdiğini anlayarak üzülmek

@@ -2,6 +2,7 @@
 layout: term
 title: el bebek gül bebek
 slug: el-bebek-gul-bebek
+letter: E
 lisan: Türkçe
 anlamlar:
 - nazlı, şımarık bir biçimde

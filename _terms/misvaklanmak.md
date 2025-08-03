@@ -2,6 +2,7 @@
 layout: term
 title: misvaklanmak
 slug: misvaklanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Dişler misvakla temizlenmek

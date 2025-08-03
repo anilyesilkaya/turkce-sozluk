@@ -2,6 +2,7 @@
 layout: term
 title: damla sakızı
 slug: damla-sakizi
+letter: D
 lisan: Türkçe
 anlamlar:
 - İri taneli, parlak ve çok sevilen bir sakız türü

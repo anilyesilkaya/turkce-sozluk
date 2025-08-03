@@ -2,6 +2,7 @@
 layout: term
 title: gölük
 slug: goluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yük taşıyan ve binilen at, eşek, beygir, katır vb. hayvan

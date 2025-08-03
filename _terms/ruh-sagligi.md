@@ -2,6 +2,7 @@
 layout: term
 title: ruh sağlığı
 slug: ruh-sagligi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ruhsal bakımdan sağlıklı olma

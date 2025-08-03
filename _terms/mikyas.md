@@ -2,6 +2,7 @@
 layout: term
 title: mikyas
 slug: mikyas
+letter: M
 lisan: Arapça miḳyās
 anlamlar:
 - Bir şeyi ölçmeye yarayan alet

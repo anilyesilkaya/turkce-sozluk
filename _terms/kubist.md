@@ -2,6 +2,7 @@
 layout: term
 title: kübist
 slug: kubist
+letter: K
 lisan: Fransızca cubiste
 anlamlar:
 - Kübizmi uygulayan, kübizm yanlısı (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: istihbarat
 slug: istihbarat
+letter: I
 lisan: Arapça istiḫbārāt
 anlamlar:
 - Yeni öğrenilen bilgiler, haberler

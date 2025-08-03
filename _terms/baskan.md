@@ -2,6 +2,7 @@
 layout: term
 title: başkan
 slug: baskan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir topluluğun, bir toplantının veya bir derneğin başında bulunan kimse; reis, reis bey

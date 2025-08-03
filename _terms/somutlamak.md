@@ -2,6 +2,7 @@
 layout: term
 title: somutlamak
 slug: somutlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Somut duruma getirmek

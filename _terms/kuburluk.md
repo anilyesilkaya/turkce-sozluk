@@ -2,6 +2,7 @@
 layout: term
 title: kuburluk
 slug: kuburluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tabanca kılıfı

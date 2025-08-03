@@ -2,6 +2,7 @@
 layout: term
 title: girmek
 slug: girmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dışarıdan içeriye geçmek; kaçmak

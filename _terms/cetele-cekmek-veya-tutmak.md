@@ -2,6 +2,7 @@
 layout: term
 title: çetele çekmek (veya tutmak)
 slug: cetele-cekmek-veya-tutmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hesap tutmak amacı ile bir yere çizgiler çizmek

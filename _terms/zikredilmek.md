@@ -2,6 +2,7 @@
 layout: term
 title: zikredilmek
 slug: zikredilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Adı anılmak

@@ -2,6 +2,7 @@
 layout: term
 title: enjektör
 slug: enjektor
+letter: E
 lisan: Fransızca injecteur
 anlamlar:
 - Silindir ve pistondan oluşan ve ucuna iğne takılabilen, sıvı maddeleri vermek veya çekmek için kullanılan tıbbi araç; şırınga

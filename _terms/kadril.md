@@ -2,6 +2,7 @@
 layout: term
 title: kadril
 slug: kadril
+letter: K
 lisan: Fransızca quadrille
 anlamlar:
 - Salon danslarından biri

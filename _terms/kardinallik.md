@@ -2,6 +2,7 @@
 layout: term
 title: kardinallik
 slug: kardinallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kardinal olma durumu

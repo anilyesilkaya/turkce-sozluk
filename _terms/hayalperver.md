@@ -2,6 +2,7 @@
 layout: term
 title: hayalperver
 slug: hayalperver
+letter: H
 lisan: Arapça ḫayāl + Farsça -perver
 anlamlar:
 - ► hayalci

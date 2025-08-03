@@ -2,6 +2,7 @@
 layout: term
 title: sinme
 slug: sinme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinmek işi; pısma

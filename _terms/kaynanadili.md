@@ -2,6 +2,7 @@
 layout: term
 title: kaynanadili
 slug: kaynanadili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir iğne oyası motifi

@@ -2,6 +2,7 @@
 layout: term
 title: sayfalandırmak
 slug: sayfalandirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gazetecilikte, basımevinde dizilen yazılara sayfa düzeni vermek

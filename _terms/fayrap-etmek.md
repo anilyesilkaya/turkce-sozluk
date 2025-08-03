@@ -2,6 +2,7 @@
 layout: term
 title: fayrap etmek
 slug: fayrap-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - ocağın ateşini harlandırmak

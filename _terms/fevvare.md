@@ -2,6 +2,7 @@
 layout: term
 title: fevvare
 slug: fevvare
+letter: F
 lisan: Arapça fevvāre
 anlamlar:
 - ► fıskiye

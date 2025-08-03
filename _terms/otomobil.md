@@ -2,6 +2,7 @@
 layout: term
 title: otomobil
 slug: otomobil
+letter: O
 lisan: Fransızca automobile
 anlamlar:
 - Motorlu, dört tekerlekli kara taşıtı

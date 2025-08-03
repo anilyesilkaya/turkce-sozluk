@@ -2,6 +2,7 @@
 layout: term
 title: çift çubuk
 slug: cift-cubuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiftçilik yapabilmek için gereken her türlü araç

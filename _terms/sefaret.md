@@ -2,6 +2,7 @@
 layout: term
 title: sefaret
 slug: sefaret
+letter: S
 lisan: Arapça sefāret
 anlamlar:
 - ► elçilik

@@ -2,6 +2,7 @@
 layout: term
 title: pılı pırtı (veya pılıyı pırtıyı) toplamak
 slug: pili-pirti-veya-piliyi-pirtiyi-toplamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - götürmek üzere bütün eşyalarını toplamak

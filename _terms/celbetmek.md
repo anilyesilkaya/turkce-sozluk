@@ -2,6 +2,7 @@
 layout: term
 title: celbetmek
 slug: celbetmek
+letter: C
 lisan: Arapça celb + Türkçe etmek
 anlamlar:
 - Kendi üzerine çekmek

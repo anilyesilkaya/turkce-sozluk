@@ -2,6 +2,7 @@
 layout: term
 title: utanmazlık
 slug: utanmazlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Utanmaz olma durumu; arlanmazlık, sıkılmazlık, yırtıklık, yüzsüzlük

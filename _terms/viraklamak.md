@@ -2,6 +2,7 @@
 layout: term
 title: vıraklamak
 slug: viraklamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Kurbağa, karga vb. vırak diye ses çıkarmak

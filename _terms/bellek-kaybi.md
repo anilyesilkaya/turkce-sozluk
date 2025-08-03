@@ -2,6 +2,7 @@
 layout: term
 title: bellek kaybı
 slug: bellek-kaybi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bellek yitimi

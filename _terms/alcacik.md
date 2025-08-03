@@ -2,6 +2,7 @@
 layout: term
 title: alçacık
 slug: alcacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok alçak

@@ -2,6 +2,7 @@
 layout: term
 title: zarflı
 slug: zarfli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarfı olan

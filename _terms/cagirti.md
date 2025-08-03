@@ -2,6 +2,7 @@
 layout: term
 title: çağırtı
 slug: cagirti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağırma sesi

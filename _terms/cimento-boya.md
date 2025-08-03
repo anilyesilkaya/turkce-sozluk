@@ -2,6 +2,7 @@
 layout: term
 title: çimento boya
 slug: cimento-boya
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Suyla karıştırılarak hemen kullanılabilen çimento esaslı toz boya

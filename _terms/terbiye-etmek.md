@@ -2,6 +2,7 @@
 layout: term
 title: terbiye etmek
 slug: terbiye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - eğitmek

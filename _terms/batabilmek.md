@@ -2,6 +2,7 @@
 layout: term
 title: batabilmek
 slug: batabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batma ihtimali veya imkânı bulunmak

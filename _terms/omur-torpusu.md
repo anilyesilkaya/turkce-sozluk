@@ -2,6 +2,7 @@
 layout: term
 title: ömür törpüsü
 slug: omur-torpusu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Uzun ve üzücü iş

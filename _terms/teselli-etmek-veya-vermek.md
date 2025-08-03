@@ -2,6 +2,7 @@
 layout: term
 title: teselli etmek (veya vermek)
 slug: teselli-etmek-veya-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - avutmak

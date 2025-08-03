@@ -2,6 +2,7 @@
 layout: term
 title: platinimsi
 slug: platinimsi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Platini andıran, platine benzeyen, platin gibi; platinsi

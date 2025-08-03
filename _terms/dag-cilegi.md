@@ -2,6 +2,7 @@
 layout: term
 title: dağ çileği
 slug: dag-cilegi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağda yetişen çilek; yaban çileği

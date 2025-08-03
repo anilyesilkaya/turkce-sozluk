@@ -2,6 +2,7 @@
 layout: term
 title: ülküsel
 slug: ulkusel
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ülkü ile ilgili; ideal

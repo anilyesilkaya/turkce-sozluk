@@ -2,6 +2,7 @@
 layout: term
 title: çocuk yuvası
 slug: cocuk-yuvasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► yuva

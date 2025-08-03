@@ -2,6 +2,7 @@
 layout: term
 title: mızıklanma
 slug: miziklanma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızıklanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: ceht
 slug: ceht
+letter: C
 lisan: Arapça cehd
 anlamlar:
 - ► çaba

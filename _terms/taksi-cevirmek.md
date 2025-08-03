@@ -2,6 +2,7 @@
 layout: term
 title: taksi çevirmek
 slug: taksi-cevirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hareket hâlindeki taksiyi bir yere gitmek için durdurmak

@@ -2,6 +2,7 @@
 layout: term
 title: tebelleş olmak
 slug: tebelles-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir kimsenin veya şeyin başına dert olmak, musallat olmak

@@ -2,6 +2,7 @@
 layout: term
 title: siktirmek
 slug: siktirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Defolup gitmek

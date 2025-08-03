@@ -2,6 +2,7 @@
 layout: term
 title: alımlanış
 slug: alimlanis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alımlanmak işi

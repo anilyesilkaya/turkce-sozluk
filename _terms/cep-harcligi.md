@@ -2,6 +2,7 @@
 layout: term
 title: cep harçlığı
 slug: cep-harcligi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir kimseye ufak tefek gündelik harcamalarını karşılaması için verilen para

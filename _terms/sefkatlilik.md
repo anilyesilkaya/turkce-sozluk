@@ -2,6 +2,7 @@
 layout: term
 title: şefkatlilik
 slug: sefkatlilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sevecenlik

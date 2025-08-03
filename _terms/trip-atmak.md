@@ -2,6 +2,7 @@
 layout: term
 title: trip atmak
 slug: trip-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - gücenilen bir durumda açıkça konuşmak yerine farklı söz ve hareketlerle tavır yapmak

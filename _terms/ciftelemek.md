@@ -2,6 +2,7 @@
 layout: term
 title: çiftelemek
 slug: ciftelemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hayvan arka ayaklarıyla tepmek, çifte vurmak

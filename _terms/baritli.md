@@ -2,6 +2,7 @@
 layout: term
 title: baritli
 slug: baritli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde barit bulunduran

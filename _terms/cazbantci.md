@@ -2,6 +2,7 @@
 layout: term
 title: cazbantçı
 slug: cazbantci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cazcı

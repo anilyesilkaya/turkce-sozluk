@@ -2,6 +2,7 @@
 layout: term
 title: dar görüşlü
 slug: dar-goruslu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yeni ve değişik görüşleri benimsemeyen, anlayış göstermeyen (kimse); kısa görüşlü

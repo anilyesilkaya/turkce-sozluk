@@ -2,6 +2,7 @@
 layout: term
 title: azvay
 slug: azvay
+letter: A
 lisan: Farsça āzvāy
 anlamlar:
 - ► sarısabır

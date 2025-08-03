@@ -2,6 +2,7 @@
 layout: term
 title: hafıza
 slug: hafiza
+letter: H
 lisan: Arapça ḥāfiẓa
 anlamlar:
 - ► bellek

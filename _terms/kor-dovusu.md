@@ -2,6 +2,7 @@
 layout: term
 title: kör dövüşü
 slug: kor-dovusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aynı şeyi gerçekleştirecek kimselerin birbirinden habersiz ve birbirini engelleyecek biçimdeki düzensiz çabaları

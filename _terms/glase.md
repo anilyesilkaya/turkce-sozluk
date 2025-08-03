@@ -2,6 +2,7 @@
 layout: term
 title: glase
 slug: glase
+letter: G
 lisan: Fransızca glacé
 anlamlar:
 - Yumuşak deri

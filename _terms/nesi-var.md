@@ -2,6 +2,7 @@
 layout: term
 title: nesi var
 slug: nesi-var
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"çok iyi, çok güzel" anlamında kullanılan bir söz'

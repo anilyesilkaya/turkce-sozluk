@@ -2,6 +2,7 @@
 layout: term
 title: uyduru
 slug: uyduru
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurulmuş şey

@@ -2,6 +2,7 @@
 layout: term
 title: ebedîlik
 slug: ebedilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► sonsuzluk

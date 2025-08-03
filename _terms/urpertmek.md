@@ -2,6 +2,7 @@
 layout: term
 title: ürpertmek
 slug: urpertmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürperti vermek

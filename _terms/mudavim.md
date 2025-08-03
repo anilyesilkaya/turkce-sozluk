@@ -2,6 +2,7 @@
 layout: term
 title: müdavim
 slug: mudavim
+letter: M
 lisan: Arapça mudāvim
 anlamlar:
 - Bir yere sürekli olarak giden (kimse); devamcı, gedikli

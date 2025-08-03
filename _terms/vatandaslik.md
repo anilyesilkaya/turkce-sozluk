@@ -2,6 +2,7 @@
 layout: term
 title: vatandaşlık
 slug: vatandaslik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► yurttaşlık

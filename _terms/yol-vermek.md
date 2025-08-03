@@ -2,6 +2,7 @@
 layout: term
 title: yol vermek
 slug: yol-vermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - geçmesine izin vermek

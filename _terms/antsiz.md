@@ -2,6 +2,7 @@
 layout: term
 title: antsız
 slug: antsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ant içilmemiş

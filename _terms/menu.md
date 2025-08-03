@@ -2,6 +2,7 @@
 layout: term
 title: menü
 slug: menu
+letter: M
 lisan: Fransızca menu
 anlamlar:
 - ► yemek listesi

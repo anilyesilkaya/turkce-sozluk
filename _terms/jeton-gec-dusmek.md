@@ -2,6 +2,7 @@
 layout: term
 title: jeton geç düşmek
 slug: jeton-gec-dusmek
+letter: J
 lisan: Türkçe
 anlamlar:
 - konuşulan veya sözü edilen konuyu geç anlamak, geç intikal etmek

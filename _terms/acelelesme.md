@@ -2,6 +2,7 @@
 layout: term
 title: aceleleşme
 slug: acelelesme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çabuklaşma

@@ -2,6 +2,7 @@
 layout: term
 title: çakıl yol
 slug: cakil-yol
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakıl taşı ile döşenmiş yol

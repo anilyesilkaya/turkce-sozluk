@@ -2,6 +2,7 @@
 layout: term
 title: telcik
 slug: telcik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok ince tel; lifçik

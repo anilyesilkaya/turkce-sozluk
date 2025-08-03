@@ -2,6 +2,7 @@
 layout: term
 title: belgevşekliği
 slug: belgevsekligi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Cinsel gücü yitirme

@@ -2,6 +2,7 @@
 layout: term
 title: patavatsız
 slug: patavatsiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sözlerinin nereye varacağını düşünmeden saygısızca konuşan, davranışlarına dikkat etmeyen (kimse); sözünübilmez

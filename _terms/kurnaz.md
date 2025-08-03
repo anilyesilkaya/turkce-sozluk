@@ -2,6 +2,7 @@
 layout: term
 title: kurnaz
 slug: kurnaz
+letter: K
 lisan: Farsça ḳurnās
 anlamlar:
 - Kolay kanmayan, başkalarını kandırmasını ve ufak tefek oyunlarla amacına erişmesini beceren; hin, hinoğlu

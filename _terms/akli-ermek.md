@@ -2,6 +2,7 @@
 layout: term
 title: aklı ermek
 slug: akli-ermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlayabilmek

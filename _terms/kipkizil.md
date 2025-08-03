@@ -2,6 +2,7 @@
 layout: term
 title: kıpkızıl
 slug: kipkizil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Her yanı kızıl, çok kızıl

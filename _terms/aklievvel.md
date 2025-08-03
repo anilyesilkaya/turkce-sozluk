@@ -2,6 +2,7 @@
 layout: term
 title: aklıevvel
 slug: aklievvel
+letter: A
 lisan: Arapça ʿaḳl + evvel
 anlamlar:
 - Aklı eren, aklı başında olan

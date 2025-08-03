@@ -2,6 +2,7 @@
 layout: term
 title: doğuştan
 slug: dogustan
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yaradılıştan

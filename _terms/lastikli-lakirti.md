@@ -2,6 +2,7 @@
 layout: term
 title: lastikli lakırtı
 slug: lastikli-lakirti
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► lastikli söz

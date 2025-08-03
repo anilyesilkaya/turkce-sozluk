@@ -2,6 +2,7 @@
 layout: term
 title: sako
 slug: sako
+letter: S
 lisan: İtalyanca sacco
 anlamlar:
 - Paltoya benzer bir tür üstlük

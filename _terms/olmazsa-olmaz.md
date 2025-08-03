@@ -2,6 +2,7 @@
 layout: term
 title: olmazsa olmaz
 slug: olmazsa-olmaz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kesinlikle olması gereken

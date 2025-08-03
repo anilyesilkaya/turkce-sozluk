@@ -2,6 +2,7 @@
 layout: term
 title: kıraathane
 slug: kiraathane
+letter: K
 lisan: Arapça ḳirāʾat + Farsça ḫāne
 anlamlar:
 - ► kahvehane

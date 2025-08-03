@@ -2,6 +2,7 @@
 layout: term
 title: güç
 slug: guc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Fizik, düşünce ve ahlak yönünden bir etki yapabilme veya bir etkiye direnebilme yeteneği; çelim, efor

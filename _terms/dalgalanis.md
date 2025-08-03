@@ -2,6 +2,7 @@
 layout: term
 title: dalgalanış
 slug: dalgalanis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgalanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: tedavülden kalkmak
 slug: tedavulden-kalkmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - para artık kullanılmamak

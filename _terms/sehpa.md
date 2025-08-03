@@ -2,6 +2,7 @@
 layout: term
 title: sehpa
 slug: sehpa
+letter: S
 lisan: Farsça se + pā
 anlamlar:
 - Üstüne bir şey koymaya yarayan ayaklı destek; çatkı

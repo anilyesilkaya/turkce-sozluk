@@ -2,6 +2,7 @@
 layout: term
 title: tahrir
 slug: tahrir
+letter: T
 lisan: Arapça taḥrīr
 anlamlar:
 - ► yazma (I)

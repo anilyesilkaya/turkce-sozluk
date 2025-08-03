@@ -2,6 +2,7 @@
 layout: term
 title: ihtirassız
 slug: ihtirassiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► tutkusuz

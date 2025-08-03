@@ -2,6 +2,7 @@
 layout: term
 title: 'milletsiz '
 slug: milletsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Milleti olmayan; ulussuz

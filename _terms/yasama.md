@@ -2,6 +2,7 @@
 layout: term
 title: yaşama
 slug: yasama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşamak işi

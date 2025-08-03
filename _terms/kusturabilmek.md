@@ -2,6 +2,7 @@
 layout: term
 title: kusturabilmek
 slug: kusturabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kusturma ihtimali veya imkânı bulunmak

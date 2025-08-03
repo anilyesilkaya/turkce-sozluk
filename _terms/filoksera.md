@@ -2,6 +2,7 @@
 layout: term
 title: filoksera
 slug: filoksera
+letter: F
 lisan: Fransızca phylloxéra
 anlamlar:
 - ► asma biti

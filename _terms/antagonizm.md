@@ -2,6 +2,7 @@
 layout: term
 title: antagonizm
 slug: antagonizm
+letter: A
 lisan: Fransızca antagonisme
 anlamlar:
 - Kişiler, gruplar, kurumlar, öğreti veya ideolojiler arasında gizliden gizliye var olan çelişki veya karşıtlık durumu; antagonizma

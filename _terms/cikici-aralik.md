@@ -2,6 +2,7 @@
 layout: term
 title: çıkıcı aralık
 slug: cikici-aralik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirini izleyen iki sesten birincisi kalın, ikincisinin ince olduğu aralık

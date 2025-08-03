@@ -2,6 +2,7 @@
 layout: term
 title: tacil
 slug: tacil
+letter: T
 lisan: Arapça taʿcīl
 anlamlar:
 - Acele ettirme

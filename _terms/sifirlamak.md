@@ -2,6 +2,7 @@
 layout: term
 title: sıfırlamak
 slug: sifirlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir denklemdeki bütün terimleri yalnız bir yanda toplayarak denklemin öbür yanını eşit duruma getirmek

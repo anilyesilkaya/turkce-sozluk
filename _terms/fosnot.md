@@ -2,6 +2,7 @@
 layout: term
 title: fosnot
 slug: fosnot
+letter: F
 lisan: Fransızca fausse note
 anlamlar:
 - Bir müzik eseri çalınır veya söylenirken yapılan nota yanlışlığı

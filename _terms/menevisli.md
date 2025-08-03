@@ -2,6 +2,7 @@
 layout: term
 title: menevişli
 slug: menevisli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► hareli

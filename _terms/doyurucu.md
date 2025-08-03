@@ -2,6 +2,7 @@
 layout: term
 title: doyurucu
 slug: doyurucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyurma özelliği bulunan

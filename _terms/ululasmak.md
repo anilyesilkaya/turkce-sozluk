@@ -2,6 +2,7 @@
 layout: term
 title: ululaşmak
 slug: ululasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulu duruma gelmek

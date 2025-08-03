@@ -2,6 +2,7 @@
 layout: term
 title: koşma
 slug: kosma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşmak işi; koşu

@@ -2,6 +2,7 @@
 layout: term
 title: çadırcı
 slug: cadirci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çadır diken veya satan kimse

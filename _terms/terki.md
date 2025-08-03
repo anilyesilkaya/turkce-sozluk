@@ -2,6 +2,7 @@
 layout: term
 title: terki
 slug: terki
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eyerin arka bölümü

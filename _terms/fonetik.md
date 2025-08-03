@@ -2,6 +2,7 @@
 layout: term
 title: fonetik
 slug: fonetik
+letter: F
 lisan: Fransızca phonétique
 anlamlar:
 - ► ses bilgisi

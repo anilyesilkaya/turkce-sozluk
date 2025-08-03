@@ -2,6 +2,7 @@
 layout: term
 title: fidelemek
 slug: fidelemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fide dikmek

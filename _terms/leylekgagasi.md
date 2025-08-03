@@ -2,6 +2,7 @@
 layout: term
 title: leylekgagası
 slug: leylekgagasi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Bir çizimin oranları bozulmadan daha küçük veya daha büyüğünün çizilmesi için kullanılan araç

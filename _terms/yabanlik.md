@@ -2,6 +2,7 @@
 layout: term
 title: yabanlık
 slug: yabanlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bayram gibi önemli günlerde veya konukların yanına çıkarken giyilen yeni giysi; kişilik, adamlık

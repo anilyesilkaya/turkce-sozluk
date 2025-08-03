@@ -2,6 +2,7 @@
 layout: term
 title: yelelenmek
 slug: yelelenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Saç hafif hafif dalgalanmak

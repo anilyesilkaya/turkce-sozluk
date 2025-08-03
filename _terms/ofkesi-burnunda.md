@@ -2,6 +2,7 @@
 layout: term
 title: öfkesi burnunda
 slug: ofkesi-burnunda
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çok öfkeli (kimse)

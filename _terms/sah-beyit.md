@@ -2,6 +2,7 @@
 layout: term
 title: şah beyit
 slug: sah-beyit
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Divan edebiyatında bir şiirin en güzel beyti

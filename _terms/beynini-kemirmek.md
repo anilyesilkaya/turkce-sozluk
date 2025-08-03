@@ -2,6 +2,7 @@
 layout: term
 title: beynini kemirmek
 slug: beynini-kemirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - rahatsızlık vermek, huzurunu kaçırmak

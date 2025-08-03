@@ -2,6 +2,7 @@
 layout: term
 title: küheylan
 slug: kuheylan
+letter: K
 lisan: Arapça kuḥeylān
 anlamlar:
 - Soylu Arap atı

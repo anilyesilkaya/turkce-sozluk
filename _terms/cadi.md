@@ -2,6 +2,7 @@
 layout: term
 title: cadı
 slug: cadi
+letter: C
 lisan: Farsça cādū
 anlamlar:
 - Geceleri dolaşarak insanlara kötülük ettiğine inanılan hortlak

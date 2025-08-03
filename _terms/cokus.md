@@ -2,6 +2,7 @@
 layout: term
 title: çöküş
 slug: cokus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökme işi

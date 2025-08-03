@@ -2,6 +2,7 @@
 layout: term
 title: tenezzül etmek
 slug: tenezzul-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - alçak gönüllülük göstermek

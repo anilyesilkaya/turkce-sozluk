@@ -2,6 +2,7 @@
 layout: term
 title: ermin
 slug: ermin
+letter: E
 lisan: Fransızca hermine
 anlamlar:
 - ► kakım

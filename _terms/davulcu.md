@@ -2,6 +2,7 @@
 layout: term
 title: davulcu
 slug: davulcu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Davul çalan kimse

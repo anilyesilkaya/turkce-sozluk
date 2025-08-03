@@ -2,6 +2,7 @@
 layout: term
 title: gözlüklü
 slug: gozluklu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlük takmış olan, gözlük kullanan

@@ -2,6 +2,7 @@
 layout: term
 title: bin bela
 slug: bin-bela
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► güçlükle

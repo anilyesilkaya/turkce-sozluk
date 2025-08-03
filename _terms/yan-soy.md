@@ -2,6 +2,7 @@
 layout: term
 title: yan soy
 slug: yan-soy
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hısım

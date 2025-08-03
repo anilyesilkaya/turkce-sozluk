@@ -2,6 +2,7 @@
 layout: term
 title: büğet
 slug: buget
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► gölet

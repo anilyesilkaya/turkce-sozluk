@@ -2,6 +2,7 @@
 layout: term
 title: deneyleme
 slug: deneyleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneylemek işi

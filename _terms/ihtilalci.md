@@ -2,6 +2,7 @@
 layout: term
 title: ihtilalci
 slug: ihtilalci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtilal yanlısı ve ihtilal yapan kimse; devrimci

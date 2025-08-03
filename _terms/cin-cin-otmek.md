@@ -2,6 +2,7 @@
 layout: term
 title: çın çın ötmek
 slug: cin-cin-otmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - sürekli olarak keskin ses çıkarmak

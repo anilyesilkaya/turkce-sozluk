@@ -2,6 +2,7 @@
 layout: term
 title: kartalma
 slug: kartalma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kartalmak işi

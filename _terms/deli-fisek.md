@@ -2,6 +2,7 @@
 layout: term
 title: deli fişek
 slug: deli-fisek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delişmen ve atak (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: sekretaryalık
 slug: sekretaryalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekreterin yaptığı iş

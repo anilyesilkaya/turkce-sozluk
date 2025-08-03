@@ -2,6 +2,7 @@
 layout: term
 title: kestirmek
 slug: kestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesme işini yaptırmak

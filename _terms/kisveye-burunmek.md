@@ -2,6 +2,7 @@
 layout: term
 title: kisveye bürünmek
 slug: kisveye-burunmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir kılığa girmek

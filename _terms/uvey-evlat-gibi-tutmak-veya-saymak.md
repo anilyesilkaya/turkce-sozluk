@@ -2,6 +2,7 @@
 layout: term
 title: üvey evlat gibi tutmak (veya saymak)
 slug: uvey-evlat-gibi-tutmak-veya-saymak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - horlamak, haksızlık etmek, iyi davranmamak

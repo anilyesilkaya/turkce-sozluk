@@ -2,6 +2,7 @@
 layout: term
 title: mütedeyyin
 slug: mutedeyyin
+letter: M
 lisan: Arapça mutedeyyin
 anlamlar:
 - ► dindar

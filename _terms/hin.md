@@ -2,6 +2,7 @@
 layout: term
 title: hin
 slug: hin
+letter: H
 lisan: Arapça ḥīn
 anlamlar:
 - ► kurnaz

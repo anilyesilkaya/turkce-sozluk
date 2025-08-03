@@ -2,6 +2,7 @@
 layout: term
 title: ilelebet
 slug: ilelebet
+letter: I
 lisan: Arapça ilā'l-ebed
 anlamlar:
 - Sonsuza değin, sonsuzluğa kadar; sürgit

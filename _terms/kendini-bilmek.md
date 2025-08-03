@@ -2,6 +2,7 @@
 layout: term
 title: kendini bilmek
 slug: kendini-bilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - aklı ve muhakemesi yerinde olmak

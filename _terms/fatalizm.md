@@ -2,6 +2,7 @@
 layout: term
 title: fatalizm
 slug: fatalizm
+letter: F
 lisan: Fransızca fatalisme
 anlamlar:
 - ► yazgıcılık

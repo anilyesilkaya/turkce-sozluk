@@ -2,6 +2,7 @@
 layout: term
 title: hadsiz
 slug: hadsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sınırsız

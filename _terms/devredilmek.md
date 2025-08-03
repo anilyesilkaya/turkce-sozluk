@@ -2,6 +2,7 @@
 layout: term
 title: devredilmek
 slug: devredilmek
+letter: D
 lisan: Arapça devr + Türkçe edilmek
 anlamlar:
 - Devretme işi yapılmak; devrolmak, devrolunmak

@@ -2,6 +2,7 @@
 layout: term
 title: teşvikçi
 slug: tesvikci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► isteklendirici

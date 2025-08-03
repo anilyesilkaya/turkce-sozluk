@@ -2,6 +2,7 @@
 layout: term
 title: hırslı
 slug: hirsli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şeyi elde etmek için önüne geçilmez derecede kuvvetli istekleri olan, aşırı tutkuları olan (kimse); muhteris

@@ -2,6 +2,7 @@
 layout: term
 title: didinilmek
 slug: didinilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Didinme işi yapılmak

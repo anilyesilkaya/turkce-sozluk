@@ -2,6 +2,7 @@
 layout: term
 title: ulama
 slug: ulama
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ekleme

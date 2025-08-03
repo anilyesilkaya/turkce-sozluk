@@ -2,6 +2,7 @@
 layout: term
 title: Karamürsel sepeti sanmak
 slug: karamursel-sepeti-sanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kimse veya şeyi ufaklığından dolayı önemsememek

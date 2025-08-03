@@ -2,6 +2,7 @@
 layout: term
 title: palmiye
 slug: palmiye
+letter: P
 lisan: Fransızca palmier
 anlamlar:
 - Palmiyegillerden olan ağaçların genel adı

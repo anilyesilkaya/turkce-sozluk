@@ -2,6 +2,7 @@
 layout: term
 title: merakını beslemek
 slug: merakini-beslemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ilgisini artırmak

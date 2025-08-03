@@ -2,6 +2,7 @@
 layout: term
 title: anız
 slug: aniz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ekin biçildikten sonra tarlada kalan köklü sap

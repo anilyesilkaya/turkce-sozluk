@@ -2,6 +2,7 @@
 layout: term
 title: azaplı
 slug: azapli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sıkıntı, acı veren

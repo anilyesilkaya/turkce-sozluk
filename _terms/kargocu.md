@@ -2,6 +2,7 @@
 layout: term
 title: kargocu
 slug: kargocu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yerden bir yere yük veya posta taşıyan kimse

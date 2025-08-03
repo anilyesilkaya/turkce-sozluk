@@ -2,6 +2,7 @@
 layout: term
 title: külçeleşmek
 slug: kulcelesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Külçe durumuna gelmek

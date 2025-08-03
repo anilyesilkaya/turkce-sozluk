@@ -2,6 +2,7 @@
 layout: term
 title: çizivermek
 slug: cizivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çizmek

@@ -2,6 +2,7 @@
 layout: term
 title: mergup
 slug: mergup
+letter: M
 lisan: Arapça merġūb
 anlamlar:
 - Sevilip aranan, istenilen, beğenilen, rağbet edilen

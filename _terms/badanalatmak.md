@@ -2,6 +2,7 @@
 layout: term
 title: badanalatmak
 slug: badanalatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badanalama işini yaptırmak

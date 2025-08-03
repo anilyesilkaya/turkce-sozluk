@@ -2,6 +2,7 @@
 layout: term
 title: alt alta
 slug: alt-alta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirinin altında olarak

@@ -2,6 +2,7 @@
 layout: term
 title: örtünmek
 slug: ortunmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kendi üzerine bir şey örtmek

@@ -2,6 +2,7 @@
 layout: term
 title: kabullenme
 slug: kabullenme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabullenmek işi

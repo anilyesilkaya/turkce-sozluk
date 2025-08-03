@@ -2,6 +2,7 @@
 layout: term
 title: badem
 slug: badem
+letter: B
 lisan: Farsça bādām
 anlamlar:
 - ► badem ağacı

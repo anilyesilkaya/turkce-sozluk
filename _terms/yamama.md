@@ -2,6 +2,7 @@
 layout: term
 title: yamama
 slug: yamama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yamamak işi

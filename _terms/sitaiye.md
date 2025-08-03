@@ -2,6 +2,7 @@
 layout: term
 title: şitaiye
 slug: sitaiye
+letter: Ş
 lisan: Arapça şitāʾiyye
 anlamlar:
 - Divan edebiyatında kış mevsimini konu olarak işleyen şiir

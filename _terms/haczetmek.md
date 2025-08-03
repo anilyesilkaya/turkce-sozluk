@@ -2,6 +2,7 @@
 layout: term
 title: haczetmek
 slug: haczetmek
+letter: H
 lisan: Arapça ḥacz + Türkçe etmek
 anlamlar:
 - Bir alacağın ödenmesi için borçlunun geçim ve mesleğinde gerekli olan şeyler dışında kalan para, aylık veya malına icra dairesi el koymak

@@ -2,6 +2,7 @@
 layout: term
 title: derken
 slug: derken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dendiği hâlde

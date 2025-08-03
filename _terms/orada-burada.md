@@ -2,6 +2,7 @@
 layout: term
 title: orada burada
 slug: orada-burada
+letter: O
 lisan: Türkçe
 anlamlar:
 - Her yerde

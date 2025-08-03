@@ -2,6 +2,7 @@
 layout: term
 title: hamlama
 slug: hamlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamlamak durumu

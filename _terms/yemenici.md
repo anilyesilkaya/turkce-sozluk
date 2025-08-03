@@ -2,6 +2,7 @@
 layout: term
 title: yemenici
 slug: yemenici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemeni yapan veya satan kimse

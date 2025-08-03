@@ -2,6 +2,7 @@
 layout: term
 title: sonunda
 slug: sonunda
+letter: S
 lisan: Türkçe
 anlamlar:
 - Son anda; nihayetinde, ahir, akıbet

@@ -2,6 +2,7 @@
 layout: term
 title: köylük yer
 slug: koyluk-yer
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► köy

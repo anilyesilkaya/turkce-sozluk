@@ -2,6 +2,7 @@
 layout: term
 title: lokanta
 slug: lokanta
+letter: L
 lisan: İtalyanca locanda
 anlamlar:
 - Yemek pişirilip satılan yer; aşevi, restoran

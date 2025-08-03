@@ -2,6 +2,7 @@
 layout: term
 title: bohçacı
 slug: bohcaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gezerek bohça içinde dokuma eşya satan kadın; bohçacı kadın, basmacı

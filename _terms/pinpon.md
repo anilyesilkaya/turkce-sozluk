@@ -2,6 +2,7 @@
 layout: term
 title: pinpon
 slug: pinpon
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yaşlı, çökmüş

@@ -2,6 +2,7 @@
 layout: term
 title: Arnavut biberi
 slug: arnavut-biberi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kırmızı renkli, ince biçimli ve çok acı olan bir tür biber (Capsicum annuum)

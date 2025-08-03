@@ -2,6 +2,7 @@
 layout: term
 title: çenesi oynamak
 slug: cenesi-oynamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir şey yemek

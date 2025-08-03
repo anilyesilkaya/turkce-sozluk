@@ -2,6 +2,7 @@
 layout: term
 title: pamuklu
 slug: pamuklu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pamuk ipliği veya başka iplikler karıştırılarak dokunmuş (kumaş)

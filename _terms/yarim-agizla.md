@@ -2,6 +2,7 @@
 layout: term
 title: yarım ağızla
 slug: yarim-agizla
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İstemeye istemeye; yarım ağız

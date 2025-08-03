@@ -2,6 +2,7 @@
 layout: term
 title: balaban
 slug: balaban
+letter: B
 lisan: Türkçe
 anlamlar:
 - İri, büyük olan

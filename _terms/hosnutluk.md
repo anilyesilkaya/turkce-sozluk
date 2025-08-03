@@ -2,6 +2,7 @@
 layout: term
 title: hoşnutluk
 slug: hosnutluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşnut olma durumu

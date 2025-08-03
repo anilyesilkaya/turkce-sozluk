@@ -2,6 +2,7 @@
 layout: term
 title: beyaza çekmek
 slug: beyaza-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yazıyı temize çekmek

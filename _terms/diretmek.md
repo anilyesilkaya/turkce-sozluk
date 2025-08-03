@@ -2,6 +2,7 @@
 layout: term
 title: diretmek
 slug: diretmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir düşüncede, bir istekte veya bir durumda ayak diremek

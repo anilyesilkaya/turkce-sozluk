@@ -2,6 +2,7 @@
 layout: term
 title: aklı başında
 slug: akli-basinda
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bilinci yerinde olan

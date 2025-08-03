@@ -2,6 +2,7 @@
 layout: term
 title: kontrol etmek
 slug: kontrol-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - denetlemek

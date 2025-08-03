@@ -2,6 +2,7 @@
 layout: term
 title: çökertmek
 slug: cokertmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöktürüp oturtmak

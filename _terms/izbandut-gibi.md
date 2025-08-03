@@ -2,6 +2,7 @@
 layout: term
 title: izbandut gibi
 slug: izbandut-gibi
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok iri, cüsseli (erkek)

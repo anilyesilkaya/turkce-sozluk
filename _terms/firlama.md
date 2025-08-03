@@ -2,6 +2,7 @@
 layout: term
 title: fırlama
 slug: firlama
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: reva
 slug: reva
+letter: R
 lisan: Farsça revā
 anlamlar:
 - ► uygun

@@ -2,6 +2,7 @@
 layout: term
 title: uyutmak
 slug: uyutmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumasını sağlamak, uyur duruma getirmek; yatırmak

@@ -2,6 +2,7 @@
 layout: term
 title: külyutmaz
 slug: kulyutmaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aldanmaz, kolay inanmaz (kimse)

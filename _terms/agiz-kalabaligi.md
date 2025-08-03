@@ -2,6 +2,7 @@
 layout: term
 title: ağız kalabalığı
 slug: agiz-kalabaligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirini tutmayan gereksiz sözler

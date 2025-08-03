@@ -2,6 +2,7 @@
 layout: term
 title: istenilebilme
 slug: istenilebilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstenilebilmek işi

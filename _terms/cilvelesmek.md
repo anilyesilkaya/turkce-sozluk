@@ -2,6 +2,7 @@
 layout: term
 title: cilveleşmek
 slug: cilvelesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Karşılıklı cilve yapmak

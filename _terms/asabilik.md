@@ -2,6 +2,7 @@
 layout: term
 title: asabilik
 slug: asabilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sinirlilik

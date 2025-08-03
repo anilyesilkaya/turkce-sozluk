@@ -2,6 +2,7 @@
 layout: term
 title: remiz
 slug: remiz
+letter: R
 lisan: Arapça remz
 anlamlar:
 - ► simge

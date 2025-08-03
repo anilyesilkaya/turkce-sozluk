@@ -2,6 +2,7 @@
 layout: term
 title: bedelsiz
 slug: bedelsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedeli olmayan, bedel ödenmeyen

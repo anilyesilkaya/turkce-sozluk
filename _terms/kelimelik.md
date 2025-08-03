@@ -2,6 +2,7 @@
 layout: term
 title: kelimelik
 slug: kelimelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kelimeden oluşan

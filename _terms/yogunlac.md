@@ -2,6 +2,7 @@
 layout: term
 title: yoğunlaç
 slug: yogunlac
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kondansatör

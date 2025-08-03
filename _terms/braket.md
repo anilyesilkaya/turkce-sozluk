@@ -2,6 +2,7 @@
 layout: term
 title: braket
 slug: braket
+letter: B
 lisan: İngilizce bracket
 anlamlar:
 - Dişlerin estetik tedavisinde kullanılan, diş üzerine yapıştırılan, üzerinde tellerin geçebileceği oluklar bulunan, seramik, plastik veya paslanmaz çelikten yapılmış parça

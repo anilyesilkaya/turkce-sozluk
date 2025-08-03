@@ -2,6 +2,7 @@
 layout: term
 title: söz dalaşı
 slug: soz-dalasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karşılıklı söz söyleme, sözle saldırma; polemik

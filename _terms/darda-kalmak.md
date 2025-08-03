@@ -2,6 +2,7 @@
 layout: term
 title: darda kalmak
 slug: darda-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - paraca sıkıntı içine girmek

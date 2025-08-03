@@ -2,6 +2,7 @@
 layout: term
 title: boyunduruk
 slug: boyunduruk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çift süren veya kağnıya koşulan hayvanların birlikte yürümelerini sağlamak için iki ucu hayvanların boynuna, ortası da saban veya kağnıya bağlanan ağaç parçası

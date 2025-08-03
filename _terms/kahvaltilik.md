@@ -2,6 +2,7 @@
 layout: term
 title: kahvaltılık
 slug: kahvaltilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahvaltıda yenen (yiyecek)

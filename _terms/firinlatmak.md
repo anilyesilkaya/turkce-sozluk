@@ -2,6 +2,7 @@
 layout: term
 title: fırınlatmak
 slug: firinlatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırınlama işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: sperma
 slug: sperma
+letter: S
 lisan: İtalyanca sperma
 anlamlar:
 - ► meni

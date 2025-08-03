@@ -2,6 +2,7 @@
 layout: term
 title: eriştelik
 slug: eristelik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erişte yapmaya yarayan

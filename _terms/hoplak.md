@@ -2,6 +2,7 @@
 layout: term
 title: hoplak
 slug: hoplak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yerinde duramayan, çok hareketli (kimse)

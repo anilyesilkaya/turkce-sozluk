@@ -2,6 +2,7 @@
 layout: term
 title: durmak
 slug: durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hareketsiz durumda olmak

@@ -2,6 +2,7 @@
 layout: term
 title: şenlikli
 slug: senlikli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Eğlenceli (yer); şetaretli

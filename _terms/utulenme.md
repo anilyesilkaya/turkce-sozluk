@@ -2,6 +2,7 @@
 layout: term
 title: ütülenme
 slug: utulenme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütülenmek işi

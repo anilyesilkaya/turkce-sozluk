@@ -2,6 +2,7 @@
 layout: term
 title: sendikalaşma
 slug: sendikalasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sendikalaşmak işi

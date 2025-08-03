@@ -2,6 +2,7 @@
 layout: term
 title: gezmen
 slug: gezmen
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gezgin

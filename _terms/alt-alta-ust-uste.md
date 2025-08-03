@@ -2,6 +2,7 @@
 layout: term
 title: alt alta üst üste
 slug: alt-alta-ust-uste
+letter: A
 lisan: Türkçe
 anlamlar:
 - birbirleriyle itişir kakışır durumda

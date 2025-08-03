@@ -2,6 +2,7 @@
 layout: term
 title: şüphecilik
 slug: suphecilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kuşkuculuk

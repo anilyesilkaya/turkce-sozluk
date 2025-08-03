@@ -2,6 +2,7 @@
 layout: term
 title: sırtlamak
 slug: sirtlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi sırtına alıp yüklenmek; arkalamak

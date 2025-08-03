@@ -2,6 +2,7 @@
 layout: term
 title: methal
 slug: methal
+letter: M
 lisan: Arapça medḫal
 anlamlar:
 - ► giriş

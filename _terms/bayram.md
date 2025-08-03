@@ -2,6 +2,7 @@
 layout: term
 title: bayram
 slug: bayram
+letter: B
 lisan: Türkçe
 anlamlar:
 - Millî veya dinî bakımdan önemi olan ve kutlanan gün veya günler

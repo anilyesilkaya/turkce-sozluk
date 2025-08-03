@@ -2,6 +2,7 @@
 layout: term
 title: paftalı
 slug: paftali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paftası olan

@@ -2,6 +2,7 @@
 layout: term
 title: karabakal
 slug: karabakal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karatavukgillerden, kara renkli ardıç kuşu (Tutrdus pilaris)

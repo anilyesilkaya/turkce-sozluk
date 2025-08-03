@@ -2,6 +2,7 @@
 layout: term
 title: tahlil
 slug: tahlil
+letter: T
 lisan: Arapça taḥlīl
 anlamlar:
 - Bileşik bir maddenin birleşimindeki yalın maddelerin niteliğini veya niceliğini anlamak için yapılan iş; analiz

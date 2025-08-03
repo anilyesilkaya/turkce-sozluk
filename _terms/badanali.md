@@ -2,6 +2,7 @@
 layout: term
 title: badanalı
 slug: badanali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badana edilmiş olan

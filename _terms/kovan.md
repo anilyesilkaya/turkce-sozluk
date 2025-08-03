@@ -2,6 +2,7 @@
 layout: term
 title: kovan
 slug: kovan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fişeğin kapsül, barut ve kurşun taşıyan yuva bölümü; kapçık

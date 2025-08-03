@@ -2,6 +2,7 @@
 layout: term
 title: eteğinden ayrılmamak
 slug: eteginden-ayrilmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - peşini bırakmamak

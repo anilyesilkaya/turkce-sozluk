@@ -2,6 +2,7 @@
 layout: term
 title: kartpostalcı
 slug: kartpostalci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kartpostal basan veya satan kimse

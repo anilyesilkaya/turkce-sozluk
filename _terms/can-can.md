@@ -2,6 +2,7 @@
 layout: term
 title: çan çan
 slug: can-can
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sürekli ve yüksek sesle edilen gevezelik

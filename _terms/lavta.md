@@ -2,6 +2,7 @@
 layout: term
 title: lavta
 slug: lavta
+letter: L
 lisan: Rumca
 anlamlar:
 - ► ebe

@@ -2,6 +2,7 @@
 layout: term
 title: yardımcı eylem
 slug: yardimci-eylem
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yardımcı fiil

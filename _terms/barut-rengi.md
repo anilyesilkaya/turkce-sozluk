@@ -2,6 +2,7 @@
 layout: term
 title: barut rengi
 slug: barut-rengi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Koyu gri renk; barudi

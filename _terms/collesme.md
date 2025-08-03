@@ -2,6 +2,7 @@
 layout: term
 title: çölleşme
 slug: collesme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çölleşmek işi

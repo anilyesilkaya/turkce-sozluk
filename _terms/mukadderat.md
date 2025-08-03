@@ -2,6 +2,7 @@
 layout: term
 title: mukadderat
 slug: mukadderat
+letter: M
 lisan: Arapça muḳadderāt
 anlamlar:
 - ► yazgı

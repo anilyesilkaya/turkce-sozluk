@@ -2,6 +2,7 @@
 layout: term
 title: avallık
 slug: avallik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aval olma durumu

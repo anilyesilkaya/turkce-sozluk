@@ -2,6 +2,7 @@
 layout: term
 title: yıpranış
 slug: yipranis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıpranmak işi

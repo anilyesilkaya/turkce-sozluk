@@ -2,6 +2,7 @@
 layout: term
 title: tatminsiz
 slug: tatminsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatmin olmayan

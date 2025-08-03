@@ -2,6 +2,7 @@
 layout: term
 title: delikanlılık
 slug: delikanlilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delikanlı olma durumu

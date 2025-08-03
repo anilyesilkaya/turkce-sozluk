@@ -2,6 +2,7 @@
 layout: term
 title: tırtıkçılık
 slug: tirtikcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yankesicilik

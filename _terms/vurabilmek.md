@@ -2,6 +2,7 @@
 layout: term
 title: vurabilmek
 slug: vurabilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurma ihtimali veya imkânı bulunmak

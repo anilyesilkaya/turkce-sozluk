@@ -2,6 +2,7 @@
 layout: term
 title: Acemleştirmek
 slug: acemlestirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemlere özgü yaşayış tarzını benimsetmek; Farslaştırmak

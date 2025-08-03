@@ -2,6 +2,7 @@
 layout: term
 title: parkur
 slug: parkur
+letter: P
 lisan: Fransızca parcours
 anlamlar:
 - Binicilik, bisiklet, atletizm, yürüyüş, koşu vb. sporların yapıldığı özel yol

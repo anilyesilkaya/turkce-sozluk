@@ -2,6 +2,7 @@
 layout: term
 title: içine çekilmek (veya kapanmak)
 slug: icine-cekilmek-veya-kapanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - dış dünyaya karşı ilgi ve ilişkisini kesmek

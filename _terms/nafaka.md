@@ -2,6 +2,7 @@
 layout: term
 title: nafaka
 slug: nafaka
+letter: N
 lisan: Arapça nafaḳa
 anlamlar:
 - Geçinmek için gerekli olan şeylerin bütünü; geçimlik

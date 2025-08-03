@@ -2,6 +2,7 @@
 layout: term
 title: açıklayabilmek
 slug: aciklayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklama ihtimali veya imkânı bulunmak

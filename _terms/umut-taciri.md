@@ -2,6 +2,7 @@
 layout: term
 title: umut taciri
 slug: umut-taciri
+letter: U
 lisan: Türkçe
 anlamlar:
 - Gerçekleştirmeyeceği vaatlerle insanları kandırarak çıkar sağlayan kimse

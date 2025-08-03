@@ -2,6 +2,7 @@
 layout: term
 title: debdebe
 slug: debdebe
+letter: D
 lisan: Arapça debdebe
 anlamlar:
 - ► görkem

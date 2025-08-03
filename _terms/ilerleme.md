@@ -2,6 +2,7 @@
 layout: term
 title: ilerleme
 slug: ilerleme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlerlemek işi; terakki, tefeyyüz

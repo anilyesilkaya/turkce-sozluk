@@ -2,6 +2,7 @@
 layout: term
 title: dikme
 slug: dikme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikmek işi

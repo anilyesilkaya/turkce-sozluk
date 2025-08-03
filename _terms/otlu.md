@@ -2,6 +2,7 @@
 layout: term
 title: otlu
 slug: otlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otu olan

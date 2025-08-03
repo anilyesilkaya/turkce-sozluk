@@ -2,6 +2,7 @@
 layout: term
 title: kırcı
 slug: kirci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► dolu (I)

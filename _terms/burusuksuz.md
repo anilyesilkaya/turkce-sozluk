@@ -2,6 +2,7 @@
 layout: term
 title: buruşuksuz
 slug: burusuksuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruşuğu olmayan

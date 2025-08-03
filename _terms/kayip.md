@@ -2,6 +2,7 @@
 layout: term
 title: kayıp
 slug: kayip
+letter: K
 lisan: Arapça ġayb
 anlamlar:
 - Kaybolma, yitme durumu; yitim

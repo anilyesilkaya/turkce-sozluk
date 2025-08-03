@@ -2,6 +2,7 @@
 layout: term
 title: ucuzlatmak
 slug: ucuzlatmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Fiyatını indirmek

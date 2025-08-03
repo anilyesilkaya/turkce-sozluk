@@ -2,6 +2,7 @@
 layout: term
 title: el koymak
 slug: el-koymak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir yolsuzluğu ortaya çıkarmak, incelemek, vaziyet etmek

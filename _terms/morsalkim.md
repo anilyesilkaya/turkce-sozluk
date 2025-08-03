@@ -2,6 +2,7 @@
 layout: term
 title: morsalkım
 slug: morsalkim
+letter: M
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, salkım durumunda mavi, mor, beyaz, pembe renkli çiçekler açan, 20 metreye kadar uzayabilen çok yıllık bir sarmaşık (Wisteria sinensis)

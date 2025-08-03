@@ -2,6 +2,7 @@
 layout: term
 title: pütürlenmek
 slug: puturlenmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pütürlü duruma gelmek

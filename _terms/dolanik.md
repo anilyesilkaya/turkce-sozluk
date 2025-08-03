@@ -2,6 +2,7 @@
 layout: term
 title: dolanık
 slug: dolanik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birbirine dolanmış

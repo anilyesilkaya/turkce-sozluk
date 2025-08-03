@@ -2,6 +2,7 @@
 layout: term
 title: ardından gitmek
 slug: ardindan-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - peşine takılmak

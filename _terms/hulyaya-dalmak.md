@@ -2,6 +2,7 @@
 layout: term
 title: hülyaya dalmak
 slug: hulyaya-dalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hayal kurmak

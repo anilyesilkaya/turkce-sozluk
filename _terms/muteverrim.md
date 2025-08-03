@@ -2,6 +2,7 @@
 layout: term
 title: müteverrim
 slug: muteverrim
+letter: M
 lisan: Arapça muteverrim
 anlamlar:
 - ► veremli

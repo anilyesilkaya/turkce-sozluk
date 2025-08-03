@@ -2,6 +2,7 @@
 layout: term
 title: bitişik
 slug: bitisik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yan yana olan; muttasıl

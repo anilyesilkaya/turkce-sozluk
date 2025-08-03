@@ -2,6 +2,7 @@
 layout: term
 title: ruhiyat
 slug: ruhiyat
+letter: R
 lisan: Arapça rūḥiyyāt
 anlamlar:
 - ► psikoloji

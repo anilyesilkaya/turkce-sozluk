@@ -2,6 +2,7 @@
 layout: term
 title: saygı göstermek
 slug: saygi-gostermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - saymak, değer vermek

@@ -2,6 +2,7 @@
 layout: term
 title: tırıllama
 slug: tirillama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırıllamak işi

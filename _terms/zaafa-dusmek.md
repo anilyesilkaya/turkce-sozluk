@@ -2,6 +2,7 @@
 layout: term
 title: zaafa düşmek
 slug: zaafa-dusmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zaafa kapılmak

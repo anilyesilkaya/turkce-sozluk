@@ -2,6 +2,7 @@
 layout: term
 title: batakçı
 slug: batakci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borcunu ödememeyi alışkanlık edinmiş (kimse)

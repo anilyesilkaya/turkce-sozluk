@@ -2,6 +2,7 @@
 layout: term
 title: meşveret
 slug: mesveret
+letter: M
 lisan: Arapça meşveret
 anlamlar:
 - ► danışma

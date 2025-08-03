@@ -2,6 +2,7 @@
 layout: term
 title: tanışık
 slug: tanisik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirini tanıyanlardan her biri

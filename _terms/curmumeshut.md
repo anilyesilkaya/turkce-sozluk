@@ -2,6 +2,7 @@
 layout: term
 title: cürmümeşhut
 slug: curmumeshut
+letter: C
 lisan: Arapça curm + meşhūd
 anlamlar:
 - ► suçüstü

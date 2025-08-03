@@ -2,6 +2,7 @@
 layout: term
 title: buruşmak
 slug: burusmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düzgünlüğü bozulmak, üzerinde kırışık ve katlar oluşmak

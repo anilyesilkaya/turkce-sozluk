@@ -2,6 +2,7 @@
 layout: term
 title: rapor almak
 slug: rapor-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - hasta olup olmadığını belirlemek amacıyla herhangi bir sağlık kuruluşundan belge almak

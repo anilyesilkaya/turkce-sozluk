@@ -2,6 +2,7 @@
 layout: term
 title: vakit saat aramamak
 slug: vakit-saat-aramamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - zamana hiç aldırmamak

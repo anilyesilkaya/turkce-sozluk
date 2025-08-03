@@ -2,6 +2,7 @@
 layout: term
 title: periyot
 slug: periyot
+letter: P
 lisan: Fransızca période
 anlamlar:
 - ► dönem

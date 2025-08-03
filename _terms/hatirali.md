@@ -2,6 +2,7 @@
 layout: term
 title: hatıralı
 slug: hatirali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hatırası olan

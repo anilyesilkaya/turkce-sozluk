@@ -2,6 +2,7 @@
 layout: term
 title: biçim vermek (veya biçime sokmak)
 slug: bicim-vermek-veya-bicime-sokmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şeyi biçimlendirmek

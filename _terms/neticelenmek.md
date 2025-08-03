@@ -2,6 +2,7 @@
 layout: term
 title: neticelenmek
 slug: neticelenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sonuçlanmak

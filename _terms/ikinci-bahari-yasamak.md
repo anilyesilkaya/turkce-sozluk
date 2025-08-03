@@ -2,6 +2,7 @@
 layout: term
 title: ikinci baharı yaşamak
 slug: ikinci-bahari-yasamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ileri yaşlarda mutluluk, refah ve esenlik içinde bulunmak

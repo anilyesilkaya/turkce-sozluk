@@ -2,6 +2,7 @@
 layout: term
 title: bağrışabilme
 slug: bagrisabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağrışabilmek işi

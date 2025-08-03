@@ -2,6 +2,7 @@
 layout: term
 title: güreş etmek (veya tutmak)
 slug: gures-etmek-veya-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güreşmek

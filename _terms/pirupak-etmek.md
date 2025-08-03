@@ -2,6 +2,7 @@
 layout: term
 title: pirüpak etmek
 slug: pirupak-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - kirlerden arıtıp temizlemek

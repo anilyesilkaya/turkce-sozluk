@@ -2,6 +2,7 @@
 layout: term
 title: akademik
 slug: akademik
+letter: A
 lisan: Fransızca académique
 anlamlar:
 - Akademi ile ilgili olan

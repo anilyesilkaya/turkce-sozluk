@@ -2,6 +2,7 @@
 layout: term
 title: karikatürlük
 slug: karikaturluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karikatür olma durumu

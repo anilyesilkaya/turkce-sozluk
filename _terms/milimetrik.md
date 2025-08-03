@@ -2,6 +2,7 @@
 layout: term
 title: milimetrik
 slug: milimetrik
+letter: M
 lisan: Fransızca millimètrique
 anlamlar:
 - Milimetre ile ilgili olan

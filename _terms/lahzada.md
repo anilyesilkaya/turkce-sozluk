@@ -2,6 +2,7 @@
 layout: term
 title: lahzada
 slug: lahzada
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre içinde

@@ -2,6 +2,7 @@
 layout: term
 title: elden çıkarmak
 slug: elden-cikarmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şeyin sahipliğini başkasına geçirmek, satmak

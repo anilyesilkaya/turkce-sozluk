@@ -2,6 +2,7 @@
 layout: term
 title: skeç
 slug: skec
+letter: S
 lisan: İngilizce sketch
 anlamlar:
 - Güldürü niteliğinde kısa oyun

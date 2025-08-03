@@ -2,6 +2,7 @@
 layout: term
 title: ciritçi
 slug: ciritci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cirit oynayan kimse

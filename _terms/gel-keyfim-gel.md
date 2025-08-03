@@ -2,6 +2,7 @@
 layout: term
 title: gel keyfim gel
 slug: gel-keyfim-gel
+letter: G
 lisan: Türkçe
 anlamlar:
 - büyük bir memnunluk ve alay anlatan bir söz

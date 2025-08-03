@@ -2,6 +2,7 @@
 layout: term
 title: masaya oturmak
 slug: masaya-oturmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir anlaşmazlığı çözümlemek üzere bir araya gelmek, toplanmak

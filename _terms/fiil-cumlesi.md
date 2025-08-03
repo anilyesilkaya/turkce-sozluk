@@ -2,6 +2,7 @@
 layout: term
 title: fiil cümlesi
 slug: fiil-cumlesi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yüklemi çekimli fiille kurulan cümle; eylem tümcesi

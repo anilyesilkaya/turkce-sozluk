@@ -2,6 +2,7 @@
 layout: term
 title: onar
 slug: onar
+letter: O
 lisan: Türkçe
 anlamlar:
 - On sayısının üleştirme sayı sıfatı

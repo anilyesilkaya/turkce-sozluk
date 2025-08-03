@@ -2,6 +2,7 @@
 layout: term
 title: hapşırmak
 slug: hapsirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Burun zarlarının gıcıklanması ile solunum kaslarının birdenbire kasılmasıyla ağız ve burundan hızlı, gürültülü soluk boşaltmak; aksırmak

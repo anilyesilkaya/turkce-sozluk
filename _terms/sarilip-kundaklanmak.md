@@ -2,6 +2,7 @@
 layout: term
 title: sarılıp kundaklanmak
 slug: sarilip-kundaklanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yoğun etki altında kalmak

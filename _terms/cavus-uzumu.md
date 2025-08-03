@@ -2,6 +2,7 @@
 layout: term
 title: çavuş üzümü
 slug: cavus-uzumu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kabuğu ince, çekirdeği ufak, iri taneli bir tür beyaz üzüm

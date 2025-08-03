@@ -2,6 +2,7 @@
 layout: term
 title: yapayalnız
 slug: yapayalniz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanında kimse veya hiçbir şey bulunmayan (kimse); yapyalnız

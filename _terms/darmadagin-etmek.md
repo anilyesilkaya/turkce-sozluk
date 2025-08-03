@@ -2,6 +2,7 @@
 layout: term
 title: darmadağın etmek
 slug: darmadagin-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - dağıtmak, karıştırmak

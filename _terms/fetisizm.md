@@ -2,6 +2,7 @@
 layout: term
 title: fetişizm
 slug: fetisizm
+letter: F
 lisan: Fransızca fétichisme
 anlamlar:
 - İlkel toplumlarda doğaüstü bir güç ve etkisi olduğuna inanılan canlı veya cansız nesnelere tapınma; tapıncakçılık, putperestlik

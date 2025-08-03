@@ -2,6 +2,7 @@
 layout: term
 title: mesture
 slug: mesture
+letter: M
 lisan: Arapça mestūre
 anlamlar:
 - ► gizli

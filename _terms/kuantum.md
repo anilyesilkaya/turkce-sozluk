@@ -2,6 +2,7 @@
 layout: term
 title: kuantum
 slug: kuantum
+letter: K
 lisan: Fransızca quantum
 anlamlar:
 - Belirli değer alabilen küçük miktar, nicelik

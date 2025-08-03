@@ -2,6 +2,7 @@
 layout: term
 title: tortu
 slug: tortu
+letter: T
 lisan: Farsça durdī
 anlamlar:
 - ► çökelti

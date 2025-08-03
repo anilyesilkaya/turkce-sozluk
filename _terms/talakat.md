@@ -2,6 +2,7 @@
 layout: term
 title: talakat
 slug: talakat
+letter: T
 lisan: Arapça ṭalāḳat
 anlamlar:
 - Kolayca düzgün söz söyleme durumu

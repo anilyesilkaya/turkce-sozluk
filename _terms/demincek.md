@@ -2,6 +2,7 @@
 layout: term
 title: demincek
 slug: demincek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► demin

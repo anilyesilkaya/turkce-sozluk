@@ -2,6 +2,7 @@
 layout: term
 title: yaratmak
 slug: yaratmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Allah, olmayan bir şeyi var etmek

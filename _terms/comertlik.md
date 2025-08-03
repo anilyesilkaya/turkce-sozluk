@@ -2,6 +2,7 @@
 layout: term
 title: cömertlik
 slug: comertlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cömert olma durumu; açık ellilik, ahilik, alicenaplık, bonkörlük eli açıklık, seleklik, kerem, semahat, mürüvvet

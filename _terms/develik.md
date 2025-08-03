@@ -2,6 +2,7 @@
 layout: term
 title: develik
 slug: develik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► defne

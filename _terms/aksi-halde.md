@@ -2,6 +2,7 @@
 layout: term
 title: aksi hâlde
 slug: aksi-halde
+letter: A
 lisan: Türkçe
 anlamlar:
 - Eğer öyle değilse, öyle olmazsa; aksi takdirde

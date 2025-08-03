@@ -2,6 +2,7 @@
 layout: term
 title: durak
 slug: durak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tren, tramvay, otobüs, minibüs vb. genel taşıtların durmak zorunda olduğu veya durabileceği yer

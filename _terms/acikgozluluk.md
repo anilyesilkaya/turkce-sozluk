@@ -2,6 +2,7 @@
 layout: term
 title: açıkgözlülük
 slug: acikgozluluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıkgöz olanın durumu; açıkgözlük, cingözlük

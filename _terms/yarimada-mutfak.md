@@ -2,6 +2,7 @@
 layout: term
 title: yarımada mutfak
 slug: yarimada-mutfak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Duvara monte edilmiş tezgâhtan dikdörtgen şeklinde uzanan, alt kısmında dolap ve çekmece bulunan, bir bölümü masa olarak da kullanılabilen, üç tarafı açık, yarım adaya benzer tezgâhın kullanıldığı mutfak

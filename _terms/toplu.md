@@ -2,6 +2,7 @@
 layout: term
 title: toplu
 slug: toplu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topu olan

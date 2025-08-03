@@ -2,6 +2,7 @@
 layout: term
 title: paparazi
 slug: paparazi
+letter: P
 lisan: İtalyanca paparazzi
 anlamlar:
 - Ünlü kimselerin kendilerinden habersizce çekilmiş, onları güç durumda bırakacak özellikteki fotoğrafları

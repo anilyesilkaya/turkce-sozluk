@@ -2,6 +2,7 @@
 layout: term
 title: emir almak
 slug: emir-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - belirli bir davranışta bulunmaya zorlayıcı söz duymak

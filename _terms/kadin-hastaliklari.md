@@ -2,6 +2,7 @@
 layout: term
 title: kadın hastalıkları
 slug: kadin-hastaliklari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadınlarda üreme sistemi ile ilgili hastalıkları konu alan bilim dalı; nisaiye, jinekoloji

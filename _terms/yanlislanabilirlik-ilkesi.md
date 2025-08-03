@@ -2,6 +2,7 @@
 layout: term
 title: yanlışlanabilirlik ilkesi
 slug: yanlislanabilirlik-ilkesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Var olan düşüncelerin yanlışlanma ihtimali bulunduğunu ileri süren ilke

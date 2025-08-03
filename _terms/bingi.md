@@ -2,6 +2,7 @@
 layout: term
 title: bingi
 slug: bingi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kemerler üzerine oturtulmuş kubbe ile kemerlerin arasını kapatan üçgen biçimindeki kubbe parçalarından her biri

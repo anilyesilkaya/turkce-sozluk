@@ -2,6 +2,7 @@
 layout: term
 title: sağa sola
 slug: saga-sola
+letter: S
 lisan: Türkçe
 anlamlar:
 - rastgele yerlere veya kişilere

@@ -2,6 +2,7 @@
 layout: term
 title: donra
 slug: donra
+letter: D
 lisan: Türkçe
 anlamlar:
 - Saç kepeği

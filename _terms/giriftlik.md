@@ -2,6 +2,7 @@
 layout: term
 title: giriftlik
 slug: giriftlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girift olma durumu; girişiklik

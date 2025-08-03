@@ -2,6 +2,7 @@
 layout: term
 title: yokluk eki
 slug: yokluk-eki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ad soylu kelimelere gelerek herhangi bir nesne veya özelliğe sahip olmama anlamı katan -sız, -siz eki

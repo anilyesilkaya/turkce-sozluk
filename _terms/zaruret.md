@@ -2,6 +2,7 @@
 layout: term
 title: zaruret
 slug: zaruret
+letter: Z
 lisan: Arapça żarūret
 anlamlar:
 - ► zorunluluk

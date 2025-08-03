@@ -2,6 +2,7 @@
 layout: term
 title: rol almak
 slug: rol-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir oyunda görev almak

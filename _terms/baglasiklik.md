@@ -2,6 +2,7 @@
 layout: term
 title: bağlaşıklık
 slug: baglasiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlaşık olma durumu

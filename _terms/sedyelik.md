@@ -2,6 +2,7 @@
 layout: term
 title: sedyelik
 slug: sedyelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sedye ile götürülebilecek durumda olan

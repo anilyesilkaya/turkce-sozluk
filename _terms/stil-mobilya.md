@@ -2,6 +2,7 @@
 layout: term
 title: stil mobilya
 slug: stil-mobilya
+letter: S
 lisan: Türkçe
 anlamlar:
 - Antika mobilyanın özelliklerini kısmen yansıtan ve teknolojik gelişmelerden yararlanılarak üretilen mobilya

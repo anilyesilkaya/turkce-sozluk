@@ -2,6 +2,7 @@
 layout: term
 title: sefer
 slug: sefer
+letter: S
 lisan: Arapça sefer
 anlamlar:
 - ► yolculuk

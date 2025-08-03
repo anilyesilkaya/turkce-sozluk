@@ -2,6 +2,7 @@
 layout: term
 title: hıncını çıkarmak
 slug: hincini-cikarmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - öcünü almak

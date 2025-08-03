@@ -2,6 +2,7 @@
 layout: term
 title: aparmak
 slug: aparmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıp götürmek

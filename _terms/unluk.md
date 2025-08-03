@@ -2,6 +2,7 @@
 layout: term
 title: unluk
 slug: unluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Değirmende unun biriktiği yer

@@ -2,6 +2,7 @@
 layout: term
 title: kargılamak
 slug: kargilamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargı ile yaralamak veya öldürmek

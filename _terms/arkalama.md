@@ -2,6 +2,7 @@
 layout: term
 title: arkalama
 slug: arkalama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkalamak işi; müzaheret

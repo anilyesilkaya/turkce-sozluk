@@ -2,6 +2,7 @@
 layout: term
 title: pat küt
 slug: pat-kut
+letter: P
 lisan: Türkçe
 anlamlar:
 - El veya sopa ile rastgele ve üst üste vurarak

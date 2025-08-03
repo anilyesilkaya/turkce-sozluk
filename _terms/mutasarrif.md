@@ -2,6 +2,7 @@
 layout: term
 title: mutasarrıf
 slug: mutasarrif
+letter: M
 lisan: Arapça mutaṣarrif
 anlamlar:
 - Kendinde kullanım hakkı olan, elinde bulunduran

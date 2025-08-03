@@ -2,6 +2,7 @@
 layout: term
 title: yüzebilmek
 slug: yuzebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzme ihtimali veya imkânı bulunmak

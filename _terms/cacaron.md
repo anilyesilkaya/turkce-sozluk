@@ -2,6 +2,7 @@
 layout: term
 title: çaçaron
 slug: cacaron
+letter: Ç
 lisan: İtalyanca chiacchierone
 anlamlar:
 - Yüksek sesle, şirretçe ve karşısındakini bezdirip yıldıracak biçimde konuşan (kimse); yandan çarklı

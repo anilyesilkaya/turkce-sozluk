@@ -2,6 +2,7 @@
 layout: term
 title: nefret uyandırmak
 slug: nefret-uyandirmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - nefret etmesine sebep olmak

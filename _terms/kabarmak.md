@@ -2,6 +2,7 @@
 layout: term
 title: kabarmak
 slug: kabarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağırlığı artmadan hacmi büyümek

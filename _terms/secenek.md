@@ -2,6 +2,7 @@
 layout: term
 title: seçenek
 slug: secenek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birinin yerine seçilebilecek bir başka yol, yöntem, tutum; şık, alternatif, opsiyon

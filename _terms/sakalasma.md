@@ -2,6 +2,7 @@
 layout: term
 title: şakalaşma
 slug: sakalasma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakalaşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yer minderi
 slug: yer-minderi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yere serilerek üzerine oturulan yün, pamuk, sünger vb.yle doldurulmuş minder

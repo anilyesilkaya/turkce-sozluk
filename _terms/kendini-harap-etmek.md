@@ -2,6 +2,7 @@
 layout: term
 title: kendini harap etmek
 slug: kendini-harap-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - sıkıntı veya üzüntüden perişan olmak

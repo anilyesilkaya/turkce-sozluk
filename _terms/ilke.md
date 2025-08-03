@@ -2,6 +2,7 @@
 layout: term
 title: ilke
 slug: ilke
+letter: I
 lisan: Türkçe
 anlamlar:
 - Temel düşünce, temel inanç; umde, prensip

@@ -2,6 +2,7 @@
 layout: term
 title: tıp tıp
 slug: tip-tip
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük ve hafif bir biçimde

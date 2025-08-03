@@ -2,6 +2,7 @@
 layout: term
 title: şua tedavisi
 slug: sua-tedavisi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ışın tedavisi

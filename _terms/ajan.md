@@ -2,6 +2,7 @@
 layout: term
 title: ajan
 slug: ajan
+letter: A
 lisan: Fransızca agent
 anlamlar:
 - ► casus

@@ -2,6 +2,7 @@
 layout: term
 title: iyi olmak
 slug: iyi-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hastalıktan kurtulmak, iyileşmek

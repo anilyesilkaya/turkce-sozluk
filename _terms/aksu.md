@@ -2,6 +2,7 @@
 layout: term
 title: Aksu
 slug: aksu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Isparta iline bağlı ilçelerden biri

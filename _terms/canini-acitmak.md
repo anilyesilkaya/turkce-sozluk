@@ -2,6 +2,7 @@
 layout: term
 title: canını acıtmak
 slug: canini-acitmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - birine acı vermek

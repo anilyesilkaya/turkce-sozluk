@@ -2,6 +2,7 @@
 layout: term
 title: figüran
 slug: figuran
+letter: F
 lisan: Fransızca figurant
 anlamlar:
 - Genellikle tiyatro ve sinemada, konuşması olmayan veya konuşması çok az olan rollere çıkan kimse

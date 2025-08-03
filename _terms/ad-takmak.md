@@ -2,6 +2,7 @@
 layout: term
 title: ad takmak
 slug: ad-takmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - adlandırmak

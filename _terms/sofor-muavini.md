@@ -2,6 +2,7 @@
 layout: term
 title: şoför muavini
 slug: sofor-muavini
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Genellikle otobüs, kamyon, minibüs vb. kara taşımacılığı yapan araçlarda şoföre veya yolculara yardım eden kimse; muavin

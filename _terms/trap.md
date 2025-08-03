@@ -2,6 +2,7 @@
 layout: term
 title: trap
 slug: trap
+letter: T
 lisan: Fransızca trappe
 anlamlar:
 - Hendek, tuzak

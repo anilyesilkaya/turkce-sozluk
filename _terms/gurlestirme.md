@@ -2,6 +2,7 @@
 layout: term
 title: gürleştirme
 slug: gurlestirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürleştirmek işi

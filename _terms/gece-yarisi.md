@@ -2,6 +2,7 @@
 layout: term
 title: gece yarısı
 slug: gece-yarisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneşin batması ile doğması arasındaki sürenin ortası

@@ -2,6 +2,7 @@
 layout: term
 title: vasıl olmak
 slug: vasil-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - ulaşmak, varmak

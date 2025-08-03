@@ -2,6 +2,7 @@
 layout: term
 title: salon kadını
 slug: salon-kadini
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kadınlı erkekli özel toplantılara katılan, bu gibi yerlerde nasıl davranılacağını iyi bilen ve bu durumuyla dikkati çeken kadın

@@ -2,6 +2,7 @@
 layout: term
 title: öpüp başına koymak
 slug: opup-basina-koymak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir nimeti veya kutsal sayılan bir varlığı saygıyla el üstünde tutmak, yüksekte tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: manzarasız
 slug: manzarasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manzarası olmayan

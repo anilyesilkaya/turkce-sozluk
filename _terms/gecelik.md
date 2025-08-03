@@ -2,6 +2,7 @@
 layout: term
 title: gecelik
 slug: gecelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yatakta giyilen giysi; gece kıyafeti

@@ -2,6 +2,7 @@
 layout: term
 title: kan bağı
 slug: kan-bagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aynı soydan gelme durumu

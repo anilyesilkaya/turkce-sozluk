@@ -2,6 +2,7 @@
 layout: term
 title: vahşileşmek
 slug: vahsilesmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► yabanileşmek

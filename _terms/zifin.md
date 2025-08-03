@@ -2,6 +2,7 @@
 layout: term
 title: zifin
 slug: zifin
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► sarıağı

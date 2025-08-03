@@ -2,6 +2,7 @@
 layout: term
 title: köşeyi dönmek
 slug: koseyi-donmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hiçbir çaba göstermeden kısa sürede zengin olmak

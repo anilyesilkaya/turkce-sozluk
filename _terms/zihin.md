@@ -2,6 +2,7 @@
 layout: term
 title: zihin
 slug: zihin
+letter: Z
 lisan: Arapça ẕihn
 anlamlar:
 - Canlının duygu ve davranışlar dışındaki ruhsal süreç ve etkinliklerinin bütünü

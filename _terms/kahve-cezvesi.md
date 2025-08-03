@@ -2,6 +2,7 @@
 layout: term
 title: kahve cezvesi
 slug: kahve-cezvesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kahve pişirilen metal kap

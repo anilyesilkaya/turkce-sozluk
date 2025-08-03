@@ -2,6 +2,7 @@
 layout: term
 title: basmacılık
 slug: basmacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basmacının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: şimdi
 slug: simdi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şu anda, içinde bulunulan zamanda; imdi

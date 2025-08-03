@@ -2,6 +2,7 @@
 layout: term
 title: salıncaklı
 slug: salincakli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salıncağı olan

@@ -2,6 +2,7 @@
 layout: term
 title: hani ya
 slug: hani-ya
+letter: H
 lisan: Türkçe
 anlamlar:
 - hani

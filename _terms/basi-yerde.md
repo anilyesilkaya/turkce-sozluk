@@ -2,6 +2,7 @@
 layout: term
 title: başı yerde
 slug: basi-yerde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başını öne doğru eğmiş bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: muhtaç
 slug: muhtac
+letter: M
 lisan: Arapça muḥtāc
 anlamlar:
 - Bir şeye gereksinim duyan

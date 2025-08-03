@@ -2,6 +2,7 @@
 layout: term
 title: cihanı tutmak
 slug: cihani-tutmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - her tarafa yayılmak, dünyayı tutmak

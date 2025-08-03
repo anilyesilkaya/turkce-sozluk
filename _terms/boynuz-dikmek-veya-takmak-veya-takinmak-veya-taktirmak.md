@@ -2,6 +2,7 @@
 layout: term
 title: boynuz dikmek (veya takmak veya takınmak veya taktırmak)
 slug: boynuz-dikmek-veya-takmak-veya-takinmak-veya-taktirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başkalarıyla ilişki kurarak eşini, sevgilisini aldatmak

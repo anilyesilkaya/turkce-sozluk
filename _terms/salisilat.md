@@ -2,6 +2,7 @@
 layout: term
 title: salisilat
 slug: salisilat
+letter: S
 lisan: Fransızca salicylate
 anlamlar:
 - Salisilik asidin tuzu

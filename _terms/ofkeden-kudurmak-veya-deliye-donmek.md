@@ -2,6 +2,7 @@
 layout: term
 title: öfkeden kudurmak (veya deliye dönmek)
 slug: ofkeden-kudurmak-veya-deliye-donmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - fazla sinirlenmek

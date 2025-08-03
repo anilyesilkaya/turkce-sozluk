@@ -2,6 +2,7 @@
 layout: term
 title: aşlık
 slug: aslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aş yapmak için hazırlanan ve saklanan şeyler

@@ -2,6 +2,7 @@
 layout: term
 title: bozukça
 slug: bozukca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biraz bozuk, bozuk gibi

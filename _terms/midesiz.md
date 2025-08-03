@@ -2,6 +2,7 @@
 layout: term
 title: midesiz
 slug: midesiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yenmeyecek şeyleri yiyen

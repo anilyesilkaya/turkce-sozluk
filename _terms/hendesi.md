@@ -2,6 +2,7 @@
 layout: term
 title: hendesi
 slug: hendesi
+letter: H
 lisan: Arapça hendesī
 anlamlar:
 - ► geometrik

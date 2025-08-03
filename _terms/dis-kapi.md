@@ -2,6 +2,7 @@
 layout: term
 title: dış kapı
 slug: dis-kapi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Binayı sokaktan ayıran giriş kapısı

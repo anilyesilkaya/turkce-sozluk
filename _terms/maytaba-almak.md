@@ -2,6 +2,7 @@
 layout: term
 title: maytaba almak
 slug: maytaba-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - biriyle alay etmek, eğlenmek

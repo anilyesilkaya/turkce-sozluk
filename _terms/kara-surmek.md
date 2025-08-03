@@ -2,6 +2,7 @@
 layout: term
 title: kara sürmek
 slug: kara-surmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kara çalmak

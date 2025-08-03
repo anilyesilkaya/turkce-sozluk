@@ -2,6 +2,7 @@
 layout: term
 title: kalpazan
 slug: kalpazan
+letter: K
 lisan: Arapça ḳalb + Farsça -zen
 anlamlar:
 - Sahte para basan veya piyasaya süren kimse

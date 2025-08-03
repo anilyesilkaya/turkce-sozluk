@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızca
 slug: bagimsizca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımsız bir biçimde; bağımsızcasına

@@ -2,6 +2,7 @@
 layout: term
 title: akrilik boya
 slug: akrilik-boya
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yağlı boya kıvamında, sulu boya parlaklığında, su bazlı, tuval üzerinde çatlama yapmayan, kokusuz ve çabuk kuruyan bir tür boya

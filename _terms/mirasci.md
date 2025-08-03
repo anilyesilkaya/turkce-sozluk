@@ -2,6 +2,7 @@
 layout: term
 title: mirasçı
 slug: mirasci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir mirastan yasalar gereğince yararlanan kimse; kalıtçı, vâris

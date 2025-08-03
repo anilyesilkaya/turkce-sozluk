@@ -2,6 +2,7 @@
 layout: term
 title: papak
 slug: papak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Genellikle Azerbaycan ve Kafkasya'da giyilen, kuzu derisinden veya yününden yapılan, uzun tüylü başlık

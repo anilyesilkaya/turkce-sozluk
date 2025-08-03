@@ -2,6 +2,7 @@
 layout: term
 title: nörotik
 slug: norotik
+letter: N
 lisan: Fransızca neurotique
 anlamlar:
 - Ruhsal sorunlar nedeniyle kaygı, sıkıntı, takıntı gibi rahatsızlıkları olan kimse

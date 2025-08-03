@@ -2,6 +2,7 @@
 layout: term
 title: hâlsizleşmek
 slug: halsizlesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► takatsizleşmek

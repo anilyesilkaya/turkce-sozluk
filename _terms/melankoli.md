@@ -2,6 +2,7 @@
 layout: term
 title: melankoli
 slug: melankoli
+letter: M
 lisan: Fransızca mélancolie
 anlamlar:
 - ► kara sevda

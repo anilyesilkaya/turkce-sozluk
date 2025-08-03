@@ -2,6 +2,7 @@
 layout: term
 title: kişnemek
 slug: kisnemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - At bağırır gibi yüksek ses çıkarmak

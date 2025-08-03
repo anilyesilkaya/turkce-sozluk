@@ -2,6 +2,7 @@
 layout: term
 title: kabuğuna çekilmek
 slug: kabuguna-cekilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - dışarısı ile olan ilişkilerini kesmek, kimse ile görüşmemek

@@ -2,6 +2,7 @@
 layout: term
 title: fi tarihinde
 slug: fi-tarihinde
+letter: F
 lisan: Türkçe
 anlamlar:
 - Oldukça eski bir zamanda, bir zamanlar

@@ -2,6 +2,7 @@
 layout: term
 title: uzunca
 slug: uzunca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Biraz uzun

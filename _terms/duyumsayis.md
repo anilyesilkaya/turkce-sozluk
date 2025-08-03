@@ -2,6 +2,7 @@
 layout: term
 title: duyumsayış
 slug: duyumsayis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyumsamak durumu

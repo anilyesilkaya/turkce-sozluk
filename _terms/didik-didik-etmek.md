@@ -2,6 +2,7 @@
 layout: term
 title: didik didik etmek
 slug: didik-didik-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - didiklemek

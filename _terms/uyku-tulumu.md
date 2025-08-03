@@ -2,6 +2,7 @@
 layout: term
 title: uyku tulumu
 slug: uyku-tulumu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumak amacıyla içine girilen tulum biçimindeki yatak

@@ -2,6 +2,7 @@
 layout: term
 title: seyre koyulmak
 slug: seyre-koyulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - seyretmeye başlamak

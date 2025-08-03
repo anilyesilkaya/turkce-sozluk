@@ -2,6 +2,7 @@
 layout: term
 title: tayyare
 slug: tayyare
+letter: T
 lisan: Arapça ṭayyāre
 anlamlar:
 - ► uçak

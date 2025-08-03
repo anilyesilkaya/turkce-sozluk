@@ -2,6 +2,7 @@
 layout: term
 title: Allah'tan umut kesilmez
 slug: allah-tan-umut-kesilmez
+letter: A
 lisan: Türkçe
 anlamlar:
 - genellikle ağır hastalar için söylenilen "iyileşebilir" anlamında kullanılan bir söz

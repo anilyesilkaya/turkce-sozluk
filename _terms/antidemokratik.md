@@ -2,6 +2,7 @@
 layout: term
 title: antidemokratik
 slug: antidemokratik
+letter: A
 lisan: Fransızca antidémocratique
 anlamlar:
 - Demokrasiye aykırı olan

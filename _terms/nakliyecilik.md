@@ -2,6 +2,7 @@
 layout: term
 title: nakliyecilik
 slug: nakliyecilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► taşımacılık

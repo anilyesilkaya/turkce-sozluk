@@ -2,6 +2,7 @@
 layout: term
 title: örüntü
 slug: oruntu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Olay veya nesnelerin düzenli bir biçimde birbirini takip ederek gelişmesi

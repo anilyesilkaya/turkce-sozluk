@@ -2,6 +2,7 @@
 layout: term
 title: potansiyel
 slug: potansiyel
+letter: P
 lisan: Fransızca potentiel
 anlamlar:
 - Gizli kalmış, henüz varlığı ortaya çıkmamış olan; gizil

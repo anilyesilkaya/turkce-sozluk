@@ -2,6 +2,7 @@
 layout: term
 title: cerrah
 slug: cerrah
+letter: C
 lisan: Arapça cerrāḥ
 anlamlar:
 - Ameliyat yapan uzman hekim; operatör

@@ -2,6 +2,7 @@
 layout: term
 title: ileri görüşlü
 slug: ileri-goruslu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İleri görüşü olan (kimse)

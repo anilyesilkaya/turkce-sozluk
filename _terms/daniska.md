@@ -2,6 +2,7 @@
 layout: term
 title: daniska
 slug: daniska
+letter: D
 lisan: (Danzig yer adından)
 anlamlar:
 - Çok iyi, en iyi, en güzel, en seçkin

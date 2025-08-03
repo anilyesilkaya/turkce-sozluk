@@ -2,6 +2,7 @@
 layout: term
 title: yıkanmak
 slug: yikanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkama işi yapılmak veya yıkama işine konu olmak; yunmak

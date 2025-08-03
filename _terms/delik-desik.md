@@ -2,6 +2,7 @@
 layout: term
 title: delik deşik
 slug: delik-desik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Her yanı deliklerle dolu

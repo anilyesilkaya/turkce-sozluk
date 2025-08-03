@@ -2,6 +2,7 @@
 layout: term
 title: içi çıfıt çarşısı
 slug: ici-cifit-carsisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Her işte aklından türlü kötülükler geçiren, içi fesat dolu olan

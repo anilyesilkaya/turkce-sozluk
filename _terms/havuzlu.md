@@ -2,6 +2,7 @@
 layout: term
 title: havuzlu
 slug: havuzlu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havuzu olan

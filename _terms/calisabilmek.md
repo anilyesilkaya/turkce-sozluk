@@ -2,6 +2,7 @@
 layout: term
 title: çalışabilmek
 slug: calisabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalışma ihtimali veya imkânı bulunmak

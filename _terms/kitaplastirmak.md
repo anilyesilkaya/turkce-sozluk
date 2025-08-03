@@ -2,6 +2,7 @@
 layout: term
 title: kitaplaştırmak
 slug: kitaplastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitap durumuna getirmek, kitap olarak yayımlamak

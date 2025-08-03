@@ -2,6 +2,7 @@
 layout: term
 title: amcacık
 slug: amcacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amca sözünün sevgiyle dolu söylenen biçimi

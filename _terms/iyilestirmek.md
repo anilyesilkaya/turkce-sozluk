@@ -2,6 +2,7 @@
 layout: term
 title: iyileştirmek
 slug: iyilestirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyileşmesini sağlamak, sağlığına kavuşturmak; tedavi etmek

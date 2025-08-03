@@ -2,6 +2,7 @@
 layout: term
 title: şöbiyet
 slug: sobiyet
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İnce yufkaların içine kaymak konulup üstüne dövülmüş fıstık serpilerek yapılan bir baklava türü

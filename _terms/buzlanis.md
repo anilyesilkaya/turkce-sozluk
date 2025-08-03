@@ -2,6 +2,7 @@
 layout: term
 title: buzlanış
 slug: buzlanis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzlanmak işi

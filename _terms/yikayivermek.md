@@ -2,6 +2,7 @@
 layout: term
 title: yıkayıvermek
 slug: yikayivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak yıkamak

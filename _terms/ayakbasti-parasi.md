@@ -2,6 +2,7 @@
 layout: term
 title: ayakbastı parası
 slug: ayakbasti-parasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yere dışarıdan gelen insan ve eşyadan alınan vergi; ayakbastı, toprakbastı

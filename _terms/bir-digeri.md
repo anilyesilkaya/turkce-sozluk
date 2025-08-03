@@ -2,6 +2,7 @@
 layout: term
 title: bir diğeri
 slug: bir-digeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkası

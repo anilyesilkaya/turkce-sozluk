@@ -2,6 +2,7 @@
 layout: term
 title: korku
 slug: korku
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir tehlike veya tehlike düşüncesi karşısında duyulan kaygı, üzüntü

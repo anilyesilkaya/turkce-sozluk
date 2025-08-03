@@ -2,6 +2,7 @@
 layout: term
 title: mükevvenat
 slug: mukevvenat
+letter: M
 lisan: Arapça mukevvenāt
 anlamlar:
 - Yaratıkların bütünü

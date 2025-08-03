@@ -2,6 +2,7 @@
 layout: term
 title: sifonlular
 slug: sifonlular
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yassı solungaçlılardan bir sınıf

@@ -2,6 +2,7 @@
 layout: term
 title: tahassür
 slug: tahassur
+letter: T
 lisan: Arapça taḥassur
 anlamlar:
 - ► özlem

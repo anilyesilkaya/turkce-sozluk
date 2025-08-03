@@ -2,6 +2,7 @@
 layout: term
 title: suculuk
 slug: suculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sucunun yaptığı iş

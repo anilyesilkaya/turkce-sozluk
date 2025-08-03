@@ -2,6 +2,7 @@
 layout: term
 title: yoğaltım
 slug: yogaltim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tüketim

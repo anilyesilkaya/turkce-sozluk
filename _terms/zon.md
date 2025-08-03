@@ -2,6 +2,7 @@
 layout: term
 title: zon
 slug: zon
+letter: Z
 lisan: İngilizce zone
 anlamlar:
 - ► bölge

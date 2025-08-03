@@ -2,6 +2,7 @@
 layout: term
 title: şahlandırış
 slug: sahlandiris
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şahlandırmak işi

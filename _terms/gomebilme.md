@@ -2,6 +2,7 @@
 layout: term
 title: gömebilme
 slug: gomebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: uzaklık
 slug: uzaklik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzak olma durumu; ıraklık

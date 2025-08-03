@@ -2,6 +2,7 @@
 layout: term
 title: göçerkonar
 slug: gocerkonar
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► konargöçer

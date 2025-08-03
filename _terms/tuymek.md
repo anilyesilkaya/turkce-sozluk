@@ -2,6 +2,7 @@
 layout: term
 title: tüymek
 slug: tuymek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sıvışmak

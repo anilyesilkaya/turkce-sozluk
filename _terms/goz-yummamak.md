@@ -2,6 +2,7 @@
 layout: term
 title: göz yummamak
 slug: goz-yummamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - uyumamak

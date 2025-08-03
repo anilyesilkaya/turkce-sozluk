@@ -2,6 +2,7 @@
 layout: term
 title: kırıtmak
 slug: kiritmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerine ilgi çekmek, hoşa gitmek için hareketlerine veya yürüyüşüne cilveli bir hâl katmak

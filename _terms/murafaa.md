@@ -2,6 +2,7 @@
 layout: term
 title: murafaa
 slug: murafaa
+letter: M
 lisan: Arapça murāfaʿa
 anlamlar:
 - ► duruşma

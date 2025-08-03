@@ -2,6 +2,7 @@
 layout: term
 title: ihatalı
 slug: ihatali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Alanı geniş

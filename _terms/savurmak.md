@@ -2,6 +2,7 @@
 layout: term
 title: savurmak
 slug: savurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Havaya atıp dağıtmak

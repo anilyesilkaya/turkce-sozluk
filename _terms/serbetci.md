@@ -2,6 +2,7 @@
 layout: term
 title: şerbetçi
 slug: serbetci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şerbet yapan veya satan kimse; şurupçu

@@ -2,6 +2,7 @@
 layout: term
 title: kömürlü
 slug: komurlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birleşiminde kömür olan

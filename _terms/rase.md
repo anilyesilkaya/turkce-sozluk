@@ -2,6 +2,7 @@
 layout: term
 title: raşe
 slug: rase
+letter: R
 lisan: Arapça raʿşe
 anlamlar:
 - Titreyiş, ürkme

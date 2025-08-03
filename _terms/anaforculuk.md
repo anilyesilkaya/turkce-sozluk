@@ -2,6 +2,7 @@
 layout: term
 title: anaforculuk
 slug: anaforculuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anaforcu olma durumu

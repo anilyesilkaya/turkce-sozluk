@@ -2,6 +2,7 @@
 layout: term
 title: telaşlanmak
 slug: telaslanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sıkıntı duyarak acele etmek, endişelenmek; tutuşmak, telaş etmek

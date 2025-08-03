@@ -2,6 +2,7 @@
 layout: term
 title: medya grubu
 slug: medya-grubu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir merkeze, bir ortaklığa bağlı olan basın yayın organlarının tümü

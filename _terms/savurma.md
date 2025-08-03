@@ -2,6 +2,7 @@
 layout: term
 title: savurma
 slug: savurma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savurmak işi

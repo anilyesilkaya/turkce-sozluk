@@ -2,6 +2,7 @@
 layout: term
 title: çocuk aldırmak
 slug: cocuk-aldirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kadın karnındaki bebeği hekime ameliyatla aldırmak

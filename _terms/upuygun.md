@@ -2,6 +2,7 @@
 layout: term
 title: upuygun
 slug: upuygun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çok uygun

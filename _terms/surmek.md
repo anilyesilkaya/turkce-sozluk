@@ -2,6 +2,7 @@
 layout: term
 title: sürmek
 slug: surmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - At, araba vb. için yönetip yürütmek, sevk etmek

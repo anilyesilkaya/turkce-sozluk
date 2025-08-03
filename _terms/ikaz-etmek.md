@@ -2,6 +2,7 @@
 layout: term
 title: ikaz etmek
 slug: ikaz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - uyarmak, dikkat çekmek

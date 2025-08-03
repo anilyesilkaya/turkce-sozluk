@@ -2,6 +2,7 @@
 layout: term
 title: denilmek
 slug: denilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ad verilmek

@@ -2,6 +2,7 @@
 layout: term
 title: konforsuzluk
 slug: konforsuzluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konforsuz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yayımlatabilme
 slug: yayimlatabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayımlatabilmek işi

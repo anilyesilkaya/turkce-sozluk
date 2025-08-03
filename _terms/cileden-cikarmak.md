@@ -2,6 +2,7 @@
 layout: term
 title: çileden çıkarmak
 slug: cileden-cikarmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok kızdırmak

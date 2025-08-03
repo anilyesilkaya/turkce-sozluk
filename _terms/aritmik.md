@@ -2,6 +2,7 @@
 layout: term
 title: aritmik
 slug: aritmik
+letter: A
 lisan: Fransızca arythmique
 anlamlar:
 - Ritimli olmayan

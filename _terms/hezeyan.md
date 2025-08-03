@@ -2,6 +2,7 @@
 layout: term
 title: hezeyan
 slug: hezeyan
+letter: H
 lisan: Arapça heẕeyān
 anlamlar:
 - ► saçmalama

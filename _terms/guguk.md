@@ -2,6 +2,7 @@
 layout: term
 title: guguk
 slug: guguk
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► guguk kuşu

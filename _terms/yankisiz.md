@@ -2,6 +2,7 @@
 layout: term
 title: yankısız
 slug: yankisiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yankısı olmayan; akissiz, ekosuz

@@ -2,6 +2,7 @@
 layout: term
 title: askılık
 slug: askilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avcıların sırtlarına taktıkları askı takımı

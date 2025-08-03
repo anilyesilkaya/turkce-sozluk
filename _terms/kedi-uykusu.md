@@ -2,6 +2,7 @@
 layout: term
 title: 'kedi uykusu '
 slug: kedi-uykusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► şekerleme

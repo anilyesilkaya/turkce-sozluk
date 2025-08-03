@@ -2,6 +2,7 @@
 layout: term
 title: fiyaka
 slug: fiyaka
+letter: F
 lisan: İtalyanca fiaccola
 anlamlar:
 - ► gösteriş

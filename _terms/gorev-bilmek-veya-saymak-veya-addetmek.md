@@ -2,6 +2,7 @@
 layout: term
 title: görev bilmek (veya saymak veya addetmek)
 slug: gorev-bilmek-veya-saymak-veya-addetmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - görev olarak üzerine almak, sorumluluk üstlenmek

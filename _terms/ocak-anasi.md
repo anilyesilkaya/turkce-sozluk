@@ -2,6 +2,7 @@
 layout: term
 title: 'ocak anası '
 slug: ocak-anasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Eski Türk inanışında ve masallarda ocağı koruduğuna inanılan kadın

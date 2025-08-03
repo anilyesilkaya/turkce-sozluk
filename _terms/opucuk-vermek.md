@@ -2,6 +2,7 @@
 layout: term
 title: öpücük vermek
 slug: opucuk-vermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - öpmesine izin vermek, öptürmek

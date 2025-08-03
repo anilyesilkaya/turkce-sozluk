@@ -2,6 +2,7 @@
 layout: term
 title: postuna oturmak
 slug: postuna-oturmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir başkasının makamına geçmek

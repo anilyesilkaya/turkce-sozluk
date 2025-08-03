@@ -2,6 +2,7 @@
 layout: term
 title: dramatik
 slug: dramatik
+letter: D
 lisan: Fransızca dramatique
 anlamlar:
 - Sahne oyununa özgü olan

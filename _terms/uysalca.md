@@ -2,6 +2,7 @@
 layout: term
 title: uysalca
 slug: uysalca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uysal bir biçimde

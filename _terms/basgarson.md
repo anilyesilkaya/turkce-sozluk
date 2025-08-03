@@ -2,6 +2,7 @@
 layout: term
 title: başgarson
 slug: basgarson
+letter: B
 lisan: Türkçe baş + Fransızca garçon
 anlamlar:
 - ► şef garson

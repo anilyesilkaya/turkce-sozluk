@@ -2,6 +2,7 @@
 layout: term
 title: tevil
 slug: tevil
+letter: T
 lisan: Arapça teʾvīl
 anlamlar:
 - ► çevri

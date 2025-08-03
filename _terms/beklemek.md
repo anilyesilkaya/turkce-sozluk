@@ -2,6 +2,7 @@
 layout: term
 title: beklemek
 slug: beklemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir iş oluncaya, biri gelinceye değin bir yerde kalmak, durmak

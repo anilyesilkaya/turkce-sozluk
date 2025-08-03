@@ -2,6 +2,7 @@
 layout: term
 title: işitmemezlik
 slug: isitmemezlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - 343 işitmezlik

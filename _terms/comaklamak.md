@@ -2,6 +2,7 @@
 layout: term
 title: çomaklamak
 slug: comaklamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çomakla vurmak

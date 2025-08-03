@@ -2,6 +2,7 @@
 layout: term
 title: kalak
 slug: kalak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Burun, burun ucu

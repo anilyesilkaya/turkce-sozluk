@@ -2,6 +2,7 @@
 layout: term
 title: dünkü
 slug: dunku
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düne özgü, dün olan, dün yapılan

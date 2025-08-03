@@ -2,6 +2,7 @@
 layout: term
 title: karın ağrısı
 slug: karin-agrisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karında duyulan ağrı

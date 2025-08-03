@@ -2,6 +2,7 @@
 layout: term
 title: şakırtı
 slug: sakirti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakırdayan bir şeyin çıkardığı sesin adı

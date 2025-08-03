@@ -2,6 +2,7 @@
 layout: term
 title: modernleşebilmek
 slug: modernlesebilmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Modernleşme ihtimali veya imkânı bulunmak

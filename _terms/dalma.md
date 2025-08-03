@@ -2,6 +2,7 @@
 layout: term
 title: dalma
 slug: dalma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalmak işi

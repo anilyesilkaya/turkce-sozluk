@@ -2,6 +2,7 @@
 layout: term
 title: bilişim çağı
 slug: bilisim-cagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sosyal, ekonomik ve politik faaliyetlerde bilgi teknolojilerinin merkeze alındığı dönem; dijital çağ

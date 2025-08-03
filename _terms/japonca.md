@@ -2,6 +2,7 @@
 layout: term
 title: Japonca
 slug: japonca
+letter: J
 lisan: Türkçe
 anlamlar:
 - Japonların kullandığı dil

@@ -2,6 +2,7 @@
 layout: term
 title: muslukçu
 slug: muslukcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Musluk satan veya onaran kimse

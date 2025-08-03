@@ -2,6 +2,7 @@
 layout: term
 title: fizyonomi
 slug: fizyonomi
+letter: F
 lisan: Fransızca physionomie
 anlamlar:
 - Yüz çizgilerinin genel durumundan çıkan anlam

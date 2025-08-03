@@ -2,6 +2,7 @@
 layout: term
 title: dayayabilmek
 slug: dayayabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayama ihtimali veya imkânı bulunmak

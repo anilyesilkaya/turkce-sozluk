@@ -2,6 +2,7 @@
 layout: term
 title: inletmek
 slug: inletmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnlemesine yol açmak

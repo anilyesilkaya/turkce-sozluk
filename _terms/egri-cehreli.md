@@ -2,6 +2,7 @@
 layout: term
 title: eğri çehreli
 slug: egri-cehreli
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► asık suratlı

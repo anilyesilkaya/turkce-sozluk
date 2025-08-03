@@ -2,6 +2,7 @@
 layout: term
 title: lebalep
 slug: lebalep
+letter: L
 lisan: Farsça lebāleb
 anlamlar:
 - ► silme

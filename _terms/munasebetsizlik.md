@@ -2,6 +2,7 @@
 layout: term
 title: münasebetsizlik
 slug: munasebetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Münasebetsiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne yıkmak
 slug: ustune-yikmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - kendisinin de sorumlu olduğu bir işin ağırlığını başkalarına yüklemek

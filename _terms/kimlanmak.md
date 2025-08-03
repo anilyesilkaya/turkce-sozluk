@@ -2,6 +2,7 @@
 layout: term
 title: kımlanmak
 slug: kimlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuş uçmaya hazırlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: kakma
 slug: kakma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kakmak işi; hakketme

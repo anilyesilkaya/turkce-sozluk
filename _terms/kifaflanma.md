@@ -2,6 +2,7 @@
 layout: term
 title: kifaflanma
 slug: kifaflanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kifaflanmak işi

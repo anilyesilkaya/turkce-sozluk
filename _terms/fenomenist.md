@@ -2,6 +2,7 @@
 layout: term
 title: fenomenist
 slug: fenomenist
+letter: F
 lisan: Fransızca phénoméniste
 anlamlar:
 - ► görüngücü

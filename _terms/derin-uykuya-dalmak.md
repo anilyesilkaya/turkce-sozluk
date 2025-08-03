@@ -2,6 +2,7 @@
 layout: term
 title: derin uykuya dalmak
 slug: derin-uykuya-dalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - derin bir biçimde uyumak

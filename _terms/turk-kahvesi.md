@@ -2,6 +2,7 @@
 layout: term
 title: Türk kahvesi
 slug: turk-kahvesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Cezve ile kısık ateşte, şekerli orta veya sade olarak pişirilen kahve

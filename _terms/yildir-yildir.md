@@ -2,6 +2,7 @@
 layout: term
 title: yıldır yıldır
 slug: yildir-yildir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► pırıl pırıl

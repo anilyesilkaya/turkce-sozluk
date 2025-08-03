@@ -2,6 +2,7 @@
 layout: term
 title: aralıkla
 slug: aralikla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aralıklı bir biçimde

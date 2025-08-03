@@ -2,6 +2,7 @@
 layout: term
 title: güvenebilme
 slug: guvenebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: fenalaşma
 slug: fenalasma
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fenalaşmak işi

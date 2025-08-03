@@ -2,6 +2,7 @@
 layout: term
 title: demokrat
 slug: demokrat
+letter: D
 lisan: Fransızca démocrate
 anlamlar:
 - Demokrasi yanlısı

@@ -2,6 +2,7 @@
 layout: term
 title: belirtisiz nesne
 slug: belirtisiz-nesne
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirtme eki getirilmeden fiille ilişkilendirilen nesne

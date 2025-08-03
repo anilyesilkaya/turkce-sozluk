@@ -2,6 +2,7 @@
 layout: term
 title: arkalık
 slug: arkalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sırt dayamaya yarayan yer

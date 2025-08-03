@@ -2,6 +2,7 @@
 layout: term
 title: uğraşabilmek
 slug: ugrasabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğraşma ihtimali veya imkânı bulunmak

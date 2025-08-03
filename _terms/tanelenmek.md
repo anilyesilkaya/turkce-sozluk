@@ -2,6 +2,7 @@
 layout: term
 title: tanelenmek
 slug: tanelenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanelere ayrılmak

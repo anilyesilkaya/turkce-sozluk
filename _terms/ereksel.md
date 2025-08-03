@@ -2,6 +2,7 @@
 layout: term
 title: ereksel
 slug: ereksel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erek niteliğinde olan

@@ -2,6 +2,7 @@
 layout: term
 title: odabaşı
 slug: odabasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hanlarda çalışan uşakların başı

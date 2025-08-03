@@ -2,6 +2,7 @@
 layout: term
 title: dalga oyuğu
 slug: dalga-oyugu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dik kıyılarda yarın alt bölümünde bulunan, dalgaların çarparak oydukları in biçimli oyuk

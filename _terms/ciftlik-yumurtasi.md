@@ -2,6 +2,7 @@
 layout: term
 title: çiftlik yumurtası
 slug: ciftlik-yumurtasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tavuk çiftliklerinde kapalı kafeslerde önlerine yem konarak hareket ettirilmeden sürekli beslenen tavuklardan elde edilen yumurta; ziraat yumurtası

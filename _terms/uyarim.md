@@ -2,6 +2,7 @@
 layout: term
 title: uyarım
 slug: uyarim
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir uyaran karşısında organizmanın gösterdiği tepki; tembih

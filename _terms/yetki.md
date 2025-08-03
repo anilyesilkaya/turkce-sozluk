@@ -2,6 +2,7 @@
 layout: term
 title: yetki
 slug: yetki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir görevi, bir işi yasaların verdiği imkânlara göre, belli şartlarla yürütmeyi sağlayan hak; salahiyet, mezuniyet

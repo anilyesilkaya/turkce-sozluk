@@ -2,6 +2,7 @@
 layout: term
 title: yalavaç
 slug: yalavac
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► peygamber

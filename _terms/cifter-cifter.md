@@ -2,6 +2,7 @@
 layout: term
 title: çifter çifter
 slug: cifter-cifter
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Her defasında, her yapılışında çift olarak

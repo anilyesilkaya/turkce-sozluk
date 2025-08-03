@@ -2,6 +2,7 @@
 layout: term
 title: liyakatli
 slug: liyakatli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liyakati olan; değimli

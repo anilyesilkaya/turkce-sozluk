@@ -2,6 +2,7 @@
 layout: term
 title: yuh çekmek
 slug: yuh-cekmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - beğenilmeyen, tasvip edilmeyen birine veya bir duruma karşı haykırmak

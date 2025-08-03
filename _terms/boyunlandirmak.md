@@ -2,6 +2,7 @@
 layout: term
 title: boyunlandırmak
 slug: boyunlandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kapsam kazandırmak

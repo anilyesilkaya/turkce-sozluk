@@ -2,6 +2,7 @@
 layout: term
 title: av yasağı
 slug: av-yasagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yılın av dönemi dışında kalan zamanda konulan yasak

@@ -2,6 +2,7 @@
 layout: term
 title: tahrifat
 slug: tahrifat
+letter: T
 lisan: Arapça taḥrīfāt
 anlamlar:
 - Bir şeyin aslını bozma, değiştirme

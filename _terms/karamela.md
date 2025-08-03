@@ -2,6 +2,7 @@
 layout: term
 title: karamela
 slug: karamela
+letter: K
 lisan: İtalyanca caramella
 anlamlar:
 - ► karamel

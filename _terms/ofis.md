@@ -2,6 +2,7 @@
 layout: term
 title: ofis
 slug: ofis
+letter: O
 lisan: Fransızca office
 anlamlar:
 - Bir işletmeyi veya hizmeti yönetmek üzere düzenleme faaliyetlerinin yapıldığı alan

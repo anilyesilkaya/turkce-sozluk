@@ -2,6 +2,7 @@
 layout: term
 title: hadsizlik
 slug: hadsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sınırsızlık

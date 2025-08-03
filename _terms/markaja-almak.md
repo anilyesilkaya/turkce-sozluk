@@ -2,6 +2,7 @@
 layout: term
 title: markaja almak
 slug: markaja-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - tutmak, perdelemek

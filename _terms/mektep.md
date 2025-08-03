@@ -2,6 +2,7 @@
 layout: term
 title: mektep
 slug: mektep
+letter: M
 lisan: Arapça mekteb
 anlamlar:
 - ► okul

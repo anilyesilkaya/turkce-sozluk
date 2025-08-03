@@ -2,6 +2,7 @@
 layout: term
 title: silebilmek
 slug: silebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silme ihtimali veya imkânı bulunmak

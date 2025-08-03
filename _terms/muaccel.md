@@ -2,6 +2,7 @@
 layout: term
 title: muaccel
 slug: muaccel
+letter: M
 lisan: Arapça muʿaccel
 anlamlar:
 - Acele olunmuş

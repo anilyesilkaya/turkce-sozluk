@@ -2,6 +2,7 @@
 layout: term
 title: gedik açmak
 slug: gedik-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - düşman mevzilerindeki zayıf bir noktadan giriş yeri açmak

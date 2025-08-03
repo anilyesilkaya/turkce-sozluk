@@ -2,6 +2,7 @@
 layout: term
 title: düşünücü
 slug: dusunucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► düşünür

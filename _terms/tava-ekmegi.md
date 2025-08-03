@@ -2,6 +2,7 @@
 layout: term
 title: tava ekmeği
 slug: tava-ekmegi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Özel bir kapta pişirilen ekmek

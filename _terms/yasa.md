@@ -2,6 +2,7 @@
 layout: term
 title: yaşa
 slug: yasa
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hoşnutluk, sevinç vb. duyguları anlatmak için söylenen bir söz; yaşasın, ole, oley

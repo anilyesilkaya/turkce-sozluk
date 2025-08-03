@@ -2,6 +2,7 @@
 layout: term
 title: mezarcılık
 slug: mezarcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mezar kazma işi

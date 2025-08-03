@@ -2,6 +2,7 @@
 layout: term
 title: anıtlaştırılma
 slug: anitlastirilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anıtlaştırılmak durumu; abideleştirilme

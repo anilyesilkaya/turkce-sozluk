@@ -2,6 +2,7 @@
 layout: term
 title: koynuna almak
 slug: koynuna-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - biriyle beraber yatmak

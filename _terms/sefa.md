@@ -2,6 +2,7 @@
 layout: term
 title: sefa
 slug: sefa
+letter: S
 lisan: Arapça ṣafā
 anlamlar:
 - Rahat, kaygısız ve sakin olma

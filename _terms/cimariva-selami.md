@@ -2,6 +2,7 @@
 layout: term
 title: çımariva selamı
 slug: cimariva-selami
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Savaş gemilerinde tüm askerî personelin küpeşte boyunca belirli aralıklarla dizilerek ve şapka çıkararak saygı gösterme, karşılama, uğurlama amacıyla verdiği sel

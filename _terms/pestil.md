@@ -2,6 +2,7 @@
 layout: term
 title: pestil
 slug: pestil
+letter: P
 lisan: Türkçe
 anlamlar:
 - İnce yufka biçiminde kurutulmuş meyve ezmesi; bastık

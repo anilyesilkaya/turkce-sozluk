@@ -2,6 +2,7 @@
 layout: term
 title: garanti altına almak
 slug: garanti-altina-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvence altına almak

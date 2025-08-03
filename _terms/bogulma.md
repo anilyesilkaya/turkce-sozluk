@@ -2,6 +2,7 @@
 layout: term
 title: boğulma
 slug: bogulma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğulmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: salata
 slug: salata
+letter: S
 lisan: İtalyanca salata
 anlamlar:
 - Genellikle marul, maydanoz, soğan, domates gibi çiğ ot ve sebzelerle yapılan, yağ, limon, sirke vb. maddeler konulan, yemeklerle birlikte yenen yiyecek

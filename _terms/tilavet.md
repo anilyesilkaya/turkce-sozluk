@@ -2,6 +2,7 @@
 layout: term
 title: tilavet
 slug: tilavet
+letter: T
 lisan: Arapça tilāvet
 anlamlar:
 - Kur'an'ı güzel ve yüksek sesle, usulünce okuma

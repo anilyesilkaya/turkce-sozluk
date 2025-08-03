@@ -2,6 +2,7 @@
 layout: term
 title: nefes deliği
 slug: nefes-deligi
+letter: N
 lisan: Türkçe
 anlamlar:
 - İnsanın soluk almasını sağlayan delik

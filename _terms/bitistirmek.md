@@ -2,6 +2,7 @@
 layout: term
 title: bitiştirmek
 slug: bitistirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitişmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: humus
 slug: humus
+letter: H
 lisan: Arapça ḥummuṣ
 anlamlar:
 - ► nohut

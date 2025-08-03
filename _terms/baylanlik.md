@@ -2,6 +2,7 @@
 layout: term
 title: baylanlık
 slug: baylanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baylan olma durumu

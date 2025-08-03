@@ -2,6 +2,7 @@
 layout: term
 title: kaldırım
 slug: kaldirim
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaya kaldırımı

@@ -2,6 +2,7 @@
 layout: term
 title: altmışlı
 slug: altmisli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altmış parçası bulunan, altmış parçadan oluşan

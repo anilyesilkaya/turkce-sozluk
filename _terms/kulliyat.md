@@ -2,6 +2,7 @@
 layout: term
 title: külliyat
 slug: kulliyat
+letter: K
 lisan: Arapça kulliyyāt
 anlamlar:
 - Bir yazarın bütün eserlerini içeren dizi

@@ -2,6 +2,7 @@
 layout: term
 title: çit
 slug: cit
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pamuktan dokunmuş basma

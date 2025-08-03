@@ -2,6 +2,7 @@
 layout: term
 title: hayret etmek
 slug: hayret-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - şaşmak, şaşırmak, şaşakalmak

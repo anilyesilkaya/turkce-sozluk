@@ -2,6 +2,7 @@
 layout: term
 title: cart
 slug: cart
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sert bir şey yırtılırken çıkan ses

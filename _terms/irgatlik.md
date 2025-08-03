@@ -2,6 +2,7 @@
 layout: term
 title: ırgatlık
 slug: irgatlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Irgat olma durumu; rençperlik

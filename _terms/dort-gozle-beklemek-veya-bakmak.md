@@ -2,6 +2,7 @@
 layout: term
 title: dört gözle beklemek (veya bakmak)
 slug: dort-gozle-beklemek-veya-bakmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok isteyerek veya özleyerek beklemek

@@ -2,6 +2,7 @@
 layout: term
 title: ayda yılda bir
 slug: ayda-yilda-bir
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok seyrek olarak

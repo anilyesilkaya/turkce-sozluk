@@ -2,6 +2,7 @@
 layout: term
 title: soğurmak
 slug: sogurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir madde, bir sıvıyı içine çekmek

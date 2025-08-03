@@ -2,6 +2,7 @@
 layout: term
 title: ifadesini almak
 slug: ifadesini-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sorguya çekmek

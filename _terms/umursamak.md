@@ -2,6 +2,7 @@
 layout: term
 title: umursamak
 slug: umursamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aldırış etmek, önem vermek

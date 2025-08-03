@@ -2,6 +2,7 @@
 layout: term
 title: tekleşmek
 slug: teklesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek özellik göstermek

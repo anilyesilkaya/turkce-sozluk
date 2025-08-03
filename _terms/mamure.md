@@ -2,6 +2,7 @@
 layout: term
 title: mamure
 slug: mamure
+letter: M
 lisan: Arapça maʿmūre
 anlamlar:
 - Bayındır yer

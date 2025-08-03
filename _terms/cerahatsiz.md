@@ -2,6 +2,7 @@
 layout: term
 title: cerahatsiz
 slug: cerahatsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► irinsiz

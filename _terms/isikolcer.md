@@ -2,6 +2,7 @@
 layout: term
 title: ışıkölçer
 slug: isikolcer
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işık şiddetini veya enerjisini ölçen araç; fotometre

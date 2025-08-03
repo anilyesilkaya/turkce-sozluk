@@ -2,6 +2,7 @@
 layout: term
 title: kalpten
 slug: kalpten
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► içten

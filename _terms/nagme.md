@@ -2,6 +2,7 @@
 layout: term
 title: nağme
 slug: nagme
+letter: N
 lisan: Arapça naġme
 anlamlar:
 - Güzel, uyumlu ses, ezgi, melodi

@@ -2,6 +2,7 @@
 layout: term
 title: sigarayı tellendirmek (veya tüttürmek)
 slug: sigarayi-tellendirmek-veya-tutturmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - keyifle sigara içmek

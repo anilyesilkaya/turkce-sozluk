@@ -2,6 +2,7 @@
 layout: term
 title: serapa
 slug: serapa
+letter: S
 lisan: Farsça serāpā
 anlamlar:
 - ► baştan başa

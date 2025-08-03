@@ -2,6 +2,7 @@
 layout: term
 title: kaşkariko
 slug: kaskariko
+letter: K
 lisan: Türkçe
 anlamlar:
 - Oyun, dolap, düzen

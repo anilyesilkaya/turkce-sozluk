@@ -2,6 +2,7 @@
 layout: term
 title: duacı
 slug: duaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Allah'a yalvaran kimse

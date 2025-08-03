@@ -2,6 +2,7 @@
 layout: term
 title: belli belirsizlik
 slug: belli-belirsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belli belirsiz olma durumu

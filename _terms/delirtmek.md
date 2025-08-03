@@ -2,6 +2,7 @@
 layout: term
 title: delirtmek
 slug: delirtmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deli etmek, çıldırtmak

@@ -2,6 +2,7 @@
 layout: term
 title: makyaj
 slug: makyaj
+letter: M
 lisan: Fransızca maquillage
 anlamlar:
 - Yüzü daha bakımlı ve güzel göstermek için kirpik, göz kapağı, burun, yanak ve dudaklara rimel, far, allık, fondöten, ruj vb. malzemeler sürme tekniği

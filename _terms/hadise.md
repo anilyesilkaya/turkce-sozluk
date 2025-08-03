@@ -2,6 +2,7 @@
 layout: term
 title: hadise
 slug: hadise
+letter: H
 lisan: Arapça ḥādis̱e
 anlamlar:
 - ► olay

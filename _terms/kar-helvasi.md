@@ -2,6 +2,7 @@
 layout: term
 title: kar helvası
 slug: kar-helvasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pekmez karıştırılmış kar

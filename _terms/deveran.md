@@ -2,6 +2,7 @@
 layout: term
 title: deveran
 slug: deveran
+letter: D
 lisan: Arapça deverān
 anlamlar:
 - ► dönme

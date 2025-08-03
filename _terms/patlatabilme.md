@@ -2,6 +2,7 @@
 layout: term
 title: patlatabilme
 slug: patlatabilme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlatabilmek işi

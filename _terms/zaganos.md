@@ -2,6 +2,7 @@
 layout: term
 title: zağanos
 slug: zaganos
+letter: Z
 lisan: Rumca
 anlamlar:
 - Bir cins doğan

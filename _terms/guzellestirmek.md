@@ -2,6 +2,7 @@
 layout: term
 title: güzelleştirmek
 slug: guzellestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzellik vermek, güzellik kazandırmak

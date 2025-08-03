@@ -2,6 +2,7 @@
 layout: term
 title: tokatçı
 slug: tokatci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dolandırıcı

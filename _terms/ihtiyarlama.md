@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarlama
 slug: ihtiyarlama
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yaşlanma

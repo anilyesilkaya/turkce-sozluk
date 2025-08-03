@@ -2,6 +2,7 @@
 layout: term
 title: ısmarlamak
 slug: ismarlamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yapılmasını veya getirilmesini, bu işlerle uğraşan birine söylemek; sipariş etmek, sipariş vermek

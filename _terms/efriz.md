@@ -2,6 +2,7 @@
 layout: term
 title: efriz
 slug: efriz
+letter: E
 lisan: Fransızca frise
 anlamlar:
 - ► friz

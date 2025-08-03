@@ -2,6 +2,7 @@
 layout: term
 title: e mi!
 slug: e-mi
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"olur mu!" anlamında kullanılan bir tembih veya istek sözü'

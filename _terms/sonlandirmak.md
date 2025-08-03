@@ -2,6 +2,7 @@
 layout: term
 title: sonlandırmak
 slug: sonlandirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sona erdirmek

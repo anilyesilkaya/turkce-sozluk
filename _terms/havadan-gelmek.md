@@ -2,6 +2,7 @@
 layout: term
 title: havadan gelmek
 slug: havadan-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - herhangi bir emek harcamadan sahip olunmak

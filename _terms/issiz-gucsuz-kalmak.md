@@ -2,6 +2,7 @@
 layout: term
 title: işsiz güçsüz kalmak
 slug: issiz-gucsuz-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bulunduğu iş yerinden ayrılarak boşta bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltılma
 slug: cogaltilma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltılmak işi

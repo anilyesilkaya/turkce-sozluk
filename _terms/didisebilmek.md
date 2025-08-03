@@ -2,6 +2,7 @@
 layout: term
 title: didişebilmek
 slug: didisebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Didişme ihtimali veya imkânı bulunmak

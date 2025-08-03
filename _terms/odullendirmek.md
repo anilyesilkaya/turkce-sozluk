@@ -2,6 +2,7 @@
 layout: term
 title: ödüllendirmek
 slug: odullendirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir başarıyı veya bir iyiliği ödülle değerlendirmek; mükâfatlandırmak

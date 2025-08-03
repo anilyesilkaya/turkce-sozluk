@@ -2,6 +2,7 @@
 layout: term
 title: şişelik
 slug: siselik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişe konulacak yer

@@ -2,6 +2,7 @@
 layout: term
 title: çürük raporu
 slug: curuk-raporu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kişinin askerlik görevine elverişli olmadığını gösteren, askerî hastanelerce verilen rapor

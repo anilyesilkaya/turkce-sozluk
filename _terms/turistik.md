@@ -2,6 +2,7 @@
 layout: term
 title: turistik
 slug: turistik
+letter: T
 lisan: Fransızca touristique
 anlamlar:
 - Turizmle ilgili olan

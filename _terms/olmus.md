@@ -2,6 +2,7 @@
 layout: term
 title: olmuş
 slug: olmus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olgunlaşmış, ergin

@@ -2,6 +2,7 @@
 layout: term
 title: kifaflanmak
 slug: kifaflanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Elde ne varsa onunla, çok az yiyecekle karın doyurmak, çok az şeyle yetinmek

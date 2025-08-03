@@ -2,6 +2,7 @@
 layout: term
 title: köstekleniş
 slug: kosteklenis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kösteklenmek işi

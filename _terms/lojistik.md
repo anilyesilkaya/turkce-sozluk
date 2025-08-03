@@ -2,6 +2,7 @@
 layout: term
 title: lojistik
 slug: lojistik
+letter: L
 lisan: Fransızca logistique
 anlamlar:
 - ► geri hizmet

@@ -2,6 +2,7 @@
 layout: term
 title: gafil avlanmak
 slug: gafil-avlanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir sırada yakalanmak, habersiz ve hazırlıksız bir anda bir olayla karşılaşmak, zor duruma düşürülmek

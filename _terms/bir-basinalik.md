@@ -2,6 +2,7 @@
 layout: term
 title: bir başınalık
 slug: bir-basinalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tek başınalık

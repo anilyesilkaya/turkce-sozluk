@@ -2,6 +2,7 @@
 layout: term
 title: müspet
 slug: muspet
+letter: M
 lisan: Arapça mus̱bet
 anlamlar:
 - ► olumlu

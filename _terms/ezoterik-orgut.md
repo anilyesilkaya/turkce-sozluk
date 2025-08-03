@@ -2,6 +2,7 @@
 layout: term
 title: ezoterik örgüt
 slug: ezoterik-orgut
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezoterik anlayışı benimseyen örgüt

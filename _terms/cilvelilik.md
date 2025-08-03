@@ -2,6 +2,7 @@
 layout: term
 title: cilvelilik
 slug: cilvelilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilveli olma durumu; işvelilik, işvebazlık

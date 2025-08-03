@@ -2,6 +2,7 @@
 layout: term
 title: kadar
 slug: kadar
+letter: K
 lisan: Arapça ḳadar
 anlamlar:
 - Ölçüsünde, derecesinde; kadarınca

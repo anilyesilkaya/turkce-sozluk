@@ -2,6 +2,7 @@
 layout: term
 title: dul
 slug: dul
+letter: D
 lisan: Türkçe
 anlamlar:
 - Eşi ölmüş veya eşinden boşanmış kadın veya erkek

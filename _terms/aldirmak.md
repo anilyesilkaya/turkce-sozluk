@@ -2,6 +2,7 @@
 layout: term
 title: aldırmak
 slug: aldirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alma işini yaptırmak

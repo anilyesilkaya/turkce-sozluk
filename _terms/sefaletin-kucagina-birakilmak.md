@@ -2,6 +2,7 @@
 layout: term
 title: sefaletin kucağına bırakılmak
 slug: sefaletin-kucagina-birakilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - açlık, yokluk vb. çaresiz durumlara itilmek

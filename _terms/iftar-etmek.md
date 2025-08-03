@@ -2,6 +2,7 @@
 layout: term
 title: iftar etmek
 slug: iftar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iftar yemeği yemek

@@ -2,6 +2,7 @@
 layout: term
 title: nikâh memuru
 slug: nikah-memuru
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kanunlara uygun olarak nikâh işlemini yapan, nikâh kıyan görevli

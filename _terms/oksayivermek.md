@@ -2,6 +2,7 @@
 layout: term
 title: okşayıvermek
 slug: oksayivermek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın okşamak

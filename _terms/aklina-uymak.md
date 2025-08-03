@@ -2,6 +2,7 @@
 layout: term
 title: aklına uymak
 slug: aklina-uymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - başka birinin düşüncesine göre iş yapmak, davranmak

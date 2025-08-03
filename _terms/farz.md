@@ -2,6 +2,7 @@
 layout: term
 title: farz
 slug: farz
+letter: F
 lisan: Arapça farż
 anlamlar:
 - İslam dinine göre Allah’ın emri olduğu kesin delille sabit olan, yapılması sevabı, özürsüz olarak yapılmaması günahı, inkârı ise küfrü getiren yükümlülük

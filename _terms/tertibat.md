@@ -2,6 +2,7 @@
 layout: term
 title: tertibat
 slug: tertibat
+letter: T
 lisan: Arapça tertībāt
 anlamlar:
 - Düzen, düzenleniş

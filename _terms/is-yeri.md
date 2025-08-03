@@ -2,6 +2,7 @@
 layout: term
 title: iş yeri
 slug: is-yeri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir görevin yapıldığı yer; ofis

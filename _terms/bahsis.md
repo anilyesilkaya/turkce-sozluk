@@ -2,6 +2,7 @@
 layout: term
 title: bahşiş
 slug: bahsis
+letter: B
 lisan: Farsça baḫşiş
 anlamlar:
 - Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para; kahve parası

@@ -2,6 +2,7 @@
 layout: term
 title: balık baştan kokar
 slug: balik-bastan-kokar
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işte aksaklığın başta olanlardan kaynaklandığını anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: sittinsene
 slug: sittinsene
+letter: S
 lisan: Arapça sittīn + sene
 anlamlar:
 - Çok uzun zaman

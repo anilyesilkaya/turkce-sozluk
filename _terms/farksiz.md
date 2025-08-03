@@ -2,6 +2,7 @@
 layout: term
 title: farksız
 slug: farksiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Farkı olmayan; ayrımsız

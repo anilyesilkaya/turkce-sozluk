@@ -2,6 +2,7 @@
 layout: term
 title: işkilsiz
 slug: iskilsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kuşku barındırmayan

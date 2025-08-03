@@ -2,6 +2,7 @@
 layout: term
 title: babacanca
 slug: babacanca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sevecen, cana yakın

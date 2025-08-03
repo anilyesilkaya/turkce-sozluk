@@ -2,6 +2,7 @@
 layout: term
 title: Urfa peyniri
 slug: urfa-peyniri
+letter: U
 lisan: Türkçe
 anlamlar:
 - Şanlıurfa ve yöresinde özel yöntemlerle hazırlanan yumruk biçiminde bir peynir türü

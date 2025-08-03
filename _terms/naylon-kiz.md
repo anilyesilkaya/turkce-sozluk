@@ -2,6 +2,7 @@
 layout: term
 title: naylon kız
 slug: naylon-kiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Çağdaş, modern kız

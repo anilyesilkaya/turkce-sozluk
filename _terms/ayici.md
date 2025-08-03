@@ -2,6 +2,7 @@
 layout: term
 title: ayıcı
 slug: ayici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayı oynatmayı iş edinen kimse

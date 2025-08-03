@@ -2,6 +2,7 @@
 layout: term
 title: susayış
 slug: susayis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susamak işi

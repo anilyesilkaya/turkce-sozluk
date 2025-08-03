@@ -2,6 +2,7 @@
 layout: term
 title: bağrış çağrış
 slug: bagris-cagris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birlikte veya karşılıklı bağrışma

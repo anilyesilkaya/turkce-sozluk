@@ -2,6 +2,7 @@
 layout: term
 title: kanat çırpmak
 slug: kanat-cirpmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uçmak

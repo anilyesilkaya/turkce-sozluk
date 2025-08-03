@@ -2,6 +2,7 @@
 layout: term
 title: böbürlenme
 slug: boburlenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böbürlenmek işi; böbürtü, şişkinlik

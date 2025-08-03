@@ -2,6 +2,7 @@
 layout: term
 title: şampanya
 slug: sampanya
+letter: Ş
 lisan: Fransızca champagne
 anlamlar:
 - Açık renkli, tatlı ve köpüklü şarap

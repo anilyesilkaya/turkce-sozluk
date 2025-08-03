@@ -2,6 +2,7 @@
 layout: term
 title: hayat kadınlığı
 slug: hayat-kadinligi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayat kadını olma durumu

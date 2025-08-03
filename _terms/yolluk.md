@@ -2,6 +2,7 @@
 layout: term
 title: yolluk
 slug: yolluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolculuk sırasında yenmek üzere hazırlanan yiyecek; yol azığı

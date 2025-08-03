@@ -2,6 +2,7 @@
 layout: term
 title: gerçek kişi
 slug: gercek-kisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hukuk bakımından birey

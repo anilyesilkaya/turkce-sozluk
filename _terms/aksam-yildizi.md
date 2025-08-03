@@ -2,6 +2,7 @@
 layout: term
 title: Akşam Yıldızı
 slug: aksam-yildizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Çoban Yıldızı

@@ -2,6 +2,7 @@
 layout: term
 title: kağanlık
 slug: kaganlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kağan olma durumu

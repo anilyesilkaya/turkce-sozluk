@@ -2,6 +2,7 @@
 layout: term
 title: hakşinas
 slug: haksinas
+letter: H
 lisan: Arapça ḥaḳḳ + Farsça -şinās
 anlamlar:
 - ► haktanır

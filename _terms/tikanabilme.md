@@ -2,6 +2,7 @@
 layout: term
 title: tıkanabilme
 slug: tikanabilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkanabilmek işi

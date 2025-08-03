@@ -2,6 +2,7 @@
 layout: term
 title: cilvebaz
 slug: cilvebaz
+letter: C
 lisan: Farsça cilvebāz
 anlamlar:
 - ► cilveli

@@ -2,6 +2,7 @@
 layout: term
 title: mülksüzlük
 slug: mulksuzluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mülksüz olma durumu

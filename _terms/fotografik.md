@@ -2,6 +2,7 @@
 layout: term
 title: fotoğrafik
 slug: fotografik
+letter: F
 lisan: Fransızca photographique
 anlamlar:
 - Fotoğrafla ilgili

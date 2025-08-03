@@ -2,6 +2,7 @@
 layout: term
 title: avurtları çökmek (veya birbirine geçmek)
 slug: avurtlari-cokmek-veya-birbirine-gecmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok zayıfladığı yüzünden belli olmak

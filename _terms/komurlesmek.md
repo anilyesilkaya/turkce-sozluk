@@ -2,6 +2,7 @@
 layout: term
 title: kömürleşmek
 slug: komurlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kömür durumuna gelmek

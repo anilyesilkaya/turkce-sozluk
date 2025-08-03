@@ -2,6 +2,7 @@
 layout: term
 title: Çavuldur
 slug: cavuldur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Oğuz Türklerinin yirmi dört boyundan biri

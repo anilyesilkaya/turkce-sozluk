@@ -2,6 +2,7 @@
 layout: term
 title: alabora
 slug: alabora
+letter: A
 lisan: İtalyanca albora
 anlamlar:
 - Gemi, tekne, sandal vb. deniz araçlarının devrilip yan yatması veya ters dönmesi

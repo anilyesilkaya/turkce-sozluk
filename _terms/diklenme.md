@@ -2,6 +2,7 @@
 layout: term
 title: diklenme
 slug: diklenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diklenmek işi

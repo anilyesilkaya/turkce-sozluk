@@ -2,6 +2,7 @@
 layout: term
 title: kala
 slug: kala
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldığında

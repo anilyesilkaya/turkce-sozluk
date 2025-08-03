@@ -2,6 +2,7 @@
 layout: term
 title: Moğolca
 slug: mogolca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Moğolların kullandığı dil

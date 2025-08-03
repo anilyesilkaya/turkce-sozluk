@@ -2,6 +2,7 @@
 layout: term
 title: insaniyet namına
 slug: insaniyet-namina
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"insanlığa yakışır duygulara uyarak" anlamında kullanılan bir söz'

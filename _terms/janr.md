@@ -2,6 +2,7 @@
 layout: term
 title: janr
 slug: janr
+letter: J
 lisan: Fransızca genre
 anlamlar:
 - ► tarz

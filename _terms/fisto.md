@@ -2,6 +2,7 @@
 layout: term
 title: fisto
 slug: fisto
+letter: F
 lisan: İtalyanca festone
 anlamlar:
 - Elde veya makinede işlenmiş süslü şerit

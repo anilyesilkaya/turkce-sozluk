@@ -2,6 +2,7 @@
 layout: term
 title: kavga adamı
 slug: kavga-adami
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düşünce ve inançlarını son kerteye kadar hararetle savunan kimse

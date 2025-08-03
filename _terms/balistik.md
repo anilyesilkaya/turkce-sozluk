@@ -2,6 +2,7 @@
 layout: term
 title: balistik
 slug: balistik
+letter: B
 lisan: Fransızca balistique
 anlamlar:
 - Ateşli silahlarda barut gazının basıncı ile fırlayıp hedefe varıncaya kadar merminin havadaki hareketini inceleyen bilim

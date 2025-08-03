@@ -2,6 +2,7 @@
 layout: term
 title: gramer
 slug: gramer
+letter: G
 lisan: Fransızca grammaire
 anlamlar:
 - ► dil bilgisi

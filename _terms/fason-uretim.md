@@ -2,6 +2,7 @@
 layout: term
 title: fason üretim
 slug: fason-uretim
+letter: F
 lisan: Türkçe
 anlamlar:
 - Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan üretim; fason imalat

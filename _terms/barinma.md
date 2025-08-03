@@ -2,6 +2,7 @@
 layout: term
 title: barınma
 slug: barinma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barınmak işi

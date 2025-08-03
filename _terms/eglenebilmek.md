@@ -2,6 +2,7 @@
 layout: term
 title: eğlenebilmek
 slug: eglenebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlenme ihtimali veya imkânı bulunmak

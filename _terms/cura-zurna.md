@@ -2,6 +2,7 @@
 layout: term
 title: cura zurna
 slug: cura-zurna
+letter: C
 lisan: Türkçe
 anlamlar:
 - 'Keskin bir ses çıkaran ve çoğu zaman davulla veya dümbelekle birlikte çalınan nefesli çalgı:'

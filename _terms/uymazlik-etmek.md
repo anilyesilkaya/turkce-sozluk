@@ -2,6 +2,7 @@
 layout: term
 title: uymazlık etmek
 slug: uymazlik-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - uymamak, aykırı davranmak

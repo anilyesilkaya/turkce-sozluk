@@ -2,6 +2,7 @@
 layout: term
 title: hayvan
 slug: hayvan
+letter: H
 lisan: Arapça ḥayvān
 anlamlar:
 - Duygu ve hareket yeteneği olan, içgüdüleriyle hareket eden canlı yaratık

@@ -2,6 +2,7 @@
 layout: term
 title: sairfilmenam
 slug: sairfilmenam
+letter: S
 lisan: Arapça sāʾir + fi'l-menām
 anlamlar:
 - ► uyurgezer

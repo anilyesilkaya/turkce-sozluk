@@ -2,6 +2,7 @@
 layout: term
 title: fıtık etmek
 slug: fitik-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek, üzmek

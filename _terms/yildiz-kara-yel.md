@@ -2,6 +2,7 @@
 layout: term
 title: yıldız kara yel
 slug: yildiz-kara-yel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kara yel ile kuzey arasında esen yel

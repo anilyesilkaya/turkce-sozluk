@@ -2,6 +2,7 @@
 layout: term
 title: uyuşabilmek
 slug: uyusabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuşma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kampana
 slug: kampana
+letter: K
 lisan: İtalyanca campana
 anlamlar:
 - ► çan

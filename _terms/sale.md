@@ -2,6 +2,7 @@
 layout: term
 title: şale
 slug: sale
+letter: Ş
 lisan: Fransızca chalet
 anlamlar:
 - Uzun saçaklı çatısı olan alçak dağ konutu

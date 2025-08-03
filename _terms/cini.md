@@ -2,6 +2,7 @@
 layout: term
 title: çini
 slug: cini
+letter: Ç
 lisan: Farsça çīnī
 anlamlar:
 - Duvarları kaplayıp süslemek için kullanılan, bir yüzü sırlı ve genellikle çiçek resimleriyle bezeli, pişmiş, balçık levha

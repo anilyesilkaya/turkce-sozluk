@@ -2,6 +2,7 @@
 layout: term
 title: fedakârlık yapmak (veya göstermek)
 slug: fedakarlik-yapmak-veya-gostermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - özverisini ortaya koymak

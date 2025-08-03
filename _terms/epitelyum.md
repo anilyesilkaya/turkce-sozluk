@@ -2,6 +2,7 @@
 layout: term
 title: epitelyum
 slug: epitelyum
+letter: E
 lisan: Fransızca épithélium
 anlamlar:
 - ► epitel

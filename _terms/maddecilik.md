@@ -2,6 +2,7 @@
 layout: term
 title: maddecilik
 slug: maddecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Para, mal vb.ne çok önem verme

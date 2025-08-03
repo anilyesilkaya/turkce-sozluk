@@ -2,6 +2,7 @@
 layout: term
 title: sözlü
 slug: sozlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözle, konuşma biçiminde yapılan; şifahi, oral, yazılı karşıtı

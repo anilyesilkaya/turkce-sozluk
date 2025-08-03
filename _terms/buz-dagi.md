@@ -2,6 +2,7 @@
 layout: term
 title: buz dağı
 slug: buz-dagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kutup bölgelerinde buzullardan koparak akıntılarla yer değiştiren büyük buz parçası; aysberg

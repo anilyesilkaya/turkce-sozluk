@@ -2,6 +2,7 @@
 layout: term
 title: bol kepçe
 slug: bol-kepce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Servis sırasında yiyeceği bol bol dağıtma

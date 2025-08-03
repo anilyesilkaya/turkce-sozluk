@@ -2,6 +2,7 @@
 layout: term
 title: coşumcu
 slug: cosumcu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► romantik

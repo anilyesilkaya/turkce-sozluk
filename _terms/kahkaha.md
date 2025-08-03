@@ -2,6 +2,7 @@
 layout: term
 title: kahkaha
 slug: kahkaha
+letter: K
 lisan: Arapça ḳahḳaha
 anlamlar:
 - Yüksek sesle gülme

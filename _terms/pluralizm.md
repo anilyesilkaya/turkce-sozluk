@@ -2,6 +2,7 @@
 layout: term
 title: plüralizm
 slug: pluralizm
+letter: P
 lisan: Fransızca pluralisme
 anlamlar:
 - ► çoğulculuk

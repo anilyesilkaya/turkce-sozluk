@@ -2,6 +2,7 @@
 layout: term
 title: kanadı altına almak
 slug: kanadi-altina-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - korumak, himayesine almak

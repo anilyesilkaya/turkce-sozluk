@@ -2,6 +2,7 @@
 layout: term
 title: askıntılık etmek (veya yapmak)
 slug: askintilik-etmek-veya-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - daha fazlası için ısrarcı olmak

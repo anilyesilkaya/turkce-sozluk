@@ -2,6 +2,7 @@
 layout: term
 title: açık alınlılık
 slug: acik-alinlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık alınlı olma durumu

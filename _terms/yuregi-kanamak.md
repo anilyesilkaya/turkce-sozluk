@@ -2,6 +2,7 @@
 layout: term
 title: yüreği kanamak
 slug: yuregi-kanamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - aşırı üzüntüden sarsılmak

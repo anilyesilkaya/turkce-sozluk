@@ -2,6 +2,7 @@
 layout: term
 title: takım taklavat
 slug: takim-taklavat
+letter: T
 lisan: Türkçe
 anlamlar:
 - Araç gereçlerin bütünü

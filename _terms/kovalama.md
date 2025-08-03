@@ -2,6 +2,7 @@
 layout: term
 title: kovalama
 slug: kovalama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovalamak işi

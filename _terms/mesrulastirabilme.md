@@ -2,6 +2,7 @@
 layout: term
 title: meşrulaştırabilme
 slug: mesrulastirabilme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meşrulaştırabilmek işi

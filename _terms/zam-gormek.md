@@ -2,6 +2,7 @@
 layout: term
 title: zam görmek
 slug: zam-gormek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - fiyatı artmak

@@ -2,6 +2,7 @@
 layout: term
 title: durup durup
 slug: durup-durup
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli aralıklarla tekrarlayarak

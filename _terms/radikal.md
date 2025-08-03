@@ -2,6 +2,7 @@
 layout: term
 title: radikal
 slug: radikal
+letter: R
 lisan: Fransızca radical
 anlamlar:
 - ► kökten

@@ -2,6 +2,7 @@
 layout: term
 title: arduvaz
 slug: arduvaz
+letter: A
 lisan: Fransızca ardoise
 anlamlar:
 - ► kayağan taş

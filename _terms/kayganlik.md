@@ -2,6 +2,7 @@
 layout: term
 title: kayganlık
 slug: kayganlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaygan olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: diyalektoloji
 slug: diyalektoloji
+letter: D
 lisan: Fransızca dialectologie
 anlamlar:
 - ► lehçe bilimi

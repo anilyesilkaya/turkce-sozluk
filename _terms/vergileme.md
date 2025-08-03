@@ -2,6 +2,7 @@
 layout: term
 title: vergileme
 slug: vergileme
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vergilemek işi

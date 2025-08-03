@@ -2,6 +2,7 @@
 layout: term
 title: soğukluk
 slug: sogukluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğuk olma durumu, soğuk bir etki yapan şeyin özelliği; bürudet

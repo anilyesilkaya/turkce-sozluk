@@ -2,6 +2,7 @@
 layout: term
 title: çıkı
 slug: ciki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çıkın

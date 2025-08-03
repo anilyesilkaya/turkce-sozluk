@@ -2,6 +2,7 @@
 layout: term
 title: kötüye çekmek
 slug: kotuye-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yanlış, beğenilmeyen bir anlam vermek

@@ -2,6 +2,7 @@
 layout: term
 title: sınıf
 slug: sinif
+letter: S
 lisan: Arapça ṣinf
 anlamlar:
 - Öğrencilerin yıllık öğrenime göre ayrıldıkları bölümlerden her biri

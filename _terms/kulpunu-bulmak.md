@@ -2,6 +2,7 @@
 layout: term
 title: kulpunu bulmak
 slug: kulpunu-bulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yapılacak uygunsuz bir iş için, yasallığı tartışılabilecek bir çözüm yolu bulmak

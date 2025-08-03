@@ -2,6 +2,7 @@
 layout: term
 title: çarıklık
 slug: cariklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarık konulacak yer

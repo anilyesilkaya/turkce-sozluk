@@ -2,6 +2,7 @@
 layout: term
 title: çürütmek
 slug: curutmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürümesine sebep olmak

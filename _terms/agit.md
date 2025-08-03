@@ -2,6 +2,7 @@
 layout: term
 title: ağıt
 slug: agit
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ölenin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi

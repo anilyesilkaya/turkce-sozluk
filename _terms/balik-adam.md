@@ -2,6 +2,7 @@
 layout: term
 title: balık adam
 slug: balik-adam
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dalgıç

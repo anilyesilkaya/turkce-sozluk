@@ -2,6 +2,7 @@
 layout: term
 title: tavşancı
 slug: tavsanci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavşan yetiştiren kimse

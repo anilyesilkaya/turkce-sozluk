@@ -2,6 +2,7 @@
 layout: term
 title: sıraca
 slug: siraca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Deride ve genellikle boyunda görülen, lenf düğümlerinin şişkinliğiyle beliren tüberküloz türü

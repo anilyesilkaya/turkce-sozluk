@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızcasına
 slug: bagimsizcasina
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağımsızca

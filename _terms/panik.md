@@ -2,6 +2,7 @@
 layout: term
 title: panik
 slug: panik
+letter: P
 lisan: Fransızca panique
 anlamlar:
 - Ani dehşet duygusu, büyük korku

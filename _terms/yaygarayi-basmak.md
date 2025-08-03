@@ -2,6 +2,7 @@
 layout: term
 title: yaygarayı basmak
 slug: yaygarayi-basmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bağırıp çağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: dirayet
 slug: dirayet
+letter: D
 lisan: Arapça dirāyet
 anlamlar:
 - İnce şeyleri kavrayış

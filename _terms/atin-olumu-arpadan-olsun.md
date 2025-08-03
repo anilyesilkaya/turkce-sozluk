@@ -2,6 +2,7 @@
 layout: term
 title: atın ölümü arpadan olsun
 slug: atin-olumu-arpadan-olsun
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"çok sevilen bir şey yapılırken veya sevilen bir yiyecek yenilirken sonuç kötü de olsa zor veya kötü şeylere katlanılır" anlamında kullanılan bir söz'

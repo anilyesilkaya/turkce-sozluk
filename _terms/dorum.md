@@ -2,6 +2,7 @@
 layout: term
 title: dorum
 slug: dorum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deve yavrusu

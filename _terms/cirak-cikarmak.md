@@ -2,6 +2,7 @@
 layout: term
 title: çırak çıkarmak
 slug: cirak-cikarmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir kimseyi beklediğinden az bir kazançla ortaklıktan uzaklaştırmak

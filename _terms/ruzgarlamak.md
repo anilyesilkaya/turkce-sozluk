@@ -2,6 +2,7 @@
 layout: term
 title: rüzgârlamak
 slug: ruzgarlamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Yel vermek

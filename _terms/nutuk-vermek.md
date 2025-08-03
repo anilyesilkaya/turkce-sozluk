@@ -2,6 +2,7 @@
 layout: term
 title: nutuk vermek
 slug: nutuk-vermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir konuda özel olarak hazırlanıp konuşmak

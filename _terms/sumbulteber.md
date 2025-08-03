@@ -2,6 +2,7 @@
 layout: term
 title: sümbülteber
 slug: sumbulteber
+letter: S
 lisan: Farsça sunbul + teber
 anlamlar:
 - Zambakgillerden, güzel kokulu, beyaz renkli bir çiçek (Polianthes)

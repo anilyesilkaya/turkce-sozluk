@@ -2,6 +2,7 @@
 layout: term
 title: zararsız
 slug: zararsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarar vermeyen, zararı dokunmayan; dokuncasız, ziyansız

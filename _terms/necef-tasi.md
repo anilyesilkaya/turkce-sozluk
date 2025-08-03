@@ -2,6 +2,7 @@
 layout: term
 title: Necef taşı
 slug: necef-tasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Parlak ve saydam bir tür kuvars billuru

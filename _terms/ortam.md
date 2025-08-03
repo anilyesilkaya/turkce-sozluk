@@ -2,6 +2,7 @@
 layout: term
 title: ortam
 slug: ortam
+letter: O
 lisan: Türkçe
 anlamlar:
 - Canlı bir varlığın içinde bulunduğu doğal veya maddi şartların bütünü; âlem

@@ -2,6 +2,7 @@
 layout: term
 title: körcesine
 slug: korcesine
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gerçeklerden büsbütün habersiz olarak, gerçekleri görmeyerek

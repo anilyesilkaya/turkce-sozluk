@@ -2,6 +2,7 @@
 layout: term
 title: buharlaşabilme
 slug: buharlasabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buharlaşabilmek işi

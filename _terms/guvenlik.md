@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik
 slug: guvenlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Toplum yaşamında yasal düzenin aksamadan yürütülmesi, kişilerin korkusuzca yaşayabilmesi durumu; emniyet

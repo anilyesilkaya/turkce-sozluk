@@ -2,6 +2,7 @@
 layout: term
 title: zamane
 slug: zamane
+letter: Z
 lisan: Arapça zamāne
 anlamlar:
 - İçinde bulunulan zaman, dönem

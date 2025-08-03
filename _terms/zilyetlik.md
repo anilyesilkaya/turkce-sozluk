@@ -2,6 +2,7 @@
 layout: term
 title: zilyetlik
 slug: zilyetlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zilyet olma durumu; eldecilik

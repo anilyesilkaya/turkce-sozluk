@@ -2,6 +2,7 @@
 layout: term
 title: iki
 slug: iki
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birden sonra gelen sayının adı; dü

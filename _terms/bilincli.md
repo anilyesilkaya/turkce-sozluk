@@ -2,6 +2,7 @@
 layout: term
 title: bilinçli
 slug: bilincli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinci yerinde olan; şuurlu

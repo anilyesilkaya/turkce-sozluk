@@ -2,6 +2,7 @@
 layout: term
 title: buluşturabilmek
 slug: bulusturabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buluşturma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: iletebilmek
 slug: iletebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İletme ihtimali veya imkânı bulunmak

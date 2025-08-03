@@ -2,6 +2,7 @@
 layout: term
 title: tufeyli
 slug: tufeyli
+letter: T
 lisan: Arapça ṭufeylī
 anlamlar:
 - ► asalak

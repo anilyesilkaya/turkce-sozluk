@@ -2,6 +2,7 @@
 layout: term
 title: şırıngalamak
 slug: siringalamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şırınga etmek

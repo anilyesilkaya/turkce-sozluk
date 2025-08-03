@@ -2,6 +2,7 @@
 layout: term
 title: giymek
 slug: giymek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Örtünüp korunmak için bir şeyi vücuduna geçirmek; giyinmek, kuşanmak

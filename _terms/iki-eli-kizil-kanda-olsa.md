@@ -2,6 +2,7 @@
 layout: term
 title: iki eli (kızıl) kanda olsa
 slug: iki-eli-kizil-kanda-olsa
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"elindeki iş ne kadar önemli olursa olsun" anlamında kullanılan bir söz'

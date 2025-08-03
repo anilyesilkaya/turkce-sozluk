@@ -2,6 +2,7 @@
 layout: term
 title: tabip
 slug: tabip
+letter: T
 lisan: Arapça ṭabīb
 anlamlar:
 - ► hekim

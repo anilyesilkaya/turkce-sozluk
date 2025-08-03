@@ -2,6 +2,7 @@
 layout: term
 title: melfuf
 slug: melfuf
+letter: M
 lisan: Arapça melfūf
 anlamlar:
 - Sarılmış, bağlanmış, eklenmiş

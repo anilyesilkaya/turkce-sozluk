@@ -2,6 +2,7 @@
 layout: term
 title: candan
 slug: candan
+letter: C
 lisan: Türkçe
 anlamlar:
 - Her türlü çıkar düşüncesinden uzak

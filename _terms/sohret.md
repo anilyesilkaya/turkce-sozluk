@@ -2,6 +2,7 @@
 layout: term
 title: şöhret
 slug: sohret
+letter: Ş
 lisan: Arapça şuhret
 anlamlar:
 - ► ün

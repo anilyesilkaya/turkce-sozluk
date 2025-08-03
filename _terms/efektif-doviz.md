@@ -2,6 +2,7 @@
 layout: term
 title: efektif döviz
 slug: efektif-doviz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yabancı ülkelerin nakit biçimindeki para birimi

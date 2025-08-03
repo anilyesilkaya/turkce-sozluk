@@ -2,6 +2,7 @@
 layout: term
 title: çıkarmak
 slug: cikarmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birinin veya bir şeyin çıkmasını sağlamak, çıkmasına sebep olmak

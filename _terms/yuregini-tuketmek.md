@@ -2,6 +2,7 @@
 layout: term
 title: yüreğini tüketmek
 slug: yuregini-tuketmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şey anlatmaya çalışarak yorulmak

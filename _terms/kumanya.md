@@ -2,6 +2,7 @@
 layout: term
 title: kumanya
 slug: kumanya
+letter: K
 lisan: İtalyanca compagna
 anlamlar:
 - Yolculuk için hazırlanan yiyecek; azık

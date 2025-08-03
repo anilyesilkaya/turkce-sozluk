@@ -2,6 +2,7 @@
 layout: term
 title: zırlatmak
 slug: zirlatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırlamasına sebep olmak

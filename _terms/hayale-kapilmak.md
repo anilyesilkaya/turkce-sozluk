@@ -2,6 +2,7 @@
 layout: term
 title: hayale kapılmak
 slug: hayale-kapilmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hayallerin etkisi altında kalmak

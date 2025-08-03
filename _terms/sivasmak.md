@@ -2,6 +2,7 @@
 layout: term
 title: sıvaşmak
 slug: sivasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bulaşmak

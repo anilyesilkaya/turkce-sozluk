@@ -2,6 +2,7 @@
 layout: term
 title: mail olmak
 slug: mail-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - hayran kalmak, vurulmak

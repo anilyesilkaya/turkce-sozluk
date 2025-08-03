@@ -2,6 +2,7 @@
 layout: term
 title: çok karılılık
 slug: cok-karililik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir erkeğin yasalara uygun olarak aynı zamanda iki veya daha çok sayıda kadınla evli olabildiği evlilik biçimi; polijini

@@ -2,6 +2,7 @@
 layout: term
 title: yalancı dünya
 slug: yalanci-dunya
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yalan dünya

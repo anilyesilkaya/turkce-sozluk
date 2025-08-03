@@ -2,6 +2,7 @@
 layout: term
 title: dalga boyu
 slug: dalga-boyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yan yana iki dalga sırtı arasında kalan ve uzunluğu yerine göre birkaç metreden birkaç yüz metreye kadar ulaşabilen yatay uzaklık; dalga uzunluğu

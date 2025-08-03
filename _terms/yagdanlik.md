@@ -2,6 +2,7 @@
 layout: term
 title: yağdanlık
 slug: yagdanlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Makineleri yağlamakta kullanılan, ince, uzun bir borusu olan yağ kabı

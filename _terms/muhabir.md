@@ -2,6 +2,7 @@
 layout: term
 title: muhabir
 slug: muhabir
+letter: M
 lisan: Arapça muḫābir
 anlamlar:
 - Basın ve yayın organlarına haber toplayan, bildiren veya yazan kimse

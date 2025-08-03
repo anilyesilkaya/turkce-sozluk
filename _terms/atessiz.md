@@ -2,6 +2,7 @@
 layout: term
 title: ateşsiz
 slug: atessiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşi olmayan; odsuz

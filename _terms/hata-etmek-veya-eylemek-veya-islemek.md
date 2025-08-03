@@ -2,6 +2,7 @@
 layout: term
 title: hata etmek (veya eylemek veya işlemek)
 slug: hata-etmek-veya-eylemek-veya-islemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yanlışlık yapmak, yanılgıya düşmek

@@ -2,6 +2,7 @@
 layout: term
 title: turp
 slug: turp
+letter: T
 lisan: Farsça turb, turub
 anlamlar:
 - Turpgillerden, yaprakları tüylü, çiçekleri beyaz, sarı, mor renkli bir bitki (Raphanus raphanistrum)

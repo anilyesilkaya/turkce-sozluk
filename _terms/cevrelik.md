@@ -2,6 +2,7 @@
 layout: term
 title: çevrelik
 slug: cevrelik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Marangozlukta, mimarlıkta ve dülgerlikte kullanılan bütün kenar parçaları

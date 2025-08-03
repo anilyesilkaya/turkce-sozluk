@@ -2,6 +2,7 @@
 layout: term
 title: ana kucağı
 slug: ana-kucagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bebeği yatırmak veya uyutmak için kullanılan, kendiliğinden sallanan bir tür araç

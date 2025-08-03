@@ -2,6 +2,7 @@
 layout: term
 title: köpürme
 slug: kopurme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpürmek işi

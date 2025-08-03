@@ -2,6 +2,7 @@
 layout: term
 title: soğuklamak
 slug: soguklamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üşüterek hastalanmak, soğuk almak

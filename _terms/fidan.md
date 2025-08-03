@@ -2,6 +2,7 @@
 layout: term
 title: fidan
 slug: fidan
+letter: F
 lisan: Rumca
 anlamlar:
 - Yeni yetişen ağaç veya ağaççık

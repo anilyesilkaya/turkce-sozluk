@@ -2,6 +2,7 @@
 layout: term
 title: lehimlenme
 slug: lehimlenme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lehimlenmek işi

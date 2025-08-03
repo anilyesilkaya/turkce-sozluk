@@ -2,6 +2,7 @@
 layout: term
 title: bre
 slug: bre
+letter: B
 lisan: Rumca
 anlamlar:
 - '"Ey, hey" anlamında kullanılan bir seslenme sözü'

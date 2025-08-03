@@ -2,6 +2,7 @@
 layout: term
 title: gözünü (veya gözlerini) duman bürümek
 slug: gozunu-veya-gozlerini-duman-burumek
+letter: G
 lisan: Türkçe
 anlamlar:
 - hayale dalmak, dalgınlaşmak

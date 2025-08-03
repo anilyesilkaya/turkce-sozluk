@@ -2,6 +2,7 @@
 layout: term
 title: konveyör
 slug: konveyor
+letter: K
 lisan: Fransızca convoyeur
 anlamlar:
 - ► taşıyıcı

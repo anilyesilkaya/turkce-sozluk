@@ -2,6 +2,7 @@
 layout: term
 title: sahteleme
 slug: sahteleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahtelemek işi

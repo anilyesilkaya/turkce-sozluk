@@ -2,6 +2,7 @@
 layout: term
 title: kıvrım
 slug: kivrim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bükülmüş, kıvrılmış şeylerin oluşturduğu kat; büklüm, büküm, kıvrıntı

@@ -2,6 +2,7 @@
 layout: term
 title: viski bardağı
 slug: viski-bardagi
+letter: V
 lisan: Türkçe
 anlamlar:
 - Viski içmek için kullanılan özel bardak

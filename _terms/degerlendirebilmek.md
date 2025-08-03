@@ -2,6 +2,7 @@
 layout: term
 title: değerlendirebilmek
 slug: degerlendirebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değerlendirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: azınlık hükûmeti
 slug: azinlik-hukumeti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mecliste çoğunluğu olmayan bir partinin tek başına kurduğu hükûmet

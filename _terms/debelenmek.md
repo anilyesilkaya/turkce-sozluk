@@ -2,6 +2,7 @@
 layout: term
 title: debelenmek
 slug: debelenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir acının etkisiyle veya bir baskıdan kurtulmak için çırpınmak

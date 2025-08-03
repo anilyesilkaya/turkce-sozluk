@@ -2,6 +2,7 @@
 layout: term
 title: kulaç
 slug: kulac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gerilerek açılmış iki kolun parmak uçları arasındaki uzaklık

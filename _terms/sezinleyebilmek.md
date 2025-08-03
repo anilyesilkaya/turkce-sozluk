@@ -2,6 +2,7 @@
 layout: term
 title: sezinleyebilmek
 slug: sezinleyebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezinleme ihtimali veya imkânı bulunmak

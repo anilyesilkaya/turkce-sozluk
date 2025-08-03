@@ -2,6 +2,7 @@
 layout: term
 title: aznavur gibi
 slug: aznavur-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - zalimce davranan

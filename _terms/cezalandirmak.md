@@ -2,6 +2,7 @@
 layout: term
 title: cezalandırmak
 slug: cezalandirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir kimseye veya varlığa ceza vermek; tecziye etmek

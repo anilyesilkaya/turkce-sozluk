@@ -2,6 +2,7 @@
 layout: term
 title: bölüşebilmek
 slug: bolusebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► paylaşabilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kara saban
 slug: kara-saban
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toprağı sürmede kullanılan ilkel bir tarım aracı

@@ -2,6 +2,7 @@
 layout: term
 title: camı çerçeveyi indirmek
 slug: cami-cerceveyi-indirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - etrafı kırıp dökmek, her şeyi parçalayıp dağıtmak

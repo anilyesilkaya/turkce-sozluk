@@ -2,6 +2,7 @@
 layout: term
 title: bavullu
 slug: bavullu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bavulu olan

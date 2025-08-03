@@ -2,6 +2,7 @@
 layout: term
 title: sağlanabilmek
 slug: saglanabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlanma ihtimali veya imkânı bulunmak

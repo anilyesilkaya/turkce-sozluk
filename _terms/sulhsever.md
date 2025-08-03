@@ -2,6 +2,7 @@
 layout: term
 title: sulhsever
 slug: sulhsever
+letter: S
 lisan: Arapça ṣulḥ + Türkçe sever
 anlamlar:
 - ► barışsever

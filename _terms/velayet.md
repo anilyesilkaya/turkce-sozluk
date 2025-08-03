@@ -2,6 +2,7 @@
 layout: term
 title: velayet
 slug: velayet
+letter: V
 lisan: Arapça velāyet
 anlamlar:
 - ► velilik

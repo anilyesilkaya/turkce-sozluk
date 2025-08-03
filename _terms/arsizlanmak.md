@@ -2,6 +2,7 @@
 layout: term
 title: arsızlanmak
 slug: arsizlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arsızlık etmek

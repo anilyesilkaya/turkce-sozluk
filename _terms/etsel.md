@@ -2,6 +2,7 @@
 layout: term
 title: etsel
 slug: etsel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ete ait

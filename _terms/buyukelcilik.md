@@ -2,6 +2,7 @@
 layout: term
 title: büyükelçilik
 slug: buyukelcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyükelçi olma durumu

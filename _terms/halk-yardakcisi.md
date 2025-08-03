@@ -2,6 +2,7 @@
 layout: term
 title: halk yardakçısı
 slug: halk-yardakcisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halkı kışkırtan, kötü yola sevk eden kimse

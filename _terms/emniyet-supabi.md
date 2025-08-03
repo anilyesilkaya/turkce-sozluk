@@ -2,6 +2,7 @@
 layout: term
 title: emniyet supabı
 slug: emniyet-supabi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Makinelerde güvenli kullanımı sağlayan alet

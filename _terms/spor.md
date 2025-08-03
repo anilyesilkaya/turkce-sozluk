@@ -2,6 +2,7 @@
 layout: term
 title: spor
 slug: spor
+letter: S
 lisan: Fransızca spore
 anlamlar:
 - Çiçeksiz bitkilerde üreme organı

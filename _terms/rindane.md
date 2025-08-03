@@ -2,6 +2,7 @@
 layout: term
 title: rindane
 slug: rindane
+letter: R
 lisan: Farsça rindāne
 anlamlar:
 - ► rintçe

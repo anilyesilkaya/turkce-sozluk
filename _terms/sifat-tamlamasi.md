@@ -2,6 +2,7 @@
 layout: term
 title: sıfat tamlaması
 slug: sifat-tamlamasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tamlayanı sıfat olan tamlama

@@ -2,6 +2,7 @@
 layout: term
 title: rappadak
 slug: rappadak
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► ansızın

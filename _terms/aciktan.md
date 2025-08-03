@@ -2,6 +2,7 @@
 layout: term
 title: açıktan
 slug: aciktan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yerin uzağından

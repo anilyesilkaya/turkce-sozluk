@@ -2,6 +2,7 @@
 layout: term
 title: sap yiyip saman sıçmak
 slug: sap-yiyip-saman-sicmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir olaya kızıp ateş püskürmek

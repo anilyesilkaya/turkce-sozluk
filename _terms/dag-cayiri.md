@@ -2,6 +2,7 @@
 layout: term
 title: dağ çayırı
 slug: dag-cayiri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlık bölgelerde derin ve rutubetli toprağa sahip alanlarda gelişen doğal çayır

@@ -2,6 +2,7 @@
 layout: term
 title: kadraja girmek
 slug: kadraja-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - fotoğraf veya kameranın görüntüleme alanına dâhil olmak

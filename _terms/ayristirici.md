@@ -2,6 +2,7 @@
 layout: term
 title: ayrıştırıcı
 slug: ayristirici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıştırmak işini yapan kimse veya şey

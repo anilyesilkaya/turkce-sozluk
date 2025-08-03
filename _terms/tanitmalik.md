@@ -2,6 +2,7 @@
 layout: term
 title: tanıtmalık
 slug: tanitmalik
+letter: T
 lisan: Türkçe
 anlamlar:
 - İlaçların bileşimi, yan etkileri vb. ile nasıl kullanılacağını anlatan bilgileri içeren tanıtma yazısı; tarife, prospektüs

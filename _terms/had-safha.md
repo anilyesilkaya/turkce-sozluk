@@ -2,6 +2,7 @@
 layout: term
 title: had safha
 slug: had-safha
+letter: H
 lisan: Türkçe
 anlamlar:
 - Son aşama, son nokta

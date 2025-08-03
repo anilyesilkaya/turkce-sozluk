@@ -2,6 +2,7 @@
 layout: term
 title: dirliksiz
 slug: dirliksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirliği olmayan

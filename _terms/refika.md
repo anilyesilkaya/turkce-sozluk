@@ -2,6 +2,7 @@
 layout: term
 title: refika
 slug: refika
+letter: R
 lisan: Arapça refīḳa
 anlamlar:
 - Bir erkeğin evlenmiş olduğu kadın

@@ -2,6 +2,7 @@
 layout: term
 title: selis
 slug: selis
+letter: S
 lisan: Arapça selīs
 anlamlar:
 - ► akıcı

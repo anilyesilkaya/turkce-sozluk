@@ -2,6 +2,7 @@
 layout: term
 title: merhametsiz
 slug: merhametsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Acıması olmayan; katı yürekli, katı kalpli, taş yürekli, taş kalpli, kalpsiz

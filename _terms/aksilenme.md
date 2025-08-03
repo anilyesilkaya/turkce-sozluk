@@ -2,6 +2,7 @@
 layout: term
 title: aksilenme
 slug: aksilenme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aksileşme

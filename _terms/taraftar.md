@@ -2,6 +2,7 @@
 layout: term
 title: taraftar
 slug: taraftar
+letter: T
 lisan: Arapça ṭaraf + Farsça -dār
 anlamlar:
 - ► yandaş

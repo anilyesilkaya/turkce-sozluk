@@ -2,6 +2,7 @@
 layout: term
 title: gırgır
 slug: girgir
+letter: G
 lisan: Türkçe
 anlamlar:
 - Mekanik olarak çalışan süpürge

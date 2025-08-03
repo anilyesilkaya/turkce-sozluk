@@ -2,6 +2,7 @@
 layout: term
 title: yerinde kalmak
 slug: yerinde-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - başka yere gitmemek

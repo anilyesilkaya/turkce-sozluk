@@ -2,6 +2,7 @@
 layout: term
 title: kalbi sızlamak
 slug: kalbi-sizlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüreği sızlamak

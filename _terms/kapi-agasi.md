@@ -2,6 +2,7 @@
 layout: term
 title: kapı ağası
 slug: kapi-agasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Av dışında padişahın yanında bulunan iç ağaların en büyüğü olan görevli

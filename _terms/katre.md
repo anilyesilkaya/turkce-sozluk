@@ -2,6 +2,7 @@
 layout: term
 title: katre
 slug: katre
+letter: K
 lisan: Arapça ḳaṭre
 anlamlar:
 - ► damla

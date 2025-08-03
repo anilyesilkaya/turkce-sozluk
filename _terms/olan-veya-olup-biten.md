@@ -2,6 +2,7 @@
 layout: term
 title: olan (veya olup) biten
 slug: olan-veya-olup-biten
+letter: O
 lisan: Türkçe
 anlamlar:
 - meydana gelen olaylar, ortaya çıkan durum veya oluşan her şey

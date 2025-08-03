@@ -2,6 +2,7 @@
 layout: term
 title: taş uykusu
 slug: tas-uykusu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► derin uyku

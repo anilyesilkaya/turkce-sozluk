@@ -2,6 +2,7 @@
 layout: term
 title: karısı köylü
 slug: karisi-koylu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karısının yakınlarını benimseyip kendi yakınlarını unutan (erkek); karım köylü

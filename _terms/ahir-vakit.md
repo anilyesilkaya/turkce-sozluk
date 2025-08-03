@@ -2,6 +2,7 @@
 layout: term
 title: ahir vakit
 slug: ahir-vakit
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsan ömrünün son yılları

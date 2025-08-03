@@ -2,6 +2,7 @@
 layout: term
 title: güngörmüşlük
 slug: gungormusluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güngörmüş olma durumu

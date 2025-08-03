@@ -2,6 +2,7 @@
 layout: term
 title: zindancılık etmek
 slug: zindancilik-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zindan görevlisi olarak çalışmak

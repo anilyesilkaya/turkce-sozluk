@@ -2,6 +2,7 @@
 layout: term
 title: lüzumsuz yere
 slug: luzumsuz-yere
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► gereksiz yere

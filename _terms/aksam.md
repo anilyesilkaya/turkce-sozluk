@@ -2,6 +2,7 @@
 layout: term
 title: akşam
 slug: aksam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Güneşin batmasına yakın zamandan gecenin başlamasına kadar geçen zaman dilimi

@@ -2,6 +2,7 @@
 layout: term
 title: iskonto
 slug: iskonto
+letter: I
 lisan: İtalyanca sconto
 anlamlar:
 - ► indirim

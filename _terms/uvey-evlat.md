@@ -2,6 +2,7 @@
 layout: term
 title: üvey evlat
 slug: uvey-evlat
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Karı kocanın her birine göre öbürünün ayrı bir eşinden dünyaya gelmiş olan evlat; üvey çocuk, emeksiz evlat

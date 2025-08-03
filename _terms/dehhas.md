@@ -2,6 +2,7 @@
 layout: term
 title: dehhaş
 slug: dehhas
+letter: D
 lisan: Arapça dehhāş
 anlamlar:
 - Aşırı korku verici, dehşet saçıcı

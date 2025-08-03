@@ -2,6 +2,7 @@
 layout: term
 title: anlatabilmek
 slug: anlatabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatma ihtimali veya imkânı bulunmak

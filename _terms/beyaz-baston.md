@@ -2,6 +2,7 @@
 layout: term
 title: beyaz baston
 slug: beyaz-baston
+letter: B
 lisan: Türkçe
 anlamlar:
 - Görme engellilerin yürürken kullandıkları madenî çubuk

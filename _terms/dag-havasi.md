@@ -2,6 +2,7 @@
 layout: term
 title: dağ havası
 slug: dag-havasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yüksek yerlerdeki serin ve temiz hava

@@ -2,6 +2,7 @@
 layout: term
 title: bereket versin
 slug: bereket-versin
+letter: B
 lisan: Türkçe
 anlamlar:
 - para alan kimsenin söylediği iyi dilek sözü

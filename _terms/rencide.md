@@ -2,6 +2,7 @@
 layout: term
 title: rencide
 slug: rencide
+letter: R
 lisan: Farsça rencīde
 anlamlar:
 - İncinmiş, kalbi kırılmış

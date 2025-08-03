@@ -2,6 +2,7 @@
 layout: term
 title: kabahati (birinde) bulmak (veya aramak)
 slug: kabahati-birinde-bulmak-veya-aramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kusur, suç aramak

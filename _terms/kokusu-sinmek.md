@@ -2,6 +2,7 @@
 layout: term
 title: kokusu sinmek
 slug: kokusu-sinmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - insan veya nesnede bir kokunun etkisi kalmak

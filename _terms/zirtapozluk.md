@@ -2,6 +2,7 @@
 layout: term
 title: zırtapozluk
 slug: zirtapozluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zıpırlık

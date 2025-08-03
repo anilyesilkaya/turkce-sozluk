@@ -2,6 +2,7 @@
 layout: term
 title: çifte hamam
 slug: cifte-hamam
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir bölümü kadınlara, diğer bölümü erkeklere ayrılmış olan hamam

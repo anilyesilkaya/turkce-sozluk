@@ -2,6 +2,7 @@
 layout: term
 title: rekor kırmak
 slug: rekor-kirmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - eski rekoru aşıp yeni, üstün bir sonuç elde etmek

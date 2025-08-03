@@ -2,6 +2,7 @@
 layout: term
 title: göze girmek
 slug: goze-girmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - davranış ve yetenekleriyle ilgi ve önem kazanmak

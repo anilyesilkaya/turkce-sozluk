@@ -2,6 +2,7 @@
 layout: term
 title: nefer
 slug: nefer
+letter: N
 lisan: Arapça nefer
 anlamlar:
 - ► er (I)

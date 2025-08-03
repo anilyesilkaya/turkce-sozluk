@@ -2,6 +2,7 @@
 layout: term
 title: karıncanın zevali gelince kanatlanır
 slug: karincanin-zevali-gelince-kanatlanir
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"kişi durumunun gereklerine aykırı taşkınlıklarda bulunursa artık düşecek demektir" anlamında kullanılan bir söz'

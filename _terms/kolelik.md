@@ -2,6 +2,7 @@
 layout: term
 title: kölelik
 slug: kolelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köle olma durumu

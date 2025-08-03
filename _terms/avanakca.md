@@ -2,6 +2,7 @@
 layout: term
 title: avanakça
 slug: avanakca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► safça

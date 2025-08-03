@@ -2,6 +2,7 @@
 layout: term
 title: halkçılık
 slug: halkcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bireyler arasında hiçbir hak ayrılığı görmeme, topluluk içinde hiçbir ayrıcalık kabul etmeme görüş ve tutumu; popülizm

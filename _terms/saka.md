@@ -2,6 +2,7 @@
 layout: term
 title: şaka
 slug: saka
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Güldürmek, eğlendirmek amacıyla karşısındakini kırmadan yapılan hareket veya söylenen söz; latife

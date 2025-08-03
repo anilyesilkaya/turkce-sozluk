@@ -2,6 +2,7 @@
 layout: term
 title: hırıltılı
 slug: hiriltili
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıltı çıkaran, hırıltısı olan; harharalı

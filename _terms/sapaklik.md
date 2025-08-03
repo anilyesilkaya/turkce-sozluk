@@ -2,6 +2,7 @@
 layout: term
 title: sapaklık
 slug: sapaklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belli bir ölçüye, belli bir kurala uymama durumu

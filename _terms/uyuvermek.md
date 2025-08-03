@@ -2,6 +2,7 @@
 layout: term
 title: uyuvermek
 slug: uyuvermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kısa sürede uyum sağlamak

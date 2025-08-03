@@ -2,6 +2,7 @@
 layout: term
 title: ıraksak mercek
 slug: iraksak-mercek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Üzerine düşen birbirine paralel ışınları yanlara doğru kırarak birbirinden uzaklaştıran, dağıtan mercek

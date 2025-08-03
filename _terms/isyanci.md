@@ -2,6 +2,7 @@
 layout: term
 title: isyancı
 slug: isyanci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► başkaldırıcı

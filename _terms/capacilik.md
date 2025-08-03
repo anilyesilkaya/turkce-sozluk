@@ -2,6 +2,7 @@
 layout: term
 title: çapacılık
 slug: capacilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapacının yaptığı iş

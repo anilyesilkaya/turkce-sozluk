@@ -2,6 +2,7 @@
 layout: term
 title: dayalı döşeli
 slug: dayali-doseli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşemesi ve eşyası eksiksiz

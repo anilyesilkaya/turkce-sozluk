@@ -2,6 +2,7 @@
 layout: term
 title: zihinsel
 slug: zihinsel
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zihinle ilgili; zihnî

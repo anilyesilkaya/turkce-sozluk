@@ -2,6 +2,7 @@
 layout: term
 title: ihsan etmek (veya buyurmak)
 slug: ihsan-etmek-veya-buyurmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bağışta bulunmak, bağışlamak

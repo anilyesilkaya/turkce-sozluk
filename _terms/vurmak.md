@@ -2,6 +2,7 @@
 layout: term
 title: vurmak
 slug: vurmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Elini veya elinde tuttuğu bir şeyi bir yere veya bir kimseye hızla çarpmak; çakmak, geçirmek, inmek

@@ -2,6 +2,7 @@
 layout: term
 title: serptirmek
 slug: serptirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serpme işini yaptırmak

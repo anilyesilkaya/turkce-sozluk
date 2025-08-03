@@ -2,6 +2,7 @@
 layout: term
 title: cahil
 slug: cahil
+letter: C
 lisan: Arapça cāhil
 anlamlar:
 - Öğrenim görmemiş, okumamış

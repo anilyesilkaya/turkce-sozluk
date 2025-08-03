@@ -2,6 +2,7 @@
 layout: term
 title: edinme
 slug: edinme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edinmek işi; iktisap

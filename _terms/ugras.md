@@ -2,6 +2,7 @@
 layout: term
 title: uğraş
 slug: ugras
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir insanın yaptığı iş veya meslek; iş güç, meşguliyet

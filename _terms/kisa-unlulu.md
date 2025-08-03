@@ -2,6 +2,7 @@
 layout: term
 title: kısa ünlülü
 slug: kisa-unlulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısa ünlüsü olan

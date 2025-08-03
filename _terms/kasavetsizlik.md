@@ -2,6 +2,7 @@
 layout: term
 title: kasavetsizlik
 slug: kasavetsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sıkıntısızlık

@@ -2,6 +2,7 @@
 layout: term
 title: tarihçilik
 slug: tarihcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarihçinin işi

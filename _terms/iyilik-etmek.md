@@ -2,6 +2,7 @@
 layout: term
 title: iyilik etmek
 slug: iyilik-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yararlı işler yapmak, yardımcı olmak

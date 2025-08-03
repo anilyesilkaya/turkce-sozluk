@@ -2,6 +2,7 @@
 layout: term
 title: ticaret
 slug: ticaret
+letter: T
 lisan: Arapça ticāret
 anlamlar:
 - Ürün, mal vb. alım satımı; tecim

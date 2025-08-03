@@ -2,6 +2,7 @@
 layout: term
 title: aslı astarı
 slug: asli-astari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içyüzü, gerçek şekli; aslı faslı

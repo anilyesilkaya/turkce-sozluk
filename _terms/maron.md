@@ -2,6 +2,7 @@
 layout: term
 title: maron
 slug: maron
+letter: M
 lisan: Fransızca marron
 anlamlar:
 - ► kestane rengi

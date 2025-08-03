@@ -2,6 +2,7 @@
 layout: term
 title: insanoğlu
 slug: insanoglu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► insan

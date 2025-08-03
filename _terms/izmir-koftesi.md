@@ -2,6 +2,7 @@
 layout: term
 title: İzmir köftesi
 slug: izmir-koftesi
+letter: İ
 lisan: Türkçe
 anlamlar:
 - Kıyma, soğan, maydanoz, ıslatılmış ekmek içi, yumurta, domates, yeşilbiber, sarımsak ve yağ kullanılmasıyla hazırlanan ve kısık ateşte pişirilen bir yemek türü

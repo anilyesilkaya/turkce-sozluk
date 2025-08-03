@@ -2,6 +2,7 @@
 layout: term
 title: burada
 slug: burada
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu yerde

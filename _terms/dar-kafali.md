@@ -2,6 +2,7 @@
 layout: term
 title: dar kafalı
 slug: dar-kafali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kavrayışı az, anlayışı kıt, yenilikleri benimseyecek yetenekten yoksun (kimse)

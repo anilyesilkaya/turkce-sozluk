@@ -2,6 +2,7 @@
 layout: term
 title: tepeden tırnağa süzmek
 slug: tepeden-tirnaga-suzmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple birine dikkatlice bakmak

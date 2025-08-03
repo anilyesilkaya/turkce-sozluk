@@ -2,6 +2,7 @@
 layout: term
 title: erekçi
 slug: erekci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erekçilik yanlısı; finalist

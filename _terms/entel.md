@@ -2,6 +2,7 @@
 layout: term
 title: entel
 slug: entel
+letter: E
 lisan: Fransızca intellectuelle'den
 anlamlar:
 - Entelektüel olmaya özenen ancak bunun için gerekli olan niteliği kazanmamış (kimse)

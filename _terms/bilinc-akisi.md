@@ -2,6 +2,7 @@
 layout: term
 title: bilinç akışı
 slug: bilinc-akisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düşüncelerin arka arkaya birbirini izlemesi

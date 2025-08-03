@@ -2,6 +2,7 @@
 layout: term
 title: temiz pak
 slug: temiz-pak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok temiz

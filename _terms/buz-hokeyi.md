@@ -2,6 +2,7 @@
 layout: term
 title: buz hokeyi
 slug: buz-hokeyi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Altışar kişilik iki takım arasında, buzla kaplı bir alanda, küçük, yassı, sert bir diski sopalarla vurup kaydırmaya dayanan bir tür oyun

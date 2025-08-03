@@ -2,6 +2,7 @@
 layout: term
 title: hamlamak
 slug: hamlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Uzun süre idman yapmama, hareket etmeme yüzünden gücünü veya çevikliğini yitirmek

@@ -2,6 +2,7 @@
 layout: term
 title: çağırım
 slug: cagirim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağırmak işi

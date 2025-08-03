@@ -2,6 +2,7 @@
 layout: term
 title: yola (veya yoluna) koyulmak
 slug: yola-veya-yoluna-koyulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yola düzülmek

@@ -2,6 +2,7 @@
 layout: term
 title: ikizlik
 slug: ikizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkiz olma durumu

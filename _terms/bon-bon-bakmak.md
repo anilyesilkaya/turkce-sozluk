@@ -2,6 +2,7 @@
 layout: term
 title: bön bön bakmak
 slug: bon-bon-bakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - anlamayarak, şaşkın şaşkın bakmak

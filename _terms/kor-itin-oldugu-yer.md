@@ -2,6 +2,7 @@
 layout: term
 title: kör itin öldüğü yer
 slug: kor-itin-oldugu-yer
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok uzakta olan yer

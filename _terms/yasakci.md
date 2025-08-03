@@ -2,6 +2,7 @@
 layout: term
 title: yasakçı
 slug: yasakci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasağı koyan veya uygulayan kimse

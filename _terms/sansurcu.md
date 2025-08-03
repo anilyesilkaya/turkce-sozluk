@@ -2,6 +2,7 @@
 layout: term
 title: sansürcü
 slug: sansurcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanat eserlerini denetlemekle görevlendirilmiş kimse; sıkı denetimci

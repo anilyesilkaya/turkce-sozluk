@@ -2,6 +2,7 @@
 layout: term
 title: ameliyat
 slug: ameliyat
+letter: A
 lisan: Arapça ʿameliyyāt
 anlamlar:
 - Hasta üzerinde tedavi amacıyla uygulanan kesme ve dikme işlemi; cerrahi müdahale, operasyon

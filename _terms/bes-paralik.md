@@ -2,6 +2,7 @@
 layout: term
 title: beş paralık
 slug: bes-paralik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Toplum içinde itibarı ve değeri olmayan; bir paralık

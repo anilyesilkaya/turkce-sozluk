@@ -2,6 +2,7 @@
 layout: term
 title: madalyasız
 slug: madalyasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Madalya almamış olan

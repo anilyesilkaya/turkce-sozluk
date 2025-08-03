@@ -2,6 +2,7 @@
 layout: term
 title: öleyazmak
 slug: oleyazmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Az kalsın ölmek, ölme tehlikesi atlatmak

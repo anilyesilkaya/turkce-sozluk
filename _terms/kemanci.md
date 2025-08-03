@@ -2,6 +2,7 @@
 layout: term
 title: kemancı
 slug: kemanci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keman çalan kimse; gıygıycı, kemani

@@ -2,6 +2,7 @@
 layout: term
 title: avadanlık
 slug: avadanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmak, bir aracı onarmak için kullanılan alet takımı

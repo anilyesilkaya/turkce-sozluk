@@ -2,6 +2,7 @@
 layout: term
 title: aklına geleni yapmak
 slug: aklina-geleni-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - her istediğini önünü sonunu düşünmeden yapmak

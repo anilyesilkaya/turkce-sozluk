@@ -2,6 +2,7 @@
 layout: term
 title: derebeylik
 slug: derebeylik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derebeyi olma durumu

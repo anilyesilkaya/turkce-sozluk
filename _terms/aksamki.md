@@ -2,6 +2,7 @@
 layout: term
 title: akşamki
 slug: aksamki
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşama özgü, akşam olan, akşam yapılan

@@ -2,6 +2,7 @@
 layout: term
 title: hakkaniyet
 slug: hakkaniyet
+letter: H
 lisan: Arapça ḥaḳḳāniyyet
 anlamlar:
 - Hak ve adalete uygunluk; nasfet

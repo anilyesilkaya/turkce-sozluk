@@ -2,6 +2,7 @@
 layout: term
 title: gömlekçi
 slug: gomlekci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömlek diken veya satan kimse

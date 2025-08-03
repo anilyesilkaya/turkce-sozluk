@@ -2,6 +2,7 @@
 layout: term
 title: idman yapmak
 slug: idman-yapmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - beden hareketleri yapmak

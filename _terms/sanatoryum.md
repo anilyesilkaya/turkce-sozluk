@@ -2,6 +2,7 @@
 layout: term
 title: sanatoryum
 slug: sanatoryum
+letter: S
 lisan: Fransızca sanatorium
 anlamlar:
 - Özellikle veremli hastaların iyileştirilmesi için kurulmuş sağlık kuruluşu

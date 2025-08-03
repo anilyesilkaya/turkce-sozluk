@@ -2,6 +2,7 @@
 layout: term
 title: azize
 slug: azize
+letter: A
 lisan: Arapça ʿazīze
 anlamlar:
 - Ermiş kadın

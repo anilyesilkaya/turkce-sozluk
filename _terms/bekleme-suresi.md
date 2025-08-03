@@ -2,6 +2,7 @@
 layout: term
 title: bekleme süresi
 slug: bekleme-suresi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Evliliği sona ermiş kadının yeniden evlenebilmesi için aradan geçmesi gereken süre

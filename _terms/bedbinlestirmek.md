@@ -2,6 +2,7 @@
 layout: term
 title: bedbinleştirmek
 slug: bedbinlestirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kötümserleştirmek

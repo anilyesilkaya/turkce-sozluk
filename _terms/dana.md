@@ -2,6 +2,7 @@
 layout: term
 title: dana
 slug: dana
+letter: D
 lisan: Türkçe
 anlamlar:
 - İneğin, sütten kesildikten sonra bir yaşına kadar olan yavrusu

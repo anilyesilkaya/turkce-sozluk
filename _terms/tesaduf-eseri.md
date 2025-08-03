@@ -2,6 +2,7 @@
 layout: term
 title: tesadüf eseri
 slug: tesaduf-eseri
+letter: T
 lisan: Türkçe
 anlamlar:
 - Rastlantı sonucu

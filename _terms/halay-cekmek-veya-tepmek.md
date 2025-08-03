@@ -2,6 +2,7 @@
 layout: term
 title: halay çekmek (veya tepmek)
 slug: halay-cekmek-veya-tepmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - halay oyunu oynamak

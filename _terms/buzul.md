@@ -2,6 +2,7 @@
 layout: term
 title: buzul
 slug: buzul
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kutup bölgelerinde veya daimî kar sınırının üzerindeki yükseltilerde bulunan buz kütlesi; cümudiye, glasiye

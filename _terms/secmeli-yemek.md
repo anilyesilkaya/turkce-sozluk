@@ -2,6 +2,7 @@
 layout: term
 title: seçmeli yemek
 slug: secmeli-yemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yemek listesinden seçilen, fiyatları ayrı ayrı hesaplanan yemek; alakart

@@ -2,6 +2,7 @@
 layout: term
 title: rattan
 slug: rattan
+letter: R
 lisan: İngilizce rattan
 anlamlar:
 - Avustralya, Afrika ve Asya’nın tropikal bölgelerinde yetişen bir tür kamış

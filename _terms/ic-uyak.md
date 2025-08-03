@@ -2,6 +2,7 @@
 layout: term
 title: iç uyak
 slug: ic-uyak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iç kafiye

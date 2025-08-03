@@ -2,6 +2,7 @@
 layout: term
 title: bukağı vurmak
 slug: bukagi-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bukağı takmak

@@ -2,6 +2,7 @@
 layout: term
 title: cıvıklaşma
 slug: civiklasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvıklaşmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: geda
 slug: geda
+letter: G
 lisan: Farsça gedā
 anlamlar:
 - ► dilenci

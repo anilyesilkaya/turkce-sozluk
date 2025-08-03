@@ -2,6 +2,7 @@
 layout: term
 title: hesaplı
 slug: hesapli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Satın alınabilen, bütçeye uygun; hesaplıca, ekonomik

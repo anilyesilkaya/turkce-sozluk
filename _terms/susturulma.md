@@ -2,6 +2,7 @@
 layout: term
 title: susturulma
 slug: susturulma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susturulmak işi

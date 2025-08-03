@@ -2,6 +2,7 @@
 layout: term
 title: iki lakırtıyı bir araya getirmek
 slug: iki-lakirtiyi-bir-araya-getirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - meramını kısaca, düzgün ve açık bir biçimde anlatmak

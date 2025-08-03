@@ -2,6 +2,7 @@
 layout: term
 title: cıva gibi
 slug: civa-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - yerinde durmaz, ele avuca sığmaz, çok hareketli

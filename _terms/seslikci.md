@@ -2,6 +2,7 @@
 layout: term
 title: seslikçi
 slug: seslikci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Arşivlenmiş ses belgelerini koruyan, gözeten görevli

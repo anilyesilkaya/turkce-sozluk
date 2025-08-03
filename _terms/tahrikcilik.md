@@ -2,6 +2,7 @@
 layout: term
 title: tahrikçilik
 slug: tahrikcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahrikçinin işi

@@ -2,6 +2,7 @@
 layout: term
 title: torbalanmak
 slug: torbalanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Torbalama işi yapılmak

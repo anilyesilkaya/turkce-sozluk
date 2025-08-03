@@ -2,6 +2,7 @@
 layout: term
 title: dilinden anlamak
 slug: dilinden-anlamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir canlının çıkardığı seslerden veya onun davranışlarından ne anlatmak istediğini anlamak

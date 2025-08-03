@@ -2,6 +2,7 @@
 layout: term
 title: bobin
 slug: bobin
+letter: B
 lisan: Fransızca bobine
 anlamlar:
 - ► makara

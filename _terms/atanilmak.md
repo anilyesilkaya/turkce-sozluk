@@ -2,6 +2,7 @@
 layout: term
 title: atanılmak
 slug: atanilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atanma işine konu olmak

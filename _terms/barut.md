@@ -2,6 +2,7 @@
 layout: term
 title: barut
 slug: barut
+letter: B
 lisan: Farsça bārūd
 anlamlar:
 - Ateşli silahla bir merminin atılmasına veya herhangi bir aracın fırlatılmasına yarayan, patlayıcı madde

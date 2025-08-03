@@ -2,6 +2,7 @@
 layout: term
 title: sıçrama tahtası
 slug: sicrama-tahtasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Araçtan atlamalarda, üzerine hızla basarak yükselme hızı kazanılan yaylı veya esnek tahtadan eğik yüzeyli araç

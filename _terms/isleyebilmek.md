@@ -2,6 +2,7 @@
 layout: term
 title: işleyebilmek
 slug: isleyebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşleme ihtimali veya imkânı bulunmak

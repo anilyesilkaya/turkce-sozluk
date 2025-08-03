@@ -2,6 +2,7 @@
 layout: term
 title: kahır (veya kahrını) çekmek
 slug: kahir-veya-kahrini-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - uzun süre sıkıntıya katlanmak

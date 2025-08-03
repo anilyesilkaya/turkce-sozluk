@@ -2,6 +2,7 @@
 layout: term
 title: göbeği çıkmak
 slug: gobegi-cikmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - şişmanlamak

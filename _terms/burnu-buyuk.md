@@ -2,6 +2,7 @@
 layout: term
 title: burnu büyük
 slug: burnu-buyuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kibirli olan (kimse)

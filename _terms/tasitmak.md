@@ -2,6 +2,7 @@
 layout: term
 title: taşıtmak
 slug: tasitmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıma işini yaptırmak

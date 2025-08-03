@@ -2,6 +2,7 @@
 layout: term
 title: hayvanat
 slug: hayvanat
+letter: H
 lisan: Arapça ḥayvānāt
 anlamlar:
 - Hayvanlar

@@ -2,6 +2,7 @@
 layout: term
 title: harfi harfine
 slug: harfi-harfine
+letter: H
 lisan: Türkçe
 anlamlar:
 - Tamamen gerçekte olduğu gibi; harfiyen

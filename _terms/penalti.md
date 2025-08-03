@@ -2,6 +2,7 @@
 layout: term
 title: penaltı
 slug: penalti
+letter: P
 lisan: İngilizce penalty
 anlamlar:
 - Futbol ve hentbolda ceza alanı içinde gerçekleşen kural dışı bir hareket sebebiyle yalnız kalecinin koruduğu kaleye ortadan ve tam karşıdan yapılan atış; ceza atışı, ceza vuruşu

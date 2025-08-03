@@ -2,6 +2,7 @@
 layout: term
 title: sanatlaşmak
 slug: sanatlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanata uygun duruma gelmek

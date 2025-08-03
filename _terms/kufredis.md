@@ -2,6 +2,7 @@
 layout: term
 title: küfrediş
 slug: kufredis
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sövme

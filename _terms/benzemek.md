@@ -2,6 +2,7 @@
 layout: term
 title: benzemek
 slug: benzemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki kişi veya nesne arasında birbirini andıracak kadar ortak nitelikler bulunmak

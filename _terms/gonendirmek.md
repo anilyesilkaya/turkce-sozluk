@@ -2,6 +2,7 @@
 layout: term
 title: gönendirmek
 slug: gonendirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönenme işi yaptırmak

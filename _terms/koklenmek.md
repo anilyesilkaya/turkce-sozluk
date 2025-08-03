@@ -2,6 +2,7 @@
 layout: term
 title: köklenmek
 slug: koklenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bitkide kök oluşmak, bitki kök salmak, kök tutmak

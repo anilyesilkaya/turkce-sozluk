@@ -2,6 +2,7 @@
 layout: term
 title: şahsiyata dökmek (veya sürüklemek)
 slug: sahsiyata-dokmek-veya-suruklemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şahsiyat yapmak

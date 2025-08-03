@@ -2,6 +2,7 @@
 layout: term
 title: kemirme
 slug: kemirme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemirmek işi

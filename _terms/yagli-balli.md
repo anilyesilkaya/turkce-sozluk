@@ -2,6 +2,7 @@
 layout: term
 title: yağlı ballı
 slug: yagli-balli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► içli dışlı

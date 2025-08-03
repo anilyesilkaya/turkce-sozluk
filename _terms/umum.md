@@ -2,6 +2,7 @@
 layout: term
 title: umum
 slug: umum
+letter: U
 lisan: Arapça ʿumūm
 anlamlar:
 - ► bütün

@@ -2,6 +2,7 @@
 layout: term
 title: çoğun
 slug: cogun
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► genellikle

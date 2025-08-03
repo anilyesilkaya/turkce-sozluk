@@ -2,6 +2,7 @@
 layout: term
 title: içerlek
 slug: icerlek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yanındakilerden daha içeride, daha geride bulunan

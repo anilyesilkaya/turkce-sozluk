@@ -2,6 +2,7 @@
 layout: term
 title: alı alına, moru moruna
 slug: ali-alina-moru-moruna
+letter: A
 lisan: Türkçe
 anlamlar:
 - sağlıklı, kanlı canlı

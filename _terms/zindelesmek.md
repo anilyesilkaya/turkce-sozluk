@@ -2,6 +2,7 @@
 layout: term
 title: zindeleşmek
 slug: zindelesmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zinde duruma gelmek

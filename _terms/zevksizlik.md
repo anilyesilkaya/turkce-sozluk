@@ -2,6 +2,7 @@
 layout: term
 title: zevksizlik
 slug: zevksizlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zevksiz olma durumu

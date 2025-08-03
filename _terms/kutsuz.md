@@ -2,6 +2,7 @@
 layout: term
 title: kutsuz
 slug: kutsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uğursuz, kötü, menhus

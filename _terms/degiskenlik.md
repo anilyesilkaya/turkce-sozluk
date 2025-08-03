@@ -2,6 +2,7 @@
 layout: term
 title: değişkenlik
 slug: degiskenlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişken olma durumu

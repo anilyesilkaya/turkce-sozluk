@@ -2,6 +2,7 @@
 layout: term
 title: bulgur çorbası
 slug: bulgur-corbasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Domates, bulgur, yeşilbiber, soğan, tereyağı ve salça kullanılarak hazırlanan bir çorba türü

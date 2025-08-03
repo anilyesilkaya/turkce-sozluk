@@ -2,6 +2,7 @@
 layout: term
 title: göbeği çatlamak
 slug: gobegi-catlamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir güçlüğü yenmek için çok uğraşmak, sıkıntı çekmek

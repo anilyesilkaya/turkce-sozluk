@@ -2,6 +2,7 @@
 layout: term
 title: çocuk doktoru
 slug: cocuk-doktoru
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk sağlığı ve hastalıkları doktoru; çocukçu

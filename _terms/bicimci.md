@@ -2,6 +2,7 @@
 layout: term
 title: biçimci
 slug: bicimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçime sıkı sıkıya bağlılık yanlısı olan

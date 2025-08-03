@@ -2,6 +2,7 @@
 layout: term
 title: vizyon
 slug: vizyon
+letter: V
 lisan: Fransızca vision
 anlamlar:
 - ► görünüm

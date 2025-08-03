@@ -2,6 +2,7 @@
 layout: term
 title: zihin yormak
 slug: zihin-yormak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir konuda çok düşünmek, kafa yormak

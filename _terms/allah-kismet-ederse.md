@@ -2,6 +2,7 @@
 layout: term
 title: Allah kısmet ederse
 slug: allah-kismet-ederse
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Tanrı izin verirse" anlamında kullanılan bir söz'

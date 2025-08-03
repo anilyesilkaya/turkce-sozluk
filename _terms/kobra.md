@@ -2,6 +2,7 @@
 layout: term
 title: kobra
 slug: kobra
+letter: K
 lisan: Fransızca cobra
 anlamlar:
 - Kobragillerden, Afrika ve Asya'nın sıcak bölgelerinde yaşayan, çok zehirli, kızıl, esmer ve sarı renklerde bir tür yılan; gözlüklü yılan, Hint kobrası (Naja)

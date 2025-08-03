@@ -2,6 +2,7 @@
 layout: term
 title: bodur
 slug: bodur
+letter: B
 lisan: Türkçe
 anlamlar:
 - Enine göre boyu kısa ve tıknaz

@@ -2,6 +2,7 @@
 layout: term
 title: küçüklük
 slug: kucukluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük olma durumu

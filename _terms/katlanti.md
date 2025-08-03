@@ -2,6 +2,7 @@
 layout: term
 title: katlantı
 slug: katlanti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► katlanma

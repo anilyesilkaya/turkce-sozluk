@@ -2,6 +2,7 @@
 layout: term
 title: baltacı
 slug: baltaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balta yapan veya satan kimse

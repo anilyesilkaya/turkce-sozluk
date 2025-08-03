@@ -2,6 +2,7 @@
 layout: term
 title: mondenlik
 slug: mondenlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Monden olma durumu

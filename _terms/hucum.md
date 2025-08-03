@@ -2,6 +2,7 @@
 layout: term
 title: hücum
 slug: hucum
+letter: H
 lisan: Arapça hucūm
 anlamlar:
 - ► saldırı

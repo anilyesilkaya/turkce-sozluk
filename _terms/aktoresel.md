@@ -2,6 +2,7 @@
 layout: term
 title: aktöresel
 slug: aktoresel
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ahlaki

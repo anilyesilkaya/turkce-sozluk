@@ -2,6 +2,7 @@
 layout: term
 title: erkenci
 slug: erkenci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erken davranan (kimse)

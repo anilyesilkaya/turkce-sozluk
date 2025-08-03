@@ -2,6 +2,7 @@
 layout: term
 title: bilenmek
 slug: bilenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileme işine konu olmak, keskin duruma getirilmek; bileğilenmek, bileylenmek

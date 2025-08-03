@@ -2,6 +2,7 @@
 layout: term
 title: başlıklı
 slug: baslikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlık bulunan

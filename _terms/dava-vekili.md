@@ -2,6 +2,7 @@
 layout: term
 title: dava vekili
 slug: dava-vekili
+letter: D
 lisan: Türkçe
 anlamlar:
 - Avukat sayısı beşten az olan yerlerde avukat yetkisini taşıyan meslek adamı

@@ -2,6 +2,7 @@
 layout: term
 title: bitme
 slug: bitme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitmek işi; finiş

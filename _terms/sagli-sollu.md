@@ -2,6 +2,7 @@
 layout: term
 title: sağlı sollu
 slug: sagli-sollu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağda ve solda olan

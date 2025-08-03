@@ -2,6 +2,7 @@
 layout: term
 title: kamu düzeni
 slug: kamu-duzeni
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütün toplumu ilgilendiren düzen

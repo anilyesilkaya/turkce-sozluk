@@ -2,6 +2,7 @@
 layout: term
 title: çöpe dönmek
 slug: cope-donmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak

@@ -2,6 +2,7 @@
 layout: term
 title: kıta
 slug: kita
+letter: K
 lisan: Arapça ḳiṭʿa
 anlamlar:
 - Yeryüzündeki altı büyük kara parçasından her biri; ana kara

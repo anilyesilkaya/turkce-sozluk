@@ -2,6 +2,7 @@
 layout: term
 title: taşıtabilmek
 slug: tasitabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıtma ihtimali veya imkânı bulunmak

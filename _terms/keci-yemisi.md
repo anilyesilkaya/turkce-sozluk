@@ -2,6 +2,7 @@
 layout: term
 title: keçi yemişi
 slug: keci-yemisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaban mersini

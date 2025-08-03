@@ -2,6 +2,7 @@
 layout: term
 title: anlatıverme
 slug: anlativerme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatıvermek işi

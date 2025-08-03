@@ -2,6 +2,7 @@
 layout: term
 title: filan
 slug: filan
+letter: F
 lisan: Arapça fulān
 anlamlar:
 - ► falan

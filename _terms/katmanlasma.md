@@ -2,6 +2,7 @@
 layout: term
 title: katmanlaşma
 slug: katmanlasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katmanlaşmak işi

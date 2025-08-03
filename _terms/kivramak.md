@@ -2,6 +2,7 @@
 layout: term
 title: kıvramak
 slug: kivramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Buruşup toplanmak, kıvırcık duruma gelmek

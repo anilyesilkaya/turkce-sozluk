@@ -2,6 +2,7 @@
 layout: term
 title: motorize
 slug: motorize
+letter: M
 lisan: Fransızca motorisé
 anlamlar:
 - Motorlu taşıtlarla donatılmış (kıta veya birlik)

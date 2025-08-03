@@ -2,6 +2,7 @@
 layout: term
 title: lenfatik
 slug: lenfatik
+letter: L
 lisan: Fransızca lymphatique
 anlamlar:
 - Lenfle ilgili olan

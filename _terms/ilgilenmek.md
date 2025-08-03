@@ -2,6 +2,7 @@
 layout: term
 title: ilgilenmek
 slug: ilgilenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgi göstermek; alakalanmak

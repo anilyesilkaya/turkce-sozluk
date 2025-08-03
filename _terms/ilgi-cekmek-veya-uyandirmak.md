@@ -2,6 +2,7 @@
 layout: term
 title: ilgi çekmek (veya uyandırmak)
 slug: ilgi-cekmek-veya-uyandirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çevresinde ilgiyi, dikkati ve merakı üzerine toplamak

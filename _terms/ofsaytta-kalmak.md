@@ -2,6 +2,7 @@
 layout: term
 title: ofsaytta kalmak
 slug: ofsaytta-kalmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - ofsayta düşmek

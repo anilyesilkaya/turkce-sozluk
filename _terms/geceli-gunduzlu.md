@@ -2,6 +2,7 @@
 layout: term
 title: geceli gündüzlü
 slug: geceli-gunduzlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hem gece hem gündüz, sürekli, aralıksız, durmaksızın

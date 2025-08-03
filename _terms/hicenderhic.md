@@ -2,6 +2,7 @@
 layout: term
 title: hiçenderhiç
 slug: hicenderhic
+letter: H
 lisan: Farsça hįç-ender-hįç
 anlamlar:
 - Yok hükmünde olan

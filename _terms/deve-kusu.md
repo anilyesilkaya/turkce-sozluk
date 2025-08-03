@@ -2,6 +2,7 @@
 layout: term
 title: deve kuşu
 slug: deve-kusu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kısa kanatları uçmaya elverişli olmayan fakat uzun bacaklarıyla çok hızlı koşabilen iri bir kuş (Struthio camelus)

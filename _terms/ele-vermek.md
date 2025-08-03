@@ -2,6 +2,7 @@
 layout: term
 title: ele vermek
 slug: ele-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - suçlu bir kimseyi haber verip yakalatmak, ihbar etmek

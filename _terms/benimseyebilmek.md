@@ -2,6 +2,7 @@
 layout: term
 title: benimseyebilmek
 slug: benimseyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benimseme ihtimali veya imkânı bulunmak

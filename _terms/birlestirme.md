@@ -2,6 +2,7 @@
 layout: term
 title: birleştirme
 slug: birlestirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleştirmek işi; tevhit, kombinasyon

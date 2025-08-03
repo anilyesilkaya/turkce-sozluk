@@ -2,6 +2,7 @@
 layout: term
 title: koni
 slug: koni
+letter: K
 lisan: Fransızca cône
 anlamlar:
 - Durağan bir noktadan geçen ve bir eğriye dayanarak hareket eden bir doğrunun çizdiği yüzey; mahrut

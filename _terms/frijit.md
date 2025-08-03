@@ -2,6 +2,7 @@
 layout: term
 title: frijit
 slug: frijit
+letter: F
 lisan: Fransızca frigide
 anlamlar:
 - Cinsel bakımdan soğuk (kadın)

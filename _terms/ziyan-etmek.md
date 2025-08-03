@@ -2,6 +2,7 @@
 layout: term
 title: ziyan etmek
 slug: ziyan-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yersiz, boş yere harcamak

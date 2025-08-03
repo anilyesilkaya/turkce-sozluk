@@ -2,6 +2,7 @@
 layout: term
 title: elektrik vermek
 slug: elektrik-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir yeri elektrikle donatmak

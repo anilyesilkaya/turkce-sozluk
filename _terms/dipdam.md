@@ -2,6 +2,7 @@
 layout: term
 title: dipdam
 slug: dipdam
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► cezaevi

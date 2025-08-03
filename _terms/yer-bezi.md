@@ -2,6 +2,7 @@
 layout: term
 title: yer bezi
 slug: yer-bezi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zemin temizliğinde kullanılan dayanıklı bez

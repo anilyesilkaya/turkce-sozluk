@@ -2,6 +2,7 @@
 layout: term
 title: burkuluvermek
 slug: burkuluvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın burkulmak

@@ -2,6 +2,7 @@
 layout: term
 title: ağaçlık
 slug: agaclik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağacı bol olan yer

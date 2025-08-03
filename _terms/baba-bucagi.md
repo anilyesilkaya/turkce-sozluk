@@ -2,6 +2,7 @@
 layout: term
 title: baba bucağı
 slug: baba-bucagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baba ocağı

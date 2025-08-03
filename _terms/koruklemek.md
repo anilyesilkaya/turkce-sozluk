@@ -2,6 +2,7 @@
 layout: term
 title: körüklemek
 slug: koruklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körükle hava vermek

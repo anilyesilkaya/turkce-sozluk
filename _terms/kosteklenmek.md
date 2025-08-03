@@ -2,6 +2,7 @@
 layout: term
 title: kösteklenmek
 slug: kosteklenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ayağına köstek vurulmak

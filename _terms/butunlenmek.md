@@ -2,6 +2,7 @@
 layout: term
 title: bütünlenmek
 slug: butunlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünleme işine konu olmak; tamamlanmak, ikmal edilmek, tümlenmek

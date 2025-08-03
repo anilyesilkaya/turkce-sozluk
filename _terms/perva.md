@@ -2,6 +2,7 @@
 layout: term
 title: perva
 slug: perva
+letter: P
 lisan: Farsça pervā
 anlamlar:
 - Çekinme, sakınma, korku

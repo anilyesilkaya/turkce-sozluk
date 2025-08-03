@@ -2,6 +2,7 @@
 layout: term
 title: ön izleme
 slug: on-izleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bilgi, belge veya düzenlemenin son şekline karar vermeden önce ekran üzerinde kontrol edilmesi

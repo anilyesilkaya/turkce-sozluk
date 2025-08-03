@@ -2,6 +2,7 @@
 layout: term
 title: ergen tavrı
 slug: ergen-tavri
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ergenlik döneminde sergilenen davranış biçimi

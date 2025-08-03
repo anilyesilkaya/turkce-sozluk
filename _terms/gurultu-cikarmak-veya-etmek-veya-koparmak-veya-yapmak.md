@@ -2,6 +2,7 @@
 layout: term
 title: gürültü çıkarmak (veya etmek veya koparmak veya yapmak)
 slug: gurultu-cikarmak-veya-etmek-veya-koparmak-veya-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - düzensiz ve rahatsız edici sesler çıkarmak

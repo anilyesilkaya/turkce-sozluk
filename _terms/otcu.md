@@ -2,6 +2,7 @@
 layout: term
 title: otçu
 slug: otcu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Köylerde hekimlik yapan kimse

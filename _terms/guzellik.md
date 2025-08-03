@@ -2,6 +2,7 @@
 layout: term
 title: güzellik
 slug: guzellik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Estetik bir zevk, coşku, hoşlanma duygusu uyandıran nitelik; hüsün

@@ -2,6 +2,7 @@
 layout: term
 title: başkent
 slug: baskent
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir devletin yönetim merkezi olan şehir; hükûmet merkezi, başşehir, payitaht

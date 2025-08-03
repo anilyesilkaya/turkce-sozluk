@@ -2,6 +2,7 @@
 layout: term
 title: kredili
 slug: kredili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kredisi olan

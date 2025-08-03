@@ -2,6 +2,7 @@
 layout: term
 title: 'işlik '
 slug: islik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gömlek

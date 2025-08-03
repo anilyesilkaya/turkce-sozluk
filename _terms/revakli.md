@@ -2,6 +2,7 @@
 layout: term
 title: revaklı
 slug: revakli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Revak bulunan

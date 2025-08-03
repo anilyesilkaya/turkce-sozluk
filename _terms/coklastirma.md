@@ -2,6 +2,7 @@
 layout: term
 title: çoklaştırma
 slug: coklastirma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çoğaltma

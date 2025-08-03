@@ -2,6 +2,7 @@
 layout: term
 title: oğul oğul
 slug: ogul-ogul
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gruplar hâlinde, bölük bölük

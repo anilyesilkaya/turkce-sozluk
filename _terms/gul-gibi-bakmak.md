@@ -2,6 +2,7 @@
 layout: term
 title: gül gibi bakmak
 slug: gul-gibi-bakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - geçimini para sıkıntısı olmadan sağlamak

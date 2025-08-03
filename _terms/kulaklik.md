@@ -2,6 +2,7 @@
 layout: term
 title: kulaklık
 slug: kulaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulakları soğuk, rüzgâr vb. dış etkilerden korumak için kulak kepçesini örtecek biçimde yapılmış kılıf

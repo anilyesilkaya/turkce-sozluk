@@ -2,6 +2,7 @@
 layout: term
 title: tasdikname
 slug: tasdikname
+letter: T
 lisan: Arapça taṣdīḳ + Farsça nāme
 anlamlar:
 - Verilen onayı gösteren belge

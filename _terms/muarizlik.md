@@ -2,6 +2,7 @@
 layout: term
 title: muarızlık
 slug: muarizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muarız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tıklım tıklım
 slug: tiklim-tiklim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ağzına kadar, boş yer kalmayacak biçimde; tıklım tıkış, lebalep

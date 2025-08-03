@@ -2,6 +2,7 @@
 layout: term
 title: cesurane
 slug: cesurane
+letter: C
 lisan: Arapça cesūr + Farsça -āne
 anlamlar:
 - Cesura yakışan

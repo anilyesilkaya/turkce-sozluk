@@ -2,6 +2,7 @@
 layout: term
 title: paşazade
 slug: pasazade
+letter: P
 lisan: Türkçe paşa + Farsça zāde
 anlamlar:
 - Paşanın çocuğu

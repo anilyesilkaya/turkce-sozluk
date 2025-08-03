@@ -2,6 +2,7 @@
 layout: term
 title: park
 slug: park
+letter: P
 lisan: Fransızca parc
 anlamlar:
 - Bir yerleşme merkezinde halkın gezip hava alması için düzenlenmiş ağaçlı ve çiçekli bahçe

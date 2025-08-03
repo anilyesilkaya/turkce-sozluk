@@ -2,6 +2,7 @@
 layout: term
 title: ile
 slug: ile
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kelimenin sonuna geldiğinde birliktelik, beraberlik, araç, neden veya durum anlatan cümleler yapmaya yarayan bir söz

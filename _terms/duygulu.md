@@ -2,6 +2,7 @@
 layout: term
 title: duygulu
 slug: duygulu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygusu, duyarlığı çok olan, kolay duygulanan; içli, duyar, inceden, hisli

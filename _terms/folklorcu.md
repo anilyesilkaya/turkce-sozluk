@@ -2,6 +2,7 @@
 layout: term
 title: folklorcu
 slug: folklorcu
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► halk bilimci

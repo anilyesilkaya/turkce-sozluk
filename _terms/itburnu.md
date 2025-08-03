@@ -2,6 +2,7 @@
 layout: term
 title: itburnu
 slug: itburnu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yaban gülünün meyvesi

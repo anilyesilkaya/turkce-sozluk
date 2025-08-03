@@ -2,6 +2,7 @@
 layout: term
 title: kurşuna dizmek
 slug: kursuna-dizmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - verilen ölüm cezasını askerî bir kıtanın attığı kurşunlarla yerine getirmek

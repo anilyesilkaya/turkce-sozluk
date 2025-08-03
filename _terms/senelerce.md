@@ -2,6 +2,7 @@
 layout: term
 title: senelerce
 slug: senelerce
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yıllarca

@@ -2,6 +2,7 @@
 layout: term
 title: hamam takımı
 slug: hamam-takimi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamamda kullanılan havlu, kese, lif vb. şeyler

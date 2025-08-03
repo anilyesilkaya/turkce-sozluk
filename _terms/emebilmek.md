@@ -2,6 +2,7 @@
 layout: term
 title: emebilmek
 slug: emebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emme ihtimali veya imkânı bulunmak

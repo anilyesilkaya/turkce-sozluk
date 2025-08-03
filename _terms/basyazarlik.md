@@ -2,6 +2,7 @@
 layout: term
 title: başyazarlık
 slug: basyazarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başyazar olma durumu; başmuharrirlik, sermuharrirlik

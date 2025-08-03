@@ -2,6 +2,7 @@
 layout: term
 title: indiriverme
 slug: indiriverme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İndirivermek işi

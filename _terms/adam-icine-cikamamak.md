@@ -2,6 +2,7 @@
 layout: term
 title: adam içine çıkamamak
 slug: adam-icine-cikamamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - utanç ve suçluluk duygusuyla insanların bulunduğu yerlere gidememek

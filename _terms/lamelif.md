@@ -2,6 +2,7 @@
 layout: term
 title: lamelif
 slug: lamelif
+letter: L
 lisan: Arapça lām + elif
 anlamlar:
 - Arap alfabesinde elifin lam ile birlikte yazılmış biçimi

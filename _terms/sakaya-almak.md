@@ -2,6 +2,7 @@
 layout: term
 title: şakaya almak
 slug: sakaya-almak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - söylenilen gerçek sözü şaka gibi kabul etmek

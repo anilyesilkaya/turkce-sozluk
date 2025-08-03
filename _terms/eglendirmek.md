@@ -2,6 +2,7 @@
 layout: term
 title: eğlendirmek
 slug: eglendirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlenmesini sağlamak, eğlenmesine yol açmak

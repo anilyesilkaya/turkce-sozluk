@@ -2,6 +2,7 @@
 layout: term
 title: kınalamak
 slug: kinalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kına koymak, kına ile boyamak

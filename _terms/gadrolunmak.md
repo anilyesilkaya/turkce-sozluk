@@ -2,6 +2,7 @@
 layout: term
 title: gadrolunmak
 slug: gadrolunmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Haksızlığa uğratılmak

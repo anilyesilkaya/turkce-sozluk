@@ -2,6 +2,7 @@
 layout: term
 title: seğrime
 slug: segrime
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► seğirme

@@ -2,6 +2,7 @@
 layout: term
 title: konuk gelmek
 slug: konuk-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yere veya birinin evine kısa bir süre kalmak için gelmek

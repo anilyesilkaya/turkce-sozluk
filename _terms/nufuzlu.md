@@ -2,6 +2,7 @@
 layout: term
 title: nüfuzlu
 slug: nufuzlu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Sözü geçer, istediğini yaptıran; erkli

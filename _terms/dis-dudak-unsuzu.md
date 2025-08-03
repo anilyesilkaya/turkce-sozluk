@@ -2,6 +2,7 @@
 layout: term
 title: diş-dudak ünsüzü
 slug: dis-dudak-unsuzu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► diş eti-dudak ünsüzü

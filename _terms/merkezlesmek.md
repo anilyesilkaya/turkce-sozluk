@@ -2,6 +2,7 @@
 layout: term
 title: merkezleşmek
 slug: merkezlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merkez durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: taşlamak
 slug: taslamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taş atmak, taşa tutmak

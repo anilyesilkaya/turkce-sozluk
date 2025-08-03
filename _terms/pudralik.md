@@ -2,6 +2,7 @@
 layout: term
 title: pudralık
 slug: pudralik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pudra kutusu; pudriyer

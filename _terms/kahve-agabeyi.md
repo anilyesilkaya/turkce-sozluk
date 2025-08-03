@@ -2,6 +2,7 @@
 layout: term
 title: kahve ağabeyi
 slug: kahve-agabeyi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kahve ağası

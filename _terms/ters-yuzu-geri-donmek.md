@@ -2,6 +2,7 @@
 layout: term
 title: ters yüzü geri dönmek
 slug: ters-yuzu-geri-donmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gerisin geriye gitmek

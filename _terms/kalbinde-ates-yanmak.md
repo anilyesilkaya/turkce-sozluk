@@ -2,6 +2,7 @@
 layout: term
 title: kalbinde ateş yanmak
 slug: kalbinde-ates-yanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - âşık olmak, çok sevmek

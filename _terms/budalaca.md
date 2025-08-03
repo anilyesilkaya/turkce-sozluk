@@ -2,6 +2,7 @@
 layout: term
 title: budalaca
 slug: budalaca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aptala yakışan

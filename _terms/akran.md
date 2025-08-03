@@ -2,6 +2,7 @@
 layout: term
 title: akran
 slug: akran
+letter: A
 lisan: Arapça aḳrān
 anlamlar:
 - Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri; baştaş, boydaş, taydaş, öğür

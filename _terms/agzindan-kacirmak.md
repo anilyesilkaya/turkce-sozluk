@@ -2,6 +2,7 @@
 layout: term
 title: ağzından kaçırmak
 slug: agzindan-kacirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - istemediği hâlde boş bulunup söyleyivermek

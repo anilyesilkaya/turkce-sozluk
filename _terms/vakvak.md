@@ -2,6 +2,7 @@
 layout: term
 title: vakvak
 slug: vakvak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Çocuk dilinde ördek

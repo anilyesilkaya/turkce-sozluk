@@ -2,6 +2,7 @@
 layout: term
 title: bozuşukluk
 slug: bozusukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozuşuk olma durumu

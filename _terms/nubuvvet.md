@@ -2,6 +2,7 @@
 layout: term
 title: nübüvvet
 slug: nubuvvet
+letter: N
 lisan: Arapça nubuvvet
 anlamlar:
 - ► peygamberlik

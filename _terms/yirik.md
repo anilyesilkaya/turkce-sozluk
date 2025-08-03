@@ -2,6 +2,7 @@
 layout: term
 title: yirik
 slug: yirik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yarık

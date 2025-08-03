@@ -2,6 +2,7 @@
 layout: term
 title: yurt
 slug: yurt
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir halkın hâkim olduğu, üzerinde yaşadığı, kültürünü oluşturduğu toprak parçası; el (III), il, dar (III), vatan

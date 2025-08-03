@@ -2,6 +2,7 @@
 layout: term
 title: dinlenmek
 slug: dinlenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinleme işine konu olmak

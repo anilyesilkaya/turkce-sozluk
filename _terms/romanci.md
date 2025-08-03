@@ -2,6 +2,7 @@
 layout: term
 title: romancı
 slug: romanci
+letter: R
 lisan: Türkçe
 anlamlar:
 - Roman yazarı

@@ -2,6 +2,7 @@
 layout: term
 title: yumruklayabilmek
 slug: yumruklayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumruklama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: cerbeze
 slug: cerbeze
+letter: C
 lisan: Arapça cerbeẕe
 anlamlar:
 - Güzel, inandırıcı ve etkileyici konuşma yeteneği

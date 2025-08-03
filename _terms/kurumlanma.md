@@ -2,6 +2,7 @@
 layout: term
 title: kurumlanma
 slug: kurumlanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurumlanmak işi

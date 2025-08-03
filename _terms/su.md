@@ -2,6 +2,7 @@
 layout: term
 title: şu
 slug: su
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bu kelimesine göre yerde, zamanda veya söz zincirinde biraz uzak olanı niteleyen söz

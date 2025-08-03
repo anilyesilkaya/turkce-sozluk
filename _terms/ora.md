@@ -2,6 +2,7 @@
 layout: term
 title: ora
 slug: ora
+letter: O
 lisan: Türkçe
 anlamlar:
 - Anlatana veya söyleyene uzakta olan yer; orası

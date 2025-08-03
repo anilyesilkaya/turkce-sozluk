@@ -2,6 +2,7 @@
 layout: term
 title: arlı arından, huylu huyundan vazgeçmez
 slug: arli-arindan-huylu-huyundan-vazgecmez
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"herkes kendi karakterine göre davranışta bulunur" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: yardımseverlik
 slug: yardimseverlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hayırseverlik

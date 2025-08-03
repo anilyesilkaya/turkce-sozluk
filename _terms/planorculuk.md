@@ -2,6 +2,7 @@
 layout: term
 title: planörcülük
 slug: planorculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Planörcünün işi

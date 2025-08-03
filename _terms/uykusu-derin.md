@@ -2,6 +2,7 @@
 layout: term
 title: uykusu derin
 slug: uykusu-derin
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uykusu ağır

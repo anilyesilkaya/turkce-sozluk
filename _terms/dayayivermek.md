@@ -2,6 +2,7 @@
 layout: term
 title: dayayıvermek
 slug: dayayivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak dayamak

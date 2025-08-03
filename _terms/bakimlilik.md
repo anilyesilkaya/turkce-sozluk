@@ -2,6 +2,7 @@
 layout: term
 title: bakımlılık
 slug: bakimlilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakımlı olma durumu

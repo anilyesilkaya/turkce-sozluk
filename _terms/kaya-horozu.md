@@ -2,6 +2,7 @@
 layout: term
 title: kaya horozu
 slug: kaya-horozu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güney Amerika'da yaşayan, erkekleri portakal renginde, başında tepeliği olan kuş (Rupicola)

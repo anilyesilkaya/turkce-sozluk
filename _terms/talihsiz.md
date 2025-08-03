@@ -2,6 +2,7 @@
 layout: term
 title: talihsiz
 slug: talihsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bahtsız

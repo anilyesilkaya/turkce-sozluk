@@ -2,6 +2,7 @@
 layout: term
 title: gurbetlik
 slug: gurbetlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gurbet

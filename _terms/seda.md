@@ -2,6 +2,7 @@
 layout: term
 title: seda
 slug: seda
+letter: S
 lisan: Arapça ṣadā
 anlamlar:
 - ► ses

@@ -2,6 +2,7 @@
 layout: term
 title: ağacımsı
 slug: agacimsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ağaçsı

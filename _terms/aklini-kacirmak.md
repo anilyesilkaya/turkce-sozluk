@@ -2,6 +2,7 @@
 layout: term
 title: aklını kaçırmak
 slug: aklini-kacirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - delirmek

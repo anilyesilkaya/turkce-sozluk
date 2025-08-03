@@ -2,6 +2,7 @@
 layout: term
 title: güneşin alnında (veya altında)
 slug: gunesin-alninda-veya-altinda
+letter: G
 lisan: Türkçe
 anlamlar:
 - güneşin yakıcı ışınları altında

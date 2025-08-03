@@ -2,6 +2,7 @@
 layout: term
 title: bereket ki (veya bereket versin ki)
 slug: bereket-ki-veya-bereket-versin-ki
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"iyi ki, Tanrı''ya şükür ki" anlamında kullanılan bir söz'

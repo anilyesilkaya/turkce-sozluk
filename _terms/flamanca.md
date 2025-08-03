@@ -2,6 +2,7 @@
 layout: term
 title: Flamanca
 slug: flamanca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Flamanların kullandığı dil

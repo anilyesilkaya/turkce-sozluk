@@ -2,6 +2,7 @@
 layout: term
 title: insan coğrafyası
 slug: insan-cografyasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► beşerî coğrafya

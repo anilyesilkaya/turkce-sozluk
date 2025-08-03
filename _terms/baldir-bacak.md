@@ -2,6 +2,7 @@
 layout: term
 title: baldır bacak
 slug: baldir-bacak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirgin bir biçimde açılmış, açık saçık durumdaki kadın bacağı

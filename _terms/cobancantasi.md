@@ -2,6 +2,7 @@
 layout: term
 title: çobançantası
 slug: cobancantasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Turpgillerden, yemişleri torbayı andıran bir yaban bitkisi (Capsella bursa pastoris)

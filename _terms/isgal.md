@@ -2,6 +2,7 @@
 layout: term
 title: işgal
 slug: isgal
+letter: I
 lisan: Arapça işġāl
 anlamlar:
 - Bir yeri ele geçirme

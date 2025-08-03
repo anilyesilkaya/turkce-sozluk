@@ -2,6 +2,7 @@
 layout: term
 title: Allah versin
 slug: allah-versin
+letter: A
 lisan: Türkçe
 anlamlar:
 - iyi bir şey ele geçirenlere memnunluk bildirmek için söylenen bir söz

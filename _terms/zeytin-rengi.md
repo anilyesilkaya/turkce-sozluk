@@ -2,6 +2,7 @@
 layout: term
 title: zeytin rengi
 slug: zeytin-rengi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Koyu gri ve siyah arası bir renk; zeytuni

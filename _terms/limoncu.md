@@ -2,6 +2,7 @@
 layout: term
 title: limoncu
 slug: limoncu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limon yetiştiren veya satan kimse

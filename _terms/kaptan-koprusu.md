@@ -2,6 +2,7 @@
 layout: term
 title: kaptan köprüsü
 slug: kaptan-koprusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kaptan köşkü

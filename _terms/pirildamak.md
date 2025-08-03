@@ -2,6 +2,7 @@
 layout: term
 title: pırıldamak
 slug: pirildamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Işık saçmak, ışıldamak

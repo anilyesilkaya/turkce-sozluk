@@ -2,6 +2,7 @@
 layout: term
 title: sabun balığı
 slug: sabun-baligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Atlas Okyanusu kıyılarında yaşayan ve bol miktarda mukus salgılayan küçük balık (Rypticus saponacens)

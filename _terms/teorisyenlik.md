@@ -2,6 +2,7 @@
 layout: term
 title: teorisyenlik
 slug: teorisyenlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kuramcılık

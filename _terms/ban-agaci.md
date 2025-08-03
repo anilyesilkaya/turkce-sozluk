@@ -2,6 +2,7 @@
 layout: term
 title: ban ağacı
 slug: ban-agaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Asya'nın tropik bölgelerinde ve Afrika'nın kuzeyinde yetişen, yaprakları telek damarlı, çiçekleri salkım durumunda, meyvesinden kokusuz bir yağ elde edilen ağaç (Moringa oleifera)

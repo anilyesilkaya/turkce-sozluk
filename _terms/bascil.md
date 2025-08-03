@@ -2,6 +2,7 @@
 layout: term
 title: başçıl
 slug: bascil
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başla ilgili, başa ait olan

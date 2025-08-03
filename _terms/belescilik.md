@@ -2,6 +2,7 @@
 layout: term
 title: beleşçilik
 slug: belescilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bedavacılık

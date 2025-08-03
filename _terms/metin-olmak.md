@@ -2,6 +2,7 @@
 layout: term
 title: metîn olmak
 slug: metin-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - dayanıklı ve sağlam olmak, metanetini yitirmemek

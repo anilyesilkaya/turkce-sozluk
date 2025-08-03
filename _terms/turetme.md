@@ -2,6 +2,7 @@
 layout: term
 title: türetme
 slug: turetme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türetmek işi

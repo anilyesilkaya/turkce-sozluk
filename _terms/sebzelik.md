@@ -2,6 +2,7 @@
 layout: term
 title: sebzelik
 slug: sebzelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sebze bahçesi

@@ -2,6 +2,7 @@
 layout: term
 title: çileci
 slug: cileci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çile (II) satan veya yapan kimse

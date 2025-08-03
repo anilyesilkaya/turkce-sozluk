@@ -2,6 +2,7 @@
 layout: term
 title: eş değer
 slug: es-deger
+letter: E
 lisan: Türkçe
 anlamlar:
 - Değer yönünden birbirine eşit olan; muadil

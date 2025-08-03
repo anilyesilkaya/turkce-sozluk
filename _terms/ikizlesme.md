@@ -2,6 +2,7 @@
 layout: term
 title: ikizleşme
 slug: ikizlesme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkiz duruma gelme

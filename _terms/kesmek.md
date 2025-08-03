@@ -2,6 +2,7 @@
 layout: term
 title: kesmek
 slug: kesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bıçak, makas vb. bir araçla bir şeyi ikiye ayırmak, parçalamak; katetmek

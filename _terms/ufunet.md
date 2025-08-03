@@ -2,6 +2,7 @@
 layout: term
 title: ufunet
 slug: ufunet
+letter: U
 lisan: Arapça ʿufūnet
 anlamlar:
 - Pis koku

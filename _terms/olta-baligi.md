@@ -2,6 +2,7 @@
 layout: term
 title: olta balığı
 slug: olta-baligi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olta ile avlanan balık

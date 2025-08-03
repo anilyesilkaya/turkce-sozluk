@@ -2,6 +2,7 @@
 layout: term
 title: çimenli
 slug: cimenli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimeni olan

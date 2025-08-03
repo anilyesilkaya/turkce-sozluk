@@ -2,6 +2,7 @@
 layout: term
 title: beynen
 slug: beynen
+letter: B
 lisan: Türkçe beyin + Arapça -en
 anlamlar:
 - Beyince, beyin bakımından

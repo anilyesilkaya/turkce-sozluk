@@ -2,6 +2,7 @@
 layout: term
 title: tekrarlatabilmek
 slug: tekrarlatabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekrarlatma ihtimali veya imkânı bulunmak; yineletebilmek

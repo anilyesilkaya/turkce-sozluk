@@ -2,6 +2,7 @@
 layout: term
 title: telaffuz etmek
 slug: telaffuz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - söylemek

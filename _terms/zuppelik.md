@@ -2,6 +2,7 @@
 layout: term
 title: züppelik
 slug: zuppelik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Züppeye yakışır davranış; snopluk, snobizm

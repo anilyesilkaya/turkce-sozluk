@@ -2,6 +2,7 @@
 layout: term
 title: kalbini deşmek
 slug: kalbini-desmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok derinden etkilemek, kendine âşık etmek

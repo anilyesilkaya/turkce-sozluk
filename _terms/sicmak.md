@@ -2,6 +2,7 @@
 layout: term
 title: sıçmak
 slug: sicmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dışkıyı vücuttan dışarı atmak

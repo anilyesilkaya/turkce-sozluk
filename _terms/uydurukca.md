@@ -2,6 +2,7 @@
 layout: term
 title: uydurukça
 slug: uydurukca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kurallara uymayan kelimelerin sıkça kullanıldığı yapay dil

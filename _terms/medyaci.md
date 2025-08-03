@@ -2,6 +2,7 @@
 layout: term
 title: medyacı
 slug: medyaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Medya görevlisi

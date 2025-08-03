@@ -2,6 +2,7 @@
 layout: term
 title: sansür etmek
 slug: sansur-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sansürlemek

@@ -2,6 +2,7 @@
 layout: term
 title: izinname
 slug: izinname
+letter: I
 lisan: Arapça iẕn + Farsça nāme
 anlamlar:
 - Bırakma veya çıkarma kâğıdı

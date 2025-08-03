@@ -2,6 +2,7 @@
 layout: term
 title: hakir görmek
 slug: hakir-gormek
+letter: H
 lisan: Türkçe
 anlamlar:
 - önemsememek, değer vermemek, küçümsemek, küçük görmek, hor görmek

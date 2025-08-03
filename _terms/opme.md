@@ -2,6 +2,7 @@
 layout: term
 title: öpme
 slug: opme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öpmek işi

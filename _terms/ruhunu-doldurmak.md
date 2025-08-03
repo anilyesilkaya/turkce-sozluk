@@ -2,6 +2,7 @@
 layout: term
 title: ruhunu doldurmak
 slug: ruhunu-doldurmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - duygularına hitap etmek, ilgisini çekmek

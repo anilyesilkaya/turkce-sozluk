@@ -2,6 +2,7 @@
 layout: term
 title: tekerlekçi
 slug: tekerlekci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Araba tekerliği yapan kimse

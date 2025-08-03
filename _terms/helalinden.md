@@ -2,6 +2,7 @@
 layout: term
 title: helalinden
 slug: helalinden
+letter: H
 lisan: Türkçe
 anlamlar:
 - Helal yoldan, helal kazanılmış olandan

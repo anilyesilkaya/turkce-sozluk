@@ -2,6 +2,7 @@
 layout: term
 title: cepten yemek
 slug: cepten-yemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir ticarette kâra geçemeden para harcamak

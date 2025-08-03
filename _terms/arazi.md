@@ -2,6 +2,7 @@
 layout: term
 title: arazi
 slug: arazi
+letter: A
 lisan: Arapça arāżī
 anlamlar:
 - Yeryüzü parçası; yerey, toprak

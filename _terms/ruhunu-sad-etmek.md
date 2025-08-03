@@ -2,6 +2,7 @@
 layout: term
 title: ruhunu şad etmek
 slug: ruhunu-sad-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - ölmüş bir kimseyi hayırla anmak

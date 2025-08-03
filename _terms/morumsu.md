@@ -2,6 +2,7 @@
 layout: term
 title: morumsu
 slug: morumsu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mora çalan, moru andıran; morumtırak

@@ -2,6 +2,7 @@
 layout: term
 title: aradan çekilmek
 slug: aradan-cekilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ara bulucu olmaktan vazgeçmek

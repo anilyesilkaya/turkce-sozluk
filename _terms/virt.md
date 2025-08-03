@@ -2,6 +2,7 @@
 layout: term
 title: virt
 slug: virt
+letter: V
 lisan: Arapça vird
 anlamlar:
 - Dinî bir sözü sürekli tekrarlama

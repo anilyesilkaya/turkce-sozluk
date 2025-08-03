@@ -2,6 +2,7 @@
 layout: term
 title: gözlerini belertmek
 slug: gozlerini-belertmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözlerini, akı çok görünecek biçimde açmak

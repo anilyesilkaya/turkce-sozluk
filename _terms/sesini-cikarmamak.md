@@ -2,6 +2,7 @@
 layout: term
 title: sesini çıkarmamak
 slug: sesini-cikarmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şey üzerindeki düşüncesini söylememek

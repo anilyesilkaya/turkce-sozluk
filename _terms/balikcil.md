@@ -2,6 +2,7 @@
 layout: term
 title: balıkçıl
 slug: balikcil
+letter: B
 lisan: Türkçe
 anlamlar:
 - Uzun bacaklılardan, boynu ve gagası uzun, su kıyılarında yaşayan, balık yiyerek beslenen büyük bir kuş (Ardea cinerea)

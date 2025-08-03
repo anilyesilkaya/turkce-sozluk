@@ -2,6 +2,7 @@
 layout: term
 title: etene
 slug: etene
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► döl eşi

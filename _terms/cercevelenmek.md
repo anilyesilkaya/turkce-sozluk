@@ -2,6 +2,7 @@
 layout: term
 title: çerçevelenmek
 slug: cercevelenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçeve içine alınmak

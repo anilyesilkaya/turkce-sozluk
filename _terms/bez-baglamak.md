@@ -2,6 +2,7 @@
 layout: term
 title: bez bağlamak
 slug: bez-baglamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bebeklere veya bilinç kaybına uğramış hastalara altlarını kirletmesinler diye bez koymak

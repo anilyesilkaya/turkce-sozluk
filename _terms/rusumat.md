@@ -2,6 +2,7 @@
 layout: term
 title: rüsumat
 slug: rusumat
+letter: R
 lisan: Arapça rusūmāt
 anlamlar:
 - Bazı mallardan devletçe alınan vergiler

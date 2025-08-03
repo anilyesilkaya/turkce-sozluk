@@ -2,6 +2,7 @@
 layout: term
 title: hüsnüyusuf
 slug: husnuyusuf
+letter: H
 lisan: Arapça ḥusn + yūsuf
 anlamlar:
 - Karanfilgillerden, bazı türleri bahçelere süs olarak dikilen bir bitki; gugu çiçeği (Dianthus barbatus)

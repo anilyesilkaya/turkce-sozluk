@@ -2,6 +2,7 @@
 layout: term
 title: yalnız başına
 slug: yalniz-basina
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tek başına

@@ -2,6 +2,7 @@
 layout: term
 title: 'süper Ay '
 slug: super-ay
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ay’ın Dünya’ya en yakın olduğu dönemde gerçekleşen dolunay

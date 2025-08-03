@@ -2,6 +2,7 @@
 layout: term
 title: garibine gitmek
 slug: garibine-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - yadırgamak, şaşırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kara sevdalı
 slug: kara-sevdali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kara sevdaya tutulmuş; melankolik

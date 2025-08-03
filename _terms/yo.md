@@ -2,6 +2,7 @@
 layout: term
 title: yo
 slug: yo
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"Hayır" anlamında kullanılan bir söz'

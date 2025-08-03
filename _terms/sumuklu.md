@@ -2,6 +2,7 @@
 layout: term
 title: sümüklü
 slug: sumuklu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sümüğü olan

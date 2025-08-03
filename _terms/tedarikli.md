@@ -2,6 +2,7 @@
 layout: term
 title: tedarikli
 slug: tedarikli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► hazırlıklı

@@ -2,6 +2,7 @@
 layout: term
 title: felç gelmek
 slug: felc-gelmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - inme inmek

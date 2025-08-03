@@ -2,6 +2,7 @@
 layout: term
 title: beslenme saati
 slug: beslenme-saati
+letter: B
 lisan: Türkçe
 anlamlar:
 - Anaokulu, ilköğretim okulu vb. eğitim kurumlarında yemek yeme zamanı

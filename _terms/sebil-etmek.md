@@ -2,6 +2,7 @@
 layout: term
 title: sebil etmek
 slug: sebil-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bol bol vermek, dağıtmak

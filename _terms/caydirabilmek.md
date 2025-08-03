@@ -2,6 +2,7 @@
 layout: term
 title: caydırabilmek
 slug: caydirabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caydırma ihtimali veya imkânı bulunmak

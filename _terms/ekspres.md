@@ -2,6 +2,7 @@
 layout: term
 title: ekspres
 slug: ekspres
+letter: E
 lisan: Fransızca exprès
 anlamlar:
 - ► özel ulak

@@ -2,6 +2,7 @@
 layout: term
 title: bölüşüm
 slug: bolusum
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► paylaşım

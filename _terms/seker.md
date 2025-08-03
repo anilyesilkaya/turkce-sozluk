@@ -2,6 +2,7 @@
 layout: term
 title: şeker
 slug: seker
+letter: Ş
 lisan: Farsça şeker
 anlamlar:
 - Şeker kamışı, şeker pancarı, patates, havuç, mısır, buğday vb. bitkilerin sap ve köklerinin öz suyundan veya nişastasından çıkarılan, birleşiminde karbon, oksijen ve hidrojen bulunan, beyaz, suda eriyen, mayalanabilen ve çoğu tatlı olan maddelerin genel adı

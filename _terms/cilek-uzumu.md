@@ -2,6 +2,7 @@
 layout: term
 title: çilek üzümü
 slug: cilek-uzumu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekirdekiz, iri, kırmızımsı renkli, çilek kokusunu andıran aroması bulunan bir tür melez üzüm

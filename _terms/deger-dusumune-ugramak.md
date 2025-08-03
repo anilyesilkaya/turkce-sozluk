@@ -2,6 +2,7 @@
 layout: term
 title: değer düşümüne uğramak
 slug: deger-dusumune-ugramak
+letter: D
 lisan: Türkçe
 anlamlar:
 - değersizleşmek

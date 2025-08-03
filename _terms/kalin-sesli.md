@@ -2,6 +2,7 @@
 layout: term
 title: kalın sesli
 slug: kalin-sesli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sesi kalın olan

@@ -2,6 +2,7 @@
 layout: term
 title: laik
 slug: laik
+letter: L
 lisan: Fransızca laïque
 anlamlar:
 - Din işlerini devlet işlerine karıştırmayan, devlet işlerini dinden ayrı tutan

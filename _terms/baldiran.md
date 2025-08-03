@@ -2,6 +2,7 @@
 layout: term
 title: baldıran
 slug: baldiran
+letter: B
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden, nemli yerlerde yetişen zehirli bitkilerin ortak adı; ağı otu, baldırgan (Conium maculatum)

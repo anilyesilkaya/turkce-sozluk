@@ -2,6 +2,7 @@
 layout: term
 title: pitsikato
 slug: pitsikato
+letter: P
 lisan: İtalyanca pizzicato
 anlamlar:
 - Yaylı sazlarda tellerin parmak çekişleriyle seslendirilmesi

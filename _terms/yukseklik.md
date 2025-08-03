@@ -2,6 +2,7 @@
 layout: term
 title: yükseklik
 slug: yukseklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüksek olma durumu; irtifa

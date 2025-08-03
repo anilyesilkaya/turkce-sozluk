@@ -2,6 +2,7 @@
 layout: term
 title: sahip olmak
 slug: sahip-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - mülkiyetinde olmak, elinde bulundurmak

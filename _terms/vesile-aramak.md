@@ -2,6 +2,7 @@
 layout: term
 title: vesile aramak
 slug: vesile-aramak
+letter: V
 lisan: Türkçe
 anlamlar:
 - bir fırsatını kollamak

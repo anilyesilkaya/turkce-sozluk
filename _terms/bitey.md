@@ -2,6 +2,7 @@
 layout: term
 title: bitey
 slug: bitey
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► flora

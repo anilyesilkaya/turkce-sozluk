@@ -2,6 +2,7 @@
 layout: term
 title: psikososyal destek
 slug: psikososyal-destek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kriz durumlarında iç dünya ile çevresel etkiler arasındaki psikososyal ilişkiyi, kişinin uyumunu ve krizle başa çıkmasını kolaylaştıracak yardım

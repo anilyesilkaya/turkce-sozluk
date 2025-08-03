@@ -2,6 +2,7 @@
 layout: term
 title: merakta olmak
 slug: merakta-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - merak içinde bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: çıkmazda olmak
 slug: cikmazda-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çözüm bulamamak, çözümsüz durumda olmak

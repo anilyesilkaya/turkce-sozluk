@@ -2,6 +2,7 @@
 layout: term
 title: yücelenmek
 slug: yucelenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yücelmek

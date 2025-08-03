@@ -2,6 +2,7 @@
 layout: term
 title: dâhil olmak
 slug: dahil-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - katılmak, girmek veya içinde olmak

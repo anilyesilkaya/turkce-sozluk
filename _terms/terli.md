@@ -2,6 +2,7 @@
 layout: term
 title: terli
 slug: terli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terlemiş olan

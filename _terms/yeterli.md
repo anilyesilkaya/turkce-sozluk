@@ -2,6 +2,7 @@
 layout: term
 title: yeterli
 slug: yeterli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işi yapma gücünü sağlayan özel bilgisi olan; kifayetli, ehliyetli

@@ -2,6 +2,7 @@
 layout: term
 title: horozibiği
 slug: horozibigi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horozibiğigillerden, kırmızı çiçekleri horoz ibiğini andıran bir süs bitkisi (Amaranthus)

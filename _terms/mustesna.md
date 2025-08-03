@@ -2,6 +2,7 @@
 layout: term
 title: müstesna
 slug: mustesna
+letter: M
 lisan: Arapça mustes̱nā
 anlamlar:
 - Bir bütünün veya kuralın dışında olan

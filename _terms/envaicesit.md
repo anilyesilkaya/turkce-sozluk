@@ -2,6 +2,7 @@
 layout: term
 title: envaiçeşit
 slug: envaicesit
+letter: E
 lisan: Arapça envāʿ + Farsça çeşīden
 anlamlar:
 - ► envaitürlü

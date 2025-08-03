@@ -2,6 +2,7 @@
 layout: term
 title: manevi zarar
 slug: manevi-zarar
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kişilik hakları bakımından uğranılan kayıp

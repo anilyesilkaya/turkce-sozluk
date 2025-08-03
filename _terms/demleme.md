@@ -2,6 +2,7 @@
 layout: term
 title: demleme
 slug: demleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demlemek işi; demlendirme

@@ -2,6 +2,7 @@
 layout: term
 title: Garpçı
 slug: garpci
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► Batıcı

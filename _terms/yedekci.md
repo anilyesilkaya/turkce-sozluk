@@ -2,6 +2,7 @@
 layout: term
 title: yedekçi
 slug: yedekci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir hayvanı yedeğe alan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: pandantif
 slug: pandantif
+letter: P
 lisan: Fransızca pendentif
 anlamlar:
 - İnce bir zincirle boyna takılan değerli takı

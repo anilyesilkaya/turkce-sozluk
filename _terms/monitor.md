@@ -2,6 +2,7 @@
 layout: term
 title: monitör
 slug: monitor
+letter: M
 lisan: Fransızca moniteur
 anlamlar:
 - ► göstergeç

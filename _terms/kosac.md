@@ -2,6 +2,7 @@
 layout: term
 title: koşaç
 slug: kosac
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bildirme eki

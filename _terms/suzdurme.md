@@ -2,6 +2,7 @@
 layout: term
 title: süzdürme
 slug: suzdurme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzdürmek işi

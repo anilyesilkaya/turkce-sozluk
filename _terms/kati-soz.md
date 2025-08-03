@@ -2,6 +2,7 @@
 layout: term
 title: katı söz
 slug: kati-soz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sert ve kırıcı söz

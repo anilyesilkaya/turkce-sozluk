@@ -2,6 +2,7 @@
 layout: term
 title: bir ayak evvel
 slug: bir-ayak-evvel
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir an önce

@@ -2,6 +2,7 @@
 layout: term
 title: törpü
 slug: torpu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ağaç, kurşun, kalay vb. yumuşak metallerin kabasını almaya yarayan, dişleri uzun ve aralıklı olan eğe

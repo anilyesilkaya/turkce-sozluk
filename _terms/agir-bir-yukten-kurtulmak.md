@@ -2,6 +2,7 @@
 layout: term
 title: ağır bir yükten kurtulmak
 slug: agir-bir-yukten-kurtulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sorumluluğu zor olan bir durumu atlatarak rahatlamak, hafiflemek

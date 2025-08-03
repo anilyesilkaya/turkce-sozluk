@@ -2,6 +2,7 @@
 layout: term
 title: sekiz
 slug: sekiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yediden sonra gelen sayının adı

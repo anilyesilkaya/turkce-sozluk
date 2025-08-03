@@ -2,6 +2,7 @@
 layout: term
 title: mal etmek
 slug: mal-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir değer karşılığında sahip olmak

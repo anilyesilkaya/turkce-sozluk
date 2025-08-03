@@ -2,6 +2,7 @@
 layout: term
 title: altın adam
 slug: altin-adam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başarılı kimse

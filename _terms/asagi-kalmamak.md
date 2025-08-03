@@ -2,6 +2,7 @@
 layout: term
 title: aşağı kalmamak
 slug: asagi-kalmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - herhangi bir nitelik bakımından geri olmamak

@@ -2,6 +2,7 @@
 layout: term
 title: nazariyeci
 slug: nazariyeci
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► kuramcı

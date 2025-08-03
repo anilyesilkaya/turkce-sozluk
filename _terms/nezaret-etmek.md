@@ -2,6 +2,7 @@
 layout: term
 title: nezaret etmek
 slug: nezaret-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - denetlemek, bakmak

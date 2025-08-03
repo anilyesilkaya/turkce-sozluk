@@ -2,6 +2,7 @@
 layout: term
 title: lekeli
 slug: lekeli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sebeple üzerinde leke oluşmuş, lekesi olan

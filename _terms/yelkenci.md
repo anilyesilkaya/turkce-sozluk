@@ -2,6 +2,7 @@
 layout: term
 title: yelkenci
 slug: yelkenci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yelken diken kimse

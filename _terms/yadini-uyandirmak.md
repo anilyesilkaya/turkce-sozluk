@@ -2,6 +2,7 @@
 layout: term
 title: yâdını uyandırmak
 slug: yadini-uyandirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birini hatırlatmak

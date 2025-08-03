@@ -2,6 +2,7 @@
 layout: term
 title: ifadelendirme
 slug: ifadelendirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İfadelendirmek işi

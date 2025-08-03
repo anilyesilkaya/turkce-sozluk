@@ -2,6 +2,7 @@
 layout: term
 title: güvez
 slug: guvez
+letter: G
 lisan: Türkçe
 anlamlar:
 - Mora çalan kırmızı renk; güvezî

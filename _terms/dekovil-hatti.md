@@ -2,6 +2,7 @@
 layout: term
 title: dekovil hattı
 slug: dekovil-hatti
+letter: D
 lisan: Türkçe
 anlamlar:
 - İki ray arası 60 cm veya daha kısa olan küçük demir yolu hattı

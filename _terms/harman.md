@@ -2,6 +2,7 @@
 layout: term
 title: harman
 slug: harman
+letter: H
 lisan: Farsça ḫirmen
 anlamlar:
 - Biçildikten sonra tahıl demetlerinin üzerinden düven geçirilerek tanelerin başaklarından ayrılması işi

@@ -2,6 +2,7 @@
 layout: term
 title: çoklaştırmak
 slug: coklastirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çoğaltmak

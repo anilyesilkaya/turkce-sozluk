@@ -2,6 +2,7 @@
 layout: term
 title: amonyaklamak
 slug: amonyaklamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bazı yemleri amonyak veya bir amonyum bileşiği ile karıştırmak, doyurmak

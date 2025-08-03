@@ -2,6 +2,7 @@
 layout: term
 title: alazlama
 slug: alazlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alazlamak işi

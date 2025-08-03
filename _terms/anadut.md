@@ -2,6 +2,7 @@
 layout: term
 title: anadut
 slug: anadut
+letter: A
 lisan: Rumca
 anlamlar:
 - Ekin ve ot demetlerini arabaya yüklemeye veya harmanı aktarmaya yarayan uzun saplı, üç dişli, ahşap araç

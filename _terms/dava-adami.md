@@ -2,6 +2,7 @@
 layout: term
 title: dava adamı
 slug: dava-adami
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir ülkü uğrunda sürekli çalışan kimse

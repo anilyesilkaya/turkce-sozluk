@@ -2,6 +2,7 @@
 layout: term
 title: başlı
 slug: basli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başı olan

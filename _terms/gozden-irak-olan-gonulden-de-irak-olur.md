@@ -2,6 +2,7 @@
 layout: term
 title: gözden ırak olan gönülden de ırak olur
 slug: gozden-irak-olan-gonulden-de-irak-olur
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"ayrı düşenlerin arasındaki sevgi de zamanla azalır" anlamında kullanılan bir söz'

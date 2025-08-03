@@ -2,6 +2,7 @@
 layout: term
 title: totemci
 slug: totemci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Totemcilik yanlısı; onguncu

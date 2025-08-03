@@ -2,6 +2,7 @@
 layout: term
 title: kaçıncı
 slug: kacinci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaç soru sıfatının sıra biçimi

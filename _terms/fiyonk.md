@@ -2,6 +2,7 @@
 layout: term
 title: fiyonk
 slug: fiyonk
+letter: F
 lisan: Rumca
 anlamlar:
 - Kurdele, şerit, kumaş vb.nin kelebek şeklinde bağlanmış biçimi; fiyongo

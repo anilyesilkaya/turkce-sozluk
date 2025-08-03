@@ -2,6 +2,7 @@
 layout: term
 title: isim
 slug: isim
+letter: I
 lisan: Arapça ism
 anlamlar:
 - ► ad (I)

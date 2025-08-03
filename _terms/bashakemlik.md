@@ -2,6 +2,7 @@
 layout: term
 title: başhakemlik
 slug: bashakemlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başhakem olma durumu; başyargıcılık

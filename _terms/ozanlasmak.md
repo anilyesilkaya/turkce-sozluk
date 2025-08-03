@@ -2,6 +2,7 @@
 layout: term
 title: ozanlaşmak
 slug: ozanlasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► şairleşmek

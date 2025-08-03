@@ -2,6 +2,7 @@
 layout: term
 title: enik
 slug: enik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kedi, köpek vb. çok memeli hayvanların yavrusu

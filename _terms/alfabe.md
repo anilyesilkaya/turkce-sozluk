@@ -2,6 +2,7 @@
 layout: term
 title: alfabe
 slug: alfabe
+letter: A
 lisan: Fransızca alphabet
 anlamlar:
 - Bir dilin seslerini gösteren, belirli bir sıraya göre dizilmiş belli sayıda harfin bütünü; abece, yazı (I)

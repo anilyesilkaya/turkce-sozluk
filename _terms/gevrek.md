@@ -2,6 +2,7 @@
 layout: term
 title: gevrek
 slug: gevrek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kolayca kırılıp ufalanan

@@ -2,6 +2,7 @@
 layout: term
 title: harekete geçirmek (veya getirmek)
 slug: harekete-gecirmek-veya-getirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir işin yapılmasına sebep olmak, kımıldatmak, canlandırmak

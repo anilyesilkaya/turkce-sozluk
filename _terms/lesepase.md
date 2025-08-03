@@ -2,6 +2,7 @@
 layout: term
 title: lesepase
 slug: lesepase
+letter: L
 lisan: Fransızca laissez-passer
 anlamlar:
 - Bir sınırdan geçebilmek için verilen yazılı izin

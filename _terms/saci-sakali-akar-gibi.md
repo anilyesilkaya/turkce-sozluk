@@ -2,6 +2,7 @@
 layout: term
 title: saçı sakalı akar gibi
 slug: saci-sakali-akar-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - üstü başı perişan bir durumda

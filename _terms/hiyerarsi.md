@@ -2,6 +2,7 @@
 layout: term
 title: hiyerarşi
 slug: hiyerarsi
+letter: H
 lisan: Fransızca hiérarchie
 anlamlar:
 - ► aşama sırası

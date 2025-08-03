@@ -2,6 +2,7 @@
 layout: term
 title: istikamet
 slug: istikamet
+letter: I
 lisan: Arapça istiḳāmet
 anlamlar:
 - ► yön

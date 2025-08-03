@@ -2,6 +2,7 @@
 layout: term
 title: alçılamak
 slug: alcilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçı ile sıvamak

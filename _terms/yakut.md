@@ -2,6 +2,7 @@
 layout: term
 title: yakut
 slug: yakut
+letter: Y
 lisan: Arapça yāḳūt
 anlamlar:
 - Pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş

@@ -2,6 +2,7 @@
 layout: term
 title: alkolik
 slug: alkolik
+letter: A
 lisan: Fransızca alcoolique
 anlamlar:
 - Alkollü içkilere hastalık derecesinde düşkün olan (kimse)

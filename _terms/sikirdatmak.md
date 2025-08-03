@@ -2,6 +2,7 @@
 layout: term
 title: şıkırdatmak
 slug: sikirdatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıkırtılı ses çıkartmak

@@ -2,6 +2,7 @@
 layout: term
 title: nifak
 slug: nifak
+letter: N
 lisan: Arapça nifāḳ
 anlamlar:
 - Geçimsizlik, anlaşmazlık, ara bozuculuk

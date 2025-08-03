@@ -2,6 +2,7 @@
 layout: term
 title: başıboş
 slug: basibos
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeye veya kimseye bağlı olmayan

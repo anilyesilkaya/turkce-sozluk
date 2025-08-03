@@ -2,6 +2,7 @@
 layout: term
 title: kışlık
 slug: kislik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışa özgü, kış için

@@ -2,6 +2,7 @@
 layout: term
 title: gördek
 slug: gordek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► acı balık

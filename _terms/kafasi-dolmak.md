@@ -2,6 +2,7 @@
 layout: term
 title: kafası dolmak
 slug: kafasi-dolmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - zihninde çeşitli konular birikmek

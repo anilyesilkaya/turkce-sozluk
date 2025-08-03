@@ -2,6 +2,7 @@
 layout: term
 title: etkileyici
 slug: etkileyici
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkileyebilecek özellikte olan; vurucu, karizmatik

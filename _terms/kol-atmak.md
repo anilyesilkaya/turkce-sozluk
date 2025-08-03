@@ -2,6 +2,7 @@
 layout: term
 title: kol atmak
 slug: kol-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bitkinin gövdesinden ayrılan bir dal bir yöne uzanmak

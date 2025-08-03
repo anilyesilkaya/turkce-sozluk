@@ -2,6 +2,7 @@
 layout: term
 title: armut piş ağzıma düş!
 slug: armut-pis-agzima-dus
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işe emek harcamaksızın onun kendiliğinden olmasını bekleyenlerin durumunu anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: tırtıllanma
 slug: tirtillanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırtıllanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: sözünü bağlamak
 slug: sozunu-baglamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuşmasını bitirmek için son sözlerini söylemek

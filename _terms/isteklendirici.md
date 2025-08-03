@@ -2,6 +2,7 @@
 layout: term
 title: isteklendirici
 slug: isteklendirici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstek uyandıran; teşvikçi, teşvikkâr

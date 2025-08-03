@@ -2,6 +2,7 @@
 layout: term
 title: devede kulak
 slug: devede-kulak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir bütüne göre ufak bir parça

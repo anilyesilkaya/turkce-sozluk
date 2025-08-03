@@ -2,6 +2,7 @@
 layout: term
 title: çekimlemek
 slug: cekimlemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir cisim genel çekim yasasına göre başka bir cismi çekmek

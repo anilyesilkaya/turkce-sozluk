@@ -2,6 +2,7 @@
 layout: term
 title: sağır pusula
 slug: sagir-pusula
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ağır hareket eden pusula

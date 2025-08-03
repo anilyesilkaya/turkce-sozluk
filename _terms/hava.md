@@ -2,6 +2,7 @@
 layout: term
 title: hava
 slug: hava
+letter: H
 lisan: Arapça hevā
 anlamlar:
 - Hava yuvarını oluşturan, bütün canlıların solunumuna yarayan, renksiz, kokusuz, akışkan gaz karışımı

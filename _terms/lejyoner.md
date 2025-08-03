@@ -2,6 +2,7 @@
 layout: term
 title: lejyoner
 slug: lejyoner
+letter: L
 lisan: Fransızca légionnaire
 anlamlar:
 - Lejyon askeri

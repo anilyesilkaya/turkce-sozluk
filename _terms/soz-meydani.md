@@ -2,6 +2,7 @@
 layout: term
 title: söz meydanı
 slug: soz-meydani
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serbestçe konuşulacak yer

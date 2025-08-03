@@ -2,6 +2,7 @@
 layout: term
 title: küplü
 slug: kuplu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küpü olan

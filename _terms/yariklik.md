@@ -2,6 +2,7 @@
 layout: term
 title: yarıklık
 slug: yariklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarık olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: boynu büküklük
 slug: boynu-bukukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boynu bükük olma durumu

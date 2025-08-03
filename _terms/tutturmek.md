@@ -2,6 +2,7 @@
 layout: term
 title: tüttürmek
 slug: tutturmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütmesini, duman çıkarmasını sağlamak, duman çıkarmak

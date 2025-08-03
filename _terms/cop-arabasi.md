@@ -2,6 +2,7 @@
 layout: term
 title: çöp arabası
 slug: cop-arabasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Süprüntülerin, atıkların taşındığı araba

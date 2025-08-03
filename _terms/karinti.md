@@ -2,6 +2,7 @@
 layout: term
 title: karıntı
 slug: karinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Anaforlarda oluşan çevrinti

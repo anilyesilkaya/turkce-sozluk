@@ -2,6 +2,7 @@
 layout: term
 title: çoğu gitti, azı kaldı
 slug: cogu-gitti-azi-kaldi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"yapılmakta olan işin en önemli, en güç bölümü bitti, az ve önemsiz bölümü kaldı" anlamında kullanılan bir söz'

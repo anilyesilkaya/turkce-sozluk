@@ -2,6 +2,7 @@
 layout: term
 title: burkmak
 slug: burkmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyi burar gibi ekseni etrafında döndürmek, döndürerek çevirmek

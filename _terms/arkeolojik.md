@@ -2,6 +2,7 @@
 layout: term
 title: arkeolojik
 slug: arkeolojik
+letter: A
 lisan: Fransızca archéologique
 anlamlar:
 - ► kazı bilimsel

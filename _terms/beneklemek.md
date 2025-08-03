@@ -2,6 +2,7 @@
 layout: term
 title: beneklemek
 slug: beneklemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyin üzerine benekler yapmak

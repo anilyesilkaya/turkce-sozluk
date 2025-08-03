@@ -2,6 +2,7 @@
 layout: term
 title: parti vermek
 slug: parti-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir şeyi kutlamak veya eğlenmek için birçok kimseyi bir araya toplamak

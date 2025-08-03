@@ -2,6 +2,7 @@
 layout: term
 title: saplanıp kalmak
 slug: saplanip-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - takılıp kalmak

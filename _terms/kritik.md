@@ -2,6 +2,7 @@
 layout: term
 title: kritik
 slug: kritik
+letter: K
 lisan: Fransızca critique
 anlamlar:
 - ► eleştiri

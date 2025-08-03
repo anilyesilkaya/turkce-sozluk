@@ -2,6 +2,7 @@
 layout: term
 title: nefesli
 slug: nefesli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Soluk alıp vermeden uzunca bir zaman durabilen

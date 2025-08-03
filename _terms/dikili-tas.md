@@ -2,6 +2,7 @@
 layout: term
 title: dikili taş
 slug: dikili-tas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Önemli bir olayın durumu veya bir zaferin anısı için dikilmiş tek parça yüksek taş; obelisk

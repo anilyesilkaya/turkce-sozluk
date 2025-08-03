@@ -2,6 +2,7 @@
 layout: term
 title: bilgelik
 slug: bilgelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilge olma durumu ve niteliği

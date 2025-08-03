@@ -2,6 +2,7 @@
 layout: term
 title: acı haber
 slug: aci-haber
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle felaket veya ölüm bildiren söz veya haber

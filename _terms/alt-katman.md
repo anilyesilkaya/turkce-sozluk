@@ -2,6 +2,7 @@
 layout: term
 title: alt katman
 slug: alt-katman
+letter: A
 lisan: Türkçe
 anlamlar:
 - Toplum içinde yer alan ve daha düşük değerlere sahip olan sınıf

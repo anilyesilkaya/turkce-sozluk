@@ -2,6 +2,7 @@
 layout: term
 title: horoz
 slug: horoz
+letter: H
 lisan: Farsça ḫorūs
 anlamlar:
 - Tavukgillerden, tavuğun erkeği olan kümes hayvanı

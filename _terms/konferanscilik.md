@@ -2,6 +2,7 @@
 layout: term
 title: konferansçılık
 slug: konferanscilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► konuşmacılık

@@ -2,6 +2,7 @@
 layout: term
 title: zihinsiz
 slug: zihinsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Akıl ve düşünce bakımından yetersiz olan (kimse)

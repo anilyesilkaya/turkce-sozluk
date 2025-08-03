@@ -2,6 +2,7 @@
 layout: term
 title: realistlik
 slug: realistlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► gerçekçilik

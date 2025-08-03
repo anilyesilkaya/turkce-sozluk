@@ -2,6 +2,7 @@
 layout: term
 title: çimdik çimdik
 slug: cimdik-cimdik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Küçük parçacıklar hâlinde

@@ -2,6 +2,7 @@
 layout: term
 title: namaza durmak
 slug: namaza-durmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - namaza başlamak

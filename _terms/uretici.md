@@ -2,6 +2,7 @@
 layout: term
 title: üretici
 slug: uretici
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üretimle uğraşan kimse; yetiştirici, müstahsil, prodüktör, tüketici karşıtı

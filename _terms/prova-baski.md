@@ -2,6 +2,7 @@
 layout: term
 title: prova baskı
 slug: prova-baski
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir yazının veya kitabın kontrolü için yapılan ilk baskı

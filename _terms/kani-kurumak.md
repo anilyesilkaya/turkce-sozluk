@@ -2,6 +2,7 @@
 layout: term
 title: kanı kurumak
 slug: kani-kurumak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok usanmak, çok bıkmak

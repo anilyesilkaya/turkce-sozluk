@@ -2,6 +2,7 @@
 layout: term
 title: kızışmak
 slug: kizismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yüksek bir dereceyi bulmak, çok ısınmak

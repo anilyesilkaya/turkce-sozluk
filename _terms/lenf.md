@@ -2,6 +2,7 @@
 layout: term
 title: lenf
 slug: lenf
+letter: L
 lisan: Fransızca lymphe
 anlamlar:
 - Damarlarda dolaşan kanla, doku ögeleri arasında aracı görevi yapan, kan plazması ve lenfositten oluşan saydam, sarı renkte bir sıvı; ak kan, lenfa

@@ -2,6 +2,7 @@
 layout: term
 title: silkinip sıyrılmak
 slug: silkinip-siyrilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendine gelip kurtulmak

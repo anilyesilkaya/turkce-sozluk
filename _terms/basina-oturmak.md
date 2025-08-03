@@ -2,6 +2,7 @@
 layout: term
 title: başına oturmak
 slug: basina-oturmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi yapmaya başlamak, işe koyulmak

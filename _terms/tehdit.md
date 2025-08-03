@@ -2,6 +2,7 @@
 layout: term
 title: tehdit
 slug: tehdit
+letter: T
 lisan: Arapça tehdīd
 anlamlar:
 - Bir kimseyi, gelecek herhangi bir tehlike ile korkutma

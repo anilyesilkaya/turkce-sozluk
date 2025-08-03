@@ -2,6 +2,7 @@
 layout: term
 title: konduruvermek
 slug: konduruvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak kondurmak

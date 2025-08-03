@@ -2,6 +2,7 @@
 layout: term
 title: seyyanen zam
 slug: seyyanen-zam
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herkesin maaşına eşit miktarda yapılan zam

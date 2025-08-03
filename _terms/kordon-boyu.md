@@ -2,6 +2,7 @@
 layout: term
 title: kordon boyu
 slug: kordon-boyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Denize kıyısı olan şehirlerde kıyı boyunca uzanan imarlı yol

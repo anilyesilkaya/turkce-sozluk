@@ -2,6 +2,7 @@
 layout: term
 title: rükün
 slug: rukun
+letter: R
 lisan: Arapça rukn
 anlamlar:
 - Bir şeyin en güçlü ve sağlam yönü

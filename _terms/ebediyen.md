@@ -2,6 +2,7 @@
 layout: term
 title: ebediyen
 slug: ebediyen
+letter: E
 lisan: Arapça ebediyyen
 anlamlar:
 - Sonsuz olarak, sonsuzluğa kadar

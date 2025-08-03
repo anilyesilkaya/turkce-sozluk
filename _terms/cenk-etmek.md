@@ -2,6 +2,7 @@
 layout: term
 title: cenk etmek
 slug: cenk-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - savaşmak, mücadele etmek

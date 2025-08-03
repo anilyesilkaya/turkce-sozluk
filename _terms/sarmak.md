@@ -2,6 +2,7 @@
 layout: term
 title: sarmak
 slug: sarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çevresini çevirmek, çepeçevre dolanmak

@@ -2,6 +2,7 @@
 layout: term
 title: işi bozmak
 slug: isi-bozmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yapılan anlaşmayı, verilen sözü tutmamak

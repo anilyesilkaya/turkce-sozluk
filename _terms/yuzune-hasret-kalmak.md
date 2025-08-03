@@ -2,6 +2,7 @@
 layout: term
 title: yüzüne hasret kalmak
 slug: yuzune-hasret-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birinden veya bir şeyden yoksun kalmak, özlemek

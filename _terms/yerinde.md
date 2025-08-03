@@ -2,6 +2,7 @@
 layout: term
 title: yerinde
 slug: yerinde
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İyi, yeterli olan; münasip

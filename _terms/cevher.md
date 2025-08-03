@@ -2,6 +2,7 @@
 layout: term
 title: cevher
 slug: cevher
+letter: C
 lisan: Arapça cevher
 anlamlar:
 - Bir şeyin özü; gevher

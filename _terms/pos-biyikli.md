@@ -2,6 +2,7 @@
 layout: term
 title: pos bıyıklı
 slug: pos-biyikli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pos bıyığı olan

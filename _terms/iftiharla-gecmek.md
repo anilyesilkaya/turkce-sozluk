@@ -2,6 +2,7 @@
 layout: term
 title: iftiharla geçmek
 slug: iftiharla-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir sonraki sınıfa üstün başarısını gösteren belge alarak geçmek

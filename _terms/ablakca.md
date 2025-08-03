@@ -2,6 +2,7 @@
 layout: term
 title: ablakça
 slug: ablakca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ablak gibi, biraz ablak

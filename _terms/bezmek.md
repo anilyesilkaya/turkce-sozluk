@@ -2,6 +2,7 @@
 layout: term
 title: bezmek
 slug: bezmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezgin duruma gelmek

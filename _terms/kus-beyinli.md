@@ -2,6 +2,7 @@
 layout: term
 title: kuş beyinli
 slug: kus-beyinli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Akılsız, aptal

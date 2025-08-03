@@ -2,6 +2,7 @@
 layout: term
 title: fır
 slug: fir
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fırıl fırıl

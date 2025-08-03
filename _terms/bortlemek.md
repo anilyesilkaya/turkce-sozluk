@@ -2,6 +2,7 @@
 layout: term
 title: börtlemek
 slug: bortlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kabarmak

@@ -2,6 +2,7 @@
 layout: term
 title: akmantar
 slug: akmantar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tadı güzel ve besleyici bir tür mantar, keçi mantarı (Agaricus campestris)

@@ -2,6 +2,7 @@
 layout: term
 title: darlaştırılmak
 slug: darlastirilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar duruma getirilmek

@@ -2,6 +2,7 @@
 layout: term
 title: seksenlik
 slug: seksenlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seksen tanesi bir arada olan veya içinde aynı şeyden seksen tane bulunan

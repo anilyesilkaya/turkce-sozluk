@@ -2,6 +2,7 @@
 layout: term
 title: fasulye pilakisi
 slug: fasulye-pilakisi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kuru fasulyenin pişirilmesi ile yapılan pilaki

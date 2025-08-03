@@ -2,6 +2,7 @@
 layout: term
 title: ikmal etmek
 slug: ikmal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - eksik bir şeyi tamamlamak

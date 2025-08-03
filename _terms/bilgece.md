@@ -2,6 +2,7 @@
 layout: term
 title: bilgece
 slug: bilgece
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgeye yaraşır

@@ -2,6 +2,7 @@
 layout: term
 title: etrafını almak (veya sarmak)
 slug: etrafini-almak-veya-sarmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - çevresinde toplanmak, ortaya almak, kuşatmak

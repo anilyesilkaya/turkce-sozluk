@@ -2,6 +2,7 @@
 layout: term
 title: çivileyivermek
 slug: civileyivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak çivilemek; mıhlayıvermek

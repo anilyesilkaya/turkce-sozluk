@@ -2,6 +2,7 @@
 layout: term
 title: sağkol
 slug: sagkol
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birinin çok güvendiği kimse

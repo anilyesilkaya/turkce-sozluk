@@ -2,6 +2,7 @@
 layout: term
 title: Allah manda şifalığı versin
 slug: allah-manda-sifaligi-versin
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok veya ağır yemek yiyenler için söylenen bir söz

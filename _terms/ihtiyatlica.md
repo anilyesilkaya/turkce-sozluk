@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatlıca
 slug: ihtiyatlica
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyatlı bir biçimde

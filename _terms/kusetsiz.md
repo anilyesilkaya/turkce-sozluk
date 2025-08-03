@@ -2,6 +2,7 @@
 layout: term
 title: kuşetsiz
 slug: kusetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşeti olmayan

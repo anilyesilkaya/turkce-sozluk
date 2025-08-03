@@ -2,6 +2,7 @@
 layout: term
 title: yetişme
 slug: yetisme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişmek işi

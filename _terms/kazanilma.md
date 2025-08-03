@@ -2,6 +2,7 @@
 layout: term
 title: kazanılma
 slug: kazanilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazanılmak işi

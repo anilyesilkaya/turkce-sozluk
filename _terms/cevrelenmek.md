@@ -2,6 +2,7 @@
 layout: term
 title: çevrelenmek
 slug: cevrelenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevreleme işi yapılmak

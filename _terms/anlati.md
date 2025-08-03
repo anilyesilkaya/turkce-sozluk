@@ -2,6 +2,7 @@
 layout: term
 title: anlatı
 slug: anlati
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıntılarıyla anlatma

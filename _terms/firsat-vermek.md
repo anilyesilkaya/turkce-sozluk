@@ -2,6 +2,7 @@
 layout: term
 title: fırsat vermek
 slug: firsat-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - bir işi yapmak için uygun, elverişli şartı sağlamak

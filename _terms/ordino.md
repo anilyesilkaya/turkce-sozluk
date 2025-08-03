@@ -2,6 +2,7 @@
 layout: term
 title: ordino
 slug: ordino
+letter: O
 lisan: İtalyanca ordino
 anlamlar:
 - Bir poliçenin arkasına ciro edildiği kişiye ödenmesi için yazılan havale emri

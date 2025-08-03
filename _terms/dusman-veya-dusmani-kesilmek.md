@@ -2,6 +2,7 @@
 layout: term
 title: düşman (veya düşmanı) kesilmek
 slug: dusman-veya-dusmani-kesilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - düşman olmak, düşman gibi görmek

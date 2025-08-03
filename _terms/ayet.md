@@ -2,6 +2,7 @@
 layout: term
 title: ayet
 slug: ayet
+letter: A
 lisan: Arapça āyet
 anlamlar:
 - Kur’an’daki sureleri meydana getiren kelime veya cümlelerden her biri; ayetikerime

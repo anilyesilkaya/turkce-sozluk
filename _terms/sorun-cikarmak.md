@@ -2,6 +2,7 @@
 layout: term
 title: sorun çıkarmak
 slug: sorun-cikarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - üzüntü verecek veya içinden güç çıkılır bir durum yaratmak

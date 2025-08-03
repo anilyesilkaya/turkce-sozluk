@@ -2,6 +2,7 @@
 layout: term
 title: grafik bilgi
 slug: grafik-bilgi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir olayın içeriğini, bir konu hakkındaki bilgileri veya karmaşık verileri grafikle gösterme; infografik

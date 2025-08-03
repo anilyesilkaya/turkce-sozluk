@@ -2,6 +2,7 @@
 layout: term
 title: hiçe saymak (veya indirgemek)
 slug: hice-saymak-veya-indirgemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - önemsememek, önem vermemek

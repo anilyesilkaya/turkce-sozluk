@@ -2,6 +2,7 @@
 layout: term
 title: el
 slug: el
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► yabancı

@@ -2,6 +2,7 @@
 layout: term
 title: tak etmek
 slug: tak-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tak diye ses çıkarmak

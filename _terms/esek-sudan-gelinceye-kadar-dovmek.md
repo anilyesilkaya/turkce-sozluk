@@ -2,6 +2,7 @@
 layout: term
 title: eşek sudan gelinceye kadar dövmek
 slug: esek-sudan-gelinceye-kadar-dovmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - adamakıllı dövmek

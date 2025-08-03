@@ -2,6 +2,7 @@
 layout: term
 title: katılımcı demokrasi
 slug: katilimci-demokrasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toplumun kişileri ve kurumlarıyla geniş katılımının sağlandığı demokratik yapılanma

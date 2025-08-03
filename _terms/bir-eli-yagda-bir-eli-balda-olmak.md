@@ -2,6 +2,7 @@
 layout: term
 title: bir eli yağda bir eli balda (olmak)
 slug: bir-eli-yagda-bir-eli-balda-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - varlık ve bolluk içinde (olmak)

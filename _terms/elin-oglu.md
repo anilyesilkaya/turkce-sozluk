@@ -2,6 +2,7 @@
 layout: term
 title: elin oğlu
 slug: elin-oglu
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eloğlu

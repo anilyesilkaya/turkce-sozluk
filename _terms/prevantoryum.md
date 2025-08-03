@@ -2,6 +2,7 @@
 layout: term
 title: prevantoryum
 slug: prevantoryum
+letter: P
 lisan: Fransızca préventorium
 anlamlar:
 - Vücutlarına verem mikrobu girmesine rağmen henüz hastalığa yakalanmamış zayıf kimselerin, vereme yakalanmasını önlemek amacıyla bakıldıkları sağlık kurumu

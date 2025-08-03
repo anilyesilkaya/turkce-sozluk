@@ -2,6 +2,7 @@
 layout: term
 title: külliye
 slug: kulliye
+letter: K
 lisan: Arapça kulliyye
 anlamlar:
 - Bir caminin çevresinde cami ile birlikte kurulmuş medrese, imaret, sebil, kütüphane, hastane vb. yapıların bütünü

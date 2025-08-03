@@ -2,6 +2,7 @@
 layout: term
 title: kaçakçı
 slug: kacakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yasalara karşı gelerek bir yere mal sokan, bir yerden mal kaçıran veya bir yerde satan kimse

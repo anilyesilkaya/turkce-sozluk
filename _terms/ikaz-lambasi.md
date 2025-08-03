@@ -2,6 +2,7 @@
 layout: term
 title: ikaz lambası
 slug: ikaz-lambasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Taşıtlarda ısı, benzin, yağ vb.ndeki aksamalarla ilgili sürücüyü uyaran ışıklı gösterge

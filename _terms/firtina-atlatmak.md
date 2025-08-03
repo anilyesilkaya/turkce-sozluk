@@ -2,6 +2,7 @@
 layout: term
 title: fırtına atlatmak
 slug: firtina-atlatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - güç durumdan kurtulmak

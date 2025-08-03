@@ -2,6 +2,7 @@
 layout: term
 title: tutkun olmak
 slug: tutkun-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - âşık olmak, sevdalanmak

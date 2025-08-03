@@ -2,6 +2,7 @@
 layout: term
 title: rahatça
 slug: rahatca
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahat bir biçimde

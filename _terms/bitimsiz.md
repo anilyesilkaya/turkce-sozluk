@@ -2,6 +2,7 @@
 layout: term
 title: bitimsiz
 slug: bitimsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sonsuz

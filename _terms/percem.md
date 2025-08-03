@@ -2,6 +2,7 @@
 layout: term
 title: perçem
 slug: percem
+letter: P
 lisan: Farsça perçem
 anlamlar:
 - ► kâkül

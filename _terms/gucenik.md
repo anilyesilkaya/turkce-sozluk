@@ -2,6 +2,7 @@
 layout: term
 title: gücenik
 slug: gucenik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gücenmiş (kimse); muğber

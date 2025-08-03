@@ -2,6 +2,7 @@
 layout: term
 title: gitgide
 slug: gitgide
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gittikçe

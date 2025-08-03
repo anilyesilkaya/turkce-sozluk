@@ -2,6 +2,7 @@
 layout: term
 title: trafik
 slug: trafik
+letter: T
 lisan: Fransızca trafic
 anlamlar:
 - Ulaşım yollarının yayalar ve her türlü taşıt tarafından kullanılması; gidiş geliş, seyrüsefer

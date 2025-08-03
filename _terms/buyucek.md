@@ -2,6 +2,7 @@
 layout: term
 title: büyücek
 slug: buyucek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biraz büyük, büyüğe yakın

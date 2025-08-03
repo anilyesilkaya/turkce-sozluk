@@ -2,6 +2,7 @@
 layout: term
 title: betonlaşma
 slug: betonlasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Betonlaşmak durumu

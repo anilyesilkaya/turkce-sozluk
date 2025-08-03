@@ -2,6 +2,7 @@
 layout: term
 title: kabalist
 slug: kabalist
+letter: K
 lisan: Fransızca cabaliste
 anlamlar:
 - ► kabalacı (I)

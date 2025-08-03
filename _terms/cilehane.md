@@ -2,6 +2,7 @@
 layout: term
 title: çilehane
 slug: cilehane
+letter: Ç
 lisan: Farsça çille + ḫāne
 anlamlar:
 - Dervişlerin çile doldurdukları yer

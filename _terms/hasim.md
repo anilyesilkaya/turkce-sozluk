@@ -2,6 +2,7 @@
 layout: term
 title: hasım
 slug: hasim
+letter: H
 lisan: Arapça ḫaṣm
 anlamlar:
 - ► düşman

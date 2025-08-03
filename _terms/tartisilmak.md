@@ -2,6 +2,7 @@
 layout: term
 title: tartışılmak
 slug: tartisilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartışma işi yapılmak

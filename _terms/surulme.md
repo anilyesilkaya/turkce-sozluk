@@ -2,6 +2,7 @@
 layout: term
 title: sürülme
 slug: surulme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürülmek işi

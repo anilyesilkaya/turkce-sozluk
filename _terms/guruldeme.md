@@ -2,6 +2,7 @@
 layout: term
 title: gürüldeme
 slug: guruldeme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürüldemek işi

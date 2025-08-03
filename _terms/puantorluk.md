@@ -2,6 +2,7 @@
 layout: term
 title: puantörlük
 slug: puantorluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Puantörün görevi veya yaptığı iş

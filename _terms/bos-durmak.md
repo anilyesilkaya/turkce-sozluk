@@ -2,6 +2,7 @@
 layout: term
 title: boş durmak
 slug: bos-durmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - işsiz kalmak, çalışmamak

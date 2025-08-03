@@ -2,6 +2,7 @@
 layout: term
 title: tembihatta bulunmak
 slug: tembihatta-bulunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - uyarmak

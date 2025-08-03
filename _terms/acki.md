@@ -2,6 +2,7 @@
 layout: term
 title: açkı
 slug: acki
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir cismin yüzeyi üzerinde sert bir madde veya bir araç sürterek onu düzleştirip parlatma

@@ -2,6 +2,7 @@
 layout: term
 title: cezbeye tutulmak (veya kapılmak)
 slug: cezbeye-tutulmak-veya-kapilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir duygu veya bir inanışın etkisiyle aşırı ölçüde coşup kendinden geçmek

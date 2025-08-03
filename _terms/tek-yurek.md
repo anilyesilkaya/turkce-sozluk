@@ -2,6 +2,7 @@
 layout: term
 title: tek yürek
 slug: tek-yurek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hep birlikte

@@ -2,6 +2,7 @@
 layout: term
 title: rahatsızlanma
 slug: rahatsizlanma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahatsızlanmak işi

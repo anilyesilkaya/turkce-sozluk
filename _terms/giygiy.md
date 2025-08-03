@@ -2,6 +2,7 @@
 layout: term
 title: gıygıy
 slug: giygiy
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herhangi bir tür yaylı saz

@@ -2,6 +2,7 @@
 layout: term
 title: kurander
 slug: kurander
+letter: K
 lisan: Fransızca courant d'air
 anlamlar:
 - Hava akımı, cereyan

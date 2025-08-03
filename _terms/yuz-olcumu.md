@@ -2,6 +2,7 @@
 layout: term
 title: yüz ölçümü
 slug: yuz-olcumu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yerin veya bir şeyin yüzeyini ölçme; mesaha

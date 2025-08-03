@@ -2,6 +2,7 @@
 layout: term
 title: civeleklik
 slug: civeleklik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Civelek olma durumu

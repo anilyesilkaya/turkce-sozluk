@@ -2,6 +2,7 @@
 layout: term
 title: süzme
 slug: suzme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzmek işi

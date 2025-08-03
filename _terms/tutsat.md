@@ -2,6 +2,7 @@
 layout: term
 title: tutsat
 slug: tutsat
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tutulu satış

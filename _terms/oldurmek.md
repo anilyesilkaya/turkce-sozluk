@@ -2,6 +2,7 @@
 layout: term
 title: öldürmek
 slug: oldurmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir canlının hayatına son vermek; gebertmek, götürmek, nallamak, tepelemek

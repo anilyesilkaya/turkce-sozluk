@@ -2,6 +2,7 @@
 layout: term
 title: geliştirme
 slug: gelistirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geliştirmek işi

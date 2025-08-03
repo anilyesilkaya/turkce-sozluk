@@ -2,6 +2,7 @@
 layout: term
 title: kımıldanmak
 slug: kimildanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kımıldamak

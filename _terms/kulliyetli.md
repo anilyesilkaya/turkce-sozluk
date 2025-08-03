@@ -2,6 +2,7 @@
 layout: term
 title: külliyetli
 slug: kulliyetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► pek çok

@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyar olmak
 slug: ihtiyar-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yaşlanmak

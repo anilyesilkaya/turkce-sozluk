@@ -2,6 +2,7 @@
 layout: term
 title: düzelti
 slug: duzelti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzeltme işi; tashih

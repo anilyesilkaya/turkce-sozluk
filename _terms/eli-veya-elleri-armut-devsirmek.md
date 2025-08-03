@@ -2,6 +2,7 @@
 layout: term
 title: eli (veya elleri) armut devşirmek
 slug: eli-veya-elleri-armut-devsirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - birisini bir iş yaparken öbürü boş durmak

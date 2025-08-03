@@ -2,6 +2,7 @@
 layout: term
 title: turizm
 slug: turizm
+letter: T
 lisan: Fransızca tourisme
 anlamlar:
 - Dinlenme, eğlenme, görme, tanıma vb. amaçlarla yapılan gezi

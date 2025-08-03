@@ -2,6 +2,7 @@
 layout: term
 title: düzyazı
 slug: duzyazi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Şiir olmayan söz ve yazı; nesir, mensur, inşa

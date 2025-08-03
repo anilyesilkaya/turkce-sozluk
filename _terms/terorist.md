@@ -2,6 +2,7 @@
 layout: term
 title: terörist
 slug: terorist
+letter: T
 lisan: Fransızca terroriste
 anlamlar:
 - Bir siyasi davayı zorla kabul ettirmek için karşı tarafa korku salacak, cana veya mala kıyacak davranışlarda bulunan kimse; yıldırıcı, yıldırmacı, terörcü, tedhişçi

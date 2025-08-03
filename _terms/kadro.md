@@ -2,6 +2,7 @@
 layout: term
 title: kadro
 slug: kadro
+letter: K
 lisan: İtalyanca quadro
 anlamlar:
 - Bir kamu kuruluşunun, bir işletmenin, denetim veya yönlendirme işlerini gerçekleştirenler ve bunların taşıdığı ödev, yetki ve sorumlulukların hepsi

@@ -2,6 +2,7 @@
 layout: term
 title: malihülya
 slug: malihulya
+letter: M
 lisan: Arapça māliḫulyā
 anlamlar:
 - ► kara sevda

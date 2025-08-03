@@ -2,6 +2,7 @@
 layout: term
 title: cart curt etmek
 slug: cart-curt-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - göz korkutmak veya övünmek amacıyla abartılı konuşmak

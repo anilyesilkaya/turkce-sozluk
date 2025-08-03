@@ -2,6 +2,7 @@
 layout: term
 title: kirletmek
 slug: kirletmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirli duruma getirmek

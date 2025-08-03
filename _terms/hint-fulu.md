@@ -2,6 +2,7 @@
 layout: term
 title: Hint fulü
 slug: hint-fulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Beyaz renkli bir tür nilüfer; Mısır fulü (Nelubrium)

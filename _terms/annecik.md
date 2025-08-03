@@ -2,6 +2,7 @@
 layout: term
 title: annecik
 slug: annecik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anne sözünün sevgi ve samimiyetle söylenen biçimi

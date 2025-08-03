@@ -2,6 +2,7 @@
 layout: term
 title: muhaddis
 slug: muhaddis
+letter: M
 lisan: Arapça muḥaddis̱
 anlamlar:
 - Hadis bilimiyle uğraşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: oluşmak
 slug: olusmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Belli bir varlık kazanmak, ortaya çıkmak, meydana gelmek; teşekkül etmek

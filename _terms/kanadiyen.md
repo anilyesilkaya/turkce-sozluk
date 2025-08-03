@@ -2,6 +2,7 @@
 layout: term
 title: kanadiyen
 slug: kanadiyen
+letter: K
 lisan: Fransızca canadienne
 anlamlar:
 - Kanadalı tuzak avcılarının ceketlerine benzeyen içi kürklü veya pamuklu, şal yakalı, kemerli kruvaze ceket

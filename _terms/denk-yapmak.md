@@ -2,6 +2,7 @@
 layout: term
 title: denk yapmak
 slug: denk-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - denk durumuna getirmek

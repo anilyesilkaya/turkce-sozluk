@@ -2,6 +2,7 @@
 layout: term
 title: idmancı
 slug: idmanci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İdman yapan

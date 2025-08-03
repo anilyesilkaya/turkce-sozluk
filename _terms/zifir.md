@@ -2,6 +2,7 @@
 layout: term
 title: zifir
 slug: zifir
+letter: Z
 lisan: Arapça zefīr
 anlamlar:
 - Tütün dumanının bıraktığı yağlı ve siyah kir

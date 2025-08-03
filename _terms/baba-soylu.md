@@ -2,6 +2,7 @@
 layout: term
 title: baba soylu
 slug: baba-soylu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baba soyluluğa ilişkin olan, baba soyluluğa dayanan

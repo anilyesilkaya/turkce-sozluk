@@ -2,6 +2,7 @@
 layout: term
 title: susam
 slug: susam
+letter: S
 lisan: Arapça sīsām
 anlamlar:
 - Susamgillerden, sıcak bölgelerde yetişen küçük bir bitki (Sesamum indicum)

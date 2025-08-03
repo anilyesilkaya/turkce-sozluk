@@ -2,6 +2,7 @@
 layout: term
 title: ardını bırakmamak
 slug: ardini-birakmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - peşini bırakmamak

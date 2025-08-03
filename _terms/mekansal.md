@@ -2,6 +2,7 @@
 layout: term
 title: 'mekânsal '
 slug: mekansal
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mekâna ait

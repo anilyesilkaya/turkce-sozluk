@@ -2,6 +2,7 @@
 layout: term
 title: namus belası
 slug: namus-belasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Namusunu ve halk arasındaki saygınlığını korumak için katlanılan sıkıntı; ar belası

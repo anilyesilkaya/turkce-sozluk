@@ -2,6 +2,7 @@
 layout: term
 title: orospu
 slug: orospu
+letter: O
 lisan: Farsça rūspī
 anlamlar:
 - ► fahişe

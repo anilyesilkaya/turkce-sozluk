@@ -2,6 +2,7 @@
 layout: term
 title: misk
 slug: misk
+letter: M
 lisan: Arapça misk
 anlamlar:
 - Asya'nın yüksek dağlarında yaşayan bir tür erkek ceylanın karın derisi altındaki bir bezden çıkarılan güzel kokulu madde

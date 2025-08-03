@@ -2,6 +2,7 @@
 layout: term
 title: soysuzlaşma
 slug: soysuzlasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soysuzlaşmak işi; dejenereleşme, tefessüh, dejenerasyon

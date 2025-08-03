@@ -2,6 +2,7 @@
 layout: term
 title: ansiklopedici
 slug: ansiklopedici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Değişik alanlardaki bilgileri sistemli bir biçimde bir araya getiren veya toplayan kimse; ansiklopedist

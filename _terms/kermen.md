@@ -2,6 +2,7 @@
 layout: term
 title: kermen
 slug: kermen
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kale

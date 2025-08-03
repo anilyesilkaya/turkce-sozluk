@@ -2,6 +2,7 @@
 layout: term
 title: tekbir getirmek
 slug: tekbir-getirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Müslümanlıkta Tanrı'nın büyüklüğünü, yüceliğini anmak için söylenen ve "Allahuekber" sözü ile başlayan duayı okumak

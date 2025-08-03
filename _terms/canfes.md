@@ -2,6 +2,7 @@
 layout: term
 title: canfes
 slug: canfes
+letter: C
 lisan: Farsça cānfes
 anlamlar:
 - Üzerinde desen bulunmayan, ince dokunmuş, parlak, tok, ipekli kumaş

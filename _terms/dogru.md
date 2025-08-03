@@ -2,6 +2,7 @@
 layout: term
 title: doğru
 slug: dogru
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir ucundan öbür ucuna kadar yönü değişmeyen, eğri ve çarpık karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: jelatinlemek
 slug: jelatinlemek
+letter: J
 lisan: Türkçe
 anlamlar:
 - Bir yeri veya şeyi jelatin ile kaplamak

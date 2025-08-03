@@ -2,6 +2,7 @@
 layout: term
 title: kaşıklık
 slug: kasiklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçine kaşık, çatal, bıçak vb. konulan kap

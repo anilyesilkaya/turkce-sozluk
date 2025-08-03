@@ -2,6 +2,7 @@
 layout: term
 title: şırak şırak
 slug: sirak-sirak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"Şırak" sesi çıkararak'

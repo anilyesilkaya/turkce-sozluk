@@ -2,6 +2,7 @@
 layout: term
 title: tüyü bozuk
 slug: tuyu-bozuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sarışın veya saçı sakalı seyrek olan (kimse)

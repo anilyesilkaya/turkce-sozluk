@@ -2,6 +2,7 @@
 layout: term
 title: adalet kapısı
 slug: adalet-kapisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hak ve hukukun aranacağı yer

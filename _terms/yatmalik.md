@@ -2,6 +2,7 @@
 layout: term
 title: yatmalık
 slug: yatmalik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatılacak yer veya bölüm

@@ -2,6 +2,7 @@
 layout: term
 title: kerevit
 slug: kerevit
+letter: K
 lisan: Rumca
 anlamlar:
 - Kabuklular sınıfından, çamurlu tatlı sularda yaşayan bir eklem bacaklı; tatlısu ıstakozu, karavide (Potamobius fluviatilis)

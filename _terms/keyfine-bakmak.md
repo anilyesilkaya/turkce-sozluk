@@ -2,6 +2,7 @@
 layout: term
 title: keyfine bakmak
 slug: keyfine-bakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - dilediğince yaşamak, güzel vakit geçirmek

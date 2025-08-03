@@ -2,6 +2,7 @@
 layout: term
 title: kuyruk
 slug: kuyruk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hayvanların çoğunda, gövdenin sonunda bulunan, omurganın uzantısı olan uzun ve esnek organ

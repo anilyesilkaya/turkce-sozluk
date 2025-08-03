@@ -2,6 +2,7 @@
 layout: term
 title: didingen
 slug: didingen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok gayret eden

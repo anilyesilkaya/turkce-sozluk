@@ -2,6 +2,7 @@
 layout: term
 title: unutkanlık
 slug: unutkanlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutkan olma durumu

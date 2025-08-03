@@ -2,6 +2,7 @@
 layout: term
 title: ipotek altında tutmak
 slug: ipotek-altinda-tutmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - tutuda bırakmak

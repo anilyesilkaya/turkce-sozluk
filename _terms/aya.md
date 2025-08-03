@@ -2,6 +2,7 @@
 layout: term
 title: aya
 slug: aya
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► avuç içi

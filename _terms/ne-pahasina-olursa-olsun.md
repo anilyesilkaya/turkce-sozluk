@@ -2,6 +2,7 @@
 layout: term
 title: ne pahasına olursa olsun
 slug: ne-pahasina-olursa-olsun
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"ne büyük özveri isterse istesin" anlamında kullanılan bir söz'

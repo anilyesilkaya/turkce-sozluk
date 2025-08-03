@@ -2,6 +2,7 @@
 layout: term
 title: kımız
 slug: kimiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısrak sütünün mayalanmasıyla yapılan, az alkollü, ekşi bir Türk içkisi

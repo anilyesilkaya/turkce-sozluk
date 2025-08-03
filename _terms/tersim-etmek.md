@@ -2,6 +2,7 @@
 layout: term
 title: tersim etmek
 slug: tersim-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - resmetmek

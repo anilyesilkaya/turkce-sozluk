@@ -2,6 +2,7 @@
 layout: term
 title: mubassır
 slug: mubassir
+letter: M
 lisan: Arapça mubaṣṣir
 anlamlar:
 - Okullarda öğrencilerin durumu ile ilgilenen ve düzeni sağlamakla görevli kimse; sürveyan

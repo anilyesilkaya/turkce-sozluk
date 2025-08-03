@@ -2,6 +2,7 @@
 layout: term
 title: dilbasar
 slug: dilbasar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hekimlerin boğazı görebilmek için dili bastırdıkları araç; abeslang

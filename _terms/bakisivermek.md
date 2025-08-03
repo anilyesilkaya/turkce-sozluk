@@ -2,6 +2,7 @@
 layout: term
 title: bakışıvermek
 slug: bakisivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bakışmak

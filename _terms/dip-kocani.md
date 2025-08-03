@@ -2,6 +2,7 @@
 layout: term
 title: dip koçanı
 slug: dip-kocani
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hesap çıkarmaya, gerektiğinde koparılan parça ile karşılaştırma yapmaya yarayan ve yaprakları deftere bağlı olan bölüm

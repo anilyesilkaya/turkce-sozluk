@@ -2,6 +2,7 @@
 layout: term
 title: kasvetli
 slug: kasvetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İç sıkıntısı veren

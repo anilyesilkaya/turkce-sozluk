@@ -2,6 +2,7 @@
 layout: term
 title: beyin lobu
 slug: beyin-lobu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beynin her iki yarısında ikişer adet olmak üzere toplam dört adet bulunan ve bütün görsel, işitsel, anlama, kavrama ve yorumlama gibi motor ve bilişsel işlevlerinin gerçekleştiği organ

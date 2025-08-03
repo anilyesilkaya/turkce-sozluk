@@ -2,6 +2,7 @@
 layout: term
 title: değirmenlik
 slug: degirmenlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değirmende öğütülmek için ayrılmış (tahıl)

@@ -2,6 +2,7 @@
 layout: term
 title: kayıtsız olmak
 slug: kayitsiz-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kaydedilmemiş veya yazıya geçirilmemiş olmak

@@ -2,6 +2,7 @@
 layout: term
 title: çitil
 slug: citil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► sitil (I)

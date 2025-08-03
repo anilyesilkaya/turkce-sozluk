@@ -2,6 +2,7 @@
 layout: term
 title: bölme
 slug: bolme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölmek işi

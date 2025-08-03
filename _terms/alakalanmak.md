@@ -2,6 +2,7 @@
 layout: term
 title: alakalanmak
 slug: alakalanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ilgilenmek

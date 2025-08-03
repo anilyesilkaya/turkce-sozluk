@@ -2,6 +2,7 @@
 layout: term
 title: makas almak
 slug: makas-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birinin yanağını orta parmak ile işaret parmağı arasına alıp sıkıştırmak, makaslamak

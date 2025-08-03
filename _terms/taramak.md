@@ -2,6 +2,7 @@
 layout: term
 title: taramak
 slug: taramak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin tellerini birbirinden ayırıp karışıklığını gidermek

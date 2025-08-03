@@ -2,6 +2,7 @@
 layout: term
 title: yaş ilerlemek
 slug: yas-ilerlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaşlanmak, ihtiyarlamak

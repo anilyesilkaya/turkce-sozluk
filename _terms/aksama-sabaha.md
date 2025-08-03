@@ -2,6 +2,7 @@
 layout: term
 title: akşama sabaha
 slug: aksama-sabaha
+letter: A
 lisan: Türkçe
 anlamlar:
 - Neredeyse, pek yakında, kısa bir süre içinde

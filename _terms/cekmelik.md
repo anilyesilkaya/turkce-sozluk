@@ -2,6 +2,7 @@
 layout: term
 title: çekmelik
 slug: cekmelik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yemeni vb. giyeceklerde, ayağın daha rahat girmesi için topuk üzerinde bulunan uzun çıkıntı

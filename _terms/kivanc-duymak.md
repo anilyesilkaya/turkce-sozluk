@@ -2,6 +2,7 @@
 layout: term
 title: kıvanç duymak
 slug: kivanc-duymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - övünmek

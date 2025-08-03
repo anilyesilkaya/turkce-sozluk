@@ -2,6 +2,7 @@
 layout: term
 title: ciğerlerine çekmek
 slug: cigerlerine-cekmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - solumak

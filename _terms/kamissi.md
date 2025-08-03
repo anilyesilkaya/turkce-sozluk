@@ -2,6 +2,7 @@
 layout: term
 title: kamışsı
 slug: kamissi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gövdesi kamış gibi boş ve boğumlu olan

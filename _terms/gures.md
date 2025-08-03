@@ -2,6 +2,7 @@
 layout: term
 title: güreş
 slug: gures
+letter: G
 lisan: Türkçe
 anlamlar:
 - Belli kurallar içinde, güç kullanarak iki kişinin türlü oyunlarla birbirinin sırtını yere getirmeye çalışması

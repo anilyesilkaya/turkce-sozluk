@@ -2,6 +2,7 @@
 layout: term
 title: aslansütü
 slug: aslansutu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► rakı

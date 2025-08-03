@@ -2,6 +2,7 @@
 layout: term
 title: atomculuk
 slug: atomculuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Evrenin, bölünmez parçaların kümelenmesinden oluştuğunu ileri süren öğreti

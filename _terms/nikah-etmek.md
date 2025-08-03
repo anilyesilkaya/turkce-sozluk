@@ -2,6 +2,7 @@
 layout: term
 title: nikâh etmek
 slug: nikah-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - evlendirmek

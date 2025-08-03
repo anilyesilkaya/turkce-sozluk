@@ -2,6 +2,7 @@
 layout: term
 title: müteakiben
 slug: muteakiben
+letter: M
 lisan: Arapça muteʿāḳiben
 anlamlar:
 - ► ardınca

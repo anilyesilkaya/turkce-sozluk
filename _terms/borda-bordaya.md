@@ -2,6 +2,7 @@
 layout: term
 title: borda bordaya
 slug: borda-bordaya
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yan yana

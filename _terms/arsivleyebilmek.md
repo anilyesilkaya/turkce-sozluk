@@ -2,6 +2,7 @@
 layout: term
 title: arşivleyebilmek
 slug: arsivleyebilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşive koyma ihtimali veya imkânı bulunmak

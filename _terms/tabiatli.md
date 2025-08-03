@@ -2,6 +2,7 @@
 layout: term
 title: tabiatlı
 slug: tabiatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yaradılışta, huyda olan

@@ -2,6 +2,7 @@
 layout: term
 title: unutmak
 slug: unutmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aklında kalmamak, hatırlamamak, aklından çıkmak

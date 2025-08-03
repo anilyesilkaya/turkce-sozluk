@@ -2,6 +2,7 @@
 layout: term
 title: e, E
 slug: e-e
+letter: E
 lisan: Türkçe
 anlamlar:
 - Türk alfabesinin altıncı sırasında yer alan ve e adı verilen bu harf, ses bilgisi bakımından ince ünlülerin düz ve geniş olanını gösterir

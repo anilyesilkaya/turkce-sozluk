@@ -2,6 +2,7 @@
 layout: term
 title: emir kulu
 slug: emir-kulu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir işi, aldığı buyruk gereğince yapmak yükümlülüğünde olan kimse; buyruk kulu

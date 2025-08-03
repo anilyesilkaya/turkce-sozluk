@@ -2,6 +2,7 @@
 layout: term
 title: bakteriyel
 slug: bakteriyel
+letter: B
 lisan: Fransızca bactériel
 anlamlar:
 - Bakterilerle ilgili

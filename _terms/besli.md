@@ -2,6 +2,7 @@
 layout: term
 title: beşli
 slug: besli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beş parçadan oluşan, kendinde herhangi bir şeyden beş tane bulunan; muhammes

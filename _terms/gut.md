@@ -2,6 +2,7 @@
 layout: term
 title: gut
 slug: gut
+letter: G
 lisan: Fransızca goutte
 anlamlar:
 - ► damla hastalığı

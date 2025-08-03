@@ -2,6 +2,7 @@
 layout: term
 title: kara yazı
 slug: kara-yazi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü yazıldığına inanılan alın yazısı; kara talih, kara baht, ak yazı karşıtı

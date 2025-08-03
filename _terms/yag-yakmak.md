@@ -2,6 +2,7 @@
 layout: term
 title: yağ yakmak
 slug: yag-yakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tavada yağı çok ısıtmak

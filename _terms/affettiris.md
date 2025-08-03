@@ -2,6 +2,7 @@
 layout: term
 title: affettiriş
 slug: affettiris
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlatış

@@ -2,6 +2,7 @@
 layout: term
 title: gündelik
 slug: gundelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gün hesabıyla veya her gün ödenen para; vazife, yevmiye

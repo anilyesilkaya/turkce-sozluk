@@ -2,6 +2,7 @@
 layout: term
 title: dedektif
 slug: dedektif
+letter: D
 lisan: Fransızca détective
 anlamlar:
 - Suç sayılan bir işi veya bu işi yapanı ortaya çıkarmakla görevli kimse; hafiye, polis hafiyesi

@@ -2,6 +2,7 @@
 layout: term
 title: denetilmek
 slug: denetilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denetleme işine konu olmak

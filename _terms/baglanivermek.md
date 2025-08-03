@@ -2,6 +2,7 @@
 layout: term
 title: bağlanıvermek
 slug: baglanivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bağlanmak

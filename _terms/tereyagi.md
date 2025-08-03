@@ -2,6 +2,7 @@
 layout: term
 title: tereyağı
 slug: tereyagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sütten çıkarılan yemeklik yağ; sağyağ, sadeyağ, sarı yağ

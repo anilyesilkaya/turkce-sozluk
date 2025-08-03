@@ -2,6 +2,7 @@
 layout: term
 title: zokayı yutmak
 slug: zokayi-yutmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - aldatılıp zarara sokulmak

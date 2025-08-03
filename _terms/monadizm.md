@@ -2,6 +2,7 @@
 layout: term
 title: monadizm
 slug: monadizm
+letter: M
 lisan: Fransızca monadisme
 anlamlar:
 - ► monatçılık

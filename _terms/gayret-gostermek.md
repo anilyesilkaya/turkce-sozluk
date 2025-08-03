@@ -2,6 +2,7 @@
 layout: term
 title: gayret göstermek
 slug: gayret-gostermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - çaba harcamak, başarmak için çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: reklam
 slug: reklam
+letter: R
 lisan: Fransızca réclame
 anlamlar:
 - Bir şeyi halka tanıtmak, beğendirmek ve böylelikle sürümünü sağlamak için denenen her türlü yol

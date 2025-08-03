@@ -2,6 +2,7 @@
 layout: term
 title: el pençe divan durmak
 slug: el-pence-divan-durmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - saygı gösterilen kimse karşısında el kavuşturmuş bir biçimde

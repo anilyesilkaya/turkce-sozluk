@@ -2,6 +2,7 @@
 layout: term
 title: kaçmak
 slug: kacmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hızla koşup bir yere saklanmak

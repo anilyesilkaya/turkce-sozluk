@@ -2,6 +2,7 @@
 layout: term
 title: denek taşı
 slug: denek-tasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► mihenk taşı

@@ -2,6 +2,7 @@
 layout: term
 title: iki çıplak bir hamama yakışır
 slug: iki-ciplak-bir-hamama-yakisir
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"iki yoksul kimsenin birbiriyle evlenmesi uygundur" anlamında kullanılan bir söz'

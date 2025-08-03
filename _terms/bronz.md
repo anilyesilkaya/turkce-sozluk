@@ -2,6 +2,7 @@
 layout: term
 title: bronz
 slug: bronz
+letter: B
 lisan: Fransızca bronze
 anlamlar:
 - ► tunç

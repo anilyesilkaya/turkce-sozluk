@@ -2,6 +2,7 @@
 layout: term
 title: buz torbası
 slug: buz-torbasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tedavi amacıyla kullanılan ve içinde buz parçaları bulunan plastik torba

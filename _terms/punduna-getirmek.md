@@ -2,6 +2,7 @@
 layout: term
 title: punduna getirmek
 slug: punduna-getirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir şeyi yapmak için uygun zamanı ve yeri seçmek

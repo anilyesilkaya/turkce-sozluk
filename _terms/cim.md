@@ -2,6 +2,7 @@
 layout: term
 title: çim
 slug: cim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, bahçelerin, yol kenarlarının ve parkların yeşillendirilmesinde yararlanılan çok yıllık bitki (Lolium)

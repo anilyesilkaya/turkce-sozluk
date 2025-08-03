@@ -2,6 +2,7 @@
 layout: term
 title: yetinme
 slug: yetinme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetinmek durumu; kanıklanma, idare, kanaat, iktifa

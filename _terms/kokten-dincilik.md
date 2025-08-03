@@ -2,6 +2,7 @@
 layout: term
 title: kökten dincilik
 slug: kokten-dincilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurulu düzenin temellerini dinî kural ve inançlar doğrultusunda değiştirip uygulamadan yana olan tutum veya öğreti; fundamentalizm

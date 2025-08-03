@@ -2,6 +2,7 @@
 layout: term
 title: perhiz
 slug: perhiz
+letter: P
 lisan: Farsça perhīz
 anlamlar:
 - ► diyet (II)

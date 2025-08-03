@@ -2,6 +2,7 @@
 layout: term
 title: peynir ağacı
 slug: peynir-agaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ebegümecigillerden, tropikal bölgelerde yetişen, kozalarında kısa lifli pamuk bulunan ağaç (Bombax criodendron)

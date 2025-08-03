@@ -2,6 +2,7 @@
 layout: term
 title: ikide bir
 slug: ikide-bir
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sıklıkla, sürekli bir biçimde; ikide birde, vırt zırt

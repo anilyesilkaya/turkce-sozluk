@@ -2,6 +2,7 @@
 layout: term
 title: büzülüş
 slug: buzulus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzülmek işi

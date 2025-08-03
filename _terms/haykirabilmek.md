@@ -2,6 +2,7 @@
 layout: term
 title: haykırabilmek
 slug: haykirabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haykırma ihtimali veya imkânı bulunmak

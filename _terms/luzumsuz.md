@@ -2,6 +2,7 @@
 layout: term
 title: lüzumsuz
 slug: luzumsuz
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► gereksiz

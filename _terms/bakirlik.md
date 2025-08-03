@@ -2,6 +2,7 @@
 layout: term
 title: bakirlik
 slug: bakirlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kızlık

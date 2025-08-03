@@ -2,6 +2,7 @@
 layout: term
 title: bodoslama çemberi
 slug: bodoslama-cemberi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ağaç filikanın bodoslamasına yapılan metal kaplama

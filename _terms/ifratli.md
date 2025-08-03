@@ -2,6 +2,7 @@
 layout: term
 title: ifratlı
 slug: ifratli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İfratı bulunan, aşırıya kaçan

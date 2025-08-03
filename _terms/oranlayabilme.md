@@ -2,6 +2,7 @@
 layout: term
 title: oranlayabilme
 slug: oranlayabilme
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oranlayabilmek işi

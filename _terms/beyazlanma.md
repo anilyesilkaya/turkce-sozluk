@@ -2,6 +2,7 @@
 layout: term
 title: beyazlanma
 slug: beyazlanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beyazlaşma

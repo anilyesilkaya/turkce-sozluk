@@ -2,6 +2,7 @@
 layout: term
 title: boyacı
 slug: boyaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyama işini, boyacılığı meslek edinen kimse

@@ -2,6 +2,7 @@
 layout: term
 title: mal olmak
 slug: mal-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir şeye bir değer karşılığında sahip olmak

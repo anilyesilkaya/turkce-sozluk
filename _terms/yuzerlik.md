@@ -2,6 +2,7 @@
 layout: term
 title: yüzerlik
 slug: yuzerlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüz tane alabilen

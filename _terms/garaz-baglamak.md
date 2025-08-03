@@ -2,6 +2,7 @@
 layout: term
 title: garaz bağlamak
 slug: garaz-baglamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - birine karşı kin beslemek

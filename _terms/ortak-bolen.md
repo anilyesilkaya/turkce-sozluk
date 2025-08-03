@@ -2,6 +2,7 @@
 layout: term
 title: ortak bölen
 slug: ortak-bolen
+letter: O
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok sayıyı bölen sayı

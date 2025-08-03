@@ -2,6 +2,7 @@
 layout: term
 title: bani
 slug: bani
+letter: B
 lisan: Arapça bānī
 anlamlar:
 - ► kurucu

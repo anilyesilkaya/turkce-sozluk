@@ -2,6 +2,7 @@
 layout: term
 title: bisikletli
 slug: bisikletli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bisikleti olan

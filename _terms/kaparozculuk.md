@@ -2,6 +2,7 @@
 layout: term
 title: kaparozculuk
 slug: kaparozculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaparozcu olma durumu

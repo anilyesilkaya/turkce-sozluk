@@ -2,6 +2,7 @@
 layout: term
 title: gizli çekim
 slug: gizli-cekim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir kişinin, yerin veya nesnenin izin alınmaksızın filme alınması

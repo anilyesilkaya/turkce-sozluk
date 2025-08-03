@@ -2,6 +2,7 @@
 layout: term
 title: müteferrika
 slug: muteferrika
+letter: M
 lisan: Arapça muteferriḳa
 anlamlar:
 - Küçük giderler için ayrılan para

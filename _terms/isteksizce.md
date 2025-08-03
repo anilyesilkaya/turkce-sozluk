@@ -2,6 +2,7 @@
 layout: term
 title: isteksizce
 slug: isteksizce
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstek göstermeksizin; isteksiz, arzusuzca, hevessizce

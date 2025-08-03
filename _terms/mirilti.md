@@ -2,6 +2,7 @@
 layout: term
 title: mırıltı
 slug: mirilti
+letter: M
 lisan: Türkçe
 anlamlar:
 - Alçak ve anlaşılmaz bir ses çıkararak konuşma

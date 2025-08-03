@@ -2,6 +2,7 @@
 layout: term
 title: kaya gibi
 slug: kaya-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok sağlam

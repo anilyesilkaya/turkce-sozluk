@@ -2,6 +2,7 @@
 layout: term
 title: gazap
 slug: gazap
+letter: G
 lisan: Arapça ġażab
 anlamlar:
 - ► öfke

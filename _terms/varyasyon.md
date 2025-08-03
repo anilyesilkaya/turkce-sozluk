@@ -2,6 +2,7 @@
 layout: term
 title: varyasyon
 slug: varyasyon
+letter: V
 lisan: Fransızca variation
 anlamlar:
 - Değişik biçim; varyete

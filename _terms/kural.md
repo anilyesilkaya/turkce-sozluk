@@ -2,6 +2,7 @@
 layout: term
 title: kural
 slug: kural
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir sanata, bir bilime, bir düşünce ve davranış sistemine temel olan, yön veren ilke; kaide, nizam, usul (II)

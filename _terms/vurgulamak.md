@@ -2,6 +2,7 @@
 layout: term
 title: vurgulamak
 slug: vurgulamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurgu ile söylemek

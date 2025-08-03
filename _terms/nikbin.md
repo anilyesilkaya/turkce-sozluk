@@ -2,6 +2,7 @@
 layout: term
 title: nikbin
 slug: nikbin
+letter: N
 lisan: Farsça nīkbīn
 anlamlar:
 - ► iyimser

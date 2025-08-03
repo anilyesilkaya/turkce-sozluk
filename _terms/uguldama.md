@@ -2,6 +2,7 @@
 layout: term
 title: uğuldama
 slug: uguldama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğuldamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: safderun
 slug: safderun
+letter: S
 lisan: Arapça ṣāf + Farsça derūn
 anlamlar:
 - ► saf (II)

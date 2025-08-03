@@ -2,6 +2,7 @@
 layout: term
 title: dilencilik
 slug: dilencilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilencinin yaptığı iş

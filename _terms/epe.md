@@ -2,6 +2,7 @@
 layout: term
 title: epe
 slug: epe
+letter: E
 lisan: Fransızca épée
 anlamlar:
 - ► delici kılıç

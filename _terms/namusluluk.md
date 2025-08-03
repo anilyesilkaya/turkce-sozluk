@@ -2,6 +2,7 @@
 layout: term
 title: namusluluk
 slug: namusluluk
+letter: N
 lisan: Türkçe
 anlamlar:
 - Namuslu olma durumu; namuskârlık

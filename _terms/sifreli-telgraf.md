@@ -2,6 +2,7 @@
 layout: term
 title: şifreli telgraf
 slug: sifreli-telgraf
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Metni şifreli olan ve bu şifre çözüldüğünde anlaşılabilen telgraf

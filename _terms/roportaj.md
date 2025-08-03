@@ -2,6 +2,7 @@
 layout: term
 title: röportaj
 slug: roportaj
+letter: R
 lisan: Fransızca reportage
 anlamlar:
 - Bir veya birden çok kimseye bir konu üzerinde sorular sorarak bilgi almak ve fikrini öğrenmek amacıyla yazılmış gazete veya dergi yazısı

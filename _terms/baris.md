@@ -2,6 +2,7 @@
 layout: term
 title: barış
 slug: baris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barışmak işi

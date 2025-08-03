@@ -2,6 +2,7 @@
 layout: term
 title: harbî
 slug: harbi
+letter: H
 lisan: Arapça ḥarbī
 anlamlar:
 - Savaşla ilgili

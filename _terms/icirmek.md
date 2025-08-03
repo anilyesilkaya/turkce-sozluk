@@ -2,6 +2,7 @@
 layout: term
 title: içirmek
 slug: icirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçmesine yol açmak, içmesini sağlamak

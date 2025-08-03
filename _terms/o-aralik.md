@@ -2,6 +2,7 @@
 layout: term
 title: o aralık
 slug: o-aralik
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► o sırada

@@ -2,6 +2,7 @@
 layout: term
 title: bahçıvanlık
 slug: bahcivanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahçıvanın yaptığı iş

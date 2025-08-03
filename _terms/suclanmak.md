@@ -2,6 +2,7 @@
 layout: term
 title: suçlanmak
 slug: suclanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlama işine konu olmak, itham edilmek

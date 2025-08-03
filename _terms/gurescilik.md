@@ -2,6 +2,7 @@
 layout: term
 title: güreşçilik
 slug: gurescilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreşçinin yaptığı iş; pehlivanlık

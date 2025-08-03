@@ -2,6 +2,7 @@
 layout: term
 title: yaşlanıvermek
 slug: yaslanivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak yaşlanmak

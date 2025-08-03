@@ -2,6 +2,7 @@
 layout: term
 title: sahiplenebilme
 slug: sahiplenebilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahiplenebilmek işi

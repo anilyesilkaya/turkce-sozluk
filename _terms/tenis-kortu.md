@@ -2,6 +2,7 @@
 layout: term
 title: tenis kortu
 slug: tenis-kortu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kort

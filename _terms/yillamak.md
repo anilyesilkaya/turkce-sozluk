@@ -2,6 +2,7 @@
 layout: term
 title: yıllamak
 slug: yillamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yerde uzun süre kalmak

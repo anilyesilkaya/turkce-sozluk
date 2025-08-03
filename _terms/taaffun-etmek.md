@@ -2,6 +2,7 @@
 layout: term
 title: taaffün etmek
 slug: taaffun-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kokuşmak, pis kokmak

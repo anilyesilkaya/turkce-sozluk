@@ -2,6 +2,7 @@
 layout: term
 title: işlek
 slug: islek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çok işleyen, canlı, hareketli olan

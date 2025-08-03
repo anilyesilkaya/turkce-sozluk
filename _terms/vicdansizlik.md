@@ -2,6 +2,7 @@
 layout: term
 title: vicdansızlık
 slug: vicdansizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vicdansız olma durumu

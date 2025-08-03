@@ -2,6 +2,7 @@
 layout: term
 title: çoğalttırmak
 slug: cogalttirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltma işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: öykünce
 slug: oykunce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► fabl

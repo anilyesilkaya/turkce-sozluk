@@ -2,6 +2,7 @@
 layout: term
 title: şeyh
 slug: seyh
+letter: Ş
 lisan: Arapça şeyḫ
 anlamlar:
 - Tarikat kurucusu, bir tarikatta en yüksek dereceye ulaşmış olan kimse

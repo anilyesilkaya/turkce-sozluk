@@ -2,6 +2,7 @@
 layout: term
 title: faşizm
 slug: fasizm
+letter: F
 lisan: Fransızca fascisme
 anlamlar:
 - İtalya'da 1922-1943 yılları arasında etkinliğini sürdüren, meslek kuruluşlarına dayanan, devlet sınırlarını genişletmeyi amaçlayan, yetkinin, tek partinin elinde toplandığı düzen; faşistlik

@@ -2,6 +2,7 @@
 layout: term
 title: ufku dar
 slug: ufku-dar
+letter: U
 lisan: Türkçe
 anlamlar:
 - İleriyi göremeyen, bakış açısı geniş olmayan

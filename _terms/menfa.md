@@ -2,6 +2,7 @@
 layout: term
 title: menfa
 slug: menfa
+letter: M
 lisan: Arapça menfā
 anlamlar:
 - ► sürgün

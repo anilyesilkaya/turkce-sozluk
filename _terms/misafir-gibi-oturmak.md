@@ -2,6 +2,7 @@
 layout: term
 title: misafir gibi oturmak
 slug: misafir-gibi-oturmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bulunduğu yerden her an ayrılacakmış gibi eğreti, üstünkörü oturmak

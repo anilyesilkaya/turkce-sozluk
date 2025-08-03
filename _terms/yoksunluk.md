@@ -2,6 +2,7 @@
 layout: term
 title: yoksunluk
 slug: yoksunluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoksun olma durumu; mahrumluk, mahrumiyet

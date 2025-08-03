@@ -2,6 +2,7 @@
 layout: term
 title: bol keseden
 slug: bol-keseden
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bol bol, ölçüsüz bir biçimde

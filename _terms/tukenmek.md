@@ -2,6 +2,7 @@
 layout: term
 title: tükenmek
 slug: tukenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Elinde kalmamak; bitmek (I)

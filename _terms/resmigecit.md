@@ -2,6 +2,7 @@
 layout: term
 title: resmigeçit
 slug: resmigecit
+letter: R
 lisan: Arapça resm + Türkçe geçit
 anlamlar:
 - ► geçit töreni

@@ -2,6 +2,7 @@
 layout: term
 title: alı al, moru mor
 slug: ali-al-moru-mor
+letter: A
 lisan: Türkçe
 anlamlar:
 - utanma, telaş veya yorgunluktan yüzü kıpkırmızı kesilmiş (olarak)

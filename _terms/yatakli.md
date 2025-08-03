@@ -2,6 +2,7 @@
 layout: term
 title: yataklı
 slug: yatakli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda yatağı olan, yatak alabilen

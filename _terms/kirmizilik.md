@@ -2,6 +2,7 @@
 layout: term
 title: kırmızılık
 slug: kirmizilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırmızı olma durumu

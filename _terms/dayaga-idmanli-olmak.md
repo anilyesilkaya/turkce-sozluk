@@ -2,6 +2,7 @@
 layout: term
 title: dayağa idmanlı olmak
 slug: dayaga-idmanli-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dayak yemeye alışmış olmak

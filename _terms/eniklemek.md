@@ -2,6 +2,7 @@
 layout: term
 title: eniklemek
 slug: eniklemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kedi, köpek vb. doğurmak

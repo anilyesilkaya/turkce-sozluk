@@ -2,6 +2,7 @@
 layout: term
 title: umudunu kırmak
 slug: umudunu-kirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - umut kesmesine yol açmak

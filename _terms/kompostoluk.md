@@ -2,6 +2,7 @@
 layout: term
 title: kompostoluk
 slug: kompostoluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Komposto veya meyve dağıtımı yapmak için kullanılan, genellikle yüksek ayaklı tabak

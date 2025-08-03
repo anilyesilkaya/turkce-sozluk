@@ -2,6 +2,7 @@
 layout: term
 title: haddizatında
 slug: haddizatinda
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► aslında

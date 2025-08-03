@@ -2,6 +2,7 @@
 layout: term
 title: 'karmaşık önerme '
 slug: karmasik-onerme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tek yargı bildiren basit bir önerme olmakla birlikte özne ve yükleminin tanımlayıcıları, açıklayıcıları bulunan önerme

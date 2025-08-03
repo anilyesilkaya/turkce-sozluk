@@ -2,6 +2,7 @@
 layout: term
 title: politiklik
 slug: politiklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Politik olma durumu

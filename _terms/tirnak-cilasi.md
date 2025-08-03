@@ -2,6 +2,7 @@
 layout: term
 title: tırnak cilası
 slug: tirnak-cilasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► oje

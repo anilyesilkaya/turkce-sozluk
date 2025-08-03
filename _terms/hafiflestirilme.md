@@ -2,6 +2,7 @@
 layout: term
 title: hafifleştirilme
 slug: hafiflestirilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hafifletilme

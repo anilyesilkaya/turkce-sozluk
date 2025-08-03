@@ -2,6 +2,7 @@
 layout: term
 title: iskelet
 slug: iskelet
+letter: I
 lisan: Fransızca squelette
 anlamlar:
 - İnsan ve hayvan bedeninin kemik çatısı; kadit, teşrih

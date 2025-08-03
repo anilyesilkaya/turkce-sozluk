@@ -2,6 +2,7 @@
 layout: term
 title: kanıtlama
 slug: kanitlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanıtlamak işi; ispat, ispatlama

@@ -2,6 +2,7 @@
 layout: term
 title: garnitür
 slug: garnitur
+letter: G
 lisan: Fransızca garniture
 anlamlar:
 - Et veya balık gibi asıl yemeğin yanına eklenen sebze, patates vb. yiyecekler

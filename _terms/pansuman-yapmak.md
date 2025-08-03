@@ -2,6 +2,7 @@
 layout: term
 title: pansuman yapmak
 slug: pansuman-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yaranın temizlik ve bakımını yapmak

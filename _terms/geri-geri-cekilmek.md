@@ -2,6 +2,7 @@
 layout: term
 title: geri geri çekilmek
 slug: geri-geri-cekilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - arka arka gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: yönetmelik
 slug: yonetmelik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kuruluşun çalışma yöntemini belirleyen kuralların tümü

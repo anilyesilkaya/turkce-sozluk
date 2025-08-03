@@ -2,6 +2,7 @@
 layout: term
 title: limit
 slug: limit
+letter: L
 lisan: Fransızca limite
 anlamlar:
 - ► sınır

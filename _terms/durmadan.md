@@ -2,6 +2,7 @@
 layout: term
 title: durmadan
 slug: durmadan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ara vermeden, kesintisiz, sürekli olarak; dursuz duraksız

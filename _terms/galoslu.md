@@ -2,6 +2,7 @@
 layout: term
 title: galoşlu
 slug: galoslu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Galoşu olan

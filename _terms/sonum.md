@@ -2,6 +2,7 @@
 layout: term
 title: sönüm
 slug: sonum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir salınım hareketinin genliğinin türlü dirençlerin etkisiyle küçülmesi; itfa

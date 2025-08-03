@@ -2,6 +2,7 @@
 layout: term
 title: volan
 slug: volan
+letter: V
 lisan: Fransızca volant
 anlamlar:
 - Bir hareketi bir mekanizmaya aktaran veya makinelerde hareketin hızını düzgün tutmaya yarayan tekerlek

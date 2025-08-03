@@ -2,6 +2,7 @@
 layout: term
 title: siklamen rengi
 slug: siklamen-rengi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kırmızıya çalan eflatun renk; siklamen

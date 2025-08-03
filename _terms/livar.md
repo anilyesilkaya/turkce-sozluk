@@ -2,6 +2,7 @@
 layout: term
 title: livar
 slug: livar
+letter: L
 lisan: Rumca
 anlamlar:
 - Avlanan balıkları canlı olarak saklamak için ağzı içine doğru konik örülmüş sepet

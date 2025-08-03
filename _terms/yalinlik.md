@@ -2,6 +2,7 @@
 layout: term
 title: yalınlık
 slug: yalinlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalın olma durumu, birleşik veya karmaşık olmama durumu; sadelik

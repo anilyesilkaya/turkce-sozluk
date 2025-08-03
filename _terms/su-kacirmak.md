@@ -2,6 +2,7 @@
 layout: term
 title: su kaçırmak
 slug: su-kacirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - su sızdırmak

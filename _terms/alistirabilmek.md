@@ -2,6 +2,7 @@
 layout: term
 title: alıştırabilmek
 slug: alistirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıştırma ihtimali veya imkânı bulunmak

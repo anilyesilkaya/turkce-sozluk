@@ -2,6 +2,7 @@
 layout: term
 title: aşıramento
 slug: asiramento
+letter: A
 lisan: Türkçe aşırmak + İtalyanca -mento
 anlamlar:
 - Hırsızlama yöntemiyle aşırma

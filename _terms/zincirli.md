@@ -2,6 +2,7 @@
 layout: term
 title: zincirli
 slug: zincirli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zinciri olan

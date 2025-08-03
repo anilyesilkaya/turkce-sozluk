@@ -2,6 +2,7 @@
 layout: term
 title: yazgı
 slug: yazgi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Allah tarafından insanın başına gelmesi ezelde kararlaştırılmış olan şeyler; yazı (I), alın yazısı, baht, devran, kader, ezelî takdir, hayat (I), kader çizgisi, mukadderat, takdiriilahi, tecelli, fatalite

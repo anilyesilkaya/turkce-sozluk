@@ -2,6 +2,7 @@
 layout: term
 title: ruziklenmek
 slug: ruziklenmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Sefil bir biçimde gün geçirmek veya geçinip gitmek

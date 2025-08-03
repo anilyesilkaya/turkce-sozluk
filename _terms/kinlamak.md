@@ -2,6 +2,7 @@
 layout: term
 title: kınlamak
 slug: kinlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeye kın yapmak

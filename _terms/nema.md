@@ -2,6 +2,7 @@
 layout: term
 title: nema
 slug: nema
+letter: N
 lisan: Arapça nemā
 anlamlar:
 - Büyüme, gelişme, çoğalma

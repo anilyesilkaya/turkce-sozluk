@@ -2,6 +2,7 @@
 layout: term
 title: dil sürçmesi
 slug: dil-surcmesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ağızdan yanlış söz çıkma; sürçülisan

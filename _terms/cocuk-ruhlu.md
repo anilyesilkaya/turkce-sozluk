@@ -2,6 +2,7 @@
 layout: term
 title: çocuk ruhlu
 slug: cocuk-ruhlu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuklara benzeyen bir iç dünyası olan, çocuksu davranışları olan (kimse)

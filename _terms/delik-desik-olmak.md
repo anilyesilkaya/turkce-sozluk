@@ -2,6 +2,7 @@
 layout: term
 title: delik deşik olmak
 slug: delik-desik-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir canlının vücudunda bir araçla birçok yara, kesik oluşmak

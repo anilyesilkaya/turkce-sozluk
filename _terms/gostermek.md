@@ -2,6 +2,7 @@
 layout: term
 title: göstermek
 slug: gostermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi işaretle belirtmek

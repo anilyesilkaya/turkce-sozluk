@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırma derecesi
 slug: karsilastirma-derecesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Daha, çok, fazla, ziyade vb. kelimelerle kavramların karşılaştırılıp üst derecede gösterilmesi

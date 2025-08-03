@@ -2,6 +2,7 @@
 layout: term
 title: pazvant
 slug: pazvant
+letter: P
 lisan: Farsça pāsbān
 anlamlar:
 - Rumeli'de gece bekçisi

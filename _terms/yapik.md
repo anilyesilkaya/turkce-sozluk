@@ -2,6 +2,7 @@
 layout: term
 title: yapık
 slug: yapik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► belleme (II)

@@ -2,6 +2,7 @@
 layout: term
 title: dizginsiz
 slug: dizginsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizgini olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: cürüm
 slug: curum
+letter: C
 lisan: Arapça curm
 anlamlar:
 - ► suç

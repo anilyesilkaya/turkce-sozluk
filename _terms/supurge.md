@@ -2,6 +2,7 @@
 layout: term
 title: süpürge
 slug: supurge
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürme işinde kullanılan araç

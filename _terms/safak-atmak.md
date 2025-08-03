@@ -2,6 +2,7 @@
 layout: term
 title: şafak atmak
 slug: safak-atmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şafak sökmek

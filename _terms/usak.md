@@ -2,6 +2,7 @@
 layout: term
 title: uşak
 slug: usak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çocuk

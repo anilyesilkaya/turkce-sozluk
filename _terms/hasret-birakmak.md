@@ -2,6 +2,7 @@
 layout: term
 title: hasret bırakmak
 slug: hasret-birakmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gerektiği anda bir şeyin yokluğunu hissettirmek

@@ -2,6 +2,7 @@
 layout: term
 title: gözü alışmak
 slug: gozu-alismak
+letter: G
 lisan: Türkçe
 anlamlar:
 - önceden iyi göremediği bir şeyi sonradan görür olmak

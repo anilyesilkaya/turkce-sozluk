@@ -2,6 +2,7 @@
 layout: term
 title: poyrazlamak
 slug: poyrazlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Poyraz esmeye başlamak

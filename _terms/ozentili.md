@@ -2,6 +2,7 @@
 layout: term
 title: özentili
 slug: ozentili
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenti ile yapılan

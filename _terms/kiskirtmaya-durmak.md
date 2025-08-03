@@ -2,6 +2,7 @@
 layout: term
 title: kışkırtmaya durmak
 slug: kiskirtmaya-durmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kışkırtmaya başlamak

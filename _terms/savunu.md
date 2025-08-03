@@ -2,6 +2,7 @@
 layout: term
 title: savunu
 slug: savunu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► savunma

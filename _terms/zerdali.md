@@ -2,6 +2,7 @@
 layout: term
 title: zerdali
 slug: zerdali
+letter: Z
 lisan: Farsça zerd + ālū
 anlamlar:
 - Kayısı ağacının Akdeniz ülkelerinde yetiştirilen küçük meyveli bir türü (Armeniaca vulgaris)

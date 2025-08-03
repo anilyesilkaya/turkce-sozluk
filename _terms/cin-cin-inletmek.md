@@ -2,6 +2,7 @@
 layout: term
 title: çın çın inletmek
 slug: cin-cin-inletmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - gür ve keskin ses çıkarmak

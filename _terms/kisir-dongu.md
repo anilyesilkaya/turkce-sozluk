@@ -2,6 +2,7 @@
 layout: term
 title: kısır döngü
 slug: kisir-dongu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir önermeyi ikinci bir önermeyle ikinci önermeyi de dönüp birincisiyle tanıtlamaya çalışma yolu; fasit daire, döngü, kapsayıcı karşıtı

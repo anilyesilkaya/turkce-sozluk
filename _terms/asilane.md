@@ -2,6 +2,7 @@
 layout: term
 title: asilane
 slug: asilane
+letter: A
 lisan: Arapça asīl + Farsça -āne
 anlamlar:
 - Asile yakışan

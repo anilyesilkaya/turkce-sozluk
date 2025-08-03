@@ -2,6 +2,7 @@
 layout: term
 title: aşağılaşmak
 slug: asagilasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağılık duruma düşmek

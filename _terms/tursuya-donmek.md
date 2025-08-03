@@ -2,6 +2,7 @@
 layout: term
 title: turşuya dönmek
 slug: tursuya-donmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok yorulmak, bitkinleşmek

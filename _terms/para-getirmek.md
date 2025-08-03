@@ -2,6 +2,7 @@
 layout: term
 title: para getirmek
 slug: para-getirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - kazanç sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: tedavi etmek
 slug: tedavi-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - iyileştirmek amacıyla sağlık uygulamalarından geçirmek, sağaltmak

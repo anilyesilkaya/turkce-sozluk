@@ -2,6 +2,7 @@
 layout: term
 title: plajiyoklazlı
 slug: plajiyoklazli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Plajiyoklaz içeren

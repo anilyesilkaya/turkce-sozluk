@@ -2,6 +2,7 @@
 layout: term
 title: baskısızca
 slug: baskisizca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baskısız bir biçimde; baskısızcasına

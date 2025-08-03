@@ -2,6 +2,7 @@
 layout: term
 title: gümletmek
 slug: gumletmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güm diye ses çıkmasına neden olmak

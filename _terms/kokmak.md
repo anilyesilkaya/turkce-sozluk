@@ -2,6 +2,7 @@
 layout: term
 title: kokmak
 slug: kokmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koku çıkarmak

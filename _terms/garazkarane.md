@@ -2,6 +2,7 @@
 layout: term
 title: garazkârane
 slug: garazkarane
+letter: G
 lisan: Arapça ġaraż + Farsça -kār-āne
 anlamlar:
 - Kinli biçimde, kinli olarak, kin duyarak

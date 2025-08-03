@@ -2,6 +2,7 @@
 layout: term
 title: kıyabilmek
 slug: kiyabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyma ihtimali veya imkânı bulunmak

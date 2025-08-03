@@ -2,6 +2,7 @@
 layout: term
 title: hatırlanış
 slug: hatirlanis
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anımsanış

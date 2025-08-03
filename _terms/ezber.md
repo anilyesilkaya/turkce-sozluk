@@ -2,6 +2,7 @@
 layout: term
 title: ezber
 slug: ezber
+letter: E
 lisan: Farsça ezber
 anlamlar:
 - Bir metni veya bir sözü eksiksiz tekrarlayabilecek biçimde akılda tutma

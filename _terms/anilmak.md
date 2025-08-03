@@ -2,6 +2,7 @@
 layout: term
 title: anılmak
 slug: anilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anma işine konu olmak

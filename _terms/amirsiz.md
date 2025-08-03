@@ -2,6 +2,7 @@
 layout: term
 title: amirsiz
 slug: amirsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amiri olmayan

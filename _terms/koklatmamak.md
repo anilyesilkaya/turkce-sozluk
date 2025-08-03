@@ -2,6 +2,7 @@
 layout: term
 title: koklatmamak
 slug: koklatmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir şeyi başkasıyla hiçbir şekilde paylaşmamak

@@ -2,6 +2,7 @@
 layout: term
 title: cıvatalı
 slug: civatali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvatası olan

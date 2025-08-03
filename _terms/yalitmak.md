@@ -2,6 +2,7 @@
 layout: term
 title: yalıtmak
 slug: yalitmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Elektrik akımının olumsuz etkilerini önlemek için iletkeni kauçuk, lastik, porselen vb. ile kaplamak; izole etmek

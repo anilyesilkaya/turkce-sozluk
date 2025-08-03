@@ -2,6 +2,7 @@
 layout: term
 title: beylik söz
 slug: beylik-soz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herkesin kullandığı, etkisi kalmamış söz

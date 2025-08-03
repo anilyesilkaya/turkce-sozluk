@@ -2,6 +2,7 @@
 layout: term
 title: önemsizce
 slug: onemsizce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önemli sayılmayacak kadar

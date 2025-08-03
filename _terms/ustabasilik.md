@@ -2,6 +2,7 @@
 layout: term
 title: ustabaşılık
 slug: ustabasilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ustabaşı olma durumu

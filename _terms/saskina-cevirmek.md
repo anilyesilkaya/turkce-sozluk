@@ -2,6 +2,7 @@
 layout: term
 title: şaşkına çevirmek
 slug: saskina-cevirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şaşırtmak

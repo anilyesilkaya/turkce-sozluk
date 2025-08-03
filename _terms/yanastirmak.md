@@ -2,6 +2,7 @@
 layout: term
 title: yanaştırmak
 slug: yanastirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanaşmasını sağlamak

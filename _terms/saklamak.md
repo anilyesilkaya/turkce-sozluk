@@ -2,6 +2,7 @@
 layout: term
 title: şaklamak
 slug: saklamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"Şak" diye ses çıkarmak'

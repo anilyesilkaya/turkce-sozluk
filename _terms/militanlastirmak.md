@@ -2,6 +2,7 @@
 layout: term
 title: militanlaştırmak
 slug: militanlastirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Militan durumuna getirmek

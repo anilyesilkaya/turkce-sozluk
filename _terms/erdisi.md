@@ -2,6 +2,7 @@
 layout: term
 title: erdişi
 slug: erdisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hem erkek hem dişi gametleri bulunan (birey); erselik, hünsa, hermafrodit

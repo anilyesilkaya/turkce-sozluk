@@ -2,6 +2,7 @@
 layout: term
 title: Oğan
 slug: ogan
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► Allah

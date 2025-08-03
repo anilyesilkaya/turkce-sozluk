@@ -2,6 +2,7 @@
 layout: term
 title: cazsız
 slug: cazsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cazı olmayan

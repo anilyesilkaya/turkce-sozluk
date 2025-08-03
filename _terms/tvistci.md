@@ -2,6 +2,7 @@
 layout: term
 title: tvistçi
 slug: tvistci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tvisti seven ve yapan kimse

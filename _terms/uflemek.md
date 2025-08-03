@@ -2,6 +2,7 @@
 layout: term
 title: üflemek
 slug: uflemek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Dudakları büzerek soluğu bir şey üzerine hızla vermek; üfürmek

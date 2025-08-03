@@ -2,6 +2,7 @@
 layout: term
 title: ret
 slug: ret
+letter: R
 lisan: Arapça redd
 anlamlar:
 - Uygun bulmama, geri çevirme, kabul etmeme

@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü hoş etmek
 slug: gonlunu-hos-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - birinin dileğini yerine getirerek onu sevindirmek

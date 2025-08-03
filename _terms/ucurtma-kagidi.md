@@ -2,6 +2,7 @@
 layout: term
 title: uçurtma kâğıdı
 slug: ucurtma-kagidi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçurtma yapımında kullanılan, dayanıklı, ince, renkli kâğıt

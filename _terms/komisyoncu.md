@@ -2,6 +2,7 @@
 layout: term
 title: komisyoncu
 slug: komisyoncu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir iş karşılığında yüzde alan kimse; simsar

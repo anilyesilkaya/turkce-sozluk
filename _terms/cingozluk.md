@@ -2,6 +2,7 @@
 layout: term
 title: cingözlük
 slug: cingozluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► açıkgözlülük

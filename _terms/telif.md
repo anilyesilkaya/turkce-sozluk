@@ -2,6 +2,7 @@
 layout: term
 title: telif
 slug: telif
+letter: T
 lisan: Arapça teʾlīf
 anlamlar:
 - ► uzlaştırma

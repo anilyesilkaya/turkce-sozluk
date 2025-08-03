@@ -2,6 +2,7 @@
 layout: term
 title: dehşete düşürmek
 slug: dehsete-dusurmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok korkutmak, dehşete kapılmasına sebep olmak

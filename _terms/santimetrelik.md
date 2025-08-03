@@ -2,6 +2,7 @@
 layout: term
 title: santimetrelik
 slug: santimetrelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belli bir santimetre uzunluğunda olan

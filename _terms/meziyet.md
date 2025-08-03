@@ -2,6 +2,7 @@
 layout: term
 title: meziyet
 slug: meziyet
+letter: M
 lisan: Arapça meziyyet
 anlamlar:
 - Bir kişiyi veya nesneyi benzerinden üstün gösteren nitelik

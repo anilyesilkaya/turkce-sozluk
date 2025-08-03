@@ -2,6 +2,7 @@
 layout: term
 title: kaçık
 slug: kacik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İlmeği kaçmış (çorap vb.)

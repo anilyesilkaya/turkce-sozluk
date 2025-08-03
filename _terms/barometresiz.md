@@ -2,6 +2,7 @@
 layout: term
 title: barometresiz
 slug: barometresiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barometresi olmayan

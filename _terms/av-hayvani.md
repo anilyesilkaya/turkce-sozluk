@@ -2,6 +2,7 @@
 layout: term
 title: av hayvanı
 slug: av-hayvani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Etinden, postundan yararlanmak amacıyla veya zararlı olduğu için avlanan vahşi hayvan

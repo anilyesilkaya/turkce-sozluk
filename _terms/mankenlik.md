@@ -2,6 +2,7 @@
 layout: term
 title: mankenlik
 slug: mankenlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mankenin işi

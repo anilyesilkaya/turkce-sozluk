@@ -2,6 +2,7 @@
 layout: term
 title: mahya
 slug: mahya
+letter: M
 lisan: Farsça māh + Arapça -iyye
 anlamlar:
 - Ramazan gecelerinde, camilerde iki minare arasına gerilen ipler üzerine kandil veya elektrik ampulleriyle yazılan yazı veya yapılan resim

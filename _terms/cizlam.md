@@ -2,6 +2,7 @@
 layout: term
 title: cızlam
 slug: cizlam
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► savuşma

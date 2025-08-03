@@ -2,6 +2,7 @@
 layout: term
 title: fiş
 slug: fis
+letter: F
 lisan: Fransızca fiche
 anlamlar:
 - Prizden elektrik akımı almaya yarayan araç

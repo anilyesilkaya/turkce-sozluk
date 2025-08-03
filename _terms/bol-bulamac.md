@@ -2,6 +2,7 @@
 layout: term
 title: bol bulamaç
 slug: bol-bulamac
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pek çok

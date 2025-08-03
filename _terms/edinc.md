@@ -2,6 +2,7 @@
 layout: term
 title: edinç
 slug: edinc
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edinilen şey veya şeyler

@@ -2,6 +2,7 @@
 layout: term
 title: tazip etmek
 slug: tazip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - üzmek, sıkıntıya sokmak

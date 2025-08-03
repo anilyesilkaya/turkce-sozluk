@@ -2,6 +2,7 @@
 layout: term
 title: balık yumurtası
 slug: balik-yumurtasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balıkların genellikle sığ yerlere bıraktıkları, üremelerini sağlayan yumurta

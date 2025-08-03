@@ -2,6 +2,7 @@
 layout: term
 title: genel uyuşturma
 slug: genel-uyusturma
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► genel anestezi

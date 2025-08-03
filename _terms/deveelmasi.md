@@ -2,6 +2,7 @@
 layout: term
 title: deveelması
 slug: deveelmasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► çakırdiken

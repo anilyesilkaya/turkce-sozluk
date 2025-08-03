@@ -2,6 +2,7 @@
 layout: term
 title: azarlamak
 slug: azarlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kırıcı ve sert söz söylemek; donatmak, görünmek, paylamak, darılmak, kakımak, terslemek (I), zılgıt vermek, tekdir etmek, takaza etmek

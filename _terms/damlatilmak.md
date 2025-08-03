@@ -2,6 +2,7 @@
 layout: term
 title: damlatılmak
 slug: damlatilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damlatma işi yapılmak

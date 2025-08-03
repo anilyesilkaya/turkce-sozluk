@@ -2,6 +2,7 @@
 layout: term
 title: ücretlendirme
 slug: ucretlendirme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ücretlendirmek işi

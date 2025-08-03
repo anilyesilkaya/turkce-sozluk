@@ -2,6 +2,7 @@
 layout: term
 title: memure
 slug: memure
+letter: M
 lisan: Arapça meʾmūre
 anlamlar:
 - Kadın memur

@@ -2,6 +2,7 @@
 layout: term
 title: irca
 slug: irca
+letter: I
 lisan: Arapça ircāʿ
 anlamlar:
 - Eski biçimine çevirme

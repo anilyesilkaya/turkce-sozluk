@@ -2,6 +2,7 @@
 layout: term
 title: basın kartı
 slug: basin-karti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basın mensubu olan kişilerin taşıdığı kimlik belgesi

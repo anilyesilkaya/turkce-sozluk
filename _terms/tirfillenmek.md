@@ -2,6 +2,7 @@
 layout: term
 title: tirfillenmek
 slug: tirfillenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kumaş havı dökülmek

@@ -2,6 +2,7 @@
 layout: term
 title: tuzsu
 slug: tuzsu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzu andıran, tuza benzeyen, tuz gibi; tuzumsu

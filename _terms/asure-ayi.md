@@ -2,6 +2,7 @@
 layout: term
 title: aşure ayı
 slug: asure-ayi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► muharrem

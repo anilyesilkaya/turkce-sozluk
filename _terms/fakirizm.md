@@ -2,6 +2,7 @@
 layout: term
 title: fakirizm
 slug: fakirizm
+letter: F
 lisan: Fransızca fakirisme
 anlamlar:
 - Hint felsefesinde insan vücudu bütün kötülüklerin kaynağı sayıldığından, bedene eziyeti ruhun kurtuluşu ve mutluluğu için gerekli gören çilekeşlik

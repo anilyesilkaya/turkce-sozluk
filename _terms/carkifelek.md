@@ -2,6 +2,7 @@
 layout: term
 title: çarkıfelek
 slug: carkifelek
+letter: Ç
 lisan: Farsça çarḫ + Arapça felek
 anlamlar:
 - Yakıldığında dönerek kıvılcım saçan donanma fişeği

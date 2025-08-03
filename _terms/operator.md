@@ -2,6 +2,7 @@
 layout: term
 title: operatör
 slug: operator
+letter: O
 lisan: Fransızca opérateur
 anlamlar:
 - ► cerrah

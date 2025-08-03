@@ -2,6 +2,7 @@
 layout: term
 title: gözü kesmek
 slug: gozu-kesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir işi yapabilme konusunda kendisine veya başkalarına güvenmek

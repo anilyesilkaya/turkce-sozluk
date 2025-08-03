@@ -2,6 +2,7 @@
 layout: term
 title: aklının köşesinden geçmemek
 slug: aklinin-kosesinden-gecmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - hiçbir zaman düşünmemek

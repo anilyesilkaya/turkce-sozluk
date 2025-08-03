@@ -2,6 +2,7 @@
 layout: term
 title: dönem sonu sınavı
 slug: donem-sonu-sinavi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yarıyıl sonu sınavı

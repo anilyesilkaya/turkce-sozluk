@@ -2,6 +2,7 @@
 layout: term
 title: kak
 slug: kak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Elma, armut vb. meyvelerin kurutulmuşu

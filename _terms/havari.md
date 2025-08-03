@@ -2,6 +2,7 @@
 layout: term
 title: havari
 slug: havari
+letter: H
 lisan: Arapça ḥavārī
 anlamlar:
 - Hz. İsa'nın öğüt ve inançlarını yayma işiyle görevlendirdiği on iki yardımcısından her biri; apotr

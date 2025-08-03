@@ -2,6 +2,7 @@
 layout: term
 title: kundura
 slug: kundura
+letter: K
 lisan: İtalyanca condura
 anlamlar:
 - Kaba işlenmiş, bağsız, konçsuz ayakkabı

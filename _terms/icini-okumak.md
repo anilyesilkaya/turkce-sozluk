@@ -2,6 +2,7 @@
 layout: term
 title: içini okumak
 slug: icini-okumak
+letter: I
 lisan: Türkçe
 anlamlar:
 - birinin gizli, saklı düşüncelerini anlamak

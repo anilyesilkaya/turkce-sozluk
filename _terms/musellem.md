@@ -2,6 +2,7 @@
 layout: term
 title: müsellem
 slug: musellem
+letter: M
 lisan: Arapça musellem
 anlamlar:
 - Doğruluğu tartışılamayacak kadar açık olan, tersi savunulamayan, inkâr edilemeyen

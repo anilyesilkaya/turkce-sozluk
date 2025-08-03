@@ -2,6 +2,7 @@
 layout: term
 title: ahlaklı
 slug: ahlakli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlak kurallarına bağlı, bunlara uygun davranan (kimse)

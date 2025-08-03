@@ -2,6 +2,7 @@
 layout: term
 title: mıhlayabilme
 slug: mihlayabilme
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çivileyebilme

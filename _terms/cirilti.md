@@ -2,6 +2,7 @@
 layout: term
 title: cırıltı
 slug: cirilti
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Cır cır" diye çıkan sesin adı'

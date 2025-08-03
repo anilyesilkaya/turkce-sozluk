@@ -2,6 +2,7 @@
 layout: term
 title: hafife almak
 slug: hafife-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - küçümsemek, önemsememek

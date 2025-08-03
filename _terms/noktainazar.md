@@ -2,6 +2,7 @@
 layout: term
 title: noktainazar
 slug: noktainazar
+letter: N
 lisan: Arapça nuḳṭa + naẓar
 anlamlar:
 - Görüş, görüş açısı

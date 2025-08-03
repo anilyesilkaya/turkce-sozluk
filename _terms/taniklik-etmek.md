@@ -2,6 +2,7 @@
 layout: term
 title: tanıklık etmek
 slug: taniklik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - mahkemede, tanık olunan bir durumu söylemek, şahitlik etmek

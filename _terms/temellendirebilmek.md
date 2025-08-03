@@ -2,6 +2,7 @@
 layout: term
 title: temellendirebilmek
 slug: temellendirebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temellendirme ihtimali veya imkânı bulunmak

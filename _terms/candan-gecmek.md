@@ -2,6 +2,7 @@
 layout: term
 title: candan geçmek
 slug: candan-gecmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek

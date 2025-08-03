@@ -2,6 +2,7 @@
 layout: term
 title: teklifsizce
 slug: teklifsizce
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teklifsiz bir biçimde, içten olarak

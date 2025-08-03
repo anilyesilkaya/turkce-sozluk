@@ -2,6 +2,7 @@
 layout: term
 title: ovuşturmak
 slug: ovusturmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bastırarak başka bir şey üzerinden geçirmek

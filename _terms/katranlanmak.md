@@ -2,6 +2,7 @@
 layout: term
 title: katranlanmak
 slug: katranlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katranlama işi yapılmak

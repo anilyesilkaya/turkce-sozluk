@@ -2,6 +2,7 @@
 layout: term
 title: dargın durmak
 slug: dargin-durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - küskün durumda olmak

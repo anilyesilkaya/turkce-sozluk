@@ -2,6 +2,7 @@
 layout: term
 title: geniz
 slug: geniz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ağız ve burun boşluğunun arka bölümü

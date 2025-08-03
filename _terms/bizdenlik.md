@@ -2,6 +2,7 @@
 layout: term
 title: bizdenlik
 slug: bizdenlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bizden olma durumu

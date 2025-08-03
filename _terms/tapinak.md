@@ -2,6 +2,7 @@
 layout: term
 title: tapınak
 slug: tapinak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► mabet

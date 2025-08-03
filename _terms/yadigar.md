@@ -2,6 +2,7 @@
 layout: term
 title: yadigâr
 slug: yadigar
+letter: Y
 lisan: Farsça yādigār
 anlamlar:
 - ► hatıra

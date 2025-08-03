@@ -2,6 +2,7 @@
 layout: term
 title: elaman
 slug: elaman
+letter: E
 lisan: Arapça elamān
 anlamlar:
 - Bezginlik ve sızlanma anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ters evirme
 slug: ters-evirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Olumlu veya olumsuz olan bir önermenin konusunun tersini, yüklem ve yüklemin tersini konu yapma

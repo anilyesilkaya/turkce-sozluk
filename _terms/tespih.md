@@ -2,6 +2,7 @@
 layout: term
 title: tespih
 slug: tespih
+letter: T
 lisan: Arapça tesbīḥ
 anlamlar:
 - '"Süphanallah" sözünü söyleme'

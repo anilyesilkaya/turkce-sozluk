@@ -2,6 +2,7 @@
 layout: term
 title: cumhuriyetperver
 slug: cumhuriyetperver
+letter: C
 lisan: Arapça cumhūriyyet + Farsça -perver
 anlamlar:
 - ► cumhuriyetçi

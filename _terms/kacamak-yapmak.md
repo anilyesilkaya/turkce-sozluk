@@ -2,6 +2,7 @@
 layout: term
 title: kaçamak yapmak
 slug: kacamak-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hoş görülmeyen şeyi gizlice ara sıra yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: doçent
 slug: docent
+letter: D
 lisan: Almanca Dozent
 anlamlar:
 - Üniversitelerde profesörden önceki basamakta bulunan öğretim üyesi

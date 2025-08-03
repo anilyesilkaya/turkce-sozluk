@@ -2,6 +2,7 @@
 layout: term
 title: korkak
 slug: korkak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok çabuk ve olmayacak şeylerden korkan (kimse, hayvan); kansız, ödlek, tabansız, cebin, mütevehhim

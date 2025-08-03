@@ -2,6 +2,7 @@
 layout: term
 title: önüne katmak
 slug: onune-katmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - önden yürütüp kendisi ardı sıra gitmek

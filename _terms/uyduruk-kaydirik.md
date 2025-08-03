@@ -2,6 +2,7 @@
 layout: term
 title: uyduruk kaydırık
 slug: uyduruk-kaydirik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurulmuş, uydurma olan

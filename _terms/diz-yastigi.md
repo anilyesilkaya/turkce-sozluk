@@ -2,6 +2,7 @@
 layout: term
 title: diz yastığı
 slug: diz-yastigi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Taşıtlarda kaza anında diz bölümüne gelebilecek çarpmaların sonuçlarını azaltmaya yönelik hava basınçlı yastık

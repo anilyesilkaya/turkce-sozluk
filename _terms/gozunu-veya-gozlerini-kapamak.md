@@ -2,6 +2,7 @@
 layout: term
 title: gözünü (veya gözlerini) kapamak
 slug: gozunu-veya-gozlerini-kapamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ölmek

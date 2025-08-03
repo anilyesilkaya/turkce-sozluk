@@ -2,6 +2,7 @@
 layout: term
 title: uğraşma
 slug: ugrasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğraşmak işi; müsademe

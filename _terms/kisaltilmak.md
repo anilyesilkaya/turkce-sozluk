@@ -2,6 +2,7 @@
 layout: term
 title: kısaltılmak
 slug: kisaltilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısa duruma getirilmek

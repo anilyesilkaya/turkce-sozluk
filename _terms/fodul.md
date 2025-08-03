@@ -2,6 +2,7 @@
 layout: term
 title: fodul
 slug: fodul
+letter: F
 lisan: Arapça fuḍūl
 anlamlar:
 - Üstünlük taslayan, kibirlenen

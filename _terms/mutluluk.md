@@ -2,6 +2,7 @@
 layout: term
 title: mutluluk
 slug: mutluluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutlu olma durumu; mut (I), ongunluk, kut, devlet, saadet, bahtiyarlık, saadetlilik

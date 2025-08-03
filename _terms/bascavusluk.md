@@ -2,6 +2,7 @@
 layout: term
 title: başçavuşluk
 slug: bascavusluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başçavuş olma durumu

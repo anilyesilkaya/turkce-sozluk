@@ -2,6 +2,7 @@
 layout: term
 title: saraylı
 slug: sarayli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde padişah sarayında bulunmuş olan (kadın)

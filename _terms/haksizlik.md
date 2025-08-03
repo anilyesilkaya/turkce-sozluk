@@ -2,6 +2,7 @@
 layout: term
 title: haksızlık
 slug: haksizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hak ve adalete aykırılık

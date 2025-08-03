@@ -2,6 +2,7 @@
 layout: term
 title: aç kalmak
 slug: ac-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - karnını doyuramamak

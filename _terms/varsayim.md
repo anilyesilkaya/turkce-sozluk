@@ -2,6 +2,7 @@
 layout: term
 title: varsayım
 slug: varsayim
+letter: V
 lisan: Türkçe
 anlamlar:
 - Deneylerle henüz yeter derecede doğrulanmamış ancak doğrulanacağı umulan teorik düşünce; faraziye, hipotez

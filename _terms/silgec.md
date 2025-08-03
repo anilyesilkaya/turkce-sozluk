@@ -2,6 +2,7 @@
 layout: term
 title: silgeç
 slug: silgec
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► silecek

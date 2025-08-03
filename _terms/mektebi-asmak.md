@@ -2,6 +2,7 @@
 layout: term
 title: mektebi asmak
 slug: mektebi-asmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - derslere girmemek için keyfî olarak okula gitmemek, okulu asmak

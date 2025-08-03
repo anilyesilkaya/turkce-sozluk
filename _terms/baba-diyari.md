@@ -2,6 +2,7 @@
 layout: term
 title: baba diyarı
 slug: baba-diyari
+letter: B
 lisan: Türkçe
 anlamlar:
 - Soyun, kökenin bulunduğu yer

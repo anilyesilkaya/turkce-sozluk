@@ -2,6 +2,7 @@
 layout: term
 title: kıskıvrak
 slug: kiskivrak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çözülemeyecek veya kurtulamayacak bir biçimde

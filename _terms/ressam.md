@@ -2,6 +2,7 @@
 layout: term
 title: ressam
 slug: ressam
+letter: R
 lisan: Arapça ressām
 anlamlar:
 - Resim yapan sanatçı

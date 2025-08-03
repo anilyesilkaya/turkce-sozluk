@@ -2,6 +2,7 @@
 layout: term
 title: kırkma
 slug: kirkma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırkmak işi

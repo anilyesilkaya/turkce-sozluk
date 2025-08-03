@@ -2,6 +2,7 @@
 layout: term
 title: gelinfeneri
 slug: gelinfeneri
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kuş kirazı

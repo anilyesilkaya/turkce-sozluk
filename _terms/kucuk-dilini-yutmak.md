@@ -2,6 +2,7 @@
 layout: term
 title: küçük dilini yutmak
 slug: kucuk-dilini-yutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - şaşırmak, donakalmak

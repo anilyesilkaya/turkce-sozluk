@@ -2,6 +2,7 @@
 layout: term
 title: aklına gelmek
 slug: aklina-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anımsamak

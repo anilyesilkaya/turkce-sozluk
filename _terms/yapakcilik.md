@@ -2,6 +2,7 @@
 layout: term
 title: yapakçılık
 slug: yapakcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yapağıcılık

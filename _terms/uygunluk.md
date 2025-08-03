@@ -2,6 +2,7 @@
 layout: term
 title: uygunluk
 slug: uygunluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygun olma durumu; yakışık, mutabakat, mukarenet

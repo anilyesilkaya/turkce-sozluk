@@ -2,6 +2,7 @@
 layout: term
 title: yumru
 slug: yumru
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvarlak, şişkin şey

@@ -2,6 +2,7 @@
 layout: term
 title: yılık
 slug: yilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çarpık, eğri olan (ağız)

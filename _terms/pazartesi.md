@@ -2,6 +2,7 @@
 layout: term
 title: pazartesi
 slug: pazartesi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazar ile salı arasındaki gün

@@ -2,6 +2,7 @@
 layout: term
 title: meyus etmek
 slug: meyus-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - üzmek

@@ -2,6 +2,7 @@
 layout: term
 title: palavra atmak (veya savurmak veya sıkmak)
 slug: palavra-atmak-veya-savurmak-veya-sikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - abartarak konuşmak, başarılardan abartarak söz etmek

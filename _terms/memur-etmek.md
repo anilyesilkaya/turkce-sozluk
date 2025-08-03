@@ -2,6 +2,7 @@
 layout: term
 title: memur etmek
 slug: memur-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - görevlendirmek

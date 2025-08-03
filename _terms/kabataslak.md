@@ -2,6 +2,7 @@
 layout: term
 title: kabataslak
 slug: kabataslak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ayrıntılarına girmeden ana çizgilerini belirten

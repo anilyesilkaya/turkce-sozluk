@@ -2,6 +2,7 @@
 layout: term
 title: görgü tanığı
 slug: gorgu-tanigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bulunduğu yerde gerçekleşen olayı gören kimse

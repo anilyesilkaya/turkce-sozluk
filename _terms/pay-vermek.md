@@ -2,6 +2,7 @@
 layout: term
 title: pay vermek
 slug: pay-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - hisse vermek, bölüşmede bulunan parçalardan ayırmak

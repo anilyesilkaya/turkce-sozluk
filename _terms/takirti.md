@@ -2,6 +2,7 @@
 layout: term
 title: takırtı
 slug: takirti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin çıkardığı kuru ve sert ses

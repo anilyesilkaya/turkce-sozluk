@@ -2,6 +2,7 @@
 layout: term
 title: ambargo koymak
 slug: ambargo-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir malın serbest sürümünü engellemek

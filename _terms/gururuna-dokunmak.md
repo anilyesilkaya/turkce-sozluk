@@ -2,6 +2,7 @@
 layout: term
 title: gururuna dokunmak
 slug: gururuna-dokunmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kişiliği zedelenmek, onuru kırılmak

@@ -2,6 +2,7 @@
 layout: term
 title: klasikleşmek
 slug: klasiklesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sanat, sanatçı, eser klasik duruma gelmek, zamana karşı değerini yitirmemek

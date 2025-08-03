@@ -2,6 +2,7 @@
 layout: term
 title: suspus olmak
 slug: suspus-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - susmak, sinmek, sesini hiç çıkarmamak

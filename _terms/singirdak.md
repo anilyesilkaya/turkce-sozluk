@@ -2,6 +2,7 @@
 layout: term
 title: şıngırdak
 slug: singirdak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Sallanınca ses çıkartan, içine taş veya benzeri sert nesneler konulmuş çocuk oyuncağı

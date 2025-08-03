@@ -2,6 +2,7 @@
 layout: term
 title: kayma
 slug: kayma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaymak (II) işi

@@ -2,6 +2,7 @@
 layout: term
 title: oymacı
 slug: oymaci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyma işleri yapan sanatçı

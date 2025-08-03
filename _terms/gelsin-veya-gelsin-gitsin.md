@@ -2,6 +2,7 @@
 layout: term
 title: gelsin ... (veya gelsin ... gitsin ...)
 slug: gelsin-veya-gelsin-gitsin
+letter: G
 lisan: Türkçe
 anlamlar:
 - yaşantı veya durumun rahatlığını anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: sesleniş
 slug: seslenis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seslenmek işi

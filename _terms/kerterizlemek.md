@@ -2,6 +2,7 @@
 layout: term
 title: kerterizlemek
 slug: kerterizlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kerteriz almak

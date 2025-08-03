@@ -2,6 +2,7 @@
 layout: term
 title: suç duyurusunda bulunmak
 slug: suc-duyurusunda-bulunmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ilgiliye, ilgili makama suçu bildirmek

@@ -2,6 +2,7 @@
 layout: term
 title: algılayış
 slug: algilayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algılamak durumu

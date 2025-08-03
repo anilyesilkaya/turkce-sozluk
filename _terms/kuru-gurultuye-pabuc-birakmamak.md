@@ -2,6 +2,7 @@
 layout: term
 title: kuru gürültüye pabuç bırakmamak
 slug: kuru-gurultuye-pabuc-birakmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir durum karşısında telaşsız, korkusuz, dilediğince davranmak

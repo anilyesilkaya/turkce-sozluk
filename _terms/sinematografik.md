@@ -2,6 +2,7 @@
 layout: term
 title: sinematografik
 slug: sinematografik
+letter: S
 lisan: Fransızca cinématographique
 anlamlar:
 - Sinemaya ilişkin, sinemayla ilgili

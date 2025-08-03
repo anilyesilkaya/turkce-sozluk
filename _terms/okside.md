@@ -2,6 +2,7 @@
 layout: term
 title: okside
 slug: okside
+letter: O
 lisan: Fransızca oxydé
 anlamlar:
 - Paslanmış

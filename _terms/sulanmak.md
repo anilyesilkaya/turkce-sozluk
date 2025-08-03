@@ -2,6 +2,7 @@
 layout: term
 title: sulanmak
 slug: sulanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sulama işi yapılmak

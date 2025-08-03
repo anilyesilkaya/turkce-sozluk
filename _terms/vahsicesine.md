@@ -2,6 +2,7 @@
 layout: term
 title: vahşicesine
 slug: vahsicesine
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► vahşice

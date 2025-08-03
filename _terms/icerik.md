@@ -2,6 +2,7 @@
 layout: term
 title: içerik
 slug: icerik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içinde bulunanların bütünü; muhteva, mazruf

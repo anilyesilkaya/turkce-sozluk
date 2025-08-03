@@ -2,6 +2,7 @@
 layout: term
 title: caygınlık
 slug: cayginlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caygın olma durumu

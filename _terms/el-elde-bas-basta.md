@@ -2,6 +2,7 @@
 layout: term
 title: el elde baş başta
 slug: el-elde-bas-basta
+letter: E
 lisan: Türkçe
 anlamlar:
 - elde bulunan her şeyin tükendiğini anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ahmaklaştırmak
 slug: ahmaklastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahmak durumuna getirmek

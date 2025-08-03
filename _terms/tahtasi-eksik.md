@@ -2,6 +2,7 @@
 layout: term
 title: tahtası eksik
 slug: tahtasi-eksik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aklı tam olmayan, şaşkın, alık, budala olan (kimse)

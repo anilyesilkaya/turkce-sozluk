@@ -2,6 +2,7 @@
 layout: term
 title: gözü önünde
 slug: gozu-onunde
+letter: G
 lisan: Türkçe
 anlamlar:
 - yanında, yakınında

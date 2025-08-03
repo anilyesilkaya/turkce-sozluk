@@ -2,6 +2,7 @@
 layout: term
 title: iskele kuşu
 slug: iskele-kusu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yalıçapkını

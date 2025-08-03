@@ -2,6 +2,7 @@
 layout: term
 title: elektromotor
 slug: elektromotor
+letter: E
 lisan: Fransızca électromoteur
 anlamlar:
 - Elektrik enerjisini mekanik enerjiye çeviren cihaz

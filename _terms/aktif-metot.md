@@ -2,6 +2,7 @@
 layout: term
 title: aktif metot
 slug: aktif-metot
+letter: A
 lisan: Türkçe
 anlamlar:
 - Öğrencilerin, kişisel çalışmalarını ve iş yapma yeteneklerini geliştirmeyi sağlayan bilimsel yöntem

@@ -2,6 +2,7 @@
 layout: term
 title: selp
 slug: selp
+letter: S
 lisan: Arapça selb
 anlamlar:
 - Zorla alma, kapma

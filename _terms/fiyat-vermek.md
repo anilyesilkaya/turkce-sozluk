@@ -2,6 +2,7 @@
 layout: term
 title: fiyat vermek
 slug: fiyat-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - isteyeceği veya ödeyeceği fiyatı bildirmek

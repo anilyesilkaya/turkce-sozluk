@@ -2,6 +2,7 @@
 layout: term
 title: lanet etmek
 slug: lanet-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - ilenmek, kötülüğünü istemek

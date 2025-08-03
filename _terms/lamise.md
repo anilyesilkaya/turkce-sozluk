@@ -2,6 +2,7 @@
 layout: term
 title: lamise
 slug: lamise
+letter: L
 lisan: Arapça lāmise
 anlamlar:
 - ► dokunum

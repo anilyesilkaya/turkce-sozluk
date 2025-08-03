@@ -2,6 +2,7 @@
 layout: term
 title: gelişivermek
 slug: gelisivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın gelişmek

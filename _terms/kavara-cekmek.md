@@ -2,6 +2,7 @@
 layout: term
 title: kavara çekmek
 slug: kavara-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yellenmek

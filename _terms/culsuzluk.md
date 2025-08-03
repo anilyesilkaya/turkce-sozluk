@@ -2,6 +2,7 @@
 layout: term
 title: çulsuzluk
 slug: culsuzluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çulsuz olma durumu

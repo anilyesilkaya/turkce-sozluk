@@ -2,6 +2,7 @@
 layout: term
 title: ders çalışmak
 slug: ders-calismak
+letter: D
 lisan: Türkçe
 anlamlar:
 - belli bir konuyu öğrenmek üzere kaynakları kullanarak çalışmak

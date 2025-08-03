@@ -2,6 +2,7 @@
 layout: term
 title: yoğunluklu
 slug: yogunluklu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğunluğu olan

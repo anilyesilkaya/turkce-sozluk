@@ -2,6 +2,7 @@
 layout: term
 title: francalacı
 slug: francalaci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Francala yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: angutlaşmak
 slug: angutlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Angut duruma gelmek

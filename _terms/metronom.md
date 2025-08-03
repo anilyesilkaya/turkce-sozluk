@@ -2,6 +2,7 @@
 layout: term
 title: metronom
 slug: metronom
+letter: M
 lisan: Fransızca métronome
 anlamlar:
 - Bir müzik parçasının hangi hızla çalınması gerektiğini gösteren alet

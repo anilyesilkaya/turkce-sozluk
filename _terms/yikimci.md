@@ -2,6 +2,7 @@
 layout: term
 title: yıkımcı
 slug: yikimci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapıları yıkma işini yapan kimse

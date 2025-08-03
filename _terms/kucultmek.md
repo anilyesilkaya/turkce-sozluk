@@ -2,6 +2,7 @@
 layout: term
 title: küçültmek
 slug: kucultmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büyükken daha küçük duruma getirmek

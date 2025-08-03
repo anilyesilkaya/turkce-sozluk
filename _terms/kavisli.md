@@ -2,6 +2,7 @@
 layout: term
 title: kavisli
 slug: kavisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavisi olan; mukavves

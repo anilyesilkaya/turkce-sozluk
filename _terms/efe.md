@@ -2,6 +2,7 @@
 layout: term
 title: efe
 slug: efe
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yiğit, özellikle Batı Anadolu köy yiğidi; zeybek

@@ -2,6 +2,7 @@
 layout: term
 title: ılım ılım
 slug: ilim-ilim
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► içten

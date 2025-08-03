@@ -2,6 +2,7 @@
 layout: term
 title: nezle
 slug: nezle
+letter: N
 lisan: Arapça nezle
 anlamlar:
 - Soğuk almaktan ileri gelen, burun akması, aksırma ile beliren hastalık; ingin, tumağı, dumağı, çaputlama, zükâm, nevazil

@@ -2,6 +2,7 @@
 layout: term
 title: nöbet
 slug: nobet
+letter: N
 lisan: Arapça nevbet
 anlamlar:
 - Sıra ile belirli süre bir yeri bekleme işi

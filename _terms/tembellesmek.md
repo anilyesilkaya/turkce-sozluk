@@ -2,6 +2,7 @@
 layout: term
 title: tembelleşmek
 slug: tembellesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tembel duruma gelmek

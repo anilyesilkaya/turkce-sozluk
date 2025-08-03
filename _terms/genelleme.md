@@ -2,6 +2,7 @@
 layout: term
 title: genelleme
 slug: genelleme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genellemek işi

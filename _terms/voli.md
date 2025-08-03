@@ -2,6 +2,7 @@
 layout: term
 title: voli
 slug: voli
+letter: V
 lisan: Rumca
 anlamlar:
 - Balıkçı kayıklarının balıkları çevirmek için denize fırdolayı ağ salmaları

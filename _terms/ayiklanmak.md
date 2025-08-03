@@ -2,6 +2,7 @@
 layout: term
 title: ayıklanmak
 slug: ayiklanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıklama işine konu olmak

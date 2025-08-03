@@ -2,6 +2,7 @@
 layout: term
 title: ekru
 slug: ekru
+letter: E
 lisan: İngilizce ecru
 anlamlar:
 - Krem rengine yakın beyaz

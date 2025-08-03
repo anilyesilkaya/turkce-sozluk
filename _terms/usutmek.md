@@ -2,6 +2,7 @@
 layout: term
 title: üşütmek
 slug: usutmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üşümesine sebep olmak

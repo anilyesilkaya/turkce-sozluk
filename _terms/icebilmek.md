@@ -2,6 +2,7 @@
 layout: term
 title: içebilmek
 slug: icebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçme ihtimali veya imkânı bulunmak

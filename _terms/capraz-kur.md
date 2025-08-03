@@ -2,6 +2,7 @@
 layout: term
 title: çapraz kur
 slug: capraz-kur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki ülke parası arasında üçüncü bir ülkenin parasıyla belirlenen kambiyo sürüm değeri

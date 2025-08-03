@@ -2,6 +2,7 @@
 layout: term
 title: eş cinsel
 slug: es-cinsel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Duygusal veya cinsel olarak kendi cinsine ilgi duyan kimse; homoseksüel

@@ -2,6 +2,7 @@
 layout: term
 title: varla yok arası
 slug: varla-yok-arasi
+letter: V
 lisan: Türkçe
 anlamlar:
 - belli belirsiz

@@ -2,6 +2,7 @@
 layout: term
 title: jurnallemek
 slug: jurnallemek
+letter: J
 lisan: Türkçe
 anlamlar:
 - Şikâyet etmek, ihbar etmek

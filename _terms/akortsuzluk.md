@@ -2,6 +2,7 @@
 layout: term
 title: akortsuzluk
 slug: akortsuzluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ses düzensizliği veya ayarsızlığı

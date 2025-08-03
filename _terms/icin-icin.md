@@ -2,6 +2,7 @@
 layout: term
 title: için için
 slug: icin-icin
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gizli gizli

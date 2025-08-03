@@ -2,6 +2,7 @@
 layout: term
 title: güncelliğini korumak
 slug: guncelligini-korumak
+letter: G
 lisan: Türkçe
 anlamlar:
 - önemini sürdürmek, yitirmemek

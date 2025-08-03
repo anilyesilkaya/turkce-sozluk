@@ -2,6 +2,7 @@
 layout: term
 title: stoper
 slug: stoper
+letter: S
 lisan: İngilizce stopper
 anlamlar:
 - Futbolda savunmanın ortasında görev yapan ve topu kesip dağıtan oyuncu; kesici

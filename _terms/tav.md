@@ -2,6 +2,7 @@
 layout: term
 title: tav
 slug: tav
+letter: T
 lisan: Farsça tāv
 anlamlar:
 - İşlenecek bir nesnede bulunması gereken ısının, nemin yeterli olması durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sağ para
 slug: sag-para
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sağlam para

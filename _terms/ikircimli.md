@@ -2,6 +2,7 @@
 layout: term
 title: ikircimli
 slug: ikircimli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kuşkucu

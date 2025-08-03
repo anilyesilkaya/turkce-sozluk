@@ -2,6 +2,7 @@
 layout: term
 title: kurban etmek
 slug: kurban-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kurban kesmek

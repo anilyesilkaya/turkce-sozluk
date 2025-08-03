@@ -2,6 +2,7 @@
 layout: term
 title: taaşşuk
 slug: taassuk
+letter: T
 lisan: Arapça taʿaşşuḳ
 anlamlar:
 - Karşılıklı âşık olma

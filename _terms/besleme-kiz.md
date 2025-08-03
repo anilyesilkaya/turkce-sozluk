@@ -2,6 +2,7 @@
 layout: term
 title: besleme kız
 slug: besleme-kiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► besleme

@@ -2,6 +2,7 @@
 layout: term
 title: cızlamak
 slug: cizlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Cız" diye ses çıkarmak'

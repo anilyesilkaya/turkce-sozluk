@@ -2,6 +2,7 @@
 layout: term
 title: sövüp saymak
 slug: sovup-saymak
+letter: S
 lisan: Türkçe
 anlamlar:
 - aralıksız küfürler sıralamak, uzun uzadıya söverek yermek

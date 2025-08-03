@@ -2,6 +2,7 @@
 layout: term
 title: olağanüstü
 slug: olaganustu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Alışılmıştan, benzerlerinden farklı olan; fevkalade

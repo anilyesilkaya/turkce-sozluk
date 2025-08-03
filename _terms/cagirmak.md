@@ -2,6 +2,7 @@
 layout: term
 title: çağırmak
 slug: cagirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birinin gelmesini kendisine yüksek sesle söylemek, seslenmek

@@ -2,6 +2,7 @@
 layout: term
 title: (...-in) resmidir
 slug: in-resmidir
+letter: (
 lisan: Türkçe
 anlamlar:
 - … olacağı kesindir, muhakkak … olacaktır

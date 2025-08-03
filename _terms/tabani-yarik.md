@@ -2,6 +2,7 @@
 layout: term
 title: tabanı yarık
 slug: tabani-yarik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Korkak, güven vermeyen (kimse)

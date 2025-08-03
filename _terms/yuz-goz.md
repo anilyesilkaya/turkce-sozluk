@@ -2,6 +2,7 @@
 layout: term
 title: yüz göz
 slug: yuz-goz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"Biriyle gereksiz yere, aşırı derecede senli benli olmak" anlamındaki yüz göz olmak deyiminde geçen bir söz'

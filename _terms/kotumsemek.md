@@ -2,6 +2,7 @@
 layout: term
 title: kötümsemek
 slug: kotumsemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir olay, bir konu vb.ni yalnız olumsuz yönleriyle düşünmek veya ele almak

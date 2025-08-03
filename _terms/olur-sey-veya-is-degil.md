@@ -2,6 +2,7 @@
 layout: term
 title: olur şey (veya iş) değil
 slug: olur-sey-veya-is-degil
+letter: O
 lisan: Türkçe
 anlamlar:
 - “olamaz veya gerçekleşmesi beklenmez” anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: dantel
 slug: dantel
+letter: D
 lisan: Fransızca dentelle
 anlamlar:
 - Her türlü iplikle örülen veya bir kumaşın kenarına işlenen türlü biçimde ince ve ağ görünümünde örgü; tentene

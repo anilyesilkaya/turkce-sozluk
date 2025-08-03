@@ -2,6 +2,7 @@
 layout: term
 title: salip
 slug: salip
+letter: S
 lisan: Arapça ṣalīb
 anlamlar:
 - ► haç

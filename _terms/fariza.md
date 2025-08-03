@@ -2,6 +2,7 @@
 layout: term
 title: fariza
 slug: fariza
+letter: F
 lisan: Arapça farīża
 anlamlar:
 - İslam dinine göre geçerli bir mazeret olmadıkça terki düşünülmeyen ve mutlaka yapılması gereken iş veya görev

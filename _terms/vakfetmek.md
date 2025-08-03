@@ -2,6 +2,7 @@
 layout: term
 title: vakfetmek
 slug: vakfetmek
+letter: V
 lisan: Arapça vaḳf + Türkçe etmek
 anlamlar:
 - Mal ve mülkünü satılmamak şartıyla bir hayır kurumuna veya işine bağışlamak

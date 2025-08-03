@@ -2,6 +2,7 @@
 layout: term
 title: cibilliyetsizlik
 slug: cibilliyetsizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► soysuzluk

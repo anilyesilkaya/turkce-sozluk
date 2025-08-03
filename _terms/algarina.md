@@ -2,6 +2,7 @@
 layout: term
 title: algarina
 slug: algarina
+letter: A
 lisan: İtalyanca argagno
 anlamlar:
 - Ağır bir şeyi denizden çıkarma veya denize indirme işinde kullanılan büyük vinçli deniz teknesi

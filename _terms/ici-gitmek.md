@@ -2,6 +2,7 @@
 layout: term
 title: içi gitmek
 slug: ici-gitmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - içi sürmek

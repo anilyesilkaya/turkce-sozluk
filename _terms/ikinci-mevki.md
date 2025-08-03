@@ -2,6 +2,7 @@
 layout: term
 title: ikinci mevki
 slug: ikinci-mevki
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gemi, tren vb. taşıtlarda veya tiyatro, sinema vb. yerlerde daha az para ödenen ve daha az hizmet alınan mevki; ikinci sınıf

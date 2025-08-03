@@ -2,6 +2,7 @@
 layout: term
 title: manyat
 slug: manyat
+letter: M
 lisan: İtalyanca menaida
 anlamlar:
 - Alamanadan küçük, üç çifte balıkçı kayığı

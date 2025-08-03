@@ -2,6 +2,7 @@
 layout: term
 title: birsam
 slug: birsam
+letter: B
 lisan: Arapça birsām
 anlamlar:
 - ► sanrı

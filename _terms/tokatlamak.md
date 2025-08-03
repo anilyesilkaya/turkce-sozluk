@@ -2,6 +2,7 @@
 layout: term
 title: tokatlamak
 slug: tokatlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tokat atmak

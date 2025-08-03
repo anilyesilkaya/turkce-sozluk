@@ -2,6 +2,7 @@
 layout: term
 title: yanmaz tava
 slug: yanmaz-tava
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İçinde pişirilen yiyecek malzemesinin yanmamasını veya yapışmamasını sağlayan maddeden yapılmış bir tür tava

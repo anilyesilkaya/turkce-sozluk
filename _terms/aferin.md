@@ -2,6 +2,7 @@
 layout: term
 title: aferin
 slug: aferin
+letter: A
 lisan: Farsça āferīn
 anlamlar:
 - Övme, takdir, beğenme vb. duyguları belirtmek için söylenen söz

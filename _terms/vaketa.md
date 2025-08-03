@@ -2,6 +2,7 @@
 layout: term
 title: vaketa
 slug: vaketa
+letter: V
 lisan: İtalyanca vachetta
 anlamlar:
 - İnek derisinden imal edilmiş, postal, hayvan koşumları, kütüklük ve saraciyede kullanılan, bir tür ince meşin

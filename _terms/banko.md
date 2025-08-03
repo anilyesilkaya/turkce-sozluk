@@ -2,6 +2,7 @@
 layout: term
 title: banko
 slug: banko
+letter: B
 lisan: İtalyanca banco
 anlamlar:
 - İş yerlerinde üzerine eşya koymaya elverişli, iş takibi için gelen kişiyle görevli arasına konulmuş tezgâh

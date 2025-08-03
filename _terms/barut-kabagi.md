@@ -2,6 +2,7 @@
 layout: term
 title: barut kabağı
 slug: barut-kabagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kurutulduktan sonra bir kayışla boyna asılan ve içine barut konulan küçük su kabağı; barutluk

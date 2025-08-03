@@ -2,6 +2,7 @@
 layout: term
 title: şapkasız
 slug: sapkasiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şapkası olmayan

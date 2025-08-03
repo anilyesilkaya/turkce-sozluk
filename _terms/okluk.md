@@ -2,6 +2,7 @@
 layout: term
 title: okluk
 slug: okluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - İçine ok konulan ve sırtta taşınan meşinden yapılmış ok kılıfı; okdanlık, sadak

@@ -2,6 +2,7 @@
 layout: term
 title: arayış
 slug: arayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aramak işi

@@ -2,6 +2,7 @@
 layout: term
 title: melek gibi
 slug: melek-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - sessiz, sakin

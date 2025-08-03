@@ -2,6 +2,7 @@
 layout: term
 title: oyunbozanlık
 slug: oyunbozanlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyunbozan olma durumu; mızıkçılık, ordubozanlık

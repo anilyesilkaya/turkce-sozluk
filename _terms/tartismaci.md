@@ -2,6 +2,7 @@
 layout: term
 title: tartışmacı
 slug: tartismaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir konu ile ilgili ayrı görüşleri savunan kimselerin her biri

@@ -2,6 +2,7 @@
 layout: term
 title: çevrim içi
 slug: cevrim-ici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir bilgisayarın sunucuya ve bilgisayar ağına bağlı olarak çalışır olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: veriliş
 slug: verilis
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verilmek işi

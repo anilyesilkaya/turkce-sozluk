@@ -2,6 +2,7 @@
 layout: term
 title: seyranlık
 slug: seyranlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► gezinti yeri

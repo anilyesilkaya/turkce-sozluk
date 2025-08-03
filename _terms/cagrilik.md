@@ -2,6 +2,7 @@
 layout: term
 title: çağrılık
 slug: cagrilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► davetiye

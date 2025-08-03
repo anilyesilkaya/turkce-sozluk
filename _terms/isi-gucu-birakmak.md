@@ -2,6 +2,7 @@
 layout: term
 title: işi gücü bırakmak
 slug: isi-gucu-birakmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yaptığı işten uzaklaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: küreselleşme
 slug: kuresellesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küreselleşmek durumu; globalleşme

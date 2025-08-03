@@ -2,6 +2,7 @@
 layout: term
 title: zihince
 slug: zihince
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zihin bakımından; zihnen

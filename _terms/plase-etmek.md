@@ -2,6 +2,7 @@
 layout: term
 title: plase etmek
 slug: plase-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - topa kavisli gidecek biçimde vurmak

@@ -2,6 +2,7 @@
 layout: term
 title: inci
 slug: inci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstiridye gibi bazı kavkılı deniz hayvanlarının içerisinde oluşan, değerli, küçük, sert, sedef renginde süs tanesi

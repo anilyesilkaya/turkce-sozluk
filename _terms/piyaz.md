@@ -2,6 +2,7 @@
 layout: term
 title: piyaz
 slug: piyaz
+letter: P
 lisan: Farsça piyāz
 anlamlar:
 - Haşlanmış kuru fasulyenin üzerine ince doğranmış, tuzla ovulmuş soğan ve maydanoz katıldıktan sonra zeytinyağı, sirke dökülerek yapılan salata

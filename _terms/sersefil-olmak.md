@@ -2,6 +2,7 @@
 layout: term
 title: sersefil olmak
 slug: sersefil-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - perişan, zavallı durumda olmak

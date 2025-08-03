@@ -2,6 +2,7 @@
 layout: term
 title: masume
 slug: masume
+letter: M
 lisan: Arapça maʿṣūme
 anlamlar:
 - Suçsuz, günahsız (kadın)

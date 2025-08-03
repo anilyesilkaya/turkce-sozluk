@@ -2,6 +2,7 @@
 layout: term
 title: belirti
 slug: belirti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir olayın veya durumun anlaşılmasına yardım eden şey; alamet, emare, nişan, tezahür

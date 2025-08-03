@@ -2,6 +2,7 @@
 layout: term
 title: haddini bildirmek
 slug: haddini-bildirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - sert bir karşılıkla uslandırmak, yola getirmek, cezalandırmak

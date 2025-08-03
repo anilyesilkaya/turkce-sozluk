@@ -2,6 +2,7 @@
 layout: term
 title: raspa
 slug: raspa
+letter: R
 lisan: İtalyanca raspa
 anlamlar:
 - Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü

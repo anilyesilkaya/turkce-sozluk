@@ -2,6 +2,7 @@
 layout: term
 title: tragedya
 slug: tragedya
+letter: T
 lisan: Latince
 anlamlar:
 - ► trajedi

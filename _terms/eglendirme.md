@@ -2,6 +2,7 @@
 layout: term
 title: eğlendirme
 slug: eglendirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlendirmek işi

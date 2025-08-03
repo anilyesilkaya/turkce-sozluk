@@ -2,6 +2,7 @@
 layout: term
 title: giderek
 slug: giderek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gittikçe

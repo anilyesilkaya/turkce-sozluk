@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine (bir şey) çökmek
 slug: yuregine-bir-sey-cokmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - derinden ızdırap duymak

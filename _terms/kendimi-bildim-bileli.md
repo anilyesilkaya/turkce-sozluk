@@ -2,6 +2,7 @@
 layout: term
 title: kendimi bildim bileli
 slug: kendimi-bildim-bileli
+letter: K
 lisan: Türkçe
 anlamlar:
 - öteden beri, eskiden beri

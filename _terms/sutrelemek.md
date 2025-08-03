@@ -2,6 +2,7 @@
 layout: term
 title: sütrelemek
 slug: sutrelemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sütre ile kaplamak

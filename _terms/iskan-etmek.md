@@ -2,6 +2,7 @@
 layout: term
 title: iskân etmek
 slug: iskan-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yurtlandırmak

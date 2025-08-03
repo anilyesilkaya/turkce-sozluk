@@ -2,6 +2,7 @@
 layout: term
 title: şıkırdamak
 slug: sikirdamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birbirine çarpan metal nesneler şıkırtı sesi çıkarmak

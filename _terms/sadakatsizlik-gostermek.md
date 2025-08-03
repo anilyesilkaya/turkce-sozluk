@@ -2,6 +2,7 @@
 layout: term
 title: sadakatsizlik göstermek
 slug: sadakatsizlik-gostermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sadakatsiz olduğunu ortaya koymak, açıklamak

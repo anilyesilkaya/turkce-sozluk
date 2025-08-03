@@ -2,6 +2,7 @@
 layout: term
 title: balçık hurması
 slug: balcik-hurmasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sandıklara basılarak kurutulan hurma; balçık inciri

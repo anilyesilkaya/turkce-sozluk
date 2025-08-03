@@ -2,6 +2,7 @@
 layout: term
 title: bitik
 slug: bitik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yorgunluk veya hastalıktan gücü kalmamış

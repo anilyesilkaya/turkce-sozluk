@@ -2,6 +2,7 @@
 layout: term
 title: amma
 slug: amma
+letter: A
 lisan: Arapça ammā
 anlamlar:
 - ► ama

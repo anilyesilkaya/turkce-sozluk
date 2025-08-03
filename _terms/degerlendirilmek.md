@@ -2,6 +2,7 @@
 layout: term
 title: değerlendirilmek
 slug: degerlendirilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değerlendirme işi yapılmak; kıymetlendirilmek

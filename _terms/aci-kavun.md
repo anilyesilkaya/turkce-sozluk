@@ -2,6 +2,7 @@
 layout: term
 title: acı kavun
 slug: aci-kavun
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Ebucehil karpuzu

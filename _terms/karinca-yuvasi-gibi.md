@@ -2,6 +2,7 @@
 layout: term
 title: karınca yuvası gibi
 slug: karinca-yuvasi-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok kalabalık

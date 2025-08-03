@@ -2,6 +2,7 @@
 layout: term
 title: iştahla
 slug: istahla
+letter: I
 lisan: Türkçe
 anlamlar:
 - Büyük bir istekle

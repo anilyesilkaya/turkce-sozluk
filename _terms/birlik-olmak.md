@@ -2,6 +2,7 @@
 layout: term
 title: birlik olmak
 slug: birlik-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi yapmak için anlaşmak

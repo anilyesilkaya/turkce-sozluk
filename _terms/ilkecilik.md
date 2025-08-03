@@ -2,6 +2,7 @@
 layout: term
 title: ilkecilik
 slug: ilkecilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlkeci olma durumu

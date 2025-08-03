@@ -2,6 +2,7 @@
 layout: term
 title: kapı oğlanı
 slug: kapi-oglani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapı çuhadarı yamağı

@@ -2,6 +2,7 @@
 layout: term
 title: Arapça
 slug: arapca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sami dil ailesinin güney grubuna giren, Araplar ile Orta Doğu ve Kuzey Afrika’da yaşayan bazı halklar tarafından kullanılan dil; Arabi

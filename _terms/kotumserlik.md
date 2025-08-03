@@ -2,6 +2,7 @@
 layout: term
 title: kötümserlik
 slug: kotumserlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötümser olma durumu; karamsarlık, bedbinlik, meyusiyet

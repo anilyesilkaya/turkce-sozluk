@@ -2,6 +2,7 @@
 layout: term
 title: Giresunlu
 slug: giresunlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giresun ilinden olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: bitlenmek
 slug: bitlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitli duruma gelmek

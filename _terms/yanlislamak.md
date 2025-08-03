@@ -2,6 +2,7 @@
 layout: term
 title: yanlışlamak
 slug: yanlislamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanlış olduğunu belirtmek veya ortaya koymak

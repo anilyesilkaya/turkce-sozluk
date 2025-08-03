@@ -2,6 +2,7 @@
 layout: term
 title: behimilik
 slug: behimilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Behimi olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: viyolonsel
 slug: viyolonsel
+letter: V
 lisan: Fransızca violoncelle
 anlamlar:
 - Viyoladan büyük, kontrbastan küçük, dört sürtme telli bir orkestra çalgısı; çello

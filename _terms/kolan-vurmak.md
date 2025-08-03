@@ -2,6 +2,7 @@
 layout: term
 title: kolan vurmak
 slug: kolan-vurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - salıncakta hızlanmak için ayakta durup vücudu doğrultarak ileriye atılırcasına hareket etmek

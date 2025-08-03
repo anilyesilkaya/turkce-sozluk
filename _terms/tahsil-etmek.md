@@ -2,6 +2,7 @@
 layout: term
 title: tahsil etmek
 slug: tahsil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - parayı toplamak

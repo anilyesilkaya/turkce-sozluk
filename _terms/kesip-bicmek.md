@@ -2,6 +2,7 @@
 layout: term
 title: kesip biçmek
 slug: kesip-bicmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - parçalamak, doğramak, ameliyat etmek

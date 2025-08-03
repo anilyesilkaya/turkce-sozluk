@@ -2,6 +2,7 @@
 layout: term
 title: sivriltmek
 slug: sivriltmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sivri duruma getirmek

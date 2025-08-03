@@ -2,6 +2,7 @@
 layout: term
 title: ağcılık
 slug: agcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağcının yaptığı iş

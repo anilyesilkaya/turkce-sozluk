@@ -2,6 +2,7 @@
 layout: term
 title: doludizgin
 slug: doludizgin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Son hızla, çok hızlı bir biçimde

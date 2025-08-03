@@ -2,6 +2,7 @@
 layout: term
 title: taşıma
 slug: tasima
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşımak işi

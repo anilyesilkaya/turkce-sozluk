@@ -2,6 +2,7 @@
 layout: term
 title: badireli
 slug: badireli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badiresi olan

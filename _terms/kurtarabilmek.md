@@ -2,6 +2,7 @@
 layout: term
 title: kurtarabilmek
 slug: kurtarabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurtarma ihtimali veya imkânı bulunmak

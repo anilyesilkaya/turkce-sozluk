@@ -2,6 +2,7 @@
 layout: term
 title: ateşler içinde yanmak
 slug: atesler-icinde-yanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hasta çok ateşli bir durumda olmak

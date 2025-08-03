@@ -2,6 +2,7 @@
 layout: term
 title: sırtından bıçaklamak
 slug: sirtindan-bicaklamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ihanet etmek

@@ -2,6 +2,7 @@
 layout: term
 title: sonuçlandırabilmek
 slug: sonuclandirabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonuçlandırma ihtimali veya imkânı bulunmak; neticelendirebilmek

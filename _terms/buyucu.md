@@ -2,6 +2,7 @@
 layout: term
 title: büyücü
 slug: buyucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyü yapan kimse; afsuncu, efsuncu

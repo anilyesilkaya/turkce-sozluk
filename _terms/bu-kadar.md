@@ -2,6 +2,7 @@
 layout: term
 title: bu kadar
 slug: bu-kadar
+letter: B
 lisan: Türkçe
 anlamlar:
 - bu ölçüde, bu derecede

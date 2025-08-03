@@ -2,6 +2,7 @@
 layout: term
 title: nalbantlık
 slug: nalbantlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nalbant olma durumu

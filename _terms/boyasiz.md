@@ -2,6 +2,7 @@
 layout: term
 title: boyasız
 slug: boyasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boya sürülmemiş, boyanmamış olan

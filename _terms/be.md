@@ -2,6 +2,7 @@
 layout: term
 title: be
 slug: be
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"Ey, hey" anlamlarında bir seslenme sözü'

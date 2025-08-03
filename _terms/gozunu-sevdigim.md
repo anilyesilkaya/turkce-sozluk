@@ -2,6 +2,7 @@
 layout: term
 title: gözünü sevdiğim
 slug: gozunu-sevdigim
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok sevilen bir kişiye söylenen sevgi ve iltifat sözü

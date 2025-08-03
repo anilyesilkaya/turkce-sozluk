@@ -2,6 +2,7 @@
 layout: term
 title: ilkel kalmak
 slug: ilkel-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - gelişmemek, ilk durumunda kalmak

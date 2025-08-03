@@ -2,6 +2,7 @@
 layout: term
 title: davet etmek
 slug: davet-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çağırmak

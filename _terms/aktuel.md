@@ -2,6 +2,7 @@
 layout: term
 title: aktüel
 slug: aktuel
+letter: A
 lisan: Fransızca actuel
 anlamlar:
 - ► güncel

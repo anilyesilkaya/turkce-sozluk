@@ -2,6 +2,7 @@
 layout: term
 title: bileysiz
 slug: bileysiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilenmemiş (bıçak, ustura vb.); bileğisiz

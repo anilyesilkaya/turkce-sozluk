@@ -2,6 +2,7 @@
 layout: term
 title: tasdi
 slug: tasdi
+letter: T
 lisan: Arapça taṣdīʿ
 anlamlar:
 - Baş ağrıtma, baş ağrısı verme

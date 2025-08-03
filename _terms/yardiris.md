@@ -2,6 +2,7 @@
 layout: term
 title: yardırış
 slug: yardiris
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yardırmak işi

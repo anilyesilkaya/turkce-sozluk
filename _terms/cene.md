@@ -2,6 +2,7 @@
 layout: term
 title: çene
 slug: cene
+letter: Ç
 lisan: Farsça çāne
 anlamlar:
 - Canlılarda baş bölümünde yer alan, kemik veya kıkırdak ile desteklenen, altlı üstlü dişleri taşıyan ve ağzın kapanıp açılmasını sağlayan kasları üzerinde barındıran iki parçaya verilen ad

@@ -2,6 +2,7 @@
 layout: term
 title: yas çekmek
 slug: yas-cekmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yas tutmak

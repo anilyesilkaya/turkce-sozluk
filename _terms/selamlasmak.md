@@ -2,6 +2,7 @@
 layout: term
 title: selamlaşmak
 slug: selamlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbirine selam vermek; esenleşmek

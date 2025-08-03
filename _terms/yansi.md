@@ -2,6 +2,7 @@
 layout: term
 title: yansı
 slug: yansi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Isı ve ışık dalgalarının yansıtıcı bir yüzeye çarparak geri dönmesi; akis

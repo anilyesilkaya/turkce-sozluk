@@ -2,6 +2,7 @@
 layout: term
 title: fısıldanmak
 slug: fisildanmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fısıltı hâlinde söylenmek

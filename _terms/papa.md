@@ -2,6 +2,7 @@
 layout: term
 title: papa
 slug: papa
+letter: P
 lisan: İtalyanca papa
 anlamlar:
 - Roma Katolik kilisesinin, bir meclis tarafından seçilen, Vatikan'da oturan ve Hz. İsa'nın vekili sayılan başkanı

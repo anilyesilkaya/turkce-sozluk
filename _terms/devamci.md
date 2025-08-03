@@ -2,6 +2,7 @@
 layout: term
 title: devamcı
 slug: devamci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► müdavim

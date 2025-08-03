@@ -2,6 +2,7 @@
 layout: term
 title: hipnoz
 slug: hipnoz
+letter: H
 lisan: Fransızca hypnose
 anlamlar:
 - Sözle, bakışla telkinle sağlanan bir tür uyku durumu; uyutum, hipnotizma

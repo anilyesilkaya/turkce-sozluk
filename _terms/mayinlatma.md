@@ -2,6 +2,7 @@
 layout: term
 title: 'mayınlatma '
 slug: mayinlatma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mayınlatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: galebe çalmak
 slug: galebe-calmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yenmek

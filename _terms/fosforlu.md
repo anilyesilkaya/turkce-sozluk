@@ -2,6 +2,7 @@
 layout: term
 title: fosforlu
 slug: fosforlu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bileşiminde fosfor olan

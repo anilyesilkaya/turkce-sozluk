@@ -2,6 +2,7 @@
 layout: term
 title: üzme
 slug: uzme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzmek işi; tazip

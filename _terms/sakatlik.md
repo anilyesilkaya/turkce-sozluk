@@ -2,6 +2,7 @@
 layout: term
 title: sakatlık
 slug: sakatlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakat olma durumu; malullük, maluliyet

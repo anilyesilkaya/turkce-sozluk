@@ -2,6 +2,7 @@
 layout: term
 title: belalı
 slug: belali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yoran, üzen, can sıkan

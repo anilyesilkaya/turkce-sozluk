@@ -2,6 +2,7 @@
 layout: term
 title: addedilme
 slug: addedilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sayılma

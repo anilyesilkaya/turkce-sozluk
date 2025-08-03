@@ -2,6 +2,7 @@
 layout: term
 title: kupkuru
 slug: kupkuru
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kuru

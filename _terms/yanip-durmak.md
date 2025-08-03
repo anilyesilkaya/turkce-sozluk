@@ -2,6 +2,7 @@
 layout: term
 title: yanıp durmak
 slug: yanip-durmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - pişman olmak

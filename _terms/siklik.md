@@ -2,6 +2,7 @@
 layout: term
 title: sıklık
 slug: siklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sık olma durumu

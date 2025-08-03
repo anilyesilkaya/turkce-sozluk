@@ -2,6 +2,7 @@
 layout: term
 title: zorlayış
 slug: zorlayis
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlamak işi; cebir (I)

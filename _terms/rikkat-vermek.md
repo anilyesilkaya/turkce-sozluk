@@ -2,6 +2,7 @@
 layout: term
 title: rikkat vermek
 slug: rikkat-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - duygulandırmak, etkilemek

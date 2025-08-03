@@ -2,6 +2,7 @@
 layout: term
 title: bugünkü
 slug: bugunku
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bugüne özgü, bugün olan, bugün yapılan

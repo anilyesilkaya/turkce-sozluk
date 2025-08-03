@@ -2,6 +2,7 @@
 layout: term
 title: habitus
 slug: habitus
+letter: H
 lisan: Latince
 anlamlar:
 - Bitkinin yerindeki durumu, dallanması, köklerinin toprak içerisindeki dağılmasını belirten morfolojik görünüş

@@ -2,6 +2,7 @@
 layout: term
 title: tasarruflu
 slug: tasarruflu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Parasını ölçülü, dikkatli harcayan

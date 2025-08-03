@@ -2,6 +2,7 @@
 layout: term
 title: dokuz canlı
 slug: dokuz-canli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kolay kolay ölmeyen

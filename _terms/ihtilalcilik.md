@@ -2,6 +2,7 @@
 layout: term
 title: ihtilalcilik
 slug: ihtilalcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtilalci olma durumu; devrimcilik

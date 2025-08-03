@@ -2,6 +2,7 @@
 layout: term
 title: amorf olmak
 slug: amorf-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - dengesi bozulmak, dağılmak

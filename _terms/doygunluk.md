@@ -2,6 +2,7 @@
 layout: term
 title: doygunluk
 slug: doygunluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doygun olma durumu; gönül tokluğu, istiğna, tatmin

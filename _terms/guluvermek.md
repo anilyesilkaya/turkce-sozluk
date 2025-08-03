@@ -2,6 +2,7 @@
 layout: term
 title: gülüvermek
 slug: guluvermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ansızın gülmek

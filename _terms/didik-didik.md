@@ -2,6 +2,7 @@
 layout: term
 title: didik didik
 slug: didik-didik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Didiklenmiş biçimde

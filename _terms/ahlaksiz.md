@@ -2,6 +2,7 @@
 layout: term
 title: ahlaksız
 slug: ahlaksiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlak kurallarına uymayan

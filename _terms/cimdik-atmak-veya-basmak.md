@@ -2,6 +2,7 @@
 layout: term
 title: çimdik atmak (veya basmak)
 slug: cimdik-atmak-veya-basmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çimdiklemek

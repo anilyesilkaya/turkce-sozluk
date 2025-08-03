@@ -2,6 +2,7 @@
 layout: term
 title: fantazyalı
 slug: fantazyali
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fantezili

@@ -2,6 +2,7 @@
 layout: term
 title: poyraz
 slug: poyraz
+letter: P
 lisan: Rumca
 anlamlar:
 - Kuzeydoğudan esen soğuk rüzgâr; kuzey rüzgârı, şimal rüzgârı

@@ -2,6 +2,7 @@
 layout: term
 title: birbiri üstüne gelmek
 slug: birbiri-ustune-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - arka arkaya meydana gelmek, ara vermeden olmak

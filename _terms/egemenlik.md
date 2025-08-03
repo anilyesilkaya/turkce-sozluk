@@ -2,6 +2,7 @@
 layout: term
 title: egemenlik
 slug: egemenlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Egemen olma durumu

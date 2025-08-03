@@ -2,6 +2,7 @@
 layout: term
 title: rahatlayıverme
 slug: rahatlayiverme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahatlayıvermek işi

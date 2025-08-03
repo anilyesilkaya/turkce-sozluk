@@ -2,6 +2,7 @@
 layout: term
 title: zorunlu eğitim
 slug: zorunlu-egitim
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Yasaların zorunlu kıldığı eğitim

@@ -2,6 +2,7 @@
 layout: term
 title: erişebilme
 slug: erisebilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erişebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çalımlamak
 slug: calimlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir oyuncu topu elinden veya ayağından kaçırmadan karşısındaki oyuncuları şaşırtıcı ve dikkat dağıtıcı kıvrak hareketlerle geçmek

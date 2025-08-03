@@ -2,6 +2,7 @@
 layout: term
 title: siyaset meydanı
 slug: siyaset-meydani
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siyasi konularda çeşitli kesimlerden görüşlerin ortaya konduğu ve tartışıldığı yer veya ortam

@@ -2,6 +2,7 @@
 layout: term
 title: dikey
 slug: dikey
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başka bir doğru ile kesiştiğinde onunla birlikte dik açı oluşturan (doğru çizgi); amudi

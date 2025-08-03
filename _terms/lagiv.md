@@ -2,6 +2,7 @@
 layout: term
 title: lağıv
 slug: lagiv
+letter: L
 lisan: Arapça laġv
 anlamlar:
 - ► fesih

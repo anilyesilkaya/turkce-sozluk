@@ -2,6 +2,7 @@
 layout: term
 title: kilometrelik
 slug: kilometrelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Belli bir kilometre uzunluğunda olan

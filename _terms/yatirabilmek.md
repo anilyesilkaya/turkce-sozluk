@@ -2,6 +2,7 @@
 layout: term
 title: yatırabilmek
 slug: yatirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatırma ihtimali veya imkânı bulunmak

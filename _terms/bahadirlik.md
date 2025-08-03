@@ -2,6 +2,7 @@
 layout: term
 title: bahadırlık
 slug: bahadirlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahadır olma durumu; baturluk

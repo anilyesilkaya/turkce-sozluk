@@ -2,6 +2,7 @@
 layout: term
 title: derlemek
 slug: derlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Seçme yaparak toplamak, bir araya getirmek; tedvin etmek

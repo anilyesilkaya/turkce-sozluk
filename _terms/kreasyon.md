@@ -2,6 +2,7 @@
 layout: term
 title: kreasyon
 slug: kreasyon
+letter: K
 lisan: Fransızca création
 anlamlar:
 - Yaratma işi

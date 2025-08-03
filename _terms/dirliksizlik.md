@@ -2,6 +2,7 @@
 layout: term
 title: dirliksizlik
 slug: dirliksizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► geçimsizlik

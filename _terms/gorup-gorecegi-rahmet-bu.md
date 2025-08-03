@@ -2,6 +2,7 @@
 layout: term
 title: görüp göreceği rahmet bu
 slug: gorup-gorecegi-rahmet-bu
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"görülecek tek iyi şey" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: aşılayabilmek
 slug: asilayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşılama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tabanları patlamak
 slug: tabanlari-patlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok yürümekten, çok ayakta durmaktan aşırı yorulmak

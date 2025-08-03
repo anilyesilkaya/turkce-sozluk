@@ -2,6 +2,7 @@
 layout: term
 title: hapşırık
 slug: hapsirik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sebeple burun zarının gıcıklanması sonucu solunum kaslarının birdenbire kasılmasıyla ağız ve burundan hızlı, gürültülü soluk boşalması olayı; aksırık

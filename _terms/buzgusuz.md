@@ -2,6 +2,7 @@
 layout: term
 title: büzgüsüz
 slug: buzgusuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzgüsü olmayan

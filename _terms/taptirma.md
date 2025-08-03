@@ -2,6 +2,7 @@
 layout: term
 title: taptırma
 slug: taptirma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taptırmak işi

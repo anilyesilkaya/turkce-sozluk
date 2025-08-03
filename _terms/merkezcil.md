@@ -2,6 +2,7 @@
 layout: term
 title: merkezcil
 slug: merkezcil
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merkeze doğru yaklaşan

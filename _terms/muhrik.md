@@ -2,6 +2,7 @@
 layout: term
 title: muhrik
 slug: muhrik
+letter: M
 lisan: Arapça muḥriḳ
 anlamlar:
 - ► yakıcı (I)

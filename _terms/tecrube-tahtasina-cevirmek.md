@@ -2,6 +2,7 @@
 layout: term
 title: tecrübe tahtasına çevirmek
 slug: tecrube-tahtasina-cevirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - üst üste başarısız denemelere konu etmek

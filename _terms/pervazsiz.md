@@ -2,6 +2,7 @@
 layout: term
 title: pervazsız
 slug: pervazsiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pervazı olmayan

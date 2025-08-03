@@ -2,6 +2,7 @@
 layout: term
 title: buğulaştırıcı
 slug: bugulastirici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Suyun buğu durumuna getirilmesi için kullanılan araç

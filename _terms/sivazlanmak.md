@@ -2,6 +2,7 @@
 layout: term
 title: sıvazlanmak
 slug: sivazlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvazlamak işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: gadir
 slug: gadir
+letter: G
 lisan: Arapça ġadr
 anlamlar:
 - Haksızlık etme, zarar verme; gadirlik

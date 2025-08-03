@@ -2,6 +2,7 @@
 layout: term
 title: panel
 slug: panel
+letter: P
 lisan: Fransızca panel
 anlamlar:
 - ► açık oturum

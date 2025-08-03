@@ -2,6 +2,7 @@
 layout: term
 title: uğraştırmak
 slug: ugrastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğraşmasına yol açmak

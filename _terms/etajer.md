@@ -2,6 +2,7 @@
 layout: term
 title: etajer
 slug: etajer
+letter: E
 lisan: Fransızca étagère
 anlamlar:
 - Raflı veya çekmeceli, taşınabilir, küçük dolap

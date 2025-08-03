@@ -2,6 +2,7 @@
 layout: term
 title: ötümsüz ünsüz
 slug: otumsuz-unsuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► tonsuz ünsüz

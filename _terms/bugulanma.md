@@ -2,6 +2,7 @@
 layout: term
 title: buğulanma
 slug: bugulanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buğulanmak işi; puslanmak

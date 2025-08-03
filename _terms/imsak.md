@@ -2,6 +2,7 @@
 layout: term
 title: imsak
 slug: imsak
+letter: I
 lisan: Arapça imsāk
 anlamlar:
 - Oruca başlama zamanı

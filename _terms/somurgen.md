@@ -2,6 +2,7 @@
 layout: term
 title: sömürgen
 slug: somurgen
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sömürücü

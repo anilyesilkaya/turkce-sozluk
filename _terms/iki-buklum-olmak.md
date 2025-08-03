@@ -2,6 +2,7 @@
 layout: term
 title: iki büklüm olmak
 slug: iki-buklum-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yorgunluk, hastalık, yaşlılık vb. nedenlerle beli bükülmek, öne doğru eğilmek

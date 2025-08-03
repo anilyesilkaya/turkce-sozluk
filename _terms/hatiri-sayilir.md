@@ -2,6 +2,7 @@
 layout: term
 title: hatırı sayılır
 slug: hatiri-sayilir
+letter: H
 lisan: Türkçe
 anlamlar:
 - oldukça çok

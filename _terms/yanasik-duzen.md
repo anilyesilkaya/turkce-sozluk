@@ -2,6 +2,7 @@
 layout: term
 title: yanaşık düzen
 slug: yanasik-duzen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kişi veya araçların birbirinin yanında ve aynı hizada düzenli duruşu; yanaşık nizam

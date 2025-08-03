@@ -2,6 +2,7 @@
 layout: term
 title: arık çekmek
 slug: arik-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - herhangi bir tarım aletiyle fide veya fidan dikilecek arıklar açmak

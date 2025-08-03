@@ -2,6 +2,7 @@
 layout: term
 title: köfteci
 slug: kofteci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köfte yapıp satan kimse

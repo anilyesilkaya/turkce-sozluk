@@ -2,6 +2,7 @@
 layout: term
 title: acip
 slug: acip
+letter: A
 lisan: Arapça ʽacįb
 anlamlar:
 - Şaşırtıcı, tuhaf, çok acayip olan

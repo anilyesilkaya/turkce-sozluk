@@ -2,6 +2,7 @@
 layout: term
 title: tipolojik tasnif
 slug: tipolojik-tasnif
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsan tiplerini sınıflandırma

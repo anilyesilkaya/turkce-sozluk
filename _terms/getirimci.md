@@ -2,6 +2,7 @@
 layout: term
 title: getirimci
 slug: getirimci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Getirim sağlayan şey; rantiye

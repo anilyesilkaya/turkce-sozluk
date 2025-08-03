@@ -2,6 +2,7 @@
 layout: term
 title: açı
 slug: aci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirini kesen iki yüzey veya aynı noktadan çıkan iki yarım doğrunun oluşturduğu geometrik biçim; zaviye

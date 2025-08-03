@@ -2,6 +2,7 @@
 layout: term
 title: ekinsel
 slug: ekinsel
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kültürel

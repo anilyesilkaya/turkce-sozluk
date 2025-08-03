@@ -2,6 +2,7 @@
 layout: term
 title: paklamak
 slug: paklamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► temizlemek

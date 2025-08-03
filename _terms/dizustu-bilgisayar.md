@@ -2,6 +2,7 @@
 layout: term
 title: dizüstü bilgisayar
 slug: dizustu-bilgisayar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bilgisayarın her türlü donanımı ile küçültülerek taşınabilir duruma getirilmiş biçimi; dizüstü

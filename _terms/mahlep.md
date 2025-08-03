@@ -2,6 +2,7 @@
 layout: term
 title: mahlep
 slug: mahlep
+letter: M
 lisan: Arapça maḥleb
 anlamlar:
 - ► İdris ağacı

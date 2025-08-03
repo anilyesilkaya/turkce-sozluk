@@ -2,6 +2,7 @@
 layout: term
 title: perdelik
 slug: perdelik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perde yapmaya elverişli (kumaş)

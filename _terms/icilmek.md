@@ -2,6 +2,7 @@
 layout: term
 title: içilmek
 slug: icilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçme işi yapılmak

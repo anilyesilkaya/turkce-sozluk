@@ -2,6 +2,7 @@
 layout: term
 title: barem
 slug: barem
+letter: B
 lisan: Fransızca barème
 anlamlar:
 - Devlet memurlarının maaşlarının derece ve tutarlarını düzenleyen sistem ve çizelge

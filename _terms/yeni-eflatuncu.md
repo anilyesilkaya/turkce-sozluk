@@ -2,6 +2,7 @@
 layout: term
 title: yeni Eflatuncu
 slug: yeni-eflatuncu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yeni Platoncu

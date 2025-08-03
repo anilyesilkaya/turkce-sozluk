@@ -2,6 +2,7 @@
 layout: term
 title: camsı
 slug: camsi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam gibi saydam olan, cama benzeyen

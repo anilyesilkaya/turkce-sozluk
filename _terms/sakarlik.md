@@ -2,6 +2,7 @@
 layout: term
 title: sakarlık
 slug: sakarlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakar olma durumu

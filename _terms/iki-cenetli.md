@@ -2,6 +2,7 @@
 layout: term
 title: iki çenetli
 slug: iki-cenetli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çatladığında kabuğu iki çenete ayrılan (meyve)

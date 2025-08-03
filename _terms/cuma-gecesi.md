@@ -2,6 +2,7 @@
 layout: term
 title: cuma gecesi
 slug: cuma-gecesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Dinî açıdan ayrı bir önemi olan, perşembeyi cumaya bağlayan gece

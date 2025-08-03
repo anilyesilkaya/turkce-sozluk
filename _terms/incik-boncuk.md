@@ -2,6 +2,7 @@
 layout: term
 title: incik boncuk
 slug: incik-boncuk
+letter: I
 lisan: Türkçe
 anlamlar:
 - Değersiz ufak tefek süs eşyası

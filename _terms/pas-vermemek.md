@@ -2,6 +2,7 @@
 layout: term
 title: pas vermemek
 slug: pas-vermemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - yüz vermemek, ilgi göstermemek

@@ -2,6 +2,7 @@
 layout: term
 title: ağır para cezası
 slug: agir-para-cezasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bazı suçlara karşılık yasalarca belirlenmiş yüksek para cezası

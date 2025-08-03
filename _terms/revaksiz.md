@@ -2,6 +2,7 @@
 layout: term
 title: revaksız
 slug: revaksiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Revak bulunmayan

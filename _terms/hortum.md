@@ -2,6 +2,7 @@
 layout: term
 title: hortum
 slug: hortum
+letter: H
 lisan: Arapça ḫurṭūm
 anlamlar:
 - Filde ve bazı böceklerde boru biçiminde uzamış ağız veya burun bölümü

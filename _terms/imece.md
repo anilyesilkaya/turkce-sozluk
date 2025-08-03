@@ -2,6 +2,7 @@
 layout: term
 title: imece
 slug: imece
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kırsal topluluklarda köyün zorunlu ve isteğe bağlı işlerinin köylülerce eşit şartlarda emek birliğiyle gerçekleştirilmesi

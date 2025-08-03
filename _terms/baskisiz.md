@@ -2,6 +2,7 @@
 layout: term
 title: baskısız
 slug: baskisiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hak ve özgürlükleri kısıtlanmamış

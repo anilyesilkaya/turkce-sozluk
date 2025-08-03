@@ -2,6 +2,7 @@
 layout: term
 title: kemikleşmek
 slug: kemiklesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemik gibi sert duruma gelmek

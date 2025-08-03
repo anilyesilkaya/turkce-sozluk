@@ -2,6 +2,7 @@
 layout: term
 title: kapı yapmak
 slug: kapi-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şey istemek veya söylemek için karşısındakini önceden başka sözlerle hazırlamak

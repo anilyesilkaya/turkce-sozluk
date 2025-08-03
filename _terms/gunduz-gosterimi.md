@@ -2,6 +2,7 @@
 layout: term
 title: gündüz gösterimi
 slug: gunduz-gosterimi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Tiyatro, sinema, konser salonu vb.nde gündüz yapılan gösteri; matine

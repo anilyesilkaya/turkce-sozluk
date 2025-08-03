@@ -2,6 +2,7 @@
 layout: term
 title: bir ben, bir de Allah bilir
 slug: bir-ben-bir-de-allah-bilir
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"çok sıkıntı içindeyim, bunu kimse anlayamaz" anlamında kullanılan bir söz'

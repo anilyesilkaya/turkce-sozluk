@@ -2,6 +2,7 @@
 layout: term
 title: inatlaşmak
 slug: inatlasmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Karşılıklı inat etmek; dayatışmak

@@ -2,6 +2,7 @@
 layout: term
 title: kombinezonlu
 slug: kombinezonlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kombinezon giymiş olan

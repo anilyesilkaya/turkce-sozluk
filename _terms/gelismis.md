@@ -2,6 +2,7 @@
 layout: term
 title: gelişmiş
 slug: gelismis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelişme gösteren, ümranlı

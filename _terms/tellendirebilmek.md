@@ -2,6 +2,7 @@
 layout: term
 title: tellendirebilmek
 slug: tellendirebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tellendirme ihtimali veya imkânı bulunmak

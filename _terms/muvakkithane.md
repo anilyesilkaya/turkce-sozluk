@@ -2,6 +2,7 @@
 layout: term
 title: muvakkithane
 slug: muvakkithane
+letter: M
 lisan: Arapça muvaḳḳit + Farsça ḫāne
 anlamlar:
 - Zamanı belirlemek için gerekli araç ve gereçlerin bulunduğu, genellikle büyük camilerin yanında yer alan, muvakkitlerin görev yaptığı yer veya bina

@@ -2,6 +2,7 @@
 layout: term
 title: gırnatacı
 slug: girnataci
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► klarnetçi

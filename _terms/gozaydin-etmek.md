@@ -2,6 +2,7 @@
 layout: term
 title: gözaydın etmek
 slug: gozaydin-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güzel bir olay için kutlamak, iyi dileklerde bulunmak

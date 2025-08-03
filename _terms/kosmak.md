@@ -2,6 +2,7 @@
 layout: term
 title: koşmak
 slug: kosmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte iş görmesi için bir şeyi, bir kimseyi başka birinin yanına katmak, arkadaş olarak vermek

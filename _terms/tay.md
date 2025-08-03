@@ -2,6 +2,7 @@
 layout: term
 title: tay
 slug: tay
+letter: T
 lisan: Farsça tāy
 anlamlar:
 - Denk, eşit, eş olan

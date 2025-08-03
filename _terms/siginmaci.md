@@ -2,6 +2,7 @@
 layout: term
 title: sığınmacı
 slug: siginmaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Başka bir ülkeye veya yere sığınmış olan kişi; sığınık, mülteci

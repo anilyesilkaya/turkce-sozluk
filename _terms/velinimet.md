@@ -2,6 +2,7 @@
 layout: term
 title: velinimet
 slug: velinimet
+letter: V
 lisan: Arapça velī + niʿmet
 anlamlar:
 - Bir kimsenin iyiliğini gördüğü, birçok şeyini ona borçlu olduğu kimse; ana

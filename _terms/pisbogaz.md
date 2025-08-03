@@ -2,6 +2,7 @@
 layout: term
 title: pisboğaz
 slug: pisbogaz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Eline geçeni zamansız ve ayırt etmeden yiyen (kimse)

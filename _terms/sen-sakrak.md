@@ -2,6 +2,7 @@
 layout: term
 title: şen şakrak
 slug: sen-sakrak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Çok neşeli, şakrak; şen şatır

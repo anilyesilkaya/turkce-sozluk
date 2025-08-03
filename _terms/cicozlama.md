@@ -2,6 +2,7 @@
 layout: term
 title: cicozlama
 slug: cicozlama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cicozlamak durumu

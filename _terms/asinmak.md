@@ -2,6 +2,7 @@
 layout: term
 title: aşınmak
 slug: asinmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirine sürtünerek incelmek

@@ -2,6 +2,7 @@
 layout: term
 title: kartça
 slug: kartca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gençliği azalmış, yaşı geçkince

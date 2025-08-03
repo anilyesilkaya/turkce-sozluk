@@ -2,6 +2,7 @@
 layout: term
 title: bitirebilmek
 slug: bitirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirme ihtimali veya imkânı bulunmak

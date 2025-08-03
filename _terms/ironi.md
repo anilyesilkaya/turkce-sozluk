@@ -2,6 +2,7 @@
 layout: term
 title: ironi
 slug: ironi
+letter: I
 lisan: Fransızca ironie
 anlamlar:
 - ► gülmece

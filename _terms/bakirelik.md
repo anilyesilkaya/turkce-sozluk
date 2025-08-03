@@ -2,6 +2,7 @@
 layout: term
 title: bakirelik
 slug: bakirelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakire olma durumu; erdenlik

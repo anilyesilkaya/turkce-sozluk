@@ -2,6 +2,7 @@
 layout: term
 title: kasa defteri
 slug: kasa-defteri
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşletmelerde günlük alışveriş hareketlerinin kaydedildiği defter

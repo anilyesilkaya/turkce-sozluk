@@ -2,6 +2,7 @@
 layout: term
 title: seçmen
 slug: secmen
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçimde oy verme hakkı olan kimse; müntehip

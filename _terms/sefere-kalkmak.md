@@ -2,6 +2,7 @@
 layout: term
 title: sefere kalkmak
 slug: sefere-kalkmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yolculuğa başlamak

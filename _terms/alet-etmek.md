@@ -2,6 +2,7 @@
 layout: term
 title: alet etmek
 slug: alet-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyi hoş olmayan bir işte aracı olarak kullanmak

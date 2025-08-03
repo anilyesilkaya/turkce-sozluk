@@ -2,6 +2,7 @@
 layout: term
 title: dahli olmak
 slug: dahli-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir işe karışmış olmak, bir işte parmağı olmak

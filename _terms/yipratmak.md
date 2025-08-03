@@ -2,6 +2,7 @@
 layout: term
 title: yıpratmak
 slug: yipratmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıpranmış duruma getirmek

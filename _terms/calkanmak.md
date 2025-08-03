@@ -2,6 +2,7 @@
 layout: term
 title: çalkanmak
 slug: calkanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalkama işine konu olmak

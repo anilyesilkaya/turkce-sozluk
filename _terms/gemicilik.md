@@ -2,6 +2,7 @@
 layout: term
 title: gemicilik
 slug: gemicilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gemicinin yaptığı iş

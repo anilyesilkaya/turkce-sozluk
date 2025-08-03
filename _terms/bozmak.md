@@ -2,6 +2,7 @@
 layout: term
 title: bozmak
 slug: bozmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kendisinden beklenilen işi yapamayacak duruma getirmek

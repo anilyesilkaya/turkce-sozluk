@@ -2,6 +2,7 @@
 layout: term
 title: patlak
 slug: patlak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlayarak açılmış; yarık, yırtık

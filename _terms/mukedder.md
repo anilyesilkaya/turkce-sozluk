@@ -2,6 +2,7 @@
 layout: term
 title: mükedder
 slug: mukedder
+letter: M
 lisan: Arapça mukedder
 anlamlar:
 - ► kederli

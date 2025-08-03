@@ -2,6 +2,7 @@
 layout: term
 title: ihzar müzekkeresi
 slug: ihzar-muzekkeresi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Mahkemece yapılan çağrıya uymayanların kolluk gücüyle mahkemeye gelmesini sağlamak için verilen yazılı emir

@@ -2,6 +2,7 @@
 layout: term
 title: türüm türüm
 slug: turum-turum
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► buram buram

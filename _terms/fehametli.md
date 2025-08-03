@@ -2,6 +2,7 @@
 layout: term
 title: fehametli
 slug: fehametli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Büyüklük, ululuk gösteren (kimse)

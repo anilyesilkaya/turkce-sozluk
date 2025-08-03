@@ -2,6 +2,7 @@
 layout: term
 title: çekicileştirmek
 slug: cekicilestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekici duruma getirmek; cazipleştirmek, cazibeleştirmek

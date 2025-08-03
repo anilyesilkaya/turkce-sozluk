@@ -2,6 +2,7 @@
 layout: term
 title: lavanta çiçeği
 slug: lavanta-cicegi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Ballıbabagillerden, mavi veya mor renkli çiçekleri koku sanayisinde kullanılan bir bitki (Lavandula angustifolia)

@@ -2,6 +2,7 @@
 layout: term
 title: devinim
 slug: devinim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devinmek işi; hareket

@@ -2,6 +2,7 @@
 layout: term
 title: yol ayrımına gelmek
 slug: yol-ayrimina-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yolların birbirinden ayrıldığı yerde bulunmak

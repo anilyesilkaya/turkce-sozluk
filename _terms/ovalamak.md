@@ -2,6 +2,7 @@
 layout: term
 title: ovalamak
 slug: ovalamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ellerini bir şeye veya birbirine sürtmek

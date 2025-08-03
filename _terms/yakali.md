@@ -2,6 +2,7 @@
 layout: term
 title: yakalı
 slug: yakali
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Boynu üzerinde manto yakasına benzeyen tüyleri bulunan bir tür güvercin

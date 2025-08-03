@@ -2,6 +2,7 @@
 layout: term
 title: sıraya dizmek
 slug: siraya-dizmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sıralamak

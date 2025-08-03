@@ -2,6 +2,7 @@
 layout: term
 title: özellik
 slug: ozellik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyin benzerlerinden veya başka şeylerden ayrılmasını sağlayan nitelik; hususiyet, hasiyet, hassa, mahsusluk, spesiyalite

@@ -2,6 +2,7 @@
 layout: term
 title: züğürt tesellisi
 slug: zugurt-tesellisi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kötü sonuçlanmış bir işte, çok önemsiz iyi bir yan bularak sevinme

@@ -2,6 +2,7 @@
 layout: term
 title: zümrüt yeşili
 slug: zumrut-yesili
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Koyu yeşil; tavus yeşili, zümrüdi

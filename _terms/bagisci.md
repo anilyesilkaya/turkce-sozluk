@@ -2,6 +2,7 @@
 layout: term
 title: bağışçı
 slug: bagisci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağış yapan kimse

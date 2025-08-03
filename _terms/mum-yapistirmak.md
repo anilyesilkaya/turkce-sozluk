@@ -2,6 +2,7 @@
 layout: term
 title: mum yapıştırmak
 slug: mum-yapistirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir şeyi kırmızı mumla mühürlemek

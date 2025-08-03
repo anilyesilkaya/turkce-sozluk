@@ -2,6 +2,7 @@
 layout: term
 title: hararet
 slug: hararet
+letter: H
 lisan: Arapça ḥarāret
 anlamlar:
 - ► sıcaklık

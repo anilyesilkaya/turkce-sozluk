@@ -2,6 +2,7 @@
 layout: term
 title: külhanbeyce
 slug: kulhanbeyce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Külhanbeyine benzer biçimde, külhanbeyi gibi

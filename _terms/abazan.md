@@ -2,6 +2,7 @@
 layout: term
 title: abazan
 slug: abazan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Uzun süre cinsel ilişkide bulunmayan (erkek)

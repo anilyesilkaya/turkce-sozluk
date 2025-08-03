@@ -2,6 +2,7 @@
 layout: term
 title: darılmak
 slug: darilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi birinin hoşa gitmeyen bir söz veya davranışı yüzünden görüşmez olmak; kakımak

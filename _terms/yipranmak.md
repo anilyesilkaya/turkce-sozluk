@@ -2,6 +2,7 @@
 layout: term
 title: yıpranmak
 slug: yipranmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zamanla veya çok kullanılma sonucu aşınmak

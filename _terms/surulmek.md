@@ -2,6 +2,7 @@
 layout: term
 title: sürülmek
 slug: surulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürme işine konu olmak veya sürme işi yapılmak

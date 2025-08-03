@@ -2,6 +2,7 @@
 layout: term
 title: arşiv
 slug: arsiv
+letter: A
 lisan: Fransızca archives
 anlamlar:
 - Belge veya yazıların saklandığı yer; belgelik

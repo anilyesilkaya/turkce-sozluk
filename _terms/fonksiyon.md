@@ -2,6 +2,7 @@
 layout: term
 title: fonksiyon
 slug: fonksiyon
+letter: F
 lisan: Fransızca fonction
 anlamlar:
 - ► işlev

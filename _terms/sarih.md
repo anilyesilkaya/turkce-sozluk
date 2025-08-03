@@ -2,6 +2,7 @@
 layout: term
 title: sarih
 slug: sarih
+letter: S
 lisan: Arapça ṣarīḥ
 anlamlar:
 - ► belirgin

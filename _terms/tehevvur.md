@@ -2,6 +2,7 @@
 layout: term
 title: tehevvür
 slug: tehevvur
+letter: T
 lisan: Arapça tehevvur
 anlamlar:
 - Çok kızma, çok öfkelenme

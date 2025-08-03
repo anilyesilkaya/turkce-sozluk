@@ -2,6 +2,7 @@
 layout: term
 title: mahkûm olmak
 slug: mahkum-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - hüküm giymek

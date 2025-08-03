@@ -2,6 +2,7 @@
 layout: term
 title: mutedil
 slug: mutedil
+letter: M
 lisan: Arapça muʿtedil
 anlamlar:
 - ► ılımlı

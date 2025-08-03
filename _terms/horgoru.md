@@ -2,6 +2,7 @@
 layout: term
 title: horgörü
 slug: horgoru
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi, bir hareketi küçük görme, değersiz bulma

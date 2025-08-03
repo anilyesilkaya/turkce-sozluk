@@ -2,6 +2,7 @@
 layout: term
 title: imzasız
 slug: imzasiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmza edilmemiş

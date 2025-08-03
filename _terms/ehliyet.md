@@ -2,6 +2,7 @@
 layout: term
 title: ehliyet
 slug: ehliyet
+letter: E
 lisan: Arapça ehliyyet
 anlamlar:
 - ► sürücü belgesi

@@ -2,6 +2,7 @@
 layout: term
 title: maharetlilik
 slug: maharetlilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► beceriklilik

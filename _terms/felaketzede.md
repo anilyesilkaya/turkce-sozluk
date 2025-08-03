@@ -2,6 +2,7 @@
 layout: term
 title: felaketzede
 slug: felaketzede
+letter: F
 lisan: Arapça felāket + Farsça -zede
 anlamlar:
 - Felakete uğramış (kimse)

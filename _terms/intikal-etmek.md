@@ -2,6 +2,7 @@
 layout: term
 title: intikal etmek
 slug: intikal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yer değiştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: başatlık
 slug: basatlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baskınlık

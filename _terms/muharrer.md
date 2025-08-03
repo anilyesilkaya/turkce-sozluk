@@ -2,6 +2,7 @@
 layout: term
 title: muharrer
 slug: muharrer
+letter: M
 lisan: Arapça muḥarrer
 anlamlar:
 - ► yazılı

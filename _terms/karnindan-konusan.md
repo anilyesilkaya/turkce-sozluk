@@ -2,6 +2,7 @@
 layout: term
 title: karnından konuşan
 slug: karnindan-konusan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Başkası söylüyormuş gibi konuşma becerisi olan (kimse), vantrilok

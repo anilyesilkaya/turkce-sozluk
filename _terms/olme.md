@@ -2,6 +2,7 @@
 layout: term
 title: ölme
 slug: olme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölmek durumu; fevt, kabız, uful

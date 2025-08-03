@@ -2,6 +2,7 @@
 layout: term
 title: feda
 slug: feda
+letter: F
 lisan: Arapça fidāʾ
 anlamlar:
 - Bir amaç uğrunda bir değer veya varlıktan vazgeçme, uğruna verme

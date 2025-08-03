@@ -2,6 +2,7 @@
 layout: term
 title: tozutmak
 slug: tozutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toz kaldırmak, çevreye toz yaymak

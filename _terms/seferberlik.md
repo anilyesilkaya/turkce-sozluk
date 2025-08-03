@@ -2,6 +2,7 @@
 layout: term
 title: seferberlik
 slug: seferberlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir ülkenin silahlı kuvvetlerini savaşa hazır duruma getiren, ülkenin ekonomisini, yönetimini savaş gereklerine uyacak duruma sokan hazırlık ve önlemlerin tümü

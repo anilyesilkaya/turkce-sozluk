@@ -2,6 +2,7 @@
 layout: term
 title: kategorik
 slug: kategorik
+letter: K
 lisan: Fransızca catégorique
 anlamlar:
 - Kesin, açık

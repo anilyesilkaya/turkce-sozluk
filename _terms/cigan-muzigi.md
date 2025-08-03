@@ -2,6 +2,7 @@
 layout: term
 title: Çigan müziği
 slug: cigan-muzigi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Macar folklorundan gelişmiş özel yaylı sazla çalınan hareketli halk müziği

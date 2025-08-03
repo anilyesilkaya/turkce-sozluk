@@ -2,6 +2,7 @@
 layout: term
 title: kooperatifçi
 slug: kooperatifci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kooperatif üyesi

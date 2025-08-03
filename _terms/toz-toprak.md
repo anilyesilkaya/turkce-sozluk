@@ -2,6 +2,7 @@
 layout: term
 title: toz toprak
 slug: toz-toprak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toz ve toprak yığını

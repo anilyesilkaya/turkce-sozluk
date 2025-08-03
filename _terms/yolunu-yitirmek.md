@@ -2,6 +2,7 @@
 layout: term
 title: yolunu yitirmek
 slug: yolunu-yitirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yolunu kaybetmek

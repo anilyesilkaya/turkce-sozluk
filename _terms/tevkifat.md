@@ -2,6 +2,7 @@
 layout: term
 title: tevkifat
 slug: tevkifat
+letter: T
 lisan: Arapça tevḳīfāt
 anlamlar:
 - Para konusunda kesintiler

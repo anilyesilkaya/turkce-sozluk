@@ -2,6 +2,7 @@
 layout: term
 title: çimentosuz
 slug: cimentosuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimentosu olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: azotlama
 slug: azotlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azotlamak işi

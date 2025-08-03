@@ -2,6 +2,7 @@
 layout: term
 title: sihirli
 slug: sihirli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► büyülü

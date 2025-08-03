@@ -2,6 +2,7 @@
 layout: term
 title: yenilenme
 slug: yenilenme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenilenmek durumu

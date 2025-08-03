@@ -2,6 +2,7 @@
 layout: term
 title: usandırmak
 slug: usandirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: hindiba
 slug: hindiba
+letter: H
 lisan: Arapça hindibāʾ
 anlamlar:
 - Birleşikgillerden, yaprakları haşlanarak salata gibi yenebilen, birkaç yıllık otsu bir bitki; güneğik, karakavuk (Cichorium endivia)

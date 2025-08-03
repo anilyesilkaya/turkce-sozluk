@@ -2,6 +2,7 @@
 layout: term
 title: anısal
 slug: anisal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anıyla ilgili, anıya ait

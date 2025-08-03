@@ -2,6 +2,7 @@
 layout: term
 title: aranılmak
 slug: aranilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arama işine konu olmak

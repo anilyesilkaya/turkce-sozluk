@@ -2,6 +2,7 @@
 layout: term
 title: dişe diş
 slug: dise-dis
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kısasa kısas

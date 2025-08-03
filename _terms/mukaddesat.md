@@ -2,6 +2,7 @@
 layout: term
 title: mukaddesat
 slug: mukaddesat
+letter: M
 lisan: Arapça muḳaddesāt
 anlamlar:
 - Kutsal sayılan inanç ve davranışlar

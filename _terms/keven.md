@@ -2,6 +2,7 @@
 layout: term
 title: keven
 slug: keven
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► geven

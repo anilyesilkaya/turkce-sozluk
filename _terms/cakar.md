@@ -2,6 +2,7 @@
 layout: term
 title: çakar
 slug: cakar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Belirli araçların trafikte üstünlük sağlamak için kullandığı, yanar dönerli kırmızı ve mavi ışık; çakar lamba

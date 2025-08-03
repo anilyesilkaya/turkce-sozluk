@@ -2,6 +2,7 @@
 layout: term
 title: damıtış
 slug: damitis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damıtmak işi

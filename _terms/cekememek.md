@@ -2,6 +2,7 @@
 layout: term
 title: çekememek
 slug: cekememek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekme işini yapamamak

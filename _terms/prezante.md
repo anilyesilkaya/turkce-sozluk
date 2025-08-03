@@ -2,6 +2,7 @@
 layout: term
 title: prezante
 slug: prezante
+letter: P
 lisan: Fransızca présenté
 anlamlar:
 - '"Tanıtmak" anlamındaki prezante etmek birleşik fiilinde geçen bir söz'

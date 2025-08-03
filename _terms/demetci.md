@@ -2,6 +2,7 @@
 layout: term
 title: demetçi
 slug: demetci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demet yapan kimse

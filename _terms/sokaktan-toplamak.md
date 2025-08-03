@@ -2,6 +2,7 @@
 layout: term
 title: sokaktan toplamak
 slug: sokaktan-toplamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kolayca sağlamak, masrafsız ve zahmetsiz elde etmek

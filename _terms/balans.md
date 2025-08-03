@@ -2,6 +2,7 @@
 layout: term
 title: balans
 slug: balans
+letter: B
 lisan: Fransızca balance
 anlamlar:
 - ► denge

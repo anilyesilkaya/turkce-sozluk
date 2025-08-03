@@ -2,6 +2,7 @@
 layout: term
 title: tirink
 slug: tirink
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► peşin

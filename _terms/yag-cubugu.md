@@ -2,6 +2,7 @@
 layout: term
 title: yağ çubuğu
 slug: yag-cubugu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Motorlu araçlarda motorun yağ seviyesini kontrol etmeye yarayan ve özel göstergesi bulunan ince çubuk

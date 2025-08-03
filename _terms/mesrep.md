@@ -2,6 +2,7 @@
 layout: term
 title: meşrep
 slug: mesrep
+letter: M
 lisan: Arapça meşreb
 anlamlar:
 - Yaradılış, huy, karakter, mizaç

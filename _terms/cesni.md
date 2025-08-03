@@ -2,6 +2,7 @@
 layout: term
 title: çeşni
 slug: cesni
+letter: Ç
 lisan: Farsça çāşnī
 anlamlar:
 - Yiyeceğin ve içeceğin tadı

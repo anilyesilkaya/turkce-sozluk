@@ -2,6 +2,7 @@
 layout: term
 title: geometrik yer
 slug: geometrik-yer
+letter: G
 lisan: Türkçe
 anlamlar:
 - Aynı özellikleri olan noktaların oluşturdukları çizgi veya yüzey

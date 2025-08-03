@@ -2,6 +2,7 @@
 layout: term
 title: Çin gülü
 slug: cin-gulu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► kamelya

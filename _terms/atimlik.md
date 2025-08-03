@@ -2,6 +2,7 @@
 layout: term
 title: atımlık
 slug: atimlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Silahı doldurmaya yetecek veya en az bir defa atış yapabilecek miktarda olan (barut, saçma vb.)

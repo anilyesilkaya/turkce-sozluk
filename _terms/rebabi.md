@@ -2,6 +2,7 @@
 layout: term
 title: rebabi
 slug: rebabi
+letter: R
 lisan: Arapça rebābī
 anlamlar:
 - Rebap çalan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: mütereddit
 slug: mutereddit
+letter: M
 lisan: Arapça mutereddid
 anlamlar:
 - ► kararsız

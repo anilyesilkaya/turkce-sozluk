@@ -2,6 +2,7 @@
 layout: term
 title: esinlenmek
 slug: esinlenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyden ilham almak, içine doğmak; mülhem olmak

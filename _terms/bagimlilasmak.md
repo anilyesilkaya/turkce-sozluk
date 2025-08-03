@@ -2,6 +2,7 @@
 layout: term
 title: bağımlılaşmak
 slug: bagimlilasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımlı duruma gelmek

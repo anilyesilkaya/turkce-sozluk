@@ -2,6 +2,7 @@
 layout: term
 title: misket domates
 slug: misket-domates
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kiraz domates

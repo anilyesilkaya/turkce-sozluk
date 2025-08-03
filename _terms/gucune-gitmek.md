@@ -2,6 +2,7 @@
 layout: term
 title: gücüne gitmek
 slug: gucune-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gönlü kırılmak, onuruna dokunmak

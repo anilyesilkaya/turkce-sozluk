@@ -2,6 +2,7 @@
 layout: term
 title: tema
 slug: tema
+letter: T
 lisan: İtalyanca tema
 anlamlar:
 - Asıl konu, temel motif; ana konu

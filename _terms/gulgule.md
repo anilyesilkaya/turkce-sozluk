@@ -2,6 +2,7 @@
 layout: term
 title: gulgule
 slug: gulgule
+letter: G
 lisan: Arapça ġulġule
 anlamlar:
 - Her ağızdan bir ses çıkmasından meydana gelen, dalga dalga ortalığa yayılan karışık gürültü

@@ -2,6 +2,7 @@
 layout: term
 title: cebellezi
 slug: cebellezi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Hakkı olmayan bir şeyi kendisine mal etme, çalma

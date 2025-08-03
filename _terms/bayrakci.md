@@ -2,6 +2,7 @@
 layout: term
 title: bayrakçı
 slug: bayrakci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayrak çeken kimse

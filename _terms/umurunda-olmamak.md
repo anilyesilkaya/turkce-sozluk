@@ -2,6 +2,7 @@
 layout: term
 title: umurunda olmamak
 slug: umurunda-olmamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - aldırmamak

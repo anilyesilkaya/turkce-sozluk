@@ -2,6 +2,7 @@
 layout: term
 title: torpillemek
 slug: torpillemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Torpille batırmak

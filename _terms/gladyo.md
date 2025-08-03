@@ -2,6 +2,7 @@
 layout: term
 title: gladyo
 slug: gladyo
+letter: G
 lisan: İtalyanca gladio
 anlamlar:
 - Derin devlet içinde yapılanmış gizli örgüt

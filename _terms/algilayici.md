@@ -2,6 +2,7 @@
 layout: term
 title: algılayıcı
 slug: algilayici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algı yetisi olan (kimse)

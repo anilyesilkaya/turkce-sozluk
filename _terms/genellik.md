@@ -2,6 +2,7 @@
 layout: term
 title: genellik
 slug: genellik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genel olma durumu; umumiyet, umumilik

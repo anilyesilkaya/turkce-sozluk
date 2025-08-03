@@ -2,6 +2,7 @@
 layout: term
 title: iyon yuvarı
 slug: iyon-yuvari
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yer atmosferindeki atom ve moleküllerin güneş ışınlarıyla iyonlaştığı 80-400 kilometre yükseklikler arasındaki katman; iyonosfer

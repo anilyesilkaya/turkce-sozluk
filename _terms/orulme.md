@@ -2,6 +2,7 @@
 layout: term
 title: örülme
 slug: orulme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örülmek işi

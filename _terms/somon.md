@@ -2,6 +2,7 @@
 layout: term
 title: somon
 slug: somon
+letter: S
 lisan: Fransızca saumon
 anlamlar:
 - ► somon balığı

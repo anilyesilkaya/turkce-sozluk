@@ -2,6 +2,7 @@
 layout: term
 title: kaza kırıma uğramak
 slug: kaza-kirima-ugramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uçak, helikopter vb.nde can kaybı olan ve maddi hasar oluşan kaza yapmak

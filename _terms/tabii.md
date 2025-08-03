@@ -2,6 +2,7 @@
 layout: term
 title: tâbii
 slug: tabii
+letter: T
 lisan: Arapça tābiʽī
 anlamlar:
 - ► tâbiin

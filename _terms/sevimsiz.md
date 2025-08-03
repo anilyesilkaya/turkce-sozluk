@@ -2,6 +2,7 @@
 layout: term
 title: sevimsiz
 slug: sevimsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hoşa gitmeyen, sevimli gelmeyen; antipatik

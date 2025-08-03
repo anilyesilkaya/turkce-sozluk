@@ -2,6 +2,7 @@
 layout: term
 title: tan yeri
 slug: tan-yeri
+letter: T
 lisan: Türkçe
 anlamlar:
 - Güneşin doğmak üzere olduğu sırada, ufukta hafifçe aydınlanan yer

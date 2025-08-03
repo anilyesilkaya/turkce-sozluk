@@ -2,6 +2,7 @@
 layout: term
 title: boğaz tokluğuna
 slug: bogaz-tokluguna
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► karın tokluğuna

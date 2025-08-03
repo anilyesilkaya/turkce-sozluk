@@ -2,6 +2,7 @@
 layout: term
 title: Döger
 slug: doger
+letter: D
 lisan: Türkçe
 anlamlar:
 - Oğuz Türklerinin yirmi dört boyundan biri

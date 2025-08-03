@@ -2,6 +2,7 @@
 layout: term
 title: aside
 slug: aside
+letter: A
 lisan: Arapça ʿaṣīde
 anlamlar:
 - Un bulamacı veya kaynatılıp dövülmüş pirinç, et ve bamya ile yapılan bir tür Arap yemeği

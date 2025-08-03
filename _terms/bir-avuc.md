@@ -2,6 +2,7 @@
 layout: term
 title: bir avuç
 slug: bir-avuc
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir avucu dolduracak kadar

@@ -2,6 +2,7 @@
 layout: term
 title: kesikli
 slug: kesikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesikleri olan

@@ -2,6 +2,7 @@
 layout: term
 title: cehennem zebanisi
 slug: cehennem-zebanisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Zalim, acımasız kimse

@@ -2,6 +2,7 @@
 layout: term
 title: şose
 slug: sose
+letter: Ş
 lisan: Fransızca chaussée
 anlamlar:
 - Genellikle taş kırıkları üzerine kum döşenip silindir geçirilerek yapılan yol

@@ -2,6 +2,7 @@
 layout: term
 title: dişeğilemek
 slug: disegilemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişeği ile değirmen taşı üzerinde diş yapmak, değirmen taşının dişlerini bilemek

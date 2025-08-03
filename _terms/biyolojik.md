@@ -2,6 +2,7 @@
 layout: term
 title: biyolojik
 slug: biyolojik
+letter: B
 lisan: Fransızca biologique
 anlamlar:
 - Biyoloji ile ilgili; dirim bilimsel

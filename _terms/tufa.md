@@ -2,6 +2,7 @@
 layout: term
 title: tufa
 slug: tufa
+letter: T
 lisan: Yunanca
 anlamlar:
 - Özellikle geceleri yapılan silahlı hırsızlık, soygun

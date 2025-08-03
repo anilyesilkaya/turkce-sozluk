@@ -2,6 +2,7 @@
 layout: term
 title: mil
 slug: mil
+letter: M
 lisan: Fransızca mille
 anlamlar:
 - Karada 1609, denizde 1852 metre olarak kabul edilen bir uzaklık ölçü birimi

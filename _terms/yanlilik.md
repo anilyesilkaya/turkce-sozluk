@@ -2,6 +2,7 @@
 layout: term
 title: yanlılık
 slug: yanlilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yandaşlık

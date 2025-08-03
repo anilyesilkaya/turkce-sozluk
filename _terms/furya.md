@@ -2,6 +2,7 @@
 layout: term
 title: furya
 slug: furya
+letter: F
 lisan: İtalyanca furia
 anlamlar:
 - Olağandan çok fazla bulunma durumu

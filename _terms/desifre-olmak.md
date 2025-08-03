@@ -2,6 +2,7 @@
 layout: term
 title: deşifre olmak
 slug: desifre-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - gizli durum açığa çıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: çoktan
 slug: coktan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok zaman önce, çok zamandan beri, öteden beri, uzun süreden beri; çoktandır

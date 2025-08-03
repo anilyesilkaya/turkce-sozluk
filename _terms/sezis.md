@@ -2,6 +2,7 @@
 layout: term
 title: seziş
 slug: sezis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezmek işi; duyuş

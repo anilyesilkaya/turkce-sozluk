@@ -2,6 +2,7 @@
 layout: term
 title: tali yol
 slug: tali-yol
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ana yola bağlanan ve trafik bakımından daha az yoğunluğu olan yol

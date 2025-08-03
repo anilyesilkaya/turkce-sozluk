@@ -2,6 +2,7 @@
 layout: term
 title: lan
 slug: lan
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► ulan

@@ -2,6 +2,7 @@
 layout: term
 title: lejyon
 slug: lejyon
+letter: L
 lisan: Fransızca légion
 anlamlar:
 - Eski Romalılarda piyade ve süvarinin oluşturduğu askerî birlik

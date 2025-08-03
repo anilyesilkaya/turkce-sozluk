@@ -2,6 +2,7 @@
 layout: term
 title: suçlanış
 slug: suclanis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlanmak işi

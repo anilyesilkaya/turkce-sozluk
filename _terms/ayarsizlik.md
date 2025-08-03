@@ -2,6 +2,7 @@
 layout: term
 title: ayarsızlık
 slug: ayarsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarsız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: başartmak
 slug: basartmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarma işini yaptırmak

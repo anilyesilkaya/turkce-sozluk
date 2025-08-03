@@ -2,6 +2,7 @@
 layout: term
 title: kaşık havası
 slug: kasik-havasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Orta Anadolu yöresinde kaşık çalınarak oynanan bir halk oyunu veya bu oyunun müziği

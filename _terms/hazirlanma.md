@@ -2,6 +2,7 @@
 layout: term
 title: hazırlanma
 slug: hazirlanma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırlanmak işi

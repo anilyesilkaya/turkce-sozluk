@@ -2,6 +2,7 @@
 layout: term
 title: murassa
 slug: murassa
+letter: M
 lisan: Arapça muraṣṣaʿ
 anlamlar:
 - Değerli taşlarla bezenmiş, cevherlerle süslenmiş

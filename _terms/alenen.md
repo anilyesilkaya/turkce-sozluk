@@ -2,6 +2,7 @@
 layout: term
 title: alenen
 slug: alenen
+letter: A
 lisan: Arapça ʿalenen
 anlamlar:
 - ► açıkça

@@ -2,6 +2,7 @@
 layout: term
 title: kuyruklu
 slug: kuyruklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyruğu olan

@@ -2,6 +2,7 @@
 layout: term
 title: kar gibi
 slug: kar-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - temiz, beyaz

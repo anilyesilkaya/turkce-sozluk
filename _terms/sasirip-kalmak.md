@@ -2,6 +2,7 @@
 layout: term
 title: şaşırıp kalmak
 slug: sasirip-kalmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok şaşırmak, büyük bir şaşkınlığa düşmek

@@ -2,6 +2,7 @@
 layout: term
 title: karmanyolacı
 slug: karmanyolaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karmanyola yoluyla adam soyan kimse

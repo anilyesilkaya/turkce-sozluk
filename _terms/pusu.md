@@ -2,6 +2,7 @@
 layout: term
 title: pusu
 slug: pusu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Birine saldırmak için saklanarak beklenilen yer

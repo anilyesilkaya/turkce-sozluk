@@ -2,6 +2,7 @@
 layout: term
 title: lakırtıyı kesmek
 slug: lakirtiyi-kesmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - susmak

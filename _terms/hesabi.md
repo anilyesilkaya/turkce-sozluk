@@ -2,6 +2,7 @@
 layout: term
 title: hesabi
 slug: hesabi
+letter: H
 lisan: Arapça ḥisābī
 anlamlar:
 - ► hesapçı

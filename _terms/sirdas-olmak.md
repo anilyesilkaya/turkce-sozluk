@@ -2,6 +2,7 @@
 layout: term
 title: sırdaş olmak
 slug: sirdas-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - güvenilen bir kimseyle sırrını paylaşmak

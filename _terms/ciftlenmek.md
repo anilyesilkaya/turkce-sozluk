@@ -2,6 +2,7 @@
 layout: term
 title: çiftlenmek
 slug: ciftlenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İkili duruma getirilmek

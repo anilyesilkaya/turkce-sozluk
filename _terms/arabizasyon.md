@@ -2,6 +2,7 @@
 layout: term
 title: Arabizasyon
 slug: arabizasyon
+letter: A
 lisan: Fransızca arabisation
 anlamlar:
 - ► Araplaştırma

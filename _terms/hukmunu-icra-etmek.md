@@ -2,6 +2,7 @@
 layout: term
 title: hükmünü icra etmek
 slug: hukmunu-icra-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gerekeni yerine getirmek

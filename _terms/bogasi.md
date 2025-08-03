@@ -2,6 +2,7 @@
 layout: term
 title: boğası
 slug: bogasi
+letter: B
 lisan: İspanyolca bocaci
 anlamlar:
 - Astarlık ince bez

@@ -2,6 +2,7 @@
 layout: term
 title: adalet dağıtmak
 slug: adalet-dagitmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kanunların saydığı hakları sahiplerine vermek

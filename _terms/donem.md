@@ -2,6 +2,7 @@
 layout: term
 title: dönem
 slug: donem
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli özellikleri olan zaman parçası; periyot

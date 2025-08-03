@@ -2,6 +2,7 @@
 layout: term
 title: dürbünlü
 slug: durbunlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dürbünü olan

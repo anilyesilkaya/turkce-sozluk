@@ -2,6 +2,7 @@
 layout: term
 title: ulaşım
 slug: ulasim
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulaşmak işi

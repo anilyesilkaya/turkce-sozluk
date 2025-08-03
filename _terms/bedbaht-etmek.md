@@ -2,6 +2,7 @@
 layout: term
 title: bedbaht etmek
 slug: bedbaht-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - mutsuz olmasına sebep olmak

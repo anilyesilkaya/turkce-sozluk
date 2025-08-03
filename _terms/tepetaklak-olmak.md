@@ -2,6 +2,7 @@
 layout: term
 title: tepetaklak olmak
 slug: tepetaklak-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tepetakla gitmek

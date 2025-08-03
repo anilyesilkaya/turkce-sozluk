@@ -2,6 +2,7 @@
 layout: term
 title: inadına
 slug: inadina
+letter: I
 lisan: Türkçe
 anlamlar:
 - Terslik olsun diye

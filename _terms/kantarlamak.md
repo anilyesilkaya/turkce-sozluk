@@ -2,6 +2,7 @@
 layout: term
 title: kantarlamak
 slug: kantarlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kantarla ağırlığını ölçmek

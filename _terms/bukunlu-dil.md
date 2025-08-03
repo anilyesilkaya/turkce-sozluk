@@ -2,6 +2,7 @@
 layout: term
 title: bükünlü dil
 slug: bukunlu-dil
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dil bilgisi görevleri ve yapı bakımından kelime köklerini değiştiren dil

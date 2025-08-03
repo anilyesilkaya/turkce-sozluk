@@ -2,6 +2,7 @@
 layout: term
 title: saldırısız
 slug: saldirisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saldırı yapılmayan

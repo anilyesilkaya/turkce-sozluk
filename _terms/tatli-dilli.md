@@ -2,6 +2,7 @@
 layout: term
 title: tatlı dilli
 slug: tatli-dilli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Güzel, kandırıcı, gönül alıcı konuşan; tatlı sözlü

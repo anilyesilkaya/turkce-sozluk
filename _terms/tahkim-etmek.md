@@ -2,6 +2,7 @@
 layout: term
 title: tahkim etmek
 slug: tahkim-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kuvvetlendirmek, sağlamlaştırmak

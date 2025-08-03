@@ -2,6 +2,7 @@
 layout: term
 title: hakikaten
 slug: hakikaten
+letter: H
 lisan: Arapça ḥaḳīḳaten
 anlamlar:
 - ► gerçekten

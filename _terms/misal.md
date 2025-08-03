@@ -2,6 +2,7 @@
 layout: term
 title: misal
 slug: misal
+letter: M
 lisan: Arapça mis̱āl
 anlamlar:
 - ► örnek

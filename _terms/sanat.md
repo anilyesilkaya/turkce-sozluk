@@ -2,6 +2,7 @@
 layout: term
 title: sanat
 slug: sanat
+letter: S
 lisan: Arapça ṣanʿat
 anlamlar:
 - Duygu ve düşünceleri göze ve gönle hitap edecek şekilde söz, yazı, resim, heykel vb. ile ifade etme konusundaki yaratıcılık

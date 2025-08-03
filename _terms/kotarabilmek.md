@@ -2,6 +2,7 @@
 layout: term
 title: kotarabilmek
 slug: kotarabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kotarma ihtimali veya imkânı bulunmak

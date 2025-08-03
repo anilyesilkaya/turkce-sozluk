@@ -2,6 +2,7 @@
 layout: term
 title: otlamak
 slug: otlamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hayvan, dolaşarak yerdeki ot, çimen, yaprak vb.ni yemek; yayılmak

@@ -2,6 +2,7 @@
 layout: term
 title: kopuk
 slug: kopuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kopmuş

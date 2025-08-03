@@ -2,6 +2,7 @@
 layout: term
 title: orası
 slug: orasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ora

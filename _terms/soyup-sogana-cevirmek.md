@@ -2,6 +2,7 @@
 layout: term
 title: soyup soğana çevirmek
 slug: soyup-sogana-cevirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - hiçbir şey bırakmamacasına soymak

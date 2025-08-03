@@ -2,6 +2,7 @@
 layout: term
 title: şükretmek
 slug: sukretmek
+letter: Ş
 lisan: Arapça şukr + Türkçe etmek
 anlamlar:
 - Tanrı'ya minnet duygusunu sunmak; şükreylemek

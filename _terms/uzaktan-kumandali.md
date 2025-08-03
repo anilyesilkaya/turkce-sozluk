@@ -2,6 +2,7 @@
 layout: term
 title: uzaktan kumandalı
 slug: uzaktan-kumandali
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzaktan kumandası olan

@@ -2,6 +2,7 @@
 layout: term
 title: gırtlağına sarılmak
 slug: girtlagina-sarilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - peşini bırakmamak, musallat olmak

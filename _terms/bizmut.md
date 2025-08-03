@@ -2,6 +2,7 @@
 layout: term
 title: bizmut
 slug: bizmut
+letter: B
 lisan: Fransızca bismuth
 anlamlar:
 - Atom numarası 83, atom ağırlığı 209, yoğunluğu 9,8 olan, 271,3 °C'de eriyen, kızılımsı beyaz renkli, kırılgan ve katı bir element (simgesi Bi)

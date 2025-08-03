@@ -2,6 +2,7 @@
 layout: term
 title: nasipsiz
 slug: nasipsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► kısmetsiz

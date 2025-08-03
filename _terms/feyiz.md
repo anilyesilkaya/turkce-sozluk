@@ -2,6 +2,7 @@
 layout: term
 title: feyiz
 slug: feyiz
+letter: F
 lisan: Arapça feyż
 anlamlar:
 - ► bereket

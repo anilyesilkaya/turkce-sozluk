@@ -2,6 +2,7 @@
 layout: term
 title: Arabistik
 slug: arabistik
+letter: A
 lisan: Fransızca arabistique
 anlamlar:
 - Arap dili ve kültürü araştırmaları

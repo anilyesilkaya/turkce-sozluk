@@ -2,6 +2,7 @@
 layout: term
 title: hisse almak
 slug: hisse-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - zarara uğramak

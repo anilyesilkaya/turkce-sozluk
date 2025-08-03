@@ -2,6 +2,7 @@
 layout: term
 title: işine gelmek
 slug: isine-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çıkarına, amacına, düşüncesine uygun olmak

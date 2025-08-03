@@ -2,6 +2,7 @@
 layout: term
 title: ürpermek
 slug: urpermek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Korku, tiksinti, üşüme vb. yüzünden tüylerin dikilip derinin nokta nokta kabarmasıyla görülen ani titreme; ifildemek

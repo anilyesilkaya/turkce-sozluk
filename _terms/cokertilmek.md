@@ -2,6 +2,7 @@
 layout: term
 title: çökertilmek
 slug: cokertilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökertme işine konu olmak

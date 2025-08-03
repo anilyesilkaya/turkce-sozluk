@@ -2,6 +2,7 @@
 layout: term
 title: çıdam
 slug: cidam
+letter: Ç
 lisan: Moğolca
 anlamlar:
 - ► sabır

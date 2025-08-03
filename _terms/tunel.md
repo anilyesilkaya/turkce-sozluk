@@ -2,6 +2,7 @@
 layout: term
 title: tünel
 slug: tunel
+letter: T
 lisan: Fransızca tunnel
 anlamlar:
 - Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında, genellikle dağların içinde açılan yol

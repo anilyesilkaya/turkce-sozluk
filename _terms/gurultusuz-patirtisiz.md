@@ -2,6 +2,7 @@
 layout: term
 title: gürültüsüz patırtısız
 slug: gurultusuz-patirtisiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Rahat, sakin olan; dağdağasız

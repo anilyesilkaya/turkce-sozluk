@@ -2,6 +2,7 @@
 layout: term
 title: başı tutmak
 slug: basi-tutmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - gürültüden veya üzüntüden başı ağrımak

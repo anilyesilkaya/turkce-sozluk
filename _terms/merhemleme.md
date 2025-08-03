@@ -2,6 +2,7 @@
 layout: term
 title: merhemleme
 slug: merhemleme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merhemlemek işi

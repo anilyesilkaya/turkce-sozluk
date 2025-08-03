@@ -2,6 +2,7 @@
 layout: term
 title: solo yapmak (veya atmak)
 slug: solo-yapmak-veya-atmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir müzik parçasını tek başına söylemek veya çalmak

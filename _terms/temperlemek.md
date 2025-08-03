@@ -2,6 +2,7 @@
 layout: term
 title: temperlemek
 slug: temperlemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Camı özel ısıtma sistemleri ile 600 °C - 650 °C sıcaklığa getirip aniden soğuk hava ile temas ettirerek sertleştirmesini sağlamak

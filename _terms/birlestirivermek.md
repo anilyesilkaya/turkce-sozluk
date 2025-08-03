@@ -2,6 +2,7 @@
 layout: term
 title: birleştirivermek
 slug: birlestirivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın birleştirmek

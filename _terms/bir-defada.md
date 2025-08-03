@@ -2,6 +2,7 @@
 layout: term
 title: bir defada
 slug: bir-defada
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hepsi bir seferde olmak üzere; birden, bir tahtada, defaten

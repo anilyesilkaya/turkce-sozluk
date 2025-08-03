@@ -2,6 +2,7 @@
 layout: term
 title: beyazlatıcı
 slug: beyazlatici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kumaş, cilt, diş vb.nin renk tonlarını açan; ağartıcı

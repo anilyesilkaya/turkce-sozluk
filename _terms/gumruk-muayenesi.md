@@ -2,6 +2,7 @@
 layout: term
 title: gümrük muayenesi
 slug: gumruk-muayenesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gümrükten geçirilmek istenen malın, ilgilisi tarafından sözlü veya yazılı olarak yapılan bildirime uyup uymadığının kontrolü ve alınacak gümrük vergisinin saptanması için yapılan inceleme

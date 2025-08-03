@@ -2,6 +2,7 @@
 layout: term
 title: akşamlamak
 slug: aksamlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bütün günü bir yerde veya bir işte geçirerek akşama erişmek

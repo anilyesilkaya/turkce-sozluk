@@ -2,6 +2,7 @@
 layout: term
 title: kâr merkezi
 slug: kar-merkezi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşletme ve şirketin kendi kâr veya zararlarından sorumlu olarak çalışan, yerine göre tamamen bağımsız davranabilen birimi

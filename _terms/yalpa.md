@@ -2,6 +2,7 @@
 layout: term
 title: yalpa
 slug: yalpa
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Rüzgâr veya dalgaların etkisiyle geminin bir sancağa, bir iskeleye yatıp kalkması

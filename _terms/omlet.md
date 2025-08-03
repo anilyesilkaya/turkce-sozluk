@@ -2,6 +2,7 @@
 layout: term
 title: omlet
 slug: omlet
+letter: O
 lisan: Fransızca omelette
 anlamlar:
 - Çırpılmış yumurtayla sade olarak yapılabilen veya içine peynir, kıyma vb. katılarak tavada pişirilen bir yemek

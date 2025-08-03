@@ -2,6 +2,7 @@
 layout: term
 title: doldurma
 slug: doldurma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doldurmak işi; haşiv

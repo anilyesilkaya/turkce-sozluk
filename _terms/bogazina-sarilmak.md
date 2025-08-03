@@ -2,6 +2,7 @@
 layout: term
 title: boğazına sarılmak
 slug: bogazina-sarilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - üstüne yürümek

@@ -2,6 +2,7 @@
 layout: term
 title: dillere destan olmak
 slug: dillere-destan-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - herkes tarafından konuşulur olmak

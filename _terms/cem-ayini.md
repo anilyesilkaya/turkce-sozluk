@@ -2,6 +2,7 @@
 layout: term
 title: cem ayini
 slug: cem-ayini
+letter: C
 lisan: Türkçe
 anlamlar:
 - Mevlevi ve bilhassa Bektaşi tarikatı mensuplarının aralarında yaptıkları, yemekli müzikli sohbet toplantısı ve ayin; ayinicem

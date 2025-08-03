@@ -2,6 +2,7 @@
 layout: term
 title: zoru zoruna
 slug: zoru-zoruna
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► güçlükle

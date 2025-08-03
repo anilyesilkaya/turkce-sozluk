@@ -2,6 +2,7 @@
 layout: term
 title: insanlık
 slug: insanlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsan olma durumu; insaniyet

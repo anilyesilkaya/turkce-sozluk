@@ -2,6 +2,7 @@
 layout: term
 title: vernik
 slug: vernik
+letter: V
 lisan: Rumca
 anlamlar:
 - Sürüldüğü yüzeyde parlak, kaygan ve koruyucu bir tabaka meydana getiren, suya dayanıklı bir tür cila maddesi

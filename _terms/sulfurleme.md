@@ -2,6 +2,7 @@
 layout: term
 title: sülfürleme
 slug: sulfurleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kükürtle birleştirmek için yapılan işlem

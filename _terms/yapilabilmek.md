@@ -2,6 +2,7 @@
 layout: term
 title: yapılabilmek
 slug: yapilabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılma ihtimali veya imkânı bulunmak

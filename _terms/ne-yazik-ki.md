@@ -2,6 +2,7 @@
 layout: term
 title: ne yazık ki
 slug: ne-yazik-ki
+letter: N
 lisan: Türkçe
 anlamlar:
 - üzülerek belirtelim ki

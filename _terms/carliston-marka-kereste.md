@@ -2,6 +2,7 @@
 layout: term
 title: çarliston marka kereste
 slug: carliston-marka-kereste
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Az bulunan kereste

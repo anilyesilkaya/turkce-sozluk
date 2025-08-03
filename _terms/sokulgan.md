@@ -2,6 +2,7 @@
 layout: term
 title: sokulgan
 slug: sokulgan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kısa sürede insanlarla kaynaşıp dost olabilen, kendini çabucak sevdiren

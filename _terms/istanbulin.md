@@ -2,6 +2,7 @@
 layout: term
 title: istanbulin
 slug: istanbulin
+letter: I
 lisan: Türkçe
 anlamlar:
 - Tanzimattan Meşrutiyete kadar Türkiye'de kullanılan, yakası kapalı bir tür erkek ceketi

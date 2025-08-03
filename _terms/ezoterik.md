@@ -2,6 +2,7 @@
 layout: term
 title: ezoterik
 slug: ezoterik
+letter: E
 lisan: Fransızca ésotérique
 anlamlar:
 - ► içrek

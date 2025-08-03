@@ -2,6 +2,7 @@
 layout: term
 title: adileşme
 slug: adilesme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adileşmek durumu

@@ -2,6 +2,7 @@
 layout: term
 title: temas takibi
 slug: temas-takibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hastalık kaynağının ve etkenin belirlenmesine yönelik çalışma yapılması; filyasyon

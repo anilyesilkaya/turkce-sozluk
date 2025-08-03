@@ -2,6 +2,7 @@
 layout: term
 title: boy hedefi
 slug: boy-hedefi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Nişan eğitimlerinde kullanılan, insan boyunda yapılmış hedef

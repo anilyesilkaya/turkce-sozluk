@@ -2,6 +2,7 @@
 layout: term
 title: namına
 slug: namina
+letter: N
 lisan: Türkçe
 anlamlar:
 - Adına, kendisine

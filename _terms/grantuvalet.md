@@ -2,6 +2,7 @@
 layout: term
 title: grantuvalet
 slug: grantuvalet
+letter: G
 lisan: Fransızca grande toilette
 anlamlar:
 - Baştan aşağı şık giyinmiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: yüzgeç
 slug: yuzgec
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Balıklarda ve yüzen memelilerde karın ve göğüste çift, sırt, kuyruk ve anüste tek olarak bulunan, hareketi ve dengeyi sağlayan organ

@@ -2,6 +2,7 @@
 layout: term
 title: varsanı
 slug: varsani
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► sanrı

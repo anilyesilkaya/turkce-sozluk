@@ -2,6 +2,7 @@
 layout: term
 title: hicaz
 slug: hicaz
+letter: H
 lisan: Arapça ḥicāz
 anlamlar:
 - Klasik Türk müziğinde dügâh perdesinde karar kılan bir makam

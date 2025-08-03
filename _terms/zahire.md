@@ -2,6 +2,7 @@
 layout: term
 title: zahire
 slug: zahire
+letter: Z
 lisan: Arapça ẕaḫīre
 anlamlar:
 - Gerektiğinde kullanılmak için saklanan tahıl; aşlık

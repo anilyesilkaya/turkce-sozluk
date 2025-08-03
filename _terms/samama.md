@@ -2,6 +2,7 @@
 layout: term
 title: şamama
 slug: samama
+letter: Ş
 lisan: Arapça şemāme
 anlamlar:
 - Güzel kokulu bir tür küçük kavun

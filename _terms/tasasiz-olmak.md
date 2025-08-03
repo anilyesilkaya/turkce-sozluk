@@ -2,6 +2,7 @@
 layout: term
 title: tasasız olmak
 slug: tasasiz-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kaygısız olmak

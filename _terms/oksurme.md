@@ -2,6 +2,7 @@
 layout: term
 title: öksürme
 slug: oksurme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksürmek işi

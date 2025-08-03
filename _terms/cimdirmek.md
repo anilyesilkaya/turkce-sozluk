@@ -2,6 +2,7 @@
 layout: term
 title: çimdirmek
 slug: cimdirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimme işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: çemkirivermek
 slug: cemkirivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ansızın çemkirmek

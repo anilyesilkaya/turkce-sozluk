@@ -2,6 +2,7 @@
 layout: term
 title: uyku
 slug: uyku
+letter: U
 lisan: Türkçe
 anlamlar:
 - Dış uyaranlara karşı bilincin, bütünüyle veya bir bölümünün yittiği, tepki gücünün zayıfladığı ve her türlü etkinliğin büyük ölçüde azaldığı dinlenme durumu; hab

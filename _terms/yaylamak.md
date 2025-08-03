@@ -2,6 +2,7 @@
 layout: term
 title: yaylamak
 slug: yaylamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazın yaylada oturmak, yaylaya çıkmak

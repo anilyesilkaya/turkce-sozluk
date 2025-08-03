@@ -2,6 +2,7 @@
 layout: term
 title: paraf
 slug: paraf
+letter: P
 lisan: Fransızca paraphe
 anlamlar:
 - Yalnız adın veya ad ve soyadının baş harfleriyle atılan kısa imza

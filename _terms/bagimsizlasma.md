@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızlaşma
 slug: bagimsizlasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımsızlaşmak işi

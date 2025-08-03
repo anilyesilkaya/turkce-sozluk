@@ -2,6 +2,7 @@
 layout: term
 title: çakın
 slug: cakin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► kıvılcım

@@ -2,6 +2,7 @@
 layout: term
 title: rahatsız olmak
 slug: rahatsiz-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rahatı bozulmak, keyfi kaçmak, sağlığı bozulmak

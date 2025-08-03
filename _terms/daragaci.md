@@ -2,6 +2,7 @@
 layout: term
 title: darağacı
 slug: daragaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - İdam cezası alanları asmak için kurulan sehpa; idam sehpası, yağlı ilmek, yağlı ip, yağlı urgan

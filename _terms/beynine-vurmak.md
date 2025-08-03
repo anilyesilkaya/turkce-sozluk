@@ -2,6 +2,7 @@
 layout: term
 title: beynine vurmak
 slug: beynine-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - içki, uyuşturucu, öfke vb. etkisiyle ne yaptığını bilemez duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: Afrika
 slug: afrika
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dünya üzerinde yer alan kıtalardan biri

@@ -2,6 +2,7 @@
 layout: term
 title: mukataalı
 slug: mukataali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kesime verilmiş (yer)

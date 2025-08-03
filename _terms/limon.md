@@ -2,6 +2,7 @@
 layout: term
 title: limon
 slug: limon
+letter: L
 lisan: Farsça lįmūn
 anlamlar:
 - Turunçgillerden, 3-5 metre yüksekliğinde, kışın yapraklarını dökmeyen, beyaz çiçekli bir ağaç (Citrus limonum)

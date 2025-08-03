@@ -2,6 +2,7 @@
 layout: term
 title: harekete geçmek
 slug: harekete-gecmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir işi yapmaya başlamak, bitirmek amacı ile bir işe girişmek

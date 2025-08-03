@@ -2,6 +2,7 @@
 layout: term
 title: bir
 slug: bir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sayıların ilki; yek

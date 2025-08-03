@@ -2,6 +2,7 @@
 layout: term
 title: davultozu
 slug: davultozu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Elde edilmesi imkânsız nesne

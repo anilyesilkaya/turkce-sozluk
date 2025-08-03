@@ -2,6 +2,7 @@
 layout: term
 title: talep etmek
 slug: talep-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - istemek, istekte bulunmak

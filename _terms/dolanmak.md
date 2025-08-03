@@ -2,6 +2,7 @@
 layout: term
 title: dolanmak
 slug: dolanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin çevresine sarılmak

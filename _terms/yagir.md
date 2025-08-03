@@ -2,6 +2,7 @@
 layout: term
 title: yağır
 slug: yagir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İki kürek kemiğinin arası

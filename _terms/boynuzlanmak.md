@@ -2,6 +2,7 @@
 layout: term
 title: boynuzlanmak
 slug: boynuzlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hayvanın boynuzu çıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: maharet
 slug: maharet
+letter: M
 lisan: Arapça mahāret
 anlamlar:
 - ► beceri

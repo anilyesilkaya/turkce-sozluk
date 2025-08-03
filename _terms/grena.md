@@ -2,6 +2,7 @@
 layout: term
 title: grena
 slug: grena
+letter: G
 lisan: Fransızca grenat
 anlamlar:
 - Nar çiçeği renginde bir süs taşı

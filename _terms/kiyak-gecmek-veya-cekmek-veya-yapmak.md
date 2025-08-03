@@ -2,6 +2,7 @@
 layout: term
 title: kıyak geçmek (veya çekmek veya yapmak)
 slug: kiyak-gecmek-veya-cekmek-veya-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine maddi ve manevi destek olmak, yardım etmek

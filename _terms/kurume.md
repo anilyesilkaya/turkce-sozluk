@@ -2,6 +2,7 @@
 layout: term
 title: kürüme
 slug: kurume
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► küreme

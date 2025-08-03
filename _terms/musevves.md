@@ -2,6 +2,7 @@
 layout: term
 title: müşevveş
 slug: musevves
+letter: M
 lisan: Arapça muşevveş
 anlamlar:
 - ► karmakarışık

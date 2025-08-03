@@ -2,6 +2,7 @@
 layout: term
 title: ayva
 slug: ayva
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, çiçekleri iri, beyaz veya pembe, yapraklarının altı tüylü, orta yükseklikte bir ağaç (Cydonia vulgaris)

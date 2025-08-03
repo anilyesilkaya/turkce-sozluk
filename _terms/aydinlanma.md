@@ -2,6 +2,7 @@
 layout: term
 title: aydınlanma
 slug: aydinlanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlanmak işi veya durumu; ışıma, tenevvür

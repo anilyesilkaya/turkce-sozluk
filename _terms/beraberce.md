@@ -2,6 +2,7 @@
 layout: term
 title: beraberce
 slug: beraberce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birlikte, beraber olarak

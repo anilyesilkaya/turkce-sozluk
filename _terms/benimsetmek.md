@@ -2,6 +2,7 @@
 layout: term
 title: benimsetmek
 slug: benimsetmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birinin benimsemesini sağlamak

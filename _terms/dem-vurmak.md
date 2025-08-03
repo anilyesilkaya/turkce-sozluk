@@ -2,6 +2,7 @@
 layout: term
 title: dem vurmak
 slug: dem-vurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyden söz etmek, konu açmak

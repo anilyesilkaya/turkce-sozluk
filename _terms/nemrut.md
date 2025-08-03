@@ -2,6 +2,7 @@
 layout: term
 title: nemrut
 slug: nemrut
+letter: N
 lisan: Arapça nemrūd
 anlamlar:
 - Yüzü gülmeyen

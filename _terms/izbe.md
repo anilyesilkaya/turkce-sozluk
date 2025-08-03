@@ -2,6 +2,7 @@
 layout: term
 title: izbe
 slug: izbe
+letter: I
 lisan: Rusça
 anlamlar:
 - Basık, loş, nemli, kuytu (yer)

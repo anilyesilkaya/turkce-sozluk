@@ -2,6 +2,7 @@
 layout: term
 title: lakayıtlık
 slug: lakayitlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► ilgisizlik

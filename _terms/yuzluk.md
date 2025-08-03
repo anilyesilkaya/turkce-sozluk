@@ -2,6 +2,7 @@
 layout: term
 title: yüzlük
 slug: yuzluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüz lira değerinde olan para

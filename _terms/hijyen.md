@@ -2,6 +2,7 @@
 layout: term
 title: hijyen
 slug: hijyen
+letter: H
 lisan: Fransızca hygiène
 anlamlar:
 - ► sağlık bilgisi

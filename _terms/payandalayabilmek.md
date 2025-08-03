@@ -2,6 +2,7 @@
 layout: term
 title: payandalayabilmek
 slug: payandalayabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Payandalama ihtimali bulunmak

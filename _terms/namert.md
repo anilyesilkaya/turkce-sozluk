@@ -2,6 +2,7 @@
 layout: term
 title: namert
 slug: namert
+letter: N
 lisan: Farsça nāmerd
 anlamlar:
 - Korkak, alçak, mert olmayan

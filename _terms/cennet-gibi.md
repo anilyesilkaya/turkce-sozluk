@@ -2,6 +2,7 @@
 layout: term
 title: cennet gibi
 slug: cennet-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - güzel, bakımlı (yer)

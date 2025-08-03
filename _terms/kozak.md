@@ -2,6 +2,7 @@
 layout: term
 title: kozak
 slug: kozak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kozalak

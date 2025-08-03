@@ -2,6 +2,7 @@
 layout: term
 title: ibret
 slug: ibret
+letter: I
 lisan: Arapça ʿibret
 anlamlar:
 - Kötü bir olaydan alınması gereken ders, uyarıcı sonuç

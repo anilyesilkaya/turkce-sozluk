@@ -2,6 +2,7 @@
 layout: term
 title: fota
 slug: fota
+letter: F
 lisan: İtalyanca fusto
 anlamlar:
 - İçinde şarap yapılan bir tür fıçı

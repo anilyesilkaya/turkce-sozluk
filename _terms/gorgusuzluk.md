@@ -2,6 +2,7 @@
 layout: term
 title: görgüsüzlük
 slug: gorgusuzluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görgüsüz olma durumu

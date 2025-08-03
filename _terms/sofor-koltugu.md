@@ -2,6 +2,7 @@
 layout: term
 title: şoför koltuğu
 slug: sofor-koltugu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Taşıtlarda sürücünün oturduğu ön koltuk

@@ -2,6 +2,7 @@
 layout: term
 title: yardımcı rol
 slug: yardimci-rol
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yan rol

@@ -2,6 +2,7 @@
 layout: term
 title: armut dalının dibine düşer
 slug: armut-dalinin-dibine-duser
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"bir kimse önce yakınlarına yararlı olur" anlamında kullanılan bir söz'

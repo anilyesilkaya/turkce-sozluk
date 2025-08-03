@@ -2,6 +2,7 @@
 layout: term
 title: müsait
 slug: musait
+letter: M
 lisan: Arapça musāʿid
 anlamlar:
 - Uygun, elverişli olan

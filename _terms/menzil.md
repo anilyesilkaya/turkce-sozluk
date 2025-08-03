@@ -2,6 +2,7 @@
 layout: term
 title: menzil
 slug: menzil
+letter: M
 lisan: Arapça menzil
 anlamlar:
 - Yolculukta dinlenmek amacıyla durulan veya konaklanan yer; çalım

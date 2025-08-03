@@ -2,6 +2,7 @@
 layout: term
 title: bizon
 slug: bizon
+letter: B
 lisan: Fransızca bison
 anlamlar:
 - Amerika'da yaşayan bir cins hörgüçlü yaban öküzü

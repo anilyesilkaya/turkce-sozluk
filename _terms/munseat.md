@@ -2,6 +2,7 @@
 layout: term
 title: münşeat
 slug: munseat
+letter: M
 lisan: Arapça munşeʾāt
 anlamlar:
 - Sanatlı düzyazı veya mektupların toplandığı dergi

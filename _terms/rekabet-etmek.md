@@ -2,6 +2,7 @@
 layout: term
 title: rekabet etmek
 slug: rekabet-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - yarışmak

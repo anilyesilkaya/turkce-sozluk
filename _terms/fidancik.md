@@ -2,6 +2,7 @@
 layout: term
 title: fidancık
 slug: fidancik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Küçük fidan

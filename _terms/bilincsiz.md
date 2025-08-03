@@ -2,6 +2,7 @@
 layout: term
 title: bilinçsiz
 slug: bilincsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinci olmayan; şuursuz

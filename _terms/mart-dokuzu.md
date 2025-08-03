@@ -2,6 +2,7 @@
 layout: term
 title: mart dokuzu
 slug: mart-dokuzu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Gregoryen takvimine göre martın üçüncü haftasında görülen bir fırtına

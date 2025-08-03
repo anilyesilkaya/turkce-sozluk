@@ -2,6 +2,7 @@
 layout: term
 title: asilik
 slug: asilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► başkaldırıcılık

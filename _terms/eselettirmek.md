@@ -2,6 +2,7 @@
 layout: term
 title: eşelettirmek
 slug: eselettirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşelemesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: niteliksiz
 slug: niteliksiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Ayırt edici özelliği olmayan; vasıfsız

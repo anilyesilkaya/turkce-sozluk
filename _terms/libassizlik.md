@@ -2,6 +2,7 @@
 layout: term
 title: libassızlık
 slug: libassizlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► giysisizlik

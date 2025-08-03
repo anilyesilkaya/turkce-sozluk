@@ -2,6 +2,7 @@
 layout: term
 title: iftar yemeği
 slug: iftar-yemegi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ramazanda iftarda yenilen yemek; iftar

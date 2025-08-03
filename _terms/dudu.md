@@ -2,6 +2,7 @@
 layout: term
 title: dudu
 slug: dudu
+letter: D
 lisan: Farsça ṭūṭī
 anlamlar:
 - ► papağan

@@ -2,6 +2,7 @@
 layout: term
 title: helallik dilemek
 slug: helallik-dilemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birinden hakkını helal etmesini istemek

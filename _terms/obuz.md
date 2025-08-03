@@ -2,6 +2,7 @@
 layout: term
 title: 'obuz '
 slug: obuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Basık, düz yer

@@ -2,6 +2,7 @@
 layout: term
 title: haşerat
 slug: haserat
+letter: H
 lisan: Arapça ḥaşerāt
 anlamlar:
 - ► böcekler

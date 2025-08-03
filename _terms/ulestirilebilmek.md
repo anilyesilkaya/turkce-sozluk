@@ -2,6 +2,7 @@
 layout: term
 title: üleştirilebilmek
 slug: ulestirilebilmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► paylaştırılabilmek

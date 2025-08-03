@@ -2,6 +2,7 @@
 layout: term
 title: cennet kuşu
 slug: cennet-kusu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cennet kuşugillerden, tüyleri güzel renkli bir kuş (Paradisea apoda)

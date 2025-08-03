@@ -2,6 +2,7 @@
 layout: term
 title: minnacık
 slug: minnacik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çok küçük

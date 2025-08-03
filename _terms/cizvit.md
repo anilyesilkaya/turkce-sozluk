@@ -2,6 +2,7 @@
 layout: term
 title: cizvit
 slug: cizvit
+letter: C
 lisan: Fransızca jésuite
 anlamlar:
 - İsa Derneği denilen bir Hristiyan derneğinin üyesi

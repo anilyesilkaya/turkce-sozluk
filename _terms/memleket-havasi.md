@@ -2,6 +2,7 @@
 layout: term
 title: memleket havası
 slug: memleket-havasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - İnsanın kendi memleketine ait türkü ve onun ezgisi

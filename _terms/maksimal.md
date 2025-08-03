@@ -2,6 +2,7 @@
 layout: term
 title: maksimal
 slug: maksimal
+letter: M
 lisan: Fransızca maximale
 anlamlar:
 - ► azami

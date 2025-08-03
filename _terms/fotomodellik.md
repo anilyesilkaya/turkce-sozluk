@@ -2,6 +2,7 @@
 layout: term
 title: fotomodellik
 slug: fotomodellik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fotomodelin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: engelli
 slug: engelli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engeli olan; mânialı

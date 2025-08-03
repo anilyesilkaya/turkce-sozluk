@@ -2,6 +2,7 @@
 layout: term
 title: bekiniş
 slug: bekinis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekinmek işi

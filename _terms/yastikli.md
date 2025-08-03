@@ -2,6 +2,7 @@
 layout: term
 title: yastıklı
 slug: yastikli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yastığı olan

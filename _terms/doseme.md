@@ -2,6 +2,7 @@
 layout: term
 title: döşeme
 slug: doseme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: gülle gibi
 slug: gulle-gibi
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok ağır

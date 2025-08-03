@@ -2,6 +2,7 @@
 layout: term
 title: kırklı
 slug: kirkli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırk parçası bulunan, kırk parçadan oluşan

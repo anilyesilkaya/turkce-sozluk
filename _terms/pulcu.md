@@ -2,6 +2,7 @@
 layout: term
 title: pulcu
 slug: pulcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pul satan kimse

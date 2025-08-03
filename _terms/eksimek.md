@@ -2,6 +2,7 @@
 layout: term
 title: ekşimek
 slug: eksimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekşi duruma gelmek

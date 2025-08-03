@@ -2,6 +2,7 @@
 layout: term
 title: teslimat
 slug: teslimat
+letter: T
 lisan: Arapça teslīmāt
 anlamlar:
 - Teslim etme işleri

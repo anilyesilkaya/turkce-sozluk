@@ -2,6 +2,7 @@
 layout: term
 title: veraset
 slug: veraset
+letter: V
 lisan: Arapça verās̱et
 anlamlar:
 - ► kalıtım

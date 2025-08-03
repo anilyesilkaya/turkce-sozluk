@@ -2,6 +2,7 @@
 layout: term
 title: yerine
 slug: yerine
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin veya bir kimsenin yerini almak üzere

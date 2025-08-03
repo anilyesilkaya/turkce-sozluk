@@ -2,6 +2,7 @@
 layout: term
 title: müemmen
 slug: muemmen
+letter: M
 lisan: Arapça muʾemmen
 anlamlar:
 - Emniyete alınmış (kimse)

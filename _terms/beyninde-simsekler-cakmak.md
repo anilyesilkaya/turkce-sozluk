@@ -2,6 +2,7 @@
 layout: term
 title: beyninde şimşekler çakmak
 slug: beyninde-simsekler-cakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok üzülmek, sarsılmak

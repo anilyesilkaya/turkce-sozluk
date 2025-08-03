@@ -2,6 +2,7 @@
 layout: term
 title: acayip
 slug: acayip
+letter: A
 lisan: Arapça ʿacāʾib
 anlamlar:
 - Sağduyuya, göreneğe, olağana aykırı, yadırganan; yabansı, garip, tuhaf

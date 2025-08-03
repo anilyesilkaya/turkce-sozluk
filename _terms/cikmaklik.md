@@ -2,6 +2,7 @@
 layout: term
 title: çıkmaklık
 slug: cikmaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkma durumunda olma

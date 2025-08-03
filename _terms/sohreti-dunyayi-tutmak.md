@@ -2,6 +2,7 @@
 layout: term
 title: şöhreti dünyayı tutmak
 slug: sohreti-dunyayi-tutmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok tanınmak

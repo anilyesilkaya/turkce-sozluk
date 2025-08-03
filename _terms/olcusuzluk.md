@@ -2,6 +2,7 @@
 layout: term
 title: ölçüsüzlük
 slug: olcusuzluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçüsüz olma durumu

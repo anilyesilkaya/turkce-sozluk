@@ -2,6 +2,7 @@
 layout: term
 title: çizikli
 slug: cizikli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizikleri olan

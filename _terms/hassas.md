@@ -2,6 +2,7 @@
 layout: term
 title: hassas
 slug: hassas
+letter: H
 lisan: Arapça ḥassās
 anlamlar:
 - Duyum ve duyguları algılayan

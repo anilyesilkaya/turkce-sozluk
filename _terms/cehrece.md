@@ -2,6 +2,7 @@
 layout: term
 title: çehrece
 slug: cehrece
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çehre bakımından

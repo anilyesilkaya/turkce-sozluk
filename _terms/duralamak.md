@@ -2,6 +2,7 @@
 layout: term
 title: duralamak
 slug: duralamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► duraklamak

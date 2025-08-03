@@ -2,6 +2,7 @@
 layout: term
 title: terfien
 slug: terfien
+letter: T
 lisan: Arapça terfīʿan
 anlamlar:
 - Terfi ederek, yükselerek

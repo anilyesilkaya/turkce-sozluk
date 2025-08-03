@@ -2,6 +2,7 @@
 layout: term
 title: kıpırtılı
 slug: kipirtili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıpırtısı olan; kımıltılı, kıprayışlı

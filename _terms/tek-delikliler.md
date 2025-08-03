@@ -2,6 +2,7 @@
 layout: term
 title: tek delikliler
 slug: tek-delikliler
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kuşlar gibi yumurtlayarak üreyen, dışkılığı olan memeliler takımı

@@ -2,6 +2,7 @@
 layout: term
 title: fersude
 slug: fersude
+letter: F
 lisan: Farsça fersūde
 anlamlar:
 - Eskimiş, yıpranmış, aşınmış

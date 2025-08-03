@@ -2,6 +2,7 @@
 layout: term
 title: mavi çocuk
 slug: mavi-cocuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mavihastalığa yakalanmış çocuk

@@ -2,6 +2,7 @@
 layout: term
 title: yuhalamak
 slug: yuhalamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birine "yuha" diye bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: tırmanmak
 slug: tirmanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - El ve ayaklarıyla tutunarak veya tırnaklarını iliştirerek dik bir yere çıkmak

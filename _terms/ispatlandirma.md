@@ -2,6 +2,7 @@
 layout: term
 title: ispatlandırma
 slug: ispatlandirma
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kanıtlandırma

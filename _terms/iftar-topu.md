@@ -2,6 +2,7 @@
 layout: term
 title: iftar topu
 slug: iftar-topu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İftar zamanını bildirmek amacıyla atılan top

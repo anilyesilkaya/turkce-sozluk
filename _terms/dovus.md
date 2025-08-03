@@ -2,6 +2,7 @@
 layout: term
 title: dövüş
 slug: dovus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövmek işi

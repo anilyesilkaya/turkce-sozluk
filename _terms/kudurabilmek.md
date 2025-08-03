@@ -2,6 +2,7 @@
 layout: term
 title: kudurabilmek
 slug: kudurabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kudurma ihtimali veya imkânı bulunmak

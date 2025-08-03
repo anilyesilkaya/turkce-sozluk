@@ -2,6 +2,7 @@
 layout: term
 title: eriyivermek
 slug: eriyivermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede erimek

@@ -2,6 +2,7 @@
 layout: term
 title: ivme
 slug: ivme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İvmek işi

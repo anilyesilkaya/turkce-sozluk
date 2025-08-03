@@ -2,6 +2,7 @@
 layout: term
 title: metelik
 slug: metelik
+letter: M
 lisan: Fransızca metallique
 anlamlar:
 - Çeyrek kuruş, on para değerinde demir para

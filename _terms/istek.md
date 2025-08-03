@@ -2,6 +2,7 @@
 layout: term
 title: istek
 slug: istek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeye karşı içten gelen yönelme duygusu; gönül, arzu, heves, kasıt

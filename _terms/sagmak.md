@@ -2,6 +2,7 @@
 layout: term
 title: sağmak
 slug: sagmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Memeyi parmaklar arasında sıkarak sütünü akıtmak

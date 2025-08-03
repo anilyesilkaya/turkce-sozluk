@@ -2,6 +2,7 @@
 layout: term
 title: kurum
 slug: kurum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendini büyük ve önemli gösterme davranışı; azamet, gurur

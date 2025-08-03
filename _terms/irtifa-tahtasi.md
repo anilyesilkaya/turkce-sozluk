@@ -2,6 +2,7 @@
 layout: term
 title: irtifa tahtası
 slug: irtifa-tahtasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gök cisimlerinin yüksekliğini ölçmeye yarayan, dairenin dörtte biri şeklinde tahtadan yapılan bir alet

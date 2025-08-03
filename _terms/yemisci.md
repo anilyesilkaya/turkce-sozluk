@@ -2,6 +2,7 @@
 layout: term
 title: yemişçi
 slug: yemisci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► meyveci

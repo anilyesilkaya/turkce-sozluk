@@ -2,6 +2,7 @@
 layout: term
 title: dağlamak
 slug: daglamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kızgın bir demirle hayvan derisine damga vurmak

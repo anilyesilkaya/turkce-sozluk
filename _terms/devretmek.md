@@ -2,6 +2,7 @@
 layout: term
 title: devretmek
 slug: devretmek
+letter: D
 lisan: Arapça devr + Türkçe etmek
 anlamlar:
 - Dönmek, dolaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: kaydedici
 slug: kaydedici
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► imleç

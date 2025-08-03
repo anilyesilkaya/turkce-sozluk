@@ -2,6 +2,7 @@
 layout: term
 title: tefarik
 slug: tefarik
+letter: T
 lisan: Arapça tefārīḳ
 anlamlar:
 - Genellikle kırmızı, beyaz ve mor kumaştan dikilen, gömlek ve şalvardan oluşan, kol ağızları, paça kenarları ile şalvarın yanları işlenmiş kadın giysisi

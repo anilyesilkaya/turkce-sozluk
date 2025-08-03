@@ -2,6 +2,7 @@
 layout: term
 title: oynatmak
 slug: oynatmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynamasını sağlamak

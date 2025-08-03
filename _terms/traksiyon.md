@@ -2,6 +2,7 @@
 layout: term
 title: traksiyon
 slug: traksiyon
+letter: T
 lisan: Fransızca traction
 anlamlar:
 - ► çekim

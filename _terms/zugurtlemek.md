@@ -2,6 +2,7 @@
 layout: term
 title: züğürtlemek
 slug: zugurtlemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Parasız, meteliksiz kalmak, züğürt duruma gelmek

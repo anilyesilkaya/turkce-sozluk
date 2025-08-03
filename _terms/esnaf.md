@@ -2,6 +2,7 @@
 layout: term
 title: esnaf
 slug: esnaf
+letter: E
 lisan: Arapça eṣnāf
 anlamlar:
 - Küçük sermaye ve zanaat sahibi; artizan

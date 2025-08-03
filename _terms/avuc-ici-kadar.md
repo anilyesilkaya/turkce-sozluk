@@ -2,6 +2,7 @@
 layout: term
 title: avuç içi kadar
 slug: avuc-ici-kadar
+letter: A
 lisan: Türkçe
 anlamlar:
 - pek küçük, dar (yer)

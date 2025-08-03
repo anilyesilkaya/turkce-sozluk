@@ -2,6 +2,7 @@
 layout: term
 title: saz rengi
 slug: saz-rengi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soluk, uçuk sarı

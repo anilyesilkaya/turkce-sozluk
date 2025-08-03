@@ -2,6 +2,7 @@
 layout: term
 title: teati etmek
 slug: teati-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - karşılıklı alıp vermek

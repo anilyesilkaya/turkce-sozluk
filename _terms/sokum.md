@@ -2,6 +2,7 @@
 layout: term
 title: sokum
 slug: sokum
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► lokma

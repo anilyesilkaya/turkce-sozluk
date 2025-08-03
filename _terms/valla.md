@@ -2,6 +2,7 @@
 layout: term
 title: valla
 slug: valla
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► vallahi

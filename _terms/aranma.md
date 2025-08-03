@@ -2,6 +2,7 @@
 layout: term
 title: aranma
 slug: aranma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aranmak işi

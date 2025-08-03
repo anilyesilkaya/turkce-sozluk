@@ -2,6 +2,7 @@
 layout: term
 title: örgüt kurmak
 slug: orgut-kurmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - teşkilat oluşturmak, birliği düzenlemek

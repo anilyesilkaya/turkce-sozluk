@@ -2,6 +2,7 @@
 layout: term
 title: yığın
 slug: yigin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yığılmasıyla oluşturulan küme, tepe; tınaz

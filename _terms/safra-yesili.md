@@ -2,6 +2,7 @@
 layout: term
 title: safra yeşili
 slug: safra-yesili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siyaha çalan yeşil renk

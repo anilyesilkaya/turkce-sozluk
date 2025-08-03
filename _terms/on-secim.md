@@ -2,6 +2,7 @@
 layout: term
 title: ön seçim
 slug: on-secim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Genel seçimde aday gösterilecek kişileri belirlemek için bir parti üyesi olan belli sayıdaki delegelerin katılmasıyla yapılan seçim

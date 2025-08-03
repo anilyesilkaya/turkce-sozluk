@@ -2,6 +2,7 @@
 layout: term
 title: ulam ulam
 slug: ulam-ulam
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sıra sıra

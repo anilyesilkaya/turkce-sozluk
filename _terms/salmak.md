@@ -2,6 +2,7 @@
 layout: term
 title: salmak
 slug: salmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bağımlılığına, tutukluluğuna veya baskı altındaki durumuna son vererek serbest kılmak; bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: tuluatçı
 slug: tuluatci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuluat yapan sanatçı

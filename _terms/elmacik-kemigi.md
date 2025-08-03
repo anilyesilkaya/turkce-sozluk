@@ -2,6 +2,7 @@
 layout: term
 title: elmacık kemiği
 slug: elmacik-kemigi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yüzün yanakla göz arasında bulunan, az çok çıkıntılı bölümü; elmacık

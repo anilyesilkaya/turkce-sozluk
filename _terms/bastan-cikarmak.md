@@ -2,6 +2,7 @@
 layout: term
 title: baştan çıkarmak
 slug: bastan-cikarmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü yola sürüklemek, doğru yoldan saptırmak

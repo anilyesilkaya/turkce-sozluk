@@ -2,6 +2,7 @@
 layout: term
 title: bey soylu
 slug: bey-soylu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Asil olan

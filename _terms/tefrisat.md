@@ -2,6 +2,7 @@
 layout: term
 title: tefrişat
 slug: tefrisat
+letter: T
 lisan: Arapça tefrīşāt
 anlamlar:
 - Döşeme işleri

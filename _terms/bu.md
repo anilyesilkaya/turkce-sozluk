@@ -2,6 +2,7 @@
 layout: term
 title: bu
 slug: bu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yerde, zamanda veya söz zincirinde en yakın olanı gösteren bir söz

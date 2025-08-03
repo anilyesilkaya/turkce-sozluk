@@ -2,6 +2,7 @@
 layout: term
 title: kızıl
 slug: kizil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Parlak kırmızı renk

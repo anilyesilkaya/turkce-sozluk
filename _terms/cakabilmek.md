@@ -2,6 +2,7 @@
 layout: term
 title: çakabilmek
 slug: cakabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakma ihtimali veya imkânı bulunmak

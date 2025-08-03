@@ -2,6 +2,7 @@
 layout: term
 title: berhayat olmak
 slug: berhayat-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yaşamak, hayatta olmak

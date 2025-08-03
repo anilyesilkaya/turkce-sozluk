@@ -2,6 +2,7 @@
 layout: term
 title: yürek soğutmak
 slug: yurek-sogutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sevmediği birinin bir felakete uğramasına sevinmek

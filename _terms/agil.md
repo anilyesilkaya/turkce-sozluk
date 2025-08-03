@@ -2,6 +2,7 @@
 layout: term
 title: ağıl
 slug: agil
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hale

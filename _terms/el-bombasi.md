@@ -2,6 +2,7 @@
 layout: term
 title: el bombası
 slug: el-bombasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elde taşınabilen ve pimi çekilerek ateşlenen küçük tip bomba

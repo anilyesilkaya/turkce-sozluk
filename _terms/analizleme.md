@@ -2,6 +2,7 @@
 layout: term
 title: analizleme
 slug: analizleme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çözümleme

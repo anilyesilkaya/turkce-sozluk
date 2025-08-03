@@ -2,6 +2,7 @@
 layout: term
 title: sulhen
 slug: sulhen
+letter: S
 lisan: Arapça ṣulḥen
 anlamlar:
 - Barış yoluyla, anlaşıp uzlaşarak

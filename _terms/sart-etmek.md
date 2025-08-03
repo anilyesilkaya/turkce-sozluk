@@ -2,6 +2,7 @@
 layout: term
 title: şart etmek
 slug: sart-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"şart olsun" diyerek yemin etmek'

@@ -2,6 +2,7 @@
 layout: term
 title: yalpak
 slug: yalpak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► dalkavuk

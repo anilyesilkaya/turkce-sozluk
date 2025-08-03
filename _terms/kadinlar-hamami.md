@@ -2,6 +2,7 @@
 layout: term
 title: kadınlar hamamı
 slug: kadinlar-hamami
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadınlara ayrılan özel hamam

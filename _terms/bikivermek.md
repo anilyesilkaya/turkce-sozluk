@@ -2,6 +2,7 @@
 layout: term
 title: bıkıvermek
 slug: bikivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bıkmak

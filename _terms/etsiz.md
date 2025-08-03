@@ -2,6 +2,7 @@
 layout: term
 title: etsiz
 slug: etsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eti olmayan

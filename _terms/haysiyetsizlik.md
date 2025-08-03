@@ -2,6 +2,7 @@
 layout: term
 title: haysiyetsizlik
 slug: haysiyetsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haysiyetsiz olma durumu, haysiyetsizce davranış

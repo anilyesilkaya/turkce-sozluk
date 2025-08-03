@@ -2,6 +2,7 @@
 layout: term
 title: özel dil
 slug: ozel-dil
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Aynı meslekten olanların veya aynı iş alanında çalışanların kendi aralarında konuştukları dil

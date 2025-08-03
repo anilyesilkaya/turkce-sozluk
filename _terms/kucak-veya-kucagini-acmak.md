@@ -2,6 +2,7 @@
 layout: term
 title: kucak (veya kucağını) açmak
 slug: kucak-veya-kucagini-acmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - korumak

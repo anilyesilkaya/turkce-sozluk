@@ -2,6 +2,7 @@
 layout: term
 title: güzide
 slug: guzide
+letter: G
 lisan: Farsça guzīde
 anlamlar:
 - ► seçkin

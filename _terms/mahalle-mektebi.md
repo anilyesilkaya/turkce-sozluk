@@ -2,6 +2,7 @@
 layout: term
 title: mahalle mektebi
 slug: mahalle-mektebi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahallede bulunan ilkokul

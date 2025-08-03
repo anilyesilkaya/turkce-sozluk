@@ -2,6 +2,7 @@
 layout: term
 title: öğle ezanı
 slug: ogle-ezani
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğle namazının vaktinin geldiğini bildirmek için okunan ezan; öğle

@@ -2,6 +2,7 @@
 layout: term
 title: bireyselleştirme
 slug: bireysellestirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bireysel duruma getirme

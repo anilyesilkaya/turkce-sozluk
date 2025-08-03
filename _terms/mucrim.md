@@ -2,6 +2,7 @@
 layout: term
 title: mücrim
 slug: mucrim
+letter: M
 lisan: Arapça mucrim
 anlamlar:
 - ► suçlu

@@ -2,6 +2,7 @@
 layout: term
 title: çepellemek
 slug: cepellemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çepel duruma getirmek

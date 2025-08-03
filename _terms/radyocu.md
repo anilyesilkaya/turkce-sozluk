@@ -2,6 +2,7 @@
 layout: term
 title: radyocu
 slug: radyocu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Radyo yapan, onaran veya satan kimse

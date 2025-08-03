@@ -2,6 +2,7 @@
 layout: term
 title: söz ustası
 slug: soz-ustasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söz söylemesini bilen veya ağzına söz yakışan kimse

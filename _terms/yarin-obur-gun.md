@@ -2,6 +2,7 @@
 layout: term
 title: yarın öbür gün
 slug: yarin-obur-gun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İleride, yakın bir zamanda

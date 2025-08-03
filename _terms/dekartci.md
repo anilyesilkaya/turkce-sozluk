@@ -2,6 +2,7 @@
 layout: term
 title: Dekartçı
 slug: dekartci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dekart felsefesini benimseyen

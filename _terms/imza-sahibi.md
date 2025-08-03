@@ -2,6 +2,7 @@
 layout: term
 title: imza sahibi
 slug: imza-sahibi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir yere imza atan kimse

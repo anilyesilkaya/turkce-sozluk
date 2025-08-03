@@ -2,6 +2,7 @@
 layout: term
 title: ikametgâhsız
 slug: ikametgahsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkametgâhı olmayan

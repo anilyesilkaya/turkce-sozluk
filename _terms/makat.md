@@ -2,6 +2,7 @@
 layout: term
 title: makat
 slug: makat
+letter: M
 lisan: Arapça maḳʿad
 anlamlar:
 - ► kıç

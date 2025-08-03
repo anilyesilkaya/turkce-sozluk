@@ -2,6 +2,7 @@
 layout: term
 title: sivillik
 slug: sivillik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sivil olma durumu

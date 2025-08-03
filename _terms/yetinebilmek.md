@@ -2,6 +2,7 @@
 layout: term
 title: yetinebilmek
 slug: yetinebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetinme ihtimali veya imkânı bulunmak

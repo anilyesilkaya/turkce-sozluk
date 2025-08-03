@@ -2,6 +2,7 @@
 layout: term
 title: kuş kirazı
 slug: kus-kirazi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, yaprak açmadan önce beyaz çiçek veren, kaplamacılıkta kullanılan yabani ağaç; ılgıncar, gelinfeneri (Cerasus padus)

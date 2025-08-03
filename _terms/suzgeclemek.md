@@ -2,6 +2,7 @@
 layout: term
 title: süzgeçlemek
 slug: suzgeclemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzgeçten geçirmek

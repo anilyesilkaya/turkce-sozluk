@@ -2,6 +2,7 @@
 layout: term
 title: propagandist
 slug: propagandist
+letter: P
 lisan: Fransızca propagandiste
 anlamlar:
 - ► propagandacı

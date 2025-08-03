@@ -2,6 +2,7 @@
 layout: term
 title: parıldatmak
 slug: parildatmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parıldamasını sağlamak

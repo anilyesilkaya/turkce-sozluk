@@ -2,6 +2,7 @@
 layout: term
 title: orangutan
 slug: orangutan
+letter: O
 lisan: Fransızca orang-outang
 anlamlar:
 - Maymunlar takımının Sumatra ve Borneo’da yaşayan, kahverengi kıllı, sivri başlı, küçük kulaklı, kalın dudaklı bir memeli türü.

@@ -2,6 +2,7 @@
 layout: term
 title: adam sendeci
 slug: adam-sendeci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Önemsemeyen, vurdumduymaz davranışlar içinde olan

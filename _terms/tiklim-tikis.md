@@ -2,6 +2,7 @@
 layout: term
 title: tıklım tıkış
 slug: tiklim-tikis
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tıklım tıklım

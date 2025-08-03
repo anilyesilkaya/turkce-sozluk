@@ -2,6 +2,7 @@
 layout: term
 title: evirmek
 slug: evirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Döndürmek, çevirmek

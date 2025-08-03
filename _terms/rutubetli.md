@@ -2,6 +2,7 @@
 layout: term
 title: rutubetli
 slug: rutubetli
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► nemli

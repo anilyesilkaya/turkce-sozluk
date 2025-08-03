@@ -2,6 +2,7 @@
 layout: term
 title: elektronik devre
 slug: elektronik-devre
+letter: E
 lisan: Türkçe
 anlamlar:
 - Transistor ve diyot benzeri devre elemanları bulunan herhangi bir elektrik devresi; e-devre

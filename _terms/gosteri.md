@@ -2,6 +2,7 @@
 layout: term
 title: gösteri
 slug: gosteri
+letter: G
 lisan: Türkçe
 anlamlar:
 - İlgi, dikkat çekmek için bir topluluk önünde gösterilen beceri veya oyun

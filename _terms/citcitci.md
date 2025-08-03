@@ -2,6 +2,7 @@
 layout: term
 title: çıtçıtçı
 slug: citcitci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Giyim sanayisinde giysilere çıtçıt diken kimse

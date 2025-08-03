@@ -2,6 +2,7 @@
 layout: term
 title: gazeteci
 slug: gazeteci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gazete yayımlayan kimse

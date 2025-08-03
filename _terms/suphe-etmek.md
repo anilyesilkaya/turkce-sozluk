@@ -2,6 +2,7 @@
 layout: term
 title: şüphe etmek
 slug: suphe-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - kuşkulanmak

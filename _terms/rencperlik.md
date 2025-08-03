@@ -2,6 +2,7 @@
 layout: term
 title: rençperlik
 slug: rencperlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rençper olma durumu, rençperin işi, ırgatlık

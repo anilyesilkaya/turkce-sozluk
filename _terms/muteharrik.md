@@ -2,6 +2,7 @@
 layout: term
 title: müteharrik
 slug: muteharrik
+letter: M
 lisan: Arapça muteḥarrik
 anlamlar:
 - ► hareketli

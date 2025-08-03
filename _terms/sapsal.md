@@ -2,6 +2,7 @@
 layout: term
 title: şapşal
 slug: sapsal
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Aptalca davranışlarda bulunan, alık (kimse); ibiş

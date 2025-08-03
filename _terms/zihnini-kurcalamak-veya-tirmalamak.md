@@ -2,6 +2,7 @@
 layout: term
 title: zihnini kurcalamak (veya tırmalamak)
 slug: zihnini-kurcalamak-veya-tirmalamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir şey sık sık hatırlanıp insanı düşündürmek

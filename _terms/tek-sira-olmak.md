@@ -2,6 +2,7 @@
 layout: term
 title: tek sıra olmak
 slug: tek-sira-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sıraya girmek, sıralanmak

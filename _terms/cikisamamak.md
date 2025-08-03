@@ -2,6 +2,7 @@
 layout: term
 title: çıkışamamak
 slug: cikisamamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - boy ölçüşememek, eşit derecede olmamak

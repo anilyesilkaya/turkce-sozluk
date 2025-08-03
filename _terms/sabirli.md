@@ -2,6 +2,7 @@
 layout: term
 title: sabırlı
 slug: sabirli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabır gösteren, katlanan, sabreden

@@ -2,6 +2,7 @@
 layout: term
 title: dombay
 slug: dombay
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► manda (I)

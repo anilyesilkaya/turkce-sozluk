@@ -2,6 +2,7 @@
 layout: term
 title: beceri
 slug: beceri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Elinden iş gelme durumu; maharet

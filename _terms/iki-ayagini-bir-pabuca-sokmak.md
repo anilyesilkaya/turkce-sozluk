@@ -2,6 +2,7 @@
 layout: term
 title: iki ayağını bir pabuca sokmak
 slug: iki-ayagini-bir-pabuca-sokmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - birini bir işi hemen yapması için çok sıkıştırmak

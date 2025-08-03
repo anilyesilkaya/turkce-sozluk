@@ -2,6 +2,7 @@
 layout: term
 title: cebini (veya ceplerini) doldurmak
 slug: cebini-veya-ceplerini-doldurmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - karşılaştığı elverişli durumlardan yararlanarak bol para kazanmak

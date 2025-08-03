@@ -2,6 +2,7 @@
 layout: term
 title: tecerrüt
 slug: tecerrut
+letter: T
 lisan: Arapça tecerrud
 anlamlar:
 - Her şeyden uzaklaşma, sıyrılma, soyutlanma

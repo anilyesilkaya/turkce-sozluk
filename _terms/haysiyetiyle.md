@@ -2,6 +2,7 @@
 layout: term
 title: haysiyetiyle
 slug: haysiyetiyle
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sebebiyle

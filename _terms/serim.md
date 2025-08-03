@@ -2,6 +2,7 @@
 layout: term
 title: serim
 slug: serim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sermek işi

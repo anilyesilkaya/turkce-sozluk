@@ -2,6 +2,7 @@
 layout: term
 title: adlanmak
 slug: adlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendisine ad verilmek; isimlenmek

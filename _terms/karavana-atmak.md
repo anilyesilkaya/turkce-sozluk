@@ -2,6 +2,7 @@
 layout: term
 title: karavana atmak
 slug: karavana-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hedefi vuramamak

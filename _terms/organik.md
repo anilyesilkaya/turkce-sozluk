@@ -2,6 +2,7 @@
 layout: term
 title: organik
 slug: organik
+letter: O
 lisan: Fransızca organique
 anlamlar:
 - Doğal yolla yapılan

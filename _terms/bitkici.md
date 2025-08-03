@@ -2,6 +2,7 @@
 layout: term
 title: bitkici
 slug: bitkici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitki yetiştiren kimse

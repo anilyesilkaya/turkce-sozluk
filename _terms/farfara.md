@@ -2,6 +2,7 @@
 layout: term
 title: farfara
 slug: farfara
+letter: F
 lisan: Arapça ferfere
 anlamlar:
 - Çok konuşan

@@ -2,6 +2,7 @@
 layout: term
 title: dezenfekte
 slug: dezenfekte
+letter: D
 lisan: Fransızca désinfecté
 anlamlar:
 - Hastalık yapma özelliği olan mikroorganizmalardan temizlenmiş olan

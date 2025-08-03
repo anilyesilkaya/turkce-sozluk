@@ -2,6 +2,7 @@
 layout: term
 title: bilgeleşme
 slug: bilgelesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgeleşmek işi

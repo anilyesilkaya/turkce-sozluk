@@ -2,6 +2,7 @@
 layout: term
 title: biraz
 slug: biraz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeterli ölçüden daha az; azıcık, bir derece

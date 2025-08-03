@@ -2,6 +2,7 @@
 layout: term
 title: cilalama
 slug: cilalama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilalamak işi

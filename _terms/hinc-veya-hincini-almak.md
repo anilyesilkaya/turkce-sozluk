@@ -2,6 +2,7 @@
 layout: term
 title: hınç (veya hıncını) almak
 slug: hinc-veya-hincini-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - öç (veya öcünü) almak

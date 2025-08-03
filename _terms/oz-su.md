@@ -2,6 +2,7 @@
 layout: term
 title: öz su
 slug: oz-su
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bitki ve hayvan dokularında bulunan sıvı; usare

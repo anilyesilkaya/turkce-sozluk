@@ -2,6 +2,7 @@
 layout: term
 title: belde
 slug: belde
+letter: B
 lisan: Arapça belde
 anlamlar:
 - ► kasaba

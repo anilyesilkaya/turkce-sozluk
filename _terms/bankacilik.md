@@ -2,6 +2,7 @@
 layout: term
 title: bankacılık
 slug: bankacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bankada yapılan işlemlerin tümü

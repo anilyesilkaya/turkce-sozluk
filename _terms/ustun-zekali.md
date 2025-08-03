@@ -2,6 +2,7 @@
 layout: term
 title: üstün zekâlı
 slug: ustun-zekali
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstün zekâya sahip olan

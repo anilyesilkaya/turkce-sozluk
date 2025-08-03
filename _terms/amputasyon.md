@@ -2,6 +2,7 @@
 layout: term
 title: ampütasyon
 slug: amputasyon
+letter: A
 lisan: Fransızca amputation
 anlamlar:
 - Kol, bacak, kulak gibi organların tedavi amacıyla kısmen veya tamamen kesilip çıkartılması

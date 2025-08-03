@@ -2,6 +2,7 @@
 layout: term
 title: tokatlayabilmek
 slug: tokatlayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tokatlama ihtimali veya imkânı bulunmak

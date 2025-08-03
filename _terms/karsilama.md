@@ -2,6 +2,7 @@
 layout: term
 title: karşılama
 slug: karsilama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılamak işi; istikbal

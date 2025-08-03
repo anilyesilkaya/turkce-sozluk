@@ -2,6 +2,7 @@
 layout: term
 title: haşhaş
 slug: hashas
+letter: H
 lisan: Arapça ḫaşḫāş
 anlamlar:
 - Gelincikgillerden, kapsüllerinden afyon elde edilen, tohumlarından yağ çıkarılan bir yıllık ve otsu bir kültür bitkisi (Papaver somniferum)

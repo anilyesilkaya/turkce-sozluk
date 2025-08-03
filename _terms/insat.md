@@ -2,6 +2,7 @@
 layout: term
 title: inşat
 slug: insat
+letter: I
 lisan: Arapça inşād
 anlamlar:
 - Şiir okuma, şiir söyleme

@@ -2,6 +2,7 @@
 layout: term
 title: battı balık yan gider
 slug: batti-balik-yan-gider
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"işler kötü gittiğine göre artık istenildiği gibi davranılabilir" anlamında kullanılan bir söz'

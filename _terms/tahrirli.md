@@ -2,6 +2,7 @@
 layout: term
 title: tahrirli
 slug: tahrirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Renkli kısmı çizgi çizgi olan (göz); tahrilli

@@ -2,6 +2,7 @@
 layout: term
 title: hazık
 slug: hazik
+letter: H
 lisan: Arapça ḥāẕiḳ
 anlamlar:
 - ► usta

@@ -2,6 +2,7 @@
 layout: term
 title: cascavlak ortada kalmak
 slug: cascavlak-ortada-kalmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bütün imkânları elinden alınmak

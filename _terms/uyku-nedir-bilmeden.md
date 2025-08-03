@@ -2,6 +2,7 @@
 layout: term
 title: uyku nedir bilmeden
 slug: uyku-nedir-bilmeden
+letter: U
 lisan: Türkçe
 anlamlar:
 - dinlenme imkânı bulamadan

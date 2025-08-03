@@ -2,6 +2,7 @@
 layout: term
 title: mafevk
 slug: mafevk
+letter: M
 lisan: Arapça māfevḳ
 anlamlar:
 - ► üst

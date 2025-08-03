@@ -2,6 +2,7 @@
 layout: term
 title: barmen
 slug: barmen
+letter: B
 lisan: Fransızca barman
 anlamlar:
 - Barda içki hazırlayıp sunan kimse

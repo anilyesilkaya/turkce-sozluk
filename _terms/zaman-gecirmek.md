@@ -2,6 +2,7 @@
 layout: term
 title: zaman geçirmek
 slug: zaman-gecirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - oyalanmak

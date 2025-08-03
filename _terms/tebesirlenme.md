@@ -2,6 +2,7 @@
 layout: term
 title: tebeşirlenme
 slug: tebesirlenme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tebeşirlenmek işi

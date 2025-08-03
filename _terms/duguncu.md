@@ -2,6 +2,7 @@
 layout: term
 title: düğüncü
 slug: duguncu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğün sahibi; toycu

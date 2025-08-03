@@ -2,6 +2,7 @@
 layout: term
 title: istiğfar
 slug: istigfar
+letter: I
 lisan: Arapça istiġfār
 anlamlar:
 - Tanrı'dan suçlarının bağışlanmasını dileme

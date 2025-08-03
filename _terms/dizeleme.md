@@ -2,6 +2,7 @@
 layout: term
 title: dizeleme
 slug: dizeleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizelemek işi

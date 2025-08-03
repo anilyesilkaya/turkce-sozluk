@@ -2,6 +2,7 @@
 layout: term
 title: mirasa konmak
 slug: mirasa-konmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir kimseye önemlice bir kalıt kalmak

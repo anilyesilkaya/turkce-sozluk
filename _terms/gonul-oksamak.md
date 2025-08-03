@@ -2,6 +2,7 @@
 layout: term
 title: gönül okşamak
 slug: gonul-oksamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - birini hoş bir söz veya davranışla sevindirmek, iltifat etmek, taltif etmek

@@ -2,6 +2,7 @@
 layout: term
 title: neşesizlik
 slug: nesesizlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neşesiz olma durumu

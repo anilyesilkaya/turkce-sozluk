@@ -2,6 +2,7 @@
 layout: term
 title: operet
 slug: operet
+letter: O
 lisan: Fransızca opérette
 anlamlar:
 - Eğlenceli, hafif konulu, içinde bestesiz konuşmalar bulunan sahne eseri

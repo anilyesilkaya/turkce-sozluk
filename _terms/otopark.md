@@ -2,6 +2,7 @@
 layout: term
 title: otopark
 slug: otopark
+letter: O
 lisan: Almanca Autopark
 anlamlar:
 - Taşıtların trafik bakımından uygun olan ve belli bir süre bırakıldıkları açık veya kapalı yer; park yeri, park

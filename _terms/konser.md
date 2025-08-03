@@ -2,6 +2,7 @@
 layout: term
 title: konser
 slug: konser
+letter: K
 lisan: Fransızca concert
 anlamlar:
 - Sanatçıların müzik eserlerini bir topluluk önünde çalması veya söylemesi

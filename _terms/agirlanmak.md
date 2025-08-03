@@ -2,6 +2,7 @@
 layout: term
 title: ağırlanmak
 slug: agirlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlama işine konu olmak

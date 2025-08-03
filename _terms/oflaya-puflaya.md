@@ -2,6 +2,7 @@
 layout: term
 title: oflaya puflaya
 slug: oflaya-puflaya
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sıkıntıdan veya bunalmadan dolayı “of, puf” sesi çıkararak

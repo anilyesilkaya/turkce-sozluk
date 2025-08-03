@@ -2,6 +2,7 @@
 layout: term
 title: renk
 slug: renk
+letter: R
 lisan: Farsça reng
 anlamlar:
 - Cisimler tarafından yansılanan ışığın gözde oluşturduğu duyum

@@ -2,6 +2,7 @@
 layout: term
 title: esirgemezlik
 slug: esirgemezlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Özveride bulunma

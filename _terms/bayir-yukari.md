@@ -2,6 +2,7 @@
 layout: term
 title: bayır yukarı
 slug: bayir-yukari
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tepeye doğru, yokuş başına yönelerek

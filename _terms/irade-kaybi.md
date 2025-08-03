@@ -2,6 +2,7 @@
 layout: term
 title: irade kaybı
 slug: irade-kaybi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► irade yitimi

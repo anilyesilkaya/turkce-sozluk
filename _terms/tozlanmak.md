@@ -2,6 +2,7 @@
 layout: term
 title: tozlanmak
 slug: tozlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tozlu olmak, üstüne toz konmak

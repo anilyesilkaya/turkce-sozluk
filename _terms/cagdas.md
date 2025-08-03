@@ -2,6 +2,7 @@
 layout: term
 title: çağdaş
 slug: cagdas
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aynı çağda yaşayan; çağcıl, gündeş, asri, muasır

@@ -2,6 +2,7 @@
 layout: term
 title: hanımefendilik
 slug: hanimefendilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hanımefendi olma durumu ve özelliği

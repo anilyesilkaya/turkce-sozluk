@@ -2,6 +2,7 @@
 layout: term
 title: müptela
 slug: muptela
+letter: M
 lisan: Arapça mubtelā
 anlamlar:
 - ► bağımlı

@@ -2,6 +2,7 @@
 layout: term
 title: bol bol
 slug: bol-bol
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gerekenden fazla bir biçimde; bol bolamat, gani gani

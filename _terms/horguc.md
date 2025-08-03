@@ -2,6 +2,7 @@
 layout: term
 title: hörgüç
 slug: horguc
+letter: H
 lisan: Türkçe
 anlamlar:
 - Devenin sırtındaki tümsek, çıkıntı

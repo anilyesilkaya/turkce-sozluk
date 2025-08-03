@@ -2,6 +2,7 @@
 layout: term
 title: hebenneka
 slug: hebenneka
+letter: H
 lisan: (Hebenneka özel isminden)
 anlamlar:
 - Zeki ve becerikli olmadığı hâlde kendini öyle sanan kimse

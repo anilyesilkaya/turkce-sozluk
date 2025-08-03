@@ -2,6 +2,7 @@
 layout: term
 title: gökşin
 slug: goksin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Maviye yakın renk

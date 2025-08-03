@@ -2,6 +2,7 @@
 layout: term
 title: etnik
 slug: etnik
+letter: E
 lisan: Fransızca ethnique
 anlamlar:
 - Kavimle ilgili; budunsal, kavmî

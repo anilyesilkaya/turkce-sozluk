@@ -2,6 +2,7 @@
 layout: term
 title: uçucu
 slug: ucucu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçma yeteneği veya özelliği olan; tayyar

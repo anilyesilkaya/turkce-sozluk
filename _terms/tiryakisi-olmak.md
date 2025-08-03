@@ -2,6 +2,7 @@
 layout: term
 title: tiryakisi olmak
 slug: tiryakisi-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeye veya birine çok düşkün olmak

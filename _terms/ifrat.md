@@ -2,6 +2,7 @@
 layout: term
 title: ifrat
 slug: ifrat
+letter: I
 lisan: Arapça ifrāṭ
 anlamlar:
 - Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık, tefrit karşıtı

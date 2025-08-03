@@ -2,6 +2,7 @@
 layout: term
 title: ilaç yapmak (veya hazırlamak)
 slug: ilac-yapmak-veya-hazirlamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - gerekli maddeleri kullanarak reçetede belirtilen dozda ilacı ortaya koymak

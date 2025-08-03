@@ -2,6 +2,7 @@
 layout: term
 title: dağ lalesi
 slug: dag-lalesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğün çiçeğigillerden, mor renkli, çan biçimli tüylü çiçekleri olan otsu bir bitki; anemon (Anemone vulgaris)

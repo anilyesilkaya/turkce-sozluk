@@ -2,6 +2,7 @@
 layout: term
 title: söyleyivermek
 slug: soyleyivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak söylemek

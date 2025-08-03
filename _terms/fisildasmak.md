@@ -2,6 +2,7 @@
 layout: term
 title: fısıldaşmak
 slug: fisildasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Birbirine fısıldamak

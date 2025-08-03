@@ -2,6 +2,7 @@
 layout: term
 title: uygun gelmek
 slug: uygun-gelmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - yakışmak, yaraşmak

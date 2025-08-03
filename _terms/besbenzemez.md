@@ -2,6 +2,7 @@
 layout: term
 title: beşbenzemez
 slug: besbenzemez
+letter: B
 lisan: Türkçe
 anlamlar:
 - İskambil oyunlarında veya okeyde birbiriyle ilgisiz olan kâğıt veya taş

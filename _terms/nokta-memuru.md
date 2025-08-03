@@ -2,6 +2,7 @@
 layout: term
 title: nokta memuru
 slug: nokta-memuru
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kavşaklarda durup trafik akışını düzenleyen görevli

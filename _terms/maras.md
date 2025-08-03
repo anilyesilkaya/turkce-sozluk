@@ -2,6 +2,7 @@
 layout: term
 title: Maraş
 slug: maras
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► Kahramanmaraş

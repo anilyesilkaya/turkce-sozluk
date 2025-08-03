@@ -2,6 +2,7 @@
 layout: term
 title: peşinci
 slug: pesinci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Malı peşin para ile satan veya satın alan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: kasıtsız
 slug: kasitsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - İsteyerek, bilerek yapılmayan

@@ -2,6 +2,7 @@
 layout: term
 title: dadılık etmek
 slug: dadilik-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çocuk bakıcılığı ile uğraşmak

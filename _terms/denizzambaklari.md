@@ -2,6 +2,7 @@
 layout: term
 title: denizzambakları
 slug: denizzambaklari
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizlaleleri

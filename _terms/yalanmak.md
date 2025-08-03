@@ -2,6 +2,7 @@
 layout: term
 title: yalanmak
 slug: yalanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalama işi yapılmak veya yalama işine konu olmak

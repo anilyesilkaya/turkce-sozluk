@@ -2,6 +2,7 @@
 layout: term
 title: boşaltma borusu
 slug: bosaltma-borusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Havuz, göl veya herhangi bir yerde biriken suyu boşaltan boru; tahliye borusu

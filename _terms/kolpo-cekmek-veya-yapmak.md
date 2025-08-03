@@ -2,6 +2,7 @@
 layout: term
 title: kolpo çekmek (veya yapmak)
 slug: kolpo-cekmek-veya-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - isteka ile bilardo topuna vurmak

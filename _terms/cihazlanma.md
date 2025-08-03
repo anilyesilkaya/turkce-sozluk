@@ -2,6 +2,7 @@
 layout: term
 title: cihazlanma
 slug: cihazlanma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cihazlanmak durumu

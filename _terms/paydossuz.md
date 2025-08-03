@@ -2,6 +2,7 @@
 layout: term
 title: 'paydossuz '
 slug: paydossuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paydosu olmayan

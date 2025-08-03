@@ -2,6 +2,7 @@
 layout: term
 title: ayakkabıcı
 slug: ayakkabici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayakkabı yapan veya satan kimse; başmakçı, pabuççu

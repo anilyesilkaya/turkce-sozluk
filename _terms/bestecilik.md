@@ -2,6 +2,7 @@
 layout: term
 title: bestecilik
 slug: bestecilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bestecinin yaptığı iş; bestekârlık, kompozitörlük, maestroluk

@@ -2,6 +2,7 @@
 layout: term
 title: çalkatmak
 slug: calkatmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çalkalatmak

@@ -2,6 +2,7 @@
 layout: term
 title: halas olmak
 slug: halas-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kurtulmak

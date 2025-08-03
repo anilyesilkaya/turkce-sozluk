@@ -2,6 +2,7 @@
 layout: term
 title: müphem
 slug: muphem
+letter: M
 lisan: Arapça mubhem
 anlamlar:
 - ► belirsiz

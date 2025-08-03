@@ -2,6 +2,7 @@
 layout: term
 title: pembeleştirmek
 slug: pembelestirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pembe bir duruma getirmek

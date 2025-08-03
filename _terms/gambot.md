@@ -2,6 +2,7 @@
 layout: term
 title: gambot
 slug: gambot
+letter: G
 lisan: İngilizce gun-boat
 anlamlar:
 - ► topçeker

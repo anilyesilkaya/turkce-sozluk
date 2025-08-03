@@ -2,6 +2,7 @@
 layout: term
 title: kartograf
 slug: kartograf
+letter: K
 lisan: Fransızca cartographe
 anlamlar:
 - ► haritacı

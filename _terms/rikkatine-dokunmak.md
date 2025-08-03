@@ -2,6 +2,7 @@
 layout: term
 title: rikkatine dokunmak
 slug: rikkatine-dokunmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - hüzünlendirmek

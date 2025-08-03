@@ -2,6 +2,7 @@
 layout: term
 title: işkembe
 slug: iskembe
+letter: I
 lisan: Farsça şikenbe
 anlamlar:
 - Geviş getirenlerin ilk ve en büyük mide bölümü

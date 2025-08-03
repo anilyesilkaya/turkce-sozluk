@@ -2,6 +2,7 @@
 layout: term
 title: cevir
 slug: cevir
+letter: C
 lisan: Arapça cevr
 anlamlar:
 - ► eziyet

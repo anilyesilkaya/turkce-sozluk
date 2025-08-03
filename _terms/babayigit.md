@@ -2,6 +2,7 @@
 layout: term
 title: babayiğit
 slug: babayigit
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yürekli kimse

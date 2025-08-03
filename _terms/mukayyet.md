@@ -2,6 +2,7 @@
 layout: term
 title: mukayyet
 slug: mukayyet
+letter: M
 lisan: Arapça muḳayyed
 anlamlar:
 - Bağlı olan, bağlanmış

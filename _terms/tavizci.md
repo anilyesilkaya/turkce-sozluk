@@ -2,6 +2,7 @@
 layout: term
 title: tavizci
 slug: tavizci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ödüncü

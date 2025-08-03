@@ -2,6 +2,7 @@
 layout: term
 title: buğur
 slug: bugur
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► buğra

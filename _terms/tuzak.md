@@ -2,6 +2,7 @@
 layout: term
 title: tuzak
 slug: tuzak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek; ağ (I), fak, komplo

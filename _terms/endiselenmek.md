@@ -2,6 +2,7 @@
 layout: term
 title: endişelenmek
 slug: endiselenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kaygılanmak

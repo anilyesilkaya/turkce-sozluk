@@ -2,6 +2,7 @@
 layout: term
 title: baltalayabilmek
 slug: baltalayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalama ihtimali veya imkânı bulunmak

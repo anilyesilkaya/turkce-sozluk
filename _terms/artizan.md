@@ -2,6 +2,7 @@
 layout: term
 title: artizan
 slug: artizan
+letter: A
 lisan: Fransızca artisan
 anlamlar:
 - ► zanaatçı

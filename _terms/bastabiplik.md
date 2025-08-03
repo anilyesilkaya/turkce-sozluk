@@ -2,6 +2,7 @@
 layout: term
 title: baştabiplik
 slug: bastabiplik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başhekimlik

@@ -2,6 +2,7 @@
 layout: term
 title: zikrolunmak
 slug: zikrolunmak
+letter: Z
 lisan: Arapça ẕikr + Türkçe olunmak
 anlamlar:
 - Adı geçmek, söylenmek

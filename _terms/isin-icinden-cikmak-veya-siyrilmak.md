@@ -2,6 +2,7 @@
 layout: term
 title: işin içinden çıkmak (veya sıyrılmak)
 slug: isin-icinden-cikmak-veya-siyrilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyi anlamak, bir sorunu çözümlemek

@@ -2,6 +2,7 @@
 layout: term
 title: zebun etmek
 slug: zebun-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - güçsüz bırakmak, zavallı duruma düşürmek veya getirmek

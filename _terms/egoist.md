@@ -2,6 +2,7 @@
 layout: term
 title: egoist
 slug: egoist
+letter: E
 lisan: Fransızca égoïste
 anlamlar:
 - ► bencil

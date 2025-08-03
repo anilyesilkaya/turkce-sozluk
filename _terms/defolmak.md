@@ -2,6 +2,7 @@
 layout: term
 title: defolmak
 slug: defolmak
+letter: D
 lisan: Arapça defʿ + Türkçe olmak
 anlamlar:
 - Savuşmak, çekilip gitmek

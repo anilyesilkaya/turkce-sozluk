@@ -2,6 +2,7 @@
 layout: term
 title: mesut
 slug: mesut
+letter: M
 lisan: Arapça mesʿūd
 anlamlar:
 - ► mutlu

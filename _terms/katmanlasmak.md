@@ -2,6 +2,7 @@
 layout: term
 title: katmanlaşmak
 slug: katmanlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ayrı ayrı tabakalar veya sınıflar oluşturmak

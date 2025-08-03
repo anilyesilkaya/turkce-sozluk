@@ -2,6 +2,7 @@
 layout: term
 title: hamburgerci
 slug: hamburgerci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamburger yapan veya satan kimse

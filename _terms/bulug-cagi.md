@@ -2,6 +2,7 @@
 layout: term
 title: büluğ çağı
 slug: bulug-cagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ergenlik

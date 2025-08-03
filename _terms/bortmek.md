@@ -2,6 +2,7 @@
 layout: term
 title: börtmek
 slug: bortmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Et rengi değişinceye kadar pişmek, hafifçe kavrulmak

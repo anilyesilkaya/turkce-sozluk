@@ -2,6 +2,7 @@
 layout: term
 title: topoğrafik harita
 slug: topografik-harita
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► topoğrafya haritası

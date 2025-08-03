@@ -2,6 +2,7 @@
 layout: term
 title: kiralatma
 slug: kiralatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kiralatmak işi

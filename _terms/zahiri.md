@@ -2,6 +2,7 @@
 layout: term
 title: zahirî
 slug: zahiri
+letter: Z
 lisan: Arapça ẓāhirī
 anlamlar:
 - Görünen, görünürdeki

@@ -2,6 +2,7 @@
 layout: term
 title: hazırlatmak
 slug: hazirlatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazır duruma getirmek

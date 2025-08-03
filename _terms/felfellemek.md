@@ -2,6 +2,7 @@
 layout: term
 title: felfellemek
 slug: felfellemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Eski canlılığını yitirmek

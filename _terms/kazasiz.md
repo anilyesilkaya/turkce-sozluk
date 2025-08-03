@@ -2,6 +2,7 @@
 layout: term
 title: kazasız
 slug: kazasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazaya uğramadan yapılan

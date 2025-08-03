@@ -2,6 +2,7 @@
 layout: term
 title: müstantik
 slug: mustantik
+letter: M
 lisan: Arapça mustanṭiḳ
 anlamlar:
 - ► sorgu yargıcı

@@ -2,6 +2,7 @@
 layout: term
 title: kaymak
 slug: kaymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düz, ıslak, donmuş veya kaygan bir yüzey üzerinde sürtünerek kolayca yer değiştirmek

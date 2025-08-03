@@ -2,6 +2,7 @@
 layout: term
 title: büğelek
 slug: bugelek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► büve

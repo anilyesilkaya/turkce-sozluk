@@ -2,6 +2,7 @@
 layout: term
 title: don gömlek
 slug: don-gomlek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzerinde sadece iç çamaşırı var denilecek kadar soyunmuş durumda

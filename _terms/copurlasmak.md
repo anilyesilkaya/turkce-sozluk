@@ -2,6 +2,7 @@
 layout: term
 title: çopurlaşmak
 slug: copurlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çopur duruma gelmek

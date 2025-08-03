@@ -2,6 +2,7 @@
 layout: term
 title: demlendiriliş
 slug: demlendirilis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demlendirilmek işi

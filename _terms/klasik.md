@@ -2,6 +2,7 @@
 layout: term
 title: klasik
 slug: klasik
+letter: K
 lisan: Fransızca classique
 anlamlar:
 - Üzerinden çok zaman geçtiği hâlde değerini yitirmeyen, türünde örnek olarak görülen eser

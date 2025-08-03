@@ -2,6 +2,7 @@
 layout: term
 title: yıllıkçı
 slug: yillikci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yıllıklı

@@ -2,6 +2,7 @@
 layout: term
 title: büzülüvermek
 slug: buzuluvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak büzülmek

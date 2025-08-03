@@ -2,6 +2,7 @@
 layout: term
 title: başarım
 slug: basarim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Elde edilen bir başarı

@@ -2,6 +2,7 @@
 layout: term
 title: şakakları ağarmak (veya beyazlanmak)
 slug: sakaklari-agarmak-veya-beyazlanmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - yaşlanmak

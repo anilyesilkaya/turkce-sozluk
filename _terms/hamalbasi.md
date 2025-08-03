@@ -2,6 +2,7 @@
 layout: term
 title: hamalbaşı
 slug: hamalbasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamallara başkanlık eden kimse

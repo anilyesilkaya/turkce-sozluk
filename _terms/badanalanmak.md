@@ -2,6 +2,7 @@
 layout: term
 title: badanalanmak
 slug: badanalanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badana yapılmak

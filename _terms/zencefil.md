@@ -2,6 +2,7 @@
 layout: term
 title: zencefil
 slug: zencefil
+letter: Z
 lisan: Arapça zencebīl
 anlamlar:
 - Zencefilgillerden, ana vatanı Hindistan ve Malezya olan, kamış görünüşünde otsu bir bitki (Zingiber officinale)

@@ -2,6 +2,7 @@
 layout: term
 title: narin
 slug: narin
+letter: N
 lisan: Farsça nārīn
 anlamlar:
 - İnce yapılı; yepelek, nazenin

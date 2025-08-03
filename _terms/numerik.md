@@ -2,6 +2,7 @@
 layout: term
 title: numerik
 slug: numerik
+letter: N
 lisan: Fransızca numérique
 anlamlar:
 - ► sayısal

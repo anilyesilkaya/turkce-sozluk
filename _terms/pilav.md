@@ -2,6 +2,7 @@
 layout: term
 title: pilav
 slug: pilav
+letter: P
 lisan: Farsça pelāv, pilāv
 anlamlar:
 - Pirinçten, bulgurdan veya kuskustan yapılan bir yemek

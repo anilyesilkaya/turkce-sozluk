@@ -2,6 +2,7 @@
 layout: term
 title: emretmek
 slug: emretmek
+letter: E
 lisan: Arapça emr + Türkçe etmek
 anlamlar:
 - Bir şeyin yapılmasını veya yapılmamasını kesin olarak söylemek; buyurmak, emreylemek

@@ -2,6 +2,7 @@
 layout: term
 title: kazasker
 slug: kazasker
+letter: K
 lisan: Arapça ḳāżī + ʿasker
 anlamlar:
 - İlmiye sınıfının yüksek derecesinde bulunan devlet görevlisi

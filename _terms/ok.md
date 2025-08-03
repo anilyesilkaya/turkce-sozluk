@@ -2,6 +2,7 @@
 layout: term
 title: ok
 slug: ok
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yayla atılan, ucunda sivri bir demir bulunan ince ve kısa tahta çubuk

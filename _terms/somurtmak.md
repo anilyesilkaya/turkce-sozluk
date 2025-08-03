@@ -2,6 +2,7 @@
 layout: term
 title: somurtmak
 slug: somurtmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Küskünlüğünü, bir şeye sıkıldığını, keyifsizliğini anlatacak biçimde yüzünü buruşturmak; surat asmak

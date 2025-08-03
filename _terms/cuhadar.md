@@ -2,6 +2,7 @@
 layout: term
 title: çuhadar
 slug: cuhadar
+letter: Ç
 lisan: Farsça çūḫadār
 anlamlar:
 - Osmanlı Devleti'nde padişahın hizmetinde bulunan sarayın büyük memurlarından her biri

@@ -2,6 +2,7 @@
 layout: term
 title: soysuzluk
 slug: soysuzluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soysuz olma durumu; cibilliyetsizlik, dejenerelik

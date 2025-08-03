@@ -2,6 +2,7 @@
 layout: term
 title: mesafe
 slug: mesafe
+letter: M
 lisan: Arapça mesāfe
 anlamlar:
 - ► ara

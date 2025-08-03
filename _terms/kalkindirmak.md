@@ -2,6 +2,7 @@
 layout: term
 title: kalkındırmak
 slug: kalkindirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalkınmasını sağlamak, kalkınmasına yol açmak

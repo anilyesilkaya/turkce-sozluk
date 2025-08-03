@@ -2,6 +2,7 @@
 layout: term
 title: temel cümle
 slug: temel-cumle
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birleşik veya girişik cümlelerde, yan cümle, ara cümle ve iç cümlelerin bağlı olduğu asıl yargıyı belirten cümle; temel tümce

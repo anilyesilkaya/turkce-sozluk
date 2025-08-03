@@ -2,6 +2,7 @@
 layout: term
 title: proteinsizlik
 slug: proteinsizlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Proteinsiz olma durumu

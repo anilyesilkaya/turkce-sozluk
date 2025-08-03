@@ -2,6 +2,7 @@
 layout: term
 title: bakkaliye
 slug: bakkaliye
+letter: B
 lisan: Arapça baḳḳāliyye
 anlamlar:
 - Bakkalda satılan ürünler

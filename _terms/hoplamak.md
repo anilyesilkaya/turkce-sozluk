@@ -2,6 +2,7 @@
 layout: term
 title: hoplamak
 slug: hoplamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sevinçten, korkudan veya oyun için, bulunduğu yerde havaya doğru fırlamak

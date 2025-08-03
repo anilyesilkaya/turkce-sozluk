@@ -2,6 +2,7 @@
 layout: term
 title: fermeneli
 slug: fermeneli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fermenesi olan

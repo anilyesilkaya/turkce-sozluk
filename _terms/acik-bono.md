@@ -2,6 +2,7 @@
 layout: term
 title: açık bono
 slug: acik-bono
+letter: A
 lisan: Türkçe
 anlamlar:
 - Para hanesi boş bırakılarak imza edilen bono; açık senet

@@ -2,6 +2,7 @@
 layout: term
 title: elbette
 slug: elbette
+letter: E
 lisan: Arapça elbette
 anlamlar:
 - ► tabii

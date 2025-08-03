@@ -2,6 +2,7 @@
 layout: term
 title: depresif
 slug: depresif
+letter: D
 lisan: Fransızca dépressif
 anlamlar:
 - Ruhsal çöküntü içinde bulunan

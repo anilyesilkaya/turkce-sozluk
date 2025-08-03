@@ -2,6 +2,7 @@
 layout: term
 title: emekli aylığı
 slug: emekli-ayligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emeklilere ödenen aylık; emekli maaşı, tekaüt maaşı, tekaüdiye

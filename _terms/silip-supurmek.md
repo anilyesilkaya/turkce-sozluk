@@ -2,6 +2,7 @@
 layout: term
 title: silip süpürmek
 slug: silip-supurmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - evi, ortalığı temizlemek

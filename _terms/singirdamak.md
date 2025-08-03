@@ -2,6 +2,7 @@
 layout: term
 title: şıngırdamak
 slug: singirdamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Küçük şeyler bir yere çarpıp düşerken veya birbirine değerken çınlama sesi çıkarmak

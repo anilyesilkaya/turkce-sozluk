@@ -2,6 +2,7 @@
 layout: term
 title: yanıp yakılmak
 slug: yanip-yakilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sızlanmak, şikâyet etmek

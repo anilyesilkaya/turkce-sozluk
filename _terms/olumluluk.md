@@ -2,6 +2,7 @@
 layout: term
 title: olumluluk
 slug: olumluluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olumlu olma durumu; müspetlik

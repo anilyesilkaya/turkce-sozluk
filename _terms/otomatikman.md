@@ -2,6 +2,7 @@
 layout: term
 title: otomatikman
 slug: otomatikman
+letter: O
 lisan: Fransızca automatiqement
 anlamlar:
 - Otomatik olarak; otomatik

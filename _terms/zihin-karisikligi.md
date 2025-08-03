@@ -2,6 +2,7 @@
 layout: term
 title: zihin karışıklığı
 slug: zihin-karisikligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Düşünme sırasında düşünceler arasındaki bağlantının yok olması; kafa karışıklığı, zihin bulanıklığı

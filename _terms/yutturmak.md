@@ -2,6 +2,7 @@
 layout: term
 title: yutturmak
 slug: yutturmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kandırmak, aldatmak

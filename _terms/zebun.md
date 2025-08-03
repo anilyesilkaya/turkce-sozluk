@@ -2,6 +2,7 @@
 layout: term
 title: zebun
 slug: zebun
+letter: Z
 lisan: Farsça zebūn
 anlamlar:
 - Güçsüz, zayıf, âciz olan

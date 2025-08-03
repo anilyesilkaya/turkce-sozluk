@@ -2,6 +2,7 @@
 layout: term
 title: at kenesi
 slug: at-kenesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Brezilya at kenesi

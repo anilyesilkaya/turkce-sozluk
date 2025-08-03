@@ -2,6 +2,7 @@
 layout: term
 title: sarahaten
 slug: sarahaten
+letter: S
 lisan: Arapça ṣarāḥaten
 anlamlar:
 - Açıkça, apaçık, açıktan açığa; sarahatle

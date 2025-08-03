@@ -2,6 +2,7 @@
 layout: term
 title: temiz kalpli
 slug: temiz-kalpli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Olaylara iyimser ve olumlu yönden bakan

@@ -2,6 +2,7 @@
 layout: term
 title: ilk ağızda
 slug: ilk-agizda
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlk iş olarak, her şeyden önce

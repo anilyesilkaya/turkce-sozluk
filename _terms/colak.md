@@ -2,6 +2,7 @@
 layout: term
 title: çolak
 slug: colak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eli veya kolu sakat olan (kimse)

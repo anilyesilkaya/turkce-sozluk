@@ -2,6 +2,7 @@
 layout: term
 title: ayranı kabarmak
 slug: ayrani-kabarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - öfkelenmek, coşmak

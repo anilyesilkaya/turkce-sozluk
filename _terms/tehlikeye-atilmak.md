@@ -2,6 +2,7 @@
 layout: term
 title: tehlikeye atılmak
 slug: tehlikeye-atilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - zarar ve sıkıntılara yol açacak bir davranışta bulunmak

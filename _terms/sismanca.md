@@ -2,6 +2,7 @@
 layout: term
 title: şişmanca
 slug: sismanca
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Biraz şişman

@@ -2,6 +2,7 @@
 layout: term
 title: sövüşmek
 slug: sovusmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► küfürleşmek

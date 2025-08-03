@@ -2,6 +2,7 @@
 layout: term
 title: demletebilme
 slug: demletebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demletebilmek işi

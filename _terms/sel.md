@@ -2,6 +2,7 @@
 layout: term
 title: sel
 slug: sel
+letter: S
 lisan: Arapça seyl
 anlamlar:
 - Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su; su taşkını

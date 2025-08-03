@@ -2,6 +2,7 @@
 layout: term
 title: antipati
 slug: antipati
+letter: A
 lisan: Fransızca antipathie
 anlamlar:
 - ► sevimsizlik

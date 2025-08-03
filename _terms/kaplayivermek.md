@@ -2,6 +2,7 @@
 layout: term
 title: kaplayıvermek
 slug: kaplayivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kaplamak

@@ -2,6 +2,7 @@
 layout: term
 title: kuytu
 slug: kuytu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Issız, sessiz ve göze çarpmayan, tenha (yer)

@@ -2,6 +2,7 @@
 layout: term
 title: meğerse
 slug: megerse
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► meğer

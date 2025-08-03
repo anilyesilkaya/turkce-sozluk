@@ -2,6 +2,7 @@
 layout: term
 title: avcı eri
 slug: avci-eri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Piyade mangasındaki er

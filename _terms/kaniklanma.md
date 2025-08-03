@@ -2,6 +2,7 @@
 layout: term
 title: kanıklanma
 slug: kaniklanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yetinme

@@ -2,6 +2,7 @@
 layout: term
 title: çayırlanmak
 slug: cayirlanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hayvan, çayırda otlamak; çayırlamak

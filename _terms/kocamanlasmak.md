@@ -2,6 +2,7 @@
 layout: term
 title: 'kocamanlaşmak '
 slug: kocamanlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kocaman duruma gelmek

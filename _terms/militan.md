@@ -2,6 +2,7 @@
 layout: term
 title: militan
 slug: militan
+letter: M
 lisan: Fransızca militant
 anlamlar:
 - Bir düşüncenin, bir görüşün başarı kazanması için savaşan, mücadele eden kimse

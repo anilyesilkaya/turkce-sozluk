@@ -2,6 +2,7 @@
 layout: term
 title: fındık sıçanı
 slug: findik-sicani
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fındık faresi

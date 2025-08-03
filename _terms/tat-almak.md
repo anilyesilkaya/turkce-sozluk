@@ -2,6 +2,7 @@
 layout: term
 title: tat almak
 slug: tat-almak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tadı algılamak

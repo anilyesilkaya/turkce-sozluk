@@ -2,6 +2,7 @@
 layout: term
 title: misyonerlik
 slug: misyonerlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Misyoner olma durumu

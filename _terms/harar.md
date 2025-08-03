@@ -2,6 +2,7 @@
 layout: term
 title: harar
 slug: harar
+letter: H
 lisan: Arapça ḫarār
 anlamlar:
 - Çoğu kıldan dokunmuş, büyük çuval

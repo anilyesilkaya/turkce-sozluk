@@ -2,6 +2,7 @@
 layout: term
 title: altı karış beberuhi
 slug: alti-karis-beberuhi
+letter: A
 lisan: Türkçe
 anlamlar:
 - kısa boylu kimse

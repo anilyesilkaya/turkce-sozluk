@@ -2,6 +2,7 @@
 layout: term
 title: narçiçeği
 slug: narcicegi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Parlak kırmızı renk

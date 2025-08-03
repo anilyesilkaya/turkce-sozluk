@@ -2,6 +2,7 @@
 layout: term
 title: ot
 slug: ot
+letter: O
 lisan: Türkçe
 anlamlar:
 - Toprak üstündeki bölümleri odunlaşmayıp yumuşak kalan, ilkbaharda bitip bir iki mevsim sonra kuruyan küçük bitkiler

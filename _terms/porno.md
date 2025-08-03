@@ -2,6 +2,7 @@
 layout: term
 title: porno
 slug: porno
+letter: P
 lisan: Fransızca porno
 anlamlar:
 - Amacı cinsel dürtülere yönelik olan, ahlaki değerlere aykırı düşen yayın, resim vb.; pornografi

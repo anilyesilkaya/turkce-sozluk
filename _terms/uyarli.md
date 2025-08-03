@@ -2,6 +2,7 @@
 layout: term
 title: uyarlı
 slug: uyarli
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uyumlu

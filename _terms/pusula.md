@@ -2,6 +2,7 @@
 layout: term
 title: pusula
 slug: pusula
+letter: P
 lisan: İtalyanca bussola
 anlamlar:
 - Küçük bir kâğıda yazılmış kısa mektup; tezkere

@@ -2,6 +2,7 @@
 layout: term
 title: merci
 slug: merci
+letter: M
 lisan: Arapça merciʿ
 anlamlar:
 - Başvurulacak yer veya makam

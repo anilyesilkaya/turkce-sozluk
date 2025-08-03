@@ -2,6 +2,7 @@
 layout: term
 title: şokola
 slug: sokola
+letter: Ş
 lisan: Fransızca chocolat
 anlamlar:
 - Çikolata, şeker, su veya sütle yapılan sıcak içecek

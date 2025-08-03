@@ -2,6 +2,7 @@
 layout: term
 title: karabinyer
 slug: karabinyer
+letter: K
 lisan: Fransızca carabinier
 anlamlar:
 - İtalyan jandarması

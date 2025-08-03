@@ -2,6 +2,7 @@
 layout: term
 title: şişkinlik
 slug: siskinlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişkin olma durumu

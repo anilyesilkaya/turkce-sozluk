@@ -2,6 +2,7 @@
 layout: term
 title: görünüşlü
 slug: gorunuslu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde görünüşü olan

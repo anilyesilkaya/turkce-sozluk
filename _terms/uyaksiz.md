@@ -2,6 +2,7 @@
 layout: term
 title: uyaksız
 slug: uyaksiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyesiz

@@ -2,6 +2,7 @@
 layout: term
 title: vızıltılı
 slug: viziltili
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vızıltısı olan

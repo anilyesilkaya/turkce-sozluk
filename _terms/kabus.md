@@ -2,6 +2,7 @@
 layout: term
 title: kâbus
 slug: kabus
+letter: K
 lisan: Arapça kābūs
 anlamlar:
 - ► karabasan

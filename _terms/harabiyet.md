@@ -2,6 +2,7 @@
 layout: term
 title: harabiyet
 slug: harabiyet
+letter: H
 lisan: Arapça ḫarābiyet
 anlamlar:
 - ► haraplık

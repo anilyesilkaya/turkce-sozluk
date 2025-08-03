@@ -2,6 +2,7 @@
 layout: term
 title: figür
 slug: figur
+letter: F
 lisan: Fransızca figure
 anlamlar:
 - Resim ve heykel sanatlarında varlıkların biçimi

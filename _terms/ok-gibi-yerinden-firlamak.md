@@ -2,6 +2,7 @@
 layout: term
 title: ok gibi (yerinden) fırlamak
 slug: ok-gibi-yerinden-firlamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - birden ve hızlıca ileri atılmak

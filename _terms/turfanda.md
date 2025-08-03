@@ -2,6 +2,7 @@
 layout: term
 title: turfanda
 slug: turfanda
+letter: T
 lisan: Farsça tervende
 anlamlar:
 - Mevsimin başında ilk yetişen (meyve, sebze)

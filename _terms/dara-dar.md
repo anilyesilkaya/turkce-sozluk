@@ -2,6 +2,7 @@
 layout: term
 title: dara dar
 slug: dara-dar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güçlükle, ancak, son dakikada; gücün

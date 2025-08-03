@@ -2,6 +2,7 @@
 layout: term
 title: lavantalı
 slug: lavantali
+letter: L
 lisan: Türkçe
 anlamlar:
 - İçinde lavanta bulunan

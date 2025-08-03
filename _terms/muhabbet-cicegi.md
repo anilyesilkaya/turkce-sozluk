@@ -2,6 +2,7 @@
 layout: term
 title: muhabbet çiçeği
 slug: muhabbet-cicegi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muhabbet çiçeğigillerden, çiçekleri yeşilimtırak beyaz, güzel kokulu bir süs bitkisi (Reseda odorata)

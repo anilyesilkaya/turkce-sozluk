@@ -2,6 +2,7 @@
 layout: term
 title: unutkan
 slug: unutkan
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çok unutan, unutma huyu olan

@@ -2,6 +2,7 @@
 layout: term
 title: hafiyelik
 slug: hafiyelik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafiye olma durumu

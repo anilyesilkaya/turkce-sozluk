@@ -2,6 +2,7 @@
 layout: term
 title: avuçlamak
 slug: avuclamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avuçla kavramak, avuçla almak; apazlamak, hapazlamak

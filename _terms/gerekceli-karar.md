@@ -2,6 +2,7 @@
 layout: term
 title: gerekçeli karar
 slug: gerekceli-karar
+letter: G
 lisan: Türkçe
 anlamlar:
 - Mahkemenin son duruşmasında verilen nihai kararın kanun maddeleri atıf yapılmak ve gerekçesi açıklanmak suretiyle verilen uzun karar

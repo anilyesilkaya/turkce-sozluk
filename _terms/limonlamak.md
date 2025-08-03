@@ -2,6 +2,7 @@
 layout: term
 title: limonlamak
 slug: limonlamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - İçine, üstüne limonun suyunu sıkmak veya katmak

@@ -2,6 +2,7 @@
 layout: term
 title: bizar olmak
 slug: bizar-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - usanmak, bıkmak

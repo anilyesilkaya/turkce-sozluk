@@ -2,6 +2,7 @@
 layout: term
 title: kahve
 slug: kahve
+letter: K
 lisan: Arapça ḳahve
 anlamlar:
 - Kök boyasıgillerden, sıcak iklimlerde yetişen bir ağaç (Coffea arabica)

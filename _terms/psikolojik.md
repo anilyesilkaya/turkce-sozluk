@@ -2,6 +2,7 @@
 layout: term
 title: psikolojik
 slug: psikolojik
+letter: P
 lisan: Fransızca psychologique
 anlamlar:
 - Psikolojiyle ilgili; ruh bilimsel

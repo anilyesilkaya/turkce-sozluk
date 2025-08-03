@@ -2,6 +2,7 @@
 layout: term
 title: böcü
 slug: bocu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kurt (II)

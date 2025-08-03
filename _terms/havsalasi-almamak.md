@@ -2,6 +2,7 @@
 layout: term
 title: havsalası almamak
 slug: havsalasi-almamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - aklı kabul edememek

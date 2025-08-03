@@ -2,6 +2,7 @@
 layout: term
 title: yardakçı
 slug: yardakci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kötü işlerde birine yardım eden kimse; avane

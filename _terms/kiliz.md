@@ -2,6 +2,7 @@
 layout: term
 title: kiliz
 slug: kiliz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► hasır otu

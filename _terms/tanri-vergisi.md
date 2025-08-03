@@ -2,6 +2,7 @@
 layout: term
 title: Tanrı vergisi
 slug: tanri-vergisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sonradan elde edilmeyip yaratılıştan var olan nitelik, yetenek veya özellik; Allah vergisi, mevhibeiilahiye

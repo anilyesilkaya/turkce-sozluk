@@ -2,6 +2,7 @@
 layout: term
 title: miyokart
 slug: miyokart
+letter: M
 lisan: Fransızca myocarde
 anlamlar:
 - ► kalp kası

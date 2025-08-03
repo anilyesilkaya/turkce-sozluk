@@ -2,6 +2,7 @@
 layout: term
 title: gözü toprağa bakmak
 slug: gozu-topraga-bakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ölmek üzere olmak

@@ -2,6 +2,7 @@
 layout: term
 title: kırgın
 slug: kirgin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırılmış (kimse)

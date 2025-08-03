@@ -2,6 +2,7 @@
 layout: term
 title: hüccet
 slug: huccet
+letter: H
 lisan: Arapça ḥuccet
 anlamlar:
 - ► belgit

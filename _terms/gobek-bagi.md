@@ -2,6 +2,7 @@
 layout: term
 title: göbek bağı
 slug: gobek-bagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yeni doğan çocuğun göbeği kesildikten sonra kan gelmemesi için geri kalan damar örgüsüne bağladıkları bağ

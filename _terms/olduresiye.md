@@ -2,6 +2,7 @@
 layout: term
 title: öldüresiye
 slug: olduresiye
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürürcesine

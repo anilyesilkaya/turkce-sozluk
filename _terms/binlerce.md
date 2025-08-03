@@ -2,6 +2,7 @@
 layout: term
 title: binlerce
 slug: binlerce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek çok, çok sayıda

@@ -2,6 +2,7 @@
 layout: term
 title: defnetmek
 slug: defnetmek
+letter: D
 lisan: Arapça defn + Türkçe etmek
 anlamlar:
 - Ölüyü gömmek, toprağa vermek

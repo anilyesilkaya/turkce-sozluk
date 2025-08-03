@@ -2,6 +2,7 @@
 layout: term
 title: sezebilmek
 slug: sezebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezme ihtimali veya imkânı bulunmak

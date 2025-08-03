@@ -2,6 +2,7 @@
 layout: term
 title: izinsiz
 slug: izinsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ceza olarak hafta sonu veya tatil günü çıkmasına izin verilmeyen (asker veya yatılı öğrenci)

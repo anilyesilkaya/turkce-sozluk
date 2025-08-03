@@ -2,6 +2,7 @@
 layout: term
 title: dişli tırnaklı
 slug: disli-tirnakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Saldırgan olan

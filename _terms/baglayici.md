@@ -2,6 +2,7 @@
 layout: term
 title: bağlayıcı
 slug: baglayici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlama niteliği olan

@@ -2,6 +2,7 @@
 layout: term
 title: dijital ortam
 slug: dijital-ortam
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bilgisayar, tablet, cep telefonu vb. elektronik aygıtlar aracılığıyla okunup yazılabilen her türlü bilgi için veri kaydı amacıyla kullanılan kayıt ortamı veya veri taşıyıcı

@@ -2,6 +2,7 @@
 layout: term
 title: beddualı
 slug: bedduali
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde beddua barındıran

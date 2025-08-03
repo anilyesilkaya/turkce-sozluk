@@ -2,6 +2,7 @@
 layout: term
 title: yabancısı olmamak
 slug: yabancisi-olmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tanıdık, bildik olmak

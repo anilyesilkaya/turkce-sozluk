@@ -2,6 +2,7 @@
 layout: term
 title: tiryaki
 slug: tiryaki
+letter: T
 lisan: Arapça tiryāḳī
 anlamlar:
 - Afyon, tütün, kahve, çay vb. keyif veren maddelere alışmış olan (kimse)

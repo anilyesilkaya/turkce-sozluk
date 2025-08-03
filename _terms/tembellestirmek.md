@@ -2,6 +2,7 @@
 layout: term
 title: tembelleştirmek
 slug: tembellestirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tembel olmasına sebep olmak

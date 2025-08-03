@@ -2,6 +2,7 @@
 layout: term
 title: enternasyonalist
 slug: enternasyonalist
+letter: E
 lisan: Fransızca internationaliste
 anlamlar:
 - ► uluslararasıcı

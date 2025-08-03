@@ -2,6 +2,7 @@
 layout: term
 title: sükûnet bulmak
 slug: sukunet-bulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sakinleşmek, rahatlamak

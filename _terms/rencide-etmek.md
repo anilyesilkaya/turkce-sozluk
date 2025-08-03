@@ -2,6 +2,7 @@
 layout: term
 title: rencide etmek
 slug: rencide-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - incitmek, kalbini kırmak

@@ -2,6 +2,7 @@
 layout: term
 title: anarşizm
 slug: anarsizm
+letter: A
 lisan: Fransızca anarchisme
 anlamlar:
 - Özel mülkiyeti toplumda baskı kaynağı ve devleti onun bir aracı olarak gören, bunların ortadan kalkmasıyla insanın özgürleşeceğini öne süren siyasal öğreti

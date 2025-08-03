@@ -2,6 +2,7 @@
 layout: term
 title: doğrayabilmek
 slug: dograyabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayazlamak
 slug: ayazlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hava ayaza çevirmek

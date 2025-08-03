@@ -2,6 +2,7 @@
 layout: term
 title: tevessü
 slug: tevessu
+letter: T
 lisan: Arapça tevessuʿ
 anlamlar:
 - ► genişleme

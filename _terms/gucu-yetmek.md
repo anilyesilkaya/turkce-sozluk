@@ -2,6 +2,7 @@
 layout: term
 title: gücü yetmek
 slug: gucu-yetmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - eldeki imkânlarla ancak altından kalkabilmek, üstesinden gelebilmek

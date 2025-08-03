@@ -2,6 +2,7 @@
 layout: term
 title: teslis
 slug: teslis
+letter: T
 lisan: Arapça tes̱līs̱
 anlamlar:
 - Üçe çıkarma; üçleme

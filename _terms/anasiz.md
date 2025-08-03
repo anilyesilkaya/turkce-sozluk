@@ -2,6 +2,7 @@
 layout: term
 title: anasız
 slug: anasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anası olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: pleybek yapmak
 slug: pleybek-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - pleybek işini gerçekleştirmek

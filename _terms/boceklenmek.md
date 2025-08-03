@@ -2,6 +2,7 @@
 layout: term
 title: böceklenmek
 slug: boceklenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde veya üstünde böcek üremek

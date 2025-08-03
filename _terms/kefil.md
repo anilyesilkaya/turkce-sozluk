@@ -2,6 +2,7 @@
 layout: term
 title: kefil
 slug: kefil
+letter: K
 lisan: Arapça kefīl
 anlamlar:
 - Borcunu ödemeyenin veya verdiği sözü yerine getirmeyenin bütün sorumluluğunu üzerine alan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: gözlemcilik
 slug: gozlemcilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlemcinin yaptığı iş; rasatçılık

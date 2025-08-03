@@ -2,6 +2,7 @@
 layout: term
 title: mine
 slug: mine
+letter: M
 lisan: Farsça mīnā
 anlamlar:
 - Metal eşya üzerine vurulan renkli cam katmanı

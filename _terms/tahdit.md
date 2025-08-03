@@ -2,6 +2,7 @@
 layout: term
 title: tahdit
 slug: tahdit
+letter: T
 lisan: Arapça taḥdīd
 anlamlar:
 - Sınırlama, çevreleme, çevresini daraltma

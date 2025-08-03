@@ -2,6 +2,7 @@
 layout: term
 title: dilmaçlık
 slug: dilmaclik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► çevirmenlik

@@ -2,6 +2,7 @@
 layout: term
 title: yayımlanmak
 slug: yayimlanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayımlama işi yapılmak; neşredilmek, neşrolunmak

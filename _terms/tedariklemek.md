@@ -2,6 +2,7 @@
 layout: term
 title: tedariklemek
 slug: tedariklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sağlamak, tedarik etmek

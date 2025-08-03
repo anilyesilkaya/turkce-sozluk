@@ -2,6 +2,7 @@
 layout: term
 title: mazruf
 slug: mazruf
+letter: M
 lisan: Arapça maẓrūf
 anlamlar:
 - ► zarflı

@@ -2,6 +2,7 @@
 layout: term
 title: kıskandırmak
 slug: kiskandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıskanmasına yol açmak

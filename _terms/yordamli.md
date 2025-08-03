@@ -2,6 +2,7 @@
 layout: term
 title: yordamlı
 slug: yordamli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakışıklı olan

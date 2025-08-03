@@ -2,6 +2,7 @@
 layout: term
 title: kötücül
 slug: kotucul
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötülük isteyen (kimse)

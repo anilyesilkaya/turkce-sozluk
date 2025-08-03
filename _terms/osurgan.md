@@ -2,6 +2,7 @@
 layout: term
 title: osurgan
 slug: osurgan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çok yellenen

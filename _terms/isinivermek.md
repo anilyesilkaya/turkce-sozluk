@@ -2,6 +2,7 @@
 layout: term
 title: ısınıvermek
 slug: isinivermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çabucak ısınmak

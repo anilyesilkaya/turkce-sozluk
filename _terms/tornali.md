@@ -2,6 +2,7 @@
 layout: term
 title: tornalı
 slug: tornali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tornada işlenmiş

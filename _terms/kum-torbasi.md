@@ -2,6 +2,7 @@
 layout: term
 title: kum torbası
 slug: kum-torbasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçine kum doldurulup boks antrenmanlarında kullanılan torba

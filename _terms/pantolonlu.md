@@ -2,6 +2,7 @@
 layout: term
 title: pantolonlu
 slug: pantolonlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pantolonu olan

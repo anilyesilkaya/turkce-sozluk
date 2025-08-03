@@ -2,6 +2,7 @@
 layout: term
 title: ağzının içi yangın yerine dönmek
 slug: agzinin-ici-yangin-yerine-donmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ağzının tadı bozulmak, tat alma duyusunu yitirmek

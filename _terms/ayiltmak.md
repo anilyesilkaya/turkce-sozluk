@@ -2,6 +2,7 @@
 layout: term
 title: ayıltmak
 slug: ayiltmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayılmasını sağlamak

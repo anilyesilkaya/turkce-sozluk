@@ -2,6 +2,7 @@
 layout: term
 title: sirto
 slug: sirto
+letter: S
 lisan: Rumca
 anlamlar:
 - Türk müziğinde genellikle neşeli ve hareketli nağmeler içeren bir tür oyun havası

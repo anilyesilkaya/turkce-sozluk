@@ -2,6 +2,7 @@
 layout: term
 title: buruk buruk
 slug: buruk-buruk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruk bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: likit
 slug: likit
+letter: L
 lisan: Fransızca liquide
 anlamlar:
 - ► sıvı

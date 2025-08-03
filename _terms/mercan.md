@@ -2,6 +2,7 @@
 layout: term
 title: mercan
 slug: mercan
+letter: M
 lisan: Arapça mercān
 anlamlar:
 - Tropik ve ılık denizlerde yaşayan, geniş resifler oluşturan, mercanlar sınıfının örneği olan, kırmızı kalker iskeletli hayvan; mercan balığı (Corallium rubrum)

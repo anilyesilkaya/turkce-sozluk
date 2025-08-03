@@ -2,6 +2,7 @@
 layout: term
 title: başlıca
 slug: baslica
+letter: B
 lisan: Türkçe
 anlamlar:
 - En önemli, başta gelen

@@ -2,6 +2,7 @@
 layout: term
 title: tangır tungur
 slug: tangir-tungur
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genellikle boş nesnelerin yuvarlanırken çıkardığı kaba ve çınlayıcı ses

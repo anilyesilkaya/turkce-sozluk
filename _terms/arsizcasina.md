@@ -2,6 +2,7 @@
 layout: term
 title: arsızcasına
 slug: arsizcasina
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► arsızca

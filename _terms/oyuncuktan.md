@@ -2,6 +2,7 @@
 layout: term
 title: oyuncuktan
 slug: oyuncuktan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyun olsun diye

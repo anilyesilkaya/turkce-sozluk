@@ -2,6 +2,7 @@
 layout: term
 title: bilinç
 slug: bilinc
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsanın kendisini ve çevresini tanıma yeteneği; şuur

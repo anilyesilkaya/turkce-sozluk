@@ -2,6 +2,7 @@
 layout: term
 title: kapı dışarı etmek (veya atmak)
 slug: kapi-disari-etmek-veya-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kovmak, dışarı atmak

@@ -2,6 +2,7 @@
 layout: term
 title: suflöz
 slug: sufloz
+letter: S
 lisan: Fransızca souffleuse
 anlamlar:
 - Oyunculara, rollerinde unuttukları sözleri izleyicilere duyurmadan söyleyip hatırlatan kadın

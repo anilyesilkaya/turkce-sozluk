@@ -2,6 +2,7 @@
 layout: term
 title: boykot
 slug: boykot
+letter: B
 lisan: Fransızca boycott
 anlamlar:
 - Bir işi, bir davranışı yapmama kararı alma

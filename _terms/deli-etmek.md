@@ -2,6 +2,7 @@
 layout: term
 title: deli etmek
 slug: deli-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çılgına çevirmek

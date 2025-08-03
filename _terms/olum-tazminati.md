@@ -2,6 +2,7 @@
 layout: term
 title: ölüm tazminatı
 slug: olum-tazminati
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sözleşmeye göre, ölüm hâlinde ölenin geride bıraktıklarına işveren tarafından ödenen para

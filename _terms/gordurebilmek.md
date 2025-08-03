@@ -2,6 +2,7 @@
 layout: term
 title: gördürebilmek
 slug: gordurebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gördürme ihtimali veya imkânı bulunmak

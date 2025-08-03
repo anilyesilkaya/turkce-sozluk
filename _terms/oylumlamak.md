@@ -2,6 +2,7 @@
 layout: term
 title: oylumlamak
 slug: oylumlamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Resim ve heykelde ögelere oylum duygusu ve biçim vermek

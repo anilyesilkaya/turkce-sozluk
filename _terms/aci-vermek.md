@@ -2,6 +2,7 @@
 layout: term
 title: acı vermek
 slug: aci-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin üzülmesine sebep olmak, incitmek

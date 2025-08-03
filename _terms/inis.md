@@ -2,6 +2,7 @@
 layout: term
 title: iniş
 slug: inis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnmek işi

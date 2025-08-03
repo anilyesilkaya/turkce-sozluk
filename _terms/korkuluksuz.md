@@ -2,6 +2,7 @@
 layout: term
 title: korkuluksuz
 slug: korkuluksuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkuluğu olmayan

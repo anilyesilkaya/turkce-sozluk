@@ -2,6 +2,7 @@
 layout: term
 title: varidat
 slug: varidat
+letter: V
 lisan: Arapça vāridāt
 anlamlar:
 - Gelirler

@@ -2,6 +2,7 @@
 layout: term
 title: matlup
 slug: matlup
+letter: M
 lisan: Arapça maṭlūb
 anlamlar:
 - İstenilen, aranılan, arzu ve talep edilen şey

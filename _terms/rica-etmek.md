@@ -2,6 +2,7 @@
 layout: term
 title: rica etmek
 slug: rica-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - dilemek

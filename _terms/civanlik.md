@@ -2,6 +2,7 @@
 layout: term
 title: civanlık
 slug: civanlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Civan olma durumu

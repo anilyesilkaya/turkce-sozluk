@@ -2,6 +2,7 @@
 layout: term
 title: azametsiz
 slug: azametsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azameti olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: ettirtme
 slug: ettirtme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ettirtmek işi

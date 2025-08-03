@@ -2,6 +2,7 @@
 layout: term
 title: neoliberal
 slug: neoliberal
+letter: N
 lisan: Fransızca neolibéral
 anlamlar:
 - Bir yandan devletin piyasaya olan müdahalesini en az düzeye indirirken diğer yandan kuralsızlık teorisi ile özel sermayeye her türlü imkânın sağlanmasını hedefleyen (sistem)

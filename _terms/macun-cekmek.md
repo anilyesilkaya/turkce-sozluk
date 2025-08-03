@@ -2,6 +2,7 @@
 layout: term
 title: macun çekmek
 slug: macun-cekmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - boyacılıkta, düzgünlük ve dayanıklılık sağlamak için boyanacak yüzeye macun sürmek

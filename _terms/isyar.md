@@ -2,6 +2,7 @@
 layout: term
 title: işyar
 slug: isyar
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► görevli

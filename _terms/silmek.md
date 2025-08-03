@@ -2,6 +2,7 @@
 layout: term
 title: silmek
 slug: silmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ıslaklığını gidererek kuru duruma getirmek

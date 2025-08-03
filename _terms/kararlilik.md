@@ -2,6 +2,7 @@
 layout: term
 title: kararlılık
 slug: kararlilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kararlı olma durumu; istikrar

@@ -2,6 +2,7 @@
 layout: term
 title: kuşpalazı
 slug: kuspalazi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► difteri

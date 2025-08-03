@@ -2,6 +2,7 @@
 layout: term
 title: dolgun
 slug: dolgun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolarak biçimi yuvarlaklaşmış

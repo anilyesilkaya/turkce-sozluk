@@ -2,6 +2,7 @@
 layout: term
 title: kasılma
 slug: kasilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasılmak işi; takallüs

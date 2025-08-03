@@ -2,6 +2,7 @@
 layout: term
 title: bayır aşağı
 slug: bayir-asagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tepeden düze doğru, düzlüğe yönelerek

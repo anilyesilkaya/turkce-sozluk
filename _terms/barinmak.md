@@ -2,6 +2,7 @@
 layout: term
 title: barınmak
 slug: barinmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Doğa etkilerinden korunmak için kapalı bir yere sığınmak

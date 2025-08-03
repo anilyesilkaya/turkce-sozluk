@@ -2,6 +2,7 @@
 layout: term
 title: sırça
 slug: sirca
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► cam

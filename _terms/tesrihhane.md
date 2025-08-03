@@ -2,6 +2,7 @@
 layout: term
 title: teşrihhane
 slug: tesrihhane
+letter: T
 lisan: Arapça teşrīḥ + Farsça ḫāne
 anlamlar:
 - Otopsi yapılan yer

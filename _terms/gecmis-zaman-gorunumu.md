@@ -2,6 +2,7 @@
 layout: term
 title: geçmiş zaman görünümü
 slug: gecmis-zaman-gorunumu
+letter: G
 lisan: Türkçe
 anlamlar:
 - 'Belirsiz geçmiş zaman eki almış fiille yardımcı fiilin veya başka bir fiilin birlikte kullanılmasından ortaya çıkan ve olayın tamamlanmış olduğu kavramını veren görünüm: Gelmiş olmak, gitmiş olmak, vermiş bulunmak gibi'

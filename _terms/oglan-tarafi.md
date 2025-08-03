@@ -2,6 +2,7 @@
 layout: term
 title: oğlan tarafı
 slug: oglan-tarafi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► erkek tarafı

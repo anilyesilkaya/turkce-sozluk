@@ -2,6 +2,7 @@
 layout: term
 title: anasıl
 slug: anasil
+letter: A
 lisan: Arapça ʿan-aṣl
 anlamlar:
 - Kökten, asıl olarak, esaslı bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: başkanlık
 slug: baskanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkan olma durumu; reislik, riyaset

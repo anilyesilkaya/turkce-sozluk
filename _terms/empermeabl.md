@@ -2,6 +2,7 @@
 layout: term
 title: empermeabl
 slug: empermeabl
+letter: E
 lisan: Fransızca imperméable
 anlamlar:
 - ► yağmurluk

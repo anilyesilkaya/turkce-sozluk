@@ -2,6 +2,7 @@
 layout: term
 title: Fransız kalmak
 slug: fransiz-kalmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - anlatılan bir konuyu anlayamamak

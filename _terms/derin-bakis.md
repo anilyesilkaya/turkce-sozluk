@@ -2,6 +2,7 @@
 layout: term
 title: derin bakış
 slug: derin-bakis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ayrıntılara yoğunlaşan, düşünülen şeyin özündekilerini görmeye çalışan bakış

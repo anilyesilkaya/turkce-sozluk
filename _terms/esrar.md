@@ -2,6 +2,7 @@
 layout: term
 title: esrar
 slug: esrar
+letter: E
 lisan: Arapça esrār
 anlamlar:
 - Hint kenevirinden çıkarılan ve kullanılacak miktara göre uyarıcı, sarhoş edici veya uyuşturucu etkileri olan bir madde; ot, duman, sarıkız, keyif, mal, fino

@@ -2,6 +2,7 @@
 layout: term
 title: telgraf çekmek
 slug: telgraf-cekmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - telgrafla haber göndermek, tellemek

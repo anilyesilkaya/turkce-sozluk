@@ -2,6 +2,7 @@
 layout: term
 title: art alan
 slug: art-alan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Daha önceki dönemlerde elde edilen bilgi ve deneyim; art yetişim

@@ -2,6 +2,7 @@
 layout: term
 title: grevci
 slug: grevci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Grev yapan kimse; iş bırakımcı

@@ -2,6 +2,7 @@
 layout: term
 title: vesile olmak
 slug: vesile-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - uygun ortam oluşmak

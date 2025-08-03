@@ -2,6 +2,7 @@
 layout: term
 title: sürreal
 slug: surreal
+letter: S
 lisan: Fransızca surréal
 anlamlar:
 - ► gerçeküstü

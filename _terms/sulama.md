@@ -2,6 +2,7 @@
 layout: term
 title: sulama
 slug: sulama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sulamak işi

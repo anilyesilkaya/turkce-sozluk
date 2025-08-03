@@ -2,6 +2,7 @@
 layout: term
 title: dümen suyu
 slug: dumen-suyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gemi giderken arkasında bıraktığı köpüklü iz

@@ -2,6 +2,7 @@
 layout: term
 title: kazaya kalmak
 slug: kazaya-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - namaz, vaktinde kılınamamak

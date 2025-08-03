@@ -2,6 +2,7 @@
 layout: term
 title: konjonktür
 slug: konjonktur
+letter: K
 lisan: Fransızca conjoncture
 anlamlar:
 - ► geçerli durum

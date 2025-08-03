@@ -2,6 +2,7 @@
 layout: term
 title: zayıf
 slug: zayif
+letter: Z
 lisan: Arapça żaʿīf
 anlamlar:
 - Eti, yağı az olan, şişman olmayan (insan veya hayvan); arık (II), ince, kavruk, nahif

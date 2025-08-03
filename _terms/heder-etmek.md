@@ -2,6 +2,7 @@
 layout: term
 title: heder etmek
 slug: heder-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - boşuna harcamak, ziyan etmek

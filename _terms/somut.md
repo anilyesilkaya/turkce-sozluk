@@ -2,6 +2,7 @@
 layout: term
 title: somut
 slug: somut
+letter: S
 lisan: Türkçe
 anlamlar:
 - Varlığı duyularla algılanabilen; müşahhas, konkre, soyut karşıtı

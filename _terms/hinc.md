@@ -2,6 +2,7 @@
 layout: term
 title: hınç
 slug: hinc
+letter: H
 lisan: Türkçe
 anlamlar:
 - Öç alma duygusu ile dolu öfke, kin; gayz

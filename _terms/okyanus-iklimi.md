@@ -2,6 +2,7 @@
 layout: term
 title: okyanus iklimi
 slug: okyanus-iklimi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orta kuşak kıtalarının batı kıyılarında, batı rüzgârlarının ve sıcak su akıntılarının etkisiyle gelişen bir iklim türü

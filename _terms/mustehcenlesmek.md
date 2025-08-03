@@ -2,6 +2,7 @@
 layout: term
 title: müstehcenleşmek
 slug: mustehcenlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müstehcen duruma gelmek

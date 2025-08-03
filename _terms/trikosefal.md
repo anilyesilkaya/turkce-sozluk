@@ -2,6 +2,7 @@
 layout: term
 title: trikosefal
 slug: trikosefal
+letter: T
 lisan: Fransızca trichocéphale
 anlamlar:
 - ► kırbaç kurdu

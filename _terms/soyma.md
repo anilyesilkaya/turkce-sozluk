@@ -2,6 +2,7 @@
 layout: term
 title: soyma
 slug: soyma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soymak işi

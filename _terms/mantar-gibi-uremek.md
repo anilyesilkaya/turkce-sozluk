@@ -2,6 +2,7 @@
 layout: term
 title: mantar gibi üremek
 slug: mantar-gibi-uremek
+letter: M
 lisan: Türkçe
 anlamlar:
 - hızla çoğalıp yayılmak

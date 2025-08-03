@@ -2,6 +2,7 @@
 layout: term
 title: sürtüp durmak
 slug: surtup-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yersiz, sebepsiz olarak durmadan dolaşmak

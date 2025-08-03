@@ -2,6 +2,7 @@
 layout: term
 title: dolama
 slug: dolama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolamak işi

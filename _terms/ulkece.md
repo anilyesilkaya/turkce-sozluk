@@ -2,6 +2,7 @@
 layout: term
 title: ülkece
 slug: ulkece
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ülke çapında

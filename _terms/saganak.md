@@ -2,6 +2,7 @@
 layout: term
 title: sağanak
 slug: saganak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birdenbire başlayan, genellikle kısa süren şiddetli yağmur; boğanak

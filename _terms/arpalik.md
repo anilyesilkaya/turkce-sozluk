@@ -2,6 +2,7 @@
 layout: term
 title: arpalık
 slug: arpalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arpa ekilen yer

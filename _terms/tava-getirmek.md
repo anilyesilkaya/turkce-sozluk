@@ -2,6 +2,7 @@
 layout: term
 title: tava getirmek
 slug: tava-getirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gereği kadar ısıtmak

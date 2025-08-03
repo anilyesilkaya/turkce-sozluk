@@ -2,6 +2,7 @@
 layout: term
 title: '... demeye getirmek'
 slug: demeye-getirmek
+letter: .
 lisan: Türkçe
 anlamlar:
 - doğrudan söylemeyip dolayısıyla anlatmak

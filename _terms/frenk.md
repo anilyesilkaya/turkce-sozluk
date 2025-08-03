@@ -2,6 +2,7 @@
 layout: term
 title: Frenk
 slug: frenk
+letter: F
 lisan: Farsça freng
 anlamlar:
 - Anglosakson, Cermen veya Latin ırklarının birinden olan kimse

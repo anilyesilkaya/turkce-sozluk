@@ -2,6 +2,7 @@
 layout: term
 title: 'menzil beygiri '
 slug: menzil-beygiri
+letter: M
 lisan: Türkçe
 anlamlar:
 - Menzillerde haber getirip götüren ulakların kullanması için beslenen at; menzil atı

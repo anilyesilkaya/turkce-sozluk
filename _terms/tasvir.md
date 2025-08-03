@@ -2,6 +2,7 @@
 layout: term
 title: tasvir
 slug: tasvir
+letter: T
 lisan: Arapça taṣvīr
 anlamlar:
 - ► betimleme

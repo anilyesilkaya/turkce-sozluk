@@ -2,6 +2,7 @@
 layout: term
 title: gerzekleşmek
 slug: gerzeklesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerzek gibi davranmak

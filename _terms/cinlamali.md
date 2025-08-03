@@ -2,6 +2,7 @@
 layout: term
 title: çınlamalı
 slug: cinlamali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlaması olan

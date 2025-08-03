@@ -2,6 +2,7 @@
 layout: term
 title: hedef saptırmak
 slug: hedef-saptirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hedefe isabet ettirememek

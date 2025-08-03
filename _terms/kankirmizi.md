@@ -2,6 +2,7 @@
 layout: term
 title: kankırmızı
 slug: kankirmizi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok daha baskın; kankızıl

@@ -2,6 +2,7 @@
 layout: term
 title: aralanmak
 slug: aralanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Biraz açılmak, aralık olmak

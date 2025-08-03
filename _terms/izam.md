@@ -2,6 +2,7 @@
 layout: term
 title: izam
 slug: izam
+letter: I
 lisan: Arapça iʿẓām
 anlamlar:
 - ► abartma

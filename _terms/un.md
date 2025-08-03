@@ -2,6 +2,7 @@
 layout: term
 title: ün
 slug: un
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Herkesçe bilinme, tanınma durumu; san, nam, şöhret, şan (I)

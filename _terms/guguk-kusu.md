@@ -2,6 +2,7 @@
 layout: term
 title: guguk kuşu
 slug: guguk-kusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gugukgillerden, genellikle Avrupa'da yaşayan, dişileri başka kuşların yuvasına yumurtlayarak yavrularının bakım işini onlara gördüren, sırtı gri, karnı kahverengi beyaz çizgili, 35 santimetre boyunda, böcekçil bir kuş; guguk (Cuculus canorus)

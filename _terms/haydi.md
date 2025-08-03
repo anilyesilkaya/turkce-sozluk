@@ -2,6 +2,7 @@
 layout: term
 title: haydi
 slug: haydi
+letter: H
 lisan: Türkçe
 anlamlar:
 - İsteklendirmek, çabukluk belirtmek için kullanılan bir söz; hadi

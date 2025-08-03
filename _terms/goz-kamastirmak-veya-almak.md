@@ -2,6 +2,7 @@
 layout: term
 title: göz kamaştırmak (veya almak)
 slug: goz-kamastirmak-veya-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kuvvetli ışık veya parlaklık, kısa bir zaman için görüşü bulandırmak

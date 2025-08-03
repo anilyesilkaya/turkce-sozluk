@@ -2,6 +2,7 @@
 layout: term
 title: Yunanlılık
 slug: yunanlilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yunanlı olma durumu

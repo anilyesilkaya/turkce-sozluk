@@ -2,6 +2,7 @@
 layout: term
 title: dengesizlik
 slug: dengesizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyde denge bulunmaması durumu; muvazenesizlik

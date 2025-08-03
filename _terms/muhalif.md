@@ -2,6 +2,7 @@
 layout: term
 title: muhalif
 slug: muhalif
+letter: M
 lisan: Arapça muḫālif
 anlamlar:
 - Bir görüşe, tutuma veya harekete karşı olan kimse

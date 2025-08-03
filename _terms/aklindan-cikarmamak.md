@@ -2,6 +2,7 @@
 layout: term
 title: aklından çıkarmamak
 slug: aklindan-cikarmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sürekli hatırlamak, unutmamak

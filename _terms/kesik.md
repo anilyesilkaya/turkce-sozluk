@@ -2,6 +2,7 @@
 layout: term
 title: kesik
 slug: kesik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesilmiş olan

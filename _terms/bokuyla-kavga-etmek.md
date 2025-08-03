@@ -2,6 +2,7 @@
 layout: term
 title: bokuyla kavga etmek
 slug: bokuyla-kavga-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok sinirli ve geçimsiz olmak, her şeye öfkelenir olmak

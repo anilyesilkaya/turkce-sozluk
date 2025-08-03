@@ -2,6 +2,7 @@
 layout: term
 title: avlanabilmek
 slug: avlanabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlanma ihtimali veya imkânı bulunmak

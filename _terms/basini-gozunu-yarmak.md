@@ -2,6 +2,7 @@
 layout: term
 title: başını gözünü yarmak
 slug: basini-gozunu-yarmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi kötü yapmak, bir işi istenildiği gibi yapmamak

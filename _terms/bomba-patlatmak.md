@@ -2,6 +2,7 @@
 layout: term
 title: bomba patlatmak
 slug: bomba-patlatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - şaşkınlık yaratacak bir haber veya bilgiyi duyurmak

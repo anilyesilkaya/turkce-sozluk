@@ -2,6 +2,7 @@
 layout: term
 title: değer yargısı
 slug: deger-yargisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir değerlendirme getiren yargı

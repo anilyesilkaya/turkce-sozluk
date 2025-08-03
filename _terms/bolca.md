@@ -2,6 +2,7 @@
 layout: term
 title: bolca
 slug: bolca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oldukça geniş

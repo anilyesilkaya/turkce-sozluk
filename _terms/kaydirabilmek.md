@@ -2,6 +2,7 @@
 layout: term
 title: kaydırabilmek
 slug: kaydirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydırma ihtimali veya imkânı bulunmak

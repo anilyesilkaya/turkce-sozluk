@@ -2,6 +2,7 @@
 layout: term
 title: anımsatmak
 slug: animsatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birisinin unuttuğu bir şeyi aklına getirmek; ansıtmak, hatırlatmak

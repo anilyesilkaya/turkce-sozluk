@@ -2,6 +2,7 @@
 layout: term
 title: pürüzlü
 slug: puruzlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pürüzü olan

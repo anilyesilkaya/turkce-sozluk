@@ -2,6 +2,7 @@
 layout: term
 title: hakem heyeti
 slug: hakem-heyeti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bazı ülkelerde yurttaşlardan seçilmiş ve mahkemede yargı görevini yapan geçici kurul; yargıcılar kurulu, jüri

@@ -2,6 +2,7 @@
 layout: term
 title: diktatör
 slug: diktator
+letter: D
 lisan: Fransızca dictateur
 anlamlar:
 - Bütün siyasi yetkileri kendinde toplamış bulunan kimse

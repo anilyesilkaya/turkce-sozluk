@@ -2,6 +2,7 @@
 layout: term
 title: erguvan rengi
 slug: erguvan-rengi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eflatunla kırmızı arası renk; erguvani

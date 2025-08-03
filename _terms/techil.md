@@ -2,6 +2,7 @@
 layout: term
 title: teçhil
 slug: techil
+letter: T
 lisan: Arapça techīl
 anlamlar:
 - ► bilmezleme

@@ -2,6 +2,7 @@
 layout: term
 title: namus
 slug: namus
+letter: N
 lisan: Arapça nāmūs
 anlamlar:
 - Bir toplum içinde ahlak kurallarına ve toplumsal değerlere bağlılık; iffet

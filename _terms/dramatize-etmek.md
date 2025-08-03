@@ -2,6 +2,7 @@
 layout: term
 title: dramatize etmek
 slug: dramatize-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir edebî eseri radyo, televizyon veya sahne oyunu biçimine getirmek

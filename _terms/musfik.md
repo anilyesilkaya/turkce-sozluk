@@ -2,6 +2,7 @@
 layout: term
 title: müşfik
 slug: musfik
+letter: M
 lisan: Arapça muşfiḳ
 anlamlar:
 - ► sevecen

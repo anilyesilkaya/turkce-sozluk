@@ -2,6 +2,7 @@
 layout: term
 title: baç
 slug: bac
+letter: B
 lisan: Farsça bāc
 anlamlar:
 - Osmanlı Devleti'nde gümrük vergisi

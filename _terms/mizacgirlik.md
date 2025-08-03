@@ -2,6 +2,7 @@
 layout: term
 title: mizaçgirlik
 slug: mizacgirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mizaçgir olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: pişmaniyeci
 slug: pismaniyeci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişmaniye yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: acelecilik
 slug: acelecilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aceleci olma durumu; ivecenlik, tez canlılık

@@ -2,6 +2,7 @@
 layout: term
 title: yüreği kalkmak
 slug: yuregi-kalkmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - heyecanlanmak

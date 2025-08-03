@@ -2,6 +2,7 @@
 layout: term
 title: profilci
 slug: profilci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Profil demir yapan veya satan kimse

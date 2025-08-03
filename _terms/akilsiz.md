@@ -2,6 +2,7 @@
 layout: term
 title: akılsız
 slug: akilsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklı yetersiz olan, gerçeği görüp ona göre davranmayan

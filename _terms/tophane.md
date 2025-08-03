@@ -2,6 +2,7 @@
 layout: term
 title: tophane
 slug: tophane
+letter: T
 lisan: Türkçe top + Farsça ḫāne
 anlamlar:
 - Top yapılan, top dökülen yer

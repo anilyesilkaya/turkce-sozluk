@@ -2,6 +2,7 @@
 layout: term
 title: yükçülük
 slug: yukculuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► taşıyıcılık

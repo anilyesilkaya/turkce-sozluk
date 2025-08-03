@@ -2,6 +2,7 @@
 layout: term
 title: medenilik
 slug: medenilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► uygarlık

@@ -2,6 +2,7 @@
 layout: term
 title: batağa saplanmak
 slug: bataga-saplanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - içinden çıkılması güç bir durumda olmak

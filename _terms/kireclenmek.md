@@ -2,6 +2,7 @@
 layout: term
 title: kireçlenmek
 slug: kireclenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kireç dökülmek veya saçılmak

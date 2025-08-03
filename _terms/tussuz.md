@@ -2,6 +2,7 @@
 layout: term
 title: tuşsuz
 slug: tussuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuşu olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: görüş
 slug: gorus
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görmek işi

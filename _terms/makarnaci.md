@@ -2,6 +2,7 @@
 layout: term
 title: makarnacı
 slug: makarnaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makarna yapan veya satan kimse

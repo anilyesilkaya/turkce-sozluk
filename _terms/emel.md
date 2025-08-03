@@ -2,6 +2,7 @@
 layout: term
 title: emel
 slug: emel
+letter: E
 lisan: Arapça emel
 anlamlar:
 - Gerçekleştirilmesi zamana bağlı istek

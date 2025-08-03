@@ -2,6 +2,7 @@
 layout: term
 title: ayvan
 slug: ayvan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► eyvan

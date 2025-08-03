@@ -2,6 +2,7 @@
 layout: term
 title: dönümlerce
 slug: donumlerce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birçok dönüm

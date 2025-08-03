@@ -2,6 +2,7 @@
 layout: term
 title: tuz biber ekmek
 slug: tuz-biber-ekmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - üzüntüyü, kusuru artıracak durum yaratmak

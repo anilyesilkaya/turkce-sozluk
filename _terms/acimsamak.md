@@ -2,6 +2,7 @@
 layout: term
 title: acımsamak
 slug: acimsamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acır gibi olmak, biraz acımak

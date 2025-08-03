@@ -2,6 +2,7 @@
 layout: term
 title: porsiyon
 slug: porsiyon
+letter: P
 lisan: Fransızca portion
 anlamlar:
 - Herhangi bir yemekten bir kimseye verilen belirli miktar

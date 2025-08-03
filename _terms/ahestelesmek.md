@@ -2,6 +2,7 @@
 layout: term
 title: ahesteleşmek
 slug: ahestelesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaşlamak

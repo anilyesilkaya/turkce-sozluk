@@ -2,6 +2,7 @@
 layout: term
 title: gizemci
 slug: gizemci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizemcilik yanlısı olan, ilahiyat veya gizemsel yaşamla uğraşan; mistik

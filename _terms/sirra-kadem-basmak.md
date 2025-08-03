@@ -2,6 +2,7 @@
 layout: term
 title: sırra kadem basmak
 slug: sirra-kadem-basmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ortalıktan yok olmak, kaybolmak, ortalıkta görünmemek

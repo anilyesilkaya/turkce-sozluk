@@ -2,6 +2,7 @@
 layout: term
 title: gürbüzleşme
 slug: gurbuzlesme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürbüzleşmek işi

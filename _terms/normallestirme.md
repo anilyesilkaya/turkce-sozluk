@@ -2,6 +2,7 @@
 layout: term
 title: normalleştirme
 slug: normallestirme
+letter: N
 lisan: Türkçe
 anlamlar:
 - Normalleştirmek işi

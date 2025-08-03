@@ -2,6 +2,7 @@
 layout: term
 title: hırgür eksik olmamak
 slug: hirgur-eksik-olmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kavgasız gün geçirmemek

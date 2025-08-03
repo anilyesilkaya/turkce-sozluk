@@ -2,6 +2,7 @@
 layout: term
 title: adsız sansız
 slug: adsiz-sansiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adı bilinmeyen

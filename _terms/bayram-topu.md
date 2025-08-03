@@ -2,6 +2,7 @@
 layout: term
 title: bayram topu
 slug: bayram-topu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dinî bayramların başladığını duyurmak için arife ve bayram günlerinde atılan top

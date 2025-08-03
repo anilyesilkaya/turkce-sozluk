@@ -2,6 +2,7 @@
 layout: term
 title: zümre toplantısı
 slug: zumre-toplantisi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Aynı dersi okutan branş öğretmenlerinin ders konularını veya öğrenci sorunlarını ele aldığı kurul

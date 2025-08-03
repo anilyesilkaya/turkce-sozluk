@@ -2,6 +2,7 @@
 layout: term
 title: üşengen
 slug: usengen
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üşengeç

@@ -2,6 +2,7 @@
 layout: term
 title: akıl erdirmek
 slug: akil-erdirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ne olduğunu anlamak, sırrını çözmek

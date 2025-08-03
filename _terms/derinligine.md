@@ -2,6 +2,7 @@
 layout: term
 title: derinliğine
 slug: derinligine
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► derinlemesine

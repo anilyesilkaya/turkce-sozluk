@@ -2,6 +2,7 @@
 layout: term
 title: sefillik
 slug: sefillik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yoksulluk

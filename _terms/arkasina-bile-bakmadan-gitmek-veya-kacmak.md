@@ -2,6 +2,7 @@
 layout: term
 title: arkasına (bile) bakmadan gitmek (veya kaçmak)
 slug: arkasina-bile-bakmadan-gitmek-veya-kacmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - arkada kalanlarla ilgilenmeden bir yerden hızlıca ayrılmak

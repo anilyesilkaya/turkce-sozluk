@@ -2,6 +2,7 @@
 layout: term
 title: gark etmek
 slug: gark-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - batırmak, boğmak

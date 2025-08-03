@@ -2,6 +2,7 @@
 layout: term
 title: kızılaltı
 slug: kizilalti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kızılötesi

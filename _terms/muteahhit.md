@@ -2,6 +2,7 @@
 layout: term
 title: müteahhit
 slug: muteahhit
+letter: M
 lisan: Arapça muteʿahhid
 anlamlar:
 - ► yüklenici

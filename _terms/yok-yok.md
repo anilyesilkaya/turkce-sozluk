@@ -2,6 +2,7 @@
 layout: term
 title: yok yok
 slug: yok-yok
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"ne istersen var" anlamında kullanılan bir söz'

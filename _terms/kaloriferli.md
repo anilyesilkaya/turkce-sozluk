@@ -2,6 +2,7 @@
 layout: term
 title: kaloriferli
 slug: kaloriferli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaloriferi olan

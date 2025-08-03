@@ -2,6 +2,7 @@
 layout: term
 title: şefkat
 slug: sefkat
+letter: Ş
 lisan: Arapça şefḳat
 anlamlar:
 - ► sevecenlik

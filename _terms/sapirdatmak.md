@@ -2,6 +2,7 @@
 layout: term
 title: şapırdatmak
 slug: sapirdatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Öperken veya bir şey yerken "şap" diye ses çıkartmak

@@ -2,6 +2,7 @@
 layout: term
 title: çocuk bakmak
 slug: cocuk-bakmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bebeğin veya çocuğun eğitim ve bakımıyla ilgilenmek

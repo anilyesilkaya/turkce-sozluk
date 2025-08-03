@@ -2,6 +2,7 @@
 layout: term
 title: tedbirsiz
 slug: tedbirsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Önceden hazırlıklı davranmayan, önlemini zamanında almayan

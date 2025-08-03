@@ -2,6 +2,7 @@
 layout: term
 title: abuk subukluk
 slug: abuk-subukluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► saçmalık

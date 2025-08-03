@@ -2,6 +2,7 @@
 layout: term
 title: ayrıca
 slug: ayrica
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrı olarak; başkaca, antrparantez

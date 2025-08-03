@@ -2,6 +2,7 @@
 layout: term
 title: telaşa vermek
 slug: telasa-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - davranış ve hareketleriyle çevresindekileri heyecana, aceleye, sıkıntıya sokmak

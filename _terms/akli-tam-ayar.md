@@ -2,6 +2,7 @@
 layout: term
 title: aklı tam ayar
 slug: akli-tam-ayar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklı başında olan

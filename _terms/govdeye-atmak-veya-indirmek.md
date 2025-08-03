@@ -2,6 +2,7 @@
 layout: term
 title: gövdeye atmak (veya indirmek)
 slug: govdeye-atmak-veya-indirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - oburca yemek

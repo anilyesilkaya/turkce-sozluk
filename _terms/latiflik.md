@@ -2,6 +2,7 @@
 layout: term
 title: latiflik
 slug: latiflik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Latif olma durumu

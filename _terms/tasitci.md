@@ -2,6 +2,7 @@
 layout: term
 title: taşıtçı
 slug: tasitci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sürücü (I)

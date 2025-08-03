@@ -2,6 +2,7 @@
 layout: term
 title: haftalarca
 slug: haftalarca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Uzun süre

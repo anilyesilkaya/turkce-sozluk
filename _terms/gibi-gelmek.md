@@ -2,6 +2,7 @@
 layout: term
 title: gibi gelmek
 slug: gibi-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - '... sanısı vermek, ... sanısı yaratmak'

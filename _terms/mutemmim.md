@@ -2,6 +2,7 @@
 layout: term
 title: mütemmim
 slug: mutemmim
+letter: M
 lisan: Arapça mutemmim
 anlamlar:
 - Tamamlayan, bütünleyen, bitiren

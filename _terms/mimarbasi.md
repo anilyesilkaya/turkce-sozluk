@@ -2,6 +2,7 @@
 layout: term
 title: mimarbaşı
 slug: mimarbasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Osmanlı sarayında, resmî yapıların onarım ve yapım işleriyle uğraşan mimarların başı

@@ -2,6 +2,7 @@
 layout: term
 title: yürekten çağırmak
 slug: yurekten-cagirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - aşırı derecede arzu etmek, istemek

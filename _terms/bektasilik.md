@@ -2,6 +2,7 @@
 layout: term
 title: Bektaşilik
 slug: bektasilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Adını Hacı Bektaş Veli’den alan, 16. yüzyılın başında Balım Sultan tarafından kurumsallaştırılan, Hazreti Ali ve on iki imam sevgisine dayanan tarikat

@@ -2,6 +2,7 @@
 layout: term
 title: nöbetleşe
 slug: nobetlese
+letter: N
 lisan: Türkçe
 anlamlar:
 - Sırayla, dönüşümlü olarak; dönenceli, münavebeli

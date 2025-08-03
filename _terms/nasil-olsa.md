@@ -2,6 +2,7 @@
 layout: term
 title: nasıl olsa
 slug: nasil-olsa
+letter: N
 lisan: Türkçe
 anlamlar:
 - her durumda, er geç

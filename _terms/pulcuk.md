@@ -2,6 +2,7 @@
 layout: term
 title: pulcuk
 slug: pulcuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Küçük pul

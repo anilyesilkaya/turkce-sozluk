@@ -2,6 +2,7 @@
 layout: term
 title: kalıplatmak
 slug: kaliplatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıba vurdurmak

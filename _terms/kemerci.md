@@ -2,6 +2,7 @@
 layout: term
 title: kemerci
 slug: kemerci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemer yapıp satan kimse

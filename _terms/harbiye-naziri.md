@@ -2,6 +2,7 @@
 layout: term
 title: harbiye nazırı
 slug: harbiye-naziri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Millî savunma bakanı

@@ -2,6 +2,7 @@
 layout: term
 title: kendi ağzıyla tutulmak
 slug: kendi-agziyla-tutulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - suçu, yalanı veya iddiasının yanlışlığı kendi sözüyle ortaya çıkmak

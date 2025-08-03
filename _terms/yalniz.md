@@ -2,6 +2,7 @@
 layout: term
 title: yalnız
 slug: yalniz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanında başkaları bulunmayan

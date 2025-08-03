@@ -2,6 +2,7 @@
 layout: term
 title: 'Karay Türkçesi '
 slug: karay-turkcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karay Türklerinin kullandığı konuşma ve yazı dili; Karaimce, Karayca

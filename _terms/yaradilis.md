@@ -2,6 +2,7 @@
 layout: term
 title: yaradılış
 slug: yaradilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsede doğuştan bulunan vücut ve ruh özelliklerinin tümü; tıynet, cibilliyet

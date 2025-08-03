@@ -2,6 +2,7 @@
 layout: term
 title: bardak
 slug: bardak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Su vb. şeyleri içmek için kullanılan, genellikle camdan yapılan kap

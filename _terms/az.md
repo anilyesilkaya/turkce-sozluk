@@ -2,6 +2,7 @@
 layout: term
 title: az
 slug: az
+letter: A
 lisan: Türkçe
 anlamlar:
 - Nicelik, nitelik, güç, süre, sayı bakımından eksik, çok karşıtı

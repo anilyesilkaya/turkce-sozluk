@@ -2,6 +2,7 @@
 layout: term
 title: hemencek
 slug: hemencek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► çabucak

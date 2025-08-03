@@ -2,6 +2,7 @@
 layout: term
 title: sakin
 slug: sakin
+letter: S
 lisan: Arapça sākin
 anlamlar:
 - Hareket etmeyen, kımıldamayan

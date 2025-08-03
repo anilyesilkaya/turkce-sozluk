@@ -2,6 +2,7 @@
 layout: term
 title: açlık çekmek
 slug: aclik-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yoksulluk içinde bulunmak

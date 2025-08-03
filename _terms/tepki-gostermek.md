@@ -2,6 +2,7 @@
 layout: term
 title: tepki göstermek
 slug: tepki-gostermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir olay veya durum karşısındaki düşüncesini söz veya davranışla belirtmek, tepki koymak

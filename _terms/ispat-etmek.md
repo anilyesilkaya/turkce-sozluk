@@ -2,6 +2,7 @@
 layout: term
 title: ispat etmek
 slug: ispat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - kanıtlamak

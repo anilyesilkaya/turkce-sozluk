@@ -2,6 +2,7 @@
 layout: term
 title: kıvırcıklaştırmak
 slug: kivirciklastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvırcıklaşma işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: boş yere
 slug: bos-yere
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boşuna

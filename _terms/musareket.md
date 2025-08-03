@@ -2,6 +2,7 @@
 layout: term
 title: müşareket
 slug: musareket
+letter: M
 lisan: Arapça muşāreket
 anlamlar:
 - ► ortaklık

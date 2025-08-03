@@ -2,6 +2,7 @@
 layout: term
 title: ciğerdeldi
 slug: cigerdeldi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kumaş üzerine küçük delikler açılarak yapılan işleme

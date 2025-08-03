@@ -2,6 +2,7 @@
 layout: term
 title: denizaltı
 slug: denizalti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz yüzeyinin altında ve üstünde yol alabilen savaş veya araştırma gemisi; tahtelbahir

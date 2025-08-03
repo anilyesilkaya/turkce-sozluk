@@ -2,6 +2,7 @@
 layout: term
 title: savış
 slug: savis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savmak işi; defleyiş

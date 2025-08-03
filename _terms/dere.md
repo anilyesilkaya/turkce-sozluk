@@ -2,6 +2,7 @@
 layout: term
 title: dere
 slug: dere
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çaydan küçük, yazın kuruyan veya suyu azalan küçük akarsu

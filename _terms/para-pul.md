@@ -2,6 +2,7 @@
 layout: term
 title: para pul
 slug: para-pul
+letter: P
 lisan: Türkçe
 anlamlar:
 - Para, para niteliğinde olan şey

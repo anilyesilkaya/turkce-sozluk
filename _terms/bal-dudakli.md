@@ -2,6 +2,7 @@
 layout: term
 title: bal dudaklı
 slug: bal-dudakli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dudağı bal gibi tatlı olan (kimse)

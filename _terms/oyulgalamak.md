@@ -2,6 +2,7 @@
 layout: term
 title: oyulgalamak
 slug: oyulgalamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gelişigüzel dikmek; oyulgamak

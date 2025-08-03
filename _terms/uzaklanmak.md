@@ -2,6 +2,7 @@
 layout: term
 title: uzaklanmak
 slug: uzaklanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uzaklaşmak

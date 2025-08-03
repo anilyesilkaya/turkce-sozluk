@@ -2,6 +2,7 @@
 layout: term
 title: türbedar
 slug: turbedar
+letter: T
 lisan: Arapça turbe + Farsça -dār
 anlamlar:
 - Türbede hizmet gören, türbeyi bekleyen kimse

@@ -2,6 +2,7 @@
 layout: term
 title: düşüncelenmek
 slug: dusuncelenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünceye dalmak, dalıp gitmek

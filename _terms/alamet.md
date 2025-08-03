@@ -2,6 +2,7 @@
 layout: term
 title: alamet
 slug: alamet
+letter: A
 lisan: Arapça ʿalāmet
 anlamlar:
 - ► belirti

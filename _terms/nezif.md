@@ -2,6 +2,7 @@
 layout: term
 title: nezif
 slug: nezif
+letter: N
 lisan: Arapça nezf
 anlamlar:
 - ► kanama

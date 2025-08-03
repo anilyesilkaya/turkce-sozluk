@@ -2,6 +2,7 @@
 layout: term
 title: bayıltmak
 slug: bayiltmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayılmasını sağlamak, bayılmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: hedef almak
 slug: hedef-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - nişan almak

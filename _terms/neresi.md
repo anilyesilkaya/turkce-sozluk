@@ -2,6 +2,7 @@
 layout: term
 title: neresi
 slug: neresi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hangi yönü, ne tarafı?

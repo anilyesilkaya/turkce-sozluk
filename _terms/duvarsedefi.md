@@ -2,6 +2,7 @@
 layout: term
 title: duvarsedefi
 slug: duvarsedefi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dalak otu

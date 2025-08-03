@@ -2,6 +2,7 @@
 layout: term
 title: mabeyinci
 slug: mabeyinci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde padişahların dışarıyla olan ilişkilerine bakan, buyruklarını ilgililere bildiren, bazı kişilerin dileklerini kendisine ileten görevli

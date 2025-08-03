@@ -2,6 +2,7 @@
 layout: term
 title: gömücü
 slug: gomucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömü arayan kimse

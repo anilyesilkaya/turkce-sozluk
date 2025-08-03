@@ -2,6 +2,7 @@
 layout: term
 title: büyüme
 slug: buyume
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyümek işi; tahaccüm

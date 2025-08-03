@@ -2,6 +2,7 @@
 layout: term
 title: boyunu görmek
 slug: boyunu-gormek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir kimsenin bir konuda yeterli olup olmadığını anlamak için denemek

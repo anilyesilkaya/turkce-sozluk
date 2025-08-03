@@ -2,6 +2,7 @@
 layout: term
 title: kıpkırmızı
 slug: kipkirmizi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Her yanı kırmızı

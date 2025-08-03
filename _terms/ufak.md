@@ -2,6 +2,7 @@
 layout: term
 title: ufak
 slug: ufak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Boyutları normalden küçük

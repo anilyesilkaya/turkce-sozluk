@@ -2,6 +2,7 @@
 layout: term
 title: görmüşlük
 slug: gormusluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi görmüş olma durumu

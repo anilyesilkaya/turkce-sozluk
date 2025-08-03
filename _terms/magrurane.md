@@ -2,6 +2,7 @@
 layout: term
 title: mağrurane
 slug: magrurane
+letter: M
 lisan: Arapça maġrūr + Farsça -āne
 anlamlar:
 - ► mağrurca

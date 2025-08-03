@@ -2,6 +2,7 @@
 layout: term
 title: yastık
 slug: yastik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Başın altına koymak veya sırtı dayamak için kullanılan, içi yün, pamuk, kuş tüyü, ot vb. malzemeyle doldurulmuş küçük minder

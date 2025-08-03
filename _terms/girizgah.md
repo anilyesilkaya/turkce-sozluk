@@ -2,6 +2,7 @@
 layout: term
 title: girizgâh
 slug: girizgah
+letter: G
 lisan: Farsça gürīzgāh
 anlamlar:
 - Bir başka söze yol açmak için söylenen söz; girişlik

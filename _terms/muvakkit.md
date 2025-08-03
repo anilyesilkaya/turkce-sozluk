@@ -2,6 +2,7 @@
 layout: term
 title: muvakkit
 slug: muvakkit
+letter: M
 lisan: Arapça muvaḳḳit
 anlamlar:
 - Dünya’nın Güneş etrafındaki hareketine göre vakti, özellikle namaz vakitlerini belirleyen kimse

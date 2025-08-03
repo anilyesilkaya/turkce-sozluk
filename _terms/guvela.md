@@ -2,6 +2,7 @@
 layout: term
 title: güvela
 slug: guvela
+letter: G
 lisan: Türkçe
 anlamlar:
 - Açık yeşil, maviye çalan göz rengi

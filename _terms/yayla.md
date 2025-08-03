@@ -2,6 +2,7 @@
 layout: term
 title: yayla
 slug: yayla
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Akarsular tarafından parçalanmış yüksek ve geniş düzlük; yaylak, plato

@@ -2,6 +2,7 @@
 layout: term
 title: vasıflandırmak
 slug: vasiflandirmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► nitelendirmek

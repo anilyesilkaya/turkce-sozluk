@@ -2,6 +2,7 @@
 layout: term
 title: dosta düşmana karşı
 slug: dosta-dusmana-karsi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ele güne karşı

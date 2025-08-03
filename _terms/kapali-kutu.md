@@ -2,6 +2,7 @@
 layout: term
 title: kapalı kutu
 slug: kapali-kutu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçindekini belli etmeyen, sır saklayan (kimse)

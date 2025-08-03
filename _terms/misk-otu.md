@@ -2,6 +2,7 @@
 layout: term
 title: misk otu
 slug: misk-otu
+letter: M
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, 50-100 santimetre boyunda, sarımtırak renkli, şeker, uçucu yağ, A ve B vitaminleri içeren güzel kokulu bir bitki (Calamintha officinalis)

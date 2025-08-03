@@ -2,6 +2,7 @@
 layout: term
 title: etkileşimlilik
 slug: etkilesimlilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkileşimli olma durumu; interaktiflik

@@ -2,6 +2,7 @@
 layout: term
 title: iştira
 slug: istira
+letter: I
 lisan: Arapça iştirāʾ
 anlamlar:
 - ► satın alma

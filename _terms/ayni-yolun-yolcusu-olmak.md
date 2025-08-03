@@ -2,6 +2,7 @@
 layout: term
 title: aynı yolun yolcusu (olmak)
 slug: ayni-yolun-yolcusu-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kötü sonları birbirine benzer olan

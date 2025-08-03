@@ -2,6 +2,7 @@
 layout: term
 title: muarefesi olmak
 slug: muarefesi-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birbirini tanımak, bilişmek, tanışmak

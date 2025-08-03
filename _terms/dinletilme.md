@@ -2,6 +2,7 @@
 layout: term
 title: dinletilme
 slug: dinletilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinletilmek işi

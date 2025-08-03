@@ -2,6 +2,7 @@
 layout: term
 title: kedi ciğere bakar gibi bakmak (veya süzmek veya seyretmek)
 slug: kedi-cigere-bakar-gibi-bakmak-veya-suzmek-veya-seyretmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - imrenerek bakmak

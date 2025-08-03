@@ -2,6 +2,7 @@
 layout: term
 title: bu sıcağa kar mı dayanır?
 slug: bu-sicaga-kar-mi-dayanir
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"aşırı harcamalarla eldeki imkânlar çok çabuk tükenir" anlamında kullanılan bir söz'

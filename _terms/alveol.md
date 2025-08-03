@@ -2,6 +2,7 @@
 layout: term
 title: alveol
 slug: alveol
+letter: A
 lisan: Fransızca alvéole
 anlamlar:
 - Torba biçiminde küçük boşluk veya genişlemiş kısım

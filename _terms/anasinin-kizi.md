@@ -2,6 +2,7 @@
 layout: term
 title: anasının kızı
 slug: anasinin-kizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - her yönüyle annesine benzeyen kız çocuğu

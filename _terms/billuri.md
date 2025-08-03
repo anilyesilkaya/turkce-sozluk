@@ -2,6 +2,7 @@
 layout: term
 title: billuri
 slug: billuri
+letter: B
 lisan: Arapça billūrī
 anlamlar:
 - Billura benzer, billur gibi

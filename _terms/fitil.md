@@ -2,6 +2,7 @@
 layout: term
 title: fitil
 slug: fitil
+letter: F
 lisan: Arapça fetīl
 anlamlar:
 - Lambada, kandilde ve mumda yağın, çakmakta benzinin yanmasını sağlayan, türlü biçimlerde bükülmüş veya dokunmuş pamuktan yapılan genellikle yağ çekici madde

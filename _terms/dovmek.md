@@ -2,6 +2,7 @@
 layout: term
 title: dövmek
 slug: dovmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tokat, yumruk, tekme vurarak canını acıtmak; benzetmek, girişmek, hırpalamak, pataklamak,  silkelemek, sopalamak, ufalamak

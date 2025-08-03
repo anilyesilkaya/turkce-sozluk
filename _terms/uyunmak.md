@@ -2,6 +2,7 @@
 layout: term
 title: uyunmak
 slug: uyunmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuma işi yapılmak

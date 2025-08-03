@@ -2,6 +2,7 @@
 layout: term
 title: eksiklik
 slug: eksiklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksik olma durumu; eksi, kalıklık, noksan, noksanlık, nakisa

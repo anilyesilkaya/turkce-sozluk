@@ -2,6 +2,7 @@
 layout: term
 title: kontrpuan
 slug: kontrpuan
+letter: K
 lisan: Fransızca contre-point
 anlamlar:
 - Çeşitli melodileri birbirine uydurma sanatı

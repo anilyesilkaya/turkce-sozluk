@@ -2,6 +2,7 @@
 layout: term
 title: barbaşı
 slug: barbasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bar oyunlarında sıranın sağ başında yer alan ve oyunun düzenini sağlayan kimse

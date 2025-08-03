@@ -2,6 +2,7 @@
 layout: term
 title: muvazene
 slug: muvazene
+letter: M
 lisan: Arapça muvāzene
 anlamlar:
 - ► denge

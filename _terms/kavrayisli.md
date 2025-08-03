@@ -2,6 +2,7 @@
 layout: term
 title: kavrayışlı
 slug: kavrayisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolayca anlama, algılama yetisi olan

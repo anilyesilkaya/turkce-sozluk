@@ -2,6 +2,7 @@
 layout: term
 title: gidermek
 slug: gidermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ortadan kaldırmak; bastırmak

@@ -2,6 +2,7 @@
 layout: term
 title: cılızlık
 slug: cilizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cılız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: dokundurmak
 slug: dokundurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokunmasını sağlamak

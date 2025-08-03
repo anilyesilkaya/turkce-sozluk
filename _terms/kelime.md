@@ -2,6 +2,7 @@
 layout: term
 title: kelime
 slug: kelime
+letter: K
 lisan: Arapça kelime
 anlamlar:
 - Bir veya birkaç heceden oluşan, anlamlı ses birliği; söz, sözcük, lügat

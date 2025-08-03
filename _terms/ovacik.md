@@ -2,6 +2,7 @@
 layout: term
 title: Ovacık
 slug: ovacik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Karabük iline bağlı ilçelerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: dragoman
 slug: dragoman
+letter: D
 lisan: Fransızca dragoman
 anlamlar:
 - ► çevirmen

@@ -2,6 +2,7 @@
 layout: term
 title: minicik
 slug: minicik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► küçücük

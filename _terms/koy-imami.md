@@ -2,6 +2,7 @@
 layout: term
 title: köy imamı
 slug: koy-imami
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köydeki camide görevli imam

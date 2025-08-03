@@ -2,6 +2,7 @@
 layout: term
 title: uzatmalı çavuş
 slug: uzatmali-cavus
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uzman çavuş

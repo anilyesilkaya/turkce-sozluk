@@ -2,6 +2,7 @@
 layout: term
 title: nefes darlığı çekmek
 slug: nefes-darligi-cekmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - solumada sıkıntı yaşamak

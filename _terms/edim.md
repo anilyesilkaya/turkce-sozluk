@@ -2,6 +2,7 @@
 layout: term
 title: edim
 slug: edim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yapılmış, gerçekleşmiş davranış; amel

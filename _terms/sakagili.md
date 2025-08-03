@@ -2,6 +2,7 @@
 layout: term
 title: sakağılı
 slug: sakagili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakağı hastalığı olan

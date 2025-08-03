@@ -2,6 +2,7 @@
 layout: term
 title: öksüz kalmak
 slug: oksuz-kalmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - anası veya hem anası hem babası ölmüş olmak

@@ -2,6 +2,7 @@
 layout: term
 title: sohbet
 slug: sohbet
+letter: S
 lisan: Arapça ṣuḥbet
 anlamlar:
 - İki veya daha fazla kişi arasında dostça, arkadaşça yapılan konuşma; hasbihâl

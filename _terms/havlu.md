@@ -2,6 +2,7 @@
 layout: term
 title: havlu
 slug: havlu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez; silgi

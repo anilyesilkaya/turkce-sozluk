@@ -2,6 +2,7 @@
 layout: term
 title: hahamlık
 slug: hahamlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hahamın ünvanı ve görevi

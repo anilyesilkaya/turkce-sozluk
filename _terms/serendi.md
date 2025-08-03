@@ -2,6 +2,7 @@
 layout: term
 title: serendi
 slug: serendi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dört, altı veya sekiz direk üstüne yapılmış tahıl, meyve ve sebze kurusunu saklamak için kullanılan kiler

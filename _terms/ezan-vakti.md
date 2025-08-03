@@ -2,6 +2,7 @@
 layout: term
 title: ezan vakti
 slug: ezan-vakti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezan okunma zamanı; ezan saati

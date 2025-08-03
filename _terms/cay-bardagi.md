@@ -2,6 +2,7 @@
 layout: term
 title: çay bardağı
 slug: cay-bardagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çay içmekte kullanılan cam bardak

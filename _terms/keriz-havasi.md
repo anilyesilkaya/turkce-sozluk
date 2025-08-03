@@ -2,6 +2,7 @@
 layout: term
 title: keriz havası
 slug: keriz-havasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - zurna ile çalınan göbek havası

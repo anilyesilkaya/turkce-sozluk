@@ -2,6 +2,7 @@
 layout: term
 title: tenkil etmek
 slug: tenkil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - düşman veya zararlı kimseleri topluca ortadan kaldırmak

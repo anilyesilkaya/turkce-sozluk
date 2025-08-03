@@ -2,6 +2,7 @@
 layout: term
 title: şapır şapır
 slug: sapir-sapir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Acele ile yemek yeme veya üst üste öpme sırasında "şap şap" sesi çıkararak

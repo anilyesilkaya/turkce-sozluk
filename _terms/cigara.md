@@ -2,6 +2,7 @@
 layout: term
 title: cigara
 slug: cigara
+letter: C
 lisan: İspanyolca cigaro
 anlamlar:
 - ► sigara

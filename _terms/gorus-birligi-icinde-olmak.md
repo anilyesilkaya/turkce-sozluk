@@ -2,6 +2,7 @@
 layout: term
 title: görüş birliği içinde olmak
 slug: gorus-birligi-icinde-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aynı görüş ve düşünceye sahip bulunmak

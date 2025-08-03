@@ -2,6 +2,7 @@
 layout: term
 title: saz takımı
 slug: saz-takimi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ut, keman, kanun, bağlama vb. müzik araçlarını çalanların oluşturduğu çalgı takımı

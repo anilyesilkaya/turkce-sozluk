@@ -2,6 +2,7 @@
 layout: term
 title: pos makinesi
 slug: pos-makinesi
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pos cihazı

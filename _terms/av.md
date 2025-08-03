@@ -2,6 +2,7 @@
 layout: term
 title: av
 slug: av
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karada, denizde, gölde veya akarsularda evcil olmayan hayvanları vurma veya yakalama işi; şikâr

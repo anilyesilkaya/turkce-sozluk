@@ -2,6 +2,7 @@
 layout: term
 title: deneyimci
 slug: deneyimci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneyimi ön plana çıkaran kimse

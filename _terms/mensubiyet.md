@@ -2,6 +2,7 @@
 layout: term
 title: mensubiyet
 slug: mensubiyet
+letter: M
 lisan: Arapça mensūbiyyet
 anlamlar:
 - ► mensupluk

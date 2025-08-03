@@ -2,6 +2,7 @@
 layout: term
 title: utanmak
 slug: utanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Onursuz sayılacak veya gülünç olacak bir duruma düşmekten üzüntü duymak; arlanmak, mahcup olmak

@@ -2,6 +2,7 @@
 layout: term
 title: üsluplu
 slug: usluplu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üslubu olan

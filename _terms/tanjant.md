@@ -2,6 +2,7 @@
 layout: term
 title: tanjant
 slug: tanjant
+letter: T
 lisan: Fransızca tangent
 anlamlar:
 - Başka bir çizgiye, eğriye veya yüzeye dokunan fakat onu kesmeyen çizgi, eğri veya yüzey

@@ -2,6 +2,7 @@
 layout: term
 title: müstahak
 slug: mustahak
+letter: M
 lisan: Arapça mustaḥaḳḳ
 anlamlar:
 - ► layık

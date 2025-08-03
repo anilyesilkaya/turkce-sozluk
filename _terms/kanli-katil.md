@@ -2,6 +2,7 @@
 layout: term
 title: kanlı katil
 slug: kanli-katil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok insan öldürmüş veya birini vahşice öldürmüş kimse

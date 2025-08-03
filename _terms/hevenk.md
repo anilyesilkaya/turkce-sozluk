@@ -2,6 +2,7 @@
 layout: term
 title: hevenk
 slug: hevenk
+letter: H
 lisan: Farsça āveng
 anlamlar:
 - Bir ipe, bir çubuğa geçirilmiş, dizilmiş veya birbirine bağlanmış yaş meyve ve sebze bağı

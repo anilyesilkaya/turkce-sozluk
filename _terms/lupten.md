@@ -2,6 +2,7 @@
 layout: term
 title: lüpten
 slug: lupten
+letter: L
 lisan: Türkçe
 anlamlar:
 - Açıktan, bedavadan, parasız olarak

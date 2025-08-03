@@ -2,6 +2,7 @@
 layout: term
 title: bir başka (olmak)
 slug: bir-baska-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - benzersiz, eşsiz (olmak)

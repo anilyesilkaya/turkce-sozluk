@@ -2,6 +2,7 @@
 layout: term
 title: pusmak
 slug: pusmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► sinmek

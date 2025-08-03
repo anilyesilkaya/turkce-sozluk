@@ -2,6 +2,7 @@
 layout: term
 title: ıhlamur
 slug: ihlamur
+letter: I
 lisan: Rumca
 anlamlar:
 - Ihlamurgillerden, kerestesi beğenilen, büyük bir gölge ağacı (Tilia)

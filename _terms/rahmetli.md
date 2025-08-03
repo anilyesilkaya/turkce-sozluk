@@ -2,6 +2,7 @@
 layout: term
 title: rahmetli
 slug: rahmetli
+letter: R
 lisan: Türkçe
 anlamlar:
 - '"Tanrı''nın rahmetine kavuşmuş, bağışlanmış" anlamlarında ölmüş Müslümanları saygıyla anmak için ad veya ünvanlarının başına getirilen bir söz'

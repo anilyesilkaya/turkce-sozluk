@@ -2,6 +2,7 @@
 layout: term
 title: ileride
 slug: ileride
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gelecekte, gelecek zamanda

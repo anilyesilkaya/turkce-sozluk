@@ -2,6 +2,7 @@
 layout: term
 title: ara buluculuk
 slug: ara-buluculuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► uzlaştırıcılık

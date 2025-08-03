@@ -2,6 +2,7 @@
 layout: term
 title: kaligrafi
 slug: kaligrafi
+letter: K
 lisan: Fransızca calligraphie
 anlamlar:
 - ► güzel yazı sanatı

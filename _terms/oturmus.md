@@ -2,6 +2,7 @@
 layout: term
 title: oturmuş
 slug: oturmus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yerleşik, yerleşmiş, güçlenmiş; stabil

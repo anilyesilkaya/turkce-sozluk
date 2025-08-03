@@ -2,6 +2,7 @@
 layout: term
 title: kamusal
 slug: kamusal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamu ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: Halfeti
 slug: halfeti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Şanlıurfa iline bağlı ilçelerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: Gotik
 slug: gotik
+letter: G
 lisan: Fransızca gothique
 anlamlar:
 - ► Gotça

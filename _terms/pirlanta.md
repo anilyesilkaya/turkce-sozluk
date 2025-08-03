@@ -2,6 +2,7 @@
 layout: term
 title: pırlanta
 slug: pirlanta
+letter: P
 lisan: İtalyanca brillante
 anlamlar:
 - Birçok façetası olacak biçimde yontulmuş foyasız parlak elmas

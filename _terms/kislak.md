@@ -2,6 +2,7 @@
 layout: term
 title: kışlak
 slug: kislak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışın barınılan yer

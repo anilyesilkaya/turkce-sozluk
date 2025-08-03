@@ -2,6 +2,7 @@
 layout: term
 title: patlayış
 slug: patlayis
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlamak işi

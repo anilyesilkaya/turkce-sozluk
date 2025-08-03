@@ -2,6 +2,7 @@
 layout: term
 title: çocukçu
 slug: cocukcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çocuk doktoru

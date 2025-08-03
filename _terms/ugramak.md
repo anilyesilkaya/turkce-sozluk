@@ -2,6 +2,7 @@
 layout: term
 title: uğramak
 slug: ugramak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yola devam etmek üzere, bir yerde kısa bir süre kalmak

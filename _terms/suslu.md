@@ -2,6 +2,7 @@
 layout: term
 title: süslü
 slug: suslu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süsü olan, süslenmiş, bezenmiş; bezekli, bezemeli

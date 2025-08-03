@@ -2,6 +2,7 @@
 layout: term
 title: sapsız meşe
 slug: sapsiz-mese
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kayıngiller familyasından, dar tepeli, yüksek orman kuran meşe türlerinden birisi (Quercus petraea)

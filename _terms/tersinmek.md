@@ -2,6 +2,7 @@
 layout: term
 title: tersinmek
 slug: tersinmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Geri dönmek, rücu etmek

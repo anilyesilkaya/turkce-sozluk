@@ -2,6 +2,7 @@
 layout: term
 title: fire vermek
 slug: fire-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - eksilmek, azalmak

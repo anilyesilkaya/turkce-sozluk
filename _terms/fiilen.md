@@ -2,6 +2,7 @@
 layout: term
 title: fiilen
 slug: fiilen
+letter: F
 lisan: Arapça fiʿlen
 anlamlar:
 - Fiilî olarak; bilfiil

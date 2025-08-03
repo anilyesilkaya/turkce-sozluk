@@ -2,6 +2,7 @@
 layout: term
 title: filo
 slug: filo
+letter: F
 lisan: İtalyanca filo
 anlamlar:
 - Bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü

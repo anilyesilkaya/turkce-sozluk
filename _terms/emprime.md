@@ -2,6 +2,7 @@
 layout: term
 title: emprime
 slug: emprime
+letter: E
 lisan: Fransızca imprimé
 anlamlar:
 - Değişik renkte boya kullanılarak kumaş üzerine desen ve zemin basma işlemi

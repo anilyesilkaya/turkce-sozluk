@@ -2,6 +2,7 @@
 layout: term
 title: uğultusuz
 slug: ugultusuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğultusu olmayan

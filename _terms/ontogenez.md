@@ -2,6 +2,7 @@
 layout: term
 title: ontogenez
 slug: ontogenez
+letter: O
 lisan: Fransızca ontogénèse
 anlamlar:
 - Birey oluş

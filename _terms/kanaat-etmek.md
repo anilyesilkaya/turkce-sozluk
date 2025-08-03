@@ -2,6 +2,7 @@
 layout: term
 title: kanaat etmek
 slug: kanaat-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yetinmek

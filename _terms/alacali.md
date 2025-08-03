@@ -2,6 +2,7 @@
 layout: term
 title: alacalı
 slug: alacali
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alaca

@@ -2,6 +2,7 @@
 layout: term
 title: damper
 slug: damper
+letter: D
 lisan: İngilizce dumper
 anlamlar:
 - Bir şasinin üzerine takılmış, inip kalkan kasası olan, kendinden hareketli, yükü boşaltan düzen

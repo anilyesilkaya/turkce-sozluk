@@ -2,6 +2,7 @@
 layout: term
 title: çizmeleri çekmek
 slug: cizmeleri-cekmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işe girişmek

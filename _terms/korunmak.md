@@ -2,6 +2,7 @@
 layout: term
 title: korunmak
 slug: korunmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendini korumak, bir yere sığınmak, bir şeyden sakınmak

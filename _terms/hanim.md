@@ -2,6 +2,7 @@
 layout: term
 title: hanım
 slug: hanim
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kız ve kadınlara verilen ünvan; bayan, hatun, leydi

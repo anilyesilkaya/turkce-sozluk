@@ -2,6 +2,7 @@
 layout: term
 title: kati teminat
 slug: kati-teminat
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesin olarak verilen güvence

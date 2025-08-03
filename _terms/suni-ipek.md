@@ -2,6 +2,7 @@
 layout: term
 title: suni ipek
 slug: suni-ipek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yapay ipek

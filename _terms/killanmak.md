@@ -2,6 +2,7 @@
 layout: term
 title: kıllanmak
 slug: killanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılları çıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: yamyaş
 slug: yamyas
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► sırılsıklam

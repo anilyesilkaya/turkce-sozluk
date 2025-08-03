@@ -2,6 +2,7 @@
 layout: term
 title: kapela
 slug: kapela
+letter: K
 lisan: İtalyanca cappello
 anlamlar:
 - ► şapka

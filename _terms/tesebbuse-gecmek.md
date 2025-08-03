@@ -2,6 +2,7 @@
 layout: term
 title: teşebbüse geçmek
 slug: tesebbuse-gecmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir işi yapmak için davranmak, girişmek

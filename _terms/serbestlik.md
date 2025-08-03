@@ -2,6 +2,7 @@
 layout: term
 title: serbestlik
 slug: serbestlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serbest olma durumu; azadelik, serbestî

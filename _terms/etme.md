@@ -2,6 +2,7 @@
 layout: term
 title: etme
 slug: etme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etmek işi

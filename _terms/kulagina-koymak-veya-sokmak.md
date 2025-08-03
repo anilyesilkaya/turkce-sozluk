@@ -2,6 +2,7 @@
 layout: term
 title: kulağına koymak (veya sokmak)
 slug: kulagina-koymak-veya-sokmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir duruma veya söze hazırlamak için önceden kısaca anlatmak, düşünce aşılamak, telkin etmek

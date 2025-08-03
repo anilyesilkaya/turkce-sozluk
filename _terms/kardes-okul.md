@@ -2,6 +2,7 @@
 layout: term
 title: kardeş okul
 slug: kardes-okul
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir okulun, toplumsal, ekonomik, kültürel vb. bakımdan yardıma gereksinimi olduğunu belirleyip desteklediği, yardımlarda bulunduğu okul

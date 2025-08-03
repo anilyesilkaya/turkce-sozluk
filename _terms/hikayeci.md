@@ -2,6 +2,7 @@
 layout: term
 title: hikâyeci
 slug: hikayeci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hikâye yazan; öykücü

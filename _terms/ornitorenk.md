@@ -2,6 +2,7 @@
 layout: term
 title: ornitorenk
 slug: ornitorenk
+letter: O
 lisan: Fransızca ornithorynque
 anlamlar:
 - ► gagalı memeli

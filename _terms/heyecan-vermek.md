@@ -2,6 +2,7 @@
 layout: term
 title: heyecan vermek
 slug: heyecan-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - heyecan duymasına sebep olmak

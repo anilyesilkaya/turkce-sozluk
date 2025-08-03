@@ -2,6 +2,7 @@
 layout: term
 title: devingenlik
 slug: devingenlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► hareketlilik

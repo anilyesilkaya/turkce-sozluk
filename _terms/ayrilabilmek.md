@@ -2,6 +2,7 @@
 layout: term
 title: ayrılabilmek
 slug: ayrilabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrılma ihtimali veya imkânı bulunmak

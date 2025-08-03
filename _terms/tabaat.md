@@ -2,6 +2,7 @@
 layout: term
 title: tabaat
 slug: tabaat
+letter: T
 lisan: Arapça ṭabāʿat
 anlamlar:
 - ► basımcılık

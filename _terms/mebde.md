@@ -2,6 +2,7 @@
 layout: term
 title: mebde
 slug: mebde
+letter: M
 lisan: Arapça mebdeʾ
 anlamlar:
 - ► başlangıç

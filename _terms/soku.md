@@ -2,6 +2,7 @@
 layout: term
 title: soku
 slug: soku
+letter: S
 lisan: Türkçe
 anlamlar:
 - Taştan yapılmış dibek

@@ -2,6 +2,7 @@
 layout: term
 title: kırtıpil
 slug: kirtipil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Değersiz, bayağı, yarım yamalak

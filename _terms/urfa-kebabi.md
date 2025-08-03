@@ -2,6 +2,7 @@
 layout: term
 title: Urfa kebabı
 slug: urfa-kebabi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Koyun kıyması, domates, soğan, tuz ve baharat karışımıyla oluşturulan köftenin şişlere kömür ateşinde pişirilmesiyle yapılan bir kebap türü

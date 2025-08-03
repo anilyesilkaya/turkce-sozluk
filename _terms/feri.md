@@ -2,6 +2,7 @@
 layout: term
 title: ferî
 slug: feri
+letter: F
 lisan: Arapça ferʿī
 anlamlar:
 - Ayrıntılarla ilgili, ayrıntı niteliğinde olan

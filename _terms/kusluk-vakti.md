@@ -2,6 +2,7 @@
 layout: term
 title: kuşluk vakti
 slug: kusluk-vakti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşluk

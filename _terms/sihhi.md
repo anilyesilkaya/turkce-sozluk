@@ -2,6 +2,7 @@
 layout: term
 title: sıhhi
 slug: sihhi
+letter: S
 lisan: Arapça ṣiḥḥī
 anlamlar:
 - Sağlıkla ilgili, sağlığa ait

@@ -2,6 +2,7 @@
 layout: term
 title: eksen
 slug: eksen
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir cismi iki eşit parçaya bölen çizgi; mihver

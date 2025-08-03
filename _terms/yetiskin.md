@@ -2,6 +2,7 @@
 layout: term
 title: yetişkin
 slug: yetiskin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişmiş, olgunlaşmış

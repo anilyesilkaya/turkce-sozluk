@@ -2,6 +2,7 @@
 layout: term
 title: beyaz bayrak çekmek (veya açmak veya sallamak)
 slug: beyaz-bayrak-cekmek-veya-acmak-veya-sallamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - savaşta yenilgiyi kabul ederek teslim olmak için beyaz renkli bayrak açmak

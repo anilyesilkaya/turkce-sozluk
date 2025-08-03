@@ -2,6 +2,7 @@
 layout: term
 title: binek atı
 slug: binek-ati
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sadece binmek, gezmek veya binicilik sporu için yetiştirilen at

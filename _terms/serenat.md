@@ -2,6 +2,7 @@
 layout: term
 title: serenat
 slug: serenat
+letter: S
 lisan: Fransızca sérénade
 anlamlar:
 - Sesli olarak söylenen veya müzik aracılığıyla çalınan serbest biçimli müzik parçası

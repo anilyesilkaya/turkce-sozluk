@@ -2,6 +2,7 @@
 layout: term
 title: kerkenez
 slug: kerkenez
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kartalgillerden, leşle beslenen, 35 santimetre uzunluğunda, kızılımsı tüyleri olan bir kuş (Falco tinnunculus)

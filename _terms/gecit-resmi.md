@@ -2,6 +2,7 @@
 layout: term
 title: geçit resmi
 slug: gecit-resmi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► geçit töreni

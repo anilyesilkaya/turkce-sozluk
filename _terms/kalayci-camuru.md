@@ -2,6 +2,7 @@
 layout: term
 title: 'kalaycı çamuru '
 slug: kalayci-camuru
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalaylanacak kapları temizlemekte kullanılan kil

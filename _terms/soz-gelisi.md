@@ -2,6 +2,7 @@
 layout: term
 title: söz gelişi
 slug: soz-gelisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir düşünceyi açıklamak için örnek gösterileceğinde o örneğe giriş olarak söylenen bir söz; söz gelimi, söz misali, temsil, söz temsili, örneğin, mesela, bilfarz

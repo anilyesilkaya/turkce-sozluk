@@ -2,6 +2,7 @@
 layout: term
 title: sap derken saman demek
 slug: sap-derken-saman-demek
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuşurken ilgisi olmayan konulardan söz etmeye başlamak

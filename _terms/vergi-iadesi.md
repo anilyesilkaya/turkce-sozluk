@@ -2,6 +2,7 @@
 layout: term
 title: vergi iadesi
 slug: vergi-iadesi
+letter: V
 lisan: Türkçe
 anlamlar:
 - Mükellefin yaptığı ihracattan dolayı alınan vergi indirimi

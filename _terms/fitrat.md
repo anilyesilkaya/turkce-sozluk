@@ -2,6 +2,7 @@
 layout: term
 title: fıtrat
 slug: fitrat
+letter: F
 lisan: Arapça fiṭrat
 anlamlar:
 - ► yaradılış

@@ -2,6 +2,7 @@
 layout: term
 title: çok partililik
 slug: cok-partililik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok partili olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: hala kızı
 slug: hala-kizi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halanın kızı

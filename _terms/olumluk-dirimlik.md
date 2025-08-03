@@ -2,6 +2,7 @@
 layout: term
 title: ölümlük dirimlik
 slug: olumluk-dirimlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölümlük kalımlık

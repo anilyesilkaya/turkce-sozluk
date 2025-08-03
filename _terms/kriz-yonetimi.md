@@ -2,6 +2,7 @@
 layout: term
 title: kriz yönetimi
 slug: kriz-yonetimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir ülkenin karşılaştığı ulusal, uluslararası herhangi bir sorun veya doğal afet durumlarında sorunun en az zararla atlatılabilmesi için konunun uzmanlarından oluşturulan kurul

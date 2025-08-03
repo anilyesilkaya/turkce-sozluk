@@ -2,6 +2,7 @@
 layout: term
 title: potbaşı
 slug: potbasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Potun yanaştığı geçiş noktası

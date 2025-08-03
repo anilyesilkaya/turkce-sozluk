@@ -2,6 +2,7 @@
 layout: term
 title: çözük
 slug: cozuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözülmüş olan

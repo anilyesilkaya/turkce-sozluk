@@ -2,6 +2,7 @@
 layout: term
 title: gerisin geri
 slug: gerisin-geri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geldiği yere veya ters yöne doğru; gerisin geriye

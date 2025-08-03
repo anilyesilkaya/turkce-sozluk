@@ -2,6 +2,7 @@
 layout: term
 title: süprüntü
 slug: supruntu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Temizlik yapıldığında toplanan toz ve çöp; çer çöp

@@ -2,6 +2,7 @@
 layout: term
 title: yüreği sızlamak
 slug: yuregi-sizlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok acımak, çok üzülmek

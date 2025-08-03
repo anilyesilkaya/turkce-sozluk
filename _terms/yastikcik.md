@@ -2,6 +2,7 @@
 layout: term
 title: yastıkçık
 slug: yastikcik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Küçük yastık

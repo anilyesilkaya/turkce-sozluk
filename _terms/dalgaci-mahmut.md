@@ -2,6 +2,7 @@
 layout: term
 title: dalgacı Mahmut
 slug: dalgaci-mahmut
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yapılması gerekli bir işi ciddiye almayan kimse

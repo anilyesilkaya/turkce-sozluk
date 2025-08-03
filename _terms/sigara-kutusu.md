@@ -2,6 +2,7 @@
 layout: term
 title: sigara kutusu
 slug: sigara-kutusu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sigara tabakası

@@ -2,6 +2,7 @@
 layout: term
 title: birdenbire
 slug: birdenbire
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ansızın

@@ -2,6 +2,7 @@
 layout: term
 title: adamca
 slug: adamca
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsana yaraşır bir biçimde; adamcasına

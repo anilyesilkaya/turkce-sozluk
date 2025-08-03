@@ -2,6 +2,7 @@
 layout: term
 title: şart koşmak
 slug: sart-kosmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - önceden bir şarta bağlamak

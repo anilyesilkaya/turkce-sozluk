@@ -2,6 +2,7 @@
 layout: term
 title: polar
 slug: polar
+letter: P
 lisan: (Polartec firmasının adından)
 anlamlar:
 - Hammaddesi petrol ve petrol yan ürünleri olan, ısıya ve bakterilere karşı dayanıklı, soğuk geçirmeyen, hafif, kabarık hacimli ve yumuşak bir tür kumaş

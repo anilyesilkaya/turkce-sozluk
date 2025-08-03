@@ -2,6 +2,7 @@
 layout: term
 title: tıslamak
 slug: tislamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kaz, kedi, yılan "tıs" diye ses çıkarmak

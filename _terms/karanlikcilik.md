@@ -2,6 +2,7 @@
 layout: term
 title: karanlıkçılık
 slug: karanlikcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bilmesinlercilik

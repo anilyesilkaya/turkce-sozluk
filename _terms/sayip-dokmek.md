@@ -2,6 +2,7 @@
 layout: term
 title: sayıp dökmek
 slug: sayip-dokmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ne var ne yok hepsini söylemek

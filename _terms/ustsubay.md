@@ -2,6 +2,7 @@
 layout: term
 title: üstsubay
 slug: ustsubay
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Binbaşı, yarbay ve albay rütbesindeki subaylara verilen genel ad

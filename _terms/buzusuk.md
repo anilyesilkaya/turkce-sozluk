@@ -2,6 +2,7 @@
 layout: term
 title: büzüşük
 slug: buzusuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzülerek yüzey veya hacmi küçülmüş olan, büzüşmüş

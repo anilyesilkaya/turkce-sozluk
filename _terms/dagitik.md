@@ -2,6 +2,7 @@
 layout: term
 title: dağıtık
 slug: dagitik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendinden geçmiş, sarhoş olan

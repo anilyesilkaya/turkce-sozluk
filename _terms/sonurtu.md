@@ -2,6 +2,7 @@
 layout: term
 title: sonurtu
 slug: sonurtu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbirine bağlı iki önermeden ikincisi

@@ -2,6 +2,7 @@
 layout: term
 title: noksan bulmak
 slug: noksan-bulmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - beğenmemek, uygun bulmamak

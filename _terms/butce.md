@@ -2,6 +2,7 @@
 layout: term
 title: bütçe
 slug: butce
+letter: B
 lisan: Fransızca budget
 anlamlar:
 - Devletin, bir kuruluşun, bir aile veya bir kimsenin gelecekteki belirli bir süre için tasarladığı gelir ve giderlerinin tümü

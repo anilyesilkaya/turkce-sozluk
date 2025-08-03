@@ -2,6 +2,7 @@
 layout: term
 title: güm güm atmak
 slug: gum-gum-atmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kalp heyecanla çarpmak

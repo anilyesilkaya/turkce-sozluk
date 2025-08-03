@@ -2,6 +2,7 @@
 layout: term
 title: tombullaşma
 slug: tombullasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tombullaşmak işi

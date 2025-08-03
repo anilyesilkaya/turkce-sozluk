@@ -2,6 +2,7 @@
 layout: term
 title: mahzur
 slug: mahzur
+letter: M
 lisan: Arapça maḥẕūr
 anlamlar:
 - ► sakınca

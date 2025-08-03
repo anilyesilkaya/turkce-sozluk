@@ -2,6 +2,7 @@
 layout: term
 title: eş biçim birimi
 slug: es-bicim-birimi
+letter: E
 lisan: Türkçe
 anlamlar:
 - 'Bir ek biçim biriminin farklı ses çevrelerinde büründüğü biçimlerden her biri; alomorf: -dır-/-dir-/-dur-/-dür-/-tır-/-tir/-tur-/-tür- vb'

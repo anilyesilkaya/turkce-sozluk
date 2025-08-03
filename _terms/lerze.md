@@ -2,6 +2,7 @@
 layout: term
 title: lerze
 slug: lerze
+letter: L
 lisan: Farsça lerze
 anlamlar:
 - ► titreme

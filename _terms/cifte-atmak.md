@@ -2,6 +2,7 @@
 layout: term
 title: çifte atmak
 slug: cifte-atmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - at, eşek arka ayakları ile vurmak

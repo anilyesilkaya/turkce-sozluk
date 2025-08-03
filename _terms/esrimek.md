@@ -2,6 +2,7 @@
 layout: term
 title: esrimek
 slug: esrimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sebeple kendinden geçmek; gaşyolmak

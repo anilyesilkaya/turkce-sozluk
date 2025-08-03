@@ -2,6 +2,7 @@
 layout: term
 title: kaportacılık
 slug: kaportacilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaportacının yaptığı iş

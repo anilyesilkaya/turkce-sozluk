@@ -2,6 +2,7 @@
 layout: term
 title: ipince
 slug: ipince
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çok ince, incecik

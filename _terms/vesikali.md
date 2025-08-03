@@ -2,6 +2,7 @@
 layout: term
 title: vesikalı
 slug: vesikali
+letter: V
 lisan: Türkçe
 anlamlar:
 - Belgesi olan

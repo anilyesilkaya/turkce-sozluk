@@ -2,6 +2,7 @@
 layout: term
 title: acemileşmek
 slug: acemilesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beceriksizlik göstermek

@@ -2,6 +2,7 @@
 layout: term
 title: eğretilik
 slug: egretilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğreti olma durumu

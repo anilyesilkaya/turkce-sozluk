@@ -2,6 +2,7 @@
 layout: term
 title: zargana
 slug: zargana
+letter: Z
 lisan: Rumca
 anlamlar:
 - Uskumrumsugillerden, 40-60 santimetre boyunda, vücudu silindir biçiminde, gaga gibi ince, uzun, sivri ağızlı bir balık (Belone belone)

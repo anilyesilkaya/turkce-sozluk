@@ -2,6 +2,7 @@
 layout: term
 title: tutamaçlı
 slug: tutamacli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutamacı olan

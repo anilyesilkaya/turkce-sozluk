@@ -2,6 +2,7 @@
 layout: term
 title: zinde
 slug: zinde
+letter: Z
 lisan: Farsça zinde
 anlamlar:
 - ► diri

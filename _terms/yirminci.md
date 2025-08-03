@@ -2,6 +2,7 @@
 layout: term
 title: yirminci
 slug: yirminci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yirmi sayısının sıra sıfatı, sırada on dokuzuncudan sonra gelen

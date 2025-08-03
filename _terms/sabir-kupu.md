@@ -2,6 +2,7 @@
 layout: term
 title: sabır küpü
 slug: sabir-kupu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► zekâ küpü

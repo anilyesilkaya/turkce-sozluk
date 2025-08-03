@@ -2,6 +2,7 @@
 layout: term
 title: haram para
 slug: haram-para
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hak edilmemiş biçimde, özellikle yasa dışı yollardan kazanılan para

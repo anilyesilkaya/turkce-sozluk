@@ -2,6 +2,7 @@
 layout: term
 title: molasız
 slug: molasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mola verilmeyen

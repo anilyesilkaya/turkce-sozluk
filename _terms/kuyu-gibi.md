@@ -2,6 +2,7 @@
 layout: term
 title: kuyu gibi
 slug: kuyu-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok derin (yer)

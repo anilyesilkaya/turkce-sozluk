@@ -2,6 +2,7 @@
 layout: term
 title: amaçsız
 slug: amacsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amacı olmayan; yönsüz, gayesiz, kasıtsız, maksatsız

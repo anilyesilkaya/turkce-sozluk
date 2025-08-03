@@ -2,6 +2,7 @@
 layout: term
 title: çiçek dürbünü
 slug: cicek-durbunu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► kaleydoskop

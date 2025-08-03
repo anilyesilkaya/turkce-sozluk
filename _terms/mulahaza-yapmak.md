@@ -2,6 +2,7 @@
 layout: term
 title: mülahaza yapmak
 slug: mulahaza-yapmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - düşünmek

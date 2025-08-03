@@ -2,6 +2,7 @@
 layout: term
 title: karşı devrim
 slug: karsi-devrim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir devrimi yıkmayı ve onun ürünlerini ortadan kaldırmayı hedefleyen hareket

@@ -2,6 +2,7 @@
 layout: term
 title: çocuk muamelesi görmek
 slug: cocuk-muamelesi-gormek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocuk gibi davranılmak

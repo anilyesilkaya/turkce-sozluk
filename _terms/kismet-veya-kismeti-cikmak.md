@@ -2,6 +2,7 @@
 layout: term
 title: kısmet (veya kısmeti) çıkmak
 slug: kismet-veya-kismeti-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - evlenme teklifi almak

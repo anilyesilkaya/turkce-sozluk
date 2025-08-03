@@ -2,6 +2,7 @@
 layout: term
 title: çiçeklik
 slug: ciceklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► vazo

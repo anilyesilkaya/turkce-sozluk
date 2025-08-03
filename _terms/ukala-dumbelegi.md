@@ -2,6 +2,7 @@
 layout: term
 title: ukala dümbeleği
 slug: ukala-dumbelegi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aklı ermediği hâlde her konuda fikir yürüten, bilir bilmez her şeye karışan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: destanlaştırılmak
 slug: destanlastirilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destan olarak anlatılmak

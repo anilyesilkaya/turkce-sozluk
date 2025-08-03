@@ -2,6 +2,7 @@
 layout: term
 title: bile isteye
 slug: bile-isteye
+letter: B
 lisan: Türkçe
 anlamlar:
 - İsteyerek, bilinçli olarak

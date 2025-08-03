@@ -2,6 +2,7 @@
 layout: term
 title: dilci
 slug: dilci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dil bilimci

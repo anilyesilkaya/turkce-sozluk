@@ -2,6 +2,7 @@
 layout: term
 title: yekpare
 slug: yekpare
+letter: Y
 lisan: Farsça yek + pāre
 anlamlar:
 - ► bütün

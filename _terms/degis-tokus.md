@@ -2,6 +2,7 @@
 layout: term
 title: değiş tokuş
 slug: degis-tokus
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► değişim

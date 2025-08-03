@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntıcılık
 slug: ayrinticilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıntıcı olma durumu

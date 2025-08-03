@@ -2,6 +2,7 @@
 layout: term
 title: aşikâr etmek
 slug: asikar-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - belli etmek, ortaya çıkarmak, belirginleştirmek

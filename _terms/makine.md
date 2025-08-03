@@ -2,6 +2,7 @@
 layout: term
 title: makine
 slug: makine
+letter: M
 lisan: İtalyanca macchina
 anlamlar:
 - Herhangi bir enerji türünü başka bir enerjiye dönüştürmek, belli bir güçten yararlanarak bir işi yapmak veya etki oluşturmak için çarklar, dişliler ve çeşitli parçalardan oluşan düzenekler bütünü

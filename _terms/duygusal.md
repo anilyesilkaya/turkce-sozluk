@@ -2,6 +2,7 @@
 layout: term
 title: duygusal
 slug: duygusal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygularla ilgili, duygulara dayanan; hissî

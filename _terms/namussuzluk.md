@@ -2,6 +2,7 @@
 layout: term
 title: namussuzluk
 slug: namussuzluk
+letter: N
 lisan: Türkçe
 anlamlar:
 - Namussuz olma durumu

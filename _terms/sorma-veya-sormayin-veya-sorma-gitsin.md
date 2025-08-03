@@ -2,6 +2,7 @@
 layout: term
 title: sorma! (veya sormayın! veya sorma gitsin!)
 slug: sorma-veya-sormayin-veya-sorma-gitsin
+letter: S
 lisan: Türkçe
 anlamlar:
 - çokluk, aşırılık ve kötü bir durum anlatan bir söz

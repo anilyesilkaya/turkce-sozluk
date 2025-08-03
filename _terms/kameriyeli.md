@@ -2,6 +2,7 @@
 layout: term
 title: kameriyeli
 slug: kameriyeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kameriyesi bulunan

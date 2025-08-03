@@ -2,6 +2,7 @@
 layout: term
 title: tepinmek
 slug: tepinmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ayaklarını hızla yere veya bir şeye üst üste vurmak

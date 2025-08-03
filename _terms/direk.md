@@ -2,6 +2,7 @@
 layout: term
 title: direk
 slug: direk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ağaçtan veya demirden yapılan uzun ve kalın destek

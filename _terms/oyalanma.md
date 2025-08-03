@@ -2,6 +2,7 @@
 layout: term
 title: oyalanma
 slug: oyalanma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyalanmak işi; eğlenme

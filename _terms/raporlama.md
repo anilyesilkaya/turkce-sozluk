@@ -2,6 +2,7 @@
 layout: term
 title: raporlama
 slug: raporlama
+letter: R
 lisan: Türkçe
 anlamlar:
 - Raporlamak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: heybe
 slug: heybe
+letter: H
 lisan: Arapça ʿaybe
 anlamlar:
 - At, eşek vb. binek hayvanlarının eyeri üzerine geçirilen veya omuzda taşınan, içine öteberi koymaya yarayan, kilim veya halıdan yapılmış iki gözlü torba

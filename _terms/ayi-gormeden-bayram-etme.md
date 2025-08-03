@@ -2,6 +2,7 @@
 layout: term
 title: ayı görmeden bayram etme
 slug: ayi-gormeden-bayram-etme
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"bir iş gerçekleşmeden ona oldu gözüyle bakmamalı" anlamında kullanılan bir söz'

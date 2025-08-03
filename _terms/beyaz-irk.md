@@ -2,6 +2,7 @@
 layout: term
 title: beyaz ırk
 slug: beyaz-irk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeryüzünde siyah, sarı ve kırmızı ırkın dışında kalan, teninin rengi açık olan insan ırkı

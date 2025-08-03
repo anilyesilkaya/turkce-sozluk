@@ -2,6 +2,7 @@
 layout: term
 title: benlikçi
 slug: benlikci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her konuda hep kendini ileri süren, hep kendinden söz eden

@@ -2,6 +2,7 @@
 layout: term
 title: prodüktör
 slug: produktor
+letter: P
 lisan: Fransızca producteur
 anlamlar:
 - ► yapımcı

@@ -2,6 +2,7 @@
 layout: term
 title: kulağına inanmamak
 slug: kulagina-inanmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - duyduklarının doğruluğundan şüphe etmek

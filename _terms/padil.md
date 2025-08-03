@@ -2,6 +2,7 @@
 layout: term
 title: 'padıl '
 slug: padil
+letter: P
 lisan: Almanca paddel
 anlamlar:
 - İki ucu veya bir ucu enli, kısa ve ince saplı kürek

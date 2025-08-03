@@ -2,6 +2,7 @@
 layout: term
 title: ayak havlusu
 slug: ayak-havlusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayağı yıkadıktan sonra kurulamak için kullanılan havlu

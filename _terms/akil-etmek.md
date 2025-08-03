@@ -2,6 +2,7 @@
 layout: term
 title: akıl etmek
 slug: akil-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - herhangi bir önlem veya çareyi zamanında düşünmek

@@ -2,6 +2,7 @@
 layout: term
 title: koçluk
 slug: kocluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çalıştırıcılık

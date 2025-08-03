@@ -2,6 +2,7 @@
 layout: term
 title: gönül (veya gönlünü) eğlendirmek
 slug: gonul-veya-gonlunu-eglendirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - geçici bir ilgi ve sevgi göstererek hoşça vakit geçirmek

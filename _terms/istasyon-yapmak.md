@@ -2,6 +2,7 @@
 layout: term
 title: istasyon yapmak
 slug: istasyon-yapmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - duraklamak, beklemek

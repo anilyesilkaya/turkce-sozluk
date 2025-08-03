@@ -2,6 +2,7 @@
 layout: term
 title: karşıtlı
 slug: karsitli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirinin karşıtı olan; tezatlı

@@ -2,6 +2,7 @@
 layout: term
 title: tansiyon
 slug: tansiyon
+letter: T
 lisan: Fransızca tension
 anlamlar:
 - ► kan basıncı

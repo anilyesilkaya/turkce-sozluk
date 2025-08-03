@@ -2,6 +2,7 @@
 layout: term
 title: takiye
 slug: takiye
+letter: T
 lisan: Arapça taḳiyye
 anlamlar:
 - Mezhep belirtmeme, gizleme

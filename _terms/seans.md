@@ -2,6 +2,7 @@
 layout: term
 title: seans
 slug: seans
+letter: S
 lisan: Fransızca séance
 anlamlar:
 - Bir işin yapılmasına ayrılan çalışma süresi; oturum

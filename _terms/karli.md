@@ -2,6 +2,7 @@
 layout: term
 title: kârlı
 slug: karli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kârı olan

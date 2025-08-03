@@ -2,6 +2,7 @@
 layout: term
 title: emtia
 slug: emtia
+letter: E
 lisan: Arapça emtiʿa
 anlamlar:
 - ► mal

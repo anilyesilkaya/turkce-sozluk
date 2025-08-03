@@ -2,6 +2,7 @@
 layout: term
 title: cezalandırılmak
 slug: cezalandirilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezaya çarptırılmak

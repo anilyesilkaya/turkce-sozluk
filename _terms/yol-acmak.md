@@ -2,6 +2,7 @@
 layout: term
 title: yol açmak
 slug: yol-acmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yol yapmak

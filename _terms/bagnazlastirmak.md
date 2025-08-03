@@ -2,6 +2,7 @@
 layout: term
 title: bağnazlaştırmak
 slug: bagnazlastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağnazlaşmasına yol açmak

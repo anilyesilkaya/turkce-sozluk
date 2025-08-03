@@ -2,6 +2,7 @@
 layout: term
 title: hasarlı
 slug: hasarli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasara uğramış

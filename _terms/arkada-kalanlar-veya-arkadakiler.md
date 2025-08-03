@@ -2,6 +2,7 @@
 layout: term
 title: arkada kalanlar (veya arkadakiler)
 slug: arkada-kalanlar-veya-arkadakiler
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimsenin, öldüğünde veya bir yere gittiğinde geride bıraktığı yakınları

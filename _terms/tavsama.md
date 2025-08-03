@@ -2,6 +2,7 @@
 layout: term
 title: tavsama
 slug: tavsama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavsamak işi

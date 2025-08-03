@@ -2,6 +2,7 @@
 layout: term
 title: külah
 slug: kulah
+letter: K
 lisan: Farsça kulāh
 anlamlar:
 - İçine bazı şeyler koymak için huni biçiminde bükülmüş kâğıt kap

@@ -2,6 +2,7 @@
 layout: term
 title: düzgünlü
 slug: duzgunlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yüzüne düzgün sürmüş olan

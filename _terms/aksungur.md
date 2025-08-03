@@ -2,6 +2,7 @@
 layout: term
 title: aksungur
 slug: aksungur
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akdoğan

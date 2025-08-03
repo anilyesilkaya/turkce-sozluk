@@ -2,6 +2,7 @@
 layout: term
 title: deşelemek
 slug: deselemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güçlü bir biçimde deşmek, karıştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: yakım
 slug: yakim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakmak işi

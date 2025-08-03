@@ -2,6 +2,7 @@
 layout: term
 title: alçaklık
 slug: alcaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yerden uzaklığı az olma

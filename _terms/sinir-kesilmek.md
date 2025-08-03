@@ -2,6 +2,7 @@
 layout: term
 title: sinir kesilmek
 slug: sinir-kesilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, öfkelenmek

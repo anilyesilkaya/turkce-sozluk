@@ -2,6 +2,7 @@
 layout: term
 title: teori
 slug: teori
+letter: T
 lisan: Fransızca théorie
 anlamlar:
 - ► kuram

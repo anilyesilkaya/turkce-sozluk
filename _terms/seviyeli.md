@@ -2,6 +2,7 @@
 layout: term
 title: seviyeli
 slug: seviyeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► düzeyli

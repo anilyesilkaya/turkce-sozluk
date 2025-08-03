@@ -2,6 +2,7 @@
 layout: term
 title: uyuz sineği
 slug: uyuz-sinegi
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kaplan böcek

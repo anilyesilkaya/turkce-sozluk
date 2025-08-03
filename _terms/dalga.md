@@ -2,6 +2,7 @@
 layout: term
 title: dalga
 slug: dalga
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı hareket

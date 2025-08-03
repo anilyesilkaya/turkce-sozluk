@@ -2,6 +2,7 @@
 layout: term
 title: cırtlamak
 slug: cirtlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Cırt" diye ses çıkarmak'

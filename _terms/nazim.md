@@ -2,6 +2,7 @@
 layout: term
 title: nâzım
 slug: nazim
+letter: N
 lisan: Arapça nāẓim
 anlamlar:
 - Düzenleyen, düzene koyan, tertip eden

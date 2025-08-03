@@ -2,6 +2,7 @@
 layout: term
 title: lapacılık
 slug: lapacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► tembellik

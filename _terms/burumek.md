@@ -2,6 +2,7 @@
 layout: term
 title: bürümek
 slug: burumek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kaplamak

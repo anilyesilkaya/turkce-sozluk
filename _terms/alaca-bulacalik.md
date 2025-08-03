@@ -2,6 +2,7 @@
 layout: term
 title: alaca bulacalık
 slug: alaca-bulacalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaca bulaca olma durumu

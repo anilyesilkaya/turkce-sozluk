@@ -2,6 +2,7 @@
 layout: term
 title: körükçü
 slug: korukcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körük yapan veya satan kimse

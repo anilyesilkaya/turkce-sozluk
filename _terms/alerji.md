@@ -2,6 +2,7 @@
 layout: term
 title: alerji
 slug: alerji
+letter: A
 lisan: Fransızca allergie
 anlamlar:
 - Birtakım yiyecek, ilaç, toz, koku vb.ne hastalık derecesinde gösterilen aşırı tepki

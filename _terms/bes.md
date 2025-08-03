@@ -2,6 +2,7 @@
 layout: term
 title: beş
 slug: bes
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dörtten sonra gelen sayının adı; penç

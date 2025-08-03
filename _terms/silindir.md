@@ -2,6 +2,7 @@
 layout: term
 title: silindir
 slug: silindir
+letter: S
 lisan: Fransızca cylindre
 anlamlar:
 - Alt ve üst tabanları birbirine eşit dairelerden oluşan bir nesnenin eksenini dikey olarak kesen, birbirine paralel iki yüzeyin sınırladığı cisim; üstüvane

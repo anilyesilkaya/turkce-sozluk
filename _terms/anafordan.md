@@ -2,6 +2,7 @@
 layout: term
 title: anafordan
 slug: anafordan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yolsuzluk yaparak

@@ -2,6 +2,7 @@
 layout: term
 title: kalafat
 slug: kalafat
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çuhadan yapılmış, aşağısı dar, yukarısı geniş bir tür yeniçeri başlığı

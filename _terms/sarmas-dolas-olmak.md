@@ -2,6 +2,7 @@
 layout: term
 title: sarmaş dolaş olmak
 slug: sarmas-dolas-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birbirine sarılıp kucaklaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: mucit
 slug: mucit
+letter: M
 lisan: Arapça mūcid
 anlamlar:
 - Yeni bir buluş ortaya koyan, icat eden kimse

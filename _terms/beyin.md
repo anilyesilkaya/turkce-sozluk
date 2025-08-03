@@ -2,6 +2,7 @@
 layout: term
 title: beyin
 slug: beyin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kafatasının içinde beyin zarları ile örtülü, iki yarım küre biçiminde sinir kütlesinden oluşan, duyum ve bilinç merkezlerinin bulunduğu organ; ensefal, dimağ

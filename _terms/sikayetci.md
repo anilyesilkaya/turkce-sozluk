@@ -2,6 +2,7 @@
 layout: term
 title: şikâyetçi
 slug: sikayetci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Sızlanan, sızıltısı olan, yakınan, şikâyet eden; müşteki, şekvacı

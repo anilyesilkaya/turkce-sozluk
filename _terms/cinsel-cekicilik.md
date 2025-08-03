@@ -2,6 +2,7 @@
 layout: term
 title: cinsel çekicilik
 slug: cinsel-cekicilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kadın veya erkekte cinsel yönden istek uyandıran özellik

@@ -2,6 +2,7 @@
 layout: term
 title: şenaat
 slug: senaat
+letter: Ş
 lisan: Arapça şenāʿat
 anlamlar:
 - ► kötülük

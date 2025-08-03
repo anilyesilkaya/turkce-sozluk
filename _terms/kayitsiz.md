@@ -2,6 +2,7 @@
 layout: term
 title: kayıtsız
 slug: kayitsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydı yapılmamış, deftere veya yazıya geçirilmemiş olan

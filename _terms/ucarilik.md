@@ -2,6 +2,7 @@
 layout: term
 title: uçarılık
 slug: ucarilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçarı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yağmacılık
 slug: yagmacilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağma etme işi

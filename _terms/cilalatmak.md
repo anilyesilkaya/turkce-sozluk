@@ -2,6 +2,7 @@
 layout: term
 title: cilalatmak
 slug: cilalatmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilalama işini yaptırmak

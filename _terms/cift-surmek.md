@@ -2,6 +2,7 @@
 layout: term
 title: çift sürmek
 slug: cift-surmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - saban, pulluk kullanarak toprağı ekilebilir duruma getirmek

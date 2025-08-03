@@ -2,6 +2,7 @@
 layout: term
 title: tropikal kuşak
 slug: tropikal-kusak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İki tropika arasında bulunan sıcak kuşak; tropikal bölge, tropika

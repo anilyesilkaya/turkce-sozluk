@@ -2,6 +2,7 @@
 layout: term
 title: kumandan
 slug: kumandan
+letter: K
 lisan: Fransızca commandant
 anlamlar:
 - ► komutan

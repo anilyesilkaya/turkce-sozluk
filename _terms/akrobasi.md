@@ -2,6 +2,7 @@
 layout: term
 title: akrobasi
 slug: akrobasi
+letter: A
 lisan: Fransızca acrobatie
 anlamlar:
 - ► cambazlık

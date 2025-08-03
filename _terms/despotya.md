@@ -2,6 +2,7 @@
 layout: term
 title: despotya
 slug: despotya
+letter: D
 lisan: Rumca
 anlamlar:
 - Eskiden Balkanlarda müstakil prenslik

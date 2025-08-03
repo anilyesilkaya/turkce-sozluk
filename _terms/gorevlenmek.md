@@ -2,6 +2,7 @@
 layout: term
 title: görevlenmek
 slug: gorevlenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görev almak

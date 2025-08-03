@@ -2,6 +2,7 @@
 layout: term
 title: canına düşkün
 slug: canina-duskun
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kendine iyi bakan, kendini koruyan (kimse)

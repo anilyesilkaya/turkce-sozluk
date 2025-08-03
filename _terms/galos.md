@@ -2,6 +2,7 @@
 layout: term
 title: galoş
 slug: galos
+letter: G
 lisan: Fransızca galoche
 anlamlar:
 - Sağlık kurumları, müzeler vb. yerlerde özel bölümlere girerken ayakkabıya geçirilen ince ve şeffaf kılıf

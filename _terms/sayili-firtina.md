@@ -2,6 +2,7 @@
 layout: term
 title: sayılı fırtına
 slug: sayili-firtina
+letter: S
 lisan: Türkçe
 anlamlar:
 - Toplumun görgü kurallarına uygun davranan, hak arayan, yiğit kimse

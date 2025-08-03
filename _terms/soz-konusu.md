@@ -2,6 +2,7 @@
 layout: term
 title: söz konusu
 slug: soz-konusu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözü edilen, üzerinde konuşulan; bahis konusu, bahis mevzusu, mevzubahis

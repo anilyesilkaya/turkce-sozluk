@@ -2,6 +2,7 @@
 layout: term
 title: kisve
 slug: kisve
+letter: K
 lisan: Arapça kisve
 anlamlar:
 - ► kılık kıyafet

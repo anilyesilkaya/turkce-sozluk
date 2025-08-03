@@ -2,6 +2,7 @@
 layout: term
 title: barakacık
 slug: barakacik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Küçük baraka

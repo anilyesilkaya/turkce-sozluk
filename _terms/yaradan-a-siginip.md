@@ -2,6 +2,7 @@
 layout: term
 title: Yaradan'a sığınıp
 slug: yaradan-a-siginip
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bütün gücünü kullanarak

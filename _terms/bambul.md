@@ -2,6 +2,7 @@
 layout: term
 title: bambul
 slug: bambul
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kurtçuk evresinde ekinlerin kökünü, ergin evrede başakları kemiren, kahverengi, kın kanatlı böcek (Anisoplia austriaca)

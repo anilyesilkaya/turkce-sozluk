@@ -2,6 +2,7 @@
 layout: term
 title: editör
 slug: editor
+letter: E
 lisan: Fransızca éditeur
 anlamlar:
 - ► yayımcı

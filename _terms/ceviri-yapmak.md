@@ -2,6 +2,7 @@
 layout: term
 title: çeviri yapmak
 slug: ceviri-yapmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir dilden başka bir dile aktarmak, çevirmek, tercüme etmek

@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet ispirtosu
 slug: tuvalet-ispirtosu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hekimlikte, temizlik amacıyla kullanılan binde 966'sı saf, geri kalanı su olan ispirto

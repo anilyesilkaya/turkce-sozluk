@@ -2,6 +2,7 @@
 layout: term
 title: alıcı çıkmak
 slug: alici-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - müşteri olmak

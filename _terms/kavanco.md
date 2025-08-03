@@ -2,6 +2,7 @@
 layout: term
 title: kavanço
 slug: kavanco
+letter: K
 lisan: İtalyanca cangia
 anlamlar:
 - Yelkeni bir bordadan öbür bordaya geçirme

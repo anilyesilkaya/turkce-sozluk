@@ -2,6 +2,7 @@
 layout: term
 title: kadidi çıkmak
 slug: kadidi-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak, bir deri bir kemik durumuna gelmek

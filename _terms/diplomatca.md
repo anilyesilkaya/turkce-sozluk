@@ -2,6 +2,7 @@
 layout: term
 title: diplomatça
 slug: diplomatca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diplomata yakışan

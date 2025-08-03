@@ -2,6 +2,7 @@
 layout: term
 title: uyuşturucu
 slug: uyusturucu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuşturma özelliği olan, uyuşturan (madde); narkotik

@@ -2,6 +2,7 @@
 layout: term
 title: burnundan getirmek
 slug: burnundan-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yaptığına pişman etmek

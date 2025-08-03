@@ -2,6 +2,7 @@
 layout: term
 title: ansiklopedik
 slug: ansiklopedik
+letter: A
 lisan: Fransızca encyclopédique
 anlamlar:
 - Ansiklopedi ile ilgili, ansiklopedi özelliği taşıyan

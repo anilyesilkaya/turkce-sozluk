@@ -2,6 +2,7 @@
 layout: term
 title: oradan buradan
 slug: oradan-buradan
+letter: O
 lisan: Türkçe
 anlamlar:
 - '"Belli bir sıra gözetmeksizin, karışık olarak" anlamında kullanılan bir söz'

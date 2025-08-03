@@ -2,6 +2,7 @@
 layout: term
 title: çukurluk
 slug: cukurluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çukur olma durumu

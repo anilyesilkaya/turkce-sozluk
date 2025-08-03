@@ -2,6 +2,7 @@
 layout: term
 title: doğramak
 slug: dogramak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Keserek parçalamak veya elle küçük parçalara ayırmak

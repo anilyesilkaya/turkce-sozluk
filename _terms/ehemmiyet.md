@@ -2,6 +2,7 @@
 layout: term
 title: ehemmiyet
 slug: ehemmiyet
+letter: E
 lisan: Arapça ehemmiyyet
 anlamlar:
 - ► önem

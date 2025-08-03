@@ -2,6 +2,7 @@
 layout: term
 title: sokak çocuğu
 slug: sokak-cocugu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Vaktini genellikle sokaklarda geçiren çocuk

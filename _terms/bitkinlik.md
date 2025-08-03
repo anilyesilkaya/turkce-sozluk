@@ -2,6 +2,7 @@
 layout: term
 title: bitkinlik
 slug: bitkinlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitkin olma durumu; bitaplık, zafiyet

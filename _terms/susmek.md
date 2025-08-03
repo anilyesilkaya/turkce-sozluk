@@ -2,6 +2,7 @@
 layout: term
 title: süsmek
 slug: susmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► boynuzlamak

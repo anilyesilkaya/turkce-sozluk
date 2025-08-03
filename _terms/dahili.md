@@ -2,6 +2,7 @@
 layout: term
 title: dâhilî
 slug: dahili
+letter: D
 lisan: Arapça dāḫilī
 anlamlar:
 - İçle ilgili

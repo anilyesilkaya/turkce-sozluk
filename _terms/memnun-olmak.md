@@ -2,6 +2,7 @@
 layout: term
 title: memnun olmak
 slug: memnun-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sevinmek, sevinç duymak, kıvanmak

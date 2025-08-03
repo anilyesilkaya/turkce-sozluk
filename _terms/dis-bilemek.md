@@ -2,6 +2,7 @@
 layout: term
 title: diş bilemek
 slug: dis-bilemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - kötülük yapmak için fırsat beklemek, hıncını gösterir bir durum almak

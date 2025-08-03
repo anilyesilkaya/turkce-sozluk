@@ -2,6 +2,7 @@
 layout: term
 title: çillenmek
 slug: cillenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bitki köklerinde kılı andıran uzantılar çıkmak

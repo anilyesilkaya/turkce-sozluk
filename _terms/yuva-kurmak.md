@@ -2,6 +2,7 @@
 layout: term
 title: yuva kurmak
 slug: yuva-kurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - evlenmek

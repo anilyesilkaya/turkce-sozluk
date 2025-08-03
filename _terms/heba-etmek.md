@@ -2,6 +2,7 @@
 layout: term
 title: heba etmek
 slug: heba-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - boşuna harcamak, ziyan etmek

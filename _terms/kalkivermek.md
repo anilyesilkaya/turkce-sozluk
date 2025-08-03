@@ -2,6 +2,7 @@
 layout: term
 title: kalkıvermek
 slug: kalkivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kalkmak

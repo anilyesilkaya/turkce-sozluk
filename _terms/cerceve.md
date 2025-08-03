@@ -2,6 +2,7 @@
 layout: term
 title: çerçeve
 slug: cerceve
+letter: Ç
 lisan: Farsça çār + çūbe
 anlamlar:
 - Resim, yazı, ayna vb.ni süslemek veya bir yere asılabilecek duruma getirmek için bunlara geçirilen kenarlık

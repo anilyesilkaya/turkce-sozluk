@@ -2,6 +2,7 @@
 layout: term
 title: şükrünü bilmek
 slug: sukrunu-bilmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Allah’ın verdiği nimetlere şükredici olmak, minnet duymak

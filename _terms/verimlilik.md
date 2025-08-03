@@ -2,6 +2,7 @@
 layout: term
 title: verimlilik
 slug: verimlilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verimli olma durumu; biteklik, gürlük, verimkârlık, mümbitlik

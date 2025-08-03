@@ -2,6 +2,7 @@
 layout: term
 title: Avrupailik
 slug: avrupailik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avrupai olma durumu

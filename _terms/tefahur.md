@@ -2,6 +2,7 @@
 layout: term
 title: tefahür
 slug: tefahur
+letter: T
 lisan: Arapça tefāḫur
 anlamlar:
 - ► övünme

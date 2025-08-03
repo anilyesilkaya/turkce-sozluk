@@ -2,6 +2,7 @@
 layout: term
 title: sözü ağzından almak
 slug: sozu-agzindan-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - lafı ağzından almak

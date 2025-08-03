@@ -2,6 +2,7 @@
 layout: term
 title: dandini
 slug: dandini
+letter: D
 lisan: Türkçe
 anlamlar:
 - (da'ndini) Düzensiz, karışık, darmadağınık olan

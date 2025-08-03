@@ -2,6 +2,7 @@
 layout: term
 title: tümbek
 slug: tumbek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tümsek

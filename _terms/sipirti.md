@@ -2,6 +2,7 @@
 layout: term
 title: şıpırtı
 slug: sipirti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıpırdama sırasında çıkan sesin adı

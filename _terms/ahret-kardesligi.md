@@ -2,6 +2,7 @@
 layout: term
 title: ahret kardeşliği
 slug: ahret-kardesligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahret kardeşi olma durumu

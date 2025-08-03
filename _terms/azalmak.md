@@ -2,6 +2,7 @@
 layout: term
 title: azalmak
 slug: azalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Az denecek bir miktara inmek; daralmak

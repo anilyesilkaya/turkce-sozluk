@@ -2,6 +2,7 @@
 layout: term
 title: işçimen
 slug: iscimen
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşini çok seven, işini severek yapan kimse

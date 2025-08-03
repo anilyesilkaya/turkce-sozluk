@@ -2,6 +2,7 @@
 layout: term
 title: pöstekisini çıkarmak
 slug: postekisini-cikarmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - öldürmek, yok etmek

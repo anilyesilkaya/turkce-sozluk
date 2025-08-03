@@ -2,6 +2,7 @@
 layout: term
 title: ıslatma
 slug: islatma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Islatmak işi; ıslama

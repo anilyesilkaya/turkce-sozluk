@@ -2,6 +2,7 @@
 layout: term
 title: mozaik
 slug: mozaik
+letter: M
 lisan: Fransızca mosaïque
 anlamlar:
 - Türlü renklerde, küçük küp biçiminde mermer, taş veya pişmiş toprak parçalarının yan yana getirilmesiyle yapılan resim ve bezeme işi

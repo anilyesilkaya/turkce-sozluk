@@ -2,6 +2,7 @@
 layout: term
 title: çöreklenme
 slug: coreklenme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöreklenmek işi

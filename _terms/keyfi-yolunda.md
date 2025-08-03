@@ -2,6 +2,7 @@
 layout: term
 title: keyfi yolunda
 slug: keyfi-yolunda
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► keyfi yerinde

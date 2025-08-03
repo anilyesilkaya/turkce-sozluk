@@ -2,6 +2,7 @@
 layout: term
 title: nara atmak (veya basmak)
 slug: nara-atmak-veya-basmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - yüksek sesle uzun uzun haykırmak

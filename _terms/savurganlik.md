@@ -2,6 +2,7 @@
 layout: term
 title: savurganlık
 slug: savurganlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tutumsuzluk

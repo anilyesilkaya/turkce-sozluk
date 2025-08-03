@@ -2,6 +2,7 @@
 layout: term
 title: fanyol
 slug: fanyol
+letter: F
 lisan: İtalyanca eufonio
 anlamlar:
 - Bariton veya tenor ses veren, bakırdan yapılmış çalgı

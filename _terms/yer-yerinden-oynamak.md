@@ -2,6 +2,7 @@
 layout: term
 title: yer yerinden oynamak
 slug: yer-yerinden-oynamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir iş çok gürültülü, telaş ve heyecan içinde yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: maskeli
 slug: maskeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maskesi olan, maskelenmiş

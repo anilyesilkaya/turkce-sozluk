@@ -2,6 +2,7 @@
 layout: term
 title: merzengûş
 slug: merzengus
+letter: M
 lisan: Farsça merzengūş
 anlamlar:
 - ► mercanköşk

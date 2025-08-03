@@ -2,6 +2,7 @@
 layout: term
 title: fersizlik
 slug: fersizlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fersiz olma durumu

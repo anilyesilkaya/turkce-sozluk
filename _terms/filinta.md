@@ -2,6 +2,7 @@
 layout: term
 title: filinta
 slug: filinta
+letter: F
 lisan: Almanca Flinte
 anlamlar:
 - Namlusu kısa, kurşun atan bir tür küçük tüfek

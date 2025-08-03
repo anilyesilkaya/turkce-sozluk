@@ -2,6 +2,7 @@
 layout: term
 title: bereket
 slug: bereket
+letter: B
 lisan: Arapça bereket
 anlamlar:
 - Alışılandan veya beklenilenden fazla olma durumu; artağanlık, bolluk, feyiz, feyezan

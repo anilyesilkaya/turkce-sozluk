@@ -2,6 +2,7 @@
 layout: term
 title: pala sürtmek
 slug: pala-surtmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - çabalamak, uğraşmak

@@ -2,6 +2,7 @@
 layout: term
 title: soğuşmak
 slug: sogusmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Toprak suyu içine çekip kabarmak, şişmek

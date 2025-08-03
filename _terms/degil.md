@@ -2,6 +2,7 @@
 layout: term
 title: değil
 slug: degil
+letter: D
 lisan: Türkçe
 anlamlar:
 - İsim cümlelerini olumsuz yapmak için kullanılan bir söz

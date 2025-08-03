@@ -2,6 +2,7 @@
 layout: term
 title: acem
 slug: acem
+letter: A
 lisan: Arapça ʿacem
 anlamlar:
 - Klasik Türk müziğinde kullanılan birleşik bir makam

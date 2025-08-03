@@ -2,6 +2,7 @@
 layout: term
 title: yuvalamak
 slug: yuvalamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuva yapmak

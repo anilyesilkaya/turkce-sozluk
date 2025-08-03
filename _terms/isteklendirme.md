@@ -2,6 +2,7 @@
 layout: term
 title: isteklendirme
 slug: isteklendirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İsteklendirmek işi; heveslendirme, teşvik, motivasyon

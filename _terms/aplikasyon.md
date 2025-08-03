@@ -2,6 +2,7 @@
 layout: term
 title: aplikasyon
 slug: aplikasyon
+letter: A
 lisan: Fransızca application
 anlamlar:
 - ► uygulama

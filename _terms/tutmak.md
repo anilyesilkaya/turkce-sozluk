@@ -2,6 +2,7 @@
 layout: term
 title: tutmak
 slug: tutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Elde bulundurmak, ele almak

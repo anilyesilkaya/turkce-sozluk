@@ -2,6 +2,7 @@
 layout: term
 title: yassı solungaçlılar
 slug: yassi-solungaclilar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Midye, deniztarağı gibi kavkıları iki çenekli ve çoğu yenilen yumuşakçalar sınıfı

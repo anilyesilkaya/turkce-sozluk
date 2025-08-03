@@ -2,6 +2,7 @@
 layout: term
 title: yankılatabilmek
 slug: yankilatabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yankılatma ihtimali veya imkânı bulunmak; aksettirebilmek

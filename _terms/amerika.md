@@ -2,6 +2,7 @@
 layout: term
 title: Amerika
 slug: amerika
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dünya üzerinde yer alan kıtalardan biri

@@ -2,6 +2,7 @@
 layout: term
 title: süreğen
 slug: suregen
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ne kadar süreceği belli olmaksızın sürüp giden; müzmin, kronik

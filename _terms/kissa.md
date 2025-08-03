@@ -2,6 +2,7 @@
 layout: term
 title: kıssa
 slug: kissa
+letter: K
 lisan: Arapça ḳiṣṣa
 anlamlar:
 - Ders çıkarılması gereken anlatı, olay

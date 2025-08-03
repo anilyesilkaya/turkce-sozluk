@@ -2,6 +2,7 @@
 layout: term
 title: riayetsizlik
 slug: riayetsizlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Saygısız, kaba olma durumu

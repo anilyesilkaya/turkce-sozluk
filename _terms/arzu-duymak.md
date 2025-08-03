@@ -2,6 +2,7 @@
 layout: term
 title: arzu duymak
 slug: arzu-duymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birine veya bir şeye karşı istek duymak

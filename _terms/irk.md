@@ -2,6 +2,7 @@
 layout: term
 title: ırk
 slug: irk
+letter: I
 lisan: Arapça ʿirḳ
 anlamlar:
 - Kalıtımsal olarak ortak fiziksel ve fizyolojik özelliklere sahip insanlar topluluğu; budun

@@ -2,6 +2,7 @@
 layout: term
 title: bedelli
 slug: bedelli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedeli olan, bedeli ödenen

@@ -2,6 +2,7 @@
 layout: term
 title: kıvrım kıvrım
 slug: kivrim-kivrim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvrımları olan, dalgalanmış bir yüzey veya dalgalı bir çizgi biçiminde olan; büklüm büklüm, kıvrım kıvrım

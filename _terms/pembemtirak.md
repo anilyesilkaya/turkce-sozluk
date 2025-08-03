@@ -2,6 +2,7 @@
 layout: term
 title: pembemtırak
 slug: pembemtirak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pembemsi

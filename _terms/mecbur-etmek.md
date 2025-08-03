@@ -2,6 +2,7 @@
 layout: term
 title: mecbur etmek
 slug: mecbur-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - zorlamak

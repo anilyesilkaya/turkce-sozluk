@@ -2,6 +2,7 @@
 layout: term
 title: haykırma
 slug: haykirma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haykırmak işi; haykırı, haykırış

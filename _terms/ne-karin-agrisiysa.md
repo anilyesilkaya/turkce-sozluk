@@ -2,6 +2,7 @@
 layout: term
 title: ne karın ağrısıysa
 slug: ne-karin-agrisiysa
+letter: N
 lisan: Türkçe
 anlamlar:
 - sevilmeyen, huzursuzluk, rahatsızlık veren iş, olay, düşünce veya kimse için kullanılan bir söz

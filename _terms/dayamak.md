@@ -2,6 +2,7 @@
 layout: term
 title: dayamak
 slug: dayamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yaslamak

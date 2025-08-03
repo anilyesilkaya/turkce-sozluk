@@ -2,6 +2,7 @@
 layout: term
 title: malumatfuruş
 slug: malumatfurus
+letter: M
 lisan: Arapça maʿlūmāt + Farsça -furūş
 anlamlar:
 - Bilgiçlik taslayan

@@ -2,6 +2,7 @@
 layout: term
 title: alıp vermek
 slug: alip-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kalp çarpıntısı geçirmek

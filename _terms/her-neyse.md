@@ -2,6 +2,7 @@
 layout: term
 title: her neyse
 slug: her-neyse
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ne olursa olsun, ne kadar ise, tutarı ne ise

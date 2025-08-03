@@ -2,6 +2,7 @@
 layout: term
 title: doğduğuna pişman olmak
 slug: dogduguna-pisman-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - anasından doğduğuna pişman olmak

@@ -2,6 +2,7 @@
 layout: term
 title: boyut katmak
 slug: boyut-katmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başka veya yeni bir görüş açısı, genişlik, kapsam ve içerik kazandırmak

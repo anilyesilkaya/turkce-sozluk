@@ -2,6 +2,7 @@
 layout: term
 title: tüy dikmek
 slug: tuy-dikmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kötü bir durum almış bir işi büsbütün kötü bir duruma sokmak

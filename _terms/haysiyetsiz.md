@@ -2,6 +2,7 @@
 layout: term
 title: haysiyetsiz
 slug: haysiyetsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Değeri, saygınlığı olmayan

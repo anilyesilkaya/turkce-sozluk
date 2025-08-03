@@ -2,6 +2,7 @@
 layout: term
 title: neden sonra
 slug: neden-sonra
+letter: N
 lisan: Türkçe
 anlamlar:
 - Aradan bir hayli zaman geçince

@@ -2,6 +2,7 @@
 layout: term
 title: nam kazanmak
 slug: nam-kazanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ün sahibi olarak tanınmak

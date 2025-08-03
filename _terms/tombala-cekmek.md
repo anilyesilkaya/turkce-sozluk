@@ -2,6 +2,7 @@
 layout: term
 title: tombala çekmek
 slug: tombala-cekmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tombala oynamak

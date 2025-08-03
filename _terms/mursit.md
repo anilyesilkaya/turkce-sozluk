@@ -2,6 +2,7 @@
 layout: term
 title: mürşit
 slug: mursit
+letter: M
 lisan: Arapça murşid
 anlamlar:
 - Müritlerine tasavvufu öğreten, sırları ve gerçekleri gösteren tarikat şeyhi

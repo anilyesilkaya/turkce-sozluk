@@ -2,6 +2,7 @@
 layout: term
 title: niyaz
 slug: niyaz
+letter: N
 lisan: Farsça niyāz
 anlamlar:
 - Yalvarma, yakarma

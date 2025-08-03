@@ -2,6 +2,7 @@
 layout: term
 title: makule
 slug: makule
+letter: M
 lisan: Arapça maḳūle
 anlamlar:
 - ► çeşit

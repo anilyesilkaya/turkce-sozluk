@@ -2,6 +2,7 @@
 layout: term
 title: duyar
 slug: duyar
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► duygulu

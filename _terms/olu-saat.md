@@ -2,6 +2,7 @@
 layout: term
 title: ölü saat
 slug: olu-saat
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Herhangi bir faaliyet veya iş yapılamayan zaman; ölü zaman

@@ -2,6 +2,7 @@
 layout: term
 title: içi kararmak
 slug: ici-kararmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkılmak, bunalmak

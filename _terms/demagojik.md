@@ -2,6 +2,7 @@
 layout: term
 title: demagojik
 slug: demagojik
+letter: D
 lisan: Fransızca démagogique
 anlamlar:
 - Laf cambazlığı ile ilgili

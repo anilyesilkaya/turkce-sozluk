@@ -2,6 +2,7 @@
 layout: term
 title: öldürülüş
 slug: oldurulus
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürülmek işi

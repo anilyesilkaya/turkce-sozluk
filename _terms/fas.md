@@ -2,6 +2,7 @@
 layout: term
 title: faş
 slug: fas
+letter: F
 lisan: Farsça fāş
 anlamlar:
 - '"Gizli olanı açığa vurmak, duyurmak, ortaya dökmek, dile vermek" anlamlarındaki faş etmek, "belli olmak, açıklanmak, ortaya çıkmak" anlamlarındaki faş olmak birleşik fiillerinde geçen bir söz'

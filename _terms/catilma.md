@@ -2,6 +2,7 @@
 layout: term
 title: çatılma
 slug: catilma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: tabanvayla gitmek
 slug: tabanvayla-gitmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yürüyerek gitmek

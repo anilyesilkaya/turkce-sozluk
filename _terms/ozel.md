@@ -2,6 +2,7 @@
 layout: term
 title: özel
 slug: ozel
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yalnız bir kişiye, bir şeye ait veya ilişkin olan; hususi, mahsus (I), spesiyal

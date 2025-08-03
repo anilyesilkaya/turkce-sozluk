@@ -2,6 +2,7 @@
 layout: term
 title: ters yüzüne çevirmek
 slug: ters-yuzune-cevirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - geri döndürmek

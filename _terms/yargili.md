@@ -2,6 +2,7 @@
 layout: term
 title: yargılı
 slug: yargili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde yargısı olan

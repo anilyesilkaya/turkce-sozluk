@@ -2,6 +2,7 @@
 layout: term
 title: ziyanı yok
 slug: ziyani-yok
+letter: Z
 lisan: Türkçe
 anlamlar:
 - özür dileyenlere karşılık olarak bağışlandığını, olayın pek önemli olmadığını bildirmek için söylenen bir söz

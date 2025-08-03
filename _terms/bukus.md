@@ -2,6 +2,7 @@
 layout: term
 title: büküş
 slug: bukus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükmek işi

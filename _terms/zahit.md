@@ -2,6 +2,7 @@
 layout: term
 title: zahit
 slug: zahit
+letter: Z
 lisan: Arapça zāhid
 anlamlar:
 - Dinin yasak ettiği şeylerden sakınıp buyurduklarını yerine getiren, dünya işlerine önem vermeyen (kimse)

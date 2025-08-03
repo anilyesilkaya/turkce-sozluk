@@ -2,6 +2,7 @@
 layout: term
 title: maslak
 slug: maslak
+letter: M
 lisan: Arapça maṣlāḳ
 anlamlar:
 - Sürekli su akan boru

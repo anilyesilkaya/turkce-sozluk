@@ -2,6 +2,7 @@
 layout: term
 title: sıvamak
 slug: sivamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kolu, paçayı yukarı çekip toplamak veya kıvırmak

@@ -2,6 +2,7 @@
 layout: term
 title: söz konusu olmak
 slug: soz-konusu-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - üzerinde konuşulmak, bahis konusu olmak, bahis mevzusu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: mülayim
 slug: mulayim
+letter: M
 lisan: Arapça mulāyim
 anlamlar:
 - Yumuşak huylu

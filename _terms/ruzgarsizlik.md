@@ -2,6 +2,7 @@
 layout: term
 title: rüzgârsızlık
 slug: ruzgarsizlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rüzgârsız olma durumu

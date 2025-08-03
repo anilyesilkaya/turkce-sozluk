@@ -2,6 +2,7 @@
 layout: term
 title: şu hâlde
 slug: su-halde
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bu durum karşısında, sonuç olarak denilebilir ki

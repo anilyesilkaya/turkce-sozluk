@@ -2,6 +2,7 @@
 layout: term
 title: bark
 slug: bark
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ev

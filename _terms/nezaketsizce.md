@@ -2,6 +2,7 @@
 layout: term
 title: nezaketsizce
 slug: nezaketsizce
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nezaketsiz bir biçimde

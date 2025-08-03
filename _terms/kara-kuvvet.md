@@ -2,6 +2,7 @@
 layout: term
 title: kara kuvvet
 slug: kara-kuvvet
+letter: K
 lisan: Türkçe
 anlamlar:
 - Din bağnazlığının oluşturduğu gerici ve tehlikeli güç

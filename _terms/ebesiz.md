@@ -2,6 +2,7 @@
 layout: term
 title: ebesiz
 slug: ebesiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebesi olmayan

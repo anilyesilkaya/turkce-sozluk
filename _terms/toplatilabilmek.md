@@ -2,6 +2,7 @@
 layout: term
 title: toplatılabilmek
 slug: toplatilabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplatılma ihtimali veya imkânı bulunmak

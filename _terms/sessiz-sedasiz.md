@@ -2,6 +2,7 @@
 layout: term
 title: sessiz sedasız
 slug: sessiz-sedasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakin, kendi hâlinde (kimse)

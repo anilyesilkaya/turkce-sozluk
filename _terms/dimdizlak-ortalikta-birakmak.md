@@ -2,6 +2,7 @@
 layout: term
 title: dımdızlak ortalıkta bırakmak
 slug: dimdizlak-ortalikta-birakmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - her türlü varlıktan, olanaktan mahrum kılmak, yokluğa mecbur etmek

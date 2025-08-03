@@ -2,6 +2,7 @@
 layout: term
 title: biz bize benzeriz
 slug: biz-bize-benzeriz
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"aramızda fark yok, özelliklerimiz veya tutum ve davranışlarımız aynıdır" anlamında kullanılan bir söz'

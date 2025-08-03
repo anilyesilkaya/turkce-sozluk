@@ -2,6 +2,7 @@
 layout: term
 title: cehennemlik
 slug: cehennemlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Öldükten sonra yerinin cehennem olacağı sanılan, cehenneme layık (kimse)

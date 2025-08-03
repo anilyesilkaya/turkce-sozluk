@@ -2,6 +2,7 @@
 layout: term
 title: ötmek
 slug: otmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kuş veya bazı böcekler, değişik tonda ses çıkarmak

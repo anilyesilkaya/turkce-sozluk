@@ -2,6 +2,7 @@
 layout: term
 title: Hüda
 slug: huda
+letter: H
 lisan: Farsça ḫudā
 anlamlar:
 - ► Allah

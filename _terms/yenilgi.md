@@ -2,6 +2,7 @@
 layout: term
 title: yenilgi
 slug: yenilgi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yarışmada kaybetme, yenilme; mağlubiyet

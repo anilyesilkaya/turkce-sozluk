@@ -2,6 +2,7 @@
 layout: term
 title: şavklanmak
 slug: savklanmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Aydınlanmak, ışımak

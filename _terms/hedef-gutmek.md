@@ -2,6 +2,7 @@
 layout: term
 title: hedef gütmek
 slug: hedef-gutmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - asıl amaç olarak belirlemek

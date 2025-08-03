@@ -2,6 +2,7 @@
 layout: term
 title: uluslaştırmak
 slug: uluslastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milletleştirmek

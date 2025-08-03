@@ -2,6 +2,7 @@
 layout: term
 title: tezelden
 slug: tezelden
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► çabucak

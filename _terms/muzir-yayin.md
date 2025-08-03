@@ -2,6 +2,7 @@
 layout: term
 title: muzır yayın
 slug: muzir-yayin
+letter: M
 lisan: Türkçe
 anlamlar:
 - Pedagojik açıdan belli bir yaş altındaki çocuklara zararlı olan kitap, gazete, dergi vb. yayın; muzır neşriyat

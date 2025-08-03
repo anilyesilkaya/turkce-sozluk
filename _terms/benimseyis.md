@@ -2,6 +2,7 @@
 layout: term
 title: benimseyiş
 slug: benimseyis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benimsemek işi

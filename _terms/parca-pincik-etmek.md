@@ -2,6 +2,7 @@
 layout: term
 title: parça pinçik etmek
 slug: parca-pincik-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - küçük parçalara ayırmak

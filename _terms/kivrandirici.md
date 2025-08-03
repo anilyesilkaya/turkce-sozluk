@@ -2,6 +2,7 @@
 layout: term
 title: 'kıvrandırıcı '
 slug: kivrandirici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvranmasına sebep olan

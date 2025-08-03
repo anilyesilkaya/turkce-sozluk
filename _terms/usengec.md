@@ -2,6 +2,7 @@
 layout: term
 title: üşengeç
 slug: usengec
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok üşenen; üşengen

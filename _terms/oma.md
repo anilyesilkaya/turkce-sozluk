@@ -2,6 +2,7 @@
 layout: term
 title: oma
 slug: oma
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► kalça kemiği

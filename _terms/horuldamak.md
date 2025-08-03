@@ -2,6 +2,7 @@
 layout: term
 title: horuldamak
 slug: horuldamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horlama sesine benzer gürültü çıkarmak

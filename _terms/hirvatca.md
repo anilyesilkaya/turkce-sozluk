@@ -2,6 +2,7 @@
 layout: term
 title: Hırvatça
 slug: hirvatca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırvatların kullandığı dil

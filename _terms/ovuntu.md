@@ -2,6 +2,7 @@
 layout: term
 title: övüntü
 slug: ovuntu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Övünülecek tutum veya davranış

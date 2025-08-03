@@ -2,6 +2,7 @@
 layout: term
 title: bakırcılık
 slug: bakircilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakırcının yaptığı iş

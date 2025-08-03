@@ -2,6 +2,7 @@
 layout: term
 title: istiskal
 slug: istiskal
+letter: I
 lisan: Arapça istis̱ḳāl
 anlamlar:
 - Soğuk davranışlarla hoşlanmadığını belli etme

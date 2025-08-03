@@ -2,6 +2,7 @@
 layout: term
 title: kalınlık
 slug: kalinlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalın olma durumu

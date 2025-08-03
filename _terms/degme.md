@@ -2,6 +2,7 @@
 layout: term
 title: değme
 slug: degme
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► herhangi bir

@@ -2,6 +2,7 @@
 layout: term
 title: bucak bucak kaçmak
 slug: bucak-bucak-kacmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir olay, bir durum veya bir kimseyle karşılaşmamaya çalışmak

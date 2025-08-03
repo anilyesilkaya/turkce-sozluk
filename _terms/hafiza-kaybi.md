@@ -2,6 +2,7 @@
 layout: term
 title: hafıza kaybı
 slug: hafiza-kaybi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bellek yitimi

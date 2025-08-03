@@ -2,6 +2,7 @@
 layout: term
 title: eliyle
 slug: eliyle
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► aracılığıyla

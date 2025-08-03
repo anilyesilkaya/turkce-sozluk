@@ -2,6 +2,7 @@
 layout: term
 title: ense
 slug: ense
+letter: E
 lisan: Türkçe
 anlamlar:
 - Boynun arkası

@@ -2,6 +2,7 @@
 layout: term
 title: pamukçu
 slug: pamukcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pamuk yetiştiren kimse

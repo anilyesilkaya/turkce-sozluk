@@ -2,6 +2,7 @@
 layout: term
 title: kırışmak
 slug: kirismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yüzeyin düzgünlüğü bozulmak, kırışık oluşmak

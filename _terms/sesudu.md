@@ -2,6 +2,7 @@
 layout: term
 title: şeşüdü
 slug: sesudu
+letter: Ş
 lisan: Farsça şeş + dū
 anlamlar:
 - Zarla oynanan oyunlarda, atılan zarlardan birinin altı, öbürünün iki benekli olan yüzünün üste gelmesi

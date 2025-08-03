@@ -2,6 +2,7 @@
 layout: term
 title: şekerimsi
 slug: sekerimsi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şekersi

@@ -2,6 +2,7 @@
 layout: term
 title: sınıfsız
 slug: sinifsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınıfı olmayan

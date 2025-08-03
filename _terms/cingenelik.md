@@ -2,6 +2,7 @@
 layout: term
 title: Çingenelik
 slug: cingenelik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çingene olma durumu

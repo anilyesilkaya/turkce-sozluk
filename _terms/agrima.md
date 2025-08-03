@@ -2,6 +2,7 @@
 layout: term
 title: ağrıma
 slug: agrima
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrımak işi

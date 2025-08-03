@@ -2,6 +2,7 @@
 layout: term
 title: ruh bilimsel
 slug: ruh-bilimsel
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► psikolojik

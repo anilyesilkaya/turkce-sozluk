@@ -2,6 +2,7 @@
 layout: term
 title: taşma
 slug: tasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşmak işi

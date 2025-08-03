@@ -2,6 +2,7 @@
 layout: term
 title: pantolon
 slug: pantolon
+letter: P
 lisan: Fransızca pantalon
 anlamlar:
 - Belden başlayan ve genellikle paçaları ayak bileklerine kadar inen giyecek

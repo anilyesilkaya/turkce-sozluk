@@ -2,6 +2,7 @@
 layout: term
 title: külahlı
 slug: kulahli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Külah giymiş olan

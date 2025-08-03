@@ -2,6 +2,7 @@
 layout: term
 title: kapalı
 slug: kapali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapanmış olan, açılmamış, açık karşıtı

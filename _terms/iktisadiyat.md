@@ -2,6 +2,7 @@
 layout: term
 title: iktisadiyat
 slug: iktisadiyat
+letter: I
 lisan: Arapça iḳtiṣādiyyāt
 anlamlar:
 - Bir devletin ekonomik durumu

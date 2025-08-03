@@ -2,6 +2,7 @@
 layout: term
 title: yardımlaşmak
 slug: yardimlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Karşılıklı yardımda bulunmak

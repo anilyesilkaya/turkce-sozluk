@@ -2,6 +2,7 @@
 layout: term
 title: dalgalı
 slug: dalgali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgası olan

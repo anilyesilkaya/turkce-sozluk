@@ -2,6 +2,7 @@
 layout: term
 title: ayartı
 slug: ayarti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayartmak işi

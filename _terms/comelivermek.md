@@ -2,6 +2,7 @@
 layout: term
 title: çömelivermek
 slug: comelivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın çömelmek

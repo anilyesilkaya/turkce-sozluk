@@ -2,6 +2,7 @@
 layout: term
 title: mihman olmak
 slug: mihman-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - konuk olarak bulunmak

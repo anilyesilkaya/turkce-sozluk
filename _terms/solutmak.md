@@ -2,6 +2,7 @@
 layout: term
 title: solutmak
 slug: solutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solumasına sebep olmak

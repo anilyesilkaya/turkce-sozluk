@@ -2,6 +2,7 @@
 layout: term
 title: açık yara
 slug: acik-yara
+letter: A
 lisan: Türkçe
 anlamlar:
 - Vücut dokusunda dış veya iç yırtılmayı içeren, deri veya mukozaların bütünlüğü bozulmuş yara

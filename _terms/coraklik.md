@@ -2,6 +2,7 @@
 layout: term
 title: çoraklık
 slug: coraklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Toprağın verimli olmama durumu

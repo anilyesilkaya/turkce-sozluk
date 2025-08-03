@@ -2,6 +2,7 @@
 layout: term
 title: keşişleme
 slug: kesisleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güneydoğudan esen yel; akça yel

@@ -2,6 +2,7 @@
 layout: term
 title: peripatetist
 slug: peripatetist
+letter: P
 lisan: Fransızca péripatétiste
 anlamlar:
 - ► Aristotelesçi

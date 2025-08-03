@@ -2,6 +2,7 @@
 layout: term
 title: merdiven
 slug: merdiven
+letter: M
 lisan: Farsça nerdubān
 anlamlar:
 - Bir yere çıkmaya veya bir yerden inmeye yarayan basamaklar dizisi; badal, basak

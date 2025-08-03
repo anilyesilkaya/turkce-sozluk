@@ -2,6 +2,7 @@
 layout: term
 title: titreşimli
 slug: titresimli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titreşim yapan veya titreşim oluşturan; vibrasyonlu

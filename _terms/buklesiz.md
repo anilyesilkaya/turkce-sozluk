@@ -2,6 +2,7 @@
 layout: term
 title: buklesiz
 slug: buklesiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kıvrımları olmayan (saç)

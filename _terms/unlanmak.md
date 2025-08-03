@@ -2,6 +2,7 @@
 layout: term
 title: unlanmak
 slug: unlanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Una bulanmak

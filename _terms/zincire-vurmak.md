@@ -2,6 +2,7 @@
 layout: term
 title: zincire vurmak
 slug: zincire-vurmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - prangaya vurmak

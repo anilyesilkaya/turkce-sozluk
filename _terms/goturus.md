@@ -2,6 +2,7 @@
 layout: term
 title: götürüş
 slug: goturus
+letter: G
 lisan: Türkçe
 anlamlar:
 - Götürmek işi

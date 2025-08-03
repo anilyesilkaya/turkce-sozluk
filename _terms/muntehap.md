@@ -2,6 +2,7 @@
 layout: term
 title: müntehap
 slug: muntehap
+letter: M
 lisan: Arapça muntaḫab
 anlamlar:
 - ► seçilmiş

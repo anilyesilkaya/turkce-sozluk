@@ -2,6 +2,7 @@
 layout: term
 title: kakavanca
 slug: kakavanca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kakavana yakışır (davranış)

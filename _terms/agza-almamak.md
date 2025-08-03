@@ -2,6 +2,7 @@
 layout: term
 title: ağza almamak
 slug: agza-almamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - anmamak, sözünü etmemek

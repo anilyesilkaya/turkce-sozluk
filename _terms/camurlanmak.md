@@ -2,6 +2,7 @@
 layout: term
 title: çamurlanmak
 slug: camurlanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerine çamur sıçramak, bulaşmak

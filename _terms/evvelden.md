@@ -2,6 +2,7 @@
 layout: term
 title: evvelden
 slug: evvelden
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► önceden

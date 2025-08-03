@@ -2,6 +2,7 @@
 layout: term
 title: dip dibe
 slug: dip-dibe
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yan yana sıkışmış olarak

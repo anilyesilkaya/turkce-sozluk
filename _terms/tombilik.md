@@ -2,6 +2,7 @@
 layout: term
 title: tombilik
 slug: tombilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük ton balığı

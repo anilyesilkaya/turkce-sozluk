@@ -2,6 +2,7 @@
 layout: term
 title: mizahsız
 slug: mizahsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mizah içermeyen

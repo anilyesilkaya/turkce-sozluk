@@ -2,6 +2,7 @@
 layout: term
 title: intelijans
 slug: intelijans
+letter: I
 lisan: Fransızca intelligence
 anlamlar:
 - Aydın, seçkin kimse

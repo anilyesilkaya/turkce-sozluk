@@ -2,6 +2,7 @@
 layout: term
 title: pompalayabilmek
 slug: pompalayabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pompalama ihtimali veya imkânı bulunmak

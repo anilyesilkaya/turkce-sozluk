@@ -2,6 +2,7 @@
 layout: term
 title: alabora olmak
 slug: alabora-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gemi, tekne, sandal vb. deniz araçları devrilip ters dönmek

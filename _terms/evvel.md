@@ -2,6 +2,7 @@
 layout: term
 title: evvel
 slug: evvel
+letter: E
 lisan: Arapça evvel
 anlamlar:
 - ► önce

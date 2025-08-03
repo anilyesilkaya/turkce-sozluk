@@ -2,6 +2,7 @@
 layout: term
 title: duluk
 slug: duluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yüz (II)

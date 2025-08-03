@@ -2,6 +2,7 @@
 layout: term
 title: fağfuri
 slug: fagfuri
+letter: F
 lisan: Farsça faġfūr + Arapça -ī
 anlamlar:
 - Çin’de yapılmış olan (kâse, tabak, vazo vb. porselen eşya)

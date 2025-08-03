@@ -2,6 +2,7 @@
 layout: term
 title: nizamiye
 slug: nizamiye
+letter: N
 lisan: Arapça niẓāmiyye
 anlamlar:
 - ► askerlik dairesi

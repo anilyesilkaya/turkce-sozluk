@@ -2,6 +2,7 @@
 layout: term
 title: kapanın elinde kalmak
 slug: kapanin-elinde-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok istenir ve aranır olmak

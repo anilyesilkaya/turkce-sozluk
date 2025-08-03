@@ -2,6 +2,7 @@
 layout: term
 title: aforozlanmak
 slug: aforozlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aforozlama işi yapılmak

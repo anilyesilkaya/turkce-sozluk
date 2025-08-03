@@ -2,6 +2,7 @@
 layout: term
 title: duraksamak
 slug: duraksamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ne yapmak veya ne demek gerektiğini kestiremeyerek duraklamak; tereddüt etmek

@@ -2,6 +2,7 @@
 layout: term
 title: beribenzer
 slug: beribenzer
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sıradan

@@ -2,6 +2,7 @@
 layout: term
 title: süzmek
 slug: suzmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir sıvıyı, içindeki katı maddelerden ayırmak için bez veya delikli bir kaptan geçirmek

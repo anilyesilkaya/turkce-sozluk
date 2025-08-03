@@ -2,6 +2,7 @@
 layout: term
 title: bağdaştırma
 slug: bagdastirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaştırmak işi

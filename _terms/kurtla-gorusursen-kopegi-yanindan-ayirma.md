@@ -2,6 +2,7 @@
 layout: term
 title: kurtla görüşürsen köpeği yanından ayırma
 slug: kurtla-gorusursen-kopegi-yanindan-ayirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"saldırgan biriyle karşılaşacak olan kişi, kendisini koruyacak önlemler almalıdır" anlamında kullanılan bir söz'

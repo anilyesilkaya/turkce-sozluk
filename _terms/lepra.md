@@ -2,6 +2,7 @@
 layout: term
 title: lepra
 slug: lepra
+letter: L
 lisan: Yunanca
 anlamlar:
 - ► cüzzam

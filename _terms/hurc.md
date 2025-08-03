@@ -2,6 +2,7 @@
 layout: term
 title: hurç
 slug: hurc
+letter: H
 lisan: Arapça ḫurc
 anlamlar:
 - Genellikle yelken bezinden veya meşinden yapılmış büyük heybe

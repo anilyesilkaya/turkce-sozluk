@@ -2,6 +2,7 @@
 layout: term
 title: taşralı kalmak
 slug: tasrali-kalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir kimse taşrada edindiği görgü, örf ve âdetleri büyükşehre gelince bırakmamak

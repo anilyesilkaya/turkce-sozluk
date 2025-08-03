@@ -2,6 +2,7 @@
 layout: term
 title: topaklaşma
 slug: topaklasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topaklaşmak durumu

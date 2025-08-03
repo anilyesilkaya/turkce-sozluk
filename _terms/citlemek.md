@@ -2,6 +2,7 @@
 layout: term
 title: çitlemek
 slug: citlemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kabak çekirdeği, ayçiçeği, fıstık vb.nin kabuklarını çıkararak yemek

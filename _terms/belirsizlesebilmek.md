@@ -2,6 +2,7 @@
 layout: term
 title: belirsizleşebilmek
 slug: belirsizlesebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirsizleşme ihtimali veya imkânı bulunmak

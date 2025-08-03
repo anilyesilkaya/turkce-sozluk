@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhlayabilmek
 slug: tezgahlayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tezgâhlama ihtimali veya imkânı bulunmak

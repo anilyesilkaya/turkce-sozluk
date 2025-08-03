@@ -2,6 +2,7 @@
 layout: term
 title: arınma
 slug: arinma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► temizlenme

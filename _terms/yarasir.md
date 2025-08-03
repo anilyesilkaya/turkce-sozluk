@@ -2,6 +2,7 @@
 layout: term
 title: yaraşır
 slug: yarasir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Layık, uygun

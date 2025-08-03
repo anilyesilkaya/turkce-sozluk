@@ -2,6 +2,7 @@
 layout: term
 title: eğretileme
 slug: egretileme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğretilemek işi

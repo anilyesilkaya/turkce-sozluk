@@ -2,6 +2,7 @@
 layout: term
 title: karabatak
 slug: karabatak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karabatakgillerden, balıkla beslenen, gagası uzun ve sivri, kara tüylü bir deniz kuşu (Phalacrocorax)

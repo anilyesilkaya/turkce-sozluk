@@ -2,6 +2,7 @@
 layout: term
 title: içi ezilmek
 slug: ici-ezilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - üzülmek, yüreği burkulmak

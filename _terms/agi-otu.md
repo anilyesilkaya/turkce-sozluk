@@ -2,6 +2,7 @@
 layout: term
 title: ağı otu
 slug: agi-otu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► baldıran

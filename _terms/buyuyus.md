@@ -2,6 +2,7 @@
 layout: term
 title: büyüyüş
 slug: buyuyus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyümek işi

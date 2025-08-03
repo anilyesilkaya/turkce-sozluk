@@ -2,6 +2,7 @@
 layout: term
 title: zevklendirme
 slug: zevklendirme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zevklendirmek işi

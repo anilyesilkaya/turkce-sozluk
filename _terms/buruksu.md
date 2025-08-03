@@ -2,6 +2,7 @@
 layout: term
 title: buruksu
 slug: buruksu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruğa benzer, buruk gibi

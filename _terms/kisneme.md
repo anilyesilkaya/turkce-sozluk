@@ -2,6 +2,7 @@
 layout: term
 title: kişneme
 slug: kisneme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişnemek işi

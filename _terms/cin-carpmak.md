@@ -2,6 +2,7 @@
 layout: term
 title: cin çarpmak
 slug: cin-carpmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir inanışa göre, cinlerin öfkesiyle inme inmek

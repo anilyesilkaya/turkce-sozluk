@@ -2,6 +2,7 @@
 layout: term
 title: meşum
 slug: mesum
+letter: M
 lisan: Arapça meşʾūm
 anlamlar:
 - ► uğursuz

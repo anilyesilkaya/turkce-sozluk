@@ -2,6 +2,7 @@
 layout: term
 title: doyulmak
 slug: doyulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doymak işi yapılmak

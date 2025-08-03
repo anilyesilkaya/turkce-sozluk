@@ -2,6 +2,7 @@
 layout: term
 title: tarziye
 slug: tarziye
+letter: T
 lisan: Arapça tarżiye
 anlamlar:
 - Söylenen kırıcı bir söz veya yapılan kötü bir davranış için karşıdakinden özür dileme, gönül alma

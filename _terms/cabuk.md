@@ -2,6 +2,7 @@
 layout: term
 title: çabuk
 slug: cabuk
+letter: Ç
 lisan: Farsça çābuk
 anlamlar:
 - Hızlı olan, yavaş karşıtı

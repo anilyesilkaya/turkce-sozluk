@@ -2,6 +2,7 @@
 layout: term
 title: kaskatı olmak
 slug: kaskati-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kıpırdamamak, hareketsiz kalmak

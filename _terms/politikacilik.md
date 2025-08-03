@@ -2,6 +2,7 @@
 layout: term
 title: politikacılık
 slug: politikacilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Politika ile uğraşma işi veya tutkusu

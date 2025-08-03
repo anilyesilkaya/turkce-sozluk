@@ -2,6 +2,7 @@
 layout: term
 title: homojenleşme
 slug: homojenlesme
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bağdaşıklaşma

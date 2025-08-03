@@ -2,6 +2,7 @@
 layout: term
 title: alıp götürmek
 slug: alip-goturmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yakalayıp götürmek, derdest etmek

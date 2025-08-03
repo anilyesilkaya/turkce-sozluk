@@ -2,6 +2,7 @@
 layout: term
 title: vizon kürk
 slug: vizon-kurk
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vizon derisinden yapılan iyi işlenmiş kürk

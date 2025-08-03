@@ -2,6 +2,7 @@
 layout: term
 title: baliğ
 slug: balig
+letter: B
 lisan: Arapça bāliġ
 anlamlar:
 - ► ergen

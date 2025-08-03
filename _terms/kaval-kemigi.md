@@ -2,6 +2,7 @@
 layout: term
 title: kaval kemiği
 slug: kaval-kemigi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Baldırda olan iki kemikten kalını; bacakkalemi

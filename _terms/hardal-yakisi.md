@@ -2,6 +2,7 @@
 layout: term
 title: hardal yakısı
 slug: hardal-yakisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halk hekimliğinde, kâğıda yapıştırılan hardal tozunun nemlendirilip ağrılı yere uygulanması biçiminde kullanılan ağrı giderici malzeme

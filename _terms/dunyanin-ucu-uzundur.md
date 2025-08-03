@@ -2,6 +2,7 @@
 layout: term
 title: dünyanın ucu uzundur
 slug: dunyanin-ucu-uzundur
+letter: D
 lisan: Türkçe
 anlamlar:
 - insanın yaşadıkça türlü durumlarla, çeşitli olaylarla karşılaşabileceğini anlatan bir söz

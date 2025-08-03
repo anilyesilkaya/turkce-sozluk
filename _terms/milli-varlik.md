@@ -2,6 +2,7 @@
 layout: term
 title: millî varlık
 slug: milli-varlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir ulusun sahip olduğu sosyal, kültürel, ekonomik, bilimsel değerler ile yer altı ve yer üstü zenginliklerini kapsayan maddi ve manevi ögelerin bütünü; ulusal varlık

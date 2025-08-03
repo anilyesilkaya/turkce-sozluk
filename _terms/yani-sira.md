@@ -2,6 +2,7 @@
 layout: term
 title: yanı sıra
 slug: yani-sira
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► birlikte

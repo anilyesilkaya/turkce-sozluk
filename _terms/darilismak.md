@@ -2,6 +2,7 @@
 layout: term
 title: darılışmak
 slug: darilismak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karşılıklı birbirine darılmak

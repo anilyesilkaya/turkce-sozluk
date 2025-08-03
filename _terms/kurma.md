@@ -2,6 +2,7 @@
 layout: term
 title: kurma
 slug: kurma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurmak işi; ihdas

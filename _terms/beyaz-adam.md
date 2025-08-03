@@ -2,6 +2,7 @@
 layout: term
 title: beyaz adam
 slug: beyaz-adam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyaz ırka mensup olan kişi

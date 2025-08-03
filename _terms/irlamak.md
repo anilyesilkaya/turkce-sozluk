@@ -2,6 +2,7 @@
 layout: term
 title: ırlamak
 slug: irlamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Türkü, şarkı söylemek; yırlamak

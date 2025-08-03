@@ -2,6 +2,7 @@
 layout: term
 title: anlaşılmak
 slug: anlasilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlama işine konu olmak

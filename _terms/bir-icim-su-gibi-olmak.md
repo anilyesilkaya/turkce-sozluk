@@ -2,6 +2,7 @@
 layout: term
 title: bir içim su (gibi olmak)
 slug: bir-icim-su-gibi-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok güzel ve şık (kadın)

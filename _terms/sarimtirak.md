@@ -2,6 +2,7 @@
 layout: term
 title: sarımtırak
 slug: sarimtirak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarımsı

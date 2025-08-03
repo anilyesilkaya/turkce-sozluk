@@ -2,6 +2,7 @@
 layout: term
 title: izzetinefsine yedirememek
 slug: izzetinefsine-yedirememek
+letter: I
 lisan: Türkçe
 anlamlar:
 - onursuz kalmayı kabul edememek, düşkünlüğü veya zavallılığı reddetmek

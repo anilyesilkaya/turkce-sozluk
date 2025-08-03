@@ -2,6 +2,7 @@
 layout: term
 title: çatlak
 slug: catlak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlamış olan

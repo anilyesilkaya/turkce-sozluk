@@ -2,6 +2,7 @@
 layout: term
 title: kemal
 slug: kemal
+letter: K
 lisan: Arapça kemāl
 anlamlar:
 - ► olgunluk

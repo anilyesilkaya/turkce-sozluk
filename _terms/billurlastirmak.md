@@ -2,6 +2,7 @@
 layout: term
 title: billurlaştırmak
 slug: billurlastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Billur durumuna getirmek; kristalleştirmek

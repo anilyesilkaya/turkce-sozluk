@@ -2,6 +2,7 @@
 layout: term
 title: bigânelik
 slug: biganelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yabancılık

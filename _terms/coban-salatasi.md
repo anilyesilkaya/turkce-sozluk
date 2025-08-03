@@ -2,6 +2,7 @@
 layout: term
 title: çoban salatası
 slug: coban-salatasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Domates, salatalık ve biberlerin küçük küçük doğranmasıyla yapılan soğanlı salata

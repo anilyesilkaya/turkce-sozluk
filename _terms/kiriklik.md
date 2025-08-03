@@ -2,6 +2,7 @@
 layout: term
 title: kırıklık
 slug: kiriklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırık olma durumu

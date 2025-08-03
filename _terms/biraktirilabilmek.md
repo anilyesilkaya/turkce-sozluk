@@ -2,6 +2,7 @@
 layout: term
 title: bıraktırılabilmek
 slug: biraktirilabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıraktırılma ihtimali veya imkânı bulunmak

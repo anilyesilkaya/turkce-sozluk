@@ -2,6 +2,7 @@
 layout: term
 title: uyuşuk
 slug: uyusuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Duymaz ve hareket edemez duruma gelmiş, uyuşmuş

@@ -2,6 +2,7 @@
 layout: term
 title: cilalayabilmek
 slug: cilalayabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilalama ihtimali veya imkânı bulunmak

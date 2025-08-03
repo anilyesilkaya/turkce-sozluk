@@ -2,6 +2,7 @@
 layout: term
 title: sallantıda kalmak
 slug: sallantida-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir çözüme bağlanmamak

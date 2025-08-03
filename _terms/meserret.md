@@ -2,6 +2,7 @@
 layout: term
 title: meserret
 slug: meserret
+letter: M
 lisan: Arapça meserret
 anlamlar:
 - ► sevinç

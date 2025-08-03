@@ -2,6 +2,7 @@
 layout: term
 title: ses birimi
 slug: ses-birimi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kelimedeki ses, vurgu, uzunluk gibi anlam ayırıcı en küçük birim; fonem

@@ -2,6 +2,7 @@
 layout: term
 title: hemhâl
 slug: hemhal
+letter: H
 lisan: Farsça hem + Arapça ḥāl
 anlamlar:
 - Aynı durumda olan

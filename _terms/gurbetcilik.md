@@ -2,6 +2,7 @@
 layout: term
 title: gurbetçilik
 slug: gurbetcilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gurbetçi olma durumu

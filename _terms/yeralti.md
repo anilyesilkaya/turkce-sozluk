@@ -2,6 +2,7 @@
 layout: term
 title: yeraltı
 slug: yeralti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gizli ve yasa dışı

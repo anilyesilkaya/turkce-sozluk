@@ -2,6 +2,7 @@
 layout: term
 title: ibzal etmek
 slug: ibzal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - esirgemeden bol bol vermek, yapmak veya söylemek

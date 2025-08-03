@@ -2,6 +2,7 @@
 layout: term
 title: sızlanma
 slug: sizlanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızlanmak işi; sızıltı, tazallüm

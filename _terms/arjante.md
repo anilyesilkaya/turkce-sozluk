@@ -2,6 +2,7 @@
 layout: term
 title: arjante
 slug: arjante
+letter: A
 lisan: Fransızca argentine
 anlamlar:
 - Arjantin ülkesine verilen ad

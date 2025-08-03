@@ -2,6 +2,7 @@
 layout: term
 title: döndürmek
 slug: dondurmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönmesini sağlamak

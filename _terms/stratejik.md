@@ -2,6 +2,7 @@
 layout: term
 title: stratejik
 slug: stratejik
+letter: S
 lisan: Fransızca stratégique
 anlamlar:
 - ► izlemsel

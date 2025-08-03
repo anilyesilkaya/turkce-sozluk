@@ -2,6 +2,7 @@
 layout: term
 title: kıvrantı
 slug: kivranti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kararsızlık, sıkıntı

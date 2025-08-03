@@ -2,6 +2,7 @@
 layout: term
 title: vehim
 slug: vehim
+letter: V
 lisan: Arapça vehm
 anlamlar:
 - ► kuruntu

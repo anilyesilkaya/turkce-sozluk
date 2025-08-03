@@ -2,6 +2,7 @@
 layout: term
 title: katrat
 slug: katrat
+letter: K
 lisan: Fransızca kadrat
 anlamlar:
 - Basımevlerinde, eski sistem dizgi işlerinde harfler arasına konulan, belli incelikteki metal parça

@@ -2,6 +2,7 @@
 layout: term
 title: iklil
 slug: iklil
+letter: I
 lisan: Arapça iḳlįl
 anlamlar:
 - ► taç (I)

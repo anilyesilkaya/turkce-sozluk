@@ -2,6 +2,7 @@
 layout: term
 title: yanına almak
 slug: yanina-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yanında çalıştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: tıklamak
 slug: tiklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir yere hafifçe vurarak "tık" sesi çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: onarma
 slug: onarma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onarmak işi

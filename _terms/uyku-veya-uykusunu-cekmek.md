@@ -2,6 +2,7 @@
 layout: term
 title: uyku (veya uykusunu) çekmek
 slug: uyku-veya-uykusunu-cekmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - iyice uyumak

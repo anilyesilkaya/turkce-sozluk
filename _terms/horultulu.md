@@ -2,6 +2,7 @@
 layout: term
 title: horultulu
 slug: horultulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horultu sesi çıkaran, horultusu olan; harharalı

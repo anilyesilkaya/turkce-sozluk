@@ -2,6 +2,7 @@
 layout: term
 title: uyuma
 slug: uyuma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumak durumu

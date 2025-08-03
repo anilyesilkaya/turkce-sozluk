@@ -2,6 +2,7 @@
 layout: term
 title: kanatlanmak
 slug: kanatlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uçmaya başlamak

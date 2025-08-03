@@ -2,6 +2,7 @@
 layout: term
 title: müdafaa
 slug: mudafaa
+letter: M
 lisan: Arapça mudāfaʿa
 anlamlar:
 - ► savunma

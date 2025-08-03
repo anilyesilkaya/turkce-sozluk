@@ -2,6 +2,7 @@
 layout: term
 title: eksi uç
 slug: eksi-uc
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektrikle yapılan ayrıştırmada sıvıya batırılıp akımın geçmesini sağlayan metal uçlardan eksi yüklü olanı; katot

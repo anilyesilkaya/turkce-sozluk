@@ -2,6 +2,7 @@
 layout: term
 title: bozulma
 slug: bozulma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozulmak işi; arıza, infisah, zeval

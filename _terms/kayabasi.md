@@ -2,6 +2,7 @@
 layout: term
 title: kayabaşı
 slug: kayabasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir Anadolu ezgisi ve bu ezgiyle söylenen koşma

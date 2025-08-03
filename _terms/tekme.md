@@ -2,6 +2,7 @@
 layout: term
 title: tekme
 slug: tekme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ayakla vuruş; tepik, tepme

@@ -2,6 +2,7 @@
 layout: term
 title: bir araya gelmek
 slug: bir-araya-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir yerde toplanmak, buluşmak

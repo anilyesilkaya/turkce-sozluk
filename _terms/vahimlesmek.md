@@ -2,6 +2,7 @@
 layout: term
 title: vahimleşmek
 slug: vahimlesmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vahim duruma gelmek

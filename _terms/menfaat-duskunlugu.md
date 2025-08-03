@@ -2,6 +2,7 @@
 layout: term
 title: menfaat düşkünlüğü
 slug: menfaat-duskunlugu
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çıkarcılık

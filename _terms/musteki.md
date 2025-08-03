@@ -2,6 +2,7 @@
 layout: term
 title: müşteki
 slug: musteki
+letter: M
 lisan: Arapça muştekī
 anlamlar:
 - ► şikâyetçi

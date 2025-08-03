@@ -2,6 +2,7 @@
 layout: term
 title: tanımlayabilmek
 slug: tanimlayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanımlama ihtimali veya imkânı bulunmak

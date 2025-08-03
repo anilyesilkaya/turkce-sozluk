@@ -2,6 +2,7 @@
 layout: term
 title: karnaval maskesi
 slug: karnaval-maskesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karnavalda takılan gülünç maske; maskara (II)

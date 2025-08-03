@@ -2,6 +2,7 @@
 layout: term
 title: tuzlumsu
 slug: tuzlumsu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzluyu andıran, tuzluya benzeyen, tuzlu gibi

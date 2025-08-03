@@ -2,6 +2,7 @@
 layout: term
 title: sözgötürmez
 slug: sozgoturmez
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sugötürmez

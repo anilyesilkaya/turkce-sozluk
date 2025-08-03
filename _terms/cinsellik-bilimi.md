@@ -2,6 +2,7 @@
 layout: term
 title: cinsellik bilimi
 slug: cinsellik-bilimi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsellikle ilgili sorunların incelendiği bilim; cinslik bilimi, seksoloji

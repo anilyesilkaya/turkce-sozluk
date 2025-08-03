@@ -2,6 +2,7 @@
 layout: term
 title: fokuslanma
 slug: fokuslanma
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► odaklanma

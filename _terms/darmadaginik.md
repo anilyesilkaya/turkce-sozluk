@@ -2,6 +2,7 @@
 layout: term
 title: darmadağınık
 slug: darmadaginik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► darmadağın

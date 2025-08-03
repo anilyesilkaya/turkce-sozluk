@@ -2,6 +2,7 @@
 layout: term
 title: sivil
 slug: sivil
+letter: S
 lisan: Fransızca civil
 anlamlar:
 - Askerî olmayan

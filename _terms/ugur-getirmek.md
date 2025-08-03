@@ -2,6 +2,7 @@
 layout: term
 title: uğur getirmek
 slug: ugur-getirmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - iyilik, şans, talih, bereket getirmek

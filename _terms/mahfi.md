@@ -2,6 +2,7 @@
 layout: term
 title: mahfi
 slug: mahfi
+letter: M
 lisan: Arapça maḫfī
 anlamlar:
 - ► gizli

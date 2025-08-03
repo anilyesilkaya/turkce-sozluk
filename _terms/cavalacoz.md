@@ -2,6 +2,7 @@
 layout: term
 title: cavalacoz
 slug: cavalacoz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Değersiz, önemsiz, derme çatma olan

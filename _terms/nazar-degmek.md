@@ -2,6 +2,7 @@
 layout: term
 title: nazar değmek
 slug: nazar-degmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - göz değmek

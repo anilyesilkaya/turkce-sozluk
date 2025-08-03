@@ -2,6 +2,7 @@
 layout: term
 title: gagalı
 slug: gagali
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gagası olan

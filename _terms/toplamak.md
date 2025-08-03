@@ -2,6 +2,7 @@
 layout: term
 title: toplamak
 slug: toplamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir araya getirmek; cemetmek

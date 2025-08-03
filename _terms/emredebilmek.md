@@ -2,6 +2,7 @@
 layout: term
 title: emredebilmek
 slug: emredebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emretme ihtimali veya imkânı bulunmak; buyurabilmek

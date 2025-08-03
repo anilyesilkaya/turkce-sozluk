@@ -2,6 +2,7 @@
 layout: term
 title: pey akçesi
 slug: pey-akcesi
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ön ödeme

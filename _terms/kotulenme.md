@@ -2,6 +2,7 @@
 layout: term
 title: kötülenme
 slug: kotulenme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötülenmek işi

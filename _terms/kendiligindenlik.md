@@ -2,6 +2,7 @@
 layout: term
 title: kendiliğindenlik
 slug: kendiligindenlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dıştan bir belirleme ile değil, kendi kendine gerçekleşen etkinlik; spontaneizm

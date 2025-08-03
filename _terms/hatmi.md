@@ -2,6 +2,7 @@
 layout: term
 title: hatmi
 slug: hatmi
+letter: H
 lisan: Arapça ḫaṭmī
 anlamlar:
 - Ebegümecigillerden, bazı cinslerinin kök ve çiçekleri hekimlikte kullanılan, çok yıllık otsu bir süs bitkisi; ağaçküpesi (Althaea officinalis)

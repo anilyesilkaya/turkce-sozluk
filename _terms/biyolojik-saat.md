@@ -2,6 +2,7 @@
 layout: term
 title: biyolojik saat
 slug: biyolojik-saat
+letter: B
 lisan: Türkçe
 anlamlar:
 - Canlılarda her türlü olayın oluşmasına ayrılan süre

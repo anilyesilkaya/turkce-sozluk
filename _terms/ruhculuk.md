@@ -2,6 +2,7 @@
 layout: term
 title: ruhçuluk
 slug: ruhculuk
+letter: R
 lisan: Türkçe
 anlamlar:
 - Allah’ın varlığına ve insanda bedenden bağımsız olarak bir ruhun var olduğuna inanan, bütün gerçekliğin özünün ruh olduğunu, her gerçek olanın manevi olduğunu ve maddi olanın yalnızca manevi gerçekliğin bir görünüşü olduğunu ileri süren öğreti; tinselcilik, ispritizma, ispritizmacılık, spiritüalizm

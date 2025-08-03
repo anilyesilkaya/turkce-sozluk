@@ -2,6 +2,7 @@
 layout: term
 title: ayrımcı
 slug: ayrimci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrım yapan kimse

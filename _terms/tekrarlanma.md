@@ -2,6 +2,7 @@
 layout: term
 title: tekrarlanma
 slug: tekrarlanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekrarlanmak durumu; yinelenme, tekerrür

@@ -2,6 +2,7 @@
 layout: term
 title: lakayıt kalmak
 slug: lakayit-kalmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - ilgisiz davranmak, aldırmamak

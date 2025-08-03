@@ -2,6 +2,7 @@
 layout: term
 title: tu kaka etmek
 slug: tu-kaka-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hafife alıp bir kenara itmek, önem vermemek, kötülemek

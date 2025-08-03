@@ -2,6 +2,7 @@
 layout: term
 title: ahlaksızca
 slug: ahlaksizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlaka aykırı olan

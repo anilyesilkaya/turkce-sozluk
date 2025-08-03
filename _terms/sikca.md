@@ -2,6 +2,7 @@
 layout: term
 title: sıkça
 slug: sikca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Oldukça sık; sık sık

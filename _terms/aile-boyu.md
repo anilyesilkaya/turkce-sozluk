@@ -2,6 +2,7 @@
 layout: term
 title: aile boyu
 slug: aile-boyu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyük boy üretilmiş olan (içecek, atıştırmalık, kişisel bakım ürünleri vb.)

@@ -2,6 +2,7 @@
 layout: term
 title: kürklü
 slug: kurklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürkü olan, kürk giymiş

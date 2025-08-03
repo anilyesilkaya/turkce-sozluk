@@ -2,6 +2,7 @@
 layout: term
 title: koyulmak
 slug: koyulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyma işine konu olmak

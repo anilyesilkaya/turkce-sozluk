@@ -2,6 +2,7 @@
 layout: term
 title: kelleyi koltuğun altına almak
 slug: kelleyi-koltugun-altina-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kellesini koltuğuna almak

@@ -2,6 +2,7 @@
 layout: term
 title: yeşil
 slug: yesil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sarı ile mavinin karışımından ortaya çıkan, bitki yapraklarının çoğunda görülen renk

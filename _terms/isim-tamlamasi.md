@@ -2,6 +2,7 @@
 layout: term
 title: isim tamlaması
 slug: isim-tamlamasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ad tamlaması

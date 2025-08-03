@@ -2,6 +2,7 @@
 layout: term
 title: yeni yetme
 slug: yeni-yetme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ergen

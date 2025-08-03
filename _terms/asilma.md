@@ -2,6 +2,7 @@
 layout: term
 title: aşılma
 slug: asilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşılmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ince iş
 slug: ince-is
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► nakış

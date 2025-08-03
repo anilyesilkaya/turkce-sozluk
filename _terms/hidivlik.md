@@ -2,6 +2,7 @@
 layout: term
 title: hidivlik
 slug: hidivlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hidiv yönetimi veya makamı

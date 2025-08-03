@@ -2,6 +2,7 @@
 layout: term
 title: düşeyazmak
 slug: duseyazmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşme tehlikesi atlatmak

@@ -2,6 +2,7 @@
 layout: term
 title: elhak
 slug: elhak
+letter: E
 lisan: Arapça elḥaḳḳ
 anlamlar:
 - Hiç şüphesiz

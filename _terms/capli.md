@@ -2,6 +2,7 @@
 layout: term
 title: çaplı
 slug: capli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapı geniş olan

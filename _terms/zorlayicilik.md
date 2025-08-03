@@ -2,6 +2,7 @@
 layout: term
 title: zorlayıcılık
 slug: zorlayicilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlayıcı olma durumu

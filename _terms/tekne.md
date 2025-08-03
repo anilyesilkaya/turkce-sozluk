@@ -2,6 +2,7 @@
 layout: term
 title: tekne
 slug: tekne
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türlü işlerde kullanılmak için çoğu ağaçtan veya taştan yapılan, uzun ve geniş kap

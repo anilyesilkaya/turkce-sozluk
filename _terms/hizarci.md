@@ -2,6 +2,7 @@
 layout: term
 title: hızarcı
 slug: hizarci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hızar işleten, hızarla kereste biçen kimse

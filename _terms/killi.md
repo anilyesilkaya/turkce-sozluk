@@ -2,6 +2,7 @@
 layout: term
 title: killi
 slug: killi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kil bulunan

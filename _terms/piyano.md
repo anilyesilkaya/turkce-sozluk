@@ -2,6 +2,7 @@
 layout: term
 title: piyano
 slug: piyano
+letter: P
 lisan: İtalyanca piano
 anlamlar:
 - Klavyeli, telli, değişik tuşlara basılarak çalınan ağır ve büyük çalgı

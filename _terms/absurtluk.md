@@ -2,6 +2,7 @@
 layout: term
 title: absürtlük
 slug: absurtluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► saçmalık

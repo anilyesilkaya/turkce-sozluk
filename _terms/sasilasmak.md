@@ -2,6 +2,7 @@
 layout: term
 title: şaşılaşmak
 slug: sasilasmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşı duruma gelmek, şaşı olmak

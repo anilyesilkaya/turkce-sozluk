@@ -2,6 +2,7 @@
 layout: term
 title: nafilelik
 slug: nafilelik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► yararsızlık

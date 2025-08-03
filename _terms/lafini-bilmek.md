@@ -2,6 +2,7 @@
 layout: term
 title: lafını bilmek
 slug: lafini-bilmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - akıllı uslu konuşup başkasını rahatsız etmemek, yerinde, güzel ve tutarlı konuşmak

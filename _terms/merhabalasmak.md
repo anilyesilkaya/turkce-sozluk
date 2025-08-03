@@ -2,6 +2,7 @@
 layout: term
 title: merhabalaşmak
 slug: merhabalasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Karşılıklı selam verip hâl hatır sormak

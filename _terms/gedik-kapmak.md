@@ -2,6 +2,7 @@
 layout: term
 title: gedik kapmak
 slug: gedik-kapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir gelir kaynağı ele geçirmek

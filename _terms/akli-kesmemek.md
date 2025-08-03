@@ -2,6 +2,7 @@
 layout: term
 title: aklı kesmemek
 slug: akli-kesmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlayamamak, idrak edememek

@@ -2,6 +2,7 @@
 layout: term
 title: cehennemleşmek
 slug: cehennemlesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cehenneme dönmek

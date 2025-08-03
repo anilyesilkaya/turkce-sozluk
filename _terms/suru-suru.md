@@ -2,6 +2,7 @@
 layout: term
 title: sürü sürü
 slug: suru-suru
+letter: S
 lisan: Türkçe
 anlamlar:
 - Pek çok, sürü hâlinde

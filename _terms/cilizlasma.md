@@ -2,6 +2,7 @@
 layout: term
 title: cılızlaşma
 slug: cilizlasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cılızlaşmak işi

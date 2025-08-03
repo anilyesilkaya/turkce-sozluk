@@ -2,6 +2,7 @@
 layout: term
 title: kurmaca
 slug: kurmaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olmadığı hâlde varmış gibi tasarlanmış, kurgulanmış

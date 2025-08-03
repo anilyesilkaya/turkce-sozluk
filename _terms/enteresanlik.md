@@ -2,6 +2,7 @@
 layout: term
 title: enteresanlık
 slug: enteresanlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Enteresan olma durumu; ilginçlik

@@ -2,6 +2,7 @@
 layout: term
 title: ufaktan ufağa
 slug: ufaktan-ufaga
+letter: U
 lisan: Türkçe
 anlamlar:
 - Azar azar, yavaş yavaş; ufaktan ufaktan

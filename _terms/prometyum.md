@@ -2,6 +2,7 @@
 layout: term
 title: prometyum
 slug: prometyum
+letter: P
 lisan: Fransızca prométhium
 anlamlar:
 - Atom numarası 61, atom ağırlığı 145 olan, nadir topraklar grubundan bir element (simgesi Pm)

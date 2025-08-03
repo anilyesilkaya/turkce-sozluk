@@ -2,6 +2,7 @@
 layout: term
 title: şeytanın bacağını (veya ayağını) kırmak
 slug: seytanin-bacagini-veya-ayagini-kirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple yapılmayan bir işe başlamak veya gidilmeyen bir yere gitmek

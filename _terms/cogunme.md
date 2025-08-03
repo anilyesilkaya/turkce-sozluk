@@ -2,6 +2,7 @@
 layout: term
 title: çöğünme
 slug: cogunme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöğünmek işi

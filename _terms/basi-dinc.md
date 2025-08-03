@@ -2,6 +2,7 @@
 layout: term
 title: başı dinç
 slug: basi-dinc
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kaygısız, tasası olmayan (kimse)

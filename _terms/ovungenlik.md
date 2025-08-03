@@ -2,6 +2,7 @@
 layout: term
 title: övüngenlik
 slug: ovungenlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çok övünme durumu

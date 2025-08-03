@@ -2,6 +2,7 @@
 layout: term
 title: bayıltılmak
 slug: bayiltilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayıltma işi yapılmak

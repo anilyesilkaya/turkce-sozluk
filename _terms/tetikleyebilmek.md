@@ -2,6 +2,7 @@
 layout: term
 title: tetikleyebilmek
 slug: tetikleyebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tetikleme ihtimali veya imkânı bulunmak

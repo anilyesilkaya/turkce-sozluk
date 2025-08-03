@@ -2,6 +2,7 @@
 layout: term
 title: burun buruna olmak
 slug: burun-buruna-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok yakınında bulunmak

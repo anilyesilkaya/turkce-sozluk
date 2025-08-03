@@ -2,6 +2,7 @@
 layout: term
 title: geriniş
 slug: gerinis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerinmek işi

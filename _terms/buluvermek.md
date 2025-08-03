@@ -2,6 +2,7 @@
 layout: term
 title: buluvermek
 slug: buluvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bulmak

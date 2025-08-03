@@ -2,6 +2,7 @@
 layout: term
 title: çiftlik kâhyası
 slug: ciftlik-kahyasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiftlik işlerini yöneten kimse

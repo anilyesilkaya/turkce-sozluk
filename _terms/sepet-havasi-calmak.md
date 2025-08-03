@@ -2,6 +2,7 @@
 layout: term
 title: sepet havası çalmak
 slug: sepet-havasi-calmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - işinden çıkarmak, sepetlemek

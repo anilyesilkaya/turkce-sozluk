@@ -2,6 +2,7 @@
 layout: term
 title: acele
 slug: acele
+letter: A
 lisan: Arapça ʿacele
 anlamlar:
 - Hızlı yapılan; çabuk, tez (I), ivedi, becit, müstacel, şitap

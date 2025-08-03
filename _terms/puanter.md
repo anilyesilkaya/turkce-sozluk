@@ -2,6 +2,7 @@
 layout: term
 title: puanter
 slug: puanter
+letter: P
 lisan: İngilizce pointer
 anlamlar:
 - Güzel ve düzgün vücutlu, kısa kıllı, uzun ince kuyruklu, koku alma duygusu çok gelişmiş, hızlı koşabilen bir tür av köpeği

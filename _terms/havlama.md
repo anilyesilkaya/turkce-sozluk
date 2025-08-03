@@ -2,6 +2,7 @@
 layout: term
 title: havlama
 slug: havlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havlamak işi; ürüme

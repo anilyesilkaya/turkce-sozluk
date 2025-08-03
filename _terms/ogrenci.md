@@ -2,6 +2,7 @@
 layout: term
 title: öğrenci
 slug: ogrenci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğrenim görmek amacıyla ders alan kimse; okul çocuğu, mektep çocuğu, mektepli, şakirt, talebe, tilmiz

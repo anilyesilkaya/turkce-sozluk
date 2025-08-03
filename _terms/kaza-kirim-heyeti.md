@@ -2,6 +2,7 @@
 layout: term
 title: 'kaza kırım heyeti '
 slug: kaza-kirim-heyeti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kaza kırım ekibi

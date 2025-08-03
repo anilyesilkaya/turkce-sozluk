@@ -2,6 +2,7 @@
 layout: term
 title: şalak
 slug: salak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Büyümemiş karpuz

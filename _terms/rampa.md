@@ -2,6 +2,7 @@
 layout: term
 title: rampa
 slug: rampa
+letter: R
 lisan: İtalyanca rampa
 anlamlar:
 - Bir arazinin, bir kara yolunun, bir demir yolu hattının yatay doğrultuya göre yokuş olan bölümü

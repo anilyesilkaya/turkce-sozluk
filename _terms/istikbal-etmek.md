@@ -2,6 +2,7 @@
 layout: term
 title: istikbal etmek
 slug: istikbal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - karşılamak

@@ -2,6 +2,7 @@
 layout: term
 title: yüzüstü kalmak
 slug: yuzustu-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir iş, zamanında yapılmayıp olduğu gibi bırakılmak

@@ -2,6 +2,7 @@
 layout: term
 title: yolcu yolunda gerek
 slug: yolcu-yolunda-gerek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"vakit geçirmeden yola devam edilmeli" anlamında kullanılan bir söz'

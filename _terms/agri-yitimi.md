@@ -2,6 +2,7 @@
 layout: term
 title: ağrı yitimi
 slug: agri-yitimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrıya karşı duyarlılığın olmayışı; ağrı kesimi, analjezi

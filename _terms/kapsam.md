@@ -2,6 +2,7 @@
 layout: term
 title: kapsam
 slug: kapsam
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içinde bulunan veya içine aldığı ögelerin bütünü; şümul

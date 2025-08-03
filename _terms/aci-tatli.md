@@ -2,6 +2,7 @@
 layout: term
 title: acı tatlı
 slug: aci-tatli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► şöyle böyle

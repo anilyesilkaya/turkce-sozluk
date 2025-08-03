@@ -2,6 +2,7 @@
 layout: term
 title: skink
 slug: skink
+letter: S
 lisan: İngilizce skink
 anlamlar:
 - Skinkgillerden, çöllerde, kurak bölgelerde yaşayan bir tür sürüngen (Scincus)

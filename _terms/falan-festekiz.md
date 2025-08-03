@@ -2,6 +2,7 @@
 layout: term
 title: falan festekiz
 slug: falan-festekiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► falan filan

@@ -2,6 +2,7 @@
 layout: term
 title: mücadele
 slug: mucadele
+letter: M
 lisan: Arapça mucādele
 anlamlar:
 - Birbirlerine isteklerini kabul ettirmek için iki taraf arasında yapılan zorlu çaba; savaş, kavga

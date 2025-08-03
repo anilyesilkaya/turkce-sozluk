@@ -2,6 +2,7 @@
 layout: term
 title: kalamin
 slug: kalamin
+letter: K
 lisan: Fransızca calamine
 anlamlar:
 - Doğada az bulunan, güç işlenen, hidratlı çinko silikat

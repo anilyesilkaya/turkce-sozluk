@@ -2,6 +2,7 @@
 layout: term
 title: istida
 slug: istida
+letter: I
 lisan: Arapça istidʿāʾ
 anlamlar:
 - ► dilekçe

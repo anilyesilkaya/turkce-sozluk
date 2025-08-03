@@ -2,6 +2,7 @@
 layout: term
 title: itirazsız
 slug: itirazsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtiraz etmeden, karşı çıkmadan

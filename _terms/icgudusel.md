@@ -2,6 +2,7 @@
 layout: term
 title: içgüdüsel
 slug: icgudusel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçgüdü ile ilgili; içgüdülü, insiyaki

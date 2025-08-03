@@ -2,6 +2,7 @@
 layout: term
 title: on parmağı boğazında olmak
 slug: on-parmagi-bogazinda-olmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - isteği yapılmadığında sıkıntıya düşmesini istemek

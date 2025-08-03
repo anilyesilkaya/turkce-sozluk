@@ -2,6 +2,7 @@
 layout: term
 title: vicdan azabı
 slug: vicdan-azabi
+letter: V
 lisan: Türkçe
 anlamlar:
 - Kişinin yaptığı bir işten veya söylediği bir sözden pişman olmasından ileri gelen üzüntü

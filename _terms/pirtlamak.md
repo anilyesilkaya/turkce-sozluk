@@ -2,6 +2,7 @@
 layout: term
 title: pırtlamak
 slug: pirtlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bulunduğu yerden kayıp dışarı çıkmak

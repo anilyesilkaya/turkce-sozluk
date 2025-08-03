@@ -2,6 +2,7 @@
 layout: term
 title: netice
 slug: netice
+letter: N
 lisan: Arapça netīce
 anlamlar:
 - ► sonuç

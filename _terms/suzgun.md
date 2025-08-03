@@ -2,6 +2,7 @@
 layout: term
 title: süzgün
 slug: suzgun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Biraz zayıflamış, güçsüzleşmiş; süzük

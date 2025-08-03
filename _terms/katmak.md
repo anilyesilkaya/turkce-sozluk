@@ -2,6 +2,7 @@
 layout: term
 title: katmak
 slug: katmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içine, üstüne veya yanına, niteliğini değiştirmek veya niceliğini artırmak için başka bir şey eklemek; vermek, zammetmek

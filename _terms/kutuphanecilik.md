@@ -2,6 +2,7 @@
 layout: term
 title: kütüphanecilik
 slug: kutuphanecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitaplık görevlisinin işi; bibliyotekçilik

@@ -2,6 +2,7 @@
 layout: term
 title: paçalık
 slug: pacalik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pantolon, şalvar veya uzun külot paçasının ayak bileğini saran bölümü

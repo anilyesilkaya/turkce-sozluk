@@ -2,6 +2,7 @@
 layout: term
 title: dublajcılık
 slug: dublajcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► seslendiricilik

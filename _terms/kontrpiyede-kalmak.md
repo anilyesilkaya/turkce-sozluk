@@ -2,6 +2,7 @@
 layout: term
 title: kontrpiyede kalmak
 slug: kontrpiyede-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - futbolda kaleci ters tarafa gitmek veya hamle yapmak

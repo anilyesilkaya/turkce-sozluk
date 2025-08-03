@@ -2,6 +2,7 @@
 layout: term
 title: utanç duygusu
 slug: utanc-duygusu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► utanma duygusu

@@ -2,6 +2,7 @@
 layout: term
 title: tahtaboş
 slug: tahtabos
+letter: T
 lisan: Farsça taḫtepūş
 anlamlar:
 - Evlerin damlarında çamaşır sermeye veya yaz gecelerinde oturmaya yarayan, zemini tahta, üzeri genellikle çinko döşeli teras

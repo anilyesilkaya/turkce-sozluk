@@ -2,6 +2,7 @@
 layout: term
 title: başşehirli
 slug: bassehirli
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkentli

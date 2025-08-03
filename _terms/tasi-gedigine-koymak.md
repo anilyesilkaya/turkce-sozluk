@@ -2,6 +2,7 @@
 layout: term
 title: taşı gediğine koymak
 slug: tasi-gedigine-koymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - gerekli bir sözü tam zamanında ve yerinde söyleyerek karşısındaki kimseyi susturmak, zekice davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: bahariye
 slug: bahariye
+letter: B
 lisan: Farsça bahār + Arapça -iyye
 anlamlar:
 - Divan edebiyatında, bahar tasviri ile başlayan kaside

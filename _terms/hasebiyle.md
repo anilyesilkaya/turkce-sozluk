@@ -2,6 +2,7 @@
 layout: term
 title: hasebiyle
 slug: hasebiyle
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sebebiyle

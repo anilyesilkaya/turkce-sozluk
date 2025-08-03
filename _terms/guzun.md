@@ -2,6 +2,7 @@
 layout: term
 title: güzün
 slug: guzun
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güz mevsiminde, sonbaharda

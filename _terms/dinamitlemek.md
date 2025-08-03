@@ -2,6 +2,7 @@
 layout: term
 title: dinamitlemek
 slug: dinamitlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinamitle havaya uçurmak

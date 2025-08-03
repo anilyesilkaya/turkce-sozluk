@@ -2,6 +2,7 @@
 layout: term
 title: kemeri dolu olmak
 slug: kemeri-dolu-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok zengin olmak

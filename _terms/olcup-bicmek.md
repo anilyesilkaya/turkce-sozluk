@@ -2,6 +2,7 @@
 layout: term
 title: ölçüp biçmek
 slug: olcup-bicmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir konuda çok ayrıntılı düşünmek, inceden inceye düşünmek, değerlendirmek

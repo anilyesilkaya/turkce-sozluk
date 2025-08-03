@@ -2,6 +2,7 @@
 layout: term
 title: her çiçek koklanmaz
 slug: her-cicek-koklanmaz
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"her güzelle ilişki kurmak doğru değildir" anlamında kullanılan bir söz'

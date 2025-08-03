@@ -2,6 +2,7 @@
 layout: term
 title: güvenme
 slug: guvenme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: usanmak
 slug: usanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Tekrarlanması, uzun sürmesi dolayısıyla bir şeyden hoşlanmaz veya sıkılır duruma gelmek

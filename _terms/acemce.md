@@ -2,6 +2,7 @@
 layout: term
 title: Acemce
 slug: acemce
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Farsça

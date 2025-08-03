@@ -2,6 +2,7 @@
 layout: term
 title: aksettiriliş
 slug: aksettirilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yansıtılış

@@ -2,6 +2,7 @@
 layout: term
 title: fakirleştirmek
 slug: fakirlestirmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yoksullaştırmak

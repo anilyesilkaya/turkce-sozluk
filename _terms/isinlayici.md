@@ -2,6 +2,7 @@
 layout: term
 title: ışınlayıcı
 slug: isinlayici
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yapısında bir aydınlanma kaynağı bulunan ve bir maddeyi ışınlamaya yarayan araç

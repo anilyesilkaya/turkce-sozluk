@@ -2,6 +2,7 @@
 layout: term
 title: dümbelekçilik
 slug: dumbelekcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dümbelekçinin yaptığı iş

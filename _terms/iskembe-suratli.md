@@ -2,6 +2,7 @@
 layout: term
 title: işkembe suratlı
 slug: iskembe-suratli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► çopur

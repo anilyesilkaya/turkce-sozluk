@@ -2,6 +2,7 @@
 layout: term
 title: hacı
 slug: haci
+letter: H
 lisan: Arapça ḥācc
 anlamlar:
 - Din buyruklarını yerine getirmek için hacca gitmiş Müslüman

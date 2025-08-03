@@ -2,6 +2,7 @@
 layout: term
 title: legal
 slug: legal
+letter: L
 lisan: Fransızca légal
 anlamlar:
 - ► yasal

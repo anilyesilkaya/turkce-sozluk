@@ -2,6 +2,7 @@
 layout: term
 title: çadır ağırşağı
 slug: cadir-agirsagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çadırın direk başlığı

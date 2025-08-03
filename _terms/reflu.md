@@ -2,6 +2,7 @@
 layout: term
 title: reflü
 slug: reflu
+letter: R
 lisan: Fransızca reflux
 anlamlar:
 - Bir vücut sıvısının normalin aksi yönde akması

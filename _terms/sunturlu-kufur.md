@@ -2,6 +2,7 @@
 layout: term
 title: sunturlu küfür
 slug: sunturlu-kufur
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok kötü, berbat, ağza alınmaz söz

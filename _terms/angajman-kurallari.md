@@ -2,6 +2,7 @@
 layout: term
 title: angajman kuralları
 slug: angajman-kurallari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askerî unsurların kuvvet kullanımı sırasında uyması gereken yasa veya kurallar

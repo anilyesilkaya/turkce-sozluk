@@ -2,6 +2,7 @@
 layout: term
 title: ödü bokuna karışmak
 slug: odu-bokuna-karismak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok korkmak

@@ -2,6 +2,7 @@
 layout: term
 title: vuruşabilmek
 slug: vurusabilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vuruşma ihtimali veya imkânı bulunmak

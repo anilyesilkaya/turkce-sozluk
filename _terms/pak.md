@@ -2,6 +2,7 @@
 layout: term
 title: pak
 slug: pak
+letter: P
 lisan: Farsça pāk
 anlamlar:
 - ► temiz

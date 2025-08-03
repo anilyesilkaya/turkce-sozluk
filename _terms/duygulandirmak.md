@@ -2,6 +2,7 @@
 layout: term
 title: duygulandırmak
 slug: duygulandirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygulanmasını sağlamak, duygulanmasına sebep olmak; hislendirmek

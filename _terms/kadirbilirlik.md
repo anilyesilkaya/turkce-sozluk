@@ -2,6 +2,7 @@
 layout: term
 title: kadirbilirlik
 slug: kadirbilirlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► değerbilirlik

@@ -2,6 +2,7 @@
 layout: term
 title: yemlemek
 slug: yemlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayvana yem vermek, beslemek

@@ -2,6 +2,7 @@
 layout: term
 title: şerh
 slug: serh
+letter: Ş
 lisan: Arapça şerḥ
 anlamlar:
 - ► ayırma

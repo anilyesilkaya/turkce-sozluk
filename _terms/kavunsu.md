@@ -2,6 +2,7 @@
 layout: term
 title: kavunsu
 slug: kavunsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavunu andıran, kavuna benzeyen, kavun gibi; kavunumsu

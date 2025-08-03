@@ -2,6 +2,7 @@
 layout: term
 title: havalı korna
 slug: havali-korna
+letter: H
 lisan: Türkçe
 anlamlar:
 - Küçük bir elektrikli aracın ürettiği basınçlı havayla ses çıkartan taşıt düdüğü

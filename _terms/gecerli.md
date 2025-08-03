@@ -2,6 +2,7 @@
 layout: term
 title: geçerli
 slug: gecerli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yürürlükte olan, uygulanan; meri, muteber

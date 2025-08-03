@@ -2,6 +2,7 @@
 layout: term
 title: göstergeç
 slug: gostergec
+letter: G
 lisan: Türkçe
 anlamlar:
 - Işının yeğinlik düzeyini algılayıp ölçen alet; monitör

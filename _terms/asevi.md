@@ -2,6 +2,7 @@
 layout: term
 title: aşevi
 slug: asevi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yoksullara parasız yemek yedirilen veya dağıtılan yer; aşhane

@@ -2,6 +2,7 @@
 layout: term
 title: ezberleme
 slug: ezberleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberlemek işi; hıfız

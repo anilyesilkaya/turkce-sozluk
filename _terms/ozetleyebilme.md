@@ -2,6 +2,7 @@
 layout: term
 title: özetleyebilme
 slug: ozetleyebilme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özetleyebilmek işi

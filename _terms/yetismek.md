@@ -2,6 +2,7 @@
 layout: term
 title: yetişmek
 slug: yetismek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ulaşmak, ermek, varmak, vasıl olmak

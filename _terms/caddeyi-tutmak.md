@@ -2,6 +2,7 @@
 layout: term
 title: caddeyi tutmak
 slug: caddeyi-tutmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple bir yoldan geçişi engellemek, kapamak

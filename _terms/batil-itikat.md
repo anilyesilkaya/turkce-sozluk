@@ -2,6 +2,7 @@
 layout: term
 title: batıl itikat
 slug: batil-itikat
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► batıl inanç

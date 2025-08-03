@@ -2,6 +2,7 @@
 layout: term
 title: vurgu uzunluğu
 slug: vurgu-uzunlugu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Bir hecede vurguya bağlı olarak ortaya çıkan uzunluk

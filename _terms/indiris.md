@@ -2,6 +2,7 @@
 layout: term
 title: indiriş
 slug: indiris
+letter: I
 lisan: Türkçe
 anlamlar:
 - İndirmek işi

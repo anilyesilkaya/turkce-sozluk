@@ -2,6 +2,7 @@
 layout: term
 title: çöreklenebilmek
 slug: coreklenebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöreklenme ihtimali veya imkânı bulunmak

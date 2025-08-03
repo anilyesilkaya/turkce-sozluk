@@ -2,6 +2,7 @@
 layout: term
 title: koyulaştırma
 slug: koyulastirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyulaştırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: ezbercilik
 slug: ezbercilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberci olma durumu

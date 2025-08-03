@@ -2,6 +2,7 @@
 layout: term
 title: bozabilmek
 slug: bozabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozma ihtimali veya imkânı bulunmak

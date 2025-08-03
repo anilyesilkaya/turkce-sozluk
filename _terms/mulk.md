@@ -2,6 +2,7 @@
 layout: term
 title: mülk
 slug: mulk
+letter: M
 lisan: Arapça mulk
 anlamlar:
 - Ev, dükkân, arazi vb. taşınmaz mal

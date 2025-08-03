@@ -2,6 +2,7 @@
 layout: term
 title: başıboş bırakmak
 slug: basibos-birakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - üstünde hiçbir baskı veya denetim bulundurmamak, kendi hâline bırakmak

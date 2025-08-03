@@ -2,6 +2,7 @@
 layout: term
 title: irice
 slug: irice
+letter: I
 lisan: Türkçe
 anlamlar:
 - İriye yakın, biraz iri

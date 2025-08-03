@@ -2,6 +2,7 @@
 layout: term
 title: boyutlanış
 slug: boyutlanis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyutlanmak işi

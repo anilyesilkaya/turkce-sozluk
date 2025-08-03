@@ -2,6 +2,7 @@
 layout: term
 title: salon
 slug: salon
+letter: S
 lisan: Fransızca salon
 anlamlar:
 - Bir evde konukları ağırlamakta kullanılan en geniş oda

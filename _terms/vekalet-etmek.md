@@ -2,6 +2,7 @@
 layout: term
 title: vekâlet etmek
 slug: vekalet-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - birinin yerine bakmak, görevini üstlenmek

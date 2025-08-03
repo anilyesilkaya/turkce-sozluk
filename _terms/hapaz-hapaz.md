@@ -2,6 +2,7 @@
 layout: term
 title: hapaz hapaz
 slug: hapaz-hapaz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► avuç avuç

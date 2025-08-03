@@ -2,6 +2,7 @@
 layout: term
 title: tahteşşuur
 slug: tahtessuur
+letter: T
 lisan: Arapça taḥte'ş-şuʿūr
 anlamlar:
 - ► bilinçaltı

@@ -2,6 +2,7 @@
 layout: term
 title: tasdiklettirilmek
 slug: tasdiklettirilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► onaylattırılmak

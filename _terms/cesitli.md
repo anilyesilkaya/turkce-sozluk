@@ -2,6 +2,7 @@
 layout: term
 title: çeşitli
 slug: cesitli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşidi çok olan; muhtelif, mütenevvi

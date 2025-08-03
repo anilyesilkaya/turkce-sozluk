@@ -2,6 +2,7 @@
 layout: term
 title: gide gide
 slug: gide-gide
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gidip dolaşarak, gezip görerek

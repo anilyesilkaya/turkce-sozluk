@@ -2,6 +2,7 @@
 layout: term
 title: forum
 slug: forum
+letter: F
 lisan: Latince
 anlamlar:
 - Eski Romalılar zamanında, Roma'da ve diğer şehirlerde kamu işlerini konuşmak için halkın toplandığı alan

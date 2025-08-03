@@ -2,6 +2,7 @@
 layout: term
 title: kilometre
 slug: kilometre
+letter: K
 lisan: Fransızca kilomètre
 anlamlar:
 - 1.000 metrelik uzunluk ölçü birimi (km)

@@ -2,6 +2,7 @@
 layout: term
 title: satır başı
 slug: satir-basi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir yazıda her satırın ilk kelimesinin başladığı yer

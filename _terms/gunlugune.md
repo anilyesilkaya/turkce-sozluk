@@ -2,6 +2,7 @@
 layout: term
 title: günlüğüne
 slug: gunlugune
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir gün için

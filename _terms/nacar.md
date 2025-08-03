@@ -2,6 +2,7 @@
 layout: term
 title: naçar
 slug: nacar
+letter: N
 lisan: Farsça nāçār
 anlamlar:
 - Çaresi olmayan; çaresiz

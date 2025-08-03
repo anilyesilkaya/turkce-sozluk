@@ -2,6 +2,7 @@
 layout: term
 title: eski kurt
 slug: eski-kurt
+letter: E
 lisan: Türkçe
 anlamlar:
 - Mesleğinde uzmanlaşmış olan (kimse)

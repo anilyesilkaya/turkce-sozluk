@@ -2,6 +2,7 @@
 layout: term
 title: sili
 slug: sili
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► temiz

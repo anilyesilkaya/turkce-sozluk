@@ -2,6 +2,7 @@
 layout: term
 title: Türkvari
 slug: turkvari
+letter: T
 lisan: Türkçe türk + Farsça -vārī
 anlamlar:
 - Türk tarzı içeren

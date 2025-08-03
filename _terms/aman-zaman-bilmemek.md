@@ -2,6 +2,7 @@
 layout: term
 title: aman zaman bilmemek
 slug: aman-zaman-bilmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - hâlden anlamamak

@@ -2,6 +2,7 @@
 layout: term
 title: etekserpen
 slug: etekserpen
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► pasaklı

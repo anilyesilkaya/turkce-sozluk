@@ -2,6 +2,7 @@
 layout: term
 title: bitiş
 slug: bitis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitmek işi

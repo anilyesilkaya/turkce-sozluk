@@ -2,6 +2,7 @@
 layout: term
 title: resimli
 slug: resimli
+letter: R
 lisan: Türkçe
 anlamlar:
 - İçinde resimler bulunan; musavver

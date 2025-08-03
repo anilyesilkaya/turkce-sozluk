@@ -2,6 +2,7 @@
 layout: term
 title: şenlik
 slug: senlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şen olma durumu; şetaret

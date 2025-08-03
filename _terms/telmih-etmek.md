@@ -2,6 +2,7 @@
 layout: term
 title: telmih etmek
 slug: telmih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - üstü kapalı, imalı bir biçimde anlatmak

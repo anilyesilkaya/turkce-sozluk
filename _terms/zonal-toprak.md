@@ -2,6 +2,7 @@
 layout: term
 title: zonal toprak
 slug: zonal-toprak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bölgede etkili olan iklim şartları ve bitki örtüsü özelliklerine göre oluşmuş toprak

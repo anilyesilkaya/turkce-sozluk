@@ -2,6 +2,7 @@
 layout: term
 title: ağzı büyüklük
 slug: agzi-buyukluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağzı büyük olma durumu

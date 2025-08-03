@@ -2,6 +2,7 @@
 layout: term
 title: ayakyolu
 slug: ayakyolu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tuvalet

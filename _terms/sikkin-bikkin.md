@@ -2,6 +2,7 @@
 layout: term
 title: sıkkın bıkkın
 slug: sikkin-bikkin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkılmış ve bıkmış olarak

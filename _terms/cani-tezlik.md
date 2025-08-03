@@ -2,6 +2,7 @@
 layout: term
 title: canı tezlik
 slug: cani-tezlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canı tez olma durumu

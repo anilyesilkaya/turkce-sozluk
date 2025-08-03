@@ -2,6 +2,7 @@
 layout: term
 title: menevişlenmek
 slug: menevislenmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► harelenmek

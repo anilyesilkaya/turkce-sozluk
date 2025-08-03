@@ -2,6 +2,7 @@
 layout: term
 title: uyar
 slug: uyar
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygun olan

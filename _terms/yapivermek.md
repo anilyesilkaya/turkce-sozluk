@@ -2,6 +2,7 @@
 layout: term
 title: yapıvermek
 slug: yapivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kolaylıkla yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: halel gelmek
 slug: halel-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bozulmak, zarara uğramak

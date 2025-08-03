@@ -2,6 +2,7 @@
 layout: term
 title: lezzet almak
 slug: lezzet-almak
+letter: L
 lisan: Türkçe
 anlamlar:
 - hoşlanmak

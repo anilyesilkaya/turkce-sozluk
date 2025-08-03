@@ -2,6 +2,7 @@
 layout: term
 title: basılı
 slug: basili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basılarak yerleştirilmiş

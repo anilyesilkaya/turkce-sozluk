@@ -2,6 +2,7 @@
 layout: term
 title: maddiyat
 slug: maddiyat
+letter: M
 lisan: Arapça māddiyyāt
 anlamlar:
 - Sahip olunan mal veya paralar

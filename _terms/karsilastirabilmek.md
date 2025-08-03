@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırabilmek
 slug: karsilastirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırma ihtimali veya imkânı bulunmak

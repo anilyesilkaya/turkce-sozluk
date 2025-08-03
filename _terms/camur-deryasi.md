@@ -2,6 +2,7 @@
 layout: term
 title: çamur deryası
 slug: camur-deryasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Her tarafı çamurla kaplı

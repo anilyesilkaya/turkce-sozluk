@@ -2,6 +2,7 @@
 layout: term
 title: güncelliğini yitirmek
 slug: guncelligini-yitirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - süre aşımına uğrayarak önem ve değerini yitirmek

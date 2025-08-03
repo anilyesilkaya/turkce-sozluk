@@ -2,6 +2,7 @@
 layout: term
 title: felçli
 slug: felcli
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► inmeli

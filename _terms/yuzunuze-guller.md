@@ -2,6 +2,7 @@
 layout: term
 title: yüzünüze güller
 slug: yuzunuze-guller
+letter: Y
 lisan: Türkçe
 anlamlar:
 - iğrenç bir şey anlatılırken söylenen bir söz

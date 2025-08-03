@@ -2,6 +2,7 @@
 layout: term
 title: güllü
 slug: gullu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülü olan

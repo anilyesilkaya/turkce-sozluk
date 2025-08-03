@@ -2,6 +2,7 @@
 layout: term
 title: parazitsiz
 slug: parazitsiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paraziti olmayan

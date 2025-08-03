@@ -2,6 +2,7 @@
 layout: term
 title: faydasını görmek
 slug: faydasini-gormek
+letter: F
 lisan: Türkçe
 anlamlar:
 - yarar sağlamak

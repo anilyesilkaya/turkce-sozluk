@@ -2,6 +2,7 @@
 layout: term
 title: içi kan ağlamak
 slug: ici-kan-aglamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok üzüntü duymak

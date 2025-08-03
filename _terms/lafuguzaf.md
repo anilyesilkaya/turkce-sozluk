@@ -2,6 +2,7 @@
 layout: term
 title: lafügüzaf
 slug: lafuguzaf
+letter: L
 lisan: Farsça lāf + guẕāf
 anlamlar:
 - Boş, yersiz söz

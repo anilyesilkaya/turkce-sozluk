@@ -2,6 +2,7 @@
 layout: term
 title: oturup kalkmak
 slug: oturup-kalkmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - hareket etmek

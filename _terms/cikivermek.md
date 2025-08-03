@@ -2,6 +2,7 @@
 layout: term
 title: çıkıvermek
 slug: cikivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın çıkmak

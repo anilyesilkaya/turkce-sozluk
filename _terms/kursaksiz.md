@@ -2,6 +2,7 @@
 layout: term
 title: kursaksız
 slug: kursaksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kursağı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: iç kuyu
 slug: ic-kuyu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yer altında, ocak katları arasında bulunan ve ağzı yer üstüne açılmayan kuyu türü

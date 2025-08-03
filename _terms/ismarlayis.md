@@ -2,6 +2,7 @@
 layout: term
 title: ısmarlayış
 slug: ismarlayis
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ismarlamak işi

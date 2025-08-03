@@ -2,6 +2,7 @@
 layout: term
 title: eğitim öğretim yılı
 slug: egitim-ogretim-yili
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitim ve öğretimin başladığı tarihten sonraki eğitim ve öğretim yılının başladığı tarihe kadar geçen süre; öğretim yılı

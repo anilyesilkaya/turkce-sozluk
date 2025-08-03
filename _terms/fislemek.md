@@ -2,6 +2,7 @@
 layout: term
 title: fişlemek
 slug: fislemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fiş üzerine yazmak

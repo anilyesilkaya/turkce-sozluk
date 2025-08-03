@@ -2,6 +2,7 @@
 layout: term
 title: cihanşümul
 slug: cihansumul
+letter: C
 lisan: Farsça cihān + Arapça şumūl
 anlamlar:
 - ► evrensel

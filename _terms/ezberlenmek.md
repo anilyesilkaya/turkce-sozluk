@@ -2,6 +2,7 @@
 layout: term
 title: ezberlenmek
 slug: ezberlenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberleme işi yapılmak

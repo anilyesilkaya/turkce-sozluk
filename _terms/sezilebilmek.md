@@ -2,6 +2,7 @@
 layout: term
 title: sezilebilmek
 slug: sezilebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezilme ihtimali bulunmak

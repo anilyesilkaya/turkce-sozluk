@@ -2,6 +2,7 @@
 layout: term
 title: olivin
 slug: olivin
+letter: O
 lisan: Fransızca olivine
 anlamlar:
 - Sarımsı yeşil renkli, cam parıltılı, magnezyum ve demirli silikat; peridot

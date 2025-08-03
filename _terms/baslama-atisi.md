@@ -2,6 +2,7 @@
 layout: term
 title: başlama atışı
 slug: baslama-atisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► hava atışı

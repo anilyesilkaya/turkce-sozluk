@@ -2,6 +2,7 @@
 layout: term
 title: kapsül
 slug: kapsul
+letter: K
 lisan: Fransızca capsule
 anlamlar:
 - Ateşli silahlarda horozun veya iğnenin çarpmasıyla ateş alan, bir tür özel barutla dolu, küçük, yuvarlak metal parça

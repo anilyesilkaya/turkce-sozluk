@@ -2,6 +2,7 @@
 layout: term
 title: birleşiklik
 slug: birlesiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşik olma durumu

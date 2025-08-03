@@ -2,6 +2,7 @@
 layout: term
 title: açık oy
 slug: acik-oy
+letter: A
 lisan: Türkçe
 anlamlar:
 - Verenin adını gösteren ve konuşulan sorun üzerindeki düşüncesini belli edecek biçimde verilen oy

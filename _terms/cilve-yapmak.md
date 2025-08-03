@@ -2,6 +2,7 @@
 layout: term
 title: cilve yapmak
 slug: cilve-yapmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - nazlanmak, kırıtmak

@@ -2,6 +2,7 @@
 layout: term
 title: şakamsı
 slug: sakamsi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakaya benzer biçimde

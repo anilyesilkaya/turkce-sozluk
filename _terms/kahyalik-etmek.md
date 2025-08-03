@@ -2,6 +2,7 @@
 layout: term
 title: kâhyalık etmek
 slug: kahyalik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kâhyalık görevinde bulunmak

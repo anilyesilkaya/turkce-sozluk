@@ -2,6 +2,7 @@
 layout: term
 title: sinirlenmek
 slug: sinirlenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Duygu ve davranışlarını denetleyemeyecek duruma gelmek; asabileşmek, feveran etmek

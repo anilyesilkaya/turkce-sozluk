@@ -2,6 +2,7 @@
 layout: term
 title: çalakalem
 slug: calakalem
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Durmadan, çabucak yazarak

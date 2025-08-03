@@ -2,6 +2,7 @@
 layout: term
 title: kör şans
 slug: kor-sans
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü olan talih

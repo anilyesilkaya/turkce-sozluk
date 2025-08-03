@@ -2,6 +2,7 @@
 layout: term
 title: süvari alayı
 slug: suvari-alayi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Atlı askerlerden oluşan alay

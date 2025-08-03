@@ -2,6 +2,7 @@
 layout: term
 title: itaatli
 slug: itaatli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Söz dinleyen, buyruğa uyan; itaatkâr, muti

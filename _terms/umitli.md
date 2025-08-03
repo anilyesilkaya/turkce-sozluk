@@ -2,6 +2,7 @@
 layout: term
 title: ümitli
 slug: umitli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► umutlu

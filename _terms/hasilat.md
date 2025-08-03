@@ -2,6 +2,7 @@
 layout: term
 title: hasılat
 slug: hasilat
+letter: H
 lisan: Arapça ḥāṣilāt
 anlamlar:
 - ► ürün

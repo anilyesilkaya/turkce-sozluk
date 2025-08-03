@@ -2,6 +2,7 @@
 layout: term
 title: cezbe
 slug: cezbe
+letter: C
 lisan: Arapça ceẕbe
 anlamlar:
 - Bir duygu veya bir inanışın etkisiyle aşırı ölçüde coşup kendinden geçme durumu

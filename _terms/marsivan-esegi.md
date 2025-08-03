@@ -2,6 +2,7 @@
 layout: term
 title: marsıvan eşeği
 slug: marsivan-esegi
+letter: M
 lisan: Türkçe
 anlamlar:
 - İyi huylu ve güçlü bir cins eşek; marsıvan ayısı

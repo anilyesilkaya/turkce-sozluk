@@ -2,6 +2,7 @@
 layout: term
 title: Aborjin
 slug: aborjin
+letter: A
 lisan: Fransızca aborigène
 anlamlar:
 - Avustralya yerlisi

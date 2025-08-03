@@ -2,6 +2,7 @@
 layout: term
 title: elektrikçi
 slug: elektrikci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektrik işleri yapan usta

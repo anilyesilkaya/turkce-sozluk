@@ -2,6 +2,7 @@
 layout: term
 title: 'ne çabuk '
 slug: ne-cabuk
+letter: N
 lisan: Türkçe
 anlamlar:
 - Çok hızlı bir biçimde

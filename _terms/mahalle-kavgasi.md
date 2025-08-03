@@ -2,6 +2,7 @@
 layout: term
 title: 'mahalle kavgası '
 slug: mahalle-kavgasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kaba sözlerin de sarf edildiği şiddetli kavga

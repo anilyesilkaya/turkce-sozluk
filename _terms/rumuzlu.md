@@ -2,6 +2,7 @@
 layout: term
 title: rumuzlu
 slug: rumuzlu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rumuzu olan, rumuzla anlatılan

@@ -2,6 +2,7 @@
 layout: term
 title: taklitçi
 slug: taklitci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin benzerini yapan kimse; öykünmeci

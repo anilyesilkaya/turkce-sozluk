@@ -2,6 +2,7 @@
 layout: term
 title: çok eşli
 slug: cok-esli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aynı zamanda birçok kadınla evli olan (erkek) veya birçok erkekle evli olan (kadın); poligam

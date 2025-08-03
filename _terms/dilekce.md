@@ -2,6 +2,7 @@
 layout: term
 title: dilekçe
 slug: dilekce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir dileği bildirmek için resmî makamlara sunulan, imzalı ve adresli, pullu veya pulsuz yazı; istida, arzuhâl

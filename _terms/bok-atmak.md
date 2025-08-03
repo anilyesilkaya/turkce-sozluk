@@ -2,6 +2,7 @@
 layout: term
 title: bok atmak
 slug: bok-atmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birine leke sürmek, kara çalmak

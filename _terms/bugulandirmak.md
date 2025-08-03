@@ -2,6 +2,7 @@
 layout: term
 title: buğulandırmak
 slug: bugulandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buğulanmasına yol açmak

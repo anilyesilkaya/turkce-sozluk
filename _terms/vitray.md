@@ -2,6 +2,7 @@
 layout: term
 title: vitray
 slug: vitray
+letter: V
 lisan: Fransızca vitrail
 anlamlar:
 - Birbirine bağlı kurşun bölmelere yerleştirilmiş renkli cam parçalarından oluşan, saydam pencere süslemesi veya resim

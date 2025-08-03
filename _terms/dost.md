@@ -2,6 +2,7 @@
 layout: term
 title: dost
 slug: dost
+letter: D
 lisan: Farsça dūst
 anlamlar:
 - Sevilen, güvenilen, gönüldaş, iyi anlaşılan kimse; yâr, düşman karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: dayanmak
 slug: dayanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir yere yaslanmak, kendini dayamak

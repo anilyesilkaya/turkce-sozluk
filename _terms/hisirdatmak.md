@@ -2,6 +2,7 @@
 layout: term
 title: hışırdatmak
 slug: hisirdatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hışırtı çıkartmak

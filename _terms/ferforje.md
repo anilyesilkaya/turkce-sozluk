@@ -2,6 +2,7 @@
 layout: term
 title: ferforje
 slug: ferforje
+letter: F
 lisan: Fransızca fer forgé
 anlamlar:
 - Kapılara, pencerelere veya evlerin iç bölümlerine süsleme amacıyla yapılıp takılan dövme demir

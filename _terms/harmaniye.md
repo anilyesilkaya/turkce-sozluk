@@ -2,6 +2,7 @@
 layout: term
 title: harmaniye
 slug: harmaniye
+letter: H
 lisan: Farsça ḫirmen + Arapça -iyye
 anlamlar:
 - ► harmani

@@ -2,6 +2,7 @@
 layout: term
 title: muhafazakârlık
 slug: muhafazakarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► tutuculuk

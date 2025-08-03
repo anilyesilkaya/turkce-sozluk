@@ -2,6 +2,7 @@
 layout: term
 title: devlet kuşu
 slug: devlet-kusu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Beklenmedik bir iyilik, iyi talih; talih kuşu

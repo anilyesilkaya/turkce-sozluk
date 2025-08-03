@@ -2,6 +2,7 @@
 layout: term
 title: peşinden sürüklemek
 slug: pesinden-suruklemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - birinin veya birçoklarının arkasından gelmesini sağlamak

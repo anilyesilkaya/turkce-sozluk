@@ -2,6 +2,7 @@
 layout: term
 title: kavara
 slug: kavara
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yellenme

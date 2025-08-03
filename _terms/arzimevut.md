@@ -2,6 +2,7 @@
 layout: term
 title: arzımevut
 slug: arzimevut
+letter: A
 lisan: Arapça ʿarż + Farsça mevʿūd
 anlamlar:
 - Vadedilmiş topraklar

@@ -2,6 +2,7 @@
 layout: term
 title: reflektör
 slug: reflektor
+letter: R
 lisan: Fransızca réflecteur
 anlamlar:
 - ► yansıtıcı

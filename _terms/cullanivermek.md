@@ -2,6 +2,7 @@
 layout: term
 title: çullanıvermek
 slug: cullanivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aniden çullanmak

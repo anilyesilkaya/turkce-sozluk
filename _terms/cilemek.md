@@ -2,6 +2,7 @@
 layout: term
 title: çilemek
 slug: cilemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yağmur çiselemek

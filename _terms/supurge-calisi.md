@@ -2,6 +2,7 @@
 layout: term
 title: süpürge çalısı
 slug: supurge-calisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► süpürge otu

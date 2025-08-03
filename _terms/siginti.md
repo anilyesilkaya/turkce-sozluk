@@ -2,6 +2,7 @@
 layout: term
 title: sığıntı
 slug: siginti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bulunduğu yerde kalması istenmeyen, varlığı gereksiz görülen kimse

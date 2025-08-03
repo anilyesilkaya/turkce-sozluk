@@ -2,6 +2,7 @@
 layout: term
 title: bitaplık
 slug: bitaplik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bitkinlik

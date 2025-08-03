@@ -2,6 +2,7 @@
 layout: term
 title: mesuliyet
 slug: mesuliyet
+letter: M
 lisan: Arapça mesʾūliyyet
 anlamlar:
 - ► sorumluluk

@@ -2,6 +2,7 @@
 layout: term
 title: hazırlıksız yakalanmak
 slug: hazirliksiz-yakalanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ani gelişen bir olayla beklenmedik bir biçimde karşılaşmak

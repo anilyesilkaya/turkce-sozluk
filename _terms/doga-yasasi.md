@@ -2,6 +2,7 @@
 layout: term
 title: doğa yasası
 slug: doga-yasasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► doğa kanunu

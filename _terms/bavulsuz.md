@@ -2,6 +2,7 @@
 layout: term
 title: bavulsuz
 slug: bavulsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bavulu olmayan

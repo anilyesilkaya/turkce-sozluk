@@ -2,6 +2,7 @@
 layout: term
 title: ağır ağır
 slug: agir-agir
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

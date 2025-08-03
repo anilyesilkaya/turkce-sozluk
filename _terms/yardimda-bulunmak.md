@@ -2,6 +2,7 @@
 layout: term
 title: yardımda bulunmak
 slug: yardimda-bulunmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yardım etmek

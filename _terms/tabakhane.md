@@ -2,6 +2,7 @@
 layout: term
 title: tabakhane
 slug: tabakhane
+letter: T
 lisan: Arapça debbāġ + Farsça ḫāne
 anlamlar:
 - Hayvan postunu kullanılacak duruma getirme işleminin yapıldığı yer, sepi yeri

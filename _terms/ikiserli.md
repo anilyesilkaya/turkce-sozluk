@@ -2,6 +2,7 @@
 layout: term
 title: ikişerli
 slug: ikiserli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkişer ikişer sıralanmış

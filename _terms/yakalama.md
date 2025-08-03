@@ -2,6 +2,7 @@
 layout: term
 title: yakalama
 slug: yakalama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakalamak işi

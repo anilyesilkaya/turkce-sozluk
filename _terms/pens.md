@@ -2,6 +2,7 @@
 layout: term
 title: pens
 slug: pens
+letter: P
 lisan: Fransızca pince
 anlamlar:
 - Giysilerde vücuda oturmasını sağlamak için bazı yerlerden içeriye doğru daraltılarak dikilmiş bölüm

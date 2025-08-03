@@ -2,6 +2,7 @@
 layout: term
 title: ilaç
 slug: ilac
+letter: I
 lisan: Arapça ʿilāc
 anlamlar:
 - Bir hastalığı iyi etmek veya önlemek için türlü yollarla kullanılan madde; daru, em, ot

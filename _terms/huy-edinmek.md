@@ -2,6 +2,7 @@
 layout: term
 title: huy edinmek
 slug: huy-edinmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir davranışı alışkanlık durumuna getirmek

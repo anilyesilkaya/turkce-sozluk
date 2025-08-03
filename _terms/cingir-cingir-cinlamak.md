@@ -2,6 +2,7 @@
 layout: term
 title: çıngır çıngır çınlamak
 slug: cingir-cingir-cinlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çıngır çıngır ötmek

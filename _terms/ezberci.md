@@ -2,6 +2,7 @@
 layout: term
 title: ezberci
 slug: ezberci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Dersini veya herhangi bir konuyu anlamadan kelime kelime belleğinde tutan kimse

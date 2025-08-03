@@ -2,6 +2,7 @@
 layout: term
 title: ağız etmek
 slug: agiz-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yaranmak için kibar konuşmaya çalışmak

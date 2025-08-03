@@ -2,6 +2,7 @@
 layout: term
 title: '... delisi (olmak)'
 slug: delisi-olmak
+letter: .
 lisan: Türkçe
 anlamlar:
 - bir kimseye veya şeye aşırı derecede düşkün (olmak)

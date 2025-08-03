@@ -2,6 +2,7 @@
 layout: term
 title: sakınmak
 slug: sakinmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir korku veya düşünce ile bir şeyi yapmaktan uzak durmak; içtinap etmek

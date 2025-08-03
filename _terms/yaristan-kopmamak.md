@@ -2,6 +2,7 @@
 layout: term
 title: yarıştan kopmamak
 slug: yaristan-kopmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - rahatsızlanmak, rakibi tarafından geçilmek, yenileceği anlaşılmak gibi her türlü olumsuz duruma karşın yarışı bırakmamak

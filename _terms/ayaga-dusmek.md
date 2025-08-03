@@ -2,6 +2,7 @@
 layout: term
 title: ayağa düşmek
 slug: ayaga-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ilgisiz ve yetkisiz kimseler karışmak

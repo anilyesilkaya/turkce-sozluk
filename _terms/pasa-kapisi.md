@@ -2,6 +2,7 @@
 layout: term
 title: paşa kapısı
 slug: pasa-kapisi
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► hükûmet konağı

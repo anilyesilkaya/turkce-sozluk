@@ -2,6 +2,7 @@
 layout: term
 title: yüreği yağ bağlamak
 slug: yuregi-yag-baglamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - istenilen bir şeyin olmasından ferahlık duymak

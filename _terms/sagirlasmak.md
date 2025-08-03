@@ -2,6 +2,7 @@
 layout: term
 title: sağırlaşmak
 slug: sagirlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İşitemez duruma gelmek

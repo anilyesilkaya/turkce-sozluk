@@ -2,6 +2,7 @@
 layout: term
 title: genelleştirebilmek
 slug: genellestirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genelleştirme ihtimali veya imkânı bulunmak

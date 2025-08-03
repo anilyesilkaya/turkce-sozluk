@@ -2,6 +2,7 @@
 layout: term
 title: üstünlük kompleksi
 slug: ustunluk-kompleksi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üstünlük duygusu

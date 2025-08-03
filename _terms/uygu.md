@@ -2,6 +2,7 @@
 layout: term
 title: uygu
 slug: uygu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uygulama

@@ -2,6 +2,7 @@
 layout: term
 title: pıyrım pıyrım
 slug: piyrim-piyrim
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok eskimiş, çok yıpranmış

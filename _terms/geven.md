@@ -2,6 +2,7 @@
 layout: term
 title: geven
 slug: geven
+letter: G
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, çok yıllık, bazı türlerinden kitre denilen zamk çıkarılan, arıcılıkta aromasından faydalanılan, eğimli alanlarda toprağı koruyan, eczacılık, boya, dokuma ve kâğıt sanayisinde ham madde olarak kullanılan, dikenli bir çalı; keven (Astragalus)

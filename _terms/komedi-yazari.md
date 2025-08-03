@@ -2,6 +2,7 @@
 layout: term
 title: komedi yazarı
 slug: komedi-yazari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle komedi türünde eser veren kimse

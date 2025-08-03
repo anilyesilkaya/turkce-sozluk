@@ -2,6 +2,7 @@
 layout: term
 title: anafor
 slug: anafor
+letter: A
 lisan: Rumca
 anlamlar:
 - ► girdap

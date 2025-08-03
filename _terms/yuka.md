@@ -2,6 +2,7 @@
 layout: term
 title: yuka
 slug: yuka
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zayıf, ince, hafif olma

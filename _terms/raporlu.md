@@ -2,6 +2,7 @@
 layout: term
 title: raporlu
 slug: raporlu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Raporu olan

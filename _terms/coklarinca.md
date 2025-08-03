@@ -2,6 +2,7 @@
 layout: term
 title: çoklarınca
 slug: coklarinca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birçok kimse tarafından

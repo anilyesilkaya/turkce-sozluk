@@ -2,6 +2,7 @@
 layout: term
 title: buutlu
 slug: buutlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boyutlu

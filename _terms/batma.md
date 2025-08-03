@@ -2,6 +2,7 @@
 layout: term
 title: batma
 slug: batma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batmak işi

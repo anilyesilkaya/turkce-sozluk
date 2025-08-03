@@ -2,6 +2,7 @@
 layout: term
 title: küşümlenmek
 slug: kusumlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuşkulanmak

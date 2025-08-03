@@ -2,6 +2,7 @@
 layout: term
 title: huzur
 slug: huzur
+letter: H
 lisan: Arapça ḥużūr
 anlamlar:
 - Dirlik, baş dinçliği, gönül rahatlığı

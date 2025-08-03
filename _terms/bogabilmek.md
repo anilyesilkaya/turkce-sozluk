@@ -2,6 +2,7 @@
 layout: term
 title: boğabilmek
 slug: bogabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğma ihtimali veya imkânı bulunmak

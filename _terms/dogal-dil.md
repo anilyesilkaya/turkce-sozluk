@@ -2,6 +2,7 @@
 layout: term
 title: doğal dil
 slug: dogal-dil
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnsanların duygularını, düşünce ve isteklerini bildirmek için kullandıkları dillerin her biri

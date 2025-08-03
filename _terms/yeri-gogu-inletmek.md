@@ -2,6 +2,7 @@
 layout: term
 title: yeri göğü inletmek
 slug: yeri-gogu-inletmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yüksek sesle ve olanca güçle bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: elvermek
 slug: elvermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yetmek, yetecek kadar olmak

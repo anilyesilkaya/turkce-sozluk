@@ -2,6 +2,7 @@
 layout: term
 title: şuracık
 slug: suracik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Yakın ve belirli bir yer

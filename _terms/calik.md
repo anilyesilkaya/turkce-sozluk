@@ -2,6 +2,7 @@
 layout: term
 title: çalık
 slug: calik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çarpık

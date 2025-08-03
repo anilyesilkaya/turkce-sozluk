@@ -2,6 +2,7 @@
 layout: term
 title: dizginlemek
 slug: dizginlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ata dizgin takmak veya atı yürütmek için dizginini oynatmak

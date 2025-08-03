@@ -2,6 +2,7 @@
 layout: term
 title: kârgir
 slug: kargir
+letter: K
 lisan: Farsça kārgīr
 anlamlar:
 - ► kâgir

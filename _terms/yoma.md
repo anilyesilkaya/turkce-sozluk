@@ -2,6 +2,7 @@
 layout: term
 title: yoma
 slug: yoma
+letter: Y
 lisan: Rumca
 anlamlar:
 - Sabit manevralarda ve gemileri bağlamada kullanılan, üç veya dört kollu halat

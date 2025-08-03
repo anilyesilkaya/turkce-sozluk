@@ -2,6 +2,7 @@
 layout: term
 title: çalakılıç
 slug: calakilic
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Durmadan kılıç sallayarak

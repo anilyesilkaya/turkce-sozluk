@@ -2,6 +2,7 @@
 layout: term
 title: kalenderce
 slug: kalenderce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalendere yakışır

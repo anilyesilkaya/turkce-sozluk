@@ -2,6 +2,7 @@
 layout: term
 title: nabzını saymak
 slug: nabzini-saymak
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir dakikadaki kalp atışını saymak

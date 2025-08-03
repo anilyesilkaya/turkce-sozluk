@@ -2,6 +2,7 @@
 layout: term
 title: faşizanlık
 slug: fasizanlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Faşizan olma durumu

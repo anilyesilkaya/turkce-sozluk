@@ -2,6 +2,7 @@
 layout: term
 title: kibarcasına
 slug: kibarcasina
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kibarca

@@ -2,6 +2,7 @@
 layout: term
 title: Korece
 slug: korece
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korelilerin kullandığı dil

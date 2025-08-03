@@ -2,6 +2,7 @@
 layout: term
 title: gündeş
 slug: gundes
+letter: G
 lisan: Türkçe
 anlamlar:
 - Aynı günde olan

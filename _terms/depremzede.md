@@ -2,6 +2,7 @@
 layout: term
 title: depremzede
 slug: depremzede
+letter: D
 lisan: Türkçe deprem + Farsça -zede
 anlamlar:
 - Depremde zarar görmüş kimse

@@ -2,6 +2,7 @@
 layout: term
 title: hilafsız
 slug: hilafsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Abartmaksızın

@@ -2,6 +2,7 @@
 layout: term
 title: oruç bozmak
 slug: oruc-bozmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - bir şey yiyerek, içerek orucunu sona erdirmek

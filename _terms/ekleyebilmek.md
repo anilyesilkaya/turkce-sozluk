@@ -2,6 +2,7 @@
 layout: term
 title: ekleyebilmek
 slug: ekleyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekleme ihtimali veya imkânı bulunmak

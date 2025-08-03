@@ -2,6 +2,7 @@
 layout: term
 title: süprüntülük
 slug: supruntuluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► çöplük

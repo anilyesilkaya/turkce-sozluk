@@ -2,6 +2,7 @@
 layout: term
 title: tab
 slug: tab
+letter: T
 lisan: Arapça ṭabʿ
 anlamlar:
 - ► bası

@@ -2,6 +2,7 @@
 layout: term
 title: prozodi
 slug: prozodi
+letter: P
 lisan: Fransızca prosodie
 anlamlar:
 - Bir şiirin bestelenmesinde, şiirin hece vurgularının müzik vurgu ve yükselişleriyle iyice uyuşmuş olması ve bunu sağlayan müzik kurallarının tümü

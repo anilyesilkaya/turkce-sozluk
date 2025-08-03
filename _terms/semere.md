@@ -2,6 +2,7 @@
 layout: term
 title: semere
 slug: semere
+letter: S
 lisan: Arapça s̱emere
 anlamlar:
 - Yemiş, meyve, ürün

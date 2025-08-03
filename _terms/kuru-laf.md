@@ -2,6 +2,7 @@
 layout: term
 title: kuru laf
 slug: kuru-laf
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gerçekle ilgisi olmayan, değer taşımayan boş söz; kuru söz

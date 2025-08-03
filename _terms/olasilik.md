@@ -2,6 +2,7 @@
 layout: term
 title: olasılık
 slug: olasilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyin olabilmesi durumu, olabilirlik; ihtimal

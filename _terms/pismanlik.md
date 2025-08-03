@@ -2,6 +2,7 @@
 layout: term
 title: pişmanlık
 slug: pismanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişman olma durumu; nedamet

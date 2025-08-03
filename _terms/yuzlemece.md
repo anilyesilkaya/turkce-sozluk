@@ -2,6 +2,7 @@
 layout: term
 title: yüzlemece
 slug: yuzlemece
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüz yüze yapılan

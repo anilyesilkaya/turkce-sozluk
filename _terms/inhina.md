@@ -2,6 +2,7 @@
 layout: term
 title: inhina
 slug: inhina
+letter: I
 lisan: Arapça inḥinā
 anlamlar:
 - ► eğrilme

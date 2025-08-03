@@ -2,6 +2,7 @@
 layout: term
 title: kira arabası
 slug: kira-arabasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kiralık kullanılan araba, taksi vb

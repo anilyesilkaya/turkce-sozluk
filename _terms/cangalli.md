@@ -2,6 +2,7 @@
 layout: term
 title: çangallı
 slug: cangalli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çangalı olan

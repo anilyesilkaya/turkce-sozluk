@@ -2,6 +2,7 @@
 layout: term
 title: sıtmalı
 slug: sitmali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıtmaya tutulmuş (kimse)

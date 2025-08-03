@@ -2,6 +2,7 @@
 layout: term
 title: zifirî karanlık
 slug: zifiri-karanlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Çok koyu karanlık

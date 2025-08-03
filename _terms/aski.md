@@ -2,6 +2,7 @@
 layout: term
 title: askı
 slug: aski
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerine herhangi bir şey asmaya yarar nesne; asacak

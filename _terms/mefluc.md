@@ -2,6 +2,7 @@
 layout: term
 title: mefluç
 slug: mefluc
+letter: M
 lisan: Arapça meflūc
 anlamlar:
 - ► inmeli

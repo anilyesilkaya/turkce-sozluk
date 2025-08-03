@@ -2,6 +2,7 @@
 layout: term
 title: hidrofobi
 slug: hidrofobi
+letter: H
 lisan: Fransızca hydrophobie
 anlamlar:
 - ► su korkusu

@@ -2,6 +2,7 @@
 layout: term
 title: mihver
 slug: mihver
+letter: M
 lisan: Arapça miḥver
 anlamlar:
 - ► eksen

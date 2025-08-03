@@ -2,6 +2,7 @@
 layout: term
 title: başrahiplik
 slug: basrahiplik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başrahip olma durumu; başkeşişlik

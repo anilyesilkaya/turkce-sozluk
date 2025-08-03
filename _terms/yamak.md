@@ -2,6 +2,7 @@
 layout: term
 title: yamak
 slug: yamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işte yardımcı olarak çalışan erkek; el ulağı

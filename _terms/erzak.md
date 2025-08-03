@@ -2,6 +2,7 @@
 layout: term
 title: erzak
 slug: erzak
+letter: E
 lisan: Arapça erzāḳ
 anlamlar:
 - Uzun süre saklanabilen yiyeceklerin genel adı

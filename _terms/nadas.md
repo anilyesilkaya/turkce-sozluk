@@ -2,6 +2,7 @@
 layout: term
 title: nadas
 slug: nadas
+letter: N
 lisan: Rumca
 anlamlar:
 - Tarlayı sürüp herhangi bir şey ekmeden dinlenmeye bırakma

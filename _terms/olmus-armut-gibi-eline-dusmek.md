@@ -2,6 +2,7 @@
 layout: term
 title: olmuş armut gibi eline düşmek
 slug: olmus-armut-gibi-eline-dusmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - emeksiz ve zahmetsizce eline geçmek

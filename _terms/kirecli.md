@@ -2,6 +2,7 @@
 layout: term
 title: kireçli
 slug: kirecli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birleşiminde kireç olan veya kireci çok olan

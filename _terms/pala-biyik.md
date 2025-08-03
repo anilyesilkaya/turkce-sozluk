@@ -2,6 +2,7 @@
 layout: term
 title: pala bıyık
 slug: pala-biyik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gür, uzun, yanaklara doğru kıvrık bıyık

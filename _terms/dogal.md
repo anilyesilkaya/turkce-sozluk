@@ -2,6 +2,7 @@
 layout: term
 title: doğal
 slug: dogal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğada olan, doğada bulunan

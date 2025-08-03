@@ -2,6 +2,7 @@
 layout: term
 title: kerteriz almak (veya etmek)
 slug: kerteriz-almak-veya-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yerin hangi yönde veya geminin nerede bulunduğunu pusula ile ölçmek

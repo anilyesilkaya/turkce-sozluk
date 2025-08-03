@@ -2,6 +2,7 @@
 layout: term
 title: elektrostatik
 slug: elektrostatik
+letter: E
 lisan: Fransızca électrostatique
 anlamlar:
 - Elektriklenmiş cisimler üzerinde elektriği denge durumunda inceleyen fizik dalı

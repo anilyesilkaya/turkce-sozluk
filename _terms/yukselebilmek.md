@@ -2,6 +2,7 @@
 layout: term
 title: yükselebilmek
 slug: yukselebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükselme ihtimali veya imkânı bulunmak

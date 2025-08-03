@@ -2,6 +2,7 @@
 layout: term
 title: antroposantrizm
 slug: antroposantrizm
+letter: A
 lisan: Fransızca anthropocentrisme
 anlamlar:
 - ► insanmerkezcilik

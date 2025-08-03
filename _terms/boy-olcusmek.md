@@ -2,6 +2,7 @@
 layout: term
 title: boy ölçüşmek
 slug: boy-olcusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yarışmak

@@ -2,6 +2,7 @@
 layout: term
 title: ödüllendirilmek
 slug: odullendirilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödüllendirme işi yapılmak

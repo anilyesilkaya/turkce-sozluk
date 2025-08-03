@@ -2,6 +2,7 @@
 layout: term
 title: iniş çıkış
 slug: inis-cikis
+letter: I
 lisan: Türkçe
 anlamlar:
 - Engebe

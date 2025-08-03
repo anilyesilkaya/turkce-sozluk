@@ -2,6 +2,7 @@
 layout: term
 title: limonluk
 slug: limonluk
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► sera

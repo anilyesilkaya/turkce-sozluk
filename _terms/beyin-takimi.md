@@ -2,6 +2,7 @@
 layout: term
 title: beyin takımı
 slug: beyin-takimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kurum veya kuruluşun yönetiminde etkin rol oynayan kimseler

@@ -2,6 +2,7 @@
 layout: term
 title: muvazenesiz
 slug: muvazenesiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dengesiz

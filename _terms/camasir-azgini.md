@@ -2,6 +2,7 @@
 layout: term
 title: çamaşır azgını
 slug: camasir-azgini
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok yıkanmaktan dolayı hırpalanmış, eskimiş, örselenmiş

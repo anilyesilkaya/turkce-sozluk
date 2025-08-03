@@ -2,6 +2,7 @@
 layout: term
 title: çakıl çukul
 slug: cakil-cukul
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karışık bir biçimde, ne dediği belli olmaksızın

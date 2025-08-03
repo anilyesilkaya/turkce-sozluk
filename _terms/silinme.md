@@ -2,6 +2,7 @@
 layout: term
 title: silinme
 slug: silinme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silinmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: tuğlacılık
 slug: tuglacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuğlacının yaptığı iş

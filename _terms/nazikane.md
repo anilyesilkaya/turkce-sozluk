@@ -2,6 +2,7 @@
 layout: term
 title: nazikâne
 slug: nazikane
+letter: N
 lisan: Farsça nāzukāne
 anlamlar:
 - ► nazikçe

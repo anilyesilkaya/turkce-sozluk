@@ -2,6 +2,7 @@
 layout: term
 title: paşalık
 slug: pasalik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paşa ünvanı veya paşa olma durumu

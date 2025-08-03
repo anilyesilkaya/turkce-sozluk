@@ -2,6 +2,7 @@
 layout: term
 title: ulu orta söz söylemek (veya konuşmak)
 slug: ulu-orta-soz-soylemek-veya-konusmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - düşünüp taşınmadan konuşmak, yapacağı etkiyi ölçmeden konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: naftalinlemek
 slug: naftalinlemek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Güveden korumak için yünlüler üzerine, arasına naftalin serpmek veya atmak

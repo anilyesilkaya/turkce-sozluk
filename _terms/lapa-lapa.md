@@ -2,6 +2,7 @@
 layout: term
 title: lapa lapa
 slug: lapa-lapa
+letter: L
 lisan: Türkçe
 anlamlar:
 - Yassı ve iri taneler durumunda (kar yağmak)

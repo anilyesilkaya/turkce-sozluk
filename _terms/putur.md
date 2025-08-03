@@ -2,6 +2,7 @@
 layout: term
 title: pütür
 slug: putur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Küçük kabarcık

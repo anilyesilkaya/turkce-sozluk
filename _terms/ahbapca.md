@@ -2,6 +2,7 @@
 layout: term
 title: ahbapça
 slug: ahbapca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Samimi bir biçimde

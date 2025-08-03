@@ -2,6 +2,7 @@
 layout: term
 title: fasıla
 slug: fasila
+letter: F
 lisan: Arapça fāṣila
 anlamlar:
 - ► aralık

@@ -2,6 +2,7 @@
 layout: term
 title: kocabaş
 slug: kocabas
+letter: K
 lisan: Türkçe
 anlamlar:
 - İspinozgillerden, 18 santimetre uzunluğunda, sırtı kahverengi, karnı pembe bir tür kuş; flurcun (Cocothraustes coccothraustes)

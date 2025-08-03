@@ -2,6 +2,7 @@
 layout: term
 title: ciddi
 slug: ciddi
+letter: C
 lisan: Arapça ciddī
 anlamlar:
 - Şaka olmayan

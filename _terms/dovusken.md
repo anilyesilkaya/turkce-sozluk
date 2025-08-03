@@ -2,6 +2,7 @@
 layout: term
 title: dövüşken
 slug: dovusken
+letter: D
 lisan: Türkçe
 anlamlar:
 - İyi dövüşen veya dövüşmeyi seven; vuruşkan

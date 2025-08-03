@@ -2,6 +2,7 @@
 layout: term
 title: kalamit
 slug: kalamit
+letter: K
 lisan: Fransızca calamite
 anlamlar:
 - Amfibol cinsinden bir mineral türü

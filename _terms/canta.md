@@ -2,6 +2,7 @@
 layout: term
 title: çanta
 slug: canta
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kösele, meşin, kumaş vb. hafif malzemeden yapılıp büyüklüğüne göre para, evrak, yiyecek vb. koyup taşımaya yarayan kap

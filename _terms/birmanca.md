@@ -2,6 +2,7 @@
 layout: term
 title: Birmanca
 slug: birmanca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Myanmar halkı tarafından kullanılan dil

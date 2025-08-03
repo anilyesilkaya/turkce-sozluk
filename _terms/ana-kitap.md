@@ -2,6 +2,7 @@
 layout: term
 title: ana kitap
 slug: ana-kitap
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir bilim alanında yazılmış temel kitap

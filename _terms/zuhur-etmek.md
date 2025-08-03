@@ -2,6 +2,7 @@
 layout: term
 title: zuhur etmek
 slug: zuhur-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ortaya çıkmak, görünmek, belirmek

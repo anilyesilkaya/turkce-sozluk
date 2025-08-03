@@ -2,6 +2,7 @@
 layout: term
 title: şikâr
 slug: sikar
+letter: Ş
 lisan: Farsça şikār
 anlamlar:
 - ► av

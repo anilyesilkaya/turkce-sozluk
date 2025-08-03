@@ -2,6 +2,7 @@
 layout: term
 title: ceviz kırmak
 slug: ceviz-kirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - yanlış tutum veya davranışta bulunmak, hata yapmak

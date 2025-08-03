@@ -2,6 +2,7 @@
 layout: term
 title: rikkat
 slug: rikkat
+letter: R
 lisan: Arapça riḳḳat
 anlamlar:
 - İncelik, naziklik

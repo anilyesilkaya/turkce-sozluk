@@ -2,6 +2,7 @@
 layout: term
 title: transfer
 slug: transfer
+letter: T
 lisan: Fransızca transfert
 anlamlar:
 - Bir şeyi, bir kimseyi, bir grubu bir yerden alıp başka bir yere götürme

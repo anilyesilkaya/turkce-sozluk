@@ -2,6 +2,7 @@
 layout: term
 title: merakta kalmak
 slug: merakta-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kaygı içinde olmak

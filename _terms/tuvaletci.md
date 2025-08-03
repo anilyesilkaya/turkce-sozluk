@@ -2,6 +2,7 @@
 layout: term
 title: tuvaletçi
 slug: tuvaletci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuvalet işleten (kimse)

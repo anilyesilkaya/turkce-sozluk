@@ -2,6 +2,7 @@
 layout: term
 title: burabilmek
 slug: burabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burma ihtimali veya imkânı bulunmak

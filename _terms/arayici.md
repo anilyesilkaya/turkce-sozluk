@@ -2,6 +2,7 @@
 layout: term
 title: arayıcı
 slug: arayici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi aramayı iş edinen kimse

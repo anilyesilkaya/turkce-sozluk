@@ -2,6 +2,7 @@
 layout: term
 title: gali
 slug: gali
+letter: G
 lisan: İtalyanca galea
 anlamlar:
 - Alçak ve altı düz gemi

@@ -2,6 +2,7 @@
 layout: term
 title: yağı
 slug: yagi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► düşman

@@ -2,6 +2,7 @@
 layout: term
 title: düşüncesizce
 slug: dusuncesizce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşüncesiz bir biçimde

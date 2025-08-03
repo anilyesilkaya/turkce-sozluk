@@ -2,6 +2,7 @@
 layout: term
 title: ağır ezgi
 slug: agir-ezgi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok ağır biçimde, yavaş yavaş yapılan

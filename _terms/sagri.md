@@ -2,6 +2,7 @@
 layout: term
 title: sağrı
 slug: sagri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Memeli hayvanlarda bel ile kuyruk arasındaki dolgun ve yuvarlakça bölüm

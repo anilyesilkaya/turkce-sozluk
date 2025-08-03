@@ -2,6 +2,7 @@
 layout: term
 title: gurur duymak
 slug: gurur-duymak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gururlanmak

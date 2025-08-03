@@ -2,6 +2,7 @@
 layout: term
 title: trençkotlu
 slug: trenckotlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Trençkotu olan

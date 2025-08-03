@@ -2,6 +2,7 @@
 layout: term
 title: ilhan
 slug: ilhan
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► imparator

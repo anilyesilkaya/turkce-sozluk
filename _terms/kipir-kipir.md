@@ -2,6 +2,7 @@
 layout: term
 title: kıpır kıpır
 slug: kipir-kipir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok hareketli, hamarat olan

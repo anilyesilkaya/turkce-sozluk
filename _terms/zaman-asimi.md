@@ -2,6 +2,7 @@
 layout: term
 title: zaman aşımı
 slug: zaman-asimi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► süre aşımı

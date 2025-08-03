@@ -2,6 +2,7 @@
 layout: term
 title: bitim
 slug: bitim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: bürümcük
 slug: burumcuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ham ipekten dokunmuş ince kumaş; bürümcek

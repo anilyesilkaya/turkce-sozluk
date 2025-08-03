@@ -2,6 +2,7 @@
 layout: term
 title: abdest tazelemek
 slug: abdest-tazelemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - abdesti bozulmadığı hâlde yeniden abdest almak

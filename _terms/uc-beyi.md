@@ -2,6 +2,7 @@
 layout: term
 title: uç beyi
 slug: uc-beyi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uç denilen sınır boylarının sivil ve askerî yönetiminden sorumlu olan görevli

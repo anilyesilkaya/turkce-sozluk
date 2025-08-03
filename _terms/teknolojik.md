@@ -2,6 +2,7 @@
 layout: term
 title: teknolojik
 slug: teknolojik
+letter: T
 lisan: Fransızca technologique
 anlamlar:
 - Teknoloji ile ilgili

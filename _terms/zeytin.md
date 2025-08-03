@@ -2,6 +2,7 @@
 layout: term
 title: zeytin
 slug: zeytin
+letter: Z
 lisan: Arapça zeytūn
 anlamlar:
 - Zeytingillerden, Akdeniz ülkelerinde yetişen, 10-20 metre yüksekliğinde, dalları dikensiz, yaprakları karşılıklı, küçük ve gümüş renginde, uzun ömürlü bir ağaç (Olea europaea)

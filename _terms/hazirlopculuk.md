@@ -2,6 +2,7 @@
 layout: term
 title: hazırlopçuluk
 slug: hazirlopculuk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırlopçu olma durumu

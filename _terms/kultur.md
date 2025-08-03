@@ -2,6 +2,7 @@
 layout: term
 title: kültür
 slug: kultur
+letter: K
 lisan: Fransızca culture
 anlamlar:
 - Tarihsel, toplumsal gelişme süreci içinde yaratılan bütün maddi ve manevi değerler ile bunları yaratmada, sonraki nesillere iletmede kullanılan, insanın doğal ve toplumsal çevresine egemenliğinin ölçüsünü gösteren araçların bütünü; hars, ekin

@@ -2,6 +2,7 @@
 layout: term
 title: müyesser olmak
 slug: muyesser-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kolaylıkla ortaya çıkmak, kolaylıkla elde edilmek

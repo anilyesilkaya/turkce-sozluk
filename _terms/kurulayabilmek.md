@@ -2,6 +2,7 @@
 layout: term
 title: kurulayabilmek
 slug: kurulayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurulama ihtimali veya imkânı bulunmak

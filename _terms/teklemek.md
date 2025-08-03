@@ -2,6 +2,7 @@
 layout: term
 title: teklemek
 slug: teklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sık fideleri seyrekleştirmek

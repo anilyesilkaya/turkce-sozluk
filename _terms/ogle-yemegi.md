@@ -2,6 +2,7 @@
 layout: term
 title: öğle yemeği
 slug: ogle-yemegi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğle saatlerinde yenen yemek

@@ -2,6 +2,7 @@
 layout: term
 title: iptila
 slug: iptila
+letter: I
 lisan: Arapça ibtilāʾ
 anlamlar:
 - ► düşkünlük

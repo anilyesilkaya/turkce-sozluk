@@ -2,6 +2,7 @@
 layout: term
 title: kukumav gibi
 slug: kukumav-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - tek başına, kimsesiz

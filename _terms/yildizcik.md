@@ -2,6 +2,7 @@
 layout: term
 title: yıldızcık
 slug: yildizcik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Küçük yıldız

@@ -2,6 +2,7 @@
 layout: term
 title: tayt
 slug: tayt
+letter: T
 lisan: İngilizce tight
 anlamlar:
 - Bacakları sıkı saran özel kumaştan yapılmış bir pantolon türü

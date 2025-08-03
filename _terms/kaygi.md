@@ -2,6 +2,7 @@
 layout: term
 title: kaygı
 slug: kaygi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzücü veya kötü bir şey olacak korkusundan doğan tedirgin edici duygu; düşünce, tasa, küşüm, endişe, gam (I)

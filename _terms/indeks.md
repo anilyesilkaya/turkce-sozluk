@@ -2,6 +2,7 @@
 layout: term
 title: indeks
 slug: indeks
+letter: I
 lisan: Fransızca index
 anlamlar:
 - ► dizin

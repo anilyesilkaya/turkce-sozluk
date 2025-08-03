@@ -2,6 +2,7 @@
 layout: term
 title: doğancı
 slug: doganci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Avcı doğan yetiştiren ve avda kullanan kimse

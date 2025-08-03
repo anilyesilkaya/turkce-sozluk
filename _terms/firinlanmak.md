@@ -2,6 +2,7 @@
 layout: term
 title: fırınlanmak
 slug: firinlanmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırına konulmak veya fırında kurutulmak

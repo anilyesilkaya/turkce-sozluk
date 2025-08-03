@@ -2,6 +2,7 @@
 layout: term
 title: mevsim
 slug: mevsim
+letter: M
 lisan: Arapça mevsim
 anlamlar:
 - Yılın, güneşten ısı, ışık alma süresi ve dolayısıyla iklim şartları bakımından farklılık gösteren dört bölümünden her biri; sezon, sürem

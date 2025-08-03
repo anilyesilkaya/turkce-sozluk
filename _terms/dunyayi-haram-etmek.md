@@ -2,6 +2,7 @@
 layout: term
 title: dünyayı haram etmek
 slug: dunyayi-haram-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir yeri yaşanılmaz duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: çiftlenme
 slug: ciftlenme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiftlenmek işi

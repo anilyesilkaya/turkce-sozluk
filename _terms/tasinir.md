@@ -2,6 +2,7 @@
 layout: term
 title: taşınır
 slug: tasinir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşınabilen (eşya)

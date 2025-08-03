@@ -2,6 +2,7 @@
 layout: term
 title: harmanı kaldırmak
 slug: harmani-kaldirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - harman işini bitirmek

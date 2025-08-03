@@ -2,6 +2,7 @@
 layout: term
 title: altlamak
 slug: altlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Özel diye alınan bir şeye, genel bir kavramın altında yer vermek

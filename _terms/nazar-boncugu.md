@@ -2,6 +2,7 @@
 layout: term
 title: nazar boncuğu
 slug: nazar-boncugu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazar değmesin diye takılan mavi boncuk veya bunun yerini tutan başka şey; göz boncuğu, uğur boncuğu

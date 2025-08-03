@@ -2,6 +2,7 @@
 layout: term
 title: nazım birimi
 slug: nazim-birimi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Şiirde en küçük anlam bütünlüğünü sağlayan ve kendi içinde bağımsız dize topluluğu

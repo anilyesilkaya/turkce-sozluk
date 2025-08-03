@@ -2,6 +2,7 @@
 layout: term
 title: sırıtmak
 slug: siritmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dişlerini göstererek aptallık, şaşkınlık, kurnazlık veya alay belirtir biçimde gülmek; sırtarmak (I)

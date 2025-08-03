@@ -2,6 +2,7 @@
 layout: term
 title: iğrenç
 slug: igrenc
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanda iğrenme duygusu uyandıran, tiksindiren; cife, müstekreh

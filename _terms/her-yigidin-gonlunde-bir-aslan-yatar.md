@@ -2,6 +2,7 @@
 layout: term
 title: her yiğidin gönlünde bir aslan yatar
 slug: her-yigidin-gonlunde-bir-aslan-yatar
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"herkesin kendine göre büyük bir emeli vardır" anlamında kullanılan bir söz'

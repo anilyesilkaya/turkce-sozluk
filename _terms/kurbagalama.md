@@ -2,6 +2,7 @@
 layout: term
 title: kurbağalama
 slug: kurbagalama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurbağanın yüzmesine benzer yatay hareketler yaparak yüzme

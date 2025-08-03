@@ -2,6 +2,7 @@
 layout: term
 title: kamçı
 slug: kamci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir ucuna ip, deri vb. bağlı olan vurma, dövme aracı

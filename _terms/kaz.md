@@ -2,6 +2,7 @@
 layout: term
 title: kaz
 slug: kaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Perde ayaklılardan, genellikle beyaz veya boz renkli, uzun boyunlu,, suda ve karada yaşayan, uçan, yabani veya evcil kuş (Anser)

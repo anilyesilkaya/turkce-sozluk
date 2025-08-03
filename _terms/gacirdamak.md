@@ -2,6 +2,7 @@
 layout: term
 title: gacırdamak
 slug: gacirdamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Gacır" diye kulak tırmalayıcı ve düzensiz ses çıkarmak'

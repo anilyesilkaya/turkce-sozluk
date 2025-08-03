@@ -2,6 +2,7 @@
 layout: term
 title: kordon
 slug: kordon
+letter: K
 lisan: Fransızca cordon
 anlamlar:
 - Genellikle ipekten yapılmış kalın ip

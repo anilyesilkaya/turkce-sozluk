@@ -2,6 +2,7 @@
 layout: term
 title: su terazisi
 slug: su-terazisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Basıncı çok olan suyun, basıncını azaltarak künklerin patlamasını önleyen, belli aralıklarla yapılmış, depo görevindeki kule

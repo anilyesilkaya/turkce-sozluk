@@ -2,6 +2,7 @@
 layout: term
 title: dümtek
 slug: dumtek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Klasik Türk müziğinde tempo

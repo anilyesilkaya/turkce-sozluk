@@ -2,6 +2,7 @@
 layout: term
 title: oladurmak
 slug: oladurmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olmaya başlayıp sürmekte olmak

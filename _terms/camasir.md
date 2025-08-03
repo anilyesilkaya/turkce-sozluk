@@ -2,6 +2,7 @@
 layout: term
 title: çamaşır
 slug: camasir
+letter: Ç
 lisan: Farsça cāmeşūr
 anlamlar:
 - İç giysisi

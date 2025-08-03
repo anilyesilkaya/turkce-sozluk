@@ -2,6 +2,7 @@
 layout: term
 title: asetat
 slug: asetat
+letter: A
 lisan: Fransızca acétate
 anlamlar:
 - Asetik asidin tuzu

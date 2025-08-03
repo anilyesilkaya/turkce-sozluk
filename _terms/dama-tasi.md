@@ -2,6 +2,7 @@
 layout: term
 title: dama taşı
 slug: dama-tasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dama oynanan taş

@@ -2,6 +2,7 @@
 layout: term
 title: baş gelmek
 slug: bas-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yenmek, gücü yetmek

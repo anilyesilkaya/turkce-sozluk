@@ -2,6 +2,7 @@
 layout: term
 title: uzantı
 slug: uzanti
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bazı nesnelerin herhangi bir yerinde görülen uzamış bölüm

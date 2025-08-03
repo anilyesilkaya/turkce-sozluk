@@ -2,6 +2,7 @@
 layout: term
 title: öz ısı
 slug: oz-isi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ısınma ısısı

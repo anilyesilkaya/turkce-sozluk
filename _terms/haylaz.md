@@ -2,6 +2,7 @@
 layout: term
 title: haylaz
 slug: haylaz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşa gitmeyen davranışlarda bulunan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: çalak
 slug: calak
+letter: Ç
 lisan: Farsça çālāk
 anlamlar:
 - Eline ayağına çabuk, atik, çevik olan

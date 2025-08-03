@@ -2,6 +2,7 @@
 layout: term
 title: isimli
 slug: isimli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adlı

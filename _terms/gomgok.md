@@ -2,6 +2,7 @@
 layout: term
 title: gömgök
 slug: gomgok
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► masmavi

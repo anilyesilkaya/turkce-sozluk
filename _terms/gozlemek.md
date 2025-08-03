@@ -2,6 +2,7 @@
 layout: term
 title: gözlemek
 slug: gozlemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin olmasını veya bir kimsenin gelmesini beklemek; intizar etmek

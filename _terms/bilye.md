@@ -2,6 +2,7 @@
 layout: term
 title: bilye
 slug: bilye
+letter: B
 lisan: İtalyanca biglia
 anlamlar:
 - Çocukların oynamak için kullandığı taş, maden, toprak, cam vb.nden yapılmış küçük yuvarlak nesne; misket (II), cıncık, zıpzıp

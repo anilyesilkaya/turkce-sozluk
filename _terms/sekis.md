@@ -2,6 +2,7 @@
 layout: term
 title: sekiş
 slug: sekis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: vücuda getirmek
 slug: vucuda-getirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - meydana getirmek, var etmek

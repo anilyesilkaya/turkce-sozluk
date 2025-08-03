@@ -2,6 +2,7 @@
 layout: term
 title: deneme tahtası
 slug: deneme-tahtasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzerinde bilgisizce tedavi, onarım vb. işler yapılan kimse veya şey

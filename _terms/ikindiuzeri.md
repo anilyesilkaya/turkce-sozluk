@@ -2,6 +2,7 @@
 layout: term
 title: ikindiüzeri
 slug: ikindiuzeri
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ikindiye doğru

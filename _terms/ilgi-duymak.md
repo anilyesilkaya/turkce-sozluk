@@ -2,6 +2,7 @@
 layout: term
 title: ilgi duymak
 slug: ilgi-duymak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işe, bir olaya, bir kimseye önem vermek, yakınlık duymak

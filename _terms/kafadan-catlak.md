@@ -2,6 +2,7 @@
 layout: term
 title: 'kafadan çatlak '
 slug: kafadan-catlak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kafadan sakat

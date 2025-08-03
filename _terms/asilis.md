@@ -2,6 +2,7 @@
 layout: term
 title: asılış
 slug: asilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asılmak işi

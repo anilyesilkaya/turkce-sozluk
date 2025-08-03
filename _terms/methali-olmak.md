@@ -2,6 +2,7 @@
 layout: term
 title: methali olmak
 slug: methali-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir işe karışmış bulunmak, bir işte parmağı olmak

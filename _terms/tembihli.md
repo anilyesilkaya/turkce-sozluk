@@ -2,6 +2,7 @@
 layout: term
 title: tembihli
 slug: tembihli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hatırlatılmış, tembih edilmiş

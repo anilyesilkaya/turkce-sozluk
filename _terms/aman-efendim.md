@@ -2,6 +2,7 @@
 layout: term
 title: aman efendim
 slug: aman-efendim
+letter: A
 lisan: Türkçe
 anlamlar:
 - kendinden sonra gelen, şaşkınlık, beğeni vb. duyguları bildiren cümleyi pekiştirmek için söylenen bir söz

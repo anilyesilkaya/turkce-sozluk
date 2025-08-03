@@ -2,6 +2,7 @@
 layout: term
 title: üçtaş
 slug: uctas
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üç taşla oynanan bir tür çocuk oyunu

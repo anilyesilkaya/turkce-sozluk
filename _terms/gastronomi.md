@@ -2,6 +2,7 @@
 layout: term
 title: gastronomi
 slug: gastronomi
+letter: G
 lisan: Fransızca gastronomie
 anlamlar:
 - Gerek yiyecek içecek yapma yöntemlerine gerek yemek pişirme tekniklerine ilişkin bilgilerin tümü

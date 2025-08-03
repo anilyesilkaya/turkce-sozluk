@@ -2,6 +2,7 @@
 layout: term
 title: kalbur
 slug: kalbur
+letter: K
 lisan: Arapça ġirbāl
 anlamlar:
 - Tahıl ve başka iri taneli maddeleri elemek için kullanılan büyük delikli veya seyrek telli elek

@@ -2,6 +2,7 @@
 layout: term
 title: uterus
 slug: uterus
+letter: U
 lisan: Latince
 anlamlar:
 - ► döl yatağı

@@ -2,6 +2,7 @@
 layout: term
 title: paravana
 slug: paravana
+letter: P
 lisan: İtalyanca paravento
 anlamlar:
 - ► paravan

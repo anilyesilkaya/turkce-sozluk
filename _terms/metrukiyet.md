@@ -2,6 +2,7 @@
 layout: term
 title: metrukiyet
 slug: metrukiyet
+letter: M
 lisan: Arapça metrūkiyyet
 anlamlar:
 - Bırakılma, terk edilme

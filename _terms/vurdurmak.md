@@ -2,6 +2,7 @@
 layout: term
 title: vurdurmak
 slug: vurdurmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurma işini başkasına yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: okumak
 slug: okumak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: bostana dadanan eşeğin kuyruğu, kulağı olmaz
 slug: bostana-dadanan-esegin-kuyrugu-kulagi-olmaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"çalıp çırpmayı alışkanlık edinen kimse, yakalanıp ceza göre göre insanlıktan çıkar" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: brifing
 slug: brifing
+letter: B
 lisan: İngilizce briefing
 anlamlar:
 - ► bilgilendirme

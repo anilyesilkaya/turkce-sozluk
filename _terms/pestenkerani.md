@@ -2,6 +2,7 @@
 layout: term
 title: pestenkerani
 slug: pestenkerani
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► saçma

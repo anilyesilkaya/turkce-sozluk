@@ -2,6 +2,7 @@
 layout: term
 title: bariz
 slug: bariz
+letter: B
 lisan: Arapça bāriz
 anlamlar:
 - ► belirgin

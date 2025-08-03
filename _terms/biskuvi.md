@@ -2,6 +2,7 @@
 layout: term
 title: bisküvi
 slug: biskuvi
+letter: B
 lisan: Fransızca biscuit
 anlamlar:
 - Un, süt, şeker veya tuzla yapılan ince, gevrek bir tür kuru pasta

@@ -2,6 +2,7 @@
 layout: term
 title: amatörce
 slug: amatorce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amatör gibi

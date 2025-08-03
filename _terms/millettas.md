@@ -2,6 +2,7 @@
 layout: term
 title: millettaş
 slug: millettas
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aynı milletten olanlardan her biri; ulustaş

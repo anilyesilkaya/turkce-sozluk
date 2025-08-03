@@ -2,6 +2,7 @@
 layout: term
 title: kıyınmak
 slug: kiyinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ezilmiş veya kırılmış gibi bir duygu duymak

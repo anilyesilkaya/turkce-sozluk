@@ -2,6 +2,7 @@
 layout: term
 title: kokma
 slug: kokma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kokmak işi

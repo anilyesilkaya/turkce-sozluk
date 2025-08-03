@@ -2,6 +2,7 @@
 layout: term
 title: akıllara şifa
 slug: akillara-sifa
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akla zarar

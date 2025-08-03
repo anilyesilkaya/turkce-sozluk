@@ -2,6 +2,7 @@
 layout: term
 title: biçimcilik
 slug: bicimcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçimci olma durumu; şekilcilik, şekilperestilik, formalizm

@@ -2,6 +2,7 @@
 layout: term
 title: adres kitabı
 slug: adres-kitabi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle belli bir iş veya meslekte olanların iş ve ev adreslerini toplu olarak gösteren kitap

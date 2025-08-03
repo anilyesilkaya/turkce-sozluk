@@ -2,6 +2,7 @@
 layout: term
 title: ayak tutmak
 slug: ayak-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - mâni yarışmalarında karşısındakine uyması gereken uyağı vermek

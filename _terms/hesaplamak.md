@@ -2,6 +2,7 @@
 layout: term
 title: hesaplamak
 slug: hesaplamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesap işlemini yapmak, hesap etmek

@@ -2,6 +2,7 @@
 layout: term
 title: tamburi
 slug: tamburi
+letter: T
 lisan: Arapça ṭanbūrī
 anlamlar:
 - Tambur çalan kimse

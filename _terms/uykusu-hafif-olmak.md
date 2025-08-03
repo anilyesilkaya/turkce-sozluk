@@ -2,6 +2,7 @@
 layout: term
 title: uykusu hafif olmak
 slug: uykusu-hafif-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - küçük bir sesten hemen uyanmayacak kadar derin uyumak

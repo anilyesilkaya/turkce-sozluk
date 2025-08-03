@@ -2,6 +2,7 @@
 layout: term
 title: ekonomik
 slug: ekonomik
+letter: E
 lisan: Fransızca économique
 anlamlar:
 - Ekonomi ile ilgili olan; iktisadi

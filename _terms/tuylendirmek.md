@@ -2,6 +2,7 @@
 layout: term
 title: tüylendirmek
 slug: tuylendirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüylenmesine yol açmak

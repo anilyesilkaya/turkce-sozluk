@@ -2,6 +2,7 @@
 layout: term
 title: rötuşsuz
 slug: rotussuz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rötuş yapılmamış, düzeltilmemiş

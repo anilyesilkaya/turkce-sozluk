@@ -2,6 +2,7 @@
 layout: term
 title: tribün
 slug: tribun
+letter: T
 lisan: Fransızca tribune
 anlamlar:
 - Spor salonu, stadyum, hipodrom vb. yarışma ve gösteri yapılan yerlerde seyircilerin oturduğu koltuklu veya basamaklı bölüm; sekilik

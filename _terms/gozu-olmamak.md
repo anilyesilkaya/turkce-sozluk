@@ -2,6 +2,7 @@
 layout: term
 title: gözü olmamak
 slug: gozu-olmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeye sahip olmayı istememek

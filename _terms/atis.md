@@ -2,6 +2,7 @@
 layout: term
 title: atış
 slug: atis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atmak işi

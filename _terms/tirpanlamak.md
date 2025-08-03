@@ -2,6 +2,7 @@
 layout: term
 title: tırpanlamak
 slug: tirpanlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırpanla biçmek

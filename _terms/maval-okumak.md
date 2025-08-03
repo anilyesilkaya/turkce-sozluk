@@ -2,6 +2,7 @@
 layout: term
 title: maval okumak
 slug: maval-okumak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yalan söylemek, yalan söyleyerek oyalamak, masal okumak

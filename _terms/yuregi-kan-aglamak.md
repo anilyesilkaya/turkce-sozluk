@@ -2,6 +2,7 @@
 layout: term
 title: yüreği kan ağlamak
 slug: yuregi-kan-aglamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - derinden acı duymak, çok üzülmek

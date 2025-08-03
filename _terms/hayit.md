@@ -2,6 +2,7 @@
 layout: term
 title: hayıt
 slug: hayit
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► ayıt

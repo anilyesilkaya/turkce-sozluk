@@ -2,6 +2,7 @@
 layout: term
 title: tarihsel roman
 slug: tarihsel-roman
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tarihî roman

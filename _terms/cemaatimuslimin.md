@@ -2,6 +2,7 @@
 layout: term
 title: cemaatimüslimin
 slug: cemaatimuslimin
+letter: C
 lisan: Arapça cemāʿat + muslimīn
 anlamlar:
 - Bir araya gelmiş Müslümanlar

@@ -2,6 +2,7 @@
 layout: term
 title: tekerlenmek
 slug: tekerlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yuvarlanmak

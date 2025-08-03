@@ -2,6 +2,7 @@
 layout: term
 title: Rb
 slug: rb
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rubidyum elementinin simgesi

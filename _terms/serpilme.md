@@ -2,6 +2,7 @@
 layout: term
 title: serpilme
 slug: serpilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serpilmek işi

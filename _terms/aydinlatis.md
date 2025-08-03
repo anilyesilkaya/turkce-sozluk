@@ -2,6 +2,7 @@
 layout: term
 title: aydınlatış
 slug: aydinlatis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlatmak işi veya durumu

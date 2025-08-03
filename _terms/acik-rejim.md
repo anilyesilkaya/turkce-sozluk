@@ -2,6 +2,7 @@
 layout: term
 title: açık rejim
 slug: acik-rejim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Parlamenter rejim

@@ -2,6 +2,7 @@
 layout: term
 title: ibadethane
 slug: ibadethane
+letter: I
 lisan: Arapça ʿibādet + Farsça ḫāne
 anlamlar:
 - ► mabet

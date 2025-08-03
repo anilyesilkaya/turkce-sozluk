@@ -2,6 +2,7 @@
 layout: term
 title: ilçeli
 slug: ilceli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Aynı ilçeden olan (kimse)

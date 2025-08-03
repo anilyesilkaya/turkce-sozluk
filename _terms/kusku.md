@@ -2,6 +2,7 @@
 layout: term
 title: küskü
 slug: kusku
+letter: K
 lisan: Türkçe
 anlamlar:
 - Taşa veya duvara delik açmak için kullanılan uzun, ağır ve bir ucu sivri demir

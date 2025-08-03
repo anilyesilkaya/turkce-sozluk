@@ -2,6 +2,7 @@
 layout: term
 title: ithalat
 slug: ithalat
+letter: I
 lisan: Arapça idḫālāt
 anlamlar:
 - Başka bir ülkeden mal getirme veya satın alma; dış alım

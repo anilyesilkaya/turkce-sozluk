@@ -2,6 +2,7 @@
 layout: term
 title: öfkeli
 slug: ofkeli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öfkelenmiş olan; cinli, hiddetli, pürhiddet

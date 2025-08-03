@@ -2,6 +2,7 @@
 layout: term
 title: lafı uzatmak
 slug: lafi-uzatmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - konuşmayı gereksiz bir biçimde başka sözlerle sürdürmek

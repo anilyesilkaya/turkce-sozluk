@@ -2,6 +2,7 @@
 layout: term
 title: sürücü
 slug: surucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çoban, güdücü

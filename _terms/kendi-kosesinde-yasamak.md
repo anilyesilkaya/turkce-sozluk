@@ -2,6 +2,7 @@
 layout: term
 title: kendi köşesinde yaşamak
 slug: kendi-kosesinde-yasamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yalnız başına yaşamak

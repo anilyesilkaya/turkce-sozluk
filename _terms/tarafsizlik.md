@@ -2,6 +2,7 @@
 layout: term
 title: tarafsızlık
 slug: tarafsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarafsız olma durumu; yansızlık, bitaraflık

@@ -2,6 +2,7 @@
 layout: term
 title: kıvırabilmek
 slug: kivirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvırma ihtimali veya imkânı bulunmak

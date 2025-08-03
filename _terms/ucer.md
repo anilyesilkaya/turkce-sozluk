@@ -2,6 +2,7 @@
 layout: term
 title: üçer
 slug: ucer
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üç sayısının üleştirme sayı sıfatı

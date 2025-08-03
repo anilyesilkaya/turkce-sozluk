@@ -2,6 +2,7 @@
 layout: term
 title: tütün
 slug: tutun
+letter: T
 lisan: Türkçe
 anlamlar:
 - Patlıcangillerden, birleşiminde nikotin bulunan otsu bir bitki (Nicotiana tabacum)

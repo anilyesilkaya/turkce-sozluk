@@ -2,6 +2,7 @@
 layout: term
 title: alıç
 slug: alic
+letter: A
 lisan: Farsça aluça
 anlamlar:
 - Gülgillerden, kırlarda kendiliğinden yetişen, meyvesi hekimlikte ve boyacılıkta kullanılan, sert odunlu bir ağaç; gövem eriği, geyik dikeni, akdiken (Crataegus monogyna)

@@ -2,6 +2,7 @@
 layout: term
 title: rahatlık
 slug: rahatlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Üzüntüsü, sıkıntısı, tedirginliği olmama durumu

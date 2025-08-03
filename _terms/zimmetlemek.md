@@ -2,6 +2,7 @@
 layout: term
 title: zimmetlemek
 slug: zimmetlemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi bir kimsenin üzerine emanet olarak kaydetmek

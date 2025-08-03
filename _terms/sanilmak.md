@@ -2,6 +2,7 @@
 layout: term
 title: sanılmak
 slug: sanilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Düşünülmek, olabileceğine inanılmak; zannedilmek, zannolunmak

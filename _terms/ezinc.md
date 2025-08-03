@@ -2,6 +2,7 @@
 layout: term
 title: ezinç
 slug: ezinc
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► azap (I)

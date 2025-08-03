@@ -2,6 +2,7 @@
 layout: term
 title: yan gelmek
 slug: yan-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir işe karışmayarak rahatına bakmak, keyfince yaşamak

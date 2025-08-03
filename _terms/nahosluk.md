@@ -2,6 +2,7 @@
 layout: term
 title: nahoşluk
 slug: nahosluk
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nahoş olma durumu

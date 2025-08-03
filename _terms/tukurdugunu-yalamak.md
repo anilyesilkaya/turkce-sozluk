@@ -2,6 +2,7 @@
 layout: term
 title: tükürdüğünü yalamak
 slug: tukurdugunu-yalamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - verdiği sözden benliğini küçülterek geri dönmek

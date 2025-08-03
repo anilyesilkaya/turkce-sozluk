@@ -2,6 +2,7 @@
 layout: term
 title: şerbetlik
 slug: serbetlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şerbet yapmaya yarayan veya şerbet yapmak için ayrılmış olan

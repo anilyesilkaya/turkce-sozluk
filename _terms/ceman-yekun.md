@@ -2,6 +2,7 @@
 layout: term
 title: ceman yekûn
 slug: ceman-yekun
+letter: C
 lisan: Türkçe
 anlamlar:
 - Toplam olarak

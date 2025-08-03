@@ -2,6 +2,7 @@
 layout: term
 title: müstakim
 slug: mustakim
+letter: M
 lisan: Arapça mustaḳīm
 anlamlar:
 - Doğruluktan şaşmayan

@@ -2,6 +2,7 @@
 layout: term
 title: zamkinos
 slug: zamkinos
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zımbırtı

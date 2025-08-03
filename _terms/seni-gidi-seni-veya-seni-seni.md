@@ -2,6 +2,7 @@
 layout: term
 title: seni gidi seni (veya seni seni)
 slug: seni-gidi-seni-veya-seni-seni
+letter: S
 lisan: Türkçe
 anlamlar:
 - yaramaz, haylaz, çapkın

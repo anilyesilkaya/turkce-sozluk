@@ -2,6 +2,7 @@
 layout: term
 title: asal
 slug: asal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Esasla ilgili, asıl ve temel olanla ilgili; esasi

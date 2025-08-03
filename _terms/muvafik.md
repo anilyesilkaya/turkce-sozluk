@@ -2,6 +2,7 @@
 layout: term
 title: muvafık
 slug: muvafik
+letter: M
 lisan: Arapça muvāfiḳ
 anlamlar:
 - ► uygun

@@ -2,6 +2,7 @@
 layout: term
 title: antrenman
 slug: antrenman
+letter: A
 lisan: Fransızca entraïnement
 anlamlar:
 - ► idman

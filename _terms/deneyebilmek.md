@@ -2,6 +2,7 @@
 layout: term
 title: deneyebilmek
 slug: deneyebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneme ihtimali veya imkânı bulunmak

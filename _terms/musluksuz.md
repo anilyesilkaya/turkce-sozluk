@@ -2,6 +2,7 @@
 layout: term
 title: musluksuz
 slug: musluksuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Musluğu olmayan

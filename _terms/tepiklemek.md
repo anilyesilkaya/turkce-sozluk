@@ -2,6 +2,7 @@
 layout: term
 title: tepiklemek
 slug: tepiklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Binek hayvanını yürütmek için ayakla vurmak; tekmelemek

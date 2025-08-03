@@ -2,6 +2,7 @@
 layout: term
 title: kuzu kuzu
 slug: kuzu-kuzu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hiç ses çıkarmadan, karşı gelmeden, uysal bir biçimde

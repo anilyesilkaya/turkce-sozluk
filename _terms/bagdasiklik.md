@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşıklık
 slug: bagdasiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaşık olma durumu; mütecanislik, homojenlik

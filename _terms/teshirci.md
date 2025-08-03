@@ -2,6 +2,7 @@
 layout: term
 title: teşhirci
 slug: teshirci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► göstermeci

@@ -2,6 +2,7 @@
 layout: term
 title: kime ne
 slug: kime-ne
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"başkasını ilgilendirmez" anlamında kullanılan bir söz'

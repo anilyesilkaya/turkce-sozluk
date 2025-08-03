@@ -2,6 +2,7 @@
 layout: term
 title: post kavgası
 slug: post-kavgasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - İktidarı veya bir makamı ele geçirme çekişmesi; yorgan kavgası

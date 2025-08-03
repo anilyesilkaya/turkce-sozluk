@@ -2,6 +2,7 @@
 layout: term
 title: havyar
 slug: havyar
+letter: H
 lisan: Türkçe
 anlamlar:
 - Genellikle mersin balığının salamura edilmiş yumurtası; balık yumurtası

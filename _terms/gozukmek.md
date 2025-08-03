@@ -2,6 +2,7 @@
 layout: term
 title: gözükmek
 slug: gozukmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► görünmek

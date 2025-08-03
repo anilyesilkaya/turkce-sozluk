@@ -2,6 +2,7 @@
 layout: term
 title: intan
 slug: intan
+letter: I
 lisan: Arapça intān
 anlamlar:
 - ► mikrop

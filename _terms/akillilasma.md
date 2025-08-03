@@ -2,6 +2,7 @@
 layout: term
 title: akıllılaşma
 slug: akillilasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıllılaşmak durumu

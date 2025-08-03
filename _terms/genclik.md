@@ -2,6 +2,7 @@
 layout: term
 title: gençlik
 slug: genclik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genç olma durumu; şebabet

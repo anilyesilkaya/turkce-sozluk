@@ -2,6 +2,7 @@
 layout: term
 title: yanıtlamak
 slug: yanitlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► cevaplamak

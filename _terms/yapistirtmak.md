@@ -2,6 +2,7 @@
 layout: term
 title: yapıştırtmak
 slug: yapistirtmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapıştırma işini yaptırmak

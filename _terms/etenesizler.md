@@ -2,6 +2,7 @@
 layout: term
 title: etenesizler
 slug: etenesizler
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etenesi bulunmayan basit yapılı memeli hayvanlar

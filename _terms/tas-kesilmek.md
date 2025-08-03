@@ -2,6 +2,7 @@
 layout: term
 title: taş kesilmek
 slug: tas-kesilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok şaşırıp ne yapacağını, ne söyleyeceğini bilememek, sesini çıkaramaz olmak

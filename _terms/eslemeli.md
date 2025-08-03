@@ -2,6 +2,7 @@
 layout: term
 title: eşlemeli
 slug: eslemeli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşlemesi yapılmış (film)

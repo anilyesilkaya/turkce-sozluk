@@ -2,6 +2,7 @@
 layout: term
 title: yoklama
 slug: yoklama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoklamak işi; kontrol

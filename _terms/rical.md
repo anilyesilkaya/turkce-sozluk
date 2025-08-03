@@ -2,6 +2,7 @@
 layout: term
 title: rical
 slug: rical
+letter: R
 lisan: Arapça ricāl
 anlamlar:
 - Erkekler

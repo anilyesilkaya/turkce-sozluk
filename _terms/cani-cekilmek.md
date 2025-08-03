@@ -2,6 +2,7 @@
 layout: term
 title: canı çekilmek
 slug: cani-cekilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - vücudun herhangi bir organının canlılığı azalır gibi olmak

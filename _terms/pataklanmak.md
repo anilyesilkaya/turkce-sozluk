@@ -2,6 +2,7 @@
 layout: term
 title: pataklanmak
 slug: pataklanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► dövülmek

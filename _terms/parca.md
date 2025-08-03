@@ -2,6 +2,7 @@
 layout: term
 title: parça
 slug: parca
+letter: P
 lisan: Farsça pārçe
 anlamlar:
 - Bir bütünden ayrılan, ayrı sayılan veya artakalan şey; pare

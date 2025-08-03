@@ -2,6 +2,7 @@
 layout: term
 title: ön denetim
 slug: on-denetim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yapılması düşünülen bir işe başlamadan önce gereken araştırmanın ve incelemenin yapılması

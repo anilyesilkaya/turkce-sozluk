@@ -2,6 +2,7 @@
 layout: term
 title: tecavüz etmek
 slug: tecavuz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - başkasının hakkına el uzatmak

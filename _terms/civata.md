@@ -2,6 +2,7 @@
 layout: term
 title: cıvata
 slug: civata
+letter: C
 lisan: İtalyanca chiavarda
 anlamlar:
 - Birbirine bağlanmak istenen ağaç veya demir parçalarının üzerinde hazırlanmış olan deliklerden geçirilerek ucuna somun takılıp sıkıştırılan iri başlı vida

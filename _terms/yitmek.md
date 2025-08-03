@@ -2,6 +2,7 @@
 layout: term
 title: yitmek
 slug: yitmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yok olmak, ortadan kalkmak; kaybolmak

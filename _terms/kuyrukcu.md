@@ -2,6 +2,7 @@
 layout: term
 title: kuyrukçu
 slug: kuyrukcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sorgulamadan bir kişinin, düşüncenin vb.nin peşinden giden (kimse)

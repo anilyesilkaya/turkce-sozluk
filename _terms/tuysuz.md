@@ -2,6 +2,7 @@
 layout: term
 title: tüysüz
 slug: tuysuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüyü olmayan

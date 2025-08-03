@@ -2,6 +2,7 @@
 layout: term
 title: kalamar
 slug: kalamar
+letter: K
 lisan: Rumca
 anlamlar:
 - Bir tür mürekkep balığı (Loligo vulgaris)

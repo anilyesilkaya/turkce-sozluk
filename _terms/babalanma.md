@@ -2,6 +2,7 @@
 layout: term
 title: babalanma
 slug: babalanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babalanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: taban
 slug: taban
+letter: T
 lisan: Arapça ṭabʿan
 anlamlar:
 - Huy bakımından

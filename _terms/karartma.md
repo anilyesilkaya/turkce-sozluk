@@ -2,6 +2,7 @@
 layout: term
 title: karartma
 slug: karartma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karartmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: tümlük
 slug: tumluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bütünlük

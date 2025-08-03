@@ -2,6 +2,7 @@
 layout: term
 title: özeni
 slug: ozeni
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenme işi

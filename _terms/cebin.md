@@ -2,6 +2,7 @@
 layout: term
 title: cebin
 slug: cebin
+letter: C
 lisan: Arapça cebīn
 anlamlar:
 - ► alın

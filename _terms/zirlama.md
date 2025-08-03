@@ -2,6 +2,7 @@
 layout: term
 title: zırlama
 slug: zirlama
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zırıldama

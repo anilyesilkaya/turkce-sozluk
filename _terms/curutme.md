@@ -2,6 +2,7 @@
 layout: term
 title: çürütme
 slug: curutme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürütmek işi

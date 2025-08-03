@@ -2,6 +2,7 @@
 layout: term
 title: bekâr odası
 slug: bekar-odasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekârların veya taşradan gelen işçilerin kalması için düzenlenmiş oda; bekârhane

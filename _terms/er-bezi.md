@@ -2,6 +2,7 @@
 layout: term
 title: er bezi
 slug: er-bezi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► taşak

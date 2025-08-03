@@ -2,6 +2,7 @@
 layout: term
 title: kafası bulutlu
 slug: kafasi-bulutlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sarhoş

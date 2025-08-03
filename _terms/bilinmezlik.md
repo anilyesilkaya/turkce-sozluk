@@ -2,6 +2,7 @@
 layout: term
 title: bilinmezlik
 slug: bilinmezlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinmez olma durumu

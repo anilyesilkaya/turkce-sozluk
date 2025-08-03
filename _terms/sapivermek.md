@@ -2,6 +2,7 @@
 layout: term
 title: sapıvermek
 slug: sapivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak sapmak

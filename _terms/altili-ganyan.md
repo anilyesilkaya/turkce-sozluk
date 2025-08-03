@@ -2,6 +2,7 @@
 layout: term
 title: altılı ganyan
 slug: altili-ganyan
+letter: A
 lisan: Türkçe
 anlamlar:
 - At yarışlarında aynı gün üzerine bahis konulan ve birbiri ardınca düzenlenen altı koşunun birincilerini tahmin etme biçiminde oynanan oyun; altılı

@@ -2,6 +2,7 @@
 layout: term
 title: içine baygınlıklar çökmek
 slug: icine-bayginliklar-cokmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkıntı, fenalık basmak

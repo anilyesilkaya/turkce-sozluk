@@ -2,6 +2,7 @@
 layout: term
 title: kalınlaşmak
 slug: kalinlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalın duruma gelmek

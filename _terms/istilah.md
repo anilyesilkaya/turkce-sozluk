@@ -2,6 +2,7 @@
 layout: term
 title: ıstılah
 slug: istilah
+letter: I
 lisan: Arapça iṣṭilāḥ
 anlamlar:
 - ► terim

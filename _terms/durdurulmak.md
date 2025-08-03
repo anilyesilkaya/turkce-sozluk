@@ -2,6 +2,7 @@
 layout: term
 title: durdurulmak
 slug: durdurulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durdurma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: halledilme
 slug: halledilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halledilmek işi

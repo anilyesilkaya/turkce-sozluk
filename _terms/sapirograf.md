@@ -2,6 +2,7 @@
 layout: term
 title: şapirograf
 slug: sapirograf
+letter: Ş
 lisan: Fransızca chapéographe
 anlamlar:
 - Daktiloda, mumlu kâğıda karbon şeritsiz olarak yazılan yazıyı ispirtolu çoğaltma tekniğiyle basan ve elle çalıştırılan makine

@@ -2,6 +2,7 @@
 layout: term
 title: komita
 slug: komita
+letter: K
 lisan: Sırpça
 anlamlar:
 - Siyasi bir amaca ulaşmak için silah kullanan gizli topluluk

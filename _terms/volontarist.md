@@ -2,6 +2,7 @@
 layout: term
 title: volontarist
 slug: volontarist
+letter: V
 lisan: Fransızca volontariste
 anlamlar:
 - ► iradeci

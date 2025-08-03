@@ -2,6 +2,7 @@
 layout: term
 title: aç açına
 slug: ac-acina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aç olarak, bir şey yemeden

@@ -2,6 +2,7 @@
 layout: term
 title: reddimiras
 slug: reddimiras
+letter: R
 lisan: Arapça redd + mīrās̱
 anlamlar:
 - Her türlü sonucuyla mirası istememe, kabul etmeme, reddetme

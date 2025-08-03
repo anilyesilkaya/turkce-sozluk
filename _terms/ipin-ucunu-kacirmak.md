@@ -2,6 +2,7 @@
 layout: term
 title: ipin ucunu kaçırmak
 slug: ipin-ucunu-kacirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yönetimde veya bir şeyi kullanmada gereken ölçüyü yitirmek

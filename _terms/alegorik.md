@@ -2,6 +2,7 @@
 layout: term
 title: alegorik
 slug: alegorik
+letter: A
 lisan: Fransızca allégorique
 anlamlar:
 - Alegori ile ilgili; yerinel

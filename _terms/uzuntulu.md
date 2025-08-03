@@ -2,6 +2,7 @@
 layout: term
 title: üzüntülü
 slug: uzuntulu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzüntüsü olan; acılı, üzünçlü, müteessir

@@ -2,6 +2,7 @@
 layout: term
 title: ismetli
 slug: ismetli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ahlak kurallarına bağlı

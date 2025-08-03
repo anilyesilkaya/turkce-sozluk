@@ -2,6 +2,7 @@
 layout: term
 title: soymak
 slug: soymak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üzerinden kabuk, deri, zar vb.ni çıkarmak

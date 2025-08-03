@@ -2,6 +2,7 @@
 layout: term
 title: tombalak
 slug: tombalak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kısa boylu, şişman, tıknaz ve tombulca

@@ -2,6 +2,7 @@
 layout: term
 title: kubarmak
 slug: kubarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hindi veya güvercinin tüyleri kabarmak

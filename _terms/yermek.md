@@ -2,6 +2,7 @@
 layout: term
 title: yermek
 slug: yermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kötülüklerini söylemek; zemmetmek

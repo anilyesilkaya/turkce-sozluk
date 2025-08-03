@@ -2,6 +2,7 @@
 layout: term
 title: mikrop
 slug: mikrop
+letter: M
 lisan: Fransızca microbe
 anlamlar:
 - Mikroskopla görülebilen, çürümeye, mayalanmaya ve hastalıklara yol açan bir hücreli canlı; intan

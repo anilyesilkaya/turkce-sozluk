@@ -2,6 +2,7 @@
 layout: term
 title: meydana gelmek
 slug: meydana-gelmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - olmak, oluşmak

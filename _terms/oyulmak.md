@@ -2,6 +2,7 @@
 layout: term
 title: oyulmak
 slug: oyulmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyma işi yapılmak

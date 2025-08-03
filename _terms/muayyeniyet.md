@@ -2,6 +2,7 @@
 layout: term
 title: muayyeniyet
 slug: muayyeniyet
+letter: M
 lisan: Arapça muʿayyeniyyet
 anlamlar:
 - ► belirlilik

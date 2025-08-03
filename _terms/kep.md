@@ -2,6 +2,7 @@
 layout: term
 title: kep
 slug: kep
+letter: K
 lisan: İngilizce cap
 anlamlar:
 - Başlık, sipersiz şapka

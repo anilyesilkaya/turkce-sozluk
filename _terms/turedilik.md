@@ -2,6 +2,7 @@
 layout: term
 title: türedilik
 slug: turedilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türedi olma durumu; zıpçıktılık

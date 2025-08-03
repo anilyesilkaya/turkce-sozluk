@@ -2,6 +2,7 @@
 layout: term
 title: yağcılık
 slug: yagcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağ çıkarma veya satma işi

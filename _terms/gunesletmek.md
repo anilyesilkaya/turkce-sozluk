@@ -2,6 +2,7 @@
 layout: term
 title: güneşletmek
 slug: gunesletmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi güneş ışığının etkisinde bırakmak

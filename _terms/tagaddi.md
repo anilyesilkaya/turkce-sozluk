@@ -2,6 +2,7 @@
 layout: term
 title: tagaddi
 slug: tagaddi
+letter: T
 lisan: Arapça taġaddī
 anlamlar:
 - ► beslenme

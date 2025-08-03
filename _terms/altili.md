@@ -2,6 +2,7 @@
 layout: term
 title: altılı
 slug: altili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altı parçadan oluşan, kendinde herhangi bir şeyden altı tane bulunan

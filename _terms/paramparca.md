@@ -2,6 +2,7 @@
 layout: term
 title: paramparça
 slug: paramparca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pek çok parçaya ayrılmış, parça parça olmuş

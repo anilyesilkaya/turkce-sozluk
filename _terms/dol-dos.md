@@ -2,6 +2,7 @@
 layout: term
 title: döl döş
 slug: dol-dos
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çocuklar ve torunlar; soy sop

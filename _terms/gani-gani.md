@@ -2,6 +2,7 @@
 layout: term
 title: gani gani
 slug: gani-gani
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► bol bol

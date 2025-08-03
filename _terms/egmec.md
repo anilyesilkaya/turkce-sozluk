@@ -2,6 +2,7 @@
 layout: term
 title: eğmeç
 slug: egmec
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kavis

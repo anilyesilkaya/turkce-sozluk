@@ -2,6 +2,7 @@
 layout: term
 title: leş kargası
 slug: les-kargasi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kargagillerden, Avrupa ve Asya'da orman, çayır ve bahçelerde yaşayan, başı kara, vücudu kül rengi bir kuş (Corvus cornis)

@@ -2,6 +2,7 @@
 layout: term
 title: bu haysiyetle
 slug: bu-haysiyetle
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bundan dolayı

@@ -2,6 +2,7 @@
 layout: term
 title: düğmesiz
 slug: dugmesiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğmesi olmayan

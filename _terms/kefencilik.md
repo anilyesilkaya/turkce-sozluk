@@ -2,6 +2,7 @@
 layout: term
 title: kefencilik
 slug: kefencilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kefencinin yaptığı iş

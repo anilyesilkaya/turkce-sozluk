@@ -2,6 +2,7 @@
 layout: term
 title: münasebete girmek
 slug: munasebete-girmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - tanışma yolu açmak, ilişki kurmak

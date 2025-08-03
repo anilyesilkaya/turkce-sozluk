@@ -2,6 +2,7 @@
 layout: term
 title: yerini almak
 slug: yerini-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yerine geçmek

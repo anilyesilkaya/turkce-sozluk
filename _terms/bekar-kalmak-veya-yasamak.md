@@ -2,6 +2,7 @@
 layout: term
 title: bekâr kalmak (veya yaşamak)
 slug: bekar-kalmak-veya-yasamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - evlenmemek, evlenmemiş olmak

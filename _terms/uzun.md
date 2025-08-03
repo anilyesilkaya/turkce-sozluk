@@ -2,6 +2,7 @@
 layout: term
 title: uzun
 slug: uzun
+letter: U
 lisan: Türkçe
 anlamlar:
 - İki ucu arasında fazla uzaklık olan; levent, maksi, kısa karşıtı

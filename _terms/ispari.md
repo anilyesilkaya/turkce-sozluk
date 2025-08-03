@@ -2,6 +2,7 @@
 layout: term
 title: ispari
 slug: ispari
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzmaritgillerden, kurşun renginde bir balık (Sargus annularis)

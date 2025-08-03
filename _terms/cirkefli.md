@@ -2,6 +2,7 @@
 layout: term
 title: çirkefli
 slug: cirkefli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkef bulunan, içinden çirkef akan

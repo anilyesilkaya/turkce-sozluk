@@ -2,6 +2,7 @@
 layout: term
 title: modalaştırma
 slug: modalastirma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Modalaştırmak işi

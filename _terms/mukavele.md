@@ -2,6 +2,7 @@
 layout: term
 title: mukavele
 slug: mukavele
+letter: M
 lisan: Arapça muḳāvele
 anlamlar:
 - ► sözleşme

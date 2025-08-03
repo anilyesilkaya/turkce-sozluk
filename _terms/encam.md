@@ -2,6 +2,7 @@
 layout: term
 title: encam
 slug: encam
+letter: E
 lisan: Farsça encām
 anlamlar:
 - ► son

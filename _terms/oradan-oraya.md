@@ -2,6 +2,7 @@
 layout: term
 title: oradan oraya
 slug: oradan-oraya
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir yerden başka bir yere

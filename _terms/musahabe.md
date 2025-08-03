@@ -2,6 +2,7 @@
 layout: term
 title: musahabe
 slug: musahabe
+letter: M
 lisan: Arapça muṣāḥabe
 anlamlar:
 - ► konuşma

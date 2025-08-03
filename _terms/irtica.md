@@ -2,6 +2,7 @@
 layout: term
 title: irtica
 slug: irtica
+letter: I
 lisan: Arapça irticāʿ
 anlamlar:
 - ► gericilik

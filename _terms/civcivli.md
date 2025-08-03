@@ -2,6 +2,7 @@
 layout: term
 title: civcivli
 slug: civcivli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Civcivi olan

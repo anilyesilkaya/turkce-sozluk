@@ -2,6 +2,7 @@
 layout: term
 title: topuklu
 slug: topuklu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topuğu bulunan (ayakkabı, terlik vb.)

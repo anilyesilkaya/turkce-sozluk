@@ -2,6 +2,7 @@
 layout: term
 title: saksılık
 slug: saksilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saksı koymaya yarar raf

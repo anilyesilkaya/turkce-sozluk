@@ -2,6 +2,7 @@
 layout: term
 title: götten bacaklı
 slug: gotten-bacakli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kısa boylu

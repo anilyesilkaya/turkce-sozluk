@@ -2,6 +2,7 @@
 layout: term
 title: serviyetli
 slug: serviyetli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çantası bulunan

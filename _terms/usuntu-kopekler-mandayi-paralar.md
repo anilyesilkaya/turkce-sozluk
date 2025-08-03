@@ -2,6 +2,7 @@
 layout: term
 title: üşüntü köpekler mandayı paralar
 slug: usuntu-kopekler-mandayi-paralar
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - '"birlikten güç doğar" anlamında kullanılan bir söz'

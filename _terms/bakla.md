@@ -2,6 +2,7 @@
 layout: term
 title: bakla
 slug: bakla
+letter: B
 lisan: Arapça bāḳilā
 anlamlar:
 - Baklagillerden, yurdumuzun her yerinde yetiştirilen, yeşil kabuklu ve taneli bir bitki (Vicia faba)

@@ -2,6 +2,7 @@
 layout: term
 title: tatlıya bağlamak
 slug: tatliya-baglamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kavgalı bir işi gönül hoşluğuyla bitirmek

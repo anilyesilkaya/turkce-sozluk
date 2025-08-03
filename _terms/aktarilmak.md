@@ -2,6 +2,7 @@
 layout: term
 title: aktarılmak
 slug: aktarilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarma işine konu olmak

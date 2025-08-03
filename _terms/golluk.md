@@ -2,6 +2,7 @@
 layout: term
 title: göllük
 slug: golluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölü olan (yer)

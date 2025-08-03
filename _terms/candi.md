@@ -2,6 +2,7 @@
 layout: term
 title: çandı
 slug: candi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivisiz, birbirine geçirilme yöntemine göre kesilmiş hazır kereste

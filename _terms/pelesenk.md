@@ -2,6 +2,7 @@
 layout: term
 title: pelesenk
 slug: pelesenk
+letter: P
 lisan: Farsça pārseng
 anlamlar:
 - Konuşurken gereksiz tekrarlanan söz; persenk

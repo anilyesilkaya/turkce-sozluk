@@ -2,6 +2,7 @@
 layout: term
 title: zannolunma
 slug: zannolunma
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► sanılma

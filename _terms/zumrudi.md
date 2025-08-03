@@ -2,6 +2,7 @@
 layout: term
 title: zümrüdi
 slug: zumrudi
+letter: Z
 lisan: Arapça zumurrudī
 anlamlar:
 - ► zümrüt yeşili

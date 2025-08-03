@@ -2,6 +2,7 @@
 layout: term
 title: mantıksız
 slug: mantiksiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantığa, akla aykırı olan

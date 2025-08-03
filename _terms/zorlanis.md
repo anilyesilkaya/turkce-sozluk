@@ -2,6 +2,7 @@
 layout: term
 title: zorlanış
 slug: zorlanis
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: kama
 slug: kama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Silah olarak kullanılan, ucu sivri, iki ağzı da keskin uzun bıçak

@@ -2,6 +2,7 @@
 layout: term
 title: dört
 slug: dort
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üçten sonra gelen sayının adı; cihar

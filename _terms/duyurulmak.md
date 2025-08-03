@@ -2,6 +2,7 @@
 layout: term
 title: duyurulmak
 slug: duyurulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyulmasını sağlamak

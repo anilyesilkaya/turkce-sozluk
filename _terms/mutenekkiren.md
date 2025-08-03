@@ -2,6 +2,7 @@
 layout: term
 title: mütenekkiren
 slug: mutenekkiren
+letter: M
 lisan: Arapça mutenekkiren
 anlamlar:
 - Kılık değiştirerek, takma ad kullanarak, kendini tanıtmadan

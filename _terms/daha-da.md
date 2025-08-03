@@ -2,6 +2,7 @@
 layout: term
 title: daha da
 slug: daha-da
+letter: D
 lisan: Türkçe
 anlamlar:
 - karşılaştırma derecesini vurgular

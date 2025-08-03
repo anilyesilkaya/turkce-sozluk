@@ -2,6 +2,7 @@
 layout: term
 title: döşemek
 slug: dosemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir tabanı, tahta, karo, mermer vb. yapı gereçleriyle kaplamak

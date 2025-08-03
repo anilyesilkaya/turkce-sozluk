@@ -2,6 +2,7 @@
 layout: term
 title: bandırabilmek
 slug: bandirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandırma ihtimali veya imkânı bulunmak

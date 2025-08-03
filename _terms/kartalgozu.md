@@ -2,6 +2,7 @@
 layout: term
 title: kartalgözü
 slug: kartalgozu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gözlem amacıyla kullanılan insansız uçak

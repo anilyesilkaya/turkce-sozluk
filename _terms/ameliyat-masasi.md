@@ -2,6 +2,7 @@
 layout: term
 title: ameliyat masası
 slug: ameliyat-masasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerinde ameliyat yapılan özel donanımlı masa

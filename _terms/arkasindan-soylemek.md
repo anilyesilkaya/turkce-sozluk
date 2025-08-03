@@ -2,6 +2,7 @@
 layout: term
 title: arkasından söylemek
 slug: arkasindan-soylemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin olmadığı bir anda ve ortamda onunla ilgili iyi veya kötü ifadeler kullanmak

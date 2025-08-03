@@ -2,6 +2,7 @@
 layout: term
 title: metrekare
 slug: metrekare
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kenarı 1 metre olan bir karenin alanına eşit yüzey ölçüsü birimi

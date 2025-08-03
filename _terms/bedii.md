@@ -2,6 +2,7 @@
 layout: term
 title: bedii
 slug: bedii
+letter: B
 lisan: Arapça bedīʿī
 anlamlar:
 - Güzellik ölçülerine uyan, gözü gönlü okşayan, beğenilen

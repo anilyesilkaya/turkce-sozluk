@@ -2,6 +2,7 @@
 layout: term
 title: canı burnunda
 slug: cani-burnunda
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok yorgun ve bezgin olan

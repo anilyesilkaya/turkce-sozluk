@@ -2,6 +2,7 @@
 layout: term
 title: uyumlandırmak
 slug: uyumlandirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumlu duruma getirmek; ahenkleştirmek

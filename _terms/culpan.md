@@ -2,6 +2,7 @@
 layout: term
 title: Çulpan
 slug: culpan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► Çoban Yıldızı

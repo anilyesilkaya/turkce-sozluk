@@ -2,6 +2,7 @@
 layout: term
 title: yemin billah etmek
 slug: yemin-billah-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tanrı adını anarak ant içmek

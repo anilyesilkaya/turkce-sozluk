@@ -2,6 +2,7 @@
 layout: term
 title: başarı göstermek (veya kazanmak)
 slug: basari-gostermek-veya-kazanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başarmak

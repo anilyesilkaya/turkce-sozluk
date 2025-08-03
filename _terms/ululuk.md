@@ -2,6 +2,7 @@
 layout: term
 title: ululuk
 slug: ululuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Büyüklük, büyük olma durumu; azamet, celal, izzet

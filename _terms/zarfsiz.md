@@ -2,6 +2,7 @@
 layout: term
 title: zarfsız
 slug: zarfsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarfı olmayan

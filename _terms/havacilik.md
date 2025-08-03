@@ -2,6 +2,7 @@
 layout: term
 title: havacılık
 slug: havacilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havacının yaptığı iş

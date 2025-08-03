@@ -2,6 +2,7 @@
 layout: term
 title: fanfar
 slug: fanfar
+letter: F
 lisan: Fransızca fanfare
 anlamlar:
 - Bakırdan yapılmış üflemeli sazlardan oluşan orkestra

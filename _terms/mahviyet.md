@@ -2,6 +2,7 @@
 layout: term
 title: mahviyet
 slug: mahviyet
+letter: M
 lisan: Arapça maḥviyyet
 anlamlar:
 - ► alçak gönüllülük

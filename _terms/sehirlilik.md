@@ -2,6 +2,7 @@
 layout: term
 title: şehirlilik
 slug: sehirlilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şehirli olma durumu; kentlilik

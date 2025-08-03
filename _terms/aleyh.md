@@ -2,6 +2,7 @@
 layout: term
 title: aleyh
 slug: aleyh
+letter: A
 lisan: Arapça ʿaleyh
 anlamlar:
 - Bir şeyin veya bir kimsenin karşısında olma, leh karşıtı

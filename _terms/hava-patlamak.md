@@ -2,6 +2,7 @@
 layout: term
 title: hava patlamak
 slug: hava-patlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - fırtına çıkmak

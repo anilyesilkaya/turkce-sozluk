@@ -2,6 +2,7 @@
 layout: term
 title: bileklik
 slug: bileklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oyunlarda bileğin incinmesini önlemek için bileğe takılan meşin sargı

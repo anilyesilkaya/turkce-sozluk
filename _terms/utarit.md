@@ -2,6 +2,7 @@
 layout: term
 title: Utarit
 slug: utarit
+letter: U
 lisan: Arapça ʿuṭārid
 anlamlar:
 - ► Merkür

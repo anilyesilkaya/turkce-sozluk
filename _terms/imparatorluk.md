@@ -2,6 +2,7 @@
 layout: term
 title: imparatorluk
 slug: imparatorluk
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmparator olma durumu; ilhanlık

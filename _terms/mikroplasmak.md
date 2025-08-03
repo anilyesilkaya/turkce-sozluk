@@ -2,6 +2,7 @@
 layout: term
 title: mikroplaşmak
 slug: mikroplasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mikrop duruma gelmek

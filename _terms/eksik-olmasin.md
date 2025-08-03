@@ -2,6 +2,7 @@
 layout: term
 title: eksik olmasın
 slug: eksik-olmasin
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"sağ olsun, var olsun" anlamında kullanılan bir söz'

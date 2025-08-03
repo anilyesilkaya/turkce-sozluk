@@ -2,6 +2,7 @@
 layout: term
 title: sabit polinom
 slug: sabit-polinom
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıfırdan farklı bir gerçek sayıdan oluşan polinom

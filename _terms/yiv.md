@@ -2,6 +2,7 @@
 layout: term
 title: yiv
 slug: yiv
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yüzeyin üzerinde çizgi biçiminde olan, sarmal girinti veya çıkıntı

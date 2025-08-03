@@ -2,6 +2,7 @@
 layout: term
 title: Türkçeleştirilmek
 slug: turkcelestirilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkçe niteliği kazandırılmak

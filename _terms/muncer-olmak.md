@@ -2,6 +2,7 @@
 layout: term
 title: müncer olmak
 slug: muncer-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - -e dökülmek, -e varmak

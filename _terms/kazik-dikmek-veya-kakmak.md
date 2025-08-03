@@ -2,6 +2,7 @@
 layout: term
 title: kazık dikmek (veya kakmak)
 slug: kazik-dikmek-veya-kakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - devamlı kalmak, ebediyen yaşamak

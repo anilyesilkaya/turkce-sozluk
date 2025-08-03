@@ -2,6 +2,7 @@
 layout: term
 title: görünmez olmak
 slug: gorunmez-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözden kaybolmak

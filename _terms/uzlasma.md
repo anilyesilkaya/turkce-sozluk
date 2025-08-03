@@ -2,6 +2,7 @@
 layout: term
 title: uzlaşma
 slug: uzlasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzlaşmak işi; uylaşım, uylaşma, uymaca, uyuşma (II), uzlaşı, uzlaşım, mutabakat, antant, konsensüs

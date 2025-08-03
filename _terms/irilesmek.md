@@ -2,6 +2,7 @@
 layout: term
 title: irileşmek
 slug: irilesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İri bir duruma gelmek

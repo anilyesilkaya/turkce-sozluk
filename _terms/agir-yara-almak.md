@@ -2,6 +2,7 @@
 layout: term
 title: ağır yara almak
 slug: agir-yara-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kavgada veya savaşta önemli ölçüde zarar görmek

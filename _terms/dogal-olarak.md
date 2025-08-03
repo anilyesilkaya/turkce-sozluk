@@ -2,6 +2,7 @@
 layout: term
 title: doğal olarak
 slug: dogal-olarak
+letter: D
 lisan: Türkçe
 anlamlar:
 - elbette, beklenildiği gibi, işin gereği olarak

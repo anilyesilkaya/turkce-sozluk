@@ -2,6 +2,7 @@
 layout: term
 title: rint
 slug: rint
+letter: R
 lisan: Farsça rind
 anlamlar:
 - Görünüşe ve dünya işlerine önem vermeyen, kurallardan uzak, bütün varlığı kendi iç dünyasına göre değerlendiren kimse

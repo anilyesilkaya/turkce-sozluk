@@ -2,6 +2,7 @@
 layout: term
 title: sürmesiz
 slug: surmesiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürme ile boyalı olmayan

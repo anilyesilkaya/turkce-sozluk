@@ -2,6 +2,7 @@
 layout: term
 title: kuruşluk
 slug: kurusluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kuruşa karşılık olan

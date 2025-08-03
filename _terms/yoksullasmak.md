@@ -2,6 +2,7 @@
 layout: term
 title: yoksullaşmak
 slug: yoksullasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoksul duruma gelmek; fakirleşmek

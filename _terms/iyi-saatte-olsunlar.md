@@ -2,6 +2,7 @@
 layout: term
 title: iyi saatte olsunlar
 slug: iyi-saatte-olsunlar
+letter: I
 lisan: Türkçe
 anlamlar:
 - cinler, periler

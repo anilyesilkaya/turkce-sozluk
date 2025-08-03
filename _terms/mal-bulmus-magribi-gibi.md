@@ -2,6 +2,7 @@
 layout: term
 title: mal bulmuş Mağribî gibi
 slug: mal-bulmus-magribi-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"büyük bir zenginliğe kavuşmuşçasına aşırı sevinç ve coşku ile" anlamında kullanılan bir söz'

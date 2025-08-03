@@ -2,6 +2,7 @@
 layout: term
 title: morula
 slug: morula
+letter: M
 lisan: Fransızca morula
 anlamlar:
 - ► blastula

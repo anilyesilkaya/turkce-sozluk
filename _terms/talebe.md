@@ -2,6 +2,7 @@
 layout: term
 title: talebe
 slug: talebe
+letter: T
 lisan: Arapça ṭalebe
 anlamlar:
 - ► öğrenci

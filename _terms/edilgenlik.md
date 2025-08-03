@@ -2,6 +2,7 @@
 layout: term
 title: edilgenlik
 slug: edilgenlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edilgen olma durumu

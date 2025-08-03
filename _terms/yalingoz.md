@@ -2,6 +2,7 @@
 layout: term
 title: yalıngöz
 slug: yalingoz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir tür kertenkele

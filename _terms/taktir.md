@@ -2,6 +2,7 @@
 layout: term
 title: taktir
 slug: taktir
+letter: T
 lisan: Arapça taḳṭīr
 anlamlar:
 - ► damıtma

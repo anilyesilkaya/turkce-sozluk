@@ -2,6 +2,7 @@
 layout: term
 title: musandıra
 slug: musandira
+letter: M
 lisan: Rumca
 anlamlar:
 - ► yüklük

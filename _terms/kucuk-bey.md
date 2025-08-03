@@ -2,6 +2,7 @@
 layout: term
 title: küçük bey
 slug: kucuk-bey
+letter: K
 lisan: Türkçe
 anlamlar:
 - Evin küçük erkek çocuğu

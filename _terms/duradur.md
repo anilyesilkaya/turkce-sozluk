@@ -2,6 +2,7 @@
 layout: term
 title: duradur
 slug: duradur
+letter: D
 lisan: Farsça dūrādūr
 anlamlar:
 - Çok uzak

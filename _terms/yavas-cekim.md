@@ -2,6 +2,7 @@
 layout: term
 title: yavaş çekim
 slug: yavas-cekim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hızı düşürülerek çekilmiş görüntü

@@ -2,6 +2,7 @@
 layout: term
 title: inayet ola
 slug: inayet-ola
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"Allah versin" anlamında, dilencileri savmak için kullanılan bir söz'

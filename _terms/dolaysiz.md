@@ -2,6 +2,7 @@
 layout: term
 title: dolaysız
 slug: dolaysiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrudan doğruya olan; vasıtasız, bilavasıta

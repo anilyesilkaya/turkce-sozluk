@@ -2,6 +2,7 @@
 layout: term
 title: kullandırma
 slug: kullandirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullandırmak işi

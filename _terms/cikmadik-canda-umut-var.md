@@ -2,6 +2,7 @@
 layout: term
 title: çıkmadık canda umut var
 slug: cikmadik-canda-umut-var
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"elden gitti sandığımız bir şeyle ilgimiz büsbütün kesilmemişse gereken çabayı harcayarak onun elimizde kalmasını sağlayabileceğimizi umabiliriz" anlamında kullanılan bir söz'

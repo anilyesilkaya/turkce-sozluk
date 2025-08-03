@@ -2,6 +2,7 @@
 layout: term
 title: hepsi
 slug: hepsi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sözü edilenlerin tamamı; cümlesi, cemi cümlesi, topu

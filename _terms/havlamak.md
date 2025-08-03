@@ -2,6 +2,7 @@
 layout: term
 title: havlamak
 slug: havlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Köpek bağırmak; ürümek

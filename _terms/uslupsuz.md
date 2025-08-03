@@ -2,6 +2,7 @@
 layout: term
 title: üslupsuz
 slug: uslupsuz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üslubu olmayan

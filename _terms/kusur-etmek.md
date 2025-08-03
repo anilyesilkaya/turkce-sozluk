@@ -2,6 +2,7 @@
 layout: term
 title: kusur etmek
 slug: kusur-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yanlışlık yapmak

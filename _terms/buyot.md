@@ -2,6 +2,7 @@
 layout: term
 title: buyot
 slug: buyot
+letter: B
 lisan: Fransızca bouillotte
 anlamlar:
 - Genellikle hastalık anında kullanılan sıcak su torbası

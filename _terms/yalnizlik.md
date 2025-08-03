@@ -2,6 +2,7 @@
 layout: term
 title: yalnızlık
 slug: yalnizlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalnız olma durumu

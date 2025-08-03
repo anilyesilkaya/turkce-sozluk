@@ -2,6 +2,7 @@
 layout: term
 title: horgörücü
 slug: horgorucu
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► horgörülü

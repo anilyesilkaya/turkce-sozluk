@@ -2,6 +2,7 @@
 layout: term
 title: komplo kurbanı olmak
 slug: komplo-kurbani-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - komploya kurban gitmek

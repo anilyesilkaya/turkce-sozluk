@@ -2,6 +2,7 @@
 layout: term
 title: konabilme
 slug: konabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konabilmek işi

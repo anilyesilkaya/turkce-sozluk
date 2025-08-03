@@ -2,6 +2,7 @@
 layout: term
 title: boğaz
 slug: bogaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boynun ön bölümü ve bu bölümü oluşturan organlar; ümük, kursak

@@ -2,6 +2,7 @@
 layout: term
 title: kuşkonmaz
 slug: kuskonmaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, uç dalları yapraksı görünüşte, toprak altı kök saplarından çıkan taze sürgünleri yenen bir bitki (Asparagus officinalis)

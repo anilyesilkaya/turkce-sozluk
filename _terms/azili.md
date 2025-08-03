@@ -2,6 +2,7 @@
 layout: term
 title: azılı
 slug: azili
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► azgın

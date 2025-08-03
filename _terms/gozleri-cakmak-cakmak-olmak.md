@@ -2,6 +2,7 @@
 layout: term
 title: gözleri çakmak çakmak (olmak)
 slug: gozleri-cakmak-cakmak-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ateşli hastalık veya öfkeden gözleri kızarmış ve parlamış (olmak)

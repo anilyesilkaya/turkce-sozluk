@@ -2,6 +2,7 @@
 layout: term
 title: el atmak
 slug: el-atmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - birisinin işine karışmak, müdahale etmek

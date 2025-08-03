@@ -2,6 +2,7 @@
 layout: term
 title: Amme cüzü
 slug: amme-cuzu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amme suresiyle ondan sonraki sureleri içine alan Kur’an’ın son cüzü; Amme

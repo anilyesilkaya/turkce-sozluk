@@ -2,6 +2,7 @@
 layout: term
 title: ceditçi
 slug: ceditci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► yenilikçi

@@ -2,6 +2,7 @@
 layout: term
 title: geri geri
 slug: geri-geri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geriye doğru; ardın ardın, arka arka, götün götün, kıçın kıçın, töskürü

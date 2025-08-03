@@ -2,6 +2,7 @@
 layout: term
 title: oyuncak
 slug: oyuncak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyun aracı

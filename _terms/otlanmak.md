@@ -2,6 +2,7 @@
 layout: term
 title: otlanmak
 slug: otlanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hayvan otlamak

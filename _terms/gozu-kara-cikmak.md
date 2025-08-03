@@ -2,6 +2,7 @@
 layout: term
 title: gözü kara çıkmak
 slug: gozu-kara-cikmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - korkusuz olduğu anlaşılmak

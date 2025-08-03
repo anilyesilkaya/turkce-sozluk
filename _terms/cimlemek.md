@@ -2,6 +2,7 @@
 layout: term
 title: çimlemek
 slug: cimlemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çim ekmek

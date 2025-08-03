@@ -2,6 +2,7 @@
 layout: term
 title: ağır top
 slug: agir-top
+letter: A
 lisan: Türkçe
 anlamlar:
 - Namlu çapı 30 cm’den büyük, çok uzağa atış yapabilen, tahrip gücü yüksek bir tür top

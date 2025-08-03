@@ -2,6 +2,7 @@
 layout: term
 title: yola revan olmak
 slug: yola-revan-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yola çıkmak

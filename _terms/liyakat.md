@@ -2,6 +2,7 @@
 layout: term
 title: liyakat
 slug: liyakat
+letter: L
 lisan: Arapça liyāḳat
 anlamlar:
 - Bir kimsenin, kendisine iş verilmeye uygunluk, yaraşırlık durumu; değim

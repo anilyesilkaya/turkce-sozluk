@@ -2,6 +2,7 @@
 layout: term
 title: ağır kaçmak
 slug: agir-kacmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gücendirici olmak, uygun düşmemek

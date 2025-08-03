@@ -2,6 +2,7 @@
 layout: term
 title: filiskin
 slug: filiskin
+letter: F
 lisan: Rumca
 anlamlar:
 - Yerden 2-3 karış yükseklikte, çok yıllık ve otsu bir bitki (Mentha pulegium)

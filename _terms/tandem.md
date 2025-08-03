@@ -2,6 +2,7 @@
 layout: term
 title: tandem
 slug: tandem
+letter: T
 lisan: Fransızca tandem
 anlamlar:
 - İki kişilik bisiklet

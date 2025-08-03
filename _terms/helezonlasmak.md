@@ -2,6 +2,7 @@
 layout: term
 title: helezonlaşmak
 slug: helezonlasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sarmal, kıvrımlı biçime gelmek

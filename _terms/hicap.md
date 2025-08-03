@@ -2,6 +2,7 @@
 layout: term
 title: hicap
 slug: hicap
+letter: H
 lisan: Arapça ḥicāb
 anlamlar:
 - ► utanma

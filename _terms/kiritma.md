@@ -2,6 +2,7 @@
 layout: term
 title: kırıtma
 slug: kiritma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırıtmak işi

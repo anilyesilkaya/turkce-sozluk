@@ -2,6 +2,7 @@
 layout: term
 title: yol halısı
 slug: yol-halisi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yolluk

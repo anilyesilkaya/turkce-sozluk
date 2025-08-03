@@ -2,6 +2,7 @@
 layout: term
 title: kısaca
 slug: kisaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Oldukça kısa, biraz kısa

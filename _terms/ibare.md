@@ -2,6 +2,7 @@
 layout: term
 title: ibare
 slug: ibare
+letter: I
 lisan: Arapça ʿibāre
 anlamlar:
 - Bir düşünceyi anlatan bir veya birkaç cümlelik söz

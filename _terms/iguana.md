@@ -2,6 +2,7 @@
 layout: term
 title: iguana
 slug: iguana
+letter: I
 lisan: İngilizce iguana
 anlamlar:
 - İguanagillerden, 1-2 metre boyunda, Amerika'nın tropikal bölgelerinde yaşayan, sırtında dikenli çıkıntılar bulunan, pullu, büyük sürüngen; Hint kertenkelesi (Iguana tuberculara)

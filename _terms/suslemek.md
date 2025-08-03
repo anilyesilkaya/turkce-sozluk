@@ -2,6 +2,7 @@
 layout: term
 title: süslemek
 slug: suslemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak; bezemek, bezeklemek, donamak, donatmak, tezyin etmek

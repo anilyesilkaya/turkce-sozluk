@@ -2,6 +2,7 @@
 layout: term
 title: mızmızlanma
 slug: mizmizlanma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızmızlanmak işi

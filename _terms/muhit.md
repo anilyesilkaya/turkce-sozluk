@@ -2,6 +2,7 @@
 layout: term
 title: muhit
 slug: muhit
+letter: M
 lisan: Arapça muḥīṭ
 anlamlar:
 - ► çevre

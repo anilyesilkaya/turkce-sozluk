@@ -2,6 +2,7 @@
 layout: term
 title: kemirici
 slug: kemirici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemirme özelliği olan

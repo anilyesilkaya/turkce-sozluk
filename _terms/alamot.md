@@ -2,6 +2,7 @@
 layout: term
 title: alamot
 slug: alamot
+letter: A
 lisan: Fransızca â la mode
 anlamlar:
 - Modaya göre, modaya uygun

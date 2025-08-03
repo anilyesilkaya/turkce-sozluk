@@ -2,6 +2,7 @@
 layout: term
 title: maddeten
 slug: maddeten
+letter: M
 lisan: Arapça māddeten
 anlamlar:
 - Maddi bakımdan, manen karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: kumaşsız terzi
 slug: kumassiz-terzi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kumaş satmayıp müşteri tarafından getirilen kumaşla giysi diken terzi

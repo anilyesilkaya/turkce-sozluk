@@ -2,6 +2,7 @@
 layout: term
 title: ateşsizlik
 slug: atessizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşsiz olma durumu

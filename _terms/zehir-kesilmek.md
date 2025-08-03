@@ -2,6 +2,7 @@
 layout: term
 title: zehir kesilmek
 slug: zehir-kesilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çok acı ve yakıcı olmak

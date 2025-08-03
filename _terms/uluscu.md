@@ -2,6 +2,7 @@
 layout: term
 title: ulusçu
 slug: uluscu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milliyetçi

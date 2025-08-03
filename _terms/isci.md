@@ -2,6 +2,7 @@
 layout: term
 title: işçi
 slug: isci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Başkasının yararına bedenini, kafa gücünü veya el becerisini kullanarak ücretle çalışan kimse

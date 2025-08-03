@@ -2,6 +2,7 @@
 layout: term
 title: töhmetlendirmek
 slug: tohmetlendirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Töhmet altında bırakmak

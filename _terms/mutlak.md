@@ -2,6 +2,7 @@
 layout: term
 title: mutlak
 slug: mutlak
+letter: M
 lisan: Arapça muṭlaḳ
 anlamlar:
 - ► salt

@@ -2,6 +2,7 @@
 layout: term
 title: incik
 slug: incik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► baldır

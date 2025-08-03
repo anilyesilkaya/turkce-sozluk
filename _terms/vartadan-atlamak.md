@@ -2,6 +2,7 @@
 layout: term
 title: vartadan atlamak
 slug: vartadan-atlamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - zor bir durumdan kurtulmak

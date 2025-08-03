@@ -2,6 +2,7 @@
 layout: term
 title: kutlama
 slug: kutlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutlamak işi; kutlulama, tebrik, tesit

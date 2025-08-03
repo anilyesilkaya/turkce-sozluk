@@ -2,6 +2,7 @@
 layout: term
 title: semiyotik
 slug: semiyotik
+letter: S
 lisan: Fransızca sémiotique
 anlamlar:
 - ► gösterge bilimi

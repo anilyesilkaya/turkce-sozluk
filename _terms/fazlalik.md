@@ -2,6 +2,7 @@
 layout: term
 title: fazlalık
 slug: fazlalik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Çokluk, gereğinden artık olma durumu

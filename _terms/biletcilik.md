@@ -2,6 +2,7 @@
 layout: term
 title: biletçilik
 slug: biletcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biletçinin yaptığı iş

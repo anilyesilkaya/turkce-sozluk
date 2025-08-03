@@ -2,6 +2,7 @@
 layout: term
 title: bir aşağı bir yukarı
 slug: bir-asagi-bir-yukari
+letter: B
 lisan: Türkçe
 anlamlar:
 - amaçsız olarak gidip gelmeyi anlatan bir söz

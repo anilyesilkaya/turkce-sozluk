@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhçılık
 slug: tezgahcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tezgâhçı olma durumu

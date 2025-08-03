@@ -2,6 +2,7 @@
 layout: term
 title: dişleyiverme
 slug: disleyiverme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişleyivermek işi

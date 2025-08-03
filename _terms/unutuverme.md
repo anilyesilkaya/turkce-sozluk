@@ -2,6 +2,7 @@
 layout: term
 title: unutuverme
 slug: unutuverme
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutuvermek işi

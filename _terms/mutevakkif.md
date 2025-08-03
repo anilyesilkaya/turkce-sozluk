@@ -2,6 +2,7 @@
 layout: term
 title: mütevakkıf
 slug: mutevakkif
+letter: M
 lisan: Arapça mutevaḳḳif
 anlamlar:
 - Gerçekleşmesi bir şeye bağlı bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: büklümlü
 slug: buklumlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büklümü olan

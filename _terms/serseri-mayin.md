@@ -2,6 +2,7 @@
 layout: term
 title: serseri mayın
 slug: serseri-mayin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Denize döküldükten sonra dalgalar, rüzgârlar, akıntılar aracılığıyla serbest dolaşan mayın

@@ -2,6 +2,7 @@
 layout: term
 title: hafta arası
 slug: hafta-arasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hafta içi

@@ -2,6 +2,7 @@
 layout: term
 title: tanışma
 slug: tanisma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanışmak işi

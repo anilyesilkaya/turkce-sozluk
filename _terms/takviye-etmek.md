@@ -2,6 +2,7 @@
 layout: term
 title: takviye etmek
 slug: takviye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sağlamlaştırmak, kuvvetlendirmek, desteklemek

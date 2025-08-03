@@ -2,6 +2,7 @@
 layout: term
 title: ferdî
 slug: ferdi
+letter: F
 lisan: Arapça ferdī
 anlamlar:
 - ► bireysel

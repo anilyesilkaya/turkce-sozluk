@@ -2,6 +2,7 @@
 layout: term
 title: mırıldanmak
 slug: mirildanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Alçak sesle kendi kendine bir şeyler söylemek; mırlanmak

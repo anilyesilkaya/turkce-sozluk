@@ -2,6 +2,7 @@
 layout: term
 title: sığlık
 slug: siglik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığ olma durumu

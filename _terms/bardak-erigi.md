@@ -2,6 +2,7 @@
 layout: term
 title: bardak eriği
 slug: bardak-erigi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Elips biçiminde, sarı veya mor renkli, kokulu, tatlı bir tür erik; bardacık, bardacık eriği

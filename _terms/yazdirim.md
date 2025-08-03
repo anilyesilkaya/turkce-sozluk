@@ -2,6 +2,7 @@
 layout: term
 title: yazdırım
 slug: yazdirim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► dikte

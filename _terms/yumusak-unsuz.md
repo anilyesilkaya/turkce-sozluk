@@ -2,6 +2,7 @@
 layout: term
 title: yumuşak ünsüz
 slug: yumusak-unsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tonlu ünsüz

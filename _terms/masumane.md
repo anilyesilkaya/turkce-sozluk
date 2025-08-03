@@ -2,6 +2,7 @@
 layout: term
 title: masumane
 slug: masumane
+letter: M
 lisan: Arapça maʿṣūm + Farsça -āne
 anlamlar:
 - ► masumca

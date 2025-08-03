@@ -2,6 +2,7 @@
 layout: term
 title: gönlüne dokunmak
 slug: gonlune-dokunmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - üzülmek, rahatsızlık duymak

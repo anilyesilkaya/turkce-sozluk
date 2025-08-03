@@ -2,6 +2,7 @@
 layout: term
 title: lüpçü
 slug: lupcu
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► bedavacı

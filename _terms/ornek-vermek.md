@@ -2,6 +2,7 @@
 layout: term
 title: örnek vermek
 slug: ornek-vermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir konuyu daha ayrıntılı bir biçimde anlatabilmek için örneklendirmek

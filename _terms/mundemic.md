@@ -2,6 +2,7 @@
 layout: term
 title: mündemiç
 slug: mundemic
+letter: M
 lisan: Arapça mundemic
 anlamlar:
 - ► içkin

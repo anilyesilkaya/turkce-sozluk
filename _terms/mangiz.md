@@ -2,6 +2,7 @@
 layout: term
 title: mangiz
 slug: mangiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► para

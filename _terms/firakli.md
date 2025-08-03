@@ -2,6 +2,7 @@
 layout: term
 title: firaklı
 slug: firakli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Üzüntülü, dokunaklı, içe işleyen

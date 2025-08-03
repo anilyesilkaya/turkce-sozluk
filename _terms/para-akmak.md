@@ -2,6 +2,7 @@
 layout: term
 title: para akmak
 slug: para-akmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yatırım yapılmak

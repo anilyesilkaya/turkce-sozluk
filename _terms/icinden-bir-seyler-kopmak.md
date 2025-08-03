@@ -2,6 +2,7 @@
 layout: term
 title: içinden bir şeyler kopmak
 slug: icinden-bir-seyler-kopmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - içi ezilmek

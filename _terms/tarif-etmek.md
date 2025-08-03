@@ -2,6 +2,7 @@
 layout: term
 title: tarif etmek
 slug: tarif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tanımlamak

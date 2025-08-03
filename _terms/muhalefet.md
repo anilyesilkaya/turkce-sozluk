@@ -2,6 +2,7 @@
 layout: term
 title: muhalefet
 slug: muhalefet
+letter: M
 lisan: Arapça muḫālefet
 anlamlar:
 - Bir tutuma, bir görüşe, bir davranışa karşı olma durumu; aykırılık

@@ -2,6 +2,7 @@
 layout: term
 title: uyku ilacı
 slug: uyku-ilaci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Rahat uyuyabilmek için kullanılan ilaç

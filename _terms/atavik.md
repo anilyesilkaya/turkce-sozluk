@@ -2,6 +2,7 @@
 layout: term
 title: atavik
 slug: atavik
+letter: A
 lisan: Fransızca atavique
 anlamlar:
 - Atacılıkla ilgili

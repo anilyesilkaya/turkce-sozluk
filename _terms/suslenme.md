@@ -2,6 +2,7 @@
 layout: term
 title: süslenme
 slug: suslenme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süslenmek işi; bezenme

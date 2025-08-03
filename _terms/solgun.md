@@ -2,6 +2,7 @@
 layout: term
 title: solgun
 slug: solgun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rengini, tazeliğini, canlılığını veya parlaklığını yitirmiş olan, solmuş

@@ -2,6 +2,7 @@
 layout: term
 title: pompalanmak
 slug: pompalanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pompalama işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: haksızlığa uğramak
 slug: haksizliga-ugramak
+letter: H
 lisan: Türkçe
 anlamlar:
 - adalete aykırı bir duruma düşmek, haksızlıkla karşılaşmak

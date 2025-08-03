@@ -2,6 +2,7 @@
 layout: term
 title: fıkra
 slug: fikra
+letter: F
 lisan: Arapça fiḳra
 anlamlar:
 - Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik

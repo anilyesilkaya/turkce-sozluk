@@ -2,6 +2,7 @@
 layout: term
 title: tepeli
 slug: tepeli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepesi olan

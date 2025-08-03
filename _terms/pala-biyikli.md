@@ -2,6 +2,7 @@
 layout: term
 title: pala bıyıklı
 slug: pala-biyikli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gür, uzun ve kıvrık bıyıkları olan (kimse); pala bıyık

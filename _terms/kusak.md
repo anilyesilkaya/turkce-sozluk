@@ -2,6 +2,7 @@
 layout: term
 title: kuşak
 slug: kusak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bele sarılan uzun ve enli kumaş

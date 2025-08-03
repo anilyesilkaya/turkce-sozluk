@@ -2,6 +2,7 @@
 layout: term
 title: buhar olmak
 slug: buhar-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yok olmak, kaybolmak

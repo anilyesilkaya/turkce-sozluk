@@ -2,6 +2,7 @@
 layout: term
 title: ısı
 slug: isi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir cismin uzamasına, genleşmesine, buharlaşmasına, erimesine, sıcaklığının artmasına yol açan fiziksel enerji

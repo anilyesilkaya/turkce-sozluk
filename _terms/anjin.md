@@ -2,6 +2,7 @@
 layout: term
 title: anjin
 slug: anjin
+letter: A
 lisan: Fransızca angine
 anlamlar:
 - Boğaz mukozasının iltihaplanarak şişmesi, bademcik iltihabı; boğak, hunnak

@@ -2,6 +2,7 @@
 layout: term
 title: ekletebilmek
 slug: ekletebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekletme ihtimali veya imkânı bulunmak

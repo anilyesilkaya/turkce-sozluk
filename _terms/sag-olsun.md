@@ -2,6 +2,7 @@
 layout: term
 title: sağ olsun
 slug: sag-olsun
+letter: S
 lisan: Türkçe
 anlamlar:
 - biri için sitem yollu bir şey söyleneceği zaman söyleyenin iyi niyetini belirtmek amacıyla sözün başına getirilen bir söz

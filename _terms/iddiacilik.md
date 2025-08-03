@@ -2,6 +2,7 @@
 layout: term
 title: iddiacılık
 slug: iddiacilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İddiacı olma durumu

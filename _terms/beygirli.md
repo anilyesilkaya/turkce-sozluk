@@ -2,6 +2,7 @@
 layout: term
 title: beygirli
 slug: beygirli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beygiri olan

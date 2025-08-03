@@ -2,6 +2,7 @@
 layout: term
 title: koronavirüs
 slug: koronavirus
+letter: K
 lisan: İtalyanca corona + Fransızca virus
 anlamlar:
 - Yüksek ateş ve nefes darlığı ile tanımlanan, viral solunum yolu hastalığına sebep olan bir tür virüs

@@ -2,6 +2,7 @@
 layout: term
 title: acul
 slug: acul
+letter: A
 lisan: Arapça ʿacūl
 anlamlar:
 - ► aceleci

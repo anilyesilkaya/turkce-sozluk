@@ -2,6 +2,7 @@
 layout: term
 title: gelinparmağı
 slug: gelinparmagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Uzun taneli bir tür üzüm

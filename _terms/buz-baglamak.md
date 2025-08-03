@@ -2,6 +2,7 @@
 layout: term
 title: buz bağlamak
 slug: buz-baglamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıvı yüzeyi donmak

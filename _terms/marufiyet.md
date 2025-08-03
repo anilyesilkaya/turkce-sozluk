@@ -2,6 +2,7 @@
 layout: term
 title: marufiyet
 slug: marufiyet
+letter: M
 lisan: Arapça maʿrūfiyyet
 anlamlar:
 - Bilinme, tanınma, belli olma

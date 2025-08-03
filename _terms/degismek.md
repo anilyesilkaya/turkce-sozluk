@@ -2,6 +2,7 @@
 layout: term
 title: değişmek
 slug: degismek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başka bir biçim veya duruma girmek; tahavvül etmek

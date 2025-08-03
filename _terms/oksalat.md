@@ -2,6 +2,7 @@
 layout: term
 title: oksalat
 slug: oksalat
+letter: O
 lisan: Fransızca oxalate
 anlamlar:
 - Billurları idrarda bulunabilen ve idrar yolunda taş yapan kalsiyum oksalatın kısa biçimi

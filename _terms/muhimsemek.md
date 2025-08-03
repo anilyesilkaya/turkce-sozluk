@@ -2,6 +2,7 @@
 layout: term
 title: mühimsemek
 slug: muhimsemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► önemsemek

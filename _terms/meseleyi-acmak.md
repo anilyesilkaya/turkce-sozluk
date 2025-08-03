@@ -2,6 +2,7 @@
 layout: term
 title: meseleyi açmak
 slug: meseleyi-acmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir işi, bir sorunu çözmek için başkasına bahsetmek

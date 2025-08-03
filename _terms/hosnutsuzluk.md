@@ -2,6 +2,7 @@
 layout: term
 title: hoşnutsuzluk
 slug: hosnutsuzluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşnut olmama durumu; sızıltı

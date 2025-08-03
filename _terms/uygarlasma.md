@@ -2,6 +2,7 @@
 layout: term
 title: uygarlaşma
 slug: uygarlasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar duruma gelme; medenileşme, temeddün

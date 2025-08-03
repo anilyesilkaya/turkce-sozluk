@@ -2,6 +2,7 @@
 layout: term
 title: zemin
 slug: zemin
+letter: Z
 lisan: Farsça zemīn
 anlamlar:
 - ► taban (I)

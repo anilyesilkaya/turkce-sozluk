@@ -2,6 +2,7 @@
 layout: term
 title: dirsek çevirmek
 slug: dirsek-cevirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - daha önce iş birliği yaptığı kişiyi uzaklaştıracak davranışlarda bulunmak

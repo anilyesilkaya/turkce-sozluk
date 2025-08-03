@@ -2,6 +2,7 @@
 layout: term
 title: başvuru
 slug: basvuru
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başvurmak işi; müracaat

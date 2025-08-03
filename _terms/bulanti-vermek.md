@@ -2,6 +2,7 @@
 layout: term
 title: bulantı vermek
 slug: bulanti-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - midesini bulandırmak

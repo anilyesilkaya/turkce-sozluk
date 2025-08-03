@@ -2,6 +2,7 @@
 layout: term
 title: otonomluk
 slug: otonomluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► özerklik

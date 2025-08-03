@@ -2,6 +2,7 @@
 layout: term
 title: müşteri
 slug: musteri
+letter: M
 lisan: Arapça muşterī
 anlamlar:
 - Hizmet, mal vb. alan ve karşılığında ücret ödeyen kimse

@@ -2,6 +2,7 @@
 layout: term
 title: yatalak
 slug: yatalak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Felç, sakatlık vb. bir sebeple yataktan kalkamayan (kimse)

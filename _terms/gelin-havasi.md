@@ -2,6 +2,7 @@
 layout: term
 title: gelin havası
 slug: gelin-havasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelin alayının kızın evinden ayrılıp oğlanın evine gidinceye kadar davul ve zurnanın çaldığı özel ezgi

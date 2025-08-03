@@ -2,6 +2,7 @@
 layout: term
 title: teamül
 slug: teamul
+letter: T
 lisan: Arapça teʿāmul
 anlamlar:
 - Bir yerde öteden beri olagelen davranış

@@ -2,6 +2,7 @@
 layout: term
 title: kopil
 slug: kopil
+letter: K
 lisan: Rumca
 anlamlar:
 - Arsız sokak çocuğu

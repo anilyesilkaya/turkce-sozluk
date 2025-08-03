@@ -2,6 +2,7 @@
 layout: term
 title: kutlamak
 slug: kutlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek

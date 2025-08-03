@@ -2,6 +2,7 @@
 layout: term
 title: cebren
 slug: cebren
+letter: C
 lisan: Arapça cebren
 anlamlar:
 - ► zorla

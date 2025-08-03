@@ -2,6 +2,7 @@
 layout: term
 title: kırışma
 slug: kirisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırışmak işi

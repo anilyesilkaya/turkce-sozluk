@@ -2,6 +2,7 @@
 layout: term
 title: canını dişine almak (veya takmak)
 slug: canini-disine-almak-veya-takmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - her tehlikeyi göze alarak işe girişmek

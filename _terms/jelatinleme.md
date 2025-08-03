@@ -2,6 +2,7 @@
 layout: term
 title: jelatinleme
 slug: jelatinleme
+letter: J
 lisan: Türkçe
 anlamlar:
 - Jelatinlemek işi

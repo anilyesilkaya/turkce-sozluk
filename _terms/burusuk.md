@@ -2,6 +2,7 @@
 layout: term
 title: buruşuk
 slug: burusuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gerginliği, düzgünlüğü kalmamış, buruşmuş olan; potur

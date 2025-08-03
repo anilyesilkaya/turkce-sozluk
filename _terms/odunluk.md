@@ -2,6 +2,7 @@
 layout: term
 title: odunluk
 slug: odunluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Odun konulan yer

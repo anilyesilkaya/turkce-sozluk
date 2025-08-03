@@ -2,6 +2,7 @@
 layout: term
 title: sfenks
 slug: sfenks
+letter: S
 lisan: Fransızca sphinx
 anlamlar:
 - Mısır'da eski Mısırlılar çağından kalma kadın başlı, aslan vücutlu heykel

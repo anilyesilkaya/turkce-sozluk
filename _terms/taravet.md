@@ -2,6 +2,7 @@
 layout: term
 title: taravet
 slug: taravet
+letter: T
 lisan: Arapça ṭarāvet
 anlamlar:
 - ► körpelik

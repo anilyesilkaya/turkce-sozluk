@@ -2,6 +2,7 @@
 layout: term
 title: küçük düşürmek
 slug: kucuk-dusurmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerini veya şerefini sarsmak

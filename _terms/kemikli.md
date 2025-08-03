@@ -2,6 +2,7 @@
 layout: term
 title: kemikli
 slug: kemikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemiği olan

@@ -2,6 +2,7 @@
 layout: term
 title: kredisiz
 slug: kredisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kredisi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: birer ikişer
 slug: birer-ikiser
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tek veya birkaçı birlikte olarak

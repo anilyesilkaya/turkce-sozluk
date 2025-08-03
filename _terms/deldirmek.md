@@ -2,6 +2,7 @@
 layout: term
 title: deldirmek
 slug: deldirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delme işini yaptırmak

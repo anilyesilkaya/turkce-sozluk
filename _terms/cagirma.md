@@ -2,6 +2,7 @@
 layout: term
 title: çağırma
 slug: cagirma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağırmak işi; davet

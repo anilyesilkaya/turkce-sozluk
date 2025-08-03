@@ -2,6 +2,7 @@
 layout: term
 title: açılabilme
 slug: acilabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açılabilmek işi

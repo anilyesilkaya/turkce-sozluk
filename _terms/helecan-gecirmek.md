@@ -2,6 +2,7 @@
 layout: term
 title: helecan geçirmek
 slug: helecan-gecirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - kalp çarpıntısına tutulmak

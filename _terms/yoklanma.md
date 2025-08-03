@@ -2,6 +2,7 @@
 layout: term
 title: yoklanma
 slug: yoklanma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoklanmak işi

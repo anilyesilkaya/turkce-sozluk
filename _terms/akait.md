@@ -2,6 +2,7 @@
 layout: term
 title: akait
 slug: akait
+letter: A
 lisan: Arapça ʿaḳāʾid
 anlamlar:
 - İnanışlar

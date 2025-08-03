@@ -2,6 +2,7 @@
 layout: term
 title: inekçi
 slug: inekci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sütünü ve süt ürünlerini satmak için inek besleyen kimse

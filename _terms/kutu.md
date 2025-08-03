@@ -2,6 +2,7 @@
 layout: term
 title: kutu
 slug: kutu
+letter: K
 lisan: Rumca
 anlamlar:
 - İnce tahta, mukavva, teneke, plastik vb.nden yapılmış, genellikle kapaklı kap

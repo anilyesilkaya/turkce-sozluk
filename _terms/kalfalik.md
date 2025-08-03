@@ -2,6 +2,7 @@
 layout: term
 title: kalfalık
 slug: kalfalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalfa olma durumu

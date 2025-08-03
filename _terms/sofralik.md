@@ -2,6 +2,7 @@
 layout: term
 title: sofralık
 slug: sofralik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sofrada yemeye yarayan

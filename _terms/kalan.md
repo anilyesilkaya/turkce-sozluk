@@ -2,6 +2,7 @@
 layout: term
 title: kalan
 slug: kalan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalma işini yapan

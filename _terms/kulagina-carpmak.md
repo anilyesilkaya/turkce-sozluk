@@ -2,6 +2,7 @@
 layout: term
 title: kulağına çarpmak
 slug: kulagina-carpmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - duyulmak

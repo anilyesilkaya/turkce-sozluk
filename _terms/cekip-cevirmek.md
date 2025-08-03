@@ -2,6 +2,7 @@
 layout: term
 title: çekip çevirmek
 slug: cekip-cevirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hâle yola koymak

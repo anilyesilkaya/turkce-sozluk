@@ -2,6 +2,7 @@
 layout: term
 title: fındık
 slug: findik
+letter: F
 lisan: Arapça funduḳ
 anlamlar:
 - Kayıngillerden, kuzey yarım kürenin ılık yerlerinde ve yurdumuzun genellikle Doğu Karadeniz Bölgesi'nde yetişen, boyu 6-7 metre, yaygın tepeli bir ağaççık (Corylus avellana)

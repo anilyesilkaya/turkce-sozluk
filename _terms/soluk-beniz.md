@@ -2,6 +2,7 @@
 layout: term
 title: soluk beniz
 slug: soluk-beniz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğuştan veya herhangi bir hastalık sebebiyle rengi solmuş olan yüz

@@ -2,6 +2,7 @@
 layout: term
 title: şamata
 slug: samata
+letter: Ş
 lisan: Arapça şemāte
 anlamlar:
 - ► gürültü patırtı

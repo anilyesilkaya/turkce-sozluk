@@ -2,6 +2,7 @@
 layout: term
 title: arka plan
 slug: arka-plan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin gerisindeki görünüm; geri plan

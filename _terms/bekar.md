@@ -2,6 +2,7 @@
 layout: term
 title: bekâr
 slug: bekar
+letter: B
 lisan: Arapça bekār
 anlamlar:
 - Evlenmemiş kimse; ergen, mücerret

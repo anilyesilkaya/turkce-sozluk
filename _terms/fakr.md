@@ -2,6 +2,7 @@
 layout: term
 title: fakr
 slug: fakr
+letter: F
 lisan: Arapça faḳr
 anlamlar:
 - ► yoksulluk

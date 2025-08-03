@@ -2,6 +2,7 @@
 layout: term
 title: aklınca
 slug: aklinca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sandığına göre, düşünüşüne göre, umduğuna göre; aklı sıra

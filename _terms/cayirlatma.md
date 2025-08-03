@@ -2,6 +2,7 @@
 layout: term
 title: çayırlatma
 slug: cayirlatma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çayırlatmak işi

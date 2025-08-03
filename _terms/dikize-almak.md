@@ -2,6 +2,7 @@
 layout: term
 title: dikize almak
 slug: dikize-almak
+letter: D
 lisan: Türkçe
 anlamlar:
 - gözetlemek

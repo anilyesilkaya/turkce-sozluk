@@ -2,6 +2,7 @@
 layout: term
 title: haber salmak (veya yollamak)
 slug: haber-salmak-veya-yollamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - haber göndermek

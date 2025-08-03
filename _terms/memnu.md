@@ -2,6 +2,7 @@
 layout: term
 title: memnu
 slug: memnu
+letter: M
 lisan: Arapça memnūʿ
 anlamlar:
 - ► yasak

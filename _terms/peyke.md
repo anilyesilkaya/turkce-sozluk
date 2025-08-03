@@ -2,6 +2,7 @@
 layout: term
 title: peyke
 slug: peyke
+letter: P
 lisan: Farsça pāygāh
 anlamlar:
 - Genellikle eski iş yerlerinde bulunan, duvara bitişik, alçak, tahta sedir

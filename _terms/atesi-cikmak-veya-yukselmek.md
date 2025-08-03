@@ -2,6 +2,7 @@
 layout: term
 title: ateşi çıkmak (veya yükselmek)
 slug: atesi-cikmak-veya-yukselmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - hastanın vücut ısısı olağandan çok artmak

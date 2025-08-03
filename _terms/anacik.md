@@ -2,6 +2,7 @@
 layout: term
 title: anacık
 slug: anacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Annelere sevgiyle yaklaşıldığını belirten bir söz

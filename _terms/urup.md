@@ -2,6 +2,7 @@
 layout: term
 title: urup
 slug: urup
+letter: U
 lisan: Arapça rubʿ
 anlamlar:
 - Arşının sekizde biri uzunluğundaki ölçü

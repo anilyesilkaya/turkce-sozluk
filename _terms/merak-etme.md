@@ -2,6 +2,7 @@
 layout: term
 title: merak etme!
 slug: merak-etme
+letter: M
 lisan: Türkçe
 anlamlar:
 - “kaygılanma, tasalanma” anlamında kullanılan bir söz

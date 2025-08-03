@@ -2,6 +2,7 @@
 layout: term
 title: çöpe gitmek
 slug: cope-gitmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yapılan iş boşa gitmek

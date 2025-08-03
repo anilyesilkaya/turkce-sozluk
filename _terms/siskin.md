@@ -2,6 +2,7 @@
 layout: term
 title: şişkin
 slug: siskin
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişmiş, şişirilmiş

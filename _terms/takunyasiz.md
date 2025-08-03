@@ -2,6 +2,7 @@
 layout: term
 title: takunyasız
 slug: takunyasiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takunyası olmayan; nalınsız

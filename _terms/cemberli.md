@@ -2,6 +2,7 @@
 layout: term
 title: çemberli
 slug: cemberli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çemberi olan

@@ -2,6 +2,7 @@
 layout: term
 title: apacı
 slug: apaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok acı

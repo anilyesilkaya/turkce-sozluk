@@ -2,6 +2,7 @@
 layout: term
 title: inatçı
 slug: inatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ayak direyen, direnen; aksi, direngen, inat, inatçı, pek başlı, anut, muannit

@@ -2,6 +2,7 @@
 layout: term
 title: cıvımak
 slug: civimak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvık duruma gelmek

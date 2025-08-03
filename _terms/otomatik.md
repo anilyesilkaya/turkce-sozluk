@@ -2,6 +2,7 @@
 layout: term
 title: otomatik
 slug: otomatik
+letter: O
 lisan: Fransızca automatique
 anlamlar:
 - Mekanik yollarla hareket ettirilen veya kendi kendini yöneten (alet)

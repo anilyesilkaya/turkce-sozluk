@@ -2,6 +2,7 @@
 layout: term
 title: peydah olmak
 slug: peydah-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - peyda olmak

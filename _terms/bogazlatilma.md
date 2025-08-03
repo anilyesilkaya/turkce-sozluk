@@ -2,6 +2,7 @@
 layout: term
 title: boğazlatılma
 slug: bogazlatilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazlatılmak işi

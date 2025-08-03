@@ -2,6 +2,7 @@
 layout: term
 title: haşefe
 slug: hasefe
+letter: H
 lisan: Arapça ḥāşefe
 anlamlar:
 - ► başçık

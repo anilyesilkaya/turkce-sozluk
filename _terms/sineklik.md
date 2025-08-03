@@ -2,6 +2,7 @@
 layout: term
 title: sineklik
 slug: sineklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinekleri kovmaya yarayan ucu püsküllü değnek

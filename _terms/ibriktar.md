@@ -2,6 +2,7 @@
 layout: term
 title: ibriktar
 slug: ibriktar
+letter: I
 lisan: Arapça ibrīḳ + Farsça -dār
 anlamlar:
 - ► ibrikçi

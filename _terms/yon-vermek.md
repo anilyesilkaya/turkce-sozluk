@@ -2,6 +2,7 @@
 layout: term
 title: yön vermek
 slug: yon-vermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yeni bir biçim, yeni bir düzen vermek

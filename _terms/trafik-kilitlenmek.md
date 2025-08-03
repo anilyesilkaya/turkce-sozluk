@@ -2,6 +2,7 @@
 layout: term
 title: trafik kilitlenmek
 slug: trafik-kilitlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebepten dolayı araç yolu tıkanmak, işlemez duruma gelmek

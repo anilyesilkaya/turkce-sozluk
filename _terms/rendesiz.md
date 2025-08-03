@@ -2,6 +2,7 @@
 layout: term
 title: rendesiz
 slug: rendesiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rendesi olmayan, rendelenmemiş

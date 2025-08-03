@@ -2,6 +2,7 @@
 layout: term
 title: kıpışık
 slug: kipisik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yarı kapalı (göz)

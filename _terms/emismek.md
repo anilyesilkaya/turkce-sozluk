@@ -2,6 +2,7 @@
 layout: term
 title: emişmek
 slug: emismek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak emmek

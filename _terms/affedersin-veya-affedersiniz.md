@@ -2,6 +2,7 @@
 layout: term
 title: affedersin (veya affedersiniz)
 slug: affedersin-veya-affedersiniz
+letter: A
 lisan: Türkçe
 anlamlar:
 - özür dilemek için söylenen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: müstezat
 slug: mustezat
+letter: M
 lisan: Arapça mustezād
 anlamlar:
 - Her dizesine bir küçük dize eklenmiş divan edebiyatı nazım türü

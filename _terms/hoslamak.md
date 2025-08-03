@@ -2,6 +2,7 @@
 layout: term
 title: hoşlamak
 slug: hoslamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Birini ‘hoş geldiniz’ diyerek güzel bir biçimde karşılamak

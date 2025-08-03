@@ -2,6 +2,7 @@
 layout: term
 title: car car
 slug: car-car
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok ve yüksek sesle, gürültülü bir biçimde (konuşmak)

@@ -2,6 +2,7 @@
 layout: term
 title: sirk
 slug: sirk
+letter: S
 lisan: Fransızca cirque
 anlamlar:
 - Cambazların ve eğitilmiş hayvanların gösteri yaptıkları, genellikle kapalı yer

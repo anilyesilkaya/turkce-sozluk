@@ -2,6 +2,7 @@
 layout: term
 title: karşıtlama
 slug: karsitlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşıtlamak işi

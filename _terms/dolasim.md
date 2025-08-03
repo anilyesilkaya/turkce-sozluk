@@ -2,6 +2,7 @@
 layout: term
 title: dolaşım
 slug: dolasim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaşmak işi; sirkülasyon

@@ -2,6 +2,7 @@
 layout: term
 title: kâr payı
 slug: kar-payi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir malın maliyet fiyatı üzerine konulan ve satıcıya kalan kazanç

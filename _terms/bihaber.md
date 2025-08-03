@@ -2,6 +2,7 @@
 layout: term
 title: bihaber
 slug: bihaber
+letter: B
 lisan: Farsça bī + Arapça ḫaber
 anlamlar:
 - ► habersiz

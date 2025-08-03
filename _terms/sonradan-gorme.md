@@ -2,6 +2,7 @@
 layout: term
 title: sonradan görme
 slug: sonradan-gorme
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sonradan görmüş

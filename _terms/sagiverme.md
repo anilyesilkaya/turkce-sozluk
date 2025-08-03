@@ -2,6 +2,7 @@
 layout: term
 title: sağıverme
 slug: sagiverme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağıvermek işi

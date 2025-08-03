@@ -2,6 +2,7 @@
 layout: term
 title: hidrojen
 slug: hidrojen
+letter: H
 lisan: Fransızca hydorogène
 anlamlar:
 - Oksijenle birleşerek suyu oluşturan, atom numarası 1, rengi, kokusu ve tadı olmayan bir gaz; müvellidülma (simgesi H)

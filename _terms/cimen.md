@@ -2,6 +2,7 @@
 layout: term
 title: çimen
 slug: cimen
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kendiliğinden yetişmiş çim

@@ -2,6 +2,7 @@
 layout: term
 title: sofalı
 slug: sofali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sofası olan

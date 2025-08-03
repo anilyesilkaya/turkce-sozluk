@@ -2,6 +2,7 @@
 layout: term
 title: ek-eylem
 slug: ek-eylem
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ek-fiil

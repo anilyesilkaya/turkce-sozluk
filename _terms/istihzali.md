@@ -2,6 +2,7 @@
 layout: term
 title: istihzalı
 slug: istihzali
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstihzası olan

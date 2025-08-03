@@ -2,6 +2,7 @@
 layout: term
 title: belirleme
 slug: belirleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirlemek işi; tayin, tespit, teşhis

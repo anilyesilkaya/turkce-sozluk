@@ -2,6 +2,7 @@
 layout: term
 title: uğul uğul
 slug: ugul-ugul
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğuldayarak

@@ -2,6 +2,7 @@
 layout: term
 title: cıncık boncuk
 slug: cincik-boncuk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yalancı taşlardan yapılmış küpe, kolye vb. şeyler

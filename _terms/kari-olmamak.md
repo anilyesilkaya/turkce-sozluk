@@ -2,6 +2,7 @@
 layout: term
 title: kârı olmamak
 slug: kari-olmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yapabileceği iş olmamak

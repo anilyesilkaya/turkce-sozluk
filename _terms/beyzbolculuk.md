@@ -2,6 +2,7 @@
 layout: term
 title: beyzbolculuk
 slug: beyzbolculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyzbolcunun yaptığı iş

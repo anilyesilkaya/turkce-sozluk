@@ -2,6 +2,7 @@
 layout: term
 title: geveleme
 slug: geveleme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevelemek işi

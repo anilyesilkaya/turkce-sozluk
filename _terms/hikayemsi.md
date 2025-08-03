@@ -2,6 +2,7 @@
 layout: term
 title: hikâyemsi
 slug: hikayemsi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hikâyeyi andıran, hikâyeye benzeyen, hikâye gibi

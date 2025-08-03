@@ -2,6 +2,7 @@
 layout: term
 title: çekincesizlik
 slug: cekincesizlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekincesiz olma durumu

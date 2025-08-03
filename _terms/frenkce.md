@@ -2,6 +2,7 @@
 layout: term
 title: Frenkçe
 slug: frenkce
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► Fransızca

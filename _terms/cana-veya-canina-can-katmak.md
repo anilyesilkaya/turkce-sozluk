@@ -2,6 +2,7 @@
 layout: term
 title: cana (veya canına) can katmak
 slug: cana-veya-canina-can-katmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - yaşama gücünü artırmak

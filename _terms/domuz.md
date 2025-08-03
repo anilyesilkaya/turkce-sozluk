@@ -2,6 +2,7 @@
 layout: term
 title: domuz
 slug: domuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çift parmaklılardan, eti, yağı, derisi veya kılı için beslenen, evcil hayvan; hınzır (Susacrofa domestica)

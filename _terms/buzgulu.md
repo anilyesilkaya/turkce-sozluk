@@ -2,6 +2,7 @@
 layout: term
 title: büzgülü
 slug: buzgulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzgüsü olan, büzülerek dikilmiş olan

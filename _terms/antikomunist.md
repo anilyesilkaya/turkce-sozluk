@@ -2,6 +2,7 @@
 layout: term
 title: antikomünist
 slug: antikomunist
+letter: A
 lisan: Fransızca anticommuniste
 anlamlar:
 - Komünizme karşı olan

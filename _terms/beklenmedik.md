@@ -2,6 +2,7 @@
 layout: term
 title: beklenmedik
 slug: beklenmedik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beklenmeyen, umulmayan; sıra dışı

@@ -2,6 +2,7 @@
 layout: term
 title: huzursuzca
 slug: huzursuzca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Biraz huzursuz

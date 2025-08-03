@@ -2,6 +2,7 @@
 layout: term
 title: kuru
 slug: kuru
+letter: K
 lisan: Türkçe
 anlamlar:
 - Suyu, nemi olmayan, yaş ve nemli karşıtı

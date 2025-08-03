@@ -2,6 +2,7 @@
 layout: term
 title: damlaya uğramak
 slug: damlaya-ugramak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yüreğine inmek, felç olmak

@@ -2,6 +2,7 @@
 layout: term
 title: arazbar
 slug: arazbar
+letter: A
 lisan: Arapça ʿaraż + Farsça bār
 anlamlar:
 - Türk müziğinde neva perdesi üzerindeki bayati makamı dizisi, çargâh üzerindeki rast beşlisi ve uşşak dörtlüsünden meydana gelen birleşik bir makam

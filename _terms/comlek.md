@@ -2,6 +2,7 @@
 layout: term
 title: çömlek
 slug: comlek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Toprak tencere

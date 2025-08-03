@@ -2,6 +2,7 @@
 layout: term
 title: ödevlendirmek
 slug: odevlendirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birine ödev vermek; vazifelendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: yatılı
 slug: yatili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Geceleri de kalınıp yatılan (okul vb.); leyli

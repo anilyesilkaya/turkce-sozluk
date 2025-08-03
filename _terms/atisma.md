@@ -2,6 +2,7 @@
 layout: term
 title: atışma
 slug: atisma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atışmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: gün tutulması
 slug: gun-tutulmasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► Güneş tutulması

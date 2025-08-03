@@ -2,6 +2,7 @@
 layout: term
 title: göğüslük
 slug: gogusluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genellikle ilköğretim öğrencilerinin giydiği tek biçimde üstlük, önlük

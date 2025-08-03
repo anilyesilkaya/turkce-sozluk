@@ -2,6 +2,7 @@
 layout: term
 title: çok partili
 slug: cok-partili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birden fazla partinin katılımı ile yaşanan (siyasi hayat)

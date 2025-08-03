@@ -2,6 +2,7 @@
 layout: term
 title: çığırtkan
 slug: cigirtkan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ötüşüyle kendi türünden olan kuşların çevresine toplanması için avcıların yararlandığı kuş

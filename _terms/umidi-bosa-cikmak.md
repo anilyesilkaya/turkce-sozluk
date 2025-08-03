@@ -2,6 +2,7 @@
 layout: term
 title: ümidi boşa çıkmak
 slug: umidi-bosa-cikmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umudu boşa çıkmak

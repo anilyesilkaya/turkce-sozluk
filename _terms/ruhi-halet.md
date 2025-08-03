@@ -2,6 +2,7 @@
 layout: term
 title: ruhi hâlet
 slug: ruhi-halet
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► ruhsal durum

@@ -2,6 +2,7 @@
 layout: term
 title: anlaşma
 slug: anlasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaşmak durumu

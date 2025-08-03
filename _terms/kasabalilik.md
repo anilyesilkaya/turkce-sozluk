@@ -2,6 +2,7 @@
 layout: term
 title: kasabalılık
 slug: kasabalilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasabalı olma durumu

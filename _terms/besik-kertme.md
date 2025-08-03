@@ -2,6 +2,7 @@
 layout: term
 title: beşik kertme
 slug: besik-kertme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beşik kertmesi

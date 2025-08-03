@@ -2,6 +2,7 @@
 layout: term
 title: sabaha karşı
 slug: sabaha-karsi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sabaha doğru

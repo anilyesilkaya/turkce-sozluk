@@ -2,6 +2,7 @@
 layout: term
 title: harp zengini
 slug: harp-zengini
+letter: H
 lisan: Türkçe
 anlamlar:
 - Savaş sırasında yolsuz kazançlar sağlayarak kısa sürede zengin olan kimse

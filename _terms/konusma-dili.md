@@ -2,6 +2,7 @@
 layout: term
 title: konuşma dili
 slug: konusma-dili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Günlük yaşayışta kullanılan ve yazı dilinden az çok farklarla ayrılmış bulunan dil, günlük konuşma, günlük dil

@@ -2,6 +2,7 @@
 layout: term
 title: saya
 slug: saya
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ayakkabının yumuşak olan üst bölümü

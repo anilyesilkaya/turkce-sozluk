@@ -2,6 +2,7 @@
 layout: term
 title: vermek
 slug: vermek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Üzerinde, elinde veya yakınında olan bir şeyi birisine eriştirmek, iletmek; lütfetmek, lütfeylemek

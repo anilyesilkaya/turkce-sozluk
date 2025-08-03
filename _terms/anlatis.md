@@ -2,6 +2,7 @@
 layout: term
 title: anlatış
 slug: anlatis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatmak işi

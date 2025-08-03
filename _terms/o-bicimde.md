@@ -2,6 +2,7 @@
 layout: term
 title: 'o biçimde '
 slug: o-bicimde
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► öyle

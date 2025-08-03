@@ -2,6 +2,7 @@
 layout: term
 title: usulen
 slug: usulen
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yöntemine uygun olarak

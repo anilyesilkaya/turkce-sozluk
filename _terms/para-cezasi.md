@@ -2,6 +2,7 @@
 layout: term
 title: para cezası
 slug: para-cezasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - İşlenen bir suçun para karşılığının devlete ödenmesini öngören ceza; nakdî ceza

@@ -2,6 +2,7 @@
 layout: term
 title: tığ gibi
 slug: tig-gibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ince, zayıf, sağlam ve çevik (kimse)

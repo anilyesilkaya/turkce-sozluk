@@ -2,6 +2,7 @@
 layout: term
 title: böğürüş
 slug: bogurus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böğürmek işi

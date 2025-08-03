@@ -2,6 +2,7 @@
 layout: term
 title: haberleşebilme
 slug: haberlesebilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haberleşebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: başka
 slug: baska
+letter: B
 lisan: Türkçe
 anlamlar:
 - Diğer şeylere benzemeyen; özge

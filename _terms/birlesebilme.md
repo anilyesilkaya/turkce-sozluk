@@ -2,6 +2,7 @@
 layout: term
 title: birleşebilme
 slug: birlesebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşebilmek işi

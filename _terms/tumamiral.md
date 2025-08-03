@@ -2,6 +2,7 @@
 layout: term
 title: tümamiral
 slug: tumamiral
+letter: T
 lisan: Türkçe
 anlamlar:
 - Deniz kuvvetlerinde, rütbesi tuğamiralle koramiral arasında bulunan amiral

@@ -2,6 +2,7 @@
 layout: term
 title: ipini koparmak
 slug: ipini-koparmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - başıboş kalmak

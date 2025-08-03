@@ -2,6 +2,7 @@
 layout: term
 title: yerden göğe kadar
 slug: yerden-goge-kadar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - pek çok

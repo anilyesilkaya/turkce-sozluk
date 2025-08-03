@@ -2,6 +2,7 @@
 layout: term
 title: şakacı
 slug: sakaci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaka yapmasını seven, şakalaşmadan hoşlanan; latifeci

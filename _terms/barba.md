@@ -2,6 +2,7 @@
 layout: term
 title: barba
 slug: barba
+letter: B
 lisan: Rumca
 anlamlar:
 - İhtiyar Rum meyhanecisi

@@ -2,6 +2,7 @@
 layout: term
 title: pussuz
 slug: pussuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pusu (I) olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: içi çekmek
 slug: ici-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - istek duymak

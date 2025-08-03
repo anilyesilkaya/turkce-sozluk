@@ -2,6 +2,7 @@
 layout: term
 title: usare
 slug: usare
+letter: U
 lisan: Arapça ʿuṣāre
 anlamlar:
 - ► öz su

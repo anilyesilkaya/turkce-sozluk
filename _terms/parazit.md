@@ -2,6 +2,7 @@
 layout: term
 title: parazit
 slug: parazit
+letter: P
 lisan: Fransızca parasite
 anlamlar:
 - ► asalak

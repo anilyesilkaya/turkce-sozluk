@@ -2,6 +2,7 @@
 layout: term
 title: tahrik etmek
 slug: tahrik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - cinsel isteği, duyguları uyandırmak, artırmak

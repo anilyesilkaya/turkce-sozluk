@@ -2,6 +2,7 @@
 layout: term
 title: karabaş
 slug: karabas
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çoban köpeği

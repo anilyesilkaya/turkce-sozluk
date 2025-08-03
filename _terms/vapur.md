@@ -2,6 +2,7 @@
 layout: term
 title: vapur
 slug: vapur
+letter: V
 lisan: Fransızca vapeur
 anlamlar:
 - Su buharı gücüyle çalışan gemi

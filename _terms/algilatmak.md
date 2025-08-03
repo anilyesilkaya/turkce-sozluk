@@ -2,6 +2,7 @@
 layout: term
 title: algılatmak
 slug: algilatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algılama işini birine yaptırmak; idrak ettirmek

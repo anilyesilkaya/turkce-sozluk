@@ -2,6 +2,7 @@
 layout: term
 title: esir düşmek
 slug: esir-dusmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - tutsak olmak

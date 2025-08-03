@@ -2,6 +2,7 @@
 layout: term
 title: lâm elif çevirmek (veya çizmek)
 slug: lam-elif-cevirmek-veya-cizmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - kısa bir süre dolaşıp gelmek

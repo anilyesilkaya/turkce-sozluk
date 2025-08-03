@@ -2,6 +2,7 @@
 layout: term
 title: rolcülük
 slug: rolculuk
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rol yapma durumu

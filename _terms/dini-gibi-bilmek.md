@@ -2,6 +2,7 @@
 layout: term
 title: dini gibi bilmek
 slug: dini-gibi-bilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok iyi bilmek

@@ -2,6 +2,7 @@
 layout: term
 title: köşe bucak
 slug: kose-bucak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bulunulan yerin her tarafı, her yer; ocak bucak

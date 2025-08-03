@@ -2,6 +2,7 @@
 layout: term
 title: küvet
 slug: kuvet
+letter: K
 lisan: Fransızca cuvette
 anlamlar:
 - İçine su doldurulup yıkanmaya elverişli tekne; banyo küveti

@@ -2,6 +2,7 @@
 layout: term
 title: babacanlık
 slug: babacanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babacan olma durumu, cana yakınlık

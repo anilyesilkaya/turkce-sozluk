@@ -2,6 +2,7 @@
 layout: term
 title: seksenli
 slug: seksenli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seksen parçası bulunan, seksen parçadan oluşan

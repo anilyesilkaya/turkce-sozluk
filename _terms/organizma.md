@@ -2,6 +2,7 @@
 layout: term
 title: organizma
 slug: organizma
+letter: O
 lisan: Fransızca organisme
 anlamlar:
 - Canlı bir varlığı oluşturan organların bütünü; uzviyet

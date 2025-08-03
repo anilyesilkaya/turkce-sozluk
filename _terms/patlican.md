@@ -2,6 +2,7 @@
 layout: term
 title: patlıcan
 slug: patlican
+letter: P
 lisan: Arapça bādincān
 anlamlar:
 - Patlıcangillerden, kalın saplı, uzunca yapraklı otsu bitki (Solanum melongena)

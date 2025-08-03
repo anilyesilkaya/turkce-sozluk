@@ -2,6 +2,7 @@
 layout: term
 title: tat kazanmak
 slug: tat-kazanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - belli bir tada kavuşmak, olgunlaşmak, tatlanmak

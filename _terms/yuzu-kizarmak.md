@@ -2,6 +2,7 @@
 layout: term
 title: yüzü kızarmak
 slug: yuzu-kizarmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - utanmak

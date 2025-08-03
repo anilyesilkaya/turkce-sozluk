@@ -2,6 +2,7 @@
 layout: term
 title: topu şişirmek
 slug: topu-sisirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - futbolda rakibin sıkı baskısı karşısında topu rastgele havadan ileri doğru göndermek

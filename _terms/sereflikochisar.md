@@ -2,6 +2,7 @@
 layout: term
 title: Şereflikoçhisar
 slug: sereflikochisar
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ankara iline bağlı ilçelerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: main
 slug: main
+letter: M
 lisan: Arapça maʿīn
 anlamlar:
 - ► eşkenar dörtgen

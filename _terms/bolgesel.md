@@ -2,6 +2,7 @@
 layout: term
 title: bölgesel
 slug: bolgesel
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölge ile ilgili veya bir bölgeye özgü olan; mevzii, zonal

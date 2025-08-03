@@ -2,6 +2,7 @@
 layout: term
 title: sadra şifa vermek
 slug: sadra-sifa-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gönlü, yüreği rahatlatmak, ferahlatmak

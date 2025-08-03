@@ -2,6 +2,7 @@
 layout: term
 title: giyinmek
 slug: giyinmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► giymek

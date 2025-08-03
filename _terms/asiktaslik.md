@@ -2,6 +2,7 @@
 layout: term
 title: âşıktaşlık
 slug: asiktaslik
+letter: Â
 lisan: Türkçe
 anlamlar:
 - Aralarında ciddi bir sevgi olmadan birbirleriyle gönül eğlendirme; muaşaka

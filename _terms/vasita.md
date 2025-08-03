@@ -2,6 +2,7 @@
 layout: term
 title: vasıta
 slug: vasita
+letter: V
 lisan: Arapça vāsiṭa
 anlamlar:
 - ► araç

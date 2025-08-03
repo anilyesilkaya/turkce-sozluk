@@ -2,6 +2,7 @@
 layout: term
 title: maşalık
 slug: masalik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Başkasının pek de hoş olmayan, sakıncalı isteklerine, amaçlarına alet olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: haz almak
 slug: haz-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hoşlanmak, keyif almak

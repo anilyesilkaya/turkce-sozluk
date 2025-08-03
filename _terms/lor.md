@@ -2,6 +2,7 @@
 layout: term
 title: lor
 slug: lor
+letter: L
 lisan: Farsça lor
 anlamlar:
 - Bir tür taze, yumuşak ve tuzsuz beyaz peynir

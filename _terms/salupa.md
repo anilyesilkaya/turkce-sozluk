@@ -2,6 +2,7 @@
 layout: term
 title: şalupa
 slug: salupa
+letter: Ş
 lisan: İtalyanca scialuppa
 anlamlar:
 - Geminin karayla bağlantısını sağlayan, kurtarma aracı olarak da kullanılan, kürekle yürütülen en büyük sandalı; şalopa

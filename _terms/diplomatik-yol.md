@@ -2,6 +2,7 @@
 layout: term
 title: diplomatik yol
 slug: diplomatik-yol
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diplomasi alanında tutulan yöntem, belirlenen tarz

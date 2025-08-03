@@ -2,6 +2,7 @@
 layout: term
 title: bela okumak
 slug: bela-okumak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birine ilenmek

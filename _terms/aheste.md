@@ -2,6 +2,7 @@
 layout: term
 title: aheste
 slug: aheste
+letter: A
 lisan: Farsça āheste
 anlamlar:
 - ► yavaş

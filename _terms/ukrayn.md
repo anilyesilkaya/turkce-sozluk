@@ -2,6 +2,7 @@
 layout: term
 title: Ukrayn
 slug: ukrayn
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► Ukraynalı

@@ -2,6 +2,7 @@
 layout: term
 title: elem
 slug: elem
+letter: E
 lisan: Arapça elem
 anlamlar:
 - ► keder

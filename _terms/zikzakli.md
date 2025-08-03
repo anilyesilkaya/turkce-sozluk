@@ -2,6 +2,7 @@
 layout: term
 title: zikzaklı
 slug: zikzakli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zikzak biçiminde olan

@@ -2,6 +2,7 @@
 layout: term
 title: fleol
 slug: fleol
+letter: F
 lisan: Fransızca phléole
 anlamlar:
 - ► çayır otu

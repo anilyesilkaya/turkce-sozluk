@@ -2,6 +2,7 @@
 layout: term
 title: üstünsemek
 slug: ustunsemek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstün, iyi, yeğlenir olduğuna inanmak

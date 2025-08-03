@@ -2,6 +2,7 @@
 layout: term
 title: yedeğe almak (veya takmak)
 slug: yedege-almak-veya-takmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bağlayarak ardından çekip götürmek

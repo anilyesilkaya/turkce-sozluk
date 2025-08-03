@@ -2,6 +2,7 @@
 layout: term
 title: gem
 slug: gem
+letter: G
 lisan: Türkçe
 anlamlar:
 - Atı yönlendirmek için ağzına takılan demir araç

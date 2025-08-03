@@ -2,6 +2,7 @@
 layout: term
 title: sıcak sıcak
 slug: sicak-sicak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıcak olarak

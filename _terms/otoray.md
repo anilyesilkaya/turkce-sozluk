@@ -2,6 +2,7 @@
 layout: term
 title: otoray
 slug: otoray
+letter: O
 lisan: Fransızca autorail
 anlamlar:
 - Ray üzerinde işleyen motorlu taşıma aracı

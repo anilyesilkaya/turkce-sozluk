@@ -2,6 +2,7 @@
 layout: term
 title: temel
 slug: temel
+letter: T
 lisan: Rumca
 anlamlar:
 - Bir yapının toprak altında kalan ve yapıya dayanak olan duvar, taban vb. bölümlerinin tümü

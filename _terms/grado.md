@@ -2,6 +2,7 @@
 layout: term
 title: grado
 slug: grado
+letter: G
 lisan: İtalyanca grado
 anlamlar:
 - Bir sıvının içindeki alkol derecesi

@@ -2,6 +2,7 @@
 layout: term
 title: eziyetsiz
 slug: eziyetsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eziyet çekmeden yapılan; zahmetsiz

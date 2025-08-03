@@ -2,6 +2,7 @@
 layout: term
 title: musahiplik
 slug: musahiplik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Musahibin yaptığı iş

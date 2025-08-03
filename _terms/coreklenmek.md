@@ -2,6 +2,7 @@
 layout: term
 title: çöreklenmek
 slug: coreklenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yılan halka durumunda kıvrılıp toplanmak

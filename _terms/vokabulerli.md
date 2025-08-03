@@ -2,6 +2,7 @@
 layout: term
 title: vokabülerli
 slug: vokabulerli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Söz varlığı olan

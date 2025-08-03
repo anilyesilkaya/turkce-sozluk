@@ -2,6 +2,7 @@
 layout: term
 title: taş taş üstünde bırakmamak
 slug: tas-tas-ustunde-birakmamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - baştan başa yıkıp yerle bir etmek

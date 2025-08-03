@@ -2,6 +2,7 @@
 layout: term
 title: ruhaniyet
 slug: ruhaniyet
+letter: R
 lisan: Arapça rūḥāniyyet
 anlamlar:
 - Ruhtan ibaret olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kambur zambur
 slug: kambur-zambur
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kambur

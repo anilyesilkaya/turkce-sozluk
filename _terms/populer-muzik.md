@@ -2,6 +2,7 @@
 layout: term
 title: popüler müzik
 slug: populer-muzik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pop müzik

@@ -2,6 +2,7 @@
 layout: term
 title: velvele
 slug: velvele
+letter: V
 lisan: Arapça velvele
 anlamlar:
 - Gereksiz telaş, gürültü ve heyecan

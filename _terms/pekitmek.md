@@ -2,6 +2,7 @@
 layout: term
 title: pekitmek
 slug: pekitmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Güç vermek, güçlendirmek, tekit etmek

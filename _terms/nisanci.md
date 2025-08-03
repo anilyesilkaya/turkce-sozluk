@@ -2,6 +2,7 @@
 layout: term
 title: nişancı
 slug: nisanci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Attığı kurşun, taş vb. ile hedefi vurmakta ustalık kazanmış olan

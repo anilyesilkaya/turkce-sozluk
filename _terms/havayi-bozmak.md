@@ -2,6 +2,7 @@
 layout: term
 title: havayı bozmak
 slug: havayi-bozmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir topluluğun keyfini kaçırmak

@@ -2,6 +2,7 @@
 layout: term
 title: dikkat (veya dikkati) çekmek
 slug: dikkat-veya-dikkati-cekmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ilgi toplamak

@@ -2,6 +2,7 @@
 layout: term
 title: ciyaklamak
 slug: ciyaklamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cıyaklamak

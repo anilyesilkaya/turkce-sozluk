@@ -2,6 +2,7 @@
 layout: term
 title: tüccar terzi
 slug: tuccar-terzi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kumaşlı terzi

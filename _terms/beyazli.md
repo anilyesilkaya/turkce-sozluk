@@ -2,6 +2,7 @@
 layout: term
 title: beyazlı
 slug: beyazli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyazı bulunan

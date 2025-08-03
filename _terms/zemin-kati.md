@@ -2,6 +2,7 @@
 layout: term
 title: zemin katı
 slug: zemin-kati
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► giriş katı

@@ -2,6 +2,7 @@
 layout: term
 title: maç
 slug: mac
+letter: M
 lisan: Fransızca match
 anlamlar:
 - ► karşılaşma

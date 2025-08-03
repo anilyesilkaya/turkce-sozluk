@@ -2,6 +2,7 @@
 layout: term
 title: dağ
 slug: dag
+letter: D
 lisan: Farsça dāġ
 anlamlar:
 - Kızgın bir demirle vurulan damga, nişan

@@ -2,6 +2,7 @@
 layout: term
 title: sunta
 slug: sunta
+letter: S
 lisan: Arapça ṣunʿī + Farsça taḫte
 anlamlar:
 - Doğramacılıkta kereste olarak kullanılan, sıkıştırılmış talaş ve yongadan yapılan tahta; suni tahta

@@ -2,6 +2,7 @@
 layout: term
 title: emsal
 slug: emsal
+letter: E
 lisan: Arapça ems̱āl
 anlamlar:
 - ► benzer

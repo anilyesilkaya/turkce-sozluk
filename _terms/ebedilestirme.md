@@ -2,6 +2,7 @@
 layout: term
 title: ebedîleştirme
 slug: ebedilestirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► sonsuzlaştırma

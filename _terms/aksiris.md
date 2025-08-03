@@ -2,6 +2,7 @@
 layout: term
 title: aksırış
 slug: aksiris
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hapşırış

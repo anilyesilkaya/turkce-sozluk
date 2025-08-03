@@ -2,6 +2,7 @@
 layout: term
 title: efendi
 slug: efendi
+letter: E
 lisan: Rumca
 anlamlar:
 - Günümüzde bey ünvanından farklı olarak özel adlardan sonra kullanılan ikinci derecede bir ünvan

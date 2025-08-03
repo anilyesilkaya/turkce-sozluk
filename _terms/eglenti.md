@@ -2,6 +2,7 @@
 layout: term
 title: eğlenti
 slug: eglenti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Neşeli ve hoşça vakit geçirilen toplantı

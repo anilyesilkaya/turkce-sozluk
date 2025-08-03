@@ -2,6 +2,7 @@
 layout: term
 title: tahripkâr olmak
 slug: tahripkar-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tahrip edici olmak

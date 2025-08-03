@@ -2,6 +2,7 @@
 layout: term
 title: tekerrür etmek
 slug: tekerrur-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tekrarlanmak

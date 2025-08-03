@@ -2,6 +2,7 @@
 layout: term
 title: havuz
 slug: havuz
+letter: H
 lisan: Arapça ḥavż
 anlamlar:
 - Su biriktirme, yüzme, çevreyi güzelleştirme vb. amaçlarla altı ve yanları mermer, beton benzeri şeylerden yapılarak içine su doldurulan, genellikle üstü açık yer

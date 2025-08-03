@@ -2,6 +2,7 @@
 layout: term
 title: dayatılmak
 slug: dayatilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayatma işine konu olmak

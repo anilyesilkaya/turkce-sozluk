@@ -2,6 +2,7 @@
 layout: term
 title: güneş almak (veya görmek)
 slug: gunes-almak-veya-gormek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güneş ışınlarıyla aydınlanacak durumda olmak

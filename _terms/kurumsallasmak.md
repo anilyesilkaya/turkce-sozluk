@@ -2,6 +2,7 @@
 layout: term
 title: kurumsallaşmak
 slug: kurumsallasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurumsal duruma gelmek

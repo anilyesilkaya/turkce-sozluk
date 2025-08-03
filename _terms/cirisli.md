@@ -2,6 +2,7 @@
 layout: term
 title: çirişli
 slug: cirisli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiriş sürülmüş

@@ -2,6 +2,7 @@
 layout: term
 title: stüdyo
 slug: studyo
+letter: S
 lisan: Fransızca studio
 anlamlar:
 - Sanat çalışmaları için düzenlenmiş oda

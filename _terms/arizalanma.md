@@ -2,6 +2,7 @@
 layout: term
 title: arızalanma
 slug: arizalanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arızalanmak işi; bozulma

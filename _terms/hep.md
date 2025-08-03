@@ -2,6 +2,7 @@
 layout: term
 title: hep
 slug: hep
+letter: H
 lisan: Farsça heb
 anlamlar:
 - Hiçbiri dışta tutulmamak veya eksik olmamak üzere, bütün, tüm olarak

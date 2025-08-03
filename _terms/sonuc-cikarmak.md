@@ -2,6 +2,7 @@
 layout: term
 title: sonuç çıkarmak
 slug: sonuc-cikarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir işlemi bitirip sonuca ulaşmak

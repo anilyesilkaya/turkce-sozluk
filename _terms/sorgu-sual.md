@@ -2,6 +2,7 @@
 layout: term
 title: sorgu sual
 slug: sorgu-sual
+letter: S
 lisan: Türkçe
 anlamlar:
 - Araştırma, soruşturma veya sorgulama amacıyla sorular sorma

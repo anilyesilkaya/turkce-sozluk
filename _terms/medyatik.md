@@ -2,6 +2,7 @@
 layout: term
 title: medyatik
 slug: medyatik
+letter: M
 lisan: Fransızca médiatique
 anlamlar:
 - İletişim araçlarına özgü, iletişim araçlarıyla ilgili

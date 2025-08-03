@@ -2,6 +2,7 @@
 layout: term
 title: aynı karede yer almak (veya bulunmak)
 slug: ayni-karede-yer-almak-veya-bulunmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kameranın çektiği görüntü içinde birlikte bulunmak

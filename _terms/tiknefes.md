@@ -2,6 +2,7 @@
 layout: term
 title: tıknefes
 slug: tiknefes
+letter: T
 lisan: Arapça ḍīḳ + nefes
 anlamlar:
 - Herhangi bir sebeple solunum sıkıntısı olan, güçlükle, kesik kesik nefes alan

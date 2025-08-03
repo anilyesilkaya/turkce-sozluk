@@ -2,6 +2,7 @@
 layout: term
 title: elektriklenmek
 slug: elektriklenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektrik enerjisiyle yüklü duruma gelmek

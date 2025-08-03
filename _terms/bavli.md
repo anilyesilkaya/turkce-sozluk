@@ -2,6 +2,7 @@
 layout: term
 title: bavlı
 slug: bavli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ava alıştırılmış hayvan

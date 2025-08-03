@@ -2,6 +2,7 @@
 layout: term
 title: kan gövdeyi götürmek
 slug: kan-govdeyi-goturmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok kan dökülmek

@@ -2,6 +2,7 @@
 layout: term
 title: monografi
 slug: monografi
+letter: M
 lisan: Fransızca monographie
 anlamlar:
 - Bilimsel alanlarda özel bir konu veya sorun üzerine yazılan inceleme

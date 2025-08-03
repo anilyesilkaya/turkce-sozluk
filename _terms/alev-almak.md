@@ -2,6 +2,7 @@
 layout: term
 title: alev almak
 slug: alev-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - tutuşmak, yanmaya başlamak

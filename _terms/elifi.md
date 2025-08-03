@@ -2,6 +2,7 @@
 layout: term
 title: elifî
 slug: elifi
+letter: E
 lisan: Arapça elifī
 anlamlar:
 - Bantlarla süslenmiş

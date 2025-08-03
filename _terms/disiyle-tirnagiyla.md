@@ -2,6 +2,7 @@
 layout: term
 title: dişiyle tırnağıyla
 slug: disiyle-tirnagiyla
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bütün gücünü kullanarak

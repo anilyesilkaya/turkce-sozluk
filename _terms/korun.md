@@ -2,6 +2,7 @@
 layout: term
 title: korun
 slug: korun
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üst derinin en dış tabakası

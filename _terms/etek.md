@@ -2,6 +2,7 @@
 layout: term
 title: etek
 slug: etek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bedenin belden aşağısına giyilen, değişik biçimlerde, genellikle kadın giysisi; eteklik

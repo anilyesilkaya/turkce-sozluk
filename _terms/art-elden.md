@@ -2,6 +2,7 @@
 layout: term
 title: art elden
 slug: art-elden
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birini oyalayıp ondan gizli olarak

@@ -2,6 +2,7 @@
 layout: term
 title: kellesinden olmak
 slug: kellesinden-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - can vermek, ölmek

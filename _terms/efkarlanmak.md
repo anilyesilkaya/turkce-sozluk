@@ -2,6 +2,7 @@
 layout: term
 title: efkârlanmak
 slug: efkarlanmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi bir üzücü olay sebebiyle hüzünlenmek

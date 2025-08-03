@@ -2,6 +2,7 @@
 layout: term
 title: dillerde dolaşmak (veya gezmek)
 slug: dillerde-dolasmak-veya-gezmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - her yerde sözü edilmek

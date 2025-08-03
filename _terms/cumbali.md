@@ -2,6 +2,7 @@
 layout: term
 title: cumbalı
 slug: cumbali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cumbası olan (yapı)

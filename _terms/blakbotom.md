@@ -2,6 +2,7 @@
 layout: term
 title: blakbotom
 slug: blakbotom
+letter: B
 lisan: İngilizce blackbotom
 anlamlar:
 - Afrika kökenli Amerikalılar arasında ortaya çıkan, ritmi çarlistona dayanan bir tür dans

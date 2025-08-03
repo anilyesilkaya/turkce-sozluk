@@ -2,6 +2,7 @@
 layout: term
 title: dermanı kesilmek
 slug: dermani-kesilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - takati kesilmek

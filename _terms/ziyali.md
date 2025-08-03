@@ -2,6 +2,7 @@
 layout: term
 title: ziyalı
 slug: ziyali
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► ışıklı

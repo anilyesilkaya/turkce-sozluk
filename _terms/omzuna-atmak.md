@@ -2,6 +2,7 @@
 layout: term
 title: omzuna atmak
 slug: omzuna-atmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - ceket vb. şeyleri tam olarak giymeden sırtına koymak

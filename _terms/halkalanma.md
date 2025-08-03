@@ -2,6 +2,7 @@
 layout: term
 title: halkalanma
 slug: halkalanma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halkalanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: orkestralama
 slug: orkestralama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir çalgı topluluğu için yazılmış parçanın notalarını, çalgıların tını farklarını göz önünde tutarak bu topluluğu oluşturan çalgılar arasında paylaştırma sanatı

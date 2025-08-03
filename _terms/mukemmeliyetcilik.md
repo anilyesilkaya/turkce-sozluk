@@ -2,6 +2,7 @@
 layout: term
 title: mükemmeliyetçilik
 slug: mukemmeliyetcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mükemmeliyetçi olma durumu

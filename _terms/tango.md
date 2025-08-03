@@ -2,6 +2,7 @@
 layout: term
 title: tango
 slug: tango
+letter: T
 lisan: Fransızca tango
 anlamlar:
 - Özel ritimli ağır bir dans

@@ -2,6 +2,7 @@
 layout: term
 title: kömürsüzlük
 slug: komursuzluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kömürsüz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: badik
 slug: badik
+letter: B
 lisan: Ermenice
 anlamlar:
 - ► ördek

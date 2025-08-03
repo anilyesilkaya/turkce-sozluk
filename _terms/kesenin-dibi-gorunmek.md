@@ -2,6 +2,7 @@
 layout: term
 title: kesenin dibi görünmek
 slug: kesenin-dibi-gorunmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - para tükenmek

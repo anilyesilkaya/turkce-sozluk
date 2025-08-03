@@ -2,6 +2,7 @@
 layout: term
 title: veremli
 slug: veremli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vereme tutulmuş; müteverrim

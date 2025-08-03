@@ -2,6 +2,7 @@
 layout: term
 title: esirlik
 slug: esirlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► tutsaklık

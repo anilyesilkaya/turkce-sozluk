@@ -2,6 +2,7 @@
 layout: term
 title: kargaşalı
 slug: kargasali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargaşa içinde olan

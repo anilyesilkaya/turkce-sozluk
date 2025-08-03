@@ -2,6 +2,7 @@
 layout: term
 title: arız
 slug: ariz
+letter: A
 lisan: Arapça ʿāriż
 anlamlar:
 - Sonradan ortaya çıkan

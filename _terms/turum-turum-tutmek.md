@@ -2,6 +2,7 @@
 layout: term
 title: türüm türüm tütmek
 slug: turum-turum-tutmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - buram buram kokmak

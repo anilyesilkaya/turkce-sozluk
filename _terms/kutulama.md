@@ -2,6 +2,7 @@
 layout: term
 title: kutulama
 slug: kutulama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutulamak işi

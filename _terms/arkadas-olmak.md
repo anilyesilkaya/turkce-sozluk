@@ -2,6 +2,7 @@
 layout: term
 title: arkadaş olmak
 slug: arkadas-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyle yakın ilişki kurmak

@@ -2,6 +2,7 @@
 layout: term
 title: bilmece gibi konuşmak
 slug: bilmece-gibi-konusmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - açık, anlaşılır bir biçimde konuşmamak

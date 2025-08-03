@@ -2,6 +2,7 @@
 layout: term
 title: ahu
 slug: ahu
+letter: A
 lisan: Farsça āhū
 anlamlar:
 - ► ceylan

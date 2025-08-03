@@ -2,6 +2,7 @@
 layout: term
 title: hırlayış
 slug: hirlayis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırlamak işi

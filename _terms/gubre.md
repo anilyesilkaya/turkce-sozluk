@@ -2,6 +2,7 @@
 layout: term
 title: gübre
 slug: gubre
+letter: G
 lisan: Rumca
 anlamlar:
 - Verimini artırmak için toprağa dökülen her türlü hayvan dışkısı, kimyasal veya bitkisel madde; kemre

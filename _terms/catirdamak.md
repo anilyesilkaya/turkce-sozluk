@@ -2,6 +2,7 @@
 layout: term
 title: çatırdamak
 slug: catirdamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"Çatır" diye ses çıkarmak'

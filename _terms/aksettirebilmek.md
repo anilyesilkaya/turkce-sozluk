@@ -2,6 +2,7 @@
 layout: term
 title: aksettirebilmek
 slug: aksettirebilmek
+letter: A
 lisan: Arapça ʿaks + Türkçe ettirebilmek
 anlamlar:
 - ► yansıtabilmek

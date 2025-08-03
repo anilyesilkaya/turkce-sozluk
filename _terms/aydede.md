@@ -2,6 +2,7 @@
 layout: term
 title: aydede
 slug: aydede
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çocuk dilinde ay

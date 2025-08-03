@@ -2,6 +2,7 @@
 layout: term
 title: bombalatabilme
 slug: bombalatabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bombalatabilmek işi

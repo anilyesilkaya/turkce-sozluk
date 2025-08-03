@@ -2,6 +2,7 @@
 layout: term
 title: teşrii
 slug: tesrii
+letter: T
 lisan: Arapça teşrīʿī
 anlamlar:
 - ► yasamalı

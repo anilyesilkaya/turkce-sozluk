@@ -2,6 +2,7 @@
 layout: term
 title: atropin
 slug: atropin
+letter: A
 lisan: Fransızca atropine
 anlamlar:
 - Güzelavrat otundan çıkarılıp hekimlikte kullanılan zehirli bir madde

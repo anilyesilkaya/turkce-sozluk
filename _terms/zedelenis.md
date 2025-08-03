@@ -2,6 +2,7 @@
 layout: term
 title: zedeleniş
 slug: zedelenis
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zedelenmek işi

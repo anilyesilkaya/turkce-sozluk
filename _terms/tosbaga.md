@@ -2,6 +2,7 @@
 layout: term
 title: tosbağa
 slug: tosbaga
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kaplumbağa

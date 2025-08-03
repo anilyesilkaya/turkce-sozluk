@@ -2,6 +2,7 @@
 layout: term
 title: operetçi
 slug: operetci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Operet metni yazan, besteleyen veya operette rol alan sanatçı

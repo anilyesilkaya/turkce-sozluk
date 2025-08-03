@@ -2,6 +2,7 @@
 layout: term
 title: burun buruna gelmek
 slug: burun-buruna-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir anda karşılaşmak, birbirlerine çok yaklaşmak

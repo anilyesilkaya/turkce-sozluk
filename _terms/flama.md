@@ -2,6 +2,7 @@
 layout: term
 title: flama
 slug: flama
+letter: F
 lisan: İtalyanca flemma
 anlamlar:
 - İşaret olarak veya çeşitli amaçlarla kullanılan küçük bayrak

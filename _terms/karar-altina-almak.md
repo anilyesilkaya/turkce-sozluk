@@ -2,6 +2,7 @@
 layout: term
 title: karar altına almak
 slug: karar-altina-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karar vermek, kararlaştırmak

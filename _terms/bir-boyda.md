@@ -2,6 +2,7 @@
 layout: term
 title: bir boyda
 slug: bir-boyda
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyları eşit

@@ -2,6 +2,7 @@
 layout: term
 title: alık
 slug: alik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlama ve sezme gücü yetersiz olan (kimse)

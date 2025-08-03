@@ -2,6 +2,7 @@
 layout: term
 title: çivit rengi
 slug: civit-rengi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir tür koyu mavi renk; çividî

@@ -2,6 +2,7 @@
 layout: term
 title: ömrühayat
 slug: omruhayat
+letter: Ö
 lisan: Arapça ʿumr + ḥayāt
 anlamlar:
 - Geçirilen, yaşanılan bütün süre

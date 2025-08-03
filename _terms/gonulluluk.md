@@ -2,6 +2,7 @@
 layout: term
 title: gönüllülük
 slug: gonulluluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönüllü ve karşılıksız iş yapma; hasbilik

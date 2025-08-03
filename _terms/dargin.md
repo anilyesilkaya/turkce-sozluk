@@ -2,6 +2,7 @@
 layout: term
 title: dargın
 slug: dargin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Darılmış olan (kimse)

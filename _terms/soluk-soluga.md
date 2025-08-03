@@ -2,6 +2,7 @@
 layout: term
 title: soluk soluğa
 slug: soluk-soluga
+letter: S
 lisan: Türkçe
 anlamlar:
 - Güçlükle soluk alarak, sık sık soluyarak, yorgun, bitkin veya telaşlı bir biçimde; nefes nefese, gürsoluk

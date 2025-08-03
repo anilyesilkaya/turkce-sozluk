@@ -2,6 +2,7 @@
 layout: term
 title: çeşnici
 slug: cesnici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Saraylarda ve büyük konaklarda yemek ve sofra işlerini yöneten kimse

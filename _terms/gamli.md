@@ -2,6 +2,7 @@
 layout: term
 title: gamlı
 slug: gamli
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kaygılı

@@ -2,6 +2,7 @@
 layout: term
 title: arkalanmak
 slug: arkalanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendisine yardım edilmek, destek olunmak

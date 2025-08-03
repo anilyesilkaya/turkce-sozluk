@@ -2,6 +2,7 @@
 layout: term
 title: 'pasif ofsayt '
 slug: pasif-ofsayt
+letter: P
 lisan: Türkçe
 anlamlar:
 - Futbolcunun gol pozisyonunda ve ofsayt durumunda olmasına karşın topa hamle yapmadığı için ofsayt olarak değerlendirilmeyen durum

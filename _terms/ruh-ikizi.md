@@ -2,6 +2,7 @@
 layout: term
 title: ruh ikizi
 slug: ruh-ikizi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Düşündükleri, hissettikleri birbirinin aynı olan (kimse)

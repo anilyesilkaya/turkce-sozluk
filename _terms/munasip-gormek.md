@@ -2,6 +2,7 @@
 layout: term
 title: münasip görmek
 slug: munasip-gormek
+letter: M
 lisan: Türkçe
 anlamlar:
 - uygun ve yerinde bulmak

@@ -2,6 +2,7 @@
 layout: term
 title: milyoner
 slug: milyoner
+letter: M
 lisan: Fransızca millionnaire
 anlamlar:
 - Bir veya daha çok milyonu olan kimse

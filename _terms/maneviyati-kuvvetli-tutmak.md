@@ -2,6 +2,7 @@
 layout: term
 title: maneviyatı kuvvetli tutmak
 slug: maneviyati-kuvvetli-tutmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - karşılaşılan zorluklara dayanabilmek için güçlü olabilmek

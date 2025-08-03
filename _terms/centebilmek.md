@@ -2,6 +2,7 @@
 layout: term
 title: çentebilmek
 slug: centebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çentme ihtimali veya imkânı bulunmak

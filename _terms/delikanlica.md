@@ -2,6 +2,7 @@
 layout: term
 title: delikanlıca
 slug: delikanlica
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delikanlıya yakışır

@@ -2,6 +2,7 @@
 layout: term
 title: koşulsuz tepke
 slug: kosulsuz-tepke
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► şartsız refleks

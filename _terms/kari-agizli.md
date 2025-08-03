@@ -2,6 +2,7 @@
 layout: term
 title: karı ağızlı
 slug: kari-agizli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karısının etkisiyle, karısının ağzıyla konuşan (erkek); karısı ağızlı

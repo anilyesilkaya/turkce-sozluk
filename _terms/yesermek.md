@@ -2,6 +2,7 @@
 layout: term
 title: yeşermek
 slug: yesermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bitki yaprak vermek; gövermek

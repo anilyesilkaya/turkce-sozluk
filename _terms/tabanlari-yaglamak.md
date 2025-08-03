@@ -2,6 +2,7 @@
 layout: term
 title: tabanları yağlamak
 slug: tabanlari-yaglamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - uzak bir yere yayan gitmeye hazırlanmak

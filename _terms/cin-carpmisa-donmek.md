@@ -2,6 +2,7 @@
 layout: term
 title: cin çarpmışa dönmek
 slug: cin-carpmisa-donmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - neye uğradığını bilemeyecek kadar kötü bir duruma düşmek

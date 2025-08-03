@@ -2,6 +2,7 @@
 layout: term
 title: şerare
 slug: serare
+letter: Ş
 lisan: Arapça şerāre
 anlamlar:
 - ► kıvılcım

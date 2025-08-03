@@ -2,6 +2,7 @@
 layout: term
 title: salıncaksız
 slug: salincaksiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salıncağı olmayan

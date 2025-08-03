@@ -2,6 +2,7 @@
 layout: term
 title: nazara gelmek
 slug: nazara-gelmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - göz değmek

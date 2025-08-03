@@ -2,6 +2,7 @@
 layout: term
 title: anmak
 slug: anmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi akla getirerek sözünü etmek veya onu düşünmek; zikretmek

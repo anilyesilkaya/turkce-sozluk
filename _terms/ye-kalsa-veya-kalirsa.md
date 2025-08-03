@@ -2,6 +2,7 @@
 layout: term
 title: '... ye kalsa (veya kalırsa)'
 slug: ye-kalsa-veya-kalirsa
+letter: .
 lisan: Türkçe
 anlamlar:
 - herhangi birinin kanısınca

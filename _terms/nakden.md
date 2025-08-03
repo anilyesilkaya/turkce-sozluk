@@ -2,6 +2,7 @@
 layout: term
 title: nakden
 slug: nakden
+letter: N
 lisan: Arapça naḳden
 anlamlar:
 - Para olarak

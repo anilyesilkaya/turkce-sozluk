@@ -2,6 +2,7 @@
 layout: term
 title: nanay
 slug: nanay
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► yok

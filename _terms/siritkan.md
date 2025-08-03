@@ -2,6 +2,7 @@
 layout: term
 title: sırıtkan
 slug: siritkan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürekli sırıtan, sırıtma huyu olan

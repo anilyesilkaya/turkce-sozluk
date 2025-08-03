@@ -2,6 +2,7 @@
 layout: term
 title: iskandil
 slug: iskandil
+letter: I
 lisan: İtalyanca scandaglio
 anlamlar:
 - Denizin derinliğini ölçme

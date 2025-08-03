@@ -2,6 +2,7 @@
 layout: term
 title: milyarder
 slug: milyarder
+letter: M
 lisan: Fransızca milliardaire
 anlamlar:
 - Bir veya daha çok milyarı olan kimse

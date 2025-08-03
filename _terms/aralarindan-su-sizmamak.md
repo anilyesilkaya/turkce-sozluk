@@ -2,6 +2,7 @@
 layout: term
 title: aralarından su sızmamak
 slug: aralarindan-su-sizmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - aralarında çok yakın, sıkı fıkı arkadaşlık bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: birikmek
 slug: birikmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Toplanıp yığılmak

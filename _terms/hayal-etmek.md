@@ -2,6 +2,7 @@
 layout: term
 title: hayal etmek
 slug: hayal-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeyi zihinde tasarlayıp canlandırmak, hayallemek

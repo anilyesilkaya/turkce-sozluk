@@ -2,6 +2,7 @@
 layout: term
 title: bahsolunmak
 slug: bahsolunmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sözü edilmek, konu edilmek

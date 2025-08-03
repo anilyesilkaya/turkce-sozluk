@@ -2,6 +2,7 @@
 layout: term
 title: merhametsiz olmak
 slug: merhametsiz-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - merhamet etmemek, merhametsizleşmek

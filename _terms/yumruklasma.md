@@ -2,6 +2,7 @@
 layout: term
 title: yumruklaşma
 slug: yumruklasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumruklaşmak işi

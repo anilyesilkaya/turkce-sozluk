@@ -2,6 +2,7 @@
 layout: term
 title: gadirlik olmak
 slug: gadirlik-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - haksız davranışlarla karşı karşıya gelmek, hakkı yenilmek

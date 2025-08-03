@@ -2,6 +2,7 @@
 layout: term
 title: cinsiyet ayrımcılığı
 slug: cinsiyet-ayrimciligi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Toplum hayatında bireye cinsiyetine göre olumsuz tutum ve davranışlar içinde olma

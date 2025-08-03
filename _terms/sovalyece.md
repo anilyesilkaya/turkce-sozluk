@@ -2,6 +2,7 @@
 layout: term
 title: şövalyece
 slug: sovalyece
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şövalye gibi, şövalyeye yakışır bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: aşermek
 slug: asermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hamilelikte bazı yiyeceklere karşı aşırı düşkünlük göstermek, çok arzulamak veya nefret etmek, tiksinmek

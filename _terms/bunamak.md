@@ -2,6 +2,7 @@
 layout: term
 title: bunamak
 slug: bunamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çeşitli sebeplerle zihin gücünü yitirerek ne yaptığını bilemez duruma gelmek; ateh getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: uhrevi
 slug: uhrevi
+letter: U
 lisan: Arapça uḫrevī
 anlamlar:
 - Öbür dünya ile ilgili, ahiret ile ilgili; maverai, dünyevi karşıtı

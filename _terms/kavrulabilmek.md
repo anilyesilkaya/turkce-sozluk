@@ -2,6 +2,7 @@
 layout: term
 title: kavrulabilmek
 slug: kavrulabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrulma ihtimali veya imkânı bulunmak

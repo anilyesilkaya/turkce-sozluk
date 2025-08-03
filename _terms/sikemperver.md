@@ -2,6 +2,7 @@
 layout: term
 title: şikemperver
 slug: sikemperver
+letter: Ş
 lisan: Farsça şikemperver
 anlamlar:
 - ► boğazına düşkün

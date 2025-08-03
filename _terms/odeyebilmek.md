@@ -2,6 +2,7 @@
 layout: term
 title: ödeyebilmek
 slug: odeyebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödeme ihtimali veya imkânı bulunmak

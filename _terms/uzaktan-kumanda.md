@@ -2,6 +2,7 @@
 layout: term
 title: uzaktan kumanda
 slug: uzaktan-kumanda
+letter: U
 lisan: Türkçe
 anlamlar:
 - Televizyon, müzik seti vb. aletleri, otomobil, oyuncak otomobil vb. araçları belli bir uzaklıktan çalıştırmaya yarayan kablosuz alet

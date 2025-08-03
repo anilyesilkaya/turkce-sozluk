@@ -2,6 +2,7 @@
 layout: term
 title: geçersizleşme
 slug: gecersizlesme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçersiz duruma düşme

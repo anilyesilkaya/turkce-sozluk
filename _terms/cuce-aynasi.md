@@ -2,6 +2,7 @@
 layout: term
 title: cüce aynası
 slug: cuce-aynasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Nesneleri olduğundan küçük gösteren ayna

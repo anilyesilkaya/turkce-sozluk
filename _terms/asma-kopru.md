@@ -2,6 +2,7 @@
 layout: term
 title: asma köprü
 slug: asma-kopru
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki başındaki ayaklardan başka dayanağı olmayan, tahta veya kalın iplerle yapılan, çoğunlukla uzun, esnekliğe sahip köprü

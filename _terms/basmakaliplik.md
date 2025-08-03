@@ -2,6 +2,7 @@
 layout: term
 title: basmakalıplık
 slug: basmakaliplik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basmakalıp olma durumu

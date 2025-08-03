@@ -2,6 +2,7 @@
 layout: term
 title: elden gel!
 slug: elden-gel
+letter: E
 lisan: Türkçe
 anlamlar:
 - ver!

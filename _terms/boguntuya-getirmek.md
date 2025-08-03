@@ -2,6 +2,7 @@
 layout: term
 title: boğuntuya getirmek
 slug: boguntuya-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birini bunaltıp şaşırtmak yolu ile kendisinden, bir iş veya mal karşılığı olarak çok miktarda para çekmek

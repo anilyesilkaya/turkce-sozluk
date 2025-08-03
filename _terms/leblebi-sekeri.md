@@ -2,6 +2,7 @@
 layout: term
 title: leblebi şekeri
 slug: leblebi-sekeri
+letter: L
 lisan: Türkçe
 anlamlar:
 - İçinde leblebi olan şeker

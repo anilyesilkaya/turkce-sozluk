@@ -2,6 +2,7 @@
 layout: term
 title: müennes
 slug: muennes
+letter: M
 lisan: Arapça muʾennes̱
 anlamlar:
 - ► dişil

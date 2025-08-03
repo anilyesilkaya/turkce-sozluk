@@ -2,6 +2,7 @@
 layout: term
 title: bayram çocuğu
 slug: bayram-cocugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayram dolayısıyla süslenmiş, donatılmış, sevinçli çocuk

@@ -2,6 +2,7 @@
 layout: term
 title: lehtar
 slug: lehtar
+letter: L
 lisan: Arapça leh + Farsça -dār
 anlamlar:
 - Yandaş, taraftar

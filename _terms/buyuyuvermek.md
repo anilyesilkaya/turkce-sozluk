@@ -2,6 +2,7 @@
 layout: term
 title: büyüyüvermek
 slug: buyuyuvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak büyümek

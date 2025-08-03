@@ -2,6 +2,7 @@
 layout: term
 title: kendini bir yerde bulmak
 slug: kendini-bir-yerde-bulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - farkında olmadan bir yere ulaşmış olmak

@@ -2,6 +2,7 @@
 layout: term
 title: konvektör
 slug: konvektor
+letter: K
 lisan: Fransızca convecteur
 anlamlar:
 - ► ısıyayar

@@ -2,6 +2,7 @@
 layout: term
 title: liberalleşme
 slug: liberallesme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liberalleşmek işi

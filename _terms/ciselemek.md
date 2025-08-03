@@ -2,6 +2,7 @@
 layout: term
 title: çiselemek
 slug: ciselemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yağmur yavaşça ve ince ince yağmak; çisemek

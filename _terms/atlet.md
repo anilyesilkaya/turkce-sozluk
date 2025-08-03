@@ -2,6 +2,7 @@
 layout: term
 title: atlet
 slug: atlet
+letter: A
 lisan: Fransızca athlète
 anlamlar:
 - ► fanila

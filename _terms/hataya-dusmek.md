@@ -2,6 +2,7 @@
 layout: term
 title: hataya düşmek
 slug: hataya-dusmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yanılmak

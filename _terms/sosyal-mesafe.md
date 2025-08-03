@@ -2,6 +2,7 @@
 layout: term
 title: sosyal mesafe
 slug: sosyal-mesafe
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► fiziksel mesafe

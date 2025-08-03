@@ -2,6 +2,7 @@
 layout: term
 title: yatak odası
 slug: yatak-odasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatmak için kullanılan oda

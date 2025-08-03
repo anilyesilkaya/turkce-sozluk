@@ -2,6 +2,7 @@
 layout: term
 title: plan kurmak
 slug: plan-kurmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir amacı gerçekleştirecek şeyleri düşünmek, tasarlamak

@@ -2,6 +2,7 @@
 layout: term
 title: derbedercesine
 slug: derbedercesine
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► derbederce

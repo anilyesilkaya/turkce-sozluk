@@ -2,6 +2,7 @@
 layout: term
 title: çorapçı
 slug: corapci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çorap ören veya satan kimse

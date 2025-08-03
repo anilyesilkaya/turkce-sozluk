@@ -2,6 +2,7 @@
 layout: term
 title: yalçın
 slug: yalcin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dik, sarp olan

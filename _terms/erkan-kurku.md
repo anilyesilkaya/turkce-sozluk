@@ -2,6 +2,7 @@
 layout: term
 title: erkân kürkü
 slug: erkan-kurku
+letter: E
 lisan: Türkçe
 anlamlar:
 - Padişahın vezirlerine giydirdiği kürk

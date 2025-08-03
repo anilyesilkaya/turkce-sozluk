@@ -2,6 +2,7 @@
 layout: term
 title: kucak kucak
 slug: kucak-kucak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bol bol

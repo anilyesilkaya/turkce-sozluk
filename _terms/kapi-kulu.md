@@ -2,6 +2,7 @@
 layout: term
 title: kapı kulu
 slug: kapi-kulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Osmanlılarda, devletten ödenek alan, sürekli görev yapan atlı ve yaya askerlerden oluşan teşkilat

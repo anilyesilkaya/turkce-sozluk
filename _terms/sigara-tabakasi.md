@@ -2,6 +2,7 @@
 layout: term
 title: sigara tabakası
 slug: sigara-tabakasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçine sigara yerleştirilen, kapaklı, metalden, deriden vb. maddelerden yapılan kutu; sigara kutusu, tabaka (II)

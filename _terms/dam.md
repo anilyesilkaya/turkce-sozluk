@@ -2,6 +2,7 @@
 layout: term
 title: dam
 slug: dam
+letter: D
 lisan: Fransızca dame
 anlamlar:
 - Dansta erkeğe eş olan kadın

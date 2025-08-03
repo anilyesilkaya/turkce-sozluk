@@ -2,6 +2,7 @@
 layout: term
 title: çemen
 slug: cemen
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden, kimyon türü bir bitki (Cuminum cyminum)

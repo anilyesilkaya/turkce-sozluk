@@ -2,6 +2,7 @@
 layout: term
 title: bariyersiz
 slug: bariyersiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bariyeri olmayan

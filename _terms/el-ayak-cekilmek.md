@@ -2,6 +2,7 @@
 layout: term
 title: el ayak çekilmek
 slug: el-ayak-cekilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ortalıkta hiç kimse kalmamak, ıssızlaşıp sessizleşmek

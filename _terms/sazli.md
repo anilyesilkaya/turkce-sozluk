@@ -2,6 +2,7 @@
 layout: term
 title: sazlı
 slug: sazli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saz çalınarak yapılan

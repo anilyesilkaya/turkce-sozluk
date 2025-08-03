@@ -2,6 +2,7 @@
 layout: term
 title: tablet
 slug: tablet
+letter: T
 lisan: Fransızca tablette
 anlamlar:
 - Düz ve yassı biçimli, çiğnenecek veya yutulacak madde

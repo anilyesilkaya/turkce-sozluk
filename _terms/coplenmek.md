@@ -2,6 +2,7 @@
 layout: term
 title: çöplenmek
 slug: coplenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşitli yiyeceklerden azar azar yemek

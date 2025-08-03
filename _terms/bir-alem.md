@@ -2,6 +2,7 @@
 layout: term
 title: bir âlem
 slug: bir-alem
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendine özgü bir niteliği olan

@@ -2,6 +2,7 @@
 layout: term
 title: bedavadan ucuz
 slug: bedavadan-ucuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok ucuz

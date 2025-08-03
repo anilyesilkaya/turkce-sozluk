@@ -2,6 +2,7 @@
 layout: term
 title: ekran okuma
 slug: ekran-okuma
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekran aracılığıyla görüntülenen metni okuma

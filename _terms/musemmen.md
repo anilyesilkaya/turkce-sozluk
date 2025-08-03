@@ -2,6 +2,7 @@
 layout: term
 title: müsemmen
 slug: musemmen
+letter: M
 lisan: Arapça mus̱emmen
 anlamlar:
 - ► sekizli

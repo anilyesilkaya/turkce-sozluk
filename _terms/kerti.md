@@ -2,6 +2,7 @@
 layout: term
 title: kerti
 slug: kerti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kerte (I)

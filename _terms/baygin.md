@@ -2,6 +2,7 @@
 layout: term
 title: baygın
 slug: baygin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayılmış, kendinden geçmiş

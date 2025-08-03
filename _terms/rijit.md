@@ -2,6 +2,7 @@
 layout: term
 title: rijit
 slug: rijit
+letter: R
 lisan: Fransızca rigidité
 anlamlar:
 - Sert, katı (davranış)

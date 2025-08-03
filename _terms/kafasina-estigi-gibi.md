@@ -2,6 +2,7 @@
 layout: term
 title: kafasına estiği gibi
 slug: kafasina-estigi-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - sadece kendi düşünce ve isteklerine göre

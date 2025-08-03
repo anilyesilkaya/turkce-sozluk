@@ -2,6 +2,7 @@
 layout: term
 title: heyelan
 slug: heyelan
+letter: H
 lisan: Arapça heyelān
 anlamlar:
 - ► toprak kayması

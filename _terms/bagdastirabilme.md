@@ -2,6 +2,7 @@
 layout: term
 title: bağdaştırabilme
 slug: bagdastirabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaştırabilmek işi

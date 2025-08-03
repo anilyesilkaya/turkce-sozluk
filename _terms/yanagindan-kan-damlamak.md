@@ -2,6 +2,7 @@
 layout: term
 title: yanağından kan damlamak
 slug: yanagindan-kan-damlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok sağlıklı olduğu benzinden anlaşılmak

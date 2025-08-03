@@ -2,6 +2,7 @@
 layout: term
 title: iyi
 slug: iyi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstenilen, beğenilen nitelikleri taşıyan, beğenilecek biçimde olan; yavuz, kötü karşıtı

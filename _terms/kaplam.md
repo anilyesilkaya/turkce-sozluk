@@ -2,6 +2,7 @@
 layout: term
 title: kaplam
 slug: kaplam
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kavramın ve o kavramı dile getiren terimin içerdiği varlıkların ve bireysel olayların bütünü; kapsam, şümul

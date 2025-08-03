@@ -2,6 +2,7 @@
 layout: term
 title: uğut
 slug: ugut
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çimlenmiş buğdayın kaynatılmasıyla yapılan bir çeşit yemek

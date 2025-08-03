@@ -2,6 +2,7 @@
 layout: term
 title: ciltçi
 slug: ciltci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kitapları ciltleyen kimse; mücellit

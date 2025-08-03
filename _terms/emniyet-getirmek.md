@@ -2,6 +2,7 @@
 layout: term
 title: emniyet getirmek
 slug: emniyet-getirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - emin olmak

@@ -2,6 +2,7 @@
 layout: term
 title: konçina
 slug: koncina
+letter: K
 lisan: Rumca
 anlamlar:
 - İkiliden altılıya kadar olan oyun kâğıtları

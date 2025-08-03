@@ -2,6 +2,7 @@
 layout: term
 title: momentum
 slug: momentum
+letter: M
 lisan: Latince
 anlamlar:
 - Bir cismin hareket miktarı, kütlenin sürat ile çarpımı

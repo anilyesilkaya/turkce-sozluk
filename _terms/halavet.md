@@ -2,6 +2,7 @@
 layout: term
 title: halavet
 slug: halavet
+letter: H
 lisan: Arapça ḥalāvet
 anlamlar:
 - Sevimlilik, şirinlik, tatlılık

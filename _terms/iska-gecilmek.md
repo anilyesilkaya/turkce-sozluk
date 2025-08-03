@@ -2,6 +2,7 @@
 layout: term
 title: ıska geçilmek
 slug: iska-gecilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gözden kaçırılmak, atlanmak, değeri ve önemi anlaşılmamak

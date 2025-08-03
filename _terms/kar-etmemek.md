@@ -2,6 +2,7 @@
 layout: term
 title: kâr etmemek
 slug: kar-etmemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yararı olmamak, etki yapmamak

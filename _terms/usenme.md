@@ -2,6 +2,7 @@
 layout: term
 title: üşenme
 slug: usenme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üşenmek işi; erinme

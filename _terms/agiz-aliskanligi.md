@@ -2,6 +2,7 @@
 layout: term
 title: ağız alışkanlığı
 slug: agiz-aliskanligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir sözü sık sık kullanma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: acemicesine
 slug: acemicesine
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► acemice

@@ -2,6 +2,7 @@
 layout: term
 title: Yenipazar
 slug: yenipazar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aydın iline bağlı ilçelerden biri

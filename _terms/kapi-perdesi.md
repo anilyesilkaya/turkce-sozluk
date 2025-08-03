@@ -2,6 +2,7 @@
 layout: term
 title: kapı perdesi
 slug: kapi-perdesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rüzgâr ve soğuktan korunmak için kalın kumaştan veya deriden yapılmış örtü, perde

@@ -2,6 +2,7 @@
 layout: term
 title: diyagram
 slug: diyagram
+letter: D
 lisan: Fransızca diagramme
 anlamlar:
 - Herhangi bir olayın değişimini gösteren grafik

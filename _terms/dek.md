@@ -2,6 +2,7 @@
 layout: term
 title: dek
 slug: dek
+letter: D
 lisan: Farsça dek
 anlamlar:
 - ► entrika

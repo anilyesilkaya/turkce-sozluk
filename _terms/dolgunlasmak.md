@@ -2,6 +2,7 @@
 layout: term
 title: dolgunlaşmak
 slug: dolgunlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolgun duruma gelmek

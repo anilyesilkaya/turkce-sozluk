@@ -2,6 +2,7 @@
 layout: term
 title: parmaklı
 slug: parmakli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parmağı olan

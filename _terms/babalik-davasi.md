@@ -2,6 +2,7 @@
 layout: term
 title: babalık davası
 slug: babalik-davasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babalığın yasal tescili için anne veya çocuk tarafından açılan dava

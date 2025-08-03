@@ -2,6 +2,7 @@
 layout: term
 title: hınzırlık
 slug: hinzirlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hınzır olma durumu

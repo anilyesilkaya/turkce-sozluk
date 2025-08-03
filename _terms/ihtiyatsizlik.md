@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatsızlık
 slug: ihtiyatsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyatsız olma durumu

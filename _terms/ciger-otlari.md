@@ -2,6 +2,7 @@
 layout: term
 title: ciğer otları
 slug: ciger-otlari
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yaprakları kara yosunlarından bir bitki sınıfı

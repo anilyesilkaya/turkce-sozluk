@@ -2,6 +2,7 @@
 layout: term
 title: şüphe yok
 slug: suphe-yok
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - “kuşku yok” anlamında kullanılan bir söz

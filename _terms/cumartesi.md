@@ -2,6 +2,7 @@
 layout: term
 title: cumartesi
 slug: cumartesi
+letter: C
 lisan: Arapça cumʿa + Türkçe ertesi
 anlamlar:
 - Cuma ile pazar arasındaki gün

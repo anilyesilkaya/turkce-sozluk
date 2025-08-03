@@ -2,6 +2,7 @@
 layout: term
 title: kestaneyi çizdirmek
 slug: kestaneyi-cizdirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kavgada hafif zarar görmek

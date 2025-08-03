@@ -2,6 +2,7 @@
 layout: term
 title: turşusu çıkmak
 slug: tursusu-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok yorulmak

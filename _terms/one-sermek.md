@@ -2,6 +2,7 @@
 layout: term
 title: öne sermek
 slug: one-sermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ortaya koymak, meydana çıkarmak, göstermek

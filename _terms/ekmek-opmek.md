@@ -2,6 +2,7 @@
 layout: term
 title: ekmek öpmek
 slug: ekmek-opmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ekmeği öperek yemin etmek

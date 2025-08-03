@@ -2,6 +2,7 @@
 layout: term
 title: Kadirilik
 slug: kadirilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Şeyh Abdülkadir Geylani tarafından XI. yüzyılda kurulan bir tarikat; Kadiriye

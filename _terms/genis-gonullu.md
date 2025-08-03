@@ -2,6 +2,7 @@
 layout: term
 title: geniş gönüllü
 slug: genis-gonullu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Her olayı hoş karşılayan (kimse)

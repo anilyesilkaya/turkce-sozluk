@@ -2,6 +2,7 @@
 layout: term
 title: ercecik
 slug: ercecik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► erkenden

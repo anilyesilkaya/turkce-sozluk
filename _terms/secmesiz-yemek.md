@@ -2,6 +2,7 @@
 layout: term
 title: seçmesiz yemek
 slug: secmesiz-yemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Lokanta, otel, okul vb. yerlerde belirli bir para karşılığında verilen birkaç kap yemek; tabildot

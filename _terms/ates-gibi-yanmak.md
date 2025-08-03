@@ -2,6 +2,7 @@
 layout: term
 title: ateş gibi yanmak
 slug: ates-gibi-yanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ateşi yükselmek

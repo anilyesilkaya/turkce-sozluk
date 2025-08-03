@@ -2,6 +2,7 @@
 layout: term
 title: cahilane
 slug: cahilane
+letter: C
 lisan: Arapça cāhil + Farsça -āne
 anlamlar:
 - ► bilgisizce

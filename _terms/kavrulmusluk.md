@@ -2,6 +2,7 @@
 layout: term
 title: kavrulmuşluk
 slug: kavrulmusluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrulmuş olma durumu

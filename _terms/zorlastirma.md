@@ -2,6 +2,7 @@
 layout: term
 title: zorlaştırma
 slug: zorlastirma
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlaştırmak işi

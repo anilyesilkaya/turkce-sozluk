@@ -2,6 +2,7 @@
 layout: term
 title: tadıvermek
 slug: tadivermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çabucak tatmak

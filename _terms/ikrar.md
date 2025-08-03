@@ -2,6 +2,7 @@
 layout: term
 title: ikrar
 slug: ikrar
+letter: I
 lisan: Arapça iḳrār
 anlamlar:
 - Saklamayıp doğruca söyleme, açıkça söyleme

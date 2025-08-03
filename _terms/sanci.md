@@ -2,6 +2,7 @@
 layout: term
 title: sancı
 slug: sanci
+letter: S
 lisan: Türkçe
 anlamlar:
 - İç organlarda batar veya saplanır gibi hissedilen, nöbetlerle azalıp çoğalan ağrı; buru, buruntu

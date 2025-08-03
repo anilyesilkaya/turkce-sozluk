@@ -2,6 +2,7 @@
 layout: term
 title: fenalık
 slug: fenalik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► kötülük

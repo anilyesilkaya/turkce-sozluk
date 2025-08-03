@@ -2,6 +2,7 @@
 layout: term
 title: yazarlık
 slug: yazarlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazar olma durumu; muharrirlik

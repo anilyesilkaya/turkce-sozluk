@@ -2,6 +2,7 @@
 layout: term
 title: çocuklaşabilme
 slug: cocuklasabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuklaşabilmek işi

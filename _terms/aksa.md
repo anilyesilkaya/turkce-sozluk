@@ -2,6 +2,7 @@
 layout: term
 title: aksa
 slug: aksa
+letter: A
 lisan: Arapça aḳṣā
 anlamlar:
 - Uzakta bulunan

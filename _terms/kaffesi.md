@@ -2,6 +2,7 @@
 layout: term
 title: kâffesi
 slug: kaffesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütünü, hepsi, tamamı

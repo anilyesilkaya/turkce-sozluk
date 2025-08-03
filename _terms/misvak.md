@@ -2,6 +2,7 @@
 layout: term
 title: misvak
 slug: misvak
+letter: M
 lisan: Arapça misvāk
 anlamlar:
 - Kuzey Afrika, İran ve Hindistan'da yetişen dikensiz küçük bir ağaç (Salvadora persica)

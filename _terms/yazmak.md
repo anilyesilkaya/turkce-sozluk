@@ -2,6 +2,7 @@
 layout: term
 title: yazmak
 slug: yazmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaymak (I)

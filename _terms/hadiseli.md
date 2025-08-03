@@ -2,6 +2,7 @@
 layout: term
 title: hadiseli
 slug: hadiseli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► olaylı

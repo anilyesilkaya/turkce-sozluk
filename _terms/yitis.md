@@ -2,6 +2,7 @@
 layout: term
 title: yitiş
 slug: yitis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yitmek işi

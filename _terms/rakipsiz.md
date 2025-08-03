@@ -2,6 +2,7 @@
 layout: term
 title: rakipsiz
 slug: rakipsiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Daha üstünü, daha iyisi bulunamayan (kimse veya şey)

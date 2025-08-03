@@ -2,6 +2,7 @@
 layout: term
 title: belkili
 slug: belkili
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► muhtemel

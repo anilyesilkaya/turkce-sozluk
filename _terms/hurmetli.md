@@ -2,6 +2,7 @@
 layout: term
 title: hürmetli
 slug: hurmetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► saygılı

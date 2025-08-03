@@ -2,6 +2,7 @@
 layout: term
 title: mahfe
 slug: mahfe
+letter: M
 lisan: Arapça maḥaffe
 anlamlar:
 - Deve, fil vb. hayvanların sırtına konulan, üzerine oturmaya yarayan sepet

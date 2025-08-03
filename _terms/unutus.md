@@ -2,6 +2,7 @@
 layout: term
 title: unutuş
 slug: unutus
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: uyluk kemiği
 slug: uyluk-kemigi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyluğun iskeletini oluşturan kemik; femur

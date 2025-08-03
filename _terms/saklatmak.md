@@ -2,6 +2,7 @@
 layout: term
 title: şaklatmak
 slug: saklatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"Şak" diye ses çıkartmak'

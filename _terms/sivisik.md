@@ -2,6 +2,7 @@
 layout: term
 title: sıvışık
 slug: sivisik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yapışıp bulaşan

@@ -2,6 +2,7 @@
 layout: term
 title: kelle götürmek
 slug: kelle-goturmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - gereksiz bir aceleyle gitmek, koşturmak, acele davranmak

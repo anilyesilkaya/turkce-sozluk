@@ -2,6 +2,7 @@
 layout: term
 title: bukalemunlaşmak
 slug: bukalemunlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Davranışını, görüşünü çıkarına göre değiştirmek

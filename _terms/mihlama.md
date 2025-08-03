@@ -2,6 +2,7 @@
 layout: term
 title: mıhlama
 slug: mihlama
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çivileme

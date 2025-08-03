@@ -2,6 +2,7 @@
 layout: term
 title: kabîl
 slug: kabil
+letter: K
 lisan: Arapça ḳabīl
 anlamlar:
 - Türlü, gibi, benzer

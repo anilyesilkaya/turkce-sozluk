@@ -2,6 +2,7 @@
 layout: term
 title: sadist
 slug: sadist
+letter: S
 lisan: Fransızca sadiste
 anlamlar:
 - Başkalarına acı çektirerek cinsel doyum sağlayan (kimse); elezer, sadik

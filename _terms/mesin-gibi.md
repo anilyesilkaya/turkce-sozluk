@@ -2,6 +2,7 @@
 layout: term
 title: meşin gibi
 slug: mesin-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - kararmış ve sertleşmiş (insan derisi)

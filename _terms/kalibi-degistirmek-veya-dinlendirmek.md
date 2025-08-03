@@ -2,6 +2,7 @@
 layout: term
 title: kalıbı değiştirmek (veya dinlendirmek)
 slug: kalibi-degistirmek-veya-dinlendirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ölmek

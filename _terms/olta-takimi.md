@@ -2,6 +2,7 @@
 layout: term
 title: olta takımı
 slug: olta-takimi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olta ile balık avlamada kullanılan iğne, zoka vb. gereçlerin bütünü

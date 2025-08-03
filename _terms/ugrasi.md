@@ -2,6 +2,7 @@
 layout: term
 title: uğraşı
 slug: ugrasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğraşılan şey; meşgale

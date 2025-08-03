@@ -2,6 +2,7 @@
 layout: term
 title: ayrımlaşma
 slug: ayrimlasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► farklılaşma

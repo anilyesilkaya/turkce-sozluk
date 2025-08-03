@@ -2,6 +2,7 @@
 layout: term
 title: günlük dil
 slug: gunluk-dil
+letter: G
 lisan: Türkçe
 anlamlar:
 - Konuşma dili

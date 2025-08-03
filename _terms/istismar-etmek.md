@@ -2,6 +2,7 @@
 layout: term
 title: istismar etmek
 slug: istismar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - işletmek, yararlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: rakun
 slug: rakun
+letter: R
 lisan: İngilizce racoon
 anlamlar:
 - Kuzey Amerika'da, ağaçlarda yaşayan, kafası tilkiye benzeyen, uzun kuyruğu alaca halkalı, kürklü hayvan (Procyon lotor)

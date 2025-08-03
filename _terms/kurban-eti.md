@@ -2,6 +2,7 @@
 layout: term
 title: kurban eti
 slug: kurban-eti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurbanlık hayvanın kesilip parçalanmış eti

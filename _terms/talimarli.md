@@ -2,6 +2,7 @@
 layout: term
 title: talimarlı
 slug: talimarli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Talimarı olan (gemi)

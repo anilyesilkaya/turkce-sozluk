@@ -2,6 +2,7 @@
 layout: term
 title: batırılmak
 slug: batirilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batırma işine konu olmak

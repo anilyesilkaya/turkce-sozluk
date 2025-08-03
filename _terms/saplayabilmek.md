@@ -2,6 +2,7 @@
 layout: term
 title: saplayabilmek
 slug: saplayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saplama ihtimali veya imkânı bulunmak

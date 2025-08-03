@@ -2,6 +2,7 @@
 layout: term
 title: çubuk makarna
 slug: cubuk-makarna
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İnce, uzun, çubuk biçiminde dökülmüş ve fırınlanmış makarna; spagetti

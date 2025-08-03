@@ -2,6 +2,7 @@
 layout: term
 title: uykusunu almak
 slug: uykusunu-almak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uykusunu tam olarak uyumak

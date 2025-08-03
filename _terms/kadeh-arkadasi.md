@@ -2,6 +2,7 @@
 layout: term
 title: kadeh arkadaşı
 slug: kadeh-arkadasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte içki içilen kimse

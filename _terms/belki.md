@@ -2,6 +2,7 @@
 layout: term
 title: belki
 slug: belki
+letter: B
 lisan: Arapça bel + Farsça ki
 anlamlar:
 - Muhtemel olarak; belkim, herhâlde

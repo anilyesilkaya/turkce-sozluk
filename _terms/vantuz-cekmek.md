@@ -2,6 +2,7 @@
 layout: term
 title: vantuz çekmek
 slug: vantuz-cekmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - şişe çekmek

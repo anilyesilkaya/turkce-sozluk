@@ -2,6 +2,7 @@
 layout: term
 title: bargam
 slug: bargam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Levreğe benzer bir balık

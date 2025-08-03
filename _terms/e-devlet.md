@@ -2,6 +2,7 @@
 layout: term
 title: e-devlet
 slug: e-devlet
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► elektronik devlet

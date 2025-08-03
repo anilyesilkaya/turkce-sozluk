@@ -2,6 +2,7 @@
 layout: term
 title: kayış gibi
 slug: kayis-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - sert, koparılmayan

@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırıcısız
 slug: calistiricisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalıştırıcısı olmayan; antrenörsüz

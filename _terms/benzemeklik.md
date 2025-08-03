@@ -2,6 +2,7 @@
 layout: term
 title: benzemeklik
 slug: benzemeklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzer olma durumu

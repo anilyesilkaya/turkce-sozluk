@@ -2,6 +2,7 @@
 layout: term
 title: hâk ile yeksan olmak (veya edilmek)
 slug: hak-ile-yeksan-olmak-veya-edilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yapı, şehir vb. temelinden yıkılıp harap olmak, bütünüyle ortadan kalkmak

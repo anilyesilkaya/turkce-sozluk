@@ -2,6 +2,7 @@
 layout: term
 title: başkentli
 slug: baskentli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkentte oturan (kimse); başşehirli

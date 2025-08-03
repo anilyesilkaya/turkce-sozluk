@@ -2,6 +2,7 @@
 layout: term
 title: bitevi
 slug: bitevi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tekdüze

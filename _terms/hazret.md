@@ -2,6 +2,7 @@
 layout: term
 title: hazret
 slug: hazret
+letter: H
 lisan: Arapça ḥażret
 anlamlar:
 - Yüce kabul edilen kimselerin adlarının başına saygı, övme, yüceltme amacıyla getirilen ünvan

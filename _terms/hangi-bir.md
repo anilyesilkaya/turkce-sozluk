@@ -2,6 +2,7 @@
 layout: term
 title: hangi bir
 slug: hangi-bir
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bilinmeyen, belli olmayan

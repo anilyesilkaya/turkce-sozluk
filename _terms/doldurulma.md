@@ -2,6 +2,7 @@
 layout: term
 title: doldurulma
 slug: doldurulma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doldurulmak işi; imla

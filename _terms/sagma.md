@@ -2,6 +2,7 @@
 layout: term
 title: sağma
 slug: sagma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağmak işi

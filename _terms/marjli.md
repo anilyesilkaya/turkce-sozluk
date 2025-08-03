@@ -2,6 +2,7 @@
 layout: term
 title: marjlı
 slug: marjli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Marjı olan

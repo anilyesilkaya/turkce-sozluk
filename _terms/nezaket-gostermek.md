@@ -2,6 +2,7 @@
 layout: term
 title: nezaket göstermek
 slug: nezaket-gostermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - davranışlarda nazik olmak

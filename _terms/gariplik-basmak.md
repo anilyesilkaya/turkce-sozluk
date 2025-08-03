@@ -2,6 +2,7 @@
 layout: term
 title: gariplik basmak
 slug: gariplik-basmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yalnızlık çökmek

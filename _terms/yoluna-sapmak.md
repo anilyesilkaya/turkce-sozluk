@@ -2,6 +2,7 @@
 layout: term
 title: yoluna sapmak
 slug: yoluna-sapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - başvurmak

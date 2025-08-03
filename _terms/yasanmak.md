@@ -2,6 +2,7 @@
 layout: term
 title: yaşanmak
 slug: yasanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşama işi yapılmak

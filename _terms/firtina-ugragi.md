@@ -2,6 +2,7 @@
 layout: term
 title: fırtına uğrağı
 slug: firtina-ugragi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırtınanın çok olduğu yer

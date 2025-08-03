@@ -2,6 +2,7 @@
 layout: term
 title: bezginleşmek
 slug: bezginlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezgin duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: kavata
 slug: kavata
+letter: K
 lisan: Rumca
 anlamlar:
 - Oyma ağaç kap

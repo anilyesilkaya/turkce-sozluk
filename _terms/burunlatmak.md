@@ -2,6 +2,7 @@
 layout: term
 title: burunlatmak
 slug: burunlatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sivri duruma getirmek

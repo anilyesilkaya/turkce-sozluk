@@ -2,6 +2,7 @@
 layout: term
 title: meşgale
 slug: mesgale
+letter: M
 lisan: Arapça meşġale
 anlamlar:
 - ► uğraşı

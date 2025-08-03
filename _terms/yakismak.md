@@ -2,6 +2,7 @@
 layout: term
 title: yakışmak
 slug: yakismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Güzel durmak, iyi gitmek, yaraşmak, uygun gelmek

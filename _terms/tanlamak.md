@@ -2,6 +2,7 @@
 layout: term
 title: tanlamak
 slug: tanlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► şaşırmak

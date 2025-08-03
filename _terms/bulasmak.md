@@ -2,6 +2,7 @@
 layout: term
 title: bulaşmak
 slug: bulasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir nesne üzerine sürülen bir şey yüzünden kirlenmek

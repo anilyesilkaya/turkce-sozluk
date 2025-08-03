@@ -2,6 +2,7 @@
 layout: term
 title: kılınabilme
 slug: kilinabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılınabilmek işi

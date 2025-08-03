@@ -2,6 +2,7 @@
 layout: term
 title: ana sav
 slug: ana-sav
+letter: A
 lisan: Türkçe
 anlamlar:
 - İleri sürülerek savunulan düşüncelerin en belli başlı olanı

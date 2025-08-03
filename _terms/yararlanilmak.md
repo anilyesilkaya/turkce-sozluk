@@ -2,6 +2,7 @@
 layout: term
 title: yararlanılmak
 slug: yararlanilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yararlanma işi yapılmak; faydalanılmak

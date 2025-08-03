@@ -2,6 +2,7 @@
 layout: term
 title: turlamak
 slug: turlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tur atmak, dolaşmak, dönüp durmak; turalamak

@@ -2,6 +2,7 @@
 layout: term
 title: capcanlı
 slug: capcanli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok canlı

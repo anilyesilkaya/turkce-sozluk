@@ -2,6 +2,7 @@
 layout: term
 title: öd ağacı
 slug: od-agaci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Dulaptal otugillerden, tropik bölgelerde yetişen, dinî törenlerde yakılan ve yanarken güzel koku veren, odunu ve kabuğu hoş kokulu bir ağaç; öd (II) (Aquilaria agallocha)

@@ -2,6 +2,7 @@
 layout: term
 title: temizlik yapmak
 slug: temizlik-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - temizlemek

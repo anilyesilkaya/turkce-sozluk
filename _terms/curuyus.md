@@ -2,6 +2,7 @@
 layout: term
 title: çürüyüş
 slug: curuyus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürümek işi

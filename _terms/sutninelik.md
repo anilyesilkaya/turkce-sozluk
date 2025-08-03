@@ -2,6 +2,7 @@
 layout: term
 title: sütninelik
 slug: sutninelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sütannelik

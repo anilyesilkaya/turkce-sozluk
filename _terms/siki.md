@@ -2,6 +2,7 @@
 layout: term
 title: sıkı
 slug: siki
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► dar (I)

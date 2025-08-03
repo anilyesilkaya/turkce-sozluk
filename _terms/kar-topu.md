@@ -2,6 +2,7 @@
 layout: term
 title: kar topu
 slug: kar-topu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Elle top biçiminde sıkıştırılmış, eğlence amacıyla karşılıklı atılan kar topağı

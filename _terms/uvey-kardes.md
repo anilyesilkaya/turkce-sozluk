@@ -2,6 +2,7 @@
 layout: term
 title: üvey kardeş
 slug: uvey-kardes
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Anaları veya babaları ayrı olan kardeşlerden her biri

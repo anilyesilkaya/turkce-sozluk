@@ -2,6 +2,7 @@
 layout: term
 title: teessüf etmek
 slug: teessuf-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - acımak, üzülmek, yazıklanmak

@@ -2,6 +2,7 @@
 layout: term
 title: galon
 slug: galon
+letter: G
 lisan: İngilizce gallon
 anlamlar:
 - Anglosaksonların kullandığı yaklaşık dört buçuk litrelik bir tür ölçü birimi

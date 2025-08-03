@@ -2,6 +2,7 @@
 layout: term
 title: dolapsız
 slug: dolapsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolabı olmayan

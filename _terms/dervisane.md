@@ -2,6 +2,7 @@
 layout: term
 title: dervişane
 slug: dervisane
+letter: D
 lisan: Farsça dervīşāne
 anlamlar:
 - ► dervişçe

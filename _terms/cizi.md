@@ -2,6 +2,7 @@
 layout: term
 title: çizi
 slug: cizi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çizgi

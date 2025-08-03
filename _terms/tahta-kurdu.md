@@ -2,6 +2,7 @@
 layout: term
 title: tahta kurdu
 slug: tahta-kurdu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahtadan yapılma eşyayı kemirerek delik deşik eden kın kanatlı böcek; odun kurdu (Anobium punctatum)

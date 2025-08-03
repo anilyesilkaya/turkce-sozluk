@@ -2,6 +2,7 @@
 layout: term
 title: ardiyeci
 slug: ardiyeci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ardiye işleten kimse

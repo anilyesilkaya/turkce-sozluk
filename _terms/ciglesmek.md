@@ -2,6 +2,7 @@
 layout: term
 title: çiğleşmek
 slug: ciglesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Göze batmak

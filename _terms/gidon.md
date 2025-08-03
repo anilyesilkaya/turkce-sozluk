@@ -2,6 +2,7 @@
 layout: term
 title: gidon
 slug: gidon
+letter: G
 lisan: Fransızca guidon
 anlamlar:
 - ► yönelteç

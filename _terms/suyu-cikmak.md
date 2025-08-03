@@ -2,6 +2,7 @@
 layout: term
 title: suyu çıkmak
 slug: suyu-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok söz edildiği veya üzerinde yerli yersiz durulduğu için değerini yitirmek, önemsizleşmek

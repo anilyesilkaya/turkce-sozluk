@@ -2,6 +2,7 @@
 layout: term
 title: ev tutmak
 slug: ev-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ev kiralamak

@@ -2,6 +2,7 @@
 layout: term
 title: cıyırtı
 slug: ciyirti
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bez, kâğıt vb. şeylerin yırtılırken, bir şeyin gıcırdarken veya kuşların kanatlarını çırparken çıkardığı ince ses

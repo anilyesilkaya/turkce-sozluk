@@ -2,6 +2,7 @@
 layout: term
 title: sıçandişi
 slug: sicandisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► antika işi

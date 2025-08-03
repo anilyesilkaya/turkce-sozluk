@@ -2,6 +2,7 @@
 layout: term
 title: Panslavizm
 slug: panslavizm
+letter: P
 lisan: Fransızca panslavisme
 anlamlar:
 - Slav asıllı bütün halkları aynı yönetim altında toplama amacı güden politik akım ve hareket

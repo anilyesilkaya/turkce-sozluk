@@ -2,6 +2,7 @@
 layout: term
 title: defa
 slug: defa
+letter: D
 lisan: Arapça defʿa
 anlamlar:
 - ► kez

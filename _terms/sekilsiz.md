@@ -2,6 +2,7 @@
 layout: term
 title: şekilsiz
 slug: sekilsiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► biçimsiz

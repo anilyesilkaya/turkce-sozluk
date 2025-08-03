@@ -2,6 +2,7 @@
 layout: term
 title: füniküler
 slug: funikuler
+letter: F
 lisan: Fransızca funiculaire
 anlamlar:
 - ► çekmeli vagon

@@ -2,6 +2,7 @@
 layout: term
 title: nihilist
 slug: nihilist
+letter: N
 lisan: Fransızca nihiliste
 anlamlar:
 - Nihilizm yanlısı olan; hiççi, yokçu

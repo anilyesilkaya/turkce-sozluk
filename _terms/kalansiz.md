@@ -2,6 +2,7 @@
 layout: term
 title: kalansız
 slug: kalansiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bölünenden artanı olmayan

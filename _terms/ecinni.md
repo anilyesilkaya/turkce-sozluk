@@ -2,6 +2,7 @@
 layout: term
 title: ecinni
 slug: ecinni
+letter: E
 lisan: Arapça ecinnī
 anlamlar:
 - ► cin

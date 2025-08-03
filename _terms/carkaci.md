@@ -2,6 +2,7 @@
 layout: term
 title: çarkacı
 slug: carkaci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çarhacı

@@ -2,6 +2,7 @@
 layout: term
 title: mendil açmak
 slug: mendil-acmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yere oturup önüne bir mendil sererek dilenmek

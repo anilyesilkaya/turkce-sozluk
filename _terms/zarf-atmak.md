@@ -2,6 +2,7 @@
 layout: term
 title: zarf atmak
 slug: zarf-atmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - dolandırıcı zarf vb. kullanarak bir tür para sızdırmak veya çarpmak

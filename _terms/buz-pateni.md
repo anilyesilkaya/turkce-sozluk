@@ -2,6 +2,7 @@
 layout: term
 title: buz pateni
 slug: buz-pateni
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzla kaplı zemin üzerinde yapılan buz sporlarında kullanılan, altı çelik bıçaklı özel ayakkabı

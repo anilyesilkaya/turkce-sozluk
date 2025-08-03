@@ -2,6 +2,7 @@
 layout: term
 title: aşağı düşmek
 slug: asagi-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - düzeyi, miktarı, niteliği azalmak

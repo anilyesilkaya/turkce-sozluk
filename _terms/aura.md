@@ -2,6 +2,7 @@
 layout: term
 title: aura
 slug: aura
+letter: A
 lisan: Fransızca aura
 anlamlar:
 - Canlıların bedenlerini çevreleyerek kalkan görevi yaptığı varsayılan, katmanlardan oluşan ve kendine özgü rengi olan elektromanyetik alan

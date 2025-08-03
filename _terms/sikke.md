@@ -2,6 +2,7 @@
 layout: term
 title: sikke
 slug: sikke
+letter: S
 lisan: Türkçe
 anlamlar:
 - Mevlevi dervişlerinin giydikleri yüksek ve tepesi düz keçe külah

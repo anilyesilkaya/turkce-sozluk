@@ -2,6 +2,7 @@
 layout: term
 title: sılaya gitmek
 slug: silaya-gitmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir süre ayrı kaldığı evini, yurdunu görmeye gitmek

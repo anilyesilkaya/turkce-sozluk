@@ -2,6 +2,7 @@
 layout: term
 title: basıp geçmek
 slug: basip-gecmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - önde gideni geçmek

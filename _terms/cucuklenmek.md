@@ -2,6 +2,7 @@
 layout: term
 title: cücüklenmek
 slug: cucuklenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Soğan, patates, buğday vb. filizlenmek

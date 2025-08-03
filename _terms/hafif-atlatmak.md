@@ -2,6 +2,7 @@
 layout: term
 title: hafif atlatmak
 slug: hafif-atlatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kötü bir durumdan çok az bir zararla kurtulmak

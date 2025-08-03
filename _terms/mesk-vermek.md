@@ -2,6 +2,7 @@
 layout: term
 title: meşk vermek
 slug: mesk-vermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ders vermek

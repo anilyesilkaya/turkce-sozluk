@@ -2,6 +2,7 @@
 layout: term
 title: parmak
 slug: parmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - İnsanda ve bazı hayvanlarda ellerin ve ayakların son bölümünü oluşturan, boğumlu, oynak, uzunca organların her biri

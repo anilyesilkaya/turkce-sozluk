@@ -2,6 +2,7 @@
 layout: term
 title: güvenç
 slug: guvenc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenme duygusu

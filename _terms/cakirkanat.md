@@ -2,6 +2,7 @@
 layout: term
 title: çakırkanat
 slug: cakirkanat
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kanatları mavi hareli bir tür ördek (Anas crecca)

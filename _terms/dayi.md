@@ -2,6 +2,7 @@
 layout: term
 title: dayı
 slug: dayi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Annenin erkek kardeşi

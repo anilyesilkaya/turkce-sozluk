@@ -2,6 +2,7 @@
 layout: term
 title: bigudi
 slug: bigudi
+letter: B
 lisan: Fransızca bigoudi
 anlamlar:
 - Kadınların saçlarını kıvırmak için kullandıkları, metal, sünger veya plastikten, boru biçiminde küçük araç; sarmaç

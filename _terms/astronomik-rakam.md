@@ -2,6 +2,7 @@
 layout: term
 title: astronomik rakam
 slug: astronomik-rakam
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsana şaşkınlık verecek derecede büyük rakam

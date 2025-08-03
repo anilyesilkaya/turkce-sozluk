@@ -2,6 +2,7 @@
 layout: term
 title: imamlık
 slug: imamlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmam olma durumu; imamet

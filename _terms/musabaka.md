@@ -2,6 +2,7 @@
 layout: term
 title: müsabaka
 slug: musabaka
+letter: M
 lisan: Arapça musābaḳa
 anlamlar:
 - ► yarışma

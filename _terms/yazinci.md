@@ -2,6 +2,7 @@
 layout: term
 title: yazıncı
 slug: yazinci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► edebiyatçı

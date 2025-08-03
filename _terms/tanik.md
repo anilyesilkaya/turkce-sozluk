@@ -2,6 +2,7 @@
 layout: term
 title: tanık
 slug: tanik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gördüğünü ve bildiğini anlatan, bilgi veren kimse; şahit

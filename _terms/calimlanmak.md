@@ -2,6 +2,7 @@
 layout: term
 title: çalımlanmak
 slug: calimlanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalımlı davranmak

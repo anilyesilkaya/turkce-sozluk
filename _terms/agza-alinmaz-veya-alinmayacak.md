@@ -2,6 +2,7 @@
 layout: term
 title: ağza alınmaz (veya alınmayacak)
 slug: agza-alinmaz-veya-alinmayacak
+letter: A
 lisan: Türkçe
 anlamlar:
 - söylenmesi ayıp, çirkin (söz, küfür)

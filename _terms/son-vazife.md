@@ -2,6 +2,7 @@
 layout: term
 title: son vazife
 slug: son-vazife
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► son görev

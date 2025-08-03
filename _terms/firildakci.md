@@ -2,6 +2,7 @@
 layout: term
 title: fırıldakçı
 slug: firildakci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırıldak yapan veya satan kimse

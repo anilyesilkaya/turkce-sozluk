@@ -2,6 +2,7 @@
 layout: term
 title: selamsız sabahsız
 slug: selamsiz-sabahsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Selam vermeden

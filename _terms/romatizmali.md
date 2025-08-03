@@ -2,6 +2,7 @@
 layout: term
 title: romatizmalı
 slug: romatizmali
+letter: R
 lisan: Türkçe
 anlamlar:
 - Romatizması olan

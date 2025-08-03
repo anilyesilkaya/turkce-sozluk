@@ -2,6 +2,7 @@
 layout: term
 title: kötü gözle bakmak
 slug: kotu-gozle-bakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kimse için iyi olmayan düşünceler beslemek, bunu belli edercesine bakmak

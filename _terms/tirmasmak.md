@@ -2,6 +2,7 @@
 layout: term
 title: tırmaşmak
 slug: tirmasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırmanmak, yüksek bir yere çıkmaya çalışmak

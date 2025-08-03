@@ -2,6 +2,7 @@
 layout: term
 title: terbiyesizlik
 slug: terbiyesizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terbiyesiz olma durumu; edepsizlik

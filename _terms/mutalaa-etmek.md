@@ -2,6 +2,7 @@
 layout: term
 title: mütalaa etmek
 slug: mutalaa-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - okumak

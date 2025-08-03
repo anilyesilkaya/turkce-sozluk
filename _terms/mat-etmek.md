@@ -2,6 +2,7 @@
 layout: term
 title: mat etmek
 slug: mat-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - satranç oyununda yenmek

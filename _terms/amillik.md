@@ -2,6 +2,7 @@
 layout: term
 title: amillik
 slug: amillik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► etkenlik

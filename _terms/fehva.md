@@ -2,6 +2,7 @@
 layout: term
 title: fehva
 slug: fehva
+letter: F
 lisan: Arapça feḥvā
 anlamlar:
 - ► kavram

@@ -2,6 +2,7 @@
 layout: term
 title: ödleklik
 slug: odleklik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► korkaklık

@@ -2,6 +2,7 @@
 layout: term
 title: serdetmek
 slug: serdetmek
+letter: S
 lisan: Arapça serd + Türkçe etmek
 anlamlar:
 - İleri sürmek

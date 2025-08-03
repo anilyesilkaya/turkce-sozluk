@@ -2,6 +2,7 @@
 layout: term
 title: ucuz atlatmak (veya kurtulmak)
 slug: ucuz-atlatmak-veya-kurtulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - zor veya tehlikeli durumdan az zararla sıyrılmak

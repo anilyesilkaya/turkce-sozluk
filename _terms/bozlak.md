@@ -2,6 +2,7 @@
 layout: term
 title: bozlak
 slug: bozlak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Orta ve Güney Anadolu’nun birçok bölgesinde söylenen bir tür uzun hava

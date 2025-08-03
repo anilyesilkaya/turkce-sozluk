@@ -2,6 +2,7 @@
 layout: term
 title: şişkoluk
 slug: siskoluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişman olma durumu

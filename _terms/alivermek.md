@@ -2,6 +2,7 @@
 layout: term
 title: alıvermek
 slug: alivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın almak

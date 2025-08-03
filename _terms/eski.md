@@ -2,6 +2,7 @@
 layout: term
 title: eski
 slug: eski
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çoktan beri var olan, üzerinden çok zaman geçmiş bulunan; ezelî, ihtiyar (I), yeni karşıtı

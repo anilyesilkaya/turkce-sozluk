@@ -2,6 +2,7 @@
 layout: term
 title: garson boy
 slug: garson-boy
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ergenlik dönemi çocuklarının beden ölçülerine uygun olan (elbise, boy pos vb.)

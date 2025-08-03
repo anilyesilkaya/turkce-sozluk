@@ -2,6 +2,7 @@
 layout: term
 title: ses kuşağı
 slug: ses-kusagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üzerinde bir veya birkaç ses yolu bulunan kuşak

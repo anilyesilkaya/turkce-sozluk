@@ -2,6 +2,7 @@
 layout: term
 title: lokma tatlısı
 slug: lokma-tatlisi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Mayalı hamurun küçük yuvarlak lokmalar hâlinde kızgın yağda kızartıldıktan sonra şerbete atılmasıyla yapılan bir tatlı; lokma

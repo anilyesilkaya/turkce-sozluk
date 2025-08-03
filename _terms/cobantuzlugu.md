@@ -2,6 +2,7 @@
 layout: term
 title: çobantuzluğu
 slug: cobantuzlugu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► sarıçalı

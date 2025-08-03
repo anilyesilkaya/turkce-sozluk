@@ -2,6 +2,7 @@
 layout: term
 title: kehribar gibi
 slug: kehribar-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - sapsarı, koyu sarı

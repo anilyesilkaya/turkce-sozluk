@@ -2,6 +2,7 @@
 layout: term
 title: boş küme
 slug: bos-kume
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hiçbir ögesi olmayan küme

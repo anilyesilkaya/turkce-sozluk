@@ -2,6 +2,7 @@
 layout: term
 title: antlaşma
 slug: antlasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok devletin saldırmazlık, savaşta iş birliği vb. konularda kararlaştırdıkları ilkelere uygun davranmayı kabul etmeleri durumu; ahit, muahede, ahitleşme, pakt

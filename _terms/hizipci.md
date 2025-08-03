@@ -2,6 +2,7 @@
 layout: term
 title: hizipçi
 slug: hizipci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hizip oluşturan veya bir hizip içinde yer alan kimse; klikçi

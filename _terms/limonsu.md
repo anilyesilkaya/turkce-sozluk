@@ -2,6 +2,7 @@
 layout: term
 title: limonsu
 slug: limonsu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limonu andıran, limona benzeyen, limon gibi; limonumsu

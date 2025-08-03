@@ -2,6 +2,7 @@
 layout: term
 title: yana yana
 slug: yana-yana
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tekrar tekrar

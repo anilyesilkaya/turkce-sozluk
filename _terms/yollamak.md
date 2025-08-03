@@ -2,6 +2,7 @@
 layout: term
 title: yollamak
 slug: yollamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► göndermek

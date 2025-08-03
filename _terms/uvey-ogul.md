@@ -2,6 +2,7 @@
 layout: term
 title: üvey oğul
 slug: uvey-ogul
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Karı kocanın her birine göre öbürünün ayrı bir eşinden dünyaya gelmiş olan erkek çocuk; oğulluk

@@ -2,6 +2,7 @@
 layout: term
 title: bireyselleşme
 slug: bireysellesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bireyselleşmek işi

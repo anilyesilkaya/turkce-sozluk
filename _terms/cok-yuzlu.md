@@ -2,6 +2,7 @@
 layout: term
 title: çok yüzlü
 slug: cok-yuzlu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birden fazla özelliği, yönü olan

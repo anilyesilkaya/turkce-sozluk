@@ -2,6 +2,7 @@
 layout: term
 title: cümbür cemaat
 slug: cumbur-cemaat
+letter: C
 lisan: Türkçe
 anlamlar:
 - Toplu olarak, hepsi birden; cumhur cemaat

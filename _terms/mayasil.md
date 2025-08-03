@@ -2,6 +2,7 @@
 layout: term
 title: mayasıl
 slug: mayasil
+letter: M
 lisan: Arapça māyesīl
 anlamlar:
 - Tende kızartı, kaşınma, sulanma, kabuk bağlama vb. doku bozukluklarıyla kendini gösteren ve bulaşıcı olmayan bir deri hastalığı; egzama

@@ -2,6 +2,7 @@
 layout: term
 title: çiçeğimsi
 slug: cicegimsi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çiçeksi

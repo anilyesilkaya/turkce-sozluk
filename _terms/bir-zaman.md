@@ -2,6 +2,7 @@
 layout: term
 title: bir zaman
 slug: bir-zaman
+letter: B
 lisan: Türkçe
 anlamlar:
 - Geçmiş zamanda; bir vakit

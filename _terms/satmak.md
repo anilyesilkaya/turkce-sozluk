@@ -2,6 +2,7 @@
 layout: term
 title: satmak
 slug: satmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir malı bir bedel karşılığında alıcıya vermek

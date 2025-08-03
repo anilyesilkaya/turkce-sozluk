@@ -2,6 +2,7 @@
 layout: term
 title: giysi
 slug: giysi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Her türlü giyim eşyası; giyecek, giyim, giyit, don (I), çul, üst, elbise, kılık kıyafet, kıyafet, esvap, libas, ruba, urba

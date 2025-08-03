@@ -2,6 +2,7 @@
 layout: term
 title: lezzetlenmek
 slug: lezzetlenmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Yemek vb. iyi bir tat kazanmak, tat verilmek, lezzetli bir duruma gelmek

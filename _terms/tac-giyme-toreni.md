@@ -2,6 +2,7 @@
 layout: term
 title: taç giyme töreni
 slug: tac-giyme-toreni
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hükümdar olacak kimsenin başına tacını giydirerek hükümdarlığının resmen ilanı amacıyla düzenlenen tören

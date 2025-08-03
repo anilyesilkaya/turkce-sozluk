@@ -2,6 +2,7 @@
 layout: term
 title: haptetmek
 slug: haptetmek
+letter: H
 lisan: Arapça ḥabṭ + Türkçe etmek
 anlamlar:
 - Karşısındakini susturmak, cevap veremez durumunda bırakmak

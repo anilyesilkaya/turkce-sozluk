@@ -2,6 +2,7 @@
 layout: term
 title: uçsuz bucaksız
 slug: ucsuz-bucaksiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sonu görülmeyecek kadar geniş olan

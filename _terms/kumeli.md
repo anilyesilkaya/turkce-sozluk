@@ -2,6 +2,7 @@
 layout: term
 title: kümeli
 slug: kumeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kümesi olan

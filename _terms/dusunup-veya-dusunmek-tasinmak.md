@@ -2,6 +2,7 @@
 layout: term
 title: düşünüp (veya düşünmek) taşınmak
 slug: dusunup-veya-dusunmek-tasinmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - konuyu bütün yönleriyle inceleyip ona göre davranmak, iyice düşünmek

@@ -2,6 +2,7 @@
 layout: term
 title: manzaralı
 slug: manzarali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manzarası olan

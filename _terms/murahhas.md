@@ -2,6 +2,7 @@
 layout: term
 title: murahhas
 slug: murahhas
+letter: M
 lisan: Arapça muraḫḫaṣ
 anlamlar:
 - ► delege

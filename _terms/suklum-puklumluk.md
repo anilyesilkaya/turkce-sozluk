@@ -2,6 +2,7 @@
 layout: term
 title: süklüm püklümlük
 slug: suklum-puklumluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süklüm püklüm olma durumu

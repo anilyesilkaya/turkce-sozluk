@@ -2,6 +2,7 @@
 layout: term
 title: maskaralık
 slug: maskaralik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maskara olma durumu

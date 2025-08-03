@@ -2,6 +2,7 @@
 layout: term
 title: müebbet
 slug: muebbet
+letter: M
 lisan: Arapça muʾebbed
 anlamlar:
 - Sonu olmayan

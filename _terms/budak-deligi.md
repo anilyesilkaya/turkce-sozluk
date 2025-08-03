@@ -2,6 +2,7 @@
 layout: term
 title: budak deliği
 slug: budak-deligi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tahtalardaki budak yerinin çıkarılmasından sonra ortaya çıkan boşluk

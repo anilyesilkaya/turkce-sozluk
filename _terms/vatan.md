@@ -2,6 +2,7 @@
 layout: term
 title: vatan
 slug: vatan
+letter: V
 lisan: Arapça vaṭan
 anlamlar:
 - ► yurt

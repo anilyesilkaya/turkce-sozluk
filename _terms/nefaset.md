@@ -2,6 +2,7 @@
 layout: term
 title: nefaset
 slug: nefaset
+letter: N
 lisan: Arapça nefāset
 anlamlar:
 - Nefis olma durumu

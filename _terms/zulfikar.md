@@ -2,6 +2,7 @@
 layout: term
 title: Zülfikar
 slug: zulfikar
+letter: Z
 lisan: Arapça ẕu'l-feḳār
 anlamlar:
 - Hz. Muhammed'in Hz. Ali'ye armağan ettiği, ucu ikiye ayrılmış kılıç

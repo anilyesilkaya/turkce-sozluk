@@ -2,6 +2,7 @@
 layout: term
 title: çamurlaşma
 slug: camurlasma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamurlaşmak işi

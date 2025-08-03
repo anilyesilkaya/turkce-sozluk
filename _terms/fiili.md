@@ -2,6 +2,7 @@
 layout: term
 title: fiilî
 slug: fiili
+letter: F
 lisan: Arapça fiʿlī
 anlamlar:
 - Sözde kalmayıp gerçekten yapılan, yapılmış ve yapılmakta olan

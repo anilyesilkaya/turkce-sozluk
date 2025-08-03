@@ -2,6 +2,7 @@
 layout: term
 title: teşvikçilik
 slug: tesvikcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teşvikçi olma durumu

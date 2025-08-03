@@ -2,6 +2,7 @@
 layout: term
 title: lokomotifsiz
 slug: lokomotifsiz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lokomotifi olmayan

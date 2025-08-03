@@ -2,6 +2,7 @@
 layout: term
 title: gömülüvermek
 slug: gomuluvermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede gömülmek

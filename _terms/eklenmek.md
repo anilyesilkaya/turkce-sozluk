@@ -2,6 +2,7 @@
 layout: term
 title: eklenmek
 slug: eklenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekleme işi yapılmak

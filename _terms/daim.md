@@ -2,6 +2,7 @@
 layout: term
 title: daim
 slug: daim
+letter: D
 lisan: Arapça dāʾim
 anlamlar:
 - Sürekli, sonsuz olan

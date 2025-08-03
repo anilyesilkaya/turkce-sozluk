@@ -2,6 +2,7 @@
 layout: term
 title: zırdeli
 slug: zirdeli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Aşırı deli, çılgın olan

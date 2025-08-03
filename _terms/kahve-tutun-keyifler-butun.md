@@ -2,6 +2,7 @@
 layout: term
 title: kahve tütün, keyifler bütün
 slug: kahve-tutun-keyifler-butun
+letter: K
 lisan: Türkçe
 anlamlar:
 - “kahvenin yanında sigara da olursa keyfin güzel olacağı” anlamında kullanılan bir söz

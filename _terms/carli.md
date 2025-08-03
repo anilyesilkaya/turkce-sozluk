@@ -2,6 +2,7 @@
 layout: term
 title: carlı
 slug: carli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Car (II) giymiş olan

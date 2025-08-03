@@ -2,6 +2,7 @@
 layout: term
 title: şamalı
 slug: samali
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şama ile yapılmış

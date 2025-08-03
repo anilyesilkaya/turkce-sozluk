@@ -2,6 +2,7 @@
 layout: term
 title: çilingir
 slug: cilingir
+letter: Ç
 lisan: Farsça cilānger
 anlamlar:
 - ► anahtarcı

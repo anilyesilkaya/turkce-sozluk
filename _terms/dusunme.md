@@ -2,6 +2,7 @@
 layout: term
 title: düşünme
 slug: dusunme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünmek işi; tefekkür

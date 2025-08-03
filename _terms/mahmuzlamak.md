@@ -2,6 +2,7 @@
 layout: term
 title: mahmuzlamak
 slug: mahmuzlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hızlanması için hayvanı mahmuzla dürtmek; topuklamak

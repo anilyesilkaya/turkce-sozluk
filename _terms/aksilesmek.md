@@ -2,6 +2,7 @@
 layout: term
 title: aksileşmek
 slug: aksilesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnatçılık etmek; aksilenmek

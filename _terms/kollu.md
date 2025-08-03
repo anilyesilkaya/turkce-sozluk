@@ -2,6 +2,7 @@
 layout: term
 title: kollu
 slug: kollu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolu olan

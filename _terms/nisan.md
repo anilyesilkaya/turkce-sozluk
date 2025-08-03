@@ -2,6 +2,7 @@
 layout: term
 title: nişan
 slug: nisan
+letter: N
 lisan: Farsça nişān
 anlamlar:
 - ► iz

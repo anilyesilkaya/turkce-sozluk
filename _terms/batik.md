@@ -2,6 +2,7 @@
 layout: term
 title: batik
 slug: batik
+letter: B
 lisan: Fransızca batik
 anlamlar:
 - Kumaş, deri veya kâğıt süslemede kullanılan bir yöntem

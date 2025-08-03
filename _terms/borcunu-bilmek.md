@@ -2,6 +2,7 @@
 layout: term
 title: borcunu bilmek
 slug: borcunu-bilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şey yapmayı yerine getirilmesi gereken bir iş olarak değerlendirmek

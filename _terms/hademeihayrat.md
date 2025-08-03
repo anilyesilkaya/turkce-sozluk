@@ -2,6 +2,7 @@
 layout: term
 title: hademeihayrat
 slug: hademeihayrat
+letter: H
 lisan: Arapça ḫademe + ḫayrāt
 anlamlar:
 - Camilerde gönüllü çalışan, getirgötür işlerini yapan kimse

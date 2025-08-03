@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) kamaşmak
 slug: gozu-veya-gozleri-kamasmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güçlü bir ışık sebebiyle göz bakamaz olmak

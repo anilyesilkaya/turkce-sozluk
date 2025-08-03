@@ -2,6 +2,7 @@
 layout: term
 title: gösterişli
 slug: gosterisli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gösterişi olan; cafcaflı, cakalı, hökelekli, fiyakalı, sunturlu, tumturaklı, müşekkel

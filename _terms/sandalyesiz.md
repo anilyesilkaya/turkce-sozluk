@@ -2,6 +2,7 @@
 layout: term
 title: sandalyesiz
 slug: sandalyesiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sandalyesi olmayan

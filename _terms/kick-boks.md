@@ -2,6 +2,7 @@
 layout: term
 title: kick boks
 slug: kick-boks
+letter: K
 lisan: İngilizce kick box
 anlamlar:
 - Yumruk, tekme, diz hareketlerinin bir araya getirilmesiyle oluşturulmuş bir dövüş sporu

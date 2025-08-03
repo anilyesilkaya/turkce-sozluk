@@ -2,6 +2,7 @@
 layout: term
 title: dağ reyhanı
 slug: dag-reyhani
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► anık (II)

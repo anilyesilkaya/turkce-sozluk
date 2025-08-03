@@ -2,6 +2,7 @@
 layout: term
 title: toplama
 slug: toplama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplamak işi; cemetme, icma

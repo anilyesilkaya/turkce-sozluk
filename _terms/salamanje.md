@@ -2,6 +2,7 @@
 layout: term
 title: salamanje
 slug: salamanje
+letter: S
 lisan: Fransızca salle à manger
 anlamlar:
 - ► yemek odası

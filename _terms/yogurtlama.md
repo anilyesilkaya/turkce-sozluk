@@ -2,6 +2,7 @@
 layout: term
 title: yoğurtlama
 slug: yogurtlama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğurtlamak işi

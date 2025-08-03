@@ -2,6 +2,7 @@
 layout: term
 title: üreticilik
 slug: ureticilik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üreticinin işi

@@ -2,6 +2,7 @@
 layout: term
 title: üf
 slug: uf
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Usanç, bezginlik, tiksinti vb. duygular anlatan bir söz

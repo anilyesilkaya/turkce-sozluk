@@ -2,6 +2,7 @@
 layout: term
 title: izlenim
 slug: izlenim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir durum veya olayın duyular yolu ile insan üzerinde bıraktığı etki; intiba

@@ -2,6 +2,7 @@
 layout: term
 title: coplamak
 slug: coplamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Copla vurmak, copla dövmek

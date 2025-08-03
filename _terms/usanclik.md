@@ -2,6 +2,7 @@
 layout: term
 title: usançlık
 slug: usanclik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanma durumunda olma

@@ -2,6 +2,7 @@
 layout: term
 title: kavaslık
 slug: kavaslik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavas olma durumu

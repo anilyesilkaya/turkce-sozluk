@@ -2,6 +2,7 @@
 layout: term
 title: ah vah etmek (veya demek)
 slug: ah-vah-etmek-veya-demek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ağlayıp sızlanmak

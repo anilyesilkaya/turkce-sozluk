@@ -2,6 +2,7 @@
 layout: term
 title: yıkılıvermek
 slug: yikilivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak yıkılmak

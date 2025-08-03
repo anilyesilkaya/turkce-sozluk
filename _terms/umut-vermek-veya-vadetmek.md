@@ -2,6 +2,7 @@
 layout: term
 title: umut vermek (veya vadetmek)
 slug: umut-vermek-veya-vadetmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - bir kimsede umut uyandırmak, bir kimseye güven vermek

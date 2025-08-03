@@ -2,6 +2,7 @@
 layout: term
 title: kapitalizm
 slug: kapitalizm
+letter: K
 lisan: Fransızca capitalisme
 anlamlar:
 - ► sermayecilik

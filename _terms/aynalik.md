@@ -2,6 +2,7 @@
 layout: term
 title: aynalık
 slug: aynalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çeşitli boy ve biçimlerde, içerisine ayna konulan çerçeve

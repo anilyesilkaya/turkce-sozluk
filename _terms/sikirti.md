@@ -2,6 +2,7 @@
 layout: term
 title: şıkırtı
 slug: sikirti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıkırdama sonucu çıkan sesin adı

@@ -2,6 +2,7 @@
 layout: term
 title: getirivermek
 slug: getirivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın getirmek

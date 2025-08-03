@@ -2,6 +2,7 @@
 layout: term
 title: mavi yakalı
 slug: mavi-yakali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üretim sürecine bedensel gücüyle katılarak maaş veya ücret karşılığı çalışan kişi

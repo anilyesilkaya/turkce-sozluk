@@ -2,6 +2,7 @@
 layout: term
 title: hatırında olmak
 slug: hatirinda-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - unutmamış olmak

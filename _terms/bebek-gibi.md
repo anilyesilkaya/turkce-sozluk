@@ -2,6 +2,7 @@
 layout: term
 title: bebek gibi
 slug: bebek-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok güzel (kadın)

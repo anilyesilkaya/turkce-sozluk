@@ -2,6 +2,7 @@
 layout: term
 title: tatlandırmak
 slug: tatlandirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tat vermek, tadını kazanmasını sağlamak

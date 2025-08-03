@@ -2,6 +2,7 @@
 layout: term
 title: barata
 slug: barata
+letter: B
 lisan: İtalyanca barretta
 anlamlar:
 - Bilim doktorları ile kardinallerin giydikleri dört köşe külah veya başlık

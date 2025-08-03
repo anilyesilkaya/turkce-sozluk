@@ -2,6 +2,7 @@
 layout: term
 title: asorti
 slug: asorti
+letter: A
 lisan: Fransızca assorti
 anlamlar:
 - Birbirine uygun, birbirini tutar renk ve biçimde olan (giysi)

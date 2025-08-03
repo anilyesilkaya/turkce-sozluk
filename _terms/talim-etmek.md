@@ -2,6 +2,7 @@
 layout: term
 title: talim etmek
 slug: talim-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - az para karşılığında çalışmak

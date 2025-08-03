@@ -2,6 +2,7 @@
 layout: term
 title: satım
 slug: satim
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► satış

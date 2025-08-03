@@ -2,6 +2,7 @@
 layout: term
 title: evlat edinmek
 slug: evlat-edinmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yasayla belirtilmiş şartlar içinde bir kimseyi evlat olarak nüfusuna geçirmek

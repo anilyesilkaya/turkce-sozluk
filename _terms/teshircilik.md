@@ -2,6 +2,7 @@
 layout: term
 title: teşhircilik
 slug: teshircilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► göstermecilik

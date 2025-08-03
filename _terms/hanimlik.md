@@ -2,6 +2,7 @@
 layout: term
 title: hanımlık
 slug: hanimlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hanım olma durumu

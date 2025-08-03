@@ -2,6 +2,7 @@
 layout: term
 title: Bahai
 slug: bahai
+letter: B
 lisan: Arapça bahāį
 anlamlar:
 - Bahailik yanlısı kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çınargiller
 slug: cinargiller
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Örneği çınar olan bitki familyası

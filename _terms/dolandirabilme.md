@@ -2,6 +2,7 @@
 layout: term
 title: dolandırabilme
 slug: dolandirabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolandırabilmek işi

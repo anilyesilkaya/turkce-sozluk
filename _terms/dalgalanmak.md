@@ -2,6 +2,7 @@
 layout: term
 title: dalgalanmak
 slug: dalgalanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzerinde dalga oluşmak; çalkalanmak, talazlanmak

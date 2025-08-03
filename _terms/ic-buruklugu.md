@@ -2,6 +2,7 @@
 layout: term
 title: iç burukluğu
 slug: ic-buruklugu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kırgınlık

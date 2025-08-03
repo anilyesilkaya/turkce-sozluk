@@ -2,6 +2,7 @@
 layout: term
 title: göçüp gitmek
 slug: gocup-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ölmek

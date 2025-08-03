@@ -2,6 +2,7 @@
 layout: term
 title: name
 slug: name
+letter: N
 lisan: Farsça nāme
 anlamlar:
 - ► mektup

@@ -2,6 +2,7 @@
 layout: term
 title: opal
 slug: opal
+letter: O
 lisan: Fransızca opale
 anlamlar:
 - Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral; panzehir taşı

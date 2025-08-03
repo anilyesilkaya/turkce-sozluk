@@ -2,6 +2,7 @@
 layout: term
 title: serbestçe
 slug: serbestce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hareketlerine dikkat etmeyen

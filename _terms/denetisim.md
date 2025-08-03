@@ -2,6 +2,7 @@
 layout: term
 title: denetişim
 slug: denetisim
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► iç denetim

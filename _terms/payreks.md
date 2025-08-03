@@ -2,6 +2,7 @@
 layout: term
 title: payreks
 slug: payreks
+letter: P
 lisan: (Pyrex marka adından)
 anlamlar:
 - Isıya ve kimyasal etkilere dayanıklı bir cam türü

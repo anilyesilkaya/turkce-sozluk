@@ -2,6 +2,7 @@
 layout: term
 title: üçerli
 slug: ucerli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üçer üçer sıralanmış

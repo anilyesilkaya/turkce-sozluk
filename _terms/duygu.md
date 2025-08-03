@@ -2,6 +2,7 @@
 layout: term
 title: duygu
 slug: duygu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyularla algılama; his, ihtisas (I)

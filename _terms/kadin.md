@@ -2,6 +2,7 @@
 layout: term
 title: kadın
 slug: kadin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Erişkin dişi insan; hatun, hatun kişi, bayan, karı, nisa, zen

@@ -2,6 +2,7 @@
 layout: term
 title: kalamata zeytini
 slug: kalamata-zeytini
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kalamata

@@ -2,6 +2,7 @@
 layout: term
 title: çiçeği burnunda
 slug: cicegi-burnunda
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok yeni

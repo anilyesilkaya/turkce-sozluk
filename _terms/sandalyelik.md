@@ -2,6 +2,7 @@
 layout: term
 title: sandalyelik
 slug: sandalyelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sandalye değdiğinde zedelenmemesi için duvara çakılan ince uzun tahta kaplama

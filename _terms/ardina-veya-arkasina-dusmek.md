@@ -2,6 +2,7 @@
 layout: term
 title: ardına (veya arkasına) düşmek
 slug: ardina-veya-arkasina-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - arkasından gitmek, peşini bırakmamak

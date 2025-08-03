@@ -2,6 +2,7 @@
 layout: term
 title: çalıp çırpmak
 slug: calip-cirpmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hırsızlık yapmak

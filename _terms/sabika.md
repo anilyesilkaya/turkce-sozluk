@@ -2,6 +2,7 @@
 layout: term
 title: sabıka
 slug: sabika
+letter: S
 lisan: Arapça sābiḳa
 anlamlar:
 - Geçmiş bulunan şey, geçmiş bulunan olay

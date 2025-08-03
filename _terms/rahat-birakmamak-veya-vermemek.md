@@ -2,6 +2,7 @@
 layout: term
 title: rahat bırakmamak (veya vermemek)
 slug: rahat-birakmamak-veya-vermemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - tedirgin etmek

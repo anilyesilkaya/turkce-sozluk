@@ -2,6 +2,7 @@
 layout: term
 title: mecali (veya mecal) kalmamak
 slug: mecali-veya-mecal-kalmamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - takati kalmamak, takatsizleşmek

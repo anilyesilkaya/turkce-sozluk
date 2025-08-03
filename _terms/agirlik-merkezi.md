@@ -2,6 +2,7 @@
 layout: term
 title: ağırlık merkezi
 slug: agirlik-merkezi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir cismin bütün noktalarına ayrı ayrı etki yapan yer çekimi kuvvetlerine ait doğrultuların kesiştiği nokta

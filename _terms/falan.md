@@ -2,6 +2,7 @@
 layout: term
 title: falan
 slug: falan
+letter: F
 lisan: Arapça fulān
 anlamlar:
 - Söylenmesi istenmeyen veya gerekli görülmeyen bir özel adın yerini tutan kelime; filan, falanca

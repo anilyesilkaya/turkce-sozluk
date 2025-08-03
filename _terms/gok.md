@@ -2,6 +2,7 @@
 layout: term
 title: gök
 slug: gok
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► uzay

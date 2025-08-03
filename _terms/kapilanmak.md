@@ -2,6 +2,7 @@
 layout: term
 title: kapılanmak
 slug: kapilanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işe girmek ve o işte devam etmek

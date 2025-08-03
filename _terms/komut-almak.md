@@ -2,6 +2,7 @@
 layout: term
 title: komut almak
 slug: komut-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir davranış, hareket vb. için buyruk almak

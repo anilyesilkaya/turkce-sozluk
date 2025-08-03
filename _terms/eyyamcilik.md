@@ -2,6 +2,7 @@
 layout: term
 title: eyyamcılık
 slug: eyyamcilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eyyamcı olma durumu

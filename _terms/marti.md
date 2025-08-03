@@ -2,6 +2,7 @@
 layout: term
 title: martı
 slug: marti
+letter: M
 lisan: İtalyanca martin
 anlamlar:
 - Martıgillerden, çoğu beyaz renkte, eti yenmez, yüzücü, perde ayaklı deniz kuşlarının ortak adı (Larus)

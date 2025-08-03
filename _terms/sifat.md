@@ -2,6 +2,7 @@
 layout: term
 title: sıfat
 slug: sifat
+letter: S
 lisan: Arapça ṣifat
 anlamlar:
 - Bir kimsenin görev, ödev, toplumsal veya hukuki bakımdan yeri ve özelliği

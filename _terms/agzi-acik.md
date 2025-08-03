@@ -2,6 +2,7 @@
 layout: term
 title: ağzı açık
 slug: agzi-acik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşkın, alık, bön (kimse)

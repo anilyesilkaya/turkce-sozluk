@@ -2,6 +2,7 @@
 layout: term
 title: zloti
 slug: zloti
+letter: Z
 lisan: Pol. zloty
 anlamlar:
 - Polonya’nın para birimi

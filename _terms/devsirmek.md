@@ -2,6 +2,7 @@
 layout: term
 title: devşirmek
 slug: devsirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir araya getirmek, derlemek; toplamak

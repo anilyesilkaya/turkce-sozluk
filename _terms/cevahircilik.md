@@ -2,6 +2,7 @@
 layout: term
 title: cevahircilik
 slug: cevahircilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► kuyumculuk

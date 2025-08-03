@@ -2,6 +2,7 @@
 layout: term
 title: özelleştirme
 slug: ozellestirme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özelleştirmek işi

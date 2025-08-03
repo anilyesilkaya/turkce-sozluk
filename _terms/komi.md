@@ -2,6 +2,7 @@
 layout: term
 title: komi
 slug: komi
+letter: K
 lisan: Fransızca commis
 anlamlar:
 - Otel, pansiyon vb. yerlerde çalışan hizmetli

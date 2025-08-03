@@ -2,6 +2,7 @@
 layout: term
 title: içici
 slug: icici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçme işini yapan (kimse)

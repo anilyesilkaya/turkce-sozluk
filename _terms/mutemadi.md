@@ -2,6 +2,7 @@
 layout: term
 title: mütemadi
 slug: mutemadi
+letter: M
 lisan: Arapça mutemādī
 anlamlar:
 - ► aralıksız

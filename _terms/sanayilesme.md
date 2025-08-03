@@ -2,6 +2,7 @@
 layout: term
 title: sanayileşme
 slug: sanayilesme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanayileşmek işi; endüstrileşme

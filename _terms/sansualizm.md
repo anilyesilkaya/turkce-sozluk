@@ -2,6 +2,7 @@
 layout: term
 title: sansüalizm
 slug: sansualizm
+letter: S
 lisan: Fransızca sensualisme
 anlamlar:
 - ► duyumculuk

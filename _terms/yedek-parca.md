@@ -2,6 +2,7 @@
 layout: term
 title: yedek parça
 slug: yedek-parca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir makinenin veya aracın işlemez duruma gelen bölümünün yerine konabilecek yeni parça; aksam

@@ -2,6 +2,7 @@
 layout: term
 title: çekinmek
 slug: cekinmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Saygı, korku, utanma vb. duygularla bir şeyi yapmak istememek, kaçınmak

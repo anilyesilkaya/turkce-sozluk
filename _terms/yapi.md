@@ -2,6 +2,7 @@
 layout: term
 title: yapı
 slug: yapi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Barınmak veya başka amaçlarla kullanılmak için yapılmış her türlü mimarlık eseri; bina, mimari

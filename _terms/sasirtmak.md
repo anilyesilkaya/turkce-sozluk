@@ -2,6 +2,7 @@
 layout: term
 title: şaşırtmak
 slug: sasirtmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşırmasına sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: maksure
 slug: maksure
+letter: M
 lisan: Arapça maḳṣūre
 anlamlar:
 - Camilerde, parmaklıklarla çevrilmiş yer

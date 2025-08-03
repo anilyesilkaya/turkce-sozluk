@@ -2,6 +2,7 @@
 layout: term
 title: içeriden çıkmak
 slug: iceriden-cikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hapisten kurtulmak, serbest kalmak

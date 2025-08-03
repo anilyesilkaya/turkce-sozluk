@@ -2,6 +2,7 @@
 layout: term
 title: esprisiz
 slug: esprisiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esprisi olmayan

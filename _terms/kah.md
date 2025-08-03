@@ -2,6 +2,7 @@
 layout: term
 title: kâh
 slug: kah
+letter: K
 lisan: Farsça gāh
 anlamlar:
 - ► ara sıra

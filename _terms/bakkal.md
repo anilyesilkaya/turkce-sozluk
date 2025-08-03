@@ -2,6 +2,7 @@
 layout: term
 title: bakkal
 slug: bakkal
+letter: B
 lisan: Arapça baḳḳāl
 anlamlar:
 - Yiyecek, içecek vb. maddeleri perakende olarak satan kimse

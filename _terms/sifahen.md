@@ -2,6 +2,7 @@
 layout: term
 title: şifahen
 slug: sifahen
+letter: Ş
 lisan: Arapça şifāhen
 anlamlar:
 - Ağızdan, sözle söyleyerek

@@ -2,6 +2,7 @@
 layout: term
 title: bile
 slug: bile
+letter: B
 lisan: Türkçe
 anlamlar:
 - Cümlede kendinden önceki ögeyi belirli duruma getiren bir söz; dahi

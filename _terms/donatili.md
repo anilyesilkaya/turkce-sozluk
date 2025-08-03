@@ -2,6 +2,7 @@
 layout: term
 title: donatılı
 slug: donatili
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donatısı olan

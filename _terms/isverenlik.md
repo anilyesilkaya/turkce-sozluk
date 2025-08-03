@@ -2,6 +2,7 @@
 layout: term
 title: işverenlik
 slug: isverenlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşveren olma durumu

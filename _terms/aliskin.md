@@ -2,6 +2,7 @@
 layout: term
 title: alışkın
 slug: aliskin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeye veya bir şey yapmaya alışmış olan; alışkan, alışmış

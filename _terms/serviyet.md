@@ -2,6 +2,7 @@
 layout: term
 title: serviyet
 slug: serviyet
+letter: S
 lisan: Fransızca serviette
 anlamlar:
 - ► evrak çantası

@@ -2,6 +2,7 @@
 layout: term
 title: çörekçi
 slug: corekci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çörek yapan veya satan kimse

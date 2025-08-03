@@ -2,6 +2,7 @@
 layout: term
 title: sıvı sabun
 slug: sivi-sabun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle el ve yüz temizliğinde kullanılan, sıvı kıvamlı bir tür sabun

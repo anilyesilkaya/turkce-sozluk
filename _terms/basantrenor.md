@@ -2,6 +2,7 @@
 layout: term
 title: başantrenör
 slug: basantrenor
+letter: B
 lisan: Türkçe baş + Fransızca entraîneur
 anlamlar:
 - Bir takımı çalıştıran antrenörlerin en ustası ve deneyimlisi

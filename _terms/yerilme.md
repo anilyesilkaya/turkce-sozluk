@@ -2,6 +2,7 @@
 layout: term
 title: yerilme
 slug: yerilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerilmek işi

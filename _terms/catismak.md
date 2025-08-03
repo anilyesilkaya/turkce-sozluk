@@ -2,6 +2,7 @@
 layout: term
 title: çatışmak
 slug: catismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirine çatmak veya çatılmak

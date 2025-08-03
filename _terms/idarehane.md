@@ -2,6 +2,7 @@
 layout: term
 title: idarehane
 slug: idarehane
+letter: I
 lisan: Arapça idāre + Farsça ḫāne
 anlamlar:
 - Gazete, dergi vb. yayım kurumlarında yazı işlerine bakılan yer, yönetim yeri

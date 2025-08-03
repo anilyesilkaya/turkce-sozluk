@@ -2,6 +2,7 @@
 layout: term
 title: endamsız
 slug: endamsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Boyu kısa olan

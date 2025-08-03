@@ -2,6 +2,7 @@
 layout: term
 title: tümgeneral
 slug: tumgeneral
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kara ve hava kuvvetlerinde, rütbesi tuğgeneralle korgeneral arasında bulunan general; ikinci ferik

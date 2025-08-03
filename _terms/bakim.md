@@ -2,6 +2,7 @@
 layout: term
 title: bakım
 slug: bakim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakmak işi

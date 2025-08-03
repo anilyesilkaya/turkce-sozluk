@@ -2,6 +2,7 @@
 layout: term
 title: ağır basmak
 slug: agir-basmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - taşıdığı özellikler üstün gelmek

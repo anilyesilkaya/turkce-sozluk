@@ -2,6 +2,7 @@
 layout: term
 title: başlangıç
 slug: baslangic
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir iş, bir dönem, bir hayat vb.nin ilk bölümü; ilk adım, bidayet, iptida, mebde

@@ -2,6 +2,7 @@
 layout: term
 title: layenkati
 slug: layenkati
+letter: L
 lisan: Arapça lāyenḳaṭiʿ
 anlamlar:
 - ► kesintisiz

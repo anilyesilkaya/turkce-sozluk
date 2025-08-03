@@ -2,6 +2,7 @@
 layout: term
 title: aymak
 slug: aymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ayılmak

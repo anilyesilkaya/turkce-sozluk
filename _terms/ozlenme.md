@@ -2,6 +2,7 @@
 layout: term
 title: özlenme
 slug: ozlenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özlenmek işi

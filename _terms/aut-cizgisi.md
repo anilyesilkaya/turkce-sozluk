@@ -2,6 +2,7 @@
 layout: term
 title: aut çizgisi
 slug: aut-cizgisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Takımla oynanan top oyunlarında sahanın her iki kısa kenarındaki çizgi

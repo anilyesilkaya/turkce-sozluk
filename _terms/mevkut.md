@@ -2,6 +2,7 @@
 layout: term
 title: mevkut
 slug: mevkut
+letter: M
 lisan: Arapça mevḳūt
 anlamlar:
 - ► süreli

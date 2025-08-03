@@ -2,6 +2,7 @@
 layout: term
 title: ölü gibi
 slug: olu-gibi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - hiç kımıldamadan

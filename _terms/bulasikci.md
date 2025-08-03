@@ -2,6 +2,7 @@
 layout: term
 title: bulaşıkçı
 slug: bulasikci
+letter: B
 lisan: Türkçe
 anlamlar:
 - İşi kirli kapları yıkamak olan (kimse)

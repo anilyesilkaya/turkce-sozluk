@@ -2,6 +2,7 @@
 layout: term
 title: hafta içi
 slug: hafta-ici
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haftanın cumartesi ve pazar dışında kalan günleri; hafta arası

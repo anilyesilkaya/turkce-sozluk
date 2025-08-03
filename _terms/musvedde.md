@@ -2,6 +2,7 @@
 layout: term
 title: müsvedde
 slug: musvedde
+letter: M
 lisan: Arapça musvedde
 anlamlar:
 - ► karalama

@@ -2,6 +2,7 @@
 layout: term
 title: hayran etmek (veya bırakmak)
 slug: hayran-etmek-veya-birakmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hayranlık duygusu uyandırmak, çok beğenilmek

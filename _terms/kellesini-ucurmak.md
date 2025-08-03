@@ -2,6 +2,7 @@
 layout: term
 title: kellesini uçurmak
 slug: kellesini-ucurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kafasını keserek koparmak

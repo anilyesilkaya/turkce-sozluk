@@ -2,6 +2,7 @@
 layout: term
 title: törellik
 slug: torellik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Töreye uygunluk

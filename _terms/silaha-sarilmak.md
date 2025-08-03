@@ -2,6 +2,7 @@
 layout: term
 title: silaha sarılmak
 slug: silaha-sarilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - silah kullanarak mücadeleye girişmek

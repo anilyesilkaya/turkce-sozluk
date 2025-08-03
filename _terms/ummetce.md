@@ -2,6 +2,7 @@
 layout: term
 title: ümmetçe
 slug: ummetce
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ümmet olarak

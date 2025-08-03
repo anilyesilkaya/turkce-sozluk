@@ -2,6 +2,7 @@
 layout: term
 title: cilveleşme
 slug: cilvelesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilveleşmek işi; fıkırtı

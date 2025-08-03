@@ -2,6 +2,7 @@
 layout: term
 title: tepke
 slug: tepke
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► refleks

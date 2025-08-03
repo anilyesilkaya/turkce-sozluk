@@ -2,6 +2,7 @@
 layout: term
 title: bayatlamak
 slug: bayatlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayat duruma gelmek, tazeliğini yitirmek

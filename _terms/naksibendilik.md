@@ -2,6 +2,7 @@
 layout: term
 title: Nakşibendilik
 slug: naksibendilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Şeyh Muhammed Bahaüddin Nakşibend'in kurduğu, gizli ibadete dayanan bir tarikat; Nakşilik

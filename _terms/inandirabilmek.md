@@ -2,6 +2,7 @@
 layout: term
 title: inandırabilmek
 slug: inandirabilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnandırma ihtimali veya imkânı bulunmak

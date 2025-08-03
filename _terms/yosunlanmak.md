@@ -2,6 +2,7 @@
 layout: term
 title: yosunlanmak
 slug: yosunlanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yosun oluşmak, yosunla kaplanmak

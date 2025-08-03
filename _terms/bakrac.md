@@ -2,6 +2,7 @@
 layout: term
 title: bakraç
 slug: bakrac
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çoğunlukla bakırdan yapılan küçük kova

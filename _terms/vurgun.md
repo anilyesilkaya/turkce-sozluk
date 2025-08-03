@@ -2,6 +2,7 @@
 layout: term
 title: vurgun
 slug: vurgun
+letter: V
 lisan: Türkçe
 anlamlar:
 - Hile ile veya fırsatçılıkla haksız yere aşırı kazanç elde etme; voli

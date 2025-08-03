@@ -2,6 +2,7 @@
 layout: term
 title: fagot
 slug: fagot
+letter: F
 lisan: Almanca Fagott
 anlamlar:
 - Tahtadan parçaları uç uca takılı, uzun bir boru biçiminde, perdeli bir üflemeli çalgı

@@ -2,6 +2,7 @@
 layout: term
 title: işsiz
 slug: issiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşi olmayan

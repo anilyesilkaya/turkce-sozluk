@@ -2,6 +2,7 @@
 layout: term
 title: put kesilmek
 slug: put-kesilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - sessiz ve hareketsiz bir durum almak

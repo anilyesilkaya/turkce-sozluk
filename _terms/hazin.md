@@ -2,6 +2,7 @@
 layout: term
 title: hazin
 slug: hazin
+letter: H
 lisan: Arapça ḥazīn
 anlamlar:
 - ► hüzünlü

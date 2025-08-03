@@ -2,6 +2,7 @@
 layout: term
 title: ziftlenme
 slug: ziftlenme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Ziftlenmek işi

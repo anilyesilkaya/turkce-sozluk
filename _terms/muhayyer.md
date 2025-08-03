@@ -2,6 +2,7 @@
 layout: term
 title: muhayyer
 slug: muhayyer
+letter: M
 lisan: Arapça muḫayyer
 anlamlar:
 - Sağlamlığı ve kullanılabilirliği açısından önerilen, beğenilmediğinde geri verilebilecek olan (eşya vb.)

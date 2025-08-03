@@ -2,6 +2,7 @@
 layout: term
 title: boş kâğıdı
 slug: bos-kagidi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ayrılmak isteyen kocanın, karısına gönderdiği boşanma kâğıdı

@@ -2,6 +2,7 @@
 layout: term
 title: manşon
 slug: manson
+letter: M
 lisan: Fransızca manchon
 anlamlar:
 - Elleri soğuktan korumak için kullanılan astarlanmış kürk; el kürkü

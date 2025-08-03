@@ -2,6 +2,7 @@
 layout: term
 title: karalama
 slug: karalama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karalamak işi

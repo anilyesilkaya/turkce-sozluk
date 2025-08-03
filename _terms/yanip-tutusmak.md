@@ -2,6 +2,7 @@
 layout: term
 title: yanıp tutuşmak
 slug: yanip-tutusmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - güçlü bir aşk ile sevmek

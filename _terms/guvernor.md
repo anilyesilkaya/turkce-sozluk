@@ -2,6 +2,7 @@
 layout: term
 title: guvernör
 slug: guvernor
+letter: G
 lisan: Fransızca gouverneur
 anlamlar:
 - Devlet bankasını yöneten kimse

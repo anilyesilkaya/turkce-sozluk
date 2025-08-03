@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızlaşmak
 slug: bagimsizlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımsız duruma gelmek

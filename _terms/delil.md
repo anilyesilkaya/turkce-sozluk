@@ -2,6 +2,7 @@
 layout: term
 title: delil
 slug: delil
+letter: D
 lisan: Arapça delīl
 anlamlar:
 - İnsanı aradığı gerçeğe ulaştırabilecek iz

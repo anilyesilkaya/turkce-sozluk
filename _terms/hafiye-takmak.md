@@ -2,6 +2,7 @@
 layout: term
 title: hafiye takmak
 slug: hafiye-takmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - dedektife izletmek

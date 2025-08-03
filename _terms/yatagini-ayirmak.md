@@ -2,6 +2,7 @@
 layout: term
 title: yatağını ayırmak
 slug: yatagini-ayirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ayrı yatakta yatmak

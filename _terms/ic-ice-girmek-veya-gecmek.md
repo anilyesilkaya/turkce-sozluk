@@ -2,6 +2,7 @@
 layout: term
 title: iç içe girmek (veya geçmek)
 slug: ic-ice-girmek-veya-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - karmakarışık olmak

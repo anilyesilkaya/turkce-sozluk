@@ -2,6 +2,7 @@
 layout: term
 title: portakalımsı
 slug: portakalimsi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Portakalı andıran, portakala benzeyen, portakal gibi; portakalsı

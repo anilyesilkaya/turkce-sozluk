@@ -2,6 +2,7 @@
 layout: term
 title: anımsanmak
 slug: animsanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anımsama durumuna konu olmak; hatırlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: tatlı
 slug: tatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Şeker tadında olan

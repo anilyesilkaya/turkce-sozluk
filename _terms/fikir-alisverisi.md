@@ -2,6 +2,7 @@
 layout: term
 title: fikir alışverişi
 slug: fikir-alisverisi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Herhangi bir konuda düşünceleri karşılıklı olarak paylaşma; düşünce alışverişi, fikir teatisi

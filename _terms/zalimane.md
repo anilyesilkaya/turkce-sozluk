@@ -2,6 +2,7 @@
 layout: term
 title: zalimane
 slug: zalimane
+letter: Z
 lisan: Arapça ẓālim + Farsça -āne
 anlamlar:
 - ► acımasızca

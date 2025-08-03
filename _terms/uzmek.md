@@ -2,6 +2,7 @@
 layout: term
 title: üzmek
 slug: uzmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzüntü vermek

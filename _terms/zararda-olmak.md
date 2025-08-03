@@ -2,6 +2,7 @@
 layout: term
 title: zararda olmak
 slug: zararda-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - alışverişte kâr elde edememek

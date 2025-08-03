@@ -2,6 +2,7 @@
 layout: term
 title: Yozgatlı
 slug: yozgatli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yozgat ilinden olan kimse

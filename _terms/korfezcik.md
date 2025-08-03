@@ -2,6 +2,7 @@
 layout: term
 title: körfezcik
 slug: korfezcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük körfez

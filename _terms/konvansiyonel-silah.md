@@ -2,6 +2,7 @@
 layout: term
 title: konvansiyonel silah
 slug: konvansiyonel-silah
+letter: K
 lisan: Türkçe
 anlamlar:
 - Taraflarca gücü, niteliği bilinen ve klasik olarak kabul edilen, nükleer ve kimyasal silah dışında kalan savaş aracı

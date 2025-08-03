@@ -2,6 +2,7 @@
 layout: term
 title: modası geçmek
 slug: modasi-gecmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - moda olmaktan çıkmak

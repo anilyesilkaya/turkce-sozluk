@@ -2,6 +2,7 @@
 layout: term
 title: şiflemek
 slug: siflemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Pamuğu kozasından ayırmak

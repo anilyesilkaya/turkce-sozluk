@@ -2,6 +2,7 @@
 layout: term
 title: lappadanak
 slug: lappadanak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Sözü dolaştırmadan doğrudan söylemek

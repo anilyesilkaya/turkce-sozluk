@@ -2,6 +2,7 @@
 layout: term
 title: heyecana getirmek
 slug: heyecana-getirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - heyecanlandırmak, heyecanlanmasına sebep olmak

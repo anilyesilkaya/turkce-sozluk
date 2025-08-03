@@ -2,6 +2,7 @@
 layout: term
 title: fennen
 slug: fennen
+letter: F
 lisan: Arapça fennen
 anlamlar:
 - Bilimsel olarak, teknik olarak

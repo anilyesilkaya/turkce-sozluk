@@ -2,6 +2,7 @@
 layout: term
 title: dızdız
 slug: dizdiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ağustos böceklerinin çıkardığı ses

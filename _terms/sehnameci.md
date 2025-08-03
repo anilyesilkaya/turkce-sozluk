@@ -2,6 +2,7 @@
 layout: term
 title: şehnameci
 slug: sehnameci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şehname yazarı

@@ -2,6 +2,7 @@
 layout: term
 title: olanaksız
 slug: olanaksiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► olamaz

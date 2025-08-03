@@ -2,6 +2,7 @@
 layout: term
 title: ortada kalmak
 slug: ortada-kalmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - yersiz kalmak, barınacak yer bulamamak

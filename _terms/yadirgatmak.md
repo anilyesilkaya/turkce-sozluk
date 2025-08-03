@@ -2,6 +2,7 @@
 layout: term
 title: yadırgatmak
 slug: yadirgatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yadırgama işini yaptırmak, yadırgamasına yol açmak

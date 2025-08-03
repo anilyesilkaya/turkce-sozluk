@@ -2,6 +2,7 @@
 layout: term
 title: çingil
 slug: cingil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Küçük bakraç

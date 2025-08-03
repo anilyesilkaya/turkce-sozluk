@@ -2,6 +2,7 @@
 layout: term
 title: hesap işi
 slug: hesap-isi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir tür el işlemesi

@@ -2,6 +2,7 @@
 layout: term
 title: çığırtmak
 slug: cigirtmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çağırtmak

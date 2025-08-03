@@ -2,6 +2,7 @@
 layout: term
 title: bahri
 slug: bahri
+letter: B
 lisan: Arapça baḥrī
 anlamlar:
 - Denizle ilgili

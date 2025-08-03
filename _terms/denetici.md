@@ -2,6 +2,7 @@
 layout: term
 title: denetici
 slug: denetici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir işlemin istenilen ölçülerde yürütülmesini denetim altına alan cihaz

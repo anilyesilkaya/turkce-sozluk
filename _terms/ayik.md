@@ -2,6 +2,7 @@
 layout: term
 title: ayık
 slug: ayik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sarhoşluğu veya baygınlığı geçmiş olan

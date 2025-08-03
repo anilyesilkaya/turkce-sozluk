@@ -2,6 +2,7 @@
 layout: term
 title: gününü görmek
 slug: gununu-gormek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kötü bir sonla karşılaşmak, cezaya çarptırılmak

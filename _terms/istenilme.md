@@ -2,6 +2,7 @@
 layout: term
 title: istenilme
 slug: istenilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► istenme

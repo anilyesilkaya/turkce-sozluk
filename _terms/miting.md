@@ -2,6 +2,7 @@
 layout: term
 title: miting
 slug: miting
+letter: M
 lisan: İngilizce meeting
 anlamlar:
 - Gösteri amacıyla veya bir olaya dikkati çekmek için genellikle açık yerlerde yapılan toplantı

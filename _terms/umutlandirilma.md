@@ -2,6 +2,7 @@
 layout: term
 title: umutlandırılma
 slug: umutlandirilma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutlandırılmak işi

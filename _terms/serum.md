@@ -2,6 +2,7 @@
 layout: term
 title: serum
 slug: serum
+letter: S
 lisan: Fransızca sérum
 anlamlar:
 - Pıhtılaşma sonunda kandan ayrılan sıvı bölüm

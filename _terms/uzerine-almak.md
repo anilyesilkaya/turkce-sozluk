@@ -2,6 +2,7 @@
 layout: term
 title: üzerine almak
 slug: uzerine-almak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir işi görev edinmek, deruhte etmek

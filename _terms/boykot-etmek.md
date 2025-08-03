@@ -2,6 +2,7 @@
 layout: term
 title: boykot etmek
 slug: boykot-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi, bir davranışı yapmama kararı almak

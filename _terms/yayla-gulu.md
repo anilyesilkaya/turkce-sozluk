@@ -2,6 +2,7 @@
 layout: term
 title: yayla gülü
 slug: yayla-gulu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ölmez çiçek

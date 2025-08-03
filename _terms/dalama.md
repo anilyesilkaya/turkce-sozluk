@@ -2,6 +2,7 @@
 layout: term
 title: dalama
 slug: dalama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalamak işi

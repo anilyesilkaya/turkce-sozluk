@@ -2,6 +2,7 @@
 layout: term
 title: çiğdem
 slug: cigdem
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, türlü renklerde çiçek açan, çok yıllık, yumrulu bir kır bitkisi; mahmur çiçeği (Colchicum)

@@ -2,6 +2,7 @@
 layout: term
 title: etkinleşme
 slug: etkinlesme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkinleşmek durumu; aktifleşme

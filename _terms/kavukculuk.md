@@ -2,6 +2,7 @@
 layout: term
 title: kavukçuluk
 slug: kavukculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavukçunun yaptığı iş

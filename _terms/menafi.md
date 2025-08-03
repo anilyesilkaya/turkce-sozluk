@@ -2,6 +2,7 @@
 layout: term
 title: menafi
 slug: menafi
+letter: M
 lisan: Arapça menāfiʿ
 anlamlar:
 - Yararlar

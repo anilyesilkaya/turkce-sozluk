@@ -2,6 +2,7 @@
 layout: term
 title: cam resim
 slug: cam-resim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Renkli camların kesilip birbirlerine kurşun çubuklarla bağlanması ile yapılan süs veya resim

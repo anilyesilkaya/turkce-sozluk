@@ -2,6 +2,7 @@
 layout: term
 title: benzetiş
 slug: benzetis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzetmek işi

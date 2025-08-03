@@ -2,6 +2,7 @@
 layout: term
 title: layemut
 slug: layemut
+letter: L
 lisan: Arapça lāyemūt
 anlamlar:
 - ► ölümsüz

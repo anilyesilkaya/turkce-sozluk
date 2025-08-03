@@ -2,6 +2,7 @@
 layout: term
 title: illiyet bağı
 slug: illiyet-bagi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hukuki sonuç ile sonucu ortaya çıkaran olguların arasındaki bağ; illiyet

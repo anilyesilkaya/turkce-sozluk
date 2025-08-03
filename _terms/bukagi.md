@@ -2,6 +2,7 @@
 layout: term
 title: bukağı
 slug: bukagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ağır cezalıların ayaklarına takılıp ucuna pranga bağlanan demir halka

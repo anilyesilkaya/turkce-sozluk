@@ -2,6 +2,7 @@
 layout: term
 title: polaroit
 slug: polaroit
+letter: P
 lisan: İngilizce polaroid
 anlamlar:
 - Geçirdiği ışığı polaran saydam yaprak

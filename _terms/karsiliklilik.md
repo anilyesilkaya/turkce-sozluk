@@ -2,6 +2,7 @@
 layout: term
 title: karşılıklılık
 slug: karsiliklilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olma durumu; mütekabiliyet

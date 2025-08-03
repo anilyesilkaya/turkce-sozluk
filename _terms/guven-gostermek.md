@@ -2,6 +2,7 @@
 layout: term
 title: güven göstermek
 slug: guven-gostermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvendiğini belli etmek

@@ -2,6 +2,7 @@
 layout: term
 title: sabırsızlanmak
 slug: sabirsizlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabırlı davranmamak, sabır göstermemek

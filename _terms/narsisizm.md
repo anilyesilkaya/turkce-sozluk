@@ -2,6 +2,7 @@
 layout: term
 title: narsisizm
 slug: narsisizm
+letter: N
 lisan: Fransızca narcissisme
 anlamlar:
 - ► özseverlik

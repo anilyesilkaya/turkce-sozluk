@@ -2,6 +2,7 @@
 layout: term
 title: perestiş
 slug: perestis
+letter: P
 lisan: Farsça perestiş
 anlamlar:
 - ► tapınma

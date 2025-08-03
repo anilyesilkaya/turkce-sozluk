@@ -2,6 +2,7 @@
 layout: term
 title: başı kazan gibi olmak
 slug: basi-kazan-gibi-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başında çok ağrı ve uğultulu bir sersemlik olmak

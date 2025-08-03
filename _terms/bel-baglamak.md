@@ -2,6 +2,7 @@
 layout: term
 title: bel bağlamak
 slug: bel-baglamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birisinin kendisine yardımcı olacağına inanmak, güvenmek

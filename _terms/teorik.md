@@ -2,6 +2,7 @@
 layout: term
 title: teorik
 slug: teorik
+letter: T
 lisan: Fransızca théorique
 anlamlar:
 - ► kuramsal

@@ -2,6 +2,7 @@
 layout: term
 title: sabahlık
 slug: sabahlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabahları yataktan kalkınca geçici olarak giyilen üstlük

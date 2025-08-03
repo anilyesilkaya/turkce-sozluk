@@ -2,6 +2,7 @@
 layout: term
 title: bükücü
 slug: bukucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükme işi yapan

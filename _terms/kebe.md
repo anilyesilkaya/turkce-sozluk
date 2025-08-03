@@ -2,6 +2,7 @@
 layout: term
 title: kebe
 slug: kebe
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısa kepenek

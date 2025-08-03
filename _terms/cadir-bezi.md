@@ -2,6 +2,7 @@
 layout: term
 title: çadır bezi
 slug: cadir-bezi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pamuk veya ketenden dokunmuş kalın, sık bir bez türü

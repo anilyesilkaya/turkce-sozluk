@@ -2,6 +2,7 @@
 layout: term
 title: alacakokarca
 slug: alacakokarca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alacasansar

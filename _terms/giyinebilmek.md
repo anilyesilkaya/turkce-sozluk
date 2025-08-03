@@ -2,6 +2,7 @@
 layout: term
 title: giyinebilmek
 slug: giyinebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giyinme ihtimali veya imkânı bulunmak

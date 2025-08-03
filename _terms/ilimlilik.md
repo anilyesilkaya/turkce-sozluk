@@ -2,6 +2,7 @@
 layout: term
 title: ılımlılık
 slug: ilimlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ilımlı olma durumu; mutedillik

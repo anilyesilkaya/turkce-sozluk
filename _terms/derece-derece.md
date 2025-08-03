@@ -2,6 +2,7 @@
 layout: term
 title: derece derece
 slug: derece-derece
+letter: D
 lisan: Türkçe
 anlamlar:
 - Farklı düzeylerde olan

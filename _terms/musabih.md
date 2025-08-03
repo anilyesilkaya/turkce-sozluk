@@ -2,6 +2,7 @@
 layout: term
 title: müşabih
 slug: musabih
+letter: M
 lisan: Arapça muşābih
 anlamlar:
 - ► benzer

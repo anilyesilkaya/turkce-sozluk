@@ -2,6 +2,7 @@
 layout: term
 title: mürit
 slug: murit
+letter: M
 lisan: Arapça murīd
 anlamlar:
 - Bir tarikat şeyhine bağlanarak ondan tasavvufun yollarını öğrenen, onun doğrultusunda ilerleyen kimse

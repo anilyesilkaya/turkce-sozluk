@@ -2,6 +2,7 @@
 layout: term
 title: vizite
 slug: vizite
+letter: V
 lisan: Fransızca  visité
 anlamlar:
 - Hekimin hastanedeki hastaları dolaşıp yoklaması

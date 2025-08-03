@@ -2,6 +2,7 @@
 layout: term
 title: yumruk
 slug: yumruk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Parmakların kapanmasıyla elin aldığı biçim

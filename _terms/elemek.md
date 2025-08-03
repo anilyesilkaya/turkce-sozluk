@@ -2,6 +2,7 @@
 layout: term
 title: elemek
 slug: elemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elek yardımıyla ayıklamak veya incesini kabasından ayırmak; elekten geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: ürkünçlük
 slug: urkuncluk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürkünç olma durumu

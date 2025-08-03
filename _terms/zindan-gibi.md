@@ -2,6 +2,7 @@
 layout: term
 title: zindan gibi
 slug: zindan-gibi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - karanlık veya iç sıkıcı (yer)

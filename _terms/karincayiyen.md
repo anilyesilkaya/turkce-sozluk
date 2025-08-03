@@ -2,6 +2,7 @@
 layout: term
 title: karıncayiyen
 slug: karincayiyen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıncayiyengillerden, Avustralya'da yaşayan, karıncayla beslenen bir tür memeli (Echidna acule ata)

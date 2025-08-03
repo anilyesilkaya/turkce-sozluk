@@ -2,6 +2,7 @@
 layout: term
 title: karartılmak
 slug: karartilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karanlık duruma getirilmesini sağlamak

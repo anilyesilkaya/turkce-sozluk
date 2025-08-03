@@ -2,6 +2,7 @@
 layout: term
 title: aygın
 slug: aygin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bitkin durumda olan

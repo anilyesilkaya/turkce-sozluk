@@ -2,6 +2,7 @@
 layout: term
 title: meşe odunu
 slug: mese-odunu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meşe ağacından elde edilen dayanıklı odun

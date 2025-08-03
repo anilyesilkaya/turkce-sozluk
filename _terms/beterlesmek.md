@@ -2,6 +2,7 @@
 layout: term
 title: beterleşmek
 slug: beterlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beter duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: telaşa düşmek
 slug: telasa-dusmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - telaşlanmak

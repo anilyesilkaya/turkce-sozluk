@@ -2,6 +2,7 @@
 layout: term
 title: çiğnem
 slug: cignem
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çiğnemlik

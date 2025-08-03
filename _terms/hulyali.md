@@ -2,6 +2,7 @@
 layout: term
 title: hülyalı
 slug: hulyali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayal kuran veya insanı hayal kurmaya sürükleyen

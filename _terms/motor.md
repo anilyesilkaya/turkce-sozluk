@@ -2,6 +2,7 @@
 layout: term
 title: motor
 slug: motor
+letter: M
 lisan: Fransızca moteur
 anlamlar:
 - Herhangi bir enerjiyi mekanik enerjiye dönüştüren düzenek

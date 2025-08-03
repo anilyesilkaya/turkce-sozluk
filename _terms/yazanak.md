@@ -2,6 +2,7 @@
 layout: term
 title: yazanak
 slug: yazanak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► rapor

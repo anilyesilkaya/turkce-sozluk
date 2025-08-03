@@ -2,6 +2,7 @@
 layout: term
 title: mağşuş
 slug: magsus
+letter: M
 lisan: Arapça maġşūş
 anlamlar:
 - ► karışık

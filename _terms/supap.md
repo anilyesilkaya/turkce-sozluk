@@ -2,6 +2,7 @@
 layout: term
 title: supap
 slug: supap
+letter: S
 lisan: Fransızca soupape
 anlamlar:
 - Bir yay yardımıyla gergin tutulan ve yatağın düzlemine dik olarak yaptığı gidip gelme hareketiyle bir akışkanın geçişini ayarlamaya yarayan kapak; sibop

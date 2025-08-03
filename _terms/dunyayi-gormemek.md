@@ -2,6 +2,7 @@
 layout: term
 title: dünyayı görmemek
 slug: dunyayi-gormemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir konuya veya bir işe aşırı odaklanıp çevre ile ilgilenmemek

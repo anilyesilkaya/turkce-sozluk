@@ -2,6 +2,7 @@
 layout: term
 title: daraç
 slug: darac
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dar (I)

@@ -2,6 +2,7 @@
 layout: term
 title: üsteğmenlik
 slug: ustegmenlik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üsteğmen olma durumu

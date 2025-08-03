@@ -2,6 +2,7 @@
 layout: term
 title: sahil
 slug: sahil
+letter: S
 lisan: Arapça sāḥil
 anlamlar:
 - Karanın deniz, göl, ırmak boyunca uzanan bölümü; kıyı, yaka, yalı

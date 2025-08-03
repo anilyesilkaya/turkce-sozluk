@@ -2,6 +2,7 @@
 layout: term
 title: karakolluk olmak
 slug: karakolluk-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kavga sonucu karakola gitmek zorunda kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: delinivermek
 slug: delinivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın delinmek

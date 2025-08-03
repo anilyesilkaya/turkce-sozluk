@@ -2,6 +2,7 @@
 layout: term
 title: bir ölçüde
 slug: bir-olcude
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belli oranda

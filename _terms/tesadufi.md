@@ -2,6 +2,7 @@
 layout: term
 title: tesadüfi
 slug: tesadufi
+letter: T
 lisan: Arapça teṣādufī
 anlamlar:
 - ► rastlantısal

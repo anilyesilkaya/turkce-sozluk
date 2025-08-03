@@ -2,6 +2,7 @@
 layout: term
 title: saat
 slug: saat
+letter: S
 lisan: Arapça sāʿat
 anlamlar:
 - Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası

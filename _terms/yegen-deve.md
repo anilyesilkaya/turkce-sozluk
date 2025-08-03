@@ -2,6 +2,7 @@
 layout: term
 title: yeğen deve
 slug: yegen-deve
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tüylü dişi deve ile tek hörgüçlü erkek devenin geriye melezlenmesiyle üretilen bir tür deve

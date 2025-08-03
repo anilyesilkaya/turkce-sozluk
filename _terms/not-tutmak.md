@@ -2,6 +2,7 @@
 layout: term
 title: not tutmak
 slug: not-tutmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - biri söz söylerken başkası onun söylediklerini yazmak

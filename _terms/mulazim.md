@@ -2,6 +2,7 @@
 layout: term
 title: mülazım
 slug: mulazim
+letter: M
 lisan: Arapça mulāzim
 anlamlar:
 - Bir işe girmek için bir süre parasız olarak o işe devam eden

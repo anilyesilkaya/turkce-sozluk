@@ -2,6 +2,7 @@
 layout: term
 title: Kazak çömelmesi
 slug: kazak-comelmesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir bacak üzerinde çömelip dizi iyice bükerken, öteki bacağı önde tutma biçiminde yapılan bir güç alıştırması

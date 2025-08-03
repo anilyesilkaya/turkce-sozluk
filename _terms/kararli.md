@@ -2,6 +2,7 @@
 layout: term
 title: kararlı
 slug: kararli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesin karar vermiş olan

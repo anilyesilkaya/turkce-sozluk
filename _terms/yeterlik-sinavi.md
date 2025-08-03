@@ -2,6 +2,7 @@
 layout: term
 title: yeterlik sınavı
 slug: yeterlik-sinavi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Devlet görevlisi olarak alınmada ve bu görevde yükselmede uygulanan sınav; yeterlilik sınavı

@@ -2,6 +2,7 @@
 layout: term
 title: tava
 slug: tava
+letter: T
 lisan: Farsça tāve
 anlamlar:
 - Yağ kızdırma, yiyecek kızartma vb. işlere yarayan, uzun saplı yayvan kap

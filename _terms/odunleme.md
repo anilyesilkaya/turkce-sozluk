@@ -2,6 +2,7 @@
 layout: term
 title: ödünleme
 slug: odunleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ödün

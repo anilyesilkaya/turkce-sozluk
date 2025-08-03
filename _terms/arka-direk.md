@@ -2,6 +2,7 @@
 layout: term
 title: arka direk
 slug: arka-direk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Futbol maçında topun geldiği kanada uzak olan kale direği

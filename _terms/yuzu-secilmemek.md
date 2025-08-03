@@ -2,6 +2,7 @@
 layout: term
 title: yüzü seçilmemek
 slug: yuzu-secilmemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - açıkça tanınmamak, belli belirsiz görünmek

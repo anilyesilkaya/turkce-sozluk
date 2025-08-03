@@ -2,6 +2,7 @@
 layout: term
 title: karakterize etmek
 slug: karakterize-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ayırıcı niteliğini ortaya koymak; ıralamak

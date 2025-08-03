@@ -2,6 +2,7 @@
 layout: term
 title: ayyaşlık
 slug: ayyaslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayyaş olma durumu; bekrilik

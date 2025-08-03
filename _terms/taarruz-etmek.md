@@ -2,6 +2,7 @@
 layout: term
 title: taarruz etmek
 slug: taarruz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - saldırmak

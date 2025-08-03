@@ -2,6 +2,7 @@
 layout: term
 title: indirmelik
 slug: indirmelik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Damadın anne ve babası tarafından düğün başlangıcında geline bağ, bahçe, mal vb. bağışlama âdeti

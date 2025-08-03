@@ -2,6 +2,7 @@
 layout: term
 title: muhannet
 slug: muhannet
+letter: M
 lisan: Arapça muḫannes̱
 anlamlar:
 - Alçak, namert olan (kimse)

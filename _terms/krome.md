@@ -2,6 +2,7 @@
 layout: term
 title: krome
 slug: krome
+letter: K
 lisan: Fransızca chromé
 anlamlar:
 - Kromdan yapılmış veya kromla kaplanmış

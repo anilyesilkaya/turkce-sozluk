@@ -2,6 +2,7 @@
 layout: term
 title: çepel
 slug: cepel
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► pislik

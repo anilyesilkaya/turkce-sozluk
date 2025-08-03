@@ -2,6 +2,7 @@
 layout: term
 title: mezzosoprano
 slug: mezzosoprano
+letter: M
 lisan: İtalyanca mezzosoprano
 anlamlar:
 - Soprano ile kontralto arasında kadın sesi

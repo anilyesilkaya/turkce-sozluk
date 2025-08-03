@@ -2,6 +2,7 @@
 layout: term
 title: uç vermek
 slug: uc-vermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - çıban baş vermek

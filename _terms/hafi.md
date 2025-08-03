@@ -2,6 +2,7 @@
 layout: term
 title: hafi
 slug: hafi
+letter: H
 lisan: Arapça ḫafī
 anlamlar:
 - ► gizli

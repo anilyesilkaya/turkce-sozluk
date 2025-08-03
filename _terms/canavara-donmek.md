@@ -2,6 +2,7 @@
 layout: term
 title: canavara dönmek
 slug: canavara-donmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - canavar gibi davranmaya başlamak

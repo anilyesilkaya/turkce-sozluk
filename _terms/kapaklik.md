@@ -2,6 +2,7 @@
 layout: term
 title: kapaklık
 slug: kapaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kapak taşı

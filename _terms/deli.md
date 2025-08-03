@@ -2,6 +2,7 @@
 layout: term
 title: deli
 slug: deli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aklını yitirmiş olan, akli dengesi bozulmuş olan

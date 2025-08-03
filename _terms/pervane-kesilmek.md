@@ -2,6 +2,7 @@
 layout: term
 title: pervane kesilmek
 slug: pervane-kesilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - saygı duyduğu bir kişiye hizmet edebilmek için devamlı etrafında olmak, didinip durmak

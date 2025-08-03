@@ -2,6 +2,7 @@
 layout: term
 title: kurşunlatma
 slug: kursunlatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurşunlatmak işi

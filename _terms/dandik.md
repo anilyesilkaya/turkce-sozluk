@@ -2,6 +2,7 @@
 layout: term
 title: dandik
 slug: dandik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşük nitelikli (uyuşturucu madde vb.)

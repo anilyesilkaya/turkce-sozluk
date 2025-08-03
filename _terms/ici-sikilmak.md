@@ -2,6 +2,7 @@
 layout: term
 title: içi sıkılmak
 slug: ici-sikilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bunalmak

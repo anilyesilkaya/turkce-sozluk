@@ -2,6 +2,7 @@
 layout: term
 title: sevilmek
 slug: sevilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevgi duyulmak, sevgi beslenilmek

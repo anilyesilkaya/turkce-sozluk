@@ -2,6 +2,7 @@
 layout: term
 title: diplomatik
 slug: diplomatik
+letter: D
 lisan: Fransızca diplomatique
 anlamlar:
 - Diplomasi ile ilgili

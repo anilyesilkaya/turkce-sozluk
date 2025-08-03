@@ -2,6 +2,7 @@
 layout: term
 title: tenzih
 slug: tenzih
+letter: T
 lisan: Arapça tenzīh
 anlamlar:
 - Kusur ve günahlardan temiz olduğunu söyleme

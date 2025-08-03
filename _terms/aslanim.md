@@ -2,6 +2,7 @@
 layout: term
 title: aslanım!
 slug: aslanim
+letter: A
 lisan: Türkçe
 anlamlar:
 - gençler, delikanlılar için kullanılan bir seslenme sözü

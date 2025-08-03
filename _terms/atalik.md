@@ -2,6 +2,7 @@
 layout: term
 title: atalık
 slug: atalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ata olma durumu

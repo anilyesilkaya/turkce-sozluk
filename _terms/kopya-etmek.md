@@ -2,6 +2,7 @@
 layout: term
 title: kopya etmek
 slug: kopya-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yazı, eser vb.nin aslına bakarak aynını veya benzerini oluşturmak

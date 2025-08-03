@@ -2,6 +2,7 @@
 layout: term
 title: muallimlik
 slug: muallimlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► öğretmenlik

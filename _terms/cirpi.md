@@ -2,6 +2,7 @@
 layout: term
 title: çırpı
 slug: cirpi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dal, budak kırpıntısı

@@ -2,6 +2,7 @@
 layout: term
 title: derli toplu
 slug: derli-toplu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağınık olmayan, düzen verilmiş

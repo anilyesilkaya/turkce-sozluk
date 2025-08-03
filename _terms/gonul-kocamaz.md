@@ -2,6 +2,7 @@
 layout: term
 title: gönül kocamaz
 slug: gonul-kocamaz
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"insanlar yaşlansalar da gönüllerindeki sevgi ve istekler tazeliğini yitirmez" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: ağır kayıp
 slug: agir-kayip
+letter: A
 lisan: Türkçe
 anlamlar:
 - Savaş, deprem, sel vb. doğal afetlerde can ve mal açısından uğranılan büyük kayıp

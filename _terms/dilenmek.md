@@ -2,6 +2,7 @@
 layout: term
 title: dilenmek
 slug: dilenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sadaka istemek

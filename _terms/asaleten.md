@@ -2,6 +2,7 @@
 layout: term
 title: asaleten
 slug: asaleten
+letter: A
 lisan: Arapça aṣāleten
 anlamlar:
 - Bir görevde temelli olarak, asıl olarak, vekâleten karşıtı

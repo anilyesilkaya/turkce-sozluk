@@ -2,6 +2,7 @@
 layout: term
 title: bedava
 slug: bedava
+letter: B
 lisan: Farsça bād + Arapça hevā
 anlamlar:
 - ► parasız

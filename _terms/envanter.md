@@ -2,6 +2,7 @@
 layout: term
 title: envanter
 slug: envanter
+letter: E
 lisan: Fransızca inventaire
 anlamlar:
 - Bir ticaret kuruluşunun para, mal ve diğer varlıklarıyla genel olarak borçlu ve alacaklı durumlarını, nicelikleri ve değerleriyle ayrıntılı olarak gösterme

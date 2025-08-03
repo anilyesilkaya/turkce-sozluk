@@ -2,6 +2,7 @@
 layout: term
 title: bir bakıma
 slug: bir-bakima
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir görüşle, başka bir düşünüşle

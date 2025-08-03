@@ -2,6 +2,7 @@
 layout: term
 title: süzülmek
 slug: suzulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzme işine konu olmak

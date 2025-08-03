@@ -2,6 +2,7 @@
 layout: term
 title: kepçeci
 slug: kepceci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tahıl, kömür, kum vb.nin yüklenip boşaltılmasında kullanılan motorlu aracı kullanan kimse

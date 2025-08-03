@@ -2,6 +2,7 @@
 layout: term
 title: yılmak
 slug: yilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işten gözü korkup vazgeçmek

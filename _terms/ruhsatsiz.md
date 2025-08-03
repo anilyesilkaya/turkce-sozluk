@@ -2,6 +2,7 @@
 layout: term
 title: ruhsatsız
 slug: ruhsatsiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Yapılması, kullanılması vb. için gerekli izni olmayan, ruhsatı olmayan

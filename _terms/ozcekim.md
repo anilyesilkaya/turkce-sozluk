@@ -2,6 +2,7 @@
 layout: term
 title: özçekim
 slug: ozcekim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Cep telefonu vb.nin ön kamerası ile kendisinin veya kendisiyle birlikte bir grubun fotoğrafını çekme

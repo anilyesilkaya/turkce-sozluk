@@ -2,6 +2,7 @@
 layout: term
 title: ayan beyan
 slug: ayan-beyan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Besbelli, apaçık, açık seçik bir biçimde

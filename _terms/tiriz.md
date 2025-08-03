@@ -2,6 +2,7 @@
 layout: term
 title: tiriz
 slug: tiriz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Giysilerin yırtmacına ve eteğine eklenen ensiz kumaş parçası

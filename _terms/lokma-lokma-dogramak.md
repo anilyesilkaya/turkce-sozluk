@@ -2,6 +2,7 @@
 layout: term
 title: lokma lokma doğramak
 slug: lokma-lokma-dogramak
+letter: L
 lisan: Türkçe
 anlamlar:
 - küçük parçalara ayırmak

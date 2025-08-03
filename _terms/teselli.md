@@ -2,6 +2,7 @@
 layout: term
 title: teselli
 slug: teselli
+letter: T
 lisan: Arapça tesellī
 anlamlar:
 - ► avuntu

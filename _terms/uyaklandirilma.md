@@ -2,6 +2,7 @@
 layout: term
 title: uyaklandırılma
 slug: uyaklandirilma
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyelendirilme

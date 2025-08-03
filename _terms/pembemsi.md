@@ -2,6 +2,7 @@
 layout: term
 title: pembemsi
 slug: pembemsi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Rengi pembeyi andıran, pembeye benzeyen; pembemtırak

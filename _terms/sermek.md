@@ -2,6 +2,7 @@
 layout: term
 title: sermek
 slug: sermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kurutmak için asmak

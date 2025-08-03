@@ -2,6 +2,7 @@
 layout: term
 title: apansız
 slug: apansiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ansızın

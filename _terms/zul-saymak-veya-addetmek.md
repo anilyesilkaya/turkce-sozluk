@@ -2,6 +2,7 @@
 layout: term
 title: zül saymak (veya addetmek)
 slug: zul-saymak-veya-addetmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir olay veya sözü küçültücü, alçaltıcı, aşağılayıcı olarak değerlendirmek

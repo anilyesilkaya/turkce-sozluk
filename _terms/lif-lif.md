@@ -2,6 +2,7 @@
 layout: term
 title: lif lif
 slug: lif-lif
+letter: L
 lisan: Türkçe
 anlamlar:
 - Tel tel, ince ince

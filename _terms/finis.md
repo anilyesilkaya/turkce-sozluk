@@ -2,6 +2,7 @@
 layout: term
 title: finiş
 slug: finis
+letter: F
 lisan: İngilizce finish
 anlamlar:
 - ► bitme

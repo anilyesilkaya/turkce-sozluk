@@ -2,6 +2,7 @@
 layout: term
 title: hâkimane
 slug: hakimane
+letter: H
 lisan: Arapça ḥākim + Farsça -āne
 anlamlar:
 - Buyururcasına, hükmedercesine

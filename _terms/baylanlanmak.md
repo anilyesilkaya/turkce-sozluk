@@ -2,6 +2,7 @@
 layout: term
 title: baylanlanmak
 slug: baylanlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baylanmak

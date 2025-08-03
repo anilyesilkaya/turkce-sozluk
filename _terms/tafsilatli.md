@@ -2,6 +2,7 @@
 layout: term
 title: tafsilatlı
 slug: tafsilatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ayrıntılı

@@ -2,6 +2,7 @@
 layout: term
 title: seyreklik
 slug: seyreklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyrek olma durumu; nadirlik

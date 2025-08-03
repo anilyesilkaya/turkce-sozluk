@@ -2,6 +2,7 @@
 layout: term
 title: direnebilmek
 slug: direnebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Direnme ihtimali veya imkânı bulunmak

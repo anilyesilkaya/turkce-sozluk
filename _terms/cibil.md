@@ -2,6 +2,7 @@
 layout: term
 title: cıbıl
 slug: cibil
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çıplak

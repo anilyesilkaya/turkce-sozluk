@@ -2,6 +2,7 @@
 layout: term
 title: şomluk
 slug: somluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► uğursuzluk

@@ -2,6 +2,7 @@
 layout: term
 title: sokmak
 slug: sokmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçine veya arasına girmesini sağlamak; tıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: istenççi
 slug: istencci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iradeci

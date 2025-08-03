@@ -2,6 +2,7 @@
 layout: term
 title: kanına dokunmak
 slug: kanina-dokunmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek

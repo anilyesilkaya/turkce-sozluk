@@ -2,6 +2,7 @@
 layout: term
 title: duman altı olmak
 slug: duman-alti-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - esrar, sigara vb. içilen bir yerin havasından etkilenmek

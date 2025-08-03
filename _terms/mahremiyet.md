@@ -2,6 +2,7 @@
 layout: term
 title: mahremiyet
 slug: mahremiyet
+letter: M
 lisan: Arapça maḥremiyyet
 anlamlar:
 - ► gizlilik

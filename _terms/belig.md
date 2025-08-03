@@ -2,6 +2,7 @@
 layout: term
 title: beliğ
 slug: belig
+letter: B
 lisan: Arapça belīġ
 anlamlar:
 - ► belagatli

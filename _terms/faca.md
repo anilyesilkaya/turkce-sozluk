@@ -2,6 +2,7 @@
 layout: term
 title: faça
 slug: faca
+letter: F
 lisan: İtalyanca faccia
 anlamlar:
 - İskambil destesinin en altındaki kâğıt

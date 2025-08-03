@@ -2,6 +2,7 @@
 layout: term
 title: şebekçi
 slug: sebekci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şebek oynatan kimse

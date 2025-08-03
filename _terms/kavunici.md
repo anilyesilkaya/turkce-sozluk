@@ -2,6 +2,7 @@
 layout: term
 title: kavuniçi
 slug: kavunici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pembeye çalan sarı renk

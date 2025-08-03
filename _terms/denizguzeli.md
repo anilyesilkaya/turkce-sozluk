@@ -2,6 +2,7 @@
 layout: term
 title: denizgüzeli
 slug: denizguzeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sarıağız

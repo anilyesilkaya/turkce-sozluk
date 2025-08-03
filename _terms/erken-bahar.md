@@ -2,6 +2,7 @@
 layout: term
 title: erken bahar
 slug: erken-bahar
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ilkbahar

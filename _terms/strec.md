@@ -2,6 +2,7 @@
 layout: term
 title: streç
 slug: strec
+letter: S
 lisan: İngilizce stretch
 anlamlar:
 - ► esnek

@@ -2,6 +2,7 @@
 layout: term
 title: muhallebi çocuğu
 slug: muhallebi-cocugu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Nazlı büyütülmüş kimse

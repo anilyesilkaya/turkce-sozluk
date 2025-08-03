@@ -2,6 +2,7 @@
 layout: term
 title: acımak
 slug: acimak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Merhamet etmek

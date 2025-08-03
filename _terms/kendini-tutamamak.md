@@ -2,6 +2,7 @@
 layout: term
 title: kendini tutamamak
 slug: kendini-tutamamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir durum karşısında sessiz ve heyecansız kalamamak

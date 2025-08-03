@@ -2,6 +2,7 @@
 layout: term
 title: mütevazi
 slug: mutevazi
+letter: M
 lisan: Arapça mutevāzī
 anlamlar:
 - Birbirine paralel olan

@@ -2,6 +2,7 @@
 layout: term
 title: kısıntı yapmak
 slug: kisinti-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - tutumlu davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: dişi
 slug: disi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yumurta oluşturan veya yavru doğuran (birey)

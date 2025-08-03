@@ -2,6 +2,7 @@
 layout: term
 title: dalavere
 slug: dalavere
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yalan dolanla gizlice görülen kötü iş, gizli oyun; kolpo

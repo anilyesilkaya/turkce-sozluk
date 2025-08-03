@@ -2,6 +2,7 @@
 layout: term
 title: uyuyakalmak
 slug: uyuyakalmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Otururken veya bir yere yaslanıp dururken istemeden uyuyuvermek

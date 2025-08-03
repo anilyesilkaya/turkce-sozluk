@@ -2,6 +2,7 @@
 layout: term
 title: gözü kara
 slug: gozu-kara
+letter: G
 lisan: Türkçe
 anlamlar:
 - Korkusuz (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: eğitim programı
 slug: egitim-programi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitimi düzenleyen ve yönlendiren sistem

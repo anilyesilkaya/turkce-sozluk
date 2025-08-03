@@ -2,6 +2,7 @@
 layout: term
 title: sapsarı
 slug: sapsari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Her yanı sarı, çok sarı

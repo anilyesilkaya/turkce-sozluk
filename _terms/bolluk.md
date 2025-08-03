@@ -2,6 +2,7 @@
 layout: term
 title: bolluk
 slug: bolluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bol olma durumu

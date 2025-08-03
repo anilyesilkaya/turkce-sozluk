@@ -2,6 +2,7 @@
 layout: term
 title: külfetsiz
 slug: kulfetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkıntısız, kolay, özen istemeyen

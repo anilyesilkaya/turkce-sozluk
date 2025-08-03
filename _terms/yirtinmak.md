@@ -2,6 +2,7 @@
 layout: term
 title: yırtınmak
 slug: yirtinmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Parçalanırcasına bağırmak

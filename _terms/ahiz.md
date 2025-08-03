@@ -2,6 +2,7 @@
 layout: term
 title: ahiz
 slug: ahiz
+letter: A
 lisan: Arapça aḫẕ
 anlamlar:
 - Alma

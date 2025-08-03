@@ -2,6 +2,7 @@
 layout: term
 title: yüz havlusu
 slug: yuz-havlusu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzü yıkadıktan sonra kurulamak için kullanılan havlu

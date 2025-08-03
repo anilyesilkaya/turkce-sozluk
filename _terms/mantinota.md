@@ -2,6 +2,7 @@
 layout: term
 title: mantinota
 slug: mantinota
+letter: M
 lisan: İtalyanca mantenuto
 anlamlar:
 - ► metres

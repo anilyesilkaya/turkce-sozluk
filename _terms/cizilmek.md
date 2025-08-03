@@ -2,6 +2,7 @@
 layout: term
 title: çizilmek
 slug: cizilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizme işine konu olmak

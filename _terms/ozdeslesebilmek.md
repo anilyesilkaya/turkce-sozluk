@@ -2,6 +2,7 @@
 layout: term
 title: özdeşleşebilmek
 slug: ozdeslesebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özdeşleşme ihtimali veya imkânı bulunmak

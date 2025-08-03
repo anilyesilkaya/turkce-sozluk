@@ -2,6 +2,7 @@
 layout: term
 title: doğum
 slug: dogum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğmak işi; tevellüt, veladet

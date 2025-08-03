@@ -2,6 +2,7 @@
 layout: term
 title: şaşalamak
 slug: sasalamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşkın bir duruma düşmek, şaşkınca davranmak; şaşırmak

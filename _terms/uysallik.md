@@ -2,6 +2,7 @@
 layout: term
 title: uysallık
 slug: uysallik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uysal olma durumu

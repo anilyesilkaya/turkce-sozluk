@@ -2,6 +2,7 @@
 layout: term
 title: mümkün olmak
 slug: mumkun-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - imkân bulunmak

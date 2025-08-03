@@ -2,6 +2,7 @@
 layout: term
 title: sızak
 slug: sizak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dağ sırtlarında, taş aralarından sızan su, küçük pınar

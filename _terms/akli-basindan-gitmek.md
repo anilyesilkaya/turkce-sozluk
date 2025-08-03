@@ -2,6 +2,7 @@
 layout: term
 title: aklı başından gitmek
 slug: akli-basindan-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok sevinçten veya çok korkudan ne yapacağını şaşırmak

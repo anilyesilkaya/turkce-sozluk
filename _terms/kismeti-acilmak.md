@@ -2,6 +2,7 @@
 layout: term
 title: kısmeti açılmak
 slug: kismeti-acilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kazancı artmak, bolluğa ermek

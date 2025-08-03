@@ -2,6 +2,7 @@
 layout: term
 title: hatırasız
 slug: hatirasiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hatırası olmayan

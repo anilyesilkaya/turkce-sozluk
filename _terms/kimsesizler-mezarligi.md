@@ -2,6 +2,7 @@
 layout: term
 title: 'kimsesizler mezarlığı '
 slug: kimsesizler-mezarligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yakını olmayanların, sahipsizlerin devlet tarafından defnedildiği mezarlık

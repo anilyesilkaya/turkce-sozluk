@@ -2,6 +2,7 @@
 layout: term
 title: çaker
 slug: caker
+letter: Ç
 lisan: Farsça çāker
 anlamlar:
 - ► köle

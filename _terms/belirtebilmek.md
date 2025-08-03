@@ -2,6 +2,7 @@
 layout: term
 title: belirtebilmek
 slug: belirtebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirtme ihtimali veya imkânı bulunmak

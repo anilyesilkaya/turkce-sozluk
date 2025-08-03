@@ -2,6 +2,7 @@
 layout: term
 title: 'morg raporu '
 slug: morg-raporu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Ölü üzerinde yapılan muayene veya otopsiden sonra düzenlenen rapor

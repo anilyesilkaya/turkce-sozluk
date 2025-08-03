@@ -2,6 +2,7 @@
 layout: term
 title: gaddar
 slug: gaddar
+letter: G
 lisan: Arapça ġaddār
 anlamlar:
 - Acıması olmayan, başkalarına haksızlık eden, merhametsiz, katı yürekli, insafsız davranan; kıyak, kıyıcı (III)

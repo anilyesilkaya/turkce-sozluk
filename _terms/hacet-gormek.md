@@ -2,6 +2,7 @@
 layout: term
 title: hacet görmek
 slug: hacet-gormek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gerekli bulmak, gerekli saymak

@@ -2,6 +2,7 @@
 layout: term
 title: didişme
 slug: didisme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Didişmek işi

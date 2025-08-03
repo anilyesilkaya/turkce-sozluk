@@ -2,6 +2,7 @@
 layout: term
 title: kısacık
 slug: kisacik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kısa; kısarak

@@ -2,6 +2,7 @@
 layout: term
 title: yokluklu
 slug: yokluklu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yoksul

@@ -2,6 +2,7 @@
 layout: term
 title: kendileşme
 slug: kendilesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aynı soydan veya akrabalardan birisiyle çiftleşme

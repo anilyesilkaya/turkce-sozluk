@@ -2,6 +2,7 @@
 layout: term
 title: yılgınlık
 slug: yilginlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılgın olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: eğleşmek
 slug: eglesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Oyalanmak, eğlenmek; kalmak, tevakkuf etmek

@@ -2,6 +2,7 @@
 layout: term
 title: mezelik
 slug: mezelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meze yapılmaya elverişli, meze olarak kullanılan

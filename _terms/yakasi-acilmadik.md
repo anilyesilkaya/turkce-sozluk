@@ -2,6 +2,7 @@
 layout: term
 title: yakası açılmadık
 slug: yakasi-acilmadik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - söylenmesinden kaçınılan (söz, sövgü veya açık saçık nükte)

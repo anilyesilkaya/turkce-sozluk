@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşmazlık
 slug: bagdasmazlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► uyuşmazlık

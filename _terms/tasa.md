@@ -2,6 +2,7 @@
 layout: term
 title: tasa
 slug: tasa
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kaygı

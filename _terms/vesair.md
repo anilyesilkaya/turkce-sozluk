@@ -2,6 +2,7 @@
 layout: term
 title: vesair
 slug: vesair
+letter: V
 lisan: Arapça ve + sāʾir
 anlamlar:
 - ► başka

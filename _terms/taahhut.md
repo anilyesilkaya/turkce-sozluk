@@ -2,6 +2,7 @@
 layout: term
 title: taahhüt
 slug: taahhut
+letter: T
 lisan: Arapça taʿahhud
 anlamlar:
 - Bir şey yapmayı üstüne alma; üstenme, üstlenme

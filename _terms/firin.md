@@ -2,6 +2,7 @@
 layout: term
 title: fırın
 slug: firin
+letter: F
 lisan: Rumca
 anlamlar:
 - İçinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak

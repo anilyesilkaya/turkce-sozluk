@@ -2,6 +2,7 @@
 layout: term
 title: Siirt battaniyesi
 slug: siirt-battaniyesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tiftik keçisinin tüyünden dokunan, uzun tüyleri çeşitli yönlere yatırılarak desenler elde edilen bir battaniye türü

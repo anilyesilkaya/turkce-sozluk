@@ -2,6 +2,7 @@
 layout: term
 title: adı sanı olmamak
 slug: adi-sani-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kim olduğu bilinmemek

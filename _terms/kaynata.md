@@ -2,6 +2,7 @@
 layout: term
 title: kaynata
 slug: kaynata
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karı kocaya göre birbirlerinin babası; kayınbaba, kayınpeder, babalık

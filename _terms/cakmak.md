@@ -2,6 +2,7 @@
 layout: term
 title: çakmak
 slug: cakmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Vurarak sokup yerleştirmek

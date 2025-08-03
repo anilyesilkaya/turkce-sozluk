@@ -2,6 +2,7 @@
 layout: term
 title: değiştirme
 slug: degistirme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değiştirmek işi; tebdil

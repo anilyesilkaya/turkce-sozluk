@@ -2,6 +2,7 @@
 layout: term
 title: allak bullak etmek
 slug: allak-bullak-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - karmakarışık bir duruma getirmek

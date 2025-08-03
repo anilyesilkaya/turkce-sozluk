@@ -2,6 +2,7 @@
 layout: term
 title: emirber
 slug: emirber
+letter: E
 lisan: Arapça emr + Farsça -ber
 anlamlar:
 - ► emir eri

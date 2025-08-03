@@ -2,6 +2,7 @@
 layout: term
 title: kafası almamak (veya sarmamak)
 slug: kafasi-almamak-veya-sarmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - anlayamamak, kavrayamamak

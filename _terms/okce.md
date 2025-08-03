@@ -2,6 +2,7 @@
 layout: term
 title: ökçe
 slug: okce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ayakkabının ayak altının yuvarlakça olan kısmına rastlayan yüksek bölümü; topuk

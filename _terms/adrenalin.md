@@ -2,6 +2,7 @@
 layout: term
 title: adrenalin
 slug: adrenalin
+letter: A
 lisan: Fransızca adrénaline
 anlamlar:
 - Hekimlikte damarları daraltma, bronşları açma, kanamaları kesme vb. amaçlarla kullanılan, kan şekerinin yükselmesine yol açan böbrek üstü bezlerinin salgısı

@@ -2,6 +2,7 @@
 layout: term
 title: cevizî
 slug: cevizi
+letter: C
 lisan: Arapça cevzī
 anlamlar:
 - Cevizden yapılmış veya cevizi andıran

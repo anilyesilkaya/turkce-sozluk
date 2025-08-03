@@ -2,6 +2,7 @@
 layout: term
 title: ince tutkal
 slug: ince-tutkal
+letter: I
 lisan: Türkçe
 anlamlar:
 - Uygun sıvılarla akıcılığı artırılmış sıvı tutkal

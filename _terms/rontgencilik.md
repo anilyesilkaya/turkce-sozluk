@@ -2,6 +2,7 @@
 layout: term
 title: röntgencilik
 slug: rontgencilik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Röntgen ışınları uzmanlığı

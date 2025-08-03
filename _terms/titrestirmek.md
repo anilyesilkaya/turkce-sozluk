@@ -2,6 +2,7 @@
 layout: term
 title: titreştirmek
 slug: titrestirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Her yanı titretmek

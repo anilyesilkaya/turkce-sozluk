@@ -2,6 +2,7 @@
 layout: term
 title: zikıymet
 slug: zikiymet
+letter: Z
 lisan: Arapça ẕīḳiymet
 anlamlar:
 - ► değerli

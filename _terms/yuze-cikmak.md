@@ -2,6 +2,7 @@
 layout: term
 title: yüze çıkmak
 slug: yuze-cikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir sıvının üst bölümüne çıkmak

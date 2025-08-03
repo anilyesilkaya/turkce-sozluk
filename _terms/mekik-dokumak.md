@@ -2,6 +2,7 @@
 layout: term
 title: mekik dokumak
 slug: mekik-dokumak
+letter: M
 lisan: Türkçe
 anlamlar:
 - iki nokta veya durum arasında sürekli gidip gelmek

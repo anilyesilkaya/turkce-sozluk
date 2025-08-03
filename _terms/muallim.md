@@ -2,6 +2,7 @@
 layout: term
 title: muallim
 slug: muallim
+letter: M
 lisan: Arapça muʿallim
 anlamlar:
 - ► öğretmen

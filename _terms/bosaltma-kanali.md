@@ -2,6 +2,7 @@
 layout: term
 title: boşaltma kanalı
 slug: bosaltma-kanali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Havuz, göl veya herhangi bir yerde biriken suyu boşaltan kanal; tahliye kanalı

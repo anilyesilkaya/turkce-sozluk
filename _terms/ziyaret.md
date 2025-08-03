@@ -2,6 +2,7 @@
 layout: term
 title: ziyaret
 slug: ziyaret
+letter: Z
 lisan: Arapça ziyāret
 anlamlar:
 - Birini görmeye, biriyle görüşmeye gitme, görüşme

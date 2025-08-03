@@ -2,6 +2,7 @@
 layout: term
 title: iptizal
 slug: iptizal
+letter: I
 lisan: Arapça ibtiẕāl
 anlamlar:
 - Bayağılaşma, ayağa düşme

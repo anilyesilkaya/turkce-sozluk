@@ -2,6 +2,7 @@
 layout: term
 title: ateş böceği
 slug: ates-bocegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kın kanatlılardan, karanlıkta ışıldama özelliği olan böcek; yıldız böceği, yıldız kurdu (Lampyris noctiluca)

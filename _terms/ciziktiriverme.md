@@ -2,6 +2,7 @@
 layout: term
 title: çiziktiriverme
 slug: ciziktiriverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiziktirivermek işi

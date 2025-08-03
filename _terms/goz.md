@@ -2,6 +2,7 @@
 layout: term
 title: göz
 slug: goz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görme organı; basar, ayn, çeşm, dide

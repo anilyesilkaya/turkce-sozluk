@@ -2,6 +2,7 @@
 layout: term
 title: ekmek kapısı
 slug: ekmek-kapisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Geçim sağlayan iş yeri

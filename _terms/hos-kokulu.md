@@ -2,6 +2,7 @@
 layout: term
 title: hoş kokulu
 slug: hos-kokulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoş kokusu olan; aromalı, aromatik

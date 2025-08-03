@@ -2,6 +2,7 @@
 layout: term
 title: alan yazını
 slug: alan-yazini
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kaynak (I)

@@ -2,6 +2,7 @@
 layout: term
 title: ihtiraslı
 slug: ihtirasli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Aşırı istekli

@@ -2,6 +2,7 @@
 layout: term
 title: hava gazı
 slug: hava-gazi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Maden kömüründen çıkarılan, yakılarak ışık veya ısı sağlanan gaz

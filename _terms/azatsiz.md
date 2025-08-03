@@ -2,6 +2,7 @@
 layout: term
 title: azatsız
 slug: azatsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azat edilemeyen

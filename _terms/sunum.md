@@ -2,6 +2,7 @@
 layout: term
 title: sunum
 slug: sunum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sunmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: haritadan silinmek
 slug: haritadan-silinmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir ülke, başka devletin egemenliği altına girmek

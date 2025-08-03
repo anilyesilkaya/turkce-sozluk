@@ -2,6 +2,7 @@
 layout: term
 title: buruşma
 slug: burusma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruşmak işi

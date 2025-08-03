@@ -2,6 +2,7 @@
 layout: term
 title: düzen vermek (veya düzene koymak veya düzene sokmak)
 slug: duzen-vermek-veya-duzene-koymak-veya-duzene-sokmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - düzenlemek, dağınıklıktan kurtarmak

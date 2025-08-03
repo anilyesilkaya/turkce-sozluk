@@ -2,6 +2,7 @@
 layout: term
 title: efendice
 slug: efendice
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efendi gibi

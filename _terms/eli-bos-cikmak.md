@@ -2,6 +2,7 @@
 layout: term
 title: eli boş çıkmak
 slug: eli-bos-cikmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - umduğunu alamamak, başarısızlığa uğramak

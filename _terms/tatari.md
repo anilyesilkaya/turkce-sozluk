@@ -2,6 +2,7 @@
 layout: term
 title: tatarı
 slug: tatari
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tam pişmemiş

@@ -2,6 +2,7 @@
 layout: term
 title: ezbere
 slug: ezbere
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberleyerek, bir yerden okumayarak, bir yere bakmayarak

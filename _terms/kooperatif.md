@@ -2,6 +2,7 @@
 layout: term
 title: kooperatif
 slug: kooperatif
+letter: K
 lisan: Fransızca coopérative
 anlamlar:
 - Ortaklarının gereksinimlerini uygun şartlarda elde etmelerini sağlamak amacıyla kurulan birlik

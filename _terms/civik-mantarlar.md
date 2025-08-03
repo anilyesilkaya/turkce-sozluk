@@ -2,6 +2,7 @@
 layout: term
 title: cıvık mantarlar
 slug: civik-mantarlar
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bakterilerle ortak yaşayan, ilkel ve hayvanımsı yapılı, peltemsi mantarlar

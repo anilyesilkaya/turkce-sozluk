@@ -2,6 +2,7 @@
 layout: term
 title: nadirat
 slug: nadirat
+letter: N
 lisan: Arapça nādirāt
 anlamlar:
 - Seyrek, az görülen, az bulunan şeyler veya durumlar

@@ -2,6 +2,7 @@
 layout: term
 title: ayyuk
 slug: ayyuk
+letter: A
 lisan: Arapça ʿayyūḳ
 anlamlar:
 - Göğün en yüksek yeri

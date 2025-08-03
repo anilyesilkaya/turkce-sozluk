@@ -2,6 +2,7 @@
 layout: term
 title: lüpletmek
 slug: lupletmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Hızlı bir biçimde yiyecekleri mideye indirmek

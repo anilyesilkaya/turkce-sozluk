@@ -2,6 +2,7 @@
 layout: term
 title: kaza geçirmek
 slug: kaza-gecirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - can ve mal kaybına veya zararına neden olan kötü bir olayla karşılaşmak

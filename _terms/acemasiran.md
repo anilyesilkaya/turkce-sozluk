@@ -2,6 +2,7 @@
 layout: term
 title: acemaşiran
 slug: acemasiran
+letter: A
 lisan: Arapça ʿacem + ʿaşīrān
 anlamlar:
 - Klasik Türk müziğinde kullanılan şet makamlarından biri

@@ -2,6 +2,7 @@
 layout: term
 title: kapsayabilmek
 slug: kapsayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapsama ihtimali veya imkânı bulunmak

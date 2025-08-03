@@ -2,6 +2,7 @@
 layout: term
 title: yakıntı
 slug: yakinti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakılan bir şeyin kalıntısı

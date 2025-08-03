@@ -2,6 +2,7 @@
 layout: term
 title: sunak
 slug: sunak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tapınaklarda dinî tören eşliğinde üzerinde kurban kesilen, günlük yakılan taş masa; altar

@@ -2,6 +2,7 @@
 layout: term
 title: boya vurmak (veya çekmek veya sürmek)
 slug: boya-vurmak-veya-cekmek-veya-surmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - boyamak

@@ -2,6 +2,7 @@
 layout: term
 title: ellilik
 slug: ellilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elli tanesi bir arada olan veya içinde aynı şeyden elli tane bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: leyli meccani
 slug: leyli-meccani
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► parasız yatılı

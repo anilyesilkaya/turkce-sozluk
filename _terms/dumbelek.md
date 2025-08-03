@@ -2,6 +2,7 @@
 layout: term
 title: dümbelek
 slug: dumbelek
+letter: D
 lisan: Farsça dunbek
 anlamlar:
 - Ağzına deri gerilmiş, çanak biçiminde, darbukaya benzer bir tür çalgı; dümbüldek

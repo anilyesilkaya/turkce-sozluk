@@ -2,6 +2,7 @@
 layout: term
 title: istiğfar etmek
 slug: istigfar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - tövbe etmek

@@ -2,6 +2,7 @@
 layout: term
 title: iğneli
 slug: igneli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğnesi olan

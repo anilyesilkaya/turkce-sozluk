@@ -2,6 +2,7 @@
 layout: term
 title: akıncılık etmek
 slug: akincilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - düşman ülkesindeki karşı güçleri yıldırmak, tedirgin etmek

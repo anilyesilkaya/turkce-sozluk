@@ -2,6 +2,7 @@
 layout: term
 title: gevşeme
 slug: gevseme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevşemek işi; relaks

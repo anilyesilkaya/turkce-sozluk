@@ -2,6 +2,7 @@
 layout: term
 title: flörtsüz
 slug: flortsuz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Flörtü olmayan

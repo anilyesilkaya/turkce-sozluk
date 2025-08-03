@@ -2,6 +2,7 @@
 layout: term
 title: nesne grubu
 slug: nesne-grubu
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nesne öbeği

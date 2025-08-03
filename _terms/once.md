@@ -2,6 +2,7 @@
 layout: term
 title: önce
 slug: once
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İlk olarak, başlangıçta; evvel, sonra karşıtı

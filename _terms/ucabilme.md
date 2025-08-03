@@ -2,6 +2,7 @@
 layout: term
 title: uçabilme
 slug: ucabilme
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçabilmek işi

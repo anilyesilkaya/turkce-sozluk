@@ -2,6 +2,7 @@
 layout: term
 title: fırtına kuşu
 slug: firtina-kusu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Perde ayaklılardan, kıvrık gagalı, açık denizlerde yaşayan bir kuş; deniz ördeği (Thalassidroma pelagica)

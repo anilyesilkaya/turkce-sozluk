@@ -2,6 +2,7 @@
 layout: term
 title: vâkıf olmak
 slug: vakif-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - bilmek, öğrenmek

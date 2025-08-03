@@ -2,6 +2,7 @@
 layout: term
 title: fırıldatmak
 slug: firildatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırıl fırıl çevirmek

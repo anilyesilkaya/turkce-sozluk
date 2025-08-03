@@ -2,6 +2,7 @@
 layout: term
 title: abadi kâğıt
 slug: abadi-kagit
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık saman renginde, ipekten yapılan, yarı mat, kalın ve değerli bir tür kâğıt; abadi

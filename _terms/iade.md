@@ -2,6 +2,7 @@
 layout: term
 title: iade
 slug: iade
+letter: I
 lisan: Arapça iʿāde
 anlamlar:
 - Alınmış bir şeyi geri verme

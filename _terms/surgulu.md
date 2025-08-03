@@ -2,6 +2,7 @@
 layout: term
 title: sürgülü
 slug: surgulu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürgü kolu olan

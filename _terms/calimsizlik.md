@@ -2,6 +2,7 @@
 layout: term
 title: çalımsızlık
 slug: calimsizlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalımsız olma durumu

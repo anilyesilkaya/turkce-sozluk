@@ -2,6 +2,7 @@
 layout: term
 title: baba tarafı
 slug: baba-tarafi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ailenin baba yönünden akrabaları

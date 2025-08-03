@@ -2,6 +2,7 @@
 layout: term
 title: kasaba kurnazlığı
 slug: kasaba-kurnazligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► köylü kurnazlığı

@@ -2,6 +2,7 @@
 layout: term
 title: yabani sarımsak
 slug: yabani-sarimsak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, kırlarda yetişen, koyu yeşil yaprakları bahar olarak kullanılan çok yıllık bir tür bitki; köpek sarımsağı, köpek soğanı

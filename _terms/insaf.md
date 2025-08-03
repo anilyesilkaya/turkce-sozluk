@@ -2,6 +2,7 @@
 layout: term
 title: insaf
 slug: insaf
+letter: I
 lisan: Arapça inṣāf
 anlamlar:
 - Acımaya, vicdana veya mantığa dayanan adalet

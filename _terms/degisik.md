@@ -2,6 +2,7 @@
 layout: term
 title: değişik
 slug: degisik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değiştirilmiş olan; muaddel

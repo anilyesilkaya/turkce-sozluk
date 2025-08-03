@@ -2,6 +2,7 @@
 layout: term
 title: abanmak
 slug: abanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Eğilerek bir şeyin, bir kimsenin üzerine kapanmak

@@ -2,6 +2,7 @@
 layout: term
 title: taverna
 slug: taverna
+letter: T
 lisan: İtalyanca taverna
 anlamlar:
 - Çalgılı meyhane

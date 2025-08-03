@@ -2,6 +2,7 @@
 layout: term
 title: kabiliyetsiz
 slug: kabiliyetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yeteneksiz

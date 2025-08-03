@@ -2,6 +2,7 @@
 layout: term
 title: fasarya
 slug: fasarya
+letter: F
 lisan: Rumca
 anlamlar:
 - Boş, anlamsız olan (söz)

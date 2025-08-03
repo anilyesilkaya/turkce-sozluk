@@ -2,6 +2,7 @@
 layout: term
 title: zırhlanmak
 slug: zirhlanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırh giymek

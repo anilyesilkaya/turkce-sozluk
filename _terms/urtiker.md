@@ -2,6 +2,7 @@
 layout: term
 title: ürtiker
 slug: urtiker
+letter: Ü
 lisan: Fransızca urticaire
 anlamlar:
 - ► kurdeşen

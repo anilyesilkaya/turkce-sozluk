@@ -2,6 +2,7 @@
 layout: term
 title: postu deldirmek
 slug: postu-deldirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - kurşunla vurulmak

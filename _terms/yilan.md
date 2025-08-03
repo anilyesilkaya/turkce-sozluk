@@ -2,6 +2,7 @@
 layout: term
 title: yılan
 slug: yilan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sürüngenlerden, ayaksız, ince ve uzun olanların genel adı; yerdegezen, uzun hayvan

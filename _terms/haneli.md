@@ -2,6 +2,7 @@
 layout: term
 title: haneli
 slug: haneli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda evi olan

@@ -2,6 +2,7 @@
 layout: term
 title: serinkanlılık
 slug: serinkanlilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► soğukkanlılık

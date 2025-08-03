@@ -2,6 +2,7 @@
 layout: term
 title: güzellik yarışması
 slug: guzellik-yarismasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yalnız yüz ve vücut güzelliğinin ölçü olarak kabul edildiği yarışma

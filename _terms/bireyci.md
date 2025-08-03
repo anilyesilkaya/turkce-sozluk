@@ -2,6 +2,7 @@
 layout: term
 title: bireyci
 slug: bireyci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kişi haklarını savunan (kimse); individüalist

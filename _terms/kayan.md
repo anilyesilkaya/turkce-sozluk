@@ -2,6 +2,7 @@
 layout: term
 title: kayan
 slug: kayan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayarak yer değiştiren

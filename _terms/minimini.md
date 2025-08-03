@@ -2,6 +2,7 @@
 layout: term
 title: minimini
 slug: minimini
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► küçücük

@@ -2,6 +2,7 @@
 layout: term
 title: zıvanasız
 slug: zivanasiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıvanası olmayan

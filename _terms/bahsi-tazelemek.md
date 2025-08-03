@@ -2,6 +2,7 @@
 layout: term
 title: bahsi tazelemek
 slug: bahsi-tazelemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - konuşmayı aynı konu üzerine getirmek

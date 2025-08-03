@@ -2,6 +2,7 @@
 layout: term
 title: basen
 slug: basen
+letter: B
 lisan: Fransızca bassin
 anlamlar:
 - Vücudun bel ile kalça arasındaki bölümü

@@ -2,6 +2,7 @@
 layout: term
 title: ağarma
 slug: agarma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► beyazlaşma

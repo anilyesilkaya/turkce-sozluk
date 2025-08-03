@@ -2,6 +2,7 @@
 layout: term
 title: kıvançlı
 slug: kivancli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Övünç duyan, iftihar eden

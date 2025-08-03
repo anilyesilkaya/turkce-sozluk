@@ -2,6 +2,7 @@
 layout: term
 title: yükte hafif pahada ağır
 slug: yukte-hafif-pahada-agir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - taşınması kolay olan değerli (eşya)

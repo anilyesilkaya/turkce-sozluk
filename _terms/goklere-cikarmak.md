@@ -2,6 +2,7 @@
 layout: term
 title: göklere çıkarmak
 slug: goklere-cikarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aşırı derecede övmek

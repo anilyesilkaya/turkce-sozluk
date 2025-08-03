@@ -2,6 +2,7 @@
 layout: term
 title: parayı veren düdüğü çalar
 slug: parayi-veren-dudugu-calar
+letter: P
 lisan: Türkçe
 anlamlar:
 - '"karşılığını ödediğinde insan istediğini elde edebilir" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: şifahi edebiyat
 slug: sifahi-edebiyat
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sözlü edebiyat

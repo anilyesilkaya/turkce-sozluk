@@ -2,6 +2,7 @@
 layout: term
 title: ilmiahlak
 slug: ilmiahlak
+letter: I
 lisan: Arapça ʿilm + aḫlāḳ
 anlamlar:
 - ► ahlak bilimi

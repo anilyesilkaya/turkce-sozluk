@@ -2,6 +2,7 @@
 layout: term
 title: darmadağınıklık
 slug: darmadaginiklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► darmadağınlık

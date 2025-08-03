@@ -2,6 +2,7 @@
 layout: term
 title: akıntıya kapılmak
 slug: akintiya-kapilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir akıntının etki alanına girmek, akıntı ile birlikte sürüklenmek

@@ -2,6 +2,7 @@
 layout: term
 title: kendini avutmak
 slug: kendini-avutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - oyalanmak

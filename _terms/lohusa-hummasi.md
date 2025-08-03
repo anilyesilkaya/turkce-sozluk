@@ -2,6 +2,7 @@
 layout: term
 title: lohusa humması
 slug: lohusa-hummasi
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► albastı

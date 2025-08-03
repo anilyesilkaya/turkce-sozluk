@@ -2,6 +2,7 @@
 layout: term
 title: yüreksizlik göstermek
 slug: yureksizlik-gostermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - korkmak, ürküp kaçmak

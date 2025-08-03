@@ -2,6 +2,7 @@
 layout: term
 title: titremek
 slug: titremek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük ve hızlı salınım hareketleri yapmak; tirildemek

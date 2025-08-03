@@ -2,6 +2,7 @@
 layout: term
 title: nazari
 slug: nazari
+letter: N
 lisan: Arapça naẓarī
 anlamlar:
 - ► kuramsal

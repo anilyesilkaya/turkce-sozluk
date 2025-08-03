@@ -2,6 +2,7 @@
 layout: term
 title: tümörleşmek
 slug: tumorlesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► urlaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: dili boğazına akmak
 slug: dili-bogazina-akmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - konuşamaz olmak, sesi soluğu çıkmamak

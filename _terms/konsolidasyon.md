@@ -2,6 +2,7 @@
 layout: term
 title: konsolidasyon
 slug: konsolidasyon
+letter: K
 lisan: Fransızca consolidation
 anlamlar:
 - Yapıları benzer durumda olan nesnelerin birleştirilmesi

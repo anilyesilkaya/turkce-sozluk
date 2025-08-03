@@ -2,6 +2,7 @@
 layout: term
 title: şak şak
 slug: sak-sak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Eller birbirine vurulduğunda çıkan ses

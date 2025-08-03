@@ -2,6 +2,7 @@
 layout: term
 title: oje
 slug: oje
+letter: O
 lisan: Fransızca onglé
 anlamlar:
 - El ve ayak tırnaklarına sürülen, türlü renklerde boya; tırnak cilası

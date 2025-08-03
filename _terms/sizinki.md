@@ -2,6 +2,7 @@
 layout: term
 title: sizinki
 slug: sizinki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sizin olan, sizinle ilgili olan

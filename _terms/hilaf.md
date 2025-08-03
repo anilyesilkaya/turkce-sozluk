@@ -2,6 +2,7 @@
 layout: term
 title: hilaf
 slug: hilaf
+letter: H
 lisan: Arapça ḫilāf
 anlamlar:
 - ► aykırı

@@ -2,6 +2,7 @@
 layout: term
 title: çoban böreği
 slug: coban-boregi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Haşlanmış patateslerin sütle püre durumuna getirilip doğranmış soğanla kavrulmasından sonra üzerine et suyu, kıyma ve nane eklenerek pişirilmesiyle yapılan bir börek türü

@@ -2,6 +2,7 @@
 layout: term
 title: pay bırakmak
 slug: pay-birakmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - kesme, biçme, onarma sırasında, bir şeyde daha sonra kullanılmak için fazlalık bırakmak

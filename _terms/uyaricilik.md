@@ -2,6 +2,7 @@
 layout: term
 title: uyarıcılık
 slug: uyaricilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarıcı olma durumu

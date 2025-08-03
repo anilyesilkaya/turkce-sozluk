@@ -2,6 +2,7 @@
 layout: term
 title: izafe
 slug: izafe
+letter: I
 lisan: Arapça iżāfe
 anlamlar:
 - Bir şeyi başka bir şeye veya bir nedene bağlama

@@ -2,6 +2,7 @@
 layout: term
 title: partizanlık
 slug: partizanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Partizan olma durumu

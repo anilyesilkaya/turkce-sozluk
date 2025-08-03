@@ -2,6 +2,7 @@
 layout: term
 title: çıtkırıldım
 slug: citkirildim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aşırı incelik, dayanıksızlık ve çekingenlik gösteren (kimse)

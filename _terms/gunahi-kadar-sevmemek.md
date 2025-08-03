@@ -2,6 +2,7 @@
 layout: term
 title: günahı kadar sevmemek
 slug: gunahi-kadar-sevmemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sevmemek, nefret etmek

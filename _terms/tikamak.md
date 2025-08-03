@@ -2,6 +2,7 @@
 layout: term
 title: tıkamak
 slug: tikamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ağzını, deliğini, içine konulan veya dışarıdan uygulanan bir nesneyle kapamak; berkitmek

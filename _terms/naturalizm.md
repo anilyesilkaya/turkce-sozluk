@@ -2,6 +2,7 @@
 layout: term
 title: natüralizm
 slug: naturalizm
+letter: N
 lisan: Fransızca naturalisme
 anlamlar:
 - ► doğalcılık

@@ -2,6 +2,7 @@
 layout: term
 title: tanıt
 slug: tanit
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gerekli ve zorunlu sonuca ulaşan bir akıl yürütmenin dayandığı gerçek

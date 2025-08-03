@@ -2,6 +2,7 @@
 layout: term
 title: bahaneli
 slug: bahaneli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahanesi olan

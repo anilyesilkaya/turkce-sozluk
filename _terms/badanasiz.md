@@ -2,6 +2,7 @@
 layout: term
 title: badanasız
 slug: badanasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badana edilmemiş

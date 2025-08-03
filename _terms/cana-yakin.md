@@ -2,6 +2,7 @@
 layout: term
 title: cana yakın
 slug: cana-yakin
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► sıcakkanlı

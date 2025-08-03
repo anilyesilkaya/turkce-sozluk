@@ -2,6 +2,7 @@
 layout: term
 title: şöhret bulmak (veya kazanmak)
 slug: sohret-bulmak-veya-kazanmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ün sahibi olmak, üne kavuşmak, ünlenmek

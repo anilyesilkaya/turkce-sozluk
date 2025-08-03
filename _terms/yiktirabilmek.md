@@ -2,6 +2,7 @@
 layout: term
 title: yıktırabilmek
 slug: yiktirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıktırma ihtimali veya imkânı bulunmak

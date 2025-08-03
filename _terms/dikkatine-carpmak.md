@@ -2,6 +2,7 @@
 layout: term
 title: dikkatine çarpmak
 slug: dikkatine-carpmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - farkına varmak, dikkatini çekmek

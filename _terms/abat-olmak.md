@@ -2,6 +2,7 @@
 layout: term
 title: abat olmak
 slug: abat-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - rahata kavuşmak, gönenmek

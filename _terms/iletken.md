@@ -2,6 +2,7 @@
 layout: term
 title: iletken
 slug: iletken
+letter: I
 lisan: Türkçe
 anlamlar:
 - Akım, ısı, ses vb.ni geçiren (madde); nâkil, yalıtkan karşıtı

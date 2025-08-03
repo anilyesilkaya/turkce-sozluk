@@ -2,6 +2,7 @@
 layout: term
 title: aşınmazlık
 slug: asinmazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşınmaz olma durumu

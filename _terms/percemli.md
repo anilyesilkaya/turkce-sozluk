@@ -2,6 +2,7 @@
 layout: term
 title: perçemli
 slug: percemli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perçemi, kâkülü olan

@@ -2,6 +2,7 @@
 layout: term
 title: serinlemek
 slug: serinlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hava serin bir duruma gelmek, hafifçe soğumak; serinleşmek

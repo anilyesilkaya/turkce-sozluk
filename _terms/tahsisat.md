@@ -2,6 +2,7 @@
 layout: term
 title: tahsisat
 slug: tahsisat
+letter: T
 lisan: Arapça taḫṣīṣāt
 anlamlar:
 - Bir iş için ayrılmış para

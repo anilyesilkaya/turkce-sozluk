@@ -2,6 +2,7 @@
 layout: term
 title: hayat dersi
 slug: hayat-dersi
+letter: H
 lisan: Türkçe
 anlamlar:
 - İbret veya örnek alınacak gerçek olay

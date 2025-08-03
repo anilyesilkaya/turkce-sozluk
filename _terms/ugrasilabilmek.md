@@ -2,6 +2,7 @@
 layout: term
 title: uğraşılabilmek
 slug: ugrasilabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğraşılma ihtimali bulunmak

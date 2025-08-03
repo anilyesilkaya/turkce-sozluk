@@ -2,6 +2,7 @@
 layout: term
 title: meleke
 slug: meleke
+letter: M
 lisan: Arapça meleke
 anlamlar:
 - Tekrarlama sonucu kazanılan yatkınlık, alışkanlık

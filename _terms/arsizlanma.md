@@ -2,6 +2,7 @@
 layout: term
 title: arsızlanma
 slug: arsizlanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arsızlanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: karizmatik
 slug: karizmatik
+letter: K
 lisan: Fransızca charismatique
 anlamlar:
 - ► etkileyici

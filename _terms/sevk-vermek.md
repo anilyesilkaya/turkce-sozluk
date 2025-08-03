@@ -2,6 +2,7 @@
 layout: term
 title: şevk vermek
 slug: sevk-vermek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şevklendirmek

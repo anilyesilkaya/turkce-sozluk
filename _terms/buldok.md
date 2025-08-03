@@ -2,6 +2,7 @@
 layout: term
 title: buldok
 slug: buldok
+letter: B
 lisan: Fransızca bouledogue
 anlamlar:
 - Köpekgillerden, burnu basık, alt çenesi üsttekinden uzun, iri ve güçlü bir tür köpek (Canis familiaris molosus hibernicus)

@@ -2,6 +2,7 @@
 layout: term
 title: hemdem
 slug: hemdem
+letter: H
 lisan: Farsça hem + dem
 anlamlar:
 - Zamanlarını bir arada geçiren samimi arkadaş

@@ -2,6 +2,7 @@
 layout: term
 title: sinemalaştırmak
 slug: sinemalastirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinema durumuna getirmek

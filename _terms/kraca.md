@@ -2,6 +2,7 @@
 layout: term
 title: kraça
 slug: kraca
+letter: K
 lisan: Türkçe
 anlamlar:
 - İstavrit balığının küçüğü

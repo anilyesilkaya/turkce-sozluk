@@ -2,6 +2,7 @@
 layout: term
 title: stratosfer
 slug: stratosfer
+letter: S
 lisan: Fransızca stratosphère
 anlamlar:
 - ► kat yuvarı

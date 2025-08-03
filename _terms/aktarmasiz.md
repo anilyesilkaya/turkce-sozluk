@@ -2,6 +2,7 @@
 layout: term
 title: aktarmasız
 slug: aktarmasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarma gerektirmeyen

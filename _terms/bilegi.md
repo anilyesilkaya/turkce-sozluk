@@ -2,6 +2,7 @@
 layout: term
 title: bileği
 slug: bilegi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçak, çakı, makas vb. kesici araçları bilemek için kullanılan alet

@@ -2,6 +2,7 @@
 layout: term
 title: rastlamak
 slug: rastlamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir kimse ile karşı karşıya gelmek; rast gelmek, tesadüf etmek

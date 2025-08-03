@@ -2,6 +2,7 @@
 layout: term
 title: yaldızlı
 slug: yaldizli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzerine yaldız sürülmüş, yaldızla süslenmiş

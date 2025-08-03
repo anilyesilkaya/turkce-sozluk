@@ -2,6 +2,7 @@
 layout: term
 title: 'mıklepli '
 slug: miklepli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mıklebi olan

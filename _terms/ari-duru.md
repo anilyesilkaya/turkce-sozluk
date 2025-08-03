@@ -2,6 +2,7 @@
 layout: term
 title: arı duru
 slug: ari-duru
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tertemiz olan

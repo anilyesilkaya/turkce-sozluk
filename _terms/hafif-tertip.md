@@ -2,6 +2,7 @@
 layout: term
 title: hafif tertip
 slug: hafif-tertip
+letter: H
 lisan: Türkçe
 anlamlar:
 - Şöyle böyle, biraz, aşırılığa kaçmadan

@@ -2,6 +2,7 @@
 layout: term
 title: yıllık
 slug: yillik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yıl için; senelik, senevi

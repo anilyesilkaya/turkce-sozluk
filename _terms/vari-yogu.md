@@ -2,6 +2,7 @@
 layout: term
 title: varı yoğu
 slug: vari-yogu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin sahip olduğu her şey

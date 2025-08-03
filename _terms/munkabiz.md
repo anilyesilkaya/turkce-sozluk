@@ -2,6 +2,7 @@
 layout: term
 title: munkabız
 slug: munkabiz
+letter: M
 lisan: Arapça munḳabiż
 anlamlar:
 - Büzülmüş, toplanmış

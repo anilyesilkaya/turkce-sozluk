@@ -2,6 +2,7 @@
 layout: term
 title: sersemce
 slug: sersemce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serseme benzer

@@ -2,6 +2,7 @@
 layout: term
 title: minnettarlık
 slug: minnettarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minnettar olma durumu; şükran

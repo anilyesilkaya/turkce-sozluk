@@ -2,6 +2,7 @@
 layout: term
 title: tahkim
 slug: tahkim
+letter: T
 lisan: Arapça taḥkīm
 anlamlar:
 - ► sağlamlaştırma

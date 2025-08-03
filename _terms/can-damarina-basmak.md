@@ -2,6 +2,7 @@
 layout: term
 title: can damarına basmak
 slug: can-damarina-basmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir işin en önemli yönü üzerinde durmak

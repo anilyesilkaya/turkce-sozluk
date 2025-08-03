@@ -2,6 +2,7 @@
 layout: term
 title: mahalle karısı
 slug: mahalle-karisi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Görgüsüz, kavgacı kadın

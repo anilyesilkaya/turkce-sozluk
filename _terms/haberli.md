@@ -2,6 +2,7 @@
 layout: term
 title: haberli
 slug: haberli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir olay veya durum üzerine bilgisi olan, haberi olan; agâh, haberdar

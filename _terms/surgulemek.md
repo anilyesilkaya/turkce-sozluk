@@ -2,6 +2,7 @@
 layout: term
 title: sürgülemek
 slug: surgulemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürgü sürerek kapamak

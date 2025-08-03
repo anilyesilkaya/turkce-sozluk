@@ -2,6 +2,7 @@
 layout: term
 title: yağmak
 slug: yagmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmur, kar, dolu gökten düşmek

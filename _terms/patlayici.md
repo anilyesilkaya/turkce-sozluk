@@ -2,6 +2,7 @@
 layout: term
 title: patlayıcı
 slug: patlayici
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlama özelliği olan (madde)

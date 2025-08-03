@@ -2,6 +2,7 @@
 layout: term
 title: öksüz
 slug: oksuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Anası veya hem anası hem babası ölmüş olan (çocuk)

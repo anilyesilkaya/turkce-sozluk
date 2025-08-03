@@ -2,6 +2,7 @@
 layout: term
 title: süt beyaz
 slug: sut-beyaz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bembeyaz, çok beyaz; süt beyazı

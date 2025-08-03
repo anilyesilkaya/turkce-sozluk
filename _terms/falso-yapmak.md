@@ -2,6 +2,7 @@
 layout: term
 title: falso yapmak
 slug: falso-yapmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - yanlış davranışta bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kılavuzluk etmek
 slug: kilavuzluk-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yol göstermek, rehberlik etmek

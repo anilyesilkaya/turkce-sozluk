@@ -2,6 +2,7 @@
 layout: term
 title: ecnebi
 slug: ecnebi
+letter: E
 lisan: Arapça ecnebī
 anlamlar:
 - ► yabancı

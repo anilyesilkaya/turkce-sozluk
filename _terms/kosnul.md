@@ -2,6 +2,7 @@
 layout: term
 title: kösnül
 slug: kosnul
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► erotik

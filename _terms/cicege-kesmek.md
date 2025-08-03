@@ -2,6 +2,7 @@
 layout: term
 title: çiçeğe kesmek
 slug: cicege-kesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çiçek açmak

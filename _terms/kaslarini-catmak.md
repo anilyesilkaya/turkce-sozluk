@@ -2,6 +2,7 @@
 layout: term
 title: kaşlarını çatmak
 slug: kaslarini-catmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kızmak, öfkelenmek

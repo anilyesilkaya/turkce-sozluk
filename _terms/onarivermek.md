@@ -2,6 +2,7 @@
 layout: term
 title: onarıvermek
 slug: onarivermek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çabucak ve kolayca onarmak

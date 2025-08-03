@@ -2,6 +2,7 @@
 layout: term
 title: cızbız
 slug: cizbiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cızbız köfte

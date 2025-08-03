@@ -2,6 +2,7 @@
 layout: term
 title: gecekondulaşma
 slug: gecekondulasma
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecekondulaşmak işi

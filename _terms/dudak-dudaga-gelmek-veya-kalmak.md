@@ -2,6 +2,7 @@
 layout: term
 title: dudak dudağa gelmek (veya kalmak)
 slug: dudak-dudaga-gelmek-veya-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - öpüşmek

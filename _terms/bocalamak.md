@@ -2,6 +2,7 @@
 layout: term
 title: bocalamak
 slug: bocalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gemi rüzgâra karşı gidemeyerek sürüklenmek

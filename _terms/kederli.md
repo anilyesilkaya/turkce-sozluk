@@ -2,6 +2,7 @@
 layout: term
 title: kederli
 slug: kederli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keder içinde olan; ızdıraplı, mükedder

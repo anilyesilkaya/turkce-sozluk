@@ -2,6 +2,7 @@
 layout: term
 title: görsellik
 slug: gorsellik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görsel olma durumu

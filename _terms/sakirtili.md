@@ -2,6 +2,7 @@
 layout: term
 title: şakırtılı
 slug: sakirtili
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakırtısı olan

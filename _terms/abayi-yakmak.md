@@ -2,6 +2,7 @@
 layout: term
 title: abayı yakmak
 slug: abayi-yakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birine aşırı bir biçimde gönül vermek, tutulmak, âşık olmak

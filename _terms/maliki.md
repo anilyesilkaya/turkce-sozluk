@@ -2,6 +2,7 @@
 layout: term
 title: Maliki
 slug: maliki
+letter: M
 lisan: Arapça mālikī
 anlamlar:
 - İslamiyet’te dört Sünni mezhepten biri

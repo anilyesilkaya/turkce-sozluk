@@ -2,6 +2,7 @@
 layout: term
 title: ağ günlüğü
 slug: ag-gunlugu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Teknik bilgi gerektirmeden kendi istedikleri şeyleri, istedikleri biçimde yazan kimselerin oluşturdukları günlüğe benzeyen sosyal medya sitesi

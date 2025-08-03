@@ -2,6 +2,7 @@
 layout: term
 title: mertlik
 slug: mertlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► yiğitlik

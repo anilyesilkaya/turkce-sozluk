@@ -2,6 +2,7 @@
 layout: term
 title: ipten kazıktan kurtulmuş
 slug: ipten-kaziktan-kurtulmus
+letter: I
 lisan: Türkçe
 anlamlar:
 - her türlü kötülüğü yapacak yaradılışta olan (kimse)

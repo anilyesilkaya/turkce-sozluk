@@ -2,6 +2,7 @@
 layout: term
 title: tam bölen
 slug: tam-bolen
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir tam sayıyı kalansız bölen tam sayı

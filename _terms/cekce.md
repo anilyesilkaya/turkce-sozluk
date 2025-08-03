@@ -2,6 +2,7 @@
 layout: term
 title: Çekçe
 slug: cekce
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeklerin kullandığı dil

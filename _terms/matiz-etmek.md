@@ -2,6 +2,7 @@
 layout: term
 title: 'matiz etmek '
 slug: matiz-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - iki halatı ek yeri kalınlaşmayacak biçimde birbirine eklemek

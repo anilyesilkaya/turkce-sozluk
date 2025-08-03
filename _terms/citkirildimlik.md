@@ -2,6 +2,7 @@
 layout: term
 title: çıtkırıldımlık
 slug: citkirildimlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıtkırıldım olma durumu

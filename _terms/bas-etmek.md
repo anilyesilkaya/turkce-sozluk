@@ -2,6 +2,7 @@
 layout: term
 title: baş etmek
 slug: bas-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - gücü yetmek

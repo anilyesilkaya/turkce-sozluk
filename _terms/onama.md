@@ -2,6 +2,7 @@
 layout: term
 title: onama
 slug: onama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onamak işi, uygun bulma; tasvip

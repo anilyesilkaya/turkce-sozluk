@@ -2,6 +2,7 @@
 layout: term
 title: kaşınma
 slug: kasinma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşınmak işi

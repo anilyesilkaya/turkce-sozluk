@@ -2,6 +2,7 @@
 layout: term
 title: diken diken olmak
 slug: diken-diken-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dik duruma gelmek, dikleşmek

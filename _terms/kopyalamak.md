@@ -2,6 +2,7 @@
 layout: term
 title: kopyalamak
 slug: kopyalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aynısını veya benzerini çoğaltmak

@@ -2,6 +2,7 @@
 layout: term
 title: kavmî
 slug: kavmi
+letter: K
 lisan: Arapça ḳavmī
 anlamlar:
 - ► etnik

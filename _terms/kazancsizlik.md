@@ -2,6 +2,7 @@
 layout: term
 title: kazançsızlık
 slug: kazancsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazançsız olma durumu

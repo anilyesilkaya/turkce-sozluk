@@ -2,6 +2,7 @@
 layout: term
 title: yerinden yönetimci
 slug: yerinden-yonetimci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerinden yönetim yanlısı olan; ademimerkeziyetçi

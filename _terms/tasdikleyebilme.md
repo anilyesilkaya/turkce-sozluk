@@ -2,6 +2,7 @@
 layout: term
 title: tasdikleyebilme
 slug: tasdikleyebilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► onaylayabilme

@@ -2,6 +2,7 @@
 layout: term
 title: ayırt
 slug: ayirt
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► fark

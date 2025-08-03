@@ -2,6 +2,7 @@
 layout: term
 title: tümel kavram
 slug: tumel-kavram
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kapsamına aldığı bütün nesneleri gösteren kavram

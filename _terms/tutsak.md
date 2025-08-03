@@ -2,6 +2,7 @@
 layout: term
 title: tutsak
 slug: tutsak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Savaşta ele geçen düşman; esir (I), esire

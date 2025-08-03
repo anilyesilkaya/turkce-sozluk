@@ -2,6 +2,7 @@
 layout: term
 title: sahtecilik
 slug: sahtecilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sahtekârlık

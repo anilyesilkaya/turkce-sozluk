@@ -2,6 +2,7 @@
 layout: term
 title: davalık olmak
 slug: davalik-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birbirinden şikâyetçi olup mahkemeye başvurmak

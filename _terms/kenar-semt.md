@@ -2,6 +2,7 @@
 layout: term
 title: kenar semt
 slug: kenar-semt
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kenar mahalle

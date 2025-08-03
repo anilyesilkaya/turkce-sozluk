@@ -2,6 +2,7 @@
 layout: term
 title: paçarız
 slug: pacariz
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► çaparız

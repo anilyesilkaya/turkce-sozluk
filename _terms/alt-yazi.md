@@ -2,6 +2,7 @@
 layout: term
 title: alt yazı
 slug: alt-yazi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gazete, dergi, televizyon programı vb. yayınlarda çıkan resim ve fotoğrafları açıklayan yazı

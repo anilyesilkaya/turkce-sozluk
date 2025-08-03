@@ -2,6 +2,7 @@
 layout: term
 title: dövmeci
 slug: dovmeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kullanılmadan önce dövülmesi gereken maden filizlerini veya diğer maddeleri döven işçi

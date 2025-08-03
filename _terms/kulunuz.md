@@ -2,6 +2,7 @@
 layout: term
 title: kulunuz
 slug: kulunuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - alçak gönüllülük göstermiş olmak için ben zamiri yerine kullanılan bir söz

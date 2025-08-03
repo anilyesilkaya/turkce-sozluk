@@ -2,6 +2,7 @@
 layout: term
 title: kils
 slug: kils
+letter: K
 lisan: Arapça kils
 anlamlar:
 - ► kireç taşı

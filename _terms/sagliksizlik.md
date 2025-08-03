@@ -2,6 +2,7 @@
 layout: term
 title: sağlıksızlık
 slug: sagliksizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlıksız olma durumu; sıhhatsizlik, gayrisıhhilik

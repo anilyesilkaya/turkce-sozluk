@@ -2,6 +2,7 @@
 layout: term
 title: aktivite
 slug: aktivite
+letter: A
 lisan: Fransızca activité
 anlamlar:
 - ► etkinlik

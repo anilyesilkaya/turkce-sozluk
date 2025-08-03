@@ -2,6 +2,7 @@
 layout: term
 title: otuzlu
 slug: otuzlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otuz parçası bulunan, otuz parçadan oluşan

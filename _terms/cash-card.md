@@ -2,6 +2,7 @@
 layout: term
 title: cash card
 slug: cash-card
+letter: C
 lisan: İngilizce cash card
 anlamlar:
 - 343 nakit kartı

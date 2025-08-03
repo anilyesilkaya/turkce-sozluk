@@ -2,6 +2,7 @@
 layout: term
 title: körleştirmek
 slug: korlestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körleşmesine yol açmak

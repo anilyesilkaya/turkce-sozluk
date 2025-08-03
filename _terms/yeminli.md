@@ -2,6 +2,7 @@
 layout: term
 title: yeminli
 slug: yeminli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Açıklamasını yemin ederek yapan

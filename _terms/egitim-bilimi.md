@@ -2,6 +2,7 @@
 layout: term
 title: eğitim bilimi
 slug: egitim-bilimi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Öğretim ve eğitimi kurallara bağlayan bilim kolu; eğitim, pedagoji

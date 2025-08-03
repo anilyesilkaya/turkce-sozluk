@@ -2,6 +2,7 @@
 layout: term
 title: atın dorusu, yiğidin delisi
 slug: atin-dorusu-yigidin-delisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"atın doru renkli olanı, kişinin ise gözünü budaktan esirgemeyeni makbuldür" anlamında kullanılan bir söz'

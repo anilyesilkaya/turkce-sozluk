@@ -2,6 +2,7 @@
 layout: term
 title: demir yumruk
 slug: demir-yumruk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güçlü kuvvetli (kimse)

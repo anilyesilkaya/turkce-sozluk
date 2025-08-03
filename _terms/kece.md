@@ -2,6 +2,7 @@
 layout: term
 title: keçe
 slug: kece
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yapağı veya keçi kılının dövülmesi veya ayakla tepilmesiyle elde edilen kaba kumaş

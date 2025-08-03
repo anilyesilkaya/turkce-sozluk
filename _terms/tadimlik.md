@@ -2,6 +2,7 @@
 layout: term
 title: tadımlık
 slug: tadimlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin tadına bakmaya yeter miktarda olan; çeşni

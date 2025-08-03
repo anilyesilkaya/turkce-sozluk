@@ -2,6 +2,7 @@
 layout: term
 title: yürümek
 slug: yurumek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Adım atarak ilerlemek, gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: ailecek
 slug: ailecek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ailece

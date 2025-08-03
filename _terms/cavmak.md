@@ -2,6 +2,7 @@
 layout: term
 title: çavmak
 slug: cavmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güneş doğmak

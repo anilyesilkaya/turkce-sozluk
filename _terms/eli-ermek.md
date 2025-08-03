@@ -2,6 +2,7 @@
 layout: term
 title: eli ermek
 slug: eli-ermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yapabilmek, ulaşabilmek

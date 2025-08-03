@@ -2,6 +2,7 @@
 layout: term
 title: gevrek gevrek gülmek
 slug: gevrek-gevrek-gulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendine güvenip karşısındakini küçümsemek

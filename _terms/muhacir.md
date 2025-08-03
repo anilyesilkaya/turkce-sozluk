@@ -2,6 +2,7 @@
 layout: term
 title: muhacir
 slug: muhacir
+letter: M
 lisan: Arapça muhācir
 anlamlar:
 - ► göçmen

@@ -2,6 +2,7 @@
 layout: term
 title: servigiller
 slug: servigiller
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kozalaklılardan, servi, ardıç, mazı vb. ağaçları içine alan, çiçekleri bir veya iki evcikli bir bitki familyası

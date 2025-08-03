@@ -2,6 +2,7 @@
 layout: term
 title: zendostluk
 slug: zendostluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zamparalık

@@ -2,6 +2,7 @@
 layout: term
 title: hırlı
 slug: hirli
+letter: H
 lisan: Türkçe
 anlamlar:
 - İşinde doğru, uslu, iyi (kimse)

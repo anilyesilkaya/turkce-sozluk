@@ -2,6 +2,7 @@
 layout: term
 title: çelebice
 slug: celebice
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelebiye yakışır, çelebi gibi

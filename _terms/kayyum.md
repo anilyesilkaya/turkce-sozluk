@@ -2,6 +2,7 @@
 layout: term
 title: kayyum
 slug: kayyum
+letter: K
 lisan: Arapça ḳayyim
 anlamlar:
 - ► kayyım

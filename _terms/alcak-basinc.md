@@ -2,6 +2,7 @@
 layout: term
 title: alçak basınç
 slug: alcak-basinc
+letter: A
 lisan: Türkçe
 anlamlar:
 - Basınçölçerde 760 milimetre altında bulunan, kötü havayı işaret eden hava durumu

@@ -2,6 +2,7 @@
 layout: term
 title: çökme
 slug: cokme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökmek işi; çöküntü, obruma

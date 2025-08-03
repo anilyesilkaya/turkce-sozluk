@@ -2,6 +2,7 @@
 layout: term
 title: sarp
 slug: sarp
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dik, çıkması ve geçilmesi güç (yer); yalman

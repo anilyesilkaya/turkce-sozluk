@@ -2,6 +2,7 @@
 layout: term
 title: kaçan balık büyük olur
 slug: kacan-balik-buyuk-olur
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"elden kaçırılan fırsat gözde büyütülür" anlamında kullanılan bir söz'

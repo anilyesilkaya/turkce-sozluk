@@ -2,6 +2,7 @@
 layout: term
 title: nezaketli
 slug: nezaketli
+letter: N
 lisan: Türkçe
 anlamlar:
 - İnce, nazik

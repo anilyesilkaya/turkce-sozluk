@@ -2,6 +2,7 @@
 layout: term
 title: yaşlık
 slug: yaslik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaş olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: lastik gibi
 slug: lastik-gibi
+letter: L
 lisan: Türkçe
 anlamlar:
 - çevik

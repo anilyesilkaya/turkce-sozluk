@@ -2,6 +2,7 @@
 layout: term
 title: pamuk otu
 slug: pamuk-otu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Papirüs familyasından, bataklıklarda yetişen bir bitki; bataklık keteni (Eriophorum)

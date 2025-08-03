@@ -2,6 +2,7 @@
 layout: term
 title: lastikotin
 slug: lastikotin
+letter: L
 lisan: İngilizce leasting coating
 anlamlar:
 - İnce iplik ile çok sık dokunmuş yünlü kumaş

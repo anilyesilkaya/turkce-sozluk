@@ -2,6 +2,7 @@
 layout: term
 title: paçavra
 slug: pacavra
+letter: P
 lisan: Rumca
 anlamlar:
 - Eskimiş bez veya kumaş parçası; çaput

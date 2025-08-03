@@ -2,6 +2,7 @@
 layout: term
 title: borazancıbaşı
 slug: borazancibasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borazancıları yöneten kimse

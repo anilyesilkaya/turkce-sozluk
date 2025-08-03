@@ -2,6 +2,7 @@
 layout: term
 title: imbik
 slug: imbik
+letter: I
 lisan: Arapça inbīḳ
 anlamlar:
 - Damıtmaya yarayan, damıtma işinde kullanılan araç; damıtıcı

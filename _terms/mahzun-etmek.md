@@ -2,6 +2,7 @@
 layout: term
 title: mahzun etmek
 slug: mahzun-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - üzüntü vermek

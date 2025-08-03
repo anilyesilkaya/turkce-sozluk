@@ -2,6 +2,7 @@
 layout: term
 title: haşir
 slug: hasir
+letter: H
 lisan: Arapça ḥaşr
 anlamlar:
 - Toplanma, bir araya gelme

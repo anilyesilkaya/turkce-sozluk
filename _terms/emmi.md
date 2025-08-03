@@ -2,6 +2,7 @@
 layout: term
 title: emmi
 slug: emmi
+letter: E
 lisan: Arapça ʿamm
 anlamlar:
 - ► amca

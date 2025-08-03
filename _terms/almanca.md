@@ -2,6 +2,7 @@
 layout: term
 title: Almanca
 slug: almanca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hint-Avrupa dil ailesinin Cermence kolundan, Almanya, Avusturya ile İsviçre'nin bir bölümünde kullanılan dil

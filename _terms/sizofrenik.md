@@ -2,6 +2,7 @@
 layout: term
 title: şizofrenik
 slug: sizofrenik
+letter: Ş
 lisan: Fransızca schizophrénique
 anlamlar:
 - Şizofreni ile ilgili

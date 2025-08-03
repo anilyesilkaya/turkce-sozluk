@@ -2,6 +2,7 @@
 layout: term
 title: akıl ermek
 slug: akil-ermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlamak, çözmek

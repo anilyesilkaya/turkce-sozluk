@@ -2,6 +2,7 @@
 layout: term
 title: farmason
 slug: farmason
+letter: F
 lisan: Fransızca franc-maçon
 anlamlar:
 - ► mason

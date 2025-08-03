@@ -2,6 +2,7 @@
 layout: term
 title: akşamcılık
 slug: aksamcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşamcı olma durumu

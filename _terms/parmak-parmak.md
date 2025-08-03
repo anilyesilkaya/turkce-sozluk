@@ -2,6 +2,7 @@
 layout: term
 title: parmak parmak
 slug: parmak-parmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parmak biçiminde

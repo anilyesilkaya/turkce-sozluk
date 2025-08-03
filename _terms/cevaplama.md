@@ -2,6 +2,7 @@
 layout: term
 title: cevaplama
 slug: cevaplama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevaplamak işi; yanıtlama

@@ -2,6 +2,7 @@
 layout: term
 title: ortalık ağarmak
 slug: ortalik-agarmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - sabah olmaya başlamak

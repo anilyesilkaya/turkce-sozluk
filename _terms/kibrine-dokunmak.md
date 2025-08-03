@@ -2,6 +2,7 @@
 layout: term
 title: kibrine dokunmak
 slug: kibrine-dokunmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gururu zedelenmek

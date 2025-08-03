@@ -2,6 +2,7 @@
 layout: term
 title: 'pekiştirme edatı '
 slug: pekistirme-edati
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pekiştirme işlevli edat

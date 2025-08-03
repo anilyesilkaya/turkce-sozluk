@@ -2,6 +2,7 @@
 layout: term
 title: binek
 slug: binek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binmeye yarayan otomobil, at vb

@@ -2,6 +2,7 @@
 layout: term
 title: mesame
 slug: mesame
+letter: M
 lisan: Arapça mesāmme
 anlamlar:
 - ► gözenek

@@ -2,6 +2,7 @@
 layout: term
 title: kardiyak
 slug: kardiyak
+letter: K
 lisan: Fransızca cardiaque
 anlamlar:
 - Kalp hastalığı olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: analık etmek
 slug: analik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - analık görevini yapmak

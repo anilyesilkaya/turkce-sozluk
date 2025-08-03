@@ -2,6 +2,7 @@
 layout: term
 title: çıpalamak
 slug: cipalamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Gemi, kayık vb.nin dalgalara, akıntılara kapılarak yer değiştirmesini çıpa aracılığıyla önlemek

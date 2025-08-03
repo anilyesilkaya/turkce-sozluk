@@ -2,6 +2,7 @@
 layout: term
 title: tomruk
 slug: tomruk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ağacın kesilerek silindir biçimine getirilmiş gövdesi

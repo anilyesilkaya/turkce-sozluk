@@ -2,6 +2,7 @@
 layout: term
 title: arpacılık
 slug: arpacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yankesicilik

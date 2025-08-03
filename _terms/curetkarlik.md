@@ -2,6 +2,7 @@
 layout: term
 title: cüretkârlık
 slug: curetkarlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cüretli olma durumu

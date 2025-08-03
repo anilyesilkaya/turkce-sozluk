@@ -2,6 +2,7 @@
 layout: term
 title: ramak
 slug: ramak
+letter: R
 lisan: Arapça ramaḳ
 anlamlar:
 - '"Bir şeyin olmasına çok az kalmak" anlamına gelen ramak kalmak deyiminde geçer'

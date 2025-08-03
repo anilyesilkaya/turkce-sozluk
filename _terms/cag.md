@@ -2,6 +2,7 @@
 layout: term
 title: çağ
 slug: cag
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Zaman dilimi; asır, kurun, vakit

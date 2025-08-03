@@ -2,6 +2,7 @@
 layout: term
 title: buluşmak
 slug: bulusmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Uzun bir ayrılıktan sonra birbirini görmek, birbirine kavuşmak

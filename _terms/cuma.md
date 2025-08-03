@@ -2,6 +2,7 @@
 layout: term
 title: cuma
 slug: cuma
+letter: C
 lisan: Arapça cumʿa
 anlamlar:
 - Perşembe ile cumartesi arasındaki gün

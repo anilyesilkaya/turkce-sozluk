@@ -2,6 +2,7 @@
 layout: term
 title: öğütüş
 slug: ogutus
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğütmek işi

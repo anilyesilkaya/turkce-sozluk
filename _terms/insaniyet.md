@@ -2,6 +2,7 @@
 layout: term
 title: insaniyet
 slug: insaniyet
+letter: I
 lisan: Arapça insāniyyet
 anlamlar:
 - ► insanlık

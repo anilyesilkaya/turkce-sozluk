@@ -2,6 +2,7 @@
 layout: term
 title: yapı yeri
 slug: yapi-yeri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► şantiye

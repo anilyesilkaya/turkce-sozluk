@@ -2,6 +2,7 @@
 layout: term
 title: uslandırmak
 slug: uslandirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uslanma işini yaptırmak

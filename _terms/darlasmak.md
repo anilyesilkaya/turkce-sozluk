@@ -2,6 +2,7 @@
 layout: term
 title: darlaşmak
 slug: darlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► daralmak

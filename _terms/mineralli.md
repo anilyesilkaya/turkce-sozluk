@@ -2,6 +2,7 @@
 layout: term
 title: mineralli
 slug: mineralli
+letter: M
 lisan: Türkçe
 anlamlar:
 - İçinde mineral bulunan

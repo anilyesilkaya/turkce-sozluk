@@ -2,6 +2,7 @@
 layout: term
 title: ucuza gitmek
 slug: ucuza-gitmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - basit, kolay, önemsiz olarak değerlendirilmek

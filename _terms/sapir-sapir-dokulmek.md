@@ -2,6 +2,7 @@
 layout: term
 title: sapır sapır dökülmek
 slug: sapir-sapir-dokulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birbiri ardınca, arka arkaya gitmek

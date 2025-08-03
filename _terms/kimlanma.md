@@ -2,6 +2,7 @@
 layout: term
 title: kımlanma
 slug: kimlanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kımlanmak işi

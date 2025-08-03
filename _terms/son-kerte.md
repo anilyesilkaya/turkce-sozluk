@@ -2,6 +2,7 @@
 layout: term
 title: son kerte
 slug: son-kerte
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► son derece

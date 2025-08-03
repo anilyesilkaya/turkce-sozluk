@@ -2,6 +2,7 @@
 layout: term
 title: ağrıtmak
 slug: agritmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrımasına yol açmak

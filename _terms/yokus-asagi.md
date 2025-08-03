@@ -2,6 +2,7 @@
 layout: term
 title: yokuş aşağı
 slug: yokus-asagi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yokuşta aşağıya doğru

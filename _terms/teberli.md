@@ -2,6 +2,7 @@
 layout: term
 title: teberli
 slug: teberli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teberi olan

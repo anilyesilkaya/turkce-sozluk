@@ -2,6 +2,7 @@
 layout: term
 title: mutlakçılık
 slug: mutlakcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► saltçılık

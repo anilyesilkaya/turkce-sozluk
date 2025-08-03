@@ -2,6 +2,7 @@
 layout: term
 title: karnaval
 slug: karnaval
+letter: K
 lisan: Fransızca carnaval
 anlamlar:
 - Hristiyanların büyük perhizden önce renkli ve şaşırtıcı kılıklara girerek yaptıkları şenlik

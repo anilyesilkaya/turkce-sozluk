@@ -2,6 +2,7 @@
 layout: term
 title: algılayabilmek
 slug: algilayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algılama ihtimali veya imkânı bulunmak

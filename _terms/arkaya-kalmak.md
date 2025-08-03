@@ -2,6 +2,7 @@
 layout: term
 title: arkaya kalmak
 slug: arkaya-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - geride kalmak, sonraya kalmak, geriden gelmek

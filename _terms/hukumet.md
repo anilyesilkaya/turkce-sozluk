@@ -2,6 +2,7 @@
 layout: term
 title: hükûmet
 slug: hukumet
+letter: H
 lisan: Arapça ḥukūmet
 anlamlar:
 - ► bakanlar kurulu

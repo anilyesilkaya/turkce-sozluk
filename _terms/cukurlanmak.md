@@ -2,6 +2,7 @@
 layout: term
 title: çukurlanmak
 slug: cukurlanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çukur durumuna girmek veya çukurlu olmak

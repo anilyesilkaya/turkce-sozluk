@@ -2,6 +2,7 @@
 layout: term
 title: harlamak
 slug: harlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ateş için kuvvetlenmek, harlı bir biçimde yanmak

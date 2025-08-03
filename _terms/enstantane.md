@@ -2,6 +2,7 @@
 layout: term
 title: enstantane
 slug: enstantane
+letter: E
 lisan: Fransızca instantané
 anlamlar:
 - Işıklama süresi saniyenin 1/25'i veya daha kısa olan hızlı bir hareketi çekme yöntemi

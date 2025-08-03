@@ -2,6 +2,7 @@
 layout: term
 title: bir tuhaf olmak
 slug: bir-tuhaf-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - garipleşmek, acayipleşmek

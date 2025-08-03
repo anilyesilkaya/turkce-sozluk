@@ -2,6 +2,7 @@
 layout: term
 title: bağıtçı
 slug: bagitci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işi karşılıklı olarak kararlaştırıp üstlerine alan taraflardan her biri, sözleşme yapan; âkit

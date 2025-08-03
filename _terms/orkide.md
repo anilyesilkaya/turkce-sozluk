@@ -2,6 +2,7 @@
 layout: term
 title: orkide
 slug: orkide
+letter: O
 lisan: Fransızca orchidée
 anlamlar:
 - Salepgillerden, doğada, çiçeklerinin güzelliği dolayısıyla camekânlarda da yetiştirilen, birtakım bitki türlerinin ortak adı

@@ -2,6 +2,7 @@
 layout: term
 title: bal rengi
 slug: bal-rengi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle kahverengiye çalan sarı renk

@@ -2,6 +2,7 @@
 layout: term
 title: nakzetmek
 slug: nakzetmek
+letter: N
 lisan: Arapça naḳż + Türkçe etmek
 anlamlar:
 - ► bozmak

@@ -2,6 +2,7 @@
 layout: term
 title: nazmetmek
 slug: nazmetmek
+letter: N
 lisan: Arapça naẓm + Türkçe etmek
 anlamlar:
 - Nazım biçimine sokmak, nazım olarak düzenlemek

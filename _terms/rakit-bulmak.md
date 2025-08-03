@@ -2,6 +2,7 @@
 layout: term
 title: rakit bulmak
 slug: rakit-bulmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - sakinleşmek

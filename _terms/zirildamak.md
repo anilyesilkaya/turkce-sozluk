@@ -2,6 +2,7 @@
 layout: term
 title: zırıldamak
 slug: zirildamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Durmaksızın söylenerek hoşnutsuzluğunu açığa vurmak; zırıldanmak, zırlamak

@@ -2,6 +2,7 @@
 layout: term
 title: sübek
 slug: subek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı yerlerde beşikteki çocukların bacakları arasına yerleştirilen sidik şişesi veya sidiği bir kaba akıtacak boru

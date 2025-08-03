@@ -2,6 +2,7 @@
 layout: term
 title: tenvir etmek
 slug: tenvir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ışıklandırmak, aydınlatmak

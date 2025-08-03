@@ -2,6 +2,7 @@
 layout: term
 title: bediileşmek
 slug: bediilesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedii duruma gelmek

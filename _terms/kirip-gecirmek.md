@@ -2,6 +2,7 @@
 layout: term
 title: kırıp geçirmek
 slug: kirip-gecirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yakıp yıkarak, öldürerek, baskı veya etki yaparak büyük zarar vermek

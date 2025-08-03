@@ -2,6 +2,7 @@
 layout: term
 title: ağaç arısı
 slug: agac-arisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düzgün kanatlı, kuyruğunda yumurtlama hortumu olan, 3-4 santimetre boyunda ağaç zararlısı

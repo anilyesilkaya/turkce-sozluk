@@ -2,6 +2,7 @@
 layout: term
 title: akrobatlık
 slug: akrobatlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cambazlık

@@ -2,6 +2,7 @@
 layout: term
 title: teklifsizlik
 slug: teklifsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teklifsiz olma durumu

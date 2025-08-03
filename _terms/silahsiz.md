@@ -2,6 +2,7 @@
 layout: term
 title: silahsız
 slug: silahsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silahı olmayan

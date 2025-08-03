@@ -2,6 +2,7 @@
 layout: term
 title: durulama
 slug: durulama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durulamak işi

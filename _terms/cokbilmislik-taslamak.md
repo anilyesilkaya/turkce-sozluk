@@ -2,6 +2,7 @@
 layout: term
 title: çokbilmişlik taslamak
 slug: cokbilmislik-taslamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kendini çokbilmiş gibi göstermek

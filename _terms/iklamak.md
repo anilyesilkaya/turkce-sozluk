@@ -2,6 +2,7 @@
 layout: term
 title: ıklamak
 slug: iklamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yük altında güçlükle solumak

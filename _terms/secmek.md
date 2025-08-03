@@ -2,6 +2,7 @@
 layout: term
 title: seçmek
 slug: secmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Benzerleri arasında hoşa gideni seçip almak veya yararlanmak için ayırmak; saylamak

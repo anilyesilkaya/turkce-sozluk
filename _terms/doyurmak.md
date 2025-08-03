@@ -2,6 +2,7 @@
 layout: term
 title: doyurmak
 slug: doyurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Açlığını gidermek

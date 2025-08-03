@@ -2,6 +2,7 @@
 layout: term
 title: omurga
 slug: omurga
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sırt boyunca uzanarak vücuda destek sağlayan, kemikten, kıkırdaktan veya her ikisinden oluşan, içinde omuriliği barındıran kemik yapı

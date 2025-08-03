@@ -2,6 +2,7 @@
 layout: term
 title: file
 slug: file
+letter: F
 lisan: Fransızca filet
 anlamlar:
 - Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ

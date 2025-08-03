@@ -2,6 +2,7 @@
 layout: term
 title: tabansızlık
 slug: tabansizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabansız olma durumu

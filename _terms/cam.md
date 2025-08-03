@@ -2,6 +2,7 @@
 layout: term
 title: çam
 slug: cam
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamgillerin örnek bitkisi olan, dört mevsim yeşil kalabilen, iğne yapraklı, yurdumuzda birçok türü yetişen bir orman ağacı (Pinus)

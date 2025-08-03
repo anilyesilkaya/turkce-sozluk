@@ -2,6 +2,7 @@
 layout: term
 title: oylama
 slug: oylama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oy kullanma işi

@@ -2,6 +2,7 @@
 layout: term
 title: süblimleştirme
 slug: sublimlestirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir cismi katı durumdan doğrudan doğruya gaz durumuna dönüştürmeye dayanan işlem

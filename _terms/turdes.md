@@ -2,6 +2,7 @@
 layout: term
 title: türdeş
 slug: turdes
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türleri bir olanlardan her biri

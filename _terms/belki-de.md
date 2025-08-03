@@ -2,6 +2,7 @@
 layout: term
 title: belki de
 slug: belki-de
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"şu da olabilir" anlamında kullanılan bir söz'

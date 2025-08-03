@@ -2,6 +2,7 @@
 layout: term
 title: iman
 slug: iman
+letter: I
 lisan: Arapça īmān
 anlamlar:
 - ► inanç

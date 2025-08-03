@@ -2,6 +2,7 @@
 layout: term
 title: aklamak
 slug: aklamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak; tebriye etmek, ibra etmek

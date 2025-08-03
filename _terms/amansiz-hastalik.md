@@ -2,6 +2,7 @@
 layout: term
 title: amansız hastalık
 slug: amansiz-hastalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kanser

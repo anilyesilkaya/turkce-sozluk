@@ -2,6 +2,7 @@
 layout: term
 title: asbaşkanlık
 slug: asbaskanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asbaşkanın görevi ve makamı

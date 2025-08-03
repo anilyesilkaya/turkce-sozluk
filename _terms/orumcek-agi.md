@@ -2,6 +2,7 @@
 layout: term
 title: 'örümcek ağı '
 slug: orumcek-agi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örümceğin ördüğü ağ

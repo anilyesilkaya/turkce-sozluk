@@ -2,6 +2,7 @@
 layout: term
 title: çivit mavisi
 slug: civit-mavisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivit rengindeki mavi

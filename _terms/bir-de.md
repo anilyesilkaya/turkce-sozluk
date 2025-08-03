@@ -2,6 +2,7 @@
 layout: term
 title: bir de
 slug: bir-de
+letter: B
 lisan: Türkçe
 anlamlar:
 - var olana katarak, fazladan

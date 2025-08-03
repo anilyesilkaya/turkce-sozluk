@@ -2,6 +2,7 @@
 layout: term
 title: sağır renk
 slug: sagir-renk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Değişik renklerin veya boyaların karışmasından ortaya çıkan ve kesin bir adı olmayan renk

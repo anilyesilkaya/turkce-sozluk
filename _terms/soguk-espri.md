@@ -2,6 +2,7 @@
 layout: term
 title: soğuk espri
 slug: soguk-espri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Güldürmeyen, niteliksiz, yersiz espri

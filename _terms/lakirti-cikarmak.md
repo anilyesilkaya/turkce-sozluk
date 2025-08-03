@@ -2,6 +2,7 @@
 layout: term
 title: lakırtı çıkarmak
 slug: lakirti-cikarmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - laf çıkarmak

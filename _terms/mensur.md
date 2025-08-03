@@ -2,6 +2,7 @@
 layout: term
 title: menşur
 slug: mensur
+letter: M
 lisan: Arapça menşūr
 anlamlar:
 - Yayılmış, dağıtılmış, neşredilmiş

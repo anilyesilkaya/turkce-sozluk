@@ -2,6 +2,7 @@
 layout: term
 title: örs ve çekiç arasında kalmak
 slug: ors-ve-cekic-arasinda-kalmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - aynı derecede güçlü ve zorlu iki kişi veya düşünce arasında bulunmak

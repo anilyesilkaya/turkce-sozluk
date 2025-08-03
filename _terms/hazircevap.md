@@ -2,6 +2,7 @@
 layout: term
 title: hazırcevap
 slug: hazircevap
+letter: H
 lisan: Arapça ḥāżir + cevāb
 anlamlar:
 - Gerektiğinde çabuk, yerinde cevaplar bulup veren (kimse)

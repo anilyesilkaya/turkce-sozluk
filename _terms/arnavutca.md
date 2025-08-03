@@ -2,6 +2,7 @@
 layout: term
 title: Arnavutça
 slug: arnavutca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hint-Avrupa dilleri ailesine giren, Arnavutların kullandığı dil

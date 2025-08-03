@@ -2,6 +2,7 @@
 layout: term
 title: minder
 slug: minder
+letter: M
 lisan: Türkçe
 anlamlar:
 - İçi yumuşak bir malzeme ile doldurularak dikilen, oturmaya, yaslanmaya yarar şilte

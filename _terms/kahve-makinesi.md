@@ -2,6 +2,7 @@
 layout: term
 title: kahve makinesi
 slug: kahve-makinesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahve çeken veya öğüten makine

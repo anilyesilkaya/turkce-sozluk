@@ -2,6 +2,7 @@
 layout: term
 title: kalayhane
 slug: kalayhane
+letter: K
 lisan: kalay + Farsça ḫāne
 anlamlar:
 - Kalaycının çalıştığı yer

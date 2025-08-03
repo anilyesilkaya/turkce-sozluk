@@ -2,6 +2,7 @@
 layout: term
 title: sakarinsiz
 slug: sakarinsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakarini olmayan

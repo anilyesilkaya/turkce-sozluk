@@ -2,6 +2,7 @@
 layout: term
 title: triportör
 slug: triportor
+letter: T
 lisan: Fransızca triporteur
 anlamlar:
 - Eşya taşımak için bir kasası bulunan, çoğu kez motorlu, üç tekerlekli küçük taşıt; üçteker

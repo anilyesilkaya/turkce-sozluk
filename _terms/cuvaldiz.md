@@ -2,6 +2,7 @@
 layout: term
 title: çuvaldız
 slug: cuvaldiz
+letter: Ç
 lisan: Farsça cuvāl-dūz
 anlamlar:
 - Çuval vb. dokumalar dikmekte kullanılan, ucu yassı ve eğri, büyük iğne; kıyık (I)

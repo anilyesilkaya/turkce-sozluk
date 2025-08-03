@@ -2,6 +2,7 @@
 layout: term
 title: kano
 slug: kano
+letter: K
 lisan: Fransızca canot
 anlamlar:
 - Kürekle yürütülen dar, uzun, hafif tekne

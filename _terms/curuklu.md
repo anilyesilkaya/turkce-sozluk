@@ -2,6 +2,7 @@
 layout: term
 title: çürüklü
 slug: curuklu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürüğü olan

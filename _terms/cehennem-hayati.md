@@ -2,6 +2,7 @@
 layout: term
 title: cehennem hayatı
 slug: cehennem-hayati
+letter: C
 lisan: Türkçe
 anlamlar:
 - Büyük sıkıntı ve üzüntülerle dolu yaşayış

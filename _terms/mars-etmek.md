@@ -2,6 +2,7 @@
 layout: term
 title: marş etmek
 slug: mars-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - askerî kıtaya yürümesi için komut vermek

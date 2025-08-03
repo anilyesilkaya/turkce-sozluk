@@ -2,6 +2,7 @@
 layout: term
 title: sayıltı
 slug: sayilti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir araştırmada, mevcut araştırma sürecini ve sonucunu önemli ölçüde etkileyeceği düşünülen, araştırıcının gerekçeli kabulleri

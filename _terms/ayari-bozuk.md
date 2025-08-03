@@ -2,6 +2,7 @@
 layout: term
 title: ayarı bozuk
 slug: ayari-bozuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belli bir ayarı olmayan

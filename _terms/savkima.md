@@ -2,6 +2,7 @@
 layout: term
 title: şavkıma
 slug: savkima
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şavkımak işi

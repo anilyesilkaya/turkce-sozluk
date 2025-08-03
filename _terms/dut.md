@@ -2,6 +2,7 @@
 layout: term
 title: dut
 slug: dut
+letter: D
 lisan: Farsça tūt
 anlamlar:
 - Dutgillerden, kuzey yarım kürenin genellikle ılıman bölgelerinde yetişen, yapraklarıyla ipek böceği beslenen ağaç (Morus)

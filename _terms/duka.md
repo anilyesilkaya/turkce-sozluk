@@ -2,6 +2,7 @@
 layout: term
 title: duka
 slug: duka
+letter: D
 lisan: İtalyanca duca
 anlamlar:
 - Dük ünvanının eskiden kullanılan biçimi

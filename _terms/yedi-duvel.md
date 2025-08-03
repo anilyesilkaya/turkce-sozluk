@@ -2,6 +2,7 @@
 layout: term
 title: yedi düvel
 slug: yedi-duvel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bütün devletler

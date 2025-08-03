@@ -2,6 +2,7 @@
 layout: term
 title: kaynaşma
 slug: kaynasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynaşmak işi; füzyon

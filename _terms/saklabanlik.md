@@ -2,6 +2,7 @@
 layout: term
 title: şaklabanlık
 slug: saklabanlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaklaban olma durumu

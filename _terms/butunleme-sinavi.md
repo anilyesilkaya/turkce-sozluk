@@ -2,6 +2,7 @@
 layout: term
 title: bütünleme sınavı
 slug: butunleme-sinavi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eğitim kurumlarında başarısız olan öğrenciler için yarıyıl sonu veya öğretim yılı sonunda yapılan ek sınav; bütünleme, bütünleme imtihanı, ikmal, ikmal imtihanı

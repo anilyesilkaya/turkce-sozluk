@@ -2,6 +2,7 @@
 layout: term
 title: yüklem grubu
 slug: yuklem-grubu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yüklem öbeği

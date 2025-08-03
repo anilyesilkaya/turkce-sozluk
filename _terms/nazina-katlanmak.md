@@ -2,6 +2,7 @@
 layout: term
 title: nazına katlanmak
 slug: nazina-katlanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - birinin istediği  her şeyi hangi durumda olunursa olunsun  yerine getirmek

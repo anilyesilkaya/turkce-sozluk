@@ -2,6 +2,7 @@
 layout: term
 title: nakarat
 slug: nakarat
+letter: N
 lisan: Arapça naḳarāt
 anlamlar:
 - Bir şarkıda her kıtadan sonra tekrarlanan ve bestesi değişmeyen parça; kavuştak

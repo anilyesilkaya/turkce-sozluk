@@ -2,6 +2,7 @@
 layout: term
 title: dikleştirmek
 slug: diklestirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dik duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: sıhhiye
 slug: sihhiye
+letter: S
 lisan: Arapça ṣiḥḥiyye
 anlamlar:
 - Sağlık işlerinin tümü

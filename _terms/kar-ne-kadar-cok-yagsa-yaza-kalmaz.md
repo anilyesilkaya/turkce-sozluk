@@ -2,6 +2,7 @@
 layout: term
 title: kar ne kadar çok yağsa yaza kalmaz
 slug: kar-ne-kadar-cok-yagsa-yaza-kalmaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"elverişli bir ortamda çoğalan şeyler, ortam elverişliliğini yitirince yok olur" anlamında kullanılan bir söz'

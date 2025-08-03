@@ -2,6 +2,7 @@
 layout: term
 title: ifritleşmek
 slug: ifritlesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ortalığı birbirine katan, kötü ve zarar verici hâle dönmek

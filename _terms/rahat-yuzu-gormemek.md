@@ -2,6 +2,7 @@
 layout: term
 title: rahat yüzü görmemek
 slug: rahat-yuzu-gormemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - hiç rahat etmemek

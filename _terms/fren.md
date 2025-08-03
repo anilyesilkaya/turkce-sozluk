@@ -2,6 +2,7 @@
 layout: term
 title: fren
 slug: fren
+letter: F
 lisan: Fransızca frein
 anlamlar:
 - Bir makinenin, herhangi bir taşıtın hızını kesmeye veya onu durdurmaya yarayan mekanizma

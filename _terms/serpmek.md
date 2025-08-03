@@ -2,6 +2,7 @@
 layout: term
 title: serpmek
 slug: serpmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi dağılacak biçimde dökmek

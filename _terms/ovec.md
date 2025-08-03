@@ -2,6 +2,7 @@
 layout: term
 title: öveç
 slug: ovec
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İki üç yaşındaki erkek koyun

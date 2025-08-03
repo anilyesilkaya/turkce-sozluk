@@ -2,6 +2,7 @@
 layout: term
 title: genel başkanlık
 slug: genel-baskanlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genel başkan olma durumu

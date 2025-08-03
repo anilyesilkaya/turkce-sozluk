@@ -2,6 +2,7 @@
 layout: term
 title: Almanlaşmak
 slug: almanlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Almanlara özgü yaşayış tarzını benimsemek

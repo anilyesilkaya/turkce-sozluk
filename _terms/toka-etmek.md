@@ -2,6 +2,7 @@
 layout: term
 title: toka etmek
 slug: toka-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - el sıkışmak

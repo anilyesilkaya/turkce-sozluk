@@ -2,6 +2,7 @@
 layout: term
 title: cins cibilliyet
 slug: cins-cibilliyet
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► soy sop

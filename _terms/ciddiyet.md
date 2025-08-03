@@ -2,6 +2,7 @@
 layout: term
 title: ciddiyet
 slug: ciddiyet
+letter: C
 lisan: Arapça ciddiyyet
 anlamlar:
 - ► ciddilik

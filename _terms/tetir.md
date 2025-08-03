@@ -2,6 +2,7 @@
 layout: term
 title: tetir
 slug: tetir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Cevizin yeşil kabuğu

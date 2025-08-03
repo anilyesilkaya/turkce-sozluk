@@ -2,6 +2,7 @@
 layout: term
 title: koşar adım
 slug: kosar-adim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toplu jimnastikte yapılan hafif tempolu koşu

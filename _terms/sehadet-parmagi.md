@@ -2,6 +2,7 @@
 layout: term
 title: şehadet parmağı
 slug: sehadet-parmagi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► işaret parmağı

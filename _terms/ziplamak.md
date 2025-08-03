@@ -2,6 +2,7 @@
 layout: term
 title: zıplamak
 slug: ziplamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir yere çarpıp yukarı fırlamak

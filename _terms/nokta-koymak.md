@@ -2,6 +2,7 @@
 layout: term
 title: nokta koymak
 slug: nokta-koymak
+letter: N
 lisan: Türkçe
 anlamlar:
 - gereken yerde nokta işaretini kullanmak

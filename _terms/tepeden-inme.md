@@ -2,6 +2,7 @@
 layout: term
 title: tepeden inme
 slug: tepeden-inme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Beklenmedik, şaşırtıcı olan

@@ -2,6 +2,7 @@
 layout: term
 title: kölemen
 slug: kolemen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kölelerden kurulan bir asker sınıfı

@@ -2,6 +2,7 @@
 layout: term
 title: başimam
 slug: basimam
+letter: B
 lisan: Türkçe baş + Arapça imām
 anlamlar:
 - Birden çok imam bulunan büyük camilerde yetkili imam

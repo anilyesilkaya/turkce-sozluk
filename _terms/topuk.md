@@ -2,6 +2,7 @@
 layout: term
 title: topuk
 slug: topuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsan ayağının toparlakça olan alt arka bölümü

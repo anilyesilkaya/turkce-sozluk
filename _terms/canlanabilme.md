@@ -2,6 +2,7 @@
 layout: term
 title: canlanabilme
 slug: canlanabilme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlanabilmek işi

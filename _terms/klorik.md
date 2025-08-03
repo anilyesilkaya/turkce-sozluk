@@ -2,6 +2,7 @@
 layout: term
 title: klorik
 slug: klorik
+letter: K
 lisan: Fransızca chlorique
 anlamlar:
 - ► klorik asit

@@ -2,6 +2,7 @@
 layout: term
 title: bal dudak
 slug: bal-dudak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bal dudaklı

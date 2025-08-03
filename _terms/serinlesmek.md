@@ -2,6 +2,7 @@
 layout: term
 title: serinleşmek
 slug: serinlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serin duruma gelmek; serinlemek, serinlik vermek

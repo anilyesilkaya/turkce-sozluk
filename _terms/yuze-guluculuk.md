@@ -2,6 +2,7 @@
 layout: term
 title: yüze gülücülük
 slug: yuze-guluculuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ikiyüzlülük

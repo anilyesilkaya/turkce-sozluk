@@ -2,6 +2,7 @@
 layout: term
 title: un kurabiyesi
 slug: un-kurabiyesi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Un, yağ ve pudra şekeriyle yapılan, ağızda dağılan bir tür kurabiye

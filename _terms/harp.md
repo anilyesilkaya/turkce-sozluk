@@ -2,6 +2,7 @@
 layout: term
 title: harp
 slug: harp
+letter: H
 lisan: Fransızca harpe
 anlamlar:
 - ► arp

@@ -2,6 +2,7 @@
 layout: term
 title: kompleks
 slug: kompleks
+letter: K
 lisan: Fransızca complexe
 anlamlar:
 - ► karmaşık

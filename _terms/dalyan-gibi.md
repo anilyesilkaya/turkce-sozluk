@@ -2,6 +2,7 @@
 layout: term
 title: dalyan gibi
 slug: dalyan-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - boylu boslu

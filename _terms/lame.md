@@ -2,6 +2,7 @@
 layout: term
 title: lame
 slug: lame
+letter: L
 lisan: Fransızca lamé
 anlamlar:
 - Dokusunda çoğunlukla gümüş ve altın renginde tel bulunan kumaş veya metal parlaklığı verilmiş deri

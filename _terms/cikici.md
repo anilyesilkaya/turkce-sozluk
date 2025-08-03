@@ -2,6 +2,7 @@
 layout: term
 title: çıkıcı
 slug: cikici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkma işini yapan, çıkan

@@ -2,6 +2,7 @@
 layout: term
 title: iğne
 slug: igne
+letter: I
 lisan: Türkçe
 anlamlar:
 - Dikiş dikmeye yarayan, ince, ucu sivri, bir ucunda iplik geçecek deliği bulunan çelik araç

@@ -2,6 +2,7 @@
 layout: term
 title: anaca
 slug: anaca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anne olarak

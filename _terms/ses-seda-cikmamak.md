@@ -2,6 +2,7 @@
 layout: term
 title: ses seda çıkmamak
 slug: ses-seda-cikmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - haber çıkmamak

@@ -2,6 +2,7 @@
 layout: term
 title: kanatlı
 slug: kanatli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanadı olan

@@ -2,6 +2,7 @@
 layout: term
 title: serak
 slug: serak
+letter: S
 lisan: Fransızca sérac
 anlamlar:
 - Buzullar üzerindeki derin ve enlemesine çatlaklar

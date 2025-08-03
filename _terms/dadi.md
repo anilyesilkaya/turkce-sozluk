@@ -2,6 +2,7 @@
 layout: term
 title: dadı
 slug: dadi
+letter: D
 lisan: Farsça dādū
 anlamlar:
 - Evlerde çocuğa bakan kimse; daye, taya

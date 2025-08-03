@@ -2,6 +2,7 @@
 layout: term
 title: günlerce
 slug: gunlerce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Pek çok gün boyunca; günler günü

@@ -2,6 +2,7 @@
 layout: term
 title: onat
 slug: onat
+letter: O
 lisan: Türkçe
 anlamlar:
 - Özenli, düzgün, uygun olan

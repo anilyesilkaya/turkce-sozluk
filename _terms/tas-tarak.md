@@ -2,6 +2,7 @@
 layout: term
 title: tas tarak
 slug: tas-tarak
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Gitmek üzere bütün eşyasını toplamak" anlamındaki tası tarağı toplamak deyiminde geçer'

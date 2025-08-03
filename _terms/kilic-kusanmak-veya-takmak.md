@@ -2,6 +2,7 @@
 layout: term
 title: kılıç kuşanmak (veya takmak)
 slug: kilic-kusanmak-veya-takmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kılıcı olmak ve onu taşıyacak güce ve yetkiye hak kazanmak

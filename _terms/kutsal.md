@@ -2,6 +2,7 @@
 layout: term
 title: kutsal
 slug: kutsal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güçlü bir dinî saygı uyandıran veya uyandırması gereken; kutsi, mukaddes, mübarek

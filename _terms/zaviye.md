@@ -2,6 +2,7 @@
 layout: term
 title: zaviye
 slug: zaviye
+letter: Z
 lisan: Arapça zāviyye
 anlamlar:
 - ► köşe

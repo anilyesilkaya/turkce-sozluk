@@ -2,6 +2,7 @@
 layout: term
 title: taşıyıcı annelik
 slug: tasiyici-annelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıyıcı anne olma durumu

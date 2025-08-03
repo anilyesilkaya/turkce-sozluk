@@ -2,6 +2,7 @@
 layout: term
 title: fakatlı
 slug: fakatli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri süren

@@ -2,6 +2,7 @@
 layout: term
 title: kuzen
 slug: kuzen
+letter: K
 lisan: Fransızca cousin
 anlamlar:
 - Birine göre teyze, dayı, amca ve halanın erkek çocuğu

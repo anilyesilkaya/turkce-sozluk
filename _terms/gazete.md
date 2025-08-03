@@ -2,6 +2,7 @@
 layout: term
 title: gazete
 slug: gazete
+letter: G
 lisan: İtalyanca gazzetta
 anlamlar:
 - Politika, ekonomi, kültür ve daha başka konularda haber ve bilgi vermek için yorumlu veya yorumsuz, her gün veya belirli zaman aralıklarıyla çıkarılan yayın; ceride

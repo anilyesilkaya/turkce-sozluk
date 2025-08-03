@@ -2,6 +2,7 @@
 layout: term
 title: soyguncusuz
 slug: soyguncusuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyguncusu olmayan

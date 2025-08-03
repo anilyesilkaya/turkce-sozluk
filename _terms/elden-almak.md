@@ -2,6 +2,7 @@
 layout: term
 title: elden almak
 slug: elden-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir malı pazara çıkarılmadan, aracı olmaksızın sahibinden satın almak

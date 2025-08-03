@@ -2,6 +2,7 @@
 layout: term
 title: ilerlemek
 slug: ilerlemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bulunduğu yerden daha ileriye gitmek, yol almak

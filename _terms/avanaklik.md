@@ -2,6 +2,7 @@
 layout: term
 title: avanaklık
 slug: avanaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► saflık

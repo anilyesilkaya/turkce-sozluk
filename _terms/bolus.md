@@ -2,6 +2,7 @@
 layout: term
 title: bölüş
 slug: bolus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölmek işi

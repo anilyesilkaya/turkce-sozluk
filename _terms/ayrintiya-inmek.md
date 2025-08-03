@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntıya inmek
 slug: ayrintiya-inmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir konuyu en küçük noktasına kadar inceleyip araştırmak

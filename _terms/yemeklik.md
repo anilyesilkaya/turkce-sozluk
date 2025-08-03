@@ -2,6 +2,7 @@
 layout: term
 title: yemeklik
 slug: yemeklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemek yapmakta kullanılan

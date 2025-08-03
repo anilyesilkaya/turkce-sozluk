@@ -2,6 +2,7 @@
 layout: term
 title: güvenli
 slug: guvenli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güven verici; emin

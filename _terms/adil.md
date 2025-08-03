@@ -2,6 +2,7 @@
 layout: term
 title: adil
 slug: adil
+letter: A
 lisan: Arapça ʿādil
 anlamlar:
 - Adaletle iş gören, adaletten, doğruluktan ayrılmayan, hakkı yerine getiren; adaletli

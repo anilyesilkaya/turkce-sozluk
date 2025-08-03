@@ -2,6 +2,7 @@
 layout: term
 title: oldu olacak
 slug: oldu-olacak
+letter: O
 lisan: Türkçe
 anlamlar:
 - hiç olmazsa

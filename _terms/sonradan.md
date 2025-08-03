@@ -2,6 +2,7 @@
 layout: term
 title: sonradan
 slug: sonradan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Konuşulan zamanın ardından gelen zamanda; muahharen

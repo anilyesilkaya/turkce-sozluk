@@ -2,6 +2,7 @@
 layout: term
 title: aksi gibi
 slug: aksi-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - istenmediği hâlde, aksilik olarak

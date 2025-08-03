@@ -2,6 +2,7 @@
 layout: term
 title: motoru soğutmak
 slug: motoru-sogutmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - taşıtlarda hararet yapan motorun soğumasını sağlamak

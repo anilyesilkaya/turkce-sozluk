@@ -2,6 +2,7 @@
 layout: term
 title: 'orta baklası '
 slug: orta-baklasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hiçbir özelliği olmayan, sıradan olan

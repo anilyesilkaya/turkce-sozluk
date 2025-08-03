@@ -2,6 +2,7 @@
 layout: term
 title: komedya
 slug: komedya
+letter: K
 lisan: Latince
 anlamlar:
 - ► güldürü

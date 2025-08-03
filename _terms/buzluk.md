@@ -2,6 +2,7 @@
 layout: term
 title: buzluk
 slug: buzluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yiyecek ve içecekleri soğutarak saklamak için kullanılan, buzla soğutulan kap veya dolap

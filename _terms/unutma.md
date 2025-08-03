@@ -2,6 +2,7 @@
 layout: term
 title: unutma
 slug: unutma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutmak durumu; nisyan

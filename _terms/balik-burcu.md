@@ -2,6 +2,7 @@
 layout: term
 title: Balık Burcu
 slug: balik-burcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Kova Burcu ile Koç Burcu arasında yer alan takımyıldızın adı; Balık

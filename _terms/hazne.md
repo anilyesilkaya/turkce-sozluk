@@ -2,6 +2,7 @@
 layout: term
 title: hazne
 slug: hazne
+letter: H
 lisan: Arapça ḫazīne
 anlamlar:
 - ► hazine

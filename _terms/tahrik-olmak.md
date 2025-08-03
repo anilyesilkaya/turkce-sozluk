@@ -2,6 +2,7 @@
 layout: term
 title: tahrik olmak
 slug: tahrik-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - cinsel isteği, duyguları uyanmak, artmak

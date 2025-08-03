@@ -2,6 +2,7 @@
 layout: term
 title: alıkonuluş
 slug: alikonulus
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıkonulmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: heyheylenme
 slug: heyheylenme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heyheylenmek durumu

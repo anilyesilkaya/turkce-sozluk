@@ -2,6 +2,7 @@
 layout: term
 title: günah
 slug: gunah
+letter: G
 lisan: Farsça gunāh
 anlamlar:
 - Dinî bakımdan suç sayılan iş veya davranış

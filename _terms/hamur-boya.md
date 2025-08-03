@@ -2,6 +2,7 @@
 layout: term
 title: hamur boya
 slug: hamur-boya
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ressamın boya tablası üzerinde, resmine sürmek için hazırladığı hamur kıvamındaki yağlı boya

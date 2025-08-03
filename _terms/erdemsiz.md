@@ -2,6 +2,7 @@
 layout: term
 title: erdemsiz
 slug: erdemsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erdemi olmayan; faziletsiz

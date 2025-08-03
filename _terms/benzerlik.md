@@ -2,6 +2,7 @@
 layout: term
 title: benzerlik
 slug: benzerlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzer olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: açmaza düşmek
 slug: acmaza-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - içinden çıkılması güç durumda kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: vâsi
 slug: vasi
+letter: V
 lisan: Arapça vāsiʿ
 anlamlar:
 - ► geniş

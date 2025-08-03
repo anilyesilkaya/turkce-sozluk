@@ -2,6 +2,7 @@
 layout: term
 title: kontur
 slug: kontur
+letter: K
 lisan: Fransızca contour
 anlamlar:
 - Resimde nesneyi belirgin gösteren çevre çizgisi

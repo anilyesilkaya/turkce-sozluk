@@ -2,6 +2,7 @@
 layout: term
 title: donmuş sebze
 slug: donmus-sebze
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daha sonra kullanılmak üzere bir kap içinde dondurulmuş taze sebze

@@ -2,6 +2,7 @@
 layout: term
 title: kaplı
 slug: kapli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaplanmış olan

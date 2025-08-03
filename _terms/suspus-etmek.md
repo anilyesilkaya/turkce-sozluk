@@ -2,6 +2,7 @@
 layout: term
 title: suspus etmek
 slug: suspus-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - susturmak

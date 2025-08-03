@@ -2,6 +2,7 @@
 layout: term
 title: banyo dolabı
 slug: banyo-dolabi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banyo için gereken malzemelerin içinde bulundurulduğu dolap

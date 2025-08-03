@@ -2,6 +2,7 @@
 layout: term
 title: puştluk
 slug: pustluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Puşt olma durumu

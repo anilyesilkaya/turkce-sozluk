@@ -2,6 +2,7 @@
 layout: term
 title: bidon
 slug: bidon
+letter: B
 lisan: Fransızca bidon
 anlamlar:
 - İçine çeşitli maddeler konulan, sac, plastik veya çinkodan yapılmış kap

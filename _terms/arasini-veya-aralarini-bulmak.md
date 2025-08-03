@@ -2,6 +2,7 @@
 layout: term
 title: arasını (veya aralarını) bulmak
 slug: arasini-veya-aralarini-bulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - araları bozulmuş iki kişiyi uzlaştırmak, barıştırmak

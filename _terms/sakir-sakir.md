@@ -2,6 +2,7 @@
 layout: term
 title: şakır şakır
 slug: sakir-sakir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak yağan yağmurun, ötüşen kuşların veya buna benzer hoşa giden şeylerin çıkardığı ses

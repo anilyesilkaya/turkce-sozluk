@@ -2,6 +2,7 @@
 layout: term
 title: gangliyon
 slug: gangliyon
+letter: G
 lisan: Fransızca ganglion
 anlamlar:
 - Sinirlerde ve lenf damarlarında yer yer ortaya çıkan yuvarlak şişlik

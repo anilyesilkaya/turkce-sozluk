@@ -2,6 +2,7 @@
 layout: term
 title: bakabilme
 slug: bakabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakabilmek işi

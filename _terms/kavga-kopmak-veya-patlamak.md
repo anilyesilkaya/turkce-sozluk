@@ -2,6 +2,7 @@
 layout: term
 title: kavga kopmak (veya patlamak)
 slug: kavga-kopmak-veya-patlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - dövüş başlamak

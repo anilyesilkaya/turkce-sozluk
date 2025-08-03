@@ -2,6 +2,7 @@
 layout: term
 title: pestili çıkmak
 slug: pestili-cikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok yorulmak

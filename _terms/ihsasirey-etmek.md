@@ -2,6 +2,7 @@
 layout: term
 title: ihsasırey etmek
 slug: ihsasirey-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - görüş veya kararı önceden hissettirmek, oyunu önceden açıklamak

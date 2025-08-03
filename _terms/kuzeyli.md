@@ -2,6 +2,7 @@
 layout: term
 title: Kuzeyli
 slug: kuzeyli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuzey ülkeleri halkından olan (kimse); Şimalli

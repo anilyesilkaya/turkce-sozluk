@@ -2,6 +2,7 @@
 layout: term
 title: liyakatsiz
 slug: liyakatsiz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liyakati olmayan; değimsiz

@@ -2,6 +2,7 @@
 layout: term
 title: parasını çekmek
 slug: parasini-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - para sızdırmak, birinden birtakım gerekçelerle para almak

@@ -2,6 +2,7 @@
 layout: term
 title: motorcu
 slug: motorcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Deniz motoru işleten kimse

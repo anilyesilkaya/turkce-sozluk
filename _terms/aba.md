@@ -2,6 +2,7 @@
 layout: term
 title: aba
 slug: aba
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► abla

@@ -2,6 +2,7 @@
 layout: term
 title: klikleme
 slug: klikleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► tıklama

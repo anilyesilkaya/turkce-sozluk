@@ -2,6 +2,7 @@
 layout: term
 title: bomboş olmak (veya kalmak)
 slug: bombos-olmak-veya-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - tamamen boş olmak

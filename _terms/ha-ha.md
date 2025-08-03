@@ -2,6 +2,7 @@
 layout: term
 title: ha ... ha ...
 slug: ha-ha
+letter: H
 lisan: Türkçe
 anlamlar:
 - Neredeyse, hemen yakında

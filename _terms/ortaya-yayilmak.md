@@ -2,6 +2,7 @@
 layout: term
 title: ortaya yayılmak
 slug: ortaya-yayilmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - herkes tarafından duyulmak

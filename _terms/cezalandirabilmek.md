@@ -2,6 +2,7 @@
 layout: term
 title: cezalandırabilmek
 slug: cezalandirabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezalandırma ihtimali veya imkânı bulunmak

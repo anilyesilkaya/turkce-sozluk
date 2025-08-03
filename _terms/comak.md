@@ -2,6 +2,7 @@
 layout: term
 title: çomak
 slug: comak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ucu topuzlu değnek

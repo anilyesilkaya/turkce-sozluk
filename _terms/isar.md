@@ -2,6 +2,7 @@
 layout: term
 title: işar
 slug: isar
+letter: I
 lisan: Arapça işʿār
 anlamlar:
 - Yazı ile bildirme

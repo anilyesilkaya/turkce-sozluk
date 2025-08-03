@@ -2,6 +2,7 @@
 layout: term
 title: sezonluk
 slug: sezonluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► mevsimlik

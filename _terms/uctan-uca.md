@@ -2,6 +2,7 @@
 layout: term
 title: uçtan uca
 slug: uctan-uca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir baştan bir başa

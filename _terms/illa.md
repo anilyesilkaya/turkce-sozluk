@@ -2,6 +2,7 @@
 layout: term
 title: illa
 slug: illa
+letter: I
 lisan: Arapça illā
 anlamlar:
 - Ne olursa olsun, hangi şartta olursa olsun; ille, illaki

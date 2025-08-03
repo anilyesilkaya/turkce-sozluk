@@ -2,6 +2,7 @@
 layout: term
 title: Belçikalı
 slug: belcikali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belçika’da yaşayan halk veya bu halkın soyundan olan kimse

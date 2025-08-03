@@ -2,6 +2,7 @@
 layout: term
 title: tavşankanı
 slug: tavsankani
+letter: T
 lisan: Türkçe
 anlamlar:
 - Parlak ve koyu kırmızı renk

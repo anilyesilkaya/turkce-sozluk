@@ -2,6 +2,7 @@
 layout: term
 title: yola dizilmek
 slug: yola-dizilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yol kenarında sıralanmak

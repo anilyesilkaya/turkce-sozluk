@@ -2,6 +2,7 @@
 layout: term
 title: vodvil
 slug: vodvil
+letter: V
 lisan: Fransızca vaudeville
 anlamlar:
 - Hareketli, eğlenceli bir konuya dayanan, şarkılara da yer verilen hafif güldürü

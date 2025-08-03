@@ -2,6 +2,7 @@
 layout: term
 title: parti
 slug: parti
+letter: P
 lisan: Fransızca partie
 anlamlar:
 - Bir bütünün parçası

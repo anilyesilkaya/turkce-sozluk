@@ -2,6 +2,7 @@
 layout: term
 title: açısal
 slug: acisal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açı ile ilgili; zaviyevi

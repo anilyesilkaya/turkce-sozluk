@@ -2,6 +2,7 @@
 layout: term
 title: rayiha
 slug: rayiha
+letter: R
 lisan: Arapça rāyiḥa
 anlamlar:
 - Güzel koku

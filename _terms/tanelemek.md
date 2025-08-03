@@ -2,6 +2,7 @@
 layout: term
 title: tanelemek
 slug: tanelemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanelerini ayırmak

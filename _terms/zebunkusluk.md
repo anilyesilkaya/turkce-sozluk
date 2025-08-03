@@ -2,6 +2,7 @@
 layout: term
 title: zebunküşlük
 slug: zebunkusluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zebunküş olma durumu

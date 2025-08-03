@@ -2,6 +2,7 @@
 layout: term
 title: akıl hocası
 slug: akil-hocasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birine yol gösterip akıl öğreten kimse

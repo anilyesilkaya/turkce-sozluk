@@ -2,6 +2,7 @@
 layout: term
 title: bıktırma
 slug: biktirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıktırmak işi

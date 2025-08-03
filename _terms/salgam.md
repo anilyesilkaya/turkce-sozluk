@@ -2,6 +2,7 @@
 layout: term
 title: şalgam
 slug: salgam
+letter: Ş
 lisan: Farsça şelġam
 anlamlar:
 - Turpgillerden, yumru köklü bir bitki (Brassica rapa)

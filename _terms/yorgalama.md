@@ -2,6 +2,7 @@
 layout: term
 title: yorgalama
 slug: yorgalama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorgalamak işi

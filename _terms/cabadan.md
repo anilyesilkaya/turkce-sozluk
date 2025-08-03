@@ -2,6 +2,7 @@
 layout: term
 title: cabadan
 slug: cabadan
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► bedava

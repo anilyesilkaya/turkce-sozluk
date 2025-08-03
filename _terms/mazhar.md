@@ -2,6 +2,7 @@
 layout: term
 title: mazhar
 slug: mazhar
+letter: M
 lisan: Arapça maẓhar
 anlamlar:
 - Bir iyiliğe erişmiş, erişen (kimse)

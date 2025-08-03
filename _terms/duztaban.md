@@ -2,6 +2,7 @@
 layout: term
 title: düztaban
 slug: duztaban
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğal ayak kemerinin kaybolması ile oluşan yapısal bozukluk

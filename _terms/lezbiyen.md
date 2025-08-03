@@ -2,6 +2,7 @@
 layout: term
 title: lezbiyen
 slug: lezbiyen
+letter: L
 lisan: Fransızca lesbienne
 anlamlar:
 - ► sevici

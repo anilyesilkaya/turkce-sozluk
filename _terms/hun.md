@@ -2,6 +2,7 @@
 layout: term
 title: hun
 slug: hun
+letter: H
 lisan: Farsça ḫūn
 anlamlar:
 - ► kan

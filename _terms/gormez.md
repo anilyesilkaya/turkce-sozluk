@@ -2,6 +2,7 @@
 layout: term
 title: görmez
 slug: gormez
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► görme engelli

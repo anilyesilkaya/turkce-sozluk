@@ -2,6 +2,7 @@
 layout: term
 title: keskinlik
 slug: keskinlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keskin olma durumu

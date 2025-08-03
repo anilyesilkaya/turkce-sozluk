@@ -2,6 +2,7 @@
 layout: term
 title: süt çocuğu
 slug: sut-cocugu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sütle beslenen çocuk

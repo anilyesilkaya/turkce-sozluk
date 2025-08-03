@@ -2,6 +2,7 @@
 layout: term
 title: abdest leğeni
 slug: abdest-legeni
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abdest alırken kullanılan, bakır vb.nden yapılmış küçük leğen

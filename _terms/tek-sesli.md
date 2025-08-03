@@ -2,6 +2,7 @@
 layout: term
 title: tek sesli
 slug: tek-sesli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Benzer seslerin kullanılmasıyla yapılan (müzik vb.)

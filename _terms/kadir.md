@@ -2,6 +2,7 @@
 layout: term
 title: kadir
 slug: kadir
+letter: K
 lisan: Arapça ḳādir
 anlamlar:
 - ► muktedir

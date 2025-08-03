@@ -2,6 +2,7 @@
 layout: term
 title: horlama
 slug: horlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horlamak işi; horuldayış

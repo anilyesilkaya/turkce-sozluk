@@ -2,6 +2,7 @@
 layout: term
 title: azade
 slug: azade
+letter: A
 lisan: Farsça āzāde
 anlamlar:
 - ► serbest

@@ -2,6 +2,7 @@
 layout: term
 title: uğralamak
 slug: ugralamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğra serpmek

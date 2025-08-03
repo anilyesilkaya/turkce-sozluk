@@ -2,6 +2,7 @@
 layout: term
 title: eteklemek
 slug: eteklemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Birinin eteğini saygı göstermek amacıyla öpmek veya öper gibi yapmak

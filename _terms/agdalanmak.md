@@ -2,6 +2,7 @@
 layout: term
 title: ağdalanmak
 slug: agdalanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağda durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: azlediliş
 slug: azledilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azledilmek işi

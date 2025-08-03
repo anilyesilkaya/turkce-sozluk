@@ -2,6 +2,7 @@
 layout: term
 title: vira
 slug: vira
+letter: V
 lisan: İtalyanca vira
 anlamlar:
 - ► aralıksız

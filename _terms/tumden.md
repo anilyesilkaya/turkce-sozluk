@@ -2,6 +2,7 @@
 layout: term
 title: tümden
 slug: tumden
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tamamen

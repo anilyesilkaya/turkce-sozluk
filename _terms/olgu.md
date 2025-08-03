@@ -2,6 +2,7 @@
 layout: term
 title: olgu
 slug: olgu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birtakım olayların dayandığı sebep veya bu sebeplerin yol açtığı sonuç; vakıa, fenomen

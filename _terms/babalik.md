@@ -2,6 +2,7 @@
 layout: term
 title: babalık
 slug: babalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baba olma durumu

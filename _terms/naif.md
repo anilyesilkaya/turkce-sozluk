@@ -2,6 +2,7 @@
 layout: term
 title: naif
 slug: naif
+letter: N
 lisan: Fransızca naïf
 anlamlar:
 - Saf, deneyimsiz

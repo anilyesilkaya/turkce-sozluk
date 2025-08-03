@@ -2,6 +2,7 @@
 layout: term
 title: ateş saçmak
 slug: ates-sacmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok kızmak, çok öfkelenmek

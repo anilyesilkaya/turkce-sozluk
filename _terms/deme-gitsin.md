@@ -2,6 +2,7 @@
 layout: term
 title: deme gitsin
 slug: deme-gitsin
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"anlatılması güç, anlatılamaz" anlamında kullanılan bir söz'

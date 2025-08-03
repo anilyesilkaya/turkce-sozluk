@@ -2,6 +2,7 @@
 layout: term
 title: çok gelmek
 slug: cok-gelmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - gereğinden fazla olmak

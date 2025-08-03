@@ -2,6 +2,7 @@
 layout: term
 title: panç
 slug: panc
+letter: P
 lisan: İngilizce punch
 anlamlar:
 - Ahşap, alçı, kartonpiyer vb. üzerinde delik açma aleti

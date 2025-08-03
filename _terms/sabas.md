@@ -2,6 +2,7 @@
 layout: term
 title: şabaş
 slug: sabas
+letter: Ş
 lisan: Farsça şābāş
 anlamlar:
 - Aferin, bravo anlamında takdir ve beğenme sözü

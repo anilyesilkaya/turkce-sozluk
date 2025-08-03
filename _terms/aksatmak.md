@@ -2,6 +2,7 @@
 layout: term
 title: aksatmak
 slug: aksatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işi gereği gibi yürütmemek

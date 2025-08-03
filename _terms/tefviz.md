@@ -2,6 +2,7 @@
 layout: term
 title: tefviz
 slug: tefviz
+letter: T
 lisan: Arapça tefvīż
 anlamlar:
 - ► ihale

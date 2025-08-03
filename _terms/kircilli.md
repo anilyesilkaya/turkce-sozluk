@@ -2,6 +2,7 @@
 layout: term
 title: kırçıllı
 slug: kircilli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kırçıl renk bulunan

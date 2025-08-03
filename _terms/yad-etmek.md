@@ -2,6 +2,7 @@
 layout: term
 title: yâd etmek
 slug: yad-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - anmak, hatırlamak

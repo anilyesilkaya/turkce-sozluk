@@ -2,6 +2,7 @@
 layout: term
 title: dikkatinden kaçmamak
 slug: dikkatinden-kacmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - fark etmek, gözüne çarpmak

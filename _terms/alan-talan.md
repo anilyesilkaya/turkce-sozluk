@@ -2,6 +2,7 @@
 layout: term
 title: alan talan
 slug: alan-talan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karmakarışık, altı üstüne getirilmiş bir durumda olan

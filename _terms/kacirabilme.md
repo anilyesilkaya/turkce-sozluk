@@ -2,6 +2,7 @@
 layout: term
 title: kaçırabilme
 slug: kacirabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçırabilmek işi

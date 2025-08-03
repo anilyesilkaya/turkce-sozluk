@@ -2,6 +2,7 @@
 layout: term
 title: altmışarlı
 slug: altmisarli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altmışar altmışar sıralanmış

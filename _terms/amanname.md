@@ -2,6 +2,7 @@
 layout: term
 title: amanname
 slug: amanname
+letter: A
 lisan: Arapça amān + Farsça nāme
 anlamlar:
 - Teslim olmak isteyen düşmana güvenlik içinde olduğunu bildirmek üzere İslam devletlerinde verilen belge

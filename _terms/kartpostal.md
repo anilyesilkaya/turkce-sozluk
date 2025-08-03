@@ -2,6 +2,7 @@
 layout: term
 title: kartpostal
 slug: kartpostal
+letter: K
 lisan: Fransızca carte postale
 anlamlar:
 - Genellikle dikdörtgen biçiminde ince kartondan yapılmış, bir yüzü resimli, zarflı veya zarfsız gönderilen posta kartı; kart (II)

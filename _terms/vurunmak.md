@@ -2,6 +2,7 @@
 layout: term
 title: vurunmak
 slug: vurunmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► dövünmek

@@ -2,6 +2,7 @@
 layout: term
 title: dizilmek
 slug: dizilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizi durumuna getirilmek, dizme işi yapılmak

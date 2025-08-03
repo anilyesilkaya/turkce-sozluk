@@ -2,6 +2,7 @@
 layout: term
 title: alışkan
 slug: aliskan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alışkın

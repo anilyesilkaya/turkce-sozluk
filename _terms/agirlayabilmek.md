@@ -2,6 +2,7 @@
 layout: term
 title: ağırlayabilmek
 slug: agirlayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlama ihtimali veya imkânı bulunmak

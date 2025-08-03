@@ -2,6 +2,7 @@
 layout: term
 title: sevap kazanmak (veya işlemek)
 slug: sevap-kazanmak-veya-islemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - hayırlı bir davranışta bulunmak

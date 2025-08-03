@@ -2,6 +2,7 @@
 layout: term
 title: gübreletmek
 slug: gubreletmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gübreleme işini yaptırmak

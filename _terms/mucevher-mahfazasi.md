@@ -2,6 +2,7 @@
 layout: term
 title: mücevher mahfazası
 slug: mucevher-mahfazasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► mücevher kutusu

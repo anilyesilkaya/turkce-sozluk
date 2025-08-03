@@ -2,6 +2,7 @@
 layout: term
 title: yan cümle
 slug: yan-cumle
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüklemine fiilimsi, soru eki, ki bağlacı, dilek kipi veya şartlı birleşik zaman eki getirilerek oluşturulan ve temel cümleye bağlanan cümle; yan tümce

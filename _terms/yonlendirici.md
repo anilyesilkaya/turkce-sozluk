@@ -2,6 +2,7 @@
 layout: term
 title: yönlendirici
 slug: yonlendirici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İnsanları kendi bilgileri dışında veya istemedikleri hâlde bilinçli ve amaçlı olarak etkileyen; manipülatör

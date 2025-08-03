@@ -2,6 +2,7 @@
 layout: term
 title: hafakanlar basmak (veya boğmak)
 slug: hafakanlar-basmak-veya-bogmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - sıkıntıdan bunalmak

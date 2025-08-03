@@ -2,6 +2,7 @@
 layout: term
 title: çaycı
 slug: cayci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çayhaneci

@@ -2,6 +2,7 @@
 layout: term
 title: bayraklaşma
 slug: bayraklasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayraklaşmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik çemberi
 slug: guvenlik-cemberi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Can ve mal güvenliğinin sağlanması, suç kanıtlarının kaybolmaması amacıyla, güvenlik güçleri tarafından olay, kaza veya afet bölgesine şerit çekilerek oluşturulan alan

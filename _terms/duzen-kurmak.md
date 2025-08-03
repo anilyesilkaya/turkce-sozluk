@@ -2,6 +2,7 @@
 layout: term
 title: düzen kurmak
 slug: duzen-kurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - işler duruma getirmek

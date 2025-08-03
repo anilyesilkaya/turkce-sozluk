@@ -2,6 +2,7 @@
 layout: term
 title: kırlangıç balığıgiller
 slug: kirlangic-baligigiller
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemikli balıklar takımının dikenli yüzgeçliler alt takımına giren bir familya

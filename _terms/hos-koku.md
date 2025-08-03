@@ -2,6 +2,7 @@
 layout: term
 title: hoş koku
 slug: hos-koku
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bitki özlerinden veya yağlarından elde edilen koku; aroma

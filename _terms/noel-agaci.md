@@ -2,6 +2,7 @@
 layout: term
 title: Noel ağacı
 slug: noel-agaci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Noel yortusunda Hristiyanların mumlarla ve oyuncaklarla süsledikleri küçük çam ağacı

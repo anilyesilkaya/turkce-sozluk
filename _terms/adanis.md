@@ -2,6 +2,7 @@
 layout: term
 title: adanış
 slug: adanis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adanmak işi

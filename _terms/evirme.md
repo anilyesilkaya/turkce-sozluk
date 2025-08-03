@@ -2,6 +2,7 @@
 layout: term
 title: evirme
 slug: evirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► evirtim

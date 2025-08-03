@@ -2,6 +2,7 @@
 layout: term
 title: ağzı kalabalık
 slug: agzi-kalabalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirini tutmayan sözler söyleyen, yerli yersiz konuşan, boşboğaz (kimse); farfara

@@ -2,6 +2,7 @@
 layout: term
 title: pandispanya gazetesi
 slug: pandispanya-gazetesi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Uydurulmuş hikâyeler, yalanlar

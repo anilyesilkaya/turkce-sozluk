@@ -2,6 +2,7 @@
 layout: term
 title: alıcı
 slug: alici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alma işini yapan

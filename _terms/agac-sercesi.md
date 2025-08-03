@@ -2,6 +2,7 @@
 layout: term
 title: ağaç serçesi
 slug: agac-sercesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► dağ serçesi

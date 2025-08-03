@@ -2,6 +2,7 @@
 layout: term
 title: kalp akçe
 slug: kalp-akce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sahte metal veya kâğıt para

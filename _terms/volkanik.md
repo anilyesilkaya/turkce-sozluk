@@ -2,6 +2,7 @@
 layout: term
 title: volkanik
 slug: volkanik
+letter: V
 lisan: Fransızca volcanique
 anlamlar:
 - Volkanla ilgili

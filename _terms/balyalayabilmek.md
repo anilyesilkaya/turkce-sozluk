@@ -2,6 +2,7 @@
 layout: term
 title: balyalayabilmek
 slug: balyalayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balyalama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: iddiaya girmek (veya tutuşmak)
 slug: iddiaya-girmek-veya-tutusmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - karşıt iddialarda bahse girişmek

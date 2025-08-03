@@ -2,6 +2,7 @@
 layout: term
 title: kabak çekirdeği
 slug: kabak-cekirdegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bal ve sakız kabağının tohumu

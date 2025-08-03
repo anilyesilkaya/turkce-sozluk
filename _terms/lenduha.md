@@ -2,6 +2,7 @@
 layout: term
 title: lenduha
 slug: lenduha
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çok iri ve kaba

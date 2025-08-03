@@ -2,6 +2,7 @@
 layout: term
 title: tekdüzelik
 slug: tekduzelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekdüze olma durumu; yeknesaklık, biteviyelik, monotonluk

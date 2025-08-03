@@ -2,6 +2,7 @@
 layout: term
 title: hatırsız
 slug: hatirsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Saygın olmayan

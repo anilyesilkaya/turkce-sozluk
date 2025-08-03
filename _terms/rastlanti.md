@@ -2,6 +2,7 @@
 layout: term
 title: rastlantı
 slug: rastlanti
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bilgiye, isteğe, kurala veya belli bir sebebe dayanmaksızın oluveren karşılaşma, tesadüf

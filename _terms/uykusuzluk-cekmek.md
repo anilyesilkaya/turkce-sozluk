@@ -2,6 +2,7 @@
 layout: term
 title: uykusuzluk çekmek
 slug: uykusuzluk-cekmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - geceleri yeterince uyuyamamak, uykusu olmamak

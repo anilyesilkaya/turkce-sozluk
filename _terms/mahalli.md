@@ -2,6 +2,7 @@
 layout: term
 title: mahallî
 slug: mahalli
+letter: M
 lisan: Arapça maḥallī
 anlamlar:
 - ► yöresel

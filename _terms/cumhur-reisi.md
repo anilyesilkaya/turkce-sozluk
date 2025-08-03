@@ -2,6 +2,7 @@
 layout: term
 title: cumhur reisi
 slug: cumhur-reisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cumhurbaşkanı

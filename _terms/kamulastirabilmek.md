@@ -2,6 +2,7 @@
 layout: term
 title: kamulaştırabilmek
 slug: kamulastirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamulaştırma imkânı olmak; devletleştirebilmek

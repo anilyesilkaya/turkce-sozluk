@@ -2,6 +2,7 @@
 layout: term
 title: valiz
 slug: valiz
+letter: V
 lisan: Fransızca valise
 anlamlar:
 - Genellikle yolculukta içine çamaşır vb. eşya konulan küçük el bavulu

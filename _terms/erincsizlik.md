@@ -2,6 +2,7 @@
 layout: term
 title: erinçsizlik
 slug: erincsizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erinçsiz olma durumu

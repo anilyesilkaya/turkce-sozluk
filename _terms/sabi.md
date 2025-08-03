@@ -2,6 +2,7 @@
 layout: term
 title: sabi
 slug: sabi
+letter: S
 lisan: Arapça ṣabī
 anlamlar:
 - Küçük çocuk

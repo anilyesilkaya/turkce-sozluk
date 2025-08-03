@@ -2,6 +2,7 @@
 layout: term
 title: etimolojik
 slug: etimolojik
+letter: E
 lisan: Fransızca étymologique
 anlamlar:
 - ► köken bilimsel

@@ -2,6 +2,7 @@
 layout: term
 title: ayarcı
 slug: ayarci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Esnafın kullandığı ölçü aletlerini denetleyen görevli

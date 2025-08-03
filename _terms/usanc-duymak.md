@@ -2,6 +2,7 @@
 layout: term
 title: usanç duymak
 slug: usanc-duymak
+letter: U
 lisan: Türkçe
 anlamlar:
 - usanmak

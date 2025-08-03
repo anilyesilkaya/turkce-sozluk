@@ -2,6 +2,7 @@
 layout: term
 title: çiğnenebilmek
 slug: cignenebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğnenme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: sertçe
 slug: sertce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sert bir biçimde

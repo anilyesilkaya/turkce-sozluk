@@ -2,6 +2,7 @@
 layout: term
 title: eş biçimlilik
 slug: es-bicimlilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Benzer yapıda olan maddeler arasındaki billurlaşma benzerliği; izomorfizm

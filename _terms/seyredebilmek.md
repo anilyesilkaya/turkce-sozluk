@@ -2,6 +2,7 @@
 layout: term
 title: seyredebilmek
 slug: seyredebilmek
+letter: S
 lisan: Arapça seyr + Türkçe edebilmek
 anlamlar:
 - Seyretme ihtimali veya imkânı bulunmak

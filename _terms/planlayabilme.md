@@ -2,6 +2,7 @@
 layout: term
 title: planlayabilme
 slug: planlayabilme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Planlayabilmek işi

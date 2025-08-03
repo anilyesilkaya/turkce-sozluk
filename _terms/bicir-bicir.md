@@ -2,6 +2,7 @@
 layout: term
 title: bıcır bıcır
 slug: bicir-bicir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sesli ve neşeli bir biçimde

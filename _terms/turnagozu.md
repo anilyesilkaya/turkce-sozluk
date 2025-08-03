@@ -2,6 +2,7 @@
 layout: term
 title: turnagözü
 slug: turnagozu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Berrak ve parlak sarı

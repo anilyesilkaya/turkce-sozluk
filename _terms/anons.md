@@ -2,6 +2,7 @@
 layout: term
 title: anons
 slug: anons
+letter: A
 lisan: Fransızca annonce
 anlamlar:
 - ► duyuru

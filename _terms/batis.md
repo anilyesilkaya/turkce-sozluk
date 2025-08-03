@@ -2,6 +2,7 @@
 layout: term
 title: batış
 slug: batis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batmak işi

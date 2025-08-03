@@ -2,6 +2,7 @@
 layout: term
 title: meyancılık etmek
 slug: meyancilik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aracılık etmek

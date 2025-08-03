@@ -2,6 +2,7 @@
 layout: term
 title: karıştırmak
 slug: karistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir maddenin başka bir madde içine karışmasını sağlamak

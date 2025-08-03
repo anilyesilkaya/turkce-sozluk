@@ -2,6 +2,7 @@
 layout: term
 title: yazılı yoklama
 slug: yazili-yoklama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yazılı sınav

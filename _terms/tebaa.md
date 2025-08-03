@@ -2,6 +2,7 @@
 layout: term
 title: tebaa
 slug: tebaa
+letter: T
 lisan: Arapça tebaʿa
 anlamlar:
 - ► uyruk

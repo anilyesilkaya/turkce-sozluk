@@ -2,6 +2,7 @@
 layout: term
 title: gececi
 slug: gececi
+letter: G
 lisan: Türkçe
 anlamlar:
 - İş yerlerinin gece vardiyasında çalışan kimse

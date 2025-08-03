@@ -2,6 +2,7 @@
 layout: term
 title: kıtırdamak
 slug: kitirdamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"Kıtır" diye ses çıkmak'

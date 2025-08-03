@@ -2,6 +2,7 @@
 layout: term
 title: tepelik
 slug: tepelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepesi çok olan (yer)

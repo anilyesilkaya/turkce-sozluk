@@ -2,6 +2,7 @@
 layout: term
 title: kakofoni
 slug: kakofoni
+letter: K
 lisan: Fransızca cacophonie
 anlamlar:
 - ► ses uyumsuzluğu

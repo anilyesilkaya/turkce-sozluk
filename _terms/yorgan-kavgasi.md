@@ -2,6 +2,7 @@
 layout: term
 title: yorgan kavgası
 slug: yorgan-kavgasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyden çıkar sağlama konusunda anlaşmazlığa düşme

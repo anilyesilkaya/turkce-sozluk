@@ -2,6 +2,7 @@
 layout: term
 title: efendim
 slug: efendim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir sesleniş karşısında "buradayım, buyurun" anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: kayda değer
 slug: kayda-deger
+letter: K
 lisan: Türkçe
 anlamlar:
 - Önemli, dikkati çeken

@@ -2,6 +2,7 @@
 layout: term
 title: am
 slug: am
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► dişilik organı

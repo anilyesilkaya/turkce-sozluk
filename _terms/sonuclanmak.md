@@ -2,6 +2,7 @@
 layout: term
 title: sonuçlanmak
 slug: sonuclanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonuca ulaştırılmak, sonuca bağlanmak; neticelenmek, intaç edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kürelenmek
 slug: kurelenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürekle atılmak, kürekle yığılmak

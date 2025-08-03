@@ -2,6 +2,7 @@
 layout: term
 title: sona ermek
 slug: sona-ermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - son bulmak

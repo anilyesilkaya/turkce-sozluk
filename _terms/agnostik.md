@@ -2,6 +2,7 @@
 layout: term
 title: agnostik
 slug: agnostik
+letter: A
 lisan: Fransızca agnostique
 anlamlar:
 - ► bilinemezci

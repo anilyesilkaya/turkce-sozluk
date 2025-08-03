@@ -2,6 +2,7 @@
 layout: term
 title: cevap almak
 slug: cevap-almak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir soruya, bir isteğe, bir söz, bir davranış veya yazıya verilen karşılık almak

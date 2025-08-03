@@ -2,6 +2,7 @@
 layout: term
 title: diz boyu
 slug: diz-boyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dize kadar olan

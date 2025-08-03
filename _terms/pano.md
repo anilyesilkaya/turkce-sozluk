@@ -2,6 +2,7 @@
 layout: term
 title: pano
 slug: pano
+letter: P
 lisan: Fransızca panneau
 anlamlar:
 - Üzerine bildiri, açıklama veya tanıtma kâğıtları tutturmak için hazırlanmış levha

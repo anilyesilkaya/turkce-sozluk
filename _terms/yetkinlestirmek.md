@@ -2,6 +2,7 @@
 layout: term
 title: yetkinleştirmek
 slug: yetkinlestirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetkinleşme işini yaptırmak

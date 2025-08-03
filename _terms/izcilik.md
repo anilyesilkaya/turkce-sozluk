@@ -2,6 +2,7 @@
 layout: term
 title: izcilik
 slug: izcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzci olma durumu; keşşaflık

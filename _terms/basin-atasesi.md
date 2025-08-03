@@ -2,6 +2,7 @@
 layout: term
 title: basın ataşesi
 slug: basin-atasesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyükelçiliklerde iletişim konularıyla ilgilenmek üzere görevlendirilen elçilik görevlisi

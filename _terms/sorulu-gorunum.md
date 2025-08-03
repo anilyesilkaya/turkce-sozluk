@@ -2,6 +2,7 @@
 layout: term
 title: sorulu görünüm
 slug: sorulu-gorunum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soru biçimindeki bir fiilin bir başka fiilden önce gelerek zaman zarfı görevinde kullanılması

@@ -2,6 +2,7 @@
 layout: term
 title: varıncaya kadar
 slug: varincaya-kadar
+letter: V
 lisan: Türkçe
 anlamlar:
 - ne varsa her şeyi

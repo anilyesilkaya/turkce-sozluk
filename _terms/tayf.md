@@ -2,6 +2,7 @@
 layout: term
 title: tayf
 slug: tayf
+letter: T
 lisan: Arapça ṭayf
 anlamlar:
 - Görüntü, hayalet, ruh

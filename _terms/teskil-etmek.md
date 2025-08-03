@@ -2,6 +2,7 @@
 layout: term
 title: teşkil etmek
 slug: teskil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - oluşturmak, ortaya çıkarmak

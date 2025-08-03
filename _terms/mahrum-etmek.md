@@ -2,6 +2,7 @@
 layout: term
 title: mahrum etmek
 slug: mahrum-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yoksun bırakmak

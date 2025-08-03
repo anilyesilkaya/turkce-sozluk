@@ -2,6 +2,7 @@
 layout: term
 title: patavatsızlık etmek
 slug: patavatsizlik-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - patavatsız bir biçimde davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: açık poliçe
 slug: acik-police
+letter: A
 lisan: Türkçe
 anlamlar:
 - Eksik bilgileri sonradan tamamlanmak üzere düzenlenen poliçe

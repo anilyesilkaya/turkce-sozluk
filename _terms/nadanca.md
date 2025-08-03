@@ -2,6 +2,7 @@
 layout: term
 title: nadanca
 slug: nadanca
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nobranca

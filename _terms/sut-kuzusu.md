@@ -2,6 +2,7 @@
 layout: term
 title: süt kuzusu
 slug: sut-kuzusu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğumdan ikinci ayın sonuna kadar olan ve ana sütü emen erkek veya dişi kuzu

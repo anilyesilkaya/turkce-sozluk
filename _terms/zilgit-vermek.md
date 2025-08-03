@@ -2,6 +2,7 @@
 layout: term
 title: zılgıt vermek
 slug: zilgit-vermek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - azarlamak

@@ -2,6 +2,7 @@
 layout: term
 title: büyükten büyüğe
 slug: buyukten-buyuge
+letter: B
 lisan: Türkçe
 anlamlar:
 - Mirasın kardeşler arasında önce büyüğe, o öldüğünde kalanların en büyüğüne geçmesi kuralı

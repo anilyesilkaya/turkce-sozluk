@@ -2,6 +2,7 @@
 layout: term
 title: Allah için
 slug: allah-icin
+letter: A
 lisan: Türkçe
 anlamlar:
 - gerçekten, doğrusu

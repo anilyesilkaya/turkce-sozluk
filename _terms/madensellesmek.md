@@ -2,6 +2,7 @@
 layout: term
 title: madenselleşmek
 slug: madensellesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Madensel özellik kazanmak

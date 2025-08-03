@@ -2,6 +2,7 @@
 layout: term
 title: karışmak
 slug: karismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki veya ikiden çok şey bir araya gelip birbirinin içinde dağılmak, birbirinin içine girmek

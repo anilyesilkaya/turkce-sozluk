@@ -2,6 +2,7 @@
 layout: term
 title: çöl iklimi
 slug: col-iklimi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yıllık yağış oranının çok düşük, gece ile gündüz arasındaki ısı farkının fazla olduğu iklim

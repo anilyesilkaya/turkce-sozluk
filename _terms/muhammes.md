@@ -2,6 +2,7 @@
 layout: term
 title: muhammes
 slug: muhammes
+letter: M
 lisan: Arapça muḫammes
 anlamlar:
 - ► beşli

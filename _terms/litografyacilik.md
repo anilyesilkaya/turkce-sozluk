@@ -2,6 +2,7 @@
 layout: term
 title: litografyacılık
 slug: litografyacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Litografyacının yaptığı iş

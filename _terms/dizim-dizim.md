@@ -2,6 +2,7 @@
 layout: term
 title: dizim dizim
 slug: dizim-dizim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Peş peşe dizilmiş; düzüm düzüm

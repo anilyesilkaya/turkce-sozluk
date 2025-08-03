@@ -2,6 +2,7 @@
 layout: term
 title: kamyon faresi
 slug: kamyon-faresi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yük taşıyan kamyonlarda saklanıp fırsatını bulduğunda mal çalan kimse

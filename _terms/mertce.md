@@ -2,6 +2,7 @@
 layout: term
 title: mertçe
 slug: mertce
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yiğide, erkeğe yakışan

@@ -2,6 +2,7 @@
 layout: term
 title: yedişer
 slug: yediser
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedi sayısının üleştirme sayı sıfatı

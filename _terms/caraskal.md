@@ -2,6 +2,7 @@
 layout: term
 title: caraskal
 slug: caraskal
+letter: C
 lisan: Arapça cerr + esḳāl
 anlamlar:
 - ► palanga

@@ -2,6 +2,7 @@
 layout: term
 title: satış mukavelesi
 slug: satis-mukavelesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► satış sözleşmesi

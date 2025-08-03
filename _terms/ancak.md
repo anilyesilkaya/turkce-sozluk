@@ -2,6 +2,7 @@
 layout: term
 title: ancak
 slug: ancak
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Yalnızca" anlamında, sınırlama bildiren bir söz'

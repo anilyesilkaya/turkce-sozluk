@@ -2,6 +2,7 @@
 layout: term
 title: tabi olmak
 slug: tabi-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birinin kontrolü altına girmek, bir şeye veya bir kimseye bağlı olmak

@@ -2,6 +2,7 @@
 layout: term
 title: temasa gelmek
 slug: temasa-gelmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - buluşup görüşmek

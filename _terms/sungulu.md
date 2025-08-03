@@ -2,6 +2,7 @@
 layout: term
 title: süngülü
 slug: sungulu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süngü takmış olan

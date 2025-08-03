@@ -2,6 +2,7 @@
 layout: term
 title: gözlük
 slug: gozluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görme bozukluğu olan gözlerin daha iyi görmesine veya gözleri korumaya yarayan, bir çerçeveye yerleştirilmiş çift camdan oluşan araç; camekân

@@ -2,6 +2,7 @@
 layout: term
 title: anasını ağlatmak
 slug: anasini-aglatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseye çok eziyet etmek, çok sıkıntı çektirmek

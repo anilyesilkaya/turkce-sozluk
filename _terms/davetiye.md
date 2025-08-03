@@ -2,6 +2,7 @@
 layout: term
 title: davetiye
 slug: davetiye
+letter: D
 lisan: Arapça daʿvetiyye
 anlamlar:
 - Bir toplantıya, bir yere çağırmak üzere düzenlenen davet yazısı; çağrılık

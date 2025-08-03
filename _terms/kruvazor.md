@@ -2,6 +2,7 @@
 layout: term
 title: kruvazör
 slug: kruvazor
+letter: K
 lisan: Fransızca croiseur
 anlamlar:
 - Deniz yollarını gözetmek, deniz ve hava filolarına kılavuzluk etmek amacıyla toplarla silahlandırılmış hızlı savaş gemisi

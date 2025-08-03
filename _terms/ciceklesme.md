@@ -2,6 +2,7 @@
 layout: term
 title: çiçekleşme
 slug: ciceklesme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçekleşmek işi

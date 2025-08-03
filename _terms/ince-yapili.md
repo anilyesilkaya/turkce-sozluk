@@ -2,6 +2,7 @@
 layout: term
 title: ince yapılı
 slug: ince-yapili
+letter: I
 lisan: Türkçe
 anlamlar:
 - Narin, nazik, zayıf; inceden

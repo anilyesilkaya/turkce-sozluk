@@ -2,6 +2,7 @@
 layout: term
 title: araçsız
 slug: aracsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğrudan doğruya yapılan veya olan; vasıtasız, bilavasıta

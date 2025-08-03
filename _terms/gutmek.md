@@ -2,6 +2,7 @@
 layout: term
 title: gütmek
 slug: gutmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hayvan veya hayvan sürüsünü önüne katıp otlatmak

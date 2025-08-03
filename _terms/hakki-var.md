@@ -2,6 +2,7 @@
 layout: term
 title: hakkı var
 slug: hakki-var
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"doğru düşünüyor, doğru söylüyor, doğru davranıyor" anlamında kullanılan bir söz'

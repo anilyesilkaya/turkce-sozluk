@@ -2,6 +2,7 @@
 layout: term
 title: söğürme
 slug: sogurme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ateşte közlenerek hazırlanmış patlıcan

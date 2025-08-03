@@ -2,6 +2,7 @@
 layout: term
 title: köken
 slug: koken
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin çıktığı, dayandığı temel, biçim, neden veya yer; menşe

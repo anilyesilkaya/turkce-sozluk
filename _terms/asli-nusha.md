@@ -2,6 +2,7 @@
 layout: term
 title: asli nüsha
 slug: asli-nusha
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► asıl nüsha

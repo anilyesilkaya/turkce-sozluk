@@ -2,6 +2,7 @@
 layout: term
 title: burun perdesi
 slug: burun-perdesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burun boşluğunu ikiye ayıran bölme

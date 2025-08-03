@@ -2,6 +2,7 @@
 layout: term
 title: vınlayış
 slug: vinlayis
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vınlamak işi

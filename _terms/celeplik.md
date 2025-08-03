@@ -2,6 +2,7 @@
 layout: term
 title: celeplik
 slug: celeplik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Celepçinin yaptığı iş; celepçilik

@@ -2,6 +2,7 @@
 layout: term
 title: darbecilik
 slug: darbecilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Darbeci olma durumu

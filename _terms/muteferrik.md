@@ -2,6 +2,7 @@
 layout: term
 title: müteferrik
 slug: muteferrik
+letter: M
 lisan: Arapça muteferriḳ
 anlamlar:
 - Birbirinden ayrılmış, dağılmış olan

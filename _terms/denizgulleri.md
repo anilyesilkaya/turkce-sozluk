@@ -2,6 +2,7 @@
 layout: term
 title: denizgülleri
 slug: denizgulleri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sölenterlerden, vantuzuyla deniz dibine tutunarak veya akıntıda yüzerek yaşayan, ağzının çevresinde birçok kısa dokunacı ve zehirli kesesi bulunan deniz hayvanları sınıfı; denizşakayıkları

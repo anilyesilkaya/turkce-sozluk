@@ -2,6 +2,7 @@
 layout: term
 title: lavabo
 slug: lavabo
+letter: L
 lisan: Fransızca lavabo
 anlamlar:
 - Üzerinde su muslukları bulunan, porselen, emaye, sac vb.nden yapılmış, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya; musluk

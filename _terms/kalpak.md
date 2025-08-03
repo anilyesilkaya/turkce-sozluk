@@ -2,6 +2,7 @@
 layout: term
 title: kalpak
 slug: kalpak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesik koni biçiminde deri, kürk veya kumaştan yapılmış başlık

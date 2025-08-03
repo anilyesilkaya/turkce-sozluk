@@ -2,6 +2,7 @@
 layout: term
 title: gümrükçü
 slug: gumrukcu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gümrük görevlisi

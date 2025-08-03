@@ -2,6 +2,7 @@
 layout: term
 title: bunak
 slug: bunak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunamış olan; matuh

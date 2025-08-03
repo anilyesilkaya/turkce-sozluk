@@ -2,6 +2,7 @@
 layout: term
 title: kamaştırmak
 slug: kamastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamaşmasına neden olmak

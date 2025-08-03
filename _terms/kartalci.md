@@ -2,6 +2,7 @@
 layout: term
 title: kartalcı
 slug: kartalci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Avcı kartal yetiştiren ve avda kullanan kimse

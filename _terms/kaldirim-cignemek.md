@@ -2,6 +2,7 @@
 layout: term
 title: kaldırım çiğnemek
 slug: kaldirim-cignemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - şehirde yaşayarak görgüsü artmak

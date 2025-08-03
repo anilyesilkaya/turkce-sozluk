@@ -2,6 +2,7 @@
 layout: term
 title: kadife
 slug: kadife
+letter: K
 lisan: Arapça ḳaṭīfe
 anlamlar:
 - Yüzeyi belirli uzunlukta bırakılmış ham madde lifleriyle kaplı, parlak, yumuşak kumaş; velur

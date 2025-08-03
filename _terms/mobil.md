@@ -2,6 +2,7 @@
 layout: term
 title: mobil
 slug: mobil
+letter: M
 lisan: Fransızca mobile
 anlamlar:
 - Hareketli olan, taşınabilir olan

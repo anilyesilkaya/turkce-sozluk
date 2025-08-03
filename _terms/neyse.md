@@ -2,6 +2,7 @@
 layout: term
 title: neyse
 slug: neyse
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"Önemi yok, olan oldu" anlamında kullanılan bir söz'

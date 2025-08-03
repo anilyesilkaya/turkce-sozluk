@@ -2,6 +2,7 @@
 layout: term
 title: largo
 slug: largo
+letter: L
 lisan: İtalyanca largo
 anlamlar:
 - Bir parçanın ağır ve görkemli çalınarak veya söylenerek

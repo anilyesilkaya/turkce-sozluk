@@ -2,6 +2,7 @@
 layout: term
 title: horoz ibiği
 slug: horoz-ibigi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horozun tepesinde bulunan etli kırmızı kısım

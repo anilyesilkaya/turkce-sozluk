@@ -2,6 +2,7 @@
 layout: term
 title: esrarengizlik
 slug: esrarengizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► gizemlilik

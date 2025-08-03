@@ -2,6 +2,7 @@
 layout: term
 title: hacir
 slug: hacir
+letter: H
 lisan: Arapça ḥacr
 anlamlar:
 - ► kısıt

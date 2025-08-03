@@ -2,6 +2,7 @@
 layout: term
 title: hayata dönmek
 slug: hayata-donmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yaşama sevincini tekrar kazanmak

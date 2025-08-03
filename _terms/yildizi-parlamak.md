@@ -2,6 +2,7 @@
 layout: term
 title: yıldızı parlamak
 slug: yildizi-parlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - başarı yönünden herkesin dikkatini çekecek bir duruma gelmek, ün kazanmak

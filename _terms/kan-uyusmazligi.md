@@ -2,6 +2,7 @@
 layout: term
 title: kan uyuşmazlığı
 slug: kan-uyusmazligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Annenin kan grubu negatif, bebeğin pozitif olduğu durumlarda ortaya çıkan, gebelik sırasında anne karnındaki bebekte hayati tehlikelere, yenidoğanda ise sarılığa sebep olan uyumsuzluk

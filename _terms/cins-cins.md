@@ -2,6 +2,7 @@
 layout: term
 title: cins cins
 slug: cins-cins
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► türlü türlü

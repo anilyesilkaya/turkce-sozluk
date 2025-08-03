@@ -2,6 +2,7 @@
 layout: term
 title: pehpehleme
 slug: pehpehleme
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pohpohlama

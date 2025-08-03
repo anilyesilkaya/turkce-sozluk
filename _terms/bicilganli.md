@@ -2,6 +2,7 @@
 layout: term
 title: bıçılganlı
 slug: bicilganli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçılgana yakalanmış

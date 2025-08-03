@@ -2,6 +2,7 @@
 layout: term
 title: ihata
 slug: ihata
+letter: I
 lisan: Arapça iḥāṭa
 anlamlar:
 - ► kuşatma

@@ -2,6 +2,7 @@
 layout: term
 title: örmeli
 slug: ormeli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örülerek yapılmış

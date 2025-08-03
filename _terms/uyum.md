@@ -2,6 +2,7 @@
 layout: term
 title: uyum
 slug: uyum
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir bütünün parçaları arasında bulunan uygunluk; ahenk, armoni, imtizaç

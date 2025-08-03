@@ -2,6 +2,7 @@
 layout: term
 title: minyatür
 slug: minyatur
+letter: M
 lisan: Fransızca miniature
 anlamlar:
 - Çoğunlukla eski yazma kitaplarda görülen, ışık, gölge ve hacim duygusu yansıtılmayan küçük, renkli resim sanatı

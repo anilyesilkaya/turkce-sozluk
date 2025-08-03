@@ -2,6 +2,7 @@
 layout: term
 title: nasiplenmek
 slug: nasiplenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nasibini almak; nemalanmak

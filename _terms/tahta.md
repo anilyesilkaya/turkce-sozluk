@@ -2,6 +2,7 @@
 layout: term
 title: tahta
 slug: tahta
+letter: T
 lisan: Farsça taḫte
 anlamlar:
 - Çeşitli işlerde kullanılmak üzere düz, enlice, uzun ve az kalın biçimde işlenmiş ağaç parçası

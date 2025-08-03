@@ -2,6 +2,7 @@
 layout: term
 title: kovcu
 slug: kovcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► dedikoducu

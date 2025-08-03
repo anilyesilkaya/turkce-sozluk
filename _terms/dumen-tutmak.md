@@ -2,6 +2,7 @@
 layout: term
 title: dümen tutmak
 slug: dumen-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - teknenin gideceği yolu gözleyerek dümeni yönetmek

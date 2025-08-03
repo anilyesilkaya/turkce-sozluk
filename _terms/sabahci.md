@@ -2,6 +2,7 @@
 layout: term
 title: sabahçı
 slug: sabahci
+letter: S
 lisan: Türkçe
 anlamlar:
 - İkili öğretim yapan okullarda öğleden önce ders gören öğrenci, öğlenci karşıtı

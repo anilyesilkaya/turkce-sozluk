@@ -2,6 +2,7 @@
 layout: term
 title: hacet yeri
 slug: hacet-yeri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Dua edilip dilek dilenen yer

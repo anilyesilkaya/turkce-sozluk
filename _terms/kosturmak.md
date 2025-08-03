@@ -2,6 +2,7 @@
 layout: term
 title: koşturmak
 slug: kosturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşma işini yaptırmak; çapmak

@@ -2,6 +2,7 @@
 layout: term
 title: reviş
 slug: revis
+letter: R
 lisan: Farsça reviş
 anlamlar:
 - Gidiş, yürüyüş

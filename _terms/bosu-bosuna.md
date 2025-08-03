@@ -2,6 +2,7 @@
 layout: term
 title: boşu boşuna
 slug: bosu-bosuna
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boşuna

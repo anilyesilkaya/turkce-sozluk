@@ -2,6 +2,7 @@
 layout: term
 title: kör şeytan
 slug: kor-seytan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü kader

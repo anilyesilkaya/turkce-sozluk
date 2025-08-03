@@ -2,6 +2,7 @@
 layout: term
 title: abraş
 slug: abras
+letter: A
 lisan: Arapça abraş
 anlamlar:
 - Alaca benekli

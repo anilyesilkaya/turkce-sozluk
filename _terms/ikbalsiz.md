@@ -2,6 +2,7 @@
 layout: term
 title: ikbalsiz
 slug: ikbalsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkbale ermemiş olan, talihi olmayan

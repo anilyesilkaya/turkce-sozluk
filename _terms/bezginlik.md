@@ -2,6 +2,7 @@
 layout: term
 title: bezginlik
 slug: bezginlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezgin olma durumu; bezgi (II)

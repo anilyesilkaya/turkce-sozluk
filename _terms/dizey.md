@@ -2,6 +2,7 @@
 layout: term
 title: dizey
 slug: dizey
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► matris

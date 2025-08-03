@@ -2,6 +2,7 @@
 layout: term
 title: podyuma çıkmak
 slug: podyuma-cikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - manken giysiyi sergilemek için yüksekçe yere çıkmak

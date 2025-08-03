@@ -2,6 +2,7 @@
 layout: term
 title: tomarlanma
 slug: tomarlanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tomarlanmak durumu

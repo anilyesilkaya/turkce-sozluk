@@ -2,6 +2,7 @@
 layout: term
 title: beceriksizleşmek
 slug: beceriksizlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beceriksiz bir duruma gelmek

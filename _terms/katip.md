@@ -2,6 +2,7 @@
 layout: term
 title: kâtip
 slug: katip
+letter: K
 lisan: Arapça kātib
 anlamlar:
 - ► sekreter

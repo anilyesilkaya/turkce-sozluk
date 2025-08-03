@@ -2,6 +2,7 @@
 layout: term
 title: yazıvermek
 slug: yazivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede yazmak

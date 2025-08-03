@@ -2,6 +2,7 @@
 layout: term
 title: kaliteli
 slug: kaliteli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► nitelikli

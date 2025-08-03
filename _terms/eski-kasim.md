@@ -2,6 +2,7 @@
 layout: term
 title: eski kasım
 slug: eski-kasim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Anadolu’ya özgü halk takviminde 8 Kasım - 5 Mayıs tarihleri arasındaki dönem

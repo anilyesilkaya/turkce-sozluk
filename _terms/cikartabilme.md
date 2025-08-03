@@ -2,6 +2,7 @@
 layout: term
 title: çıkartabilme
 slug: cikartabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkartabilmek işi

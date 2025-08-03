@@ -2,6 +2,7 @@
 layout: term
 title: göz göre göre
 slug: goz-gore-gore
+letter: G
 lisan: Türkçe
 anlamlar:
 - belli ve apaçık olarak, herkesin gözü önünde

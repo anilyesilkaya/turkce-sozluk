@@ -2,6 +2,7 @@
 layout: term
 title: radar
 slug: radar
+letter: R
 lisan: İngilizce radar
 anlamlar:
 - Radyo dalgalarının yankısını alarak cisimlerin yerini ve uzaklığını bulabilen, genellikle uçak ve gemilerde kullanılan cihaz

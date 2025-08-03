@@ -2,6 +2,7 @@
 layout: term
 title: dürmek
 slug: durmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kıvırıp silindir biçiminde kendi üzerine sarmak

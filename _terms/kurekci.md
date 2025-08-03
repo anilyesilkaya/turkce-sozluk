@@ -2,6 +2,7 @@
 layout: term
 title: kürekçi
 slug: kurekci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürek yapan veya satan kimse

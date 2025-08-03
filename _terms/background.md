@@ -2,6 +2,7 @@
 layout: term
 title: background
 slug: background
+letter: B
 lisan: İngilizce background
 anlamlar:
 - 343 art alan

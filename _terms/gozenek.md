@@ -2,6 +2,7 @@
 layout: term
 title: gözenek
 slug: gozenek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Delikli bir nesnenin deliklerinden her biri

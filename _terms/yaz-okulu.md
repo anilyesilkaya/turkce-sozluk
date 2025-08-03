@@ -2,6 +2,7 @@
 layout: term
 title: yaz okulu
 slug: yaz-okulu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çocuk ve gençlerin yaz tatillerini değerlendirmek amacıyla açılan, çeşitli sporlar, etkinlikler ile desteklenen yer

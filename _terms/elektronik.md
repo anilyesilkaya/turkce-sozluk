@@ -2,6 +2,7 @@
 layout: term
 title: elektronik
 slug: elektronik
+letter: E
 lisan: Fransızca électronique
 anlamlar:
 - Serbest elektronların etkisiyle oluşan olayları inceleyen bilim dalı

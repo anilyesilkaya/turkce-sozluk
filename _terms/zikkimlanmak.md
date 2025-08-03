@@ -2,6 +2,7 @@
 layout: term
 title: zıkkımlanmak
 slug: zikkimlanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir şeyler yemek

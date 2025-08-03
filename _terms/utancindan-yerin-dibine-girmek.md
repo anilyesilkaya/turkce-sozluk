@@ -2,6 +2,7 @@
 layout: term
 title: utancından yerin dibine girmek
 slug: utancindan-yerin-dibine-girmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - istenilen biçimde ve nitelikte olmama karşısında üzüntü duymak, aşırı utanmak

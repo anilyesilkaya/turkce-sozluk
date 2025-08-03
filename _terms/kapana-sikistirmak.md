@@ -2,6 +2,7 @@
 layout: term
 title: kapana sıkıştırmak
 slug: kapana-sikistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birini zor durumda bırakmak

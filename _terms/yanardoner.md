@@ -2,6 +2,7 @@
 layout: term
 title: yanardöner
 slug: yanardoner
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kıpırdadıkça çeşitli renklerde parlayan (kumaş, deri vb.); janjan

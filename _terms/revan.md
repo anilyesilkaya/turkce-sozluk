@@ -2,6 +2,7 @@
 layout: term
 title: revan
 slug: revan
+letter: R
 lisan: Farsça revān
 anlamlar:
 - Giden, yürüyen

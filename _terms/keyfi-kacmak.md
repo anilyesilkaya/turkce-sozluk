@@ -2,6 +2,7 @@
 layout: term
 title: keyfi kaçmak
 slug: keyfi-kacmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - neşesi kalmamak

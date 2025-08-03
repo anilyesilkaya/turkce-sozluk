@@ -2,6 +2,7 @@
 layout: term
 title: şanssızlık
 slug: sanssizlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şanssız olma durumu; talihsizlik

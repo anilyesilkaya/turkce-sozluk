@@ -2,6 +2,7 @@
 layout: term
 title: rağbet
 slug: ragbet
+letter: R
 lisan: Arapça raġbet
 anlamlar:
 - İstek, arzu, ilgi

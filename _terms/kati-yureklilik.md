@@ -2,6 +2,7 @@
 layout: term
 title: katı yüreklilik
 slug: kati-yureklilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► merhametsizlik

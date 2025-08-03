@@ -2,6 +2,7 @@
 layout: term
 title: mâni
 slug: mani
+letter: M
 lisan: Arapça māniʿ
 anlamlar:
 - ► engel

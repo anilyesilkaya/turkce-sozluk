@@ -2,6 +2,7 @@
 layout: term
 title: tutumlu
 slug: tutumlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aşırı harcamalardan kaçınan; hesaplı, idareli, muktesit

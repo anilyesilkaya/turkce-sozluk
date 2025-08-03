@@ -2,6 +2,7 @@
 layout: term
 title: önderlik
 slug: onderlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önder olma durumu; öncülük, liderlik

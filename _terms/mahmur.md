@@ -2,6 +2,7 @@
 layout: term
 title: mahmur
 slug: mahmur
+letter: M
 lisan: Arapça maḫmūr
 anlamlar:
 - Sarhoşluğun sebep olduğu sersemlik içinde olan

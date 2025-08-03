@@ -2,6 +2,7 @@
 layout: term
 title: ikili
 slug: ikili
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki parçadan oluşan, kendinde herhangi bir şeyden iki tane bulunan

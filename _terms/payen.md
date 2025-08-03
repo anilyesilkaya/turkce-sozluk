@@ -2,6 +2,7 @@
 layout: term
 title: payen
 slug: payen
+letter: P
 lisan: Fransızca païen
 anlamlar:
 - ► çok tanrıcı

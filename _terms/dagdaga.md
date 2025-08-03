@@ -2,6 +2,7 @@
 layout: term
 title: dağdağa
 slug: dagdaga
+letter: D
 lisan: Arapça daġdaġa
 anlamlar:
 - Gürültü, patırtı, telaş, karmakarışık durum

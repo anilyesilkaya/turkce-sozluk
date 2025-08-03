@@ -2,6 +2,7 @@
 layout: term
 title: ürkmek
 slug: urkmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir şeyden korkup sıçramak; tevahhuş etmek

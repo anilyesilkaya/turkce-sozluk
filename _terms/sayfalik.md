@@ -2,6 +2,7 @@
 layout: term
 title: sayfalık
 slug: sayfalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda sayfası olan

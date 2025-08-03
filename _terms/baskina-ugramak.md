@@ -2,6 +2,7 @@
 layout: term
 title: baskına uğramak
 slug: baskina-ugramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - düşmanın beklenmedik bir saldırısıyla karşılaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: dikeliş
 slug: dikelis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikelmek işi

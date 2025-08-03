@@ -2,6 +2,7 @@
 layout: term
 title: işaretleşmek
 slug: isaretlesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birbirine işaret etmek

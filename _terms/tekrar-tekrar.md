@@ -2,6 +2,7 @@
 layout: term
 title: tekrar tekrar
 slug: tekrar-tekrar
+letter: T
 lisan: Türkçe
 anlamlar:
 - Durmadan tekrarlayarak; yana yana

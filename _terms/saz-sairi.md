@@ -2,6 +2,7 @@
 layout: term
 title: saz şairi
 slug: saz-sairi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► halk ozanı

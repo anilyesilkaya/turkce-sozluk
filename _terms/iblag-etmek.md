@@ -2,6 +2,7 @@
 layout: term
 title: iblağ etmek
 slug: iblag-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ulaştırmak, eriştirmek

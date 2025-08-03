@@ -2,6 +2,7 @@
 layout: term
 title: içim
 slug: icim
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçmek işi; içiş

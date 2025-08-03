@@ -2,6 +2,7 @@
 layout: term
 title: büyükçe
 slug: buyukce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biraz büyük

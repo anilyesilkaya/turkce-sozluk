@@ -2,6 +2,7 @@
 layout: term
 title: buklet
 slug: buklet
+letter: B
 lisan: Fransızca bouclette
 anlamlar:
 - Bükülmüş iplik

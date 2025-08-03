@@ -2,6 +2,7 @@
 layout: term
 title: darbuka
 slug: darbuka
+letter: D
 lisan: Arapça darabuḳḳa
 anlamlar:
 - Toprak veya madenden yapılan, bir yanı açık, vurmalı çalgı

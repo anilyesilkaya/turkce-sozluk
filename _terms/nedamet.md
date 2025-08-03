@@ -2,6 +2,7 @@
 layout: term
 title: nedamet
 slug: nedamet
+letter: N
 lisan: Arapça nedāmet
 anlamlar:
 - ► pişmanlık

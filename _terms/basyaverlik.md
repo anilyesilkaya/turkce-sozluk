@@ -2,6 +2,7 @@
 layout: term
 title: başyaverlik
 slug: basyaverlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başyaver olma durumu

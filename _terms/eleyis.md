@@ -2,6 +2,7 @@
 layout: term
 title: eleyiş
 slug: eleyis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elemek işi

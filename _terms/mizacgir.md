@@ -2,6 +2,7 @@
 layout: term
 title: mizaçgir
 slug: mizacgir
+letter: M
 lisan: Arapça mizāc + Farsça -gīr
 anlamlar:
 - Herkesin huyuna ve keyfine göre davranan, nabza göre şerbet vermesini bilen (kimse)

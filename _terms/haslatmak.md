@@ -2,6 +2,7 @@
 layout: term
 title: haşlatmak
 slug: haslatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haşlamasını sağlamak

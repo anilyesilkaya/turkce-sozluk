@@ -2,6 +2,7 @@
 layout: term
 title: leke
 slug: leke
+letter: L
 lisan: Farsça leke, lekke
 anlamlar:
 - Kirliliği gösteren iz

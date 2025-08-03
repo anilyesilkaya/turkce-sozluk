@@ -2,6 +2,7 @@
 layout: term
 title: sahip
 slug: sahip
+letter: S
 lisan: Arapça ṣāḥib
 anlamlar:
 - Herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir biçimde dilediği gibi kullanabilen kimse; iye, malik

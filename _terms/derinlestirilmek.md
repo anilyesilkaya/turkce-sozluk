@@ -2,6 +2,7 @@
 layout: term
 title: derinleştirilmek
 slug: derinlestirilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derin duruma getirilmek

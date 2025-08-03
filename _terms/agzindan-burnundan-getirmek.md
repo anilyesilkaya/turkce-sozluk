@@ -2,6 +2,7 @@
 layout: term
 title: ağzından burnundan getirmek
 slug: agzindan-burnundan-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - huzurunu bozmak, sıkıntıya sokmak

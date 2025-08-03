@@ -2,6 +2,7 @@
 layout: term
 title: bastı
 slug: basti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kıyma ile pişirilmiş sebze

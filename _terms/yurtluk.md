@@ -2,6 +2,7 @@
 layout: term
 title: yurtluk
 slug: yurtluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► malikâne

@@ -2,6 +2,7 @@
 layout: term
 title: barışma
 slug: barisma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barışmak durumu, uzlaşma, anlaşma

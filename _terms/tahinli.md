@@ -2,6 +2,7 @@
 layout: term
 title: tahinli
 slug: tahinli
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçinde tahin bulunan (çörek, ekmek, pide vb.)

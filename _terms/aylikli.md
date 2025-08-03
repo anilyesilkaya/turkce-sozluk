@@ -2,6 +2,7 @@
 layout: term
 title: aylıklı
 slug: aylikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aylık alan (kimse); maaşlı

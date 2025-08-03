@@ -2,6 +2,7 @@
 layout: term
 title: yenilmek
 slug: yenilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Savaş veya yarışmada karşısındakinden aşağı durumda kalmak; kaybetmek, mağlup olmak, alt olmak, sırtı yere gelmek

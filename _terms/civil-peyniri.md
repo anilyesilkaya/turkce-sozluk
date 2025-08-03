@@ -2,6 +2,7 @@
 layout: term
 title: civil peyniri
 slug: civil-peyniri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yağsız sütten yapılan, tel tel görünümlü bir tür peynir

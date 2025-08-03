@@ -2,6 +2,7 @@
 layout: term
 title: fırlak
 slug: firlak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Dışarı doğru fırlamış, çıkmış, çıkık olan

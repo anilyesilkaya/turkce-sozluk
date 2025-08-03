@@ -2,6 +2,7 @@
 layout: term
 title: azgın
 slug: azgin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azmış olan; kudurgan

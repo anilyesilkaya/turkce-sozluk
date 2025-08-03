@@ -2,6 +2,7 @@
 layout: term
 title: semizot
 slug: semizot
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► semizotu

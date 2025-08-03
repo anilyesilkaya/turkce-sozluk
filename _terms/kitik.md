@@ -2,6 +2,7 @@
 layout: term
 title: kıtık
 slug: kitik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Minder, yastık vb.ni doldurmak için kullanılan ve bazen de sıvanın içine katılan keten ve kendir lifleri

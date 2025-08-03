@@ -2,6 +2,7 @@
 layout: term
 title: kolaylaşmak
 slug: kolaylasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolay duruma gelmek; hafifleşmek

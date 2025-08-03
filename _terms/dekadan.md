@@ -2,6 +2,7 @@
 layout: term
 title: dekadan
 slug: dekadan
+letter: D
 lisan: Fransızca décadent
 anlamlar:
 - XIX. yüzyıl sonlarında Fransa'da natüralistlere karşı çıkan sembolizm akımına öncülük etmiş olan sanatçı

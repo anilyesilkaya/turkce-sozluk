@@ -2,6 +2,7 @@
 layout: term
 title: bacaklık
 slug: bacaklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hokey oyuncularının kullandığı, dizin üst kısmından patene kadar uzanan, deri veya sert plastikten yapılmış koruyucu

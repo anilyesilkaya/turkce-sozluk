@@ -2,6 +2,7 @@
 layout: term
 title: beyin kanaması
 slug: beyin-kanamasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyni besleyen damarlardan bir veya birkaçının hastalık veya darbe sonucu zedelenip kanaması; dimağ ihtikanı

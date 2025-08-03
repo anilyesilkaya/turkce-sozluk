@@ -2,6 +2,7 @@
 layout: term
 title: belirginlik
 slug: belirginlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirgin olma durumu; sarihlik

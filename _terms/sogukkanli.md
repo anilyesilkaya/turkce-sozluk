@@ -2,6 +2,7 @@
 layout: term
 title: soğukkanlı
 slug: sogukkanli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Olaylara ve gelişmelere sakin, ılımlı ve temkinli yaklaşan (kimse); serinkanlı, telaşsız, itidal sahibi

@@ -2,6 +2,7 @@
 layout: term
 title: geberme
 slug: geberme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gebermek işi

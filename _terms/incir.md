@@ -2,6 +2,7 @@
 layout: term
 title: incir
 slug: incir
+letter: I
 lisan: Farsça encīr
 anlamlar:
 - Dutgillerden, asıl yurdu Akdeniz kıyıları olan, yaprakları geniş dilimli bir ağaç (Ficus carica)

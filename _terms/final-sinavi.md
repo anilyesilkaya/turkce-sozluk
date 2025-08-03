@@ -2,6 +2,7 @@
 layout: term
 title: final sınavı
 slug: final-sinavi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yarıyıl sonu sınavı

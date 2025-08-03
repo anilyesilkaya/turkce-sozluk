@@ -2,6 +2,7 @@
 layout: term
 title: yalnızlaşmak
 slug: yalnizlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalnız duruma gelmek

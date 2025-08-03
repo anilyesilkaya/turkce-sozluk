@@ -2,6 +2,7 @@
 layout: term
 title: Elbasan tavası
 slug: elbasan-tavasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Önceden haşlanarak hazırlanmış yağsız etin üzerine yoğurt ve çırpılmış yumurta karışımının dökülüp fırında pişirilmesiyle yapılan bir yemek; Elbasan tava

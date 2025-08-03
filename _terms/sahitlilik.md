@@ -2,6 +2,7 @@
 layout: term
 title: şahitlilik
 slug: sahitlilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► tanıklılık

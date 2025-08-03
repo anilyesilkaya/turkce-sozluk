@@ -2,6 +2,7 @@
 layout: term
 title: nüans
 slug: nuans
+letter: N
 lisan: Fransızca nuance
 anlamlar:
 - ► ayırtı

@@ -2,6 +2,7 @@
 layout: term
 title: morartabilmek
 slug: morartabilmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Morartma gücü bulunmak

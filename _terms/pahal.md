@@ -2,6 +2,7 @@
 layout: term
 title: pahal
 slug: pahal
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ters(I), aksi

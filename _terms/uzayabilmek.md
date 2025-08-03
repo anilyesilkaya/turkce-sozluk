@@ -2,6 +2,7 @@
 layout: term
 title: uzayabilmek
 slug: uzayabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzama ihtimali veya imkânı bulunmak

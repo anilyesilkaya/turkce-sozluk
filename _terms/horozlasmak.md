@@ -2,6 +2,7 @@
 layout: term
 title: horozlaşmak
 slug: horozlasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kabadayılaşmak

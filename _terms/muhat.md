@@ -2,6 +2,7 @@
 layout: term
 title: muhat
 slug: muhat
+letter: M
 lisan: Arapça muḥāṭ
 anlamlar:
 - Kuşatılmış, sarılmış, çevrilmiş

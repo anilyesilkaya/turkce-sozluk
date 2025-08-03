@@ -2,6 +2,7 @@
 layout: term
 title: pul
 slug: pul
+letter: P
 lisan: Farsça pūl
 anlamlar:
 - Posta parası karşılığı mektup zarfı, kartpostallara ve damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası

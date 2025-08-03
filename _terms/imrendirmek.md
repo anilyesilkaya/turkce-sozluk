@@ -2,6 +2,7 @@
 layout: term
 title: imrendirmek
 slug: imrendirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmrenmesine yol açmak

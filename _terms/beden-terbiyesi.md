@@ -2,6 +2,7 @@
 layout: term
 title: beden terbiyesi
 slug: beden-terbiyesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beden eğitimi

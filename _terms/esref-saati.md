@@ -2,6 +2,7 @@
 layout: term
 title: eşref saati
 slug: esref-saati
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir işin olumlu yola girmesi için en uygun zaman

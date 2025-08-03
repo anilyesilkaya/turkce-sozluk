@@ -2,6 +2,7 @@
 layout: term
 title: deneyimcilik
 slug: deneyimcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneyimci olma durumu

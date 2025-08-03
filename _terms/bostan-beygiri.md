@@ -2,6 +2,7 @@
 layout: term
 title: bostan beygiri
 slug: bostan-beygiri
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dolap beygiri

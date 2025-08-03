@@ -2,6 +2,7 @@
 layout: term
 title: ilişkin
 slug: iliskin
+letter: I
 lisan: Türkçe
 anlamlar:
 - “İlgisi, ilişiği olan” anlamlarında kullanılan bir söz; değgin, merbut, müteallik

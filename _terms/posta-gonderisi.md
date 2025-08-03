@@ -2,6 +2,7 @@
 layout: term
 title: posta gönderisi
 slug: posta-gonderisi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Devletin posta örgütü tarafından gönderilen mektup, evrak vb.

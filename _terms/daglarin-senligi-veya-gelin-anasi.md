@@ -2,6 +2,7 @@
 layout: term
 title: dağların şenliği (veya gelin anası)
 slug: daglarin-senligi-veya-gelin-anasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - kaba, anlayışsız kimse

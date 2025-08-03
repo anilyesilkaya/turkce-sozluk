@@ -2,6 +2,7 @@
 layout: term
 title: coşkusuz
 slug: coskusuz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşkusu olmayan

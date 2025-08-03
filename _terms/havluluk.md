@@ -2,6 +2,7 @@
 layout: term
 title: havluluk
 slug: havluluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havlu asmak için özel olarak yapılmış araç

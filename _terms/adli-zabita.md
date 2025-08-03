@@ -2,6 +2,7 @@
 layout: term
 title: adli zabıta
 slug: adli-zabita
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir suç sonrası sanığı ve suç delillerini adli yetkililere sunan kolluk kuvveti

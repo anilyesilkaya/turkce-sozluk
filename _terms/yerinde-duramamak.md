@@ -2,6 +2,7 @@
 layout: term
 title: yerinde duramamak
 slug: yerinde-duramamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sürekli kıpırdamak

@@ -2,6 +2,7 @@
 layout: term
 title: durdurabilme
 slug: durdurabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durdurabilmek işi

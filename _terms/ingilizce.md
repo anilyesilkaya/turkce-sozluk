@@ -2,6 +2,7 @@
 layout: term
 title: İngilizce
 slug: ingilizce
+letter: İ
 lisan: Türkçe
 anlamlar:
 - Hint-Avrupa dil ailesinden, İngiltere’de, biraz farklı biçimiyle Amerika Birleşik Devletleri, Kanada, Avustralya ve İngilizlerin hâkim olduğu bölgelerde yaşayanlar tarafından kullanılan dil

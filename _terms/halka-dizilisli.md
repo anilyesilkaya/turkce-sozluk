@@ -2,6 +2,7 @@
 layout: term
 title: halka dizilişli
 slug: halka-dizilisli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Aynı eksen çevresinde dizilmiş

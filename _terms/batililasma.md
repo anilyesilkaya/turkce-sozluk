@@ -2,6 +2,7 @@
 layout: term
 title: Batılılaşma
 slug: batililasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batılılaşmak durumu; Garplılaşma

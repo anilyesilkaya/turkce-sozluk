@@ -2,6 +2,7 @@
 layout: term
 title: iş birliği yapmak
 slug: is-birligi-yapmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - amaç ve çıkarları bir olanlarca çalışma ortaklığı kurulmak

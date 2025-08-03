@@ -2,6 +2,7 @@
 layout: term
 title: seçilmek
 slug: secilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçme işine konu olmak

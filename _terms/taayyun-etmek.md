@@ -2,6 +2,7 @@
 layout: term
 title: taayyün etmek
 slug: taayyun-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - belirmek

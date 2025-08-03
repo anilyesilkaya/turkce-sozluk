@@ -2,6 +2,7 @@
 layout: term
 title: metastaz
 slug: metastaz
+letter: M
 lisan: Fransızca métastase
 anlamlar:
 - ► yayılma

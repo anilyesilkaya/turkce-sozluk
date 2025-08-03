@@ -2,6 +2,7 @@
 layout: term
 title: mürur tezkeresi
 slug: murur-tezkeresi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir yere gitmek için gerekli olan izin belgesi

@@ -2,6 +2,7 @@
 layout: term
 title: başı örtülülük
 slug: basi-ortululuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başı kapalılık

@@ -2,6 +2,7 @@
 layout: term
 title: çulsuz çuvalsız
 slug: culsuz-cuvalsiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Züğürt, işi ve parası olmayan

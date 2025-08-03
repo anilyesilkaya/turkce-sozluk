@@ -2,6 +2,7 @@
 layout: term
 title: sonlu
 slug: sonlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonu olan; bitimli

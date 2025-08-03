@@ -2,6 +2,7 @@
 layout: term
 title: dişlek
 slug: dislek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişleri dışarıya doğru çıkık olan (kimse)

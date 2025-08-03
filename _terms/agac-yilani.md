@@ -2,6 +2,7 @@
 layout: term
 title: ağaç yılanı
 slug: agac-yilani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Su yılanıgillerden, ağaçlar üzerinde yaşayan bir tür yılan

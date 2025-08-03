@@ -2,6 +2,7 @@
 layout: term
 title: inceden inceye
 slug: inceden-inceye
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ayrıntılara inerek, önem vererek, titizce

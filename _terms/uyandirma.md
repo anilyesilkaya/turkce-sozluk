@@ -2,6 +2,7 @@
 layout: term
 title: uyandırma
 slug: uyandirma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyandırmak işi; ikaz

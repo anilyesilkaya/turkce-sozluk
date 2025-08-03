@@ -2,6 +2,7 @@
 layout: term
 title: dizi dizi
 slug: dizi-dizi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Peş peşe dizilmiş

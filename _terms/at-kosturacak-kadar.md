@@ -2,6 +2,7 @@
 layout: term
 title: at koşturacak kadar
 slug: at-kosturacak-kadar
+letter: A
 lisan: Türkçe
 anlamlar:
 - pek geniş, çok geniş

@@ -2,6 +2,7 @@
 layout: term
 title: izleyiş
 slug: izleyis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzlemek işi

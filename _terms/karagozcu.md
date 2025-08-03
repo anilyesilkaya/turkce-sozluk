@@ -2,6 +2,7 @@
 layout: term
 title: Karagözcü
 slug: karagozcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karagöz oyunu oynatan kimse; hayalci, hayalî, hayalbaz

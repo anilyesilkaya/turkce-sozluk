@@ -2,6 +2,7 @@
 layout: term
 title: makferlanlı
 slug: makferlanli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makferlan giymiş olan

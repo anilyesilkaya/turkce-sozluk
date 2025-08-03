@@ -2,6 +2,7 @@
 layout: term
 title: ağır hasta
 slug: agir-hasta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hastalığı ilerlemiş kimse

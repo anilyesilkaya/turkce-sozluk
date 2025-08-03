@@ -2,6 +2,7 @@
 layout: term
 title: baltalayıvermek
 slug: baltalayivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak baltalamak

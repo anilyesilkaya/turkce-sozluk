@@ -2,6 +2,7 @@
 layout: term
 title: evsiz
 slug: evsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evi olmayan

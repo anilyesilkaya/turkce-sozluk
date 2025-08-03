@@ -2,6 +2,7 @@
 layout: term
 title: boy aynası
 slug: boy-aynasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsanı bütünüyle gösteren büyük ayna; endam aynası

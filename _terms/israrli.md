@@ -2,6 +2,7 @@
 layout: term
 title: ısrarlı
 slug: israrli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Tekrarlanarak yapılan

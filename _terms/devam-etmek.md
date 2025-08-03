@@ -2,6 +2,7 @@
 layout: term
 title: devam etmek
 slug: devam-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - başlanmış bir iş sürmek

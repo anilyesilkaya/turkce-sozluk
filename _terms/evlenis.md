@@ -2,6 +2,7 @@
 layout: term
 title: evleniş
 slug: evlenis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenmek işi

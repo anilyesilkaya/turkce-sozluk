@@ -2,6 +2,7 @@
 layout: term
 title: çulculuk
 slug: culculuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çulcunun yaptığı iş

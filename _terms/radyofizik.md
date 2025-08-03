@@ -2,6 +2,7 @@
 layout: term
 title: radyofizik
 slug: radyofizik
+letter: R
 lisan: Fransızca radiophysique
 anlamlar:
 - Radyoelektriğe ilişkin olayları inceleyen bilim dalı

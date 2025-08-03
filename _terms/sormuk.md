@@ -2,6 +2,7 @@
 layout: term
 title: sormuk
 slug: sormuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çocuk emziği

@@ -2,6 +2,7 @@
 layout: term
 title: tuzağa düşmek
 slug: tuzaga-dusmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kuş veya yaban hayvanı kendisi için kurulan düzeneğe yakalanmak

@@ -2,6 +2,7 @@
 layout: term
 title: klorlu
 slug: klorlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birleşiminde klor bulunan

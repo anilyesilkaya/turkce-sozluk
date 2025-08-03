@@ -2,6 +2,7 @@
 layout: term
 title: çekişme
 slug: cekisme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekişmek işi; dırıltı, muaraza, mübareze

@@ -2,6 +2,7 @@
 layout: term
 title: işi olmak
 slug: isi-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yapacak bir şeyi bulunmak

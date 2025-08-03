@@ -2,6 +2,7 @@
 layout: term
 title: hizmet
 slug: hizmet
+letter: H
 lisan: Arapça ḫidmet
 anlamlar:
 - Birinin işini görme veya birine yarayan bir işi yapma

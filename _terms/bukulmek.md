@@ -2,6 +2,7 @@
 layout: term
 title: bükülmek
 slug: bukulmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükme işine konu olmak; bükünmek

@@ -2,6 +2,7 @@
 layout: term
 title: rızık
 slug: rizik
+letter: R
 lisan: Arapça rizḳ
 anlamlar:
 - Yiyecek, içecek şey; azık

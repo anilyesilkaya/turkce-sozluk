@@ -2,6 +2,7 @@
 layout: term
 title: tesir bırakmak
 slug: tesir-birakmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - etki bırakmak

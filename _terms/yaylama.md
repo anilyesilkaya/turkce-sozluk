@@ -2,6 +2,7 @@
 layout: term
 title: yaylama
 slug: yaylama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaylamak işi

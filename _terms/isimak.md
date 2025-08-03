@@ -2,6 +2,7 @@
 layout: term
 title: ışımak
 slug: isimak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► aydınlanmak

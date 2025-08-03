@@ -2,6 +2,7 @@
 layout: term
 title: aldatılmışlık
 slug: aldatilmislik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldatılmış olma durumu

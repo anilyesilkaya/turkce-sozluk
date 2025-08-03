@@ -2,6 +2,7 @@
 layout: term
 title: reklam ajansı
 slug: reklam-ajansi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir ticari kuruluşu tanıtan, onunla ilgili bilgi aktaran ve bu yolla kazanç sağlayan iş kolu

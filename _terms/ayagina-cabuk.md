@@ -2,6 +2,7 @@
 layout: term
 title: ayağına çabuk
 slug: ayagina-cabuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yere alışılandan daha kısa sürede gidip gelen

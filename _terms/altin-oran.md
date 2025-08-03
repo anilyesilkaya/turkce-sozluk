@@ -2,6 +2,7 @@
 layout: term
 title: altın oran
 slug: altin-oran
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mimari ve sanatta kullanılan, bir bütünün parçaları arasında gözlemlenen, uyum açısından en mükemmel boyutları verdiği düşünülen geometrik ve sayısal bir oran bağıntısı

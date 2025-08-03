@@ -2,6 +2,7 @@
 layout: term
 title: paylaşmak
 slug: paylasmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok kimse bir şeyi kendi aralarında belirli oranda dağıtmak; bölüşmek, üleşmek

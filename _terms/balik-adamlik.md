@@ -2,6 +2,7 @@
 layout: term
 title: balık adamlık
 slug: balik-adamlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dalgıçlık

@@ -2,6 +2,7 @@
 layout: term
 title: ölüvermek
 slug: oluvermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ansızın ölmek

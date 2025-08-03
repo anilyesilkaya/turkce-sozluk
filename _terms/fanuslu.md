@@ -2,6 +2,7 @@
 layout: term
 title: fanuslu
 slug: fanuslu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fanusu olan

@@ -2,6 +2,7 @@
 layout: term
 title: çarşamba karısı
 slug: carsamba-karisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Masallarda geçen, kılıksız, saçı başı karmakarışık kadın

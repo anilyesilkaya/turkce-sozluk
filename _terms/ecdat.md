@@ -2,6 +2,7 @@
 layout: term
 title: ecdat
 slug: ecdat
+letter: E
 lisan: Arapça ecdād
 anlamlar:
 - Geçmişteki büyükler, atalar

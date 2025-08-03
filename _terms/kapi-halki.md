@@ -2,6 +2,7 @@
 layout: term
 title: kapı halkı
 slug: kapi-halki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sadrazam, vezir, eyalet valileri, beylerbeyleri vb. devlet büyükleri yanında hizmet gören kimselere verilen genel ad

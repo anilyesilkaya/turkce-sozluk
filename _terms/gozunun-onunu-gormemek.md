@@ -2,6 +2,7 @@
 layout: term
 title: gözünün önünü görmemek
 slug: gozunun-onunu-gormemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sisten, pustan dolayı etrafını görememek

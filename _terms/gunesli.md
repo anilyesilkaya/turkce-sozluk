@@ -2,6 +2,7 @@
 layout: term
 title: güneşli
 slug: gunesli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş ışınlarıyla aydınlanmış

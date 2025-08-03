@@ -2,6 +2,7 @@
 layout: term
 title: karşılıksız
 slug: karsiliksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılığı olmayan; ivazsız

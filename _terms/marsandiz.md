@@ -2,6 +2,7 @@
 layout: term
 title: marşandiz
 slug: marsandiz
+letter: M
 lisan: Fransızca marchandise
 anlamlar:
 - ► yük treni

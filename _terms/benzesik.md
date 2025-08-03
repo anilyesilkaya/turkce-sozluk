@@ -2,6 +2,7 @@
 layout: term
 title: benzeşik
 slug: benzesik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzeşme özelliği gösteren

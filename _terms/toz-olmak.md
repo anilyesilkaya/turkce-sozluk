@@ -2,6 +2,7 @@
 layout: term
 title: toz olmak
 slug: toz-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - toz durumuna gelmek

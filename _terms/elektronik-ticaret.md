@@ -2,6 +2,7 @@
 layout: term
 title: elektronik ticaret
 slug: elektronik-ticaret
+letter: E
 lisan: Türkçe
 anlamlar:
 - Her türlü malın veya hizmetin alım satımının genel ağ üzerinden yapıldığı ticaret; e-ticaret

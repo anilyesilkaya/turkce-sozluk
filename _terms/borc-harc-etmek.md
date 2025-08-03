@@ -2,6 +2,7 @@
 layout: term
 title: borç harç etmek
 slug: borc-harc-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sürekli borç almak

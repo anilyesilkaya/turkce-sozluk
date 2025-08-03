@@ -2,6 +2,7 @@
 layout: term
 title: topluca
 slug: topluca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Vücutça biraz dolgun

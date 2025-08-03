@@ -2,6 +2,7 @@
 layout: term
 title: meta
 slug: meta
+letter: M
 lisan: Arapça metāʿ
 anlamlar:
 - Mal, ticaret malı

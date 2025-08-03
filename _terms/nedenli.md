@@ -2,6 +2,7 @@
 layout: term
 title: nedenli
 slug: nedenli
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sebepli

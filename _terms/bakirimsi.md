@@ -2,6 +2,7 @@
 layout: term
 title: bakırımsı
 slug: bakirimsi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bakırsı

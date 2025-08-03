@@ -2,6 +2,7 @@
 layout: term
 title: zindancıbaşı
 slug: zindancibasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Hapishanede görevli bekçilerden sorumlu kimse

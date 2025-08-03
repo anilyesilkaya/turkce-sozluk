@@ -2,6 +2,7 @@
 layout: term
 title: sütsüz
 slug: sutsuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde süt bulunmayan, süt katılmadan yapılan

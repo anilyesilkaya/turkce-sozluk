@@ -2,6 +2,7 @@
 layout: term
 title: çiriş otu
 slug: ciris-otu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, beyaz çiçekli bir bitki (Asphodelus)

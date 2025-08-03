@@ -2,6 +2,7 @@
 layout: term
 title: ilk adım
 slug: ilk-adim
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► başlangıç

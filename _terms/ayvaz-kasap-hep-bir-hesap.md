@@ -2,6 +2,7 @@
 layout: term
 title: ayvaz, kasap hep bir hesap
 slug: ayvaz-kasap-hep-bir-hesap
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"ha öyle ha böyle, ikisi de bir" anlamında kullanılan bir söz'

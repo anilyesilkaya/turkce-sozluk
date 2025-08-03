@@ -2,6 +2,7 @@
 layout: term
 title: zilsiz
 slug: zilsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zili olmayan

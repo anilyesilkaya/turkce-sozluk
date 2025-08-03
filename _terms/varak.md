@@ -2,6 +2,7 @@
 layout: term
 title: varak
 slug: varak
+letter: V
 lisan: Arapça varaḳ
 anlamlar:
 - Yazılı kâğıt; varaka

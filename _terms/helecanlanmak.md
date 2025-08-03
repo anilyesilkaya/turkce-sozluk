@@ -2,6 +2,7 @@
 layout: term
 title: helecanlanmak
 slug: helecanlanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kalp çarpıntısına tutulmak

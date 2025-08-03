@@ -2,6 +2,7 @@
 layout: term
 title: bir bir
 slug: bir-bir
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► birer birer

@@ -2,6 +2,7 @@
 layout: term
 title: elinden bir kaza (veya sakatlık) çıkmak
 slug: elinden-bir-kaza-veya-sakatlik-cikmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - istemeyerek birini yaralamak veya öldürmek

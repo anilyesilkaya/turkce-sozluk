@@ -2,6 +2,7 @@
 layout: term
 title: gözümün nuru
 slug: gozumun-nuru
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sevgi anlatan bir seslenme sözü; nuruaynım, nuruçeşmim, nurudidem

@@ -2,6 +2,7 @@
 layout: term
 title: tuzu kuru
 slug: tuzu-kuru
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir işten zarar görmeyen, kazancı yolunda olan (kimse)

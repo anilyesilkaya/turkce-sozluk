@@ -2,6 +2,7 @@
 layout: term
 title: damlalık
 slug: damlalik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir sıvıyı damla damla akıtmak için bir ucuna kauçuktan yapılmış başlık geçirilmiş, öbür ucu sivri, cam veya plastikten araç

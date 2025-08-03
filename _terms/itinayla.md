@@ -2,6 +2,7 @@
 layout: term
 title: itinayla
 slug: itinayla
+letter: I
 lisan: Türkçe
 anlamlar:
 - Özen göstererek

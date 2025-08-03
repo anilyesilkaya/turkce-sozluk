@@ -2,6 +2,7 @@
 layout: term
 title: hamdolsun
 slug: hamdolsun
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Tanrı''ya şükürler olsun" anlamında hoşnutluk anlatan bir söz'

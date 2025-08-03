@@ -2,6 +2,7 @@
 layout: term
 title: rüesa
 slug: ruesa
+letter: R
 lisan: Arapça ruʾesā
 anlamlar:
 - Başkanlar

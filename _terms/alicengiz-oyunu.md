@@ -2,6 +2,7 @@
 layout: term
 title: alicengiz oyunu
 slug: alicengiz-oyunu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kurnazca ve haince hazırlanmış hile, düzen

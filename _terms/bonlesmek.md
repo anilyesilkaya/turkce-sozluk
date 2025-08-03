@@ -2,6 +2,7 @@
 layout: term
 title: bönleşmek
 slug: bonlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► saflaşmak (II)

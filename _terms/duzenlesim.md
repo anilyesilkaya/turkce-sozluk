@@ -2,6 +2,7 @@
 layout: term
 title: düzenleşim
 slug: duzenlesim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aynı sıradaki nesne veya kavramların birbirinin yanında oluşu

@@ -2,6 +2,7 @@
 layout: term
 title: devşirimli
 slug: devsirimli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenli olarak derlenmiş

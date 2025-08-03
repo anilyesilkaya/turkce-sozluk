@@ -2,6 +2,7 @@
 layout: term
 title: sarf etmek
 slug: sarf-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - tüketmek, harcamak

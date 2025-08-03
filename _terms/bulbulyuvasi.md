@@ -2,6 +2,7 @@
 layout: term
 title: bülbülyuvası
 slug: bulbulyuvasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Daire biçiminde, ortası çukur ve bu çukur yere piştikten sonra dövülmüş Antep fıstığı konulan bir hamur tatlısı türü

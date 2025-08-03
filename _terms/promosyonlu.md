@@ -2,6 +2,7 @@
 layout: term
 title: promosyonlu
 slug: promosyonlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Promosyon ihtiva eden

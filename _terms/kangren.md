@@ -2,6 +2,7 @@
 layout: term
 title: kangren
 slug: kangren
+letter: K
 lisan: Fransızca gangrène
 anlamlar:
 - Vücudun herhangi bir yerindeki dokunun oraya kan gelmemesi sonucu ölmesi

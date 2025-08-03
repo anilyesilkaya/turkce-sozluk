@@ -2,6 +2,7 @@
 layout: term
 title: perdesizlik
 slug: perdesizlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perdesi olmama durumu

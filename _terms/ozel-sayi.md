@@ -2,6 +2,7 @@
 layout: term
 title: özel sayı
 slug: ozel-sayi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir süreli yayının belli bir konuya ayrılmış sayısı

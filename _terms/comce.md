@@ -2,6 +2,7 @@
 layout: term
 title: çömçe
 slug: comce
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tahta kepçe; çemçe

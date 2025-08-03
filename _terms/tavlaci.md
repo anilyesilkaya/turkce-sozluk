@@ -2,6 +2,7 @@
 layout: term
 title: tavlacı
 slug: tavlaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavla oynayan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: küpeşte
 slug: kupeste
+letter: K
 lisan: Rumca
 anlamlar:
 - Gemide güverte hizasında ıskarmoz bağlarına tutturulan dikmelerin dış yüzlerine kaplanan kaplamaların oluşturduğu siper, borda kaplamalarının en üstü, güverteden yukarı kalan bölüm; korkuluk, parapet

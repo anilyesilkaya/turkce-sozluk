@@ -2,6 +2,7 @@
 layout: term
 title: şıngırdatma
 slug: singirdatma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıngırdatmak işi

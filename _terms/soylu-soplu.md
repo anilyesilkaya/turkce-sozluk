@@ -2,6 +2,7 @@
 layout: term
 title: soylu soplu
 slug: soylu-soplu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Köklü ve tanınmış bir aileden olan

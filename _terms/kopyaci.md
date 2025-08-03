@@ -2,6 +2,7 @@
 layout: term
 title: kopyacı
 slug: kopyaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yazılı sınavlarda kopya çeken öğrenci

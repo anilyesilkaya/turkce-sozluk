@@ -2,6 +2,7 @@
 layout: term
 title: ilkokul
 slug: ilkokul
+letter: I
 lisan: Türkçe
 anlamlar:
 - Öğrenim çağındaki çocukları ortaokula hazırlayan eğitim öğretim kurumu; beş, ilk mektep, iptidai, iptidai mektep

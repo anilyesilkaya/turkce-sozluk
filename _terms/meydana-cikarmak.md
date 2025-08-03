@@ -2,6 +2,7 @@
 layout: term
 title: meydana çıkarmak
 slug: meydana-cikarmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - açıklığa kavuşturmak, ortaya çıkarmak, belli etmek

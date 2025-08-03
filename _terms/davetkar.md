@@ -2,6 +2,7 @@
 layout: term
 title: davetkâr
 slug: davetkar
+letter: D
 lisan: Arapça daʿvet + Farsça -kār
 anlamlar:
 - Çekici, cazibeli (bakış, davranış vb.)

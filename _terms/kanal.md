@@ -2,6 +2,7 @@
 layout: term
 title: kanal
 slug: kanal
+letter: K
 lisan: Fransızca canal
 anlamlar:
 - Bazı bölgeleri sulamak, kurutmak amacıyla veya gemilerin işlemesine elverişli, insan eliyle açılmış su yolu

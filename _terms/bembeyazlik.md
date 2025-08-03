@@ -2,6 +2,7 @@
 layout: term
 title: bembeyazlık
 slug: bembeyazlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bembeyaz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ciğeri parçalanmak
 slug: cigeri-parcalanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - yüreği parçalanmak

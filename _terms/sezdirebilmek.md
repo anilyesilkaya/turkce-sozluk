@@ -2,6 +2,7 @@
 layout: term
 title: sezdirebilmek
 slug: sezdirebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezdirme ihtimali veya imkânı bulunmak

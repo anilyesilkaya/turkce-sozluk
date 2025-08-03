@@ -2,6 +2,7 @@
 layout: term
 title: eli kulağında
 slug: eli-kulaginda
+letter: E
 lisan: Türkçe
 anlamlar:
 - Nerede ise olacak, çok yakında olması beklenilen

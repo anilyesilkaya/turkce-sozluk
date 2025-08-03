@@ -2,6 +2,7 @@
 layout: term
 title: ısrarlı olmak
 slug: israrli-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - düşüncesinde, kararında direnmek

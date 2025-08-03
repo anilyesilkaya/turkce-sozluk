@@ -2,6 +2,7 @@
 layout: term
 title: ayıklık
 slug: ayiklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayık olma durumu

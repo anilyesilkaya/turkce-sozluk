@@ -2,6 +2,7 @@
 layout: term
 title: fecrikâzip
 slug: fecrikazip
+letter: F
 lisan: Arapça fecr + kāẕib
 anlamlar:
 - ► yalancı tan

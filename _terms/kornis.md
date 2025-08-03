@@ -2,6 +2,7 @@
 layout: term
 title: korniş
 slug: kornis
+letter: K
 lisan: Fransızca corniche
 anlamlar:
 - Tavana sabitlenerek üzerine perde takılan, metal veya plastikten yapılmış araç

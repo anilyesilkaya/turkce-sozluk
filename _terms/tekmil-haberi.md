@@ -2,6 +2,7 @@
 layout: term
 title: tekmil haberi
 slug: tekmil-haberi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Askerlikte astın üste verdiği sözlü rapor; tekmil

@@ -2,6 +2,7 @@
 layout: term
 title: hazırcevaplık
 slug: hazircevaplik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırcevap olma durumu

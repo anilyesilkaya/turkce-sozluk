@@ -2,6 +2,7 @@
 layout: term
 title: paranoyak
 slug: paranoyak
+letter: P
 lisan: Fransızca paranoïaque
 anlamlar:
 - Paranoyaya tutulmuş kimse

@@ -2,6 +2,7 @@
 layout: term
 title: pejmürde
 slug: pejmurde
+letter: P
 lisan: Farsça pijmurde
 anlamlar:
 - Eski püskü, yırtık

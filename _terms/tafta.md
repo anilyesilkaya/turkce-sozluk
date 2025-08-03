@@ -2,6 +2,7 @@
 layout: term
 title: tafta
 slug: tafta
+letter: T
 lisan: Farsça tāfte
 anlamlar:
 - Bir tür sert, ipekli kumaş

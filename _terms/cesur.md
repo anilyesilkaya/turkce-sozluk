@@ -2,6 +2,7 @@
 layout: term
 title: cesur
 slug: cesur
+letter: C
 lisan: Arapça cesūr
 anlamlar:
 - ► cesaretli

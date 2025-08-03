@@ -2,6 +2,7 @@
 layout: term
 title: kamikazelik
 slug: kamikazelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamikaze olma durumu

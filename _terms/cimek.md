@@ -2,6 +2,7 @@
 layout: term
 title: çimek
 slug: cimek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimecek yer

@@ -2,6 +2,7 @@
 layout: term
 title: hazırlop
 slug: hazirlop
+letter: H
 lisan: Türkçe
 anlamlar:
 - Başkası tarafından hazırlanmış, sağlanmış

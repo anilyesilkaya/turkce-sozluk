@@ -2,6 +2,7 @@
 layout: term
 title: büfe
 slug: bufe
+letter: B
 lisan: Fransızca buffet
 anlamlar:
 - Evlerde içine yemek takımlarının konduğu dolap

@@ -2,6 +2,7 @@
 layout: term
 title: böğürebilmek
 slug: bogurebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böğürme ihtimali veya imkânı bulunmak

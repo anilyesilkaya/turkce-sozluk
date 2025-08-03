@@ -2,6 +2,7 @@
 layout: term
 title: sulfata
 slug: sulfata
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kinin sülfatı ve genel olarak kinin tuzu

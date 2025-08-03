@@ -2,6 +2,7 @@
 layout: term
 title: fark gözetmek
 slug: fark-gozetmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - ayrı tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: gam yememek
 slug: gam-yememek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kaygılanmamak

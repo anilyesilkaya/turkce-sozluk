@@ -2,6 +2,7 @@
 layout: term
 title: kuşluk yemeği
 slug: kusluk-yemegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşluk saatlerinde yenilen yemek

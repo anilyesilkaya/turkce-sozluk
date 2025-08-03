@@ -2,6 +2,7 @@
 layout: term
 title: gına
 slug: gina
+letter: G
 lisan: Arapça ġinā
 anlamlar:
 - Zenginlik, bolluk

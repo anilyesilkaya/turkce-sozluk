@@ -2,6 +2,7 @@
 layout: term
 title: yüzsuyu dökmek
 slug: yuzsuyu-dokmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - onurunu sarsacak kadar çok yalvarmak

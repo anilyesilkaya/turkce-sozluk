@@ -2,6 +2,7 @@
 layout: term
 title: tozpembe görmek
 slug: tozpembe-gormek
+letter: T
 lisan: Türkçe
 anlamlar:
 - aşırı iyimser olmak

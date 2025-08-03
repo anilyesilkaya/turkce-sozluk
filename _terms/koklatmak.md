@@ -2,6 +2,7 @@
 layout: term
 title: koklatmak
 slug: koklatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koklama işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: bunaltı
 slug: bunalti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sıkıntı, iç sıkıntısı

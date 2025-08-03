@@ -2,6 +2,7 @@
 layout: term
 title: sıkım
 slug: sikim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkmak işi

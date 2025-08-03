@@ -2,6 +2,7 @@
 layout: term
 title: layıkıyla
 slug: layikiyla
+letter: L
 lisan: Türkçe
 anlamlar:
 - Gerektiği gibi, layık olduğu biçimde, tam anlamıyla

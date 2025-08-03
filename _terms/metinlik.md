@@ -2,6 +2,7 @@
 layout: term
 title: metînlik
 slug: metinlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dayanıklılık

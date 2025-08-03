@@ -2,6 +2,7 @@
 layout: term
 title: kollarının arasına almak
 slug: kollarinin-arasina-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kucaklamak

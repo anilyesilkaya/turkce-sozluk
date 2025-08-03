@@ -2,6 +2,7 @@
 layout: term
 title: düzme
 slug: duzme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzmek işi

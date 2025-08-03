@@ -2,6 +2,7 @@
 layout: term
 title: keçisakalı
 slug: kecisakali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ladengillerden, çayırlarda, nemli yerlerde yetişen, yaprakları mızraksı ve çizgili, çiçekleri mavimtırak veya mor renkte bir tür laden bitkisi; keçisedefi (Cistus creticus)

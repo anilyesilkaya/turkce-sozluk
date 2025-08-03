@@ -2,6 +2,7 @@
 layout: term
 title: rezil rüsva olmak
 slug: rezil-rusva-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - toplum içinde utanılacak bir duruma düşmek

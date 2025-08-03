@@ -2,6 +2,7 @@
 layout: term
 title: bölgeci
 slug: bolgeci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belli bir bölgenin çıkarları için çalışan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sıkacak
 slug: sikacak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir nesneyi, iki ağırlık arasında mekanik olarak sıkıştırmaya yarayan araç

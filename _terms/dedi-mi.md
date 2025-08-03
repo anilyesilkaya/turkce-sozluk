@@ -2,6 +2,7 @@
 layout: term
 title: dedi mi
 slug: dedi-mi
+letter: D
 lisan: Türkçe
 anlamlar:
 - (dedi' mi) olduğu zaman, olduğunda

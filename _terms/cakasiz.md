@@ -2,6 +2,7 @@
 layout: term
 title: cakasız
 slug: cakasiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► gösterişsiz

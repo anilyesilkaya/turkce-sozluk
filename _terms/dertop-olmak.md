@@ -2,6 +2,7 @@
 layout: term
 title: dertop olmak
 slug: dertop-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - toplanıp büzülmek, toplu hâlde olmak

@@ -2,6 +2,7 @@
 layout: term
 title: geniş karşılamak
 slug: genis-karsilamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - hoşgörü ile değerlendirmek

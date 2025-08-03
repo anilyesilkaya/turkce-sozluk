@@ -2,6 +2,7 @@
 layout: term
 title: beslemelik
 slug: beslemelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► besleme

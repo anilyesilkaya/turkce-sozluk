@@ -2,6 +2,7 @@
 layout: term
 title: amonyaklı
 slug: amonyakli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amonyak içeren

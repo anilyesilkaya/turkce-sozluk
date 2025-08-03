@@ -2,6 +2,7 @@
 layout: term
 title: boş boş
 slug: bos-bos
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şey yapmadan

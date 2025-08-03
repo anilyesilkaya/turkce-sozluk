@@ -2,6 +2,7 @@
 layout: term
 title: deyiş
 slug: deyis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deme, söyleme işi

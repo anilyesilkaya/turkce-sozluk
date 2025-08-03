@@ -2,6 +2,7 @@
 layout: term
 title: toparlak
 slug: toparlak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Top cephanesi taşıyan araba

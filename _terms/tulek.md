@@ -2,6 +2,7 @@
 layout: term
 title: tülek
 slug: tulek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüyleri değişmiş (kuş veya kümes hayvanı)

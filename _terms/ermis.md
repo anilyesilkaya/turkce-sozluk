@@ -2,6 +2,7 @@
 layout: term
 title: ermiş
 slug: ermis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hâli, davranışları, üstün vasıfları sebebiyle halk tarafından Allah’ın sevgilisi olduğu kabul edilen, çeşitli kerametler gösteren kimse; eren, aziz, evliya, veli, veliyullah

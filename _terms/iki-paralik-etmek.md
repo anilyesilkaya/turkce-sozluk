@@ -2,6 +2,7 @@
 layout: term
 title: iki paralık etmek
 slug: iki-paralik-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - rezil etmek, utanılacak duruma düşürmek

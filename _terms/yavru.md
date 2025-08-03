@@ -2,6 +2,7 @@
 layout: term
 title: yavru
 slug: yavru
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeni doğmuş hayvan veya insan; bala

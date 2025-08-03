@@ -2,6 +2,7 @@
 layout: term
 title: oyalanmak
 slug: oyalanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyalama işine konu olmak; meşgul olmak

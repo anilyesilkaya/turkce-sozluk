@@ -2,6 +2,7 @@
 layout: term
 title: yalıngaç
 slug: yalingac
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kabuğu çatlayıp soyulan

@@ -2,6 +2,7 @@
 layout: term
 title: çizebilmek
 slug: cizebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: yumuşak
 slug: yumusak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dokunulduğunda veya üzerine basıldığında çukurlaşan, eski biçimini kaybeden, katı karşıtı

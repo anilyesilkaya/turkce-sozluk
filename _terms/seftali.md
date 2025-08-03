@@ -2,6 +2,7 @@
 layout: term
 title: şeftali
 slug: seftali
+letter: Ş
 lisan: Farsça şeft + ālū
 anlamlar:
 - Gülgillerden, ılıman bölgelerde yetişen, çiçekleri pembe renkli bir ağaç (Prunus persica)

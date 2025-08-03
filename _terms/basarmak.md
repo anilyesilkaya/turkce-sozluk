@@ -2,6 +2,7 @@
 layout: term
 title: başarmak
 slug: basarmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işi istenilen bir biçimde bitirmek; muvaffak olmak

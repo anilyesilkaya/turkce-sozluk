@@ -2,6 +2,7 @@
 layout: term
 title: utanç
 slug: utanc
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► utanma

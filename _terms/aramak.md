@@ -2,6 +2,7 @@
 layout: term
 title: aramak
 slug: aramak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi bulmaya çalışmak

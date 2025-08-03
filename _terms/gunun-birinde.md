@@ -2,6 +2,7 @@
 layout: term
 title: günün birinde
 slug: gunun-birinde
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bilinmedik bir zamanda

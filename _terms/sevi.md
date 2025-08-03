@@ -2,6 +2,7 @@
 layout: term
 title: sevi
 slug: sevi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► aşk

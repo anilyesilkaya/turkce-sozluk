@@ -2,6 +2,7 @@
 layout: term
 title: çatkı
 slug: catki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uç uca, birbirine çatılan şeylerin bütünü

@@ -2,6 +2,7 @@
 layout: term
 title: tump
 slug: tump
+letter: T
 lisan: Ermenice
 anlamlar:
 - Toprak parçası, toprak seti, yığını

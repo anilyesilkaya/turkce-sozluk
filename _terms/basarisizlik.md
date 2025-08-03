@@ -2,6 +2,7 @@
 layout: term
 title: başarısızlık
 slug: basarisizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarısız olma durumu; muvaffakiyetsizlik

@@ -2,6 +2,7 @@
 layout: term
 title: ıslahat
 slug: islahat
+letter: I
 lisan: Arapça iṣlāḥāt
 anlamlar:
 - ► düzeltme

@@ -2,6 +2,7 @@
 layout: term
 title: çevirmen
 slug: cevirmen
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Konuşmayı bir dilden başka bir dile çeviren kimse; çevirici, dilmaç, tercüman, dragoman

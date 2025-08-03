@@ -2,6 +2,7 @@
 layout: term
 title: glasyolog
 slug: glasyolog
+letter: G
 lisan: Fransızca glaciologue
 anlamlar:
 - ► buzul bilimci

@@ -2,6 +2,7 @@
 layout: term
 title: karşılanmak
 slug: karsilanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılama işi yapılmak

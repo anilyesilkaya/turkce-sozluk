@@ -2,6 +2,7 @@
 layout: term
 title: dili (veya dilinin) döndüğü kadar
 slug: dili-veya-dilinin-dondugu-kadar
+letter: D
 lisan: Türkçe
 anlamlar:
 - söyleyebildiği kadar, anlatma gücünün elverdiği ölçüde

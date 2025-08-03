@@ -2,6 +2,7 @@
 layout: term
 title: inan
 slug: inan
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnanmak işi

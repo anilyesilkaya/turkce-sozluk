@@ -2,6 +2,7 @@
 layout: term
 title: filizlendirmek
 slug: filizlendirmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filizlenme işini yaptırmak

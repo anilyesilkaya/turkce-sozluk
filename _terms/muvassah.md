@@ -2,6 +2,7 @@
 layout: term
 title: muvaşşah
 slug: muvassah
+letter: M
 lisan: Arapça muvaşşaḥ
 anlamlar:
 - ► akrostiş

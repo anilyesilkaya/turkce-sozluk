@@ -2,6 +2,7 @@
 layout: term
 title: tabir etmek
 slug: tabir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yorumlamak

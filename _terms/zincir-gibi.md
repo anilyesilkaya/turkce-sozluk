@@ -2,6 +2,7 @@
 layout: term
 title: zincir gibi
 slug: zincir-gibi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - art arda sıralanmış şey

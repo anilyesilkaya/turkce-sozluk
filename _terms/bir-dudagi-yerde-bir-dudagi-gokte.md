@@ -2,6 +2,7 @@
 layout: term
 title: bir dudağı yerde bir dudağı gökte
 slug: bir-dudagi-yerde-bir-dudagi-gokte
+letter: B
 lisan: Türkçe
 anlamlar:
 - masallardaki dev gibi korkunç ve çirkin

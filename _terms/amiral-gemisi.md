@@ -2,6 +2,7 @@
 layout: term
 title: amiral gemisi
 slug: amiral-gemisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir gemi grubunu kontrol etmek için komutan tarafından kullanılan, genellikle komutana ait forsun çekildiği gemi; bayrak gemisi

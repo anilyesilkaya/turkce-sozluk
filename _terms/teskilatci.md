@@ -2,6 +2,7 @@
 layout: term
 title: teşkilatçı
 slug: teskilatci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► örgütçü

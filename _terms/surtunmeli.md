@@ -2,6 +2,7 @@
 layout: term
 title: sürtünmeli
 slug: surtunmeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürtünerek

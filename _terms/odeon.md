@@ -2,6 +2,7 @@
 layout: term
 title: odeon
 slug: odeon
+letter: O
 lisan: Fransızca odéon
 anlamlar:
 - Eski Yunan’da müzikli eserlerin temsili için kurulmuş tiyatro

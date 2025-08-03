@@ -2,6 +2,7 @@
 layout: term
 title: kilogramkuvvet
 slug: kilogramkuvvet
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kilogramağırlık

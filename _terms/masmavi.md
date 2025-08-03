@@ -2,6 +2,7 @@
 layout: term
 title: masmavi
 slug: masmavi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Her yanı mavi; gömgök

@@ -2,6 +2,7 @@
 layout: term
 title: mermerlik
 slug: mermerlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mermerle döşeli yer

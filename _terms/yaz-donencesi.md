@@ -2,6 +2,7 @@
 layout: term
 title: Yaz Dönencesi
 slug: yaz-donencesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► Yengeç Dönencesi

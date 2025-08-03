@@ -2,6 +2,7 @@
 layout: term
 title: yengelik
 slug: yengelik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenge olma durumu

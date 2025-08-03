@@ -2,6 +2,7 @@
 layout: term
 title: ödenek
 slug: odenek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir iş için ayrılan belli para; tahsisat

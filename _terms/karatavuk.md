@@ -2,6 +2,7 @@
 layout: term
 title: karatavuk
 slug: karatavuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karatavukgillerden, tüyleri kara, meyve ve böceklerle beslenen ötücü kuş (Turdus merula)

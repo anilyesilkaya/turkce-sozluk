@@ -2,6 +2,7 @@
 layout: term
 title: damarı tutmak
 slug: damari-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kötü huyu, aksiliği depreşmek, inatlaşmak

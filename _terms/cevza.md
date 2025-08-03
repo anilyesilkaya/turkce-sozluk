@@ -2,6 +2,7 @@
 layout: term
 title: Cevza
 slug: cevza
+letter: C
 lisan: Arapça cevzā
 anlamlar:
 - ► İkizler Burcu

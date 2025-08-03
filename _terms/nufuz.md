@@ -2,6 +2,7 @@
 layout: term
 title: nüfuz
 slug: nufuz
+letter: N
 lisan: Arapça nufūẕ
 anlamlar:
 - İçine geçme

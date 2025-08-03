@@ -2,6 +2,7 @@
 layout: term
 title: kraliyet
 slug: kraliyet
+letter: K
 lisan: Sırpça + Arapça -iyyet
 anlamlar:
 - ► krallık

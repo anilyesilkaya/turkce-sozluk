@@ -2,6 +2,7 @@
 layout: term
 title: sapınç
 slug: sapinc
+letter: S
 lisan: Türkçe
 anlamlar:
 - Özel bir görevin normal sonucuna ulaşmasına engel olan sapıklık; aberasyon

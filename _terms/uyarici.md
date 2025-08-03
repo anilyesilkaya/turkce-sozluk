@@ -2,6 +2,7 @@
 layout: term
 title: uyarıcı
 slug: uyarici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarma özelliği olan; münebbih

@@ -2,6 +2,7 @@
 layout: term
 title: bencilleşebilmek
 slug: bencillesebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bencilleşme ihtimali veya imkânı bulunmak

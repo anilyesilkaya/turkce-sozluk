@@ -2,6 +2,7 @@
 layout: term
 title: kasılış
 slug: kasilis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasılmak işi

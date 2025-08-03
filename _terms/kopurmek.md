@@ -2,6 +2,7 @@
 layout: term
 title: köpürmek
 slug: kopurmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpük yapmak, köpük oluşmak, köpük çıkararak kabarmak

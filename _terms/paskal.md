@@ -2,6 +2,7 @@
 layout: term
 title: paskal
 slug: paskal
+letter: P
 lisan: Fransızca pascal
 anlamlar:
 - Güldürücü, soytarı

@@ -2,6 +2,7 @@
 layout: term
 title: küme
 slug: kume
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► grup

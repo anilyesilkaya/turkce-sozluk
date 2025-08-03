@@ -2,6 +2,7 @@
 layout: term
 title: irtisam
 slug: irtisam
+letter: I
 lisan: Arapça irtisām
 anlamlar:
 - Resmi çıkma, resmi çizilme

@@ -2,6 +2,7 @@
 layout: term
 title: yüzde yüz
 slug: yuzde-yuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kesinlikle

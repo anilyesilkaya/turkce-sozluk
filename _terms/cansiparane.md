@@ -2,6 +2,7 @@
 layout: term
 title: cansiparane
 slug: cansiparane
+letter: C
 lisan: Farsça cānsipārāne
 anlamlar:
 - Canını verircesine, özverili bir biçimde

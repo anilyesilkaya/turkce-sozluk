@@ -2,6 +2,7 @@
 layout: term
 title: debriyaj pedalı
 slug: debriyaj-pedali
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► debriyaj

@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal küme
 slug: toplumsal-kume
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türlü etkileşimlerle bir arada bulunan,birden çok sayıda bireyden oluşan toplumsal birim

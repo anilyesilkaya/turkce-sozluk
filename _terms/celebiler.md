@@ -2,6 +2,7 @@
 layout: term
 title: Çelebiler
 slug: celebiler
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► Çelebiyan

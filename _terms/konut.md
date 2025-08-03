@@ -2,6 +2,7 @@
 layout: term
 title: konut
 slug: konut
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ön doğru

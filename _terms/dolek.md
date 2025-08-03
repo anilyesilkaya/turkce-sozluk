@@ -2,6 +2,7 @@
 layout: term
 title: dölek
 slug: dolek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ağırbaşlı, uslu, ağır davranışlı olan

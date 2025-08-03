@@ -2,6 +2,7 @@
 layout: term
 title: tezatlı
 slug: tezatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► karşıtlı

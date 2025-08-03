@@ -2,6 +2,7 @@
 layout: term
 title: Babilik
 slug: babilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - XIX. yüzyılda, İran'da Ali Muhammed Bab'ın kurduğu dinî öğreti

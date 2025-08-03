@@ -2,6 +2,7 @@
 layout: term
 title: ediverme
 slug: ediverme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edivermek işi

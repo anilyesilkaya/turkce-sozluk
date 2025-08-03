@@ -2,6 +2,7 @@
 layout: term
 title: yalak
 slug: yalak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayvanların su içtikleri taş veya ağaçtan oyma kap

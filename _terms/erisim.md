@@ -2,6 +2,7 @@
 layout: term
 title: erişim
 slug: erisim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erişmek işi

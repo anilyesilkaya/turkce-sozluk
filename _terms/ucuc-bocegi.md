@@ -2,6 +2,7 @@
 layout: term
 title: uçuç böceği
 slug: ucuc-bocegi
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uğur böceği

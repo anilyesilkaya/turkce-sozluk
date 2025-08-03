@@ -2,6 +2,7 @@
 layout: term
 title: andırışma
 slug: andirisma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Andırışmak işi

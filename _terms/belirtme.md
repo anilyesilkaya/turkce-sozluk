@@ -2,6 +2,7 @@
 layout: term
 title: belirtme
 slug: belirtme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Açık söyleme, belirli kılma, görüş bildirme; tasrih

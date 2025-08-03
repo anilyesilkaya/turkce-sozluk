@@ -2,6 +2,7 @@
 layout: term
 title: arktik
 slug: arktik
+letter: A
 lisan: Fransızca arctique
 anlamlar:
 - Kuzey Kutbu ve çevresindeki bölgeyle ilgili

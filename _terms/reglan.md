@@ -2,6 +2,7 @@
 layout: term
 title: reglan
 slug: reglan
+letter: R
 lisan: İngilizce raglan
 anlamlar:
 - Omuzlardan geçerek boyna kadar uzanan (kol)

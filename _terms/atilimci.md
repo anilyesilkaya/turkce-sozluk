@@ -2,6 +2,7 @@
 layout: term
 title: atılımcı
 slug: atilimci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Durumunu geliştirme gücü gösteren, atılım yapan; hamleci

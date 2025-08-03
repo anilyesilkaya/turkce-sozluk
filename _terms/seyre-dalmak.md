@@ -2,6 +2,7 @@
 layout: term
 title: seyre dalmak
 slug: seyre-dalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeye kendini vererek bakmak

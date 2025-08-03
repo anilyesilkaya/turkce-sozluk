@@ -2,6 +2,7 @@
 layout: term
 title: çocuk yazını
 slug: cocuk-yazini
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çocuk edebiyatı

@@ -2,6 +2,7 @@
 layout: term
 title: katran yağı
 slug: katran-yagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katrandan elde edilen ve hekimlikte ilaç olarak kullanılan sıvı

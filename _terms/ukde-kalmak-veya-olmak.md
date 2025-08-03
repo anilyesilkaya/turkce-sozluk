@@ -2,6 +2,7 @@
 layout: term
 title: ukde kalmak (veya olmak)
 slug: ukde-kalmak-veya-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - içine dert olmak

@@ -2,6 +2,7 @@
 layout: term
 title: punto
 slug: punto
+letter: P
 lisan: İtalyanca punto
 anlamlar:
 - Matbaacılıkta, bilgisayarda harflerin büyüklük ve küçüklüklerine göre aldığı ad

@@ -2,6 +2,7 @@
 layout: term
 title: fıkırtı
 slug: fikirti
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hafif kaynamayı anlatan yansıma sesinin adı

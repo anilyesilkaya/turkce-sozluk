@@ -2,6 +2,7 @@
 layout: term
 title: ziyade olsun!
 slug: ziyade-olsun
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yemekte bulunanlara veya yemeğe buyurun diyenlere "artsın, çoğalsın" anlamında söylenen bir nezaket sözü

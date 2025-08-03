@@ -2,6 +2,7 @@
 layout: term
 title: çıkma
 slug: cikma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkmak işi

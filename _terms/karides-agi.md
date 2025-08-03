@@ -2,6 +2,7 @@
 layout: term
 title: karides ağı
 slug: karides-agi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karides avlamakta kullanılan bir ağ türü

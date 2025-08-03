@@ -2,6 +2,7 @@
 layout: term
 title: diklik
 slug: diklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dik olma durumu

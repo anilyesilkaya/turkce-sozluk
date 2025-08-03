@@ -2,6 +2,7 @@
 layout: term
 title: boynuz çekmek
 slug: boynuz-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - boynuz kullanarak kan çekmek, hacamat etmek

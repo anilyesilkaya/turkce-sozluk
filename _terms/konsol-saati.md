@@ -2,6 +2,7 @@
 layout: term
 title: konsol saati
 slug: konsol-saati
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konsol gibi düz yerlere oturtulacak biçimde yapılmış saat

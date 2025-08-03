@@ -2,6 +2,7 @@
 layout: term
 title: müteşekkir
 slug: mutesekkir
+letter: M
 lisan: Arapça muteşekkir
 anlamlar:
 - Teşekkür etme durumunda olan, teşekkür borçlu olan

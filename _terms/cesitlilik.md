@@ -2,6 +2,7 @@
 layout: term
 title: çeşitlilik
 slug: cesitlilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşidi çok olma durumu; izge, renk, yelpaze, tenevvü, spektrum

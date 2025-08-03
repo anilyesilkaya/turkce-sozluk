@@ -2,6 +2,7 @@
 layout: term
 title: acımtırak
 slug: acimtirak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► acımsı

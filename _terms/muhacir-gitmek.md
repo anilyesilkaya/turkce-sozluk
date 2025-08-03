@@ -2,6 +2,7 @@
 layout: term
 title: muhacir gitmek
 slug: muhacir-gitmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - göç etmek

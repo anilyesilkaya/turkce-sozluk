@@ -2,6 +2,7 @@
 layout: term
 title: güllenmek
 slug: gullenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güllü duruma gelmek

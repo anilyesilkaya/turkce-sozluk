@@ -2,6 +2,7 @@
 layout: term
 title: donanmasız
 slug: donanmasiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donanması olmayan

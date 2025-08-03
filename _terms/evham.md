@@ -2,6 +2,7 @@
 layout: term
 title: evham
 slug: evham
+letter: E
 lisan: Arapça evhām
 anlamlar:
 - Kuruntular

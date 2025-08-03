@@ -2,6 +2,7 @@
 layout: term
 title: isteka
 slug: isteka
+letter: I
 lisan: İtalyanca stecca
 anlamlar:
 - Bilardo oyununda toplara vurmak için kullanılan sopa; bilardo sopası

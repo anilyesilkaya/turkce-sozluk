@@ -2,6 +2,7 @@
 layout: term
 title: cüzzam
 slug: cuzzam
+letter: C
 lisan: Arapça cuẕām
 anlamlar:
 - Hansen basilinin sebep olduğu, sinir sistemi ve deri başta olmak üzere birçok sistem ve organı etkileyebilen bulaşıcı bir hastalık; miskin hastalığı, lepra

@@ -2,6 +2,7 @@
 layout: term
 title: heceleme
 slug: heceleme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hecelemek işi

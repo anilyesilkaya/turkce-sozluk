@@ -2,6 +2,7 @@
 layout: term
 title: amansızca
 slug: amansizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amansız bir biçimde; amansızcasına

@@ -2,6 +2,7 @@
 layout: term
 title: kıvam
 slug: kivam
+letter: K
 lisan: Arapça ḳivām
 anlamlar:
 - Sıvılarda koyuluk, yoğunluk

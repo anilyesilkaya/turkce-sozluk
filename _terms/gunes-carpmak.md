@@ -2,6 +2,7 @@
 layout: term
 title: güneş çarpmak
 slug: gunes-carpmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sıcak havada güneş altında çok kalmaktan hasta olmak

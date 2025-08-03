@@ -2,6 +2,7 @@
 layout: term
 title: taksitlendirebilmek
 slug: taksitlendirebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taksitlendirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: diplomalı
 slug: diplomali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diploması olan

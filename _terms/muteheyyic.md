@@ -2,6 +2,7 @@
 layout: term
 title: müteheyyiç
 slug: muteheyyic
+letter: M
 lisan: Arapça muteheyyic
 anlamlar:
 - ► heyecanlı

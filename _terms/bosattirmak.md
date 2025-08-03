@@ -2,6 +2,7 @@
 layout: term
 title: boşattırmak
 slug: bosattirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşatma işini yaptırtmak

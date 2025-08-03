@@ -2,6 +2,7 @@
 layout: term
 title: kamersiz
 slug: kamersiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► aysız

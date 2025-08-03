@@ -2,6 +2,7 @@
 layout: term
 title: mıncıklamak
 slug: minciklamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Örseleyecek veya biçimini bozacak gibi ellemek, sıkıştırmak

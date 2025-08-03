@@ -2,6 +2,7 @@
 layout: term
 title: hesapsızca
 slug: hesapsizca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesapsız bir biçimde

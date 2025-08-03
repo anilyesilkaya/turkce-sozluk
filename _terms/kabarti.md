@@ -2,6 +2,7 @@
 layout: term
 title: kabartı
 slug: kabarti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tümsek, çıkıntı, kabarmış yer; kabarcık

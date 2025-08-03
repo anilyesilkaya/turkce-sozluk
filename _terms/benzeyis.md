@@ -2,6 +2,7 @@
 layout: term
 title: benzeyiş
 slug: benzeyis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzemek işi

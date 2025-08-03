@@ -2,6 +2,7 @@
 layout: term
 title: firavunluk
 slug: firavunluk
+letter: F
 lisan: Türkçe
 anlamlar:
 - Firavun olma durumu

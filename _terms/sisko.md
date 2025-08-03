@@ -2,6 +2,7 @@
 layout: term
 title: şişko
 slug: sisko
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şişman

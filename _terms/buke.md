@@ -2,6 +2,7 @@
 layout: term
 title: buke
 slug: buke
+letter: B
 lisan: Fransızca bouquet
 anlamlar:
 - ► koku

@@ -2,6 +2,7 @@
 layout: term
 title: bahçelik
 slug: bahcelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağları, bahçeleri olan yer

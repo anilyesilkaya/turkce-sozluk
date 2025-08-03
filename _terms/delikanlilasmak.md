@@ -2,6 +2,7 @@
 layout: term
 title: delikanlılaşmak
 slug: delikanlilasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delikanlı olmak

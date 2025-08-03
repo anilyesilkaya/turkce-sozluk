@@ -2,6 +2,7 @@
 layout: term
 title: dijital dönüşüm
 slug: dijital-donusum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Para ve zaman tasarrufu sağlamak üzere bilgi teknolojilerinin aracılığıyla iş süreçlerinin ve bilgilerin elektronik ortama taşınması; sayısal dönüşüm

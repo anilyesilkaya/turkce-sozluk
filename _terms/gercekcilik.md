@@ -2,6 +2,7 @@
 layout: term
 title: gerçekçilik
 slug: gercekcilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçekçi tutum ve davranış; realizm, realistlik

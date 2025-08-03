@@ -2,6 +2,7 @@
 layout: term
 title: kuple
 slug: kuple
+letter: K
 lisan: Fransızca couplet
 anlamlar:
 - Bir şarkıyı meydana getiren ve bir nakaratla sona eren bölümlerden her biri

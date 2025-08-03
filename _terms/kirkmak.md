@@ -2,6 +2,7 @@
 layout: term
 title: kırkmak
 slug: kirkmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyi uçlarından kesmek

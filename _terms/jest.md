@@ -2,6 +2,7 @@
 layout: term
 title: jest
 slug: jest
+letter: J
 lisan: Fransızca geste
 anlamlar:
 - Herhangi bir şeyi açıklamak için genellikle el, kol ve baş ile yapılan içgüdüsel veya iradeli hareket

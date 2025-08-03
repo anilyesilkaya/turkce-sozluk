@@ -2,6 +2,7 @@
 layout: term
 title: fotoğrafhane
 slug: fotografhane
+letter: F
 lisan: Fransızca photographe + Farsça ḫāne
 anlamlar:
 - Fotoğrafçının çalıştığı, fotoğraf çekilen veya fotoğraf makinesi satılan yer; fotoğrafçı

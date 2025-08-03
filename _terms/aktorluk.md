@@ -2,6 +2,7 @@
 layout: term
 title: aktörlük
 slug: aktorluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktörün görevi, aktörün yaptığı iş

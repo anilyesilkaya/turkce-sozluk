@@ -2,6 +2,7 @@
 layout: term
 title: toprakçı
 slug: toprakci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toprağa önem veren, toprağa bağlı kimse

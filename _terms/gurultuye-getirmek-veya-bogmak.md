@@ -2,6 +2,7 @@
 layout: term
 title: gürültüye getirmek (veya boğmak)
 slug: gurultuye-getirmek-veya-bogmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir işi, bir düşünceyi telaş ve karışıklık yüzünden ilgi çekmez duruma getirmek

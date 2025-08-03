@@ -2,6 +2,7 @@
 layout: term
 title: gizli celse
 slug: gizli-celse
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gizli duruşma

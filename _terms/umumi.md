@@ -2,6 +2,7 @@
 layout: term
 title: umumi
 slug: umumi
+letter: U
 lisan: Arapça ʿumūmī
 anlamlar:
 - ► genel

@@ -2,6 +2,7 @@
 layout: term
 title: ihanet
 slug: ihanet
+letter: I
 lisan: Arapça ihānet
 anlamlar:
 - Arkadan vurma, hainlik etme

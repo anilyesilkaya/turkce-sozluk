@@ -2,6 +2,7 @@
 layout: term
 title: dünyasal
 slug: dunyasal
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dünyevi

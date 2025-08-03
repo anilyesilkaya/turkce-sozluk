@@ -2,6 +2,7 @@
 layout: term
 title: sinsilik
 slug: sinsilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinsi olma durumu

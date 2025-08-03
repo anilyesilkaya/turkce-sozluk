@@ -2,6 +2,7 @@
 layout: term
 title: dilinme
 slug: dilinme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilinmek işi

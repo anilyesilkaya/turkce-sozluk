@@ -2,6 +2,7 @@
 layout: term
 title: sarma
 slug: sarma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarmak işi

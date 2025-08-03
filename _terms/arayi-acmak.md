@@ -2,6 +2,7 @@
 layout: term
 title: arayı açmak
 slug: arayi-acmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - aradaki uzaklık artmak

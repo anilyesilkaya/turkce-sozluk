@@ -2,6 +2,7 @@
 layout: term
 title: ruhsal
 slug: ruhsal
+letter: R
 lisan: Türkçe
 anlamlar:
 - Maddeyle ilgisi olmayan, ruhla ilgili olan; ruhi, tinsel, spiritüel

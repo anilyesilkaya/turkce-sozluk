@@ -2,6 +2,7 @@
 layout: term
 title: öfkelendirme
 slug: ofkelendirme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öfkelendirmek işi; cinlendirme, hiddetlendirme

@@ -2,6 +2,7 @@
 layout: term
 title: parmaklık
 slug: parmaklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Dik ve biraz aralıklı olarak yan yana dizilmiş tahta, demir vb. çubuklarla yapılmış bölme veya korkuluk

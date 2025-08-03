@@ -2,6 +2,7 @@
 layout: term
 title: bungunlaşmak
 slug: bungunlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sıkıntılı duruma gelmek

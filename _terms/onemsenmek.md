@@ -2,6 +2,7 @@
 layout: term
 title: önemsenmek
 slug: onemsenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önem verilmek, üzerinde durulmak

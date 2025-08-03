@@ -2,6 +2,7 @@
 layout: term
 title: insan içine çıkamaz olmak
 slug: insan-icine-cikamaz-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - mahcup olmak, çok utanmak

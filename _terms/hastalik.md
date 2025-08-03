@@ -2,6 +2,7 @@
 layout: term
 title: hastalık
 slug: hastalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Organizmada birtakım değişikliklerin ortaya çıkmasıyla sağlığın bozulması durumu; rahatsızlık, çor, dert, sayrılık, illet, maraz, maraza, zor, esenlik karşıtı

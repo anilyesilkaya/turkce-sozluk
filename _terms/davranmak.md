@@ -2,6 +2,7 @@
 layout: term
 title: davranmak
 slug: davranmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir kimseye veya bir şeye karşı belli tavır takınmak

@@ -2,6 +2,7 @@
 layout: term
 title: tanıksız
 slug: taniksiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanığı olmayan; şahitsiz

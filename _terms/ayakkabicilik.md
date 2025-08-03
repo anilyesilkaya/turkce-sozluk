@@ -2,6 +2,7 @@
 layout: term
 title: ayakkabıcılık
 slug: ayakkabicilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayakkabıcının yaptığı iş; başmakçılık, pabuççuluk

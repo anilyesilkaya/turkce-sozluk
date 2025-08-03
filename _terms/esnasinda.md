@@ -2,6 +2,7 @@
 layout: term
 title: esnasında
 slug: esnasinda
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sırasında, olduğu anda

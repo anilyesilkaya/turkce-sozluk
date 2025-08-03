@@ -2,6 +2,7 @@
 layout: term
 title: şeddadi
 slug: seddadi
+letter: Ş
 lisan: Arapça şeddādī
 anlamlar:
 - Çok büyük ve sağlam (yapı)

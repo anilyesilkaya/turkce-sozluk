@@ -2,6 +2,7 @@
 layout: term
 title: beton gibi
 slug: beton-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok sağlam, dayanıklı, sert

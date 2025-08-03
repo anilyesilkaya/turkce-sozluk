@@ -2,6 +2,7 @@
 layout: term
 title: devre arası
 slug: devre-arasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Futbol, basketbol vb.nde karşılaşma sırasında dinlenme süresi; yarı

@@ -2,6 +2,7 @@
 layout: term
 title: acayipleşmek
 slug: acayiplesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başkalaşmak, yadırganacak bir duruma gelmek

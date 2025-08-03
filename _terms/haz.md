@@ -2,6 +2,7 @@
 layout: term
 title: haz
 slug: haz
+letter: H
 lisan: Arapça ḥaẓẓ
 anlamlar:
 - Bir şeyin insanda uyandırdığı hoşlanma duygusu

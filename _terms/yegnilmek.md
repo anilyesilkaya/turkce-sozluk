@@ -2,6 +2,7 @@
 layout: term
 title: yeğnilmek
 slug: yegnilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hafiflemek

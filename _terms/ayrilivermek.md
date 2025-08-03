@@ -2,6 +2,7 @@
 layout: term
 title: ayrılıvermek
 slug: ayrilivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak ayrılmak

@@ -2,6 +2,7 @@
 layout: term
 title: gülüş
 slug: gulus
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülmek işi; hande

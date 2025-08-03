@@ -2,6 +2,7 @@
 layout: term
 title: kükürtdioksit
 slug: kukurtdioksit
+letter: K
 lisan: Farsça gūgird + dioxyde
 anlamlar:
 - Yoğunluğu 2,3 olan, renksiz, boğucu kokulu ağır bir gaz

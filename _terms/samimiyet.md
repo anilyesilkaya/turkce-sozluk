@@ -2,6 +2,7 @@
 layout: term
 title: samimiyet
 slug: samimiyet
+letter: S
 lisan: Arapça ṣamīmiyyet
 anlamlar:
 - ► içtenlik

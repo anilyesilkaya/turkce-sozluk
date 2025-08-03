@@ -2,6 +2,7 @@
 layout: term
 title: sadakat
 slug: sadakat
+letter: S
 lisan: Arapça ṣadāḳat
 anlamlar:
 - İçten bağlılık

@@ -2,6 +2,7 @@
 layout: term
 title: işini görmek
 slug: isini-gormek
+letter: I
 lisan: Türkçe
 anlamlar:
 - görevini yapmak

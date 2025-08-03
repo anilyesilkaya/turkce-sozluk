@@ -2,6 +2,7 @@
 layout: term
 title: hizmeti dokunmak
 slug: hizmeti-dokunmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - görevde bulunmak, iş yapmak

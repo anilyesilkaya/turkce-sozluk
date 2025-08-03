@@ -2,6 +2,7 @@
 layout: term
 title: her biri
 slug: her-biri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ayrı ayrı hepsi

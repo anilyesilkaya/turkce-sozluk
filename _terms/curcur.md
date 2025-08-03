@@ -2,6 +2,7 @@
 layout: term
 title: çurçur
 slug: curcur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Lapina familyasından, eti pek sevilmeyen, küçük bir deniz balığı (Crenilabrus)

@@ -2,6 +2,7 @@
 layout: term
 title: kolasız
 slug: kolasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolası olmayan

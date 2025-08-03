@@ -2,6 +2,7 @@
 layout: term
 title: canı istemek
 slug: cani-istemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - heves duymak

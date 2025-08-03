@@ -2,6 +2,7 @@
 layout: term
 title: metafizikçi
 slug: metafizikci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Metafizik ile uğraşan kimse

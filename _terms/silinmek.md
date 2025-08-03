@@ -2,6 +2,7 @@
 layout: term
 title: silinmek
 slug: silinmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silme işine konu olmak

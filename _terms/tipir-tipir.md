@@ -2,6 +2,7 @@
 layout: term
 title: tıpır tıpır
 slug: tipir-tipir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hafif ve düzenli biçimde ses çıkararak

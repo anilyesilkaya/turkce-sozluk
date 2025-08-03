@@ -2,6 +2,7 @@
 layout: term
 title: optik
 slug: optik
+letter: O
 lisan: Fransızca optique
 anlamlar:
 - Görme ile ilgili olan

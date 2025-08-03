@@ -2,6 +2,7 @@
 layout: term
 title: çöpleme
 slug: copleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöplemek işi

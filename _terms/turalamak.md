@@ -2,6 +2,7 @@
 layout: term
 title: turalamak
 slug: turalamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İplik çilelerini turalarına ayırmak

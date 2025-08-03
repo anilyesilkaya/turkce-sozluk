@@ -2,6 +2,7 @@
 layout: term
 title: belediye
 slug: belediye
+letter: B
 lisan: Arapça belediyye
 anlamlar:
 - İl, ilçe, kasaba, belde vb. yerleşim merkezlerinde temizlik, aydınlatma, su, toplu taşıma ve esnafın denetimi gibi kamu hizmetlerine bakan, başkanı ve üyeleri halk tarafından seçilen, tüzel kişiliği olan örgüt; uray, şehremaneti

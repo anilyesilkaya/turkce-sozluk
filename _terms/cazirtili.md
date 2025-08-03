@@ -2,6 +2,7 @@
 layout: term
 title: cazırtılı
 slug: cazirtili
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cazırtısı olan

@@ -2,6 +2,7 @@
 layout: term
 title: tesviyecilik
 slug: tesviyecilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tesviyecinin işi veya mesleği

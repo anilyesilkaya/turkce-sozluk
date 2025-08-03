@@ -2,6 +2,7 @@
 layout: term
 title: poker
 slug: poker
+letter: P
 lisan: Fransızca poker
 anlamlar:
 - Genellikle dört kişiyle ve otuz iki kâğıtla oynanan bir tür iskambil oyunu

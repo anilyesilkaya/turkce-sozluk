@@ -2,6 +2,7 @@
 layout: term
 title: yiyinti
 slug: yiyinti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeme içme

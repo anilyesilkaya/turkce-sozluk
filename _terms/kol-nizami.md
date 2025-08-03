@@ -2,6 +2,7 @@
 layout: term
 title: kol nizamı
 slug: kol-nizami
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mangaların yan yana veya arka arkaya dizilişinde kişiler arasında bir kol boyu mesafe bırakılması durumu

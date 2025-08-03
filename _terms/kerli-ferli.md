@@ -2,6 +2,7 @@
 layout: term
 title: kerli ferli
 slug: kerli-ferli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kelli felli

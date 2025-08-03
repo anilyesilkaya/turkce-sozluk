@@ -2,6 +2,7 @@
 layout: term
 title: üleştirmek
 slug: ulestirmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► paylaştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: vişnelik
 slug: visnelik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vişne yetiştirilen bahçe

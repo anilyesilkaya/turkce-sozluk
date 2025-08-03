@@ -2,6 +2,7 @@
 layout: term
 title: biat
 slug: biat
+letter: B
 lisan: Arapça beyʿat
 anlamlar:
 - Bir kimsenin egemenliğini tanıma

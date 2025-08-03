@@ -2,6 +2,7 @@
 layout: term
 title: temposuz
 slug: temposuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temposu olmayan

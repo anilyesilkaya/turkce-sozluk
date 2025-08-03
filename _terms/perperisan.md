@@ -2,6 +2,7 @@
 layout: term
 title: perperişan
 slug: perperisan
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok kötü bir durumda

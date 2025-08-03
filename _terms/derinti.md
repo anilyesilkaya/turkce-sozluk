@@ -2,6 +2,7 @@
 layout: term
 title: derinti
 slug: derinti
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► toplantı

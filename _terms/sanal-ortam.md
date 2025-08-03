@@ -2,6 +2,7 @@
 layout: term
 title: sanal ortam
 slug: sanal-ortam
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnsanların çevrim içi veya çevrim dışı kültür, sanat, eğitim, eğlence, bankacılık, haberleşme, iletişim vb.ni genel ağ, bilgisayar, tablet, cep telefonu aracılığıyla yaptığı etkileşimli ortam; interaktif ortam

@@ -2,6 +2,7 @@
 layout: term
 title: esamesi okunmamak
 slug: esamesi-okunmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - kendisine değer verilmemek, adı anılmamak

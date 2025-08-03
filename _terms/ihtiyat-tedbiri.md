@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyat tedbiri
 slug: ihtiyat-tedbiri
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlerisi düşünülerek alınan önlem; ihtiyati tedbir

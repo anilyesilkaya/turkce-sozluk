@@ -2,6 +2,7 @@
 layout: term
 title: kibritçilik
 slug: kibritcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kibritçinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: esvap
 slug: esvap
+letter: E
 lisan: Arapça es̱vāb
 anlamlar:
 - ► giysi

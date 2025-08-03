@@ -2,6 +2,7 @@
 layout: term
 title: yağmursuz
 slug: yagmursuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmuru olmayan, yağmur yağmayan

@@ -2,6 +2,7 @@
 layout: term
 title: değersizlik
 slug: degersizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değersiz olma durumu; değer düşümü, kıymetsizlik

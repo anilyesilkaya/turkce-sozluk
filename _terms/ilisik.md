@@ -2,6 +2,7 @@
 layout: term
 title: ilişik
 slug: ilisik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İliştirilmiş, eklenmiş, bağlanmış

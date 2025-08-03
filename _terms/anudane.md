@@ -2,6 +2,7 @@
 layout: term
 title: anudane
 slug: anudane
+letter: A
 lisan: Arapça ʿanūd + Farsça -āne
 anlamlar:
 - İnatçıya benzer, inatçıya yakışır

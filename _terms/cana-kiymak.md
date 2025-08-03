@@ -2,6 +2,7 @@
 layout: term
 title: cana kıymak
 slug: cana-kiymak
+letter: C
 lisan: Türkçe
 anlamlar:
 - öldürmek

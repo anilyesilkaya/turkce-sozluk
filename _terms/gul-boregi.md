@@ -2,6 +2,7 @@
 layout: term
 title: gül böreği
 slug: gul-boregi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Suda ıslatılan yufkanın içine kıyma, peynir, patates, ıspanak vb. konulduktan sonra gül biçimine getirilmesiyle yapılan ve fırında pişirilen bir börek türü

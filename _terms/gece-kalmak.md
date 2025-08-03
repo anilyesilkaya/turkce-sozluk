@@ -2,6 +2,7 @@
 layout: term
 title: geçe kalmak
 slug: gece-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - geç saatte ayakta olmak

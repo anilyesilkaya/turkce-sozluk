@@ -2,6 +2,7 @@
 layout: term
 title: tahrilli
 slug: tahrilli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tahrirli

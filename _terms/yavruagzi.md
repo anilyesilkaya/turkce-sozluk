@@ -2,6 +2,7 @@
 layout: term
 title: yavruağzı
 slug: yavruagzi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kavuniçi ile pembe arası bir renk

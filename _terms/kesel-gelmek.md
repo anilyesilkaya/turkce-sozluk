@@ -2,6 +2,7 @@
 layout: term
 title: kesel gelmek
 slug: kesel-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - tembelleşmek

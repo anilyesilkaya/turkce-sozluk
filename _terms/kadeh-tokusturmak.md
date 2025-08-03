@@ -2,6 +2,7 @@
 layout: term
 title: kadeh tokuşturmak
 slug: kadeh-tokusturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - içki içerken kadehleri karşılıklı olarak birbirine dokundurmak

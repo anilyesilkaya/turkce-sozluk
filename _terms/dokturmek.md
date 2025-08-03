@@ -2,6 +2,7 @@
 layout: term
 title: döktürmek
 slug: dokturmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökme işini yaptırmak

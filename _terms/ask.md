@@ -2,6 +2,7 @@
 layout: term
 title: aşk
 slug: ask
+letter: A
 lisan: Arapça ʿışḳ
 anlamlar:
 - Bir kimse veya bir şeye karşı duyulan çok kuvvetli sevgi ve bağlılık duygusu; sevi, amor

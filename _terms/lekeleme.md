@@ -2,6 +2,7 @@
 layout: term
 title: lekeleme
 slug: lekeleme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lekelemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: dayaklı
 slug: dayakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayak atılan

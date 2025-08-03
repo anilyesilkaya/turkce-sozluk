@@ -2,6 +2,7 @@
 layout: term
 title: memuriyet
 slug: memuriyet
+letter: M
 lisan: Arapça meʾmūriyyet
 anlamlar:
 - ► memurluk

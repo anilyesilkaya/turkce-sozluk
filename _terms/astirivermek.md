@@ -2,6 +2,7 @@
 layout: term
 title: astırıvermek
 slug: astirivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak astırmak

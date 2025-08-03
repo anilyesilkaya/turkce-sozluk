@@ -2,6 +2,7 @@
 layout: term
 title: objektivite
 slug: objektivite
+letter: O
 lisan: Fransızca objectivité
 anlamlar:
 - ► nesnellik

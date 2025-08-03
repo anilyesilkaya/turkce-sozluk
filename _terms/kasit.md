@@ -2,6 +2,7 @@
 layout: term
 title: kasıt
 slug: kasit
+letter: K
 lisan: Arapça ḳaṣd
 anlamlar:
 - ► amaç

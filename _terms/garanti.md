@@ -2,6 +2,7 @@
 layout: term
 title: garanti
 slug: garanti
+letter: G
 lisan: Fransızca garantie
 anlamlar:
 - ► güvence

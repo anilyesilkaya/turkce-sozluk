@@ -2,6 +2,7 @@
 layout: term
 title: yevmiyeli
 slug: yevmiyeli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► gündelikli

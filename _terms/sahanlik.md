@@ -2,6 +2,7 @@
 layout: term
 title: sahanlık
 slug: sahanlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yapılarda ve bazı taşıtlarda kapı önünde, merdiven başlarında veya dönülen bölümünde bulunan geniş yer

@@ -2,6 +2,7 @@
 layout: term
 title: kısmet olmak
 slug: kismet-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - nasip olmak

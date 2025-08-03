@@ -2,6 +2,7 @@
 layout: term
 title: eliptik
 slug: eliptik
+letter: E
 lisan: Fransızca elliptique
 anlamlar:
 - Elips ile ilgili, elips biçiminde olan

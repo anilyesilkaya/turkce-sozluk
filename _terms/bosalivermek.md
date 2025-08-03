@@ -2,6 +2,7 @@
 layout: term
 title: boşalıvermek
 slug: bosalivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın boşalmak

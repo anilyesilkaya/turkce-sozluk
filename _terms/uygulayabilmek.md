@@ -2,6 +2,7 @@
 layout: term
 title: uygulayabilmek
 slug: uygulayabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulama ihtimali veya imkânı bulunmak

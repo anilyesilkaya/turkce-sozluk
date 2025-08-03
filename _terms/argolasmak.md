@@ -2,6 +2,7 @@
 layout: term
 title: argolaşmak
 slug: argolasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karşılıklı argo konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: denklemek
 slug: denklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denk duruma getirmek

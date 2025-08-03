@@ -2,6 +2,7 @@
 layout: term
 title: haçvari
 slug: hacvari
+letter: H
 lisan: Farsça hācvārī
 anlamlar:
 - Haça benzeyen

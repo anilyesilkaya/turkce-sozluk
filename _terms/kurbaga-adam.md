@@ -2,6 +2,7 @@
 layout: term
 title: kurbağa adam
 slug: kurbaga-adam
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► dalgıç

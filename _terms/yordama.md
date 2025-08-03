@@ -2,6 +2,7 @@
 layout: term
 title: yordama
 slug: yordama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yordamak işi

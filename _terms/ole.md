@@ -2,6 +2,7 @@
 layout: term
 title: ole
 slug: ole
+letter: O
 lisan: İspanyolca ole
 anlamlar:
 - ► yaşa

@@ -2,6 +2,7 @@
 layout: term
 title: muvasala
 slug: muvasala
+letter: M
 lisan: Arapça muvāṣala
 anlamlar:
 - ► ulaşım

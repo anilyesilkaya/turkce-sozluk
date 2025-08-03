@@ -2,6 +2,7 @@
 layout: term
 title: şarapçılık
 slug: sarapcilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarapçının işi

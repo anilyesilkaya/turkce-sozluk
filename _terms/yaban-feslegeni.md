@@ -2,6 +2,7 @@
 layout: term
 title: yaban fesleğeni
 slug: yaban-feslegeni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yer fesleğeni

@@ -2,6 +2,7 @@
 layout: term
 title: arkeoloji
 slug: arkeoloji
+letter: A
 lisan: Fransızca archéologie
 anlamlar:
 - ► kazı bilimi

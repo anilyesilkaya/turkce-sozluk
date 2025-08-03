@@ -2,6 +2,7 @@
 layout: term
 title: prezantabl
 slug: prezantabl
+letter: P
 lisan: Fransızca présentable
 anlamlar:
 - Sunulabilir durumda olan

@@ -2,6 +2,7 @@
 layout: term
 title: kazboku
 slug: kazboku
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirli sarı renk

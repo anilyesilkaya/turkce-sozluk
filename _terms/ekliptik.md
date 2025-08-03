@@ -2,6 +2,7 @@
 layout: term
 title: ekliptik
 slug: ekliptik
+letter: E
 lisan: Fransızca écliptique
 anlamlar:
 - ► tutulum

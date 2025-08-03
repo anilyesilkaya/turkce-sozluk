@@ -2,6 +2,7 @@
 layout: term
 title: iletişimsizlik
 slug: iletisimsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İletişimsiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: bulvarlı
 slug: bulvarli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulvarı olan

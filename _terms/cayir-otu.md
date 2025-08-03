@@ -2,6 +2,7 @@
 layout: term
 title: çayır otu
 slug: cayir-otu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çayır oluşturan çeşitli bitkilerin genel adı

@@ -2,6 +2,7 @@
 layout: term
 title: özentici
 slug: ozentici
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birine veya bir şeye benzemeye çalışan (kimse)

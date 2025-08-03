@@ -2,6 +2,7 @@
 layout: term
 title: kofti
 slug: kofti
+letter: K
 lisan: Rumca
 anlamlar:
 - Sahtekâr, dolandırıcı kimse

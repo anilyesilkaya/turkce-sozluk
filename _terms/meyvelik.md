@@ -2,6 +2,7 @@
 layout: term
 title: meyvelik
 slug: meyvelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyve ağacı dikili, belirli büyüklükte yer; yemişlik

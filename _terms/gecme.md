@@ -2,6 +2,7 @@
 layout: term
 title: geçme
 slug: gecme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçmek işi; mürur

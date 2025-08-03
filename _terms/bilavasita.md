@@ -2,6 +2,7 @@
 layout: term
 title: bilavasıta
 slug: bilavasita
+letter: B
 lisan: Arapça bilāvāsiṭa
 anlamlar:
 - ► araçsız

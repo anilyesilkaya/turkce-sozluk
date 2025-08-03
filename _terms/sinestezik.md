@@ -2,6 +2,7 @@
 layout: term
 title: sinestezik
 slug: sinestezik
+letter: S
 lisan: Fransızca synésthésique
 anlamlar:
 - Başka nitelikte bir duyum uyandıran

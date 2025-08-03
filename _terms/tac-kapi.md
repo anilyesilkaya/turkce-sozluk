@@ -2,6 +2,7 @@
 layout: term
 title: taç kapı
 slug: tac-kapi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Büyük bir yapının görkemli biçimde süslenmiş girişi

@@ -2,6 +2,7 @@
 layout: term
 title: kulak kepçesi
 slug: kulak-kepcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulağın sesi toplayarak orta kulağa göndermeye yarayan, yarım daire biçimindeki bölümü; sayvan

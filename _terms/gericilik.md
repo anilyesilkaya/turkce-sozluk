@@ -2,6 +2,7 @@
 layout: term
 title: gericilik
 slug: gericilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerici (I) olma durumu; irtica, mürtecilik

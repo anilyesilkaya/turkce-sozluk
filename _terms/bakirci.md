@@ -2,6 +2,7 @@
 layout: term
 title: bakırcı
 slug: bakirci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakır işleyen veya bakır kap kacak satan kimse

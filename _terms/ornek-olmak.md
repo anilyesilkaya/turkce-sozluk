@@ -2,6 +2,7 @@
 layout: term
 title: örnek olmak
 slug: ornek-olmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - davranışlarıyla başkasını heveslendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: pay etmek
 slug: pay-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bölüşmek, üleşmek

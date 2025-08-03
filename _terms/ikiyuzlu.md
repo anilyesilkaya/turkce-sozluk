@@ -2,6 +2,7 @@
 layout: term
 title: ikiyüzlü
 slug: ikiyuzlu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Özü sözü bir olmayan; yüze gülücü, yalabık, riyakâr, mürai

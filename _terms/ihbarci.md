@@ -2,6 +2,7 @@
 layout: term
 title: ihbarcı
 slug: ihbarci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Haber veren, bildiren kimse

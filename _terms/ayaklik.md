@@ -2,6 +2,7 @@
 layout: term
 title: ayaklık
 slug: ayaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► pedal

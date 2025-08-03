@@ -2,6 +2,7 @@
 layout: term
 title: tevettür
 slug: tevettur
+letter: T
 lisan: Arapça tevettur
 anlamlar:
 - ► gerilme

@@ -2,6 +2,7 @@
 layout: term
 title: işi ...-e dökmek
 slug: isi-e-dokmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - işi değiştirip bir başka biçime çevirmek

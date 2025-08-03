@@ -2,6 +2,7 @@
 layout: term
 title: barbarca
 slug: barbarca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbara özgü

@@ -2,6 +2,7 @@
 layout: term
 title: gözlerini bitirmek
 slug: gozlerini-bitirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözlerini aşırı yormak

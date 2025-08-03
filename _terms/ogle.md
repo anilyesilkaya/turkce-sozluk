@@ -2,6 +2,7 @@
 layout: term
 title: öğle
 slug: ogle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval

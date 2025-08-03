@@ -2,6 +2,7 @@
 layout: term
 title: boğazında kalmak
 slug: bogazinda-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ağzındaki lokmayı üzüntü dolayısıyla yutamaz duruma gelmek

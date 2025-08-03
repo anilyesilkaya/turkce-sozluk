@@ -2,6 +2,7 @@
 layout: term
 title: usançlık getirmek
 slug: usanclik-getirmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - tamamen usanmak

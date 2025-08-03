@@ -2,6 +2,7 @@
 layout: term
 title: kurşun (veya kurşunu) yemek
 slug: kursun-veya-kursunu-yemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - vurulmak

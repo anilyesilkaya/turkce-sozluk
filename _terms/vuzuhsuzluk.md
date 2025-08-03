@@ -2,6 +2,7 @@
 layout: term
 title: vuzuhsuzluk
 slug: vuzuhsuzluk
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► belirsizlik

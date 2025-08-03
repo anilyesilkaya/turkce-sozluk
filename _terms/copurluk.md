@@ -2,6 +2,7 @@
 layout: term
 title: çopurluk
 slug: copurluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek bozuğu olma durumu

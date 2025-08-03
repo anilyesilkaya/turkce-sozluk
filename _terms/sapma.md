@@ -2,6 +2,7 @@
 layout: term
 title: sapma
 slug: sapma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sapmak işi; inhiraf

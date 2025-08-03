@@ -2,6 +2,7 @@
 layout: term
 title: Doğululuk
 slug: dogululuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğulu olma durumu; Şarklılık

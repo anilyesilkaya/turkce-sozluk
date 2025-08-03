@@ -2,6 +2,7 @@
 layout: term
 title: çullanış
 slug: cullanis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çullanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: alazlanmak
 slug: alazlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alazlama işine konu olmak

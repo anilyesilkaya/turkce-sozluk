@@ -2,6 +2,7 @@
 layout: term
 title: koltukçuluk
 slug: koltukculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koltukçunun yaptığı iş

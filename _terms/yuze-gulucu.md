@@ -2,6 +2,7 @@
 layout: term
 title: yüze gülücü
 slug: yuze-gulucu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ikiyüzlü

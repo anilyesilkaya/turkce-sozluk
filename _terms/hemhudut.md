@@ -2,6 +2,7 @@
 layout: term
 title: hemhudut
 slug: hemhudut
+letter: H
 lisan: Farsça hem + Arapça ḥudūd
 anlamlar:
 - ► sınırdaş

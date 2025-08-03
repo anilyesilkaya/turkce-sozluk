@@ -2,6 +2,7 @@
 layout: term
 title: işittirmek
 slug: isittirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşitmesini sağlamak; duyurmak

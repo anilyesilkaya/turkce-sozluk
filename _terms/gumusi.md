@@ -2,6 +2,7 @@
 layout: term
 title: gümüşi
 slug: gumusi
+letter: G
 lisan: Türkçe gümüş + Arapça -ī
 anlamlar:
 - ► gümüş rengi

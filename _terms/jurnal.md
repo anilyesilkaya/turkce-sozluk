@@ -2,6 +2,7 @@
 layout: term
 title: jurnal
 slug: jurnal
+letter: J
 lisan: Fransızca journal
 anlamlar:
 - Biriyle ilgili kötüleme amaçlı olarak yetkililere verilen bilgi

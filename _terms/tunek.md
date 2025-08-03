@@ -2,6 +2,7 @@
 layout: term
 title: tünek
 slug: tunek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kuşlar ve kümes hayvanlarının üzerinde tünedikleri dal veya sırık

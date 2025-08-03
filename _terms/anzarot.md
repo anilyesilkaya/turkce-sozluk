@@ -2,6 +2,7 @@
 layout: term
 title: anzarot
 slug: anzarot
+letter: A
 lisan: Arapça ʿanzerūt
 anlamlar:
 - Sıcak ülkelerde yetişen bodur bir ağaç (Sarcocolla)

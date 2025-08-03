@@ -2,6 +2,7 @@
 layout: term
 title: çak yapmak
 slug: cak-yapmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kişiler söylenen sözün, yapılan davranışın onaylandığını göstermek veya bir sevinci paylaşmak üzere tek veya çift ellerini havada birbirine vurmak

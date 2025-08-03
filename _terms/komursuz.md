@@ -2,6 +2,7 @@
 layout: term
 title: kömürsüz
 slug: komursuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kömürü olmayan

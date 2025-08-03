@@ -2,6 +2,7 @@
 layout: term
 title: hayvansal yağ
 slug: hayvansal-yag
+letter: H
 lisan: Türkçe
 anlamlar:
 - Memeli vaya kanatlı hayvanların dokularından elde edilen, iç yağı ve kuyruk yağının da dâhil olduğu ürünler; hayvani yağ

@@ -2,6 +2,7 @@
 layout: term
 title: köleleştirmek
 slug: kolelestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köle durumuna getirmek

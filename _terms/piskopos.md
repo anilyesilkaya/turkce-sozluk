@@ -2,6 +2,7 @@
 layout: term
 title: piskopos
 slug: piskopos
+letter: P
 lisan: Rumca
 anlamlar:
 - Katoliklerde, bir bölgenin din işlerine başkanlık eden, papazlığın en yüksek aşamasında olan din görevlisi

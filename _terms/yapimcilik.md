@@ -2,6 +2,7 @@
 layout: term
 title: yapımcılık
 slug: yapimcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapımcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ışıldamak
 slug: isildamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Titrek, parlak bir ışık saçmak; ışılamak

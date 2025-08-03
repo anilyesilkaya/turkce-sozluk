@@ -2,6 +2,7 @@
 layout: term
 title: argüman
 slug: arguman
+letter: A
 lisan: Fransızca argument
 anlamlar:
 - ► kanıt

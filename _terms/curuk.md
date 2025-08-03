@@ -2,6 +2,7 @@
 layout: term
 title: çürük
 slug: curuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürümüş olan

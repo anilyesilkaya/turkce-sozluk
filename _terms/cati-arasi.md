@@ -2,6 +2,7 @@
 layout: term
 title: çatı arası
 slug: cati-arasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► tavan arası

@@ -2,6 +2,7 @@
 layout: term
 title: bağımlılık
 slug: bagimlilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeye veya bir kimseye bağlı olma durumu; tabiiyet (II)

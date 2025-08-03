@@ -2,6 +2,7 @@
 layout: term
 title: göz görmeyince gönül katlanır
 slug: goz-gormeyince-gonul-katlanir
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"yakınımızda bulunmayanların özlemine, acısına daha kolay dayanabiliriz" anlamında kullanılan bir söz'

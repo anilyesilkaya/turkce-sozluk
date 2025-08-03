@@ -2,6 +2,7 @@
 layout: term
 title: eleştirel
 slug: elestirel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleştiri niteliği taşıyan; eleştiriyel, eleştirisel, tenkitli, tenkidî

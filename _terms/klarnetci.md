@@ -2,6 +2,7 @@
 layout: term
 title: klarnetçi
 slug: klarnetci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Klarnet yapan kimse

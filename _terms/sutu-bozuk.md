@@ -2,6 +2,7 @@
 layout: term
 title: sütü bozuk
 slug: sutu-bozuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kötü soydan gelen (kimse)

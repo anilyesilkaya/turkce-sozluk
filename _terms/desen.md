@@ -2,6 +2,7 @@
 layout: term
 title: desen
 slug: desen
+letter: D
 lisan: Fransızca dessin
 anlamlar:
 - Tahta, çini, kumaş, kâğıt vb. yüzeylerin üzerine yapılan çizim

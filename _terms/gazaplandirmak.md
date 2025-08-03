@@ -2,6 +2,7 @@
 layout: term
 title: gazaplandırmak
 slug: gazaplandirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Öfkelendirmek, kızdırmak

@@ -2,6 +2,7 @@
 layout: term
 title: akçaarmut
 slug: akcaarmut
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnce kabuklu, sarı, etli ve sulu bir tür armut

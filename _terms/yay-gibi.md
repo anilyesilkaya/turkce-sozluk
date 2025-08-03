@@ -2,6 +2,7 @@
 layout: term
 title: yay gibi
 slug: yay-gibi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yay benzeri eğrilikte, eğri

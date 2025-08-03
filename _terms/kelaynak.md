@@ -2,6 +2,7 @@
 layout: term
 title: kelaynak
 slug: kelaynak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Leylekgillerden, yeryüzünde yalnız Birecik'te, Fırat vadisini çeviren kayalarda yaşayan, başı tüysüz, uzun gagalı bir kuş (Geronticus eremita)

@@ -2,6 +2,7 @@
 layout: term
 title: salavat getirmek
 slug: salavat-getirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hz. Muhammed'e saygı bildirmek için dua okumak

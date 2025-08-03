@@ -2,6 +2,7 @@
 layout: term
 title: çatınmak
 slug: catinmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kaşlarını çatıp surat asmak

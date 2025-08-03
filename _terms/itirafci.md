@@ -2,6 +2,7 @@
 layout: term
 title: itirafçı
 slug: itirafci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtiraf eden kimse

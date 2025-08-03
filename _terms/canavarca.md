@@ -2,6 +2,7 @@
 layout: term
 title: canavarca
 slug: canavarca
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavar gibi

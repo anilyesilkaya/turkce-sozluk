@@ -2,6 +2,7 @@
 layout: term
 title: kaynatmak
 slug: kaynatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynamasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: yargı yolu
 slug: yargi-yolu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Mahkemeye başvurma hakkı; muhakeme usulü

@@ -2,6 +2,7 @@
 layout: term
 title: içini çekmek
 slug: icini-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iç çekmek

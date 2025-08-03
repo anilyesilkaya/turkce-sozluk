@@ -2,6 +2,7 @@
 layout: term
 title: dernek
 slug: dernek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belirli ve ortak bir amacı gerçekleştirmek için kurulan yasal topluluk; cemiyet, deri (II)

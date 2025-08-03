@@ -2,6 +2,7 @@
 layout: term
 title: düşüvermek
 slug: dusuvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ansızın veya kısa sürede düşmek

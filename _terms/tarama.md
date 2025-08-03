@@ -2,6 +2,7 @@
 layout: term
 title: tarama
 slug: tarama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taramak işi

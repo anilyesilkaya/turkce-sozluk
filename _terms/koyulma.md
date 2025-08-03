@@ -2,6 +2,7 @@
 layout: term
 title: koyulma
 slug: koyulma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyulmak işi

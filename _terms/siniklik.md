@@ -2,6 +2,7 @@
 layout: term
 title: şiniklik
 slug: siniklik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şinik miktarı

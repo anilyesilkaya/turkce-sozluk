@@ -2,6 +2,7 @@
 layout: term
 title: imza
 slug: imza
+letter: I
 lisan: Arapça imżāʾ
 anlamlar:
 - Bir kimsenin herhangi bir belgeyi yazdığını veya onayladığını belirtmek için her zaman aynı biçimde kullandığı işaret

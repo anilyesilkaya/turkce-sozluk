@@ -2,6 +2,7 @@
 layout: term
 title: falya
 slug: falya
+letter: F
 lisan: İtalyanca falia
 anlamlar:
 - Topları ateşlemek için ağızotunun konulduğu delik

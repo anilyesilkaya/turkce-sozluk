@@ -2,6 +2,7 @@
 layout: term
 title: deyyus
 slug: deyyus
+letter: D
 lisan: Arapça deyyūs̱
 anlamlar:
 - Karısının veya kendisine çok yakın bir kadının iffetsizliğine göz yuman (kimse)

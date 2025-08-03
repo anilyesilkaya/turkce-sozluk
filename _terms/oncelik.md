@@ -2,6 +2,7 @@
 layout: term
 title: öncelik
 slug: oncelik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyin başka bir şeyden veya şeylerden daha önce olması veya yapılması durumu; evvellik, rüçhan, takaddüm

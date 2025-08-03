@@ -2,6 +2,7 @@
 layout: term
 title: uzam
 slug: uzam
+letter: U
 lisan: Türkçe
 anlamlar:
 - Algılanan nesnelerin temel niteliği

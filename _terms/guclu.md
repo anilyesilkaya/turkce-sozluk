@@ -2,6 +2,7 @@
 layout: term
 title: güçlü
 slug: guclu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gücü, kuvveti olan; yavuz

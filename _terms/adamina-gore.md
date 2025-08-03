@@ -2,6 +2,7 @@
 layout: term
 title: adamına göre
 slug: adamina-gore
+letter: A
 lisan: Türkçe
 anlamlar:
 - kişiler arasında ayrıcalık gözeterek

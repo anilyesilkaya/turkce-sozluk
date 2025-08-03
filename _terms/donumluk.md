@@ -2,6 +2,7 @@
 layout: term
 title: dönümlük
 slug: donumluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönüm ölçüsünde olan

@@ -2,6 +2,7 @@
 layout: term
 title: menfaat gütmek
 slug: menfaat-gutmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - çıkarını ön planda tutmak

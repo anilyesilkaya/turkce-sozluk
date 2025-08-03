@@ -2,6 +2,7 @@
 layout: term
 title: halas
 slug: halas
+letter: H
 lisan: Arapça ḫalāṣ
 anlamlar:
 - ► kurtuluş

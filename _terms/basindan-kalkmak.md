@@ -2,6 +2,7 @@
 layout: term
 title: başından kalkmak
 slug: basindan-kalkmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ilgilendiği veya yaptığı işi bırakıp ayrılmak, ara vermek

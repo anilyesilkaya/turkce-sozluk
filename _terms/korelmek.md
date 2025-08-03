@@ -2,6 +2,7 @@
 layout: term
 title: körelmek
 slug: korelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keskinliğini yitirmek

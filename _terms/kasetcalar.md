@@ -2,6 +2,7 @@
 layout: term
 title: kasetçalar
 slug: kasetcalar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaset çalan araç

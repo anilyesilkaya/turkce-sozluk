@@ -2,6 +2,7 @@
 layout: term
 title: oynatma
 slug: oynatma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynatmak işi

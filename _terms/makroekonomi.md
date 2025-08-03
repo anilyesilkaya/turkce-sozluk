@@ -2,6 +2,7 @@
 layout: term
 title: makroekonomi
 slug: makroekonomi
+letter: M
 lisan: Fransızca macroéconomie
 anlamlar:
 - ► bütüncü ekonomi

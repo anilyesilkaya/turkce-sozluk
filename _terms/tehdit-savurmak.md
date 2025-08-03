@@ -2,6 +2,7 @@
 layout: term
 title: tehdit savurmak
 slug: tehdit-savurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - korkutmak, gözdağı vermek

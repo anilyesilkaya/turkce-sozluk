@@ -2,6 +2,7 @@
 layout: term
 title: kapışmak
 slug: kapismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte bir şeyin üzerine üşüşüp aceleyle almak, kapmak

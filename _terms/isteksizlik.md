@@ -2,6 +2,7 @@
 layout: term
 title: isteksizlik
 slug: isteksizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İsteksiz olma durumu; arzusuzluk, hevessizlik

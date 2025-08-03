@@ -2,6 +2,7 @@
 layout: term
 title: görünür
 slug: gorunur
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görünen, gözle görülebilen

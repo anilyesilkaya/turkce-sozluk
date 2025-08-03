@@ -2,6 +2,7 @@
 layout: term
 title: doruklu
 slug: doruklu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doruğu belli bir biçimde olan

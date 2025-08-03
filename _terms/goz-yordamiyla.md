@@ -2,6 +2,7 @@
 layout: term
 title: göz yordamıyla
 slug: goz-yordamiyla
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ellemeden, göz yardımıyla

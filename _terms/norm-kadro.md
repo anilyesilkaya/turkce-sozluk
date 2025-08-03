@@ -2,6 +2,7 @@
 layout: term
 title: 'norm kadro '
 slug: norm-kadro
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kurum ve kuruluşlarda görevlerin etkin ve verimli bir şekilde yerine getirilebilmesi için olması gereken personel kadrosu bütünü

@@ -2,6 +2,7 @@
 layout: term
 title: edebiyatçı
 slug: edebiyatci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edebiyatla uğraşan kimse; yazıncı, yazın eri

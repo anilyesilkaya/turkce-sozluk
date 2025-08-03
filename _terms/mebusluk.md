@@ -2,6 +2,7 @@
 layout: term
 title: mebusluk
 slug: mebusluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► milletvekilliği

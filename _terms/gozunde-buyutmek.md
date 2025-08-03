@@ -2,6 +2,7 @@
 layout: term
 title: gözünde büyütmek
 slug: gozunde-buyutmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir kimseyi, olayı veya şeyi olduğundan büyük veya önemli görmek

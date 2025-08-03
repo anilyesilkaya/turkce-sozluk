@@ -2,6 +2,7 @@
 layout: term
 title: yayım
 slug: yayim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaymak işi

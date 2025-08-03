@@ -2,6 +2,7 @@
 layout: term
 title: beşeriyet
 slug: beseriyet
+letter: B
 lisan: Arapça beşeriyyet
 anlamlar:
 - ► insanlık

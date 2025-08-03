@@ -2,6 +2,7 @@
 layout: term
 title: şapşallaşmak
 slug: sapsallasmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şapşal duruma gelmek

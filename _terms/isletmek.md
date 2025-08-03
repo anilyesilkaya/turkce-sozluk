@@ -2,6 +2,7 @@
 layout: term
 title: işletmek
 slug: isletmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşlemesini sağlamak; çalıştırmak

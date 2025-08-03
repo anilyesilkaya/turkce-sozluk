@@ -2,6 +2,7 @@
 layout: term
 title: işsizlik
 slug: issizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşsiz olma durumu

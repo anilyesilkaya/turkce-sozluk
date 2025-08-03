@@ -2,6 +2,7 @@
 layout: term
 title: cevap anahtarı
 slug: cevap-anahtari
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sınavlarda sorulan soruların çözülmüş biçimi

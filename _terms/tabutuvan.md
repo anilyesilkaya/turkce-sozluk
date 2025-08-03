@@ -2,6 +2,7 @@
 layout: term
 title: tabütüvan
 slug: tabutuvan
+letter: T
 lisan: Farsça tāb + tuvān
 anlamlar:
 - Güç, kuvvet, takat

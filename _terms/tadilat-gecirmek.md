@@ -2,6 +2,7 @@
 layout: term
 title: tadilat geçirmek
 slug: tadilat-gecirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - değişiklik yapılmak

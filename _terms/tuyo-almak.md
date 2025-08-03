@@ -2,6 +2,7 @@
 layout: term
 title: tüyo almak
 slug: tuyo-almak
+letter: T
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuda gizli bilgi almak

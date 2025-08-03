@@ -2,6 +2,7 @@
 layout: term
 title: yıkamacı
 slug: yikamaci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Oto vb.nin temizleme işlerini yapan (kimse)

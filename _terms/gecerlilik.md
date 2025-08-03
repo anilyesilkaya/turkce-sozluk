@@ -2,6 +2,7 @@
 layout: term
 title: geçerlilik
 slug: gecerlilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yürürlükte olma, geçerli olma, değerini sürdürme durumu; geçerlik, valör

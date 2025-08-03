@@ -2,6 +2,7 @@
 layout: term
 title: ardıl
 slug: ardil
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► halef, öncel karşıtı

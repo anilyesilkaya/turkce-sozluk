@@ -2,6 +2,7 @@
 layout: term
 title: bütünlemeye bırakmak
 slug: butunlemeye-birakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - öğretmen bir öğrenciyi yarıyıl veya öğretim yılı sonunda dersinden başarısız saymak

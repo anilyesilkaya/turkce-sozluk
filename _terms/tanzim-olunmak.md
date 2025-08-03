@@ -2,6 +2,7 @@
 layout: term
 title: tanzim olunmak
 slug: tanzim-olunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sıralanmak

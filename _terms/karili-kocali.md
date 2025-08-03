@@ -2,6 +2,7 @@
 layout: term
 title: karılı kocalı
 slug: karili-kocali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karı koca birlikte

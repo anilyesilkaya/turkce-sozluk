@@ -2,6 +2,7 @@
 layout: term
 title: bunalımsız
 slug: bunalimsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gerginlik, sıkıntı vermeyen, gerginliği olmayan; buhransız

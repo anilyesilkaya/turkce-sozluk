@@ -2,6 +2,7 @@
 layout: term
 title: üst yanı
 slug: ust-yani
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - yukarı yanı, yukarıda olan bölümü

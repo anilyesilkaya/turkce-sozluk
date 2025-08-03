@@ -2,6 +2,7 @@
 layout: term
 title: dere tepe
 slug: dere-tepe
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnişli çıkışlı yer

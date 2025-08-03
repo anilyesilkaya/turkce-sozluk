@@ -2,6 +2,7 @@
 layout: term
 title: yazar
 slug: yazar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bilim, edebiyat, sanat alanlarında kitap yazan veya kitap hazırlayan, bir eseri ortaya koyan ve eserin sahibi olan kimse; kalem erbabı, musannif, müellif

@@ -2,6 +2,7 @@
 layout: term
 title: doymamış yağ asidi
 slug: doymamis-yag-asidi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Oda sıcaklığında sıvı biçimde bulunan, bir veya daha fazla karbonu hidrojenle bağlanmayan asit; doymamış yağ

@@ -2,6 +2,7 @@
 layout: term
 title: bir çırpıda
 slug: bir-cirpida
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çabucak

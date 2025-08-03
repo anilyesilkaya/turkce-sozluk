@@ -2,6 +2,7 @@
 layout: term
 title: cembiye
 slug: cembiye
+letter: C
 lisan: Arapça cenbiyye
 anlamlar:
 - Bir tür eğri kama

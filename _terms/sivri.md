@@ -2,6 +2,7 @@
 layout: term
 title: sivri
 slug: sivri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ucu keskin ve batıcı olan

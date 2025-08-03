@@ -2,6 +2,7 @@
 layout: term
 title: suzeni
 slug: suzeni
+letter: S
 lisan: Farsça sūzen + Arapça -ī
 anlamlar:
 - Kasnağa gerilmiş kumaşa iğne veya tığla yapılan bir nakış türü

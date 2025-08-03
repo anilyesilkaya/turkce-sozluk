@@ -2,6 +2,7 @@
 layout: term
 title: eğdirtme
 slug: egdirtme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğdirtmek işi

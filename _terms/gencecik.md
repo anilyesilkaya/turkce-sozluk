@@ -2,6 +2,7 @@
 layout: term
 title: gencecik
 slug: gencecik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok genç; gepegenç, gepegencecik

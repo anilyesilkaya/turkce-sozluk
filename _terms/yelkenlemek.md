@@ -2,6 +2,7 @@
 layout: term
 title: yelkenlemek
 slug: yelkenlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yelken açıp yola çıkmak

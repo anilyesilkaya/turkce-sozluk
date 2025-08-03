@@ -2,6 +2,7 @@
 layout: term
 title: dört ayak
 slug: dort-ayak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dört ayaklı hayvan

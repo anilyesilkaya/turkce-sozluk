@@ -2,6 +2,7 @@
 layout: term
 title: çirkinleşivermek
 slug: cirkinlesivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ansızın çirkinleşmek

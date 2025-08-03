@@ -2,6 +2,7 @@
 layout: term
 title: kutlu olsun
 slug: kutlu-olsun
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"uğurlu olsun, bolluk ve iyilik getirsin" anlamında kullanılan bir kutlama sözü'

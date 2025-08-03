@@ -2,6 +2,7 @@
 layout: term
 title: tepsi
 slug: tepsi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Fincan, tabak, bardak vb. şeyleri taşımaya yarayan, derinliği olmayan, türlü büyüklükte düz kap

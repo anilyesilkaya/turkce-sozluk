@@ -2,6 +2,7 @@
 layout: term
 title: aşerat
 slug: aserat
+letter: A
 lisan: Arapça ʿaşerāt
 anlamlar:
 - Onluklar

@@ -2,6 +2,7 @@
 layout: term
 title: kuşbaz
 slug: kusbaz
+letter: K
 lisan: Türkçe kuş + Farsça -bāz
 anlamlar:
 - Süs kuşları yetiştiren kuş meraklısı kimse

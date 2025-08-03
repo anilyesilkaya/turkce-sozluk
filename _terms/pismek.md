@@ -2,6 +2,7 @@
 layout: term
 title: pişmek
 slug: pismek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yiyecek, ateşte, fırında, kaynar suda veya yağda ısı etkisiyle yenilebilir duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: sulp
 slug: sulp
+letter: S
 lisan: Arapça ṣulb
 anlamlar:
 - Bel kemiği, omurga

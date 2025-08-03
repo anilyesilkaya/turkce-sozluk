@@ -2,6 +2,7 @@
 layout: term
 title: çevren
 slug: cevren
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Anlayış, kavrayış, görüş, düşünce gücü

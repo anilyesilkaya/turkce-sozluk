@@ -2,6 +2,7 @@
 layout: term
 title: unutuluvermek
 slug: unutuluvermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kısa sürede unutulmak

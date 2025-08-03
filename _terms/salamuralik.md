@@ -2,6 +2,7 @@
 layout: term
 title: salamuralık
 slug: salamuralik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salamura yapmaya elverişli

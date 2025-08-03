@@ -2,6 +2,7 @@
 layout: term
 title: sintine
 slug: sintine
+letter: S
 lisan: İtalyanca sentina
 anlamlar:
 - Geminin içinde en alt bölüm

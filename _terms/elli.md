@@ -2,6 +2,7 @@
 layout: term
 title: elli
 slug: elli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eli olan

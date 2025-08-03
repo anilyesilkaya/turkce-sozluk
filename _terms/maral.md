@@ -2,6 +2,7 @@
 layout: term
 title: maral
 slug: maral
+letter: M
 lisan: Moğolca
 anlamlar:
 - Dişi geyik

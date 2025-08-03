@@ -2,6 +2,7 @@
 layout: term
 title: gerilme
 slug: gerilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerilmek işi; tevettür

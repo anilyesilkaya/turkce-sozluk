@@ -2,6 +2,7 @@
 layout: term
 title: bal peteği
 slug: bal-petegi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Arıların içine bal doldurduğu bal mumu levha; arı dalağı, dalak

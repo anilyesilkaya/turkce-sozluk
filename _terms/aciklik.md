@@ -2,6 +2,7 @@
 layout: term
 title: açıklık
 slug: aciklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık olma durumu

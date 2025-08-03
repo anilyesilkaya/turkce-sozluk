@@ -2,6 +2,7 @@
 layout: term
 title: delilik
 slug: delilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deli olma durumu; çatlaklık, cinnet, cünun

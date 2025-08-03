@@ -2,6 +2,7 @@
 layout: term
 title: bulma
 slug: bulma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulmak işi

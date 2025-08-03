@@ -2,6 +2,7 @@
 layout: term
 title: mahsustan
 slug: mahsustan
+letter: M
 lisan: Türkçe
 anlamlar:
 - İsteyerek, özellikle

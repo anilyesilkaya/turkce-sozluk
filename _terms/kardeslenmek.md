@@ -2,6 +2,7 @@
 layout: term
 title: kardeşlenmek
 slug: kardeslenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ekin bir kökten birkaç sap birden üremek

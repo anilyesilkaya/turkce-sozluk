@@ -2,6 +2,7 @@
 layout: term
 title: cicimama
 slug: cicimama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Toy delikanlının düşüp kalktığı yaşça kendisinden büyük kadın

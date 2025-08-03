@@ -2,6 +2,7 @@
 layout: term
 title: silahlanma
 slug: silahlanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silahlanmak işi

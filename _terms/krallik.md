@@ -2,6 +2,7 @@
 layout: term
 title: krallık
 slug: krallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kral olma durumu; kraliyet

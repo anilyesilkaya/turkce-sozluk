@@ -2,6 +2,7 @@
 layout: term
 title: kokulandırma
 slug: kokulandirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kokulandırmak işi

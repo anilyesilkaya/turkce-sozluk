@@ -2,6 +2,7 @@
 layout: term
 title: ne haber?
 slug: ne-haber
+letter: N
 lisan: Türkçe
 anlamlar:
 - herhangi bir bilgi var mı?

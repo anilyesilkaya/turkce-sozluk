@@ -2,6 +2,7 @@
 layout: term
 title: orta oyunu
 slug: orta-oyunu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sahne, perde, dekor, suflör kullanmadan halkın ortasında oynanan Türk halk tiyatrosu

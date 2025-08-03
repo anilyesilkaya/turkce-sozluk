@@ -2,6 +2,7 @@
 layout: term
 title: dolmen
 slug: dolmen
+letter: D
 lisan: Keltçe
 anlamlar:
 - İkisi dikili, üçüncüsü de bunların üzerine kapak gibi yatırılmış üç büyük taştan oluşturulmuş Taş Devri mezarı

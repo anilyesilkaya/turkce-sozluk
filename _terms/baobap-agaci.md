@@ -2,6 +2,7 @@
 layout: term
 title: baobap ağacı
 slug: baobap-agaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baobap

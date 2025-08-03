@@ -2,6 +2,7 @@
 layout: term
 title: '... makla (veya ... mekle) beraber'
 slug: makla-veya-mekle-beraber
+letter: .
 lisan: Türkçe
 anlamlar:
 - -dığı hâlde, yanı sıra

@@ -2,6 +2,7 @@
 layout: term
 title: ayağa fırlamak
 slug: ayaga-firlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hızla ayağa kalkmak

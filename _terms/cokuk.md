@@ -2,6 +2,7 @@
 layout: term
 title: çökük
 slug: cokuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökmüş, çukurlaşmış, içeri çekilmiş olan

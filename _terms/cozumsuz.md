@@ -2,6 +2,7 @@
 layout: term
 title: çözümsüz
 slug: cozumsuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözümü olmayan, çözülemeyen

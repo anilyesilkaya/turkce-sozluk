@@ -2,6 +2,7 @@
 layout: term
 title: ayrık otu
 slug: ayrik-otu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, kökü hekimlikte idrar söktürücü olarak kullanılan yabani bir bitki; ayrık (Agropyrum repens)

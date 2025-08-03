@@ -2,6 +2,7 @@
 layout: term
 title: ateşleyici
 slug: atesleyici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşleme niteliği olan (şey)

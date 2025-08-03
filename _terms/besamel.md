@@ -2,6 +2,7 @@
 layout: term
 title: beşamel
 slug: besamel
+letter: B
 lisan: Fransızca béchamel
 anlamlar:
 - ► beşamel sos

@@ -2,6 +2,7 @@
 layout: term
 title: tarihlenmek
 slug: tarihlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarihleme işi yapılmak

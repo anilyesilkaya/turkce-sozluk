@@ -2,6 +2,7 @@
 layout: term
 title: ferah
 slug: ferah
+letter: F
 lisan: Arapça feraḥ
 anlamlar:
 - Kalp, gönül, iç vb.nin sıkıntısız, tasasız olma durumu

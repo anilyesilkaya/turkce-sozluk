@@ -2,6 +2,7 @@
 layout: term
 title: sirkelenmek
 slug: sirkelenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçine sirke konmak

@@ -2,6 +2,7 @@
 layout: term
 title: çarpıklaşmak
 slug: carpiklasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpık duruma gelmek

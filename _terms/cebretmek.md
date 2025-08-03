@@ -2,6 +2,7 @@
 layout: term
 title: cebretmek
 slug: cebretmek
+letter: C
 lisan: Arapça cebr + Türkçe etmek
 anlamlar:
 - ► zorlamak

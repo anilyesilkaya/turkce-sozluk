@@ -2,6 +2,7 @@
 layout: term
 title: mavileşme
 slug: mavilesme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mavileşmek işi

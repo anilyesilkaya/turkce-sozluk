@@ -2,6 +2,7 @@
 layout: term
 title: ilham kaynağı olmak
 slug: ilham-kaynagi-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hayal dünyasını beslemek

@@ -2,6 +2,7 @@
 layout: term
 title: teker
 slug: teker
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tekerlek

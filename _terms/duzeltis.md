@@ -2,6 +2,7 @@
 layout: term
 title: düzeltiş
 slug: duzeltis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzeltmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çobansız
 slug: cobansiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çobanı olmayan

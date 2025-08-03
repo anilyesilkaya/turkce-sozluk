@@ -2,6 +2,7 @@
 layout: term
 title: binnetice
 slug: binnetice
+letter: B
 lisan: Arapça bi'n-netīce
 anlamlar:
 - ► sonuçta

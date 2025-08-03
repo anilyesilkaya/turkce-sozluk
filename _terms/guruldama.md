@@ -2,6 +2,7 @@
 layout: term
 title: guruldama
 slug: guruldama
+letter: G
 lisan: Türkçe
 anlamlar:
 - Guruldamak işi; gurlama

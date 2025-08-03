@@ -2,6 +2,7 @@
 layout: term
 title: köksüz
 slug: koksuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökü olmayan

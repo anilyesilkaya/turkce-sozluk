@@ -2,6 +2,7 @@
 layout: term
 title: ağır paha
 slug: agir-paha
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alım veya satımda aşırı yüksek fiyat

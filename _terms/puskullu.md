@@ -2,6 +2,7 @@
 layout: term
 title: püsküllü
 slug: puskullu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püskülü olan, püskül takılmış olan

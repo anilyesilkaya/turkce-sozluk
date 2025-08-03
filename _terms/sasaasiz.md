@@ -2,6 +2,7 @@
 layout: term
 title: şaşaasız
 slug: sasaasiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► görkemsiz

@@ -2,6 +2,7 @@
 layout: term
 title: prozodik
 slug: prozodik
+letter: P
 lisan: Fransızca prosodique
 anlamlar:
 - Prozodi ile ilgili

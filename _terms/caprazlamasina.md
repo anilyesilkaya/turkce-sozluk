@@ -2,6 +2,7 @@
 layout: term
 title: çaprazlamasına
 slug: caprazlamasina
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çaprazlama

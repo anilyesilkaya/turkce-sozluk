@@ -2,6 +2,7 @@
 layout: term
 title: ferah ferah
 slug: ferah-ferah
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bol ve geniş bir biçimde

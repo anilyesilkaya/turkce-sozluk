@@ -2,6 +2,7 @@
 layout: term
 title: defile
 slug: defile
+letter: D
 lisan: Fransızca défilé
 anlamlar:
 - Giyecekleri tanıtmak amacıyla mankenlerin yaptıkları gösteri; giyim gösterisi

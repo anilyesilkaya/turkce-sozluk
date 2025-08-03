@@ -2,6 +2,7 @@
 layout: term
 title: göçebe
 slug: gocebe
+letter: G
 lisan: Türkçe
 anlamlar:
 - Değişik şartlara bağlı olarak belli bir yöre içinde çadır, hayvan ve öteki araçlarla yer değiştiren, yerleşik olmayan (kimse veya topluluk); göçer, göçkün

@@ -2,6 +2,7 @@
 layout: term
 title: genişletebilmek
 slug: genisletebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genişletme ihtimali veya imkânı bulunmak

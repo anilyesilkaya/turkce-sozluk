@@ -2,6 +2,7 @@
 layout: term
 title: mütecessis
 slug: mutecessis
+letter: M
 lisan: Arapça mutecessis
 anlamlar:
 - Gizliyi arayan, gizliyi gözetleyen

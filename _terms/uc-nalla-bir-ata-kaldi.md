@@ -2,6 +2,7 @@
 layout: term
 title: üç nalla bir ata kaldı
 slug: uc-nalla-bir-ata-kaldi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - eline önemsiz bir imkân geçtiğinde büyük işlerin düşüne kapılanlar için söylenen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ipotek etmek
 slug: ipotek-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - tutuya koymak

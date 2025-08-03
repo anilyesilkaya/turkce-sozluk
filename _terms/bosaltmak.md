@@ -2,6 +2,7 @@
 layout: term
 title: boşaltmak
 slug: bosaltmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boş duruma getirmek

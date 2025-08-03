@@ -2,6 +2,7 @@
 layout: term
 title: mahmuzcu
 slug: mahmuzcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahmuz yapan veya satan kimse

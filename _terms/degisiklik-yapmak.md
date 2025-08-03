@@ -2,6 +2,7 @@
 layout: term
 title: değişiklik yapmak
 slug: degisiklik-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - değiştirmek

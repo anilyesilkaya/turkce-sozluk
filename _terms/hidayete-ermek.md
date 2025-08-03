@@ -2,6 +2,7 @@
 layout: term
 title: hidayete ermek
 slug: hidayete-ermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Müslüman olmak, İslam dinini kabul etmek

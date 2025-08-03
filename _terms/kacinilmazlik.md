@@ -2,6 +2,7 @@
 layout: term
 title: kaçınılmazlık
 slug: kacinilmazlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçınılmaz olma durumu

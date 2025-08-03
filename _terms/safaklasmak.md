@@ -2,6 +2,7 @@
 layout: term
 title: şafaklaşmak
 slug: safaklasmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şafak rengini almak

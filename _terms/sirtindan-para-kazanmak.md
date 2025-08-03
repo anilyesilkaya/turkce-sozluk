@@ -2,6 +2,7 @@
 layout: term
 title: sırtından (para) kazanmak
 slug: sirtindan-para-kazanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - para kazanmak için birini kullanmak

@@ -2,6 +2,7 @@
 layout: term
 title: teşrif
 slug: tesrif
+letter: T
 lisan: Arapça teşrīf
 anlamlar:
 - Bir yeri onurlandırma, şereflendirme

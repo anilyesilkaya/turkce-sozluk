@@ -2,6 +2,7 @@
 layout: term
 title: 'memecik zeytini '
 slug: memecik-zeytini
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hem yağlık hem sofralık olarak üretilen bir tür zeytin; memecik

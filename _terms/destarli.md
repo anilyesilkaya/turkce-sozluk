@@ -2,6 +2,7 @@
 layout: term
 title: destarlı
 slug: destarli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sarığı olan; sarıklı

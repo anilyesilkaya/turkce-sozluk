@@ -2,6 +2,7 @@
 layout: term
 title: 'kadrajlamak '
 slug: kadrajlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fotoğraf veya kamera görüntüsünün çerçevesini belirlemek

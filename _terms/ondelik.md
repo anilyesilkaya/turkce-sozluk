@@ -2,6 +2,7 @@
 layout: term
 title: öndelik
 slug: ondelik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yapılacak bir hizmet veya satın alınacak bir mal için anlaşmaya göre önceden ödenen miktar; avans

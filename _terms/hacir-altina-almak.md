@@ -2,6 +2,7 @@
 layout: term
 title: hacir altına almak
 slug: hacir-altina-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kısıtlamak

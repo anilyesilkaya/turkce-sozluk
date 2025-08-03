@@ -2,6 +2,7 @@
 layout: term
 title: fevkaladelik
 slug: fevkaladelik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► olağanüstülük

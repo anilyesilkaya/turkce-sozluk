@@ -2,6 +2,7 @@
 layout: term
 title: ihanete uğramak
 slug: ihanete-ugramak
+letter: I
 lisan: Türkçe
 anlamlar:
 - aldatılmak, sadakatsizlik görmek

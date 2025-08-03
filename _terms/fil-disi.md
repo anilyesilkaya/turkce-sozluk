@@ -2,6 +2,7 @@
 layout: term
 title: fil dişi
 slug: fil-disi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filin kendini korumakta veya karşısındakine saldırmakta kullandığı hortumunun iki yanında bulunan uzun ve eğri dişi

@@ -2,6 +2,7 @@
 layout: term
 title: döllü döşlü
 slug: dollu-doslu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çocuk ve torun sahibi olan

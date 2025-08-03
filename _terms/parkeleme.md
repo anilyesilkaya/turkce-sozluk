@@ -2,6 +2,7 @@
 layout: term
 title: parkeleme
 slug: parkeleme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parkelemek işi

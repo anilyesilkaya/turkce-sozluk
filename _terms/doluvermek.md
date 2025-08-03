@@ -2,6 +2,7 @@
 layout: term
 title: doluvermek
 slug: doluvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok çabuk veya kısa zamanda dolmak

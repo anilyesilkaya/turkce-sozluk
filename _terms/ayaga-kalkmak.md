@@ -2,6 +2,7 @@
 layout: term
 title: ayağa kalkmak
 slug: ayaga-kalkmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ayakları üzerinde durmak, dikilmek

@@ -2,6 +2,7 @@
 layout: term
 title: alüminyum
 slug: aluminyum
+letter: A
 lisan: Fransızca aluminium
 anlamlar:
 - Atom numarası 13, atom ağırlığı 26,98 olan, 660 °C'de eriyen, gümüş parlaklığında, beyaz, hafif bir element (simgesi Al)

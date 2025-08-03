@@ -2,6 +2,7 @@
 layout: term
 title: Allah'ın cezası
 slug: allah-in-cezasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - pek yaramaz, şirret

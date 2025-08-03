@@ -2,6 +2,7 @@
 layout: term
 title: değersizleşebilmek
 slug: degersizlesebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değersizleşme ihtimali bulunmak

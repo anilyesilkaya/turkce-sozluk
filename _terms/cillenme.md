@@ -2,6 +2,7 @@
 layout: term
 title: çillenme
 slug: cillenme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çillenmek işi

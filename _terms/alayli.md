@@ -2,6 +2,7 @@
 layout: term
 title: alaylı
 slug: alayli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Güzelliği ile dikkat çeken, göze çarpan

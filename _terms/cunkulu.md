@@ -2,6 +2,7 @@
 layout: term
 title: çünkülü
 slug: cunkulu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Herhangi bir açıklamaya gerek duyan

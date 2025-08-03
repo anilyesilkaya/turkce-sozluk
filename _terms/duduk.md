@@ -2,6 +2,7 @@
 layout: term
 title: düdük
 slug: duduk
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçinden hava veya buhar geçirildiğinde keskin ses çıkaran ve işaret vermek için kullanılan araç

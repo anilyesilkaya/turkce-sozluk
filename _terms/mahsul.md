@@ -2,6 +2,7 @@
 layout: term
 title: mahsul
 slug: mahsul
+letter: M
 lisan: Arapça maḥṣūl
 anlamlar:
 - ► ürün

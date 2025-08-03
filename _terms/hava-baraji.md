@@ -2,6 +2,7 @@
 layout: term
 title: hava barajı
 slug: hava-baraji
+letter: H
 lisan: Türkçe
 anlamlar:
 - Savaş sırasında yerleşim yerlerinin uçaklar tarafından bombalanmasını engellemek amacıyla gökyüzünde oluşturulan balon perde

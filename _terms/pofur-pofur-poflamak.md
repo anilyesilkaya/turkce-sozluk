@@ -2,6 +2,7 @@
 layout: term
 title: pofur pofur poflamak
 slug: pofur-pofur-poflamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - sürekli biçimde pof sesi çıkarmak

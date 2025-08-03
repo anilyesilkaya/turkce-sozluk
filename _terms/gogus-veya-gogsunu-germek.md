@@ -2,6 +2,7 @@
 layout: term
 title: göğüs (veya göğsünü) germek
 slug: gogus-veya-gogsunu-germek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir güçlüğe karşı koymak, dayanmak

@@ -2,6 +2,7 @@
 layout: term
 title: nağmeli
 slug: nagmeli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nağmesi olan

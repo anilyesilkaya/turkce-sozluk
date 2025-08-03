@@ -2,6 +2,7 @@
 layout: term
 title: başlatmak
 slug: baslatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlamasına yol açmak

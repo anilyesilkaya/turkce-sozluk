@@ -2,6 +2,7 @@
 layout: term
 title: dışarlıklı
 slug: disarlikli
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► taşralı

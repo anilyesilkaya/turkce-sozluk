@@ -2,6 +2,7 @@
 layout: term
 title: yalancılık
 slug: yalancilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalancı olma durumu, yalan söyleme huyu

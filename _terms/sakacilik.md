@@ -2,6 +2,7 @@
 layout: term
 title: şakacılık
 slug: sakacilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakacı olma durumu

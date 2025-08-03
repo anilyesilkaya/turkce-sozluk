@@ -2,6 +2,7 @@
 layout: term
 title: vatanperverlik
 slug: vatanperverlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► yurtseverlik

@@ -2,6 +2,7 @@
 layout: term
 title: frekansı tutmamak
 slug: frekansi-tutmamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - bir konuda anlaşamamak

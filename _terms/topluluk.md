@@ -2,6 +2,7 @@
 layout: term
 title: topluluk
 slug: topluluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Nitelikleri bakımından bir bütün oluşturan kimselerin hepsi; toplum, zümre

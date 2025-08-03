@@ -2,6 +2,7 @@
 layout: term
 title: yedmek
 slug: yedmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çekerek peşinden götürmek, yedeğinde götürmek

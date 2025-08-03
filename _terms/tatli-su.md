@@ -2,6 +2,7 @@
 layout: term
 title: tatlı su
 slug: tatli-su
+letter: T
 lisan: Türkçe
 anlamlar:
 - Acı veya tuzlu olmayan, içilebilen su

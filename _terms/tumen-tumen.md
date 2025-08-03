@@ -2,6 +2,7 @@
 layout: term
 title: tümen tümen
 slug: tumen-tumen
+letter: T
 lisan: Türkçe
 anlamlar:
 - Pek çok

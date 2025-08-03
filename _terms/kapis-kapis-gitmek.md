@@ -2,6 +2,7 @@
 layout: term
 title: kapış kapış gitmek
 slug: kapis-kapis-gitmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok satılmak

@@ -2,6 +2,7 @@
 layout: term
 title: laçkalaşmak
 slug: lackalasmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laçka duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: ona buna
 slug: ona-buna
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herkese

@@ -2,6 +2,7 @@
 layout: term
 title: darbecik
 slug: darbecik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hafifçe vuruş

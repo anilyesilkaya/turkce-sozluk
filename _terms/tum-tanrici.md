@@ -2,6 +2,7 @@
 layout: term
 title: tüm tanrıcı
 slug: tum-tanrici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüm tanrıcılık yanlısı olan; kamu tanrıcı, panteist

@@ -2,6 +2,7 @@
 layout: term
 title: vadeli
 slug: vadeli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vadesi olan

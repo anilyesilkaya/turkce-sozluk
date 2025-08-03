@@ -2,6 +2,7 @@
 layout: term
 title: kardiyolog
 slug: kardiyolog
+letter: K
 lisan: Fransızca cardiologue
 anlamlar:
 - Kalp hastalıklarında uzmanlaşmış hekim

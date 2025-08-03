@@ -2,6 +2,7 @@
 layout: term
 title: dinlendirmek
 slug: dinlendirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinlenmesini sağlamak; gölgelendirmek

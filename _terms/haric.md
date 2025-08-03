@@ -2,6 +2,7 @@
 layout: term
 title: hariç
 slug: haric
+letter: H
 lisan: Arapça ḫāric
 anlamlar:
 - ► dış

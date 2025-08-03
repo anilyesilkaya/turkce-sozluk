@@ -2,6 +2,7 @@
 layout: term
 title: münavebeli
 slug: munavebeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► nöbetleşe

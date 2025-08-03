@@ -2,6 +2,7 @@
 layout: term
 title: gaflet uykusu
 slug: gaflet-uykusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dalgınlıktan ileri gelen uyuşukluk

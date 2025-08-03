@@ -2,6 +2,7 @@
 layout: term
 title: doyumsuzluk
 slug: doyumsuzluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doymama durumu

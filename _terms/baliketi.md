@@ -2,6 +2,7 @@
 layout: term
 title: balıketi
 slug: baliketi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► balıketinde

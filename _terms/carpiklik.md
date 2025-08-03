@@ -2,6 +2,7 @@
 layout: term
 title: çarpıklık
 slug: carpiklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpık olma durumu; eğrilik

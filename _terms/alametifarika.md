@@ -2,6 +2,7 @@
 layout: term
 title: alametifarika
 slug: alametifarika
+letter: A
 lisan: Arapça ʿalāmet + fāriḳa
 anlamlar:
 - Ayırıcı nitelik, ayırıcı özellik

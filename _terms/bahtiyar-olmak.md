@@ -2,6 +2,7 @@
 layout: term
 title: bahtiyar olmak
 slug: bahtiyar-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - mutlu olmak, sevinmek

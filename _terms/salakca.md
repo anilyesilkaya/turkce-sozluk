@@ -2,6 +2,7 @@
 layout: term
 title: salakça
 slug: salakca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salağa benzer, salak gibi

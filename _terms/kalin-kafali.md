@@ -2,6 +2,7 @@
 layout: term
 title: kalın kafalı
 slug: kalin-kafali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Geç veya güç anlayan; kalın kafa, dibek kafalı, odunağa, odun kafalı, eşek kafalı, et kafa, et kafalı, kaz kafalı, mankafa, öküz kafalı, taş kafa, taş kafalı, gabi

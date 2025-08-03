@@ -2,6 +2,7 @@
 layout: term
 title: ızdıraplı
 slug: izdirapli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kederli

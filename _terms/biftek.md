@@ -2,6 +2,7 @@
 layout: term
 title: biftek
 slug: biftek
+letter: B
 lisan: Fransızca bifteck
 anlamlar:
 - Izgara veya tavada pişirilen, genellikle dana eti dilimi

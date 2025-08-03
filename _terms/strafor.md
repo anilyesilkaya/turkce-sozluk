@@ -2,6 +2,7 @@
 layout: term
 title: strafor
 slug: strafor
+letter: S
 lisan: Almanca Styrapor
 anlamlar:
 - Genellikle binaların dış cephe kaplamasında kullanılan süngerimsi madde

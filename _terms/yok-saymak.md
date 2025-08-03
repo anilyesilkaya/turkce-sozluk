@@ -2,6 +2,7 @@
 layout: term
 title: yok saymak
 slug: yok-saymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yokmuş gibi davranmak, varlığını kabul etmemek

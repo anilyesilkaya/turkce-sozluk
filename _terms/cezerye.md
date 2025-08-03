@@ -2,6 +2,7 @@
 layout: term
 title: cezerye
 slug: cezerye
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ezilmiş havuç içine fındık veya ceviz parçaları eklenerek yapılan bir tatlı türü

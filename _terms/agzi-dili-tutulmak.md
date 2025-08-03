@@ -2,6 +2,7 @@
 layout: term
 title: ağzı dili tutulmak
 slug: agzi-dili-tutulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuşamamak

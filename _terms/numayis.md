@@ -2,6 +2,7 @@
 layout: term
 title: nümayiş
 slug: numayis
+letter: N
 lisan: Farsça numāyiş
 anlamlar:
 - ► gösteri

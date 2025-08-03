@@ -2,6 +2,7 @@
 layout: term
 title: başı dertte
 slug: basi-dertte
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çözülmesi güç, sıkıntılı bir durumda olan

@@ -2,6 +2,7 @@
 layout: term
 title: inançlı
 slug: inancli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnancı olan, bir şeye bütün varlığıyla inanmış bulunan; inanlı, itikatlı

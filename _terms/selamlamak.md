@@ -2,6 +2,7 @@
 layout: term
 title: selamlamak
 slug: selamlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kimseyle karşılaşıldığında, birinin yanına gidildiğinde veya yanından uzaklaşıldığında kendisine sözle veya işaretle bir nezaket gösterisi yapmak; selam vermek, esenlemek

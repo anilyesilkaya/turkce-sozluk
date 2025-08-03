@@ -2,6 +2,7 @@
 layout: term
 title: aktarmak
 slug: aktarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir yerden, bir kaptan başka bir yere veya kaba geçirmek

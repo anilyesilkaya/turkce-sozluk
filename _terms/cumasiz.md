@@ -2,6 +2,7 @@
 layout: term
 title: cumasız
 slug: cumasiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cuma namazı kılmayan (kimse)

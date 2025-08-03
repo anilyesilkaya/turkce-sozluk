@@ -2,6 +2,7 @@
 layout: term
 title: koltukçu
 slug: koltukcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koltuk yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: nikâh tazelemek
 slug: nikah-tazelemek
+letter: N
 lisan: Türkçe
 anlamlar:
 - boşandığı kişiyle yeniden evlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: sulanma
 slug: sulanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sulanmak işi

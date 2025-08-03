@@ -2,6 +2,7 @@
 layout: term
 title: sırtüstü yatmak
 slug: sirtustu-yatmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sırtı yere gelmek üzere yatmak

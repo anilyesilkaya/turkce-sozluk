@@ -2,6 +2,7 @@
 layout: term
 title: kaya
 slug: kaya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük ve sert taş kütlesi

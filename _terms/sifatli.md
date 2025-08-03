@@ -2,6 +2,7 @@
 layout: term
 title: sıfatlı
 slug: sifatli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ünvanı, sıfatı olan

@@ -2,6 +2,7 @@
 layout: term
 title: hacı fışfış
 slug: haci-fisfis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karagöz oyununda Arap halkından olanlar için kullanılan alaylı söz; hacı fitil, hacı kandil

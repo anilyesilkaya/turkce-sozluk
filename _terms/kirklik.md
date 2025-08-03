@@ -2,6 +2,7 @@
 layout: term
 title: kırklık
 slug: kirklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırk tanesi bir arada olan veya içinde aynı şeyden kırk tane bulunan

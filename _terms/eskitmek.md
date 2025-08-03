@@ -2,6 +2,7 @@
 layout: term
 title: eskitmek
 slug: eskitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çok kullanarak eskimiş duruma getirmek

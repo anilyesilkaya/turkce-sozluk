@@ -2,6 +2,7 @@
 layout: term
 title: baldız
 slug: baldiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Erkeğe göre eşinin kız kardeşi

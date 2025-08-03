@@ -2,6 +2,7 @@
 layout: term
 title: veda etmek
 slug: veda-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - vedalaşmak, esenleşmek

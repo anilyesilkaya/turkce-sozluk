@@ -2,6 +2,7 @@
 layout: term
 title: kucak
 slug: kucak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Açık kollarla göğüs arasındaki bölüm; koyun (II), aguş

@@ -2,6 +2,7 @@
 layout: term
 title: nebat
 slug: nebat
+letter: N
 lisan: Arapça nebāt
 anlamlar:
 - ► bitki

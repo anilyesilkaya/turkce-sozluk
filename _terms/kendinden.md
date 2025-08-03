@@ -2,6 +2,7 @@
 layout: term
 title: kendinden
 slug: kendinden
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendi aklından

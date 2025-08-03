@@ -2,6 +2,7 @@
 layout: term
 title: Balkanoloji
 slug: balkanoloji
+letter: B
 lisan: Fransızca balcanologie
 anlamlar:
 - Balkan uluslarının dili, tarihi ve kültürü ile uğraşan bilim dalı

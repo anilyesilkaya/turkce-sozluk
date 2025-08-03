@@ -2,6 +2,7 @@
 layout: term
 title: yumuşak yüzlülük
 slug: yumusak-yuzluluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumuşak yüzlü olma durumu

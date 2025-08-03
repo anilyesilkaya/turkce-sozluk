@@ -2,6 +2,7 @@
 layout: term
 title: dalına binmek
 slug: dalina-binmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir kimseye bir iş yaptırmak için asılmak, musallat olmak, sıkıştırmak

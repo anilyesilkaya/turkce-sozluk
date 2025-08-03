@@ -2,6 +2,7 @@
 layout: term
 title: ham
 slug: ham
+letter: H
 lisan: Farsça ḫām
 anlamlar:
 - Yenecek kadar olgun olmayan (meyve)

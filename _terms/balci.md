@@ -2,6 +2,7 @@
 layout: term
 title: balcı
 slug: balci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Arı yetiştirip bal elde eden veya satan kimse

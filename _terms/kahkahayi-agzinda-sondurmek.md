@@ -2,6 +2,7 @@
 layout: term
 title: kahkahayı ağzında söndürmek
 slug: kahkahayi-agzinda-sondurmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - edep sınırlarını aşmamak için gülmeyi sınırlamak

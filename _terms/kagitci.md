@@ -2,6 +2,7 @@
 layout: term
 title: kâğıtçı
 slug: kagitci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kâğıt yapan kimse

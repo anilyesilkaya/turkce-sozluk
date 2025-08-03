@@ -2,6 +2,7 @@
 layout: term
 title: a
 slug: a
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşma, hatırlama, sevinme, acıma, üzülme, kızma vb. duyguların anlatımına güç kazandıran söz

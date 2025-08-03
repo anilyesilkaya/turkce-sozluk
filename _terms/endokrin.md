@@ -2,6 +2,7 @@
 layout: term
 title: endokrin
 slug: endokrin
+letter: E
 lisan: Fransızca endocrine
 anlamlar:
 - ► iç salgı

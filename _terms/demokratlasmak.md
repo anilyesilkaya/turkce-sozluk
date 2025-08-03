@@ -2,6 +2,7 @@
 layout: term
 title: demokratlaşmak
 slug: demokratlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demokrasi ilkelerini uygulamak, demokrasiye uygun yapıyı kurmak

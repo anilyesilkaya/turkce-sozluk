@@ -2,6 +2,7 @@
 layout: term
 title: yerine koymak
 slug: yerine-koymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gibi görmek, saymak

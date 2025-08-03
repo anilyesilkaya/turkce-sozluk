@@ -2,6 +2,7 @@
 layout: term
 title: bir gün
 slug: bir-gun
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yirmi dört saatlik zaman dilimi

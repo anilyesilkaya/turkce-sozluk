@@ -2,6 +2,7 @@
 layout: term
 title: dillenmek
 slug: dillenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çocuk konuşmaya başlamak

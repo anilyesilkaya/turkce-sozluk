@@ -2,6 +2,7 @@
 layout: term
 title: pişirmek
 slug: pisirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir besin maddesini gerektiği kadar ısıda tutarak yenebilecek veya içilebilecek bir duruma getirmek

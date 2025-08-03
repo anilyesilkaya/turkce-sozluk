@@ -2,6 +2,7 @@
 layout: term
 title: meraklı
 slug: merakli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Her şeyi anlamak ve bilmek isteyen; araştırıcı, mütecessis

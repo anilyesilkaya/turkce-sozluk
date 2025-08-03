@@ -2,6 +2,7 @@
 layout: term
 title: zade
 slug: zade
+letter: Z
 lisan: Farsça zāde
 anlamlar:
 - ► oğul

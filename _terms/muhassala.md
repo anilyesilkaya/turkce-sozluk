@@ -2,6 +2,7 @@
 layout: term
 title: muhassala
 slug: muhassala
+letter: M
 lisan: Arapça muḥaṣṣale
 anlamlar:
 - Elde edilen sonuç

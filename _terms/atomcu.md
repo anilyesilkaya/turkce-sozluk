@@ -2,6 +2,7 @@
 layout: term
 title: atomcu
 slug: atomcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atomla uğraşan kimse

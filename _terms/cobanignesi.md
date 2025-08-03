@@ -2,6 +2,7 @@
 layout: term
 title: çobaniğnesi
 slug: cobanignesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Itır çiçeği cinsinden kokulu bir bitki; leylekgagası (Geranium)

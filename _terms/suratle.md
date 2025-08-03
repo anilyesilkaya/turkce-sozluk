@@ -2,6 +2,7 @@
 layout: term
 title: süratle
 slug: suratle
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► çabucak

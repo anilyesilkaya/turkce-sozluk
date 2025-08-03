@@ -2,6 +2,7 @@
 layout: term
 title: salık vermek
 slug: salik-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - tavsiye etmek

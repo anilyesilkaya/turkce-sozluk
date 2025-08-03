@@ -2,6 +2,7 @@
 layout: term
 title: 'izinsiz cezası '
 slug: izinsiz-cezasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Askere, yatılı öğrenciye verilen hafta sonu veya tatil günü dışarı çıkmama cezası; izinsiz

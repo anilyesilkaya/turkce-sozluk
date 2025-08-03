@@ -2,6 +2,7 @@
 layout: term
 title: şapadanak
 slug: sapadanak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ansızın

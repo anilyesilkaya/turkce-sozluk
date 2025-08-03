@@ -2,6 +2,7 @@
 layout: term
 title: büyü
 slug: buyu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsan ve tabiatla ilgili olarak, birtakım gizli güçlerle insan geleceği üzerinde etkiler yapma, yönlendirmede bulunma gibi işlem ve davranışlara verilen genel ad; afsun, efsun, füsun, sihir

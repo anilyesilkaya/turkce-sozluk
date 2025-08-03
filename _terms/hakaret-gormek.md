@@ -2,6 +2,7 @@
 layout: term
 title: hakaret görmek
 slug: hakaret-gormek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ağır veya küçültücü davranış görmek, aşağılanmak

@@ -2,6 +2,7 @@
 layout: term
 title: yargı
 slug: yargi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kavrama, karşılaştırma, değerlendirme vb. yollara başvurularak kişi, durum veya nesnelerin eleştirici bir biçimde değerlendirilmesi; hüküm

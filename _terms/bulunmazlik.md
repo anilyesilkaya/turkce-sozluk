@@ -2,6 +2,7 @@
 layout: term
 title: bulunmazlık
 slug: bulunmazlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulunmaz olma durumu

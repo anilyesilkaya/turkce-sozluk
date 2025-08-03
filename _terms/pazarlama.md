@@ -2,6 +2,7 @@
 layout: term
 title: pazarlama
 slug: pazarlama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazarlamak işi

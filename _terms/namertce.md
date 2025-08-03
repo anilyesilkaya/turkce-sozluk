@@ -2,6 +2,7 @@
 layout: term
 title: namertçe
 slug: namertce
+letter: N
 lisan: Türkçe
 anlamlar:
 - Korkakça, mert olmayan

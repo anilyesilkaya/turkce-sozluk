@@ -2,6 +2,7 @@
 layout: term
 title: nasip
 slug: nasip
+letter: N
 lisan: Arapça naṣīb
 anlamlar:
 - Birinin payına düşen şey

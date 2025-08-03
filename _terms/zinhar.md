@@ -2,6 +2,7 @@
 layout: term
 title: zinhar
 slug: zinhar
+letter: Z
 lisan: Farsça zinhār
 anlamlar:
 - ► asla

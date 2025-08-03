@@ -2,6 +2,7 @@
 layout: term
 title: çatır çatır çatlamak
 slug: catir-catir-catlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok çatlamak

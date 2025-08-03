@@ -2,6 +2,7 @@
 layout: term
 title: gözetleme
 slug: gozetleme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetlemek işi; dikiz, dikizleme, erkete

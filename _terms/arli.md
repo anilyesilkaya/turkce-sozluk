@@ -2,6 +2,7 @@
 layout: term
 title: arlı
 slug: arli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Utanma duygusuna sahip, utangaç olan

@@ -2,6 +2,7 @@
 layout: term
 title: iğbirar
 slug: igbirar
+letter: I
 lisan: Arapça iġbirār
 anlamlar:
 - Birinden beklenilen davranışı göremeyince kırılma

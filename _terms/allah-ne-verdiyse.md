@@ -2,6 +2,7 @@
 layout: term
 title: Allah ne verdiyse
 slug: allah-ne-verdiyse
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"yiyecek olarak evde ne varsa" anlamında kullanılan bir söz'

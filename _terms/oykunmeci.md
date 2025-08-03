@@ -2,6 +2,7 @@
 layout: term
 title: öykünmeci
 slug: oykunmeci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► taklitçi

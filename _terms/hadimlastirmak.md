@@ -2,6 +2,7 @@
 layout: term
 title: hadımlaştırmak
 slug: hadimlastirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Eneyerek kısırlaştırmak

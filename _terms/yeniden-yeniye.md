@@ -2,6 +2,7 @@
 layout: term
 title: yeniden yeniye
 slug: yeniden-yeniye
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yakın bir süreden beri, çok yakın geçmişte

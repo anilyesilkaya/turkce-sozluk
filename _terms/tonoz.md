@@ -2,6 +2,7 @@
 layout: term
 title: tonoz
 slug: tonoz
+letter: T
 lisan: Rumca
 anlamlar:
 - Tuğla ve harçla örülmüş, alttan obruk, yarım silindir biçiminde tavan örtüsü

@@ -2,6 +2,7 @@
 layout: term
 title: dam aktarma
 slug: dam-aktarma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damın kiremitlerini elden geçirip kırıklarını değiştirme

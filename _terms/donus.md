@@ -2,6 +2,7 @@
 layout: term
 title: dönüş
 slug: donus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönmek işi

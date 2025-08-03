@@ -2,6 +2,7 @@
 layout: term
 title: söz etmek
 slug: soz-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şey üzerine konuşmak

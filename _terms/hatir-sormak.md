@@ -2,6 +2,7 @@
 layout: term
 title: hatır sormak
 slug: hatir-sormak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hâl hatır sormak

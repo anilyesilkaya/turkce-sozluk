@@ -2,6 +2,7 @@
 layout: term
 title: himaye
 slug: himaye
+letter: H
 lisan: Arapça ḥimāye
 anlamlar:
 - ► koruyuculuk

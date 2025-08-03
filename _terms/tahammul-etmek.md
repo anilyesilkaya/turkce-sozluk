@@ -2,6 +2,7 @@
 layout: term
 title: tahammül etmek
 slug: tahammul-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - dayanmak, katlanmak, kaldırmak

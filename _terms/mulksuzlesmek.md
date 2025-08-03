@@ -2,6 +2,7 @@
 layout: term
 title: mülksüzleşmek
 slug: mulksuzlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mülksüz hâle gelmek

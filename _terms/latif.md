@@ -2,6 +2,7 @@
 layout: term
 title: latif
 slug: latif
+letter: L
 lisan: Arapça laṭīf
 anlamlar:
 - Yumuşak, hoş, ince bir güzelliği olan

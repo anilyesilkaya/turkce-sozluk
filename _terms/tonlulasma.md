@@ -2,6 +2,7 @@
 layout: term
 title: tonlulaşma
 slug: tonlulasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tonsuz ünsüzlerin tonlu ünsüze dönüşmesi; yumuşama, sedalılaşma, ötümlüleşme

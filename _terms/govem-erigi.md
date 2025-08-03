@@ -2,6 +2,7 @@
 layout: term
 title: gövem eriği
 slug: govem-erigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► alıç

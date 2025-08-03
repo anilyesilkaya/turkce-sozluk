@@ -2,6 +2,7 @@
 layout: term
 title: uçuruverme
 slug: ucuruverme
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçuruvermek işi

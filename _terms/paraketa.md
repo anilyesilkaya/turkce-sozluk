@@ -2,6 +2,7 @@
 layout: term
 title: paraketa
 slug: paraketa
+letter: P
 lisan: İtalyanca barchetta
 anlamlar:
 - Geminin saatteki hızını anlamak için kullanılan araç

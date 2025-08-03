@@ -2,6 +2,7 @@
 layout: term
 title: onurlandırmak
 slug: onurlandirmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► şereflendirmek

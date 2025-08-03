@@ -2,6 +2,7 @@
 layout: term
 title: kurgulanmak
 slug: kurgulanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurgu durumuna gelmek; montajlanmak

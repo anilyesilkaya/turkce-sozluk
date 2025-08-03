@@ -2,6 +2,7 @@
 layout: term
 title: filato
 slug: filato
+letter: F
 lisan: İtalyanca filato
 anlamlar:
 - Çeşitli ağaç kaplamalarından elde edilen, tek veya çok renkli, dar ve uzun şeritler biçimdeki bir kaplama türü

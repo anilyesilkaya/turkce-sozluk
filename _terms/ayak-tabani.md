@@ -2,6 +2,7 @@
 layout: term
 title: ayak tabanı
 slug: ayak-tabani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayağın topuk ucundan ayak parmaklarının uç noktasına kadar olan kısım; ayak ayası

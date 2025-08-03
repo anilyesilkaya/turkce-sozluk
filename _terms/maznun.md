@@ -2,6 +2,7 @@
 layout: term
 title: maznun
 slug: maznun
+letter: M
 lisan: Arapça maẓnūn
 anlamlar:
 - ► sanık

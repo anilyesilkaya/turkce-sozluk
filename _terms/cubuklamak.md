@@ -2,6 +2,7 @@
 layout: term
 title: çubuklamak
 slug: cubuklamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Halı, kilim vb. örtülerin tozunu temizlemek veya şilte, pamuk gibi şeyleri kabartıp düzeltmek için üzerlerine değnekle vurmak

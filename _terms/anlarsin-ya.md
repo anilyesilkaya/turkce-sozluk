@@ -2,6 +2,7 @@
 layout: term
 title: anlarsın ya!
 slug: anlarsin-ya
+letter: A
 lisan: Türkçe
 anlamlar:
 - açıklanmaması gereken bir olayı dolaylı yoldan anlatmak için kullanılan bir söz

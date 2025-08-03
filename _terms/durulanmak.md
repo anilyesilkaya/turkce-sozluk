@@ -2,6 +2,7 @@
 layout: term
 title: durulanmak
 slug: durulanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yıkanmış şeyler duru sudan geçirilmek

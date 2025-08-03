@@ -2,6 +2,7 @@
 layout: term
 title: can kurban
 slug: can-kurban
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► can feda

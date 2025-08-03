@@ -2,6 +2,7 @@
 layout: term
 title: aralıklı
 slug: aralikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirine bitişik olmayan, aralarında açıklık bulunan; aralı, fasılalı

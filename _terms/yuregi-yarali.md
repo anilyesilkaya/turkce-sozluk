@@ -2,6 +2,7 @@
 layout: term
 title: yüreği yaralı
 slug: yuregi-yarali
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Felakete uğramış (kimse); yüreği dağlı

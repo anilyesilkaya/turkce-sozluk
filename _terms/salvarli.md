@@ -2,6 +2,7 @@
 layout: term
 title: şalvarlı
 slug: salvarli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şalvar giyinmiş olan (kimse)

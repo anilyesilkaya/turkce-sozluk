@@ -2,6 +2,7 @@
 layout: term
 title: puan vermek
 slug: puan-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - değer biçmek, not vermek

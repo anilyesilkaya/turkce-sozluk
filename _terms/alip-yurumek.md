@@ -2,6 +2,7 @@
 layout: term
 title: alıp yürümek
 slug: alip-yurumek
+letter: A
 lisan: Türkçe
 anlamlar:
 - az zamanda çok ilerlemek, yayılmak, çoğalmak, artmak

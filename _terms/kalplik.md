@@ -2,6 +2,7 @@
 layout: term
 title: kalplık
 slug: kalplik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sahtelik

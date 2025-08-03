@@ -2,6 +2,7 @@
 layout: term
 title: açıktan tayin
 slug: aciktan-tayin
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açıktan atama

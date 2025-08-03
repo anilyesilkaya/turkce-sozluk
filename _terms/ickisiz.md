@@ -2,6 +2,7 @@
 layout: term
 title: içkisiz
 slug: ickisiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçki içmemiş olan

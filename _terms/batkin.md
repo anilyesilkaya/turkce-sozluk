@@ -2,6 +2,7 @@
 layout: term
 title: batkın
 slug: batkin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batmış, çökmüş olan

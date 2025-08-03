@@ -2,6 +2,7 @@
 layout: term
 title: izzetinefis
 slug: izzetinefis
+letter: I
 lisan: Arapça ʿizzet + nefs
 anlamlar:
 - ► öz saygı

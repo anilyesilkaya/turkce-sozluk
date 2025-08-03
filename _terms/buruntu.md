@@ -2,6 +2,7 @@
 layout: term
 title: buruntu
 slug: buruntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sancı

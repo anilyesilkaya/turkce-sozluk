@@ -2,6 +2,7 @@
 layout: term
 title: cerh
 slug: cerh
+letter: C
 lisan: Arapça cerḥ
 anlamlar:
 - ► yaralama

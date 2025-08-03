@@ -2,6 +2,7 @@
 layout: term
 title: muhasebe
 slug: muhasebe
+letter: M
 lisan: Arapça muḥāsebe
 anlamlar:
 - Hesap işlerinin yürütüldüğü yer

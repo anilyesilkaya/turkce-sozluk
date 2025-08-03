@@ -2,6 +2,7 @@
 layout: term
 title: barındırılma
 slug: barindirilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barındırılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: mahir
 slug: mahir
+letter: M
 lisan: Arapça māhir
 anlamlar:
 - ► becerikli

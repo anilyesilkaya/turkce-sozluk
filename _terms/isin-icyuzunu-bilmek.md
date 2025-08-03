@@ -2,6 +2,7 @@
 layout: term
 title: işin içyüzünü bilmek
 slug: isin-icyuzunu-bilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir olayın veya durumun altında yatan sebebi bilmek

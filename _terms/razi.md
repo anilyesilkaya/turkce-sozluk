@@ -2,6 +2,7 @@
 layout: term
 title: razı
 slug: razi
+letter: R
 lisan: Arapça rāżī
 anlamlar:
 - Uygun bulan, benimseyen, isteyen, kabul eden

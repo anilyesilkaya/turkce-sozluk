@@ -2,6 +2,7 @@
 layout: term
 title: kafayı tütsülemek (veya dumanlamak)
 slug: kafayi-tutsulemek-veya-dumanlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uyuşturucu madde veya alkolle iyice sarhoş olmak

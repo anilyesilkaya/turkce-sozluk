@@ -2,6 +2,7 @@
 layout: term
 title: mürüvvetli
 slug: muruvvetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► insaniyetli

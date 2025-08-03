@@ -2,6 +2,7 @@
 layout: term
 title: tatlımsı
 slug: tatlimsi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatlıyı andıran, tatlıya benzeyen, tatlı gibi

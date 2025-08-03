@@ -2,6 +2,7 @@
 layout: term
 title: fizyolojik
 slug: fizyolojik
+letter: F
 lisan: Fransızca physiologique
 anlamlar:
 - Fizyoloji ile ilgili, vücutla ilgili

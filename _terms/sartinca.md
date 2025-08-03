@@ -2,6 +2,7 @@
 layout: term
 title: şartınca
 slug: sartinca
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Gereği gibi

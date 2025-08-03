@@ -2,6 +2,7 @@
 layout: term
 title: tahnit etmek
 slug: tahnit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bozulmaması için ölüyü ilaçlamak

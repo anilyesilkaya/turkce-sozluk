@@ -2,6 +2,7 @@
 layout: term
 title: artist gibi
 slug: artist-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - boylu boslu, güzel ve alımlı, yakışıklı (kimse)

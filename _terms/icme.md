@@ -2,6 +2,7 @@
 layout: term
 title: içme
 slug: icme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçmek işi

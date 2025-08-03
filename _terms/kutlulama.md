@@ -2,6 +2,7 @@
 layout: term
 title: kutlulama
 slug: kutlulama
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kutlama

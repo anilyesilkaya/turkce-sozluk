@@ -2,6 +2,7 @@
 layout: term
 title: baba
 slug: baba
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çocuğu olan erkek; peder

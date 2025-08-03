@@ -2,6 +2,7 @@
 layout: term
 title: gaiplik
 slug: gaiplik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaip olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sürdürtmek
 slug: surdurtmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürdürme işini yaptırmak

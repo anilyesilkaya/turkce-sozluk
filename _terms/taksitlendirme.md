@@ -2,6 +2,7 @@
 layout: term
 title: taksitlendirme
 slug: taksitlendirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taksitlendirmek işi

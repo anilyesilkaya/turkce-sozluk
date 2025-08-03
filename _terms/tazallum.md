@@ -2,6 +2,7 @@
 layout: term
 title: tazallüm
 slug: tazallum
+letter: T
 lisan: Arapça taẓallum
 anlamlar:
 - ► sızlanma

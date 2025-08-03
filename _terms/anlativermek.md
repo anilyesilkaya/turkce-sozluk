@@ -2,6 +2,7 @@
 layout: term
 title: anlatıvermek
 slug: anlativermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak anlatmak

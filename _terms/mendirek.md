@@ -2,6 +2,7 @@
 layout: term
 title: mendirek
 slug: mendirek
+letter: M
 lisan: Rumca
 anlamlar:
 - Kıyılarda dalgakıranla yapılmış liman

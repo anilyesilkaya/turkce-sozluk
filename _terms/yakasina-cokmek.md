@@ -2,6 +2,7 @@
 layout: term
 title: yakasına çökmek
 slug: yakasina-cokmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - zorlamak, baskı yapmak

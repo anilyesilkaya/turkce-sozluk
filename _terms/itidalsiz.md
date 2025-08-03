@@ -2,6 +2,7 @@
 layout: term
 title: 'itidalsiz '
 slug: itidalsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Aşırılığa kaçan, ılımlı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: kamuoyu
 slug: kamuoyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir konuyla ilgili halkın genel düşüncesi; halkoyu, amme efkârı, umumi efkâr, efkârıumumiye

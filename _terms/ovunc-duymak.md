@@ -2,6 +2,7 @@
 layout: term
 title: övünç duymak
 slug: ovunc-duymak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - iftihar etmek, kıvanmak

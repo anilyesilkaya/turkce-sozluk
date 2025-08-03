@@ -2,6 +2,7 @@
 layout: term
 title: satıcılık
 slug: saticilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satıcı olma durumu

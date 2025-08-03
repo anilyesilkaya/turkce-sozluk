@@ -2,6 +2,7 @@
 layout: term
 title: yüz
 slug: yuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Başta, alın, göz, burun, ağız, yanak ve çenenin bulunduğu ön bölüm; beniz, duluk, didar, sima, çehre, surat, suret, vecih, faça, bet (I)

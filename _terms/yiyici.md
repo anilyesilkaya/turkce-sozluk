@@ -2,6 +2,7 @@
 layout: term
 title: yiyici
 slug: yiyici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yiyen

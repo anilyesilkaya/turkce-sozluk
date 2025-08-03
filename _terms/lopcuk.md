@@ -2,6 +2,7 @@
 layout: term
 title: lopçuk
 slug: lopcuk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Küçük lop

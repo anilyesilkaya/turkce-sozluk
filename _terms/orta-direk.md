@@ -2,6 +2,7 @@
 layout: term
 title: orta direk
 slug: orta-direk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çadırda veya çeşitli yapılarda merkezî ağırlığı yüklenen ve dengeli dağılımı sağlayan direk

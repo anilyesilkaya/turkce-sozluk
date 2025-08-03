@@ -2,6 +2,7 @@
 layout: term
 title: durgun
 slug: durgun
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sakin

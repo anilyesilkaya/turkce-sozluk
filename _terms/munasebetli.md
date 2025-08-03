@@ -2,6 +2,7 @@
 layout: term
 title: münasebetli
 slug: munasebetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► ilişkili

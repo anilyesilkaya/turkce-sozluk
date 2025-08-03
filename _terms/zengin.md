@@ -2,6 +2,7 @@
 layout: term
 title: zengin
 slug: zengin
+letter: Z
 lisan: Farsça sengīn
 anlamlar:
 - Parası, malı çok olan; varlıklı, yokluksuz, variyetli, fakir, yoksul karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: Melamilik
 slug: melamilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Her türlü gösteriş ve dünya kaygılarından uzak kalmayı öğütleyen Sünni tarikatı

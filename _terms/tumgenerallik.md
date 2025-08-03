@@ -2,6 +2,7 @@
 layout: term
 title: tümgenerallik
 slug: tumgenerallik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümgeneral olma durumu

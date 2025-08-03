@@ -2,6 +2,7 @@
 layout: term
 title: hakikatli
 slug: hakikatli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► vefakâr

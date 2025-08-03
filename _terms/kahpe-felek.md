@@ -2,6 +2,7 @@
 layout: term
 title: kahpe felek
 slug: kahpe-felek
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"Rast gelmeyen, yâr olmayan, kötü talih veya kader" anlamında kullanılan bir söz; kambur felek'

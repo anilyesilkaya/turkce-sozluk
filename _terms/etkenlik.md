@@ -2,6 +2,7 @@
 layout: term
 title: etkenlik
 slug: etkenlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etken olma durumu; amillik

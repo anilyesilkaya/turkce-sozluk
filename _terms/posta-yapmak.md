@@ -2,6 +2,7 @@
 layout: term
 title: posta yapmak
 slug: posta-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir yere gidip gelmek, sefer yapmak

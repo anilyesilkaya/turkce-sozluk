@@ -2,6 +2,7 @@
 layout: term
 title: alçalmak
 slug: alcalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçak duruma gelmek, yüksekten aşağı doğru inmek

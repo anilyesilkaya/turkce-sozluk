@@ -2,6 +2,7 @@
 layout: term
 title: hıncahınç
 slug: hincahinc
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ağzına kadar, tıka basa biçimde

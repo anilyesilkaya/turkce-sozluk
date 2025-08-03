@@ -2,6 +2,7 @@
 layout: term
 title: can pazarı
 slug: can-pazari
+letter: C
 lisan: Türkçe
 anlamlar:
 - Herkesin kendi canının kaygısına düştüğü ve kendini kurtarmaya çalıştığı bir durum

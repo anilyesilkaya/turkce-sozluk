@@ -2,6 +2,7 @@
 layout: term
 title: aşçıbaşı
 slug: ascibasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir iş yerinde çalışan aşçıların başı olan ve onları denetleyen kimse

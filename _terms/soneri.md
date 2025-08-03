@@ -2,6 +2,7 @@
 layout: term
 title: soneri
 slug: soneri
+letter: S
 lisan: Fransızca sonnerie
 anlamlar:
 - Kurum, kuruluş, otel vb. yerlerde bulunan, yardımcı veya görevliyi çağırmak için kullanılan, genellikle düğme şeklinde olan zil

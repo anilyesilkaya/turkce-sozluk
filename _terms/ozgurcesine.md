@@ -2,6 +2,7 @@
 layout: term
 title: özgürcesine
 slug: ozgurcesine
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özgürce

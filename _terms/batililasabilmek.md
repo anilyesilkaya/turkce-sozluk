@@ -2,6 +2,7 @@
 layout: term
 title: Batılılaşabilmek
 slug: batililasabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batılılaşma ihtimali veya imkânı bulunmak

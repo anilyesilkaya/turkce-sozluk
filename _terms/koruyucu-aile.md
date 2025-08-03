@@ -2,6 +2,7 @@
 layout: term
 title: koruyucu aile
 slug: koruyucu-aile
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çeşitli nedenlerle öz ailesi yanında bakımları sağlanamayan çocukların eğitim, bakım ve yetiştirilmelerini kendi aile ortamlarında sağlayan aile veya kişiler

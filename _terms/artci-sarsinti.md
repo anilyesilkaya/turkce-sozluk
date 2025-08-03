@@ -2,6 +2,7 @@
 layout: term
 title: artçı sarsıntı
 slug: artci-sarsinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► artçı deprem

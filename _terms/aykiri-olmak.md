@@ -2,6 +2,7 @@
 layout: term
 title: aykırı olmak
 slug: aykiri-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ters olmak, zıt olmak

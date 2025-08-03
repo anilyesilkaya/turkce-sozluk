@@ -2,6 +2,7 @@
 layout: term
 title: bahriyeli
 slug: bahriyeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Deniz Kuvvetlerine bağlı asker

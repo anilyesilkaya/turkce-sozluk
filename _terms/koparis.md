@@ -2,6 +2,7 @@
 layout: term
 title: koparış
 slug: koparis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koparmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: naçiz
 slug: naciz
+letter: N
 lisan: Farsça nāçīz
 anlamlar:
 - Değersiz, önemsiz olan

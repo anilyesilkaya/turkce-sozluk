@@ -2,6 +2,7 @@
 layout: term
 title: pırpıt
 slug: pirpit
+letter: P
 lisan: Rumca
 anlamlar:
 - Eski püskü, değersiz, işe yaramayan

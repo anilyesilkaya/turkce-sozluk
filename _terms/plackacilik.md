@@ -2,6 +2,7 @@
 layout: term
 title: plaçkacılık
 slug: plackacilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► çapulculuk

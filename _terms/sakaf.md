@@ -2,6 +2,7 @@
 layout: term
 title: sakaf
 slug: sakaf
+letter: S
 lisan: Arapça saḳf
 anlamlar:
 - ► çatı

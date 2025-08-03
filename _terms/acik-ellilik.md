@@ -2,6 +2,7 @@
 layout: term
 title: açık ellilik
 slug: acik-ellilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cömertlik

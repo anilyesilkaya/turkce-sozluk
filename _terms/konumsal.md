@@ -2,6 +2,7 @@
 layout: term
 title: konumsal
 slug: konumsal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konumla ilgili

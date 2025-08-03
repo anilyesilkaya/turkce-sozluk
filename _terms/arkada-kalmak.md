@@ -2,6 +2,7 @@
 layout: term
 title: arkada kalmak
 slug: arkada-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - geriden gelmek, geride kalmak

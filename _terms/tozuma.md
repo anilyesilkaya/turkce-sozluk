@@ -2,6 +2,7 @@
 layout: term
 title: tozuma
 slug: tozuma
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tozma

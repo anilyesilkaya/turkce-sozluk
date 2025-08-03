@@ -2,6 +2,7 @@
 layout: term
 title: dörder
 slug: dorder
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dört sayısının üleştirme sayı sıfatı

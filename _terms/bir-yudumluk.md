@@ -2,6 +2,7 @@
 layout: term
 title: bir yudumluk
 slug: bir-yudumluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir yudum

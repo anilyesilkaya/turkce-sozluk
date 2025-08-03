@@ -2,6 +2,7 @@
 layout: term
 title: işte
 slug: iste
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şey gösterilirken veya bir şeye işaret edilirken söylenen bir söz; aha, ahacık, nah

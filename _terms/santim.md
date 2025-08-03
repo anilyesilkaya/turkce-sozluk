@@ -2,6 +2,7 @@
 layout: term
 title: santim
 slug: santim
+letter: S
 lisan: Fransızca centime
 anlamlar:
 - Bazı ülkelerde kullanılan para biriminin yüzde birine eşit olan küçük para birimi

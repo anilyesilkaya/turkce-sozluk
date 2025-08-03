@@ -2,6 +2,7 @@
 layout: term
 title: öğrence
 slug: ogrence
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğrenmek amacıyla deneme olarak yapma

@@ -2,6 +2,7 @@
 layout: term
 title: ışık
 slug: isik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Cisimleri görmeyi, renkleri ayırt etmeyi sağlayan fiziksel enerji; çerağ, ziya, nur, şavk

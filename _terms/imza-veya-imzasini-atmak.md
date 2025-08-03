@@ -2,6 +2,7 @@
 layout: term
 title: imza (veya imzasını) atmak
 slug: imza-veya-imzasini-atmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - imzalamak

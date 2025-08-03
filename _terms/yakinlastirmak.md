@@ -2,6 +2,7 @@
 layout: term
 title: yakınlaştırmak
 slug: yakinlastirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın bir duruma getirmek, yaklaştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: imam
 slug: imam
+letter: I
 lisan: Arapça imām
 anlamlar:
 - Cemaatle kılınan namazlarda en önde duran ve namaz kılınırken kendisine uyulan kimse

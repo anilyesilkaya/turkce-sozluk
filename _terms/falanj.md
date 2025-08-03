@@ -2,6 +2,7 @@
 layout: term
 title: falanj
 slug: falanj
+letter: F
 lisan: Fransızca phalange
 anlamlar:
 - Eski Yunanlarda, özellikle Makedonya yayalarının çekirdeğini oluşturan mızraklı alay

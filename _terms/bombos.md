@@ -2,6 +2,7 @@
 layout: term
 title: bomboş
 slug: bombos
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büsbütün, tamamen boş; tamtakır

@@ -2,6 +2,7 @@
 layout: term
 title: redingotlu
 slug: redingotlu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Redingot giymiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: hırtlambası çıkmak
 slug: hirtlambasi-cikmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - perişan bir biçimde giyinmiş olmak

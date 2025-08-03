@@ -2,6 +2,7 @@
 layout: term
 title: bir kerelik
 slug: bir-kerelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kereye özgü olarak; bir defalık

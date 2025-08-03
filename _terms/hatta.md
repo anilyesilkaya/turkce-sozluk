@@ -2,6 +2,7 @@
 layout: term
 title: hatta
 slug: hatta
+letter: H
 lisan: Arapça ḥattā
 anlamlar:
 - “Bile, dahi, üstelik, bundan başka, hem de” anlamlarında anlamı kuvvet-lendirmek için kullanılan bir söz; velev ki

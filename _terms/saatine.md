@@ -2,6 +2,7 @@
 layout: term
 title: saatine
 slug: saatine
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir saat için

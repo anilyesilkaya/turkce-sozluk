@@ -2,6 +2,7 @@
 layout: term
 title: istintak
 slug: istintak
+letter: I
 lisan: Arapça istinṭāḳ
 anlamlar:
 - ► sorgu

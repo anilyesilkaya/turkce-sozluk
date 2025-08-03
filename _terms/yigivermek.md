@@ -2,6 +2,7 @@
 layout: term
 title: yığıvermek
 slug: yigivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın yığmak

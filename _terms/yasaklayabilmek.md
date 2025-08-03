@@ -2,6 +2,7 @@
 layout: term
 title: yasaklayabilmek
 slug: yasaklayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasaklama ihtimali veya imkânı bulunmak

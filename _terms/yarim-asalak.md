@@ -2,6 +2,7 @@
 layout: term
 title: yarım asalak
 slug: yarim-asalak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzerinde yaşadığı konakçı bitkiden bazen hazır besin maddesi alan, gerektiğinde kendi beslek yaşayabilen, klorofilli bitkilerde görülen, tam olmayan asalak; yarı asalak

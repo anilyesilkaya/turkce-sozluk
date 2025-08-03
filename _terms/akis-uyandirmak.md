@@ -2,6 +2,7 @@
 layout: term
 title: akis uyandırmak
 slug: akis-uyandirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yankı uyandırmak

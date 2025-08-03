@@ -2,6 +2,7 @@
 layout: term
 title: rıhtım
 slug: rihtim
+letter: R
 lisan: Farsça rīḫtim
 anlamlar:
 - Bir akarsu veya deniz kıyısında doldurularak yapılmış, gemilerin indirme bindirme veya yükleme boşaltma yapabileceği yer

@@ -2,6 +2,7 @@
 layout: term
 title: süpürmek
 slug: supurmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin, bir yerin üstündeki çer çöp, toz toprak vb. şeyleri süpürge, fırça veya başka bir araçla toplamak, temizlemek

@@ -2,6 +2,7 @@
 layout: term
 title: sürşarj
 slug: sursarj
+letter: S
 lisan: Fransızca surcharge
 anlamlar:
 - Bir sayının, kelimenin yerine geçmek için üzerine başka bir sayı veya kelime basma işi

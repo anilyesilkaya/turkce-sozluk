@@ -2,6 +2,7 @@
 layout: term
 title: fassallık
 slug: fassallik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► karalamacılık

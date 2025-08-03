@@ -2,6 +2,7 @@
 layout: term
 title: bopluk
 slug: bopluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bop tutarında olma

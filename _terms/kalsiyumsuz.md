@@ -2,6 +2,7 @@
 layout: term
 title: kalsiyumsuz
 slug: kalsiyumsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birleşiminde kalsiyum bulunmayan

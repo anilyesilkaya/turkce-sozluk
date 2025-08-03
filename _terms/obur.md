@@ -2,6 +2,7 @@
 layout: term
 title: obur
 slug: obur
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)

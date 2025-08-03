@@ -2,6 +2,7 @@
 layout: term
 title: kaygı duymak
 slug: kaygi-duymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kaygılanmak

@@ -2,6 +2,7 @@
 layout: term
 title: sıralamak
 slug: siralamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbiri ardı sıra veya yan yana koyarak sıra durumuna getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: solda sıfır
 slug: solda-sifir
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hiçbir değeri ve önemi olmayan, benzerleriyle karşılaştırıldığında değersizliği daha iyi anlaşılan

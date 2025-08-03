@@ -2,6 +2,7 @@
 layout: term
 title: çizgisiz
 slug: cizgisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerinde çizgi olmayan

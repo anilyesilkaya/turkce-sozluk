@@ -2,6 +2,7 @@
 layout: term
 title: kompliman
 slug: kompliman
+letter: K
 lisan: Fransızca compliment
 anlamlar:
 - Gönül okşayıcı, hoşa giden söz

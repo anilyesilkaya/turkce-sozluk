@@ -2,6 +2,7 @@
 layout: term
 title: enginlik
 slug: enginlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engin olma durumu

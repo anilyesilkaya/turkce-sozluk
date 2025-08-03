@@ -2,6 +2,7 @@
 layout: term
 title: ayaklı kütüphane
 slug: ayakli-kutuphane
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pek çok konuda bilgisi olan, çok şey okumuş ve öğrenmiş olan, sorulan her soruya cevap verebilen kimse; ayaklı ansiklopedi

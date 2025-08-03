@@ -2,6 +2,7 @@
 layout: term
 title: Aristocu
 slug: aristocu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Aristotelesçi

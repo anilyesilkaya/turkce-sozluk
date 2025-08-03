@@ -2,6 +2,7 @@
 layout: term
 title: şekerli kahve
 slug: sekerli-kahve
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İçine şeker katılıp pişirilen kahve

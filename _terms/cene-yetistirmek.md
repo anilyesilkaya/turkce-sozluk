@@ -2,6 +2,7 @@
 layout: term
 title: çene yetiştirmek
 slug: cene-yetistirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - konuşmayı sürdürmek

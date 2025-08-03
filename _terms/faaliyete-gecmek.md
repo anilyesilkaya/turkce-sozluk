@@ -2,6 +2,7 @@
 layout: term
 title: faaliyete geçmek
 slug: faaliyete-gecmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - çalışmaya başlamak, çalışır duruma geçmek, işlemeye başlamak

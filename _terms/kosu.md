@@ -2,6 +2,7 @@
 layout: term
 title: koşu
 slug: kosu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► koşma

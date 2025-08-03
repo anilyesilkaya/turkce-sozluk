@@ -2,6 +2,7 @@
 layout: term
 title: yumurtacık
 slug: yumurtacik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Canlılarda dişinin, döllenip oğulcuk durumuna gelmesi için çıkardığı üreme hücresi

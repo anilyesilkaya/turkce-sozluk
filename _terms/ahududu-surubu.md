@@ -2,6 +2,7 @@
 layout: term
 title: ahududu şurubu
 slug: ahududu-surubu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahududu özü ile hazırlanan içecek

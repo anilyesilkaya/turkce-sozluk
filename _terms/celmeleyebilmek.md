@@ -2,6 +2,7 @@
 layout: term
 title: çelmeleyebilmek
 slug: celmeleyebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelmeleme ihtimali veya imkânı bulunmak

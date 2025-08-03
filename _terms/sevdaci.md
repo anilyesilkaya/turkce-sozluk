@@ -2,6 +2,7 @@
 layout: term
 title: sevdacı
 slug: sevdaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevgi düşkünü

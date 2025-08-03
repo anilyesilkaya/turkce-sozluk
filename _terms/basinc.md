@@ -2,6 +2,7 @@
 layout: term
 title: basınç
 slug: basinc
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yüzey üzerine etkide bulunan gücün yüz ölçümü birimine düşen miktarı; tazyik

@@ -2,6 +2,7 @@
 layout: term
 title: Urum Türkçesi
 slug: urum-turkcesi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Urum Türklerinin kullandığı konuşma dili; Urumca

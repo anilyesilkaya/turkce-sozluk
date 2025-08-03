@@ -2,6 +2,7 @@
 layout: term
 title: şahit tepe
 slug: sahit-tepe
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► tanık tepe

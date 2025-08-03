@@ -2,6 +2,7 @@
 layout: term
 title: mahzurlu
 slug: mahzurlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sakıncalı

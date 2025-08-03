@@ -2,6 +2,7 @@
 layout: term
 title: susak
 slug: susak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susamış olan, susayan

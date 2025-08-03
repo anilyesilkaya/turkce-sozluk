@@ -2,6 +2,7 @@
 layout: term
 title: tehiriicra
 slug: tehiriicra
+letter: T
 lisan: Arapça teʾḫīr + icrāʾ
 anlamlar:
 - Yürütmenin durdurulması

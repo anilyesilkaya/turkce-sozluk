@@ -2,6 +2,7 @@
 layout: term
 title: lamekân
 slug: lamekan
+letter: L
 lisan: Arapça lāmekān
 anlamlar:
 - ► mekânsız

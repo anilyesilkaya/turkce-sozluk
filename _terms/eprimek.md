@@ -2,6 +2,7 @@
 layout: term
 title: eprimek
 slug: eprimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bozulmak, ekşiyip çürümek

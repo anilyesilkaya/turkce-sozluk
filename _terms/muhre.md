@@ -2,6 +2,7 @@
 layout: term
 title: mühre
 slug: muhre
+letter: M
 lisan: Farsça muhre
 anlamlar:
 - Her tür yuvarlak şey, küçük top

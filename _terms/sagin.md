@@ -2,6 +2,7 @@
 layout: term
 title: sağın
 slug: sagin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğruluk kuralına uygun olan

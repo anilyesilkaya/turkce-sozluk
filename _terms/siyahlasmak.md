@@ -2,6 +2,7 @@
 layout: term
 title: siyahlaşmak
 slug: siyahlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rengi siyaha dönmek

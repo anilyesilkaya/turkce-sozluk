@@ -2,6 +2,7 @@
 layout: term
 title: gönül tokluğu
 slug: gonul-toklugu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► doygunluk

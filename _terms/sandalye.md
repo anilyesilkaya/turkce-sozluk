@@ -2,6 +2,7 @@
 layout: term
 title: sandalye
 slug: sandalye
+letter: S
 lisan: Arapça ṣandaliyye
 anlamlar:
 - Arkalıklı, kol koyacak yerleri olmayan, bir kişilik oturma eşyası; kürsü

@@ -2,6 +2,7 @@
 layout: term
 title: piston
 slug: piston
+letter: P
 lisan: Fransızca piston
 anlamlar:
 - Bazı araçlarda, motorlarda bir silindir içinde düzenli hareket eden daha küçük çaplı silindir; itenek

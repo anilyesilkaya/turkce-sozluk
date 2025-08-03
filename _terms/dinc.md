@@ -2,6 +2,7 @@
 layout: term
 title: dinç
 slug: dinc
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gücü ve sağlık durumu yerinde; tendürüst, tüvana

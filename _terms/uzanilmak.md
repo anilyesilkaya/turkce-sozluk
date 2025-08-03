@@ -2,6 +2,7 @@
 layout: term
 title: uzanılmak
 slug: uzanilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzanma işi yapılmak

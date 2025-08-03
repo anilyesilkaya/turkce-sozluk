@@ -2,6 +2,7 @@
 layout: term
 title: güzelleşmek
 slug: guzellesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzel bir durum almak

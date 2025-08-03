@@ -2,6 +2,7 @@
 layout: term
 title: duyurabilmek
 slug: duyurabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyurma ihtimali veya imkânı bulunmak

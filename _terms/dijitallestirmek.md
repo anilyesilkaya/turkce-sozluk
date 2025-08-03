@@ -2,6 +2,7 @@
 layout: term
 title: dijitalleştirmek
 slug: dijitallestirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sayısallaştırmak

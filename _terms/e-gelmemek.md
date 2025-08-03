@@ -2,6 +2,7 @@
 layout: term
 title: '...-e gelmemek'
 slug: e-gelmemek
+letter: .
 lisan: Türkçe
 anlamlar:
 - … ile ölçülmesi veya anlatılması mümkün olmamak, ölçülemeyecek veya anlatılamayacak kadar çok veya güç olmak

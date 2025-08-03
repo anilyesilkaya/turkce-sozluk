@@ -2,6 +2,7 @@
 layout: term
 title: aşağı görmek
 slug: asagi-gormek
+letter: A
 lisan: Türkçe
 anlamlar:
 - küçük görmek, beğenmemek, hor görmek

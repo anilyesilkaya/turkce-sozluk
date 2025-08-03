@@ -2,6 +2,7 @@
 layout: term
 title: eyyam reisi
 slug: eyyam-reisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eyyam ağası

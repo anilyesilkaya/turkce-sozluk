@@ -2,6 +2,7 @@
 layout: term
 title: ettiği yanına (kâr) kalmak
 slug: ettigi-yanina-kar-kalmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - yaptığı kötülük karşılıksız kalmak, cezasını görememek

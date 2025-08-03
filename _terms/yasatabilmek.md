@@ -2,6 +2,7 @@
 layout: term
 title: yaşatabilmek
 slug: yasatabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşatma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: Frenk gömleği
 slug: frenk-gomlegi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yakası kravat takmaya uygun, çoğu uzun kollu, ceket veya yelek altına giyilen erkek gömleği

@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatsız
 slug: ihtiyatsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyatlı davranmayan

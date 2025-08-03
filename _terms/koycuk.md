@@ -2,6 +2,7 @@
 layout: term
 title: koycuk
 slug: koycuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük koy

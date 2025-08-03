@@ -2,6 +2,7 @@
 layout: term
 title: hoşnut
 slug: hosnut
+letter: H
 lisan: Farsça ḫoşnūd
 anlamlar:
 - Bir davranış, bir durum veya bir kimseden memnun olan, yakınması olmayan

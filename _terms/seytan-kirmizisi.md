@@ -2,6 +2,7 @@
 layout: term
 title: şeytan kırmızısı
 slug: seytan-kirmizisi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kırmızının parlak bir türü

@@ -2,6 +2,7 @@
 layout: term
 title: mirliva
 slug: mirliva
+letter: M
 lisan: Farsça mīr + Arapça livā
 anlamlar:
 - ► tuğgeneral

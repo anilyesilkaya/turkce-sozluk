@@ -2,6 +2,7 @@
 layout: term
 title: çizgileştirmek
 slug: cizgilestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yazılı duruma getirmek

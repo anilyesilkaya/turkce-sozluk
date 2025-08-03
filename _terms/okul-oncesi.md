@@ -2,6 +2,7 @@
 layout: term
 title: okul öncesi
 slug: okul-oncesi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çocuğun okul çağına girmesinden önceki çağı

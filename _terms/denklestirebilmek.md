@@ -2,6 +2,7 @@
 layout: term
 title: denkleştirebilmek
 slug: denklestirebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denkleştirme ihtimali veya imkânı bulunmak

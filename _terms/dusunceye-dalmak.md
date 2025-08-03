@@ -2,6 +2,7 @@
 layout: term
 title: düşünceye dalmak
 slug: dusunceye-dalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - derin derin düşünmek

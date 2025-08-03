@@ -2,6 +2,7 @@
 layout: term
 title: yağlık
 slug: yaglik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağ için ayrılmış, yağ elde etmeye özgü

@@ -2,6 +2,7 @@
 layout: term
 title: bayramlık
 slug: bayramlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayramlarda verilen armağan

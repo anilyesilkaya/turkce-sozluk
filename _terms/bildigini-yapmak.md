@@ -2,6 +2,7 @@
 layout: term
 title: bildiğini yapmak
 slug: bildigini-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - verilen öğütleri dinlemeyerek tutumunu sürdürmek

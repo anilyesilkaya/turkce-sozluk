@@ -2,6 +2,7 @@
 layout: term
 title: bayramüzeri
 slug: bayramuzeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bayramüstü

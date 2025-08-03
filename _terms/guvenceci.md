@@ -2,6 +2,7 @@
 layout: term
 title: güvenceci
 slug: guvenceci
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► garantör

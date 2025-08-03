@@ -2,6 +2,7 @@
 layout: term
 title: tepmek
 slug: tepmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hayvan, ayağıyla vurmak

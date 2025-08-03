@@ -2,6 +2,7 @@
 layout: term
 title: güvensizlik önergesi
 slug: guvensizlik-onergesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hükûmetin uygulamalarına karşı gösterilen itimatsızlığı belirten belge

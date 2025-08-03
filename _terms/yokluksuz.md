@@ -2,6 +2,7 @@
 layout: term
 title: yokluksuz
 slug: yokluksuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► zengin

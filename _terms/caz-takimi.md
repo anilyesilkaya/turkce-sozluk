@@ -2,6 +2,7 @@
 layout: term
 title: caz takımı
 slug: caz-takimi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caz müziği çalan orkestranın bütün çalgıları

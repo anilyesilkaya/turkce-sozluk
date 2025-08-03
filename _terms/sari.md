@@ -2,6 +2,7 @@
 layout: term
 title: sâri
 slug: sari
+letter: S
 lisan: Arapça sārī
 anlamlar:
 - Başkasına geçen

@@ -2,6 +2,7 @@
 layout: term
 title: zambakgiller
 slug: zambakgiller
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir çeneklilerden, çiğdem, lale, soğan, pırasa, zambak vb. bitkileri içine alan familya

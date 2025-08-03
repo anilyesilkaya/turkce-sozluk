@@ -2,6 +2,7 @@
 layout: term
 title: içsiz
 slug: icsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçi olmayan (taneli sebze veya kuru yemiş)

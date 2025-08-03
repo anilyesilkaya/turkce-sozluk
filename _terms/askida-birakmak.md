@@ -2,6 +2,7 @@
 layout: term
 title: askıda bırakmak
 slug: askida-birakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sonuca vardırmamak

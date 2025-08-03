@@ -2,6 +2,7 @@
 layout: term
 title: badanalama
 slug: badanalama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badanalamak işi

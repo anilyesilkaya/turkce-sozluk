@@ -2,6 +2,7 @@
 layout: term
 title: acaba
 slug: acaba
+letter: A
 lisan: Arapça ʿacebā
 anlamlar:
 - Merak, kararsızlık veya kuşku anlatan bir söz; acep

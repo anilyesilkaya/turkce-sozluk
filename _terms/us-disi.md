@@ -2,6 +2,7 @@
 layout: term
 title: us dışı
 slug: us-disi
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► akıl dışı

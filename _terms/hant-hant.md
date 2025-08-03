@@ -2,6 +2,7 @@
 layout: term
 title: hant hant
 slug: hant-hant
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Bir şeye aşırı istek duymak" anlamındaki hant hant ötmek deyiminde geçen bir söz'

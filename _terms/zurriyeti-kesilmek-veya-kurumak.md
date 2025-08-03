@@ -2,6 +2,7 @@
 layout: term
 title: zürriyeti kesilmek (veya kurumak)
 slug: zurriyeti-kesilmek-veya-kurumak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - soyu devam etmemek

@@ -2,6 +2,7 @@
 layout: term
 title: züğürt
 slug: zugurt
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Parasız, yoksul olan (kimse); meteliksiz

@@ -2,6 +2,7 @@
 layout: term
 title: dalgalandırılma
 slug: dalgalandirilma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgalandırılmak işi

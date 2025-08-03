@@ -2,6 +2,7 @@
 layout: term
 title: mektup
 slug: mektup
+letter: M
 lisan: Arapça mektūb
 anlamlar:
 - Bir şey haber vermek, sormak, istemek veya duyguları bildirmek için birine çoğunlukla posta yoluyla gönderilen, zarfa konulmuş yazılı kâğıt; name, varakpare

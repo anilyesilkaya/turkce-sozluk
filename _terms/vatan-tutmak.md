@@ -2,6 +2,7 @@
 layout: term
 title: vatan tutmak
 slug: vatan-tutmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - yurt edinmek

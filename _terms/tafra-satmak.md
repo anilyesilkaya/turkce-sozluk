@@ -2,6 +2,7 @@
 layout: term
 title: tafra satmak
 slug: tafra-satmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - böbürlenmek, büyüklenmek, büyüklük taslamak

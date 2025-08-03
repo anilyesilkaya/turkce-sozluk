@@ -2,6 +2,7 @@
 layout: term
 title: mevlit
 slug: mevlit
+letter: M
 lisan: Arapça mevlid
 anlamlar:
 - Hz. Muhammed'in doğumunu, hayatını anlatan mesnevi

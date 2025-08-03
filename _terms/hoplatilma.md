@@ -2,6 +2,7 @@
 layout: term
 title: hoplatılma
 slug: hoplatilma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoplatılmak işi

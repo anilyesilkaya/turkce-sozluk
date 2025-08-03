@@ -2,6 +2,7 @@
 layout: term
 title: telve
 slug: telve
+letter: T
 lisan: Türkçe
 anlamlar:
 - Fincanın dibine çöken kahve tortusu

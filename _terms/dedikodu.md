@@ -2,6 +2,7 @@
 layout: term
 title: dedikodu
 slug: dedikodu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma; kov (I), gıybet, kılükal, laf

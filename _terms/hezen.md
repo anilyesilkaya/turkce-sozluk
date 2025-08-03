@@ -2,6 +2,7 @@
 layout: term
 title: hezen
 slug: hezen
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ahşap ev, cami vb. yerlerde damların üzerine döşenen kalın ve büyük ağaç

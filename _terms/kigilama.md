@@ -2,6 +2,7 @@
 layout: term
 title: kığılama
 slug: kigilama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kığılamak işi

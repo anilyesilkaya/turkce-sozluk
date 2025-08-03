@@ -2,6 +2,7 @@
 layout: term
 title: biçilme
 slug: bicilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçilmek işi

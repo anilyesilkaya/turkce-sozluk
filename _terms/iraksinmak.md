@@ -2,6 +2,7 @@
 layout: term
 title: ıraksınmak
 slug: iraksinmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Uzak bulmak

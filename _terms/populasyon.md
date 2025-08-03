@@ -2,6 +2,7 @@
 layout: term
 title: popülasyon
 slug: populasyon
+letter: P
 lisan: Fransızca population
 anlamlar:
 - ► varlık

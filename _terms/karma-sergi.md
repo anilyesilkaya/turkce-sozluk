@@ -2,6 +2,7 @@
 layout: term
 title: karma sergi
 slug: karma-sergi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birçok ressamın eserlerini sergilediği yer

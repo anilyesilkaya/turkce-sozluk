@@ -2,6 +2,7 @@
 layout: term
 title: uyak düzeni
 slug: uyak-duzeni
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiye düzeni

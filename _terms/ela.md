@@ -2,6 +2,7 @@
 layout: term
 title: ela
 slug: ela
+letter: E
 lisan: Türkçe
 anlamlar:
 - Açık kestane rengi; ala

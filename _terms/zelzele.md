@@ -2,6 +2,7 @@
 layout: term
 title: zelzele
 slug: zelzele
+letter: Z
 lisan: Arapça zelzele
 anlamlar:
 - ► deprem

@@ -2,6 +2,7 @@
 layout: term
 title: vasati
 slug: vasati
+letter: V
 lisan: Arapça vasaṭī
 anlamlar:
 - ► ortalama

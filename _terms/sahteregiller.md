@@ -2,6 +2,7 @@
 layout: term
 title: şahteregiller
 slug: sahteregiller
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, şahtere vb. türleri içine alan küçük bir bitki familyası

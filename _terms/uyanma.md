@@ -2,6 +2,7 @@
 layout: term
 title: uyanma
 slug: uyanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanmak durumu; intibah

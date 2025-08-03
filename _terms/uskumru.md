@@ -2,6 +2,7 @@
 layout: term
 title: uskumru
 slug: uskumru
+letter: U
 lisan: Rumca
 anlamlar:
 - Uskumrugillerden, sıcak ve ılık denizlerde sürü hâlinde yaşayan, çizgili bir deniz balığı (Scomber scombrus)

@@ -2,6 +2,7 @@
 layout: term
 title: oğul vermek
 slug: ogul-vermek
+letter: O
 lisan: Türkçe
 anlamlar:
 - kovandaki arıların bir bölümü kovandan ayrılıp ayrı bir kovana gitmek

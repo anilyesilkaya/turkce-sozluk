@@ -2,6 +2,7 @@
 layout: term
 title: ana yol
 slug: ana-yol
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çevredeki yolların kendisine açıldığı geniş yol; cadde, ana hat

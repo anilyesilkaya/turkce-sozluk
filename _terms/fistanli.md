@@ -2,6 +2,7 @@
 layout: term
 title: fistanlı
 slug: fistanli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fistan giymiş

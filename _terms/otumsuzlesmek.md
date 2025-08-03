@@ -2,6 +2,7 @@
 layout: term
 title: ötümsüzleşmek
 slug: otumsuzlesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► tonsuzlaşmak

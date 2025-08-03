@@ -2,6 +2,7 @@
 layout: term
 title: patetik
 slug: patetik
+letter: P
 lisan: Fransızca pathétique
 anlamlar:
 - ► etkili

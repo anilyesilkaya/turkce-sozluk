@@ -2,6 +2,7 @@
 layout: term
 title: sezdirmek
 slug: sezdirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezmesine yol açmak, belli etmek; hissettirmek, sezindirmek

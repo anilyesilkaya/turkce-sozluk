@@ -2,6 +2,7 @@
 layout: term
 title: kalem savaşçısı
 slug: kalem-savascisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yazılarıyla sürekli olarak başkalarına saldıran yazar; kalemşor

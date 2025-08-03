@@ -2,6 +2,7 @@
 layout: term
 title: bakla içi
 slug: bakla-ici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baklanın içindeki tane

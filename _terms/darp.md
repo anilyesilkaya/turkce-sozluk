@@ -2,6 +2,7 @@
 layout: term
 title: darp
 slug: darp
+letter: D
 lisan: Arapça ḍarb
 anlamlar:
 - ► vurma

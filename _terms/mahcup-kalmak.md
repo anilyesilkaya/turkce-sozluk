@@ -2,6 +2,7 @@
 layout: term
 title: mahcup kalmak
 slug: mahcup-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - utanmış olmak

@@ -2,6 +2,7 @@
 layout: term
 title: elde (veya elinde) olmamak
 slug: elde-veya-elinde-olmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - iradesi dışında gerçekleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: ne güne duruyor?
 slug: ne-gune-duruyor
+letter: N
 lisan: Türkçe
 anlamlar:
 - '... varken başka şey gerekmez'

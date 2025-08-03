@@ -2,6 +2,7 @@
 layout: term
 title: golcü
 slug: golcu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok gol atan oyuncu

@@ -2,6 +2,7 @@
 layout: term
 title: yaptırma
 slug: yaptirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaptırmak işi

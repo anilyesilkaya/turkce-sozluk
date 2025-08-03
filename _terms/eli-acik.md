@@ -2,6 +2,7 @@
 layout: term
 title: eli açık
 slug: eli-acik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► cömert

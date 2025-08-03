@@ -2,6 +2,7 @@
 layout: term
 title: poflamak
 slug: poflamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Can sıkıntısı sebebiyle “pof” sesi çıkarmak

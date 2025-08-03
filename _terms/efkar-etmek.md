@@ -2,6 +2,7 @@
 layout: term
 title: efkâr etmek
 slug: efkar-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - efkârlanmak

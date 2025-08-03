@@ -2,6 +2,7 @@
 layout: term
 title: oturakalmak
 slug: oturakalmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturup kalmak

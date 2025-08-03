@@ -2,6 +2,7 @@
 layout: term
 title: ferah tutmak
 slug: ferah-tutmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - iç rahatlığını, huzurunu korumak

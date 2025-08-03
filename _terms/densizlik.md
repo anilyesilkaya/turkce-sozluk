@@ -2,6 +2,7 @@
 layout: term
 title: densizlik
 slug: densizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Densiz olma durumu, densizce davranış

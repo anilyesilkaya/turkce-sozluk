@@ -2,6 +2,7 @@
 layout: term
 title: fertik çekmek (veya fertiği kırmak)
 slug: fertik-cekmek-veya-fertigi-kirmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - kaçmak

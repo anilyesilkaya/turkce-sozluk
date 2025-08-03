@@ -2,6 +2,7 @@
 layout: term
 title: başeski
 slug: baseski
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yerde çalışanların en kıdemlisi

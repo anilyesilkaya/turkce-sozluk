@@ -2,6 +2,7 @@
 layout: term
 title: habercilik
 slug: habercilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Habercinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: cinleşmek
 slug: cinlesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cin gibi davranmak

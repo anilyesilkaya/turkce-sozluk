@@ -2,6 +2,7 @@
 layout: term
 title: firez
 slug: firez
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► ekin

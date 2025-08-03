@@ -2,6 +2,7 @@
 layout: term
 title: savuşturmak
 slug: savusturmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Geçiştirmek, atlatmak; defetmek

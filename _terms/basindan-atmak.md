@@ -2,6 +2,7 @@
 layout: term
 title: başından atmak
 slug: basindan-atmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yapılması güç bir işi yapmaktan kendini kurtarmak

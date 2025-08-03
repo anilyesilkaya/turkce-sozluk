@@ -2,6 +2,7 @@
 layout: term
 title: tuz (veya tuzla) buz olmak
 slug: tuz-veya-tuzla-buz-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - cam türünden şeyler onarılamayacak biçimde kırılmak, dağılmak, paramparça olmak

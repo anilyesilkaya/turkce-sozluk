@@ -2,6 +2,7 @@
 layout: term
 title: alargada durmak (veya tutmak)
 slug: alargada-durmak-veya-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - uzakta durmak

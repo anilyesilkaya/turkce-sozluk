@@ -2,6 +2,7 @@
 layout: term
 title: istihza etmek
 slug: istihza-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gizli veya kinayeli bir biçimde alay etmek, alaya almak

@@ -2,6 +2,7 @@
 layout: term
 title: maestoso
 slug: maestoso
+letter: M
 lisan: İtalyanca maestoso
 anlamlar:
 - Bir parça görkemli bir biçimde ve ağır tempoyla çalınarak

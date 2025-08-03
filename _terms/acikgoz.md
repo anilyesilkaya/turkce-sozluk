@@ -2,6 +2,7 @@
 layout: term
 title: açıkgöz
 slug: acikgoz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen; aynagöz, cingöz, uyanık

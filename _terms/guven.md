@@ -2,6 +2,7 @@
 layout: term
 title: güven
 slug: guven
+letter: G
 lisan: Türkçe
 anlamlar:
 - Korku, çekinme ve kuşku duymadan inanma ve bağlanma duygusu; emniyet, itimat

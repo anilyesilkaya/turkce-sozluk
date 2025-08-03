@@ -2,6 +2,7 @@
 layout: term
 title: eh
 slug: eh
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"Olur, peki veya fena değil" anlamlarında kullanılan bir söz'

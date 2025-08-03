@@ -2,6 +2,7 @@
 layout: term
 title: testereli
 slug: testereli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Testere biçiminde dişleri olan

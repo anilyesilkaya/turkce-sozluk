@@ -2,6 +2,7 @@
 layout: term
 title: körükleme
 slug: korukleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körüklemek işi; ajitasyon

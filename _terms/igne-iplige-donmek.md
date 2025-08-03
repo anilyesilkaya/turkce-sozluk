@@ -2,6 +2,7 @@
 layout: term
 title: iğne ipliğe dönmek
 slug: igne-iplige-donmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak

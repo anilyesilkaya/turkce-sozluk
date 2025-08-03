@@ -2,6 +2,7 @@
 layout: term
 title: mum olmak
 slug: mum-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - hırçınlığı, yaramazlığı bırakmak

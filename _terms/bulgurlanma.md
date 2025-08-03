@@ -2,6 +2,7 @@
 layout: term
 title: bulgurlanma
 slug: bulgurlanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulgurlanma işi

@@ -2,6 +2,7 @@
 layout: term
 title: zorlanmak
 slug: zorlanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlama işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: Rufailere karışmak
 slug: rufailere-karismak
+letter: R
 lisan: Türkçe
 anlamlar:
 - psikolojik bunalıma düşüp günlük yaşamın gerçeklerinden uzaklaşmak, yaşamdan kopmak

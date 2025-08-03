@@ -2,6 +2,7 @@
 layout: term
 title: engelleyebilmek
 slug: engelleyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engelleme ihtimali veya imkânı bulunmak

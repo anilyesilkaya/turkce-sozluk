@@ -2,6 +2,7 @@
 layout: term
 title: dil (veya diller) dökmek
 slug: dil-veya-diller-dokmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - kandırmak, inandırmak veya yararlanmak için tatlı sözler söylemek

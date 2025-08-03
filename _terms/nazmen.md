@@ -2,6 +2,7 @@
 layout: term
 title: nazmen
 slug: nazmen
+letter: N
 lisan: Arapça naẓmen
 anlamlar:
 - Şiir olarak

@@ -2,6 +2,7 @@
 layout: term
 title: can feda
 slug: can-feda
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok imrenilen iyi veya güzel şeyler, davranışlar karşısında söylenen bir söz; can kurban

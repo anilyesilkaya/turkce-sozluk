@@ -2,6 +2,7 @@
 layout: term
 title: azgınlık
 slug: azginlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azgın olma durumu; kudurganlık, tuğyan

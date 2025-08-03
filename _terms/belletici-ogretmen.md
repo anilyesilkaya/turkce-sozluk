@@ -2,6 +2,7 @@
 layout: term
 title: belletici öğretmen
 slug: belletici-ogretmen
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belletmen

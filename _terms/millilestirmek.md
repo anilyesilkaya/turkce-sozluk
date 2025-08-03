@@ -2,6 +2,7 @@
 layout: term
 title: millîleştirmek
 slug: millilestirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Millî bir nitelik vermek; ulusallaştırmak

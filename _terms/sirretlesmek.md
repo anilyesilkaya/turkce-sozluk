@@ -2,6 +2,7 @@
 layout: term
 title: şirretleşmek
 slug: sirretlesmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Edepsiz ve şirret duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: tıfıl
 slug: tifil
+letter: T
 lisan: Arapça ṭifl
 anlamlar:
 - Küçük çocuk

@@ -2,6 +2,7 @@
 layout: term
 title: imeceye girmek
 slug: imeceye-girmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - imece yoluyla yapılacak çalışmaya katılmak

@@ -2,6 +2,7 @@
 layout: term
 title: yaratılma
 slug: yaratilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratılmak işi

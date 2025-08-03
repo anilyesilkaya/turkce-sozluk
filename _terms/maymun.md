@@ -2,6 +2,7 @@
 layout: term
 title: maymun
 slug: maymun
+letter: M
 lisan: Arapça meymūn
 anlamlar:
 - Dört ayaklı, iki ayağı üzerinde de yürüyebilen, ormanda toplu olarak yaşayan, kuyruklu hayvan; primat

@@ -2,6 +2,7 @@
 layout: term
 title: istihza
 slug: istihza
+letter: I
 lisan: Arapça istihzāʾ
 anlamlar:
 - Gizli veya kinayeli bir biçimde alay

@@ -2,6 +2,7 @@
 layout: term
 title: camlatmak
 slug: camlatmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam taktırmak

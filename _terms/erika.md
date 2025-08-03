@@ -2,6 +2,7 @@
 layout: term
 title: erika
 slug: erika
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► süpürge otu

@@ -2,6 +2,7 @@
 layout: term
 title: galeyanlı
 slug: galeyanli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Galeyana gelmiş olan

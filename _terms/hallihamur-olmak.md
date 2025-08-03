@@ -2,6 +2,7 @@
 layout: term
 title: hallihamur olmak
 slug: hallihamur-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - birbirine karışmak

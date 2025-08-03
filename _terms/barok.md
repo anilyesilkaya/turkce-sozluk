@@ -2,6 +2,7 @@
 layout: term
 title: barok
 slug: barok
+letter: B
 lisan: Fransızca baroque
 anlamlar:
 - MS 1600-1750 yılları arasındaki klasik sanatı izleyen resim ve mimarlık üslubu

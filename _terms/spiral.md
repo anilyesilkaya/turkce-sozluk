@@ -2,6 +2,7 @@
 layout: term
 title: spiral
 slug: spiral
+letter: S
 lisan: Fransızca spiral
 anlamlar:
 - Sarmal biçiminde olan

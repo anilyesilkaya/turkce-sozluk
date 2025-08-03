@@ -2,6 +2,7 @@
 layout: term
 title: sefih
 slug: sefih
+letter: S
 lisan: Arapça sefīh
 anlamlar:
 - ► uçarı

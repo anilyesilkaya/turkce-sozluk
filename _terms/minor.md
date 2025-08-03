@@ -2,6 +2,7 @@
 layout: term
 title: minör
 slug: minor
+letter: M
 lisan: Fransızca mineur
 anlamlar:
 - Daha küçük

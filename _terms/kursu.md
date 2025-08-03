@@ -2,6 +2,7 @@
 layout: term
 title: kürsü
 slug: kursu
+letter: K
 lisan: Arapça kursī
 anlamlar:
 - Kalabalığa karşı konuşma yapanların önünde bulunan yüksekçe yer

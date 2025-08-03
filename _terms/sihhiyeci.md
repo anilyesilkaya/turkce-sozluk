@@ -2,6 +2,7 @@
 layout: term
 title: sıhhiyeci
 slug: sihhiyeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlık memuru, sağlık görevlisi

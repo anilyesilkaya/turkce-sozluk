@@ -2,6 +2,7 @@
 layout: term
 title: ceylan gibi
 slug: ceylan-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - vücudu ince ve narin olan (kadın)

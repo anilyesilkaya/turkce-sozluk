@@ -2,6 +2,7 @@
 layout: term
 title: yakınlık
 slug: yakinlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın olma durumu; mukarenet

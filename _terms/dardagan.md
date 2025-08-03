@@ -2,6 +2,7 @@
 layout: term
 title: dardağan
 slug: dardagan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Palmiye cinsinden bir ağaç (Celtis tournefortii)

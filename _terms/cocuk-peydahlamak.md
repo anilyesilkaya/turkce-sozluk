@@ -2,6 +2,7 @@
 layout: term
 title: çocuk peydahlamak
 slug: cocuk-peydahlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - evli olmayan kadın, gebe kalmak

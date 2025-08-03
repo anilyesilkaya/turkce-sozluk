@@ -2,6 +2,7 @@
 layout: term
 title: balonculuk
 slug: balonculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baloncunun yaptığı iş

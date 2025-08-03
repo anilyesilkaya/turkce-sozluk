@@ -2,6 +2,7 @@
 layout: term
 title: karnı zil çalmak
 slug: karni-zil-calmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok acıkmış olmak

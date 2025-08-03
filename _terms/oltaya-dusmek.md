@@ -2,6 +2,7 @@
 layout: term
 title: oltaya düşmek
 slug: oltaya-dusmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - hileyle karşı karşıya kalmak

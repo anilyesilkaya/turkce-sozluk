@@ -2,6 +2,7 @@
 layout: term
 title: nere
 slug: nere
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hangi yer?

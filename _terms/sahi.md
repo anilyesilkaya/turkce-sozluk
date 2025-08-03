@@ -2,6 +2,7 @@
 layout: term
 title: sahi
 slug: sahi
+letter: S
 lisan: Arapça ṣaḥīḥ
 anlamlar:
 - ► gerçekten

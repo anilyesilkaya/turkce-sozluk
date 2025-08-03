@@ -2,6 +2,7 @@
 layout: term
 title: belirmek
 slug: belirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Önce belli veya görünür olmayan bir şey ortaya çıkmak; tezahür etmek

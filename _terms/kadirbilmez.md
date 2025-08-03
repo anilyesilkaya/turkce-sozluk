@@ -2,6 +2,7 @@
 layout: term
 title: kadirbilmez
 slug: kadirbilmez
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► değerbilmez

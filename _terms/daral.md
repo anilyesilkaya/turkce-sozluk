@@ -2,6 +2,7 @@
 layout: term
 title: daral
 slug: daral
+letter: D
 lisan: Türkçe
 anlamlar:
 - “İçinde bulunulan durumdan veya konudan sıkılmak, bunalmak” anlamındaki daral gelmek deyiminde geçen bir söz

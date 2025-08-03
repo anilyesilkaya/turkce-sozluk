@@ -2,6 +2,7 @@
 layout: term
 title: imza etmek
 slug: imza-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - imzalamak

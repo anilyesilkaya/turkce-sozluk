@@ -2,6 +2,7 @@
 layout: term
 title: şapır şupur
 slug: sapir-supur
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Öperken veya yemek yerken çıkarılan "şap şup" sesi

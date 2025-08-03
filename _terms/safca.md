@@ -2,6 +2,7 @@
 layout: term
 title: safça
 slug: safca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Biraz saf; safdilli

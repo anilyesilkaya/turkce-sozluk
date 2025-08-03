@@ -2,6 +2,7 @@
 layout: term
 title: ağa
 slug: aga
+letter: A
 lisan: Moğolca
 anlamlar:
 - Halk arasında sayılan ve sözü geçen erkeklere verilen ünvan

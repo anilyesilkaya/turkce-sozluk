@@ -2,6 +2,7 @@
 layout: term
 title: figan etmek
 slug: figan-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - bağırarak ağlamak, inlemek

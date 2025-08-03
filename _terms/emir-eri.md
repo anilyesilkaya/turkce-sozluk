@@ -2,6 +2,7 @@
 layout: term
 title: emir eri
 slug: emir-eri
+letter: E
 lisan: Türkçe
 anlamlar:
 - Teğmen ve yukarısı üst düzey subayların hizmetinde bulunan er; hizmet eri, emirber

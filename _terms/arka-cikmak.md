@@ -2,6 +2,7 @@
 layout: term
 title: arka çıkmak
 slug: arka-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyi başkalarına karşı korumak, kayırmak

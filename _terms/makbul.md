@@ -2,6 +2,7 @@
 layout: term
 title: makbul
 slug: makbul
+letter: M
 lisan: Arapça maḳbūl
 anlamlar:
 - Kabul edilen

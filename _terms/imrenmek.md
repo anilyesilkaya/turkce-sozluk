@@ -2,6 +2,7 @@
 layout: term
 title: imrenmek
 slug: imrenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Beğenilen, hoşlanılan bir şeyi edinme veya bir yiyeceği yeme isteğini duymak

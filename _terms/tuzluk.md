@@ -2,6 +2,7 @@
 layout: term
 title: tuzluk
 slug: tuzluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçine tuz konulan kap

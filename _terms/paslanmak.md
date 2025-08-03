@@ -2,6 +2,7 @@
 layout: term
 title: paslanmak
 slug: paslanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde pas oluşmak

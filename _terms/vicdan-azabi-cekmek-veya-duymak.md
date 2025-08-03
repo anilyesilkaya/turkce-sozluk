@@ -2,6 +2,7 @@
 layout: term
 title: vicdan azabı çekmek (veya duymak)
 slug: vicdan-azabi-cekmek-veya-duymak
+letter: V
 lisan: Türkçe
 anlamlar:
 - yapılan bir işten veya söylenen bir sözden dolayı pişman olunarak üzülmek

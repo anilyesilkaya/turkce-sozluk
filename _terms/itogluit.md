@@ -2,6 +2,7 @@
 layout: term
 title: itoğluit
 slug: itogluit
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kurnaz, işini bilen, düzenbaz, açıkgöz, uyanık kimse

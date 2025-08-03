@@ -2,6 +2,7 @@
 layout: term
 title: afak
 slug: afak
+letter: A
 lisan: Arapça āfāḳ
 anlamlar:
 - Ufuklar

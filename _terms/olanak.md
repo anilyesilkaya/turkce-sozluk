@@ -2,6 +2,7 @@
 layout: term
 title: olanak
 slug: olanak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olabilecek durumda bulunma

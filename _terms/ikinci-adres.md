@@ -2,6 +2,7 @@
 layout: term
 title: ikinci adres
 slug: ikinci-adres
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin işi ve evinden sonra en çok bulunduğu, uğradığı yer

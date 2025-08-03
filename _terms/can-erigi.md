@@ -2,6 +2,7 @@
 layout: term
 title: can eriği
 slug: can-erigi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Genellikle yeşilken yenen sert, sulu bir tür erik

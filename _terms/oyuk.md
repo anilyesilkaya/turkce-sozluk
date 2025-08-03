@@ -2,6 +2,7 @@
 layout: term
 title: oyuk
 slug: oyuk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyulmuş, içi boş ve çukur olan yer

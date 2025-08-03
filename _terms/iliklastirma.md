@@ -2,6 +2,7 @@
 layout: term
 title: ılıklaştırma
 slug: iliklastirma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ilıklaştırmak işi

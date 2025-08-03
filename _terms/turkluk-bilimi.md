@@ -2,6 +2,7 @@
 layout: term
 title: Türklük bilimi
 slug: turkluk-bilimi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türk dili, tarihi, edebiyatı ve halk bilimi araştırmalarını konu edinen bilim dalı; Türklük bilgisi, Türkiyat, Türkoloji

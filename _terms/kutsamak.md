@@ -2,6 +2,7 @@
 layout: term
 title: kutsamak
 slug: kutsamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kutsallaştırmak

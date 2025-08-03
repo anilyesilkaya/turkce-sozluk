@@ -2,6 +2,7 @@
 layout: term
 title: katetmek
 slug: katetmek
+letter: K
 lisan: Arapça ḳaṭʿ + Türkçe etmek
 anlamlar:
 - Bir yeri aşarak geçmek

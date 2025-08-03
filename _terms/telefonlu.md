@@ -2,6 +2,7 @@
 layout: term
 title: telefonlu
 slug: telefonlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telefonu olan

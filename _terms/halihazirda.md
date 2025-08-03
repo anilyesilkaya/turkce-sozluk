@@ -2,6 +2,7 @@
 layout: term
 title: hâlihazırda
 slug: halihazirda
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bugünlerde, son zamanlarda

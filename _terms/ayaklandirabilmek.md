@@ -2,6 +2,7 @@
 layout: term
 title: ayaklandırabilmek
 slug: ayaklandirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayaklandırma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: aylı
 slug: ayli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerinde ay biçimi bulunan

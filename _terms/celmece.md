@@ -2,6 +2,7 @@
 layout: term
 title: çelmece
 slug: celmece
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aklı karıştıracak biçimde

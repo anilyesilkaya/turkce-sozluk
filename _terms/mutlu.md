@@ -2,6 +2,7 @@
 layout: term
 title: mutlu
 slug: mutlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yaşadıklarından veya karşılaştıklarından dolayı hoşnutluk içinde bulunan; ongun (I), saadetli, bahtiyar, berhudar, hümayun, mesut

@@ -2,6 +2,7 @@
 layout: term
 title: mütemadiyen
 slug: mutemadiyen
+letter: M
 lisan: Arapça mutemādiyen
 anlamlar:
 - ► aralıksız

@@ -2,6 +2,7 @@
 layout: term
 title: taarruz
 slug: taarruz
+letter: T
 lisan: Arapça taʿarruż
 anlamlar:
 - ► saldırı

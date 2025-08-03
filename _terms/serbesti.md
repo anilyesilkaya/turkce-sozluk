@@ -2,6 +2,7 @@
 layout: term
 title: serbestî
 slug: serbesti
+letter: S
 lisan: Farsça serbest + Arapça -ī
 anlamlar:
 - ► serbestlik

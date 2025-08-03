@@ -2,6 +2,7 @@
 layout: term
 title: bendehane
 slug: bendehane
+letter: B
 lisan: Farsça bende + ḫāne
 anlamlar:
 - Bendenin, kölenin evi

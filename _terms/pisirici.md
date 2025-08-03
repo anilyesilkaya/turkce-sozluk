@@ -2,6 +2,7 @@
 layout: term
 title: pişirici
 slug: pisirici
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişirmeyi sağlayan şey

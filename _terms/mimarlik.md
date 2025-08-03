@@ -2,6 +2,7 @@
 layout: term
 title: mimarlık
 slug: mimarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mimar olma durumu, mimarın işi ve mesleği

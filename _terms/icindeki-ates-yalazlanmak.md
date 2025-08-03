@@ -2,6 +2,7 @@
 layout: term
 title: içindeki ateş yalazlanmak
 slug: icindeki-ates-yalazlanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkıntısı, derdi bir kat daha artmak

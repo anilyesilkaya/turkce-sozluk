@@ -2,6 +2,7 @@
 layout: term
 title: belli
 slug: belli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinmedik bir yanı olmayan

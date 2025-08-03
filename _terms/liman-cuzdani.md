@@ -2,6 +2,7 @@
 layout: term
 title: liman cüzdanı
 slug: liman-cuzdani
+letter: L
 lisan: Türkçe
 anlamlar:
 - Gemi adamlarının özel kimlik belgesi yerine seferlerde kullandıkları küçük defter

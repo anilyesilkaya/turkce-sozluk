@@ -2,6 +2,7 @@
 layout: term
 title: kuzin
 slug: kuzin
+letter: K
 lisan: Fransızca cousine
 anlamlar:
 - Birine göre teyze, dayı, amca ve halanın kız çocuğu

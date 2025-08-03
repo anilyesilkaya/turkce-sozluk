@@ -2,6 +2,7 @@
 layout: term
 title: şaka kaldırmak
 slug: saka-kaldirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şakaya dayanmak, katlanmak

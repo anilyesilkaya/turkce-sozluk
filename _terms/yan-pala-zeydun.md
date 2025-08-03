@@ -2,6 +2,7 @@
 layout: term
 title: yan pala Zeydün
 slug: yan-pala-zeydun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birinin, yeni bir durum karşısında ne yapacağını kestiremeyerek şaşkınlık geçirdiğini anlatmak için kullanılan bir söz

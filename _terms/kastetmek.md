@@ -2,6 +2,7 @@
 layout: term
 title: kastetmek
 slug: kastetmek
+letter: K
 lisan: Arapça ḳaṣd + Türkçe etmek
 anlamlar:
 - Amaçlamak, amaç olarak almak

@@ -2,6 +2,7 @@
 layout: term
 title: mantin
 slug: mantin
+letter: M
 lisan: Fransızca mantille
 anlamlar:
 - Canfese benzeyen bir tür ipekli kumaş

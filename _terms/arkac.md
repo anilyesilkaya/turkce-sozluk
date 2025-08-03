@@ -2,6 +2,7 @@
 layout: term
 title: arkaç
 slug: arkac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağıl (I)

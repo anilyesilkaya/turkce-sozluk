@@ -2,6 +2,7 @@
 layout: term
 title: kolçak
 slug: kolcak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yalnız başparmağı ayrı, diğer dört parmağı bir örülmüş yün eldiven

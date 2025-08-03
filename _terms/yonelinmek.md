@@ -2,6 +2,7 @@
 layout: term
 title: yönelinmek
 slug: yonelinmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönelme işi yapılmak

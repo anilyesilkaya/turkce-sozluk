@@ -2,6 +2,7 @@
 layout: term
 title: top
 slug: top
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne

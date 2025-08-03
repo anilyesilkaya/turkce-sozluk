@@ -2,6 +2,7 @@
 layout: term
 title: patrona
 slug: patrona
+letter: P
 lisan: İtalyanca padrona
 anlamlar:
 - Osmanlı donanmasında kaptan paşadan sonra gelen, üç büyük amiral rütbesinden ikincisi

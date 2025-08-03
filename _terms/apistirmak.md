@@ -2,6 +2,7 @@
 layout: term
 title: apıştırmak
 slug: apistirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hayvanı çok yorarak yürüyecek güç bırakmamak

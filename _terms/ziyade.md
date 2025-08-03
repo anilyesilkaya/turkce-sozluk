@@ -2,6 +2,7 @@
 layout: term
 title: ziyade
 slug: ziyade
+letter: Z
 lisan: Arapça ziyāde
 anlamlar:
 - Çok, daha çok

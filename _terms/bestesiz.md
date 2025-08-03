@@ -2,6 +2,7 @@
 layout: term
 title: bestesiz
 slug: bestesiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bestesi olmayan

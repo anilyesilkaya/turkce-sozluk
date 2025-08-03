@@ -2,6 +2,7 @@
 layout: term
 title: dinçlenmek
 slug: dinclenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dinçleşmek

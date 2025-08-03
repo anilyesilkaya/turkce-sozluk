@@ -2,6 +2,7 @@
 layout: term
 title: Mısır turnası
 slug: misir-turnasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► ibis

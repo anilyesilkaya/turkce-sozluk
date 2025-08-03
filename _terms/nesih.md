@@ -2,6 +2,7 @@
 layout: term
 title: nesih
 slug: nesih
+letter: N
 lisan: Arapça nesḫ
 anlamlar:
 - Kaldırma, hükümsüz bırakma

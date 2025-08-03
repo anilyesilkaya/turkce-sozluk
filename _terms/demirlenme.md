@@ -2,6 +2,7 @@
 layout: term
 title: demirlenme
 slug: demirlenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demirlenmek işi

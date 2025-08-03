@@ -2,6 +2,7 @@
 layout: term
 title: iare
 slug: iare
+letter: I
 lisan: Arapça iʿāre
 anlamlar:
 - ► ödünç

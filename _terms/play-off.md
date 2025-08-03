@@ -2,6 +2,7 @@
 layout: term
 title: play-off
 slug: play-off
+letter: P
 lisan: İngilizce play-off
 anlamlar:
 - 343 üst küme

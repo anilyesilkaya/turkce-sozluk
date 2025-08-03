@@ -2,6 +2,7 @@
 layout: term
 title: defterdar
 slug: defterdar
+letter: D
 lisan: Arapça defter + Farsça -dār
 anlamlar:
 - Bir ilin para işlerini yöneten en üst düzeydeki görevli

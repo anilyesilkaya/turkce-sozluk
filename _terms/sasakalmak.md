@@ -2,6 +2,7 @@
 layout: term
 title: şaşakalmak
 slug: sasakalmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Çok şaşırmak, şaşkınlıktan ne yapacağını bilememek

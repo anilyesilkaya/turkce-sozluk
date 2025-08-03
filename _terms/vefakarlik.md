@@ -2,6 +2,7 @@
 layout: term
 title: vefakârlık
 slug: vefakarlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vefalı olma durumu

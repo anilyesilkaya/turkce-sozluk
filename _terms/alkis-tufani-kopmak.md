@@ -2,6 +2,7 @@
 layout: term
 title: alkış tufanı kopmak
 slug: alkis-tufani-kopmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sürekli ve coşkun alkış başlamak

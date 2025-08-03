@@ -2,6 +2,7 @@
 layout: term
 title: devasız
 slug: devasiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - İyileştirilemeyen, ilacı bulunamayan

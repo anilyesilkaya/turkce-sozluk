@@ -2,6 +2,7 @@
 layout: term
 title: vekilharçlık
 slug: vekilharclik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vekilharç olma durumu

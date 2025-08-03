@@ -2,6 +2,7 @@
 layout: term
 title: ferağ
 slug: ferag
+letter: F
 lisan: Arapça ferāġ
 anlamlar:
 - Bir işten vazgeçme, çekilme, el çekme, terk etme

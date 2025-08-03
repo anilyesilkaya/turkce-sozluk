@@ -2,6 +2,7 @@
 layout: term
 title: dolaysızlık
 slug: dolaysizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaysız olma durumu

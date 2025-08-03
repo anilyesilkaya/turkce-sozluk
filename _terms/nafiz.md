@@ -2,6 +2,7 @@
 layout: term
 title: nafiz
 slug: nafiz
+letter: N
 lisan: Arapça nāfiẕ
 anlamlar:
 - Delip geçen

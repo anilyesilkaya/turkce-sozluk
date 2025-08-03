@@ -2,6 +2,7 @@
 layout: term
 title: cıvıldamak
 slug: civildamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvıl cıvıl ötmek

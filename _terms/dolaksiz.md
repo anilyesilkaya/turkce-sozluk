@@ -2,6 +2,7 @@
 layout: term
 title: dolaksız
 slug: dolaksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolağı olmayan, büzgüsü bulunmayan

@@ -2,6 +2,7 @@
 layout: term
 title: ciklet
 slug: ciklet
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► sakız

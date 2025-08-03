@@ -2,6 +2,7 @@
 layout: term
 title: sırça köşk
 slug: sirca-kosk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Camdan yapılmış köşk; sırça saray

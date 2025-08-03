@@ -2,6 +2,7 @@
 layout: term
 title: başına vur, ağzından lokmasını al
 slug: basina-vur-agzindan-lokmasini-al
+letter: B
 lisan: Türkçe
 anlamlar:
 - uysal ve sessiz kimseler için kullanılan bir söz

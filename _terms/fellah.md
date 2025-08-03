@@ -2,6 +2,7 @@
 layout: term
 title: fellah
 slug: fellah
+letter: F
 lisan: Arapça fellāḥ
 anlamlar:
 - Mısır köylüsü

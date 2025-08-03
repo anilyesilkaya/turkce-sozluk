@@ -2,6 +2,7 @@
 layout: term
 title: 'lüzucetli '
 slug: luzucetli
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► yapışkan

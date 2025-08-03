@@ -2,6 +2,7 @@
 layout: term
 title: bilinçlilik
 slug: bilinclilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinçli olma durumu; şuurluluk

@@ -2,6 +2,7 @@
 layout: term
 title: kaleminden çıkmak
 slug: kaleminden-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi biri tarafından yazılmak

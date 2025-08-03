@@ -2,6 +2,7 @@
 layout: term
 title: bitaraf
 slug: bitaraf
+letter: B
 lisan: Farsça bī + Arapça ṭaraf
 anlamlar:
 - ► tarafsız

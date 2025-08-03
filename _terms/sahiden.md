@@ -2,6 +2,7 @@
 layout: term
 title: sahiden
 slug: sahiden
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► gerçekten

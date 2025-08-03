@@ -2,6 +2,7 @@
 layout: term
 title: esenleşmek
 slug: esenlesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► selamlaşmak

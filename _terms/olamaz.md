@@ -2,6 +2,7 @@
 layout: term
 title: olamaz
 slug: olamaz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olmasını önleyecek derecede güçlü engelleri bulunan; olanaksız

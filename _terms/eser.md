@@ -2,6 +2,7 @@
 layout: term
 title: eser
 slug: eser
+letter: E
 lisan: Arapça es̱er
 anlamlar:
 - Emek sonucu ortaya konan ürün; yapıt

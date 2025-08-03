@@ -2,6 +2,7 @@
 layout: term
 title: önüne gelen
 slug: onune-gelen
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - olur olmaz (kimse)

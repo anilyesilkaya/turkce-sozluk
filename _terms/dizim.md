@@ -2,6 +2,7 @@
 layout: term
 title: dizim
 slug: dizim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizilme işi

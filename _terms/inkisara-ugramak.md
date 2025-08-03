@@ -2,6 +2,7 @@
 layout: term
 title: inkisara uğramak
 slug: inkisara-ugramak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kırılmak

@@ -2,6 +2,7 @@
 layout: term
 title: çerezlenmek
 slug: cerezlenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerez türünden bir şeyler yemek

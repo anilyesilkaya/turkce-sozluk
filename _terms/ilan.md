@@ -2,6 +2,7 @@
 layout: term
 title: ilan
 slug: ilan
+letter: I
 lisan: Arapça iʿlān
 anlamlar:
 - ► duyuru

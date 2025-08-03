@@ -2,6 +2,7 @@
 layout: term
 title: yayılma
 slug: yayilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayılmak işi; intişar, tevessü

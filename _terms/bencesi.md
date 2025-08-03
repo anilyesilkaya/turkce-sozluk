@@ -2,6 +2,7 @@
 layout: term
 title: bencesi
 slug: bencesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bana göre olanı

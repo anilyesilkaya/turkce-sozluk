@@ -2,6 +2,7 @@
 layout: term
 title: köpüklü
 slug: kopuklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpüğü olan, köpüklenen

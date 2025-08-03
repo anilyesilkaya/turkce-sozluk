@@ -2,6 +2,7 @@
 layout: term
 title: kariyer yapmak
 slug: kariyer-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uzmanlık alanında çalışmak, uzmanlaşmak, ihtisas yapmak

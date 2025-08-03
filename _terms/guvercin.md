@@ -2,6 +2,7 @@
 layout: term
 title: güvercin
 slug: guvercin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvercingillerden, hızlı ve uzun zaman uçabilen, kısa vücutlu, sık tüylü, evcilleşmiş birçok türü bulunan, yemle beslenen bir tür kuş (Columba)

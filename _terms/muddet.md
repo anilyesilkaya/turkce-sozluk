@@ -2,6 +2,7 @@
 layout: term
 title: müddet
 slug: muddet
+letter: M
 lisan: Arapça muddet
 anlamlar:
 - ► süre

@@ -2,6 +2,7 @@
 layout: term
 title: süzek
 slug: suzek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► süzgeç

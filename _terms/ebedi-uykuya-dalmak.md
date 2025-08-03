@@ -2,6 +2,7 @@
 layout: term
 title: ebedî uykuya dalmak
 slug: ebedi-uykuya-dalmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ölmek

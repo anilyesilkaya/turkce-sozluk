@@ -2,6 +2,7 @@
 layout: term
 title: melisa ruhu
 slug: melisa-ruhu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Baygınlığa karşı iyi gelen oğul otu özü

@@ -2,6 +2,7 @@
 layout: term
 title: bağrı yanmak
 slug: bagri-yanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - üzüntü çekmek, çok acı duymak

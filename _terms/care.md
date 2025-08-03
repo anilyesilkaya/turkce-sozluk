@@ -2,6 +2,7 @@
 layout: term
 title: çare
 slug: care
+letter: Ç
 lisan: Farsça çāre
 anlamlar:
 - Bir sonuca varmak, ortadaki engelleri kaldırmak için tutulması gereken yol; umar

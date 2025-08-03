@@ -2,6 +2,7 @@
 layout: term
 title: ruhsat
 slug: ruhsat
+letter: R
 lisan: Arapça ruḫṣat
 anlamlar:
 - ► izin

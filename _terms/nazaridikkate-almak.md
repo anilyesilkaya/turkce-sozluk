@@ -2,6 +2,7 @@
 layout: term
 title: nazarıdikkate almak
 slug: nazaridikkate-almak
+letter: N
 lisan: Türkçe
 anlamlar:
 - dikkatle inceleyerek değerlendirmek

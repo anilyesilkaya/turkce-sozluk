@@ -2,6 +2,7 @@
 layout: term
 title: hafifletebilmek
 slug: hafifletebilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifletme ihtimali veya imkânı bulunmak

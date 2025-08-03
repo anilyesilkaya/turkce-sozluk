@@ -2,6 +2,7 @@
 layout: term
 title: halkacı
 slug: halkaci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halka yapan veya satan kimse

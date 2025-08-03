@@ -2,6 +2,7 @@
 layout: term
 title: parmak basmak
 slug: parmak-basmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - imza yerine parmağını mürekkebe batırarak bir yere bastırmak

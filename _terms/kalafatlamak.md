@@ -2,6 +2,7 @@
 layout: term
 title: kalafatlamak
 slug: kalafatlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Geminin kaplamasını kalafatla onarmak

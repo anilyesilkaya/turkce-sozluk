@@ -2,6 +2,7 @@
 layout: term
 title: uluma
 slug: uluma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulumak işi

@@ -2,6 +2,7 @@
 layout: term
 title: eksin
 slug: eksin
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► anyon

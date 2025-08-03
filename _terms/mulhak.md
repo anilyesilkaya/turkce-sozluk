@@ -2,6 +2,7 @@
 layout: term
 title: mülhak
 slug: mulhak
+letter: M
 lisan: Arapça mulḥaḳ
 anlamlar:
 - Bir bütüne sonradan katılmış olan, eklenmiş

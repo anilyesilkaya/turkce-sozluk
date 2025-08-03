@@ -2,6 +2,7 @@
 layout: term
 title: akordiyon
 slug: akordiyon
+letter: A
 lisan: Fransızca accordéon
 anlamlar:
 - Üstündeki düğmelere veya tuşlara basarak metal dilcikleri titretme yolu ile çalınan körüklü, elde taşınabilir bir çalgı; akordeon, armonika

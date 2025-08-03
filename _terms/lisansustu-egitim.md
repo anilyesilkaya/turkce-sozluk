@@ -2,6 +2,7 @@
 layout: term
 title: lisansüstü eğitim
 slug: lisansustu-egitim
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lisans eğitimi bittikten sonra yapılan yükseköğretim

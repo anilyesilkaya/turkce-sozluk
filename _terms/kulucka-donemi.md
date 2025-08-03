@@ -2,6 +2,7 @@
 layout: term
 title: kuluçka dönemi
 slug: kulucka-donemi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle dişi kuş veya dişi kümes hayvanının yavru çıkarmak için yumurtaları üstüne yatması gereken süre; kuluçka devri, kuluçka devresi

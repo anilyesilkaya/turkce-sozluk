@@ -2,6 +2,7 @@
 layout: term
 title: diken
 slug: diken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bazı bitkilerin dal, yaprak, meyve kabuğu vb. bölümlerinde ve bazı hayvanların derisinde bulunan sert, ucu sivri ve batıcı çıkıntılardan her biri

@@ -2,6 +2,7 @@
 layout: term
 title: menfur
 slug: menfur
+letter: M
 lisan: Arapça menfūr
 anlamlar:
 - ► tiksindirici

@@ -2,6 +2,7 @@
 layout: term
 title: aciliyet
 slug: aciliyet
+letter: A
 lisan: Arapça ʿāciliyyet
 anlamlar:
 - İvedi olma durumu

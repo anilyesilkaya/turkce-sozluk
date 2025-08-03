@@ -2,6 +2,7 @@
 layout: term
 title: kin duymak
 slug: kin-duymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine karşı öç alma duygusunu yaşatmak veya bu duyguyu hissetmek

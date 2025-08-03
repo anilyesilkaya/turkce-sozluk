@@ -2,6 +2,7 @@
 layout: term
 title: karmak
 slug: karmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıştırmak, birbirine katmak

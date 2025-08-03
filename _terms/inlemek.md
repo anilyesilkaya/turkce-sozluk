@@ -2,6 +2,7 @@
 layout: term
 title: inlemek
 slug: inlemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Acı, üzüntü belirten kesik sesler çıkarmak; inildemek

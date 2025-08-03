@@ -2,6 +2,7 @@
 layout: term
 title: seririyat
 slug: seririyat
+letter: S
 lisan: Arapça serįriyyāt
 anlamlar:
 - ► klinik

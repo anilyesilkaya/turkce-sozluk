@@ -2,6 +2,7 @@
 layout: term
 title: domur domur
 slug: domur-domur
+letter: D
 lisan: Türkçe
 anlamlar:
 - Boncuk gibi iri taneler durumunda

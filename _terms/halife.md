@@ -2,6 +2,7 @@
 layout: term
 title: halife
 slug: halife
+letter: H
 lisan: Arapça ḫalīfe
 anlamlar:
 - Hz. Muhammed'in vekili olarak Müslümanların imamlığını ve din koruyuculuğunu yapmakla görevli kimse

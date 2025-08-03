@@ -2,6 +2,7 @@
 layout: term
 title: semtine uğramamak
 slug: semtine-ugramamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir yere özellikle gitmemek

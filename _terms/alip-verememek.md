@@ -2,6 +2,7 @@
 layout: term
 title: alıp verememek
 slug: alip-verememek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlaşamamak, çekememek, geçinememek

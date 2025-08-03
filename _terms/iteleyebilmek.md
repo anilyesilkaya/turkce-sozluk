@@ -2,6 +2,7 @@
 layout: term
 title: iteleyebilmek
 slug: iteleyebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İteleme ihtimali veya imkânı bulunmak

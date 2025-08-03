@@ -2,6 +2,7 @@
 layout: term
 title: vatanperver
 slug: vatanperver
+letter: V
 lisan: Arapça vaṭan + Farsça -perver
 anlamlar:
 - ► yurtsever

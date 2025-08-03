@@ -2,6 +2,7 @@
 layout: term
 title: taşınabilir
 slug: tasinabilir
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► taşınır

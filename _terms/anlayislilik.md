@@ -2,6 +2,7 @@
 layout: term
 title: anlayışlılık
 slug: anlayislilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayışlı olma durumu

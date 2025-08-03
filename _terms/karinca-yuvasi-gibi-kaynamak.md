@@ -2,6 +2,7 @@
 layout: term
 title: karınca yuvası gibi kaynamak
 slug: karinca-yuvasi-gibi-kaynamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok kalabalık ve hareketli olmak

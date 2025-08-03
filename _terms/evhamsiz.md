@@ -2,6 +2,7 @@
 layout: term
 title: evhamsız
 slug: evhamsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kuruntusuz

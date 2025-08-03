@@ -2,6 +2,7 @@
 layout: term
 title: cari olmak
 slug: cari-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - geçerli olmak, yürürlükte bulunmak

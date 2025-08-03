@@ -2,6 +2,7 @@
 layout: term
 title: saraçlık
 slug: saraclik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saracın işi veya mesleği

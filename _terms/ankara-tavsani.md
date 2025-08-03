@@ -2,6 +2,7 @@
 layout: term
 title: Ankara tavşanı
 slug: ankara-tavsani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Parlak, ince, ipeksi, uzun, beyaz renkli tüylü, özel olarak üretilen bir tür tavşan; angora tavşanı

@@ -2,6 +2,7 @@
 layout: term
 title: bölümleniş
 slug: bolumlenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölümlenmek işi; sınıflanış

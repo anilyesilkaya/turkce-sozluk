@@ -2,6 +2,7 @@
 layout: term
 title: küçük dağları ben yarattım demek
 slug: kucuk-daglari-ben-yarattim-demek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok böbürlenmek, kibirlenmek

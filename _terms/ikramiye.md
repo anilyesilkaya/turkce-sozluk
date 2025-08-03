@@ -2,6 +2,7 @@
 layout: term
 title: ikramiye
 slug: ikramiye
+letter: I
 lisan: Arapça ikrāmiyye
 anlamlar:
 - Bir yerde çalışan kimselere genellikle kazançtan dağıtılan veya iyi çalıştıkları için aylık dışında verilen para

@@ -2,6 +2,7 @@
 layout: term
 title: taşkınlaşmak
 slug: taskinlasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşkın duruma gelmek

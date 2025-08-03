@@ -2,6 +2,7 @@
 layout: term
 title: anlak
 slug: anlak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► zekâ

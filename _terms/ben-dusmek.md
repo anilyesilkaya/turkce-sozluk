@@ -2,6 +2,7 @@
 layout: term
 title: ben düşmek
 slug: ben-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - meyvelerde olgunlaşma belirtisi görünmek

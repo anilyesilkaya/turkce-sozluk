@@ -2,6 +2,7 @@
 layout: term
 title: Mors alfabesi
 slug: mors-alfabesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Telgrafçılıkta kullanılan, nokta ve çizgilerden oluşan alfabe; Mors

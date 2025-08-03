@@ -2,6 +2,7 @@
 layout: term
 title: harf atmak
 slug: harf-atmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - tanımadığı bir kadına uygunsuz sözler söyleyerek yaklaşmaya çalışmak

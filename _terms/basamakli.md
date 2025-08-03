@@ -2,6 +2,7 @@
 layout: term
 title: basamaklı
 slug: basamakli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basamağı olan

@@ -2,6 +2,7 @@
 layout: term
 title: sonsal
 slug: sonsal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Deneyden çıkan ve deneye bağlı olan (bilgi); aposteriori

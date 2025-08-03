@@ -2,6 +2,7 @@
 layout: term
 title: yarıştırabilmek
 slug: yaristirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarıştırma ihtimali veya imkânı bulunmak

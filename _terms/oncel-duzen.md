@@ -2,6 +2,7 @@
 layout: term
 title: öncel düzen
 slug: oncel-duzen
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ruhla beden arasındaki ilişkinin Tanrı tarafından önceden düzenlendiğini ileri süren öğreti

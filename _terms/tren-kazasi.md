@@ -2,6 +2,7 @@
 layout: term
 title: tren kazası
 slug: tren-kazasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Demir yolunda meydana gelen kaza

@@ -2,6 +2,7 @@
 layout: term
 title: üşenç
 slug: usenc
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üşengeçlik

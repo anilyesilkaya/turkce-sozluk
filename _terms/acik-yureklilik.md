@@ -2,6 +2,7 @@
 layout: term
 title: açık yüreklilik
 slug: acik-yureklilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık yürekli olma durumu; samimiyet, açık kalplilik

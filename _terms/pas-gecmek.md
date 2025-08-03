@@ -2,6 +2,7 @@
 layout: term
 title: pas geçmek
 slug: pas-gecmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bazı iskambil oyunlarında o ele katılmamak

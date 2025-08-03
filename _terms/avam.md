@@ -2,6 +2,7 @@
 layout: term
 title: avam
 slug: avam
+letter: A
 lisan: Arapça ʿavām
 anlamlar:
 - Sıradan insanlar, havas karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: örmek
 slug: ormek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İplik, yün, tel, saz vb.ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak

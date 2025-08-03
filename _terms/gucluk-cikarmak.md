@@ -2,6 +2,7 @@
 layout: term
 title: güçlük çıkarmak
 slug: gucluk-cikarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyin gerçekleşmesini engelleyici sebepler ileri sürmek

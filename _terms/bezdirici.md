@@ -2,6 +2,7 @@
 layout: term
 title: bezdirici
 slug: bezdirici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezdirme işini yapan

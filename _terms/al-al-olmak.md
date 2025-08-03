@@ -2,6 +2,7 @@
 layout: term
 title: al al olmak
 slug: al-al-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - “kızarmak, kıpkırmızı olmak” anlamında kullanılan bir söz

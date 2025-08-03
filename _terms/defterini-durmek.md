@@ -2,6 +2,7 @@
 layout: term
 title: defterini dürmek
 slug: defterini-durmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - öldürmek

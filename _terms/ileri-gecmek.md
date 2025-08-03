@@ -2,6 +2,7 @@
 layout: term
 title: ileri geçmek
 slug: ileri-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - öne geçmek

@@ -2,6 +2,7 @@
 layout: term
 title: itibar etmek
 slug: itibar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - saygı göstermek, saymak, değer vermek

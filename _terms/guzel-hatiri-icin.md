@@ -2,6 +2,7 @@
 layout: term
 title: güzel hatırı için
 slug: guzel-hatiri-icin
+letter: G
 lisan: Türkçe
 anlamlar:
 - yüzünden, sebebiyle

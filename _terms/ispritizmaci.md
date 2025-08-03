@@ -2,6 +2,7 @@
 layout: term
 title: ispritizmacı
 slug: ispritizmaci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ruhçu

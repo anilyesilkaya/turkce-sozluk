@@ -2,6 +2,7 @@
 layout: term
 title: eşekçi
 slug: esekci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşeklerle yük taşıyan veya insan gezdiren kimse; merkepçi

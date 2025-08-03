@@ -2,6 +2,7 @@
 layout: term
 title: pulculuk
 slug: pulculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pul satma işi

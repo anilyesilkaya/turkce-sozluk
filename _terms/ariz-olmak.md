@@ -2,6 +2,7 @@
 layout: term
 title: arız olmak
 slug: ariz-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sonradan ortaya çıkmak

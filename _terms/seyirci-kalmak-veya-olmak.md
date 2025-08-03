@@ -2,6 +2,7 @@
 layout: term
 title: seyirci kalmak (veya olmak)
 slug: seyirci-kalmak-veya-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir olay karşısında hiçbir tepki göstermeyerek işe karışmamak

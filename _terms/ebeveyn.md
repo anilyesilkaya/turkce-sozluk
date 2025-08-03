@@ -2,6 +2,7 @@
 layout: term
 title: ebeveyn
 slug: ebeveyn
+letter: E
 lisan: Arapça ebeveyn
 anlamlar:
 - Anne ve baba

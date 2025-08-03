@@ -2,6 +2,7 @@
 layout: term
 title: tenzil etmek
 slug: tenzil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - indirmek

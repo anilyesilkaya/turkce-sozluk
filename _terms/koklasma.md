@@ -2,6 +2,7 @@
 layout: term
 title: koklaşma
 slug: koklasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koklaşma işi

@@ -2,6 +2,7 @@
 layout: term
 title: bostan beygiri gibi
 slug: bostan-beygiri-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - sürekli aynı işi yapan, hayatında bir değişiklik bulunmayan

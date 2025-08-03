@@ -2,6 +2,7 @@
 layout: term
 title: dedikodusuz
 slug: dedikodusuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dedikodusu olmayan

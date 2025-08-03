@@ -2,6 +2,7 @@
 layout: term
 title: panter
 slug: panter
+letter: P
 lisan: Fransızca panthère
 anlamlar:
 - ► pars

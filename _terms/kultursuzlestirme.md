@@ -2,6 +2,7 @@
 layout: term
 title: kültürsüzleştirme
 slug: kultursuzlestirme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kültürsüzleştirmek işi

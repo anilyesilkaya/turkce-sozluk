@@ -2,6 +2,7 @@
 layout: term
 title: gerçi
 slug: gerci
+letter: G
 lisan: Farsça gerçi
 anlamlar:
 - Her ne kadar ... ise de; vâkıâ

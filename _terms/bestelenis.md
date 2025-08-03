@@ -2,6 +2,7 @@
 layout: term
 title: besteleniş
 slug: bestelenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bestelenmek işi

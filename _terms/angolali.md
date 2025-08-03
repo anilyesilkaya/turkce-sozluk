@@ -2,6 +2,7 @@
 layout: term
 title: Angolalı
 slug: angolali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Angola’da yaşayan halk veya bu halkın soyundan olan kimse

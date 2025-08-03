@@ -2,6 +2,7 @@
 layout: term
 title: bostan bekçisi
 slug: bostan-bekcisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bostanı koruyan ve kollayan kimse

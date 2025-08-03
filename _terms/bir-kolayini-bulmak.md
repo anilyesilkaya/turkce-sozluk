@@ -2,6 +2,7 @@
 layout: term
 title: bir kolayını bulmak
 slug: bir-kolayini-bulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kolaylıkla yapabilmeyi sağlamak veya yapma yolunu bulmak

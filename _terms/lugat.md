@@ -2,6 +2,7 @@
 layout: term
 title: lügat
 slug: lugat
+letter: L
 lisan: Arapça luġat
 anlamlar:
 - ► kelime

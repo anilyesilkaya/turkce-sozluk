@@ -2,6 +2,7 @@
 layout: term
 title: pencere açmak
 slug: pencere-acmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - görüş açısı kazandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: gözleri süzülmek
 slug: gozleri-suzulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - göz kapakları hafifçe kapanmaya başlamak

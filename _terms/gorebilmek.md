@@ -2,6 +2,7 @@
 layout: term
 title: görebilmek
 slug: gorebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görme ihtimali veya imkânı bulunmak

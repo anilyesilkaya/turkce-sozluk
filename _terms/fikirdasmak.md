@@ -2,6 +2,7 @@
 layout: term
 title: fıkırdaşmak
 slug: fikirdasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Oynakça davranışlarda bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: bağımsız
 slug: bagimsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Davranışlarını, tutumunu, girişimlerini herhangi bir gücün etkisinde kalmadan düzenleyebilen (kimse); özerk

@@ -2,6 +2,7 @@
 layout: term
 title: tescilli
 slug: tescilli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tescil edilmiş, resmen kayıtlı

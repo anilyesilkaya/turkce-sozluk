@@ -2,6 +2,7 @@
 layout: term
 title: şerbet ezmek
 slug: serbet-ezmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şerbet hazırlamak

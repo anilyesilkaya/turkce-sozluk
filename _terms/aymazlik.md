@@ -2,6 +2,7 @@
 layout: term
 title: aymazlık
 slug: aymazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çevresinde olup bitenlerin farkına varamama durumu, aymaza yakışacak durum; dalgı, uyku, gafillik, gaflet, gaflet uykusu

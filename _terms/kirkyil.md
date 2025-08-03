@@ -2,6 +2,7 @@
 layout: term
 title: kırkyıl
 slug: kirkyil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok uzun süre

@@ -2,6 +2,7 @@
 layout: term
 title: açık hesap
 slug: acik-hesap
+letter: A
 lisan: Türkçe
 anlamlar:
 - Peşin para veya bono vermeden yapılan alışveriş

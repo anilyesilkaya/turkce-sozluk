@@ -2,6 +2,7 @@
 layout: term
 title: Ulubey
 slug: ulubey
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ordu iline bağlı ilçelerden biri

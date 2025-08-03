@@ -2,6 +2,7 @@
 layout: term
 title: başı dik
 slug: basi-dik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Onurlu, gururlu (kimse); başı dimdik

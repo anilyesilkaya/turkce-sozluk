@@ -2,6 +2,7 @@
 layout: term
 title: boylu boyuna
 slug: boylu-boyuna
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boylu boyunca

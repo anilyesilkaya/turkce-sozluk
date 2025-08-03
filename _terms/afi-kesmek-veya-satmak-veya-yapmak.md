@@ -2,6 +2,7 @@
 layout: term
 title: afi kesmek (veya satmak veya yapmak)
 slug: afi-kesmek-veya-satmak-veya-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birine karşı gösteriş yapmak

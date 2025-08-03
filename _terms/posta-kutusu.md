@@ -2,6 +2,7 @@
 layout: term
 title: posta kutusu
 slug: posta-kutusu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Postanelerde ücret karşılığı kiralanan, postaların adres olarak üzerindeki numaraya gönderildiği kutu

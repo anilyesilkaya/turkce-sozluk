@@ -2,6 +2,7 @@
 layout: term
 title: muharriklik
 slug: muharriklik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► devitkenlik

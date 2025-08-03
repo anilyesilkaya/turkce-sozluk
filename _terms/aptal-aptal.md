@@ -2,6 +2,7 @@
 layout: term
 title: aptal aptal
 slug: aptal-aptal
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aptalca

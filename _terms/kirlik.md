@@ -2,6 +2,7 @@
 layout: term
 title: kırlık
 slug: kirlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kırsal

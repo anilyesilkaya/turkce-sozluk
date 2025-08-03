@@ -2,6 +2,7 @@
 layout: term
 title: pratik yapmak
 slug: pratik-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - uygulama yapmak

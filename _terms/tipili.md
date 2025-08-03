@@ -2,6 +2,7 @@
 layout: term
 title: tipili
 slug: tipili
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kar fırtınalı

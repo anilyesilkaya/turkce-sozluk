@@ -2,6 +2,7 @@
 layout: term
 title: koyu sarı
 slug: koyu-sari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sarının bir veya birkaç ton koyusu

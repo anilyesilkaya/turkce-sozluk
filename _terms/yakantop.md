@@ -2,6 +2,7 @@
 layout: term
 title: yakantop
 slug: yakantop
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birkaç kişilik iki takım arasında bir el topuyla oynanan ve topu karşı takım oyuncusuna vurma temeline dayanan bir oyun türü

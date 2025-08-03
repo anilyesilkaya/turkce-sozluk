@@ -2,6 +2,7 @@
 layout: term
 title: cahilleşme
 slug: cahillesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► bilgisizleşme

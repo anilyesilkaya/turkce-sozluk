@@ -2,6 +2,7 @@
 layout: term
 title: burkabilmek
 slug: burkabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burkma ihtimali veya imkânı bulunmak

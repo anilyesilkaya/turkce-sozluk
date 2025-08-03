@@ -2,6 +2,7 @@
 layout: term
 title: bel kündesi
 slug: bel-kundesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güreşte ellerin arkadan gelip hasmın göbeği üzerinde kilitlenmesiyle kündeleme

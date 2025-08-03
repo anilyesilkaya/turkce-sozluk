@@ -2,6 +2,7 @@
 layout: term
 title: centilmen
 slug: centilmen
+letter: C
 lisan: Fransızca gentleman
 anlamlar:
 - İyi arkadaşlık eden, saygılı, görgülü, kibar (erkek)

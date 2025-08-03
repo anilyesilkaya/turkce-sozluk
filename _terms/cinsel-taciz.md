@@ -2,6 +2,7 @@
 layout: term
 title: cinsel taciz
 slug: cinsel-taciz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ahlaksızca, ulu orta veya gizlice söz ve davranışlarla karşı cinse eziyet etme, tedirginlik ve sıkıntı verme

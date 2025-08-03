@@ -2,6 +2,7 @@
 layout: term
 title: canlanma
 slug: canlanma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlanmak işi; tecessüm

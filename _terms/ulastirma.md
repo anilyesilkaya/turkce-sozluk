@@ -2,6 +2,7 @@
 layout: term
 title: ulaştırma
 slug: ulastirma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulaştırmak işi; isal

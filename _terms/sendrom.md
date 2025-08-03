@@ -2,6 +2,7 @@
 layout: term
 title: sendrom
 slug: sendrom
+letter: S
 lisan: Fransızca syndrome
 anlamlar:
 - ► belirge

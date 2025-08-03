@@ -2,6 +2,7 @@
 layout: term
 title: yalın kılıç
 slug: yalin-kilic
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► dalkılıç

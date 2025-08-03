@@ -2,6 +2,7 @@
 layout: term
 title: fevkalade
 slug: fevkalade
+letter: F
 lisan: Arapça fevḳ + ʿāde
 anlamlar:
 - Alışılmış olandan ayrı

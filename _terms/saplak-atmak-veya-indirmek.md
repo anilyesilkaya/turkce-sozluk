@@ -2,6 +2,7 @@
 layout: term
 title: şaplak atmak (veya indirmek)
 slug: saplak-atmak-veya-indirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - elin içiyle vurmak

@@ -2,6 +2,7 @@
 layout: term
 title: çeşme başı
 slug: cesme-basi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşmenin etrafı

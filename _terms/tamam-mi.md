@@ -2,6 +2,7 @@
 layout: term
 title: tamam mı?
 slug: tamam-mi
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"oldu mu, anlaştık mı?" anlamında kullanılan bir söz'

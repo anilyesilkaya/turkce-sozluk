@@ -2,6 +2,7 @@
 layout: term
 title: anımsamak
 slug: animsamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bilinip unutulan bir şeyi akla getirmek; ansımak, bulmak, çıkarmak, hatırlamak

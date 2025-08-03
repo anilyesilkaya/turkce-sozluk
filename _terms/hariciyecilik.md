@@ -2,6 +2,7 @@
 layout: term
 title: hariciyecilik
 slug: hariciyecilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hariciyecinin yaptığı iş

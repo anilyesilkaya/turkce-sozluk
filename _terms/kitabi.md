@@ -2,6 +2,7 @@
 layout: term
 title: kitabi
 slug: kitabi
+letter: K
 lisan: Arapça kitābī
 anlamlar:
 - Kitaba uygun

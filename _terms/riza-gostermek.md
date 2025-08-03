@@ -2,6 +2,7 @@
 layout: term
 title: rıza göstermek
 slug: riza-gostermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - razı olmak, onamak, uygun bulmak

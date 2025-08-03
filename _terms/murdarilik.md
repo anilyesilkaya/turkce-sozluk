@@ -2,6 +2,7 @@
 layout: term
 title: murdarilik
 slug: murdarilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► omurilik

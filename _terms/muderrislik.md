@@ -2,6 +2,7 @@
 layout: term
 title: müderrislik
 slug: muderrislik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müderris olma durumu

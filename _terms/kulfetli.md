@@ -2,6 +2,7 @@
 layout: term
 title: külfetli
 slug: kulfetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkıcı, zor, yorucu, özen isteyen

@@ -2,6 +2,7 @@
 layout: term
 title: tutkulaşmak
 slug: tutkulasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutku durumuna gelmek

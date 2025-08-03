@@ -2,6 +2,7 @@
 layout: term
 title: tabir
 slug: tabir
+letter: T
 lisan: Arapça taʿbīr
 anlamlar:
 - Rüya yorumlama

@@ -2,6 +2,7 @@
 layout: term
 title: biyomikroskop
 slug: biyomikroskop
+letter: B
 lisan: Fransızca biomicroscope
 anlamlar:
 - Kendine özgü bir ışık ile kullanılan çift göz mercekli mikroskop

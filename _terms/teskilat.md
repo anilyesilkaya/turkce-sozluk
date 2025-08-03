@@ -2,6 +2,7 @@
 layout: term
 title: teşkilat
 slug: teskilat
+letter: T
 lisan: Arapça teşkīlāt
 anlamlar:
 - ► örgüt

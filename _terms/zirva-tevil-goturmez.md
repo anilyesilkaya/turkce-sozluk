@@ -2,6 +2,7 @@
 layout: term
 title: zırva tevil götürmez
 slug: zirva-tevil-goturmez
+letter: Z
 lisan: Türkçe
 anlamlar:
 - saçma olan bir düşünceyi döndürme, çevirme yolu ile savunmaya kalkışanlara söylenen bir söz

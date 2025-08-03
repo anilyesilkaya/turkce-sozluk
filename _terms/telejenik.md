@@ -2,6 +2,7 @@
 layout: term
 title: telejenik
 slug: telejenik
+letter: T
 lisan: İngilizce telegenic
 anlamlar:
 - Televizyon, bilgisayar vb. görüntülü yayın araçlarında olduğundan daha etkileyici ve güzel görünen (kimse)

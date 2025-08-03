@@ -2,6 +2,7 @@
 layout: term
 title: bir sürçen atın başı kesilmez
 slug: bir-surcen-atin-basi-kesilmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"o ana kadar yanlışı olmayan kişi bir kez yanlış iş yaptığında kendisine hemen ağır ceza verilmemelidir” anlamında kullanılan bir söz'

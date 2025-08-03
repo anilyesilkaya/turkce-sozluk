@@ -2,6 +2,7 @@
 layout: term
 title: kıymet
 slug: kiymet
+letter: K
 lisan: Arapça ḳiymet
 anlamlar:
 - ► değer

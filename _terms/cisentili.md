@@ -2,6 +2,7 @@
 layout: term
 title: çisentili
 slug: cisentili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çisentisi olan, çisenti hâlinde yağan

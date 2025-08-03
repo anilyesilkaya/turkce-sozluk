@@ -2,6 +2,7 @@
 layout: term
 title: evirtmek
 slug: evirtmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sakkarozu glikoz ve levüloza çevirmek

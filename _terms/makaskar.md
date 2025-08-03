@@ -2,6 +2,7 @@
 layout: term
 title: makaskâr
 slug: makaskar
+letter: M
 lisan: Arapça miḳaṣṣ + Farsça -kār
 anlamlar:
 - Kâğıt oymacılığı ile uğraşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çıktı
 slug: cikti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üretim sonucu ortaya çıkan ürün, girdi karşıtı

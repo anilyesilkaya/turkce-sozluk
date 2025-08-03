@@ -2,6 +2,7 @@
 layout: term
 title: halletmek
 slug: halletmek
+letter: H
 lisan: Arapça ḥall + Türkçe etmek
 anlamlar:
 - Güç görünen bir olay veya duruma çözüm yolu bulmak

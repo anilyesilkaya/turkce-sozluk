@@ -2,6 +2,7 @@
 layout: term
 title: sukutuhayal
 slug: sukutuhayal
+letter: S
 lisan: Arapça suḳūṭ + ḫayāl
 anlamlar:
 - ► hayal kırıklığı

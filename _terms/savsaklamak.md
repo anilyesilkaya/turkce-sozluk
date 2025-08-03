@@ -2,6 +2,7 @@
 layout: term
 title: savsaklamak
 slug: savsaklamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belirli bir sebebi olmaksızın bir işi isteyerek geri bırakmak; sallamak

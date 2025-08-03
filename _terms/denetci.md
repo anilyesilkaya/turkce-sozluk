@@ -2,6 +2,7 @@
 layout: term
 title: denetçi
 slug: denetci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denetlemeyle görevli kimse; kontrolcü, murakıp, kontrolör

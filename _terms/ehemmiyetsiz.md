@@ -2,6 +2,7 @@
 layout: term
 title: ehemmiyetsiz
 slug: ehemmiyetsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► önemsiz

@@ -2,6 +2,7 @@
 layout: term
 title: morsalkımlı
 slug: morsalkimli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Morsalkım bulunan (bahçe, çardak, duvar, ev vb.)

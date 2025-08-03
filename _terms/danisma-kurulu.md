@@ -2,6 +2,7 @@
 layout: term
 title: danışma kurulu
 slug: danisma-kurulu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kurumun çalışma alanlarını ilgilendiren konuların danışılıp tartışıldığı kurul; istişare heyeti

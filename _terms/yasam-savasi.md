@@ -2,6 +2,7 @@
 layout: term
 title: yaşam savaşı
 slug: yasam-savasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaşama çabası

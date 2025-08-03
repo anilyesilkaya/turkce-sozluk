@@ -2,6 +2,7 @@
 layout: term
 title: ağırlık
 slug: agirlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağır olma durumu; tartı

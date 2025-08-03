@@ -2,6 +2,7 @@
 layout: term
 title: kanat açmak
 slug: kanat-acmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birini korumak, himaye etmek

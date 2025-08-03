@@ -2,6 +2,7 @@
 layout: term
 title: şato
 slug: sato
+letter: Ş
 lisan: Fransızca château
 anlamlar:
 - Avrupa'da soylu kimselerin oturduğu, çevresi hendek, sur ve kulelerle çevrili konak

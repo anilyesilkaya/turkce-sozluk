@@ -2,6 +2,7 @@
 layout: term
 title: asım takım
 slug: asim-takim
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► takı

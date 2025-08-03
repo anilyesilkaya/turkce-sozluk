@@ -2,6 +2,7 @@
 layout: term
 title: cezalı
 slug: cezali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezalandırılmış (kimse)

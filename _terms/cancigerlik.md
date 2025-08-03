@@ -2,6 +2,7 @@
 layout: term
 title: canciğerlik
 slug: cancigerlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canciğer olma durumu

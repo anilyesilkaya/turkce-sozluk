@@ -2,6 +2,7 @@
 layout: term
 title: depolamak
 slug: depolamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Saklamak veya korumak amacıyla depoya koymak, depo etmek, depoda biriktirmek

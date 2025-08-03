@@ -2,6 +2,7 @@
 layout: term
 title: sencesi
 slug: sencesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sana göre olanı

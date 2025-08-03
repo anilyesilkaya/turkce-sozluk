@@ -2,6 +2,7 @@
 layout: term
 title: elleme
 slug: elleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ellemek işi

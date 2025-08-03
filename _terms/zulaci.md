@@ -2,6 +2,7 @@
 layout: term
 title: zulacı
 slug: zulaci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin saklanması gereken eşyasını saklayan kimse

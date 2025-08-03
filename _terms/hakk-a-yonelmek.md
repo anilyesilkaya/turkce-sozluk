@@ -2,6 +2,7 @@
 layout: term
 title: Hakk'a yönelmek
 slug: hakk-a-yonelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Allah yoluna girmek

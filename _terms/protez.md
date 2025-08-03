@@ -2,6 +2,7 @@
 layout: term
 title: protez
 slug: protez
+letter: P
 lisan: Fransızca prothèse
 anlamlar:
 - ► takma

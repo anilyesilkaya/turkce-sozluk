@@ -2,6 +2,7 @@
 layout: term
 title: iftihar
 slug: iftihar
+letter: I
 lisan: Arapça iftiḫār
 anlamlar:
 - ► övünme

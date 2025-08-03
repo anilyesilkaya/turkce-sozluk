@@ -2,6 +2,7 @@
 layout: term
 title: çölleştirme
 slug: collestirme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çölleştirmek işi

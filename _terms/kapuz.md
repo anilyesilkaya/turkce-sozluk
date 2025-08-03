@@ -2,6 +2,7 @@
 layout: term
 title: kapuz
 slug: kapuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kanyon

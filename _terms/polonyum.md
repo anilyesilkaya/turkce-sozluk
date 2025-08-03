@@ -2,6 +2,7 @@
 layout: term
 title: polonyum
 slug: polonyum
+letter: P
 lisan: Fransızca polonium
 anlamlar:
 - Atom numarası 84, atom ağırlığı 210 olan, ilk radyoaktif element (simgesi Po)

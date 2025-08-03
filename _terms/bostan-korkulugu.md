@@ -2,6 +2,7 @@
 layout: term
 title: bostan korkuluğu
 slug: bostan-korkulugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kuşları ürkütüp yaklaştırmamak için bahçeye, bağa veya tarlaya dikilen kukla; korkuluk

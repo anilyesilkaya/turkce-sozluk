@@ -2,6 +2,7 @@
 layout: term
 title: menetmek
 slug: menetmek
+letter: M
 lisan: Arapça menʿ + Türkçe etmek
 anlamlar:
 - ► yasaklamak

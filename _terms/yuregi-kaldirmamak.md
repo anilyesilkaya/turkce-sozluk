@@ -2,6 +2,7 @@
 layout: term
 title: yüreği kaldırmamak
 slug: yuregi-kaldirmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - dayanamamak, katlanamamak

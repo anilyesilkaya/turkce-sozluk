@@ -2,6 +2,7 @@
 layout: term
 title: varmak
 slug: varmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Erişilmek istenen yere ayak basmak, ulaşmak; vasıl olmak

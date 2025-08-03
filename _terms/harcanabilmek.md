@@ -2,6 +2,7 @@
 layout: term
 title: harcanabilmek
 slug: harcanabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harcanma ihtimali bulunmak

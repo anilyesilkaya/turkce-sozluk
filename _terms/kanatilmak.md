@@ -2,6 +2,7 @@
 layout: term
 title: kanatılmak
 slug: kanatilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanatma işi yapılmak

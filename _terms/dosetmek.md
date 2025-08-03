@@ -2,6 +2,7 @@
 layout: term
 title: döşetmek
 slug: dosetmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşeme işini yaptırmak

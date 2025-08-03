@@ -2,6 +2,7 @@
 layout: term
 title: çırpış
 slug: cirpis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpmak işi

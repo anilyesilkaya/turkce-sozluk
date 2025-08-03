@@ -2,6 +2,7 @@
 layout: term
 title: şıralık
 slug: siralik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıra olmaya elverişli (meyve)

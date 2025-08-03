@@ -2,6 +2,7 @@
 layout: term
 title: solozcu
 slug: solozcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soloz oynayan kimse

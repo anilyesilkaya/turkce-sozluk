@@ -2,6 +2,7 @@
 layout: term
 title: başmühendis
 slug: basmuhendis
+letter: B
 lisan: Türkçe baş + Arapça muhendis
 anlamlar:
 - Bir kurum veya kuruluşta mühendislik görevini yürüten en kıdemli ve yetkili mühendis

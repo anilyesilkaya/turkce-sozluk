@@ -2,6 +2,7 @@
 layout: term
 title: acuze
 slug: acuze
+letter: A
 lisan: Arapça ʿacūze
 anlamlar:
 - Huysuz, yaşlı kadın

@@ -2,6 +2,7 @@
 layout: term
 title: şano
 slug: sano
+letter: Ş
 lisan: İtalyanca scena
 anlamlar:
 - Tiyatro sahnesi

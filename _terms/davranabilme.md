@@ -2,6 +2,7 @@
 layout: term
 title: davranabilme
 slug: davranabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Davranabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: babafingo
 slug: babafingo
+letter: B
 lisan: İtalyanca papafigo
 anlamlar:
 - Yelkenli gemilerde direklerin ve gabyanın üstünde bulunan en yüksek bölüm

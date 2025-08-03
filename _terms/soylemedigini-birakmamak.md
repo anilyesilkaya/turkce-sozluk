@@ -2,6 +2,7 @@
 layout: term
 title: söylemediğini bırakmamak
 slug: soylemedigini-birakmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir kimse veya bir konu ile ilgili olarak söylenmemesi gereken şeyleri söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: hahambaşı
 slug: hahambasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir ülkedeki Yahudi topluluğunun dinî başkanı

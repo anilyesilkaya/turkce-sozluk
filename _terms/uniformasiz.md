@@ -2,6 +2,7 @@
 layout: term
 title: üniformasız
 slug: uniformasiz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üniforması olmayan

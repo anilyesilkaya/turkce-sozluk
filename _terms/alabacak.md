@@ -2,6 +2,7 @@
 layout: term
 title: alabacak
 slug: alabacak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayağında sekil olan (at, eşek vb.)

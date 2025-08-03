@@ -2,6 +2,7 @@
 layout: term
 title: yapıt
 slug: yapit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► eser

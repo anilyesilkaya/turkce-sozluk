@@ -2,6 +2,7 @@
 layout: term
 title: sorguçlu
 slug: sorguclu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorgucu olan

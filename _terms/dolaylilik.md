@@ -2,6 +2,7 @@
 layout: term
 title: dolaylılık
 slug: dolaylilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaylı olma durumu

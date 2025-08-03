@@ -2,6 +2,7 @@
 layout: term
 title: işinden olmak
 slug: isinden-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - görevini yitirmek, görevinden atılmak

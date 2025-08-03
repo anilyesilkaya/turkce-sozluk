@@ -2,6 +2,7 @@
 layout: term
 title: rehberlik
 slug: rehberlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► kılavuzluk

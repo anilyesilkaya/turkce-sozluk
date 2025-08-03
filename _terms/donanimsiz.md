@@ -2,6 +2,7 @@
 layout: term
 title: donanımsız
 slug: donanimsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli bir donanıma sahip olmayan (araç vb.)

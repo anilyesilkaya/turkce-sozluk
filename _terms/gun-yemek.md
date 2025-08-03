@@ -2,6 +2,7 @@
 layout: term
 title: gün yemek
 slug: gun-yemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - hapis cezası almak

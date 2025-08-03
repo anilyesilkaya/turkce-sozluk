@@ -2,6 +2,7 @@
 layout: term
 title: yağmurluk
 slug: yagmurluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmurdan korunmak için üste giyilen giysi; trençkot, empermeabl

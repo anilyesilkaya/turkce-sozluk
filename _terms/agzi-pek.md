@@ -2,6 +2,7 @@
 layout: term
 title: ağzı pek
 slug: agzi-pek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ağzı sıkı

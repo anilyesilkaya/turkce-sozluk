@@ -2,6 +2,7 @@
 layout: term
 title: belletebilmek
 slug: belletebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belletme ihtimali veya imkânı bulunmak

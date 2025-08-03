@@ -2,6 +2,7 @@
 layout: term
 title: hanım hanımcık
 slug: hanim-hanimcik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Oturaklı davranışları olan (kadın veya kız)

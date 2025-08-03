@@ -2,6 +2,7 @@
 layout: term
 title: vâkıâ
 slug: vakia
+letter: V
 lisan: Arapça vāḳiʿā
 anlamlar:
 - ► gerçi

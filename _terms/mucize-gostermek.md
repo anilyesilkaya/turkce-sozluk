@@ -2,6 +2,7 @@
 layout: term
 title: mucize göstermek
 slug: mucize-gostermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - olağanüstü bir olay meydana getirmek, olağanüstü bir olaya sebep olmak

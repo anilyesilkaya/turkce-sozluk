@@ -2,6 +2,7 @@
 layout: term
 title: kiremit aktarmak
 slug: kiremit-aktarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çatı aktarmak

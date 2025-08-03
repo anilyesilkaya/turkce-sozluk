@@ -2,6 +2,7 @@
 layout: term
 title: behresiz
 slug: behresiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kısmetsiz

@@ -2,6 +2,7 @@
 layout: term
 title: başasistan
 slug: basasistan
+letter: B
 lisan: Türkçe baş + Fransızca assistant
 anlamlar:
 - En kıdemli asistan

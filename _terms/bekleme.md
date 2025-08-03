@@ -2,6 +2,7 @@
 layout: term
 title: bekleme
 slug: bekleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beklemek işi; bekleyiverme

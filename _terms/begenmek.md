@@ -2,6 +2,7 @@
 layout: term
 title: beğenmek
 slug: begenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - İyi veya güzel bulmak; açmak

@@ -2,6 +2,7 @@
 layout: term
 title: şube
 slug: sube
+letter: Ş
 lisan: Arapça şuʿbe
 anlamlar:
 - Bir kurumun, bir kuruluşun alt bölümlerindeki iş yerlerinden her biri; büro

@@ -2,6 +2,7 @@
 layout: term
 title: kayın
 slug: kayin
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kayınbirader

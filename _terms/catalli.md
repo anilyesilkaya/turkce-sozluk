@@ -2,6 +2,7 @@
 layout: term
 title: çatallı
 slug: catalli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatalı olan

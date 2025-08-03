@@ -2,6 +2,7 @@
 layout: term
 title: şua
 slug: sua
+letter: Ş
 lisan: Arapça şuʿā
 anlamlar:
 - ► ışın

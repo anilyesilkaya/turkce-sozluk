@@ -2,6 +2,7 @@
 layout: term
 title: düşenin dostu olmaz
 slug: dusenin-dostu-olmaz
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"varlıklı kişi yoksullaşınca çevresindeki dostlarından kimse kalmaz" anlamında kullanılan bir söz'

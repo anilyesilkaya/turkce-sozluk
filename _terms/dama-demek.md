@@ -2,6 +2,7 @@
 layout: term
 title: dama demek
 slug: dama-demek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir taşı rakip tarafın birinci hanesine kadar yürütüp her türlü oynama üstünlüğü olan dama hâline getirmek

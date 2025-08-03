@@ -2,6 +2,7 @@
 layout: term
 title: larghetto
 slug: larghetto
+letter: L
 lisan: İtalyanca larghetto
 anlamlar:
 - Bir parça largodan çabuk ve hafif çalınarak

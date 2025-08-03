@@ -2,6 +2,7 @@
 layout: term
 title: broş
 slug: bros
+letter: B
 lisan: Fransızca broche
 anlamlar:
 - ► yaka iğnesi

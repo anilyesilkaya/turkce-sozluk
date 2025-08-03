@@ -2,6 +2,7 @@
 layout: term
 title: serin tutmak
 slug: serin-tutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sıcaktan etkilenmeden daha soğuk bir durumda bulundurmak

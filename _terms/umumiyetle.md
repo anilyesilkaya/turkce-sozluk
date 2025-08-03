@@ -2,6 +2,7 @@
 layout: term
 title: umumiyetle
 slug: umumiyetle
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► genellikle

@@ -2,6 +2,7 @@
 layout: term
 title: ispritizma
 slug: ispritizma
+letter: I
 lisan: Fransızca spiritisme
 anlamlar:
 - ► ruhçuluk

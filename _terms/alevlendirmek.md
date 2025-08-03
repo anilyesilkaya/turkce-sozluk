@@ -2,6 +2,7 @@
 layout: term
 title: alevlendirmek
 slug: alevlendirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alevlenmesini sağlamak, tutuşturmak

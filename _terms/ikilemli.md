@@ -2,6 +2,7 @@
 layout: term
 title: ikilemli
 slug: ikilemli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkilemi olan

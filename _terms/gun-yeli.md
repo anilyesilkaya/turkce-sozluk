@@ -2,6 +2,7 @@
 layout: term
 title: gün yeli
 slug: gun-yeli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Doğudan esen rüzgâr

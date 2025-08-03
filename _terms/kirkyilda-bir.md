@@ -2,6 +2,7 @@
 layout: term
 title: kırkyılda bir
 slug: kirkyilda-bir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok seyrek olarak

@@ -2,6 +2,7 @@
 layout: term
 title: tutunmak
 slug: tutunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutup bırakmamak, dayanmak, sarılmak veya asılmak

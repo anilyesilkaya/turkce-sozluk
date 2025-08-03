@@ -2,6 +2,7 @@
 layout: term
 title: mukabelecilik
 slug: mukabelecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mukabeleci olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: iple çekmek
 slug: iple-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sabırsızlıkla beklemek

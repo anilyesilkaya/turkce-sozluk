@@ -2,6 +2,7 @@
 layout: term
 title: menisküs
 slug: meniskus
+letter: M
 lisan: Latince
 anlamlar:
 - Diz eklemlerinde kemik arasındaki kıkırdak yapı

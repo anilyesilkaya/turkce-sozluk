@@ -2,6 +2,7 @@
 layout: term
 title: tüketme
 slug: tuketme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüketmek işi; yoğaltma, ifna

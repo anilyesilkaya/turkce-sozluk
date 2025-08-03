@@ -2,6 +2,7 @@
 layout: term
 title: içini parçalamak (veya parça parça etmek)
 slug: icini-parcalamak-veya-parca-parca-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok üzülmek, aşırı derecede sıkılıp harap olmak

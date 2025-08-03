@@ -2,6 +2,7 @@
 layout: term
 title: kara yüzlü
 slug: kara-yuzlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yüzü kara veya karaya yakın renkte olan (kimse)

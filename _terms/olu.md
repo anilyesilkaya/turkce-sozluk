@@ -2,6 +2,7 @@
 layout: term
 title: ölü
 slug: olu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Hayatı sona ermiş, artık yaşamıyor olan; diri karşıtı

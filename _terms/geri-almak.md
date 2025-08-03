@@ -2,6 +2,7 @@
 layout: term
 title: geri almak
 slug: geri-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - verdiğini almak

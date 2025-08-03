@@ -2,6 +2,7 @@
 layout: term
 title: ecza dolabı
 slug: ecza-dolabi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evde veya iş yerlerinde, içerisinde ilk yardım için gerekli ilaç ve sağlık malzemelerinin bulundurulduğu dolap

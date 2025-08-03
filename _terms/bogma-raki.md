@@ -2,6 +2,7 @@
 layout: term
 title: boğma rakı
 slug: bogma-raki
+letter: B
 lisan: Türkçe
 anlamlar:
 - İncir, dut, kuru üzümün mayalandıktan sonra ilkel araçlarla damıtılmasıyla elde edilen, alkol derecesi yüksek bir rakı türü

@@ -2,6 +2,7 @@
 layout: term
 title: saldırmak
 slug: saldirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kimseye veya bir şeye karşı saldırı yöneltmek, zarar verici bir davranışta bulunmak, hücum etmek; salmak

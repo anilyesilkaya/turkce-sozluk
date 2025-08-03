@@ -2,6 +2,7 @@
 layout: term
 title: çok uluslu
 slug: cok-uluslu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok ulusla ilgili olan (sanayi veya ticaret); çok milletli

@@ -2,6 +2,7 @@
 layout: term
 title: tamir
 slug: tamir
+letter: T
 lisan: Arapça taʿmīr
 anlamlar:
 - ► onarım

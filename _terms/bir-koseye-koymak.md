@@ -2,6 +2,7 @@
 layout: term
 title: bir köşeye koymak
 slug: bir-koseye-koymak
+letter: B
 lisan: Türkçe
 anlamlar:
 - saklamak, biriktirmek

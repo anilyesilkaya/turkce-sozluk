@@ -2,6 +2,7 @@
 layout: term
 title: yok
 slug: yok
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bulunmayan, mevcut olmayan (nesne, kimse vb.); namevcut, nanay var karşıtı

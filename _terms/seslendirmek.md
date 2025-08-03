@@ -2,6 +2,7 @@
 layout: term
 title: seslendirmek
 slug: seslendirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sesli duruma getirmek, sesli olmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: derbeder
 slug: derbeder
+letter: D
 lisan: Farsça derbeder
 anlamlar:
 - Yaşayışı ve davranışı düzensiz (kimse)

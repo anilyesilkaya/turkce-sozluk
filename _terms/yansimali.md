@@ -2,6 +2,7 @@
 layout: term
 title: yansımalı
 slug: yansimali
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansıtan veya yansıyan

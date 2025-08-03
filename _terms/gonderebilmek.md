@@ -2,6 +2,7 @@
 layout: term
 title: gönderebilmek
 slug: gonderebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönderme ihtimali veya imkânı bulunmak

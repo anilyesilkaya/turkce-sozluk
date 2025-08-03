@@ -2,6 +2,7 @@
 layout: term
 title: mütekâsif
 slug: mutekasif
+letter: M
 lisan: Arapça mutekās̱if
 anlamlar:
 - Yoğunlaşmış, koyulaşmış

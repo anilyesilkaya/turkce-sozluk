@@ -2,6 +2,7 @@
 layout: term
 title: tutkalsız
 slug: tutkalsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutkal sürülmemiş

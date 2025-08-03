@@ -2,6 +2,7 @@
 layout: term
 title: ölümsüzleşmek
 slug: olumsuzlesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölümsüz olmak, ölümsüz duruma gelmek; bengileşmek, ebedîleşmek

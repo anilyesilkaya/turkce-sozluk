@@ -2,6 +2,7 @@
 layout: term
 title: terkipsiz
 slug: terkipsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bileşim içermeyen

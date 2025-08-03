@@ -2,6 +2,7 @@
 layout: term
 title: memnu olmak
 slug: memnu-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yasaklanmak

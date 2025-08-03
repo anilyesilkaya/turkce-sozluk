@@ -2,6 +2,7 @@
 layout: term
 title: sahnelemek
 slug: sahnelemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahneye koymak

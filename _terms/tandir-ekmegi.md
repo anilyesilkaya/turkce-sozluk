@@ -2,6 +2,7 @@
 layout: term
 title: tandır ekmeği
 slug: tandir-ekmegi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tandırda pişirilen ekmek

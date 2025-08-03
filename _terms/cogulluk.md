@@ -2,6 +2,7 @@
 layout: term
 title: çoğulluk
 slug: cogulluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğul olma durumu

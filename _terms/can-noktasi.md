@@ -2,6 +2,7 @@
 layout: term
 title: can noktası
 slug: can-noktasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - En önemli husus, vurgulanması gereken yer

@@ -2,6 +2,7 @@
 layout: term
 title: pozisyon
 slug: pozisyon
+letter: P
 lisan: Fransızca position
 anlamlar:
 - ► konum

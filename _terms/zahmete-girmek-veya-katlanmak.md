@@ -2,6 +2,7 @@
 layout: term
 title: zahmete girmek (veya katlanmak)
 slug: zahmete-girmek-veya-katlanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Sıkıntı çekmek, sıkıntıya girmek

@@ -2,6 +2,7 @@
 layout: term
 title: feryat
 slug: feryat
+letter: F
 lisan: Farsça feryād
 anlamlar:
 - ► çığlık

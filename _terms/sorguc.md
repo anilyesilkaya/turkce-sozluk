@@ -2,6 +2,7 @@
 layout: term
 title: sorguç
 slug: sorguc
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı kuşların tepelerinde bulunan uzunca tüy; tuğ, tepelik

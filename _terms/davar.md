@@ -2,6 +2,7 @@
 layout: term
 title: davar
 slug: davar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Koyun ve keçiye verilen ortak ad

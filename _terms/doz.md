@@ -2,6 +2,7 @@
 layout: term
 title: doz
 slug: doz
+letter: D
 lisan: Fransızca dose
 anlamlar:
 - Bir ilacın bir defada veya bir günde alınması gereken miktarı; dozaj

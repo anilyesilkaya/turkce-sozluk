@@ -2,6 +2,7 @@
 layout: term
 title: cenaze merasimi
 slug: cenaze-merasimi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cenaze töreni

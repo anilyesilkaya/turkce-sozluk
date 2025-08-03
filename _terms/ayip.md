@@ -2,6 +2,7 @@
 layout: term
 title: ayıp
 slug: ayip
+letter: A
 lisan: Arapça ʿayb
 anlamlar:
 - Toplumun ahlak kurallarına aykırı olan, utanılacak durum veya davranış

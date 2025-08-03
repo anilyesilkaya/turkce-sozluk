@@ -2,6 +2,7 @@
 layout: term
 title: ekşi elma
 slug: eksi-elma
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sert, sulu ve şeker oranı düşük bir tür elma

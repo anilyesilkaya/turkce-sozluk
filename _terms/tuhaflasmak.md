@@ -2,6 +2,7 @@
 layout: term
 title: tuhaflaşmak
 slug: tuhaflasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuhaf olmak, tuhaf duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: piti piti
 slug: piti-piti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Zorlukla, yavaş yavaş

@@ -2,6 +2,7 @@
 layout: term
 title: gözleri çivilenmek
 slug: gozleri-civilenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - aynı noktaya sürekli olarak bakmak

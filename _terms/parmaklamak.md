@@ -2,6 +2,7 @@
 layout: term
 title: parmaklamak
 slug: parmaklamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parmakla yemek

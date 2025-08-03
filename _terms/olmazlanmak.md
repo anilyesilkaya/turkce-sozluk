@@ -2,6 +2,7 @@
 layout: term
 title: olmazlanmak
 slug: olmazlanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yapmak istememek

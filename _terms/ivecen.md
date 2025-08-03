@@ -2,6 +2,7 @@
 layout: term
 title: ivecen
 slug: ivecen
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► aceleci

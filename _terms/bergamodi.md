@@ -2,6 +2,7 @@
 layout: term
 title: bergamodi
 slug: bergamodi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sarımsı pembe renk

@@ -2,6 +2,7 @@
 layout: term
 title: sokakta kalmak
 slug: sokakta-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sığınacak yeri olmamak, bakacak kimsesi bulunmamak

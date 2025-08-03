@@ -2,6 +2,7 @@
 layout: term
 title: kancık
 slug: kancik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hayvanlarda dişi

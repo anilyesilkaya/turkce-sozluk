@@ -2,6 +2,7 @@
 layout: term
 title: seçim
 slug: secim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçmek işi

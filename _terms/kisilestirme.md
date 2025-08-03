@@ -2,6 +2,7 @@
 layout: term
 title: kişileştirme
 slug: kisilestirme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişileştirmek işi

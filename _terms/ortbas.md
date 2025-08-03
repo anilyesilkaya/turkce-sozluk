@@ -2,6 +2,7 @@
 layout: term
 title: örtbas
 slug: ortbas
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - '"Bir durumun, bir olayın duyulmamasını, yayılmamasını sağlayan önlemler almak" anlamındaki örtbas etmek ve "bir durum, bir olay duyulmamak, yayılmamak" anlamındaki örtbas olmak deyimlerinde geçer'

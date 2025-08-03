@@ -2,6 +2,7 @@
 layout: term
 title: ayak izi
 slug: ayak-izi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir zemin üzerinde ayağın bıraktığı iz

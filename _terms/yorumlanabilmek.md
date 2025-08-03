@@ -2,6 +2,7 @@
 layout: term
 title: yorumlanabilmek
 slug: yorumlanabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorumlanma ihtimali veya imkânı bulunmak

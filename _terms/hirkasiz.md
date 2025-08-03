@@ -2,6 +2,7 @@
 layout: term
 title: hırkasız
 slug: hirkasiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırkası olmayan

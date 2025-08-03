@@ -2,6 +2,7 @@
 layout: term
 title: avantalı
 slug: avantali
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde emeksiz kazanç bulunan

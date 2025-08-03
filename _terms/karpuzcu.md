@@ -2,6 +2,7 @@
 layout: term
 title: karpuzcu
 slug: karpuzcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karpuz yetiştiren veya satan kimse

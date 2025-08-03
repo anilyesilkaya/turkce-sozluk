@@ -2,6 +2,7 @@
 layout: term
 title: bilişim ağı
 slug: bilisim-agi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Teknik, ekonomik ve toplumsal alanlardaki iletişim sistemi

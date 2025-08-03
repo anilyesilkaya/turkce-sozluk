@@ -2,6 +2,7 @@
 layout: term
 title: kerteriz
 slug: kerteriz
+letter: K
 lisan: Rumca
 anlamlar:
 - Bir yerin nerede bulunduğunu pusula ile ölçme

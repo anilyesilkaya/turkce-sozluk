@@ -2,6 +2,7 @@
 layout: term
 title: ömre bedel
 slug: omre-bedel
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir ömre değecek kadar iyi, güzel, değerli olan

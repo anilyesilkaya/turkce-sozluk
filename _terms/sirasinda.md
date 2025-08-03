@@ -2,6 +2,7 @@
 layout: term
 title: sırasında
 slug: sirasinda
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gerektiğinde, zamanı gelince

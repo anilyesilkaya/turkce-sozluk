@@ -2,6 +2,7 @@
 layout: term
 title: sırat köprüsü
 slug: sirat-koprusu
+letter: S
 lisan: Türkçe
 anlamlar:
 - İslam inancına göre mahşer günü üstünden geçilecek olan köprü; sırat

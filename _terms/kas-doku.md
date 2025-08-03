@@ -2,6 +2,7 @@
 layout: term
 title: kas doku
 slug: kas-doku
+letter: K
 lisan: Türkçe
 anlamlar:
 - İstem dışı hareketleri yapan iç organlarda ve istemle hareket eden kaslarda bulunan hücreler topluluğu

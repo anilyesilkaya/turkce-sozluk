@@ -2,6 +2,7 @@
 layout: term
 title: jilet atmak
 slug: jilet-atmak
+letter: J
 lisan: Türkçe
 anlamlar:
 - jiletle saldırmak

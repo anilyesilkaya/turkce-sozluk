@@ -2,6 +2,7 @@
 layout: term
 title: gereksizce
 slug: gereksizce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gereksiz bir biçimde; lüzumsuzca

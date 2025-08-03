@@ -2,6 +2,7 @@
 layout: term
 title: bakışma
 slug: bakisma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakışmak işi

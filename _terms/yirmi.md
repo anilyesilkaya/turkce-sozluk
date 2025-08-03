@@ -2,6 +2,7 @@
 layout: term
 title: yirmi
 slug: yirmi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - On dokuzdan sonra gelen sayının adı

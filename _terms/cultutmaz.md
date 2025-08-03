@@ -2,6 +2,7 @@
 layout: term
 title: çultutmaz
 slug: cultutmaz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Cephe savaşlarında kullanılan bir tür top

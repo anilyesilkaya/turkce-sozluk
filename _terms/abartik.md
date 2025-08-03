@@ -2,6 +2,7 @@
 layout: term
 title: abartık
 slug: abartik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartılmış olan

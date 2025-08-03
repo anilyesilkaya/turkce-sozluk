@@ -2,6 +2,7 @@
 layout: term
 title: kösemen
 slug: kosemen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sürünün önünden giderek ona kılavuzluk eden koç veya teke; kösem

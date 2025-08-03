@@ -2,6 +2,7 @@
 layout: term
 title: daimî
 slug: daimi
+letter: D
 lisan: Arapça dāʾimī
 anlamlar:
 - ► sürekli

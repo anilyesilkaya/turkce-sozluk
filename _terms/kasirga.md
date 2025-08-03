@@ -2,6 +2,7 @@
 layout: term
 title: kasırga
 slug: kasirga
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rüzgâr çizelgesinde hızı 64 veya daha fazla deniz mili olan ve kuvveti 12 ile gösterilen şiddetli, yıkıcı  rüzgâr

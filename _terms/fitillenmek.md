@@ -2,6 +2,7 @@
 layout: term
 title: fitillenmek
 slug: fitillenmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fitil takılmak

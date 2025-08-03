@@ -2,6 +2,7 @@
 layout: term
 title: aydınlanmak
 slug: aydinlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlık olmak; ağarmak, ışımak

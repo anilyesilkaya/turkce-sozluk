@@ -2,6 +2,7 @@
 layout: term
 title: gıpta
 slug: gipta
+letter: G
 lisan: Arapça ġibṭa
 anlamlar:
 - ► imrenme

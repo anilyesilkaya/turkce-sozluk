@@ -2,6 +2,7 @@
 layout: term
 title: mandepsiye bastırmak (veya düşürmek)
 slug: mandepsiye-bastirmak-veya-dusurmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - aldatmak, tuzağa düşürmek

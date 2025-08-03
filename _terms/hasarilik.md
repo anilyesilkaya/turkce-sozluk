@@ -2,6 +2,7 @@
 layout: term
 title: haşarılık
 slug: hasarilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haşarı olma durumu

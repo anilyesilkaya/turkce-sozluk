@@ -2,6 +2,7 @@
 layout: term
 title: bez çözmek
 slug: bez-cozmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çözgü çözmek

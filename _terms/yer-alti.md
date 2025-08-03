@@ -2,6 +2,7 @@
 layout: term
 title: yer altı
 slug: yer-alti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerin yüzeyi altındaki bölümü

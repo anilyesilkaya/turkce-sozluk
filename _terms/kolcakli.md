@@ -2,6 +2,7 @@
 layout: term
 title: kolçaklı
 slug: kolcakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolçağı olan

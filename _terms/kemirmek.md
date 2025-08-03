@@ -2,6 +2,7 @@
 layout: term
 title: kemirmek
 slug: kemirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sert bir şeyi dişleriyle azar azar koparmak; yemek (II)

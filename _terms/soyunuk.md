@@ -2,6 +2,7 @@
 layout: term
 title: soyunuk
 slug: soyunuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyunmuş olan

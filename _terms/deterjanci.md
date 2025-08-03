@@ -2,6 +2,7 @@
 layout: term
 title: deterjancı
 slug: deterjanci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deterjan üreticisi

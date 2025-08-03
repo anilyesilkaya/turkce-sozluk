@@ -2,6 +2,7 @@
 layout: term
 title: sergüzeşt
 slug: serguzest
+letter: S
 lisan: Farsça ser + guẕeşt
 anlamlar:
 - ► macera

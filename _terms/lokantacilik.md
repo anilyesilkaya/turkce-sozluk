@@ -2,6 +2,7 @@
 layout: term
 title: lokantacılık
 slug: lokantacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lokantacının yaptığı iş

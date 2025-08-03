@@ -2,6 +2,7 @@
 layout: term
 title: iskemle
 slug: iskemle
+letter: I
 lisan: Rumca
 anlamlar:
 - Arkalıksız sandalye

@@ -2,6 +2,7 @@
 layout: term
 title: cahilcesine
 slug: cahilcesine
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► bilgisizce

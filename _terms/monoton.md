@@ -2,6 +2,7 @@
 layout: term
 title: monoton
 slug: monoton
+letter: M
 lisan: Fransızca monotone
 anlamlar:
 - ► tekdüze

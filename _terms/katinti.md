@@ -2,6 +2,7 @@
 layout: term
 title: katıntı
 slug: katinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirine katılmış karışık şeylerin her biri

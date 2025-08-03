@@ -2,6 +2,7 @@
 layout: term
 title: sağılmak
 slug: sagilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağma işine konu olmak

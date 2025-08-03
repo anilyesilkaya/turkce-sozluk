@@ -2,6 +2,7 @@
 layout: term
 title: yarak
 slug: yarak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► silah

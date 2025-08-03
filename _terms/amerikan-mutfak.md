@@ -2,6 +2,7 @@
 layout: term
 title: Amerikan mutfak
 slug: amerikan-mutfak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açık mutfak

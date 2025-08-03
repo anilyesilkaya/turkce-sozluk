@@ -2,6 +2,7 @@
 layout: term
 title: eşkıyaca
 slug: eskiyaca
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşkıyaya yakışır

@@ -2,6 +2,7 @@
 layout: term
 title: müsamahasız
 slug: musamahasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► hoşgörüsüz

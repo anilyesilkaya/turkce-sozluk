@@ -2,6 +2,7 @@
 layout: term
 title: lejant
 slug: lejant
+letter: L
 lisan: Fransızca légende
 anlamlar:
 - Bir fotoğrafın, haritanın, desenin veya karikatürün özünü anlatan yazı

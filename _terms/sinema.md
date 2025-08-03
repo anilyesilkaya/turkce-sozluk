@@ -2,6 +2,7 @@
 layout: term
 title: sinema
 slug: sinema
+letter: S
 lisan: Fransızca cinéma
 anlamlar:
 - Herhangi bir hareketi düzenli aralıklarla parçalara bölerek bunların resimlerini belirleme ve sonra bunları gösterici yardımıyla karanlık bir yerde, bir ekran veya perde üzerinde yansıtarak hareketi yeniden oluşturma işi

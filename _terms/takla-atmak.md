@@ -2,6 +2,7 @@
 layout: term
 title: takla atmak
 slug: takla-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - takla hareketini yapmak

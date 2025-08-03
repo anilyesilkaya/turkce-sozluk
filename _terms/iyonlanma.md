@@ -2,6 +2,7 @@
 layout: term
 title: iyonlanma
 slug: iyonlanma
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iyonlaşma

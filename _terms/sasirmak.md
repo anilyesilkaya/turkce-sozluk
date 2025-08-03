@@ -2,6 +2,7 @@
 layout: term
 title: şaşırmak
 slug: sasirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ne yapmak gerektiğini bilememek, nasıl davranacağını kestirememek, içinden çıkamamak; tanlamak

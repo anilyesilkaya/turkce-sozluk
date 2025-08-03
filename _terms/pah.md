@@ -2,6 +2,7 @@
 layout: term
 title: pah
 slug: pah
+letter: P
 lisan: Farsça pāḫ
 anlamlar:
 - Eğik olarak kesilmiş kenar

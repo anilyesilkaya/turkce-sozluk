@@ -2,6 +2,7 @@
 layout: term
 title: aşırıcı
 slug: asirici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beklenenin üstünde aşırı davranan

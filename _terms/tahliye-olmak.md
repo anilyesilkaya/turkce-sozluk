@@ -2,6 +2,7 @@
 layout: term
 title: tahliye olmak
 slug: tahliye-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - boşalmak

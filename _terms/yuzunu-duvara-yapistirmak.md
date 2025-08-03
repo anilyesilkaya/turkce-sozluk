@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü duvara yapıştırmak
 slug: yuzunu-duvara-yapistirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ilgiyi kesmek

@@ -2,6 +2,7 @@
 layout: term
 title: mürüvvetsizlik
 slug: muruvvetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► insaniyetsizlik

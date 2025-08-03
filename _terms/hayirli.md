@@ -2,6 +2,7 @@
 layout: term
 title: hayırlı
 slug: hayirli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yararı, hayrı olan

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne oturmak
 slug: ustune-oturmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - hakkı yokken bir şeyi kendisine mal etmek

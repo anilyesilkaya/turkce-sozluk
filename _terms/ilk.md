@@ -2,6 +2,7 @@
 layout: term
 title: ilk
 slug: ilk
+letter: I
 lisan: Türkçe
 anlamlar:
 - Zaman, sıra, yer ve önem bakımından ötekilerden önce gelen; öncel, son karşıtı

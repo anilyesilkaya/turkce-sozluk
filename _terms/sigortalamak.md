@@ -2,6 +2,7 @@
 layout: term
 title: sigortalamak
 slug: sigortalamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sigorta yapmak

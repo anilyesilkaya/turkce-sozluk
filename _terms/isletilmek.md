@@ -2,6 +2,7 @@
 layout: term
 title: işletilmek
 slug: isletilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşletme işi yapılmak

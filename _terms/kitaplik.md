@@ -2,6 +2,7 @@
 layout: term
 title: kitaplık
 slug: kitaplik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitapların yerleştirildiği raflardan oluşan mobilya; kütüphane

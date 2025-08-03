@@ -2,6 +2,7 @@
 layout: term
 title: tek durmak
 slug: tek-durmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - uslu durmak, yaramazlık etmemek, sessiz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: kelepçe
 slug: kelepce
+letter: K
 lisan: Farsça kelebçe
 anlamlar:
 - Tutukluların kaçmasını önlemek için bileklerine takılan demir halka; bilezik

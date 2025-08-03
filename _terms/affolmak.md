@@ -2,6 +2,7 @@
 layout: term
 title: affolmak
 slug: affolmak
+letter: A
 lisan: Arapça ʿafv + Türkçe olmak
 anlamlar:
 - ► bağışlanmak

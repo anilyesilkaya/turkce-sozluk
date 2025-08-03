@@ -2,6 +2,7 @@
 layout: term
 title: acayipleştirmek
 slug: acayiplestirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yadırganacak bir duruma getirmek

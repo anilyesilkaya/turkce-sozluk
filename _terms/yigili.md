@@ -2,6 +2,7 @@
 layout: term
 title: yığılı
 slug: yigili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yığılmış olan

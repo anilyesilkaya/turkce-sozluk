@@ -2,6 +2,7 @@
 layout: term
 title: kılcallık
 slug: kilcallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılcal olma durumu

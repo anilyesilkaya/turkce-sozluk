@@ -2,6 +2,7 @@
 layout: term
 title: tartışmaya girmek
 slug: tartismaya-girmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - münakaşa etmeye başlamak

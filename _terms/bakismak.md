@@ -2,6 +2,7 @@
 layout: term
 title: bakışmak
 slug: bakismak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok kimse karşılıklı birbirine bakmak

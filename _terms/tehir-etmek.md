@@ -2,6 +2,7 @@
 layout: term
 title: tehir etmek
 slug: tehir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ertelemek

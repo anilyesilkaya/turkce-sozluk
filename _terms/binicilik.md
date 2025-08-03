@@ -2,6 +2,7 @@
 layout: term
 title: binicilik
 slug: binicilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binici olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: nizamlı
 slug: nizamli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Düzenli, tertipli olan

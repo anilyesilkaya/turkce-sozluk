@@ -2,6 +2,7 @@
 layout: term
 title: balyozlatmak
 slug: balyozlatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balyozlama işini yaptırmak

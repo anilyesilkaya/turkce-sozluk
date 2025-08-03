@@ -2,6 +2,7 @@
 layout: term
 title: ünsiyet etmek (veya peyda etmek)
 slug: unsiyet-etmek-veya-peyda-etmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - yakınlık kurmak

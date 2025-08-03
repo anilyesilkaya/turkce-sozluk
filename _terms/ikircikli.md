@@ -2,6 +2,7 @@
 layout: term
 title: ikircikli
 slug: ikircikli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kuşkucu

@@ -2,6 +2,7 @@
 layout: term
 title: kırık dökük
 slug: kirik-dokuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Eski, sağlam olmayan, çürük, değersiz olan (eşya)

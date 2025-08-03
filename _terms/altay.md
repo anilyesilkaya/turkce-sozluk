@@ -2,6 +2,7 @@
 layout: term
 title: Altay
 slug: altay
+letter: A
 lisan: Türkçe
 anlamlar:
 - Rusya Federasyonu'na bağlı Altay Özerk Cumhuriyeti'nde yaşayan Türk halkı ve bu halkın soyundan olan kimse

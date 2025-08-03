@@ -2,6 +2,7 @@
 layout: term
 title: gömme banyo
 slug: gomme-banyo
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çini vb. bir madde ile kaplanıp gömülü olarak yerleştirilmiş olan banyo teknesi

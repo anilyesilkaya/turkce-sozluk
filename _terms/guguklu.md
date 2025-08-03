@@ -2,6 +2,7 @@
 layout: term
 title: guguklu
 slug: guguklu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► guguklu saat

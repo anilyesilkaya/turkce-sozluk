@@ -2,6 +2,7 @@
 layout: term
 title: çokları
 slug: coklari
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► birçoğu

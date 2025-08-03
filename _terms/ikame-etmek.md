@@ -2,6 +2,7 @@
 layout: term
 title: ikame etmek
 slug: ikame-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yerine koymak

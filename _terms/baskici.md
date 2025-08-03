@@ -2,6 +2,7 @@
 layout: term
 title: baskıcı
 slug: baskici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kumaş üzerine resim veya desen basan kimse

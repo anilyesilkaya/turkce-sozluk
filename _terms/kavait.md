@@ -2,6 +2,7 @@
 layout: term
 title: kavait
 slug: kavait
+letter: K
 lisan: Arapça ḳavāʿid
 anlamlar:
 - Kurallar

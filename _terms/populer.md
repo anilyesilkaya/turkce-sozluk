@@ -2,6 +2,7 @@
 layout: term
 title: popüler
 slug: populer
+letter: P
 lisan: Fransızca populaire
 anlamlar:
 - Halkın arasında yaşayan motiflere, ögelere yer veren, onlardan yararlanan, halkın zevkine uygun, halk tarafından tutulan

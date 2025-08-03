@@ -2,6 +2,7 @@
 layout: term
 title: eflatuni
 slug: eflatuni
+letter: E
 lisan: Arapça eflāṭūnī
 anlamlar:
 - ► eflatun

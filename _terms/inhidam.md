@@ -2,6 +2,7 @@
 layout: term
 title: inhidam
 slug: inhidam
+letter: I
 lisan: Arapça inhidām
 anlamlar:
 - ► yıkılma

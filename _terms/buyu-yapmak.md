@@ -2,6 +2,7 @@
 layout: term
 title: büyü yapmak
 slug: buyu-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - büyü yolu ile etki altına almaya çalışmak

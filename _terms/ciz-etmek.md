@@ -2,6 +2,7 @@
 layout: term
 title: cız etmek
 slug: ciz-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"cız" diye ses çıkarmak'

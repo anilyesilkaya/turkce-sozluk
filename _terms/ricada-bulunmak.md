@@ -2,6 +2,7 @@
 layout: term
 title: ricada bulunmak
 slug: ricada-bulunmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rica etmek

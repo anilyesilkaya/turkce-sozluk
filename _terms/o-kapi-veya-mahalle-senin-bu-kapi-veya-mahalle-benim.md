@@ -2,6 +2,7 @@
 layout: term
 title: o kapı (veya mahalle) senin bu kapı (veya mahalle) benim
 slug: o-kapi-veya-mahalle-senin-bu-kapi-veya-mahalle-benim
+letter: O
 lisan: Türkçe
 anlamlar:
 - sürekli gezip dolaşmayı anlatan bir söz

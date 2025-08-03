@@ -2,6 +2,7 @@
 layout: term
 title: dolam
 slug: dolam
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolama işinin her defası

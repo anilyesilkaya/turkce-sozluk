@@ -2,6 +2,7 @@
 layout: term
 title: zorlukla
 slug: zorlukla
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► güçlükle

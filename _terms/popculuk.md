@@ -2,6 +2,7 @@
 layout: term
 title: popçuluk
 slug: popculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Popçunun işi

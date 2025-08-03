@@ -2,6 +2,7 @@
 layout: term
 title: civanmert
 slug: civanmert
+letter: C
 lisan: Farsça cevānmerd
 anlamlar:
 - Mert yaradılışlı, yüce gönüllü, yiğit olan (kimse)

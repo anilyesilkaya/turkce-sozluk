@@ -2,6 +2,7 @@
 layout: term
 title: döşemesiz
 slug: dosemesiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşemesi olmayan

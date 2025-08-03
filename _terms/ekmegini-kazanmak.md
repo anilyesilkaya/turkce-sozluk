@@ -2,6 +2,7 @@
 layout: term
 title: ekmeğini kazanmak
 slug: ekmegini-kazanmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - geçimini sağlamak

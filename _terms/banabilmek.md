@@ -2,6 +2,7 @@
 layout: term
 title: banabilmek
 slug: banabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banma ihtimali veya imkânı bulunmak

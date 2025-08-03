@@ -2,6 +2,7 @@
 layout: term
 title: gebermek
 slug: gebermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sevilmeyen bir kişi ölmek

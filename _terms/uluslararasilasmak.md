@@ -2,6 +2,7 @@
 layout: term
 title: uluslararasılaşmak
 slug: uluslararasilasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uluslararası duruma gelmek; milletlerarasılaşmak

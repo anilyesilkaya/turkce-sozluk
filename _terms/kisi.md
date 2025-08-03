@@ -2,6 +2,7 @@
 layout: term
 title: kişi
 slug: kisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadın veya erkeğe verilen genel ad; can, şahıs, şahsiyet, zat, nefer, nüfus

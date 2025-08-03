@@ -2,6 +2,7 @@
 layout: term
 title: cehenneme çevirmek
 slug: cehenneme-cevirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - yaşanılmaz bir duruma getirmek

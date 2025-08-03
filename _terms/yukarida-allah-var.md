@@ -2,6 +2,7 @@
 layout: term
 title: yukarıda Allah var
 slug: yukarida-allah-var
+letter: Y
 lisan: Türkçe
 anlamlar:
 - “Allah’tan korkarak haklı olduğunu kabul ederim, haksız değilsin” anlamında bir söz

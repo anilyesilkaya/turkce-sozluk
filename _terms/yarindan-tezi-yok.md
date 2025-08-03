@@ -2,6 +2,7 @@
 layout: term
 title: yarından tezi yok
 slug: yarindan-tezi-yok
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gecikmeksizin, hemen

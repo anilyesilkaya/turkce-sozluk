@@ -2,6 +2,7 @@
 layout: term
 title: çok düzlemli
 slug: cok-duzlemli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birden fazla yüzeyi, yönü olan

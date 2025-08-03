@@ -2,6 +2,7 @@
 layout: term
 title: kısılmak
 slug: kisilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hacmi, niceliği azalmak

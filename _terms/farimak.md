@@ -2,6 +2,7 @@
 layout: term
 title: farımak
 slug: farimak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Güçsüz düşmek, yorulmak

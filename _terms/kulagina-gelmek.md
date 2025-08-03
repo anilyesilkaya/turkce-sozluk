@@ -2,6 +2,7 @@
 layout: term
 title: kulağına gelmek
 slug: kulagina-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kulağına çalınmak

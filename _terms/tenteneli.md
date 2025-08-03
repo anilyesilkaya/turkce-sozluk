@@ -2,6 +2,7 @@
 layout: term
 title: tenteneli
 slug: tenteneli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dantelli

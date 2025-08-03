@@ -2,6 +2,7 @@
 layout: term
 title: kaçıntı
 slug: kacinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Erken doğan kuzu

@@ -2,6 +2,7 @@
 layout: term
 title: içi yanmak
 slug: ici-yanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok susamak

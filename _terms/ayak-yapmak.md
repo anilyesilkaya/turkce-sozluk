@@ -2,6 +2,7 @@
 layout: term
 title: ayak yapmak
 slug: ayak-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birini aldatmak, kandırmak için dalavere çevirmek

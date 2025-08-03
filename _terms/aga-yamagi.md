@@ -2,6 +2,7 @@
 layout: term
 title: ağa yamağı
 slug: aga-yamagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yeniçeri ağasına bağlı emir çavuşu

@@ -2,6 +2,7 @@
 layout: term
 title: devşirme
 slug: devsirme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devşirmek işi

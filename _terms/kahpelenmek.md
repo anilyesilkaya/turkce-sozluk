@@ -2,6 +2,7 @@
 layout: term
 title: kahpelenmek
 slug: kahpelenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahpelik etmek, kahpece davranmak

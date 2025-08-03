@@ -2,6 +2,7 @@
 layout: term
 title: kalkınma
 slug: kalkinma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalkınmak işi

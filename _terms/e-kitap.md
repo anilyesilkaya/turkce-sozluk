@@ -2,6 +2,7 @@
 layout: term
 title: e-kitap
 slug: e-kitap
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► elektronik kitap

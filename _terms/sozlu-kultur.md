@@ -2,6 +2,7 @@
 layout: term
 title: sözlü kültür
 slug: sozlu-kultur
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözlü olarak aktarılan kültür ögelerinin tamamı

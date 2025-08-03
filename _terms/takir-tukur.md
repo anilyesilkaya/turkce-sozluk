@@ -2,6 +2,7 @@
 layout: term
 title: takır tukur
 slug: takir-tukur
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► takır takır

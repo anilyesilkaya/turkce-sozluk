@@ -2,6 +2,7 @@
 layout: term
 title: şartlanmak
 slug: sartlanmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Önceden belirlenmiş şartlara göre uyarlanmak; koşullanmak

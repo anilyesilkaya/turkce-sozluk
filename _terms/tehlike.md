@@ -2,6 +2,7 @@
 layout: term
 title: tehlike
 slug: tehlike
+letter: T
 lisan: Arapça tehluke
 anlamlar:
 - Büyük zarar veya yok olmaya yol açabilecek durum; muhatara

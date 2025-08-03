@@ -2,6 +2,7 @@
 layout: term
 title: moka
 slug: moka
+letter: M
 lisan: (Moka yer adından)
 anlamlar:
 - Çok kokulu bir tür kahve

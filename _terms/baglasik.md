@@ -2,6 +2,7 @@
 layout: term
 title: bağlaşık
 slug: baglasik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aralarında anlaşma veya sözleşme sağlanmış olan (kimse veya topluluk); müttefik

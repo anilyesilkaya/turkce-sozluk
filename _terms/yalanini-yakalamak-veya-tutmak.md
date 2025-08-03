@@ -2,6 +2,7 @@
 layout: term
 title: yalanını yakalamak (veya tutmak)
 slug: yalanini-yakalamak-veya-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir kimsenin yalan söylediğini anlamak

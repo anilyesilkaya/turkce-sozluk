@@ -2,6 +2,7 @@
 layout: term
 title: banka promosyonu
 slug: banka-promosyonu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bankaların çalıştıkları kurumlarla yaptığı maaş anlaşmaları karşılığında kurumların personeline ödediği para

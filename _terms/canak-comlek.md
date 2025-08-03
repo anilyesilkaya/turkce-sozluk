@@ -2,6 +2,7 @@
 layout: term
 title: çanak çömlek
 slug: canak-comlek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Topraktan yapılmış türlü kaplar

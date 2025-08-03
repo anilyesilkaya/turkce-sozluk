@@ -2,6 +2,7 @@
 layout: term
 title: amcalık
 slug: amcalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amca olma durumu; emmilik

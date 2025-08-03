@@ -2,6 +2,7 @@
 layout: term
 title: yalan yanlış
 slug: yalan-yanlis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerçek olmayan, yanlış şeylerle dolu; ters pers

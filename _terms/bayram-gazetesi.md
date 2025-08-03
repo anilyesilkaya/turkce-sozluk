@@ -2,6 +2,7 @@
 layout: term
 title: bayram gazetesi
 slug: bayram-gazetesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dinî bayram günlerinde Gazeteciler Cemiyeti tarafından yayımlanan özel gazete

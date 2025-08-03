@@ -2,6 +2,7 @@
 layout: term
 title: suç
 slug: suc
+letter: S
 lisan: Türkçe
 anlamlar:
 - Törelere, ahlak kurallarına aykırı davranış

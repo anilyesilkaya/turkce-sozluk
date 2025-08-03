@@ -2,6 +2,7 @@
 layout: term
 title: likorinoz
 slug: likorinoz
+letter: L
 lisan: Rumca
 anlamlar:
 - Bazı balıkların iste kurutularak yapılan pastırması

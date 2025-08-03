@@ -2,6 +2,7 @@
 layout: term
 title: yok pahasına
 slug: yok-pahasina
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Değerinden çok ucuza; ölü fiyatına

@@ -2,6 +2,7 @@
 layout: term
 title: rugan
 slug: rugan
+letter: R
 lisan: Farsça revġan
 anlamlar:
 - Ayakkabı, çanta vb. yapımında kullanılan parlak deri

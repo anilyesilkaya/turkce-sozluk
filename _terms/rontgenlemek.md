@@ -2,6 +2,7 @@
 layout: term
 title: röntgenlemek
 slug: rontgenlemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Kadınları gizlice gözetlemek

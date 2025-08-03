@@ -2,6 +2,7 @@
 layout: term
 title: papatyalı
 slug: papatyali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Papatyası olan

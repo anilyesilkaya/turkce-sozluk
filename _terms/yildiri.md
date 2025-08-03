@@ -2,6 +2,7 @@
 layout: term
 title: yıldırı
 slug: yildiri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► terör

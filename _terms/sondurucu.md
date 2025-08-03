@@ -2,6 +2,7 @@
 layout: term
 title: söndürücü
 slug: sondurucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yangın söndürücü

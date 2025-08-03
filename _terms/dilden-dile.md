@@ -2,6 +2,7 @@
 layout: term
 title: dilden dile
 slug: dilden-dile
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sözlü bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: koyu
 slug: koyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yoğunluğundan dolayı güç akan, sulu karşıtı

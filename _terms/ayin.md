@@ -2,6 +2,7 @@
 layout: term
 title: ayin
 slug: ayin
+letter: A
 lisan: Farsça āyīn
 anlamlar:
 - Bir mezhebin veya bir tarikatın kendine özgü ibadet töreni

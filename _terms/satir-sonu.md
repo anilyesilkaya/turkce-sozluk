@@ -2,6 +2,7 @@
 layout: term
 title: satır sonu
 slug: satir-sonu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir yazıda her satırın son kelimesinin bittiği yer

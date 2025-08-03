@@ -2,6 +2,7 @@
 layout: term
 title: ebe
 slug: ebe
+letter: E
 lisan: Türkçe
 anlamlar:
 - Doğum işini yaptıran kadın; lavta (II)

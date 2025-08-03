@@ -2,6 +2,7 @@
 layout: term
 title: rıhtım boyu
 slug: rihtim-boyu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Limana aynı anda yanaşacak gemi sayısına göre gemi boylarına bir emniyet mesafesinin eklenmesiyle oluşturulan mesafe

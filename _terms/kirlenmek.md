@@ -2,6 +2,7 @@
 layout: term
 title: kirlenmek
 slug: kirlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirli duruma gelmek; batmak

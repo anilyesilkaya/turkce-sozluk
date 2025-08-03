@@ -2,6 +2,7 @@
 layout: term
 title: kurmay
 slug: kurmay
+letter: K
 lisan: Türkçe
 anlamlar:
 - Harp akademilerine girerek eğitimlerini başarıyla bitirmiş subay; erkânıharp

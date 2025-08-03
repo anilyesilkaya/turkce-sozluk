@@ -2,6 +2,7 @@
 layout: term
 title: uzay taşı
 slug: uzay-tasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► gök taşı

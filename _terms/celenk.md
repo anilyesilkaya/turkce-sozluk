@@ -2,6 +2,7 @@
 layout: term
 title: çelenk
 slug: celenk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek, dal ve yapraklarla yapılmış halka

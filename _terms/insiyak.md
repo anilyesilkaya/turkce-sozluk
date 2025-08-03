@@ -2,6 +2,7 @@
 layout: term
 title: insiyak
 slug: insiyak
+letter: I
 lisan: Arapça insiyāḳ
 anlamlar:
 - ► içgüdü

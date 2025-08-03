@@ -2,6 +2,7 @@
 layout: term
 title: kökünden halletmek
 slug: kokunden-halletmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuyu veya sorunu temelden çözümlemek

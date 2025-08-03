@@ -2,6 +2,7 @@
 layout: term
 title: geçiş
 slug: gecis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçmek işi

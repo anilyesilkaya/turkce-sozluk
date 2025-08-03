@@ -2,6 +2,7 @@
 layout: term
 title: afiyetle
 slug: afiyetle
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağız tadıyla, keyifli bir biçimde

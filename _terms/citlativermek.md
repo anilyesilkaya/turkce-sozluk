@@ -2,6 +2,7 @@
 layout: term
 title: çıtlatıvermek
 slug: citlativermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çıtlatmak

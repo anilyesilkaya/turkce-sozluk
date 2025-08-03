@@ -2,6 +2,7 @@
 layout: term
 title: titreyebilme
 slug: titreyebilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titreyebilmek işi

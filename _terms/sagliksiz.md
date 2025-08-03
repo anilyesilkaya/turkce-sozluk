@@ -2,6 +2,7 @@
 layout: term
 title: sağlıksız
 slug: sagliksiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlık durumu iyi olmayan, sağlığı bozuk; sıhhatsiz

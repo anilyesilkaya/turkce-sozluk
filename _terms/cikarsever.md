@@ -2,6 +2,7 @@
 layout: term
 title: çıkarsever
 slug: cikarsever
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çıkarcı

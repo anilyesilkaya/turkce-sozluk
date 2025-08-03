@@ -2,6 +2,7 @@
 layout: term
 title: başaktör
 slug: basaktor
+letter: B
 lisan: Türkçe baş + Fransızca acteur
 anlamlar:
 - ► başoyuncu (erkek)

@@ -2,6 +2,7 @@
 layout: term
 title: çağlayış
 slug: caglayis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: karım köylü
 slug: karim-koylu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karısı köylü

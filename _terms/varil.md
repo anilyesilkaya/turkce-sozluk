@@ -2,6 +2,7 @@
 layout: term
 title: varil
 slug: varil
+letter: V
 lisan: Fransızca baril
 anlamlar:
 - Çoğunlukla sıvı maddeleri koymak için kullanılan, metalden yapılmış, silindir biçiminde, üstü kapalı kap

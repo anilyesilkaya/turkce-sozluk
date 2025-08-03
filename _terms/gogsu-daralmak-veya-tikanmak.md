@@ -2,6 +2,7 @@
 layout: term
 title: göğsü daralmak (veya tıkanmak)
 slug: gogsu-daralmak-veya-tikanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güçlükle nefes almak

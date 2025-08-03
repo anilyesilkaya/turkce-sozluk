@@ -2,6 +2,7 @@
 layout: term
 title: çileden çıkmak
 slug: cileden-cikmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - olup bitenler karşısında sabrı ve dayanıklılığı kalmayıp taşkınlık göstermek

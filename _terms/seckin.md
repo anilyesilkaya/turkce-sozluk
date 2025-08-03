@@ -2,6 +2,7 @@
 layout: term
 title: seçkin
 slug: seckin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Benzerleri arasında niteliklerinin yüksekliğiyle göze çarpan; değme (II), mümtaz, güzide, mutena

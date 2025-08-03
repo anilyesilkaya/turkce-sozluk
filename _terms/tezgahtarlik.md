@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhtarlık
 slug: tezgahtarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tezgâhtar olma durumu, tezgâhtarın işi

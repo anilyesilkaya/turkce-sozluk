@@ -2,6 +2,7 @@
 layout: term
 title: barbunyagiller
 slug: barbunyagiller
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dikenli yüzgeçliler alt takımına giren, vücutları iri pullarla kaplı, barbunya ve tekir türleri iyi bilinen bir familya

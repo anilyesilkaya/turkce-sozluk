@@ -2,6 +2,7 @@
 layout: term
 title: bilgi edinmek
 slug: bilgi-edinmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir durumu öğrenmek, bilgi almak

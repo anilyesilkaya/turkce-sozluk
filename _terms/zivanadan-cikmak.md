@@ -2,6 +2,7 @@
 layout: term
 title: zıvanadan çıkmak
 slug: zivanadan-cikmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, öfkelenmek

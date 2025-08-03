@@ -2,6 +2,7 @@
 layout: term
 title: yerli yerine oturmak
 slug: yerli-yerine-oturmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uygun düşmek

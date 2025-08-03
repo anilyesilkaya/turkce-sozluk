@@ -2,6 +2,7 @@
 layout: term
 title: alımlı
 slug: alimli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çekici

@@ -2,6 +2,7 @@
 layout: term
 title: güneybatı
 slug: guneybati
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneyle batı arasındaki yön

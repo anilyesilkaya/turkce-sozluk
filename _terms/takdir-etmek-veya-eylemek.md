@@ -2,6 +2,7 @@
 layout: term
 title: takdir etmek (veya eylemek)
 slug: takdir-etmek-veya-eylemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - beğenmek

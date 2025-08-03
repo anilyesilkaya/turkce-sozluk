@@ -2,6 +2,7 @@
 layout: term
 title: tartışma
 slug: tartisma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir konuyla ilgili karşıt düşünceleri karşılıklı savunma

@@ -2,6 +2,7 @@
 layout: term
 title: küçük düşmek
 slug: kucuk-dusmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değeri veya onuru sarsılmak

@@ -2,6 +2,7 @@
 layout: term
 title: agâhlık
 slug: agahlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Agâh olma durumu

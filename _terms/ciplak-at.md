@@ -2,6 +2,7 @@
 layout: term
 title: çıplak at
 slug: ciplak-at
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Koşumları ve gemi takılmamış, eyerlenmemiş at

@@ -2,6 +2,7 @@
 layout: term
 title: nur
 slug: nur
+letter: N
 lisan: Arapça nūr
 anlamlar:
 - ► ışık

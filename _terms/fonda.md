@@ -2,6 +2,7 @@
 layout: term
 title: fonda
 slug: fonda
+letter: F
 lisan: İtalyanca fondo
 anlamlar:
 - Geminin demir attığı yer

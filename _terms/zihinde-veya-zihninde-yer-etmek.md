@@ -2,6 +2,7 @@
 layout: term
 title: zihinde (veya zihninde) yer etmek
 slug: zihinde-veya-zihninde-yer-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çıkmamak üzere belleğe yerleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: mühtedi
 slug: muhtedi
+letter: M
 lisan: Arapça muhtedī
 anlamlar:
 - ► dönme

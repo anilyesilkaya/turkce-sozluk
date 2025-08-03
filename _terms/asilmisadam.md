@@ -2,6 +2,7 @@
 layout: term
 title: asılmışadam
 slug: asilmisadam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Salepgillerden, çiçekleri asılmış bir insana benzeyen ve köklerinden salep çıkarılan bir bitki (Loraglosum)

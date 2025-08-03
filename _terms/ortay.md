@@ -2,6 +2,7 @@
 layout: term
 title: ortay
 slug: ortay
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir düzlem şeklin aynı yöndeki paralel bütün kirişlerini eşit parçalara bölen (çizgi)

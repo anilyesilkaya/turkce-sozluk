@@ -2,6 +2,7 @@
 layout: term
 title: istifçi
 slug: istifci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Malları, eşyayı istif eden görevli

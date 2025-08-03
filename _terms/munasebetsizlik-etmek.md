@@ -2,6 +2,7 @@
 layout: term
 title: münasebetsizlik etmek
 slug: munasebetsizlik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - münasebetsizce davranmak

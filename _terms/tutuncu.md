@@ -2,6 +2,7 @@
 layout: term
 title: tütüncü
 slug: tutuncu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütün yetiştiren veya satan kimse

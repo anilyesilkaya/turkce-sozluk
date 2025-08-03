@@ -2,6 +2,7 @@
 layout: term
 title: zafer takı
 slug: zafer-taki
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Avrupa’da kahraman hükümdarların veya büyük zaferlerin anısına yapılmış, altından geçilebilen, görkemli, bir veya birkaç kemerden oluşan yapı; takızafer

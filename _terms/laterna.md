@@ -2,6 +2,7 @@
 layout: term
 title: laterna
 slug: laterna
+letter: L
 lisan: İtalyanca lanterna
 anlamlar:
 - Kolu çevrilerek çalınan, sandık biçiminde bir org türü

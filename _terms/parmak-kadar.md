@@ -2,6 +2,7 @@
 layout: term
 title: parmak kadar
 slug: parmak-kadar
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok küçük

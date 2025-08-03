@@ -2,6 +2,7 @@
 layout: term
 title: anakronik
 slug: anakronik
+letter: A
 lisan: Fransızca anachronique
 anlamlar:
 - Çağı geçmiş, çağa uymaz, eskimiş

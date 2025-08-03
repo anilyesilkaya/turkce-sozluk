@@ -2,6 +2,7 @@
 layout: term
 title: Baskça
 slug: baskca
+letter: B
 lisan: Türkçe
 anlamlar:
 - İspanya'nın Bask bölgesinde kullanılan dil

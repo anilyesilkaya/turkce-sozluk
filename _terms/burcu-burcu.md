@@ -2,6 +2,7 @@
 layout: term
 title: burcu burcu
 slug: burcu-burcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Koku etkili bir biçimde yayılarak

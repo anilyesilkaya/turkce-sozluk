@@ -2,6 +2,7 @@
 layout: term
 title: lehimli
 slug: lehimli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lehimle tutturulmuş

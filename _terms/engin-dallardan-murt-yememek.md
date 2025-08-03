@@ -2,6 +2,7 @@
 layout: term
 title: engin dallardan murt yememek
 slug: engin-dallardan-murt-yememek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yükseklerden uçmak, burnu büyük olmak

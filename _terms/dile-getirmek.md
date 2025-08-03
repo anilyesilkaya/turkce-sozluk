@@ -2,6 +2,7 @@
 layout: term
 title: dile getirmek
 slug: dile-getirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - konuşturmak

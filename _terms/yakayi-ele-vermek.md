@@ -2,6 +2,7 @@
 layout: term
 title: yakayı ele vermek
 slug: yakayi-ele-vermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kaçamayarak ele geçmek, yakalanmak

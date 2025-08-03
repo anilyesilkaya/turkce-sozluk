@@ -2,6 +2,7 @@
 layout: term
 title: Kuzey
 slug: kuzey
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ekvator’un kuzey tarafında bulunan ülkeler veya uygarlıklar bölgesi

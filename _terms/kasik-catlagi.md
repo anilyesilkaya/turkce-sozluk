@@ -2,6 +2,7 @@
 layout: term
 title: kasık çatlağı
 slug: kasik-catlagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kasık fıtığı

@@ -2,6 +2,7 @@
 layout: term
 title: Azerice
 slug: azerice
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Azerbaycan Türkçesi

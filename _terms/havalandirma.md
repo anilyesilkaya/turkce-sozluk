@@ -2,6 +2,7 @@
 layout: term
 title: havalandırma
 slug: havalandirma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kapalı bir yerin havasını değiştirmek amacıyla dışarıdan temiz hava girişini veya çeşitli araçlarla hava akımını sağlama işlemi

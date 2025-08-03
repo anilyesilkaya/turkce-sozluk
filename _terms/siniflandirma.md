@@ -2,6 +2,7 @@
 layout: term
 title: sınıflandırma
 slug: siniflandirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bölümlendirme

@@ -2,6 +2,7 @@
 layout: term
 title: moderatör
 slug: moderator
+letter: M
 lisan: İngilizce moderator
 anlamlar:
 - ► yönlendirici

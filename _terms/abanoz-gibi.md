@@ -2,6 +2,7 @@
 layout: term
 title: abanoz gibi
 slug: abanoz-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok sert

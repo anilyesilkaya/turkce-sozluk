@@ -2,6 +2,7 @@
 layout: term
 title: sefir
 slug: sefir
+letter: S
 lisan: Arapça sefīr
 anlamlar:
 - ► elçi

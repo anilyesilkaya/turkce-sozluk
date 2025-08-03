@@ -2,6 +2,7 @@
 layout: term
 title: banliyö
 slug: banliyo
+letter: B
 lisan: Fransızca banlieue
 anlamlar:
 - Genellikle oturma alanı niteliğinde olan, şehir merkezinden uzakta veya sınırlarına yakın yerlerde bulunan şehir yöresi; yörekent

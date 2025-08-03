@@ -2,6 +2,7 @@
 layout: term
 title: tapınmak
 slug: tapinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapma işi yapılmak

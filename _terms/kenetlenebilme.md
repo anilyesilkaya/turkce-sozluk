@@ -2,6 +2,7 @@
 layout: term
 title: kenetlenebilme
 slug: kenetlenebilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kenetlenebilmek işi

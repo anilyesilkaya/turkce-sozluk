@@ -2,6 +2,7 @@
 layout: term
 title: gır gır
 slug: gir-gir
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► alay (II)

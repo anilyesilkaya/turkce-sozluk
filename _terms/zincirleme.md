@@ -2,6 +2,7 @@
 layout: term
 title: zincirleme
 slug: zincirleme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zincirlemek işi

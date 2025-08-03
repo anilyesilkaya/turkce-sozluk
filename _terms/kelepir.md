@@ -2,6 +2,7 @@
 layout: term
 title: kelepir
 slug: kelepir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Değerinden çok aşağı bir fiyatla alınan veya alınabilecek olan şey; okazyon

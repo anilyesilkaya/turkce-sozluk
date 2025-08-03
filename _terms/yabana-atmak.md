@@ -2,6 +2,7 @@
 layout: term
 title: yabana atmak
 slug: yabana-atmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - önem vermemek, önemsiz görmek

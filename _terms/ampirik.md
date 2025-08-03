@@ -2,6 +2,7 @@
 layout: term
 title: ampirik
 slug: ampirik
+letter: A
 lisan: Fransızca empirique
 anlamlar:
 - ► görgül

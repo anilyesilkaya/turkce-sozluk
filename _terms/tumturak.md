@@ -2,6 +2,7 @@
 layout: term
 title: tumturak
 slug: tumturak
+letter: T
 lisan: Farsça ṭumṭurāḳ
 anlamlar:
 - ► gösteriş

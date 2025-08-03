@@ -2,6 +2,7 @@
 layout: term
 title: kazık atmak
 slug: kazik-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - aldatmak, kazıklamak

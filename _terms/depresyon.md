@@ -2,6 +2,7 @@
 layout: term
 title: depresyon
 slug: depresyon
+letter: D
 lisan: Fransızca dépression
 anlamlar:
 - ► bunalım

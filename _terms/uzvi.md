@@ -2,6 +2,7 @@
 layout: term
 title: uzvi
 slug: uzvi
+letter: U
 lisan: Arapça ʿużvī
 anlamlar:
 - Organla ilgili

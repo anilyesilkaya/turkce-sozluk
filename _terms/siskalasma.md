@@ -2,6 +2,7 @@
 layout: term
 title: sıskalaşma
 slug: siskalasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıskalaşmak işi

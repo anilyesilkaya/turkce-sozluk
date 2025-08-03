@@ -2,6 +2,7 @@
 layout: term
 title: ışık tutmak
 slug: isik-tutmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir yeri ışıkla aydınlatmak

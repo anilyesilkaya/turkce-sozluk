@@ -2,6 +2,7 @@
 layout: term
 title: sezinleme
 slug: sezinleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezinlemek işi

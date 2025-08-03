@@ -2,6 +2,7 @@
 layout: term
 title: ufunetlendirme
 slug: ufunetlendirme
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufunetlendirmek işi

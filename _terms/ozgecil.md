@@ -2,6 +2,7 @@
 layout: term
 title: özgecil
 slug: ozgecil
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özgeci

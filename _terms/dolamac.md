@@ -2,6 +2,7 @@
 layout: term
 title: dolamaç
 slug: dolamac
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolambaçlı yol

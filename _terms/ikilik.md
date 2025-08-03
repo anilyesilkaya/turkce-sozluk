@@ -2,6 +2,7 @@
 layout: term
 title: ikilik
 slug: ikilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki değişik kullanımı veya uygulaması olma durumu

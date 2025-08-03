@@ -2,6 +2,7 @@
 layout: term
 title: alt anlamlılık
 slug: alt-anlamlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alt anlamlı olma durumu; örtük anlamlılık, örtülü anlamlılık

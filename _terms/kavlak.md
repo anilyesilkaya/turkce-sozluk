@@ -2,6 +2,7 @@
 layout: term
 title: kavlak
 slug: kavlak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabuğu dökülmüş

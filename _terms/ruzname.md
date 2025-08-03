@@ -2,6 +2,7 @@
 layout: term
 title: ruzname
 slug: ruzname
+letter: R
 lisan: Farsça rūz + nāme
 anlamlar:
 - Günlük olayların yazıldığı defter

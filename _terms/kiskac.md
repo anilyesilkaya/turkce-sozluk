@@ -2,6 +2,7 @@
 layout: term
 title: kıskaç
 slug: kiskac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyi tutup sıkıştırmaya yarayan kerpeten, pense vb. araç

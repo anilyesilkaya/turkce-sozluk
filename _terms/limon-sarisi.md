@@ -2,6 +2,7 @@
 layout: term
 title: limon sarısı
 slug: limon-sarisi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limon kabuğunun rengi

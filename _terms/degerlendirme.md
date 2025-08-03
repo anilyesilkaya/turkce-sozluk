@@ -2,6 +2,7 @@
 layout: term
 title: değerlendirme
 slug: degerlendirme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değerlendirmek işi; kıymetlendirme

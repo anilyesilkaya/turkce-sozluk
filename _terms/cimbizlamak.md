@@ -2,6 +2,7 @@
 layout: term
 title: cımbızlamak
 slug: cimbizlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cımbızla yolmak

@@ -2,6 +2,7 @@
 layout: term
 title: başakçık
 slug: basakcik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çiçeklerde başağı oluşturan çiçek demeti veya topluluğu

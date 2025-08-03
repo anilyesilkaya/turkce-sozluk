@@ -2,6 +2,7 @@
 layout: term
 title: çekel
 slug: cekel
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Küçük çapa

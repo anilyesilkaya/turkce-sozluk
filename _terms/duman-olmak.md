@@ -2,6 +2,7 @@
 layout: term
 title: duman olmak
 slug: duman-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - işi, durumu berbat olmak

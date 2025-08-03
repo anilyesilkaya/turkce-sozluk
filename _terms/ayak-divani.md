@@ -2,6 +2,7 @@
 layout: term
 title: ayak divanı
 slug: ayak-divani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olağanüstü durumlarda o anda bulunulan yerde padişahın katılmasıyla bir konuyu görüşmek ve karara bağlamak için yapılan toplantı, ayakta toplanan meclis

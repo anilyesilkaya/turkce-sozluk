@@ -2,6 +2,7 @@
 layout: term
 title: boşaltma
 slug: bosaltma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşaltmak işi; tahliye

@@ -2,6 +2,7 @@
 layout: term
 title: yad erklik
 slug: yad-erklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dışarıdan gelen yasa veya buyruğa göre davranma, özerklik karşıtı

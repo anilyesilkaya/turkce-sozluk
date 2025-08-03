@@ -2,6 +2,7 @@
 layout: term
 title: badanasızlık
 slug: badanasizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badanasız olma durumu

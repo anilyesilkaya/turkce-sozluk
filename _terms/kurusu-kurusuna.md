@@ -2,6 +2,7 @@
 layout: term
 title: kuruşu kuruşuna
 slug: kurusu-kurusuna
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tam hesaplanarak; kuruş kuruş

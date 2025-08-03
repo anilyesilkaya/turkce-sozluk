@@ -2,6 +2,7 @@
 layout: term
 title: artık
 slug: artik
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçildikten, yenildikten veya kullanıldıktan sonra geriye kalan

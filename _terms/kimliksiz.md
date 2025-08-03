@@ -2,6 +2,7 @@
 layout: term
 title: kimliksiz
 slug: kimliksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kimliği olmayan

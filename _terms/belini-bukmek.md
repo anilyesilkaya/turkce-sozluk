@@ -2,6 +2,7 @@
 layout: term
 title: belini bükmek
 slug: belini-bukmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çaresizlik içinde bırakmak

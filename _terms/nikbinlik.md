@@ -2,6 +2,7 @@
 layout: term
 title: nikbinlik
 slug: nikbinlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► iyimserlik

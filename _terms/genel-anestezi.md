@@ -2,6 +2,7 @@
 layout: term
 title: genel anestezi
 slug: genel-anestezi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ameliyat sırasında hastanın ağrı duymasını engellemek amacıyla damar içine özel ilaç verilerek uygulanan ve hareket, refleksler, duyu ve bilincin ortadan kaldırılmasıyla sonuçlanan, ameliyat bitiminde ilacın kesilmesiyle hastanın uyandığı bir anestezi yöntemi; genel uyuşturma

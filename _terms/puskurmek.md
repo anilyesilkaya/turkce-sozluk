@@ -2,6 +2,7 @@
 layout: term
 title: püskürmek
 slug: puskurmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ağzında bulunan bir sıvı veya toz durumundaki bir şeyi hızla savurtarak dışarı çıkarmak

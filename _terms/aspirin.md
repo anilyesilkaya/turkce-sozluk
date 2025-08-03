@@ -2,6 +2,7 @@
 layout: term
 title: aspirin
 slug: aspirin
+letter: A
 lisan: Fransızca aspirine
 anlamlar:
 - Ağrı kesici, ateş düşürücü, kan sulandırıcı ve yangı giderici olarak kullanılan hap

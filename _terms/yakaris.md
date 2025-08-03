@@ -2,6 +2,7 @@
 layout: term
 title: yakarış
 slug: yakaris
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakarmak işi; yakarı

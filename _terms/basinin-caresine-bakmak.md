@@ -2,6 +2,7 @@
 layout: term
 title: başının çaresine bakmak
 slug: basinin-caresine-bakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kimseden yardım görmeden kendi işini kendi yapmak

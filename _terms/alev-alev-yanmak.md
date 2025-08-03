@@ -2,6 +2,7 @@
 layout: term
 title: alev alev yanmak
 slug: alev-alev-yanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - alevler çıkararak yanmak

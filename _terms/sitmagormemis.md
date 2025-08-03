@@ -2,6 +2,7 @@
 layout: term
 title: sıtmagörmemiş
 slug: sitmagormemis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gür ve kalın (ses)

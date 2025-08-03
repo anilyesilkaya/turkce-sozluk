@@ -2,6 +2,7 @@
 layout: term
 title: delişmenlik
 slug: delismenlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delişmen olma durumu

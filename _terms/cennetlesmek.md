@@ -2,6 +2,7 @@
 layout: term
 title: cennetleşmek
 slug: cennetlesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cennete benzemek

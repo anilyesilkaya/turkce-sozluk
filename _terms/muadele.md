@@ -2,6 +2,7 @@
 layout: term
 title: muadele
 slug: muadele
+letter: M
 lisan: Arapça muʿādele
 anlamlar:
 - Eşitlik, beraberlik, denklik

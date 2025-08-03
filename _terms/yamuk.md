@@ -2,6 +2,7 @@
 layout: term
 title: yamuk
 slug: yamuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yana doğru eğik olan

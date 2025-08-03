@@ -2,6 +2,7 @@
 layout: term
 title: yakışıklı
 slug: yakisikli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Güzel, gösterişli (erkek)

@@ -2,6 +2,7 @@
 layout: term
 title: başa baş
 slug: basa-bas
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eşit durumda, dengeli olarak

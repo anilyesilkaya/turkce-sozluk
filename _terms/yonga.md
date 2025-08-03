@@ -2,6 +2,7 @@
 layout: term
 title: yonga
 slug: yonga
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kesilen, yontulan veya rendelenen bir şeyden çıkan parça; kamga

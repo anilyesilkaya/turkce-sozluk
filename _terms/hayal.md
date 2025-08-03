@@ -2,6 +2,7 @@
 layout: term
 title: hayal
 slug: hayal
+letter: H
 lisan: Arapça ḫayāl
 anlamlar:
 - Zihinde tasarlanan, canlandırılan ve gerçekleşmesi özlenen şey; imge, hülya

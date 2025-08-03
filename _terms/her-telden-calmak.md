@@ -2,6 +2,7 @@
 layout: term
 title: her telden çalmak
 slug: her-telden-calmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - her çeşit işi yapabilir durumda olmak

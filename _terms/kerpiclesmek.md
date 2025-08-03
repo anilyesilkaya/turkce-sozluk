@@ -2,6 +2,7 @@
 layout: term
 title: kerpiçleşmek
 slug: kerpiclesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok sert ve kuru bir duruma gelmek

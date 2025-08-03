@@ -2,6 +2,7 @@
 layout: term
 title: kekelemek
 slug: kekelemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Damak sesleriyle başlayan kelimeleri ve heceleri tekrarlayarak ve keserek konuşmak

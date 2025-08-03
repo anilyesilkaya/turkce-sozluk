@@ -2,6 +2,7 @@
 layout: term
 title: aydınlanıvermek
 slug: aydinlanivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak aydınlanmak

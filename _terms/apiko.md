@@ -2,6 +2,7 @@
 layout: term
 title: apiko
 slug: apiko
+letter: A
 lisan: İtalyanca a picco
 anlamlar:
 - Geminin, zinciri toplayıp demirini kaldırmaya hazır olması

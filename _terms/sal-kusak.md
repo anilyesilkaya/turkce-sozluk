@@ -2,6 +2,7 @@
 layout: term
 title: şal kuşak
 slug: sal-kusak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaldan yapılmış, bele sarılan kuşak

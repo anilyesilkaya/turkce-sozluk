@@ -2,6 +2,7 @@
 layout: term
 title: kurşun kalem
 slug: kursun-kalem
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçi grafitli, yazısı kolayca silinebilen, değişik biçimleri olan bir kalem türü

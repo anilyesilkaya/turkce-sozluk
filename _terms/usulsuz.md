@@ -2,6 +2,7 @@
 layout: term
 title: usulsüz
 slug: usulsuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► yöntemsiz

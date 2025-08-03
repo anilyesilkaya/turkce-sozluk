@@ -2,6 +2,7 @@
 layout: term
 title: rahat bırakmak
 slug: rahat-birakmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - işine karışmamak

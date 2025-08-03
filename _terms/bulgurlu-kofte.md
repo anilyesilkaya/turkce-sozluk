@@ -2,6 +2,7 @@
 layout: term
 title: bulgurlu köfte
 slug: bulgurlu-kofte
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnce bulgurla yoğrulmuş köfte

@@ -2,6 +2,7 @@
 layout: term
 title: çalakaşık
 slug: calakasik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Soluk almadan yiyerek

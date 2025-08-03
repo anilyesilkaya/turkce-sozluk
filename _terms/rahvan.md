@@ -2,6 +2,7 @@
 layout: term
 title: rahvan
 slug: rahvan
+letter: R
 lisan: Farsça rāhvān
 anlamlar:
 - Koşarken bir yandaki iki bacağını aynı anda atan binek hayvanlarının biniciyi sarsmayan en yavaş koşma biçimi

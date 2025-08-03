@@ -2,6 +2,7 @@
 layout: term
 title: megakent
 slug: megakent
+letter: M
 lisan: Yunanca + Soğdca
 anlamlar:
 - Çok büyük, aşırı derecede büyümüş şehir; megapol

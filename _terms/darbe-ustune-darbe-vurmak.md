@@ -2,6 +2,7 @@
 layout: term
 title: darbe üstüne darbe vurmak
 slug: darbe-ustune-darbe-vurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - üst üste birinin canını sıkan bir şeyler söylemek veya yapmak

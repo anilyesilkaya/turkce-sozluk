@@ -2,6 +2,7 @@
 layout: term
 title: silah silaha girmek
 slug: silah-silaha-girmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - karşılıklı olarak ateş etmek

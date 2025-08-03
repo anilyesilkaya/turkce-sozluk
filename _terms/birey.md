@@ -2,6 +2,7 @@
 layout: term
 title: birey
 slug: birey
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık; fert

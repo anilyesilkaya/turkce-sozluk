@@ -2,6 +2,7 @@
 layout: term
 title: peşine düşmek (veya gitmek)
 slug: pesine-dusmek-veya-gitmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - arkasından gitmek, izlemek

@@ -2,6 +2,7 @@
 layout: term
 title: tevcih
 slug: tevcih
+letter: T
 lisan: Arapça tevcīh
 anlamlar:
 - ► yöneltme

@@ -2,6 +2,7 @@
 layout: term
 title: tutkallı
 slug: tutkalli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutkal sürülmüş

@@ -2,6 +2,7 @@
 layout: term
 title: şövalyelik ruhu
 slug: sovalyelik-ruhu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şövalye geleneği çerçevesinde yetişen kimselerin taşıdığı kahramanlık tavrı

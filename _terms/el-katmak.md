@@ -2,6 +2,7 @@
 layout: term
 title: el katmak
 slug: el-katmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir işe karışmak, müdahale etmek

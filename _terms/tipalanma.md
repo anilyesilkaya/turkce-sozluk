@@ -2,6 +2,7 @@
 layout: term
 title: tıpalanma
 slug: tipalanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tapalanma

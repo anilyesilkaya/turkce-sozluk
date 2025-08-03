@@ -2,6 +2,7 @@
 layout: term
 title: arzu etmek
 slug: arzu-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yürekten istemek

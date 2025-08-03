@@ -2,6 +2,7 @@
 layout: term
 title: kanto
 slug: kanto
+letter: K
 lisan: İtalyanca canto
 anlamlar:
 - Tuluat tiyatrolarında oyundan önce genellikle kadın sanatçıların şarkı söyleyip dans ederek yaptığı gösteri

@@ -2,6 +2,7 @@
 layout: term
 title: tazminat
 slug: tazminat
+letter: T
 lisan: Arapça tażmīnāt
 anlamlar:
 - Zarar karşılığı ödenen para; ödence

@@ -2,6 +2,7 @@
 layout: term
 title: anneanne
 slug: anneanne
+letter: A
 lisan: Türkçe
 anlamlar:
 - Annenin annesi

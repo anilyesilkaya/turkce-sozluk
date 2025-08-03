@@ -2,6 +2,7 @@
 layout: term
 title: şimdilerde
 slug: simdilerde
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bugünlerde

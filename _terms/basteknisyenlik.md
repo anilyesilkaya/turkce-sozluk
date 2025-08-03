@@ -2,6 +2,7 @@
 layout: term
 title: başteknisyenlik
 slug: basteknisyenlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başteknisyen olma durumu

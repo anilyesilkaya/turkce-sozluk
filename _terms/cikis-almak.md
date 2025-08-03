@@ -2,6 +2,7 @@
 layout: term
 title: çıkış almak
 slug: cikis-almak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - işten ayrılmak

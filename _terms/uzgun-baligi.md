@@ -2,6 +2,7 @@
 layout: term
 title: üzgün balığı
 slug: uzgun-baligi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Kaya balığıgillerden, kemikli, küçük bir balık (Collionymus İyra)

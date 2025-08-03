@@ -2,6 +2,7 @@
 layout: term
 title: gerçekleşebilmek
 slug: gerceklesebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçekleşme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kırmızıbiber
 slug: kirmizibiber
+letter: K
 lisan: Türkçe
 anlamlar:
 - Patlıcangillerden bir tür biber (Capsicum annuum)

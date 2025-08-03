@@ -2,6 +2,7 @@
 layout: term
 title: engel tanımamak
 slug: engel-tanimamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - her türlü zorluğa karşın başarılı olmak

@@ -2,6 +2,7 @@
 layout: term
 title: ülüş
 slug: ulus
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Kesilen hayvanın etinden alınan pay

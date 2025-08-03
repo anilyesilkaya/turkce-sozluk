@@ -2,6 +2,7 @@
 layout: term
 title: yenli
 slug: yenli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenleri olan

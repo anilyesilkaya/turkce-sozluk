@@ -2,6 +2,7 @@
 layout: term
 title: hasta bezi
 slug: hasta-bezi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Dışkı ve idrar kaçırma sorunu yaşayan, yatarak tedavi gören ve tedavisine ayakta devam edilen kişiler için kullanılan bir tür bez

@@ -2,6 +2,7 @@
 layout: term
 title: bindiği dalı kesmek
 slug: bindigi-dali-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kendisine gerekli ve yararlı olan şeyi farkında olmadan yararsız duruma getirmek, kendi eliyle yok etmek

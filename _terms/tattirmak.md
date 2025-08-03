@@ -2,6 +2,7 @@
 layout: term
 title: tattırmak
 slug: tattirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatma işini yaptırmak, tadına baktırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kuş bakışı
 slug: kus-bakisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yüksek bir yerden aşağıya doğru, bütün genişliği içine alacak biçimde bakış

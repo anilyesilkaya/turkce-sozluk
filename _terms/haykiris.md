@@ -2,6 +2,7 @@
 layout: term
 title: haykırış
 slug: haykiris
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► haykırma

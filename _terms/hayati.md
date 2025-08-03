@@ -2,6 +2,7 @@
 layout: term
 title: hayati
 slug: hayati
+letter: H
 lisan: Arapça ḥayātī
 anlamlar:
 - Hayatla ilgili veya hayata bağlı olan; dirimlik, dirimsel, yaşamsal

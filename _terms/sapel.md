@@ -2,6 +2,7 @@
 layout: term
 title: şapel
 slug: sapel
+letter: Ş
 lisan: Fransızca chapelle
 anlamlar:
 - Küçük kilise

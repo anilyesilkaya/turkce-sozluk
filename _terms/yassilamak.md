@@ -2,6 +2,7 @@
 layout: term
 title: yassılamak
 slug: yassilamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yassı duruma getirmek

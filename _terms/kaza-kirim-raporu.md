@@ -2,6 +2,7 @@
 layout: term
 title: 'kaza kırım raporu '
 slug: kaza-kirim-raporu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uçak, helikopter vb.nin kazalarından sonra kaza kırım ekibi tarafından hazırlanan rapor

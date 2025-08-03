@@ -2,6 +2,7 @@
 layout: term
 title: burgulanmak
 slug: burgulanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burgulama işine konu olmak, burgu ile delinmek

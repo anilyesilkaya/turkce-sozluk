@@ -2,6 +2,7 @@
 layout: term
 title: ateş gibi kesilmek
 slug: ates-gibi-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir olay karşısında öfke sonucu kanı beynine sıçramak

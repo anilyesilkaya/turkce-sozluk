@@ -2,6 +2,7 @@
 layout: term
 title: iham
 slug: iham
+letter: I
 lisan: Arapça īhām
 anlamlar:
 - Kuruntuya düşürme

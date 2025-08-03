@@ -2,6 +2,7 @@
 layout: term
 title: bedbahtlık
 slug: bedbahtlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► mutsuzluk

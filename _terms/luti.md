@@ -2,6 +2,7 @@
 layout: term
 title: luti
 slug: luti
+letter: L
 lisan: Arapça lūṭī
 anlamlar:
 - ► oğlancı

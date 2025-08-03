@@ -2,6 +2,7 @@
 layout: term
 title: alay
 slug: alay
+letter: A
 lisan: Rumca
 anlamlar:
 - Ses tonu, söz veya mimiklerle bir kimsenin, bir şeyin, bir durumun, gülünç, kusurlu, eksik vb. yönlerini küçümseyerek eğlence konusu yapma, onu aşağılama veya gülünç duruma düşürme; gır gır

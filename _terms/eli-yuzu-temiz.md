@@ -2,6 +2,7 @@
 layout: term
 title: eli yüzü temiz
 slug: eli-yuzu-temiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yüzüne bakılır, güzel olan (kimse)

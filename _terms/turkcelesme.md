@@ -2,6 +2,7 @@
 layout: term
 title: Türkçeleşme
 slug: turkcelesme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkçeleşmek durumu

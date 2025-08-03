@@ -2,6 +2,7 @@
 layout: term
 title: yad gerekircilik
 slug: yad-gerekircilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► belirlenmezcilik

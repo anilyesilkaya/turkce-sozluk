@@ -2,6 +2,7 @@
 layout: term
 title: fotoşimi
 slug: fotosimi
+letter: F
 lisan: Fransızca photochimie
 anlamlar:
 - ► fotokimya

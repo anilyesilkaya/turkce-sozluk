@@ -2,6 +2,7 @@
 layout: term
 title: gaileli
 slug: gaileli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Başa dert olan, üzüntü veren, gaile çıkaran

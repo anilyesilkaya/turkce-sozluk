@@ -2,6 +2,7 @@
 layout: term
 title: tepişmek
 slug: tepismek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirini tepmek

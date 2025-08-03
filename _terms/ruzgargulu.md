@@ -2,6 +2,7 @@
 layout: term
 title: rüzgârgülü
 slug: ruzgargulu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rüzgârların yönünü ve adını gösteren levha

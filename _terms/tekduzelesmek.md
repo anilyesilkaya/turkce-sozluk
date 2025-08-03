@@ -2,6 +2,7 @@
 layout: term
 title: tekdüzeleşmek
 slug: tekduzelesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekdüze bir duruma gelmek; monotonlaşmak

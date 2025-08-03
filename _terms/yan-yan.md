@@ -2,6 +2,7 @@
 layout: term
 title: yan yan
 slug: yan-yan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yanlamasına

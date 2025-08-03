@@ -2,6 +2,7 @@
 layout: term
 title: demir pası
 slug: demir-pasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demirde oluşan pas

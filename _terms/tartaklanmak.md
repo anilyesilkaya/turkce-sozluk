@@ -2,6 +2,7 @@
 layout: term
 title: tartaklanmak
 slug: tartaklanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartaklama işine maruz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: promönat
 slug: promonat
+letter: P
 lisan: Fransızca promenade
 anlamlar:
 - Gezinti yeri

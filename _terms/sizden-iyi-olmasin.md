@@ -2,6 +2,7 @@
 layout: term
 title: sizden iyi olmasın
 slug: sizden-iyi-olmasin
+letter: S
 lisan: Türkçe
 anlamlar:
 - birinin, orada bulunmayan bir kimseyi överken karşısındakine söylediği bir nezaket sözü

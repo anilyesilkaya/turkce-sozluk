@@ -2,6 +2,7 @@
 layout: term
 title: boğada
 slug: bogada
+letter: B
 lisan: İtalyanca bucata
 anlamlar:
 - Küllü veya sodalı su ile çamaşır yıkama

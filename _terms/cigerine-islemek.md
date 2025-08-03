@@ -2,6 +2,7 @@
 layout: term
 title: ciğerine işlemek
 slug: cigerine-islemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kötü söz, kötü davranış, kötü durum çok dokunmak, etkilemek

@@ -2,6 +2,7 @@
 layout: term
 title: neşelenmek
 slug: neselenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neşeli duruma gelmek

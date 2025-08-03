@@ -2,6 +2,7 @@
 layout: term
 title: hökelekli
 slug: hokelekli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► gösterişli

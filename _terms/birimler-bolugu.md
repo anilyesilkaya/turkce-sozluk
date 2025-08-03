@@ -2,6 +2,7 @@
 layout: term
 title: birimler bölüğü
 slug: birimler-bolugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birden dokuz yüz doksan dokuza kadar olan sayılar bölüğü

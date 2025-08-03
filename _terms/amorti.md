@@ -2,6 +2,7 @@
 layout: term
 title: amorti
 slug: amorti
+letter: A
 lisan: Fransızca amorti
 anlamlar:
 - Birden ödenerek faizinin işlemesine son verilen tahvil

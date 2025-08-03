@@ -2,6 +2,7 @@
 layout: term
 title: kemre
 slug: kemre
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► gübre

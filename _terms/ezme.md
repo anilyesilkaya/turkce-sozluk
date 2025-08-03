@@ -2,6 +2,7 @@
 layout: term
 title: ezme
 slug: ezme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezmek işi

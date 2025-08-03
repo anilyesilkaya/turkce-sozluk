@@ -2,6 +2,7 @@
 layout: term
 title: kavrayış
 slug: kavrayis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavramak işi

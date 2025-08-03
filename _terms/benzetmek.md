@@ -2,6 +2,7 @@
 layout: term
 title: benzetmek
 slug: benzetmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzer duruma getirmek

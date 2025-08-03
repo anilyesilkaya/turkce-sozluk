@@ -2,6 +2,7 @@
 layout: term
 title: şayak
 slug: sayak
+letter: Ş
 lisan: Rumca
 anlamlar:
 - Kaba dokunmuş, dayanıklı bir çeşit yün kumaş

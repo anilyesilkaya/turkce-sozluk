@@ -2,6 +2,7 @@
 layout: term
 title: tuhaf
 slug: tuhaf
+letter: T
 lisan: Arapça tuḥaf
 anlamlar:
 - ► acayip

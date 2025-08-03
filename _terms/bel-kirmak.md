@@ -2,6 +2,7 @@
 layout: term
 title: bel kırmak
 slug: bel-kirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - eğilerek saygı göstermek

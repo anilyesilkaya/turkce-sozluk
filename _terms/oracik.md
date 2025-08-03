@@ -2,6 +2,7 @@
 layout: term
 title: oracık
 slug: oracik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hemen o yer, bulunduğu yer

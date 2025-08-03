@@ -2,6 +2,7 @@
 layout: term
 title: çalkalamak
 slug: calkalamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sulu bir şeyi sarsarak veya çırparak karıştırmak; çalkamak

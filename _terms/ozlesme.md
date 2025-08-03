@@ -2,6 +2,7 @@
 layout: term
 title: özleşme
 slug: ozlesme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özleşmek işi; arılaşma

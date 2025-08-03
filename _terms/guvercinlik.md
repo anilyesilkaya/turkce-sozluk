@@ -2,6 +2,7 @@
 layout: term
 title: güvercinlik
 slug: guvercinlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Evcil güvercin yetiştirmek için hazırlanmış, içinde yuvalar bulunan kule biçiminde yer

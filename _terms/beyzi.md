@@ -2,6 +2,7 @@
 layout: term
 title: beyzi
 slug: beyzi
+letter: B
 lisan: Arapça beyżī
 anlamlar:
 - ► oval

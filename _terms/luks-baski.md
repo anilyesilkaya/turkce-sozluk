@@ -2,6 +2,7 @@
 layout: term
 title: lüks baskı
 slug: luks-baski
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kitapların iyi cins kâğıt ve özel ciltli kapaklara basılan biçimi

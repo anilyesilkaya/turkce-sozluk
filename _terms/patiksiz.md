@@ -2,6 +2,7 @@
 layout: term
 title: patiksiz
 slug: patiksiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patiği olmayan

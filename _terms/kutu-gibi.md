@@ -2,6 +2,7 @@
 layout: term
 title: kutu gibi
 slug: kutu-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - küçük fakat kullanışlı ve şirin

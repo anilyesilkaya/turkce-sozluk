@@ -2,6 +2,7 @@
 layout: term
 title: hissiselim
 slug: hissiselim
+letter: H
 lisan: Arapça ḥiss + selīm
 anlamlar:
 - ► sağduyu

@@ -2,6 +2,7 @@
 layout: term
 title: taarruzi
 slug: taarruzi
+letter: T
 lisan: Arapça taʿarrużį
 anlamlar:
 - Saldırı ile ilgili, saldırıya ilişkin

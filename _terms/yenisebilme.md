@@ -2,6 +2,7 @@
 layout: term
 title: yenişebilme
 slug: yenisebilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenişebilmek işi

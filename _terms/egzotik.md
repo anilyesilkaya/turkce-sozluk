@@ -2,6 +2,7 @@
 layout: term
 title: egzotik
 slug: egzotik
+letter: E
 lisan: Fransızca exotique
 anlamlar:
 - ► yabancıl

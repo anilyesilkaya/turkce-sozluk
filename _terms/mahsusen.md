@@ -2,6 +2,7 @@
 layout: term
 title: mahsusen
 slug: mahsusen
+letter: M
 lisan: Arapça maḫṣūṣen
 anlamlar:
 - ► özellikle

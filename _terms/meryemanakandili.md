@@ -2,6 +2,7 @@
 layout: term
 title: meryemanakandili
 slug: meryemanakandili
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► siklamen

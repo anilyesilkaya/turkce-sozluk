@@ -2,6 +2,7 @@
 layout: term
 title: kırmalık
 slug: kirmalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► melezlik

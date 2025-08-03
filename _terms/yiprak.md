@@ -2,6 +2,7 @@
 layout: term
 title: yıprak
 slug: yiprak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıpranmış, aşınmış, eski

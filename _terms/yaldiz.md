@@ -2,6 +2,7 @@
 layout: term
 title: yaldız
 slug: yaldiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eşyaya altın veya gümüş görünüşü vermek için kullanılan, sıvı veya yaprak durumundaki altın, gümüş ve bunların taklidi olan madde

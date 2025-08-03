@@ -2,6 +2,7 @@
 layout: term
 title: çisenti
 slug: cisenti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yavaş ve ince ince yağan yağmur; ahmakıslatan, çise

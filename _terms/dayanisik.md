@@ -2,6 +2,7 @@
 layout: term
 title: dayanışık
 slug: dayanisik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üyeleri arasında dayanışma bulunan (millet, topluluk, sınıf vb.); mütesanit

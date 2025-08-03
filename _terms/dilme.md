@@ -2,6 +2,7 @@
 layout: term
 title: dilme
 slug: dilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilmek işi

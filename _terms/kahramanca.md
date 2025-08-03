@@ -2,6 +2,7 @@
 layout: term
 title: kahramanca
 slug: kahramanca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahramana yaraşır

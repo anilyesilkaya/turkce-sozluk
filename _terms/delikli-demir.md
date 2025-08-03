@@ -2,6 +2,7 @@
 layout: term
 title: delikli demir
 slug: delikli-demir
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tüfek

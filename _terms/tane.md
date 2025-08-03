@@ -2,6 +2,7 @@
 layout: term
 title: tane
 slug: tane
+letter: T
 lisan: Farsça dāne
 anlamlar:
 - Herhangi bir sayıda olan şey; adet, kıta, parça, pare

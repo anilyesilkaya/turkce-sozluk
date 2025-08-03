@@ -2,6 +2,7 @@
 layout: term
 title: başpehlivanlık
 slug: baspehlivanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başpehlivan olma durumu

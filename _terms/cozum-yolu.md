@@ -2,6 +2,7 @@
 layout: term
 title: çözüm yolu
 slug: cozum-yolu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir güçlüğü giderme çaresi; hal çaresi

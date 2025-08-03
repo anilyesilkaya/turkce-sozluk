@@ -2,6 +2,7 @@
 layout: term
 title: bahtiyar
 slug: bahtiyar
+letter: B
 lisan: Farsça baḫtiyār
 anlamlar:
 - ► mutlu

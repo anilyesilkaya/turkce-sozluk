@@ -2,6 +2,7 @@
 layout: term
 title: oynaklık
 slug: oynaklik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynak olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: demir perde
 slug: demir-perde
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sahne ile izleyicilerin bulunduğu salonu yangın tehlikesinde birbirinden ayıran, demirden yapılmış perde

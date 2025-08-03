@@ -2,6 +2,7 @@
 layout: term
 title: mıncık mıncık olmak
 slug: mincik-mincik-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yapışkan ve kaygan bir duruma gelmek, ezilmek

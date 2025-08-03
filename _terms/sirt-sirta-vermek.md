@@ -2,6 +2,7 @@
 layout: term
 title: sırt sırta vermek
 slug: sirt-sirta-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - iş birliği yapmak

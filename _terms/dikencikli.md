@@ -2,6 +2,7 @@
 layout: term
 title: dikencikli
 slug: dikencikli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ucu sivri olan

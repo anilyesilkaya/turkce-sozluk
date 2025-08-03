@@ -2,6 +2,7 @@
 layout: term
 title: tekaüt olmak
 slug: tekaut-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - emekli olmak, emekliye ayrılmak

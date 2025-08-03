@@ -2,6 +2,7 @@
 layout: term
 title: otonom
 slug: otonom
+letter: O
 lisan: Fransızca autonome
 anlamlar:
 - ► özerk

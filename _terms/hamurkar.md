@@ -2,6 +2,7 @@
 layout: term
 title: hamurkâr
 slug: hamurkar
+letter: H
 lisan: Arapça ḫamīr + Farsça -kār
 anlamlar:
 - ► hamurcu

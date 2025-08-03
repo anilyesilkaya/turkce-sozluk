@@ -2,6 +2,7 @@
 layout: term
 title: kısaltmalı kelime
 slug: kisaltmali-kelime
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kısaltma ad

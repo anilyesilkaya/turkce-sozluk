@@ -2,6 +2,7 @@
 layout: term
 title: sellemehüsselam
 slug: sellemehusselam
+letter: S
 lisan: Arapça sellemehu + selām
 anlamlar:
 - Ulu orta, çekinmeden, destursuz

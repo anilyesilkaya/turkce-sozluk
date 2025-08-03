@@ -2,6 +2,7 @@
 layout: term
 title: olimpiyat
 slug: olimpiyat
+letter: O
 lisan: Fransızca olympiade
 anlamlar:
 - Her dört yılda bir başka ülkede yapılan uluslararası spor yarışmaları

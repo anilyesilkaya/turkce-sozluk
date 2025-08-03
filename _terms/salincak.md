@@ -2,6 +2,7 @@
 layout: term
 title: salıncak
 slug: salincak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İki ucundan iki iple veya zincirle yüksek bir yere asılan ve üzerine oturulup sallanılan eğlence aracı

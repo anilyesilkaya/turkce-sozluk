@@ -2,6 +2,7 @@
 layout: term
 title: vefasızlık
 slug: vefasizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vefasız olma durumu; hakikatsizlik, bivefalık

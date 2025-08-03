@@ -2,6 +2,7 @@
 layout: term
 title: lazım gelmek (veya olmak)
 slug: lazim-gelmek-veya-olmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - gerekmek

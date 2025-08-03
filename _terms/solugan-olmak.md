@@ -2,6 +2,7 @@
 layout: term
 title: soluğan olmak
 slug: solugan-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - at nefes darlığına tutulmak

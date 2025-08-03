@@ -2,6 +2,7 @@
 layout: term
 title: tuhafına gitmek
 slug: tuhafina-gitmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyi tuhaf bulmak

@@ -2,6 +2,7 @@
 layout: term
 title: tırtıklanmak
 slug: tirtiklanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırtıklama işine konu olmak

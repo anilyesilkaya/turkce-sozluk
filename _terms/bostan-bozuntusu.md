@@ -2,6 +2,7 @@
 layout: term
 title: bostan bozuntusu
 slug: bostan-bozuntusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Korkak, yüreksiz, işe yaramaz adam

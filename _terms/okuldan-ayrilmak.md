@@ -2,6 +2,7 @@
 layout: term
 title: okuldan ayrılmak
 slug: okuldan-ayrilmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - öğrenime son vermek

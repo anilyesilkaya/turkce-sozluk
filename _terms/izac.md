@@ -2,6 +2,7 @@
 layout: term
 title: izaç
 slug: izac
+letter: I
 lisan: Arapça izʿāc
 anlamlar:
 - Bunaltma, tedirgin etme, baş ağrıtma, can sıkma

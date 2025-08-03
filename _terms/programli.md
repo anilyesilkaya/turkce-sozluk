@@ -2,6 +2,7 @@
 layout: term
 title: programlı
 slug: programli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Belli bir programı olan

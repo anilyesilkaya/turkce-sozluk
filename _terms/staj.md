@@ -2,6 +2,7 @@
 layout: term
 title: staj
 slug: staj
+letter: S
 lisan: Fransızca stage
 anlamlar:
 - Herhangi bir meslek edinecek olan kimsenin geçirdiği uygulamalı öğrenme dönemi

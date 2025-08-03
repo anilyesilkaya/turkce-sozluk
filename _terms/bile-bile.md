@@ -2,6 +2,7 @@
 layout: term
 title: bile bile
 slug: bile-bile
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilerek

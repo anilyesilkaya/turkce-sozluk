@@ -2,6 +2,7 @@
 layout: term
 title: ezik
 slug: ezik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çarpma, dövülme vb. sebeplerle vücutta oluşan bere

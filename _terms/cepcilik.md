@@ -2,6 +2,7 @@
 layout: term
 title: cepçilik
 slug: cepcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► yankesicilik

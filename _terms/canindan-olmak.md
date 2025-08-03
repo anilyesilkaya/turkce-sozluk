@@ -2,6 +2,7 @@
 layout: term
 title: canından olmak
 slug: canindan-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek

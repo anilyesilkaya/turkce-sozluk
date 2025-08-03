@@ -2,6 +2,7 @@
 layout: term
 title: buzullu
 slug: buzullu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzulu olan

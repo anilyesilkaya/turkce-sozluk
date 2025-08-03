@@ -2,6 +2,7 @@
 layout: term
 title: asırlarca
 slug: asirlarca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yüzyıllarca

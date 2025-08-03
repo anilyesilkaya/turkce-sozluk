@@ -2,6 +2,7 @@
 layout: term
 title: kara bahtlı
 slug: kara-bahtli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yaşayışı, hayatı sürekli kötü; mutsuz, bahtlı karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: gerçeküstücü
 slug: gercekustucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçeküstücülükten yana olan; sürrealist

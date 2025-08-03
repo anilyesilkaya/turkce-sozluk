@@ -2,6 +2,7 @@
 layout: term
 title: kontra mizana
 slug: kontra-mizana
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dört direkli gemilerde en arkadaki direk

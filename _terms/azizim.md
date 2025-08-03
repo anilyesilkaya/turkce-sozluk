@@ -2,6 +2,7 @@
 layout: term
 title: azizim
 slug: azizim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dost, arkadaş vb. kişilere seslenme sözü

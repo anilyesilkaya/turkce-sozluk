@@ -2,6 +2,7 @@
 layout: term
 title: tapşırma
 slug: tapsirma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapşırmak işi

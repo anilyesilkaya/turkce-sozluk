@@ -2,6 +2,7 @@
 layout: term
 title: ney
 slug: ney
+letter: N
 lisan: Farsça ney
 anlamlar:
 - Klasik Türk müziğinde ve özellikle tekke müziğinde yer alan, kaval biçiminde, yanık sesli, kamıştan yapılmış, üflemeli bir çalgı

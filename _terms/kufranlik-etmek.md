@@ -2,6 +2,7 @@
 layout: term
 title: küfranlık etmek
 slug: kufranlik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - nankörlük etmek

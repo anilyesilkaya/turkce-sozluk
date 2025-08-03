@@ -2,6 +2,7 @@
 layout: term
 title: dilinin altındaki baklayı çıkarmak
 slug: dilinin-altindaki-baklayi-cikarmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - söyleyemediği şeyi artık söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: listelenme
 slug: listelenme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Listelenmek işi

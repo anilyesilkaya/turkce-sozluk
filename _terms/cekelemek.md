@@ -2,6 +2,7 @@
 layout: term
 title: çekelemek
 slug: cekelemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tekrar tekrar çekmek

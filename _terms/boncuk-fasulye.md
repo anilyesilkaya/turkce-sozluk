@@ -2,6 +2,7 @@
 layout: term
 title: boncuk fasulye
 slug: boncuk-fasulye
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir tür iri taneli fasulye

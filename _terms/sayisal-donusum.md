@@ -2,6 +2,7 @@
 layout: term
 title: sayısal dönüşüm
 slug: sayisal-donusum
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► dijital dönüşüm

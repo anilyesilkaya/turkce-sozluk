@@ -2,6 +2,7 @@
 layout: term
 title: teknik adam
 slug: teknik-adam
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► teknikçi

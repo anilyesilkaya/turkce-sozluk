@@ -2,6 +2,7 @@
 layout: term
 title: hınçlı
 slug: hincli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hıncı olan, öfkeli olan

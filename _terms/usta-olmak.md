@@ -2,6 +2,7 @@
 layout: term
 title: usta olmak
 slug: usta-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - usta duruma gelmek

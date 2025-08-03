@@ -2,6 +2,7 @@
 layout: term
 title: sıtmaya tutulmak (veya yakalanmak)
 slug: sitmaya-tutulmak-veya-yakalanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sıtma hastalığına yakalanmak

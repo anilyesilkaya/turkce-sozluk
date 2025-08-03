@@ -2,6 +2,7 @@
 layout: term
 title: robot resim
 slug: robot-resim
+letter: R
 lisan: Türkçe
 anlamlar:
 - Adli olaylarda tanığın tarifiyle şüphelinin görünümünü yansıtan çizgi resim

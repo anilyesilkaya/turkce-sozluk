@@ -2,6 +2,7 @@
 layout: term
 title: açıklattırmak
 slug: aciklattirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklatma işini yaptırmak

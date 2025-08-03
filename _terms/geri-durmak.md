@@ -2,6 +2,7 @@
 layout: term
 title: geri durmak
 slug: geri-durmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir iş yapmaktan kaçınmak

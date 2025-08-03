@@ -2,6 +2,7 @@
 layout: term
 title: kesit
 slug: kesit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şey enlemesine veya boylamasına kesildiğinde ortaya çıkan yüzey

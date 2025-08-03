@@ -2,6 +2,7 @@
 layout: term
 title: verilebilmek
 slug: verilebilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verilme ihtimali veya imkânı bulunmak

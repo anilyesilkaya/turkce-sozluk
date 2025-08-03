@@ -2,6 +2,7 @@
 layout: term
 title: mana
 slug: mana
+letter: M
 lisan: Arapça maʿnā
 anlamlar:
 - ► anlam

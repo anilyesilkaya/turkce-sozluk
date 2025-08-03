@@ -2,6 +2,7 @@
 layout: term
 title: suçlama
 slug: suclama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlamak işi; itham, töhmet

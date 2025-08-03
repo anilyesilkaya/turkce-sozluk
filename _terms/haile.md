@@ -2,6 +2,7 @@
 layout: term
 title: haile
 slug: haile
+letter: H
 lisan: Arapça hāʾile
 anlamlar:
 - Çok acıklı olay

@@ -2,6 +2,7 @@
 layout: term
 title: dalavere çevirmek (veya dalaveresini döndürmek)
 slug: dalavere-cevirmek-veya-dalaveresini-dondurmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yalan dolanla gizlice kötü iş görmek, düzenbazlık etmek

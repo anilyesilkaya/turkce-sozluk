@@ -2,6 +2,7 @@
 layout: term
 title: üzgün
 slug: uzgun
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzülmüş, üzüntü duymuş; mahzun, melul, meyus

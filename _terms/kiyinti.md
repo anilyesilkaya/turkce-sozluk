@@ -2,6 +2,7 @@
 layout: term
 title: kıyıntı
 slug: kiyinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Açlık sebebiyle midede duyulan eziklik

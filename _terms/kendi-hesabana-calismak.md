@@ -2,6 +2,7 @@
 layout: term
 title: kendi hesabana çalışmak
 slug: kendi-hesabana-calismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uğraştığı işi sadece kendisi için yapmak

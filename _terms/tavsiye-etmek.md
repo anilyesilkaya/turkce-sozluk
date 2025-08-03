@@ -2,6 +2,7 @@
 layout: term
 title: tavsiye etmek
 slug: tavsiye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyin yapılmasını veya yapılmamasını öğütlemek, salık vermek

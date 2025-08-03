@@ -2,6 +2,7 @@
 layout: term
 title: z raporu
 slug: z-raporu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir ticari işletmede gün sonunda yazar kasadan alınan, günlük satışları ve bu satışlara ilişkin KDV tutarlarını gösteren belge

@@ -2,6 +2,7 @@
 layout: term
 title: sersemlik
 slug: sersemlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sersem olma durumu

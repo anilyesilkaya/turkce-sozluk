@@ -2,6 +2,7 @@
 layout: term
 title: söz misali
 slug: soz-misali
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► söz gelişi

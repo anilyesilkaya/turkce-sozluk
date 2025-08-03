@@ -2,6 +2,7 @@
 layout: term
 title: motris
 slug: motris
+letter: M
 lisan: Fransızca motrice
 anlamlar:
 - Birkaç arabalı bir katarda elektrik motoru veya patlamalı motorla çalışan ve öbür arabaları çekmeye yarayan taşıt

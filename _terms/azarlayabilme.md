@@ -2,6 +2,7 @@
 layout: term
 title: azarlayabilme
 slug: azarlayabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azarlayabilmek işi

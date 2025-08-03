@@ -2,6 +2,7 @@
 layout: term
 title: oburlaşmak
 slug: oburlasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Obur duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: korkma
 slug: korkma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkmak işi

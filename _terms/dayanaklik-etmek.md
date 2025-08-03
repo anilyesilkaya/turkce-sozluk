@@ -2,6 +2,7 @@
 layout: term
 title: dayanaklık etmek
 slug: dayanaklik-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - dayanak, destek olmak

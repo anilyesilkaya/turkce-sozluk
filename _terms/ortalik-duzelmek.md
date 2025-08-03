@@ -2,6 +2,7 @@
 layout: term
 title: ortalık düzelmek
 slug: ortalik-duzelmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - toplum içindeki karışıklık yok olmak, tedirginlik kalmamak, maddi durum düzelmek

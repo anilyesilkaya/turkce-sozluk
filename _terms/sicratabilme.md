@@ -2,6 +2,7 @@
 layout: term
 title: sıçratabilme
 slug: sicratabilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçratabilmek işi

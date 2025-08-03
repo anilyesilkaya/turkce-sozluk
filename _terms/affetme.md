@@ -2,6 +2,7 @@
 layout: term
 title: affetme
 slug: affetme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlama

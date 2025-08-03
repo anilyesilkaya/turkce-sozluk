@@ -2,6 +2,7 @@
 layout: term
 title: bağlantı kurmak
 slug: baglanti-kurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - irtibat sağlamak

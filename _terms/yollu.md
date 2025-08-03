@@ -2,6 +2,7 @@
 layout: term
 title: yollu
 slug: yollu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolu olan

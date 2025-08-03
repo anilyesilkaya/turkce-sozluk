@@ -2,6 +2,7 @@
 layout: term
 title: elzem
 slug: elzem
+letter: E
 lisan: Arapça elzem
 anlamlar:
 - Çok gerekli, vazgeçilmez

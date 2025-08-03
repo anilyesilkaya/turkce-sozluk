@@ -2,6 +2,7 @@
 layout: term
 title: ussal
 slug: ussal
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► akli

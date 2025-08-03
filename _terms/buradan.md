@@ -2,6 +2,7 @@
 layout: term
 title: buradan
 slug: buradan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu yerden

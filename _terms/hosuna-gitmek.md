@@ -2,6 +2,7 @@
 layout: term
 title: hoşuna gitmek
 slug: hosuna-gitmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - beğenmek

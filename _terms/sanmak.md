@@ -2,6 +2,7 @@
 layout: term
 title: sanmak
 slug: sanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyin zihinde kurulduğu gibi gerçekleştiğine inanmak; zannetmek, zanneylemek

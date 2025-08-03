@@ -2,6 +2,7 @@
 layout: term
 title: tramvay
 slug: tramvay
+letter: T
 lisan: Fransızca tramway
 anlamlar:
 - Şehirlerde yol üzerine döşenmiş özel raylarda hareket eden yolcu taşıtı

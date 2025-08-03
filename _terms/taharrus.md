@@ -2,6 +2,7 @@
 layout: term
 title: taharrüs
 slug: taharrus
+letter: T
 lisan: Arapça taḥarrüs
 anlamlar:
 - ► çekinme

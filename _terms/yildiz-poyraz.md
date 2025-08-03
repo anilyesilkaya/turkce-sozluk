@@ -2,6 +2,7 @@
 layout: term
 title: yıldız poyraz
 slug: yildiz-poyraz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kuzeydoğu ile kuzey arasında esen yel

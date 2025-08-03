@@ -2,6 +2,7 @@
 layout: term
 title: ceza vuruşu
 slug: ceza-vurusu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ceza atışı

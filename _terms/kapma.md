@@ -2,6 +2,7 @@
 layout: term
 title: kapma
 slug: kapma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapmak işi

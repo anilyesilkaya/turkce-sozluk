@@ -2,6 +2,7 @@
 layout: term
 title: kaptanlık
 slug: kaptanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaptan olma durumu

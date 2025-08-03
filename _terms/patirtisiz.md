@@ -2,6 +2,7 @@
 layout: term
 title: patırtısız
 slug: patirtisiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patırtısı olmayan

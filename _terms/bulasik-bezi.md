@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık bezi
 slug: bulasik-bezi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıkları yıkamak için kullanılan bez

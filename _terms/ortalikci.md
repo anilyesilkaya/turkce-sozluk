@@ -2,6 +2,7 @@
 layout: term
 title: ortalıkçı
 slug: ortalikci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Lokanta, gazino, pastane vb. yerlerde ayak işlerine bakan kimse

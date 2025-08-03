@@ -2,6 +2,7 @@
 layout: term
 title: sanal
 slug: sanal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gerçekte yeri olmayıp zihinde tasarlanan

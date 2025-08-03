@@ -2,6 +2,7 @@
 layout: term
 title: erişmek
 slug: erismek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Varılması zamana, emeğe bağlı olan veya uzakta bulunan bir amaca varmak, ulaşmak

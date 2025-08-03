@@ -2,6 +2,7 @@
 layout: term
 title: gülümseyiş
 slug: gulumseyis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülümsemek işi

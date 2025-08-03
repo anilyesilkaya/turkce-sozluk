@@ -2,6 +2,7 @@
 layout: term
 title: yüz çevirmek
 slug: yuz-cevirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gösterdiği ilgiyi kesmek

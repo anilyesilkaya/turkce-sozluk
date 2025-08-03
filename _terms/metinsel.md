@@ -2,6 +2,7 @@
 layout: term
 title: metinsel
 slug: metinsel
+letter: M
 lisan: Türkçe
 anlamlar:
 - Metinle ilgili, metne ilişkin

@@ -2,6 +2,7 @@
 layout: term
 title: bebe
 slug: bebe
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bebek

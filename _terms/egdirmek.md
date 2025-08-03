@@ -2,6 +2,7 @@
 layout: term
 title: eğdirmek
 slug: egdirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğme işini yaptırmak

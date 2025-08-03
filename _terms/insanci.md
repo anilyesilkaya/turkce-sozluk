@@ -2,6 +2,7 @@
 layout: term
 title: insancı
 slug: insanci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► insancıl

@@ -2,6 +2,7 @@
 layout: term
 title: cemil
 slug: cemil
+letter: C
 lisan: Arapça cemīl
 anlamlar:
 - Güzel olan (erkek)

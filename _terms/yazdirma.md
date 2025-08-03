@@ -2,6 +2,7 @@
 layout: term
 title: yazdırma
 slug: yazdirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazdırmak işi

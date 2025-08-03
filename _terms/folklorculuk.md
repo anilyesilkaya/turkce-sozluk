@@ -2,6 +2,7 @@
 layout: term
 title: folklorculuk
 slug: folklorculuk
+letter: F
 lisan: Türkçe
 anlamlar:
 - Folklorcunun işi veya mesleği

@@ -2,6 +2,7 @@
 layout: term
 title: tutulmuş
 slug: tutulmus
+letter: T
 lisan: Türkçe
 anlamlar:
 - Engellenmiş

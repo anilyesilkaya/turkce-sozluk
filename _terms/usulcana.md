@@ -2,6 +2,7 @@
 layout: term
 title: usulcana
 slug: usulcana
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► yavaşça

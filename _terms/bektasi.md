@@ -2,6 +2,7 @@
 layout: term
 title: Bektaşi
 slug: bektasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bektaşiliği benimsemiş olan kimse veya topluluk

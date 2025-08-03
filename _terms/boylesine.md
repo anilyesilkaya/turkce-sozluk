@@ -2,6 +2,7 @@
 layout: term
 title: böylesine
 slug: boylesine
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu tarzda, bu biçimde

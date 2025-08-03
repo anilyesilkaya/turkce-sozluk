@@ -2,6 +2,7 @@
 layout: term
 title: Leninizm
 slug: leninizm
+letter: L
 lisan: Fransızca leninisme
 anlamlar:
 - ► Lenincilik

@@ -2,6 +2,7 @@
 layout: term
 title: tul derecesi
 slug: tul-derecesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► boylam

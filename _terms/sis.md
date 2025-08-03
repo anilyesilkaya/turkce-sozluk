@@ -2,6 +2,7 @@
 layout: term
 title: sis
 slug: sis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Atmosferdeki su buharının yeryüzüne yakın yerlerde yoğuşmasıyla oluşan alçak bulut tabakası

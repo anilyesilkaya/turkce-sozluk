@@ -2,6 +2,7 @@
 layout: term
 title: kişiye özel
 slug: kisiye-ozel
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sadece o kişiye ait, o kişi tarafından kullanılabilen; zata mahsus

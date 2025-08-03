@@ -2,6 +2,7 @@
 layout: term
 title: çatal sakal
 slug: catal-sakal
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatal biçiminde ikiye ayrılmış sakal

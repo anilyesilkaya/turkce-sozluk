@@ -2,6 +2,7 @@
 layout: term
 title: nüzul
 slug: nuzul
+letter: N
 lisan: Arapça nuzūl
 anlamlar:
 - ► inme

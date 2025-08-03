@@ -2,6 +2,7 @@
 layout: term
 title: bulgur pilavı
 slug: bulgur-pilavi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulgurla pişirilen pilav

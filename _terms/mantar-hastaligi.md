@@ -2,6 +2,7 @@
 layout: term
 title: mantar hastalığı
 slug: mantar-hastaligi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bazı mantarların yol açtığı bitki veya hayvan hastalığı

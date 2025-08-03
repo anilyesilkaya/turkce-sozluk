@@ -2,6 +2,7 @@
 layout: term
 title: bar bağlamak (veya tutmak)
 slug: bar-baglamak-veya-tutmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kir bağlamak, paslanmak

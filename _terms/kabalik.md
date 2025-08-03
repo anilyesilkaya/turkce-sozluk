@@ -2,6 +2,7 @@
 layout: term
 title: kabalık
 slug: kabalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaba olma durumu

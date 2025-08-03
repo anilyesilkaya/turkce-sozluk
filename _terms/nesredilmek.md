@@ -2,6 +2,7 @@
 layout: term
 title: neşredilmek
 slug: nesredilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► yayımlanmak

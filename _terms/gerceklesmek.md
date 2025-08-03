@@ -2,6 +2,7 @@
 layout: term
 title: gerçekleşmek
 slug: gerceklesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçek olmak, gerçek duruma gelmek, meydana gelmek; tahakkuk etmek

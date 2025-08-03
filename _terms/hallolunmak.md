@@ -2,6 +2,7 @@
 layout: term
 title: hallolunmak
 slug: hallolunmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çözülmek, sonuca bağlanmak

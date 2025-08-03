@@ -2,6 +2,7 @@
 layout: term
 title: mühürdar
 slug: muhurdar
+letter: M
 lisan: Farsça muhrdār
 anlamlar:
 - Devlet büyüklerinin mühürlerini taşımak ve gereken kâğıtları mühürlemekle yükümlü görevli

@@ -2,6 +2,7 @@
 layout: term
 title: koşmaca
 slug: kosmaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirini kovalayarak oynanan bir çocuk oyunu

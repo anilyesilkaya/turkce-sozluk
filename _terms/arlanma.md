@@ -2,6 +2,7 @@
 layout: term
 title: arlanma
 slug: arlanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► utanma

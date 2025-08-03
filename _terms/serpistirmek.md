@@ -2,6 +2,7 @@
 layout: term
 title: serpiştirmek
 slug: serpistirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yağmur veya kar azar azar, ince ince yağmak; serpmek

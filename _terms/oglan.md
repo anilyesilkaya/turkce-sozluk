@@ -2,6 +2,7 @@
 layout: term
 title: oğlan
 slug: oglan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Erkek çocuk

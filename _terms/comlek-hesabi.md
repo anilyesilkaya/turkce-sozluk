@@ -2,6 +2,7 @@
 layout: term
 title: çömlek hesabı
 slug: comlek-hesabi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Basit ve güvenilmez hesap

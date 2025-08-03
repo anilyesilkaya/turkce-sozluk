@@ -2,6 +2,7 @@
 layout: term
 title: revaçta olmak
 slug: revacta-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - değerli, üstün veya geçerli olmak

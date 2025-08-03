@@ -2,6 +2,7 @@
 layout: term
 title: destek oyun
 slug: destek-oyun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Halk oyunlarında adım ve biçimsel yapı açısından doruk noktaya ulaşmayı sağlayan oyunu pekiştiren ikincil oyun

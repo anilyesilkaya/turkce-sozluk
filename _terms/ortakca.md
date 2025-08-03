@@ -2,6 +2,7 @@
 layout: term
 title: ortakça
 slug: ortakca
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ortaklaşa

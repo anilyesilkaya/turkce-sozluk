@@ -2,6 +2,7 @@
 layout: term
 title: kaplan
 slug: kaplan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kedigillerden, enine siyah çizgili, koyu sarı postu olan, Asya'da yaşayan çevik ve yırtıcı hayvan (Felis tigris)

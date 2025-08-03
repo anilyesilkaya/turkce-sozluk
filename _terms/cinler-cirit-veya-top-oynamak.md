@@ -2,6 +2,7 @@
 layout: term
 title: cinler cirit (veya top) oynamak
 slug: cinler-cirit-veya-top-oynamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir yer ıssız olmak

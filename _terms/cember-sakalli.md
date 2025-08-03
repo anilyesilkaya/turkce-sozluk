@@ -2,6 +2,7 @@
 layout: term
 title: çember sakallı
 slug: cember-sakalli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çember sakalı olan (kimse)

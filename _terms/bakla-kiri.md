@@ -2,6 +2,7 @@
 layout: term
 title: bakla kırı
 slug: bakla-kiri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyazı çoğalmış, beyazlamaya yüz tutmuş (saç vb.)

@@ -2,6 +2,7 @@
 layout: term
 title: sini
 slug: sini
+letter: S
 lisan: Farsça sīnī
 anlamlar:
 - Üzerinde yemek de yenilebilen, yuvarlak, bakır veya pirinçten büyük tepsi

@@ -2,6 +2,7 @@
 layout: term
 title: ışık eğrisi
 slug: isik-egrisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Değişken bir yıldızın parlaklığının zamana göre değişimini gösteren grafik

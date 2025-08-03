@@ -2,6 +2,7 @@
 layout: term
 title: fikriyat
 slug: fikriyat
+letter: F
 lisan: Arapça fikriyyāt
 anlamlar:
 - Düşünceler

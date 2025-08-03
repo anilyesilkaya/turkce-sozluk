@@ -2,6 +2,7 @@
 layout: term
 title: görevlendirebilmek
 slug: gorevlendirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görevlendirme ihtimali veya imkânı bulunmak

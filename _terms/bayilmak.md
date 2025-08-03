@@ -2,6 +2,7 @@
 layout: term
 title: bayılmak
 slug: bayilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baygın duruma girmek, uyur gibi olmak, kendinden geçmek, kendini kaybetmek, geçici bir süre bilinç kaybına uğramak

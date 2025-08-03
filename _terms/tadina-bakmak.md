@@ -2,6 +2,7 @@
 layout: term
 title: tadına bakmak
 slug: tadina-bakmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ağzına alıp tadını denemek, test etmek

@@ -2,6 +2,7 @@
 layout: term
 title: sabunlu
 slug: sabunlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde sabun eritilmiş

@@ -2,6 +2,7 @@
 layout: term
 title: öteletme
 slug: oteletme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öteletmek işi

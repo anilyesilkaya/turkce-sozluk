@@ -2,6 +2,7 @@
 layout: term
 title: tazyik etmek
 slug: tazyik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - zorlamak, baskı yapmak

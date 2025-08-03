@@ -2,6 +2,7 @@
 layout: term
 title: karışım
 slug: karisim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birden çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey; kokteyl

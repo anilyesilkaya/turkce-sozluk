@@ -2,6 +2,7 @@
 layout: term
 title: ağırlaştırmak
 slug: agirlastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ağırlaşmasına yol açmak

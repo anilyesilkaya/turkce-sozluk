@@ -2,6 +2,7 @@
 layout: term
 title: pişirtmek
 slug: pisirtmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişirme işini yaptırmak

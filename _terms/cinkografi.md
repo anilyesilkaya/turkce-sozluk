@@ -2,6 +2,7 @@
 layout: term
 title: çinkografi
 slug: cinkografi
+letter: Ç
 lisan: Fransızca zincographie
 anlamlar:
 - Çoğaltılmak istenilen resim veya yazıların kalıbını çinko üzerine çıkarma sanatı

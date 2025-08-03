@@ -2,6 +2,7 @@
 layout: term
 title: çıkar yol
 slug: cikar-yol
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güç durumlarda insanı başarıya ulaştıran, kurtaran davranış

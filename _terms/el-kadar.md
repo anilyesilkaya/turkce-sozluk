@@ -2,6 +2,7 @@
 layout: term
 title: el kadar
 slug: el-kadar
+letter: E
 lisan: Türkçe
 anlamlar:
 - çok küçük, küçücük

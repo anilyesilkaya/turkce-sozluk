@@ -2,6 +2,7 @@
 layout: term
 title: asayiş berkemal
 slug: asayis-berkemal
+letter: A
 lisan: Türkçe
 anlamlar:
 - güvenliğin yerinde olduğunu anlatan bir söz

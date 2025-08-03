@@ -2,6 +2,7 @@
 layout: term
 title: afi
 slug: afi
+letter: A
 lisan: Rumca
 anlamlar:
 - Karşıdakini etkilemek amacıyla sergilenen abartılı davranış

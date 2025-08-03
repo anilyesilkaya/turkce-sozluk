@@ -2,6 +2,7 @@
 layout: term
 title: yazma
 slug: yazma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bohça, yemeni, başörtüsü, yorgan vb. şeyler yapmakta kullanılan, üstüne boya ve fırça ile veya tahta kalıplarla desen yapılmış bez

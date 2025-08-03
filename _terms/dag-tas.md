@@ -2,6 +2,7 @@
 layout: term
 title: dağ taş
 slug: dag-tas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Her yer, her taraf

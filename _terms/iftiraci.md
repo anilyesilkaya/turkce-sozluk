@@ -2,6 +2,7 @@
 layout: term
 title: iftiracı
 slug: iftiraci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► karalamacı

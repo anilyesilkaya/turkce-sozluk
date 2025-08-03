@@ -2,6 +2,7 @@
 layout: term
 title: uğraşılmak
 slug: ugrasilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğraşma işi yapılmak

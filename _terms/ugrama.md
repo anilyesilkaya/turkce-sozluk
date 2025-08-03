@@ -2,6 +2,7 @@
 layout: term
 title: uğrama
 slug: ugrama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğramak işi

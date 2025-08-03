@@ -2,6 +2,7 @@
 layout: term
 title: atletik hareket
 slug: atletik-hareket
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çeviklik gerektiren hareket

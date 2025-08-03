@@ -2,6 +2,7 @@
 layout: term
 title: mendebur
 slug: mendebur
+letter: M
 lisan: Farsça mendebūr
 anlamlar:
 - Sümsük (I), sünepe, pis, iğrenç

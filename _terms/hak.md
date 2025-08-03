@@ -2,6 +2,7 @@
 layout: term
 title: Hak
 slug: hak
+letter: H
 lisan: Arapça ḥaḳḳ
 anlamlar:
 - ► Allah

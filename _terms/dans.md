@@ -2,6 +2,7 @@
 layout: term
 title: dans
 slug: dans
+letter: D
 lisan: Fransızca danse
 anlamlar:
 - Müziğin temposuna uyularak yapılan ve estetik değer taşıyan düzenli vücut hareketleri; raks

@@ -2,6 +2,7 @@
 layout: term
 title: Hitlercilik
 slug: hitlercilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► Nazizm

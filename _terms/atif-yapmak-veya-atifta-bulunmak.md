@@ -2,6 +2,7 @@
 layout: term
 title: atıf yapmak (veya atıfta bulunmak)
 slug: atif-yapmak-veya-atifta-bulunmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir başkasının daha önce yayımlanmış bir çalışmasına gönderme yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: çökerme
 slug: cokerme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökermek işi

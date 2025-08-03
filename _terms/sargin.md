@@ -2,6 +2,7 @@
 layout: term
 title: sargın
 slug: sargin
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► içten

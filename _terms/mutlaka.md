@@ -2,6 +2,7 @@
 layout: term
 title: mutlaka
 slug: mutlaka
+letter: M
 lisan: Arapça muṭlaḳā
 anlamlar:
 - ► kesinlikle

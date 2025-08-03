@@ -2,6 +2,7 @@
 layout: term
 title: radyo
 slug: radyo
+letter: R
 lisan: Fransızca radio
 anlamlar:
 - Elektrik dalgalarının özelliğinden yararlanarak seslerin iletilmesi sistemi

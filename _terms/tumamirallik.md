@@ -2,6 +2,7 @@
 layout: term
 title: tümamirallik
 slug: tumamirallik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümamiral olma durumu

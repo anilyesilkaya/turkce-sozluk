@@ -2,6 +2,7 @@
 layout: term
 title: pijama
 slug: pijama
+letter: P
 lisan: Fransızca pyjama
 anlamlar:
 - Alt ve üst olmak üzere iki parçadan oluşan yatak giysisi

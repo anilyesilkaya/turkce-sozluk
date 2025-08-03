@@ -2,6 +2,7 @@
 layout: term
 title: çiskin
 slug: ciskin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiseleyen yağmur

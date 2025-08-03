@@ -2,6 +2,7 @@
 layout: term
 title: dökünme
 slug: dokunme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökünmek işi

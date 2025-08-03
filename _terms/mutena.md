@@ -2,6 +2,7 @@
 layout: term
 title: mutena
 slug: mutena
+letter: M
 lisan: Arapça muʿtenā
 anlamlar:
 - Özenilmiş, özenli bir biçimde yapılmış

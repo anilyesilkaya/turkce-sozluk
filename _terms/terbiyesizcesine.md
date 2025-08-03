@@ -2,6 +2,7 @@
 layout: term
 title: terbiyesizcesine
 slug: terbiyesizcesine
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► terbiyesizce

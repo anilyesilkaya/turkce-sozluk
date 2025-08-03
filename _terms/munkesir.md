@@ -2,6 +2,7 @@
 layout: term
 title: münkesir
 slug: munkesir
+letter: M
 lisan: Arapça munkesir
 anlamlar:
 - ► kırık (I)

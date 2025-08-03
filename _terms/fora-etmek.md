@@ -2,6 +2,7 @@
 layout: term
 title: fora etmek
 slug: fora-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - açmak, çözmek

@@ -2,6 +2,7 @@
 layout: term
 title: marangozluk
 slug: marangozluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Marangozun işi

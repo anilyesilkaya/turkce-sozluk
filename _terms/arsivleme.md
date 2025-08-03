@@ -2,6 +2,7 @@
 layout: term
 title: arşivleme
 slug: arsivleme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşivlemek işi

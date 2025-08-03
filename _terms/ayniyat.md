@@ -2,6 +2,7 @@
 layout: term
 title: ayniyat
 slug: ayniyat
+letter: A
 lisan: Arapça ʿayniyyāt
 anlamlar:
 - İş yerlerinde eşya ve malzeme işleriyle ilgilenen bölüm; özdek

@@ -2,6 +2,7 @@
 layout: term
 title: parabellum
 slug: parabellum
+letter: P
 lisan: Almanca Parabellum
 anlamlar:
 - Alman ordusunda kullanılan tabanca

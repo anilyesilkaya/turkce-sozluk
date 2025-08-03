@@ -2,6 +2,7 @@
 layout: term
 title: olgunlaşmak
 slug: olgunlasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Meyve olgun duruma gelmek

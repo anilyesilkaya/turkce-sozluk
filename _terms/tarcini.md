@@ -2,6 +2,7 @@
 layout: term
 title: tarçıni
 slug: tarcini
+letter: T
 lisan: Farsça dārçīn + Arapça -ī
 anlamlar:
 - ► tarçın rengi

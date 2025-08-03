@@ -2,6 +2,7 @@
 layout: term
 title: ıstar
 slug: istar
+letter: I
 lisan: Rumca
 anlamlar:
 - Halı, kilim dokunan tezgâh

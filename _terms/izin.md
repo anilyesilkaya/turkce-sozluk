@@ -2,6 +2,7 @@
 layout: term
 title: izin
 slug: izin
+letter: I
 lisan: Arapça iẕn
 anlamlar:
 - Bir şey yapmak için verilen veya alınan özgürlük; cevaz, destur, icazet, müsaade, ruhsat

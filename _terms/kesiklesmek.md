@@ -2,6 +2,7 @@
 layout: term
 title: kesikleşmek
 slug: kesiklesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ses vb. kesik kesik gelmek, arada bir kesilmek

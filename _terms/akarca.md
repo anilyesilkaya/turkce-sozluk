@@ -2,6 +2,7 @@
 layout: term
 title: akarca
 slug: akarca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Irmak, dere, çay gibi küçük akarsu

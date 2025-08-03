@@ -2,6 +2,7 @@
 layout: term
 title: idea
 slug: idea
+letter: I
 lisan: Yunanca
 anlamlar:
 - ► düşünce

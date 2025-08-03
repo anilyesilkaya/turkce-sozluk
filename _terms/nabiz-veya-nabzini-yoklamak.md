@@ -2,6 +2,7 @@
 layout: term
 title: nabız (veya nabzını) yoklamak
 slug: nabiz-veya-nabzini-yoklamak
+letter: N
 lisan: Türkçe
 anlamlar:
 - niyetini, düşüncesini, eğilimini anlamaya çalışmak

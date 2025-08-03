@@ -2,6 +2,7 @@
 layout: term
 title: gafil
 slug: gafil
+letter: G
 lisan: Arapça ġāfil
 anlamlar:
 - ► aymaz

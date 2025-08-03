@@ -2,6 +2,7 @@
 layout: term
 title: soluğan
 slug: solugan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Nefes darlığına tutulmuş

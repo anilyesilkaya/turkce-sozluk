@@ -2,6 +2,7 @@
 layout: term
 title: ciddileşebilmek
 slug: ciddilesebilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciddileşme ihtimali bulunmak

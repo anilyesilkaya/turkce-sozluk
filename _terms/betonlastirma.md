@@ -2,6 +2,7 @@
 layout: term
 title: betonlaştırma
 slug: betonlastirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Betonlaştırmak işi

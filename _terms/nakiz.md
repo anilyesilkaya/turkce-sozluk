@@ -2,6 +2,7 @@
 layout: term
 title: nakız
 slug: nakiz
+letter: N
 lisan: Arapça naḳż
 anlamlar:
 - Bozma, çözme

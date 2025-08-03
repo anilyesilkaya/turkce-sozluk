@@ -2,6 +2,7 @@
 layout: term
 title: reye
 slug: reye
+letter: R
 lisan: Fransızca rayé
 anlamlar:
 - Çubuklu çizgileri olan (kumaş)

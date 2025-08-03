@@ -2,6 +2,7 @@
 layout: term
 title: gelincik
 slug: gelincik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yazın kırlarda, özellikle ekin tarlalarında yetişen, kırmızı ve otsu bitki; gün gülü (Papaver rhoeas)

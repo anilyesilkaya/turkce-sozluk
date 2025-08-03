@@ -2,6 +2,7 @@
 layout: term
 title: kaptırış
 slug: kaptiris
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaptırmak işi

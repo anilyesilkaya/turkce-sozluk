@@ -2,6 +2,7 @@
 layout: term
 title: odsuz ocaksız
 slug: odsuz-ocaksiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► evsiz barksız

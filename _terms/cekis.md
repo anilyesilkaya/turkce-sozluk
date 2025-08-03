@@ -2,6 +2,7 @@
 layout: term
 title: çekiş
 slug: cekis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekmek işi

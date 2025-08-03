@@ -2,6 +2,7 @@
 layout: term
 title: tıraş bıçağı
 slug: tiras-bicagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► jilet

@@ -2,6 +2,7 @@
 layout: term
 title: işkembeli
 slug: iskembeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşkembesi olan

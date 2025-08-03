@@ -2,6 +2,7 @@
 layout: term
 title: fesüphanallah
 slug: fesuphanallah
+letter: F
 lisan: Arapça fesubḥānallah
 anlamlar:
 - Kızgınlık anında kendi kendine sabır telkin etmek için söylenen bir söz; süphanallah

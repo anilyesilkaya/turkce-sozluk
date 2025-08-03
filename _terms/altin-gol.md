@@ -2,6 +2,7 @@
 layout: term
 title: altın gol
 slug: altin-gol
+letter: A
 lisan: Türkçe
 anlamlar:
 - Elemeli futbol maçında uzatma süresinde atıldığında oyunu bitiren gol

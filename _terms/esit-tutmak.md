@@ -2,6 +2,7 @@
 layout: term
 title: eşit tutmak
 slug: esit-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ayrım yapmamak, bir saymak

@@ -2,6 +2,7 @@
 layout: term
 title: açık kapı
 slug: acik-kapi
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Herhangi bir konuda son ve kesin sözü söylemeyerek yeniden ele alınabilmesine veya değişik öneriler sunulmasına olanak tanımak" anlamındaki açık kapı bırakmak deyiminde geçen bir söz'

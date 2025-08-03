@@ -2,6 +2,7 @@
 layout: term
 title: şilin
 slug: silin
+letter: Ş
 lisan: İngilizce shilling
 anlamlar:
 - Avusturya'nın para birimi

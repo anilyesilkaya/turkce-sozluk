@@ -2,6 +2,7 @@
 layout: term
 title: hamal camal
 slug: hamal-camal
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamal vb. kimse

@@ -2,6 +2,7 @@
 layout: term
 title: tükenmez
 slug: tukenmez
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükenmeyen, bitmeyen

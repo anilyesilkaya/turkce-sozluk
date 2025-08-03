@@ -2,6 +2,7 @@
 layout: term
 title: kesatlık
 slug: kesatlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesat olma durumu

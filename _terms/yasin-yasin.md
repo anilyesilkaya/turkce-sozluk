@@ -2,6 +2,7 @@
 layout: term
 title: yaşın yaşın
 slug: yasin-yasin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► gizli gizli

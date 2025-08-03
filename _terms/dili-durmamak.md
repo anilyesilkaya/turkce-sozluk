@@ -2,6 +2,7 @@
 layout: term
 title: dili durmamak
 slug: dili-durmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sürekli konuşmak

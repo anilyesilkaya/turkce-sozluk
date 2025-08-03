@@ -2,6 +2,7 @@
 layout: term
 title: boynuzlatmak
 slug: boynuzlatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birinin birisini boynuzlamasını sağlamak

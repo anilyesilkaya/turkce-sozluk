@@ -2,6 +2,7 @@
 layout: term
 title: tutarak
 slug: tutarak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sara

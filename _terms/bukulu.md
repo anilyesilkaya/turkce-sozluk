@@ -2,6 +2,7 @@
 layout: term
 title: bükülü
 slug: bukulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükülmüş olan

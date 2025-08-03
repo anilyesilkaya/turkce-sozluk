@@ -2,6 +2,7 @@
 layout: term
 title: … süsü vermek
 slug: susu-vermek
+letter: …
 lisan: Türkçe
 anlamlar:
 - gerçekte öyle olmadığı hâlde kendisini öyle göstermek, üstün bir niteliğe sahipmiş gibi göstermek

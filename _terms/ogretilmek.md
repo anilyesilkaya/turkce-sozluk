@@ -2,6 +2,7 @@
 layout: term
 title: öğretilmek
 slug: ogretilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğretme işi yapılmak

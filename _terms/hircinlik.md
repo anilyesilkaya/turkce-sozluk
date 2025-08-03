@@ -2,6 +2,7 @@
 layout: term
 title: hırçınlık
 slug: hircinlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırçın olma durumu; aksilik

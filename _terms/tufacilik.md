@@ -2,6 +2,7 @@
 layout: term
 title: tufacılık
 slug: tufacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tufacı olma durumu

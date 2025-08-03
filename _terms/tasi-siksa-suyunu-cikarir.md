@@ -2,6 +2,7 @@
 layout: term
 title: taşı sıksa suyunu çıkarır
 slug: tasi-siksa-suyunu-cikarir
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"çok güçlü biridir, her zorluğun üstesinden gelir" anlamında kullanılan bir söz'

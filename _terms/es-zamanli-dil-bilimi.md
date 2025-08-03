@@ -2,6 +2,7 @@
 layout: term
 title: eş zamanlı dil bilimi
 slug: es-zamanli-dil-bilimi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir dilin zaman içindeki değişme ve gelişmesi sırasında, belirli bir dönemde ortaya çıkan olgularını inceleyen dil bilimi

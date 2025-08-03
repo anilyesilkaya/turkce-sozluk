@@ -2,6 +2,7 @@
 layout: term
 title: hakem kararı
 slug: hakem-karari
+letter: H
 lisan: Türkçe
 anlamlar:
 - Özellikle güreş ve boksta hakem veya hakemler verdiği karar

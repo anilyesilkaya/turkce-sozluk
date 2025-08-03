@@ -2,6 +2,7 @@
 layout: term
 title: bağrışa çağrışa
 slug: bagrisa-cagrisa
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyük gürültü ederek, bağırıp çağırarak

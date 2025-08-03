@@ -2,6 +2,7 @@
 layout: term
 title: ismiyle müsemma
 slug: ismiyle-musemma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Fiziksel yapısıyla veya karakteriyle adı örtüşen

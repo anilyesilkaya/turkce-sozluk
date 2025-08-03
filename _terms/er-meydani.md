@@ -2,6 +2,7 @@
 layout: term
 title: er meydanı
 slug: er-meydani
+letter: E
 lisan: Türkçe
 anlamlar:
 - Güreş meydanı

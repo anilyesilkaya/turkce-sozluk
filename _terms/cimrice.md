@@ -2,6 +2,7 @@
 layout: term
 title: cimrice
 slug: cimrice
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cimri gibi, cimriye yakın bir biçimde

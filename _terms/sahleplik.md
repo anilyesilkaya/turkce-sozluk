@@ -2,6 +2,7 @@
 layout: term
 title: sahleplik
 slug: sahleplik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► saleplik

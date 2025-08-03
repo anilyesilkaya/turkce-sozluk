@@ -2,6 +2,7 @@
 layout: term
 title: şaka yollu
 slug: saka-yollu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ciddi bir şeye şaka görünümü vererek

@@ -2,6 +2,7 @@
 layout: term
 title: balköpüğü
 slug: balkopugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► krem rengi

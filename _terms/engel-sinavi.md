@@ -2,6 +2,7 @@
 layout: term
 title: engel sınavı
 slug: engel-sinavi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► mazeret sınavı

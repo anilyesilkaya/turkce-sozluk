@@ -2,6 +2,7 @@
 layout: term
 title: mihrap
 slug: mihrap
+letter: M
 lisan: Arapça miḥrāb
 anlamlar:
 - Cami, mescit vb. yerlerde Kâbe yönünü gösteren, duvarda bulunan ve imama ayrılmış olan oyuk veya girintili yer

@@ -2,6 +2,7 @@
 layout: term
 title: zamanla
 slug: zamanla
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Aradan süre geçtikçe, giderek

@@ -2,6 +2,7 @@
 layout: term
 title: omuz vermek
 slug: omuz-vermek
+letter: O
 lisan: Türkçe
 anlamlar:
 - omzuyla dayanmak

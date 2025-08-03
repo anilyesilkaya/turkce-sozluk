@@ -2,6 +2,7 @@
 layout: term
 title: çiçeklemek
 slug: ciceklemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek dikmek

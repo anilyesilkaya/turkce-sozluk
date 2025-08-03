@@ -2,6 +2,7 @@
 layout: term
 title: fersiz
 slug: fersiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Donuk, cansız olan (göz, ışık, yüz)

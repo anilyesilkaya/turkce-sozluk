@@ -2,6 +2,7 @@
 layout: term
 title: damgalayıverme
 slug: damgalayiverme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damgalayıvermek işi

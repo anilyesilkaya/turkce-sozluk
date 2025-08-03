@@ -2,6 +2,7 @@
 layout: term
 title: ateş basmak
 slug: ates-basmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kızarmak, sıkılıp başına kan yürümek

@@ -2,6 +2,7 @@
 layout: term
 title: şekerlemek
 slug: sekerlemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İçine şeker koymak, şekerle tatlandırmak

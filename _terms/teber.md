@@ -2,6 +2,7 @@
 layout: term
 title: teber
 slug: teber
+letter: T
 lisan: Farsça teber
 anlamlar:
 - ► ay balta

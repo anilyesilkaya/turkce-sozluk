@@ -2,6 +2,7 @@
 layout: term
 title: maliyetli
 slug: maliyetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maliyeti yüksek olan

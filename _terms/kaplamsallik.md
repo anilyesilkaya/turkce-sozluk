@@ -2,6 +2,7 @@
 layout: term
 title: kaplamsallık
 slug: kaplamsallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaplamsal olma özelliği

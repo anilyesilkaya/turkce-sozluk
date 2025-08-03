@@ -2,6 +2,7 @@
 layout: term
 title: ziynet
 slug: ziynet
+letter: Z
 lisan: Arapça zīnet
 anlamlar:
 - ► süs

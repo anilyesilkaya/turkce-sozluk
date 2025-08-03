@@ -2,6 +2,7 @@
 layout: term
 title: çoğalış
 slug: cogalis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğalmak işi

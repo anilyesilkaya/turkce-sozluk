@@ -2,6 +2,7 @@
 layout: term
 title: öğle namazı
 slug: ogle-namazi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğle vakti kılınan namaz; öğle

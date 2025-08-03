@@ -2,6 +2,7 @@
 layout: term
 title: derin derin düşünmek
 slug: derin-derin-dusunmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok fazla düşünmek

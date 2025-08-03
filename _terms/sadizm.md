@@ -2,6 +2,7 @@
 layout: term
 title: sadizm
 slug: sadizm
+letter: S
 lisan: Fransızca sadisme
 anlamlar:
 - ► sadistlik

@@ -2,6 +2,7 @@
 layout: term
 title: deşifre etmek
 slug: desifre-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şifreyi veya güç bir yazıyı çözmek, okuyup anlamak

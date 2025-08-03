@@ -2,6 +2,7 @@
 layout: term
 title: taktik
 slug: taktik
+letter: T
 lisan: Fransızca tactique
 anlamlar:
 - İstenen sonuca ulaşmak için izlenen yol; tabiye

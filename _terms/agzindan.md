@@ -2,6 +2,7 @@
 layout: term
 title: ağzından
 slug: agzindan
+letter: A
 lisan: Türkçe
 anlamlar:
 - birisinden dinleyerek

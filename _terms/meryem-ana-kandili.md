@@ -2,6 +2,7 @@
 layout: term
 title: 'Meryem Ana kandili '
 slug: meryem-ana-kandili
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kilise, ev vb. yerlerde Meryem Ana ikonası önünde sürekli olarak yakılan kandil

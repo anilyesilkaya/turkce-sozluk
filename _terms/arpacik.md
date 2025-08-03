@@ -2,6 +2,7 @@
 layout: term
 title: arpacık
 slug: arpacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Göz kapağının kenarında çıkan küçük çıban; itdirseği

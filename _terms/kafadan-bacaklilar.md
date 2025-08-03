@@ -2,6 +2,7 @@
 layout: term
 title: kafadan bacaklılar
 slug: kafadan-bacaklilar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yumuşakçaların, baş bölgelerinde sert bir gagası ve çekmenli sekiz kolu bulunan önemli bir sınıfı (Cephalopoda)

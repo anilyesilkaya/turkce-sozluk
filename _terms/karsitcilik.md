@@ -2,6 +2,7 @@
 layout: term
 title: karşıtçılık
 slug: karsitcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► aleyhtarlık

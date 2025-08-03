@@ -2,6 +2,7 @@
 layout: term
 title: kademe
 slug: kademe
+letter: K
 lisan: Arapça ḳademe
 anlamlar:
 - ► aşama

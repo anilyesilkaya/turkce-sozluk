@@ -2,6 +2,7 @@
 layout: term
 title: malalama
 slug: malalama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Malalamak işi

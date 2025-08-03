@@ -2,6 +2,7 @@
 layout: term
 title: azar işitmek
 slug: azar-isitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - azarlanmak

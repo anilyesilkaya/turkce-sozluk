@@ -2,6 +2,7 @@
 layout: term
 title: samimiyetsizlik
 slug: samimiyetsizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► içtenliksizlik

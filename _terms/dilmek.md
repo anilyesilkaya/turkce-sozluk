@@ -2,6 +2,7 @@
 layout: term
 title: dilmek
 slug: dilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir bütünü ince ve yassı parçalara ayırarak kesmek

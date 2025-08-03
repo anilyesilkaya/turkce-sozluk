@@ -2,6 +2,7 @@
 layout: term
 title: addetmek
 slug: addetmek
+letter: A
 lisan: Arapça ʿadd + Türkçe etmek
 anlamlar:
 - ► saymak

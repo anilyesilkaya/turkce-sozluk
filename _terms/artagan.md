@@ -2,6 +2,7 @@
 layout: term
 title: artağan
 slug: artagan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bereketli

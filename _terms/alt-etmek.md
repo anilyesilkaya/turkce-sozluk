@@ -2,6 +2,7 @@
 layout: term
 title: alt etmek
 slug: alt-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - üstünlük sağlamak, yenmek

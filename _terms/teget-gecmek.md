@@ -2,6 +2,7 @@
 layout: term
 title: teğet geçmek
 slug: teget-gecmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yakınından geçmek

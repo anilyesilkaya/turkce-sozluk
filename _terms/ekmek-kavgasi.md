@@ -2,6 +2,7 @@
 layout: term
 title: ekmek kavgası
 slug: ekmek-kavgasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Geçim sağlamak için çalışıp uğraşma

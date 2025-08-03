@@ -2,6 +2,7 @@
 layout: term
 title: evrenselleşebilmek
 slug: evrensellesebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evrenselleşme ihtimali veya imkânı bulunmak

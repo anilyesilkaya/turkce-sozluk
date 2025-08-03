@@ -2,6 +2,7 @@
 layout: term
 title: fedaice
 slug: fedaice
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fedai gibi, fedaiye yakışır bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: kaval
 slug: kaval
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle kamıştan yapılan, daha çok çobanların çaldığı, yumuşak sesli, üflemeli bir çalgı

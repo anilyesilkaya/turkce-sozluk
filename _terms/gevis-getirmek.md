@@ -2,6 +2,7 @@
 layout: term
 title: geviş getirmek
 slug: gevis-getirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - yutmuş olduğu yiyeceği midesinden ağzına çıkarıp yeniden çiğnemek

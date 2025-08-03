@@ -2,6 +2,7 @@
 layout: term
 title: berenarı
 slug: berenari
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► şöyle böyle

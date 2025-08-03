@@ -2,6 +2,7 @@
 layout: term
 title: işi ileri götürmek
 slug: isi-ileri-goturmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - beklenenden daha aşırı davranışlar içine girmek

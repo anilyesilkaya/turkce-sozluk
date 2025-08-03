@@ -2,6 +2,7 @@
 layout: term
 title: almazlanmak
 slug: almazlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Almak istememek, alma konusunda nazlanmak

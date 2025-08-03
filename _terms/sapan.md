@@ -2,6 +2,7 @@
 layout: term
 title: sapan
 slug: sapan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle çocukların kuş vurmak için kullandıkları, iki uçlu çatal biçimindeki dalların uçlarına lastik ve lastiklerin arasına da geniş bir meşin parçası bağlı bulunan araç; kuş lastiği

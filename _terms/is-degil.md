@@ -2,6 +2,7 @@
 layout: term
 title: iş değil
 slug: is-degil
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyin çok kolay olduğunu belirten bir söz

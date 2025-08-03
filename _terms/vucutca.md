@@ -2,6 +2,7 @@
 layout: term
 title: vücutça
 slug: vucutca
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vücut bakımından, vücudun durumuna göre

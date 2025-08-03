@@ -2,6 +2,7 @@
 layout: term
 title: lambayı açmak
 slug: lambayi-acmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - ışığı yakmak

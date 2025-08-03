@@ -2,6 +2,7 @@
 layout: term
 title: jurnalleme
 slug: jurnalleme
+letter: J
 lisan: Türkçe
 anlamlar:
 - Jurnallemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: gölgeli
 slug: golgeli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölge altında olan

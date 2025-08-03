@@ -2,6 +2,7 @@
 layout: term
 title: başköşeye kurulmak
 slug: baskoseye-kurulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - saygın kişilere ve büyüklere ayrılan yere oturmak

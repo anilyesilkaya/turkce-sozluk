@@ -2,6 +2,7 @@
 layout: term
 title: vuzuh
 slug: vuzuh
+letter: V
 lisan: Arapça vużūḥ
 anlamlar:
 - Açık olma durumu

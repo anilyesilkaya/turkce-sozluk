@@ -2,6 +2,7 @@
 layout: term
 title: deve kini
 slug: deve-kini
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bitip tükenmek bilmeyen kin

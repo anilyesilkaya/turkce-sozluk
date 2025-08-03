@@ -2,6 +2,7 @@
 layout: term
 title: sürdürebilmek
 slug: surdurebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürdürme ihtimali veya imkânı bulunmak

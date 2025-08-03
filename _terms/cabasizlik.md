@@ -2,6 +2,7 @@
 layout: term
 title: çabasızlık
 slug: cabasizlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabasız olma durumu

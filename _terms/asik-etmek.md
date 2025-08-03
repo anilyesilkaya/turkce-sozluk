@@ -2,6 +2,7 @@
 layout: term
 title: âşık etmek
 slug: asik-etmek
+letter: Â
 lisan: Türkçe
 anlamlar:
 - birinin kendisine bağlanmasını, kendisini sevmesini sağlamak

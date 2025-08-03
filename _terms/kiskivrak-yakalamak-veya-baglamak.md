@@ -2,6 +2,7 @@
 layout: term
 title: kıskıvrak yakalamak (veya bağlamak)
 slug: kiskivrak-yakalamak-veya-baglamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kurtulamayacak veya çözülemeyecek biçimde tutmak, sımsıkı tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: fıldır fıldır
 slug: fildir-fildir
+letter: F
 lisan: Türkçe
 anlamlar:
 - Göz sürekli ve hızlı bir biçimde sağa sola dönerek

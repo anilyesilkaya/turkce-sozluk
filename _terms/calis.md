@@ -2,6 +2,7 @@
 layout: term
 title: çalış
 slug: calis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalmak işi

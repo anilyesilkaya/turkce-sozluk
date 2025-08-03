@@ -2,6 +2,7 @@
 layout: term
 title: cirit atma
 slug: cirit-atma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Atletizmin ciridi fırlatmaya dayanan dalı

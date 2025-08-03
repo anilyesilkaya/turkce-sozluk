@@ -2,6 +2,7 @@
 layout: term
 title: vasıtasızlık
 slug: vasitasizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vasıtasız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ilaçlı
 slug: ilacli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçinde ilaç bulunan

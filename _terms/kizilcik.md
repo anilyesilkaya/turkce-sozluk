@@ -2,6 +2,7 @@
 layout: term
 title: kızılcık
 slug: kizilcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızılcıkgillerden, yaprak açmadan çiçeklenen iri gövdeli bir ağaç; kiren (Cornus mas)

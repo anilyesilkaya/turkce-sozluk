@@ -2,6 +2,7 @@
 layout: term
 title: müzikleştirmek
 slug: muziklestirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müzik durumuna getirmek

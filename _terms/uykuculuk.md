@@ -2,6 +2,7 @@
 layout: term
 title: uykuculuk
 slug: uykuculuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uykucu olma durumu

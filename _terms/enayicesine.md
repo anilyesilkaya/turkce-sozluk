@@ -2,6 +2,7 @@
 layout: term
 title: enayicesine
 slug: enayicesine
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► enayice

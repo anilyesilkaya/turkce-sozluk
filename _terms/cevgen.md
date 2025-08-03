@@ -2,6 +2,7 @@
 layout: term
 title: çevgen
 slug: cevgen
+letter: Ç
 lisan: Farsça çevgān
 anlamlar:
 - ► değnek

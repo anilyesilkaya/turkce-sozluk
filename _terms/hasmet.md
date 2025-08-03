@@ -2,6 +2,7 @@
 layout: term
 title: haşmet
 slug: hasmet
+letter: H
 lisan: Arapça ḥaşmet
 anlamlar:
 - ► görkem

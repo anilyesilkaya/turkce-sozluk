@@ -2,6 +2,7 @@
 layout: term
 title: mendilli
 slug: mendilli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mendili olan

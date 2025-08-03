@@ -2,6 +2,7 @@
 layout: term
 title: Azrail
 slug: azrail
+letter: A
 lisan: Arapça ʿazrāʾīl
 anlamlar:
 - Allah tarafından insanların canını almakla görevlendirilen melek; alıcı, can alıcı

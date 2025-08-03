@@ -2,6 +2,7 @@
 layout: term
 title: dakik
 slug: dakik
+letter: D
 lisan: Arapça daḳīḳ
 anlamlar:
 - Düzenli işleyen, aksamayan
