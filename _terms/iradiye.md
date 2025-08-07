@@ -5,7 +5,7 @@ slug: iradiye
 letter: I
 lisan: Arapça irādiyye
 anlamlar:
-- ► iradecilik
+- iradecilik
 ozellikler:
 - - isim
   - eskimiş

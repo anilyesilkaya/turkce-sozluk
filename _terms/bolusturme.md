@@ -5,7 +5,7 @@ slug: bolusturme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaştırma
+- paylaştırma
 ozellikler:
 - - isim
 ornekler:

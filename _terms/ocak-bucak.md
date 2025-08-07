@@ -5,7 +5,7 @@ slug: ocak-bucak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► köşe bucak
+- köşe bucak
 ozellikler:
 - - isim
 ornekler:

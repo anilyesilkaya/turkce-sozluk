@@ -5,7 +5,7 @@ slug: farslasma
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► Acemleşme
+- Acemleşme
 ozellikler:
 - - isim
 ornekler:

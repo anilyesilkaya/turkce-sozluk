@@ -5,7 +5,7 @@ slug: klinometre
 letter: K
 lisan: Fransızca clinomètre
 anlamlar:
-- ► eğimölçer
+- eğimölçer
 ozellikler:
 - - isim
 ornekler:

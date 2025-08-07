@@ -5,7 +5,7 @@ slug: panturkizm
 letter: P
 lisan: Fransızca panturkisme
 anlamlar:
-- ► Türkçülük
+- Türkçülük
 ozellikler:
 - - isim
 ornekler:

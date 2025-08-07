@@ -5,7 +5,7 @@ slug: sersemcesine
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sersemce
+- sersemce
 ozellikler:
 - - zarf
 ornekler:

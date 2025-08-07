@@ -5,7 +5,7 @@ slug: koseli-parantez
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köşeli ayraç
+- köşeli ayraç
 ozellikler:
 - - isim
   - dil bilgisi

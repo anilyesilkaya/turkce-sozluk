@@ -5,7 +5,7 @@ slug: iskillendirmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkulandırmak
+- kuşkulandırmak
 ozellikler:
 - - -i
 ornekler:

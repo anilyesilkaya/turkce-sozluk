@@ -5,7 +5,7 @@ slug: eksibisyonizm
 letter: E
 lisan: Fransızca exhibitionnisme
 anlamlar:
-- ► göstermecilik
+- göstermecilik
 ozellikler:
 - - isim
   - ruh bilimi

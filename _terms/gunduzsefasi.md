@@ -5,7 +5,7 @@ slug: gunduzsefasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kahkaha çiçeği
+- kahkaha çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

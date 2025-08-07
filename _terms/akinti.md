@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Akmak işi
 - Bir sıvının kesintisiz biçimde akması
-- ► akım
+- akım
 - Suyun akmasını sağlayan eğim
 - Çam türü ağaçlarda bulunan reçinenin eriyerek akması olayı
 - Sıvı yapıştırıcıların ağaç yüzeylerine gereğinden çok sürülmesi ile oluşan durum

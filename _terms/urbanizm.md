@@ -5,7 +5,7 @@ slug: urbanizm
 letter: U
 lisan: İngilizce urbanism
 anlamlar:
-- ► şehircilik
+- şehircilik
 ozellikler:
 - - isim
 ornekler:

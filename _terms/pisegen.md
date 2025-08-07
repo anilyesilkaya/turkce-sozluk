@@ -5,7 +5,7 @@ slug: pisegen
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pişkin
+- pişkin
 ozellikler:
 - - sıfat
 ornekler:

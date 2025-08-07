@@ -5,7 +5,7 @@ slug: betili-sanat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► figüratif sanat
+- figüratif sanat
 ozellikler:
 - - isim
 ornekler:

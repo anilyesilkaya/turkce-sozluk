@@ -5,7 +5,7 @@ slug: illaki
 letter: I
 lisan: Arapça illā + Farsça ki
 anlamlar:
-- ► illa
+- illa
 ozellikler:
 - - zarf
 ornekler:

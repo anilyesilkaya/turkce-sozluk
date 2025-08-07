@@ -5,7 +5,7 @@ slug: cevresel-kirlilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çevre kirliliği
+- çevre kirliliği
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: suru-bagisikligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kitle bağışıklığı
+- kitle bağışıklığı
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: musamahakar
 letter: M
 lisan: Arapça musamaḥa + Farsça -kār
 anlamlar:
-- ► hoşgörülü
+- hoşgörülü
 ozellikler:
 - - sıfat
 ornekler:

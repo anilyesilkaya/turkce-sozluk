@@ -5,7 +5,7 @@ slug: ince-hastalik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► verem
+- verem
 ozellikler:
 - - isim
   - ağızlardan

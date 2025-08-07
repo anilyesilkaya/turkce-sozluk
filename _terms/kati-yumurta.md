@@ -5,7 +5,7 @@ slug: kati-yumurta
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lop yumurta
+- lop yumurta
 ozellikler:
 - - isim
 ornekler:

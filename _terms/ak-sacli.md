@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Saçı ağarmış
-- ► yaşlı
+- yaşlı
 ozellikler:
 - - sıfat
 - - sıfat

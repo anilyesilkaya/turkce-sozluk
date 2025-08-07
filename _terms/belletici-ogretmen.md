@@ -5,7 +5,7 @@ slug: belletici-ogretmen
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belletmen
+- belletmen
 ozellikler:
 - - isim
 ornekler:

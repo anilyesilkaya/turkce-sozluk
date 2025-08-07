@@ -5,8 +5,8 @@ slug: grafoloji
 letter: G
 lisan: Fransızca graphologie
 anlamlar:
-- ► yazı bilgisi
-- ► yazı bilimi
+- yazı bilgisi
+- yazı bilimi
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: erselik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erdişi
+- erdişi
 ozellikler:
 - - sıfat
   - biyoloji

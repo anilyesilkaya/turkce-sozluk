@@ -5,7 +5,7 @@ slug: apislik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağ (II)
+- ağ (II)
 ozellikler:
 - - isim
 ornekler:

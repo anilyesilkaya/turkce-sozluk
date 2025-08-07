@@ -5,8 +5,8 @@ slug: beka
 letter: B
 lisan: Arapça beḳā
 anlamlar:
-- ► kalıcılık
-- ► ölümsüzlük
+- kalıcılık
+- ölümsüzlük
 ozellikler:
 - - isim
   - eskimiş

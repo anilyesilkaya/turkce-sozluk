@@ -5,7 +5,7 @@ slug: mukavim
 letter: M
 lisan: Arapça muḳāvim
 anlamlar:
-- ► dayanıklı
+- dayanıklı
 - Karşı koyan, başkaldıran
 ozellikler:
 - - sıfat

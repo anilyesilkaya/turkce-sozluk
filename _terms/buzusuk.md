@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Büzülerek yüzey veya hacmi küçülmüş olan, büzüşmüş
-- ► kırışık
+- kırışık
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: dilak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► klitoris
+- klitoris
 ozellikler:
 - - isim
   - ağızlardan

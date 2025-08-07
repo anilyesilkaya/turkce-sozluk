@@ -5,7 +5,7 @@ slug: akilsizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akılsızca
+- akılsızca
 ozellikler:
 - - zarf
 ornekler:

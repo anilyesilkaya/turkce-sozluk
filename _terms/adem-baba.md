@@ -5,7 +5,7 @@ slug: adem-baba
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► Âdem
+- Âdem
 ozellikler:
 - - isim
 ornekler:

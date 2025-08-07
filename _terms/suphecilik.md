@@ -5,7 +5,7 @@ slug: suphecilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkuculuk
+- kuşkuculuk
 ozellikler:
 - - isim
   - felsefe

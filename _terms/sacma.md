@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Saçmak işi
-- ► serpme
+- serpme
 - Avda kullanılan fişeklerin içine konulan, türlü boylardaki küçük ve yuvarlak kurşun tanesi
 - Yersiz bulunan
 - Akla ve mantığa uymayan, gereksiz, düşünülmeden söylenen (düşünce, davranış, söz); saçma sapan, abuk, abuk sabuk, abuk subuk, abidik gubidik, pestenkerani, vahi, absürt

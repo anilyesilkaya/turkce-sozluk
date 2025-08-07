@@ -5,7 +5,7 @@ slug: perkusyon
 letter: P
 lisan: Fransızca percussion
 anlamlar:
-- ► vurmalı sazlar
+- vurmalı sazlar
 - Tanı için parmak veya alet kullanılarak vurup dinlemekle yapılan muayene
 ozellikler:
 - - isim

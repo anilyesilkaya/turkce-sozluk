@@ -5,7 +5,7 @@ slug: narcil
 letter: N
 lisan: Arapça nārcīl
 anlamlar:
-- ► Hindistan cevizi
+- Hindistan cevizi
 ozellikler:
 - - isim
   - eskimiş

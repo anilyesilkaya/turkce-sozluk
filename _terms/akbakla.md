@@ -5,7 +5,7 @@ slug: akbakla
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kuru fasulye
+- kuru fasulye
 ozellikler:
 - - isim
   - ağızlardan

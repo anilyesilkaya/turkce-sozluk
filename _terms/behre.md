@@ -5,7 +5,7 @@ slug: behre
 letter: B
 lisan: Farsça behre
 anlamlar:
-- ► kısmet
+- kısmet
 ozellikler:
 - - isim
   - eskimiş

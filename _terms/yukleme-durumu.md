@@ -5,7 +5,7 @@ slug: yukleme-durumu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► belirtme durumu
+- belirtme durumu
 ozellikler:
 - - isim
   - dil bilgisi

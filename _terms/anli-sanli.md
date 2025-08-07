@@ -5,7 +5,7 @@ slug: anli-sanli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ünlü
+- ünlü
 ozellikler:
 - - sıfat
 ornekler:

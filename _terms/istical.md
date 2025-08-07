@@ -5,7 +5,7 @@ slug: istical
 letter: I
 lisan: Arapça istiʿcāl
 anlamlar:
-- ► ivedilik
+- ivedilik
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kompetan
 letter: K
 lisan: Fransızca compétent
 anlamlar:
-- ► uzman
+- uzman
 ozellikler:
 - - sıfat
 ornekler:

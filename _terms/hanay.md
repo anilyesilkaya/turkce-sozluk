@@ -6,8 +6,8 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - İki ve daha çok katlı ev
-- ► sofa
-- ► avlu
+- sofa
+- avlu
 ozellikler:
 - - isim
   - ağızlardan

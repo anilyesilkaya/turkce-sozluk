@@ -5,7 +5,7 @@ slug: kadin-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ayıt
+- ayıt
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,8 +5,8 @@ slug: hatun
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kadın
-- ► hanım
+- kadın
+- hanım
 - Kişinin karısı
 - Yüksek makamdaki kadınlara ve hakan eşlerine verilen ünvan
 ozellikler:

@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Kilit dili
-- ► peri hastalığı
+- peri hastalığı
 ozellikler:
 - - isim
 - - isim

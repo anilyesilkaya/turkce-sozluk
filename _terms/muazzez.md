@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muʿazzez
 anlamlar:
 - Sayılan, saygı duyulan; aziz
-- ► yüce
+- yüce
 ozellikler:
 - - sıfat
   - eskimiş

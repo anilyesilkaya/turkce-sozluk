@@ -5,7 +5,7 @@ slug: dahili-deniz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç deniz
+- iç deniz
 ozellikler:
 - - isim
   - eskimiş

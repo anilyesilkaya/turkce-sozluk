@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Boya sürülmüş, boyanmış veya boyaya batırılmış
 - Belli bir renkte boyanmış olan
-- ► makyajlı
+- makyajlı
 ozellikler:
 - - sıfat
 - - sıfat

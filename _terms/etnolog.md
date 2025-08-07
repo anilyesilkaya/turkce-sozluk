@@ -5,7 +5,7 @@ slug: etnolog
 letter: E
 lisan: Fransızca ethnologue
 anlamlar:
-- ► ırk bilimci
+- ırk bilimci
 ozellikler:
 - - isim
 ornekler:

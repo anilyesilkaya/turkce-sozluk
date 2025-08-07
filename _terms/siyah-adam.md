@@ -5,7 +5,7 @@ slug: siyah-adam
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► zenci
+- zenci
 ozellikler:
 - - isim
 ornekler:

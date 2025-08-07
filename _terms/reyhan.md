@@ -5,7 +5,7 @@ slug: reyhan
 letter: R
 lisan: Arapça reyḥān
 anlamlar:
-- ► fesleğen
+- fesleğen
 ozellikler:
 - - isim
   - bitki bilimi

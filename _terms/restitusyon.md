@@ -5,7 +5,7 @@ slug: restitusyon
 letter: R
 lisan: Fransızca restitution
 anlamlar:
-- ► yeniden tasarımlama
+- yeniden tasarımlama
 ozellikler:
 - - isim
 ornekler:

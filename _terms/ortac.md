@@ -5,7 +5,7 @@ slug: ortac
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► sıfat-fiil
+- sıfat-fiil
 ozellikler:
 - - isim
   - dil bilgisi

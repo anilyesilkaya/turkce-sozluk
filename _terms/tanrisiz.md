@@ -5,7 +5,7 @@ slug: tanrisiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Allahsız
+- Allahsız
 ozellikler:
 - - sıfat
 ornekler:

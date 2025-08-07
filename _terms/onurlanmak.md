@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Onur duymak
-- ► şereflenmek
+- şereflenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

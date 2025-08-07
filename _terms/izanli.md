@@ -5,7 +5,7 @@ slug: izanli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► anlayışlı
+- anlayışlı
 ozellikler:
 - - sıfat
 ornekler:

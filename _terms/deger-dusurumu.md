@@ -5,7 +5,7 @@ slug: deger-dusurumu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► devalüasyon
+- devalüasyon
 ozellikler:
 - - isim
   - ekonomi

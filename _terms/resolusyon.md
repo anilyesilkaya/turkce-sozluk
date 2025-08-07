@@ -5,7 +5,7 @@ slug: resolusyon
 letter: R
 lisan: Fransızca résolution
 anlamlar:
-- ► çözünürlük
+- çözünürlük
 ozellikler:
 - - isim
   - kimya

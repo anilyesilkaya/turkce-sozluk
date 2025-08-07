@@ -5,7 +5,7 @@ slug: su-taskini
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sel
+- sel
 ozellikler:
 - - isim
 ornekler:

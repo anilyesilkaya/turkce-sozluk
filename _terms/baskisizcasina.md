@@ -5,7 +5,7 @@ slug: baskisizcasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baskısızca
+- baskısızca
 ozellikler:
 - - zarf
 ornekler:

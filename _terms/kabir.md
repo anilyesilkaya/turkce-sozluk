@@ -5,7 +5,7 @@ slug: kabir
 letter: K
 lisan: Arapça ḳabr
 anlamlar:
-- ► mezar
+- mezar
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça ḥarīf
 anlamlar:
 - Güven vermeyen, aşağı görülen, bayağı kimse
 - Evin erkeği
-- ► adam
+- adam
 ozellikler:
 - - isim
   - mecaz

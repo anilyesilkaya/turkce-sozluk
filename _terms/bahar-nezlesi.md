@@ -5,7 +5,7 @@ slug: bahar-nezlesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► saman nezlesi
+- saman nezlesi
 ozellikler:
 - - isim
 ornekler:

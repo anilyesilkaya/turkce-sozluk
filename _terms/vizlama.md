@@ -5,7 +5,7 @@ slug: vizlama
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vızıldama
+- vızıldama
 ozellikler:
 - - isim
 ornekler:

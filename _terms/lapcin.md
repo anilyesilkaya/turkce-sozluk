@@ -5,7 +5,7 @@ slug: lapcin
 letter: L
 lisan: Farsça lāpçīn
 anlamlar:
-- ► edik
+- edik
 ozellikler:
 - - isim
   - eskimiş

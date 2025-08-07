@@ -5,7 +5,7 @@ slug: sekunder
 letter: S
 lisan: Fransızca secondaire
 anlamlar:
-- ► ikincil
+- ikincil
 ozellikler:
 - - sıfat
 ornekler:

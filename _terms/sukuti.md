@@ -5,7 +5,7 @@ slug: sukuti
 letter: S
 lisan: Arapça sukūtī
 anlamlar:
-- ► suskun
+- suskun
 ozellikler:
 - - sıfat
   - eskimiş

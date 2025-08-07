@@ -5,7 +5,7 @@ slug: uyak-duzeni
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiye düzeni
+- kafiye düzeni
 ozellikler:
 - - isim
   - edebiyat

@@ -5,7 +5,7 @@ slug: kaca-kac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaç kaç
+- kaç kaç
 - Bir alanın eni ile boyunun ne kadar oluğunu öğrenmek için kullanılan soru sözü
 ozellikler:
 - - zarf

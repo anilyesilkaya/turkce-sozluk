@@ -5,7 +5,7 @@ slug: payitaht
 letter: P
 lisan: Farsça pāy + taḫt
 anlamlar:
-- ► başkent
+- başkent
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: iltimas
 letter: I
 lisan: Arapça iltimās
 anlamlar:
-- ► kayırma
+- kayırma
 - Birine herhangi bir konuda öncelik ve ayrıcalık tanıma
 ozellikler:
 - - isim

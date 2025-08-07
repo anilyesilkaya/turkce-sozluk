@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin bir yere yatmasını sağlamak
-- ► uyutmak
+- uyutmak
 - Geceyi geçirmesini sağlamak
 - Eğmek, yatık duruma getirmek
 - Konuk etmek

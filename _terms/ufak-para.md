@@ -5,7 +5,7 @@ slug: ufak-para
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► bozuk para
+- bozuk para
 ozellikler:
 - - isim
 ornekler:

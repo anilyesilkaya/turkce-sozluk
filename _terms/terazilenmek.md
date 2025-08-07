@@ -5,7 +5,7 @@ slug: terazilenmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dengelenmek
+- dengelenmek
 - Düşmemek için dengeyi korumak
 ozellikler:
 - - nesnesiz

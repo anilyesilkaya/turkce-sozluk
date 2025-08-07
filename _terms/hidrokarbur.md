@@ -5,7 +5,7 @@ slug: hidrokarbur
 letter: H
 lisan: Fransızca hydrocarbure
 anlamlar:
-- ► hidrokarbon
+- hidrokarbon
 ozellikler:
 - - isim
   - kimya

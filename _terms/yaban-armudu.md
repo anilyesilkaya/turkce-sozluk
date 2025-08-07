@@ -5,7 +5,7 @@ slug: yaban-armudu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ahlat (I)
+- ahlat (I)
 ozellikler:
 - - isim
   - bitki bilimi

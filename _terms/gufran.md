@@ -5,7 +5,7 @@ slug: gufran
 letter: G
 lisan: Arapça ġufrān
 anlamlar:
-- ► bağışlama
+- bağışlama
 ozellikler:
 - - isim
   - eskimiş

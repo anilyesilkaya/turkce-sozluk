@@ -8,17 +8,17 @@ anlamlar:
 - Bir şeyin, bir kimsenin kapladığı veya kaplayabileceği boşluk; mahal, mevzi
 - Gezinilen, ayakla basılan taban
 - Bulunulan, yaşanılan, oturulan bölge; mevki
-- ► konum
-- ► ülke
+- konum
+- ülke
 - Geçim sağlamak için çalışılan iş yeri
-- ► önem
-- ► iz
+- önem
+- iz
 - Üzerine yapı kurulmaya elverişli arsa
 - Ekime elverişli toprak parçası; arazi
 - Bir olayın geçtiği veya geçeceği bölüm, alan; mahal, nokta
 - Otel, motel vb.nde kalınacak oda
-- ► yerküre
-- ► durum
+- yerküre
+- durum
 ozellikler:
 - - isim
 - - isim

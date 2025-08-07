@@ -5,7 +5,7 @@ slug: koyvermek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koyuvermek
+- koyuvermek
 ozellikler:
 - - -i
 ornekler:

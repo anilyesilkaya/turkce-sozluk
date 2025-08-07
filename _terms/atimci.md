@@ -5,7 +5,7 @@ slug: atimci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hallaç
+- hallaç
 ozellikler:
 - - isim
 ornekler:

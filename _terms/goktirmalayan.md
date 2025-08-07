@@ -5,7 +5,7 @@ slug: goktirmalayan
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gökdelen
+- gökdelen
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: harf-cevirisi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► transliterasyon
+- transliterasyon
 ozellikler:
 - - isim
   - dil bilimi

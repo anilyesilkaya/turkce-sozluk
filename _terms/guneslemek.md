@@ -5,7 +5,7 @@ slug: guneslemek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güneşlenmek
+- güneşlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

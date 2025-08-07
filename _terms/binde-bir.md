@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Nadir olan, az bulunan
-- ► seyrek
+- seyrek
 ozellikler:
 - - sıfat
 - - sıfat

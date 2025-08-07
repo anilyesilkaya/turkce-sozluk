@@ -5,7 +5,7 @@ slug: muhafiz
 letter: M
 lisan: Arapça muḥāfiẓ
 anlamlar:
-- ► koruyucu
+- koruyucu
 - Bir kalenin veya bir şehrin önemli yerlerini korumak, düzeni ve güvenliği sağlamakla görevli komutan; kolcu
 ozellikler:
 - - isim

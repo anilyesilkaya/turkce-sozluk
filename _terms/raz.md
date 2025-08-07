@@ -5,7 +5,7 @@ slug: raz
 letter: R
 lisan: Farsça rāz
 anlamlar:
-- ► sır (II)
+- sır (II)
 ozellikler:
 - - isim
 ornekler:

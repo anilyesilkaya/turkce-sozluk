@@ -5,7 +5,7 @@ slug: savaskanlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► savaşçılık
+- savaşçılık
 ozellikler:
 - - isim
 ornekler:

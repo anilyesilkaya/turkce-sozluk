@@ -5,7 +5,7 @@ slug: caziplestirilme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çekicileştirilme
+- çekicileştirilme
 ozellikler:
 - - isim
 ornekler:

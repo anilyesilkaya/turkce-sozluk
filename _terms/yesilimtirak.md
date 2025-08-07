@@ -5,7 +5,7 @@ slug: yesilimtirak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeşilimsi
+- yeşilimsi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: elbasan-tava
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Elbasan tavası
+- Elbasan tavası
 ozellikler:
 - - isim
 ornekler:

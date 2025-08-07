@@ -5,7 +5,7 @@ slug: testis
 letter: T
 lisan: Latince
 anlamlar:
-- ► taşak
+- taşak
 ozellikler:
 - - isim
   - anatomi

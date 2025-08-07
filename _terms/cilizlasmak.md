@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Zayıf ve güçsüz olmak
-- ► sıskalaşmak
+- sıskalaşmak
 - Basit, değersiz, önemsiz olmak
 - Gücünü, değerini yitirmek
 ozellikler:

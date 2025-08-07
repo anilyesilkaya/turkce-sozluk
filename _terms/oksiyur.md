@@ -5,7 +5,7 @@ slug: oksiyur
 letter: O
 lisan: Fransızca oxyure
 anlamlar:
-- ► sivrikuyruk
+- sivrikuyruk
 ozellikler:
 - - isim
   - hayvan bilimi

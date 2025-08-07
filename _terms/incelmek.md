@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İnce duruma gelmek
-- ► zayıflamak
+- zayıflamak
 - Sıvı, koyu durumdan akışkan duruma gelmek, akışkanlığı artmak
 - Davranışları incelik kazanmak, kibarlaşmak
 ozellikler:

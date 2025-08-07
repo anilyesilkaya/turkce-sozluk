@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sigara konulan kap
-- ► sigara ağızlığı
+- sigara ağızlığı
 ozellikler:
 - - isim
 - - isim

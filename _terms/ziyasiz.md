@@ -5,7 +5,7 @@ slug: ziyasiz
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► ışıksız
+- ışıksız
 ozellikler:
 - - sıfat
 ornekler:

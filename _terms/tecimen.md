@@ -5,7 +5,7 @@ slug: tecimen
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tüccar
+- tüccar
 ozellikler:
 - - isim
   - eskimiş

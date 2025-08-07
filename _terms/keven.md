@@ -5,7 +5,7 @@ slug: keven
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► geven
+- geven
 ozellikler:
 - - isim
   - bitki bilimi

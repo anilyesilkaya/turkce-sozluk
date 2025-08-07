@@ -5,7 +5,7 @@ slug: inatlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inatçılık
+- inatçılık
 ozellikler:
 - - isim
 ornekler:

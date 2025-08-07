@@ -5,7 +5,7 @@ slug: tokmakci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► jigolo
+- jigolo
 ozellikler:
 - - isim
   - ağızlardan

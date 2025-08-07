@@ -5,10 +5,10 @@ slug: ajitasyon
 letter: A
 lisan: Fransızca agitation
 anlamlar:
-- ► körükleme
+- körükleme
 - Duygu sömürüsü yapma
 - İnsanın zihninde ve duygu dünyasında sarsıntı yaratma
-- ► çırpıntı
+- çırpıntı
 - Kişinin ruhsal gerginliğini dışa vurması sonucu oluşan etrafına karşı saldırganlık durumu
 ozellikler:
 - - isim

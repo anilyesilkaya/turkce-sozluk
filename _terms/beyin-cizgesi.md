@@ -5,7 +5,7 @@ slug: beyin-cizgesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► elektroensefalogram
+- elektroensefalogram
 ozellikler:
 - - isim
   - tıp

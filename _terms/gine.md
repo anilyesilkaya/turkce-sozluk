@@ -5,7 +5,7 @@ slug: gine
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yine
+- yine
 ozellikler:
 - - zarf
   - ağızlardan

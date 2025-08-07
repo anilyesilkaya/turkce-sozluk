@@ -5,7 +5,7 @@ slug: tasdiklenis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► onaylanış
+- onaylanış
 ozellikler:
 - - isim
 ornekler:

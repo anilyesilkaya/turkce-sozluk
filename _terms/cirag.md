@@ -5,7 +5,7 @@ slug: cirag
 letter: Ç
 lisan: Farsça çerāġ
 anlamlar:
-- ► çerağ
+- çerağ
 ozellikler:
 - - isim
   - eskimiş

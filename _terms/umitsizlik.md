@@ -5,7 +5,7 @@ slug: umitsizlik
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutsuzluk
+- umutsuzluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sinlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: portal
 letter: P
 lisan: İngilizce portal
 anlamlar:
-- ► ana kapı
+- ana kapı
 - Belirli bir konuya odaklanmış bilgilerin yer aldığı genel ağ sayfası; kapı
 ozellikler:
 - - isim

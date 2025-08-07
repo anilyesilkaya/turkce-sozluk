@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muḥaḳḳaḳ
 anlamlar:
 - Doğruluğu, gerçekliği kesin olarak bilinen, gerçekliği kesinleşmiş
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - sıfat
 - - sıfat

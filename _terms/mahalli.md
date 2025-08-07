@@ -5,7 +5,7 @@ slug: mahalli
 letter: M
 lisan: Arapça maḥallī
 anlamlar:
-- ► yöresel
+- yöresel
 ozellikler:
 - - sıfat
 ornekler:

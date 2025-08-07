@@ -5,8 +5,8 @@ slug: muskulpesent
 letter: M
 lisan: Arapça muşkil + Farsça -pesend
 anlamlar:
-- ► güçbeğenir
-- ► titiz
+- güçbeğenir
+- titiz
 - Bir işi yapmamak için türlü bahaneler uyduran
 ozellikler:
 - - sıfat

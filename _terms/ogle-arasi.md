@@ -5,7 +5,7 @@ slug: ogle-arasi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öğle tatili
+- öğle tatili
 ozellikler:
 - - isim
 ornekler:

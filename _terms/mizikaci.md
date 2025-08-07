@@ -5,7 +5,7 @@ slug: mizikaci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bandocu
+- bandocu
 - Armonika çalan kimse
 ozellikler:
 - - isim

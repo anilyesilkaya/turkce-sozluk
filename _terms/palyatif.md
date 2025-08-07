@@ -5,8 +5,8 @@ slug: palyatif
 letter: P
 lisan: Fransızca palliatif
 anlamlar:
-- ► geçici
-- ► geçiştirici
+- geçici
+- geçiştirici
 ozellikler:
 - - sıfat
 - - sıfat

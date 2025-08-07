@@ -5,7 +5,7 @@ slug: karik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ark
+- ark
 - Arklar arasında kalan toprak parçası; arık (I)
 - Herhangi bir tarım aletiyle açılan, fide veya fidan dikilecek ark; arık (I)
 ozellikler:

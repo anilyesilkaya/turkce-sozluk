@@ -5,7 +5,7 @@ slug: huksat
 letter: H
 lisan: İngilizce hook shot
 anlamlar:
-- ► çengel atış
+- çengel atış
 ozellikler:
 - - isim
   - spor

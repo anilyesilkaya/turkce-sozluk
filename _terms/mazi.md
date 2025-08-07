@@ -5,8 +5,8 @@ slug: mazi
 letter: M
 lisan: Arapça māżī
 anlamlar:
-- ► geçmiş
-- ► geçmiş zaman
+- geçmiş
+- geçmiş zaman
 ozellikler:
 - - isim
 - - isim

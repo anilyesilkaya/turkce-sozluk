@@ -5,7 +5,7 @@ slug: emmi-kizi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► amca kızı
+- amca kızı
 ozellikler:
 - - isim
 ornekler:

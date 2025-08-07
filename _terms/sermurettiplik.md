@@ -5,7 +5,7 @@ slug: sermurettiplik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► başdizgicilik
+- başdizgicilik
 ozellikler:
 - - isim
 ornekler:

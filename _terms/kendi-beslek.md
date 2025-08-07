@@ -5,7 +5,7 @@ slug: kendi-beslek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► özbeslenen
+- özbeslenen
 ozellikler:
 - - sıfat
   - biyoloji

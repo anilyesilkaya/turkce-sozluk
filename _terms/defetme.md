@@ -5,9 +5,9 @@ slug: defetme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovma
-- ► savma
-- ► savuşturma
+- kovma
+- savma
+- savuşturma
 ozellikler:
 - - isim
 - - isim

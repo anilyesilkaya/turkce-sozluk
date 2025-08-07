@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - '...-ınca'
-- ► aracılığıyla
+- aracılığıyla
 - Türünden, çeşidinden
 ozellikler:
 - - edat

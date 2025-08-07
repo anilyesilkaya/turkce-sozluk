@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Su veya başka bir sıvı kullanarak bir şeyi temizlemek; yumak (II)
-- ► sövmek
+- sövmek
 - Çözünmeyen bir çökeltiden ayrılması istenen suda çözünür maddeleri, yıkama yoluyla temizlemek
 ozellikler:
 - - -i

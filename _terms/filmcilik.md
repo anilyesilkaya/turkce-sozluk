@@ -5,7 +5,7 @@ slug: filmcilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► sinemacılık
+- sinemacılık
 ozellikler:
 - - isim
   - sinema

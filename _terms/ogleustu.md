@@ -5,7 +5,7 @@ slug: ogleustu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öğleye doğru
+- öğleye doğru
 ozellikler:
 - - zarf
 ornekler:

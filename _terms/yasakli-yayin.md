@@ -5,7 +5,7 @@ slug: yasakli-yayin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yasak yayın
+- yasak yayın
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hademe
 letter: H
 lisan: Arapça ḫademe
 anlamlar:
-- ► hizmetli
+- hizmetli
 ozellikler:
 - - isim
 ornekler:

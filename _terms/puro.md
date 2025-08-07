@@ -5,7 +5,7 @@ slug: puro
 letter: P
 lisan: İtalyanca puro
 anlamlar:
-- ► yaprak sigarası
+- yaprak sigarası
 ozellikler:
 - - isim
 ornekler:

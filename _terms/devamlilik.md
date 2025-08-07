@@ -5,7 +5,7 @@ slug: devamlilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► süreklilik
+- süreklilik
 ozellikler:
 - - isim
 ornekler:

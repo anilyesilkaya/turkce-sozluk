@@ -5,7 +5,7 @@ slug: muktesit
 letter: M
 lisan: Arapça muḳteṣid
 anlamlar:
-- ► tutumlu
+- tutumlu
 ozellikler:
 - - sıfat
   - eskimiş

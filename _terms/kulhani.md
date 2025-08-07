@@ -5,7 +5,7 @@ slug: kulhani
 letter: K
 lisan: Farsça kulḫan + Arapça -ī
 anlamlar:
-- ► külhanbeyi
+- külhanbeyi
 - Hafif sövgü anlamı taşıyan bir okşama sözü
 ozellikler:
 - - isim

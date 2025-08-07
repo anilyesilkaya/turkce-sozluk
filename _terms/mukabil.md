@@ -7,9 +7,9 @@ lisan: Arapça muḳābil
 anlamlar:
 - Bir şeye karşılık olarak yapılan, bir şeyin karşılığı olan
 - Bir şeyin karşısında bulunan
-- ► karşılıklı
-- ► karşı
-- ► karşın
+- karşılıklı
+- karşı
+- karşın
 ozellikler:
 - - sıfat
 - - sıfat

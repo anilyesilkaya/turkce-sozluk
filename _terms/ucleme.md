@@ -9,7 +9,7 @@ anlamlar:
 - Üçü bir arada bükülmüş
 - Bentleri üçer dizeli olan türkü
 - Bir yazarın, konu ve fikrî yapı olarak birbirini izleyen üç eseri; triloji
-- ► teslis
+- teslis
 - Bir oyuncunun aynı karşılaşmada üç sayı yapması durumu
 - Bir maçta aynı oyuncunun üç gol atması
 ozellikler:

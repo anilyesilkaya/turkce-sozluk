@@ -5,7 +5,7 @@ slug: sosyoloji
 letter: S
 lisan: Fransızca sociologie
 anlamlar:
-- ► toplum bilimi
+- toplum bilimi
 ozellikler:
 - - isim
 ornekler:

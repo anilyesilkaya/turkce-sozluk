@@ -5,7 +5,7 @@ slug: sukreyleme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şükretme
+- şükretme
 ozellikler:
 - - isim
 ornekler:

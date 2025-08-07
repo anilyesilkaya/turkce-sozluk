@@ -5,7 +5,7 @@ slug: camit
 letter: C
 lisan: Arapça cāmid
 anlamlar:
-- ► cansız
+- cansız
 - Donmuş olan
 ozellikler:
 - - sıfat

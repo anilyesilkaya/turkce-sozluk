@@ -5,7 +5,7 @@ slug: vokal-uyumu
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ünlü uyumu
+- ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

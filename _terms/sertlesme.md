@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sertleşmek işi
 - İçindeki damarlara kan dolması ile birlikte erkeklik organının sert ve dik duruma gelmesi; ereksiyon
-- ► tonsuzlaşma
+- tonsuzlaşma
 ozellikler:
 - - isim
 - - isim

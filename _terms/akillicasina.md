@@ -5,7 +5,7 @@ slug: akillicasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akıllıca
+- akıllıca
 ozellikler:
 - - zarf
 ornekler:

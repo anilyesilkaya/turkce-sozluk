@@ -5,7 +5,7 @@ slug: riyakarane
 letter: R
 lisan: Arapça riyā + Farsça -kār-āne
 anlamlar:
-- ► riyakârca
+- riyakârca
 ozellikler:
 - - zarf
   - eskimiş

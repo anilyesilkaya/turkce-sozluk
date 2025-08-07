@@ -5,7 +5,7 @@ slug: ehlisalip
 letter: E
 lisan: Arapça ehl + ṣalīb
 anlamlar:
-- ► Haçlı
+- Haçlı
 ozellikler:
 - - isim
   - eskimiş

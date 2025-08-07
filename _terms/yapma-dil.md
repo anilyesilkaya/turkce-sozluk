@@ -5,7 +5,7 @@ slug: yapma-dil
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yapay dil
+- yapay dil
 ozellikler:
 - - isim
   - dil bilimi

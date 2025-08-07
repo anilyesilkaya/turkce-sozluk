@@ -5,7 +5,7 @@ slug: indikator
 letter: I
 lisan: Fransızca indicateur
 anlamlar:
-- ► gösterge
+- gösterge
 ozellikler:
 - - isim
   - fizik

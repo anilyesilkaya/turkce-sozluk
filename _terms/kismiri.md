@@ -5,7 +5,7 @@ slug: kismiri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çekici
+- çekici
 - Esmere çalan (renk)
 ozellikler:
 - - sıfat

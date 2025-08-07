@@ -5,7 +5,7 @@ slug: camci-macunu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cam macunu
+- cam macunu
 ozellikler:
 - - isim
 ornekler:

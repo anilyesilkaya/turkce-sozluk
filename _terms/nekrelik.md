@@ -5,7 +5,7 @@ slug: nekrelik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nüktecilik
+- nüktecilik
 ozellikler:
 - - isim
 ornekler:

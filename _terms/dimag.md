@@ -5,7 +5,7 @@ slug: dimag
 letter: D
 lisan: Arapça dimāġ
 anlamlar:
-- ► beyin
+- beyin
 ozellikler:
 - - isim
   - eskimiş

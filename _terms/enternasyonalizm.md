@@ -5,7 +5,7 @@ slug: enternasyonalizm
 letter: E
 lisan: Fransızca internationalisme
 anlamlar:
-- ► uluslararasıcılık
+- uluslararasıcılık
 ozellikler:
 - - isim
 ornekler:

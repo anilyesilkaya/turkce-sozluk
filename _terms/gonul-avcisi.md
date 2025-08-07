@@ -5,7 +5,7 @@ slug: gonul-avcisi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► çapkın
+- çapkın
 ozellikler:
 - - isim
   - mecaz

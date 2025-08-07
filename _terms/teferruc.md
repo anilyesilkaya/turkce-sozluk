@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teferruc
 anlamlar:
 - İç açılması
-- ► gezinti
+- gezinti
 ozellikler:
 - - isim
   - eskimiş

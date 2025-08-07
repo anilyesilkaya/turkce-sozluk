@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkış yeri; çıkıt, mahreç
-- ► boğumlanma noktası
+- boğumlanma noktası
 ozellikler:
 - - isim
 - - isim

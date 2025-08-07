@@ -5,7 +5,7 @@ slug: benzeri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - isim
 ornekler:

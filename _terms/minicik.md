@@ -5,7 +5,7 @@ slug: minicik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► küçücük
+- küçücük
 ozellikler:
 - - sıfat
 ornekler:

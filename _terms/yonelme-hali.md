@@ -5,7 +5,7 @@ slug: yonelme-hali
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yönelme durumu
+- yönelme durumu
 ozellikler:
 - - isim
   - dil bilgisi

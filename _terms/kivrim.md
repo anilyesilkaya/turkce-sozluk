@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bükülmüş, kıvrılmış şeylerin oluşturduğu kat; büklüm, büküm, kıvrıntı
 - Bir tatlı türü
-- ► dönemeç
+- dönemeç
 - Kıvrılma sonunda oluşan toprak dalgası
 ozellikler:
 - - isim

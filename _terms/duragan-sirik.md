@@ -5,7 +5,7 @@ slug: duragan-sirik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tırmanma sırığı
+- tırmanma sırığı
 ozellikler:
 - - isim
   - spor

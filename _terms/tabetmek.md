@@ -5,7 +5,7 @@ slug: tabetmek
 letter: T
 lisan: Arapça ṭabʿ + Türkçe etmek
 anlamlar:
-- ► basmak
+- basmak
 ozellikler:
 - - -i
 ornekler:

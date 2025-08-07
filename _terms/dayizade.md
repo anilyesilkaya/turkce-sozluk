@@ -5,7 +5,7 @@ slug: dayizade
 letter: D
 lisan: Türkçe dayı + Farsça zāde
 anlamlar:
-- ► dayı oğlu
+- dayı oğlu
 ozellikler:
 - - isim
   - eskimiş

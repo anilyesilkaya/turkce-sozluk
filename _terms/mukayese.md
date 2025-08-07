@@ -5,7 +5,7 @@ slug: mukayese
 letter: M
 lisan: Arapça muḳāyese
 anlamlar:
-- ► karşılaştırma
+- karşılaştırma
 ozellikler:
 - - isim
 ornekler:

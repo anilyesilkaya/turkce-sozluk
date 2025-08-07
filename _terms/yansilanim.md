@@ -5,7 +5,7 @@ slug: yansilanim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ultrason
+- ultrason
 ozellikler:
 - - isim
   - fizik

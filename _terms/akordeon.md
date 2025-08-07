@@ -5,7 +5,7 @@ slug: akordeon
 letter: A
 lisan: Fransızca accordéon
 anlamlar:
-- ► akordiyon
+- akordiyon
 ozellikler:
 - - isim
   - müzik

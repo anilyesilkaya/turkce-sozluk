@@ -5,7 +5,7 @@ slug: fikirdaklik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fingirdeklik
+- fingirdeklik
 ozellikler:
 - - isim
 ornekler:

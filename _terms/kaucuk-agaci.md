@@ -5,7 +5,7 @@ slug: kaucuk-agaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kauçuk
+- kauçuk
 ozellikler:
 - - isim
 ornekler:

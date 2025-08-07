@@ -5,7 +5,7 @@ slug: lokatif
 letter: L
 lisan: Fransızca locatif
 anlamlar:
-- ► bulunma durumu
+- bulunma durumu
 ozellikler:
 - - isim
   - dil bilgisi

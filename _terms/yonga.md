@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Kesilen, yontulan veya rendelenen bir şeyden çıkan parça; kamga
-- ► çip
+- çip
 ozellikler:
 - - isim
 - - isim

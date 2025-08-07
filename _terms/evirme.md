@@ -5,7 +5,7 @@ slug: evirme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evirtim
+- evirtim
 - Bir önermenin konusunu yüklem, yüklemini de konu durumuna getirerek vargısı doğru olan yeni bir önerme çıkarma; akis
 ozellikler:
 - - isim

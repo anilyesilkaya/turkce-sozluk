@@ -5,7 +5,7 @@ slug: alin-teri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► emek
+- emek
 ozellikler:
 - - isim
   - mecaz

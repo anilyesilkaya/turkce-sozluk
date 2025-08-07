@@ -5,7 +5,7 @@ slug: fokus
 letter: F
 lisan: İngilizce focus
 anlamlar:
-- ► odak
+- odak
 ozellikler:
 - - isim
   - fizik

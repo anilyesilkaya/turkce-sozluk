@@ -5,7 +5,7 @@ slug: soz-ebeligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► laf ebeliği
+- laf ebeliği
 ozellikler:
 - - isim
 ornekler:

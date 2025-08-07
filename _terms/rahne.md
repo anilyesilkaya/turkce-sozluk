@@ -5,7 +5,7 @@ slug: rahne
 letter: R
 lisan: Farsça raḫne
 anlamlar:
-- ► gedik
+- gedik
 ozellikler:
 - - isim
   - eskimiş

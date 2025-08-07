@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uçucu olma durumu
-- ► pilotluk
+- pilotluk
 - Düşük sıcaklıkta hızla buhar ve gaz durumuna geçebilen bir maddenin özelliği
 ozellikler:
 - - isim

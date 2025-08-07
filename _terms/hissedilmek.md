@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hissetme işine konu olmak; hissolunmak
-- ► sezilmek
+- sezilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

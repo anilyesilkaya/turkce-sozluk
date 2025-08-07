@@ -5,7 +5,7 @@ slug: el-ayasi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► avuç içi
+- avuç içi
 ozellikler:
 - - isim
 ornekler:

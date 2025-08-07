@@ -5,7 +5,7 @@ slug: nuktedan
 letter: N
 lisan: Arapça nukte + Farsça -dān
 anlamlar:
-- ► nükteci
+- nükteci
 ozellikler:
 - - sıfat
   - eskimiş

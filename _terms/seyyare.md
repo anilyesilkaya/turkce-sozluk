@@ -5,7 +5,7 @@ slug: seyyare
 letter: S
 lisan: Arapça seyyāre
 anlamlar:
-- ► gezegen
+- gezegen
 ozellikler:
 - - isim
   - eskimiş

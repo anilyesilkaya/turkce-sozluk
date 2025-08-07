@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Meşin torba
 - Bir müzik topluluğunun veya sanatçının hazırlamış olduğu parçalar; repertuvar
-- ► bellek
+- bellek
 ozellikler:
 - - isim
 - - isim

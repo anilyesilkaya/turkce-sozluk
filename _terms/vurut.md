@@ -5,7 +5,7 @@ slug: vurut
 letter: V
 lisan: Arapça vurūd
 anlamlar:
-- ► geliş
+- geliş
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Ahşap yapılarda çıkmaların altına eğik ve aralıklı olarak konulan ahşap destek
-- ► elibelinde
+- elibelinde
 ozellikler:
 - - isim
   - mimarlık

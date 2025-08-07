@@ -5,7 +5,7 @@ slug: dekoder
 letter: D
 lisan: İngilizce decoder
 anlamlar:
-- ► çözücü
+- çözücü
 ozellikler:
 - - isim
 ornekler:

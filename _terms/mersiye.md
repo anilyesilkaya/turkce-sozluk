@@ -5,7 +5,7 @@ slug: mersiye
 letter: M
 lisan: Arapça mers̱iye
 anlamlar:
-- ► ağıt
+- ağıt
 ozellikler:
 - - isim
   - edebiyat

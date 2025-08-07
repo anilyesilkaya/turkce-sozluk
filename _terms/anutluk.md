@@ -5,7 +5,7 @@ slug: anutluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► inatçılık
+- inatçılık
 ozellikler:
 - - isim
 ornekler:

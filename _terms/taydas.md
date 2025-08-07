@@ -5,7 +5,7 @@ slug: taydas
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► akran
+- akran
 ozellikler:
 - - isim
   - ağızlardan

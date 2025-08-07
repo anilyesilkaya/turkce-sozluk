@@ -6,7 +6,7 @@ letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir lira değerinde olan
-- ► sarı lira
+- sarı lira
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: duzmece
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sahte
+- sahte
 ozellikler:
 - - sıfat
 ornekler:

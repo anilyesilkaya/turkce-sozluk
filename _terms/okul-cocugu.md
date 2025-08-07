@@ -5,7 +5,7 @@ slug: okul-cocugu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► öğrenci
+- öğrenci
 ozellikler:
 - - isim
 ornekler:

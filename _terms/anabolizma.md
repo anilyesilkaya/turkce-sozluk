@@ -5,7 +5,7 @@ slug: anabolizma
 letter: A
 lisan: Fransızca anabolisme
 anlamlar:
-- ► özümleme
+- özümleme
 ozellikler:
 - - isim
   - biyoloji

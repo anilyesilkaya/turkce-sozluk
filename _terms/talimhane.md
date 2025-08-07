@@ -5,7 +5,7 @@ slug: talimhane
 letter: T
 lisan: Arapça taʿlīm + Farsça ḫāne
 anlamlar:
-- ► eğitim alanı
+- eğitim alanı
 ozellikler:
 - - isim
   - eskimiş

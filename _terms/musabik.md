@@ -5,8 +5,8 @@ slug: musabik
 letter: M
 lisan: Arapça musābiḳ
 anlamlar:
-- ► yarışçı
-- ► yarışmacı
+- yarışçı
+- yarışmacı
 ozellikler:
 - - isim
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Başkalaşmak işi
 - Oğulcuk evresinden ergin olana değin bir hayvanın geçirdiği biçim ve yapı değişimleri; istihale, metamorfoz
-- ► benzeşmezlik
+- benzeşmezlik
 ozellikler:
 - - isim
 - - isim

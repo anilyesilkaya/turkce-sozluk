@@ -5,7 +5,7 @@ slug: imamkayigi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tabut
+- tabut
 ozellikler:
 - - isim
   - argo

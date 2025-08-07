@@ -5,7 +5,7 @@ slug: igneyurdu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iğne deliği
+- iğne deliği
 ozellikler:
 - - isim
 ornekler:

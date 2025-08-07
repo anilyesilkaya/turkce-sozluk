@@ -5,9 +5,9 @@ slug: mukarenet
 letter: M
 lisan: Arapça muḳārenet
 anlamlar:
-- ► yaklaşma
-- ► yakınlık
-- ► uygunluk
+- yaklaşma
+- yakınlık
+- uygunluk
 ozellikler:
 - - isim
   - eskimiş

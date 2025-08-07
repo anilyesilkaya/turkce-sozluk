@@ -5,8 +5,8 @@ slug: iye
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sahip
-- ► veli
+- sahip
+- veli
 ozellikler:
 - - isim
 - - isim

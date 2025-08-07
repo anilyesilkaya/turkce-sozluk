@@ -5,7 +5,7 @@ slug: musahabe
 letter: M
 lisan: Arapça muṣāḥabe
 anlamlar:
-- ► konuşma
+- konuşma
 ozellikler:
 - - isim
   - eskimiş

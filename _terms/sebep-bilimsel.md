@@ -5,7 +5,7 @@ slug: sebep-bilimsel
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► neden bilimsel
+- neden bilimsel
 ozellikler:
 - - sıfat
 ornekler:

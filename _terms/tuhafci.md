@@ -5,7 +5,7 @@ slug: tuhafci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tuhafiyeci
+- tuhafiyeci
 ozellikler:
 - - isim
 ornekler:

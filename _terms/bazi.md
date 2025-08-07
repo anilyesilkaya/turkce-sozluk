@@ -7,7 +7,7 @@ lisan: Arapça baʿż
 anlamlar:
 - (nesne için) Bir kısım, bir miktar
 - Belirsiz bir çoklukta olan (nesne)
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - isim
 - - isim

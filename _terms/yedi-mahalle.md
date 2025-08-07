@@ -5,7 +5,7 @@ slug: yedi-mahalle
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► herkes
+- herkes
 - Bütün çevre
 - Çok uzak yer
 ozellikler:

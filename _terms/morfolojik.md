@@ -5,7 +5,7 @@ slug: morfolojik
 letter: M
 lisan: Fransızca morphologique
 anlamlar:
-- ► yapı bilimsel
+- yapı bilimsel
 ozellikler:
 - - sıfat
 ornekler:

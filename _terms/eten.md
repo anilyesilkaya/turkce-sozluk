@@ -5,7 +5,7 @@ slug: eten
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► döl eşi
+- döl eşi
 - Yemişlerin yenilen bölümü
 ozellikler:
 - - isim

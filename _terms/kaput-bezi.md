@@ -5,7 +5,7 @@ slug: kaput-bezi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Amerikan bezi
+- Amerikan bezi
 ozellikler:
 - - isim
 ornekler:

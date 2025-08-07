@@ -5,7 +5,7 @@ slug: zahirde
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► görünüşte
+- görünüşte
 ozellikler:
 - - zarf
 ornekler:

@@ -5,8 +5,8 @@ slug: lamise
 letter: L
 lisan: Arapça lāmise
 anlamlar:
-- ► dokunum
-- ► duyarga
+- dokunum
+- duyarga
 ozellikler:
 - - isim
   - eskimiş

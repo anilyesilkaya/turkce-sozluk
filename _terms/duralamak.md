@@ -5,7 +5,7 @@ slug: duralamak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duraklamak
+- duraklamak
 ozellikler:
 - - nesnesiz
 ornekler:

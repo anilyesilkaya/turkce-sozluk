@@ -5,7 +5,7 @@ slug: dore
 letter: D
 lisan: Fransızca doré
 anlamlar:
-- ► altın sarısı
+- altın sarısı
 - Bu renkte olan
 ozellikler:
 - - isim

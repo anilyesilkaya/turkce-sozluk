@@ -5,7 +5,7 @@ slug: kansiz-ameliyat
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► laparoskopik ameliyat
+- laparoskopik ameliyat
 ozellikler:
 - - isim
   - ağızlardan

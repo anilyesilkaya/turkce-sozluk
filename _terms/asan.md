@@ -5,8 +5,8 @@ slug: asan
 letter: A
 lisan: Farsça āsān
 anlamlar:
-- ► kolay
-- ► kolayca
+- kolay
+- kolayca
 ozellikler:
 - - sıfat
 - - sıfat

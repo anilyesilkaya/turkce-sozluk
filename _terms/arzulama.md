@@ -5,7 +5,7 @@ slug: arzulama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteme
+- isteme
 ozellikler:
 - - isim
 ornekler:

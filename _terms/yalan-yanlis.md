@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerçek olmayan, yanlış şeylerle dolu; ters pers
-- ► üstünkörü
+- üstünkörü
 - Doğru, düzgün olmasına önem verilmeyerek
 ozellikler:
 - - sıfat

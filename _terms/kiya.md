@@ -5,7 +5,7 @@ slug: kiya
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► cinayet
+- cinayet
 ozellikler:
 - - isim
 ornekler:

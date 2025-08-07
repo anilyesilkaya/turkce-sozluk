@@ -5,7 +5,7 @@ slug: sarierik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kayısı
+- kayısı
 ozellikler:
 - - isim
   - ağızlardan

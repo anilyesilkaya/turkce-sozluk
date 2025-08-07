@@ -5,7 +5,7 @@ slug: agzi-bozukluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► küfürbazlık
+- küfürbazlık
 ozellikler:
 - - isim
 ornekler:

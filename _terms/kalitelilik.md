@@ -5,7 +5,7 @@ slug: kalitelilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► niteliklilik
+- niteliklilik
 ozellikler:
 - - isim
 ornekler:

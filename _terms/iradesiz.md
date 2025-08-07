@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İradesi olmayan; istençsiz
-- ► irade dışı
+- irade dışı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: filvaki
 letter: F
 lisan: Arapça fi'l-vāḳiʿ
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
   - eskimiş

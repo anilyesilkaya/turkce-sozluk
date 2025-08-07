@@ -5,7 +5,7 @@ slug: tesbih
 letter: T
 lisan: Arapça teşbīh
 anlamlar:
-- ► benzetme
+- benzetme
 ozellikler:
 - - isim
   - edebiyat

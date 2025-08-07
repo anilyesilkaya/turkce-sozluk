@@ -5,7 +5,7 @@ slug: kosullanis
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartlanış
+- şartlanış
 ozellikler:
 - - isim
 ornekler:

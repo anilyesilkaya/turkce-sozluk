@@ -5,7 +5,7 @@ slug: zirildanmak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırıldamak
+- zırıldamak
 ozellikler:
 - - nesnesiz
 ornekler:

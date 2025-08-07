@@ -6,7 +6,7 @@ letter: D
 lisan: Farsça taġār
 anlamlar:
 - Ağzı yayvan, dibi dar toprak kap
-- ► bellek
+- bellek
 ozellikler:
 - - isim
 - - isim

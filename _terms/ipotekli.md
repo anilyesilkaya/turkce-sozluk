@@ -5,7 +5,7 @@ slug: ipotekli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tutulu
+- tutulu
 ozellikler:
 - - sıfat
   - ticaret

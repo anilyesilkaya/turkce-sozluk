@@ -5,7 +5,7 @@ slug: circiplaklik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çırılçıplaklık
+- çırılçıplaklık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fire
 letter: F
 lisan: Rumca
 anlamlar:
-- ► ağırlık yitimi
+- ağırlık yitimi
 - Bir iş yapılırken çıkan artık parça
 - Eksik, noksan olan
 ozellikler:

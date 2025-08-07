@@ -5,7 +5,7 @@ slug: sahitlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tanıklık
+- tanıklık
 ozellikler:
 - - isim
 ornekler:

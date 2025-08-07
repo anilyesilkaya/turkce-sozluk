@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Düz, açık ve geniş yer; meydan, saha
 - Orman içinde düz ve ağaçsız yer; düzlük, kayran
-- ► yüz ölçümü
+- yüz ölçümü
 - Eski Roma'da açık hava gösterisi yapılan geniş yer
 - Bir çalışma çevresi
 - İçinde birtakım kuvvet çizgilerinin yayılmış bulunduğu varsayılan uzay parçası

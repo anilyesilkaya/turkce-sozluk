@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iḳrār
 anlamlar:
 - Saklamayıp doğruca söyleme, açıkça söyleme
-- ► bildirme
+- bildirme
 - Kabul etme
 ozellikler:
 - - isim

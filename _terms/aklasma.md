@@ -5,7 +5,7 @@ slug: aklasma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlaşma
+- beyazlaşma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: serit-baligi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kurdele balığı
+- kurdele balığı
 ozellikler:
 - - isim
   - hayvan bilimi

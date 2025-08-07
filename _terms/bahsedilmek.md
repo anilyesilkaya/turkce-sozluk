@@ -5,7 +5,7 @@ slug: bahsedilmek
 letter: B
 lisan: Farsça baḫş + Türkçe edilmek
 anlamlar:
-- ► bağışlanmak
+- bağışlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: samankapan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kehribar
+- kehribar
 ozellikler:
 - - isim
 ornekler:

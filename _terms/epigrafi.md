@@ -5,7 +5,7 @@ slug: epigrafi
 letter: E
 lisan: Fransızca épigraphie
 anlamlar:
-- ► yazıt bilimi
+- yazıt bilimi
 ozellikler:
 - - isim
 ornekler:

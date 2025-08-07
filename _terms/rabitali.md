@@ -5,9 +5,9 @@ slug: rabitali
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► düzgün
+- düzgün
 - Sözünü bilen, tutarlı, ağırbaşlı
-- ► bağlantılı
+- bağlantılı
 ozellikler:
 - - sıfat
 - - sıfat

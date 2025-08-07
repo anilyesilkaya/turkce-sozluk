@@ -5,7 +5,7 @@ slug: kalvenizm
 letter: K
 lisan: Fransızca calvinisme
 anlamlar:
-- ► Kalvencilik
+- Kalvencilik
 ozellikler:
 - - isim
   - felsefe

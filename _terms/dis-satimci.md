@@ -5,7 +5,7 @@ slug: dis-satimci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ihracatçı
+- ihracatçı
 ozellikler:
 - - isim
 ornekler:

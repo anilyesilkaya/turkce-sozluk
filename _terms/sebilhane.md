@@ -5,7 +5,7 @@ slug: sebilhane
 letter: S
 lisan: Arapça sebīl + Farsça ḫāne
 anlamlar:
-- ► sebil
+- sebil
 ozellikler:
 - - isim
 ornekler:

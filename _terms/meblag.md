@@ -5,7 +5,7 @@ slug: meblag
 letter: M
 lisan: Arapça meblaġ
 anlamlar:
-- ► tutar
+- tutar
 ozellikler:
 - - isim
 ornekler:

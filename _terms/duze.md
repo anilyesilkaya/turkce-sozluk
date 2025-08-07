@@ -5,7 +5,7 @@ slug: duze
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doz
+- doz
 ozellikler:
 - - isim
   - kimya

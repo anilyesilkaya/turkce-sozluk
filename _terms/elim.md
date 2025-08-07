@@ -5,7 +5,7 @@ slug: elim
 letter: E
 lisan: Arapça elīm
 anlamlar:
-- ► acıklı
+- acıklı
 ozellikler:
 - - sıfat
   - eskimiş

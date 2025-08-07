@@ -5,7 +5,7 @@ slug: tabolunma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► basılma
+- basılma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yuklenti
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► angarya
+- angarya
 ozellikler:
 - - isim
 ornekler:

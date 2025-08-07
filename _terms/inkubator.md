@@ -5,7 +5,7 @@ slug: inkubator
 letter: I
 lisan: Fransızca incubateur
 anlamlar:
-- ► kuluçkalık
+- kuluçkalık
 ozellikler:
 - - isim
 ornekler:

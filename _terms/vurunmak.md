@@ -5,7 +5,7 @@ slug: vurunmak
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► dövünmek
+- dövünmek
 - Giyinmek, örtünmek
 ozellikler:
 - - nesnesiz

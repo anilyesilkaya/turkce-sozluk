@@ -5,7 +5,7 @@ slug: gidi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gıdık
+- gıdık
 ozellikler:
 - - isim
 ornekler:

@@ -15,7 +15,7 @@ anlamlar:
 - Geçmek, ilerlemek, değişmek
 - Bir işte ileri gitmek
 - Gereği gibi yapılmak veya ilerlemek
-- ► ölmek
+- ölmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

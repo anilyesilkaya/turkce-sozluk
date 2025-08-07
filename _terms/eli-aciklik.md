@@ -5,7 +5,7 @@ slug: eli-aciklik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► cömertlik
+- cömertlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hukumet-merkezi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► başkent
+- başkent
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: maksatlilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► amaçlılık
+- amaçlılık
 ozellikler:
 - - isim
 ornekler:

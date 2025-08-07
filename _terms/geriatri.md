@@ -5,7 +5,7 @@ slug: geriatri
 letter: G
 lisan: Fransızca gériatrie
 anlamlar:
-- ► yaşlılık bilimi
+- yaşlılık bilimi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: batticikti
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► alt geçit
+- alt geçit
 - Su kanallarında suyun engeli geçmesi için yapılan düzenek
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: egitsel-film
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğitici film
+- eğitici film
 ozellikler:
 - - isim
 ornekler:

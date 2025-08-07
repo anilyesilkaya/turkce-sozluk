@@ -5,7 +5,7 @@ slug: irrasyonel
 letter: I
 lisan: Fransızca irrationnel
 anlamlar:
-- ► akıl dışı
+- akıl dışı
 ozellikler:
 - - sıfat
   - felsefe

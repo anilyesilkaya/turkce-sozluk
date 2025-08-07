@@ -5,7 +5,7 @@ slug: yuz-kiri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüz karası
+- yüz karası
 ozellikler:
 - - isim
   - mecaz

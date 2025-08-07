@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça aḫlāḳiyāt
 anlamlar:
 - Ahlakla ilgili konular, görüşler
-- ► ahlak bilimi
+- ahlak bilimi
 ozellikler:
 - - isim
   - eskimiş

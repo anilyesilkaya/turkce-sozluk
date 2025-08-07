@@ -5,7 +5,7 @@ slug: okur
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► okuyucu
+- okuyucu
 ozellikler:
 - - isim
 ornekler:

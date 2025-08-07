@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca paradoxe
 anlamlar:
 - Aykırı düşünce
-- ► çelişki
+- çelişki
 - Düşünceler arasında tartışmaya açık, kesin bir yargı içermeyen karşıtlık
 ozellikler:
 - - isim

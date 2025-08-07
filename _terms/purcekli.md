@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pürçeği olan
-- ► havuç
+- havuç
 ozellikler:
 - - sıfat
 - - sıfat

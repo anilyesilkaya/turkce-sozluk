@@ -5,7 +5,7 @@ slug: cogaltan
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çarpan
+- çarpan
 ozellikler:
 - - isim
   - matematik

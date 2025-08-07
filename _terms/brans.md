@@ -5,7 +5,7 @@ slug: brans
 letter: B
 lisan: Fransızca branche
 anlamlar:
-- ► kol (I)
+- kol (I)
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sunmak işi
 - Büyüklere söylenilen söz; maruzat
-- ► ön söz
+- ön söz
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: hilat
 letter: H
 lisan: Arapça ḫilʿat
 anlamlar:
-- ► kaftan
+- kaftan
 ozellikler:
 - - isim
   - tarih

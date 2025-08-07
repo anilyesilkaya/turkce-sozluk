@@ -5,7 +5,7 @@ slug: rot-mili
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► rot kolu
+- rot kolu
 ozellikler:
 - - isim
 ornekler:

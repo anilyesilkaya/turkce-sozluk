@@ -5,7 +5,7 @@ slug: fonolojik
 letter: F
 lisan: Fransızca phonologique
 anlamlar:
-- ► ses bilimsel
+- ses bilimsel
 ozellikler:
 - - sıfat
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: stepne
 letter: S
 lisan: İngilizce spare tire'dan
 anlamlar:
-- ► yedek lastik
+- yedek lastik
 ozellikler:
 - - isim
 ornekler:

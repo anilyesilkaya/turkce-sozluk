@@ -5,7 +5,7 @@ slug: marina
 letter: M
 lisan: İtalyanca marina
 anlamlar:
-- ► yat limanı
+- yat limanı
 ozellikler:
 - - isim
   - denizcilik

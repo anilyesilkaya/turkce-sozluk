@@ -9,7 +9,7 @@ anlamlar:
 - Yeşil bitkileri çok olan yer
 - Marul, maydanoz, tere, roka vb. çiğ yenen, salata malzemesi olan sebzelerin genel adı
 - Yeşil ot
-- ► gevezelik
+- gevezelik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: seyyah
 letter: S
 lisan: Arapça seyyāḥ
 anlamlar:
-- ► gezgin
+- gezgin
 ozellikler:
 - - isim
   - eskimiş

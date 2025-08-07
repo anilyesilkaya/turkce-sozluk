@@ -5,7 +5,7 @@ slug: ini
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kayınbirader
+- kayınbirader
 ozellikler:
 - - isim
   - ağızlardan

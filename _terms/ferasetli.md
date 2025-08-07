@@ -5,7 +5,7 @@ slug: ferasetli
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► anlayışlı
+- anlayışlı
 ozellikler:
 - - sıfat
 ornekler:

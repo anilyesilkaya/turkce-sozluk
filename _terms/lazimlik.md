@@ -5,7 +5,7 @@ slug: lazimlik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► ördek
+- ördek
 ozellikler:
 - - isim
 ornekler:

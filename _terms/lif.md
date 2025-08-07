@@ -9,7 +9,7 @@ anlamlar:
 - Hayvan, bitki, mineral vb. doğal maddelerden elde edilen ince iplik
 - Besinlerin vücutta bağırsak enzimleri tarafından sindirilemeyen kısmı
 - Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü
-- ► tel
+- tel
 ozellikler:
 - - isim
 - - isim

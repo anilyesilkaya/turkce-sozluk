@@ -5,7 +5,7 @@ slug: libassiz
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► giysisiz
+- giysisiz
 ozellikler:
 - - sıfat
 ornekler:

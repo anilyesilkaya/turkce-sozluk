@@ -5,7 +5,7 @@ slug: mucizevi
 letter: M
 lisan: Arapça muʿcizevī
 anlamlar:
-- ► mucizeli
+- mucizeli
 ozellikler:
 - - sıfat
 ornekler:

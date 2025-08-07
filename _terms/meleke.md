@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça meleke
 anlamlar:
 - Tekrarlama sonucu kazanılan yatkınlık, alışkanlık
-- ► yeti
+- yeti
 - Yelken makarası
 ozellikler:
 - - isim

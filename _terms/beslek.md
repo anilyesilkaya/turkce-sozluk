@@ -5,8 +5,8 @@ slug: beslek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► besleme
-- ► beslenen
+- besleme
+- beslenen
 ozellikler:
 - - isim
   - ağızlardan

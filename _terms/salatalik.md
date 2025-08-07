@@ -5,7 +5,7 @@ slug: salatalik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hıyar (I)
+- hıyar (I)
 - Salata yapmak için kullanılan
 ozellikler:
 - - isim

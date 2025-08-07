@@ -5,7 +5,7 @@ slug: mahviyet
 letter: M
 lisan: Arapça maḥviyyet
 anlamlar:
-- ► alçak gönüllülük
+- alçak gönüllülük
 ozellikler:
 - - isim
   - eskimiş

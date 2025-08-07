@@ -5,7 +5,7 @@ slug: vahilik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► saçmalık
+- saçmalık
 ozellikler:
 - - isim
 ornekler:

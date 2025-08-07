@@ -8,7 +8,7 @@ anlamlar:
 - Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ
 - Alışverişte öteberi taşımak için kullanılan, ilmeklerden oluşan ağ torba
 - Saçların dağılmaması için kullanılan ağ biçiminde örgü
-- ► ağ (I)
+- ağ (I)
 ozellikler:
 - - isim
 - - isim

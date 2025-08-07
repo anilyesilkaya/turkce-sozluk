@@ -5,7 +5,7 @@ slug: ucuzuna
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ucuzca
+- ucuzca
 ozellikler:
 - - zarf
 ornekler:

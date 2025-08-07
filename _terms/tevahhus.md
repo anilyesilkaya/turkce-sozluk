@@ -5,7 +5,7 @@ slug: tevahhus
 letter: T
 lisan: Arapça tevaḥḥuş
 anlamlar:
-- ► ürkme
+- ürkme
 ozellikler:
 - - isim
   - eskimiş

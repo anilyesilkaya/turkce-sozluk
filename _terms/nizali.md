@@ -5,7 +5,7 @@ slug: nizali
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kavgalı
+- kavgalı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kaolin
 letter: K
 lisan: Fransızca kaolin
 anlamlar:
-- ► arı kil
+- arı kil
 ozellikler:
 - - isim
 ornekler:

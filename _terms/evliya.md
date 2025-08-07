@@ -5,7 +5,7 @@ slug: evliya
 letter: E
 lisan: Arapça evliyā
 anlamlar:
-- ► ermiş
+- ermiş
 ozellikler:
 - - isim
   - din bilimi

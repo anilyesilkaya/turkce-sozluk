@@ -5,7 +5,7 @@ slug: eytisim
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► diyalektik
+- diyalektik
 ozellikler:
 - - isim
 ornekler:

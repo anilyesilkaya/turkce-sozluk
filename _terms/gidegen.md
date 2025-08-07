@@ -5,7 +5,7 @@ slug: gidegen
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göl ayağı
+- göl ayağı
 ozellikler:
 - - isim
   - coğrafya

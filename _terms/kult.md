@@ -5,7 +5,7 @@ slug: kult
 letter: K
 lisan: Fransızca culte
 anlamlar:
-- ► din (I)
+- din (I)
 - Yerel özellikler taşıyan dinî törenler
 - Belli bir dönemde aşırı ilgi gören (film vb.)
 ozellikler:

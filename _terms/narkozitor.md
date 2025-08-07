@@ -5,7 +5,7 @@ slug: narkozitor
 letter: N
 lisan: Fransızca narcositeur
 anlamlar:
-- ► narkozcu
+- narkozcu
 ozellikler:
 - - isim
   - tıp

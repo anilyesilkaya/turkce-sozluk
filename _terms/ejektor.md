@@ -5,7 +5,7 @@ slug: ejektor
 letter: E
 lisan: Fransızca éjecteur
 anlamlar:
-- ► fışkırtıcı
+- fışkırtıcı
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: ispatlanmak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtlanmak
-- ► tanıtlanmak
+- kanıtlanmak
+- tanıtlanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: murabahacilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tefecilik
+- tefecilik
 ozellikler:
 - - isim
 ornekler:

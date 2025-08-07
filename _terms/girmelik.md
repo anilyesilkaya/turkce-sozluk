@@ -5,7 +5,7 @@ slug: girmelik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giriş ücreti
+- giriş ücreti
 ozellikler:
 - - isim
 ornekler:

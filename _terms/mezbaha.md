@@ -5,7 +5,7 @@ slug: mezbaha
 letter: M
 lisan: Arapça meẕbaḥa
 anlamlar:
-- ► kesimevi
+- kesimevi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: eder
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► fiyat
+- fiyat
 ozellikler:
 - - isim
 ornekler:

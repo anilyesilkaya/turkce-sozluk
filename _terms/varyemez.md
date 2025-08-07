@@ -5,7 +5,7 @@ slug: varyemez
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► cimri
+- cimri
 ozellikler:
 - - sıfat
   - mecaz

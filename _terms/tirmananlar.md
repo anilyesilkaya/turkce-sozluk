@@ -5,7 +5,7 @@ slug: tirmananlar
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tırmanıcılar
+- tırmanıcılar
 ozellikler:
 - - isim
   - hayvan bilimi

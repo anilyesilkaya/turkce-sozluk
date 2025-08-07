@@ -5,7 +5,7 @@ slug: suni-tahta
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sunta
+- sunta
 - Odun lifi, yonga ve talaş levhalarının bir türü
 ozellikler:
 - - isim

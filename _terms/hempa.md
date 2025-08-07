@@ -5,7 +5,7 @@ slug: hempa
 letter: H
 lisan: Farsça hempā
 anlamlar:
-- ► omuzdaş
+- omuzdaş
 ozellikler:
 - - isim
   - eskimiş

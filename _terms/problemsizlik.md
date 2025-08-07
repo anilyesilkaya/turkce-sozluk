@@ -5,7 +5,7 @@ slug: problemsizlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sorunsuzluk
+- sorunsuzluk
 ozellikler:
 - - isim
 ornekler:

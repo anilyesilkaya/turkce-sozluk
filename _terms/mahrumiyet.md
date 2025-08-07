@@ -5,7 +5,7 @@ slug: mahrumiyet
 letter: M
 lisan: Arapça maḥrūmiyyet
 anlamlar:
-- ► yoksunluk
+- yoksunluk
 ozellikler:
 - - isim
 ornekler:

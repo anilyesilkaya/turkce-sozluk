@@ -5,7 +5,7 @@ slug: fani-dunya
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ölümlü dünya
+- ölümlü dünya
 ozellikler:
 - - isim
 ornekler:

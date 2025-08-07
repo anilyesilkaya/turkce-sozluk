@@ -5,7 +5,7 @@ slug: nispet-i-si
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nispet eki
+- nispet eki
 ozellikler:
 - - isim
   - dil bilgisi

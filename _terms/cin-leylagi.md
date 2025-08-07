@@ -5,7 +5,7 @@ slug: cin-leylagi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tespih ağacı
+- tespih ağacı
 ozellikler:
 - - isim
   - bitki bilimi

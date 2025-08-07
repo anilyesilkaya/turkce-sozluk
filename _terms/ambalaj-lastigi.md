@@ -5,7 +5,7 @@ slug: ambalaj-lastigi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► paket lastiği
+- paket lastiği
 ozellikler:
 - - isim
 ornekler:

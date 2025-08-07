@@ -5,7 +5,7 @@ slug: cemi-cumle
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► herkes
+- herkes
 ozellikler:
 - - isim
 ornekler:

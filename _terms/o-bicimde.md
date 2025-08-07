@@ -5,8 +5,8 @@ slug: o-bicimde
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► öyle
-- ► öylece
+- öyle
+- öylece
 ozellikler:
 - - zarf
 - - zarf

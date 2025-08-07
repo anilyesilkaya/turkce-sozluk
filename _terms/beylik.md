@@ -7,12 +7,12 @@ lisan: Türkçe
 anlamlar:
 - Bey olma durumu
 - Herkesin kullandığı, herkesin bildiği
-- ► basmakalıp
-- ► mirî
+- basmakalıp
+- mirî
 - Bir tür küçük ve ince asker battaniyesi
 - Rahat yaşama
 - Merkeze tam bağlı olmayarak bir beyin yönetimi altındaki ülke; emîrlik, emaret, mirlik
-- ► hükûmet
+- hükûmet
 ozellikler:
 - - isim
 - - isim

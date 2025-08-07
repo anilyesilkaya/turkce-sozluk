@@ -5,7 +5,7 @@ slug: mefhum
 letter: M
 lisan: Arapça mefhūm
 anlamlar:
-- ► kavram
+- kavram
 ozellikler:
 - - isim
   - eskimiş

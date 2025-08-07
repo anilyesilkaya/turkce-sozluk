@@ -5,7 +5,7 @@ slug: etnolojik
 letter: E
 lisan: Fransızca ethnologique
 anlamlar:
-- ► ırk bilimsel
+- ırk bilimsel
 ozellikler:
 - - sıfat
 ornekler:

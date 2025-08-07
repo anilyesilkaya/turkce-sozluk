@@ -11,7 +11,7 @@ anlamlar:
 - İstenmeyen biri çekilip gitmek, defolmak
 - Yok olmak, mahvolmak
 - Birine karşı yenilmek
-- ► yüklenmek
+- yüklenmek
 - Çökecek gibi olmak
 ozellikler:
 - - nesnesiz

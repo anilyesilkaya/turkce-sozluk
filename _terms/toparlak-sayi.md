@@ -5,7 +5,7 @@ slug: toparlak-sayi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yuvarlak sayı
+- yuvarlak sayı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: uyakli
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyeli
+- kafiyeli
 ozellikler:
 - - sıfat
   - edebiyat

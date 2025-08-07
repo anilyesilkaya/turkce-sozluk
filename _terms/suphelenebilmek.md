@@ -5,7 +5,7 @@ slug: suphelenebilmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanabilmek
+- kuşkulanabilmek
 ozellikler:
 - - -den
 ornekler:

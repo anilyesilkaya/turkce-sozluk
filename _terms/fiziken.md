@@ -6,7 +6,7 @@ letter: F
 lisan: Fransızca physique + Arapça -en
 anlamlar:
 - Fizik bilimine göre
-- ► bedence
+- bedence
 - Görüntü olarak
 ozellikler:
 - - zarf

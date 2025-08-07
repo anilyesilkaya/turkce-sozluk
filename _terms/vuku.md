@@ -5,7 +5,7 @@ slug: vuku
 letter: V
 lisan: Arapça vuḳūʿ
 anlamlar:
-- ► oluş
+- oluş
 ozellikler:
 - - isim
   - eskimiş

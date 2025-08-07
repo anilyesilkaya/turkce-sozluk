@@ -5,7 +5,7 @@ slug: haploloji
 letter: H
 lisan: Fransızca haplologie
 anlamlar:
-- ► hece tekleşmesi
+- hece tekleşmesi
 ozellikler:
 - - isim
   - dil bilgisi

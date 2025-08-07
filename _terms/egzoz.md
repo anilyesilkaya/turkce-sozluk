@@ -5,7 +5,7 @@ slug: egzoz
 letter: E
 lisan: İngilizce exhaust
 anlamlar:
-- ► egzoz gazı
+- egzoz gazı
 - Bu gazın dşarı boşaltılması
 - Bu gazın dışarı atılmasını sağlayan düzen
 ozellikler:

@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Sık sık olan, olagelen, doğal biçimde olan, olmadık karşıtı
-- ► normal
+- normal
 ozellikler:
 - - sıfat
 - - sıfat

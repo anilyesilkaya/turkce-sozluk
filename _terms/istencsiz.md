@@ -5,8 +5,8 @@ slug: istencsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradesiz
-- ► irade dışı
+- iradesiz
+- irade dışı
 ozellikler:
 - - sıfat
   - ruh bilimi

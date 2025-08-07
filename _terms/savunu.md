@@ -5,7 +5,7 @@ slug: savunu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► savunma
+- savunma
 ozellikler:
 - - isim
 ornekler:

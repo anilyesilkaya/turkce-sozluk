@@ -5,7 +5,7 @@ slug: filaninci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► falanıncı
+- falanıncı
 ozellikler:
 - - sıfat
 ornekler:

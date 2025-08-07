@@ -9,7 +9,7 @@ anlamlar:
 - XVII. yüzyıl Fransız dili, sanatı ve yazarları ile ilgili olan
 - Alışılmış
 - Sanatta kuralcı
-- ► kökleşik
+- kökleşik
 - Eski Yunan, Roma ve XVII. yüzyıl Fransız sanatıyla ilgili sanatçı veya eser
 - Eski Yunan ve Roma çağı dili ve sanatı ile ilgili olan
 ozellikler:

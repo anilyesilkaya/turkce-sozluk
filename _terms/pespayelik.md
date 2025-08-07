@@ -5,7 +5,7 @@ slug: pespayelik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► alçaklık
+- alçaklık
 ozellikler:
 - - isim
 ornekler:

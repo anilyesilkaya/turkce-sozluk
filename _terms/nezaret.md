@@ -6,10 +6,10 @@ letter: N
 lisan: Arapça neẓāret
 anlamlar:
 - Bakma, gözetme, gözetim
-- ► gözaltı
-- ► nezarethane
-- ► bakanlık
-- ► görü
+- gözaltı
+- nezarethane
+- bakanlık
+- görü
 ozellikler:
 - - isim
 - - isim

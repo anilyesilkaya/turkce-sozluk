@@ -8,8 +8,8 @@ anlamlar:
 - Belli kurallara göre düzenlenmiş, kulağa hoş gelen ses dizisi; ahenk, haz, nağme, melodi, şanson
 - Bir müzik parçasında baştan sona kadar belirli yerlerde tekrarlanan ses dizisi
 - Kulağa hoş gelen ses veya söz dizisi
-- ► tempo
-- ► sıkıntı
+- tempo
+- sıkıntı
 ozellikler:
 - - isim
   - müzik

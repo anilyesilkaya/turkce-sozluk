@@ -5,7 +5,7 @@ slug: doktrin
 letter: D
 lisan: Fransızca doctrine
 anlamlar:
-- ► öğreti
+- öğreti
 ozellikler:
 - - isim
 ornekler:

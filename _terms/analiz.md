@@ -5,7 +5,7 @@ slug: analiz
 letter: A
 lisan: Fransızca analyse
 anlamlar:
-- ► çözümleme
+- çözümleme
 - Bir maçtaki pas, şut, köşe atışı vb.nin yüzdelerini değerlendirme
 ozellikler:
 - - isim

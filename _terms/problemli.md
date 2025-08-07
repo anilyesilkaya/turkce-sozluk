@@ -5,7 +5,7 @@ slug: problemli
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sorunlu
+- sorunlu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: yatik-doner
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Oltu kebabı
+- Oltu kebabı
 ozellikler:
 - - isim
 ornekler:

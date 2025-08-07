@@ -5,7 +5,7 @@ slug: us-disicilik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► akıl dışıcılık
+- akıl dışıcılık
 ozellikler:
 - - isim
   - felsefe

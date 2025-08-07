@@ -5,7 +5,7 @@ slug: akrobasi
 letter: A
 lisan: Fransızca acrobatie
 anlamlar:
-- ► cambazlık
+- cambazlık
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hınzır olma durumu
-- ► muziplik
+- muziplik
 ozellikler:
 - - isim
 - - isim

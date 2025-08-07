@@ -6,7 +6,7 @@ letter: Z
 lisan: Farsça zerrīn
 anlamlar:
 - Altından yapılmış
-- ► fulya
+- fulya
 - Altın rengi, sarı
 - Bu renkte olan
 ozellikler:

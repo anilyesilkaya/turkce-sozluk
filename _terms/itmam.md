@@ -5,7 +5,7 @@ slug: itmam
 letter: I
 lisan: Arapça itmām
 anlamlar:
-- ► tamamlama
+- tamamlama
 ozellikler:
 - - isim
   - eskimiş

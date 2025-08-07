@@ -5,7 +5,7 @@ slug: altar
 letter: A
 lisan: Latince
 anlamlar:
-- ► sunak
+- sunak
 ozellikler:
 - - isim
 ornekler:

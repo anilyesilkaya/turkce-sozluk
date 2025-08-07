@@ -5,7 +5,7 @@ slug: zuladan
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► gizlice
+- gizlice
 ozellikler:
 - - zarf
 ornekler:

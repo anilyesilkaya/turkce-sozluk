@@ -5,7 +5,7 @@ slug: pocuk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kuyruk sokumu
+- kuyruk sokumu
 ozellikler:
 - - isim
   - ağızlardan

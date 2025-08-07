@@ -5,7 +5,7 @@ slug: bastabip
 letter: B
 lisan: Türkçe baş + Arapça ṭabīb
 anlamlar:
-- ► başhekim
+- başhekim
 ozellikler:
 - - isim
 ornekler:

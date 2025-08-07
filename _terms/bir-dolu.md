@@ -5,7 +5,7 @@ slug: bir-dolu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birçok
+- birçok
 ozellikler:
 - - sıfat
 ornekler:

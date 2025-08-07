@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tamlama oluşturmak
-- ► tamamlamak
+- tamamlamak
 ozellikler:
 - - -i
 - - -i

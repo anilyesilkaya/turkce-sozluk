@@ -5,7 +5,7 @@ slug: observatuvar
 letter: O
 lisan: Fransızca obsérvatoire
 anlamlar:
-- ► gözlemevi
+- gözlemevi
 ozellikler:
 - - isim
   - gök bilimi

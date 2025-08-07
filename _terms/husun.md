@@ -5,7 +5,7 @@ slug: husun
 letter: H
 lisan: Arapça ḥusn
 anlamlar:
-- ► güzellik
+- güzellik
 ozellikler:
 - - isim
   - eskimiş

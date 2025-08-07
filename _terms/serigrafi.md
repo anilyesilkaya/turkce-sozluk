@@ -5,7 +5,7 @@ slug: serigrafi
 letter: S
 lisan: Fransızca sérigraphie
 anlamlar:
-- ► ipek baskı
+- ipek baskı
 ozellikler:
 - - isim
 ornekler:

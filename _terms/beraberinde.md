@@ -5,7 +5,7 @@ slug: beraberinde
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birlikte
+- birlikte
 ozellikler:
 - - zarf
 ornekler:

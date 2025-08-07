@@ -5,7 +5,7 @@ slug: soya-cekim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kalıtım
+- kalıtım
 ozellikler:
 - - isim
   - biyoloji

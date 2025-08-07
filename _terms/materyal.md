@@ -5,7 +5,7 @@ slug: materyal
 letter: M
 lisan: Fransızca matériel
 anlamlar:
-- ► gereç
+- gereç
 - Yazılı, sözlü, görüntülü, kaydedilmiş her türlü belge
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sarklilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Doğululuk
+- Doğululuk
 ozellikler:
 - - isim
 ornekler:

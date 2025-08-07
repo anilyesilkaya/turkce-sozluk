@@ -5,7 +5,7 @@ slug: aklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlık
+- beyazlık
 - Kadınların makyaj için yüzlerine sürdükleri beyaz bir sıvı; düzgün
 ozellikler:
 - - isim

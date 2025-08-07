@@ -5,7 +5,7 @@ slug: sirden-dolmasi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► mumbar dolması
+- mumbar dolması
 ozellikler:
 - - isim
 ornekler:

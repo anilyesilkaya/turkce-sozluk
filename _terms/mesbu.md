@@ -5,9 +5,9 @@ slug: mesbu
 letter: M
 lisan: Arapça meşbūʿ
 anlamlar:
-- ► dolmuş
-- ► dolu (II)
-- ► doymuş
+- dolmuş
+- dolu (II)
+- doymuş
 ozellikler:
 - - sıfat
   - eskimiş

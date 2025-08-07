@@ -5,7 +5,7 @@ slug: lacivert-pasaport
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► umumi pasaport
+- umumi pasaport
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ozel-gun-zarfi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ilk gün zarfı
+- ilk gün zarfı
 ozellikler:
 - - isim
 ornekler:

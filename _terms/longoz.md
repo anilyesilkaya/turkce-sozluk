@@ -5,7 +5,7 @@ slug: longoz
 letter: L
 lisan: Rumca
 anlamlar:
-- ► subasar
+- subasar
 ozellikler:
 - - isim
 ornekler:

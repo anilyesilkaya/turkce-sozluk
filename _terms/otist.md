@@ -5,7 +5,7 @@ slug: otist
 letter: O
 lisan: Fransızca autiste
 anlamlar:
-- ► otizmli
+- otizmli
 ozellikler:
 - - sıfat
   - ruh bilimi

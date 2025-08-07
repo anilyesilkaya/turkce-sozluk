@@ -5,7 +5,7 @@ slug: kotu-goz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kem göz
+- kem göz
 ozellikler:
 - - isim
 ornekler:

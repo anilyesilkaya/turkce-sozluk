@@ -5,8 +5,8 @@ slug: yordamlamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yoklamak
-- ► dokunmak (I)
+- yoklamak
+- dokunmak (I)
 ozellikler:
 - - -i
 - - -i

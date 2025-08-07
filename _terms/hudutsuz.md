@@ -5,7 +5,7 @@ slug: hudutsuz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınırsız
+- sınırsız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: fuaye
 letter: F
 lisan: Fransızca foyer
 anlamlar:
-- ► dinlenmelik
+- dinlenmelik
 ozellikler:
 - - isim
 ornekler:

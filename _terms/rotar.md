@@ -5,7 +5,7 @@ slug: rotar
 letter: R
 lisan: Fransızca retard
 anlamlar:
-- ► gecikme
+- gecikme
 ozellikler:
 - - isim
 ornekler:

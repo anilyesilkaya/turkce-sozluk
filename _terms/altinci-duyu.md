@@ -5,7 +5,7 @@ slug: altinci-duyu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► önsezi
+- önsezi
 ozellikler:
 - - isim
 ornekler:

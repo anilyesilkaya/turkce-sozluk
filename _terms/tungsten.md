@@ -5,7 +5,7 @@ slug: tungsten
 letter: T
 lisan: Fransızca tungstène
 anlamlar:
-- ► volfram
+- volfram
 ozellikler:
 - - isim
   - kimya

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tabansız olma durumu
-- ► korkaklık
+- korkaklık
 ozellikler:
 - - isim
 - - isim

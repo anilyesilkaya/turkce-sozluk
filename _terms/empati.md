@@ -5,7 +5,7 @@ slug: empati
 letter: E
 lisan: Fransızca empathie
 anlamlar:
-- ► duygudaşlık
+- duygudaşlık
 ozellikler:
 - - isim
   - ruh bilimi

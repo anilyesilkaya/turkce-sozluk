@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeni doğmuş hayvan veya insan; bala
-- ► çocuk
+- çocuk
 - Bir şeyin küçüğü; kuzu
 - Güzel, alımlı genç kız
 ozellikler:

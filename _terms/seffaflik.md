@@ -5,7 +5,7 @@ slug: seffaflik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► saydamlık
+- saydamlık
 ozellikler:
 - - isim
 ornekler:

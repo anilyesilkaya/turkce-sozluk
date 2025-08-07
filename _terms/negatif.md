@@ -5,8 +5,8 @@ slug: negatif
 letter: N
 lisan: Fransızca négatif
 anlamlar:
-- ► olumsuz
-- ► eksi, pozitif karşıtı
+- olumsuz
+- eksi, pozitif karşıtı
 - Gerçekteki aydınlık ve karanlık bölümleri tersine gösteren fotoğraf camı veya filmi
 ozellikler:
 - - sıfat

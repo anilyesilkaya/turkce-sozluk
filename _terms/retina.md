@@ -5,7 +5,7 @@ slug: retina
 letter: R
 lisan: Latince
 anlamlar:
-- ► ağ tabaka
+- ağ tabaka
 ozellikler:
 - - isim
   - anatomi

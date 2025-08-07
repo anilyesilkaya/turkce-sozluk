@@ -7,11 +7,11 @@ lisan: Türkçe
 anlamlar:
 - Belirli bir süre sonra kaldırılacak olan, bir şeyin yerine geçici olarak kullanılan
 - İyi yerleşmemiş, yerini bulmamış olan
-- ► takma
+- takma
 - Belli belirsiz olan
 - Uyumsuz, yakışmamış
 - İyi yerleşmemiş, yerini bulmamış bir biçimde
-- ► üstünkörü
+- üstünkörü
 - İleride geri alınmak üzere verilen şey
 ozellikler:
 - - sıfat

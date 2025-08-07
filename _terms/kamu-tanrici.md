@@ -5,7 +5,7 @@ slug: kamu-tanrici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tüm tanrıcı
+- tüm tanrıcı
 ozellikler:
 - - sıfat
   - felsefe

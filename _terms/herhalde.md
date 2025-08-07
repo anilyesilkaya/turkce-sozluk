@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Büyük bir ihtimalle; yalım, herhâl
-- ► belki
+- belki
 ozellikler:
 - - zarf
 - - zarf

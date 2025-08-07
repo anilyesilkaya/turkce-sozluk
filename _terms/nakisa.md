@@ -5,7 +5,7 @@ slug: nakisa
 letter: N
 lisan: Arapça naḳīṣa
 anlamlar:
-- ► eksiklik
+- eksiklik
 ozellikler:
 - - isim
   - eskimiş

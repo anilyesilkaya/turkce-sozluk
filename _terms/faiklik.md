@@ -5,7 +5,7 @@ slug: faiklik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► üstünlük
+- üstünlük
 ozellikler:
 - - isim
 ornekler:

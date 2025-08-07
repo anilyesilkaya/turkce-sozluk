@@ -5,8 +5,8 @@ slug: melankoli
 letter: M
 lisan: Fransızca mélancolie
 anlamlar:
-- ► kara sevda
-- ► hüzün
+- kara sevda
+- hüzün
 ozellikler:
 - - isim
   - ruh bilimi

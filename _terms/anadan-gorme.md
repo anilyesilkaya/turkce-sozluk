@@ -5,7 +5,7 @@ slug: anadan-gorme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geleneksel
+- geleneksel
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: kirpi-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ekinezya
+- ekinezya
 ozellikler:
 - - isim
   - bitki bilimi

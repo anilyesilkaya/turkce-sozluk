@@ -5,7 +5,7 @@ slug: karaim-turkcesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Karay Türkçesi
+- Karay Türkçesi
 ozellikler:
 - - isim
 ornekler:

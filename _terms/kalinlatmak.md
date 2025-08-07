@@ -5,7 +5,7 @@ slug: kalinlatmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalınlaştırmak
+- kalınlaştırmak
 ozellikler:
 - - -i
 ornekler:

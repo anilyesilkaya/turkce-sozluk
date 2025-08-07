@@ -5,7 +5,7 @@ slug: portakallik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► portakal bahçesi
+- portakal bahçesi
 ozellikler:
 - - isim
 ornekler:

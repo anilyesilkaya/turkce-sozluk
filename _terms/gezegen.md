@@ -5,7 +5,7 @@ slug: gezegen
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gezenti
+- gezenti
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: halaskarlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kurtarıcılık
+- kurtarıcılık
 ozellikler:
 - - isim
 ornekler:

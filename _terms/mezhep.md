@@ -7,7 +7,7 @@ lisan: Arapça meẕheb
 anlamlar:
 - Bir dinin görüş, yorum ve anlayış ayrılıkları sebebiyle ortaya çıkan kollarından her biri
 - Anlayış, görüş
-- ► öğreti
+- öğreti
 ozellikler:
 - - isim
   - din bilimi

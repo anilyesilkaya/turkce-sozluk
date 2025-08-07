@@ -5,7 +5,7 @@ slug: alkim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - meteoroloji

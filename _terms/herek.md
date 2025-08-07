@@ -5,7 +5,7 @@ slug: herek
 letter: H
 lisan: Rumca
 anlamlar:
-- ► sırık
+- sırık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: reji-asistani
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► yönetmen yardımcısı
+- yönetmen yardımcısı
 ozellikler:
 - - isim
 ornekler:

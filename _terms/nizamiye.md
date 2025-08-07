@@ -5,7 +5,7 @@ slug: nizamiye
 letter: N
 lisan: Arapça niẓāmiyye
 anlamlar:
-- ► askerlik dairesi
+- askerlik dairesi
 - Kışla, garnizon ve bazı kuruluşların girişi
 - Tanzimat döneminde kara ordusu
 ozellikler:

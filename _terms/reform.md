@@ -5,7 +5,7 @@ slug: reform
 letter: R
 lisan: Fransızca réforme
 anlamlar:
-- ► düzeltme
+- düzeltme
 ozellikler:
 - - isim
 ornekler:

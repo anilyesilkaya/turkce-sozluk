@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istiḥṣāl
 anlamlar:
 - Elde etme
-- ► üretim
+- üretim
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: birakit
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► miras
+- miras
 ozellikler:
 - - isim
   - hukuk

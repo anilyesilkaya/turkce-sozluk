@@ -5,8 +5,8 @@ slug: kocak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yürekli
-- ► cömert
+- yürekli
+- cömert
 ozellikler:
 - - sıfat
   - mecaz

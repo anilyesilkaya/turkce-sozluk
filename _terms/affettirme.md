@@ -5,7 +5,7 @@ slug: affettirme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlatma
+- bağışlatma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: daktilo-makinesi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yazı makinesi
+- yazı makinesi
 ozellikler:
 - - isim
 ornekler:

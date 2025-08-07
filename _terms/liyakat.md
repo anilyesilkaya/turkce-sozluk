@@ -6,7 +6,7 @@ letter: L
 lisan: Arapça liyāḳat
 anlamlar:
 - Bir kimsenin, kendisine iş verilmeye uygunluk, yaraşırlık durumu; değim
-- ► yeterlilik
+- yeterlilik
 ozellikler:
 - - isim
 - - isim

@@ -5,13 +5,13 @@ slug: nisan
 letter: N
 lisan: Farsça nişān
 anlamlar:
-- ► iz
-- ► belirti
+- iz
+- belirti
 - Bir erkekle bir kadının evlenmek üzere birbirine söz vermesi
 - Nişanlanma sırasında yapılan tören
 - Kurşun, taş vb. ile vurulmak istenen hedef
 - Hedefi vurmak için silah, ok vb.ne gerekli doğrultuyu verme
-- ► devlet nişanı
+- devlet nişanı
 ozellikler:
 - - isim
 - - isim

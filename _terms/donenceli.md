@@ -5,7 +5,7 @@ slug: donenceli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► nöbetleşe
+- nöbetleşe
 ozellikler:
 - - zarf
 ornekler:

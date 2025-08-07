@@ -5,7 +5,7 @@ slug: ciplak-maas
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıplak ücret
+- çıplak ücret
 ozellikler:
 - - isim
   - ekonomi

@@ -5,10 +5,10 @@ slug: uzuv
 letter: U
 lisan: Arapça ʿużv
 anlamlar:
-- ► organ
-- ► üye
-- ► parça
-- ► öge
+- organ
+- üye
+- parça
+- öge
 ozellikler:
 - - isim
   - anatomi

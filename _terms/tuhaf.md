@@ -5,9 +5,9 @@ slug: tuhaf
 letter: T
 lisan: Arapça tuḥaf
 anlamlar:
-- ► acayip
+- acayip
 - Şaşılacak, garip şey
-- ► gülünç
+- gülünç
 - Şaşılan bir şey karşısında söylenen söz
 ozellikler:
 - - sıfat

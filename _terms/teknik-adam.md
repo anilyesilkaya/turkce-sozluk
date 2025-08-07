@@ -5,7 +5,7 @@ slug: teknik-adam
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teknikçi
+- teknikçi
 - İlgili olduğu spor dalında teknik açıdan uzmanlığı bulunan kişi
 ozellikler:
 - - isim

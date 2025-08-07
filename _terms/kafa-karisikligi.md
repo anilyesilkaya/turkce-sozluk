@@ -5,7 +5,7 @@ slug: kafa-karisikligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► zihin karışıklığı
+- zihin karışıklığı
 ozellikler:
 - - isim
 ornekler:

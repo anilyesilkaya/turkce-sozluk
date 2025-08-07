@@ -5,7 +5,7 @@ slug: sarban
 letter: S
 lisan: Farsça sārbān
 anlamlar:
-- ► deveci
+- deveci
 ozellikler:
 - - isim
   - eskimiş

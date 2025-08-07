@@ -5,7 +5,7 @@ slug: munavebeli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► nöbetleşe
+- nöbetleşe
 ozellikler:
 - - zarf
 ornekler:

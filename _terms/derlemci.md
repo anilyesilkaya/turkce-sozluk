@@ -5,7 +5,7 @@ slug: derlemci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► koleksiyoncu
+- koleksiyoncu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bihaberlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► habersizlik
+- habersizlik
 ozellikler:
 - - isim
 ornekler:

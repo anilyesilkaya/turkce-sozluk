@@ -5,8 +5,8 @@ slug: sahsiyet
 letter: Ş
 lisan: Arapça şaḫṣiyyet
 anlamlar:
-- ► kişilik
-- ► kişi
+- kişilik
+- kişi
 ozellikler:
 - - isim
 - - isim

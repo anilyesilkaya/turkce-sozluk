@@ -5,7 +5,7 @@ slug: isik-degnegi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışık demeti
+- ışık demeti
 - Çocukların oyuncak olarak kullandığı, etrafa ışık saçan sopa
 ozellikler:
 - - isim

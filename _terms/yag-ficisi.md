@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İçine katı yağ konulan fıçı
 - Morinanın karaciğerinden çıkarılan yağın konduğu fıçı
-- ► yağ tulumu
+- yağ tulumu
 ozellikler:
 - - isim
 - - isim

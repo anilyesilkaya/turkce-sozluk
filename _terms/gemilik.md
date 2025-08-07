@@ -5,7 +5,7 @@ slug: gemilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► tersane
+- tersane
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: irtibatsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağlantısız
+- bağlantısız
 ozellikler:
 - - sıfat
 ornekler:

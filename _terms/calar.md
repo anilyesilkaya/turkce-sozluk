@@ -5,7 +5,7 @@ slug: calar
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► ayırtı
+- ayırtı
 ozellikler:
 - - isim
 ornekler:

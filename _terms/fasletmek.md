@@ -5,7 +5,7 @@ slug: fasletmek
 letter: F
 lisan: Arapça faṣl + Türkçe etmek
 anlamlar:
-- ► ayırmak
+- ayırmak
 - Bir sorunu, olayı çözmek
 ozellikler:
 - - -i

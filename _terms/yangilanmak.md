@@ -5,7 +5,7 @@ slug: yangilanmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iltihaplanmak
+- iltihaplanmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: langur-lungur
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► langır lungur
+- langır lungur
 ozellikler:
 - - zarf
 ornekler:

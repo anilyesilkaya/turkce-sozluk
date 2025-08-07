@@ -5,7 +5,7 @@ slug: dellenmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► delirmek
+- delirmek
 - Çok öfkelenmek, öfkeden deliye dönmek
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: ihtiram
 letter: I
 lisan: Arapça iḥtirām
 anlamlar:
-- ► saygı
+- saygı
 ozellikler:
 - - isim
 ornekler:

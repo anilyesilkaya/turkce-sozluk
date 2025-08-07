@@ -5,7 +5,7 @@ slug: apazlama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avuçlama
+- avuçlama
 - Pupa ile orsa arasında geminin omurgasına 45 derece açı ile esen (rüzgâr)
 - (a'pazlama) Böyle esen bir rüzgârla
 ozellikler:

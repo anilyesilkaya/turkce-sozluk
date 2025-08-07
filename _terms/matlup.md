@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maṭlūb
 anlamlar:
 - İstenilen, aranılan, arzu ve talep edilen şey
-- ► alacak
+- alacak
 ozellikler:
 - - isim
   - eskimiş

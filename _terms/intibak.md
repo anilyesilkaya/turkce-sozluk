@@ -5,7 +5,7 @@ slug: intibak
 letter: I
 lisan: Arapça inṭibāḳ
 anlamlar:
-- ► uyum
+- uyum
 - Bir memurun belli bir dereceye yerleştirilmesi
 - İki şeyin ölçülerinin birbirini tutması
 ozellikler:

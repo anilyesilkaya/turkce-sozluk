@@ -5,7 +5,7 @@ slug: samanugrusu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Samanyolu
+- Samanyolu
 ozellikler:
 - - isim
   - gök bilimi

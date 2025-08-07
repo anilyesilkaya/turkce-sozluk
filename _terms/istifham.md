@@ -5,7 +5,7 @@ slug: istifham
 letter: I
 lisan: Arapça istifhām
 anlamlar:
-- ► soru
+- soru
 ozellikler:
 - - isim
   - eskimiş

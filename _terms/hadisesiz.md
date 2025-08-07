@@ -5,7 +5,7 @@ slug: hadisesiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► olaysız
+- olaysız
 - Olaysız bir biçimde
 ozellikler:
 - - sıfat

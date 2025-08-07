@@ -5,7 +5,7 @@ slug: sathilesmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yüzeyselleşmek
+- yüzeyselleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

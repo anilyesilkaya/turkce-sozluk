@@ -6,8 +6,8 @@ letter: C
 lisan: Arapça cemʿ
 anlamlar:
 - Bir araya getirme
-- ► çokluk
-- ► toplama
+- çokluk
+- toplama
 ozellikler:
 - - isim
 - - isim

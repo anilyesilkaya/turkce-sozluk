@@ -5,7 +5,7 @@ slug: basmeridyen
 letter: B
 lisan: Türkçe baş + Fransızca méridien
 anlamlar:
-- ► başlangıç meridyeni
+- başlangıç meridyeni
 ozellikler:
 - - isim
   - coğrafya

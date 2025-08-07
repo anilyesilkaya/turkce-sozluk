@@ -5,7 +5,7 @@ slug: absorbe
 letter: A
 lisan: Fransızca absorbé
 anlamlar:
-- ► soğurma
+- soğurma
 ozellikler:
 - - isim
   - fizik

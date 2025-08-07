@@ -5,7 +5,7 @@ slug: esvapsiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysisiz
+- giysisiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: mucrim
 letter: M
 lisan: Arapça mucrim
 anlamlar:
-- ► suçlu
+- suçlu
 ozellikler:
 - - sıfat
   - eskimiş

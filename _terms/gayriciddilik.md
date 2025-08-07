@@ -5,7 +5,7 @@ slug: gayriciddilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► laubalilik
+- laubalilik
 ozellikler:
 - - isim
 ornekler:

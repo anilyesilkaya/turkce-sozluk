@@ -5,7 +5,7 @@ slug: asri
 letter: A
 lisan: Arapça ʿaṣrī
 anlamlar:
-- ► çağdaş
+- çağdaş
 ozellikler:
 - - sıfat
   - eskimiş

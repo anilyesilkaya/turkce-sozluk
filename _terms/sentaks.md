@@ -5,7 +5,7 @@ slug: sentaks
 letter: S
 lisan: Fransızca syntaxe
 anlamlar:
-- ► cümle bilgisi
+- cümle bilgisi
 ozellikler:
 - - isim
   - dil bilgisi

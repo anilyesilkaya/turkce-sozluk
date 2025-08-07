@@ -5,7 +5,7 @@ slug: taziz
 letter: T
 lisan: Arapça taʿzīz
 anlamlar:
-- ► ululama
+- ululama
 ozellikler:
 - - isim
   - eskimiş

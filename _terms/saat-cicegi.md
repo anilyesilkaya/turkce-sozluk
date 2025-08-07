@@ -5,7 +5,7 @@ slug: saat-cicegi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► çarkıfelek
+- çarkıfelek
 ozellikler:
 - - isim
   - bitki bilimi

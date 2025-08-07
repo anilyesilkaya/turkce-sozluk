@@ -5,8 +5,8 @@ slug: aya
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avuç içi
-- ► taban (I)
+- avuç içi
+- taban (I)
 - Yaprakların düz ve parlak bölümü
 ozellikler:
 - - isim

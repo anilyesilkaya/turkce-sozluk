@@ -5,7 +5,7 @@ slug: mustehlik
 letter: M
 lisan: Arapça mustehlik
 anlamlar:
-- ► tüketici
+- tüketici
 ozellikler:
 - - isim
   - eskimiş

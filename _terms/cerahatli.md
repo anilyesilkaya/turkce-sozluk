@@ -5,7 +5,7 @@ slug: cerahatli
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► irinli
+- irinli
 ozellikler:
 - - sıfat
 ornekler:

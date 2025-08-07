@@ -5,10 +5,10 @@ slug: ideal
 letter: I
 lisan: Fransızca idéal
 anlamlar:
-- ► ülkü
-- ► ülküsel
+- ülkü
+- ülküsel
 - Düşüncenin tasarlayabileceği bütün üstün nitelikleri kendinde toplayan
-- ► uygun
+- uygun
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: tarih-yanilgisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► anakronizm
+- anakronizm
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: emmilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► amcalık
+- amcalık
 ozellikler:
 - - isim
 ornekler:

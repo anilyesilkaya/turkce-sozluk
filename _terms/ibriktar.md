@@ -5,7 +5,7 @@ slug: ibriktar
 letter: I
 lisan: Arapça ibrīḳ + Farsça -dār
 anlamlar:
-- ► ibrikçi
+- ibrikçi
 ozellikler:
 - - isim
   - tarih

@@ -5,7 +5,7 @@ slug: frijider
 letter: F
 lisan: (Frigidaire marka adından)
 anlamlar:
-- ► buzdolabı
+- buzdolabı
 ozellikler:
 - - isim
 ornekler:

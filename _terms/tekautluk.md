@@ -5,7 +5,7 @@ slug: tekautluk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► emeklilik
+- emeklilik
 ozellikler:
 - - isim
 ornekler:

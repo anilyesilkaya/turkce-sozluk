@@ -5,7 +5,7 @@ slug: vazife-sehidi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► görev şehidi
+- görev şehidi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: vakfiye
 letter: V
 lisan: Arapça vaḳfiyye
 anlamlar:
-- ► vakıfname
+- vakıfname
 ozellikler:
 - - isim
 ornekler:

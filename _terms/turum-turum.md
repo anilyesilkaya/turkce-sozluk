@@ -5,7 +5,7 @@ slug: turum-turum
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► buram buram
+- buram buram
 ozellikler:
 - - zarf
 ornekler:

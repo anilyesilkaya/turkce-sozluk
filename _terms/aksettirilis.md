@@ -5,8 +5,8 @@ slug: aksettirilis
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yansıtılış
-- ► yankılatılış
+- yansıtılış
+- yankılatılış
 ozellikler:
 - - isim
 - - isim

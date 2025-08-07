@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Dernek, vakıf vb. kuruluşların üyelerinin tamamı; umumi heyet
-- ► genel kurul toplantısı
+- genel kurul toplantısı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mihli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivili
+- çivili
 - Dimdik, sabit
 ozellikler:
 - - sıfat

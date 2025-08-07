@@ -5,7 +5,7 @@ slug: ast
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alt
+- alt
 - Birinin buyruğu altında olan görevli; madun
 - Birine göre alt aşamada olan kimse; madun
 - Rütbe veya kıdemce küçük olan asker

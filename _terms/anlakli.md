@@ -5,7 +5,7 @@ slug: anlakli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zeki
+- zeki
 ozellikler:
 - - sıfat
 ornekler:

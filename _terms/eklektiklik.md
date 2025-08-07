@@ -5,7 +5,7 @@ slug: eklektiklik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► seçmecilik
+- seçmecilik
 ozellikler:
 - - isim
 ornekler:

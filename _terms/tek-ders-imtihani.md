@@ -5,7 +5,7 @@ slug: tek-ders-imtihani
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tek ders sınavı
+- tek ders sınavı
 ozellikler:
 - - isim
   - eğitim

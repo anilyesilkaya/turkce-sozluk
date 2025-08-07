@@ -5,8 +5,8 @@ slug: sarih
 letter: S
 lisan: Arapça ṣarīḥ
 anlamlar:
-- ► belirgin
-- ► belgin
+- belirgin
+- belgin
 ozellikler:
 - - sıfat
 - - sıfat

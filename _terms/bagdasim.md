@@ -5,7 +5,7 @@ slug: bagdasim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► insicam
+- insicam
 ozellikler:
 - - isim
 ornekler:

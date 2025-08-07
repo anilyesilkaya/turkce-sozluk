@@ -5,7 +5,7 @@ slug: surur
 letter: S
 lisan: Arapça surūr
 anlamlar:
-- ► sevinç
+- sevinç
 ozellikler:
 - - isim
   - eskimiş

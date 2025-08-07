@@ -5,7 +5,7 @@ slug: mefrus
 letter: M
 lisan: Arapça mefrūş
 anlamlar:
-- ► döşeli
+- döşeli
 ozellikler:
 - - sıfat
   - eskimiş

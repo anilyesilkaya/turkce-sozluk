@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sempatik olma durumu
-- ► sıcakkanlılık
+- sıcakkanlılık
 ozellikler:
 - - isim
 - - isim

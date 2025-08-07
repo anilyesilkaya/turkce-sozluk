@@ -5,7 +5,7 @@ slug: basuyak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkafiye
+- başkafiye
 ozellikler:
 - - isim
   - edebiyat

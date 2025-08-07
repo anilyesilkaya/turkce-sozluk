@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca sadique
 anlamlar:
 - Sadistlik özelliği olan
-- ► sadist
+- sadist
 ozellikler:
 - - sıfat
   - ruh bilimi

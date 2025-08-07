@@ -5,7 +5,7 @@ slug: zihin-berrakligi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zihin açıklığı
+- zihin açıklığı
 ozellikler:
 - - isim
 ornekler:

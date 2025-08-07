@@ -5,7 +5,7 @@ slug: guvencecilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► garantörlük
+- garantörlük
 ozellikler:
 - - isim
 ornekler:

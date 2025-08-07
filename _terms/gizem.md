@@ -5,7 +5,7 @@ slug: gizem
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sır (II)
+- sır (II)
 ozellikler:
 - - isim
 ornekler:

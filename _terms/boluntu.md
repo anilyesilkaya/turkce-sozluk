@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bölünmüş parça
-- ► hizip
+- hizip
 ozellikler:
 - - isim
 - - isim

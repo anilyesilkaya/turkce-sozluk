@@ -5,7 +5,7 @@ slug: dolayi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ötürü
+- ötürü
 - Çevrede, etrafta bulunan
 ozellikler:
 - - edat

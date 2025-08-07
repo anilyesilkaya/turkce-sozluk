@@ -5,7 +5,7 @@ slug: liturya
 letter: L
 lisan: Rumca
 anlamlar:
-- ► kudas
+- kudas
 ozellikler:
 - - isim
   - din bilimi

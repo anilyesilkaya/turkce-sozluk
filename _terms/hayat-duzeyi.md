@@ -5,7 +5,7 @@ slug: hayat-duzeyi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► yaşam düzeyi
+- yaşam düzeyi
 ozellikler:
 - - isim
 ornekler:

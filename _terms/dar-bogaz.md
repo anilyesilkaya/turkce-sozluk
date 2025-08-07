@@ -5,7 +5,7 @@ slug: dar-bogaz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kanyon
+- kanyon
 ozellikler:
 - - isim
   - coğrafya

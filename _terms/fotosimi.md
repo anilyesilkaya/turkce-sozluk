@@ -5,7 +5,7 @@ slug: fotosimi
 letter: F
 lisan: Fransızca photochimie
 anlamlar:
-- ► fotokimya
+- fotokimya
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: talanlanma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yağmalanma
+- yağmalanma
 ozellikler:
 - - isim
 ornekler:

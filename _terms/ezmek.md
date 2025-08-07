@@ -12,7 +12,7 @@ anlamlar:
 - Dayanıklılığını aşacak derecede çalıştırarak yormak
 - Karşıdakini tamamen yok edecek biçimde yenmek
 - Üzerine baskı yaparak hükmü altında inletmek
-- ► harcamak
+- harcamak
 ozellikler:
 - - -i
 - - -i

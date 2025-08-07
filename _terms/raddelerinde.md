@@ -5,7 +5,7 @@ slug: raddelerinde
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► sularında
+- sularında
 ozellikler:
 - - zarf
   - eskimiş

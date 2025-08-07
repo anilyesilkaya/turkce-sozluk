@@ -7,7 +7,7 @@ lisan: Farsça bāce
 anlamlar:
 - Dumanı ocaktan çekip havaya vermeye yarayan yol
 - Su yolu, lağım, maden ocağı vb. yer altı yapılarının hava deliği
-- ► çatı penceresi
+- çatı penceresi
 ozellikler:
 - - isim
 - - isim

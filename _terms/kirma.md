@@ -6,12 +6,12 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kırmak işi; nakız
-- ► pile
+- pile
 - Kırılmış veya dövülmüş tahıl
 - Basılı kâğıtları forma durumuna getirmek için belli yerlerinden bükme ve katlama işi
 - Ot bitmeyen bayır
 - Ortasından kırılarak doldurulan (tüfek)
-- ► melez
+- melez
 - Yabancı etkilerle özgün niteliğini yitirmiş olan
 ozellikler:
 - - isim

@@ -5,9 +5,9 @@ slug: lakirtici
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► konuşkan
-- ► geveze
-- ► dedikoducu
+- konuşkan
+- geveze
+- dedikoducu
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: tirascilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► palavracılık
+- palavracılık
 ozellikler:
 - - isim
   - argo

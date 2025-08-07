@@ -5,7 +5,7 @@ slug: deneme-imtihani
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► deneme sınavı
+- deneme sınavı
 ozellikler:
 - - isim
   - eğitim

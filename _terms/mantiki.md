@@ -5,7 +5,7 @@ slug: mantiki
 letter: M
 lisan: Arapça manṭiḳī
 anlamlar:
-- ► mantıklı
+- mantıklı
 ozellikler:
 - - sıfat
 ornekler:

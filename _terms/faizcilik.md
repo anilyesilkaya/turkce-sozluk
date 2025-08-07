@@ -5,7 +5,7 @@ slug: faizcilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► tefecilik
+- tefecilik
 ozellikler:
 - - isim
   - ekonomi

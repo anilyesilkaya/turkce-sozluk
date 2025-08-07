@@ -5,7 +5,7 @@ slug: yukseltgenmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► oksitlenmek
+- oksitlenmek
 ozellikler:
 - - nesnesiz
   - kimya

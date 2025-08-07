@@ -5,7 +5,7 @@ slug: avret
 letter: A
 lisan: Arapça ʿavret
 anlamlar:
-- ► edep yeri
+- edep yeri
 ozellikler:
 - - isim
 ornekler:

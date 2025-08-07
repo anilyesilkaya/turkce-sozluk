@@ -5,7 +5,7 @@ slug: marulcuk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çöpleme
+- çöpleme
 ozellikler:
 - - isim
   - bitki bilimi

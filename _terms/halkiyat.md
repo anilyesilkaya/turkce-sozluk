@@ -5,7 +5,7 @@ slug: halkiyat
 letter: H
 lisan: Arapça ḫalḳiyyāt
 anlamlar:
-- ► halk bilimi
+- halk bilimi
 ozellikler:
 - - isim
   - eskimiş

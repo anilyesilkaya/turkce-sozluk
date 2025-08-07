@@ -5,7 +5,7 @@ slug: kalibraj
 letter: K
 lisan: Fransızca calibrage
 anlamlar:
-- ► ayarlama
+- ayarlama
 ozellikler:
 - - isim
 ornekler:

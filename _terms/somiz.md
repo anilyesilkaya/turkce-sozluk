@@ -5,7 +5,7 @@ slug: somiz
 letter: Ş
 lisan: Fransızca chemise
 anlamlar:
-- ► gömlek
+- gömlek
 - Kitabın cildini kaplayan resimli parlak kâğıt
 ozellikler:
 - - isim

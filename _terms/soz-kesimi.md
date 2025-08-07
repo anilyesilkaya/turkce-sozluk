@@ -5,7 +5,7 @@ slug: soz-kesimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sözlenme
+- sözlenme
 ozellikler:
 - - isim
 ornekler:

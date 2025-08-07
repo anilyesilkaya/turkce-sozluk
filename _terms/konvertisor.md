@@ -5,7 +5,7 @@ slug: konvertisor
 letter: K
 lisan: Fransızca convertisseur
 anlamlar:
-- ► röle
+- röle
 ozellikler:
 - - isim
   - fizik

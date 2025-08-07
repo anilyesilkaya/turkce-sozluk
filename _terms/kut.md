@@ -5,7 +5,7 @@ slug: kut
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► smaç
+- smaç
 ozellikler:
 - - isim
   - spor

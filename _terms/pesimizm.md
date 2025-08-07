@@ -5,7 +5,7 @@ slug: pesimizm
 letter: P
 lisan: Fransızca pessimisme
 anlamlar:
-- ► kötümserlik
+- kötümserlik
 ozellikler:
 - - isim
   - felsefe

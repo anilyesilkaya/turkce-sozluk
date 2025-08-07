@@ -5,7 +5,7 @@ slug: menhus
 letter: M
 lisan: Arapça menḥūs
 anlamlar:
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - sıfat
   - eskimiş

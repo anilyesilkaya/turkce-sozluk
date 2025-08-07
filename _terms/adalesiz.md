@@ -5,7 +5,7 @@ slug: adalesiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kassız
+- kassız
 ozellikler:
 - - sıfat
 ornekler:

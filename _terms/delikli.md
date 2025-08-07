@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Deliği veya delikleri olan
 - Bir tür olta iğnesi
-- ► kevgir
+- kevgir
 - Deliklerle kaplı esnek doku şeridi
 ozellikler:
 - - sıfat

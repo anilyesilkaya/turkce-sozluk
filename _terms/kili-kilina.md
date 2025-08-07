@@ -5,7 +5,7 @@ slug: kili-kilina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ucu ucuna
+- ucu ucuna
 ozellikler:
 - - zarf
   - mecaz

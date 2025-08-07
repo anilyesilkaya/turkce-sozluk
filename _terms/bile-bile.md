@@ -5,7 +5,7 @@ slug: bile-bile
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilerek
+- bilerek
 ozellikler:
 - - zarf
 ornekler:

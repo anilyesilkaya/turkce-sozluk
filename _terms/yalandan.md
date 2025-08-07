@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerçek olmayarak, yapmacık bir biçimde, oyun olsun diye; yalancıktan, sureta
-- ► üstünkörü
+- üstünkörü
 ozellikler:
 - - zarf
 - - zarf

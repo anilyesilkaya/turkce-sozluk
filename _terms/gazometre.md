@@ -6,7 +6,7 @@ letter: G
 lisan: Fransızca gazomètre
 anlamlar:
 - Gazların toplanması, belirli basınç altında dağıtılması için kullanılan depo
-- ► gazölçer
+- gazölçer
 ozellikler:
 - - isim
 - - isim

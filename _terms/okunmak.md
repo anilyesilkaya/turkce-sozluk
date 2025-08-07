@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Okuma işine konu olmak
-- ► okunulmak
+- okunulmak
 - Belli olmak, açıkça görünmek
 - Davet edilmek, çağrılmak
 ozellikler:

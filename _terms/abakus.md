@@ -5,7 +5,7 @@ slug: abakus
 letter: A
 lisan: İngilizce abacus
 anlamlar:
-- ► sayı boncuğu
+- sayı boncuğu
 - Sütun başlığının üstüne yatay olarak konan ve kenarlarından biraz dışarı taşan taş blok; abak (I)
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: isticar
 letter: I
 lisan: Arapça istīcār
 anlamlar:
-- ► kiralama
+- kiralama
 ozellikler:
 - - isim
   - eskimiş

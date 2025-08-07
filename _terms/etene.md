@@ -5,7 +5,7 @@ slug: etene
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► döl eşi
+- döl eşi
 - Meyve yaprağında yumurtacıkların bağlı olduğu bölüm
 ozellikler:
 - - isim

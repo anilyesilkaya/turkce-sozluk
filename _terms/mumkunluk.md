@@ -5,7 +5,7 @@ slug: mumkunluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► olabilirlik
+- olabilirlik
 ozellikler:
 - - isim
 ornekler:

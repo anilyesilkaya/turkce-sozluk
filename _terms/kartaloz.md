@@ -5,7 +5,7 @@ slug: kartaloz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kartaloş
+- kartaloş
 ozellikler:
 - - sıfat
   - argo

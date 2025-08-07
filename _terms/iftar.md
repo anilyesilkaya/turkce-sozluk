@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça ifṭār
 anlamlar:
 - Oruç açma, oruç bozma
-- ► iftar vakti
-- ► iftar yemeği
+- iftar vakti
+- iftar yemeği
 ozellikler:
 - - isim
   - din bilimi

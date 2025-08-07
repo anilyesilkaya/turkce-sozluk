@@ -5,7 +5,7 @@ slug: sovgu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► küfür
+- küfür
 ozellikler:
 - - isim
 ornekler:

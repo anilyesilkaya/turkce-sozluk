@@ -5,7 +5,7 @@ slug: gurlama
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► guruldama
+- guruldama
 ozellikler:
 - - isim
 ornekler:

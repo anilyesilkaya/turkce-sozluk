@@ -5,7 +5,7 @@ slug: dortkenar
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dörtgen
+- dörtgen
 ozellikler:
 - - isim
   - geometri

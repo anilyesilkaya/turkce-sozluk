@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyin belli olması için arasına veya üzerine konulan işaret
-- ► ayraç
+- ayraç
 ozellikler:
 - - isim
 - - isim

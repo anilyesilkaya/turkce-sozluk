@@ -5,7 +5,7 @@ slug: cizgi-im
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► barkod
+- barkod
 ozellikler:
 - - isim
 ornekler:

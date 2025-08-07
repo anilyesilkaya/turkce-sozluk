@@ -5,9 +5,9 @@ slug: balkopugu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► krem rengi
+- krem rengi
 - Bu renkte olan
-- ► bal karıncası
+- bal karıncası
 ozellikler:
 - - isim
 - - isim

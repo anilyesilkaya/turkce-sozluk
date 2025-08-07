@@ -5,7 +5,7 @@ slug: taksirli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kusurlu
+- kusurlu
 ozellikler:
 - - sıfat
 ornekler:

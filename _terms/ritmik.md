@@ -5,7 +5,7 @@ slug: ritmik
 letter: R
 lisan: Fransızca rythmique
 anlamlar:
-- ► ritimli
+- ritimli
 ozellikler:
 - - sıfat
 ornekler:

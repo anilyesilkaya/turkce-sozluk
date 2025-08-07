@@ -5,8 +5,8 @@ slug: fedakarlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► özveri
-- ► özverililik
+- özveri
+- özverililik
 ozellikler:
 - - isim
 - - isim

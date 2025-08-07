@@ -5,7 +5,7 @@ slug: nutasyon
 letter: N
 lisan: Fransızca nutation
 anlamlar:
-- ► üğrüm
+- üğrüm
 ozellikler:
 - - isim
   - gök bilimi

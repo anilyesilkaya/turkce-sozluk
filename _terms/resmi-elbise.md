@@ -5,7 +5,7 @@ slug: resmi-elbise
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► resmî giysi
+- resmî giysi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zamkiarabi
 letter: Z
 lisan: Arapça ṣamġ + ʿarabī
 anlamlar:
-- ► Arap zamkı
+- Arap zamkı
 ozellikler:
 - - isim
   - eskimiş

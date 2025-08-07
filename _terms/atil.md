@@ -8,7 +8,7 @@ anlamlar:
 - Hareket etmeyen, yerinden kalkmayan, tembellik eden
 - İşlemeyen, işlevini yerine getirmeyen
 - Bir işe yaramaz
-- ► süreduran
+- süreduran
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: mucevherci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kuyumcu
+- kuyumcu
 ozellikler:
 - - isim
 ornekler:

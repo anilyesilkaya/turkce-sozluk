@@ -5,7 +5,7 @@ slug: erke
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► enerji
+- enerji
 - Pozitif bilimlerde iş başarma gücü, bir direnmeyi yenme gücü
 ozellikler:
 - - isim

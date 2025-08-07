@@ -5,7 +5,7 @@ slug: aktuellesmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► güncelleşmek
+- güncelleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

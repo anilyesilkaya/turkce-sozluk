@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyden, bir yerden kurtulma; felah, halas, necat, reha
-- ► selamet
+- selamet
 - Bağımsızlık kazanma
 ozellikler:
 - - isim

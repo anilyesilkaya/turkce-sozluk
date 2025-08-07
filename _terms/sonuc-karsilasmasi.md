@@ -5,7 +5,7 @@ slug: sonuc-karsilasmasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonuç yarışması
+- sonuç yarışması
 ozellikler:
 - - isim
   - spor

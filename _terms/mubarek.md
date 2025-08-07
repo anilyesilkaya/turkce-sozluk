@@ -5,10 +5,10 @@ slug: mubarek
 letter: M
 lisan: Arapça mubārek
 anlamlar:
-- ► kutsal
-- ► uğurlu
+- kutsal
+- uğurlu
 - Çok saygı duyulan
-- ► bereketli
+- bereketli
 - Beğenilen, sevilen kimse veya şeyler için söylenen bir söz
 - Kızılan, şaşılan (kimse veya şey)
 ozellikler:

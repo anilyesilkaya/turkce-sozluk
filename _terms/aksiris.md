@@ -5,7 +5,7 @@ slug: aksiris
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırış
+- hapşırış
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: lacerem
 letter: L
 lisan: Arapça lācerem
 anlamlar:
-- ► kuşkusuz
+- kuşkusuz
 ozellikler:
 - - zarf
   - eskimiş

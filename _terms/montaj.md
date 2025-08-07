@@ -5,7 +5,7 @@ slug: montaj
 letter: M
 lisan: Fransızca montage
 anlamlar:
-- ► kurgu
+- kurgu
 - Bir makine, cihaz veya mobilyanın parçalarını yerli yerine takma; monte
 ozellikler:
 - - isim

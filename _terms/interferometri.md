@@ -5,7 +5,7 @@ slug: interferometri
 letter: I
 lisan: Fransızca interférométrie
 anlamlar:
-- ► girişim ölçme
+- girişim ölçme
 ozellikler:
 - - isim
 ornekler:

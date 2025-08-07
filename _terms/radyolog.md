@@ -5,7 +5,7 @@ slug: radyolog
 letter: R
 lisan: Fransızca radiologue
 anlamlar:
-- ► ışın bilimci
+- ışın bilimci
 ozellikler:
 - - isim
 ornekler:

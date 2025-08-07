@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dökülmüş
 - Çok eskimiş
-- ► dökümlü
+- dökümlü
 ozellikler:
 - - sıfat
 - - sıfat

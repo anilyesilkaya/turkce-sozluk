@@ -5,7 +5,7 @@ slug: sesletim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► telaffuz
+- telaffuz
 ozellikler:
 - - isim
   - dil bilimi

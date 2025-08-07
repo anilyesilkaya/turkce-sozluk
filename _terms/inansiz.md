@@ -5,7 +5,7 @@ slug: inansiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inançsız
+- inançsız
 ozellikler:
 - - sıfat
 ornekler:

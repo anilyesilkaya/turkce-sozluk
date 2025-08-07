@@ -5,7 +5,7 @@ slug: ek-tahsisat
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ek ödenek
+- ek ödenek
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cirmalamak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► tırmalamak
+- tırmalamak
 ozellikler:
 - - -i
   - ağızlardan

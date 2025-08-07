@@ -5,7 +5,7 @@ slug: sivastirmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bulaştırmak
+- bulaştırmak
 - Sıvık veya sıvışık duruma getirmek
 ozellikler:
 - - -i

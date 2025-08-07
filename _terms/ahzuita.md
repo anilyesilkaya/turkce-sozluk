@@ -5,7 +5,7 @@ slug: ahzuita
 letter: A
 lisan: Arapça aḫẕ + iʿṭāʾ
 anlamlar:
-- ► alışveriş
+- alışveriş
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: mazbata
 letter: M
 lisan: Arapça mażbaṭa
 anlamlar:
-- ► tutanak
+- tutanak
 ozellikler:
 - - isim
   - eskimiş

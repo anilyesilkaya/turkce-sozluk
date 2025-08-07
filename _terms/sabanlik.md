@@ -5,7 +5,7 @@ slug: sabanlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► aptallık
+- aptallık
 ozellikler:
 - - isim
   - argo

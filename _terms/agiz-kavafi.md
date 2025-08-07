@@ -5,7 +5,7 @@ slug: agiz-kavafi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - isim
   - mecaz

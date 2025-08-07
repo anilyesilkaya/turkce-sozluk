@@ -5,7 +5,7 @@ slug: rutubetlendirmek
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► nemlendirmek
+- nemlendirmek
 ozellikler:
 - - -i
 ornekler:

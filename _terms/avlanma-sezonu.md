@@ -5,7 +5,7 @@ slug: avlanma-sezonu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► av dönemi
+- av dönemi
 ozellikler:
 - - isim
 ornekler:

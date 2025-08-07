@@ -5,8 +5,8 @@ slug: morfoloji
 letter: M
 lisan: Fransızca morphologie
 anlamlar:
-- ► yapı bilimi
-- ► biçim bilgisi
+- yapı bilimi
+- biçim bilgisi
 ozellikler:
 - - isim
 - - isim

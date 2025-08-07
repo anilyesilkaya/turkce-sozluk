@@ -5,7 +5,7 @@ slug: maassiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aylıksız
+- aylıksız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ferdiyetci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► bireyci
+- bireyci
 ozellikler:
 - - sıfat
   - felsefe

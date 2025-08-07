@@ -5,7 +5,7 @@ slug: merih
 letter: M
 lisan: Arapça mirrīḫ
 anlamlar:
-- ► Mars
+- Mars
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: tingildatmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıngırdatmak
+- tıngırdatmak
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: bozdurtma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bozdurma
+- bozdurma
 ozellikler:
 - - isim
 ornekler:

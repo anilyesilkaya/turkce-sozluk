@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İki veya daha çok maddeyi birbiri içinde dağıtmaya, karıştırmaya yarayan araçların genel adı
 - Çeşitli besin maddelerini karıştırma ve çarpma işinde kullanılan araç veya alet
-- ► fitneci
+- fitneci
 ozellikler:
 - - isim
 - - isim

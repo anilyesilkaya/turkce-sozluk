@@ -6,7 +6,7 @@ letter: B
 lisan: Farsça bāc
 anlamlar:
 - Osmanlı Devleti'nde gümrük vergisi
-- ► haraç
+- haraç
 - İskelelere gelen, derbent, köprü vb. yerlerden geçen taşıtların ödedikleri geçiş vergisi
 - Yayaların bir dönem Galata Köprüsü’nden geçmek için ödedikleri ücret
 ozellikler:

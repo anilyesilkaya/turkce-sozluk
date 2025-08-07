@@ -5,7 +5,7 @@ slug: yekdigeri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ötekisi
+- ötekisi
 ozellikler:
 - - zamir
   - eskimiş

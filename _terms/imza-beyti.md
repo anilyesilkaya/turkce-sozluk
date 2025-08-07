@@ -5,7 +5,7 @@ slug: imza-beyti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► mühür beyti
+- mühür beyti
 ozellikler:
 - - isim
 ornekler:

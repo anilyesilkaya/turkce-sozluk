@@ -5,7 +5,7 @@ slug: ipligimsi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ipliksi
+- ipliksi
 ozellikler:
 - - sıfat
 ornekler:

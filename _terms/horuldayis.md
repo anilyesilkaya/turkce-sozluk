@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Horuldamak işi
-- ► horlama
+- horlama
 ozellikler:
 - - isim
 - - isim

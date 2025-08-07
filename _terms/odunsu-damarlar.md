@@ -5,7 +5,7 @@ slug: odunsu-damarlar
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► odun damarları
+- odun damarları
 ozellikler:
 - - isim
   - bitki bilimi

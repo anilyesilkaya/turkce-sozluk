@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Büyüklük, nicelik, derece bakımından iki şey arasında veya parça ile bütün arasında bulunan bağıntı; nispet, rasyo
-- ► orantı
+- orantı
 - Akıl yoluyla gerçeğe yakın olduğuna inanılarak verilen yargı, yapılan tahmin
 - İki büyüklük, iki nicelik arasındaki bağıntı
 ozellikler:

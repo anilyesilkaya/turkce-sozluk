@@ -5,7 +5,7 @@ slug: firildak-cicegi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► çarkıfelek
+- çarkıfelek
 ozellikler:
 - - isim
   - bitki bilimi

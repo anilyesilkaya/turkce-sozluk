@@ -5,7 +5,7 @@ slug: kervan-yildizi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

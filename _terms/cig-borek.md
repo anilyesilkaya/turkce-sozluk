@@ -5,7 +5,7 @@ slug: cig-borek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çi börek
+- çi börek
 ozellikler:
 - - isim
 ornekler:

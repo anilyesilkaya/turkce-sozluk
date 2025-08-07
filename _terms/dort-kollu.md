@@ -5,7 +5,7 @@ slug: dort-kollu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tabut
+- tabut
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: gorev-kurbani
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► görev şehidi
+- görev şehidi
 ozellikler:
 - - isim
 ornekler:

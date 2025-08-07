@@ -5,7 +5,7 @@ slug: sivastirma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bulaştırma
+- bulaştırma
 ozellikler:
 - - isim
 ornekler:

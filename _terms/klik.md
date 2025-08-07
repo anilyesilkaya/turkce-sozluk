@@ -5,7 +5,7 @@ slug: klik
 letter: K
 lisan: Fransızca clique
 anlamlar:
-- ► hizip
+- hizip
 ozellikler:
 - - isim
 ornekler:

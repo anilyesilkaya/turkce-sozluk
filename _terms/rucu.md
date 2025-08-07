@@ -6,7 +6,7 @@ letter: R
 lisan: Arapça rucūʿ
 anlamlar:
 - Geri dönme, sözünü geri alma; cayma, tersinme
-- ► kayıtım
+- kayıtım
 ozellikler:
 - - isim
   - eskimiş

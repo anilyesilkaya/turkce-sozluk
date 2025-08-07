@@ -5,8 +5,8 @@ slug: hayat-oykusu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayat hikâyesi
-- ► öz geçmiş
+- hayat hikâyesi
+- öz geçmiş
 ozellikler:
 - - isim
 - - isim

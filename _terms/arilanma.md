@@ -5,7 +5,7 @@ slug: arilanma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arılaşma
+- arılaşma
 ozellikler:
 - - isim
 ornekler:

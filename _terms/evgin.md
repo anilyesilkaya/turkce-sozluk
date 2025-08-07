@@ -5,8 +5,8 @@ slug: evgin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► acil
-- ► aceleci
+- acil
+- aceleci
 ozellikler:
 - - sıfat
   - ağızlardan

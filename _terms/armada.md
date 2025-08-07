@@ -5,7 +5,7 @@ slug: armada
 letter: A
 lisan: İtalyanca armata
 anlamlar:
-- ► donanma
+- donanma
 ozellikler:
 - - isim
   - denizcilik

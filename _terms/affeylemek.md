@@ -5,7 +5,7 @@ slug: affeylemek
 letter: A
 lisan: Arapça ʿafv + Türkçe eylemek
 anlamlar:
-- ► bağışlamak
+- bağışlamak
 ozellikler:
 - - -i
 ornekler:

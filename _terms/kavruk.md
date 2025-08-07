@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kavrulmuş olan
 - Kurumaya yüz tutmuş
-- ► zayıf
+- zayıf
 - Yaşı ilerlemesine karşın iyi gelişememiş olan
 ozellikler:
 - - sıfat

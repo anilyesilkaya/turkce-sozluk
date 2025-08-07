@@ -5,7 +5,7 @@ slug: hatun-kisi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kadın
+- kadın
 ozellikler:
 - - isim
 ornekler:

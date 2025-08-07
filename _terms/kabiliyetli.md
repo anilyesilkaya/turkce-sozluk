@@ -5,7 +5,7 @@ slug: kabiliyetli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yetenekli
+- yetenekli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tenis-sahasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kort
+- kort
 ozellikler:
 - - isim
   - spor

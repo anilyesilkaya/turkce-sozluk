@@ -5,7 +5,7 @@ slug: reformist
 letter: R
 lisan: Fransızca réformiste
 anlamlar:
-- ► düzeltmeci
+- düzeltmeci
 ozellikler:
 - - isim
 ornekler:

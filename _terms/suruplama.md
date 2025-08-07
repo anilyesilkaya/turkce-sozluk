@@ -5,7 +5,7 @@ slug: suruplama
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şerbetleme
+- şerbetleme
 ozellikler:
 - - isim
 ornekler:

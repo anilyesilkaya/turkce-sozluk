@@ -5,8 +5,8 @@ slug: isilak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► parıltı
-- ► parlak
+- parıltı
+- parlak
 ozellikler:
 - - isim
   - ağızlardan

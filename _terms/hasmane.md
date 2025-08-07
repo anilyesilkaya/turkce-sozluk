@@ -5,7 +5,7 @@ slug: hasmane
 letter: H
 lisan: Arapça ḫaṣm + Farsça -āne
 anlamlar:
-- ► düşmanca
+- düşmanca
 ozellikler:
 - - zarf
 ornekler:

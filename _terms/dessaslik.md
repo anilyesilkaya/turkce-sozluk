@@ -5,7 +5,7 @@ slug: dessaslik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düzenbazlık
+- düzenbazlık
 ozellikler:
 - - isim
 ornekler:

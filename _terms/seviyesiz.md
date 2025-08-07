@@ -5,7 +5,7 @@ slug: seviyesiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzeysiz
+- düzeysiz
 ozellikler:
 - - sıfat
 ornekler:

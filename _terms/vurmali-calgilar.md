@@ -5,7 +5,7 @@ slug: vurmali-calgilar
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vurmalı sazlar
+- vurmalı sazlar
 ozellikler:
 - - isim
   - müzik

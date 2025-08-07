@@ -8,7 +8,7 @@ anlamlar:
 - Bel veya göğüs kemiğinin eğrilmesi, raşitizm sonucu sırtta ve göğüste oluşan tümsek; çıkıntı, kambur zambur
 - Bazı hayvanların sırtındaki çıkıntı
 - Yapı veya eşyada dışarıya doğru eğrilme
-- ► ütü yastığı
+- ütü yastığı
 - Vücudunda bu tümsek bulunan (kimse)
 - Sıkıntı, dert
 ozellikler:

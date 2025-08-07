@@ -5,7 +5,7 @@ slug: takilgan
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► muzip
+- muzip
 ozellikler:
 - - sıfat
 ornekler:

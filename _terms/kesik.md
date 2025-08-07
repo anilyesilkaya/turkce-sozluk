@@ -7,11 +7,11 @@ lisan: Türkçe
 anlamlar:
 - Kesilmiş olan
 - Kesilerek bozulmuş olan (süt)
-- ► kısa
-- ► çökelek
+- kısa
+- çökelek
 - Gazete, dergi vb.nden kesilmiş yazı; kupür
 - Kesilmiş olan yer
-- ► aralıklı
+- aralıklı
 - Takım kadrosuna alınmamış (oyuncu)
 - Parası olmayan
 - Tutkun, hayran olan

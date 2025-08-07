@@ -5,7 +5,7 @@ slug: antoloji
 letter: A
 lisan: Fransızca anthologie
 anlamlar:
-- ► seçki
+- seçki
 ozellikler:
 - - isim
   - edebiyat

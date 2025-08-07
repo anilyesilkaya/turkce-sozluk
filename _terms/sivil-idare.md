@@ -5,7 +5,7 @@ slug: sivil-idare
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sivil yönetim
+- sivil yönetim
 ozellikler:
 - - isim
 ornekler:

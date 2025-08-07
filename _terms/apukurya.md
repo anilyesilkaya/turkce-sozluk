@@ -5,7 +5,7 @@ slug: apukurya
 letter: A
 lisan: Rumca
 anlamlar:
-- ► et kesimi
+- et kesimi
 ozellikler:
 - - isim
   - din bilimi

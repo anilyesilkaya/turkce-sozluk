@@ -5,7 +5,7 @@ slug: imtiyazsizca
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ayrıcalıksızca
+- ayrıcalıksızca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: siygi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hacim
+- hacim
 ozellikler:
 - - isim
 ornekler:

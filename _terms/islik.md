@@ -5,7 +5,7 @@ slug: islik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gömlek
+- gömlek
 ozellikler:
 - - ağızlardan
 ornekler:

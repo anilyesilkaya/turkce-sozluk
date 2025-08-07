@@ -5,7 +5,7 @@ slug: feyiz
 letter: F
 lisan: Arapça feyż
 anlamlar:
-- ► bereket
+- bereket
 - Artma, çoğalma
 - Kültürel ilerleme, gelişme, olgunluk
 - Manevi haz, mutluluk, iç huzuru

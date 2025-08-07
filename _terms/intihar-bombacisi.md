@@ -5,7 +5,7 @@ slug: intihar-bombacisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► canlı bomba
+- canlı bomba
 ozellikler:
 - - isim
 ornekler:

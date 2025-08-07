@@ -5,7 +5,7 @@ slug: subjektivizm
 letter: S
 lisan: Fransızca subjectivisme
 anlamlar:
-- ► öznelcilik
+- öznelcilik
 ozellikler:
 - - isim
   - felsefe

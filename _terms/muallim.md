@@ -5,7 +5,7 @@ slug: muallim
 letter: M
 lisan: Arapça muʿallim
 anlamlar:
-- ► öğretmen
+- öğretmen
 ozellikler:
 - - isim
   - eskimiş

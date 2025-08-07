@@ -5,7 +5,7 @@ slug: alat-edevat
 letter: A
 lisan: Arapça ālāt + edevāt
 anlamlar:
-- ► alet edevat
+- alet edevat
 ozellikler:
 - - isim
 ornekler:

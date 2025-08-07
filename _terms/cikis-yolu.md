@@ -5,7 +5,7 @@ slug: cikis-yolu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çözüm
+- çözüm
 ozellikler:
 - - isim
 ornekler:

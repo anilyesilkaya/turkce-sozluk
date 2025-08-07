@@ -5,8 +5,8 @@ slug: mimari
 letter: M
 lisan: Arapça miʿmārī
 anlamlar:
-- ► mimarlık
-- ► yapı
+- mimarlık
+- yapı
 - Mimarlıkla ilgili, mimarlığa ilişkin
 ozellikler:
 - - isim

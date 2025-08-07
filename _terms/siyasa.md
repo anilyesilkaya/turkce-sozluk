@@ -5,7 +5,7 @@ slug: siyasa
 letter: S
 lisan: Arapça siyāset
 anlamlar:
-- ► politika
+- politika
 ozellikler:
 - - isim
 ornekler:

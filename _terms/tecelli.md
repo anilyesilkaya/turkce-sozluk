@@ -7,7 +7,7 @@ lisan: Arapça tecellī
 anlamlar:
 - Belirme, görünme, ortaya çıkma, zuhur etme, meydana çıkma
 - Tanrı'nın kudretinin insanlarda ve eşyada görünmesi; cilve
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
 - - isim

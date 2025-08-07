@@ -5,7 +5,7 @@ slug: divanihumayun
 letter: D
 lisan: 'Arapça dīvān + '
 anlamlar:
-- ► padişah divanı
+- padişah divanı
 ozellikler:
 - - isim
   - tarih

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Eğri büğrü, dolambaçlı incecik yol
-- ► lağım
+- lağım
 ozellikler:
 - - isim
 - - isim

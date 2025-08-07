@@ -5,7 +5,7 @@ slug: porsumak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pörsümek
+- pörsümek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: izlence
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► program
+- program
 ozellikler:
 - - isim
 ornekler:

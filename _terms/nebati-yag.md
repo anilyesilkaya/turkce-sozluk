@@ -5,7 +5,7 @@ slug: nebati-yag
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► bitkisel yağ
+- bitkisel yağ
 ozellikler:
 - - isim
 ornekler:

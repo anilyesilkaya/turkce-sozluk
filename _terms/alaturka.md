@@ -7,7 +7,7 @@ lisan: İtalyanca alla turca
 anlamlar:
 - Eski Türk gelenek, görenek, töre ve hayatına uygun; Doğuluca, alafranga karşıtı
 - Bu töre ve hayatı benimsemiş (kimse)
-- ► alaturka saat
+- alaturka saat
 - Düzensiz, yöntemsiz bir biçimde olan
 ozellikler:
 - - sıfat

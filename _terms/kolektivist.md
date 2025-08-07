@@ -5,7 +5,7 @@ slug: kolektivist
 letter: K
 lisan: Fransızca collectiviste
 anlamlar:
-- ► ortaklaşacı
+- ortaklaşacı
 ozellikler:
 - - sıfat
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: logo
 letter: L
 lisan: İngilizce logo
 anlamlar:
-- ► imlek
+- imlek
 ozellikler:
 - - isim
 ornekler:

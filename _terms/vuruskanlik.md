@@ -5,7 +5,7 @@ slug: vuruskanlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► dövüşkenlik
+- dövüşkenlik
 ozellikler:
 - - isim
 ornekler:

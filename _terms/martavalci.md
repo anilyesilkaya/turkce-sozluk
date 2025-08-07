@@ -5,7 +5,7 @@ slug: martavalci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► palavracı
+- palavracı
 ozellikler:
 - - sıfat
 ornekler:

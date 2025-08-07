@@ -5,7 +5,7 @@ slug: serpus
 letter: S
 lisan: Farsça serpūş
 anlamlar:
-- ► başlık
+- başlık
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: dokuyuculuk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dokumacılık
+- dokumacılık
 ozellikler:
 - - isim
 ornekler:

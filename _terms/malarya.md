@@ -5,7 +5,7 @@ slug: malarya
 letter: M
 lisan: İtalyanca malaria
 anlamlar:
-- ► sıtma
+- sıtma
 ozellikler:
 - - isim
   - tıp

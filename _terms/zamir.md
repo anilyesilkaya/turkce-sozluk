@@ -5,7 +5,7 @@ slug: zamir
 letter: Z
 lisan: Arapça żamīr
 anlamlar:
-- ► içyüz
+- içyüz
 ozellikler:
 - - isim
   - eskimiş

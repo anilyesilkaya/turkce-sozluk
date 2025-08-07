@@ -5,8 +5,8 @@ slug: keyfiyet
 letter: K
 lisan: Arapça keyfiyyet
 anlamlar:
-- ► nitelik
-- ► durum
+- nitelik
+- durum
 ozellikler:
 - - isim
   - eskimiş

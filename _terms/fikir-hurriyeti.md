@@ -5,7 +5,7 @@ slug: fikir-hurriyeti
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► düşünce özgürlüğü
+- düşünce özgürlüğü
 ozellikler:
 - - isim
 ornekler:

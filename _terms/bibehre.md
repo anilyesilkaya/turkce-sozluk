@@ -5,7 +5,7 @@ slug: bibehre
 letter: B
 lisan: Farsça bībehre
 anlamlar:
-- ► kısmetsiz
+- kısmetsiz
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: romanyali
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► Rumen
+- Rumen
 ozellikler:
 - - isim
 ornekler:

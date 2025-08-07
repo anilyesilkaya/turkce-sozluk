@@ -5,8 +5,8 @@ slug: ayca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hilal
-- ► alem
+- hilal
+- alem
 ozellikler:
 - - isim
 - - isim

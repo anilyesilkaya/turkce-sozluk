@@ -5,7 +5,7 @@ slug: harnup
 letter: H
 lisan: Arapça ḫarnūb
 anlamlar:
-- ► keçiboynuzu
+- keçiboynuzu
 ozellikler:
 - - isim
   - eskimiş

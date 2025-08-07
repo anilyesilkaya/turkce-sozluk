@@ -7,7 +7,7 @@ lisan: Rumca
 anlamlar:
 - Günümüzde bey ünvanından farklı olarak özel adlardan sonra kullanılan ikinci derecede bir ünvan
 - Buyruğu yürüyen, sözü geçen kimse
-- ► koca (I)
+- koca (I)
 - (efe'ndi) Hizmetlilere seslenilirken kullanılan bir söz
 - (efe'ndi) Erkekler için kullanılan bir seslenme sözü
 - Görgülü, nazik, kibar olan

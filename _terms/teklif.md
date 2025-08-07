@@ -7,7 +7,7 @@ lisan: Arapça teklīf
 anlamlar:
 - Yapması için birinden bir iş isteme
 - İncelenmek veya kabul edilmek için bir şey sunma; önerme
-- ► öneri
+- öneri
 ozellikler:
 - - isim
 - - isim

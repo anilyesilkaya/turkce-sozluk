@@ -5,7 +5,7 @@ slug: faydasizlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararsızlık
+- yararsızlık
 ozellikler:
 - - isim
 ornekler:

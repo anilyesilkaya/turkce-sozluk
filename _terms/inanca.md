@@ -5,7 +5,7 @@ slug: inanca
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► güvence
+- güvence
 ozellikler:
 - - isim
 ornekler:

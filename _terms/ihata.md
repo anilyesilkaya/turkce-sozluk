@@ -5,7 +5,7 @@ slug: ihata
 letter: I
 lisan: Arapça iḥāṭa
 anlamlar:
-- ► kuşatma
+- kuşatma
 - Kavrayış, anlayış
 ozellikler:
 - - isim

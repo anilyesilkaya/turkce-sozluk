@@ -5,7 +5,7 @@ slug: leydi
 letter: L
 lisan: İngilizce lady
 anlamlar:
-- ► hanım
+- hanım
 ozellikler:
 - - isim
 ornekler:

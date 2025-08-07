@@ -5,8 +5,8 @@ slug: mevcudiyet
 letter: M
 lisan: Arapça mevcūdiyyet
 anlamlar:
-- ► varlık
-- ► varoluş
+- varlık
+- varoluş
 ozellikler:
 - - isim
   - eskimiş

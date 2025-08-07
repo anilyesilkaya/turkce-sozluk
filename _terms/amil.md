@@ -5,7 +5,7 @@ slug: amil
 letter: A
 lisan: Arapça ʿāmil
 anlamlar:
-- ► etken
+- etken
 ozellikler:
 - - isim
 ornekler:

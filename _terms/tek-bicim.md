@@ -5,7 +5,7 @@ slug: tek-bicim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► standart
+- standart
 ozellikler:
 - - sıfat
 ornekler:

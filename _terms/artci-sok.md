@@ -5,7 +5,7 @@ slug: artci-sok
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► artçı deprem
+- artçı deprem
 ozellikler:
 - - isim
 ornekler:

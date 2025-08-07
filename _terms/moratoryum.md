@@ -5,7 +5,7 @@ slug: moratoryum
 letter: M
 lisan: Fransızca moratorium
 anlamlar:
-- ► erteletim
+- erteletim
 ozellikler:
 - - isim
   - ekonomi

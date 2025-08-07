@@ -5,7 +5,7 @@ slug: kanalizasyon-sinegi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lağım sineği
+- lağım sineği
 ozellikler:
 - - isim
   - hayvan bilimi

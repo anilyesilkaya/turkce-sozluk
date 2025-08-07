@@ -5,7 +5,7 @@ slug: orusuk-uyak
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► örüşük kafiye
+- örüşük kafiye
 ozellikler:
 - - isim
   - edebiyat

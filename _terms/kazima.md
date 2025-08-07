@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kazımak işi
-- ► kürtaj
+- kürtaj
 ozellikler:
 - - isim
 - - isim

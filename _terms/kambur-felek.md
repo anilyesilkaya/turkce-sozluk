@@ -5,7 +5,7 @@ slug: kambur-felek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kahpe felek
+- kahpe felek
 ozellikler:
 - - isim
   - mecaz

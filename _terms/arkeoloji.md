@@ -5,7 +5,7 @@ slug: arkeoloji
 letter: A
 lisan: Fransızca archéologie
 anlamlar:
-- ► kazı bilimi
+- kazı bilimi
 ozellikler:
 - - isim
 ornekler:

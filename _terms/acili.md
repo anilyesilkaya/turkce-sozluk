@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Acı katılmış olan
-- ► üzüntülü
+- üzüntülü
 ozellikler:
 - - sıfat
 - - sıfat

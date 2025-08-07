@@ -5,7 +5,7 @@ slug: ehlidil
 letter: E
 lisan: Arapça ehl + Farsça dil
 anlamlar:
-- ► gönül eri
+- gönül eri
 ozellikler:
 - - isim
   - eskimiş

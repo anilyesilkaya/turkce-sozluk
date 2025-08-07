@@ -9,7 +9,7 @@ anlamlar:
 - İçindekileri bir yere dökmek; çıkarmak
 - Kurtarmak veya güvenliği sağlamak amacıyla bir yerin içindekileri dışarı çıkarmak
 - Bir silahta ne kadar mermi varsa hepsini arka arkaya patlatmak
-- ► kusmak
+- kusmak
 - Düğüm vb.ni çözülmüş duruma getirmek
 ozellikler:
 - - -i

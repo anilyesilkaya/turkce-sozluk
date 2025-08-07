@@ -5,7 +5,7 @@ slug: otodidakt
 letter: O
 lisan: Fransızca autodidacte
 anlamlar:
-- ► öz öğrenimli
+- öz öğrenimli
 ozellikler:
 - - sıfat
 ornekler:

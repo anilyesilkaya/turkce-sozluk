@@ -5,7 +5,7 @@ slug: dilim-dilim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► parça parça
+- parça parça
 ozellikler:
 - - zarf
 ornekler:

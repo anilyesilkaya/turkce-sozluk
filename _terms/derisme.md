@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Derişmek işi
-- ► yoğunlaşma
+- yoğunlaşma
 ozellikler:
 - - isim
 - - isim

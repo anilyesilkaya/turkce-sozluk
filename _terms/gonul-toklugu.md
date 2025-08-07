@@ -5,7 +5,7 @@ slug: gonul-toklugu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► doygunluk
+- doygunluk
 ozellikler:
 - - isim
   - mecaz

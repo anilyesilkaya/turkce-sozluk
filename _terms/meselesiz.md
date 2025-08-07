@@ -5,7 +5,7 @@ slug: meselesiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorunsuz
+- sorunsuz
 ozellikler:
 - - sıfat
 ornekler:

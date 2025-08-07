@@ -9,7 +9,7 @@ anlamlar:
 - Bükülerek kat yeri oluşturmak
 - Kendini hasta veya yorgun, bitkin hissetmek
 - Savaş, bulaşıcı hastalık sebebiyle çok sayıda insan ölmek
-- ► gücenmek
+- gücenmek
 - Soğuk, rüzgâr vb. eski gücü kalmamak, azalmak, yatışmak
 - Cesaret, umut, onur azalmak, yok olmak
 - Ağaç, dal üzerinde meyve, çiçek, yaprak çok olmak

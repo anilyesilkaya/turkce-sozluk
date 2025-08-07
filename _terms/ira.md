@@ -5,7 +5,7 @@ slug: ira
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► karakter
+- karakter
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: lizol
 letter: L
 lisan: Fransızca Iysol
 anlamlar:
-- ► krezol
+- krezol
 ozellikler:
 - - isim
   - kimya

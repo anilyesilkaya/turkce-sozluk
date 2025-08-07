@@ -5,7 +5,7 @@ slug: bir-paralik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beş paralık
+- beş paralık
 ozellikler:
 - - sıfat
 ornekler:

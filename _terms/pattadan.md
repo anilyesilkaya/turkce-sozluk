@@ -5,7 +5,7 @@ slug: pattadan
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pattadak
+- pattadak
 ozellikler:
 - - zarf
 ornekler:

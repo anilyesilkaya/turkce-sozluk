@@ -5,7 +5,7 @@ slug: kurnazcasina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurnazca
+- kurnazca
 ozellikler:
 - - zarf
 ornekler:

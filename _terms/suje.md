@@ -5,8 +5,8 @@ slug: suje
 letter: S
 lisan: Fransızca sujet
 anlamlar:
-- ► konu
-- ► özne
+- konu
+- özne
 ozellikler:
 - - isim
 - - isim

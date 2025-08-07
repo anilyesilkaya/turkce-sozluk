@@ -5,7 +5,7 @@ slug: basaktor
 letter: B
 lisan: Türkçe baş + Fransızca acteur
 anlamlar:
-- ► başoyuncu (erkek)
+- başoyuncu (erkek)
 ozellikler:
 - - isim
   - sinema

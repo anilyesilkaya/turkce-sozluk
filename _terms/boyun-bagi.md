@@ -5,7 +5,7 @@ slug: boyun-bagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kravat
+- kravat
 ozellikler:
 - - isim
 ornekler:

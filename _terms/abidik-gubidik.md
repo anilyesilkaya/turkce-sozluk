@@ -5,7 +5,7 @@ slug: abidik-gubidik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçma
+- saçma
 ozellikler:
 - - sıfat
   - ağızlardan

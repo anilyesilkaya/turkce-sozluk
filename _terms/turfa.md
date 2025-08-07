@@ -5,7 +5,7 @@ slug: turfa
 letter: T
 lisan: Arapça ṭurfe
 anlamlar:
-- ► nadir
+- nadir
 - Değeri düşük, işe yaramaz
 - Acayip, tuhaf olan
 ozellikler:

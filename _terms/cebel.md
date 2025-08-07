@@ -5,7 +5,7 @@ slug: cebel
 letter: C
 lisan: Arapça cebel
 anlamlar:
-- ► dağ (I)
+- dağ (I)
 ozellikler:
 - - isim
   - eskimiş

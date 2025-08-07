@@ -5,7 +5,7 @@ slug: tabiiyetli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uyruklu
+- uyruklu
 ozellikler:
 - - sıfat
 ornekler:

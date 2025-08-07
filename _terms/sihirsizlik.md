@@ -5,7 +5,7 @@ slug: sihirsizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► büyüsüzlük
+- büyüsüzlük
 ozellikler:
 - - isim
 ornekler:

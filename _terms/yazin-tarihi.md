@@ -5,7 +5,7 @@ slug: yazin-tarihi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebiyat tarihi
+- edebiyat tarihi
 ozellikler:
 - - isim
 ornekler:

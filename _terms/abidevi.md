@@ -5,7 +5,7 @@ slug: abidevi
 letter: A
 lisan: Arapça ābidevī
 anlamlar:
-- ► anıtsal
+- anıtsal
 ozellikler:
 - - sıfat
   - eskimiş

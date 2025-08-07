@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - tırmalanmak, kurcalanmak, azdırılmak
-- ► irkilmek (II)
+- irkilmek (II)
 ozellikler:
 - - ''
 - - ''

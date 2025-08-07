@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Dalgınlıktan ileri gelen uyuşukluk
-- ► aymazlık
+- aymazlık
 ozellikler:
 - - isim
   - mecaz

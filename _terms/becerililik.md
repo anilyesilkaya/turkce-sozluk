@@ -5,7 +5,7 @@ slug: becerililik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beceriklilik
+- beceriklilik
 ozellikler:
 - - isim
 ornekler:

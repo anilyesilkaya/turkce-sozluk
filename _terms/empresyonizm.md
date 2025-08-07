@@ -5,7 +5,7 @@ slug: empresyonizm
 letter: E
 lisan: Fransızca impressionnisme
 anlamlar:
-- ► izlenimcilik
+- izlenimcilik
 ozellikler:
 - - isim
 ornekler:

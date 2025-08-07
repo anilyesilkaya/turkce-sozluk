@@ -5,7 +5,7 @@ slug: asil
 letter: A
 lisan: Arapça aṣīl
 anlamlar:
-- ► soylu
+- soylu
 - Yüce duygularla yapılan
 ozellikler:
 - - sıfat

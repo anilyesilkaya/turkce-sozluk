@@ -5,7 +5,7 @@ slug: uyku-semesi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyku sersemi
+- uyku sersemi
 ozellikler:
 - - sıfat
 ornekler:

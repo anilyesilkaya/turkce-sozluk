@@ -5,7 +5,7 @@ slug: fanatik
 letter: F
 lisan: Fransızca fanatique
 anlamlar:
-- ► bağnaz
+- bağnaz
 - Bir kimse, grup, takım vb.ne aşırı bağlı olan
 ozellikler:
 - - sıfat

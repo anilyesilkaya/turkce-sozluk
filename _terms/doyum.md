@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Eldekinden hoşnut olma durumu; işba
-- ► tatmin
-- ► orgazm
+- tatmin
+- orgazm
 ozellikler:
 - - isim
 - - isim

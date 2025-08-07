@@ -5,7 +5,7 @@ slug: popo
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kıç
+- kıç
 ozellikler:
 - - isim
   - teklifsiz konuşmada

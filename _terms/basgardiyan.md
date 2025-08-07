@@ -5,7 +5,7 @@ slug: basgardiyan
 letter: B
 lisan: Türkçe baş + Fransızca gardien
 anlamlar:
-- ► infaz ve koruma başmemuru
+- infaz ve koruma başmemuru
 ozellikler:
 - - isim
 ornekler:

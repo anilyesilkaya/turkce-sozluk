@@ -5,7 +5,7 @@ slug: bolusumcu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaşımcı
+- paylaşımcı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tercumeihal
 letter: T
 lisan: Arapça terceme + ḥāl
 anlamlar:
-- ► öz geçmiş
+- öz geçmiş
 ozellikler:
 - - isim
   - eskimiş

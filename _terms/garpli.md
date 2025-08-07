@@ -5,7 +5,7 @@ slug: garpli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Batılı
+- Batılı
 ozellikler:
 - - sıfat
 ornekler:

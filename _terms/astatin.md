@@ -5,7 +5,7 @@ slug: astatin
 letter: A
 lisan: Fransızca astatine
 anlamlar:
-- ► astat
+- astat
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: tabiilesmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğallaşmak
+- doğallaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

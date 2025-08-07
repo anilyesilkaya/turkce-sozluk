@@ -5,7 +5,7 @@ slug: balar
 letter: B
 lisan: Farsça bālār
 anlamlar:
-- ► pedavra
+- pedavra
 ozellikler:
 - - isim
   - eskimiş

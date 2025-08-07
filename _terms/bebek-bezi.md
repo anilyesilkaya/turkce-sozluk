@@ -5,7 +5,7 @@ slug: bebek-bezi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çocuk bezi
+- çocuk bezi
 ozellikler:
 - - isim
 ornekler:

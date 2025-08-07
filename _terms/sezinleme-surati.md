@@ -5,7 +5,7 @@ slug: sezinleme-surati
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► öncelleme sürati
+- öncelleme sürati
 ozellikler:
 - - isim
 ornekler:

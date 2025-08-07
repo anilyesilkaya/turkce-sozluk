@@ -5,7 +5,7 @@ slug: tumlesik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünleşik
+- bütünleşik
 ozellikler:
 - - sıfat
 ornekler:

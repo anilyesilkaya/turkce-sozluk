@@ -8,7 +8,7 @@ anlamlar:
 - '... amacıyla'
 - '... şartıyla'
 - Bir işin veya durumun yaklaşmakta olduğunu bildiren bir söz
-- ► gibi
+- gibi
 ozellikler:
 - - edat
 - - edat

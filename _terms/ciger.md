@@ -8,7 +8,7 @@ anlamlar:
 - Akciğerlerle karaciğerin ortak adı
 - Hayvanlarda akciğer, yürek ve karaciğerin oluşturduğu takım
 - Hayvanların karaciğerinden yapılan yemek
-- ► iç
+- iç
 - Cesaretli, yürekli olma
 ozellikler:
 - - isim

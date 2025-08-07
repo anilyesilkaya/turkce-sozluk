@@ -7,8 +7,8 @@ lisan: Arapça şuʿbe
 anlamlar:
 - Bir kurumun, bir kuruluşun alt bölümlerindeki iş yerlerinden her biri; büro
 - Okullarda aynı düzeydeki sınıflardan her biri
-- ► dal (I)
-- ► kol (I)
+- dal (I)
+- kol (I)
 ozellikler:
 - - isim
 - - isim

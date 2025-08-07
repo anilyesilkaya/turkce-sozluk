@@ -5,7 +5,7 @@ slug: art
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arka
+- arka
 - Bir şeyin öbür yüzü
 - Arkada bulunan
 ozellikler:

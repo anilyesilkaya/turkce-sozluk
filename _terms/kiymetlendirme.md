@@ -5,7 +5,7 @@ slug: kiymetlendirme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerlendirme
+- değerlendirme
 ozellikler:
 - - isim
 ornekler:

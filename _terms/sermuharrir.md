@@ -5,7 +5,7 @@ slug: sermuharrir
 letter: S
 lisan: Farsça ser + Arapça muḥarrir
 anlamlar:
-- ► başyazar
+- başyazar
 ozellikler:
 - - isim
   - eskimiş

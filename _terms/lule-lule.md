@@ -5,7 +5,7 @@ slug: lule-lule
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► kıvrım kıvrım
+- kıvrım kıvrım
 ozellikler:
 - - sıfat
 ornekler:

@@ -10,7 +10,7 @@ anlamlar:
 - Bu elementten yapılmış parça
 - Ayakkabı topuğuna veya ayakkabı burnuna aşınmayı önlemek için çakılan, özel olarak yapılmış madenden parça
 - Güçlü, kuvvetli, sert
-- ► çıpa
+- çıpa
 ozellikler:
 - - isim
   - kimya

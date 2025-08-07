@@ -5,7 +5,7 @@ slug: sendikalist
 letter: S
 lisan: Fransızca syndicaliste
 anlamlar:
-- ► sendikacı
+- sendikacı
 ozellikler:
 - - isim
 ornekler:

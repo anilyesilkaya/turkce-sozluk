@@ -5,8 +5,8 @@ slug: isyar
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► görevli
-- ► memur
+- görevli
+- memur
 ozellikler:
 - - isim
   - eskimiş

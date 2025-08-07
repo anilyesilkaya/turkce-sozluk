@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Gönül vermiş; meclup
-- ► düşkün
+- düşkün
 ozellikler:
 - - sıfat
 - - sıfat

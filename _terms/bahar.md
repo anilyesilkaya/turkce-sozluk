@@ -5,7 +5,7 @@ slug: bahar
 letter: B
 lisan: Arapça bahār
 anlamlar:
-- ► baharat
+- baharat
 ozellikler:
 - - isim
 ornekler:

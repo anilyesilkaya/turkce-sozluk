@@ -5,7 +5,7 @@ slug: suphelilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkululuk
+- kuşkululuk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: iklaya-siklaya
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ıkına sıkına
+- ıkına sıkına
 ozellikler:
 - - zarf
 ornekler:

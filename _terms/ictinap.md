@@ -5,7 +5,7 @@ slug: ictinap
 letter: I
 lisan: Arapça ictināb
 anlamlar:
-- ► sakınma
+- sakınma
 ozellikler:
 - - isim
   - eskimiş

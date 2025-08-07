@@ -5,7 +5,7 @@ slug: cizerlik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► karikatürcülük
+- karikatürcülük
 ozellikler:
 - - isim
 ornekler:

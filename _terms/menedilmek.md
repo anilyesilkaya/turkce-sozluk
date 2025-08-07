@@ -5,7 +5,7 @@ slug: menedilmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yasaklanmak
+- yasaklanmak
 - Önüne geçilmek
 ozellikler:
 - - nesnesiz

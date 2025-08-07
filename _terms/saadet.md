@@ -5,7 +5,7 @@ slug: saadet
 letter: S
 lisan: Arapça saʿādet
 anlamlar:
-- ► mutluluk
+- mutluluk
 ozellikler:
 - - isim
 ornekler:

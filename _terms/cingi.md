@@ -5,7 +5,7 @@ slug: cingi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kıvılcım
+- kıvılcım
 ozellikler:
 - - isim
   - ağızlardan

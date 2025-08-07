@@ -5,7 +5,7 @@ slug: endiselenebilme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılanabilme
+- kaygılanabilme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: behresiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kısmetsiz
+- kısmetsiz
 ozellikler:
 - - sıfat
 ornekler:

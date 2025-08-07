@@ -5,7 +5,7 @@ slug: sanskritce
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Sanskrit
+- Sanskrit
 ozellikler:
 - - isim
 ornekler:

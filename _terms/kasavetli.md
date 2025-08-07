@@ -5,7 +5,7 @@ slug: kasavetli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sıkıntılı
+- sıkıntılı
 ozellikler:
 - - sıfat
 ornekler:

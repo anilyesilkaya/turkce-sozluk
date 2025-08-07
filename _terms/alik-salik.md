@@ -5,7 +5,7 @@ slug: alik-salik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alıkça
+- alıkça
 ozellikler:
 - - sıfat
   - zarf

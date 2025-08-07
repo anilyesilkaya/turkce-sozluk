@@ -5,7 +5,7 @@ slug: teker
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tekerlek
+- tekerlek
 - Tekerlek biçimde olan
 - Bir gök cisminin daire biçiminde görünen yüzeyi
 - Cismin gökyüzü üzerindeki iz düşümü

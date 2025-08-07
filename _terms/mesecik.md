@@ -5,7 +5,7 @@ slug: mesecik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kurtluca
+- kurtluca
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: dogal-fiyat
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► maliyet fiyatı
+- maliyet fiyatı
 ozellikler:
 - - isim
   - ticaret

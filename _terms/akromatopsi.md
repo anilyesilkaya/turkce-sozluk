@@ -5,7 +5,7 @@ slug: akromatopsi
 letter: A
 lisan: Fransızca achromatopsie
 anlamlar:
-- ► renk körlüğü
+- renk körlüğü
 ozellikler:
 - - isim
   - tıp

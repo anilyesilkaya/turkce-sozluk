@@ -5,7 +5,7 @@ slug: distributor
 letter: D
 lisan: Fransızca distributeur
 anlamlar:
-- ► dağıtıcı
+- dağıtıcı
 ozellikler:
 - - isim
   - teknik

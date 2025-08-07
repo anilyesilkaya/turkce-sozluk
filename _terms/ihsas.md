@@ -7,7 +7,7 @@ lisan: Arapça iḥsās
 anlamlar:
 - Üstü kapalı anlatma; sezdirme, ima
 - Duyma, hissetme
-- ► duyum
+- duyum
 ozellikler:
 - - isim
   - eskimiş

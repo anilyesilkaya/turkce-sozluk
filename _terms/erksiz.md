@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Muktedir olmayan
-- ► nüfuzsuz
+- nüfuzsuz
 ozellikler:
 - - sıfat
 - - sıfat

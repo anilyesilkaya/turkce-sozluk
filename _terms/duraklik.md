@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Durak olma durumu
-- ► durgunluk
+- durgunluk
 ozellikler:
 - - isim
 - - isim

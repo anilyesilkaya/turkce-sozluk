@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Hain olma durumu; çıyanlık
 - Haince davranış
-- ► hıyanet
+- hıyanet
 ozellikler:
 - - isim
 - - isim

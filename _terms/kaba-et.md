@@ -5,7 +5,7 @@ slug: kaba-et
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıç
+- kıç
 ozellikler:
 - - isim
   - mecaz

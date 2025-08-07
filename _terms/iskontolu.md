@@ -5,7 +5,7 @@ slug: iskontolu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► indirimli
+- indirimli
 - Bir bölümü söylenmemiş sayılan
 ozellikler:
 - - sıfat

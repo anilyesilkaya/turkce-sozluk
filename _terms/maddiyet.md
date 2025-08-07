@@ -5,7 +5,7 @@ slug: maddiyet
 letter: M
 lisan: Arapça māddiyet
 anlamlar:
-- ► maddilik
+- maddilik
 ozellikler:
 - - isim
   - eskimiş

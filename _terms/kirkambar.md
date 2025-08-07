@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İçinde değişik türden şeyler bulunan kap veya yer
 - Birçok konuda bilgisi olan kimse
-- ► çerçi
+- çerçi
 ozellikler:
 - - isim
 - - isim

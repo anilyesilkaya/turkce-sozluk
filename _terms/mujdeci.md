@@ -5,7 +5,7 @@ slug: mujdeci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muştucu
+- muştucu
 ozellikler:
 - - isim
 ornekler:

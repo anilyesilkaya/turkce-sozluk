@@ -5,7 +5,7 @@ slug: spekulator
 letter: S
 lisan: Fransızca spéculateur
 anlamlar:
-- ► vurguncu
+- vurguncu
 ozellikler:
 - - sıfat
   - ticaret

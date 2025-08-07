@@ -5,7 +5,7 @@ slug: seruvenci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► maceracı
+- maceracı
 ozellikler:
 - - sıfat
 ornekler:

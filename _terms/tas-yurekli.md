@@ -5,7 +5,7 @@ slug: tas-yurekli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► merhametsiz
+- merhametsiz
 ozellikler:
 - - sıfat
   - mecaz

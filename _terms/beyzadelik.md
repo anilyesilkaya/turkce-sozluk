@@ -5,7 +5,7 @@ slug: beyzadelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► soyluluk
+- soyluluk
 ozellikler:
 - - isim
 ornekler:

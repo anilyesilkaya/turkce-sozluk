@@ -5,7 +5,7 @@ slug: hidiv
 letter: H
 lisan: Farsça ḫidīv
 anlamlar:
-- ► vezir
+- vezir
 - Osmanlı Devleti'nde Kavalalı Mehmet Ali Paşa'dan sonra Mısır valilerine verilen ünvan
 ozellikler:
 - - isim

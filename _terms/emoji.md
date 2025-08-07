@@ -5,7 +5,7 @@ slug: emoji
 letter: E
 lisan: Japonca
 anlamlar:
-- ► resimce
+- resimce
 ozellikler:
 - - isim
 ornekler:

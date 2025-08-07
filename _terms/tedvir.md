@@ -5,7 +5,7 @@ slug: tedvir
 letter: T
 lisan: Arapça tedvīr
 anlamlar:
-- ► çevirme
+- çevirme
 - Yönetme, çekip çevirme
 ozellikler:
 - - isim

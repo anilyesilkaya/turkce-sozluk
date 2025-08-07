@@ -5,7 +5,7 @@ slug: temerkuz-kampi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► toplama kampı
+- toplama kampı
 ozellikler:
 - - isim
 ornekler:

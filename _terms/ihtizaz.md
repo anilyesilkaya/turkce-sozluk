@@ -5,8 +5,8 @@ slug: ihtizaz
 letter: I
 lisan: Arapça ihtizāz
 anlamlar:
-- ► titreşme
-- ► titreşim
+- titreşme
+- titreşim
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: mahalli-secim
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yerel seçim
+- yerel seçim
 ozellikler:
 - - isim
   - hukuk

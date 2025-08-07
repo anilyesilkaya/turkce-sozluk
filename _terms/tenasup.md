@@ -5,7 +5,7 @@ slug: tenasup
 letter: T
 lisan: Arapça tenāsub
 anlamlar:
-- ► orantı
+- orantı
 - Birbirleriyle ilgili söz veya kavramların dizelerde toplanması sanatı
 ozellikler:
 - - isim

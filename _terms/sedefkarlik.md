@@ -5,7 +5,7 @@ slug: sedefkarlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sedefçilik
+- sedefçilik
 ozellikler:
 - - isim
 ornekler:

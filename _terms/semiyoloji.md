@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca sémiologie
 anlamlar:
 - Hastalıkların belirti ve işaretleriyle ilgilenen hekimlik dalı
-- ► gösterge bilimi
+- gösterge bilimi
 ozellikler:
 - - isim
 - - isim

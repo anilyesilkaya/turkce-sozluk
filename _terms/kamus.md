@@ -5,7 +5,7 @@ slug: kamus
 letter: K
 lisan: Arapça ḳāmūs
 anlamlar:
-- ► sözlük
+- sözlük
 - Bir dilin bütün söz varlığının bir araya getirildiği büyük sözlük
 ozellikler:
 - - isim

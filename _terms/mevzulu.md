@@ -5,7 +5,7 @@ slug: mevzulu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► konulu
+- konulu
 ozellikler:
 - - sıfat
 ornekler:

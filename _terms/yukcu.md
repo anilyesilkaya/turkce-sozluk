@@ -5,8 +5,8 @@ slug: yukcu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► taşıyıcı
-- ► hamal
+- taşıyıcı
+- hamal
 ozellikler:
 - - isim
 - - isim

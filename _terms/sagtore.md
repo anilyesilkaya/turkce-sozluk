@@ -5,7 +5,7 @@ slug: sagtore
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ahlak
+- ahlak
 ozellikler:
 - - isim
 ornekler:

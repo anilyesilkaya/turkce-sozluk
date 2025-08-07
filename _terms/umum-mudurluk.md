@@ -5,7 +5,7 @@ slug: umum-mudurluk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel müdürlük
+- genel müdürlük
 ozellikler:
 - - isim
 ornekler:

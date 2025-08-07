@@ -8,7 +8,7 @@ anlamlar:
 - Deniz, göl, ırmak vb. su kıyılarında veya karada dik yer; yar
 - Felaketli sonuç, büyük felaket, büyük düşüş
 - Giderilmesi mümkün olmayacak kadar büyük fark, derin ayrılık
-- ► yalpak
+- yalpak
 ozellikler:
 - - isim
 - - isim

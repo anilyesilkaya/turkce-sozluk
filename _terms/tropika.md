@@ -5,8 +5,8 @@ slug: tropika
 letter: T
 lisan: İtalyanca tropico
 anlamlar:
-- ► dönence
-- ► tropikal kuşak
+- dönence
+- tropikal kuşak
 ozellikler:
 - - isim
   - gök bilimi

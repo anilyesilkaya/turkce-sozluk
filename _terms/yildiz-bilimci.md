@@ -5,7 +5,7 @@ slug: yildiz-bilimci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gök bilimci
+- gök bilimci
 ozellikler:
 - - isim
 ornekler:

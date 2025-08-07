@@ -5,7 +5,7 @@ slug: icten-evlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iç evlilik
+- iç evlilik
 ozellikler:
 - - isim
   - toplum bilimi

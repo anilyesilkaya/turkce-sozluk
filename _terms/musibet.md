@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muṣībet
 anlamlar:
 - Ansızın gelen felaket, sıkıntı veren şey
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: cizer
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► karikatürcü
+- karikatürcü
 ozellikler:
 - - isim
 ornekler:

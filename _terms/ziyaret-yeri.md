@@ -6,7 +6,7 @@ letter: Z
 lisan: Türkçe
 anlamlar:
 - Hayır işlemek veya saygı göstermek için gidilen yer; ziyaret, ziyaretgâh
-- ► makam
+- makam
 ozellikler:
 - - isim
 - - isim

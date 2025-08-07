@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳaḥbe
 anlamlar:
 - Namussuz kadın
-- ► dönek
+- dönek
 - Birini sırtından vuran; kalleş
 - Sözünde durmayan
 ozellikler:

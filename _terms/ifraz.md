@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ifrāz
 anlamlar:
 - Bir arazinin bölünmesi, parsellere ayrılması
-- ► salgı
+- salgı
 ozellikler:
 - - isim
   - eskimiş

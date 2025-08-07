@@ -5,7 +5,7 @@ slug: abartmasiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► abartısız
+- abartısız
 ozellikler:
 - - sıfat
 ornekler:

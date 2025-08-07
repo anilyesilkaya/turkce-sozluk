@@ -5,7 +5,7 @@ slug: ozanlik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şairlik
+- şairlik
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Birini beğenerek arkasını okşamak; tapışlamak
-- ► tıpışlamak
+- tıpışlamak
 ozellikler:
 - - -i
   - ağızlardan

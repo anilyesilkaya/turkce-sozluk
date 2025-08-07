@@ -5,7 +5,7 @@ slug: diyabetoloji
 letter: D
 lisan: Fransızca diabétologie
 anlamlar:
-- ► diyabet bilimi
+- diyabet bilimi
 ozellikler:
 - - isim
   - tıp

@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaşıt olma durumu
-- ► casusluk
+- casusluk
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: nuzullu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► inmeli
+- inmeli
 ozellikler:
 - - sıfat
 ornekler:

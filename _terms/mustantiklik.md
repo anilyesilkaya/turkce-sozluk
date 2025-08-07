@@ -5,7 +5,7 @@ slug: mustantiklik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorgu yargıçlığı
+- sorgu yargıçlığı
 ozellikler:
 - - isim
 ornekler:

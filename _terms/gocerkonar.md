@@ -5,7 +5,7 @@ slug: gocerkonar
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► konargöçer
+- konargöçer
 ozellikler:
 - - sıfat
   - mecaz

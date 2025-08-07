@@ -5,7 +5,7 @@ slug: konvertibl
 letter: K
 lisan: Fransızca convertible
 anlamlar:
-- ► çevrilgen
+- çevrilgen
 ozellikler:
 - - sıfat
   - ekonomi

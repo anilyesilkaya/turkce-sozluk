@@ -5,7 +5,7 @@ slug: tezyin
 letter: T
 lisan: Arapça tezyīn
 anlamlar:
-- ► süsleme
+- süsleme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: gayrisafi
 letter: G
 lisan: Arapça ġayr + ṣāfī
 anlamlar:
-- ► karışık
+- karışık
 ozellikler:
 - - sıfat
 ornekler:

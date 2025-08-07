@@ -6,8 +6,8 @@ letter: H
 lisan: Arapça ḥużūr
 anlamlar:
 - Dirlik, baş dinçliği, gönül rahatlığı
-- ► rahat
-- ► makam
+- rahat
+- makam
 - Önemli bir kişinin var olduğu, bulunduğu yer, o kişinin önü; kat (I)
 - Bir yerde bulunma; dergâh
 ozellikler:

@@ -5,7 +5,7 @@ slug: gazap
 letter: G
 lisan: Arapça ġażab
 anlamlar:
-- ► öfke
+- öfke
 ozellikler:
 - - isim
 ornekler:

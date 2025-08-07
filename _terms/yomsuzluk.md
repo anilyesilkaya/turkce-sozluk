@@ -5,7 +5,7 @@ slug: yomsuzluk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► uğursuzluk
+- uğursuzluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cihetiyle
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yönüyle
+- yönüyle
 ozellikler:
 - - edat
 ornekler:

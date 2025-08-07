@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Beklenmedik, şaşırtıcı olan
 - Yüksek bir makamdan çıkan (buyruk)
-- ► serpme
+- serpme
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: ulusal-deger
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî değer
+- millî değer
 ozellikler:
 - - isim
 ornekler:

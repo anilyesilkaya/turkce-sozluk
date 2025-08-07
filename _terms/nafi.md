@@ -5,7 +5,7 @@ slug: nafi
 letter: N
 lisan: Arapça nāfiʿ
 anlamlar:
-- ► yararlı
+- yararlı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -10,7 +10,7 @@ anlamlar:
 - Zihniyle arayıp bulmak
 - Bir şeye karşı ilgili ve titiz davranmak
 - Akıl etmek, ne olabileceğini önceden kestirmek
-- ► tasarlamak
+- tasarlamak
 - Birisi veya bir şey için kaygılanmak
 ozellikler:
 - - -i

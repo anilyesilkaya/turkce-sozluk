@@ -5,7 +5,7 @@ slug: hiyerarsi
 letter: H
 lisan: Fransızca hiérarchie
 anlamlar:
-- ► aşama sırası
+- aşama sırası
 ozellikler:
 - - isim
 ornekler:

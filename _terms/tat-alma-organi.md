@@ -5,7 +5,7 @@ slug: tat-alma-organi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dil (I)
+- dil (I)
 ozellikler:
 - - isim
 ornekler:

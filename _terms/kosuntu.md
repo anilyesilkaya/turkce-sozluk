@@ -5,7 +5,7 @@ slug: kosuntu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tayfa
+- tayfa
 ozellikler:
 - - isim
 ornekler:

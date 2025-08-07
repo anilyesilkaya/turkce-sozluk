@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarası olan, yaralanmış (kimse); başlı, mecruh
-- ► dertli
+- dertli
 ozellikler:
 - - sıfat
 - - sıfat

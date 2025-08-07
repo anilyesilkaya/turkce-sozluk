@@ -5,7 +5,7 @@ slug: lezbiyen
 letter: L
 lisan: Fransızca lesbienne
 anlamlar:
-- ► sevici
+- sevici
 ozellikler:
 - - isim
 ornekler:

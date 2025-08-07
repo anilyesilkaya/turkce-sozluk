@@ -5,7 +5,7 @@ slug: dizayncilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tasarımcılık
+- tasarımcılık
 ozellikler:
 - - isim
 ornekler:

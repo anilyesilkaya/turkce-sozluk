@@ -5,7 +5,7 @@ slug: idraksiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► anlayışsız
+- anlayışsız
 ozellikler:
 - - sıfat
 ornekler:

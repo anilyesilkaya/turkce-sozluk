@@ -5,7 +5,7 @@ slug: matador
 letter: M
 lisan: Fransızca matador
 anlamlar:
-- ► boğa güreşçisi
+- boğa güreşçisi
 ozellikler:
 - - isim
 ornekler:

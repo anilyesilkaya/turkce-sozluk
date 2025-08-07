@@ -5,7 +5,7 @@ slug: tenasul
 letter: T
 lisan: Arapça tenāsul
 anlamlar:
-- ► üreme
+- üreme
 ozellikler:
 - - isim
   - eskimiş

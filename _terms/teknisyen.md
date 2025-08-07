@@ -5,7 +5,7 @@ slug: teknisyen
 letter: T
 lisan: Fransızca technicien
 anlamlar:
-- ► teknikçi
+- teknikçi
 ozellikler:
 - - isim
 ornekler:

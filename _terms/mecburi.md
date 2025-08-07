@@ -5,7 +5,7 @@ slug: mecburi
 letter: M
 lisan: Arapça mecbūrī
 anlamlar:
-- ► zorunlu
+- zorunlu
 ozellikler:
 - - sıfat
 ornekler:

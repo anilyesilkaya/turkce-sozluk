@@ -5,7 +5,7 @@ slug: direskenlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sebatlılık
+- sebatlılık
 ozellikler:
 - - isim
 ornekler:

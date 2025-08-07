@@ -5,7 +5,7 @@ slug: mihnet
 letter: M
 lisan: Arapça miḥnet
 anlamlar:
-- ► sıkıntı
+- sıkıntı
 ozellikler:
 - - isim
 ornekler:

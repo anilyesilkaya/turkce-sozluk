@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Islak, kaygan, yapışkan olan
-- ► yılışık
+- yılışık
 ozellikler:
 - - sıfat
   - ağızlardan

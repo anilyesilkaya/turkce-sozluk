@@ -5,7 +5,7 @@ slug: tutamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tutamaç
+- tutamaç
 - Tutunacak, dayanacak, güvenecek şey
 ozellikler:
 - - isim

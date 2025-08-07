@@ -5,7 +5,7 @@ slug: derhal
 letter: D
 lisan: Farsça der + Arapça ḥāl
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

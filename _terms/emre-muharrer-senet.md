@@ -5,7 +5,7 @@ slug: emre-muharrer-senet
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bono
+- bono
 ozellikler:
 - - isim
   - hukuk

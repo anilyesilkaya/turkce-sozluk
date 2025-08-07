@@ -5,7 +5,7 @@ slug: boylamasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► uzunlamasına
+- uzunlamasına
 ozellikler:
 - - zarf
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Temel düşünce, temel inanç; umde, prensip
 - Temel bilgi
-- ► öge
+- öge
 - Davranış kuralı
 - Her türlü tartışmanın dışında sayılan öncül; mebde, umde, prensip
 ozellikler:

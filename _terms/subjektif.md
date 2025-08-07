@@ -5,7 +5,7 @@ slug: subjektif
 letter: S
 lisan: Fransızca subjectif
 anlamlar:
-- ► öznel, objektif karşıtı
+- öznel, objektif karşıtı
 ozellikler:
 - - sıfat
 ornekler:

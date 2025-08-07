@@ -5,7 +5,7 @@ slug: takizafer
 letter: T
 lisan: Arapça ṭāḳ + ẓafer
 anlamlar:
-- ► zafer takı
+- zafer takı
 ozellikler:
 - - isim
 ornekler:

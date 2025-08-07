@@ -5,7 +5,7 @@ slug: yaban-cilegi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dağ çileği
+- dağ çileği
 ozellikler:
 - - isim
   - bitki bilimi

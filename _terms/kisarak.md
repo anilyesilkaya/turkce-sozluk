@@ -5,7 +5,7 @@ slug: kisarak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kısacık
+- kısacık
 ozellikler:
 - - sıfat
 ornekler:

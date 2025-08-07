@@ -5,9 +5,9 @@ slug: kaltaban
 letter: K
 lisan: Farsça ḳaltebān
 anlamlar:
-- ► namussuz
-- ► yalancı
-- ► hileci
+- namussuz
+- yalancı
+- hileci
 ozellikler:
 - - sıfat
   - eskimiş

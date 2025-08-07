@@ -5,7 +5,7 @@ slug: irtihal
 letter: I
 lisan: Arapça irtiḥāl
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
   - eskimiş

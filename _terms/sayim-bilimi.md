@@ -5,7 +5,7 @@ slug: sayim-bilimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► istatistik
+- istatistik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sifilis
 letter: S
 lisan: Fransızca syphilis
 anlamlar:
-- ► frengi (I)
+- frengi (I)
 ozellikler:
 - - isim
   - tıp

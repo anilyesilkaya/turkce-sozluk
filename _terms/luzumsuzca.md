@@ -5,7 +5,7 @@ slug: luzumsuzca
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gereksizce
+- gereksizce
 ozellikler:
 - - zarf
 ornekler:

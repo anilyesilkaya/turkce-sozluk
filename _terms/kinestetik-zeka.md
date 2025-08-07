@@ -5,7 +5,7 @@ slug: kinestetik-zeka
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bedensel zekâ
+- bedensel zekâ
 ozellikler:
 - - isim
 ornekler:

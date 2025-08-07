@@ -5,7 +5,7 @@ slug: orman-muhafaza-memuru
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ormancı
+- ormancı
 ozellikler:
 - - isim
 ornekler:

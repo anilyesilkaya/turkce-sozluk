@@ -5,7 +5,7 @@ slug: etli-ekmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► etli pide
+- etli pide
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tepmek işi
-- ► tekme
+- tekme
 - Suda çiğnenerek keçeleştirilen yünden dokunmuş (kumaş, keçe vb.)
 ozellikler:
 - - isim

@@ -6,8 +6,8 @@ letter: T
 lisan: Arapça teʿāmul
 anlamlar:
 - Bir yerde öteden beri olagelen davranış
-- ► tepkime
-- ► pratik
+- tepkime
+- pratik
 ozellikler:
 - - isim
 - - isim

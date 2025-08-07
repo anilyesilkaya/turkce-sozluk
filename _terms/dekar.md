@@ -5,7 +5,7 @@ slug: dekar
 letter: D
 lisan: Fransızca décare
 anlamlar:
-- ► dönüm
+- dönüm
 ozellikler:
 - - isim
   - matematik

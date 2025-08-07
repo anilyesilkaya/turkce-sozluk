@@ -5,7 +5,7 @@ slug: serlevha
 letter: S
 lisan: Farsça ser + Arapça levḥa
 anlamlar:
-- ► başlık
+- başlık
 ozellikler:
 - - isim
   - eskimiş

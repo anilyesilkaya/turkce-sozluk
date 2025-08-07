@@ -5,7 +5,7 @@ slug: kokulu-kiraz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► İdris ağacı
+- İdris ağacı
 ozellikler:
 - - isim
   - bitki bilimi

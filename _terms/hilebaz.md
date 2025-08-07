@@ -5,7 +5,7 @@ slug: hilebaz
 letter: H
 lisan: Arapça ḥīle + Farsça -bāz
 anlamlar:
-- ► hileci
+- hileci
 ozellikler:
 - - sıfat
   - eskimiş

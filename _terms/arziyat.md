@@ -5,7 +5,7 @@ slug: arziyat
 letter: A
 lisan: Arapça arżiyyāt
 anlamlar:
-- ► yer bilimi
+- yer bilimi
 ozellikler:
 - - isim
   - eskimiş

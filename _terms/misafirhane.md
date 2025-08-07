@@ -5,7 +5,7 @@ slug: misafirhane
 letter: M
 lisan: Arapça musāfir + Farsça ḫāne
 anlamlar:
-- ► konukevi
+- konukevi
 - Yolcuların konakladıkları han, kervansaray vb
 ozellikler:
 - - isim

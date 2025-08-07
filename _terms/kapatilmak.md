@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kapatma işine konu olmak veya kapatma işi yapılmak
 - Ortadan kaldırılmak, feshedilmek
-- ► hapsedilmek
+- hapsedilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

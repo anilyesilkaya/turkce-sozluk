@@ -5,7 +5,7 @@ slug: hurriyetsiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özgürlüksüz
+- özgürlüksüz
 - Özgürlüğü olmadan
 ozellikler:
 - - sıfat

@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vālī
 anlamlar:
 - Bir ilde devleti temsil eden en yetkili yönetim görevlisi; ilbay
-- ► satrap
+- satrap
 ozellikler:
 - - isim
 - - isim

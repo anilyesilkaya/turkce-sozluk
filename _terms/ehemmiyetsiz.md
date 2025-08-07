@@ -5,7 +5,7 @@ slug: ehemmiyetsiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önemsiz
+- önemsiz
 ozellikler:
 - - sıfat
 ornekler:

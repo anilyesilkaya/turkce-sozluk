@@ -5,7 +5,7 @@ slug: uygur-harfleri
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Uygur alfabesi
+- Uygur alfabesi
 ozellikler:
 - - isim
 ornekler:

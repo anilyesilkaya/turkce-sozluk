@@ -5,9 +5,9 @@ slug: tesir
 letter: T
 lisan: Arapça teʾs̱īr
 anlamlar:
-- ► etki
-- ► etkileme
-- ► etkime
+- etki
+- etkileme
+- etkime
 ozellikler:
 - - isim
 - - isim

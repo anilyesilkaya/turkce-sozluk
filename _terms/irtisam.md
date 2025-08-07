@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça irtisām
 anlamlar:
 - Resmi çıkma, resmi çizilme
-- ► iz düşümü
+- iz düşümü
 ozellikler:
 - - isim
   - eskimiş

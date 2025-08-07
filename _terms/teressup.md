@@ -5,7 +5,7 @@ slug: teressup
 letter: T
 lisan: Arapça teressub
 anlamlar:
-- ► çökelme
+- çökelme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kentcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehircilik
+- şehircilik
 ozellikler:
 - - isim
 ornekler:

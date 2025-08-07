@@ -5,7 +5,7 @@ slug: reproduksiyon
 letter: R
 lisan: Fransızca reproduction
 anlamlar:
-- ► çoğaltma
+- çoğaltma
 ozellikler:
 - - isim
 ornekler:

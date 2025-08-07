@@ -5,7 +5,7 @@ slug: merzengus
 letter: M
 lisan: Farsça merzengūş
 anlamlar:
-- ► mercanköşk
+- mercanköşk
 ozellikler:
 - - isim
   - eskimiş

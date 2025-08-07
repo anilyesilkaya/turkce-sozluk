@@ -5,7 +5,7 @@ slug: bas-bicagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ustura
+- ustura
 ozellikler:
 - - isim
   - ağızlardan

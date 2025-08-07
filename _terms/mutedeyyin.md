@@ -5,7 +5,7 @@ slug: mutedeyyin
 letter: M
 lisan: Arapça mutedeyyin
 anlamlar:
-- ► dindar
+- dindar
 ozellikler:
 - - sıfat
   - eskimiş

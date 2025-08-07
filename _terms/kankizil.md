@@ -5,7 +5,7 @@ slug: kankizil
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kankırmızı
+- kankırmızı
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: intan
 letter: I
 lisan: Arapça intān
 anlamlar:
-- ► mikrop
+- mikrop
 - Kokuşma, kötü kokma
 ozellikler:
 - - isim

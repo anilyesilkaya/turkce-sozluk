@@ -5,7 +5,7 @@ slug: klostrofobi
 letter: K
 lisan: Fransızca claustrophobie
 anlamlar:
-- ► kapalı yer korkusu
+- kapalı yer korkusu
 ozellikler:
 - - isim
   - tıp

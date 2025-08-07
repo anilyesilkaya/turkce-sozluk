@@ -10,7 +10,7 @@ anlamlar:
 - Olması gereken gibi olmayan
 - Tutulmuş
 - Kısılmış, kesik
-- ► tutuklu
+- tutuklu
 - Kapalı, tıkalı olan
 - Sıkıntılı olan
 - Durgun, çekingen, sıkılgan olan

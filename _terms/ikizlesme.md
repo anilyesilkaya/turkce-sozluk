@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İkiz duruma gelme
 - İki diş arasındaki bütün dokuların bitişmesiyle oluşan diş sapaklığı
-- ► ünsüz ikizleşmesi
+- ünsüz ikizleşmesi
 ozellikler:
 - - isim
 - - isim

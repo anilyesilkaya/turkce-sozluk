@@ -5,7 +5,7 @@ slug: zirildanma
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırıldama
+- zırıldama
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yaymaca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► propaganda
+- propaganda
 ozellikler:
 - - isim
 ornekler:

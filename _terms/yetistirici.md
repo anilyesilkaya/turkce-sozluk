@@ -5,7 +5,7 @@ slug: yetistirici
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► üretici
+- üretici
 - Bir çocuğu, öğrenciyi çeşitli konularda eğiten, ona yol gösteren kimse
 ozellikler:
 - - sıfat

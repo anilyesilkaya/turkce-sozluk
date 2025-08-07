@@ -5,7 +5,7 @@ slug: umumi-vekaletname
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel vekâletname
+- genel vekâletname
 ozellikler:
 - - isim
   - eskimiş

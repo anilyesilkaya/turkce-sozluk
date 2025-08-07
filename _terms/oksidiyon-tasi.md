@@ -5,7 +5,7 @@ slug: oksidiyon-tasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► Oltu taşı
+- Oltu taşı
 ozellikler:
 - - isim
   - mineraloji

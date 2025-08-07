@@ -5,7 +5,7 @@ slug: segrimek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seğirmek
+- seğirmek
 ozellikler:
 - - nesnesiz
 ornekler:

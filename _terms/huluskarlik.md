@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Huluskâr olma durumu
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
 - - isim

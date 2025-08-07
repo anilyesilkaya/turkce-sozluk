@@ -5,7 +5,7 @@ slug: datif
 letter: D
 lisan: Fransızca datif
 anlamlar:
-- ► yönelme durumu
+- yönelme durumu
 ozellikler:
 - - isim
   - dil bilgisi

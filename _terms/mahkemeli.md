@@ -5,7 +5,7 @@ slug: mahkemeli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► davalı
+- davalı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: fut
 letter: F
 lisan: İngilizce foot
 anlamlar:
-- ► ayak
+- ayak
 ozellikler:
 - - isim
 ornekler:

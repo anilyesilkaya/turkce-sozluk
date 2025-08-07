@@ -5,8 +5,8 @@ slug: tekstil
 letter: T
 lisan: Fransızca textile
 anlamlar:
-- ► dokuma
-- ► dokumacılık
+- dokuma
+- dokumacılık
 ozellikler:
 - - isim
 - - isim

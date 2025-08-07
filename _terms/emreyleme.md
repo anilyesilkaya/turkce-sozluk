@@ -5,7 +5,7 @@ slug: emreyleme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► emretme
+- emretme
 ozellikler:
 - - isim
 ornekler:

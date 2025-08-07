@@ -5,7 +5,7 @@ slug: mutareke
 letter: M
 lisan: Arapça mutāreke
 anlamlar:
-- ► ateşkes
+- ateşkes
 ozellikler:
 - - isim
   - askerlik

@@ -5,7 +5,7 @@ slug: fent
 letter: F
 lisan: Farsça fend
 anlamlar:
-- ► hile
+- hile
 ozellikler:
 - - isim
   - eskimiş

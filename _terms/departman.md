@@ -5,7 +5,7 @@ slug: departman
 letter: D
 lisan: Fransızca département
 anlamlar:
-- ► bölüm
+- bölüm
 ozellikler:
 - - isim
 ornekler:

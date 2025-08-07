@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Basmakalıp düşünme, samimiyetsiz davranma, gereksiz gururlanma vb. içinde bulunma
 - Uyumsuz, özensiz giyinme
-- ► fahişelik
+- fahişelik
 ozellikler:
 - - isim
 - - isim

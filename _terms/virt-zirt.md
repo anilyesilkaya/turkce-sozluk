@@ -5,7 +5,7 @@ slug: virt-zirt
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ikide bir
+- ikide bir
 ozellikler:
 - - zarf
 ornekler:

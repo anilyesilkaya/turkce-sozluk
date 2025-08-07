@@ -5,7 +5,7 @@ slug: kisaclama
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıskaçlama
+- kıskaçlama
 ozellikler:
 - - isim
 ornekler:

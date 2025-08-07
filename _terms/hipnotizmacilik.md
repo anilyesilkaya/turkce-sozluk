@@ -5,7 +5,7 @@ slug: hipnotizmacilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hipnozculuk
+- hipnozculuk
 ozellikler:
 - - isim
 ornekler:

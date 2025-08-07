@@ -5,7 +5,7 @@ slug: provokasyon
 letter: P
 lisan: Fransızca provocation
 anlamlar:
-- ► kışkırtma
+- kışkırtma
 ozellikler:
 - - isim
 ornekler:

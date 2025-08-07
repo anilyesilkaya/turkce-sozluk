@@ -5,7 +5,7 @@ slug: subjektivite
 letter: S
 lisan: Fransızca subjectivité
 anlamlar:
-- ► öznellik
+- öznellik
 ozellikler:
 - - isim
   - felsefe

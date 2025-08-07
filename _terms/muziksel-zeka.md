@@ -5,7 +5,7 @@ slug: muziksel-zeka
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► işitsel zekâ
+- işitsel zekâ
 ozellikler:
 - - isim
 ornekler:

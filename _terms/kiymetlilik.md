@@ -5,7 +5,7 @@ slug: kiymetlilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerlilik
+- değerlilik
 ozellikler:
 - - isim
 ornekler:

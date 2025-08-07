@@ -5,7 +5,7 @@ slug: eliyle
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► aracılığıyla
+- aracılığıyla
 ozellikler:
 - - zarf
 ornekler:

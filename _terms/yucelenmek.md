@@ -5,7 +5,7 @@ slug: yucelenmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yücelmek
+- yücelmek
 ozellikler:
 - - nesnesiz
 ornekler:

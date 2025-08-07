@@ -5,7 +5,7 @@ slug: neft-yagi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► neft
+- neft
 ozellikler:
 - - isim
   - kimya

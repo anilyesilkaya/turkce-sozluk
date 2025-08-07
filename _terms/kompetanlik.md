@@ -5,7 +5,7 @@ slug: kompetanlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uzmanlık
+- uzmanlık
 ozellikler:
 - - isim
 ornekler:

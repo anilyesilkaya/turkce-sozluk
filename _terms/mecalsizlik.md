@@ -5,7 +5,7 @@ slug: mecalsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► takatsizlik
+- takatsizlik
 ozellikler:
 - - isim
 ornekler:

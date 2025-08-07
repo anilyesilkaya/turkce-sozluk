@@ -5,7 +5,7 @@ slug: partizan
 letter: P
 lisan: Fransızca partisan
 anlamlar:
-- ► partici
+- partici
 - Düşmanlarına karşı mücadele verirken cephe gerisinde silahlı harekete katılan kimse
 ozellikler:
 - - isim

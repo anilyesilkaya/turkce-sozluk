@@ -5,8 +5,8 @@ slug: medya
 letter: M
 lisan: İngilizce media
 anlamlar:
-- ► iletişim ortamı
-- ► iletişim araçları
+- iletişim ortamı
+- iletişim araçları
 ozellikler:
 - - isim
 - - isim

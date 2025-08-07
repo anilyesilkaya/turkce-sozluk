@@ -5,7 +5,7 @@ slug: mantiksal
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mantıklı
+- mantıklı
 ozellikler:
 - - sıfat
 ornekler:

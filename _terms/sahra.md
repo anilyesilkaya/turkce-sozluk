@@ -5,8 +5,8 @@ slug: sahra
 letter: S
 lisan: Arapça ṣaḥrāʾ
 anlamlar:
-- ► çöl
-- ► kır (II)
+- çöl
+- kır (II)
 ozellikler:
 - - isim
 - - isim

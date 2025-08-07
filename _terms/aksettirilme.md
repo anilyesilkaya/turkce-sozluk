@@ -5,8 +5,8 @@ slug: aksettirilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yansıtılma
-- ► yankılatılma
+- yansıtılma
+- yankılatılma
 ozellikler:
 - - isim
 - - isim

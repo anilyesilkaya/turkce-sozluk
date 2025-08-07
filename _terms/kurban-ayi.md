@@ -5,7 +5,7 @@ slug: kurban-ayi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► zilhicce
+- zilhicce
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: eklektizm
 letter: E
 lisan: Fransızca éclectisme
 anlamlar:
-- ► seçmecilik
+- seçmecilik
 ozellikler:
 - - isim
   - felsefe

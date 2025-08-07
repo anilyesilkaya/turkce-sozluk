@@ -5,7 +5,7 @@ slug: dikizleyebilme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gözetleyebilme
+- gözetleyebilme
 ozellikler:
 - - isim
 ornekler:

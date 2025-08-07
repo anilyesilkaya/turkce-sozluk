@@ -5,7 +5,7 @@ slug: cebren
 letter: C
 lisan: Arapça cebren
 anlamlar:
-- ► zorla
+- zorla
 ozellikler:
 - - zarf
   - eskimiş

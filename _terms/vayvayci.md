@@ -5,7 +5,7 @@ slug: vayvayci
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yaygaracı
+- yaygaracı
 ozellikler:
 - - sıfat
 ornekler:

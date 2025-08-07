@@ -5,7 +5,7 @@ slug: meftunluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tutkunluk
+- tutkunluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gun-dogusu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► doğu
+- doğu
 - Doğudan esen soğuk ve kuru rüzgâr
 ozellikler:
 - - isim

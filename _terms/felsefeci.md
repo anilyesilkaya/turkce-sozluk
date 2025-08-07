@@ -5,7 +5,7 @@ slug: felsefeci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► filozof
+- filozof
 - Felsefe öğretmeni
 ozellikler:
 - - isim

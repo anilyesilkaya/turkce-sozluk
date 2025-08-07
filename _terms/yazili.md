@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yazılmış olan, yazıya geçirilmiş; muharrer, sözlü karşıtı
 - Üzerinde yazı bulunan, yazısı olan
-- ► yazılı sınav
+- yazılı sınav
 - Geçerli olan; nominal
 ozellikler:
 - - sıfat

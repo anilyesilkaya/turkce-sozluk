@@ -6,8 +6,8 @@ letter: D
 lisan: Arapça dirāyet
 anlamlar:
 - İnce şeyleri kavrayış
-- ► zekâ
-- ► beceriklilik
+- zekâ
+- beceriklilik
 ozellikler:
 - - isim
   - ruh bilimi

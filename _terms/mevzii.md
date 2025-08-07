@@ -5,8 +5,8 @@ slug: mevzii
 letter: M
 lisan: Arapça mevżiʿī
 anlamlar:
-- ► bölgesel
-- ► yerel
+- bölgesel
+- yerel
 ozellikler:
 - - sıfat
   - eskimiş

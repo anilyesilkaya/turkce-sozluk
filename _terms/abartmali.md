@@ -5,7 +5,7 @@ slug: abartmali
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► abartılı
+- abartılı
 ozellikler:
 - - sıfat
 ornekler:

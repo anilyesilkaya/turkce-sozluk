@@ -5,7 +5,7 @@ slug: mademki
 letter: M
 lisan: Arapça mādām + Farsça ki
 anlamlar:
-- ► madem
+- madem
 ozellikler:
 - - bağlaç
 ornekler:

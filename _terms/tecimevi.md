@@ -5,7 +5,7 @@ slug: tecimevi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ticarethane
+- ticarethane
 ozellikler:
 - - isim
   - eskimiş

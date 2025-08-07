@@ -5,9 +5,9 @@ slug: kemal
 letter: K
 lisan: Arapça kemāl
 anlamlar:
-- ► olgunluk
+- olgunluk
 - İstenilen ve beğenilir niteliklerin tamamını taşıma durumu
-- ► fiyat
+- fiyat
 ozellikler:
 - - isim
 - - isim

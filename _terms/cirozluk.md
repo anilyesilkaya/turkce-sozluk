@@ -5,7 +5,7 @@ slug: cirozluk
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► zayıflık
+- zayıflık
 ozellikler:
 - - isim
 ornekler:

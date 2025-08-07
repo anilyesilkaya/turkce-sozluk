@@ -5,8 +5,8 @@ slug: hijyenik
 letter: H
 lisan: Fransızca hygiénique
 anlamlar:
-- ► sağlıklı
-- ► temiz
+- sağlıklı
+- temiz
 - Sağlık kurallarına uygun
 ozellikler:
 - - sıfat

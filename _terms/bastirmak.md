@@ -8,10 +8,10 @@ anlamlar:
 - Basma işini yaptırmak
 - Basma işini yapmak
 - Zararlı bir olayı önlemek
-- ► durdurmak
+- durdurmak
 - Üstünlüğünü göstermek
 - Bir kumaşın kenarını kıvırıp dikmek
-- ► gidermek
+- gidermek
 - Hemen söylemek
 - Bir yere beklenmedik bir anda kalabalık hâlde gelmek
 - Birdenbire gerçekleşmek ve pek çok etki göstermek

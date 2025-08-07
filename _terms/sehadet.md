@@ -5,7 +5,7 @@ slug: sehadet
 letter: Ş
 lisan: Arapça şehādet
 anlamlar:
-- ► tanıklık
+- tanıklık
 - Yüksek bir ülkü uğrunda ölme, şehit olma
 ozellikler:
 - - isim

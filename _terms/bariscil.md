@@ -5,7 +5,7 @@ slug: bariscil
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► barışsever
+- barışsever
 ozellikler:
 - - sıfat
 ornekler:

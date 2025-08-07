@@ -5,7 +5,7 @@ slug: organ-aktarimi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► organ nakli
+- organ nakli
 ozellikler:
 - - isim
   - tıp

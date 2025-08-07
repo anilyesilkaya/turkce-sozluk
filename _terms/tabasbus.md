@@ -5,7 +5,7 @@ slug: tabasbus
 letter: T
 lisan: Arapça tabaṣbuṣ
 anlamlar:
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
   - eskimiş

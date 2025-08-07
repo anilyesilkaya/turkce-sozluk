@@ -6,7 +6,7 @@ letter: E
 lisan: Arapça eṭrāf
 anlamlar:
 - Yanlar, taraflar
-- ► çevre
+- çevre
 - Bir kimsenin sürekli ilişkide bulunduğu kimseler, yakınlar; muhit
 ozellikler:
 - - isim

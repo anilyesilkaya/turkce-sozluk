@@ -5,10 +5,10 @@ slug: butunculluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► totaliterlik
+- totaliterlik
 - Bütüne önem verme, bütünü görme, bir konuyu bütün olarak değerlendirme, bütünü esas alma
 - Birbirini tamamlama, birlikte bir bütün oluşturma durumu
-- ► kapsamlılık
+- kapsamlılık
 ozellikler:
 - - isim
 - - isim

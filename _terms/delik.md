@@ -9,7 +9,7 @@ anlamlar:
 - Dar, küçük çukur
 - Küçük hayvan yuvası
 - Delinmiş olan; perforje
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
 - - isim

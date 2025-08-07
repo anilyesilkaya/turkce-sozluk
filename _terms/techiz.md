@@ -5,7 +5,7 @@ slug: techiz
 letter: T
 lisan: Arapça techīz
 anlamlar:
-- ► donatma
+- donatma
 ozellikler:
 - - isim
   - eskimiş

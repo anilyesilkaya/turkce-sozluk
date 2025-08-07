@@ -5,7 +5,7 @@ slug: itimat-mektubu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► güven mektubu
+- güven mektubu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: pikap
 letter: P
 lisan: İngilizce pick-up
 anlamlar:
-- ► kamyonet
+- kamyonet
 - Elektrikle veya pille çalışan, plak dinlemekte kullanılan araç
 ozellikler:
 - - isim

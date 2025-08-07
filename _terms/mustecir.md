@@ -5,7 +5,7 @@ slug: mustecir
 letter: M
 lisan: Arapça musteʾcir
 anlamlar:
-- ► kiracı
+- kiracı
 ozellikler:
 - - isim
   - eskimiş

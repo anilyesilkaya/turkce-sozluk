@@ -5,7 +5,7 @@ slug: yakinma-kutusu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► şikâyet kutusu
+- şikâyet kutusu
 ozellikler:
 - - isim
 ornekler:

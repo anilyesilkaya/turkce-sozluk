@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatıştırma özelliği olan, yatıştıran, sakinleştiren
-- ► sakinleştirici
+- sakinleştirici
 ozellikler:
 - - sıfat
 - - sıfat

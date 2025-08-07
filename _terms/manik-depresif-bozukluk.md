@@ -5,7 +5,7 @@ slug: manik-depresif-bozukluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► duygu durumu bozukluğu
+- duygu durumu bozukluğu
 ozellikler:
 - - isim
   - ruh bilimi

@@ -5,7 +5,7 @@ slug: reaktif
 letter: R
 lisan: Fransızca réactif
 anlamlar:
-- ► ayıraç
+- ayıraç
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: prensip
 letter: P
 lisan: Fransızca principe
 anlamlar:
-- ► ilke
+- ilke
 ozellikler:
 - - isim
   - mantık

@@ -5,7 +5,7 @@ slug: butunlestirme-egitimi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kaynaştırma eğitimi
+- kaynaştırma eğitimi
 ozellikler:
 - - isim
   - eğitim

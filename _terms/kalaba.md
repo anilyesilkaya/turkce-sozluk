@@ -5,7 +5,7 @@ slug: kalaba
 letter: K
 lisan: Arapça ġalebe
 anlamlar:
-- ► kalabalık
+- kalabalık
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: besik-kertme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beşik kertmesi
+- beşik kertmesi
 ozellikler:
 - - isim
 ornekler:

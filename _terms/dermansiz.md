@@ -5,7 +5,7 @@ slug: dermansiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► takatsiz
+- takatsiz
 ozellikler:
 - - sıfat
 ornekler:

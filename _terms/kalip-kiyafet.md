@@ -5,7 +5,7 @@ slug: kalip-kiyafet
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kılık kıyafet
+- kılık kıyafet
 ozellikler:
 - - isim
   - mecaz

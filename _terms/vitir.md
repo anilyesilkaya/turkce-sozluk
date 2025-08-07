@@ -5,7 +5,7 @@ slug: vitir
 letter: V
 lisan: Arapça vitr
 anlamlar:
-- ► vitir namazı
+- vitir namazı
 ozellikler:
 - - isim
   - din bilimi

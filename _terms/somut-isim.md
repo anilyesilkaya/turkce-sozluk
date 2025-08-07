@@ -5,7 +5,7 @@ slug: somut-isim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► somut ad
+- somut ad
 ozellikler:
 - - isim
   - dil bilgisi

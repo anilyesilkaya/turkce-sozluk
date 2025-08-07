@@ -5,7 +5,7 @@ slug: am
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dişilik organı
+- dişilik organı
 ozellikler:
 - - isim
   - kaba konuşmada

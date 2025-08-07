@@ -5,7 +5,7 @@ slug: celepci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► celep
+- celep
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ture
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► adalet
+- adalet
 ozellikler:
 - - isim
   - eskimiş

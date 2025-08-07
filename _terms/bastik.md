@@ -5,7 +5,7 @@ slug: bastik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pestil
+- pestil
 ozellikler:
 - - isim
   - ağızlardan

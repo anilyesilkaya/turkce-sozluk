@@ -5,7 +5,7 @@ slug: aktif-fiil
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► etken fiil
+- etken fiil
 ozellikler:
 - - isim
   - dil bilgisi

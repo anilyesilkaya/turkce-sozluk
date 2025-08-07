@@ -5,7 +5,7 @@ slug: hava-ulasimi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hava yolu ulaşımı
+- hava yolu ulaşımı
 ozellikler:
 - - isim
 ornekler:

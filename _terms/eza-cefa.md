@@ -5,7 +5,7 @@ slug: eza-cefa
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eziyet
+- eziyet
 ozellikler:
 - - isim
 ornekler:

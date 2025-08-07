@@ -5,7 +5,7 @@ slug: muayyeniyet
 letter: M
 lisan: Arapça muʿayyeniyyet
 anlamlar:
-- ► belirlilik
+- belirlilik
 ozellikler:
 - - isim
   - eskimiş

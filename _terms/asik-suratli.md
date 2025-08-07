@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Kızgınlığını, öfkesini ve hoşnutsuzluğunu yüzüne sert bir anlam vererek belirten, öfkeli görünüşlü yüzü olan; çatık yüzlü, çatık çehreli, çatık suratlı, eğri çehreli, eğri yüzlü
-- ► somurtkan
+- somurtkan
 ozellikler:
 - - sıfat
   - mecaz

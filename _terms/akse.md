@@ -5,7 +5,7 @@ slug: akse
 letter: A
 lisan: Fransızca accès
 anlamlar:
-- ► kriz
+- kriz
 ozellikler:
 - - isim
   - tıp

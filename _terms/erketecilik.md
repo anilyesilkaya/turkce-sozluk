@@ -5,7 +5,7 @@ slug: erketecilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► gözetleyicilik
+- gözetleyicilik
 ozellikler:
 - - isim
 ornekler:

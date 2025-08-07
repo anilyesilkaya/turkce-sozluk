@@ -5,7 +5,7 @@ slug: sinikcilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kırıkçılık
+- kırıkçılık
 ozellikler:
 - - isim
 ornekler:

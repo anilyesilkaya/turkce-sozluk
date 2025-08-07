@@ -5,7 +5,7 @@ slug: episantir
 letter: E
 lisan: Fransızca épicentre
 anlamlar:
-- ► deprem ortası
+- deprem ortası
 ozellikler:
 - - isim
   - jeoloji

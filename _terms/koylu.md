@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Köyde yaşayan veya köyde doğmuş olan; rustai
-- ► köydeş
+- köydeş
 - Köy halkı
 - Şehir yaşayışının gerektirdiği incelik ve titizliği gösteremeyen (kimse)
 ozellikler:

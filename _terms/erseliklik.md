@@ -5,7 +5,7 @@ slug: erseliklik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erdişilik
+- erdişilik
 ozellikler:
 - - isim
 ornekler:

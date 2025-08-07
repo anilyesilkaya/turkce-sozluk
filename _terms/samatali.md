@@ -5,7 +5,7 @@ slug: samatali
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► gürültülü patırtılı
+- gürültülü patırtılı
 - Çok eğlenceli
 ozellikler:
 - - sıfat

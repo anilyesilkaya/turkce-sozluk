@@ -8,7 +8,7 @@ anlamlar:
 - Saklanmış, biriktirilmiş şey
 - Yedek, ihtiyat
 - Yatağında veya havzasında bulunduğu hesaplanan, henüz işletilmemiş kömür, demir, petrol vb
-- ► çekince
+- çekince
 ozellikler:
 - - isim
 - - isim

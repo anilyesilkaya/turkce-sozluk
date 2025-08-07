@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça meyl
 anlamlar:
 - Eğiklik, eğim, akıntı
-- ► eğilim
+- eğilim
 - İlgi, gönül verme
 ozellikler:
 - - isim

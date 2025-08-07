@@ -5,7 +5,7 @@ slug: norolojik
 letter: N
 lisan: Fransızca neurologique
 anlamlar:
-- ► sinir bilimsel
+- sinir bilimsel
 ozellikler:
 - - sıfat
   - tıp

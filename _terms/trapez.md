@@ -6,7 +6,7 @@ letter: T
 lisan: Fransızca trapèze
 anlamlar:
 - Alt uçlarına bir çubuk bağlanmış bulunan iki düşey ipten yapılmış salıncağa benzer bir jimnastik aracı
-- ► trapezci
+- trapezci
 ozellikler:
 - - isim
 - - isim

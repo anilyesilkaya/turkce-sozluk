@@ -5,7 +5,7 @@ slug: damar-aktarma
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► köprüleme
+- köprüleme
 ozellikler:
 - - isim
   - tıp

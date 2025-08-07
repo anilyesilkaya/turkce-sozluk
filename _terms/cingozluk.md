@@ -5,7 +5,7 @@ slug: cingozluk
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► açıkgözlülük
+- açıkgözlülük
 ozellikler:
 - - isim
 ornekler:

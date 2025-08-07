@@ -5,7 +5,7 @@ slug: kristal
 letter: K
 lisan: Fransızca cristal
 anlamlar:
-- ► billur
+- billur
 - Billurdan yapılmış
 ozellikler:
 - - isim

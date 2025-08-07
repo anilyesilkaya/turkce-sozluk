@@ -5,7 +5,7 @@ slug: mujdelenmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muştulanmak
+- muştulanmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: aci-kavun
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Ebucehil karpuzu
+- Ebucehil karpuzu
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: vusul
 letter: V
 lisan: Arapça vuṣūl
 anlamlar:
-- ► varma
+- varma
 ozellikler:
 - - isim
   - eskimiş

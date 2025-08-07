@@ -5,7 +5,7 @@ slug: kent-soyluluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► burjuvazi
+- burjuvazi
 ozellikler:
 - - isim
 ornekler:

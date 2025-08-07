@@ -5,7 +5,7 @@ slug: toreador
 letter: T
 lisan: Fransızca toréadore
 anlamlar:
-- ► boğa güreşçisi
+- boğa güreşçisi
 - Arenada boğa güreşine katılan herkes
 ozellikler:
 - - isim

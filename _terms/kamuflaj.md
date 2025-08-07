@@ -5,7 +5,7 @@ slug: kamuflaj
 letter: K
 lisan: Fransızca camouflage
 anlamlar:
-- ► gizleme
+- gizleme
 ozellikler:
 - - isim
 ornekler:

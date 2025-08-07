@@ -5,7 +5,7 @@ slug: din-erki
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► teokrasi
+- teokrasi
 ozellikler:
 - - isim
   - toplum bilimi

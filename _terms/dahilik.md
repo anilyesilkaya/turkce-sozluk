@@ -5,7 +5,7 @@ slug: dahilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► deha
+- deha
 ozellikler:
 - - isim
 ornekler:

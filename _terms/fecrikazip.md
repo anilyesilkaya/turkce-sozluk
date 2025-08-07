@@ -5,7 +5,7 @@ slug: fecrikazip
 letter: F
 lisan: Arapça fecr + kāẕib
 anlamlar:
-- ► yalancı tan
+- yalancı tan
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: denestirme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bağıntı
+- bağıntı
 ozellikler:
 - - isim
   - jeoloji

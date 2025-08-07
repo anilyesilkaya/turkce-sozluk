@@ -6,7 +6,7 @@ letter: R
 lisan: Arapça raḥmet
 anlamlar:
 - Birinin suçunu bağışlama, yarlıgama, merhamet etme
-- ► yağmur
+- yağmur
 ozellikler:
 - - isim
 - - isim

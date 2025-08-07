@@ -8,7 +8,7 @@ anlamlar:
 - Koyun, kuzu ve keçinin pişirilmiş başı
 - Ekinlerde başak
 - Külçe biçimindeki şeker
-- ► baş
+- baş
 ozellikler:
 - - isim
 - - isim

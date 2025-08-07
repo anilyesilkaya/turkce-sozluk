@@ -5,7 +5,7 @@ slug: luzuci
 letter: L
 lisan: Arapça luzūcī
 anlamlar:
-- ► yapışkan
+- yapışkan
 ozellikler:
 - - sıfat
   - eskimiş

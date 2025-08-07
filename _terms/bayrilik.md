@@ -5,7 +5,7 @@ slug: bayrilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kadimlik
+- kadimlik
 ozellikler:
 - - isim
 ornekler:

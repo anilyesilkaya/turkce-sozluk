@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Kadınların özel gün ve gecelerde giydikleri gösterişli, göz alıcı giysi; tuvalet, abiye
-- ► gecelik
+- gecelik
 ozellikler:
 - - isim
 - - isim

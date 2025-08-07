@@ -5,7 +5,7 @@ slug: kutor
 letter: K
 lisan: Türkçe küt + Fransızca -eur
 anlamlar:
-- ► smaçör
+- smaçör
 ozellikler:
 - - isim
   - spor

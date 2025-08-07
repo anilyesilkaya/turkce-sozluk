@@ -5,7 +5,7 @@ slug: tevcih
 letter: T
 lisan: Arapça tevcīh
 anlamlar:
-- ► yöneltme
+- yöneltme
 - Aşama, makam, mevki verme, terfi ettirme
 ozellikler:
 - - isim

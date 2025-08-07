@@ -5,7 +5,7 @@ slug: cengel-sakizi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kenger sakızı
+- kenger sakızı
 ozellikler:
 - - isim
 ornekler:

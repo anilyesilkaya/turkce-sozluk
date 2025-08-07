@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kayaları delmekte kullanılan siyah elmas; karbonado
-- ► kömür
+- kömür
 ozellikler:
 - - isim
   - mineraloji

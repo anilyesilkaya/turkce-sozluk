@@ -5,7 +5,7 @@ slug: kinin-sulfati
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kinin
+- kinin
 ozellikler:
 - - isim
   - kimya

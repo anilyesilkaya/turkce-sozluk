@@ -5,7 +5,7 @@ slug: gayritabiilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sıra dışılık
+- sıra dışılık
 ozellikler:
 - - isim
 ornekler:

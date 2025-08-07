@@ -5,7 +5,7 @@ slug: durac
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kaide
+- kaide
 ozellikler:
 - - isim
   - ağızlardan

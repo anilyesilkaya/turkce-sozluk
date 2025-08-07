@@ -5,7 +5,7 @@ slug: ati
 letter: A
 lisan: Arapça ātī
 anlamlar:
-- ► gelecek
+- gelecek
 ozellikler:
 - - isim
   - eskimiş

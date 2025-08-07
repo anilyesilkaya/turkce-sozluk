@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mālī
 anlamlar:
 - Mal ile ilgili; finansal
-- ► parasal
+- parasal
 - Maliyeye ilişkin, maliye ile ilgili; finansal
 ozellikler:
 - - sıfat

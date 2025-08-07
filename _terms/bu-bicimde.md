@@ -5,8 +5,8 @@ slug: bu-bicimde
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böyle
-- ► böylece
+- böyle
+- böylece
 ozellikler:
 - - zarf
 - - zarf

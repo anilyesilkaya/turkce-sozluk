@@ -5,9 +5,9 @@ slug: hazne
 letter: H
 lisan: Arapça ḫazīne
 anlamlar:
-- ► hazine
-- ► depo
-- ► döl yatağı
+- hazine
+- depo
+- döl yatağı
 ozellikler:
 - - isim
 - - isim

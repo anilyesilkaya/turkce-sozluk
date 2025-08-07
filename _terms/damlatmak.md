@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Damla damla akıtmak
-- ► damıtmak
+- damıtmak
 ozellikler:
 - - -e
   - -i

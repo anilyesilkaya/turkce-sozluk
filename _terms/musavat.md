@@ -5,7 +5,7 @@ slug: musavat
 letter: M
 lisan: Arapça musāvāt
 anlamlar:
-- ► eşitlik
+- eşitlik
 ozellikler:
 - - isim
   - eskimiş

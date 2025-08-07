@@ -5,8 +5,8 @@ slug: domur
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kabarcık
-- ► tomurcuk
+- kabarcık
+- tomurcuk
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: katabolizma
 letter: K
 lisan: Fransızca catabolisme
 anlamlar:
-- ► yadımlama
+- yadımlama
 ozellikler:
 - - isim
   - biyoloji

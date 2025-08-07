@@ -5,7 +5,7 @@ slug: karye
 letter: K
 lisan: Arapça ḳarye
 anlamlar:
-- ► köy
+- köy
 ozellikler:
 - - isim
   - eskimiş

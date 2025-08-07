@@ -5,7 +5,7 @@ slug: koruyucu-unsuz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bağlayıcı ünsüz
+- bağlayıcı ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

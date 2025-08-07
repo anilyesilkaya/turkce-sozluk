@@ -6,7 +6,7 @@ letter: L
 lisan: Türkçe
 anlamlar:
 - Bir şey "lap" sesi çıkararak (düşmek)
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 - - zarf

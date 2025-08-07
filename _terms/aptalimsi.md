@@ -5,7 +5,7 @@ slug: aptalimsi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aptalsı
+- aptalsı
 ozellikler:
 - - sıfat
 ornekler:

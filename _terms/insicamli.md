@@ -5,7 +5,7 @@ slug: insicamli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tutarlı
+- tutarlı
 ozellikler:
 - - sıfat
 ornekler:

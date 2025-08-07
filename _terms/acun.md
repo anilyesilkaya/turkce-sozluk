@@ -5,7 +5,7 @@ slug: acun
 letter: A
 lisan: Soğdca
 anlamlar:
-- ► dünya
+- dünya
 ozellikler:
 - - isim
   - gök bilimi

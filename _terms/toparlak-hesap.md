@@ -5,7 +5,7 @@ slug: toparlak-hesap
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yuvarlak hesap
+- yuvarlak hesap
 ozellikler:
 - - isim
 ornekler:

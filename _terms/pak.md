@@ -5,7 +5,7 @@ slug: pak
 letter: P
 lisan: Farsça pāk
 anlamlar:
-- ► temiz
+- temiz
 ozellikler:
 - - sıfat
 ornekler:

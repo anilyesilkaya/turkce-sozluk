@@ -5,7 +5,7 @@ slug: kiprayisli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıpırtılı
+- kıpırtılı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: sivisma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bulaşma
+- bulaşma
 - Sıvışmak işi
 ozellikler:
 - - isim

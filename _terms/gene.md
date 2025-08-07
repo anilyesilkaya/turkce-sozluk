@@ -5,7 +5,7 @@ slug: gene
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yine
+- yine
 ozellikler:
 - - zarf
 ornekler:

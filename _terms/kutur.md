@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳuṭr
 anlamlar:
 - Daire ve kürede çap
-- ► köşegen
+- köşegen
 ozellikler:
 - - isim
   - eskimiş

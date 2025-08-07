@@ -5,7 +5,7 @@ slug: font
 letter: F
 lisan: İngilizce fount
 anlamlar:
-- ► yazı karakteri
+- yazı karakteri
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: muhtekir
 letter: M
 lisan: Arapça muḥtekir
 anlamlar:
-- ► vurguncu
+- vurguncu
 ozellikler:
 - - sıfat
   - eskimiş

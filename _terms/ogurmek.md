@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kusarken veya kusacak gibi olurken "öğürtü" sesi çıkarmak
-- ► böğürmek
+- böğürmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

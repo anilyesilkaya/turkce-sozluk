@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - En ince ayrıntısına kadar
 - Pek belli olmayan uzak bir yerden
-- ► içten
+- içten
 ozellikler:
 - - zarf
 - - zarf

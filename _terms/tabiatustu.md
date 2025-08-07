@@ -5,7 +5,7 @@ slug: tabiatustu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğaüstü
+- doğaüstü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tenesir-tahtasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teneşir
+- teneşir
 ozellikler:
 - - isim
 ornekler:

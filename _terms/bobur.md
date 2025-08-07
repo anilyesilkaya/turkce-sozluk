@@ -6,7 +6,7 @@ letter: B
 lisan: Farsça bebr
 anlamlar:
 - Memelilerden, sıcak ülkelerde yaşayan, derisi benekli, yırtıcı hayvan (Hyrax syriensis)
-- ► kibir
+- kibir
 ozellikler:
 - - isim
   - hayvan bilimi

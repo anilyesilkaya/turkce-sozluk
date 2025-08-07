@@ -5,7 +5,7 @@ slug: tabii
 letter: T
 lisan: Arapça tābiʽī
 anlamlar:
-- ► tâbiin
+- tâbiin
 ozellikler:
 - - din bilimi
 ornekler:

@@ -5,7 +5,7 @@ slug: antiasit
 letter: A
 lisan: Fransızca antiacide
 anlamlar:
-- ► alkalik
+- alkalik
 ozellikler:
 - - sıfat
   - kimya

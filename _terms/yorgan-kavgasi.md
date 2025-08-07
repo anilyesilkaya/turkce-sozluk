@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyden çıkar sağlama konusunda anlaşmazlığa düşme
-- ► post kavgası
+- post kavgası
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: himayeci
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► korumacı
+- korumacı
 ozellikler:
 - - isim
 ornekler:

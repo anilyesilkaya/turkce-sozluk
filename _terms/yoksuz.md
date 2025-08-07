@@ -5,7 +5,7 @@ slug: yoksuz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yoksul
+- yoksul
 - Yok olmuş, yok olan, bulunmayan
 ozellikler:
 - - sıfat

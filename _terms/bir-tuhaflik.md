@@ -5,7 +5,7 @@ slug: bir-tuhaflik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir hoşluk
+- bir hoşluk
 ozellikler:
 - - isim
 ornekler:

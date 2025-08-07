@@ -5,7 +5,7 @@ slug: tokurcun
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dokurcun
+- dokurcun
 ozellikler:
 - - isim
 ornekler:

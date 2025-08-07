@@ -5,7 +5,7 @@ slug: urtiker
 letter: Ü
 lisan: Fransızca urticaire
 anlamlar:
-- ► kurdeşen
+- kurdeşen
 ozellikler:
 - - isim
   - tıp

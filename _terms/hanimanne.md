@@ -5,7 +5,7 @@ slug: hanimanne
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kaynana
+- kaynana
 - İhtiyar kadınlara bir seslenme sözü
 ozellikler:
 - - isim

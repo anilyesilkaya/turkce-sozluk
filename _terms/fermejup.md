@@ -5,7 +5,7 @@ slug: fermejup
 letter: F
 lisan: Fransızca fermé-jup
 anlamlar:
-- ► çıtçıt
+- çıtçıt
 ozellikler:
 - - isim
 ornekler:

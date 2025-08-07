@@ -5,7 +5,7 @@ slug: bitimsizlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sonsuzluk
+- sonsuzluk
 ozellikler:
 - - isim
 ornekler:

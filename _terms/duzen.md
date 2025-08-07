@@ -11,7 +11,7 @@ anlamlar:
 - Bir devletin belli başlı ilkeleri bakımından yönetimde tuttuğu yol, yönetim biçimi; rejim
 - Bir kimseye, bir kuruluşa karşı toplu olarak alınan gizli karar; komplo
 - Topluca ve gizlice yürütülen herhangi bir plan; dolap, fırıldak, kapan (I), kapanca (I), komplo, üçkâğıt
-- ► akort
+- akort
 - Toplumsal bir yapı içinde ögelerin bütüne, bütünün ögelere ve ögelerin birbirlerine göre ilişkileri
 - Alet edevat takımı
 - Bez dokuma tezgâhı

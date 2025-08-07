@@ -5,7 +5,7 @@ slug: sakinganlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ihtiyatlılık
+- ihtiyatlılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yogaltim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tüketim
+- tüketim
 ozellikler:
 - - isim
 ornekler:

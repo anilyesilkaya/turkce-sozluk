@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Sertleşmek, katılaştırmak
-- ► sağlamlaştırmak
+- sağlamlaştırmak
 ozellikler:
 - - -i
 - - -i

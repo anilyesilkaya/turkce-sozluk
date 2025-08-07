@@ -5,7 +5,7 @@ slug: refik
 letter: R
 lisan: Arapça refīḳ
 anlamlar:
-- ► arkadaş
+- arkadaş
 - Bir kadının evlenmiş olduğu erkek
 ozellikler:
 - - isim

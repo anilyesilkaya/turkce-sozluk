@@ -5,8 +5,8 @@ slug: cor
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► hastalık
-- ► sığır vebası
+- hastalık
+- sığır vebası
 ozellikler:
 - - isim
   - ağızlardan

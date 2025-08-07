@@ -5,7 +5,7 @@ slug: sita
 letter: Ş
 lisan: Arapça şitāʾ
 anlamlar:
-- ► kış (I)
+- kış (I)
 ozellikler:
 - - isim
   - eskimiş

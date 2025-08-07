@@ -5,7 +5,7 @@ slug: kanyak
 letter: K
 lisan: Fransızca cognac
 anlamlar:
-- ► konyak
+- konyak
 ozellikler:
 - - isim
 ornekler:

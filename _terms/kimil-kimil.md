@@ -5,7 +5,7 @@ slug: kimil-kimil
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıpır kıpır
+- kıpır kıpır
 ozellikler:
 - - zarf
   - ağızlardan

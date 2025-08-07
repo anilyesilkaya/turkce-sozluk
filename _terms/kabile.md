@@ -5,7 +5,7 @@ slug: kabile
 letter: K
 lisan: Arapça ḳabīle
 anlamlar:
-- ► boy (II)
+- boy (II)
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,8 +5,8 @@ slug: zurriyet
 letter: Z
 lisan: Arapça ẕurriyyet
 anlamlar:
-- ► döl
-- ► çocuk
+- döl
+- çocuk
 ozellikler:
 - - isim
 - - isim

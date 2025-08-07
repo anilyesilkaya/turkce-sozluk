@@ -5,7 +5,7 @@ slug: mumluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► şamdan
+- şamdan
 - Herhangi bir sayıda mumu olan
 - Herhangi bir mum gücünde olan
 ozellikler:

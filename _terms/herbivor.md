@@ -5,7 +5,7 @@ slug: herbivor
 letter: H
 lisan: Fransızca herbivore
 anlamlar:
-- ► otobur
+- otobur
 ozellikler:
 - - sıfat
   - hayvan bilimi

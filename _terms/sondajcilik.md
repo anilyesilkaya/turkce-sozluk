@@ -5,7 +5,7 @@ slug: sondajcilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sondalamacılık
+- sondalamacılık
 ozellikler:
 - - isim
 ornekler:

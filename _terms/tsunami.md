@@ -5,7 +5,7 @@ slug: tsunami
 letter: T
 lisan: Japonca
 anlamlar:
-- ► dev dalga
+- dev dalga
 ozellikler:
 - - isim
 ornekler:

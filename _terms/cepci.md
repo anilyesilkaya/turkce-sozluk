@@ -5,7 +5,7 @@ slug: cepci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yankesici
+- yankesici
 ozellikler:
 - - isim
   - argo

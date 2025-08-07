@@ -5,7 +5,7 @@ slug: eksperimantalist
 letter: E
 lisan: Fransızca expérimentaliste
 anlamlar:
-- ► deneyselci
+- deneyselci
 ozellikler:
 - - sıfat
   - felsefe

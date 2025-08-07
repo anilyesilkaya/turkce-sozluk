@@ -5,7 +5,7 @@ slug: kehkesan
 letter: K
 lisan: Farsça kehkeşān
 anlamlar:
-- ► Samanyolu
+- Samanyolu
 ozellikler:
 - - isim
   - eskimiş

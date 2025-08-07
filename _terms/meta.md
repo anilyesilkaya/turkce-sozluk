@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça metāʿ
 anlamlar:
 - Mal, ticaret malı
-- ► sermaye
+- sermaye
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: eylemlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ad-fiil
+- ad-fiil
 ozellikler:
 - - isim
   - dil bilgisi

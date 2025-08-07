@@ -5,7 +5,7 @@ slug: tebriye
 letter: T
 lisan: Arapça tebriʾe
 anlamlar:
-- ► aklama
+- aklama
 ozellikler:
 - - isim
   - eskimiş

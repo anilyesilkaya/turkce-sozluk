@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Çarpma, sıkışma, burkulma vb. etkenlerle vücudun bir yeri ağrı verir duruma gelmek; bertmek
-- ► berelenmek
+- berelenmek
 - Morarmak, çürümek
 ozellikler:
 - - nesnesiz

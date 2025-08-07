@@ -5,7 +5,7 @@ slug: yasam-guvencesi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat sigortası
+- hayat sigortası
 ozellikler:
 - - isim
 ornekler:

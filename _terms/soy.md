@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bir atadan gelen kimselerin topluluğu; ev, asıl, cins, ırk, nesep, sülale, uruk, kan
-- ► tür
+- tür
 - İyi ve üstün nitelikleri bulunan
 - Manzum söz
 ozellikler:

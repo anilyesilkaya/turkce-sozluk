@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Hz. Musa ile ilgili, Hz. Musa’ya ait
-- ► Yahudilik
+- Yahudilik
 ozellikler:
 - - isim
 - - isim

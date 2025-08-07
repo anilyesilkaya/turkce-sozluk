@@ -5,7 +5,7 @@ slug: gok-gurultusu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gök gürlemesi
+- gök gürlemesi
 ozellikler:
 - - isim
 ornekler:

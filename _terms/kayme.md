@@ -5,7 +5,7 @@ slug: kayme
 letter: K
 lisan: Arapça ḳāʾime
 anlamlar:
-- ► kâğıt para
+- kâğıt para
 ozellikler:
 - - isim
 ornekler:

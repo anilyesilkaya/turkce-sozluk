@@ -5,8 +5,8 @@ slug: nisane
 letter: N
 lisan: Farsça nişāne
 anlamlar:
-- ► nişangâh
-- ► iz
+- nişangâh
+- iz
 ozellikler:
 - - isim
 - - isim

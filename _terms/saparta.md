@@ -7,7 +7,7 @@ lisan: İtalyanca sabordo
 anlamlar:
 - Gemi bordasındaki top çıkarılan dört köşe boşluk ve açıklık
 - Bir batarya topun birden ateş etmesi, alabanda ateşi
-- ► azarlama
+- azarlama
 ozellikler:
 - - isim
 - - isim

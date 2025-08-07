@@ -5,7 +5,7 @@ slug: graben
 letter: G
 lisan: Almanca Graben
 anlamlar:
-- ► çöküntü hendeği
+- çöküntü hendeği
 ozellikler:
 - - isim
   - coğrafya

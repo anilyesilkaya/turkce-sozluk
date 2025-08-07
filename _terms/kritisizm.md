@@ -5,7 +5,7 @@ slug: kritisizm
 letter: K
 lisan: Fransızca criticisme
 anlamlar:
-- ► eleştiricilik
+- eleştiricilik
 ozellikler:
 - - isim
   - felsefe

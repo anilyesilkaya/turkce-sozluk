@@ -5,7 +5,7 @@ slug: yag-marulu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yabani marul
+- yabani marul
 ozellikler:
 - - isim
   - bitki bilimi

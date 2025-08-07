@@ -5,7 +5,7 @@ slug: zifin
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sarıağı
+- sarıağı
 ozellikler:
 - - isim
   - bitki bilimi

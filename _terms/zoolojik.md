@@ -5,7 +5,7 @@ slug: zoolojik
 letter: Z
 lisan: Fransızca zoologique
 anlamlar:
-- ► hayvan bilimsel
+- hayvan bilimsel
 ozellikler:
 - - sıfat
 ornekler:

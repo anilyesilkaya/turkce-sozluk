@@ -6,7 +6,7 @@ letter: B
 lisan: Farsça berdūş
 anlamlar:
 - Başıboş, serseri kimse
-- ► perişan
+- perişan
 ozellikler:
 - - isim
 - - isim

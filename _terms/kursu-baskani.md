@@ -5,7 +5,7 @@ slug: kursu-baskani
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bölüm başkanı
+- bölüm başkanı
 ozellikler:
 - - isim
   - eskimiş

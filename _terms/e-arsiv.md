@@ -5,7 +5,7 @@ slug: e-arsiv
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik arşiv
+- elektronik arşiv
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: luzumsuz-yere
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gereksiz yere
+- gereksiz yere
 ozellikler:
 - - zarf
 ornekler:

@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Saymaca bir şey benimsemek için yapılan anlaşma
-- ► uzlaşma
+- uzlaşma
 ozellikler:
 - - isim
 - - isim

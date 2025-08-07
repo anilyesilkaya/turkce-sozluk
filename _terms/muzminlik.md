@@ -5,7 +5,7 @@ slug: muzminlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► süreğenlik
+- süreğenlik
 ozellikler:
 - - isim
 ornekler:

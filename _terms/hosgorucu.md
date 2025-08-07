@@ -5,7 +5,7 @@ slug: hosgorucu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hoşgörülü
+- hoşgörülü
 ozellikler:
 - - sıfat
 ornekler:

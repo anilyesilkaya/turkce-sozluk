@@ -5,7 +5,7 @@ slug: dudakdegmez
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lebdeğmez
+- lebdeğmez
 ozellikler:
 - - isim
   - edebiyat

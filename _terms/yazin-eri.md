@@ -5,7 +5,7 @@ slug: yazin-eri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebiyatçı
+- edebiyatçı
 ozellikler:
 - - isim
 ornekler:

@@ -9,7 +9,7 @@ anlamlar:
 - Yoğun bir maddenin özelliği; kesafet
 - Bir cismin birim hacminin kütlesi; gravite
 - Bir görüntünün herhangi bir noktasına ışığı durdurma derecesini gösteren sayı
-- ► kalabalık
+- kalabalık
 ozellikler:
 - - isim
 - - isim

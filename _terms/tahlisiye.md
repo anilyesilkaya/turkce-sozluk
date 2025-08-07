@@ -7,7 +7,7 @@ lisan: Arapça taḫlīṣiyye
 anlamlar:
 - Can kurtarma
 - Kazaya uğrayan gemilerin yolcularını ve gemi adamlarını kurtarma işi
-- ► tahlisiye sandalı
+- tahlisiye sandalı
 ozellikler:
 - - isim
 - - isim

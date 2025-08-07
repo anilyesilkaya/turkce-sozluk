@@ -5,7 +5,7 @@ slug: gumusi-akasya
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► mimoza
+- mimoza
 ozellikler:
 - - isim
   - bitki bilimi

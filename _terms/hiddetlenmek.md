@@ -5,7 +5,7 @@ slug: hiddetlenmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► öfkelenmek
+- öfkelenmek
 ozellikler:
 - - nesnesiz
 ornekler:

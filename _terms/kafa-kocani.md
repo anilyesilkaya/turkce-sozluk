@@ -5,7 +5,7 @@ slug: kafa-kocani
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► nüfus cüzdanı
+- nüfus cüzdanı
 ozellikler:
 - - isim
 ornekler:

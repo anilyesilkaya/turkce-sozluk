@@ -5,7 +5,7 @@ slug: marjinallesme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aykırılaşma
+- aykırılaşma
 ozellikler:
 - - isim
 ornekler:

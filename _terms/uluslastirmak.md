@@ -5,7 +5,7 @@ slug: uluslastirmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletleştirmek
+- milletleştirmek
 ozellikler:
 - - -i
 ornekler:

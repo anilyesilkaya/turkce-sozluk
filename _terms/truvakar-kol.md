@@ -5,7 +5,7 @@ slug: truvakar-kol
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fakir kol
+- fakir kol
 ozellikler:
 - - sıfat
 ornekler:

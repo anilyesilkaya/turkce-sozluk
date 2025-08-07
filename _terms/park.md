@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca parc
 anlamlar:
 - Bir yerleşme merkezinde halkın gezip hava alması için düzenlenmiş ağaçlı ve çiçekli bahçe
-- ► otopark
+- otopark
 - Trafik zorunlulukları dışında durma biçimi
 - Cephane, makine veya otomobillerin bulunduğu yer
 ozellikler:

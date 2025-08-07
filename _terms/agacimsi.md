@@ -5,7 +5,7 @@ slug: agacimsi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağaçsı
+- ağaçsı
 ozellikler:
 - - sıfat
 ornekler:

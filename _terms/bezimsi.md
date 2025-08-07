@@ -5,7 +5,7 @@ slug: bezimsi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bezsi
+- bezsi
 ozellikler:
 - - sıfat
 ornekler:

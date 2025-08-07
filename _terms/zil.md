@@ -5,7 +5,7 @@ slug: zil
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► parasız
+- parasız
 ozellikler:
 - - sıfat
   - argo

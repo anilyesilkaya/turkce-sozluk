@@ -5,7 +5,7 @@ slug: anamal-sahibi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sermayeci
+- sermayeci
 ozellikler:
 - - isim
   - ekonomi

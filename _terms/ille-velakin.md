@@ -5,7 +5,7 @@ slug: ille-velakin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gelgelelim
+- gelgelelim
 ozellikler:
 - - bağlaç
 ornekler:

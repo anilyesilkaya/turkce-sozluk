@@ -5,7 +5,7 @@ slug: guncelik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► günlük (I)
+- günlük (I)
 ozellikler:
 - - isim
 ornekler:

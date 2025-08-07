@@ -5,7 +5,7 @@ slug: ceri-domates
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kiraz domates
+- kiraz domates
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fiyakasizlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gösterişsizlik
+- gösterişsizlik
 ozellikler:
 - - isim
 ornekler:

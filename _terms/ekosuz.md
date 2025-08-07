@@ -5,7 +5,7 @@ slug: ekosuz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yankısız
+- yankısız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: veraset
 letter: V
 lisan: Arapça verās̱et
 anlamlar:
-- ► kalıtım
+- kalıtım
 - Mirasta hak sahibi olma
 ozellikler:
 - - isim

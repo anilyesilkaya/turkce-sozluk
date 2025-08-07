@@ -5,7 +5,7 @@ slug: reel-sektor
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► reel kesim
+- reel kesim
 ozellikler:
 - - isim
 ornekler:

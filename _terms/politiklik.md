@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Politik olma durumu
-- ► siyasallık
+- siyasallık
 ozellikler:
 - - isim
 - - isim

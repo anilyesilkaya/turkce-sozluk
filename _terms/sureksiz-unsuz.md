@@ -5,7 +5,7 @@ slug: sureksiz-unsuz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► patlayıcı ünsüz
+- patlayıcı ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

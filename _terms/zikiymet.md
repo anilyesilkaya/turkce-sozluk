@@ -5,7 +5,7 @@ slug: zikiymet
 letter: Z
 lisan: Arapça ẕīḳiymet
 anlamlar:
-- ► değerli
+- değerli
 ozellikler:
 - - sıfat
   - eskimiş

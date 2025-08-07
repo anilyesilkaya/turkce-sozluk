@@ -5,7 +5,7 @@ slug: sicandisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► antika işi
+- antika işi
 ozellikler:
 - - isim
 ornekler:

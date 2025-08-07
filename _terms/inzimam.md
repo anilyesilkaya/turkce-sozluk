@@ -5,7 +5,7 @@ slug: inzimam
 letter: I
 lisan: Arapça inżimām
 anlamlar:
-- ► katılma
+- katılma
 ozellikler:
 - - isim
   - eskimiş

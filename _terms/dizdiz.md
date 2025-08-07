@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Ağustos böceklerinin çıkardığı ses
-- ► büve
+- büve
 ozellikler:
 - - isim
 - - isim

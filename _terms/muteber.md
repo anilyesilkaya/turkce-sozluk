@@ -5,10 +5,10 @@ slug: muteber
 letter: M
 lisan: Arapça muʿteber
 anlamlar:
-- ► saygın
+- saygın
 - İnanılır, güvenilir
-- ► değerli
-- ► geçerli
+- değerli
+- geçerli
 ozellikler:
 - - sıfat
 - - sıfat

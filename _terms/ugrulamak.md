@@ -5,7 +5,7 @@ slug: ugrulamak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çalmak
+- çalmak
 ozellikler:
 - - -i
   - eskimiş

@@ -5,7 +5,7 @@ slug: garp
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Batı
+- Batı
 ozellikler:
 - - isim
 ornekler:

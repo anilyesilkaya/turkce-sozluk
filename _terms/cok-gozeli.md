@@ -5,7 +5,7 @@ slug: cok-gozeli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çok hücreli
+- çok hücreli
 ozellikler:
 - - sıfat
   - hayvan bilimi

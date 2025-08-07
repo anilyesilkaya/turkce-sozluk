@@ -5,7 +5,7 @@ slug: deli-gullabicisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► güllabi
+- güllabi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mutekabiliyet
 letter: M
 lisan: Arapça muteḳābiliyyet
 anlamlar:
-- ► karşılıklılık
+- karşılıklılık
 ozellikler:
 - - isim
   - eskimiş

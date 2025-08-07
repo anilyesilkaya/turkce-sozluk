@@ -5,7 +5,7 @@ slug: kokturkce
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Köktürk Türkçesi
+- Köktürk Türkçesi
 ozellikler:
 - - isim
 ornekler:

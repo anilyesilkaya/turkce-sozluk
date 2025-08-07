@@ -5,7 +5,7 @@ slug: circir
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► cırcır böceği
+- cırcır böceği
 ozellikler:
 - - isim
   - ağızlardan

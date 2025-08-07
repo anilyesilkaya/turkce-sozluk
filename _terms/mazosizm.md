@@ -5,7 +5,7 @@ slug: mazosizm
 letter: M
 lisan: Fransızca masochisme
 anlamlar:
-- ► özezerlik
+- özezerlik
 ozellikler:
 - - isim
   - ruh bilimi

@@ -5,9 +5,9 @@ slug: sililik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► temizlik
-- ► iffetlilik
-- ► ismet
+- temizlik
+- iffetlilik
+- ismet
 ozellikler:
 - - isim
 - - isim

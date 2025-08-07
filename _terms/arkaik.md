@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca archaïque
 anlamlar:
 - Güzel sanatlarda klasik çağ öncesinden kalan
-- ► eskicil
+- eskicil
 ozellikler:
 - - sıfat
 - - sıfat

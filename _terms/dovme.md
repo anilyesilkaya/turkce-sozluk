@@ -9,7 +9,7 @@ anlamlar:
 - Vücut derisi üzerine iğne vb. sivri bir araçla çizilmek ve içine renk veren maddeler konulmak yoluyla yapılan yazı veya resim
 - Kızgın durumdayken dövülerek biçim verilmiş (metal eşya)
 - Dövülerek yapılan
-- ► yarma
+- yarma
 ozellikler:
 - - isim
 - - isim

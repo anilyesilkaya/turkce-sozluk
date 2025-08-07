@@ -6,7 +6,7 @@ letter: D
 lisan: Fransızca décoratif
 anlamlar:
 - Dekor olarak kullanılan, süslemeye yarayan; süsleyici
-- ► göstermelik
+- göstermelik
 ozellikler:
 - - sıfat
 - - sıfat

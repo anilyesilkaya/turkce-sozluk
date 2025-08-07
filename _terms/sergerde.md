@@ -5,7 +5,7 @@ slug: sergerde
 letter: S
 lisan: Farsça ser + gerde
 anlamlar:
-- ► elebaşı
+- elebaşı
 - Gönüllü askerlerin başı
 ozellikler:
 - - isim

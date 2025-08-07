@@ -5,7 +5,7 @@ slug: bastanimaz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkaldırıcı
+- başkaldırıcı
 ozellikler:
 - - sıfat
   - mecaz

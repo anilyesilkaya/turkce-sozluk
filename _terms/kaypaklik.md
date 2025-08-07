@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kaypak olma durumu
-- ► döneklik
+- döneklik
 ozellikler:
 - - isim
 - - isim

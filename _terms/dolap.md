@@ -6,12 +6,12 @@ letter: D
 lisan: Arapça dūlāb
 anlamlar:
 - Genellikle tahtadan yapılmış, bölme veya çekmelerine eşya konulan kapaklı mobilya
-- ► su dolabı
-- ► dönme dolap
+- su dolabı
+- dönme dolap
 - İstanbul bedesteninde dükkân
 - Orta oyununda sahnede dükkân veya ev olarak kullanılan dekor
-- ► düzen
-- ► hile
+- düzen
+- hile
 - Yumuşaması ve parlaması amacıyla içinde talaş, kaolin, alçı vb. ile birlikte derinin döndürüldüğü, çapı 1, 2 veya 3 metre olabilen, silindir biçiminde ağaç fıçı
 - Kenevirden ip bükmeye yarayan alet
 - Sanayide kaba yüzeyleri pürüzsüzleştirmek, pas ve kireç tabakalarını, döküm çapaklarını vb.ni temizlemek için malzemeyi sert parçalarla beraber yuvarlayıp çarptırma işleminin yapıldığı silindir biçiminde alet

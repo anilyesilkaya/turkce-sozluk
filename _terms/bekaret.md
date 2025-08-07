@@ -5,7 +5,7 @@ slug: bekaret
 letter: B
 lisan: Arapça bekāret
 anlamlar:
-- ► kızlık
+- kızlık
 - Saf, temiz olma durumu
 - Sanat ve düşüncede özgünlük, yenilik
 - Taze ve doğal olma durumu

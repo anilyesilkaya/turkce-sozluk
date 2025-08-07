@@ -5,7 +5,7 @@ slug: irsiyet
 letter: I
 lisan: Arapça irs̱iyyet
 anlamlar:
-- ► kalıtım
+- kalıtım
 ozellikler:
 - - isim
   - eskimiş

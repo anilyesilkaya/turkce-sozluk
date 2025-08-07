@@ -5,7 +5,7 @@ slug: mantiksal-zeka
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sayısal zekâ
+- sayısal zekâ
 ozellikler:
 - - isim
 ornekler:

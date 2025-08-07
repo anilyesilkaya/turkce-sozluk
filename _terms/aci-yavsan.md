@@ -5,7 +5,7 @@ slug: aci-yavsan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tüylü dalak otu
+- tüylü dalak otu
 ozellikler:
 - - isim
   - ağızlardan

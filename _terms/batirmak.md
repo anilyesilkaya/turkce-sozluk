@@ -10,11 +10,11 @@ anlamlar:
 - Denizde ve suda yüzen taşıtların suya gömülmesine, batmasına sebep olmak
 - Elindeki mal, para vb. varlığını kaybetmek
 - Çok kirletmek
-- ► bulamak
+- bulamak
 - Bir şeye aşırı derecede maruz bırakmak
 - Son bulmasına sebep olmak
 - Bir kimseyi çekiştirip iyice kötülemek
-- ► mahvetmek
+- mahvetmek
 ozellikler:
 - - -e
   - -i

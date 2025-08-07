@@ -5,7 +5,7 @@ slug: yamyas
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sırılsıklam
+- sırılsıklam
 ozellikler:
 - - sıfat
 ornekler:

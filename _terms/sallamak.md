@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Düzenli bir biçimde ve hep aynı doğrultuda hareket ettirmek; sallayıvermek, ırgamak
-- ► sarsmak
+- sarsmak
 - Beklenmedik bir başarı kazanmak
 - Uydurmak, kafadan atmak
 - Zor durumda bırakmak

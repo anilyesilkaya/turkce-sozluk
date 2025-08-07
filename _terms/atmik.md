@@ -5,7 +5,7 @@ slug: atmik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► meni
+- meni
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: aleksi
 letter: A
 lisan: Fransızca alexie
 anlamlar:
-- ► okuma yitimi
+- okuma yitimi
 ozellikler:
 - - isim
   - tıp

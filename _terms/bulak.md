@@ -5,7 +5,7 @@ slug: bulak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pınar
+- pınar
 ozellikler:
 - - isim
   - ağızlardan

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Suçlanmış
-- ► kabahatli
+- kabahatli
 ozellikler:
 - - sıfat
 - - sıfat

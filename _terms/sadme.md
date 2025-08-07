@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça ṣadme
 anlamlar:
 - Çarpışma, tokuşma, vurma
-- ► sarsıntı
+- sarsıntı
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: zagsiz
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağısız
+- kılağısız
 ozellikler:
 - - sıfat
 ornekler:

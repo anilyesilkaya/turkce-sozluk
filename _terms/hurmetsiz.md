@@ -5,7 +5,7 @@ slug: hurmetsiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygısız
+- saygısız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ihtikarcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► vurgunculuk
+- vurgunculuk
 ozellikler:
 - - isim
 ornekler:

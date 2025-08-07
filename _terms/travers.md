@@ -5,7 +5,7 @@ slug: travers
 letter: T
 lisan: Fransızca traverse
 anlamlar:
-- ► tabanlık
+- tabanlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: baldirgan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baldıran
-- ► şeytantersi
+- baldıran
+- şeytantersi
 ozellikler:
 - - isim
   - ağızlardan

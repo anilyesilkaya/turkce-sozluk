@@ -6,7 +6,7 @@ letter: R
 lisan: Farsça reviş
 anlamlar:
 - Gidiş, yürüyüş
-- ► üslup
+- üslup
 - Tutum, yol
 ozellikler:
 - - isim

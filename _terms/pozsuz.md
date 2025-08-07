@@ -5,7 +5,7 @@ slug: pozsuz
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► çalımsız
+- çalımsız
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: revizyonist
 letter: R
 lisan: Fransızca révisionniste
 anlamlar:
-- ► revizyoncu
+- revizyoncu
 ozellikler:
 - - isim
 ornekler:

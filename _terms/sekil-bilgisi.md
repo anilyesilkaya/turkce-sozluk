@@ -5,7 +5,7 @@ slug: sekil-bilgisi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçim bilgisi
+- biçim bilgisi
 ozellikler:
 - - isim
   - dil bilgisi

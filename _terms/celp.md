@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça celb
 anlamlar:
 - Askerlik görevini yapmaya çağırma
-- ► çağrı belgesi
+- çağrı belgesi
 - Getirtme, kendi üzerine çekme
 ozellikler:
 - - isim

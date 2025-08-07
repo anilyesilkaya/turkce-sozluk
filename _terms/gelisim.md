@@ -8,7 +8,7 @@ anlamlar:
 - Gelişmek işi
 - Serpilip büyüme
 - İlerlemek işi; inkişaf
-- ► aksiyon
+- aksiyon
 ozellikler:
 - - isim
 - - isim

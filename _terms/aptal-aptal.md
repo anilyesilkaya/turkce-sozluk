@@ -5,7 +5,7 @@ slug: aptal-aptal
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aptalca
+- aptalca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,8 +5,8 @@ slug: mudafi
 letter: M
 lisan: Arapça mudāfiʿ
 anlamlar:
-- ► savunucu
-- ► avukat
+- savunucu
+- avukat
 ozellikler:
 - - isim
   - eskimiş

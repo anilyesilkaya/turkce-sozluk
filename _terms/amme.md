@@ -5,7 +5,7 @@ slug: amme
 letter: A
 lisan: Arapça ʿamme
 anlamlar:
-- ► Amme cüzü
+- Amme cüzü
 ozellikler:
 - - isim
   - din bilimi

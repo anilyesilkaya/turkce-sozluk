@@ -5,7 +5,7 @@ slug: yardimci-rol
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yan rol
+- yan rol
 ozellikler:
 - - isim
 ornekler:

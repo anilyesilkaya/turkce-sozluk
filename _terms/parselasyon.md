@@ -5,7 +5,7 @@ slug: parselasyon
 letter: P
 lisan: Fransızca parcellation
 anlamlar:
-- ► parselleme
+- parselleme
 ozellikler:
 - - isim
 ornekler:

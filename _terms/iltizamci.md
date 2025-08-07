@@ -5,7 +5,7 @@ slug: iltizamci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kesenekçi
+- kesenekçi
 ozellikler:
 - - isim
 ornekler:

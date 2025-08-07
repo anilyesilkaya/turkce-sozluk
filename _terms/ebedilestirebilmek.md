@@ -5,8 +5,8 @@ slug: ebedilestirebilmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sonsuzlaştırabilmek
-- ► ölümsüzleştirebilmek
+- sonsuzlaştırabilmek
+- ölümsüzleştirebilmek
 ozellikler:
 - - -i
 - - -i

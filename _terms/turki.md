@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe türk + Arapça -ī
 anlamlar:
 - Türk'le ilgili
-- ► Türkçe
+- Türkçe
 ozellikler:
 - - sıfat
   - eskimiş

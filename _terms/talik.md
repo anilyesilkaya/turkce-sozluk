@@ -7,9 +7,9 @@ lisan: Arapça taʿlīḳ
 anlamlar:
 - Arap alfabesinde geliştirilen, yatık olarak yazılan yazı türlerinden biri
 - Bu tür yazı ile yazılmış
-- ► asma (I)
+- asma (I)
 - Bir işin yapılmasını herhangi bir şarta bağlı tutma
-- ► erteleme
+- erteleme
 ozellikler:
 - - isim
 - - isim

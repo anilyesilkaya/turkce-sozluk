@@ -5,7 +5,7 @@ slug: basvekillik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başbakanlık
+- başbakanlık
 ozellikler:
 - - isim
 ornekler:

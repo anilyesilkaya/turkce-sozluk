@@ -5,7 +5,7 @@ slug: cekberi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► gelberi
+- gelberi
 ozellikler:
 - - isim
 ornekler:

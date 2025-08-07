@@ -5,7 +5,7 @@ slug: biyotop
 letter: B
 lisan: Fransızca biotope
 anlamlar:
-- ► biyolojik ortam
+- biyolojik ortam
 ozellikler:
 - - isim
 ornekler:

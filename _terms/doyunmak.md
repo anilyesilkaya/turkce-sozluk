@@ -5,7 +5,7 @@ slug: doyunmak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doymak
+- doymak
 ozellikler:
 - - nesnesiz
   - ağızlardan

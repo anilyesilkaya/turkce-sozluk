@@ -5,7 +5,7 @@ slug: suyum-suyum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► siyim siyim
+- siyim siyim
 ozellikler:
 - - zarf
 ornekler:

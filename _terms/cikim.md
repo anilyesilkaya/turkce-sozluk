@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkmak işi
-- ► çıkış yeri
+- çıkış yeri
 - Tarla, sürülürken, çapalanırken veya ekilip biçilirken tarla boyunca 1,5 - 2 metre genişliğinde ayrılmış bölümlerin her biri
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: tayyar
 letter: T
 lisan: Arapça ṭayyār
 anlamlar:
-- ► uçucu
+- uçucu
 ozellikler:
 - - sıfat
   - eskimiş

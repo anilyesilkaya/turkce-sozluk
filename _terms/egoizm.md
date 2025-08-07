@@ -5,7 +5,7 @@ slug: egoizm
 letter: E
 lisan: Fransızca égoïsme
 anlamlar:
-- ► bencillik
+- bencillik
 ozellikler:
 - - isim
 ornekler:

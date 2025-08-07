@@ -5,7 +5,7 @@ slug: tipkisi-tipkisina
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıpatıp
+- tıpatıp
 ozellikler:
 - - zarf
 ornekler:

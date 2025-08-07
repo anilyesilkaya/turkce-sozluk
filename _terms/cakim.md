@@ -5,8 +5,8 @@ slug: cakim
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kıvılcım
-- ► şimşek
+- kıvılcım
+- şimşek
 ozellikler:
 - - isim
 - - isim

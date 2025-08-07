@@ -5,7 +5,7 @@ slug: agzi-pek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağzı sıkı
+- ağzı sıkı
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: tababet
 letter: T
 lisan: Arapça ṭabābet
 anlamlar:
-- ► tıp
+- tıp
 - Tıp bilgisi
 ozellikler:
 - - isim

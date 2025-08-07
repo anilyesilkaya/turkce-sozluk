@@ -5,7 +5,7 @@ slug: konsinye-satis
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► satasıya
+- satasıya
 ozellikler:
 - - isim
   - ticaret

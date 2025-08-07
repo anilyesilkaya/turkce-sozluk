@@ -8,7 +8,7 @@ anlamlar:
 - Yerden uzaklığı az olan, yüksek karşıtı
 - Aşağıda olan, yüksek olmayan (yer)
 - Kısa (boy)
-- ► kısık
+- kısık
 - Bile bile en kötü, en ahlaksızca davranışlarda bulunan; pespaye
 ozellikler:
 - - sıfat

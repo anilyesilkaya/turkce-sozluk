@@ -5,7 +5,7 @@ slug: diklemesine
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dikine
+- dikine
 ozellikler:
 - - zarf
 ornekler:

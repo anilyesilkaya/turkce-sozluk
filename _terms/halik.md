@@ -5,7 +5,7 @@ slug: halik
 letter: H
 lisan: Arapça ḫāliḳ
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - din bilimi

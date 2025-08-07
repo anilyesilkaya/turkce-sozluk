@@ -5,7 +5,7 @@ slug: kantar-kabagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► su kabağı
+- su kabağı
 ozellikler:
 - - isim
   - bitki bilimi

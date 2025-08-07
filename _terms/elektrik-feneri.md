@@ -5,7 +5,7 @@ slug: elektrik-feneri
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► el feneri
+- el feneri
 ozellikler:
 - - isim
 ornekler:

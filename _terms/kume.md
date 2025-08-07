@@ -5,7 +5,7 @@ slug: kume
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► grup
+- grup
 - Tümsek biçimindeki yığın
 - Herhangi bir nesnenin oluşturduğu tomar; öbek
 - Bir sınıfta öğrencilerin, belli bir eğitim ve öğretim amacıyla bir süre için oluşturdukları takım veya öbek

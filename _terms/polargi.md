@@ -5,7 +5,7 @@ slug: polargi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► polarıcı
+- polarıcı
 ozellikler:
 - - isim
   - fizik

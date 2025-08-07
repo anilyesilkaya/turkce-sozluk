@@ -5,7 +5,7 @@ slug: beynelmilelci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► uluslararasıcı
+- uluslararasıcı
 ozellikler:
 - - sıfat
 ornekler:

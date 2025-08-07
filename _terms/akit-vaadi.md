@@ -5,7 +5,7 @@ slug: akit-vaadi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ön sözleşme
+- ön sözleşme
 ozellikler:
 - - isim
   - hukuk

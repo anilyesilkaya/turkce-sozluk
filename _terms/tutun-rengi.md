@@ -5,7 +5,7 @@ slug: tutun-rengi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taba
+- taba
 - Bu renkte olan
 ozellikler:
 - - isim

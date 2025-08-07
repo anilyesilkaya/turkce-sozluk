@@ -5,7 +5,7 @@ slug: seretan
 letter: S
 lisan: Arapça sereṭān
 anlamlar:
-- ► Yengeç Burcu
+- Yengeç Burcu
 ozellikler:
 - - isim
   - gök bilimi

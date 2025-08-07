@@ -5,7 +5,7 @@ slug: cagnak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► amniyon sıvısı
+- amniyon sıvısı
 ozellikler:
 - - isim
 ornekler:

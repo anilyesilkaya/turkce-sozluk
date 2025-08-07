@@ -5,7 +5,7 @@ slug: takayyut
 letter: T
 lisan: Arapça taḳayyud
 anlamlar:
-- ► bağlanma
+- bağlanma
 - Üstüne düşme, özen gösterme
 ozellikler:
 - - isim

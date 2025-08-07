@@ -5,7 +5,7 @@ slug: oryantalist
 letter: O
 lisan: Fransızca orientaliste
 anlamlar:
-- ► Doğu bilimci
+- Doğu bilimci
 ozellikler:
 - - isim
 ornekler:

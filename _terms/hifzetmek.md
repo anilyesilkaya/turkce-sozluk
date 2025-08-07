@@ -5,8 +5,8 @@ slug: hifzetmek
 letter: H
 lisan: Arapça ḥifẓ + Türkçe etmek
 anlamlar:
-- ► saklamak
-- ► ezberlemek
+- saklamak
+- ezberlemek
 ozellikler:
 - - eskimiş
 - - eskimiş

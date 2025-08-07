@@ -5,7 +5,7 @@ slug: karamela
 letter: K
 lisan: İtalyanca caramella
 anlamlar:
-- ► karamel
+- karamel
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yumurtamsi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► oval
+- oval
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: angin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ünlü
+- ünlü
 ozellikler:
 - - sıfat
   - ağızlardan

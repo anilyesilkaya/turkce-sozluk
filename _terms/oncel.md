@@ -5,11 +5,11 @@ slug: oncel
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ilk
+- ilk
 - Öncelikli olan
 - Ayrıcalıklı olan
-- ► önder
-- ► selef, ardıl karşıtı
+- önder
+- selef, ardıl karşıtı
 - Sonucun çıkarıldığı önerme veya önermeler
 - Bir sıra bağıntısında bir başkasından hemen önce gelen
 ozellikler:

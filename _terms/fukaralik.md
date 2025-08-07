@@ -5,8 +5,8 @@ slug: fukaralik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yoksulluk
-- ► zavallılık
+- yoksulluk
+- zavallılık
 ozellikler:
 - - isim
 - - isim

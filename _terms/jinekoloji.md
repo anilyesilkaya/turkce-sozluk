@@ -5,7 +5,7 @@ slug: jinekoloji
 letter: J
 lisan: Fransızca gynécologie
 anlamlar:
-- ► kadın hastalıkları
+- kadın hastalıkları
 ozellikler:
 - - isim
 ornekler:

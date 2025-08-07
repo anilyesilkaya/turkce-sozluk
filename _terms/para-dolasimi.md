@@ -5,7 +5,7 @@ slug: para-dolasimi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dolanım
+- dolanım
 ozellikler:
 - - isim
 ornekler:

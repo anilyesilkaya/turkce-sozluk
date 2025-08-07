@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyi başka bir yere uygun bir biçimde tutturmak, iliştirmek, geçirmek
 - Düğün vb. törenlerde takı armağan etmek
 - Ad, lakap koymak
-- ► kuşanmak
+- kuşanmak
 - Kendisiyle birlikte götürmek, yanına almak veya arkasından izletmek
 - Biriyle olumsuz olarak uğraşmak
 - Borç bırakmak

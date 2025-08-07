@@ -45,7 +45,7 @@ anlamlar:
 - Emir, talimat vb. verilmek
 - Ay veya mevsim geçmek
 - Yeni yetişip satışa sunulmak
-- ► yükselmek
+- yükselmek
 - Sesini yükseltmek
 - Giderilmek, yok olmak
 - Bir şeyi unutmak

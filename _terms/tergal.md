@@ -5,7 +5,7 @@ slug: tergal
 letter: T
 lisan: Fransızca tergal
 anlamlar:
-- ► terilen
+- terilen
 - Bu iplikten yapılmış
 ozellikler:
 - - isim

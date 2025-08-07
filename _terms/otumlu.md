@@ -5,7 +5,7 @@ slug: otumlu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tonlu
+- tonlu
 ozellikler:
 - - sıfat
   - dil bilgisi

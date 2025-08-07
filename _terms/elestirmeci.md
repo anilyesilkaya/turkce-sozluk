@@ -5,7 +5,7 @@ slug: elestirmeci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eleştirmen
+- eleştirmen
 ozellikler:
 - - isim
 ornekler:

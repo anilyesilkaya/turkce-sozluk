@@ -7,7 +7,7 @@ lisan: Rumca
 anlamlar:
 - Kefal türünden bir balık (Mugil cephalus)
 - Basmakalıp düşünme, samimiyetsiz davranma, gereksiz gururlanma vb. içinde bulunan kimse
-- ► fahişe
+- fahişe
 - Uyumsuz, özensiz giyinmiş kimse
 ozellikler:
 - - isim

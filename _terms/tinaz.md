@@ -5,7 +5,7 @@ slug: tinaz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yığın
+- yığın
 - Dövülerek savrulmaya hazırlanan ekin yığını
 ozellikler:
 - - isim

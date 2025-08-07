@@ -5,7 +5,7 @@ slug: imla-kilavuzu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yazım kılavuzu
+- yazım kılavuzu
 ozellikler:
 - - isim
 ornekler:

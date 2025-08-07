@@ -5,7 +5,7 @@ slug: bir-yudumluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir yudum
+- bir yudum
 ozellikler:
 - - sıfat
 ornekler:

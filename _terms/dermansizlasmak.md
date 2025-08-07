@@ -5,7 +5,7 @@ slug: dermansizlasmak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► takatsizleşmek
+- takatsizleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Hayvanı "deh" diyerek yürütmek
-- ► kovmak
+- kovmak
 ozellikler:
 - - -i
 - - -i

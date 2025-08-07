@@ -5,7 +5,7 @@ slug: gurk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kuluçka
+- kuluçka
 - Erkek hindi
 ozellikler:
 - - isim

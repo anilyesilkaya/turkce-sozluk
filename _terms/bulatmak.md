@@ -5,7 +5,7 @@ slug: bulatmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bulaştırmak
+- bulaştırmak
 ozellikler:
 - - -e
   - -i

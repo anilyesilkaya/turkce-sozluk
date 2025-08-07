@@ -5,7 +5,7 @@ slug: tefahur
 letter: T
 lisan: Arapça tefāḫur
 anlamlar:
-- ► övünme
+- övünme
 ozellikler:
 - - isim
   - eskimiş

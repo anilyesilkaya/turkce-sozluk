@@ -5,7 +5,7 @@ slug: viyaduk
 letter: V
 lisan: Fransızca viaduc
 anlamlar:
-- ► köprü yol
+- köprü yol
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: papelci
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► zarfçı
+- zarfçı
 ozellikler:
 - - isim
 ornekler:

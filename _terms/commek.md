@@ -5,7 +5,7 @@ slug: commek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çömelmek
+- çömelmek
 ozellikler:
 - - -e
   - ağızlardan

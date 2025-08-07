@@ -5,7 +5,7 @@ slug: esbabimucibe
 letter: E
 lisan: Arapça esbāb + mūcibe
 anlamlar:
-- ► gerekçe
+- gerekçe
 ozellikler:
 - - isim
   - eskimiş

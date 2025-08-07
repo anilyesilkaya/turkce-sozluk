@@ -9,7 +9,7 @@ anlamlar:
 - Katı yürekli, kötü düşünen, gaddar
 - Kurnaz, içten pazarlıklı olan
 - Genellikle hoşa giden bir davranış veya durum için şaka yollu söylenen bir söz
-- ► domuz
+- domuz
 ozellikler:
 - - sıfat
 - - sıfat

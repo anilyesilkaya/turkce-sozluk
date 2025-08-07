@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dış çevre, dış yer, içeri karşıtı
 - Kişinin konutundan ayrı olan yer
-- ► yurt dışı
+- yurt dışı
 - Dışa, dış çevreye
 ozellikler:
 - - isim

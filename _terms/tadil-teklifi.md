@@ -5,7 +5,7 @@ slug: tadil-teklifi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► değiştirge
+- değiştirge
 ozellikler:
 - - isim
 ornekler:

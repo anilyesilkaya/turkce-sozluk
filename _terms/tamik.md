@@ -5,7 +5,7 @@ slug: tamik
 letter: T
 lisan: Arapça taʿmīḳ
 anlamlar:
-- ► derinleştirme
+- derinleştirme
 ozellikler:
 - - isim
   - eskimiş

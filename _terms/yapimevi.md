@@ -5,7 +5,7 @@ slug: yapimevi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► imalathane
+- imalathane
 - Film yapımı işiyle uğraşmak için kurulmuş ortaklık
 ozellikler:
 - - isim

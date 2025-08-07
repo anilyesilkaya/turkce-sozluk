@@ -5,7 +5,7 @@ slug: mezaristan
 letter: M
 lisan: Arapça mezār + Farsça -istān
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
 ornekler:

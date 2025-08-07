@@ -5,7 +5,7 @@ slug: purist
 letter: P
 lisan: Fransızca puriste
 anlamlar:
-- ► arıtmacı
+- arıtmacı
 ozellikler:
 - - isim
 ornekler:

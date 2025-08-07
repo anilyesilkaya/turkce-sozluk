@@ -6,7 +6,7 @@ letter: N
 lisan: Fransızca néoplasme
 anlamlar:
 - Yeniden oluşan doku
-- ► ur
+- ur
 ozellikler:
 - - isim
   - tıp

@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işte yetkisi olan (kimse); salahiyetli, salahiyettar
-- ► mezun
+- mezun
 ozellikler:
 - - sıfat
 - - sıfat

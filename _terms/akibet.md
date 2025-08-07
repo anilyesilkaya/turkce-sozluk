@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿāḳıbet
 anlamlar:
 - Bir iş veya durumun sonu veya sonucu; serencam
-- ► sonunda
+- sonunda
 ozellikler:
 - - isim
 - - isim

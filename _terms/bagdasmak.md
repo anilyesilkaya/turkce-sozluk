@@ -5,7 +5,7 @@ slug: bagdasmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► uymak
+- uymak
 - Çocuk oyunlarında arkadaş olmak
 - Bağdaş kurup oturmak
 ozellikler:

@@ -5,7 +5,7 @@ slug: bogak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► anjin
+- anjin
 ozellikler:
 - - isim
   - ağızlardan

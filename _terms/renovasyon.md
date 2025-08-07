@@ -5,7 +5,7 @@ slug: renovasyon
 letter: R
 lisan: Fransızca rénovation
 anlamlar:
-- ► onarım
+- onarım
 ozellikler:
 - - isim
 ornekler:

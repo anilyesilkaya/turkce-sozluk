@@ -5,7 +5,7 @@ slug: hasretsiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özlemsiz
+- özlemsiz
 ozellikler:
 - - sıfat
 ornekler:

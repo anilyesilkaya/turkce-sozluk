@@ -5,7 +5,7 @@ slug: carpik-curpuk
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► eğri büğrü
+- eğri büğrü
 - Değersiz, basit
 ozellikler:
 - - sıfat

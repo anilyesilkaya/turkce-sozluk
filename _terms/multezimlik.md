@@ -5,7 +5,7 @@ slug: multezimlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kesenekçilik
+- kesenekçilik
 ozellikler:
 - - isim
 ornekler:

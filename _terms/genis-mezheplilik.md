@@ -5,7 +5,7 @@ slug: genis-mezheplilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► mezhebi genişlik
+- mezhebi genişlik
 ozellikler:
 - - isim
 ornekler:

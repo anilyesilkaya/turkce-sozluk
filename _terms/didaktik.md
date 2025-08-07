@@ -5,7 +5,7 @@ slug: didaktik
 letter: D
 lisan: Fransızca didactique
 anlamlar:
-- ► öğretici
+- öğretici
 ozellikler:
 - - sıfat
 ornekler:

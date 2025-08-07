@@ -5,7 +5,7 @@ slug: hiyaraga
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hıyarağası
+- hıyarağası
 ozellikler:
 - - sıfat
   - argo

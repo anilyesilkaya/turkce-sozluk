@@ -5,7 +5,7 @@ slug: malta-erigi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yenidünya
+- yenidünya
 ozellikler:
 - - isim
   - bitki bilimi

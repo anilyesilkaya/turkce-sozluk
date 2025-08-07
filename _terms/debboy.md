@@ -5,7 +5,7 @@ slug: debboy
 letter: D
 lisan: Fransızca dépôt
 anlamlar:
-- ► depo
+- depo
 ozellikler:
 - - isim
   - eskimiş

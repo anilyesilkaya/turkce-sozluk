@@ -6,7 +6,7 @@ letter: Ş
 lisan: Almanca Schnorchel
 anlamlar:
 - Dizel motorlu denizaltının su altında uzun süre kalmasını sağlayan düzen
-- ► solukluk
+- solukluk
 ozellikler:
 - - isim
 - - isim

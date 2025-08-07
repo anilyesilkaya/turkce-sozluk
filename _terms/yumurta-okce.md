@@ -5,7 +5,7 @@ slug: yumurta-okce
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yumurta topuk
+- yumurta topuk
 ozellikler:
 - - isim
 ornekler:

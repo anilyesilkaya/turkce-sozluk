@@ -5,8 +5,8 @@ slug: gayrimesru
 letter: G
 lisan: Arapça ġayr + meşrūʿ
 anlamlar:
-- ► yasa dışı
-- ► evlilik dışı
+- yasa dışı
+- evlilik dışı
 ozellikler:
 - - sıfat
 - - sıfat

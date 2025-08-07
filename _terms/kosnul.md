@@ -5,7 +5,7 @@ slug: kosnul
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► erotik
+- erotik
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: nakdi
 letter: N
 lisan: Arapça naḳdī
 anlamlar:
-- ► parasal
+- parasal
 ozellikler:
 - - sıfat
 ornekler:

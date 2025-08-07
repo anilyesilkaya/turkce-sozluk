@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Oğuz soyundan gelen Türk topluluğu
 - Türkmenistan ile Irak ve Suriye’de yaşayan Türk halkı ve bu halkın soyundan olan kimse
-- ► Yörük
+- Yörük
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: batiyal
 letter: B
 lisan: Fransızca bathyal
 anlamlar:
-- ► batyal
+- batyal
 ozellikler:
 - - isim
   - coğrafya

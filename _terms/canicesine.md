@@ -5,7 +5,7 @@ slug: canicesine
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► canice
+- canice
 ozellikler:
 - - zarf
 ornekler:

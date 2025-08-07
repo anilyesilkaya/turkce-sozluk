@@ -8,7 +8,7 @@ anlamlar:
 - Yemlemek işi
 - Tuzağa veya oltaya takılan yem
 - Bir kimseyi elde edecek, kandıracak biçimde davranma
-- ► ağızotu
+- ağızotu
 ozellikler:
 - - isim
 - - isim

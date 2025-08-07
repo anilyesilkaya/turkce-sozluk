@@ -5,7 +5,7 @@ slug: partikullu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parçacıklı
+- parçacıklı
 ozellikler:
 - - sıfat
 ornekler:

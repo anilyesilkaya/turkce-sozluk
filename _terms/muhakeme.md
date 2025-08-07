@@ -5,8 +5,8 @@ slug: muhakeme
 letter: M
 lisan: Arapça muḥākeme
 anlamlar:
-- ► yargılama
-- ► usa vurma
+- yargılama
+- usa vurma
 - Bir sorunu çözmek için çıkar yol arama
 ozellikler:
 - - isim

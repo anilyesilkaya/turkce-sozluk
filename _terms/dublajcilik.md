@@ -5,7 +5,7 @@ slug: dublajcilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► seslendiricilik
+- seslendiricilik
 ozellikler:
 - - isim
 ornekler:

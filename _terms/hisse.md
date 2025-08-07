@@ -5,8 +5,8 @@ slug: hisse
 letter: H
 lisan: Arapça ḥiṣṣe
 anlamlar:
-- ► pay
-- ► tutam (II)
+- pay
+- tutam (II)
 - Bir olaydan çıkarılan ders
 ozellikler:
 - - isim

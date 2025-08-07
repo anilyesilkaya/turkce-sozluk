@@ -5,7 +5,7 @@ slug: alimci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tahsildar
+- tahsildar
 ozellikler:
 - - isim
   - ağızlardan

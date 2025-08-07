@@ -5,7 +5,7 @@ slug: mantiken
 letter: M
 lisan: Arapça manṭiḳen
 anlamlar:
-- ► mantıkça
+- mantıkça
 ozellikler:
 - - zarf
 ornekler:

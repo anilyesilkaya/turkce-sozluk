@@ -5,7 +5,7 @@ slug: bisturi
 letter: B
 lisan: Fransızca bistouri
 anlamlar:
-- ► neşter
+- neşter
 ozellikler:
 - - isim
 ornekler:

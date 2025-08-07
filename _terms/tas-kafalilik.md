@@ -5,7 +5,7 @@ slug: tas-kafalilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 ozellikler:
 - - isim
 ornekler:

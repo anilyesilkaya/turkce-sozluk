@@ -5,7 +5,7 @@ slug: filatelist
 letter: F
 lisan: Fransızca philatéliste
 anlamlar:
-- ► pulcu
+- pulcu
 ozellikler:
 - - isim
 ornekler:

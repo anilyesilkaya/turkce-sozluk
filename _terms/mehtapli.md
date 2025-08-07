@@ -5,7 +5,7 @@ slug: mehtapli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aylı
+- aylı
 ozellikler:
 - - sıfat
 ornekler:

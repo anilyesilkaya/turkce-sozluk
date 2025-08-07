@@ -5,7 +5,7 @@ slug: afsunlanmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► büyülenmek
+- büyülenmek
 ozellikler:
 - - nesnesiz
   - ağızlardan

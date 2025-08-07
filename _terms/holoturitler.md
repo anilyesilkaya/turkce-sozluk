@@ -5,7 +5,7 @@ slug: holoturitler
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► denizhıyarları
+- denizhıyarları
 ozellikler:
 - - isim
   - hayvan bilimi

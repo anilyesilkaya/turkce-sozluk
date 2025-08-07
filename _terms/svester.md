@@ -5,8 +5,8 @@ slug: svester
 letter: Ş
 lisan: Almanca Schwester
 anlamlar:
-- ► hemşire
-- ► kız kardeş
+- hemşire
+- kız kardeş
 - Hizmetçi kız
 ozellikler:
 - - isim

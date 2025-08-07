@@ -5,7 +5,7 @@ slug: ayrilma-durumu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çıkma durumu
+- çıkma durumu
 ozellikler:
 - - isim
   - dil bilgisi

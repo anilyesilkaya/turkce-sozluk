@@ -5,7 +5,7 @@ slug: dangadak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 - Damdan düşer gibi
 ozellikler:
 - - zarf

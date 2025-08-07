@@ -5,7 +5,7 @@ slug: kabugumsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kabuksu
+- kabuksu
 ozellikler:
 - - sıfat
 ornekler:

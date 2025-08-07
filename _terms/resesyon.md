@@ -5,7 +5,7 @@ slug: resesyon
 letter: R
 lisan: Fransızca recéssion
 anlamlar:
-- ► durgunluk
+- durgunluk
 ozellikler:
 - - isim
   - ekonomi

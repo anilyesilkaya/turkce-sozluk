@@ -5,7 +5,7 @@ slug: paralelizm
 letter: P
 lisan: Fransızca parallélisme
 anlamlar:
-- ► koşutçuluk
+- koşutçuluk
 ozellikler:
 - - isim
   - felsefe

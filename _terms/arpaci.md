@@ -5,7 +5,7 @@ slug: arpaci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yankesici
+- yankesici
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: el-yordami
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► el yordamıyla
+- el yordamıyla
 ozellikler:
 - - zarf
 ornekler:

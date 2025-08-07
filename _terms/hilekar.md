@@ -5,7 +5,7 @@ slug: hilekar
 letter: H
 lisan: Arapça ḥīle + Farsça -kâr
 anlamlar:
-- ► hileci
+- hileci
 ozellikler:
 - - sıfat
 ornekler:

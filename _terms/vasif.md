@@ -5,7 +5,7 @@ slug: vasif
 letter: V
 lisan: Arapça vaṣf
 anlamlar:
-- ► nitelik
+- nitelik
 ozellikler:
 - - isim
 ornekler:

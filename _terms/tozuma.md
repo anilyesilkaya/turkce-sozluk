@@ -5,7 +5,7 @@ slug: tozuma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tozma
+- tozma
 ozellikler:
 - - isim
 ornekler:

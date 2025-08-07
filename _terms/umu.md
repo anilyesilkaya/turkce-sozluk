@@ -5,7 +5,7 @@ slug: umu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► umut
+- umut
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mes̱el
 anlamlar:
 - Örnek alınacak söz
-- ► atasözü
+- atasözü
 - Eğitici hikâye veya masal
 ozellikler:
 - - isim

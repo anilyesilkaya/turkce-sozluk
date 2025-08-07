@@ -5,7 +5,7 @@ slug: e-tebligat
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik tebligat
+- elektronik tebligat
 ozellikler:
 - - isim
 ornekler:

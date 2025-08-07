@@ -5,7 +5,7 @@ slug: bibliyografi
 letter: B
 lisan: Fransızca bibliographie
 anlamlar:
-- ► kaynakça
+- kaynakça
 ozellikler:
 - - isim
 ornekler:

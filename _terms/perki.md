@@ -5,7 +5,7 @@ slug: perki
 letter: P
 lisan: Rumca
 anlamlar:
-- ► tatlısu levreği
+- tatlısu levreği
 ozellikler:
 - - isim
   - hayvan bilimi

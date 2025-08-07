@@ -5,7 +5,7 @@ slug: tanlamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► şaşırmak
+- şaşırmak
 ozellikler:
 - - -e
   - ağızlardan

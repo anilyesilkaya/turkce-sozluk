@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Düşüncesiz, kaba, anlayışsız olan (kimse)
-- ► örümcek kafalı
+- örümcek kafalı
 ozellikler:
 - - sıfat
   - mecaz

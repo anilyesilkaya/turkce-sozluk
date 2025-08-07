@@ -5,7 +5,7 @@ slug: turkiyatci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Türklük bilimci
+- Türklük bilimci
 ozellikler:
 - - isim
 ornekler:

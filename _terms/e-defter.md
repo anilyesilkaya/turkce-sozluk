@@ -5,7 +5,7 @@ slug: e-defter
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik defter
+- elektronik defter
 ozellikler:
 - - isim
 ornekler:

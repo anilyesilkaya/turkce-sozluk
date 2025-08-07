@@ -5,7 +5,7 @@ slug: vokal
 letter: V
 lisan: Almanca Vokal
 anlamlar:
-- ► ünlü
+- ünlü
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: seref-kitasi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tören birliği
+- tören birliği
 ozellikler:
 - - isim
   - askerlik

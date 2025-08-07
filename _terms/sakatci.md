@@ -5,7 +5,7 @@ slug: sakatci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sakatatçı
+- sakatatçı
 ozellikler:
 - - isim
 ornekler:

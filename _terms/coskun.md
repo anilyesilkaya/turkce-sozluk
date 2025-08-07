@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Coşmuş olan; celalli, vectli
-- ► coşkulu
+- coşkulu
 ozellikler:
 - - sıfat
 - - sıfat

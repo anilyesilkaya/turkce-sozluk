@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Biçmek işi
 - Yontulmuş yapı taşı
-- ► prizma
+- prizma
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca météore
 anlamlar:
 - Atmosfer içinde oluşan sıcaklık değişmeleri, rüzgâr, yıldırım, yağmur, dolu vb. olaylara verilen genel ad
-- ► gök taşı
+- gök taşı
 ozellikler:
 - - isim
   - gök bilimi

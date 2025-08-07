@@ -5,7 +5,7 @@ slug: spektrum
 letter: S
 lisan: İngilizce spectrum
 anlamlar:
-- ► çeşitlilik
+- çeşitlilik
 ozellikler:
 - - isim
 ornekler:

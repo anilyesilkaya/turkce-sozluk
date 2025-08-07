@@ -5,10 +5,10 @@ slug: stabil
 letter: S
 lisan: Fransızca stable
 anlamlar:
-- ► dayanıklı
-- ► dengeli
-- ► düz (I)
-- ► oturmuş
+- dayanıklı
+- dengeli
+- düz (I)
+- oturmuş
 - Kararlı, değişmez
 ozellikler:
 - - sıfat

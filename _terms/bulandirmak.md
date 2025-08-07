@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bulanmasına yol açmak, bulanmasını sağlamak
 - Mideyi kusacak duruma getirmek
-- ► karıştırmak
+- karıştırmak
 ozellikler:
 - - -i
 - - -i

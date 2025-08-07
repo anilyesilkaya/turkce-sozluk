@@ -5,7 +5,7 @@ slug: filtre-kagidi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► süzme kâğıdı
+- süzme kâğıdı
 ozellikler:
 - - isim
 ornekler:

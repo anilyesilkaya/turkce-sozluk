@@ -5,7 +5,7 @@ slug: epitelyum
 letter: E
 lisan: Fransızca épithélium
 anlamlar:
-- ► epitel
+- epitel
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: mas-turizm
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kitle turizmi
+- kitle turizmi
 ozellikler:
 - - isim
 ornekler:

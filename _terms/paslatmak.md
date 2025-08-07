@@ -5,7 +5,7 @@ slug: paslatmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► paslandırmak
+- paslandırmak
 ozellikler:
 - - -i
 ornekler:

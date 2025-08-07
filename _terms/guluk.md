@@ -5,7 +5,7 @@ slug: guluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hindi
+- hindi
 - Sebze yetiştirmek için açılan ocak
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: kadirbilmez
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerbilmez
+- değerbilmez
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca solution
 anlamlar:
 - Özellikle lastikleri yapıştırmakta kullanılan koyu, yapışkan madde
-- ► eriyik
+- eriyik
 ozellikler:
 - - isim
   - kimya

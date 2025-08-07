@@ -5,7 +5,7 @@ slug: besihane
 letter: B
 lisan: Türkçe besi + Farsça ḫāne
 anlamlar:
-- ► besi çiftliği
+- besi çiftliği
 ozellikler:
 - - isim
 ornekler:

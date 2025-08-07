@@ -5,7 +5,7 @@ slug: tecil
 letter: T
 lisan: Arapça teʾcīl
 anlamlar:
-- ► erteleme
+- erteleme
 ozellikler:
 - - isim
 ornekler:

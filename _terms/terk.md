@@ -5,8 +5,8 @@ slug: terk
 letter: T
 lisan: Arapça terk
 anlamlar:
-- ► ayrılma
-- ► vazgeçme
+- ayrılma
+- vazgeçme
 - Bakmama, ihmal etme
 ozellikler:
 - - isim

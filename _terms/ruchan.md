@@ -5,9 +5,9 @@ slug: ruchan
 letter: R
 lisan: Arapça rucḥān
 anlamlar:
-- ► üstünlük
-- ► yeğlik
-- ► öncelik
+- üstünlük
+- yeğlik
+- öncelik
 ozellikler:
 - - isim
   - eskimiş

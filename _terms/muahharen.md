@@ -5,7 +5,7 @@ slug: muahharen
 letter: M
 lisan: Arapça muʾaḫḫaren
 anlamlar:
-- ► sonradan
+- sonradan
 ozellikler:
 - - zarf
   - eskimiş

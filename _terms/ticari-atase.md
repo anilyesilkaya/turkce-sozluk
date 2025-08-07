@@ -5,7 +5,7 @@ slug: ticari-atase
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ticaret ataşesi
+- ticaret ataşesi
 ozellikler:
 - - isim
 ornekler:

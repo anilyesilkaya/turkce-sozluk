@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişmek işi
-- ► pedagojik formasyon
+- pedagojik formasyon
 ozellikler:
 - - isim
   - eğitim

@@ -5,7 +5,7 @@ slug: evhamsiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kuruntusuz
+- kuruntusuz
 ozellikler:
 - - sıfat
 ornekler:

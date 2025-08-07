@@ -5,7 +5,7 @@ slug: park-yeri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► otopark
+- otopark
 ozellikler:
 - - isim
 ornekler:

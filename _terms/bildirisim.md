@@ -5,7 +5,7 @@ slug: bildirisim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► iletişim
+- iletişim
 ozellikler:
 - - isim
   - teknik

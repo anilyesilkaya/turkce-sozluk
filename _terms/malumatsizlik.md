@@ -5,7 +5,7 @@ slug: malumatsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 ozellikler:
 - - isim
 ornekler:

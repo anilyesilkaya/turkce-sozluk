@@ -5,7 +5,7 @@ slug: ekseriya
 letter: E
 lisan: Arapça eks̱eriyyā
 anlamlar:
-- ► genellikle
+- genellikle
 ozellikler:
 - - zarf
 ornekler:

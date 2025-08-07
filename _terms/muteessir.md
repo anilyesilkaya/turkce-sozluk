@@ -5,7 +5,7 @@ slug: muteessir
 letter: M
 lisan: Arapça muteʾes̱s̱ir
 anlamlar:
-- ► üzüntülü
+- üzüntülü
 - Etkilenmiş
 ozellikler:
 - - sıfat

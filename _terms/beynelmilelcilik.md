@@ -5,7 +5,7 @@ slug: beynelmilelcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► uluslararasıcılık
+- uluslararasıcılık
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça meʾẕūniyyet
 anlamlar:
 - Okulu bitirme
 - İzinli olma durumu
-- ► yetki
+- yetki
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Düzeltme işini yapan nesne
-- ► düzeltmen
+- düzeltmen
 - Düzeltme özelliği taşıyan
 ozellikler:
 - - isim

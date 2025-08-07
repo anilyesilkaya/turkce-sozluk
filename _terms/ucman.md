@@ -5,7 +5,7 @@ slug: ucman
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► pilot
+- pilot
 ozellikler:
 - - isim
 ornekler:

@@ -5,10 +5,10 @@ slug: ciliz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► sıska
+- sıska
 - Gelişememiş, ufak kalmış (bitki, ağaç)
 - Parlaklığı az veya azalmış olan (ışık)
-- ► ince
+- ince
 - Basit ve değersiz olan (şey)
 - Belli belirsiz bir biçimde
 ozellikler:

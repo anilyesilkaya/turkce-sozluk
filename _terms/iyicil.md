@@ -5,8 +5,8 @@ slug: iyicil
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► hayırsever
-- ► iyi huylu
+- hayırsever
+- iyi huylu
 ozellikler:
 - - sıfat
 - - sıfat

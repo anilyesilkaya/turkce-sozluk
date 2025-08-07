@@ -5,7 +5,7 @@ slug: idareci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yönetici
+- yönetici
 - İdare eden, hoşgörülü
 - Becerikli, tutumlu
 ozellikler:

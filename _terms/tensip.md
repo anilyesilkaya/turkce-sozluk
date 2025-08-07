@@ -5,7 +5,7 @@ slug: tensip
 letter: T
 lisan: Arapça tensīb
 anlamlar:
-- ► yaraştırma
+- yaraştırma
 ozellikler:
 - - isim
   - eskimiş

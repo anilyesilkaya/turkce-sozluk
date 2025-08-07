@@ -5,7 +5,7 @@ slug: irtibatli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağlantılı
+- bağlantılı
 ozellikler:
 - - sıfat
 ornekler:

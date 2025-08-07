@@ -5,7 +5,7 @@ slug: pamuk-sekeri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pamuk helvası
+- pamuk helvası
 ozellikler:
 - - isim
 ornekler:

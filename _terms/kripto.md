@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca crypto
 anlamlar:
 - Siyasi inancını gizleyen kimse
-- ► saklı yazı
+- saklı yazı
 ozellikler:
 - - isim
 - - isim

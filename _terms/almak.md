@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi elle veya başka bir araçla tutarak bulunduğu yerden ayırmak, kaldırmak
-- ► satın almak
+- satın almak
 - Bir yeri ele geçirmek
 - Bir şeyi veya kimseyi bulunduğu yerden ayırmak
 - Birlikte götürmek
@@ -18,9 +18,9 @@ anlamlar:
 - Sürükleyip götürmek
 - Bir şeyi kazanmak, elde etmek
 - Zararlı, tehlikeli bir şeye uğramak
-- ► kaplamak
-- ► kısaltmak
-- ► yolmak
+- kaplamak
+- kısaltmak
+- yolmak
 - '... ile temizlemek'
 - İçeri girmesini sağlamak
 - Tat veya koku duymak
@@ -30,7 +30,7 @@ anlamlar:
 - Motor çalışması için gerekli olan elektrik veya yakıttan yararlanır duruma gelmek
 - Göreve, işe başlatmak
 - Görevden, işten çekmek
-- ► başlamak
+- başlamak
 - İçecek veya yiyecekten bir parça içmek veya yemek
 - Kazanç sağlamak
 - Etkisini azaltmak

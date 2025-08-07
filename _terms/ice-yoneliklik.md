@@ -5,7 +5,7 @@ slug: ice-yoneliklik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► otizm
+- otizm
 ozellikler:
 - - isim
   - ruh bilimi

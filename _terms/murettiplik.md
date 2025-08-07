@@ -5,7 +5,7 @@ slug: murettiplik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dizgicilik
+- dizgicilik
 ozellikler:
 - - isim
 ornekler:

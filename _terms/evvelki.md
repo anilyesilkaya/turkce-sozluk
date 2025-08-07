@@ -5,7 +5,7 @@ slug: evvelki
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önceki
+- önceki
 - İki önceki (gün, hafta, ay, yıl); evvelsi
 ozellikler:
 - - sıfat

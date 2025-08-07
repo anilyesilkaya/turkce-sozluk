@@ -5,7 +5,7 @@ slug: cemetme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► toplama
+- toplama
 ozellikler:
 - - isim
 ornekler:

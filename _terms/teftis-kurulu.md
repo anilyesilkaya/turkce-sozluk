@@ -5,7 +5,7 @@ slug: teftis-kurulu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► denetleme kurulu
+- denetleme kurulu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: madenimsi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► madensi
+- madensi
 ozellikler:
 - - sıfat
 ornekler:

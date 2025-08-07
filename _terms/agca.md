@@ -5,7 +5,7 @@ slug: agca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akça (I)
+- akça (I)
 ozellikler:
 - - sıfat
 ornekler:

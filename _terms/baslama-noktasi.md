@@ -5,7 +5,7 @@ slug: baslama-noktasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başlangıç noktası
+- başlangıç noktası
 ozellikler:
 - - isim
 ornekler:

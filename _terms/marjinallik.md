@@ -5,7 +5,7 @@ slug: marjinallik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aykırılık
+- aykırılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kozmik
 letter: K
 lisan: Fransızca cosmique
 anlamlar:
-- ► evrensel
+- evrensel
 - Haber alma ile ilgili
 ozellikler:
 - - sıfat

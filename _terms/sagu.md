@@ -5,7 +5,7 @@ slug: sagu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ağıt
+- ağıt
 ozellikler:
 - - isim
   - eskimiş

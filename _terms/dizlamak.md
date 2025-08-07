@@ -5,8 +5,8 @@ slug: dizlamak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dolandırmak
-- ► soymak
+- dolandırmak
+- soymak
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: uluscu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milliyetçi
+- milliyetçi
 ozellikler:
 - - sıfat
 ornekler:

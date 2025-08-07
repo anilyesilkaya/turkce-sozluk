@@ -5,7 +5,7 @@ slug: itaatkar
 letter: I
 lisan: Arapça iṭāʿat + Farsça -kār
 anlamlar:
-- ► itaatli
+- itaatli
 ozellikler:
 - - sıfat
 ornekler:

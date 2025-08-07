@@ -5,7 +5,7 @@ slug: her-nasilsa
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► nedense
+- nedense
 ozellikler:
 - - zarf
 ornekler:

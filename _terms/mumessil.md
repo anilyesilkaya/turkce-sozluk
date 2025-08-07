@@ -5,7 +5,7 @@ slug: mumessil
 letter: M
 lisan: Arapça mumes̱s̱il
 anlamlar:
-- ► temsilci
+- temsilci
 ozellikler:
 - - isim
 ornekler:

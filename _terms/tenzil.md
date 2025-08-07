@@ -5,8 +5,8 @@ slug: tenzil
 letter: T
 lisan: Arapça tenzīl
 anlamlar:
-- ► indirme
-- ► aşağılama
+- indirme
+- aşağılama
 ozellikler:
 - - isim
   - eskimiş

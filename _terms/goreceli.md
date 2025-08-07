@@ -5,8 +5,8 @@ slug: goreceli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► görece
-- ► bağıntılı
+- görece
+- bağıntılı
 ozellikler:
 - - sıfat
 - - sıfat

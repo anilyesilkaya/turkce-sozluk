@@ -5,7 +5,7 @@ slug: nominalizm
 letter: N
 lisan: Fransızca nominalisme
 anlamlar:
-- ► adcılık
+- adcılık
 ozellikler:
 - - isim
   - felsefe

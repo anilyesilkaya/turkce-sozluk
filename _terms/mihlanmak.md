@@ -5,7 +5,7 @@ slug: mihlanmak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivilenmek
+- çivilenmek
 - Olduğu yerde kalıp bir yere kıpırdayamaz olmak
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: sorusturuculuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soruşturmacılık
+- soruşturmacılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: uzerine
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üstüne
-- ► hakkında
+- üstüne
+- hakkında
 - -den dolayı
 - -den sonra
 - -den daha üstün

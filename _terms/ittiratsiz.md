@@ -5,7 +5,7 @@ slug: ittiratsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► düzensiz
+- düzensiz
 ozellikler:
 - - sıfat
 ornekler:

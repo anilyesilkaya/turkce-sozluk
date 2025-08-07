@@ -5,7 +5,7 @@ slug: mukaddema
 letter: M
 lisan: Arapça muḳaddemā
 anlamlar:
-- ► eskiden
+- eskiden
 ozellikler:
 - - zarf
   - eskimiş

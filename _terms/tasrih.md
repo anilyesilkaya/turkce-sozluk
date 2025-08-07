@@ -5,7 +5,7 @@ slug: tasrih
 letter: T
 lisan: Arapça taṣrīḥ
 anlamlar:
-- ► belirtme
+- belirtme
 ozellikler:
 - - isim
   - eskimiş

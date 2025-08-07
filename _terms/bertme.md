@@ -5,7 +5,7 @@ slug: bertme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bertilme
+- bertilme
 ozellikler:
 - - isim
 ornekler:

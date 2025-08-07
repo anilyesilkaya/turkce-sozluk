@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kalkışmak işi
-- ► başkaldırı
+- başkaldırı
 ozellikler:
 - - isim
 - - isim

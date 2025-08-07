@@ -5,8 +5,8 @@ slug: prototip
 letter: P
 lisan: Fransızca prototype
 anlamlar:
-- ► ilk örnek
-- ► model
+- ilk örnek
+- model
 ozellikler:
 - - isim
 - - isim

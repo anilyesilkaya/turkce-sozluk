@@ -5,7 +5,7 @@ slug: atom-alti-parcacigi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cisimcik
+- cisimcik
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: argali
 letter: A
 lisan: Fransızca argali
 anlamlar:
-- ► yaban koyunu
+- yaban koyunu
 ozellikler:
 - - isim
   - hayvan bilimi

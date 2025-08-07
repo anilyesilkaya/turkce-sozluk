@@ -5,7 +5,7 @@ slug: istimna
 letter: I
 lisan: Arapça istimnāʾ
 anlamlar:
-- ► mastürbasyon
+- mastürbasyon
 ozellikler:
 - - isim
   - eskimiş

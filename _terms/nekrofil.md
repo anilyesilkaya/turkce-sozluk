@@ -5,7 +5,7 @@ slug: nekrofil
 letter: N
 lisan: Fransızca necrophile
 anlamlar:
-- ► ölü sevici
+- ölü sevici
 ozellikler:
 - - sıfat
 ornekler:

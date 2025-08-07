@@ -5,7 +5,7 @@ slug: aniklama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hazırlama
+- hazırlama
 ozellikler:
 - - isim
 ornekler:

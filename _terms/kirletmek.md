@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kirli duruma getirmek
 - Küçük veya büyük abdestini yapmak; pislemek
-- ► lekelemek
+- lekelemek
 ozellikler:
 - - -i
 - - -i

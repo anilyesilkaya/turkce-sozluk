@@ -5,7 +5,7 @@ slug: basat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baskın
+- baskın
 ozellikler:
 - - sıfat
 ornekler:

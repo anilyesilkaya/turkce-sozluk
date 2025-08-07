@@ -5,8 +5,8 @@ slug: habaset
 letter: H
 lisan: Arapça ḫabās̱et
 anlamlar:
-- ► kötülük
-- ► alçaklık
+- kötülük
+- alçaklık
 ozellikler:
 - - isim
 - - isim

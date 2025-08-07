@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sabır göstermeyen, sabrı olmayan
-- ► aceleci
+- aceleci
 ozellikler:
 - - sıfat
 - - sıfat

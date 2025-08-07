@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Hayat, yaşam, sağlık
 - Mal mülk, gelir
-- ► hayati
+- hayati
 ozellikler:
 - - isim
 - - isim

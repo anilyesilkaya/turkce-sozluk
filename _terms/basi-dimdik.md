@@ -5,7 +5,7 @@ slug: basi-dimdik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başı dik
+- başı dik
 ozellikler:
 - - sıfat
   - mecaz

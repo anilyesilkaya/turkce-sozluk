@@ -5,7 +5,7 @@ slug: kurttirnagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurtpençesi
+- kurtpençesi
 ozellikler:
 - - isim
 ornekler:

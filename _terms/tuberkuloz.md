@@ -5,7 +5,7 @@ slug: tuberkuloz
 letter: T
 lisan: Fransızca tuberculose
 anlamlar:
-- ► verem
+- verem
 ozellikler:
 - - isim
   - tıp

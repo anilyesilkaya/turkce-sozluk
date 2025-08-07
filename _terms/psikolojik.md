@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca psychologique
 anlamlar:
 - Psikolojiyle ilgili; ruh bilimsel
-- ► ruhsal
+- ruhsal
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: murekkep-cumle
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► birleşik cümle
+- birleşik cümle
 ozellikler:
 - - isim
   - eskimiş

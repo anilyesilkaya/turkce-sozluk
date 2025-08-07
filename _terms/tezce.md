@@ -5,7 +5,7 @@ slug: tezce
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

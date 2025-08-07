@@ -5,7 +5,7 @@ slug: deva
 letter: D
 lisan: Arapça devāʾ
 anlamlar:
-- ► çare
+- çare
 ozellikler:
 - - isim
 ornekler:

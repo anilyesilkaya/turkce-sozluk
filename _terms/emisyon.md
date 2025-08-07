@@ -5,8 +5,8 @@ slug: emisyon
 letter: E
 lisan: Fransızca émission
 anlamlar:
-- ► çıkarma
-- ► sürüm
+- çıkarma
+- sürüm
 ozellikler:
 - - isim
 - - isim

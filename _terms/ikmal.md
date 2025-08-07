@@ -5,11 +5,11 @@ slug: ikmal
 letter: I
 lisan: Arapça ikmāl
 anlamlar:
-- ► bütünleme
+- bütünleme
 - Bir şeyi sona erdirme
-- ► geri hizmet
+- geri hizmet
 - Cümlenin, dizenin anlamını sonra gelen cümle veya dize ile tamamlama
-- ► bütünleme sınavı
+- bütünleme sınavı
 ozellikler:
 - - isim
 - - isim

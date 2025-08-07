@@ -5,7 +5,7 @@ slug: septik
 letter: S
 lisan: Fransızca sceptique
 anlamlar:
-- ► kuşkucu
+- kuşkucu
 ozellikler:
 - - sıfat
   - felsefe

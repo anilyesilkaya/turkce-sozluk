@@ -5,7 +5,7 @@ slug: simal-ruzgari
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► poyraz
+- poyraz
 ozellikler:
 - - isim
 ornekler:

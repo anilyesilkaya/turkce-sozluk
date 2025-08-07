@@ -5,7 +5,7 @@ slug: discilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► diş hekimliği
+- diş hekimliği
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: tapislamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapıklamak
+- tapıklamak
 - Hamurun üzerini düzeltmek için hafif hafif vurarak elle sıvamak
 ozellikler:
 - - -i

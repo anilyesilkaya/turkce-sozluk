@@ -5,7 +5,7 @@ slug: ustunluk-hissi
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üstünlük duygusu
+- üstünlük duygusu
 ozellikler:
 - - isim
   - ruh bilimi

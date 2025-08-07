@@ -5,7 +5,7 @@ slug: mumbit
 letter: M
 lisan: Arapça munbit
 anlamlar:
-- ► verimli
+- verimli
 ozellikler:
 - - sıfat
 ornekler:

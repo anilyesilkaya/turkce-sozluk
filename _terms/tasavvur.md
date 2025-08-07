@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taṣavvur
 anlamlar:
 - Göz önüne getirme, hayal etme, zihinde canlandırma
-- ► tasarım
+- tasarım
 - Düşünce, amaç, niyet, maksat
 ozellikler:
 - - isim

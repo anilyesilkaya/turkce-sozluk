@@ -5,7 +5,7 @@ slug: karsi-gelim
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karşıtlık
+- karşıtlık
 ozellikler:
 - - isim
   - biyoloji

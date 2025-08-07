@@ -5,7 +5,7 @@ slug: reis-bey
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► başkan
+- başkan
 ozellikler:
 - - isim
 ornekler:

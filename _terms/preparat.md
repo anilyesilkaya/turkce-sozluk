@@ -5,7 +5,7 @@ slug: preparat
 letter: P
 lisan: Almanca Preparat
 anlamlar:
-- ► müstahzar
+- müstahzar
 ozellikler:
 - - isim
   - tıp

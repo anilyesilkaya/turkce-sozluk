@@ -5,7 +5,7 @@ slug: asparagas
 letter: A
 lisan: İngilizce asparagus
 anlamlar:
-- ► şişirme haber
+- şişirme haber
 ozellikler:
 - - isim
 ornekler:

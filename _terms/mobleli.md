@@ -5,7 +5,7 @@ slug: mobleli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mobilyalı
+- mobilyalı
 ozellikler:
 - - sıfat
 ornekler:

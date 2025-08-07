@@ -7,7 +7,7 @@ lisan: Arapça ṭāḳ
 anlamlar:
 - Millî bayramlarda veya önemli bir olayı anmak için düzenlenen şenliklerde, geçit yapılacak caddelere geçici olarak kurulan, yazılar ve çiçeklerle süslenen kemer
 - Yapılarda kemer veya yarım daire biçimindeki kapı veya pencere üstü
-- ► kubbe
+- kubbe
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: osmanli-lalesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► İstanbul lalesi
+- İstanbul lalesi
 ozellikler:
 - - isim
   - bitki bilimi

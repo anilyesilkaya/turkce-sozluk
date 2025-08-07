@@ -5,7 +5,7 @@ slug: kolektiflesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ortaklaşmak
+- ortaklaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

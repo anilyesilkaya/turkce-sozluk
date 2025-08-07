@@ -5,7 +5,7 @@ slug: cerahatsiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► irinsiz
+- irinsiz
 ozellikler:
 - - sıfat
 ornekler:

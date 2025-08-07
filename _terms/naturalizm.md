@@ -5,7 +5,7 @@ slug: naturalizm
 letter: N
 lisan: Fransızca naturalisme
 anlamlar:
-- ► doğalcılık
+- doğalcılık
 ozellikler:
 - - isim
   - felsefe

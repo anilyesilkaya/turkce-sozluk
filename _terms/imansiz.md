@@ -5,7 +5,7 @@ slug: imansiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inançsız
+- inançsız
 - İnsafsız, acımasız
 ozellikler:
 - - sıfat

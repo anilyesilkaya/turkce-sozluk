@@ -5,8 +5,8 @@ slug: ceyreklik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çeyrek altın
-- ► ata çeyrek
+- çeyrek altın
+- ata çeyrek
 ozellikler:
 - - isim
 - - isim

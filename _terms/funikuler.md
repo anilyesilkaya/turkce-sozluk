@@ -5,7 +5,7 @@ slug: funikuler
 letter: F
 lisan: Fransızca funiculaire
 anlamlar:
-- ► çekmeli vagon
+- çekmeli vagon
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kayyumluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kayyımlık
+- kayyımlık
 ozellikler:
 - - isim
 ornekler:

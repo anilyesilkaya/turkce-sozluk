@@ -5,7 +5,7 @@ slug: sigin
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► alageyik
+- alageyik
 ozellikler:
 - - isim
   - hayvan bilimi

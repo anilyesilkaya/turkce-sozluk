@@ -5,7 +5,7 @@ slug: bunsuz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sıkıntısız
+- sıkıntısız
 ozellikler:
 - - sıfat
 ornekler:

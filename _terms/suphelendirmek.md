@@ -5,7 +5,7 @@ slug: suphelendirmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkulandırmak
+- kuşkulandırmak
 ozellikler:
 - - -i
 ornekler:

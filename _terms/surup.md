@@ -5,7 +5,7 @@ slug: surup
 letter: Ş
 lisan: Arapça şurūb
 anlamlar:
-- ► şerbet
+- şerbet
 - Çeşitli meyve özleri ve şekerin kaynatılmasıyla elde edilen içecek
 - İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç
 ozellikler:

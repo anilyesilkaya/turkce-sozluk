@@ -5,7 +5,7 @@ slug: kuzukulagi-asidi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► oksalik
+- oksalik
 ozellikler:
 - - isim
   - kimya

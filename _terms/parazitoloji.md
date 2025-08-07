@@ -5,7 +5,7 @@ slug: parazitoloji
 letter: P
 lisan: Fransızca parasitologie
 anlamlar:
-- ► asalak bilimi
+- asalak bilimi
 ozellikler:
 - - isim
 ornekler:

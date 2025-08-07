@@ -5,7 +5,7 @@ slug: deger-dusumu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► değersizlik
+- değersizlik
 ozellikler:
 - - isim
 ornekler:

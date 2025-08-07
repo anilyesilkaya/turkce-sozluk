@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça māhiyyet
 anlamlar:
 - Nitelik, öz, asıl, esas; özlük, vasıf
-- ► içyüz
+- içyüz
 ozellikler:
 - - isim
 - - isim

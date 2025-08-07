@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça ferfere
 anlamlar:
 - Çok konuşan
-- ► ağzı kalabalık
+- ağzı kalabalık
 - Yüksek sesle konuşan
 - Çok övünen
 ozellikler:

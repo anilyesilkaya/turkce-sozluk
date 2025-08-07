@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Boynun arkası
-- ► arka
+- arka
 ozellikler:
 - - isim
   - anatomi

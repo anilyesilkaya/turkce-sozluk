@@ -5,7 +5,7 @@ slug: pusmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sinmek
+- sinmek
 - Bir şeyi kendine siper edip saklanmak
 - Ortalığı hafif sis kaplamak
 ozellikler:

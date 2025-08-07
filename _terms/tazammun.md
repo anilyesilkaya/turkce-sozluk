@@ -5,8 +5,8 @@ slug: tazammun
 letter: T
 lisan: Arapça tażammun
 anlamlar:
-- ► içerme
-- ► içlem
+- içerme
+- içlem
 ozellikler:
 - - ''
 - - ''

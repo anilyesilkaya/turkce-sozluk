@@ -7,8 +7,8 @@ lisan: Arapça ḳiṭʿa
 anlamlar:
 - Yeryüzündeki altı büyük kara parçasından her biri; ana kara
 - Askerlerin bir komutanın emrinde bir araya gelmesinden oluşan birlik
-- ► dörtlük
-- ► tane
+- dörtlük
+- tane
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: tekaut-maasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► emekli aylığı
+- emekli aylığı
 ozellikler:
 - - isim
 ornekler:

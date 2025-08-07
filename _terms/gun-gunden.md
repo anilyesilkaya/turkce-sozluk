@@ -5,7 +5,7 @@ slug: gun-gunden
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► günden güne
+- günden güne
 ozellikler:
 - - zarf
 ornekler:

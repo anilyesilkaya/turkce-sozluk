@@ -5,7 +5,7 @@ slug: kamu-idaresi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kamu yönetimi
+- kamu yönetimi
 ozellikler:
 - - isim
 ornekler:

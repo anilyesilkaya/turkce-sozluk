@@ -5,7 +5,7 @@ slug: er-kisi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erkek
+- erkek
 ozellikler:
 - - isim
 ornekler:

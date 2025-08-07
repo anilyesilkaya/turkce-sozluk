@@ -5,7 +5,7 @@ slug: seleklik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► cömertlik
+- cömertlik
 ozellikler:
 - - isim
 ornekler:

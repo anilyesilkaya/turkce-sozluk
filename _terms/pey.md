@@ -5,7 +5,7 @@ slug: pey
 letter: P
 lisan: Farsça pey
 anlamlar:
-- ► güvenmelik
+- güvenmelik
 ozellikler:
 - - isim
 ornekler:

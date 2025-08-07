@@ -5,7 +5,7 @@ slug: muessese
 letter: M
 lisan: Arapça muʾessese
 anlamlar:
-- ► kurum (II)
+- kurum (II)
 - İktisat, kültür, siyaset, din vb. alanlarda hizmet veren, kendine özgü işleyiş kurallarına sahip yapı veya birlik
 ozellikler:
 - - isim

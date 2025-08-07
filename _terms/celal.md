@@ -5,8 +5,8 @@ slug: celal
 letter: C
 lisan: Arapça celāl
 anlamlar:
-- ► ululuk
-- ► öfke
+- ululuk
+- öfke
 ozellikler:
 - - isim
   - eskimiş

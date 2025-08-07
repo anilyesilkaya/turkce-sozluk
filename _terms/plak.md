@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca plaque
 anlamlar:
 - Sesleri kaydetmek ve kaydedilen sesleri yeniden pikap veya gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde yaprak
-- ► plaka
+- plaka
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: savasimcilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mücadelecilik
+- mücadelecilik
 ozellikler:
 - - isim
 ornekler:

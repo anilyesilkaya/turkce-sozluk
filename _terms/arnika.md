@@ -5,7 +5,7 @@ slug: arnika
 letter: A
 lisan: İtalyanca arnica
 anlamlar:
-- ► öküzgözü (I)
+- öküzgözü (I)
 ozellikler:
 - - isim
   - bitki bilimi

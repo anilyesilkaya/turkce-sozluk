@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Toprak, metal vb. bir maddeden yapılmış yayvan, çukurca kap
-- ► göz çukuru
+- göz çukuru
 - Çiçeğin en dışında bulunan yeşil yaprakların tümü
 - Çevresine göre alçakta bulunan, derinliği genişliğinden az olan arazi
 - Göstermelik, yalan yanlış, önceden belirlenmiş sonucu almaya yönelik

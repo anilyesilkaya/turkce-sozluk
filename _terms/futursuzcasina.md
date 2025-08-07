@@ -5,7 +5,7 @@ slug: futursuzcasina
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fütursuzca
+- fütursuzca
 ozellikler:
 - - zarf
 ornekler:

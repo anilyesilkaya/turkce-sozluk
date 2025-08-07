@@ -5,7 +5,7 @@ slug: kumla
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► plaj
+- plaj
 ozellikler:
 - - isim
 ornekler:

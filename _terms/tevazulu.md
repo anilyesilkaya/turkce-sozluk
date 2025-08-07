@@ -5,7 +5,7 @@ slug: tevazulu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► alçak gönüllü
+- alçak gönüllü
 ozellikler:
 - - sıfat
 ornekler:

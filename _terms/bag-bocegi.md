@@ -5,7 +5,7 @@ slug: bag-bocegi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► asma biti
+- asma biti
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: emprovizasyon
 letter: E
 lisan: Fransızca improvisation
 anlamlar:
-- ► doğaçlama
+- doğaçlama
 ozellikler:
 - - isim
 ornekler:

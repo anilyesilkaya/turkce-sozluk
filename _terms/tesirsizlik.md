@@ -5,7 +5,7 @@ slug: tesirsizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► etkisizlik
+- etkisizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kalkan-bezi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tiroit bezi
+- tiroit bezi
 ozellikler:
 - - isim
   - anatomi

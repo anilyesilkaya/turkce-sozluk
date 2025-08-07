@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Keyfi yerinde olan
-- ► neşeli
+- neşeli
 ozellikler:
 - - sıfat
 - - sıfat

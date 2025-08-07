@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Yapılarda bir bölümün ağırlığını taşımaya yarayan öge
-- ► dayanak
+- dayanak
 ozellikler:
 - - isim
 - - isim

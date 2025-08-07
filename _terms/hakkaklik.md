@@ -5,7 +5,7 @@ slug: hakkaklik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kakmacılık
+- kakmacılık
 ozellikler:
 - - isim
 ornekler:

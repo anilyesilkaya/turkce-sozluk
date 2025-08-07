@@ -6,12 +6,12 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Dışarıdan içeriye geçmek; kaçmak
-- ► sığmak
-- ► katılmak (I)
+- sığmak
+- katılmak (I)
 - Almak, fethetmek
 - İncelemek, ayrıntılara inmek
 - Girişmek, başlamak
-- ► bulaşmak
+- bulaşmak
 - Su dolu bir yerin içine batmak veya dalmak
 - Zaman anlamlı kavramlar için gelmek
 - Ağrı, sancı başlamak, saplanmak
@@ -21,7 +21,7 @@ anlamlar:
 - Erişmek, ulaşmak
 - Bir şeyin yapımında, birleşiminde yer almak
 - Yazılmak, başlamak
-- ► yüklenmek
+- yüklenmek
 - Tecavüz etmek, bir yere geçmek
 ozellikler:
 - - -e

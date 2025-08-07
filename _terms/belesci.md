@@ -5,7 +5,7 @@ slug: belesci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bedavacı
+- bedavacı
 ozellikler:
 - - isim
 ornekler:

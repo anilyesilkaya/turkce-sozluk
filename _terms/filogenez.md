@@ -5,7 +5,7 @@ slug: filogenez
 letter: F
 lisan: Fransızca phylogenèse
 anlamlar:
-- ► soy oluş
+- soy oluş
 ozellikler:
 - - isim
   - biyoloji

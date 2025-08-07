@@ -5,9 +5,9 @@ slug: yemislik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► meyvelik
+- meyvelik
 - Yemiş konulan, saklanan yer
-- ► incirlik
+- incirlik
 ozellikler:
 - - isim
 - - isim

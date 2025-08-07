@@ -5,7 +5,7 @@ slug: ehlihibre
 letter: E
 lisan: Arapça ehl + ḫibre
 anlamlar:
-- ► bilirkişi
+- bilirkişi
 ozellikler:
 - - isim
   - eskimiş

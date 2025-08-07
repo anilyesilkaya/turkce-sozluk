@@ -9,9 +9,9 @@ anlamlar:
 - Istakoza benzer, uzunluğu 30-40 santimetre kadar olan, sarı renkli, kısa kıskaçlı, yenilen bir deniz hayvanı
 - Istakoz ve karides sepeti çekmeye yarayan, ince demirden çapa
 - Kelebek, kurt ve tırtılın dışında kalan küçük hayvancıklar
-- ► dinleme cihazı
+- dinleme cihazı
 - Cep telefonu, bilgisayar vb.ne yüklenen casus yazılım
-- ► gizli kamera
+- gizli kamera
 - Ufak tefek, esmer kimseler için söylenen sevgi sözü
 - Yazılım ve bilgisayar sistemlerinde karşılaşılan hatalar ve işlev bozuklukları
 - Osmanlı Dönemi’nde suçluları yakalamada muhbir olarak kullanılan tövbekâr hırsız veya yankesici

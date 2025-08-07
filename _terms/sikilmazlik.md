@@ -5,7 +5,7 @@ slug: sikilmazlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► utanmazlık
+- utanmazlık
 ozellikler:
 - - isim
 ornekler:

@@ -2,19 +2,36 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Debug site in Chrome",
-      "type": "chrome",
+      // F5 while any .py file is active
+      "name": "Python: Current File",
+      "type": "debugpy",
       "request": "launch",
-      "url": "http://127.0.0.1:4000",
-      "webRoot": "${workspaceFolder}",
-      "preLaunchTask": "Serve Jekyll",
-      "runtimeArgs": ["--remote-debugging-port=9222"]
-    }
-  ],
-  "compounds": [
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
     {
-      "name": "Serve + Debug",
-      "configurations": ["Debug site in Chrome"]
+      // F5 on this entry to run json2markdown.py input.json output_dir/
+      "name": "Python: json2markdown",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/utils/json2markdown.py",
+      "args": [
+        "${workspaceFolder}/utils/database_sozluk/v12/processed_gts.json",   // <json-file>
+        "${workspaceFolder}/_terms"             // [output-dir]
+      ],
+      "console": "integratedTerminal"
+    },
+    {
+      // F5 on this entry to run tdk_word_processor.py
+      "name": "Python: tdk_word_processor",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/utils/tdk_word_processor.py",
+      "args": [
+        "${workspaceFolder}/utils/database_sozluk/v12/gts.json",
+        "${workspaceFolder}/utils/database_sozluk/v12/processed_gts.json" 
+      ],
+      "console": "integratedTerminal"
     }
   ]
 }

@@ -5,7 +5,7 @@ slug: vazolunma
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► konulma
+- konulma
 ozellikler:
 - - isim
 ornekler:

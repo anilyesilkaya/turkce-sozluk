@@ -5,7 +5,7 @@ slug: cinsi
 letter: C
 lisan: Arapça cinsī
 anlamlar:
-- ► cinsel
+- cinsel
 ozellikler:
 - - sıfat
   - eskimiş

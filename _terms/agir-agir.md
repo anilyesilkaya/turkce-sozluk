@@ -5,7 +5,7 @@ slug: agir-agir
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 - Dikkatli ve özenli bir biçimde
 ozellikler:
 - - zarf

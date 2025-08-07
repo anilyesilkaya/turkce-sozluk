@@ -5,7 +5,7 @@ slug: otokton
 letter: O
 lisan: Fransızca autochtone
 anlamlar:
-- ► yerli
+- yerli
 ozellikler:
 - - sıfat
 ornekler:

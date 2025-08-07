@@ -5,7 +5,7 @@ slug: hareki
 letter: H
 lisan: Arapça ḥarekī
 anlamlar:
-- ► devimsel
+- devimsel
 ozellikler:
 - - sıfat
   - eskimiş

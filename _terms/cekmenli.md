@@ -5,7 +5,7 @@ slug: cekmenli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► vantuzlu
+- vantuzlu
 ozellikler:
 - - sıfat
 ornekler:

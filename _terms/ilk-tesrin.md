@@ -5,7 +5,7 @@ slug: ilk-tesrin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ekim
+- ekim
 ozellikler:
 - - isim
   - eskimiş

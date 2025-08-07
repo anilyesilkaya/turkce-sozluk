@@ -5,7 +5,7 @@ slug: tas-uykusu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► derin uyku
+- derin uyku
 ozellikler:
 - - isim
 ornekler:

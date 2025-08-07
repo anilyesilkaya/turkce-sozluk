@@ -5,7 +5,7 @@ slug: gadirlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gadir
+- gadir
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: bosu-bosuna
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

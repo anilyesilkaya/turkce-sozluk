@@ -5,7 +5,7 @@ slug: nimetsinas
 letter: N
 lisan: Arapça niʿmet + Farsça -şinās
 anlamlar:
-- ► değerbilir
+- değerbilir
 ozellikler:
 - - sıfat
   - eskimiş

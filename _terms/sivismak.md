@@ -5,7 +5,7 @@ slug: sivismak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bulaşmak
+- bulaşmak
 - Haber vermeden sessizce gidivermek; tüymek
 ozellikler:
 - - -e

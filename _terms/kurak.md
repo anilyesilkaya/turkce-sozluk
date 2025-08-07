@@ -5,7 +5,7 @@ slug: kurak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yağışsız
+- yağışsız
 - Nem tutmayan, çabuk kuruyuveren, çorak (toprak)
 ozellikler:
 - - sıfat

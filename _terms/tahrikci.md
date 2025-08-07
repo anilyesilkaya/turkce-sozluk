@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tahrik eden kimse
-- ► kışkırtıcı
+- kışkırtıcı
 ozellikler:
 - - isim
 - - isim

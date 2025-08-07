@@ -5,7 +5,7 @@ slug: degis-tokus
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► değişim
+- değişim
 ozellikler:
 - - isim
 ornekler:

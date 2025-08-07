@@ -5,7 +5,7 @@ slug: murafaa
 letter: M
 lisan: Arapça murāfaʿa
 anlamlar:
-- ► duruşma
+- duruşma
 ozellikler:
 - - isim
   - eskimiş

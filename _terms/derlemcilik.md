@@ -5,7 +5,7 @@ slug: derlemcilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► koleksiyonculuk
+- koleksiyonculuk
 ozellikler:
 - - ''
 ornekler:

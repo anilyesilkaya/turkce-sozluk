@@ -5,7 +5,7 @@ slug: platinsi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► platinimsi
+- platinimsi
 ozellikler:
 - - sıfat
 ornekler:

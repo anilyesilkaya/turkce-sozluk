@@ -5,7 +5,7 @@ slug: sehbenderlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► konsolosluk
+- konsolosluk
 ozellikler:
 - - isim
 ornekler:

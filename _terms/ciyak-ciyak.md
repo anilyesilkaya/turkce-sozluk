@@ -5,7 +5,7 @@ slug: ciyak-ciyak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cıyak cıyak
+- cıyak cıyak
 ozellikler:
 - - zarf
 ornekler:

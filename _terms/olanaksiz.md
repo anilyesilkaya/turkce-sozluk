@@ -5,7 +5,7 @@ slug: olanaksiz
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olamaz
+- olamaz
 ozellikler:
 - - sıfat
 ornekler:

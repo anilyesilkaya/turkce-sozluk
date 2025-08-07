@@ -5,7 +5,7 @@ slug: ilmikli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilmekli
+- ilmekli
 ozellikler:
 - - sıfat
 ornekler:

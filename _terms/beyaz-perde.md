@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Göstericiden çıkan görüntünün, üzerinde yansıdığı, sinema filminin oynatıldığı yüzey
-- ► sinema
+- sinema
 ozellikler:
 - - isim
 - - isim

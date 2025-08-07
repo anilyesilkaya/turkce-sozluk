@@ -5,7 +5,7 @@ slug: delimsirek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► delice
+- delice
 ozellikler:
 - - sıfat
 ornekler:

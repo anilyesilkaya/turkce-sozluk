@@ -5,7 +5,7 @@ slug: aranjman
 letter: A
 lisan: Fransızca arrangement
 anlamlar:
-- ► düzenleme
+- düzenleme
 ozellikler:
 - - isim
   - müzik

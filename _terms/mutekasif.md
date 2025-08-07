@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mutekās̱if
 anlamlar:
 - Yoğunlaşmış, koyulaşmış
-- ► derişik
+- derişik
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: muhasip
 letter: M
 lisan: Arapça muḥāsib
 anlamlar:
-- ► sayman
+- sayman
 ozellikler:
 - - isim
   - eskimiş

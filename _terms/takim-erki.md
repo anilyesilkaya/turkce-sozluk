@@ -5,7 +5,7 @@ slug: takim-erki
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► oligarşi
+- oligarşi
 ozellikler:
 - - isim
   - toplum bilimi

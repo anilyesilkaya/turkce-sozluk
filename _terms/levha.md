@@ -6,8 +6,8 @@ letter: L
 lisan: Arapça levḥa
 anlamlar:
 - Bir yere asılmak için yazılmış yazı
-- ► tablo
-- ► tabela
+- tablo
+- tabela
 - Yer kabuğunu oluşturan parçalardan her biri
 ozellikler:
 - - isim

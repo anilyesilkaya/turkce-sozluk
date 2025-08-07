@@ -5,7 +5,7 @@ slug: evren-bilimi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► uzay bilimi
+- uzay bilimi
 ozellikler:
 - - isim
 ornekler:

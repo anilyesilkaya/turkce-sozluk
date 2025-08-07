@@ -6,8 +6,8 @@ letter: L
 lisan: Fransızca logique
 anlamlar:
 - Mantıkla ilgili
-- ► mantıklı
-- ► mantık
+- mantıklı
+- mantık
 ozellikler:
 - - sıfat
 - - sıfat

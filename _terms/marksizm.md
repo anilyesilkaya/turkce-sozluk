@@ -5,7 +5,7 @@ slug: marksizm
 letter: M
 lisan: Fransızca marxisme
 anlamlar:
-- ► Marksçılık
+- Marksçılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: cereyansiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► akıntısız
-- ► akımsız
+- akıntısız
+- akımsız
 ozellikler:
 - - sıfat
 - - sıfat

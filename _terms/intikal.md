@@ -6,10 +6,10 @@ letter: I
 lisan: Arapça intiḳāl
 anlamlar:
 - Bir yerden başka bir yere geçme; geçiş
-- ► anlama
+- anlama
 - Miras olarak babadan çocuğuna kalma
-- ► öteleme
-- ► geçişim
+- öteleme
+- geçişim
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: transplantasyon
 letter: T
 lisan: Fransızca transplantation
 anlamlar:
-- ► organ nakli
-- ► bitki nakli
+- organ nakli
+- bitki nakli
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: manihaizm
 letter: M
 lisan: Fransızca manichéisme
 anlamlar:
-- ► Manicilik
+- Manicilik
 ozellikler:
 - - isim
   - felsefe

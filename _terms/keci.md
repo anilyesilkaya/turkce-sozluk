@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Geviş getirenlerden, eti, sütü, derisi ve kılı için yetiştirilen, genellikle çenesinde sakalı olan memeli hayvan (Capra hircus)
-- ► inatçı
+- inatçı
 ozellikler:
 - - isim
   - hayvan bilimi

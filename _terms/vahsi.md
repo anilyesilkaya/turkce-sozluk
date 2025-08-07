@@ -5,7 +5,7 @@ slug: vahsi
 letter: V
 lisan: Arapça vaḥşī
 anlamlar:
-- ► yabani
+- yabani
 - Yırtıcı olan (hayvan)
 - Kaba, saygısız, uyum sağlayamayan (kimse)
 ozellikler:

@@ -5,8 +5,8 @@ slug: alaka
 letter: A
 lisan: Arapça ʿalāḳa
 anlamlar:
-- ► ilgi
-- ► gönül bağı
+- ilgi
+- gönül bağı
 ozellikler:
 - - isim
 - - isim

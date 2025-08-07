@@ -5,7 +5,7 @@ slug: estamp
 letter: E
 lisan: Fransızca estampe
 anlamlar:
-- ► oyma baskı
+- oyma baskı
 ozellikler:
 - - isim
 ornekler:

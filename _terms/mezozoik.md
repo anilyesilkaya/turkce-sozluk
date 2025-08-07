@@ -5,7 +5,7 @@ slug: mezozoik
 letter: M
 lisan: Fransızca mésozoïque
 anlamlar:
-- ► İkinci Çağ
+- İkinci Çağ
 - Bu zamanla ilgili
 ozellikler:
 - - ''

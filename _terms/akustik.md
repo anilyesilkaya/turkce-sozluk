@@ -5,8 +5,8 @@ slug: akustik
 letter: A
 lisan: Fransızca acoustique
 anlamlar:
-- ► yankı bilimi
-- ► yankılanım
+- yankı bilimi
+- yankılanım
 ozellikler:
 - - isim
 - - isim

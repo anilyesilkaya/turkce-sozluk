@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iṭfāʾiyye
 anlamlar:
 - Yangın söndürme kuruluşu
-- ► itfaiye aracı
+- itfaiye aracı
 ozellikler:
 - - isim
 - - isim

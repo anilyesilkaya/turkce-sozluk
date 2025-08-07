@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Ayna yapan veya satan kimse
-- ► hileci
+- hileci
 ozellikler:
 - - isim
 - - isim

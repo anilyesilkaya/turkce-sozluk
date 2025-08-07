@@ -5,7 +5,7 @@ slug: emmi-oglu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► amca oğlu
+- amca oğlu
 - Dost, arkadaş, teklifsizce davranılabilen kimse
 ozellikler:
 - - isim

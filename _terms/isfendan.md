@@ -5,7 +5,7 @@ slug: isfendan
 letter: I
 lisan: Farsça isfendān
 anlamlar:
-- ► akçaağaç
+- akçaağaç
 - Bu ağaçtan yapılan
 ozellikler:
 - - isim

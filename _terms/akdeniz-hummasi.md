@@ -5,7 +5,7 @@ slug: akdeniz-hummasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Malta humması
+- Malta humması
 ozellikler:
 - - isim
   - tıp

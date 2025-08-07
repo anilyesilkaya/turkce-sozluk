@@ -5,7 +5,7 @@ slug: tafsilat
 letter: T
 lisan: Arapça tafṣīlāt
 anlamlar:
-- ► ayrıntı
+- ayrıntı
 - Ayrıntılı açıklama
 ozellikler:
 - - isim

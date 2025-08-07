@@ -5,7 +5,7 @@ slug: testi-kabagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► su kabağı
+- su kabağı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Eğri, dalgalı olan
-- ► girdap
+- girdap
 ozellikler:
 - - sıfat
 - - sıfat

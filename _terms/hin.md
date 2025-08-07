@@ -5,7 +5,7 @@ slug: hin
 letter: H
 lisan: Arapça ḥīn
 anlamlar:
-- ► kurnaz
+- kurnaz
 - Zaman, zamane
 ozellikler:
 - - isim

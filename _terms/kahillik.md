@@ -5,7 +5,7 @@ slug: kahillik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► erişkinlik
+- erişkinlik
 ozellikler:
 - - isim
 ornekler:

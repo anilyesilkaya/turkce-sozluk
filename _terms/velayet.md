@@ -5,9 +5,9 @@ slug: velayet
 letter: V
 lisan: Arapça velāyet
 anlamlar:
-- ► velilik
-- ► otorite
-- ► yetke
+- velilik
+- otorite
+- yetke
 ozellikler:
 - - isim
   - eskimiş

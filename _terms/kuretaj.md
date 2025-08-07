@@ -5,7 +5,7 @@ slug: kuretaj
 letter: K
 lisan: Fransızca curetage
 anlamlar:
-- ► kürtaj
+- kürtaj
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: bilvasita
 letter: B
 lisan: Arapça bi'l-vāsiṭa
 anlamlar:
-- ► dolaylı
+- dolaylı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: suphelenmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanmak
+- kuşkulanmak
 ozellikler:
 - - -den
 ornekler:

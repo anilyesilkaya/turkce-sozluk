@@ -5,7 +5,7 @@ slug: kumbasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kumsal
+- kumsal
 ozellikler:
 - - isim
 ornekler:

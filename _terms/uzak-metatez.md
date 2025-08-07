@@ -5,7 +5,7 @@ slug: uzak-metatez
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzak göçüşme
+- uzak göçüşme
 ozellikler:
 - - isim
   - dil bilgisi

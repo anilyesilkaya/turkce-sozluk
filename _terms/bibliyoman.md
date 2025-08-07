@@ -5,7 +5,7 @@ slug: bibliyoman
 letter: B
 lisan: Fransızca bibliomane
 anlamlar:
-- ► kitap düşkünü
+- kitap düşkünü
 ozellikler:
 - - isim
 ornekler:

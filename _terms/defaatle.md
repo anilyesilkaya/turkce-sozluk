@@ -5,7 +5,7 @@ slug: defaatle
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► defalarca
+- defalarca
 ozellikler:
 - - zarf
 ornekler:

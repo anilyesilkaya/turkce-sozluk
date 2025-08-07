@@ -5,7 +5,7 @@ slug: ayaktaslik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► omuzdaşlık
+- omuzdaşlık
 ozellikler:
 - - isim
 ornekler:

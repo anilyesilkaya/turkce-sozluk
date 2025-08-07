@@ -6,7 +6,7 @@ letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıpçıktı olma durumu
-- ► türedilik
+- türedilik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: vakarli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ağırbaşlı
+- ağırbaşlı
 ozellikler:
 - - sıfat
 ornekler:

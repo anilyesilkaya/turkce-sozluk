@@ -5,8 +5,8 @@ slug: temessul
 letter: T
 lisan: Arapça temes̱s̱ul
 anlamlar:
-- ► benzeşme
-- ► özümleme
+- benzeşme
+- özümleme
 ozellikler:
 - - isim
   - eskimiş

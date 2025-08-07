@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nādir
 anlamlar:
 - Az bulunur; turfa
-- ► seyrek
+- seyrek
 ozellikler:
 - - sıfat
 - - sıfat

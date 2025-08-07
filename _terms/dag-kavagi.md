@@ -5,7 +5,7 @@ slug: dag-kavagi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► titrek kavak
+- titrek kavak
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: salamanje
 letter: S
 lisan: Fransızca salle à manger
 anlamlar:
-- ► yemek odası
+- yemek odası
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: genzel
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► genizsil
+- genizsil
 ozellikler:
 - - sıfat
   - dil bilgisi

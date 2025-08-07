@@ -5,7 +5,7 @@ slug: korner-diregi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köşe direği
+- köşe direği
 ozellikler:
 - - isim
   - spor

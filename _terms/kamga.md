@@ -5,7 +5,7 @@ slug: kamga
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yonga
+- yonga
 ozellikler:
 - - isim
   - ağızlardan

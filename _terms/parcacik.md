@@ -5,7 +5,7 @@ slug: parcacik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kırıntı
+- kırıntı
 - Elektron, proton, nötron gibi atomu oluşturan parçaların her biri; partikül
 ozellikler:
 - - isim

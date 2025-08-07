@@ -5,7 +5,7 @@ slug: yenidogan-servisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yenidoğan ünitesi
+- yenidoğan ünitesi
 ozellikler:
 - - isim
   - tıp

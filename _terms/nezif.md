@@ -5,7 +5,7 @@ slug: nezif
 letter: N
 lisan: Arapça nezf
 anlamlar:
-- ► kanama
+- kanama
 ozellikler:
 - - isim
   - eskimiş

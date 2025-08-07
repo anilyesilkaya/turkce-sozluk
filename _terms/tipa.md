@@ -5,7 +5,7 @@ slug: tipa
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapa
+- tapa
 ozellikler:
 - - isim
 ornekler:

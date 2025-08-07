@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Olduğu yeri ve durumu korumak, sürdürmek
 - Zaman, uzaklık veya nicelik belirtilen miktarda bulunmak
-- ► konaklamak
-- ► yaşamak
-- ► eğleşmek
+- konaklamak
+- yaşamak
+- eğleşmek
 - Hayatını sürdürmek
 - Varlığını korumak, sürdürmek
 - Oyalanmak, vakit geçirmek
@@ -21,8 +21,8 @@ anlamlar:
 - Miras olarak geçmek
 - Yapamamak
 - Belli bir gelirle geçinmek zorunda bulunmak
-- ► yetinmek
-- ► sınırlanmak
+- yetinmek
+- sınırlanmak
 - Herhangi bir durumu sürdürmek
 - Olmak, herhangi bir durumda bulunmak
 - Kök veya gövdeleri sonuna -a (-e), -ıp (-ip) zarf-fiil eki almış fiillere gelerek süreklilik bildiren birleşik fiiller oluşturur

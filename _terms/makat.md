@@ -5,8 +5,8 @@ slug: makat
 letter: M
 lisan: Arapça maḳʿad
 anlamlar:
-- ► kıç
-- ► anüs
+- kıç
+- anüs
 - Minderli alçak sedir
 - Minder yüzü, minderin üzerine yayılan kumaş
 ozellikler:

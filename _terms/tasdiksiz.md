@@ -5,7 +5,7 @@ slug: tasdiksiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► onaysız
+- onaysız
 ozellikler:
 - - sıfat
 ornekler:

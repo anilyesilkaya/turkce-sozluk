@@ -5,7 +5,7 @@ slug: cift-tirnak-isareti
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tırnak işareti
+- tırnak işareti
 ozellikler:
 - - isim
 ornekler:

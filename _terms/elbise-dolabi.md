@@ -5,7 +5,7 @@ slug: elbise-dolabi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysi dolabı
+- giysi dolabı
 ozellikler:
 - - isim
 ornekler:

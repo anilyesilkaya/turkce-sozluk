@@ -5,7 +5,7 @@ slug: muhtedi
 letter: M
 lisan: Arapça muhtedī
 anlamlar:
-- ► dönme
+- dönme
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: mahcur
 letter: M
 lisan: Arapça maḥcūr
 anlamlar:
-- ► kısıtlı
+- kısıtlı
 ozellikler:
 - - sıfat
   - eskimiş

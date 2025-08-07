@@ -5,7 +5,7 @@ slug: validelik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► annelik
+- annelik
 ozellikler:
 - - isim
 ornekler:

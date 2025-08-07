@@ -5,9 +5,9 @@ slug: oryantasyon
 letter: O
 lisan: Fransızca orientation
 anlamlar:
-- ► yönlendirme
-- ► uyumlanma
-- ► eğitme
+- yönlendirme
+- uyumlanma
+- eğitme
 ozellikler:
 - - isim
 - - isim

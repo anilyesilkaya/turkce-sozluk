@@ -5,7 +5,7 @@ slug: tum
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tümsek
+- tümsek
 ozellikler:
 - - isim
   - ağızlardan

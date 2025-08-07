@@ -5,7 +5,7 @@ slug: belladonna
 letter: B
 lisan: İtalyanca belladonna
 anlamlar:
-- ► güzelavrat otu
+- güzelavrat otu
 ozellikler:
 - - isim
   - bitki bilimi

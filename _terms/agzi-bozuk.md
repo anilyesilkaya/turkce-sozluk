@@ -5,7 +5,7 @@ slug: agzi-bozuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► küfürbaz
+- küfürbaz
 ozellikler:
 - - sıfat
   - mecaz

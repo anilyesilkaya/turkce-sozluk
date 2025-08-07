@@ -5,8 +5,8 @@ slug: busbutun
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tamamen
-- ► iyice
+- tamamen
+- iyice
 ozellikler:
 - - zarf
 - - zarf

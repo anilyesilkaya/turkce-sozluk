@@ -5,7 +5,7 @@ slug: cendere
 letter: C
 lisan: Farsça cendere
 anlamlar:
-- ► pres
+- pres
 - Manevi açıdan yapılan baskı
 ozellikler:
 - - isim

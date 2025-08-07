@@ -6,7 +6,7 @@ letter: R
 lisan: Fransızca rhétorique
 anlamlar:
 - Güzel söz söyleme
-- ► belagat
+- belagat
 ozellikler:
 - - isim
   - edebiyat

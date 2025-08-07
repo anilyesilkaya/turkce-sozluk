@@ -5,7 +5,7 @@ slug: yesil-pasaport
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hususi pasaport
+- hususi pasaport
 ozellikler:
 - - isim
 ornekler:

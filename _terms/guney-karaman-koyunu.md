@@ -5,7 +5,7 @@ slug: guney-karaman-koyunu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güney karamanı
+- güney karamanı
 ozellikler:
 - - isim
   - hayvan bilimi

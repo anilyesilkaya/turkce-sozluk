@@ -5,7 +5,7 @@ slug: mumeyyizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ayırtmanlık
+- ayırtmanlık
 - Mümeyyizin görevi
 ozellikler:
 - - isim

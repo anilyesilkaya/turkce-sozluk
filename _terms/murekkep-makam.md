@@ -5,7 +5,7 @@ slug: murekkep-makam
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► birleşik makam
+- birleşik makam
 ozellikler:
 - - isim
   - müzik

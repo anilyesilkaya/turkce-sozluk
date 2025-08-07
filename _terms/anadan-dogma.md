@@ -5,9 +5,9 @@ slug: anadan-dogma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çırılçıplak
+- çırılçıplak
 - Çırılçıplak olarak
-- ► yaradılıştan
+- yaradılıştan
 ozellikler:
 - - sıfat
   - mecaz

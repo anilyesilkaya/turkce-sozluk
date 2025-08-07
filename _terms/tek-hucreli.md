@@ -5,7 +5,7 @@ slug: tek-hucreli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bir hücreli
+- bir hücreli
 ozellikler:
 - - sıfat
   - hayvan bilimi

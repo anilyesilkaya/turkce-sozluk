@@ -5,7 +5,7 @@ slug: manevi-evlat
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► evlatlık
+- evlatlık
 - Evlat yerine konularak benimsenen kimse
 ozellikler:
 - - isim

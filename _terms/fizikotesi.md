@@ -5,7 +5,7 @@ slug: fizikotesi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► doğaötesi
+- doğaötesi
 ozellikler:
 - - isim
   - felsefe

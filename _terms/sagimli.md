@@ -5,7 +5,7 @@ slug: sagimli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağmal
+- sağmal
 ozellikler:
 - - sıfat
 ornekler:

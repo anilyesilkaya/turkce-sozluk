@@ -5,7 +5,7 @@ slug: kilgi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uygulama
+- uygulama
 ozellikler:
 - - isim
   - felsefe

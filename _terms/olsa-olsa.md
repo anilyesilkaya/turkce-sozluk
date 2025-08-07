@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Son ihtimal olarak
-- ► ancak
+- ancak
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: siryan
 letter: Ş
 lisan: Arapça şiryān
 anlamlar:
-- ► atardamar
+- atardamar
 ozellikler:
 - - isim
   - eskimiş

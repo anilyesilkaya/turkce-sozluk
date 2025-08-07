@@ -5,11 +5,11 @@ slug: hucum
 letter: H
 lisan: Arapça hucūm
 anlamlar:
-- ► saldırı
+- saldırı
 - Üşüşme, bir yere toplanma
 - '"İleri" anlamında kullanılan bir seslenme sözü'
 - Sert eleştiri
-- ► atak (II)
+- atak (II)
 ozellikler:
 - - isim
 - - isim

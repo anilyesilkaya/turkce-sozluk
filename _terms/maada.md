@@ -5,7 +5,7 @@ slug: maada
 letter: M
 lisan: Arapça māʿadā
 anlamlar:
-- ► başka
+- başka
 ozellikler:
 - - edat
   - eskimiş

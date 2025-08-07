@@ -5,7 +5,7 @@ slug: siyahimtirak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► siyahımsı
+- siyahımsı
 ozellikler:
 - - sıfat
 ornekler:

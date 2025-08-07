@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Tahılın tarlaya atıldığı andan harman oluncaya kadar aldığı durum; firez
-- ► kültür
+- kültür
 ozellikler:
 - - isim
 - - isim

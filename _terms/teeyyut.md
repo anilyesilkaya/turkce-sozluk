@@ -5,7 +5,7 @@ slug: teeyyut
 letter: T
 lisan: Arapça teʾeyyud
 anlamlar:
-- ► gerçeklenme
+- gerçeklenme
 ozellikler:
 - - isim
   - eskimiş

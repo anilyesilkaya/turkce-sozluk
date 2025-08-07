@@ -5,7 +5,7 @@ slug: zirve
 letter: Z
 lisan: Arapça ẕirve
 anlamlar:
-- ► doruk
+- doruk
 - Bir işte ulaşılan en üst aşama
 ozellikler:
 - - isim

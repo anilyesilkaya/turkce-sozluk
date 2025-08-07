@@ -5,7 +5,7 @@ slug: tecziye
 letter: T
 lisan: Arapça tecziye
 anlamlar:
-- ► cezalandırma
+- cezalandırma
 ozellikler:
 - - isim
   - eskimiş

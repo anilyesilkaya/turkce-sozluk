@@ -5,7 +5,7 @@ slug: nakliyatci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► taşımacı
+- taşımacı
 ozellikler:
 - - isim
 ornekler:

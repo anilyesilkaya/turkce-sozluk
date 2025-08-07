@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yiğitleşmek işi; yiğitlenme
-- ► kahramanlaşma
+- kahramanlaşma
 ozellikler:
 - - isim
 - - isim

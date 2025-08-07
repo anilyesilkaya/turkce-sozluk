@@ -5,7 +5,7 @@ slug: ussallik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► aklilik
+- aklilik
 ozellikler:
 - - isim
   - felsefe

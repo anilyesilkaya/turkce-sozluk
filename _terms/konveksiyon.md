@@ -5,7 +5,7 @@ slug: konveksiyon
 letter: K
 lisan: Fransızca convection
 anlamlar:
-- ► ısı yayımı
+- ısı yayımı
 ozellikler:
 - - isim
   - kimya

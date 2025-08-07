@@ -5,7 +5,7 @@ slug: abiye
 letter: A
 lisan: Fransızca habillé
 anlamlar:
-- ► gece kıyafeti
+- gece kıyafeti
 ozellikler:
 - - isim
 ornekler:

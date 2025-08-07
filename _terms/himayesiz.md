@@ -5,7 +5,7 @@ slug: himayesiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► korumasız
+- korumasız
 ozellikler:
 - - sıfat
 ornekler:

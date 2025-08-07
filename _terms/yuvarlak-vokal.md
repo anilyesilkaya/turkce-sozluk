@@ -5,7 +5,7 @@ slug: yuvarlak-vokal
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yuvarlak ünlü
+- yuvarlak ünlü
 ozellikler:
 - - isim
   - dil bilgisi

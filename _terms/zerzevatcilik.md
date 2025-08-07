@@ -5,7 +5,7 @@ slug: zerzevatcilik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sebzecilik
+- sebzecilik
 ozellikler:
 - - isim
 ornekler:

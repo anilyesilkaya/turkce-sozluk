@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Fıkra anlatan kimse
-- ► köşe yazarı
+- köşe yazarı
 ozellikler:
 - - isim
 - - isim

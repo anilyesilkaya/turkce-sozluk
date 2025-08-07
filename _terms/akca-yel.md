@@ -5,7 +5,7 @@ slug: akca-yel
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► keşişleme
+- keşişleme
 ozellikler:
 - - isim
 ornekler:

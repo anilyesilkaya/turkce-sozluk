@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taʿlīl
 anlamlar:
 - Sebep gösterme
-- ► tümdengelim
+- tümdengelim
 ozellikler:
 - - isim
   - eskimiş

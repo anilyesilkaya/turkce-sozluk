@@ -5,7 +5,7 @@ slug: mustahak
 letter: M
 lisan: Arapça mustaḥaḳḳ
 anlamlar:
-- ► layık
+- layık
 - Bir kimsenin layık olduğu ödül veya ceza
 ozellikler:
 - - sıfat

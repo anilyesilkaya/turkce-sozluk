@@ -5,7 +5,7 @@ slug: mir
 letter: M
 lisan: Farsça mīr
 anlamlar:
-- ► komutan
+- komutan
 - Bey, emîr. mirim “beyim, aziz dostum, arkadaşım” anlamlarında bir seslenme sözü
 ozellikler:
 - - isim

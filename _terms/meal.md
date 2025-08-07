@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça meʾāl
 anlamlar:
 - Arapçadan kelime kelime çevirmeksizin, asıl anlatılmak istenileni ifade ederek yapılan Kur’an çevirilerinin ortak adı
-- ► anlam
+- anlam
 - Ortaya çıkan şey, sonuç, netice
 ozellikler:
 - - isim

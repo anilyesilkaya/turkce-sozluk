@@ -5,7 +5,7 @@ slug: karaciger-yangisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sarılık
+- sarılık
 ozellikler:
 - - isim
   - tıp

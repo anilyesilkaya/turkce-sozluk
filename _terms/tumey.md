@@ -5,7 +5,7 @@ slug: tumey
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tümler açı
+- tümler açı
 ozellikler:
 - - isim
   - matematik

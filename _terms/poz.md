@@ -8,7 +8,7 @@ anlamlar:
 - Resim ve fotoğrafta duruş
 - Fotoğrafta objektifin açık kaldığı süre
 - Fotoğraf makinesinde kullanılan filmde her bir kare
-- ► çalım
+- çalım
 ozellikler:
 - - isim
 - - isim

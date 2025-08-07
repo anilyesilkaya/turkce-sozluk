@@ -5,7 +5,7 @@ slug: misir-fulu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Hint fulü
+- Hint fulü
 ozellikler:
 - - isim
   - bitki bilimi

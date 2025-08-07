@@ -5,7 +5,7 @@ slug: ivecen
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► aceleci
+- aceleci
 ozellikler:
 - - sıfat
 ornekler:

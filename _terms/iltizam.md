@@ -7,7 +7,7 @@ lisan: Arapça iltizām
 anlamlar:
 - Birinin veya bir şeyin tarafını tutma
 - Gerekli bulma
-- ► kesenek
+- kesenek
 ozellikler:
 - - isim
   - eskimiş

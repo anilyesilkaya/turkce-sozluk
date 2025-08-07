@@ -5,7 +5,7 @@ slug: belescilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bedavacılık
+- bedavacılık
 ozellikler:
 - - isim
 ornekler:

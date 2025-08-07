@@ -5,7 +5,7 @@ slug: hematolog
 letter: H
 lisan: Fransızca hématologue
 anlamlar:
-- ► kan bilimci
+- kan bilimci
 ozellikler:
 - - isim
 ornekler:

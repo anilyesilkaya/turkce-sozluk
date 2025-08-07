@@ -5,7 +5,7 @@ slug: guney-kure
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güney yarım küre
+- güney yarım küre
 ozellikler:
 - - isim
   - coğrafya

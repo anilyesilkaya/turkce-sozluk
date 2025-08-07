@@ -5,7 +5,7 @@ slug: kavlic
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fıtık
+- fıtık
 ozellikler:
 - - isim
   - ağızlardan

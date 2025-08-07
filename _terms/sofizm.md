@@ -5,7 +5,7 @@ slug: sofizm
 letter: S
 lisan: Fransızca sophisme
 anlamlar:
-- ► bilgicilik
+- bilgicilik
 ozellikler:
 - - isim
   - felsefe

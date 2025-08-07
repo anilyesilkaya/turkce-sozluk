@@ -5,7 +5,7 @@ slug: riyaziyeci
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► matematikçi
+- matematikçi
 ozellikler:
 - - isim
   - eskimiş

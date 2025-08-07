@@ -5,7 +5,7 @@ slug: farbalasiz
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fırfırsız
+- fırfırsız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: gelgec
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçici
-- ► hercai
+- geçici
+- hercai
 ozellikler:
 - - sıfat
   - mecaz

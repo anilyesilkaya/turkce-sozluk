@@ -5,7 +5,7 @@ slug: kalbi
 letter: K
 lisan: Arapça ḳalbī
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - sıfat
 ornekler:

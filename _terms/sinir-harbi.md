@@ -5,7 +5,7 @@ slug: sinir-harbi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sinir savaşı
+- sinir savaşı
 ozellikler:
 - - isim
   - ruh bilimi

@@ -5,7 +5,7 @@ slug: lutfeyleme
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► verme
+- verme
 ozellikler:
 - - isim
 ornekler:

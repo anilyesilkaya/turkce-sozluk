@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavuz duruma gelmek
-- ► kabadayılaşmak
+- kabadayılaşmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

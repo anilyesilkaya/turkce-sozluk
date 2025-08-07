@@ -5,7 +5,7 @@ slug: e-muze
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik müze
+- elektronik müze
 ozellikler:
 - - isim
 ornekler:

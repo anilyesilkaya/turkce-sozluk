@@ -5,7 +5,7 @@ slug: hibrit
 letter: H
 lisan: Fransızca hybride
 anlamlar:
-- ► melez
+- melez
 - İki farklı güç kaynağının bir arada bulunması
 ozellikler:
 - - isim

@@ -5,8 +5,8 @@ slug: bezeme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süsleme
-- ► süs
+- süsleme
+- süs
 ozellikler:
 - - isim
 - - isim

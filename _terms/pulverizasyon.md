@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca pulvérisation
 anlamlar:
 - Sert bir cismi ezerek toz hâline getirme
-- ► püskürtüm
+- püskürtüm
 ozellikler:
 - - isim
 - - isim

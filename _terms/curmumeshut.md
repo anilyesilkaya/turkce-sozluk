@@ -5,7 +5,7 @@ slug: curmumeshut
 letter: C
 lisan: Arapça curm + meşhūd
 anlamlar:
-- ► suçüstü
+- suçüstü
 ozellikler:
 - - isim
   - hukuk

@@ -5,8 +5,8 @@ slug: mutedil
 letter: M
 lisan: Arapça muʿtedil
 anlamlar:
-- ► ılımlı
-- ► ılıman
+- ılımlı
+- ılıman
 ozellikler:
 - - sıfat
 - - sıfat

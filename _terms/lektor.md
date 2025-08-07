@@ -5,7 +5,7 @@ slug: lektor
 letter: L
 lisan: Fransızca lecteur
 anlamlar:
-- ► okutman
+- okutman
 - Yayınevlerinde yayımlanması düşünülen eserleri inceleyerek değerlendiren kimse
 ozellikler:
 - - isim

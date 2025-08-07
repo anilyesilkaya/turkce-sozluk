@@ -5,7 +5,7 @@ slug: kazikli-humma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tetanos
+- tetanos
 ozellikler:
 - - isim
   - tıp

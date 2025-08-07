@@ -5,9 +5,9 @@ slug: notr
 letter: N
 lisan: Fransızca neutre
 anlamlar:
-- ► etkisiz
-- ► yansız
-- ► tarafsız
+- etkisiz
+- yansız
+- tarafsız
 ozellikler:
 - - sıfat
 - - sıfat

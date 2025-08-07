@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Doruğunu sis bürümüş (dağ)
-- ► sarhoş
-- ► efkârlı
+- sarhoş
+- efkârlı
 ozellikler:
 - - sıfat
 - - sıfat

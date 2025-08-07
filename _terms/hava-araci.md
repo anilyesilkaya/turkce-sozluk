@@ -5,7 +5,7 @@ slug: hava-araci
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hava taşıtı
+- hava taşıtı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bir-kosu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

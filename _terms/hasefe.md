@@ -5,7 +5,7 @@ slug: hasefe
 letter: H
 lisan: Arapça ḥāşefe
 anlamlar:
-- ► başçık
+- başçık
 ozellikler:
 - - isim
   - eskimiş

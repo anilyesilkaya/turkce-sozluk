@@ -7,7 +7,7 @@ lisan: Fransızca micromètre
 anlamlar:
 - Büyük ölçüde büyütme gücü olan teleskop, mikroskop vb. optik aletlerle incelenen nesnelerin oylumlarını ölçmede kullanılan alet
 - Çok küçük uzunlukları ölçmeye, incelemeye yarayan alet
-- ► mikron
+- mikron
 ozellikler:
 - - isim
 - - isim

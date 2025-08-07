@@ -5,8 +5,8 @@ slug: lep
 letter: L
 lisan: Farsça leb
 anlamlar:
-- ► dudak
-- ► kenar
+- dudak
+- kenar
 ozellikler:
 - - isim
 - - isim

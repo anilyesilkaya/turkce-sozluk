@@ -5,7 +5,7 @@ slug: paklanma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► temizlenme
+- temizlenme
 ozellikler:
 - - isim
 ornekler:

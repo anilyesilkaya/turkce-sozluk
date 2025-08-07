@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Farklı grupta olan
-- ► ayrışık
+- ayrışık
 ozellikler:
 - - sıfat
 - - sıfat

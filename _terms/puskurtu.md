@@ -5,7 +5,7 @@ slug: puskurtu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► lav
+- lav
 - Herhangi bir şeyin püskürmesi
 ozellikler:
 - - isim

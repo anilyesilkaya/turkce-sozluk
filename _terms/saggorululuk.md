@@ -5,7 +5,7 @@ slug: saggorululuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► basiretlilik
+- basiretlilik
 ozellikler:
 - - isim
 ornekler:

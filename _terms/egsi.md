@@ -5,7 +5,7 @@ slug: egsi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► köseği
+- köseği
 ozellikler:
 - - isim
   - ağızlardan

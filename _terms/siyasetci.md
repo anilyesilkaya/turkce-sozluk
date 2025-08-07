@@ -5,7 +5,7 @@ slug: siyasetci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► politikacı
+- politikacı
 ozellikler:
 - - isim
 ornekler:

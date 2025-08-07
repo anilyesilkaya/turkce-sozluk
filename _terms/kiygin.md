@@ -5,7 +5,7 @@ slug: kiygin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mağdur
+- mağdur
 ozellikler:
 - - sıfat
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Gür olma durumu
 - İşitme duyumunun, sesin akustik basıncına bağlı niteliği, sesin kuvveti
-- ► verimlilik
+- verimlilik
 ozellikler:
 - - isim
 - - isim

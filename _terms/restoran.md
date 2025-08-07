@@ -5,7 +5,7 @@ slug: restoran
 letter: R
 lisan: Fransızca restaurant
 anlamlar:
-- ► lokanta
+- lokanta
 ozellikler:
 - - isim
 ornekler:

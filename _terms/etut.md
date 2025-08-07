@@ -6,7 +6,7 @@ letter: E
 lisan: Fransızca étude
 anlamlar:
 - Herhangi bir konuda yapılan inceleme, araştırma
-- ► ön çalışma
+- ön çalışma
 - Belli bir konuyu inceleyen, araştıran eser veya yazı
 - Öğrencilerin, bir belletmenin gözetimi, denetimi altında ders çalışmaları; mütalaa, müzakere
 ozellikler:

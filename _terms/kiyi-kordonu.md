@@ -5,7 +5,7 @@ slug: kiyi-kordonu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıyı dili
+- kıyı dili
 ozellikler:
 - - isim
   - coğrafya

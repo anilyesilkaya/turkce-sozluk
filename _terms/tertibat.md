@@ -7,7 +7,7 @@ lisan: Arapça tertībāt
 anlamlar:
 - Düzen, düzenleniş
 - Bir işin güçlüklerini karşılamak için yapılan ön hazırlıklar
-- ► düzenek
+- düzenek
 ozellikler:
 - - isim
 - - isim

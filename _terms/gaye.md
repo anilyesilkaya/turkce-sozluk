@@ -5,7 +5,7 @@ slug: gaye
 letter: G
 lisan: Arapça ġāye
 anlamlar:
-- ► amaç
+- amaç
 ozellikler:
 - - isim
 ornekler:

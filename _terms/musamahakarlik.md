@@ -5,7 +5,7 @@ slug: musamahakarlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hoşgörülülük
+- hoşgörülülük
 ozellikler:
 - - isim
 ornekler:

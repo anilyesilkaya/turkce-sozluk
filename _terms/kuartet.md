@@ -5,7 +5,7 @@ slug: kuartet
 letter: K
 lisan: Fransızca quartette
 anlamlar:
-- ► dörtlü
+- dörtlü
 ozellikler:
 - - isim
   - müzik

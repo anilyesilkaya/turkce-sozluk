@@ -5,7 +5,7 @@ slug: cigrismak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağrışmak
+- çağrışmak
 - Hep birlikte çığlık atmak
 ozellikler:
 - - nesnesiz

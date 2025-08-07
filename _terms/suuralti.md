@@ -5,7 +5,7 @@ slug: suuralti
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçaltı
+- bilinçaltı
 ozellikler:
 - - isim
   - ruh bilimi

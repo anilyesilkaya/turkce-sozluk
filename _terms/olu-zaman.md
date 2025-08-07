@@ -5,7 +5,7 @@ slug: olu-zaman
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölü saat
+- ölü saat
 ozellikler:
 - - isim
   - mecaz

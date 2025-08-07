@@ -5,7 +5,7 @@ slug: evvelleri
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önceleri
+- önceleri
 ozellikler:
 - - zarf
 ornekler:

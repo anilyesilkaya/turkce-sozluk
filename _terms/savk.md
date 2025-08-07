@@ -5,7 +5,7 @@ slug: savk
 letter: Ş
 lisan: Arapça şevḳ
 anlamlar:
-- ► ışık
+- ışık
 ozellikler:
 - - isim
   - ağızlardan

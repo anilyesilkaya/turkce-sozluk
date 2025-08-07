@@ -5,7 +5,7 @@ slug: nahirci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sığırtmaç
+- sığırtmaç
 ozellikler:
 - - isim
 ornekler:

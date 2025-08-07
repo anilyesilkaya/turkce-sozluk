@@ -5,7 +5,7 @@ slug: kiyin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► zulüm
+- zulüm
 ozellikler:
 - - isim
   - ağızlardan

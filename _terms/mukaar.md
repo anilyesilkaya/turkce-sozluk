@@ -5,7 +5,7 @@ slug: mukaar
 letter: M
 lisan: Arapça muḳaʿʿar
 anlamlar:
-- ► içbükey
+- içbükey
 ozellikler:
 - - sıfat
   - eskimiş

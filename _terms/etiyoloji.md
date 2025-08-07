@@ -5,7 +5,7 @@ slug: etiyoloji
 letter: E
 lisan: Fransızca étiologie
 anlamlar:
-- ► neden bilimi
+- neden bilimi
 ozellikler:
 - - isim
 ornekler:

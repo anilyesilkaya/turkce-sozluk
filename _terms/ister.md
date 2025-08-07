@@ -5,7 +5,7 @@ slug: ister
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gerek
+- gerek
 - Cümledeki görevleri aynı olan kelimelerin ayrı ayrı her birinin başına getirilerek herhangi birinin onanmasında sakınca olmadığını anlatan bir söz
 ozellikler:
 - - isim

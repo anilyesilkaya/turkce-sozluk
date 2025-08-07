@@ -5,7 +5,7 @@ slug: tor
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► başköşe
+- başköşe
 ozellikler:
 - - isim
   - eskimiş

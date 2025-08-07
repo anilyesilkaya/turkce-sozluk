@@ -5,7 +5,7 @@ slug: sefillik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yoksulluk
+- yoksulluk
 - Adi ve bayağı olma durumu
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sacayak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sacayağı
+- sacayağı
 ozellikler:
 - - isim
   - mecaz

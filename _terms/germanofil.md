@@ -5,7 +5,7 @@ slug: germanofil
 letter: G
 lisan: Fransızca germanophile
 anlamlar:
-- ► Almansever
+- Almansever
 ozellikler:
 - - sıfat
 ornekler:

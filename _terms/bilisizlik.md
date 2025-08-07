@@ -5,7 +5,7 @@ slug: bilisizlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 ozellikler:
 - - isim
 ornekler:

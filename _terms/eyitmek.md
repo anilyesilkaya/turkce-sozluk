@@ -5,7 +5,7 @@ slug: eyitmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► demek
+- demek
 ozellikler:
 - - nesnesiz
   - eskimiş

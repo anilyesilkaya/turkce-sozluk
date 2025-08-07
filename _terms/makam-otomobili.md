@@ -5,7 +5,7 @@ slug: makam-otomobili
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► makam arabası
+- makam arabası
 ozellikler:
 - - isim
 ornekler:

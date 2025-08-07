@@ -5,7 +5,7 @@ slug: agronomi
 letter: A
 lisan: Fransızca agronomie
 anlamlar:
-- ► tarım bilimi
+- tarım bilimi
 ozellikler:
 - - isim
 ornekler:

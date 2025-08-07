@@ -5,7 +5,7 @@ slug: cilve-kutusu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cilveli
+- cilveli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: jenerasyon
 letter: J
 lisan: Fransızca génération
 anlamlar:
-- ► kuşak
+- kuşak
 ozellikler:
 - - isim
   - toplum bilimi

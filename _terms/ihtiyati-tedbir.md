@@ -5,7 +5,7 @@ slug: ihtiyati-tedbir
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ihtiyat tedbiri
+- ihtiyat tedbiri
 ozellikler:
 - - isim
 ornekler:

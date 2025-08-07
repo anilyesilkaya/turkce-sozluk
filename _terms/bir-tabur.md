@@ -5,7 +5,7 @@ slug: bir-tabur
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pek çok
+- pek çok
 ozellikler:
 - - sıfat
 ornekler:

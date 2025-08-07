@@ -5,8 +5,8 @@ slug: esenlesmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► selamlaşmak
-- ► vedalaşmak
+- selamlaşmak
+- vedalaşmak
 ozellikler:
 - - -le
 - - -le

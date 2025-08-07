@@ -5,7 +5,7 @@ slug: transparan
 letter: T
 lisan: Fransızca transparent
 anlamlar:
-- ► şeffaf
+- şeffaf
 ozellikler:
 - - sıfat
 ornekler:

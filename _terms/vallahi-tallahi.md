@@ -5,7 +5,7 @@ slug: vallahi-tallahi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vallahi billahi
+- vallahi billahi
 ozellikler:
 - - ünlem
 ornekler:

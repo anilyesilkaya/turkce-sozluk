@@ -5,7 +5,7 @@ slug: file-bekciligi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kalecilik
+- kalecilik
 ozellikler:
 - - isim
   - spor

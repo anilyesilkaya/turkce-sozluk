@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çemberle kuşatmak
-- ► kasnaklamak
+- kasnaklamak
 ozellikler:
 - - -i
 - - -i

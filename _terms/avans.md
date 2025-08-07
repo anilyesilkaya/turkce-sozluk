@@ -5,7 +5,7 @@ slug: avans
 letter: A
 lisan: Fransızca avance
 anlamlar:
-- ► öndelik
+- öndelik
 - Oyunda zayıf tarafa önceden verilen geçici üstünlük
 ozellikler:
 - - isim

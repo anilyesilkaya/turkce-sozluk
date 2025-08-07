@@ -5,7 +5,7 @@ slug: alin-yazisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
   - mecaz

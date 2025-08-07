@@ -5,7 +5,7 @@ slug: muvaffakiyetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► başarılı
+- başarılı
 ozellikler:
 - - sıfat
 ornekler:

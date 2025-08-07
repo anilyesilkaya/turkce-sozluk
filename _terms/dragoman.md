@@ -5,7 +5,7 @@ slug: dragoman
 letter: D
 lisan: Fransızca dragoman
 anlamlar:
-- ► çevirmen
+- çevirmen
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: nezafet
 letter: N
 lisan: Arapça neẓāfet
 anlamlar:
-- ► temizlik
+- temizlik
 ozellikler:
 - - isim
   - eskimiş

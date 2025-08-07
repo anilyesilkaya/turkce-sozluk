@@ -5,9 +5,9 @@ slug: harhara
 letter: H
 lisan: Arapça ḫarḫara
 anlamlar:
-- ► horultu
+- horultu
 - Gürültülü ses
-- ► hırıltı
+- hırıltı
 ozellikler:
 - - isim
 - - isim

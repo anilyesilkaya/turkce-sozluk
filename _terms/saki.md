@@ -5,7 +5,7 @@ slug: saki
 letter: Ş
 lisan: Arapça şaḳī
 anlamlar:
-- ► haydut
+- haydut
 ozellikler:
 - - isim
 ornekler:

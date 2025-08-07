@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tahtası olan
-- ► tahtalı güvercin
+- tahtalı güvercin
 ozellikler:
 - - sıfat
 - - sıfat

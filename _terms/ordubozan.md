@@ -5,9 +5,9 @@ slug: ordubozan
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oyunbozan
-- ► arabozan
-- ► varis
+- oyunbozan
+- arabozan
+- varis
 ozellikler:
 - - sıfat
   - mecaz

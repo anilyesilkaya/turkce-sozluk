@@ -5,7 +5,7 @@ slug: cilingir
 letter: Ç
 lisan: Farsça cilānger
 anlamlar:
-- ► anahtarcı
+- anahtarcı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kasem
 letter: K
 lisan: Arapça ḳasem
 anlamlar:
-- ► ant
+- ant
 ozellikler:
 - - isim
   - eskimiş

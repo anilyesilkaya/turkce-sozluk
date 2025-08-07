@@ -5,7 +5,7 @@ slug: soz-misali
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► söz gelişi
+- söz gelişi
 ozellikler:
 - - bağlaç
 ornekler:

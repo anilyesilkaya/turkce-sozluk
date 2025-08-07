@@ -5,7 +5,7 @@ slug: halep-cibani
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Şark çıbanı
+- Şark çıbanı
 ozellikler:
 - - isim
   - tıp

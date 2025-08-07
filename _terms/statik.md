@@ -5,7 +5,7 @@ slug: statik
 letter: S
 lisan: Fransızca statique
 anlamlar:
-- ► duruk
+- duruk
 - Gelişme, ilerleme göstermeyen
 ozellikler:
 - - isim

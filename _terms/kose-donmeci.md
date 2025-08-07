@@ -5,7 +5,7 @@ slug: kose-donmeci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köşe dönücü
+- köşe dönücü
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: inceltme-isareti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► düzeltme işareti
+- düzeltme işareti
 ozellikler:
 - - isim
   - dil bilgisi

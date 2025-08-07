@@ -5,7 +5,7 @@ slug: ruh-hastasi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► akıl hastası
+- akıl hastası
 ozellikler:
 - - isim
   - tıp

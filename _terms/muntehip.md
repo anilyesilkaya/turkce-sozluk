@@ -5,7 +5,7 @@ slug: muntehip
 letter: M
 lisan: Arapça muntaḫib
 anlamlar:
-- ► seçmen
+- seçmen
 ozellikler:
 - - isim
   - eskimiş

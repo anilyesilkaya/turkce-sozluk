@@ -5,7 +5,7 @@ slug: dikotomi
 letter: D
 lisan: Fransızca dichotomie
 anlamlar:
-- ► ikileşim
+- ikileşim
 ozellikler:
 - - isim
   - biyoloji

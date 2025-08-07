@@ -5,7 +5,7 @@ slug: seksuel
 letter: S
 lisan: Fransızca sexuel
 anlamlar:
-- ► cinsel
+- cinsel
 ozellikler:
 - - sıfat
 ornekler:

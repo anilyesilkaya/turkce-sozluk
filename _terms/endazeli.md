@@ -5,7 +5,7 @@ slug: endazeli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ölçülü
+- ölçülü
 ozellikler:
 - - sıfat
 ornekler:

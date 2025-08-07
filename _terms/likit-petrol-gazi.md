@@ -5,7 +5,7 @@ slug: likit-petrol-gazi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► sıvılaştırılmış petrol gazı
+- sıvılaştırılmış petrol gazı
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Farsça tīrendāz
 anlamlar:
 - Ok atan
 - Becerikli, elinden iş gelir
-- ► özenli
+- özenli
 ozellikler:
 - - sıfat
   - eskimiş

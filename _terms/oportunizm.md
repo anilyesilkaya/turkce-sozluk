@@ -5,7 +5,7 @@ slug: oportunizm
 letter: O
 lisan: Fransızca opportunisme
 anlamlar:
-- ► fırsatçılık
+- fırsatçılık
 ozellikler:
 - - isim
 ornekler:

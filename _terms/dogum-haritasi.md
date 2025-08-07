@@ -5,7 +5,7 @@ slug: dogum-haritasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yıldız haritası
+- yıldız haritası
 ozellikler:
 - - isim
   - gök bilimi

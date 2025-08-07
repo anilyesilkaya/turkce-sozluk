@@ -5,7 +5,7 @@ slug: halkalandirmak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► halelendirmek
+- halelendirmek
 ozellikler:
 - - -i
 ornekler:

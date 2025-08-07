@@ -5,7 +5,7 @@ slug: yali
 letter: Y
 lisan: Rumca
 anlamlar:
-- ► sahil
+- sahil
 - Su kıyısında yapılmış büyük, görkemli ev
 ozellikler:
 - - isim

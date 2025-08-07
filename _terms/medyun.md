@@ -5,7 +5,7 @@ slug: medyun
 letter: M
 lisan: Arapça medyūn
 anlamlar:
-- ► borçlu
+- borçlu
 ozellikler:
 - - sıfat
   - eskimiş

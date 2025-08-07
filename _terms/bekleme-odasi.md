@@ -5,7 +5,7 @@ slug: bekleme-odasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bekleme salonu
+- bekleme salonu
 ozellikler:
 - - isim
 ornekler:

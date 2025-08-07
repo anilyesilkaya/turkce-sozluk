@@ -5,7 +5,7 @@ slug: hodbin
 letter: H
 lisan: Farsça ḫōdbīn
 anlamlar:
-- ► bencil
+- bencil
 ozellikler:
 - - sıfat
   - eskimiş

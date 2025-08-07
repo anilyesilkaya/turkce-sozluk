@@ -5,7 +5,7 @@ slug: maglubiyet
 letter: M
 lisan: Arapça maġlūbiyyet
 anlamlar:
-- ► yenilgi
+- yenilgi
 ozellikler:
 - - isim
 ornekler:

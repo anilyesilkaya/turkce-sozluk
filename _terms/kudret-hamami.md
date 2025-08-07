@@ -5,7 +5,7 @@ slug: kudret-hamami
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ılıca
+- ılıca
 ozellikler:
 - - isim
 ornekler:

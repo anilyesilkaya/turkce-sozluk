@@ -5,7 +5,7 @@ slug: cumhur-cemaat
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cümbür cemaat
+- cümbür cemaat
 ozellikler:
 - - zarf
 ornekler:

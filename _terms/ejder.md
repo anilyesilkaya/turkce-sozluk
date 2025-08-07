@@ -5,7 +5,7 @@ slug: ejder
 letter: E
 lisan: Farsça ejder
 anlamlar:
-- ► ejderha
+- ejderha
 - Büyük boyutlu yılan
 ozellikler:
 - - isim

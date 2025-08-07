@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫāṭirāt
 anlamlar:
 - Anılar
-- ► anı
+- anı
 ozellikler:
 - - isim
 - - isim

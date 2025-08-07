@@ -5,7 +5,7 @@ slug: kerim
 letter: K
 lisan: Arapça kerīm
 anlamlar:
-- ► soylu
+- soylu
 - Eli açık, cömert
 - Allah'ın adlarından biri
 ozellikler:

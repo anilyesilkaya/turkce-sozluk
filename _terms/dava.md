@@ -7,10 +7,10 @@ lisan: Arapça daʿvā
 anlamlar:
 - Korunmanın bir hüküm ile sağlanması için yargı organlarına yapılan başvuru
 - Yargı organınca hükme bağlanması gereken konu
-- ► duruşma
-- ► iddia
-- ► sorun
-- ► ülkü
+- duruşma
+- iddia
+- sorun
+- ülkü
 ozellikler:
 - - isim
   - hukuk

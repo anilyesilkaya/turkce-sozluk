@@ -5,7 +5,7 @@ slug: kapali-garaj
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kapalı otopark
+- kapalı otopark
 ozellikler:
 - - isim
 ornekler:

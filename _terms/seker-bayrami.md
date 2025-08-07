@@ -5,7 +5,7 @@ slug: seker-bayrami
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Ramazan Bayramı
+- Ramazan Bayramı
 ozellikler:
 - - isim
 ornekler:

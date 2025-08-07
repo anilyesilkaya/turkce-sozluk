@@ -5,7 +5,7 @@ slug: tumden
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
 ornekler:

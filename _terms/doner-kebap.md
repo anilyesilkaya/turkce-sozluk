@@ -5,7 +5,7 @@ slug: doner-kebap
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► döner
+- döner
 ozellikler:
 - - isim
 ornekler:

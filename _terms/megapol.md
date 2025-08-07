@@ -5,7 +5,7 @@ slug: megapol
 letter: M
 lisan: Fransızca mégapole
 anlamlar:
-- ► megakent
+- megakent
 ozellikler:
 - - isim
 ornekler:

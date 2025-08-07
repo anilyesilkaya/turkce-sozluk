@@ -5,7 +5,7 @@ slug: bedeni
 letter: B
 lisan: Arapça bedenī
 anlamlar:
-- ► bedensel
+- bedensel
 ozellikler:
 - - sıfat
   - eskimiş

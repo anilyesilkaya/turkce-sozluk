@@ -5,7 +5,7 @@ slug: tasvircilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► betimlemecilik
+- betimlemecilik
 ozellikler:
 - - isim
 ornekler:

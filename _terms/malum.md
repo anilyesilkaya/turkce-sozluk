@@ -8,8 +8,8 @@ anlamlar:
 - Herkes tarafından bilinen, gizli olmayan, öğrenilmiş şey
 - Herkesçe bilinen ancak dile getirilemeyen
 - Bilindiği üzere, bilindiği gibi
-- ► etken fiil
-- ► bilinen
+- etken fiil
+- bilinen
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: hububat
 letter: H
 lisan: Arapça ḥubūbāt
 anlamlar:
-- ► tahıl
+- tahıl
 ozellikler:
 - - isim
 ornekler:

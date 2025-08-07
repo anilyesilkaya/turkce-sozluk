@@ -5,7 +5,7 @@ slug: mueddep
 letter: M
 lisan: Arapça muʾeddeb
 anlamlar:
-- ► uslu
+- uslu
 ozellikler:
 - - sıfat
   - eskimiş

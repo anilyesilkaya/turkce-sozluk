@@ -5,7 +5,7 @@ slug: hudutlandirma
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınırlama
+- sınırlama
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: acik-ellilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cömertlik
+- cömertlik
 ozellikler:
 - - isim
   - mecaz

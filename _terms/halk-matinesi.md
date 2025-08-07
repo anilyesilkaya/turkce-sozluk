@@ -5,7 +5,7 @@ slug: halk-matinesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► halk günü
+- halk günü
 ozellikler:
 - - isim
   - sinema

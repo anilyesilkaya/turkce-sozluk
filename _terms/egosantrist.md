@@ -5,7 +5,7 @@ slug: egosantrist
 letter: E
 lisan: Fransızca égocentriste
 anlamlar:
-- ► beniçinci
+- beniçinci
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: gercege-aykirilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gerçek dışılık
+- gerçek dışılık
 ozellikler:
 - - isim
 ornekler:

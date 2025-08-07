@@ -5,7 +5,7 @@ slug: otekilestirmek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► dışlamak
+- dışlamak
 ozellikler:
 - - -i
 ornekler:

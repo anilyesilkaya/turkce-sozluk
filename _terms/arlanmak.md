@@ -5,7 +5,7 @@ slug: arlanmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► utanmak
+- utanmak
 ozellikler:
 - - nesnesiz
 ornekler:

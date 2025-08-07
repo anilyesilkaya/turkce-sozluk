@@ -5,7 +5,7 @@ slug: kartografi
 letter: K
 lisan: Fransızca cartographie
 anlamlar:
-- ► haritacılık
+- haritacılık
 ozellikler:
 - - isim
 ornekler:

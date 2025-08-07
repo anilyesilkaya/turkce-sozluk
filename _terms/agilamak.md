@@ -5,7 +5,7 @@ slug: agilamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zehirlemek
+- zehirlemek
 - Bir şeye zehir katmak
 ozellikler:
 - - -i

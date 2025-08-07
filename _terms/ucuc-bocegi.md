@@ -5,7 +5,7 @@ slug: ucuc-bocegi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uğur böceği
+- uğur böceği
 ozellikler:
 - - isim
   - hayvan bilimi

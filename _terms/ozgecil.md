@@ -5,7 +5,7 @@ slug: ozgecil
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özgeci
+- özgeci
 ozellikler:
 - - sıfat
 ornekler:

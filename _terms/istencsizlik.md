@@ -5,7 +5,7 @@ slug: istencsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradesizlik
+- iradesizlik
 ozellikler:
 - - isim
 ornekler:

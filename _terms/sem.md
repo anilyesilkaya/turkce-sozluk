@@ -5,8 +5,8 @@ slug: sem
 letter: Ş
 lisan: Arapça şemʿ
 anlamlar:
-- ► mum
-- ► bal mumu
+- mum
+- bal mumu
 ozellikler:
 - - isim
   - eskimiş

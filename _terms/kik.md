@@ -5,7 +5,7 @@ slug: kik
 letter: K
 lisan: İngilizce gig
 anlamlar:
-- ► futa
+- futa
 ozellikler:
 - - isim
   - denizcilik

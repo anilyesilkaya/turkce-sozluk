@@ -5,7 +5,7 @@ slug: kombine
 letter: K
 lisan: Fransızca combiné
 anlamlar:
-- ► toplu
+- toplu
 - Bir spor dalında değişik türdeki yarışmaların sonuçlarına göre birleştirilmiş derecelendirme, toplam puana göre değerlendirme
 ozellikler:
 - - sıfat

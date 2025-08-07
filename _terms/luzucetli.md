@@ -5,7 +5,7 @@ slug: luzucetli
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► yapışkan
+- yapışkan
 ozellikler:
 - - sıfat
 ornekler:

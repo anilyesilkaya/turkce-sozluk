@@ -5,9 +5,9 @@ slug: bina
 letter: B
 lisan: Arapça binā
 anlamlar:
-- ► yapı
+- yapı
 - Arapça fiil çatısını konu edinen bilim veya kitap
-- ► çatı
+- çatı
 ozellikler:
 - - isim
 - - isim

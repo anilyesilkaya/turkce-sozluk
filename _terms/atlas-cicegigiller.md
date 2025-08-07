@@ -5,7 +5,7 @@ slug: atlas-cicegigiller
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kaktüsgiller
+- kaktüsgiller
 ozellikler:
 - - isim
   - bitki bilimi

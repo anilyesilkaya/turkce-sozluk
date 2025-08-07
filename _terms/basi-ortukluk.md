@@ -5,7 +5,7 @@ slug: basi-ortukluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başı kapalılık
+- başı kapalılık
 ozellikler:
 - - isim
 ornekler:

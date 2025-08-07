@@ -5,7 +5,7 @@ slug: mangan
 letter: M
 lisan: Almanca Mangan
 anlamlar:
-- ► manganez
+- manganez
 ozellikler:
 - - isim
   - kimya

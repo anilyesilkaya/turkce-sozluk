@@ -5,8 +5,8 @@ slug: hediye
 letter: H
 lisan: Arapça hediyye
 anlamlar:
-- ► armağan
-- ► fiyat
+- armağan
+- fiyat
 ozellikler:
 - - isim
 - - isim

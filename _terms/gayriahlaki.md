@@ -5,8 +5,8 @@ slug: gayriahlaki
 letter: G
 lisan: Arapça ġayr + aḫlāḳī
 anlamlar:
-- ► ahlak dışı
-- ► töre dışı
+- ahlak dışı
+- töre dışı
 ozellikler:
 - - sıfat
   - eskimiş

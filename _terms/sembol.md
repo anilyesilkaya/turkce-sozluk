@@ -5,7 +5,7 @@ slug: sembol
 letter: S
 lisan: Fransızca symbole
 anlamlar:
-- ► simge
+- simge
 ozellikler:
 - - isim
 ornekler:

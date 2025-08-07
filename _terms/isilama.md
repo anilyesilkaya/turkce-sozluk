@@ -5,7 +5,7 @@ slug: isilama
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışıldama
+- ışıldama
 ozellikler:
 - - isim
 ornekler:

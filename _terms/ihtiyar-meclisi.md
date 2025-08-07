@@ -5,7 +5,7 @@ slug: ihtiyar-meclisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ihtiyar heyeti
+- ihtiyar heyeti
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: purtelas
 letter: P
 lisan: Farsça pur + Arapça telāş
 anlamlar:
-- ► telaşlı
+- telaşlı
 - Telaşlı olarak
 ozellikler:
 - - sıfat

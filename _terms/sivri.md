@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ucu keskin ve batıcı olan
 - Ucuna doğru gittikçe incelen
-- ► palamut (I)
+- palamut (I)
 - Genel tutumun veya geleneklerin dışında kalan, göze batıcı özelliği olan
 ozellikler:
 - - sıfat

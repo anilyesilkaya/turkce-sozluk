@@ -5,7 +5,7 @@ slug: dekadans
 letter: D
 lisan: Fransızca décadence
 anlamlar:
-- ► çöküş
+- çöküş
 ozellikler:
 - - isim
 ornekler:

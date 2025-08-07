@@ -5,7 +5,7 @@ slug: bir-anda
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 - Kısa süre içinde
 ozellikler:
 - - zarf

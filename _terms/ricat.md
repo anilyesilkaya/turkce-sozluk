@@ -5,7 +5,7 @@ slug: ricat
 letter: R
 lisan: Arapça ricʿat
 anlamlar:
-- ► vazgeçme
+- vazgeçme
 - Gerileme, geri çekilme, geri kaçma; çekilme
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: izafiyet
 letter: I
 lisan: Arapça iżāfiyyet
 anlamlar:
-- ► bağıntılılık
+- bağıntılılık
 ozellikler:
 - - isim
   - eskimiş

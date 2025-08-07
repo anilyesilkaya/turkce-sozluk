@@ -5,7 +5,7 @@ slug: katliam
 letter: K
 lisan: Arapça ḳatl + ʿāmm
 anlamlar:
-- ► kırım
+- kırım
 ozellikler:
 - - isim
   - toplum bilimi

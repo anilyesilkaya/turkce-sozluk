@@ -5,7 +5,7 @@ slug: suyolu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sutaş
+- sutaş
 - Bazı kâğıtların dokusunda bulunan, ışığa tutulduğunda görülebilen çizgi, resim veya yazı; filigran
 - Kâğıt üzerine konulan noktaların aralarını çizgilerle birleştirerek oynanan bir çocuk oyunu
 ozellikler:

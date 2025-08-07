@@ -5,11 +5,11 @@ slug: ceper
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çit (I)
+- çit (I)
 - Ahlaksız, huysuz, geçimsiz kimse
 - Bağ çubuğu, çalı çırpı
 - Sebze bahçesi
-- ► zar (I)
+- zar (I)
 ozellikler:
 - - isim
   - ağızlardan

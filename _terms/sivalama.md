@@ -5,7 +5,7 @@ slug: sivalama
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sıvama
+- sıvama
 ozellikler:
 - - isim
 ornekler:

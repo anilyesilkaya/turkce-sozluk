@@ -5,7 +5,7 @@ slug: kiymetli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerli
+- değerli
 ozellikler:
 - - sıfat
 ornekler:

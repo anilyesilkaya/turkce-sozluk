@@ -5,7 +5,7 @@ slug: apas
 letter: A
 lisan: Fransızca apache
 anlamlar:
-- ► külhanbeyi
+- külhanbeyi
 ozellikler:
 - - isim
 ornekler:

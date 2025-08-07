@@ -5,7 +5,7 @@ slug: calisma-ruhsati
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalışma izni
+- çalışma izni
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dominantlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► baskınlık
+- baskınlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: istihdaf-etmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► amaçlamak
+- amaçlamak
 ozellikler:
 - - ''
 ornekler:

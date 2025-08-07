@@ -5,7 +5,7 @@ slug: supheli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkulu
+- kuşkulu
 - Kendisinden şüphe edilen, kuşkulanılan; zanlı
 ozellikler:
 - - sıfat

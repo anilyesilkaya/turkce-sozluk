@@ -5,7 +5,7 @@ slug: ic-guveyi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iç güveyisi
+- iç güveyisi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: onurlandiris
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şereflendirme
+- şereflendirme
 ozellikler:
 - - isim
 ornekler:

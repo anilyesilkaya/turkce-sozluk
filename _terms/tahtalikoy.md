@@ -5,7 +5,7 @@ slug: tahtalikoy
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
   - argo

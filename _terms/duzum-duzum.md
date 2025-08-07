@@ -5,7 +5,7 @@ slug: duzum-duzum
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dizim dizim
+- dizim dizim
 ozellikler:
 - - sıfat
   - ağızlardan

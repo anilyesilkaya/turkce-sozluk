@@ -6,8 +6,8 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - İterek, zorla, aceleyle sokmak
-- ► sıkıştırmak
-- ► sokmak
+- sıkıştırmak
+- sokmak
 ozellikler:
 - - -e
   - -i

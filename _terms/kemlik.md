@@ -5,7 +5,7 @@ slug: kemlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kötülük
+- kötülük
 ozellikler:
 - - isim
 ornekler:

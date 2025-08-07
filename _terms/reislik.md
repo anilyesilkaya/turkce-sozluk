@@ -5,7 +5,7 @@ slug: reislik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► başkanlık
+- başkanlık
 - Küçük tekne kaptanlığı
 ozellikler:
 - - isim

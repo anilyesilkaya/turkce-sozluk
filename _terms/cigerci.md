@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Kesilmiş hayvanların ciğerini satan kimse
-- ► ciğer kebapçısı
+- ciğer kebapçısı
 ozellikler:
 - - isim
 - - isim

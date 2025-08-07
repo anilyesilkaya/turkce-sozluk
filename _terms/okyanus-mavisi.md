@@ -5,7 +5,7 @@ slug: okyanus-mavisi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► koyu mavi
+- koyu mavi
 - Bu renkte olan
 ozellikler:
 - - isim

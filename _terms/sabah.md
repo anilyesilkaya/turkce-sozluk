@@ -6,8 +6,8 @@ letter: S
 lisan: Arapça ṣabāḥ
 anlamlar:
 - Güneşin doğduğu andan öğleye kadar geçen zaman dilimi
-- ► sabah ezanı
-- ► sabah namazı
+- sabah ezanı
+- sabah namazı
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: uretimevi
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► fabrika
+- fabrika
 ozellikler:
 - - isim
 ornekler:

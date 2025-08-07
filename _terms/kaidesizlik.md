@@ -5,7 +5,7 @@ slug: kaidesizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuralsızlık
+- kuralsızlık
 - Kaidesiz olma durumu
 ozellikler:
 - - isim

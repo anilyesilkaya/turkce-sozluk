@@ -5,7 +5,7 @@ slug: metazori
 letter: M
 lisan: Rumca
 anlamlar:
-- ► zorla
+- zorla
 ozellikler:
 - - zarf
 ornekler:

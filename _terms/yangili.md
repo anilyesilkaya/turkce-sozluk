@@ -5,7 +5,7 @@ slug: yangili
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iltihaplı
+- iltihaplı
 ozellikler:
 - - sıfat
 ornekler:

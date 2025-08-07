@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Belli bir biçim almak
-- ► klişeleşmek
+- klişeleşmek
 - Durumunu sürdürmek, belli bir durumun dışına çıkmamak
 - Görevini yitirmek
 ozellikler:

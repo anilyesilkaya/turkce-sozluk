@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Söylenen zamanın öncesini kastederek
 - Belirlenmiş olan tarihten sonra, o tarihi başlangıç sayarak
-- ► bakımından
+- bakımından
 ozellikler:
 - - zarf
 - - zarf

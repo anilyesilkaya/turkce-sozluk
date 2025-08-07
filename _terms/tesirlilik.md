@@ -5,7 +5,7 @@ slug: tesirlilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► etkililik
+- etkililik
 ozellikler:
 - - isim
 ornekler:

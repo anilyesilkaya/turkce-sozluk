@@ -5,7 +5,7 @@ slug: devrik-tumce
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► devrik cümle
+- devrik cümle
 ozellikler:
 - - isim
   - dil bilgisi

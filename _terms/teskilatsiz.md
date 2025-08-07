@@ -5,7 +5,7 @@ slug: teskilatsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütsüz
+- örgütsüz
 - Örgütsüz bir biçimde
 ozellikler:
 - - sıfat

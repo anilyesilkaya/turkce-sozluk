@@ -5,7 +5,7 @@ slug: idealist
 letter: I
 lisan: Fransızca idéaliste
 anlamlar:
-- ► ülkücü
+- ülkücü
 - İdealizm öğretisine bağlı filozof
 ozellikler:
 - - sıfat

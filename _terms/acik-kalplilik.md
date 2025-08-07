@@ -5,7 +5,7 @@ slug: acik-kalplilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık yüreklilik
+- açık yüreklilik
 ozellikler:
 - - isim
   - mecaz

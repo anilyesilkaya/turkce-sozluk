@@ -5,7 +5,7 @@ slug: tali-bayilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► alt bayilik
+- alt bayilik
 ozellikler:
 - - isim
 ornekler:

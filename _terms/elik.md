@@ -5,7 +5,7 @@ slug: elik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► dağ keçisi
+- dağ keçisi
 ozellikler:
 - - isim
   - ağızlardan

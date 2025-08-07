@@ -5,7 +5,7 @@ slug: ustukaci
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► malakâr
+- malakâr
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça bāṭinī
 anlamlar:
 - İçte olan, iç âlemde olan, sırla ilgili
-- ► içrek
+- içrek
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: karpuzumsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karpuzsu
+- karpuzsu
 ozellikler:
 - - sıfat
 ornekler:

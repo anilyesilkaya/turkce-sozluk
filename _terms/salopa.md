@@ -5,7 +5,7 @@ slug: salopa
 letter: Ş
 lisan: İtalyanca scialuppa
 anlamlar:
-- ► şalupa
+- şalupa
 ozellikler:
 - - isim
   - denizcilik

@@ -5,7 +5,7 @@ slug: meryemana-asmasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► akasma
+- akasma
 ozellikler:
 - - isim
   - bitki bilimi

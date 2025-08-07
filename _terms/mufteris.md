@@ -5,7 +5,7 @@ slug: mufteris
 letter: M
 lisan: Arapça mufteris
 anlamlar:
-- ► yırtıcı
+- yırtıcı
 ozellikler:
 - - sıfat
   - eskimiş

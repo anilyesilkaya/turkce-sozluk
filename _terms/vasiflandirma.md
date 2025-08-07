@@ -5,7 +5,7 @@ slug: vasiflandirma
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► nitelendirme
+- nitelendirme
 ozellikler:
 - - isim
 ornekler:

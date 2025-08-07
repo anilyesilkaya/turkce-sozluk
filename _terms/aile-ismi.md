@@ -5,7 +5,7 @@ slug: aile-ismi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aile adı
+- aile adı
 ozellikler:
 - - isim
 ornekler:

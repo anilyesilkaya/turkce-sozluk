@@ -7,7 +7,7 @@ lisan: Fransızca pince
 anlamlar:
 - Giysilerde vücuda oturmasını sağlamak için bazı yerlerden içeriye doğru daraltılarak dikilmiş bölüm
 - Kıskaç biçiminde iğne
-- ► pense
+- pense
 ozellikler:
 - - isim
 - - isim

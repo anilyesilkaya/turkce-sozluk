@@ -5,7 +5,7 @@ slug: basyazmanlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkâtiplik
+- başkâtiplik
 ozellikler:
 - - isim
 ornekler:

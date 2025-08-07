@@ -5,7 +5,7 @@ slug: maverailesme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uhrevileşme
+- uhrevileşme
 ozellikler:
 - - ''
 ornekler:

@@ -5,7 +5,7 @@ slug: islam-gizemcisi
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► mutasavvıf
+- mutasavvıf
 ozellikler:
 - - isim
 ornekler:

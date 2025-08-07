@@ -5,7 +5,7 @@ slug: saggorusuzluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► basiretsizlik
+- basiretsizlik
 ozellikler:
 - - isim
 ornekler:

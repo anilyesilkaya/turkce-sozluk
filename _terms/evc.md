@@ -6,8 +6,8 @@ letter: E
 lisan: Arapça evc
 anlamlar:
 - En yüce yer
-- ► yeröte
-- ► günöte
+- yeröte
+- günöte
 ozellikler:
 - - isim
   - eskimiş

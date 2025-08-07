@@ -5,7 +5,7 @@ slug: mudebbir
 letter: M
 lisan: Arapça mudebbir
 anlamlar:
-- ► tedbirli
+- tedbirli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: yalavac
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► peygamber
+- peygamber
 ozellikler:
 - - isim
   - eskimiş

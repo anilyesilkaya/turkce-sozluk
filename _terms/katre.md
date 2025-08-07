@@ -5,7 +5,7 @@ slug: katre
 letter: K
 lisan: Arapça ḳaṭre
 anlamlar:
-- ► damla
+- damla
 ozellikler:
 - - isim
   - eskimiş

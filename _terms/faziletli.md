@@ -5,7 +5,7 @@ slug: faziletli
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► erdemli
+- erdemli
 ozellikler:
 - - sıfat
 ornekler:

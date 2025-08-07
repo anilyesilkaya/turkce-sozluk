@@ -5,7 +5,7 @@ slug: rasyonalite
 letter: R
 lisan: Fransızca rationalité
 anlamlar:
-- ► aklilik
+- aklilik
 ozellikler:
 - - isim
   - felsefe

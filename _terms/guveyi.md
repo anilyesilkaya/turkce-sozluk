@@ -5,7 +5,7 @@ slug: guveyi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► damat
+- damat
 ozellikler:
 - - isim
 ornekler:

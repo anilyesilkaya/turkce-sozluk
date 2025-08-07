@@ -5,7 +5,7 @@ slug: acgozluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açgözlülük
+- açgözlülük
 ozellikler:
 - - isim
 ornekler:

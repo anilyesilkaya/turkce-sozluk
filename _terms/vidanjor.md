@@ -5,7 +5,7 @@ slug: vidanjor
 letter: V
 lisan: Fransızca vidangeur
 anlamlar:
-- ► boşaltıcı
+- boşaltıcı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dinsel
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dinî
+- dinî
 ozellikler:
 - - sıfat
 ornekler:

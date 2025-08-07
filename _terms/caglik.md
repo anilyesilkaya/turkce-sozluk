@@ -5,7 +5,7 @@ slug: caglik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cağ (III)
+- cağ (III)
 ozellikler:
 - - isim
 ornekler:

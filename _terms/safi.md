@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça ṣāfī
 anlamlar:
 - Katıksız, duru, temiz olan
-- ► net (I)
+- net (I)
 - (sa:'fi) Yalnız olarak, yalnız, sadece
 ozellikler:
 - - sıfat

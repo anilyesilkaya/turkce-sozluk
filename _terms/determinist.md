@@ -5,7 +5,7 @@ slug: determinist
 letter: D
 lisan: Fransızca déterministe
 anlamlar:
-- ► belirlenimci
+- belirlenimci
 ozellikler:
 - - sıfat
   - felsefe

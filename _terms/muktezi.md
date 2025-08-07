@@ -5,7 +5,7 @@ slug: muktezi
 letter: M
 lisan: Arapça muḳteżī
 anlamlar:
-- ► gerekli
+- gerekli
 ozellikler:
 - - sıfat
   - eskimiş

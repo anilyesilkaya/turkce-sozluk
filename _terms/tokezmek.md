@@ -5,7 +5,7 @@ slug: tokezmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tökezlemek
+- tökezlemek
 ozellikler:
 - - nesnesiz
   - ağızlardan

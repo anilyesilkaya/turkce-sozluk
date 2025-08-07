@@ -5,7 +5,7 @@ slug: fiili-hizmet-zammi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yıpranma payı
+- yıpranma payı
 ozellikler:
 - - isim
 ornekler:

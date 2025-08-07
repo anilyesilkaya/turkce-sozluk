@@ -5,7 +5,7 @@ slug: hanende
 letter: H
 lisan: Farsça ḫvānende
 anlamlar:
-- ► şarkıcı
+- şarkıcı
 ozellikler:
 - - isim
   - eskimiş

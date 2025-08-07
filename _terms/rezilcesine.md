@@ -5,7 +5,7 @@ slug: rezilcesine
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► rezilce
+- rezilce
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: sarbanlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► devecilik
+- devecilik
 ozellikler:
 - - isim
 ornekler:

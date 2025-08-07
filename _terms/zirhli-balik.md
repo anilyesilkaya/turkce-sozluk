@@ -5,7 +5,7 @@ slug: zirhli-balik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırhlı yayın
+- zırhlı yayın
 ozellikler:
 - - isim
   - hayvan bilimi

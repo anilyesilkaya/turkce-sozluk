@@ -5,7 +5,7 @@ slug: affedebilmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlayabilmek
+- bağışlayabilmek
 ozellikler:
 - - -i
 ornekler:

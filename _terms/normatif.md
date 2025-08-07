@@ -5,7 +5,7 @@ slug: normatif
 letter: N
 lisan: Fransızca normatif
 anlamlar:
-- ► düzgüsel
+- düzgüsel
 ozellikler:
 - - sıfat
   - felsefe

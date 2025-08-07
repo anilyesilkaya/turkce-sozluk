@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça fevt
 anlamlar:
 - Elden çıkma
-- ► ölme
+- ölme
 ozellikler:
 - - isim
   - eskimiş

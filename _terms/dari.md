@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, kuraklığa dayanıklı bir bitki; akdarı (Panicum miliaceum)
 - Bu bitkinin buğday yerine besin olarak kullanılan tohumu
-- ► mısır
+- mısır
 ozellikler:
 - - isim
   - bitki bilimi

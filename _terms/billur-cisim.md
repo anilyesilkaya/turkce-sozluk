@@ -5,7 +5,7 @@ slug: billur-cisim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► göz merceği
+- göz merceği
 ozellikler:
 - - isim
   - anatomi

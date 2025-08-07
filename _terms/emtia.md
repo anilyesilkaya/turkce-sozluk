@@ -5,7 +5,7 @@ slug: emtia
 letter: E
 lisan: Arapça emtiʿa
 anlamlar:
-- ► mal
+- mal
 ozellikler:
 - - isim
   - eskimiş

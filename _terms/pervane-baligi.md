@@ -5,7 +5,7 @@ slug: pervane-baligi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ay balığı
+- ay balığı
 ozellikler:
 - - isim
   - hayvan bilimi

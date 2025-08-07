@@ -5,7 +5,7 @@ slug: ankara-kecisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tiftik keçisi
+- tiftik keçisi
 ozellikler:
 - - isim
   - hayvan bilimi

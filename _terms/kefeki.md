@@ -5,7 +5,7 @@ slug: kefeki
 letter: K
 lisan: Yunanca
 anlamlar:
-- ► küfeki
+- küfeki
 ozellikler:
 - - isim
   - mineraloji

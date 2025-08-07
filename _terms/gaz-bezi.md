@@ -5,7 +5,7 @@ slug: gaz-bezi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gazlı bez
+- gazlı bez
 ozellikler:
 - - isim
 ornekler:

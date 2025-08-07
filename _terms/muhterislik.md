@@ -5,7 +5,7 @@ slug: muhterislik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► açgözlülük
+- açgözlülük
 ozellikler:
 - - isim
 ornekler:

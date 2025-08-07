@@ -6,8 +6,8 @@ letter: A
 lisan: Fransızca atmosphère
 anlamlar:
 - Yeri veya herhangi bir gök cismini saran gaz tabakası; gaz yuvarı
-- ► hava yuvarı
-- ► hava
+- hava yuvarı
+- hava
 - Basınç birimi olarak kullanılan, 15 °C'de deniz yüzeyinde, 76 santimetre uzunluğunda ve tabanı 1 santimetrekare olan cıva sütununun ağırlığı (1 kilogram 33 gram)
 ozellikler:
 - - isim

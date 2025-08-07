@@ -5,8 +5,8 @@ slug: noksan
 letter: N
 lisan: Arapça nuḳṣān
 anlamlar:
-- ► eksik
-- ► eksiklik
+- eksik
+- eksiklik
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: uzum-sekeri
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► glikoz
+- glikoz
 ozellikler:
 - - isim
   - kimya

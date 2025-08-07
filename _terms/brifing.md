@@ -5,7 +5,7 @@ slug: brifing
 letter: B
 lisan: İngilizce briefing
 anlamlar:
-- ► bilgilendirme
+- bilgilendirme
 ozellikler:
 - - isim
 ornekler:

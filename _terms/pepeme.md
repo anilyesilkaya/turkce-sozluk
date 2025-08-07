@@ -5,7 +5,7 @@ slug: pepeme
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pepe
+- pepe
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: haysiyet-divani
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► onur kurulu
+- onur kurulu
 ozellikler:
 - - isim
 ornekler:

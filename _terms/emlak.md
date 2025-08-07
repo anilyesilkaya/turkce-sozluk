@@ -6,7 +6,7 @@ letter: E
 lisan: Arapça emlāk
 anlamlar:
 - Ev, arsa, bahçe vb. taşınamayan mal ve mülklerin ortak adı; gayrimenkul
-- ► yurt
+- yurt
 ozellikler:
 - - isim
 - - isim

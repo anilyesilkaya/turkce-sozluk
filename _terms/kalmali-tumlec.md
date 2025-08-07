@@ -5,7 +5,7 @@ slug: kalmali-tumlec
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bulunmalı tümleç
+- bulunmalı tümleç
 ozellikler:
 - - isim
   - dil bilgisi

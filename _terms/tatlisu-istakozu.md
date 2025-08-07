@@ -5,7 +5,7 @@ slug: tatlisu-istakozu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kerevit
+- kerevit
 ozellikler:
 - - isim
   - hayvan bilimi

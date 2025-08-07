@@ -5,7 +5,7 @@ slug: lineer-cebir
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► doğrusal cebir
+- doğrusal cebir
 ozellikler:
 - - isim
   - matematik

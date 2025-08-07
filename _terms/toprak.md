@@ -7,10 +7,10 @@ lisan: Türkçe
 anlamlar:
 - Yer kabuğunun, toz durumuna gelmiş türlü kütle kırıntılarıyla, çürümüş organik cisimlerden oluşan ve canlılara yaşama ortamı sağlayan yüzey bölümü; kara yer, hâk, türap
 - Yer kabuğunun bu bölümünden yapılmış
-- ► arazi
-- ► kara (I)
+- arazi
+- kara (I)
 - Vatan, ülke, memleket, yöre
-- ► memleketli
+- memleketli
 ozellikler:
 - - isim
 - - isim

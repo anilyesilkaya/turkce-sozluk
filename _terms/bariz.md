@@ -5,7 +5,7 @@ slug: bariz
 letter: B
 lisan: Arapça bāriz
 anlamlar:
-- ► belirgin
+- belirgin
 ozellikler:
 - - sıfat
 ornekler:

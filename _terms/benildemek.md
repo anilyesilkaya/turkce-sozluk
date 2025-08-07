@@ -5,7 +5,7 @@ slug: benildemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belinlemek
+- belinlemek
 ozellikler:
 - - nesnesiz
   - ağızlardan

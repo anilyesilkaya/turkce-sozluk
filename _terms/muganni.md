@@ -5,7 +5,7 @@ slug: muganni
 letter: M
 lisan: Arapça muġannī
 anlamlar:
-- ► şarkıcı
+- şarkıcı
 ozellikler:
 - - isim
   - eskimiş

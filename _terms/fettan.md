@@ -5,8 +5,8 @@ slug: fettan
 letter: F
 lisan: Arapça fettān
 anlamlar:
-- ► fitneci
-- ► cilveli
+- fitneci
+- cilveli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: nefesli-sazlar
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► üflemeli sazlar
+- üflemeli sazlar
 ozellikler:
 - - isim
   - müzik

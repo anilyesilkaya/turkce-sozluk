@@ -5,7 +5,7 @@ slug: plasenta
 letter: P
 lisan: Fransızca placenta
 anlamlar:
-- ► döl eşi
+- döl eşi
 ozellikler:
 - - isim
   - anatomi

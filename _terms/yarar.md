@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işten elde edilen iyi sonuç; getiri, kazanç, fayda, kâr, avantaj
-- ► çıkar
+- çıkar
 - Yarayan, elverişli, uygun olan
 ozellikler:
 - - isim

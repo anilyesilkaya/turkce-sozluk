@@ -5,7 +5,7 @@ slug: ogrenilen-gecmis-zaman
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► duyulan geçmiş zaman
+- duyulan geçmiş zaman
 ozellikler:
 - - isim
   - dil bilgisi

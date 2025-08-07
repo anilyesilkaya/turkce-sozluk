@@ -5,8 +5,8 @@ slug: mezellet
 letter: M
 lisan: Arapça meẕellet
 anlamlar:
-- ► alçalma
-- ► aşağılaşma
+- alçalma
+- aşağılaşma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: renkli-basin
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► boyalı basın
+- boyalı basın
 ozellikler:
 - - isim
 ornekler:

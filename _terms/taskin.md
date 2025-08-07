@@ -6,8 +6,8 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Taşmış bir durumda olan
-- ► su baskını
-- ► aşırı
+- su baskını
+- aşırı
 ozellikler:
 - - sıfat
 - - sıfat

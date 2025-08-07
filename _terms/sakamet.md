@@ -5,8 +5,8 @@ slug: sakamet
 letter: S
 lisan: Arapça saḳāmet
 anlamlar:
-- ► bozukluk
-- ► yanlışlık
+- bozukluk
+- yanlışlık
 ozellikler:
 - - isim
   - eskimiş

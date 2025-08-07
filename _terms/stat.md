@@ -5,7 +5,7 @@ slug: stat
 letter: S
 lisan: Fransızca stade
 anlamlar:
-- ► stadyum
+- stadyum
 ozellikler:
 - - isim
   - spor

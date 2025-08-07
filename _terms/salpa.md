@@ -5,7 +5,7 @@ slug: salpa
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarkık
+- sarkık
 - Tembel (kimse); salpak
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: sentaktik
 letter: S
 lisan: Fransızca syntactique
 anlamlar:
-- ► söz dizimsel
+- söz dizimsel
 ozellikler:
 - - sıfat
   - dil bilgisi

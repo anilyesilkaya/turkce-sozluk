@@ -5,7 +5,7 @@ slug: yesil-saha
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeşil alan
+- yeşil alan
 - Futbol oynanan alan
 ozellikler:
 - - isim

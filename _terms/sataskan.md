@@ -5,7 +5,7 @@ slug: sataskan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saldırgan
+- saldırgan
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolanma işini yaptırmak
-- ► dolaştırmak
+- dolaştırmak
 - Birisini aldatarak parasını veya malını elinden almak; dızlamak, kıvırmak, söğüşlemek
 ozellikler:
 - - -i

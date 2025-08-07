@@ -5,7 +5,7 @@ slug: sambabasi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şambaba
+- şambaba
 - Sorumluluğu olmayan, hayırsız baba
 ozellikler:
 - - isim

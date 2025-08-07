@@ -5,7 +5,7 @@ slug: pazi-kemigi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kol kemiği
+- kol kemiği
 ozellikler:
 - - isim
   - anatomi

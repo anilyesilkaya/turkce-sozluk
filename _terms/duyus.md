@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Duymak işi
-- ► seziş
+- seziş
 ozellikler:
 - - isim
 - - isim

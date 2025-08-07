@@ -5,7 +5,7 @@ slug: olumlu-eylem
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olumlu fiil
+- olumlu fiil
 ozellikler:
 - - isim
   - dil bilgisi

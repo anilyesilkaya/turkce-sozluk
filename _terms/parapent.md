@@ -5,7 +5,7 @@ slug: parapent
 letter: P
 lisan: Fransızca parapente
 anlamlar:
-- ► yamaç paraşütü
+- yamaç paraşütü
 ozellikler:
 - - isim
   - spor

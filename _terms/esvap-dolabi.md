@@ -5,7 +5,7 @@ slug: esvap-dolabi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysi dolabı
+- giysi dolabı
 ozellikler:
 - - isim
 ornekler:

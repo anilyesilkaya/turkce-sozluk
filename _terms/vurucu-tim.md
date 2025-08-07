@@ -5,7 +5,7 @@ slug: vurucu-tim
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vurucu güç
+- vurucu güç
 ozellikler:
 - - isim
 ornekler:

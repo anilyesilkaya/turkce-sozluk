@@ -5,7 +5,7 @@ slug: lenguist
 letter: L
 lisan: Fransızca linguist
 anlamlar:
-- ► dil bilimci
+- dil bilimci
 ozellikler:
 - - isim
 ornekler:

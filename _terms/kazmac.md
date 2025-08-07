@@ -5,7 +5,7 @@ slug: kazmac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kazaratar
+- kazaratar
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: martaval
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► palavra
+- palavra
 ozellikler:
 - - isim
   - argo

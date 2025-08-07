@@ -5,8 +5,8 @@ slug: tehir
 letter: T
 lisan: Arapça teʾḫīr
 anlamlar:
-- ► erteleme
-- ► geciktirme
+- erteleme
+- geciktirme
 ozellikler:
 - - isim
 - - isim

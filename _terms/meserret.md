@@ -5,7 +5,7 @@ slug: meserret
 letter: M
 lisan: Arapça meserret
 anlamlar:
-- ► sevinç
+- sevinç
 ozellikler:
 - - isim
   - eskimiş

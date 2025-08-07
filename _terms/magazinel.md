@@ -5,7 +5,7 @@ slug: magazinel
 letter: M
 lisan: Fransızca magazinel
 anlamlar:
-- ► magazinsel
+- magazinsel
 ozellikler:
 - - sıfat
 ornekler:

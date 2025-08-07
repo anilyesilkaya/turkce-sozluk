@@ -5,7 +5,7 @@ slug: glasyolojist
 letter: G
 lisan: Fransızca glaciologiste
 anlamlar:
-- ► buzul bilimci
+- buzul bilimci
 ozellikler:
 - - isim
 ornekler:

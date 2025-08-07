@@ -5,7 +5,7 @@ slug: ilgincar
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuş kirazı
+- kuş kirazı
 ozellikler:
 - - isim
   - bitki bilimi

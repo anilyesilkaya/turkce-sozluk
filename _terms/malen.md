@@ -5,7 +5,7 @@ slug: malen
 letter: M
 lisan: Arapça mālen
 anlamlar:
-- ► malca
+- malca
 ozellikler:
 - - zarf
   - eskimiş

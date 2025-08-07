@@ -5,7 +5,7 @@ slug: tepkili-ucak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► jet
+- jet
 ozellikler:
 - - isim
 ornekler:

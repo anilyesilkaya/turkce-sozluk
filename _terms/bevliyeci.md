@@ -5,7 +5,7 @@ slug: bevliyeci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ürolog
+- ürolog
 ozellikler:
 - - isim
 ornekler:

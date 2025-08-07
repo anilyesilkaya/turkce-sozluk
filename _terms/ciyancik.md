@@ -5,7 +5,7 @@ slug: ciyancik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kurtpençesi
+- kurtpençesi
 ozellikler:
 - - isim
   - bitki bilimi

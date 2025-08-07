@@ -5,7 +5,7 @@ slug: kitle-haberlesmesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kitle iletişimi
+- kitle iletişimi
 ozellikler:
 - - isim
   - toplum bilimi

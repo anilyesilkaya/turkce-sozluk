@@ -5,7 +5,7 @@ slug: amerikan-elmasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kaju
+- kaju
 ozellikler:
 - - isim
   - bitki bilimi

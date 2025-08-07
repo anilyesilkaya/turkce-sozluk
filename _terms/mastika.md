@@ -5,7 +5,7 @@ slug: mastika
 letter: M
 lisan: Rumca
 anlamlar:
-- ► sakız rakısı
+- sakız rakısı
 - Sakız ağacından çıkarılan reçine
 ozellikler:
 - - isim

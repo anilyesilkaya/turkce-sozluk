@@ -5,7 +5,7 @@ slug: hur
 letter: H
 lisan: Arapça ḥurr
 anlamlar:
-- ► özgür
+- özgür
 - Özgür bir biçimde
 ozellikler:
 - - sıfat

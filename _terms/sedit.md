@@ -5,7 +5,7 @@ slug: sedit
 letter: Ş
 lisan: Arapça şedīd
 anlamlar:
-- ► şiddetli
+- şiddetli
 ozellikler:
 - - sıfat
   - eskimiş

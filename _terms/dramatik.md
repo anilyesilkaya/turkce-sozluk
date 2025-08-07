@@ -8,7 +8,7 @@ anlamlar:
 - Sahne oyununa özgü olan
 - İçinde gerilim, çatışma vb. olaylar bulunan, insan ilişkileri ile gelişen (eser, olay)
 - Coşku veren, duyguları kamçılayan
-- ► acıklı
+- acıklı
 ozellikler:
 - - sıfat
 - - sıfat

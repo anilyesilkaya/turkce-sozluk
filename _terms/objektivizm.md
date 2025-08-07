@@ -5,7 +5,7 @@ slug: objektivizm
 letter: O
 lisan: Fransızca objectivisme
 anlamlar:
-- ► nesnelcilik
+- nesnelcilik
 ozellikler:
 - - isim
   - felsefe

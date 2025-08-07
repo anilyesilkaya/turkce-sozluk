@@ -5,7 +5,7 @@ slug: dolganca
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► Dolgan Türkçesi
+- Dolgan Türkçesi
 ozellikler:
 - - isim
 ornekler:

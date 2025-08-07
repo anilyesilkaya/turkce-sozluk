@@ -5,7 +5,7 @@ slug: cumle-alem
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► herkes
+- herkes
 ozellikler:
 - - zamir
 ornekler:

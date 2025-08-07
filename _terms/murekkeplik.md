@@ -5,7 +5,7 @@ slug: murekkeplik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hokka
+- hokka
 ozellikler:
 - - isim
 ornekler:

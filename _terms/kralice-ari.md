@@ -5,7 +5,7 @@ slug: kralice-ari
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► arı beyi
+- arı beyi
 ozellikler:
 - - isim
 ornekler:

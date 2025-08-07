@@ -5,7 +5,7 @@ slug: aytismak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atışmak
+- atışmak
 ozellikler:
 - - nesnesiz
 ornekler:

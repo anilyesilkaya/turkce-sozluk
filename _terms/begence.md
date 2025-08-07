@@ -5,7 +5,7 @@ slug: begence
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► takriz
+- takriz
 ozellikler:
 - - isim
   - edebiyat

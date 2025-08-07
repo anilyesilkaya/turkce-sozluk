@@ -5,7 +5,7 @@ slug: fikirdes
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► oydaş
+- oydaş
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: orgen
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► organ
+- organ
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: can-kusu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► can
+- can
 ozellikler:
 - - isim
   - mecaz

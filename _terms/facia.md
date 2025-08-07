@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça fāciʿa
 anlamlar:
 - Çok üzüntü veren, acıklı olay
-- ► trajedi
+- trajedi
 ozellikler:
 - - isim
 - - isim

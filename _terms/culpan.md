@@ -5,7 +5,7 @@ slug: culpan
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

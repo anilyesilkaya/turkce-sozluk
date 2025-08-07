@@ -5,7 +5,7 @@ slug: gamlanmak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygılanmak
+- kaygılanmak
 ozellikler:
 - - nesnesiz
 ornekler:

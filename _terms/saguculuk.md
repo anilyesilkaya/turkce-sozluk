@@ -5,7 +5,7 @@ slug: saguculuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ağıtçılık
+- ağıtçılık
 ozellikler:
 - - isim
 ornekler:

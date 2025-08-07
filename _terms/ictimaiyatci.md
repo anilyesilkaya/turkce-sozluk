@@ -5,7 +5,7 @@ slug: ictimaiyatci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► toplum bilimci
+- toplum bilimci
 ozellikler:
 - - isim
   - toplum bilimi

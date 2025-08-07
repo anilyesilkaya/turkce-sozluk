@@ -5,7 +5,7 @@ slug: nukul
 letter: N
 lisan: Arapça nukūl
 anlamlar:
-- ► vazgeçme
+- vazgeçme
 ozellikler:
 - - isim
   - eskimiş

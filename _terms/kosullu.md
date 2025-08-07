@@ -5,7 +5,7 @@ slug: kosullu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartlı
+- şartlı
 ozellikler:
 - - sıfat
 ornekler:

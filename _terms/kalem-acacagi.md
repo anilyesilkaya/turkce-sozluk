@@ -5,7 +5,7 @@ slug: kalem-acacagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalemtıraş
+- kalemtıraş
 ozellikler:
 - - isim
 ornekler:

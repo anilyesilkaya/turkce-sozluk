@@ -5,7 +5,7 @@ slug: sarmasan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarılgan
+- sarılgan
 ozellikler:
 - - sıfat
   - bitki bilimi

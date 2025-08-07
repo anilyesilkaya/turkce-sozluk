@@ -5,7 +5,7 @@ slug: asli-fasli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aslı astarı
+- aslı astarı
 ozellikler:
 - - isim
 ornekler:

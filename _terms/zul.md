@@ -5,8 +5,8 @@ slug: zul
 letter: Z
 lisan: Arapça ẕull
 anlamlar:
-- ► alçalma
-- ► aşağılaşma
+- alçalma
+- aşağılaşma
 - Ayıplanacak şey
 ozellikler:
 - - isim

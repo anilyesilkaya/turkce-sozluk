@@ -5,8 +5,8 @@ slug: yeryuzu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yer kabuğu
-- ► dünya
+- yer kabuğu
+- dünya
 ozellikler:
 - - isim
   - coğrafya

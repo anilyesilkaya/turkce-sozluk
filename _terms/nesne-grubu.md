@@ -5,7 +5,7 @@ slug: nesne-grubu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nesne öbeği
+- nesne öbeği
 ozellikler:
 - - isim
   - dil bilgisi

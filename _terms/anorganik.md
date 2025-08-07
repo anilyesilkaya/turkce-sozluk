@@ -5,7 +5,7 @@ slug: anorganik
 letter: A
 lisan: Fransızca anorganique
 anlamlar:
-- ► inorganik
+- inorganik
 ozellikler:
 - - sıfat
   - kimya

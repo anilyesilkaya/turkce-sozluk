@@ -5,7 +5,7 @@ slug: ciziktirmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiziktirmek
+- çiziktirmek
 ozellikler:
 - - -i
   - ağızlardan

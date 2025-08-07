@@ -7,7 +7,7 @@ lisan: İtalyanca timon
 anlamlar:
 - Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça
 - Bir kişiyi, bir grubu yönlendirme, yönetme; yönetim
-- ► hile
+- hile
 ozellikler:
 - - isim
 - - isim

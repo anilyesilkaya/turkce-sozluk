@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kasları gergin duruma getirmek
-- ► kısaltmak
+- kısaltmak
 - Dar gelmek
 - Harçlık, ödenek vb.nden bir miktar ayırmak
 - Baskısı altında tutmak

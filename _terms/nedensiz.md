@@ -5,8 +5,8 @@ slug: nedensiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sebepsiz
-- ► niçinsiz
+- sebepsiz
+- niçinsiz
 ozellikler:
 - - sıfat
   - zarf

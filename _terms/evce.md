@@ -5,7 +5,7 @@ slug: evce
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evcek
+- evcek
 ozellikler:
 - - zarf
 ornekler:

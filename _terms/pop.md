@@ -5,7 +5,7 @@ slug: pop
 letter: P
 lisan: Fransızca pop
 anlamlar:
-- ► pop müzik
+- pop müzik
 ozellikler:
 - - sıfat
 ornekler:

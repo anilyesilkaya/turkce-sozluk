@@ -11,8 +11,8 @@ anlamlar:
 - Ciltçilikte tek yaprakları büküp cildi birleştirebilmek için bir yanında bırakılan şerit durumundaki kenar
 - Heykel dökümünde, kalıp parçalarının birleştirilmesinde kolaylık sağlamak amacı ile yapılan dişlerin her biri
 - Kanun çalmakta kullanılan mızrap
-- ► keski
-- ► tırnak işareti
+- keski
+- tırnak işareti
 - Mermi atıldıktan sonra kovanın çıkarılmasına yarayan silah mekanizması
 ozellikler:
 - - isim

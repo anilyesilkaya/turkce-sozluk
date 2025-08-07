@@ -5,11 +5,11 @@ slug: yas
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ıslak, kuru (I) karşıtı
+- ıslak, kuru (I) karşıtı
 - Kendi suyunu, canlılığını yitirmemiş, kurumamış, kurutulmamış; taze
-- ► gözyaşı
-- ► kötü
-- ► zor
+- gözyaşı
+- kötü
+- zor
 ozellikler:
 - - sıfat
 - - sıfat

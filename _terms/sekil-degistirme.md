@@ -5,7 +5,7 @@ slug: sekil-degistirme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► dönüşüm
+- dönüşüm
 ozellikler:
 - - isim
 ornekler:

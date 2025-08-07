@@ -5,7 +5,7 @@ slug: gozu-sululuk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sulu gözlülük
+- sulu gözlülük
 ozellikler:
 - - isim
 ornekler:

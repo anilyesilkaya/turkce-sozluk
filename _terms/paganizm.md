@@ -5,7 +5,7 @@ slug: paganizm
 letter: P
 lisan: Fransızca paganisme
 anlamlar:
-- ► çok tanrıcılık
+- çok tanrıcılık
 ozellikler:
 - - isim
   - toplum bilimi

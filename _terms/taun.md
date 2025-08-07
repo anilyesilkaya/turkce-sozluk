@@ -5,7 +5,7 @@ slug: taun
 letter: T
 lisan: Arapça ṭāʿūn
 anlamlar:
-- ► veba
+- veba
 ozellikler:
 - - isim
   - eskimiş

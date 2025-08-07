@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca sidérite
 anlamlar:
 - İçinde yalnız demir ve nikel bulunan gök taşı
-- ► sideroz
+- sideroz
 ozellikler:
 - - isim
   - gök bilimi

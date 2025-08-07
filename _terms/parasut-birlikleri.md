@@ -5,7 +5,7 @@ slug: parasut-birlikleri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► paraşütçü birlikler
+- paraşütçü birlikler
 ozellikler:
 - - isim
   - askerlik

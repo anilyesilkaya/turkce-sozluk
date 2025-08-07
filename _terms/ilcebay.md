@@ -5,7 +5,7 @@ slug: ilcebay
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kaymakam
+- kaymakam
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: sekmen
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tabure
-- ► basamak
+- tabure
+- basamak
 ozellikler:
 - - isim
 - - isim

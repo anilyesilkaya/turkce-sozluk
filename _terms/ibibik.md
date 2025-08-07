@@ -5,7 +5,7 @@ slug: ibibik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çavuş kuşu
+- çavuş kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

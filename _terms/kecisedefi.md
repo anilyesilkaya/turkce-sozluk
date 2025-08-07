@@ -5,7 +5,7 @@ slug: kecisedefi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► keçisakalı
+- keçisakalı
 ozellikler:
 - - isim
   - bitki bilimi

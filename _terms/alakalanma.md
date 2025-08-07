@@ -5,7 +5,7 @@ slug: alakalanma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgilenme
+- ilgilenme
 ozellikler:
 - - isim
 ornekler:

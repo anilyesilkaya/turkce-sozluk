@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Bir araya getirmek; cemetmek
-- ► devşirmek
+- devşirmek
 - Devşirip kaldırmak
 - Dağınıklıktan kurtarmak; kaldırmak
 - Bir araya getirmek, düzene sokmak, düzeltmek

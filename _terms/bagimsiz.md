@@ -6,9 +6,9 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Davranışlarını, tutumunu, girişimlerini herhangi bir gücün etkisinde kalmadan düzenleyebilen (kimse); özerk
-- ► müstakil
+- müstakil
 - Herhangi bir kişiye, kuruluşa, partiye bağlı bağlılığı olmayan kimse vb.
-- ► bağımsız milletvekili
+- bağımsız milletvekili
 ozellikler:
 - - sıfat
 - - sıfat

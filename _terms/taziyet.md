@@ -5,7 +5,7 @@ slug: taziyet
 letter: T
 lisan: Arapça taʿziyet
 anlamlar:
-- ► başsağlığı
+- başsağlığı
 ozellikler:
 - - isim
   - eskimiş

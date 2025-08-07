@@ -5,7 +5,7 @@ slug: futurolojik
 letter: F
 lisan: Fransızca futurologique
 anlamlar:
-- ► gelecek bilimsel
+- gelecek bilimsel
 ozellikler:
 - - sıfat
 ornekler:

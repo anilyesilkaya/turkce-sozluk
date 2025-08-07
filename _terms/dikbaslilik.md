@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dikbaşlı olma durumu; dikkafalılık
-- ► kurumluluk
+- kurumluluk
 ozellikler:
 - - isim
 - - isim

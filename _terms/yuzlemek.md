@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Kusurunu veya suçunu yüzüne karşı söyleyip birini utandırmak
-- ► şımartmak
+- şımartmak
 - Yastık, yorgan vb.nin yüzlerini değiştirmek
 ozellikler:
 - - -i

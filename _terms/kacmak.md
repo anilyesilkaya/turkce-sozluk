@@ -8,10 +8,10 @@ anlamlar:
 - Hızla koşup bir yere saklanmak
 - Kimseye bildirmeden bulunduğu yerden ayrılmak; firar etmek, gazlamak
 - Kendini göstermemek, rastlaşmamaya çalışmak
-- ► kaçınmak
+- kaçınmak
 - Gaz, sıvı vb. şeyler sızmak
 - İpi kopmak
-- ► girmek
+- girmek
 - Bir yana doğru kaymak
 - Görünmeden gitmek; savuşmak, sıvışmak
 - Hızlı koşmak

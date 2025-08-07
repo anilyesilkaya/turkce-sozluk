@@ -5,7 +5,7 @@ slug: gunu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kıskançlık
+- kıskançlık
 - Zamanından önce doğan yavru
 ozellikler:
 - - isim

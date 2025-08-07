@@ -5,7 +5,7 @@ slug: cag-kebabi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► Oltu kebabı
+- Oltu kebabı
 ozellikler:
 - - isim
 ornekler:

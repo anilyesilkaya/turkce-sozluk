@@ -5,7 +5,7 @@ slug: mihlamak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivilemek
+- çivilemek
 - Birini silahla yaralamak veya öldürmek
 - Altın, gümüş vb. taşları metal yuvalara işlemek
 - Birini veya bir şeyi bir yerden ayrılamaz, kıpırdayamaz duruma getirmek

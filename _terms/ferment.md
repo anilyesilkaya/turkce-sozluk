@@ -5,7 +5,7 @@ slug: ferment
 letter: F
 lisan: Fransızca ferment
 anlamlar:
-- ► maya (I)
+- maya (I)
 ozellikler:
 - - isim
   - kimya

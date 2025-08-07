@@ -5,7 +5,7 @@ slug: bibaht
 letter: B
 lisan: Farsça bībaḫt
 anlamlar:
-- ► bahtsız
+- bahtsız
 ozellikler:
 - - sıfat
   - eskimiş

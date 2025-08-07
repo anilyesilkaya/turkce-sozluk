@@ -5,7 +5,7 @@ slug: tavukgotu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► siğil
+- siğil
 ozellikler:
 - - isim
   - kaba konuşmada

@@ -5,7 +5,7 @@ slug: bag-fiil
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zarf-fiil
+- zarf-fiil
 ozellikler:
 - - isim
   - dil bilgisi

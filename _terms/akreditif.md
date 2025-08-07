@@ -5,8 +5,8 @@ slug: akreditif
 letter: A
 lisan: Fransızca accréditif
 anlamlar:
-- ► güven yazısı
-- ► kredi mektubu
+- güven yazısı
+- kredi mektubu
 ozellikler:
 - - isim
   - ekonomi

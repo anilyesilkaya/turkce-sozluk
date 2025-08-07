@@ -5,7 +5,7 @@ slug: guvenirlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güvenilirlik
+- güvenilirlik
 - Yapılan bir ölçümün hatadan arınmışlık düzeyi
 ozellikler:
 - - isim

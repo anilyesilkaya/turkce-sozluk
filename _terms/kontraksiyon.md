@@ -5,7 +5,7 @@ slug: kontraksiyon
 letter: K
 lisan: Fransızca contraction
 anlamlar:
-- ► ünlü kaynaşması
+- ünlü kaynaşması
 ozellikler:
 - - isim
   - dil bilimi

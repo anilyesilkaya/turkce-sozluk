@@ -5,7 +5,7 @@ slug: vaziikanun
 letter: V
 lisan: Arapça vāżiʿ + ḳānūn
 anlamlar:
-- ► yasa koyucu
+- yasa koyucu
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: simsiyah
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kapkara
+- kapkara
 ozellikler:
 - - sıfat
 ornekler:

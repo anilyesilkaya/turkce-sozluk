@@ -5,7 +5,7 @@ slug: iyonosfer
 letter: I
 lisan: Fransızca ionosphère
 anlamlar:
-- ► iyon yuvarı
+- iyon yuvarı
 ozellikler:
 - - isim
   - gök bilimi

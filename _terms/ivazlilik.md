@@ -5,7 +5,7 @@ slug: ivazlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ödünlülük
+- ödünlülük
 ozellikler:
 - - isim
 ornekler:

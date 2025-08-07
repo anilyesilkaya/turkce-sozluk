@@ -5,7 +5,7 @@ slug: cevirim-senaryosu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çekim senaryosu
+- çekim senaryosu
 ozellikler:
 - - isim
   - sinema

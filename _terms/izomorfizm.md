@@ -5,7 +5,7 @@ slug: izomorfizm
 letter: I
 lisan: Fransızca isomorphisme
 anlamlar:
-- ► eş biçimlilik
+- eş biçimlilik
 ozellikler:
 - - isim
   - kimya

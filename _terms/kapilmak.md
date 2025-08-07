@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kapma işine konu olmak
-- ► sürüklenmek
+- sürüklenmek
 - Birine güvenip boş bulunarak aldanmak
 - Bir kimseye tutulmak, bağlanmak, aşırı sevgi duymak
 - Bir şeyin veya kimsenin güçlü etkisinde kalmak

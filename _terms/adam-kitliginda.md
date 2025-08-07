@@ -5,7 +5,7 @@ slug: adam-kitliginda
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adam yokluğunda
+- adam yokluğunda
 ozellikler:
 - - zarf
   - mecaz

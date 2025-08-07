@@ -5,7 +5,7 @@ slug: ictimaiyat
 letter: I
 lisan: Arapça ictimāʿiyyāt
 anlamlar:
-- ► toplum bilimi
+- toplum bilimi
 ozellikler:
 - - isim
   - eskimiş

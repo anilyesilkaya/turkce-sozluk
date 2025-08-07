@@ -5,9 +5,9 @@ slug: defetmek
 letter: D
 lisan: Arapça defʿ + Türkçe etmek
 anlamlar:
-- ► kovmak
-- ► savmak
-- ► savuşturmak
+- kovmak
+- savmak
+- savuşturmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

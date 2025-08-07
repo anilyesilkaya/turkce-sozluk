@@ -5,7 +5,7 @@ slug: maharetsizce
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► beceriksizce
+- beceriksizce
 ozellikler:
 - - zarf
 ornekler:

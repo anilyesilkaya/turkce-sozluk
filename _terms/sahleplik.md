@@ -5,7 +5,7 @@ slug: sahleplik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saleplik
+- saleplik
 ozellikler:
 - - isim
 ornekler:

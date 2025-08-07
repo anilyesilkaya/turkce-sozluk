@@ -5,7 +5,7 @@ slug: koz-helvasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koz helva
+- koz helva
 ozellikler:
 - - isim
 ornekler:

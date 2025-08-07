@@ -5,7 +5,7 @@ slug: tuymek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sıvışmak
+- sıvışmak
 ozellikler:
 - - nesnesiz
   - argo

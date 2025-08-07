@@ -5,7 +5,7 @@ slug: coktandir
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çoktan
+- çoktan
 ozellikler:
 - - zarf
 ornekler:

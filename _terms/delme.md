@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Delmek işi
 - Delinerek yapılmış
-- ► yelek
+- yelek
 ozellikler:
 - - isim
 - - isim

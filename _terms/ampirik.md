@@ -5,9 +5,9 @@ slug: ampirik
 letter: A
 lisan: Fransızca empirique
 anlamlar:
-- ► görgül
-- ► deneysel
-- ► deneyimsel
+- görgül
+- deneysel
+- deneyimsel
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: muvesvislik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kuruntululuk
+- kuruntululuk
 ozellikler:
 - - isim
 ornekler:

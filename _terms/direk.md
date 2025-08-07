@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Ağaçtan veya demirden yapılan uzun ve kalın destek
-- ► sütun
+- sütun
 - Değerli, saygın, önde gelen kimse
 ozellikler:
 - - isim

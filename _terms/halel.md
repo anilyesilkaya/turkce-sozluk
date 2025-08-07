@@ -5,7 +5,7 @@ slug: halel
 letter: H
 lisan: Arapça ḫalel
 anlamlar:
-- ► bozukluk
+- bozukluk
 ozellikler:
 - - isim
   - eskimiş

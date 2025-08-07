@@ -5,7 +5,7 @@ slug: surem
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mevsim
+- mevsim
 - Özellikleri kesintisiz olarak bir yerden bir yere değişen veya aynı kalan ortam
 ozellikler:
 - - isim

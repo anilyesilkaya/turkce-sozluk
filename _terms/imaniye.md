@@ -5,7 +5,7 @@ slug: imaniye
 letter: I
 lisan: Arapça īmāniyye
 anlamlar:
-- ► inancılık
+- inancılık
 ozellikler:
 - - isim
   - eskimiş

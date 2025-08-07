@@ -5,7 +5,7 @@ slug: faydasiz-yere
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

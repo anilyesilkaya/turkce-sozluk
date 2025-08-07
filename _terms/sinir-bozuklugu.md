@@ -5,7 +5,7 @@ slug: sinir-bozuklugu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sinirlilik
+- sinirlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: klonlamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kopyalamak
+- kopyalamak
 ozellikler:
 - - nesnesiz
   - biyoloji

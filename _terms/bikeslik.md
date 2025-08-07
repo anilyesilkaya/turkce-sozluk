@@ -5,7 +5,7 @@ slug: bikeslik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kimsesizlik
+- kimsesizlik
 ozellikler:
 - - isim
 ornekler:

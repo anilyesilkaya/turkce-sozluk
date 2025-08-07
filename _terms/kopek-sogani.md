@@ -5,7 +5,7 @@ slug: kopek-sogani
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yabani sarımsak
+- yabani sarımsak
 ozellikler:
 - - isim
   - bitki bilimi

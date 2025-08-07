@@ -5,7 +5,7 @@ slug: masa-topu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► masa tenisi
+- masa tenisi
 ozellikler:
 - - isim
   - spor

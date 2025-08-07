@@ -5,7 +5,7 @@ slug: izzetuikram
 letter: I
 lisan: Arapça ʿizzet + ikrām
 anlamlar:
-- ► ağırlama
+- ağırlama
 ozellikler:
 - - isim
   - eskimiş

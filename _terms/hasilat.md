@@ -5,8 +5,8 @@ slug: hasilat
 letter: H
 lisan: Arapça ḥāṣilāt
 anlamlar:
-- ► ürün
-- ► gelir
+- ürün
+- gelir
 ozellikler:
 - - isim
 - - isim

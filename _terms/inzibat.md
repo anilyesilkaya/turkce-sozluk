@@ -5,7 +5,7 @@ slug: inzibat
 letter: I
 lisan: Arapça inżibāṭ
 anlamlar:
-- ► disiplin
+- disiplin
 - Gözaltında tutma
 - Silahlı kuvvetlerde, ordudaki düzeni sağlamak amacıyla görevlendirilmiş er
 ozellikler:

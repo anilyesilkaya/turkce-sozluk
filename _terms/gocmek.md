@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Yerleşmek amacıyla mahalle, köy, şehir veya ülke değiştirmek
 - Bazı hayvanlar iklime göre topluca yer değiştirmek
-- ► çökmek
-- ► ölmek
+- çökmek
+- ölmek
 ozellikler:
 - - -e
   - -den

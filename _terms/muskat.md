@@ -5,7 +5,7 @@ slug: muskat
 letter: M
 lisan: Fransızca muscade
 anlamlar:
-- ► Hint cevizi
+- Hint cevizi
 ozellikler:
 - - isim
   - bitki bilimi

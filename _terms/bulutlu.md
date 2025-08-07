@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bulutlarla kaplanmış, bulutlanmış
 - Karışık, net olmayan (bellek)
-- ► bulanık
+- bulanık
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: dagdagasiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gürültüsüz patırtısız
+- gürültüsüz patırtısız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: traksiyon
 letter: T
 lisan: Fransızca traction
 anlamlar:
-- ► çekim
+- çekim
 - Kırık kol veya bacağı yataktan yukarıya doğru kaldıran araç
 ozellikler:
 - - isim

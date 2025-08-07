@@ -5,7 +5,7 @@ slug: genel-dil-bilimi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► dil bilimi
+- dil bilimi
 ozellikler:
 - - isim
   - dil bilimi

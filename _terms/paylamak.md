@@ -5,7 +5,7 @@ slug: paylamak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► azarlamak
+- azarlamak
 ozellikler:
 - - -i
 ornekler:

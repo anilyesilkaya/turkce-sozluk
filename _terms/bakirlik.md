@@ -5,7 +5,7 @@ slug: bakirlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kızlık
+- kızlık
 - İşlenmemiş olma durumu
 ozellikler:
 - - isim

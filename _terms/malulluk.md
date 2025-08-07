@@ -5,7 +5,7 @@ slug: malulluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sakatlık
+- sakatlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: malkarca
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Karaçay-Balkar Türkçesi
+- Karaçay-Balkar Türkçesi
 ozellikler:
 - - isim
 ornekler:

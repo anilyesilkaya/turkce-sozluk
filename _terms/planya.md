@@ -6,7 +6,7 @@ letter: P
 lisan: Rumca
 anlamlar:
 - Kabası alınmış ağaçların veya tahtaların yüzeyleri üzerindeki pürüzleri gidermeye yarayan, üstünde bir sapı bulunan marangoz rendesi
-- ► planya tezgâhı
+- planya tezgâhı
 ozellikler:
 - - isim
 - - isim

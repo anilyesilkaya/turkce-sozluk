@@ -8,7 +8,7 @@ anlamlar:
 - Bir nesne üzerine sürülen bir şey yüzünden kirlenmek
 - Bir şey diğer bir şeyin üstüne sürülmek; sıvaşmak, sıvışmak
 - Hastalık geçmek, sirayet etmek, girmek
-- ► sataşmak
+- sataşmak
 - İstemeden veya rastlantı sonucu bir işe karışmak
 ozellikler:
 - - nesnesiz

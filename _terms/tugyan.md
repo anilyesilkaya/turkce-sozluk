@@ -6,8 +6,8 @@ letter: T
 lisan: Arapça ṭuġyān
 anlamlar:
 - Akarsuyun taşması, kabarması
-- ► taşkınlık
-- ► azgınlık
+- taşkınlık
+- azgınlık
 ozellikler:
 - - isim
   - eskimiş

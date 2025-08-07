@@ -5,7 +5,7 @@ slug: velakin
 letter: V
 lisan: Arapça velākīn
 anlamlar:
-- ► ama
+- ama
 ozellikler:
 - - bağlaç
 ornekler:

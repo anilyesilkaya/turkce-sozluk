@@ -5,7 +5,7 @@ slug: heccav
 letter: H
 lisan: Arapça heccāv
 anlamlar:
-- ► yergici
+- yergici
 ozellikler:
 - - isim
   - eskimiş

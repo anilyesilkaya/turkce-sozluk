@@ -5,7 +5,7 @@ slug: kaybetmek
 letter: K
 lisan: Arapça ġayb + Türkçe etmek
 anlamlar:
-- ► yitirmek
+- yitirmek
 - Bir işte, bir uğraşta başarısızlığa uğramak; yenilmek (II)
 ozellikler:
 - - -i

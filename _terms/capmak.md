@@ -5,7 +5,7 @@ slug: capmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► koşturmak
+- koşturmak
 - Akın etmek, koşmak
 ozellikler:
 - - -i

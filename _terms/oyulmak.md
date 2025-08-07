@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Oyma işi yapılmak
-- ► kazıklanmak
+- kazıklanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

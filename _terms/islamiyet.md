@@ -5,7 +5,7 @@ slug: islamiyet
 letter: İ
 lisan: Arapça islāmiyyet
 anlamlar:
-- ► Müslümanlık
+- Müslümanlık
 ozellikler:
 - - isim
 ornekler:

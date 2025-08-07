@@ -5,7 +5,7 @@ slug: baglilasim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağıntı
+- bağıntı
 ozellikler:
 - - isim
   - biyoloji

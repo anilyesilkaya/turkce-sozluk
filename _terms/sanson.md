@@ -6,8 +6,8 @@ letter: Ş
 lisan: Fransızca chanson
 anlamlar:
 - Kıta adı verilen ve şarkı gibi söylenen mısra dizisi
-- ► şarkı
-- ► ezgi
+- şarkı
+- ezgi
 ozellikler:
 - - isim
   - müzik

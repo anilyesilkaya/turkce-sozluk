@@ -5,7 +5,7 @@ slug: bortlemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kabarmak
+- kabarmak
 ozellikler:
 - - nesnesiz
 ornekler:

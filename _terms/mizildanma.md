@@ -5,7 +5,7 @@ slug: mizildanma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mızırdanma
+- mızırdanma
 ozellikler:
 - - isim
 ornekler:

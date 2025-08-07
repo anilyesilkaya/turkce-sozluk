@@ -7,7 +7,7 @@ lisan: Arapça ḫāriciyye
 anlamlar:
 - Ameliyatla tedavi edilen hastalıklar
 - Hastanelerde bu hastalıklarla ilgilenen bölüm
-- ► dış işleri
+- dış işleri
 ozellikler:
 - - isim
   - tıp

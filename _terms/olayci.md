@@ -5,7 +5,7 @@ slug: olayci
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► görüngücü
+- görüngücü
 ozellikler:
 - - sıfat
   - felsefe

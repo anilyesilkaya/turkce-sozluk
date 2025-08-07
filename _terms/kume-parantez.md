@@ -5,7 +5,7 @@ slug: kume-parantez
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küme ayraç
+- küme ayraç
 ozellikler:
 - - isim
 ornekler:

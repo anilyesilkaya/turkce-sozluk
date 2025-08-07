@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Türetmek işi
 - 'Kelimelerin kök veya gövdelerine yapım eki getirilerek kelime kurma; iştikak: göz-lük-çü, söyle-n-ti, sev-gi vb'
-- ► ihtira
+- ihtira
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: sitayis
 letter: S
 lisan: Farsça sitāyiş
 anlamlar:
-- ► övme
+- övme
 ozellikler:
 - - isim
   - eskimiş

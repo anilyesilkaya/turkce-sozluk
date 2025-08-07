@@ -5,7 +5,7 @@ slug: iplik-iplik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yol yol
+- yol yol
 ozellikler:
 - - zarf
 ornekler:

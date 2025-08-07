@@ -5,7 +5,7 @@ slug: bilgilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ansiklopedi
+- ansiklopedi
 ozellikler:
 - - isim
 ornekler:

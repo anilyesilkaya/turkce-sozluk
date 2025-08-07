@@ -5,7 +5,7 @@ slug: maden-komuru
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► taş kömürü
+- taş kömürü
 ozellikler:
 - - isim
   - jeoloji

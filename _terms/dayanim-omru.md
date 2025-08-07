@@ -5,7 +5,7 @@ slug: dayanim-omru
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dayanma ömrü
+- dayanma ömrü
 ozellikler:
 - - isim
   - fizik

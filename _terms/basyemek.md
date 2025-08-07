@@ -5,7 +5,7 @@ slug: basyemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ana yemek
+- ana yemek
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bikes
 letter: B
 lisan: Farsça bīkes
 anlamlar:
-- ► kimsesiz
+- kimsesiz
 - Kimsesiz bir biçimde
 ozellikler:
 - - sıfat

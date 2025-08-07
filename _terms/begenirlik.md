@@ -5,7 +5,7 @@ slug: begenirlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beğenirlilik
+- beğenirlilik
 ozellikler:
 - - isim
 ornekler:

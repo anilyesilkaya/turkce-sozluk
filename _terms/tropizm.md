@@ -5,7 +5,7 @@ slug: tropizm
 letter: T
 lisan: Fransızca tropisme
 anlamlar:
-- ► yönelim
+- yönelim
 ozellikler:
 - - isim
   - biyoloji

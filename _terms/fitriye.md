@@ -5,7 +5,7 @@ slug: fitriye
 letter: F
 lisan: Arapça fiṭriyye
 anlamlar:
-- ► doğuştancılık
+- doğuştancılık
 ozellikler:
 - - isim
   - eskimiş

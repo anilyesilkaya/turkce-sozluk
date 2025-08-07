@@ -5,7 +5,7 @@ slug: uslamlamak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► usa vurmak
+- usa vurmak
 ozellikler:
 - - -i
   - ruh bilimi

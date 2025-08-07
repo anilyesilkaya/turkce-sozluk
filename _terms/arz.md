@@ -5,8 +5,8 @@ slug: arz
 letter: A
 lisan: Arapça arż
 anlamlar:
-- ► dünya
-- ► ülke
+- dünya
+- ülke
 ozellikler:
 - - isim
   - eskimiş

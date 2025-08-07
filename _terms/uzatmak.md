@@ -8,7 +8,7 @@ anlamlar:
 - Uzamasına sebep olmak, uzamasını sağlamak
 - Başı, kolları veya bacakları bir yere yöneltmek
 - Bir şeyi vermek için birine yöneltmek; atmak
-- ► germek
+- germek
 - Konuşmayı, tartışmayı sürdürmek
 - Vermek, göndermek
 - Süreyi artırmak, temdit etmek

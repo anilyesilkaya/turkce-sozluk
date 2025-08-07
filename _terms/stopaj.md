@@ -5,7 +5,7 @@ slug: stopaj
 letter: S
 lisan: Fransızca stoppage
 anlamlar:
-- ► ön kesinti
+- ön kesinti
 ozellikler:
 - - isim
   - ticaret

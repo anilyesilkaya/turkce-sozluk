@@ -5,7 +5,7 @@ slug: fiziki
 letter: F
 lisan: Fransızca physique + Arapça -ī
 anlamlar:
-- ► fiziksel
+- fiziksel
 ozellikler:
 - - sıfat
   - eskimiş

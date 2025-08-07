@@ -5,7 +5,7 @@ slug: niyabet
 letter: N
 lisan: Arapça niyābet
 anlamlar:
-- ► naiplik
+- naiplik
 ozellikler:
 - - isim
   - eskimiş

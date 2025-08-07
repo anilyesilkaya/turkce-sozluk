@@ -5,7 +5,7 @@ slug: hatirlatilma
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anımsatılma
+- anımsatılma
 ozellikler:
 - - isim
 ornekler:

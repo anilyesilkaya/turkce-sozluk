@@ -5,7 +5,7 @@ slug: ocakci
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ateşçi
+- ateşçi
 - Ocak bacaları temizleyicisi
 - Kahvelerde ocakbaşında kahve, çay vb. şeyleri hazırlayan kimse
 ozellikler:

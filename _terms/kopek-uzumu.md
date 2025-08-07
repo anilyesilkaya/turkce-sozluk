@@ -5,7 +5,7 @@ slug: kopek-uzumu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► it üzümü
+- it üzümü
 ozellikler:
 - - isim
   - bitki bilimi

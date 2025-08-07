@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçine almak
-- ► kuşatmak
+- kuşatmak
 - Bir desen veya resimde çevre çizgisini iyice belirterek çizmek
 - Bir konunun sınırlarını çizmek, tahdit etmek
 ozellikler:

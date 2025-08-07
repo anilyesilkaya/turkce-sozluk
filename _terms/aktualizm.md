@@ -5,7 +5,7 @@ slug: aktualizm
 letter: A
 lisan: Fransızca actualisme
 anlamlar:
-- ► edimselcilik
+- edimselcilik
 - Kuvveden fiile geçmiş olan hâl
 ozellikler:
 - - isim

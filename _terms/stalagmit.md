@@ -5,7 +5,7 @@ slug: stalagmit
 letter: S
 lisan: Fransızca stalagmite
 anlamlar:
-- ► dikit
+- dikit
 ozellikler:
 - - isim
   - mineraloji

@@ -5,7 +5,7 @@ slug: harami
 letter: H
 lisan: Arapça ḥarāmī
 anlamlar:
-- ► haydut
+- haydut
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: ziynet
 letter: Z
 lisan: Arapça zīnet
 anlamlar:
-- ► süs
+- süs
 ozellikler:
 - - isim
 ornekler:

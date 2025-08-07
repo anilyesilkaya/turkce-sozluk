@@ -5,7 +5,7 @@ slug: alkalimetre
 letter: A
 lisan: Fransızca alcalimètre
 anlamlar:
-- ► alkaliölçer
+- alkaliölçer
 ozellikler:
 - - isim
   - kimya

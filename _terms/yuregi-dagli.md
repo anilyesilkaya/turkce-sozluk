@@ -5,7 +5,7 @@ slug: yuregi-dagli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüreği yaralı
+- yüreği yaralı
 ozellikler:
 - - sıfat
   - mecaz

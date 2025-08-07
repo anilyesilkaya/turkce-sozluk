@@ -5,7 +5,7 @@ slug: obturator
 letter: O
 lisan: Fransızca obtureteur
 anlamlar:
-- ► örtücü
+- örtücü
 ozellikler:
 - - isim
 ornekler:

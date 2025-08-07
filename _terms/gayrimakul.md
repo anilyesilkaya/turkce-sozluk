@@ -5,7 +5,7 @@ slug: gayrimakul
 letter: G
 lisan: Arapça ġayr + maʿḳūl
 anlamlar:
-- ► akıl dışı
+- akıl dışı
 ozellikler:
 - - sıfat
   - eskimiş

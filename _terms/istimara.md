@@ -5,7 +5,7 @@ slug: istimara
 letter: I
 lisan: İtalyanca stimare
 anlamlar:
-- ► ölçme
+- ölçme
 - Bir kabın hacmini veya alabileceği miktarı hesaplama
 ozellikler:
 - - isim

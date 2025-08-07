@@ -5,7 +5,7 @@ slug: yaziksiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► günahsız
+- günahsız
 ozellikler:
 - - sıfat
 ornekler:

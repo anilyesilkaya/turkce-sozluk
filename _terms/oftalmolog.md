@@ -5,7 +5,7 @@ slug: oftalmolog
 letter: O
 lisan: Fransızca ophtalmologue
 anlamlar:
-- ► göz bilimci
+- göz bilimci
 ozellikler:
 - - isim
   - tıp

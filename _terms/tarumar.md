@@ -5,7 +5,7 @@ slug: tarumar
 letter: T
 lisan: Farsça tārmār
 anlamlar:
-- ► darmadağın
+- darmadağın
 ozellikler:
 - - sıfat
   - eskimiş

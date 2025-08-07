@@ -5,7 +5,7 @@ slug: ses-aleti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ses aygıtı
+- ses aygıtı
 ozellikler:
 - - isim
 ornekler:

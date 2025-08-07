@@ -5,7 +5,7 @@ slug: poligam
 letter: P
 lisan: Fransızca polygame
 anlamlar:
-- ► çok eşli
+- çok eşli
 ozellikler:
 - - sıfat
   - toplum bilimi

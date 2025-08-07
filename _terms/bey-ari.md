@@ -5,7 +5,7 @@ slug: bey-ari
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► arı beyi
+- arı beyi
 ozellikler:
 - - isim
 ornekler:

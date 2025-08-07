@@ -5,7 +5,7 @@ slug: eseysel
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► cinsel
+- cinsel
 ozellikler:
 - - sıfat
 ornekler:

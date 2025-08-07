@@ -5,7 +5,7 @@ slug: sihhi-imdat
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ilk yardım
+- ilk yardım
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Şişelenmiş bazı içeceklerin kapaklarını açmaya yarayan araç
 - Teneke kutu içinde korunmuş yiyeceklerin kapağını açmaya yarayan araç
-- ► anahtar
+- anahtar
 ozellikler:
 - - isim
 - - isim

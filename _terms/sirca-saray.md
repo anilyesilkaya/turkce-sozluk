@@ -5,7 +5,7 @@ slug: sirca-saray
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sırça köşk
+- sırça köşk
 ozellikler:
 - - isim
 ornekler:

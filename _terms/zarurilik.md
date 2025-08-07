@@ -5,8 +5,8 @@ slug: zarurilik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zorunluluk
-- ► gereklilik
+- zorunluluk
+- gereklilik
 ozellikler:
 - - isim
 - - isim

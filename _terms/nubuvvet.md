@@ -5,7 +5,7 @@ slug: nubuvvet
 letter: N
 lisan: Arapça nubuvvet
 anlamlar:
-- ► peygamberlik
+- peygamberlik
 ozellikler:
 - - isim
   - eskimiş

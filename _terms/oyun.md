@@ -11,12 +11,12 @@ anlamlar:
 - Seslendirilmek veya sahnede oynanmak için hazırlanmış eser; temsil, piyes
 - Bedence ve kafaca yetenekleri geliştirmek amacıyla yapılan, çevikliğe dayanan her türlü yarışma
 - Şaşkınlık uyandırıcı hüner
-- ► kumar
+- kumar
 - Güreşte rakibini yenmek için yapılan türlü biçimlerde şaşırtıcı hareket
 - Teniste, tavlada taraflardan birinin belirli sayı kazanmasıyla elde edilen sonuç
-- ► entrika
+- entrika
 - Hareketten veya kullanılıştan gelen çeşitlilik, aldatıcı görünüş
-- ► hile
+- hile
 ozellikler:
 - - isim
 - - isim

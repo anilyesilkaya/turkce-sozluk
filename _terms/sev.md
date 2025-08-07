@@ -5,8 +5,8 @@ slug: sev
 letter: Ş
 lisan: Farsça şīb
 anlamlar:
-- ► eğik
-- ► bayır
+- eğik
+- bayır
 ozellikler:
 - - sıfat
   - eskimiş

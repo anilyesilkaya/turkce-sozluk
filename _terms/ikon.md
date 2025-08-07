@@ -6,7 +6,7 @@ letter: I
 lisan: Fransızca icône
 anlamlar:
 - Bir programı, veriyi, görüntüyü veya filmi simgeleyen ekran üzerindeki resimcik
-- ► ikona
+- ikona
 ozellikler:
 - - isim
   - bilişim

@@ -5,7 +5,7 @@ slug: ciger-acisi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► evlat acısı
+- evlat acısı
 ozellikler:
 - - isim
   - mecaz

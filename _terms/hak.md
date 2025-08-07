@@ -5,7 +5,7 @@ slug: hak
 letter: H
 lisan: Arapça ḥaḳḳ
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - din bilimi

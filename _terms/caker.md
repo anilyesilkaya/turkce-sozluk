@@ -5,7 +5,7 @@ slug: caker
 letter: Ç
 lisan: Farsça çāker
 anlamlar:
-- ► köle
+- köle
 ozellikler:
 - - isim
   - eskimiş

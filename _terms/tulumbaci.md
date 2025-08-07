@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Mahallelerde bulundurulan yangın tulumbalarını, yangın olan yerlere götüren ve orada yangının söndürülmesine yardım eden kimse
 - Tulumba yapan, satan veya onaran kimse
-- ► külhanbeyi
+- külhanbeyi
 ozellikler:
 - - isim
   - eskimiş

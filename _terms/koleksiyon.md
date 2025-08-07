@@ -7,7 +7,7 @@ lisan: Fransızca collection
 anlamlar:
 - Öğrenme, yarar sağlama veya zevk amacıyla bir araya getirilmiş ve özelliklerine göre sınıflara ayrılmış nesnelerin bütünü; derlem
 - Modaevlerinin giyimdeki yenilikleri tanıtmak için düzenlediği defilelerde gösterilen modellerin bütünü
-- ► derme
+- derme
 ozellikler:
 - - isim
 - - isim

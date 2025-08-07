@@ -5,7 +5,7 @@ slug: isim-govdesi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ad gövdesi
+- ad gövdesi
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: istem
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► isteme
+- isteme
 - Tüketicinin piyasadan mal çekmesi
 - İrade veya isteğin eylem durumunda belirmesi
 ozellikler:

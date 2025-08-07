@@ -5,9 +5,9 @@ slug: cidar
 letter: C
 lisan: Arapça cidār
 anlamlar:
-- ► duvar
-- ► zar (I)
-- ► kenar
+- duvar
+- zar (I)
+- kenar
 ozellikler:
 - - isim
   - eskimiş

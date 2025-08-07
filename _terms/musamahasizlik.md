@@ -5,7 +5,7 @@ slug: musamahasizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hoşgörüsüzlük
+- hoşgörüsüzlük
 ozellikler:
 - - isim
 ornekler:

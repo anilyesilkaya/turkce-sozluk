@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kitapların yerleştirildiği raflardan oluşan mobilya; kütüphane
-- ► kütüphane
+- kütüphane
 - Evlerde ve iş yerlerinde içinde kitapların bulunduğu oda
 - Kitap yapmaya elverişli
 - Kitap olabilecek kadar

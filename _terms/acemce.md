@@ -5,7 +5,7 @@ slug: acemce
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Farsça
+- Farsça
 - Bu dille yazılmış olan
 ozellikler:
 - - isim

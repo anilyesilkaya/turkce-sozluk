@@ -5,7 +5,7 @@ slug: addetme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sayma
+- sayma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: menus
 letter: M
 lisan: Arapça meʾnūs
 anlamlar:
-- ► öğür
+- öğür
 - Yabancılık çekmeyen, alışmış, alışık
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: musavir
 letter: M
 lisan: Arapça muşāvir
 anlamlar:
-- ► danışman
+- danışman
 ozellikler:
 - - isim
 ornekler:

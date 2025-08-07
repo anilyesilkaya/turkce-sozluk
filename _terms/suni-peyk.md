@@ -5,7 +5,7 @@ slug: suni-peyk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yapma uydu
+- yapma uydu
 ozellikler:
 - - isim
   - gök bilimi

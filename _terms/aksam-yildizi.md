@@ -5,7 +5,7 @@ slug: aksam-yildizi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

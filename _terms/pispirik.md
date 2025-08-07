@@ -5,7 +5,7 @@ slug: pispirik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pişti
+- pişti
 ozellikler:
 - - isim
 ornekler:

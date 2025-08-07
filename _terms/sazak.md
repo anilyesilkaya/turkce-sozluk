@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kuvvetli esen rüzgâr
 - Bataklık, sazlık alan
-- ► mersin
+- mersin
 ozellikler:
 - - isim
   - coğrafya

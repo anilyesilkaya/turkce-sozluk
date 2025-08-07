@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥavṣala
 anlamlar:
 - Kuşun kursağı
-- ► leğen
+- leğen
 - Zihnin bir şeyi anlama ve kavrama yetisi
 ozellikler:
 - - isim

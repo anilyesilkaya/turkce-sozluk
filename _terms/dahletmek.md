@@ -5,7 +5,7 @@ slug: dahletmek
 letter: D
 lisan: Arapça daḫl + Türkçe etmek
 anlamlar:
-- ► sataşmak
+- sataşmak
 - Karışmak, burnunu sokmak
 ozellikler:
 - - -e

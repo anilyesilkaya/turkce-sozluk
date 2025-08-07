@@ -8,7 +8,7 @@ anlamlar:
 - Midenin arkasında, diyaframın altında, sol böbreğin üstünde, yassı, uzunca, akyuvar üreten ve yıpranmış alyuvarları toplayan, damarlı, gevşek bir dokudan oluşmuş organ
 - Omurgalı hayvanlarda lenf bezine benzeyen ve kan damarları çok olan bir organ
 - Tekerlek biçimindeki kaşar peyniri
-- ► bal peteği
+- bal peteği
 ozellikler:
 - - isim
   - anatomi

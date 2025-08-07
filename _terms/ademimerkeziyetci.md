@@ -5,7 +5,7 @@ slug: ademimerkeziyetci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yerinden yönetimci
+- yerinden yönetimci
 ozellikler:
 - - sıfat
   - toplum bilimi

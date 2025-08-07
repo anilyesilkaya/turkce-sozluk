@@ -5,7 +5,7 @@ slug: surasi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şura
+- şura
 - Şu yönü, şu tarafı
 ozellikler:
 - - isim

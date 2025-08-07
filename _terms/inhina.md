@@ -5,7 +5,7 @@ slug: inhina
 letter: I
 lisan: Arapça inḥinā
 anlamlar:
-- ► eğrilme
+- eğrilme
 - Birine baş eğme, yumuşaklık gösterme
 ozellikler:
 - - isim

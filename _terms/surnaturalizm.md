@@ -5,7 +5,7 @@ slug: surnaturalizm
 letter: S
 lisan: Fransızca surnaturalisme
 anlamlar:
-- ► doğaüstücülük
+- doğaüstücülük
 ozellikler:
 - - isim
   - felsefe

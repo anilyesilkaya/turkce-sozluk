@@ -5,7 +5,7 @@ slug: sefirlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► elçilik
+- elçilik
 ozellikler:
 - - isim
 ornekler:

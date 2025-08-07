@@ -5,9 +5,9 @@ slug: musanna
 letter: M
 lisan: Arapça muṣannaʿ
 anlamlar:
-- ► sanatlı
-- ► uydurma
-- ► yapıntılı
+- sanatlı
+- uydurma
+- yapıntılı
 ozellikler:
 - - sıfat
 - - sıfat

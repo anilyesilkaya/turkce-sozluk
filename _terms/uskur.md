@@ -5,7 +5,7 @@ slug: uskur
 letter: U
 lisan: İngilizce screw
 anlamlar:
-- ► pervane
+- pervane
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hafif olma durumu; yeğnilik
-- ► ferahlık
+- ferahlık
 - Davranışları içinde bulunduğu toplumun ahlak anlayışına uymama durumu
 ozellikler:
 - - isim

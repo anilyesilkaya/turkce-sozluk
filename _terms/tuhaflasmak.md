@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tuhaf olmak, tuhaf duruma gelmek
-- ► şaşırmak
+- şaşırmak
 - Huyu değişmek
 ozellikler:
 - - nesnesiz

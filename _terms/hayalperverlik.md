@@ -5,7 +5,7 @@ slug: hayalperverlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayalcilik
+- hayalcilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sagaltici
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tedavici
+- tedavici
 ozellikler:
 - - isim
 ornekler:

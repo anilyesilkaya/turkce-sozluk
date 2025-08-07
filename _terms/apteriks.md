@@ -5,7 +5,7 @@ slug: apteriks
 letter: A
 lisan: Fransızca aptéryx
 anlamlar:
-- ► kivi (I)
+- kivi (I)
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: memleha
 letter: M
 lisan: Arapça memlaḥa
 anlamlar:
-- ► tuzla
+- tuzla
 ozellikler:
 - - isim
   - eskimiş

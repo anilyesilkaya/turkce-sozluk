@@ -5,7 +5,7 @@ slug: mutlak-sifir
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► salt sıfır
+- salt sıfır
 ozellikler:
 - - isim
   - kimya

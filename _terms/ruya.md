@@ -5,7 +5,7 @@ slug: ruya
 letter: R
 lisan: Arapça ruʾyā
 anlamlar:
-- ► düş
+- düş
 - Gerçekleşmesi imkânsız durum; hayal
 - Gerçekleşmesi beklenen ve istenen şey, umut
 ozellikler:

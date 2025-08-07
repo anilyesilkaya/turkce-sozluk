@@ -5,7 +5,7 @@ slug: serpelemek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sepelemek
+- sepelemek
 - Sürekli olarak ve az serpmek
 ozellikler:
 - - nesnesiz

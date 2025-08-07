@@ -5,7 +5,7 @@ slug: lehistanli
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► Polonyalı
+- Polonyalı
 ozellikler:
 - - isim
   - eskimiş

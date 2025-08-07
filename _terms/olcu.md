@@ -9,7 +9,7 @@ anlamlar:
 - Bu değerlendirmede kullanılan birim, ölçme birimi; mezür
 - Ölçme sonucu bulunan rakam
 - Belirlenmiş boyut; numara
-- ► ölçüt
+- ölçüt
 - Değer, itibar
 - Aşırı olmama, ılımlı, uygun olma durumu
 - Bir şiirdeki dizelerin hece ve durak bakımından denk oluşu; vezin

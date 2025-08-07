@@ -5,7 +5,7 @@ slug: maderzat
 letter: M
 lisan: Farsça māderzād
 anlamlar:
-- ► yaradılıştan
+- yaradılıştan
 ozellikler:
 - - sıfat
   - eskimiş

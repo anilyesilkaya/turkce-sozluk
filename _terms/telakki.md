@@ -5,7 +5,7 @@ slug: telakki
 letter: T
 lisan: Arapça telaḳḳī
 anlamlar:
-- ► anlayış
+- anlayış
 - Kabul etme
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sigara-kutusu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sigara tabakası
+- sigara tabakası
 ozellikler:
 - - isim
 ornekler:

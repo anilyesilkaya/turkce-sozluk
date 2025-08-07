@@ -5,7 +5,7 @@ slug: pul-koleksiyoncusu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pulcu
+- pulcu
 ozellikler:
 - - isim
 ornekler:

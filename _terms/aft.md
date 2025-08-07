@@ -5,7 +5,7 @@ slug: aft
 letter: A
 lisan: Fransızca aphte
 anlamlar:
-- ► pamukçuk
+- pamukçuk
 ozellikler:
 - - isim
   - tıp

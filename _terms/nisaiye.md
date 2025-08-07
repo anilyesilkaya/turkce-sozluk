@@ -5,7 +5,7 @@ slug: nisaiye
 letter: N
 lisan: Arapça nisāʾiyye
 anlamlar:
-- ► kadın hastalıkları
+- kadın hastalıkları
 ozellikler:
 - - isim
   - tıp

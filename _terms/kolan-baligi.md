@@ -5,7 +5,7 @@ slug: kolan-baligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mersin balığı
+- mersin balığı
 ozellikler:
 - - isim
   - hayvan bilimi

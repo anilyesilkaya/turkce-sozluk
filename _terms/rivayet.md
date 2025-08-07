@@ -5,7 +5,7 @@ slug: rivayet
 letter: R
 lisan: Arapça rivāyet
 anlamlar:
-- ► söylenti
+- söylenti
 - Bir olay, bir haber veya sözü nakletme
 ozellikler:
 - - isim

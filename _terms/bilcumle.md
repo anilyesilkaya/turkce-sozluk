@@ -5,7 +5,7 @@ slug: bilcumle
 letter: B
 lisan: Arapça bi'l-cumle
 anlamlar:
-- ► bütün
+- bütün
 ozellikler:
 - - sıfat
   - eskimiş

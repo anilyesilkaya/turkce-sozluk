@@ -5,7 +5,7 @@ slug: boyuna
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► uzunlamasına
+- uzunlamasına
 - Ara vermeden, sürekli olarak
 ozellikler:
 - - zarf

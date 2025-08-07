@@ -5,7 +5,7 @@ slug: tahtessuur
 letter: T
 lisan: Arapça taḥte'ş-şuʿūr
 anlamlar:
-- ► bilinçaltı
+- bilinçaltı
 ozellikler:
 - - isim
   - eskimiş

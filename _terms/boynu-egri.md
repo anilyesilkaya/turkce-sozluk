@@ -5,7 +5,7 @@ slug: boynu-egri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boynu bükük
+- boynu bükük
 ozellikler:
 - - sıfat
   - mecaz

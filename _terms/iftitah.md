@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iftitāḥ
 anlamlar:
 - Açma, açılma
-- ► başlama
+- başlama
 ozellikler:
 - - isim
   - din bilimi

@@ -6,7 +6,7 @@ letter: T
 lisan: Farsça tāb + ḫāne
 anlamlar:
 - Yoksul hastaların iyileştikten sonra nekahet dönemini geçirdikleri hayır kurumu
-- ► sera
+- sera
 ozellikler:
 - - mecaz
 - - mecaz

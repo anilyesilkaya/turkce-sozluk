@@ -5,7 +5,7 @@ slug: latin-harfleri
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► Latin alfabesi
+- Latin alfabesi
 ozellikler:
 - - isim
   - dil bilimi

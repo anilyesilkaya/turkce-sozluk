@@ -5,7 +5,7 @@ slug: dil-dalasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ağız dalaşı
+- ağız dalaşı
 ozellikler:
 - - isim
   - mecaz

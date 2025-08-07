@@ -7,7 +7,7 @@ lisan: Arapça iḳtibās
 anlamlar:
 - Ödünç alma
 - Ödünç alınan şey
-- ► alıntı
+- alıntı
 ozellikler:
 - - isim
 - - isim

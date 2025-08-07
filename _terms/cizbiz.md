@@ -5,7 +5,7 @@ slug: cizbiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cızbız köfte
+- cızbız köfte
 ozellikler:
 - - sıfat
 ornekler:

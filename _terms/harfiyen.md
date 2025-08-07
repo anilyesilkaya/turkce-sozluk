@@ -5,7 +5,7 @@ slug: harfiyen
 letter: H
 lisan: Arapça ḥarfiyyen
 anlamlar:
-- ► harfi harfine
+- harfi harfine
 ozellikler:
 - - zarf
 ornekler:

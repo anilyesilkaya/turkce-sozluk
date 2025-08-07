@@ -5,7 +5,7 @@ slug: tirasci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► palavracı
+- palavracı
 - Karşısındakini bıktırıncaya kadar lafa tutma huyu olan kimse
 ozellikler:
 - - sıfat

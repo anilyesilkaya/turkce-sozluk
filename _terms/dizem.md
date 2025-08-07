@@ -5,7 +5,7 @@ slug: dizem
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ritim
+- ritim
 ozellikler:
 - - isim
   - müzik

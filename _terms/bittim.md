@@ -5,7 +5,7 @@ slug: bittim
 letter: B
 lisan: Arapça buṭm
 anlamlar:
-- ► çitlembik
+- çitlembik
 ozellikler:
 - - isim
 ornekler:

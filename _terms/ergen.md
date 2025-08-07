@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Döl verebilecek duruma gelmiş olan; erin, yeni yetme, akil baliğ, baliğ
-- ► bekâr
+- bekâr
 ozellikler:
 - - sıfat
 - - sıfat

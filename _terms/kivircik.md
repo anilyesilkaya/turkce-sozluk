@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük küçük kıvrımları olan
-- ► kıvırcık marul
+- kıvırcık marul
 - Genellikle Trakya ve Marmara'da yetiştirilen, beyaz tüylü, ince kuyruklu bir tür koyun; kıvırcık koyun
 ozellikler:
 - - sıfat

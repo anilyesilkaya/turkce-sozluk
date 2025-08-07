@@ -5,7 +5,7 @@ slug: merkezi-islem-birimi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► işlemci
+- işlemci
 ozellikler:
 - - isim
   - bilişim

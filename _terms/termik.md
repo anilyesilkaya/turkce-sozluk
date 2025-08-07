@@ -5,7 +5,7 @@ slug: termik
 letter: T
 lisan: Fransızca thermique
 anlamlar:
-- ► ısıl
+- ısıl
 - Isının üretilmesini, iletilmesini ve kullanılmasını inceleyen fizik dalı
 ozellikler:
 - - sıfat

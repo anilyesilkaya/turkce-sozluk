@@ -5,7 +5,7 @@ slug: daussila
 letter: D
 lisan: Arapça dāʾ + ṣila
 anlamlar:
-- ► yurt özlemi
+- yurt özlemi
 ozellikler:
 - - isim
   - eskimiş

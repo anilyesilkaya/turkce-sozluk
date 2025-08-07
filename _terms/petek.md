@@ -10,7 +10,7 @@ anlamlar:
 - Isıtma tesisatında ısı dağıtımını, içinden sıcak su geçerek sağlayan dilim; radyatör
 - Minarelerde külah ile şerefe arasındaki bölüm
 - Balçıktan yapılan ve dikine duran sandık biçimindeki tahıl ambarı
-- ► arı kovanı
+- arı kovanı
 ozellikler:
 - - isim
 - - isim

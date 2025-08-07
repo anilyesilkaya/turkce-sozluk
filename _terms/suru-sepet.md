@@ -5,7 +5,7 @@ slug: suru-sepet
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► birçok
+- birçok
 ozellikler:
 - - sıfat
   - mecaz

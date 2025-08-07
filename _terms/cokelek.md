@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yağı alınmış süt veya yoğurdun kaynatılmasıyla elde edilen bir peynir türü; kesik, ekşimik, torak
-- ► çökelti
+- çökelti
 ozellikler:
 - - isim
 - - isim

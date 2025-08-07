@@ -5,7 +5,7 @@ slug: iskillenmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanmak
+- kuşkulanmak
 ozellikler:
 - - nesnesiz
 ornekler:

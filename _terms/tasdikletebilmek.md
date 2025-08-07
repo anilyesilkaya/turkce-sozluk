@@ -5,7 +5,7 @@ slug: tasdikletebilmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► onaylatabilmek
+- onaylatabilmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: mamafih
 letter: M
 lisan: Arapça maʿamāfīh
 anlamlar:
-- ► bununla birlikte
+- bununla birlikte
 ozellikler:
 - - zarf
 ornekler:

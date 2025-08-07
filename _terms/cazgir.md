@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Güreşecek olan pehlivanları yüksek sesle izleyicilere tanıtan ve dua okuyarak onları alana süren kimse
-- ► fitneci
+- fitneci
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: karindan-ayaklilar
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karından bacaklılar
+- karından bacaklılar
 ozellikler:
 - - isim
   - hayvan bilimi

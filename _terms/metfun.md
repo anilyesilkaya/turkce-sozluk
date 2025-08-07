@@ -5,7 +5,7 @@ slug: metfun
 letter: M
 lisan: Arapça medfūn
 anlamlar:
-- ► gömülü
+- gömülü
 ozellikler:
 - - sıfat
   - eskimiş

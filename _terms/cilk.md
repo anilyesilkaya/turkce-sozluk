@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Bozularak kokmuş (yumurta)
-- ► cıvık
+- cıvık
 - İrinlenmiş
 - Sözünün eri olmayan
 ozellikler:

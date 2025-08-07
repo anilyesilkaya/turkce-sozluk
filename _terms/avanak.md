@@ -5,7 +5,7 @@ slug: avanak
 letter: A
 lisan: Ermenice
 anlamlar:
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
 ornekler:

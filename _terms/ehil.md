@@ -6,8 +6,8 @@ letter: E
 lisan: Arapça ehl
 anlamlar:
 - Bir işte yetkili olan, bir işi yapan
-- ► sahip
-- ► eş
+- sahip
+- eş
 - Bir yerin, bir topluluğun halkından olanlar
 ozellikler:
 - - isim

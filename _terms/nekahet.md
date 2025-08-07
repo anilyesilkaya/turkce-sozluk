@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça neḳāhet
 anlamlar:
 - Hastalıktan yeni kurtulmuş zayıf ve hâlsiz olan kimsenin durumu
-- ► durgunluk
+- durgunluk
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: rafineri
 letter: R
 lisan: Fransızca raffinerie
 anlamlar:
-- ► arıtımevi
+- arıtımevi
 ozellikler:
 - - isim
 ornekler:

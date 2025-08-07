@@ -5,7 +5,7 @@ slug: inec
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tekne, yukaç karşıtı
+- tekne, yukaç karşıtı
 ozellikler:
 - - isim
   - jeoloji

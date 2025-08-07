@@ -5,7 +5,7 @@ slug: evelallah
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 - Allah'a güvenerek; evvelallah
 ozellikler:
 - - zarf

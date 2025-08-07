@@ -5,7 +5,7 @@ slug: kapitalist
 letter: K
 lisan: Fransızca capitaliste
 anlamlar:
-- ► sermayeci
+- sermayeci
 ozellikler:
 - - isim
   - ekonomi

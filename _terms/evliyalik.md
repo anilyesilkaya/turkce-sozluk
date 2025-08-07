@@ -5,7 +5,7 @@ slug: evliyalik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ermişlik
+- ermişlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: neoplatonizm
 letter: N
 lisan: Fransızca néoplatonisme
 anlamlar:
-- ► yeni Platonculuk
+- yeni Platonculuk
 ozellikler:
 - - isim
   - felsefe

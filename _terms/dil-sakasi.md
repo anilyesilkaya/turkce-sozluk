@@ -5,7 +5,7 @@ slug: dil-sakasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ağız şakası
+- ağız şakası
 ozellikler:
 - - isim
 ornekler:

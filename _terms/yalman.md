@@ -5,8 +5,8 @@ slug: yalman
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► eğik
-- ► sarp
+- eğik
+- sarp
 - Kesici ve batıcı araçların kesen veya batan bölümü
 ozellikler:
 - - sıfat

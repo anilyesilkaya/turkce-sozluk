@@ -5,7 +5,7 @@ slug: kozmogoni
 letter: K
 lisan: Fransızca cosmogonie
 anlamlar:
-- ► evren doğumu
+- evren doğumu
 ozellikler:
 - - isim
   - felsefe

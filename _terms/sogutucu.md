@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Soğutma özelliği olan; frigorifik
-- ► buzdolabı
+- buzdolabı
 - Bir makine veya yapıda, aşırı ısınmayı önlemek için yer alan düzen; soğutmaç
 ozellikler:
 - - sıfat

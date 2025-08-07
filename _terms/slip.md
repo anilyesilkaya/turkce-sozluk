@@ -5,7 +5,7 @@ slug: slip
 letter: S
 lisan: İngilizce slip
 anlamlar:
-- ► ödeme belgesi
+- ödeme belgesi
 ozellikler:
 - - isim
   - ticaret

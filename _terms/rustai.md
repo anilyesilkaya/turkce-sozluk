@@ -5,7 +5,7 @@ slug: rustai
 letter: R
 lisan: Farsça rūstā + Arapça -ī
 anlamlar:
-- ► köylü
+- köylü
 - Köylününkine benzer
 ozellikler:
 - - isim

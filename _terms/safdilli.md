@@ -5,7 +5,7 @@ slug: safdilli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - sıfat
 ornekler:

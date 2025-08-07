@@ -6,7 +6,7 @@ letter: S
 lisan: Farsça ser + āzād
 anlamlar:
 - Serbest, özgür
-- ► kaygısız
+- kaygısız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: dahiliyeci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç hastalıkları uzmanı
+- iç hastalıkları uzmanı
 ozellikler:
 - - isim
 ornekler:

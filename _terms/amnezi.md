@@ -5,7 +5,7 @@ slug: amnezi
 letter: A
 lisan: Fransızca amnésie
 anlamlar:
-- ► bellek yitimi
+- bellek yitimi
 ozellikler:
 - - isim
   - tıp

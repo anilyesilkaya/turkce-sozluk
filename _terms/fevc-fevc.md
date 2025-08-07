@@ -5,7 +5,7 @@ slug: fevc-fevc
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► akın akın
+- akın akın
 ozellikler:
 - - zarf
 ornekler:

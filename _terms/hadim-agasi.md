@@ -5,7 +5,7 @@ slug: hadim-agasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► harem ağası
+- harem ağası
 ozellikler:
 - - isim
   - tarih

@@ -5,7 +5,7 @@ slug: cidden
 letter: C
 lisan: Arapça cidden
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: ikinci-devre
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ikinci yarı
+- ikinci yarı
 ozellikler:
 - - isim
   - spor

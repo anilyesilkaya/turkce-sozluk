@@ -5,7 +5,7 @@ slug: egitsel-etkinlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğitici etkinlik
+- eğitici etkinlik
 ozellikler:
 - - isim
 ornekler:

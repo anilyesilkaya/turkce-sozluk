@@ -5,7 +5,7 @@ slug: senelerce
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yıllarca
+- yıllarca
 ozellikler:
 - - zarf
 ornekler:

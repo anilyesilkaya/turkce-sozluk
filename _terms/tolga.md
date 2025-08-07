@@ -5,7 +5,7 @@ slug: tolga
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► miğfer
+- miğfer
 ozellikler:
 - - isim
 ornekler:

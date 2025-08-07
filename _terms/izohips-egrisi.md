@@ -5,7 +5,7 @@ slug: izohips-egrisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► eş yükselti eğrisi
+- eş yükselti eğrisi
 ozellikler:
 - - isim
   - coğrafya

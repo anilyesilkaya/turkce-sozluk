@@ -5,7 +5,7 @@ slug: nasihatci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► öğütçü
+- öğütçü
 ozellikler:
 - - isim
 ornekler:

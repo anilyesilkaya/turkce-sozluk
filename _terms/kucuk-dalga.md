@@ -5,7 +5,7 @@ slug: kucuk-dalga
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► orta dalga
+- orta dalga
 ozellikler:
 - - isim
   - fizik

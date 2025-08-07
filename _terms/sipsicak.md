@@ -5,7 +5,7 @@ slug: sipsicak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sımsıcak
+- sımsıcak
 ozellikler:
 - - sıfat
 ornekler:

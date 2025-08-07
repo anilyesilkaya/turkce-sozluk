@@ -5,8 +5,8 @@ slug: hata
 letter: H
 lisan: Arapça ḫaṭāʾ
 anlamlar:
-- ► yanlış
-- ► yanlışlık
+- yanlış
+- yanlışlık
 - İstemeyerek ve bilmeyerek yapılan yanlış
 ozellikler:
 - - isim

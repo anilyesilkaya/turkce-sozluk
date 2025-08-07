@@ -5,7 +5,7 @@ slug: cikarseverlik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıkarcılık
+- çıkarcılık
 ozellikler:
 - - isim
 ornekler:

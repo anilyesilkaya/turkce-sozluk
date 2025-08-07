@@ -5,7 +5,7 @@ slug: isiklandirma
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► aydınlatma
+- aydınlatma
 ozellikler:
 - - isim
 ornekler:

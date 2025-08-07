@@ -5,7 +5,7 @@ slug: panc-nakisi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► panç işi
+- panç işi
 ozellikler:
 - - isim
 ornekler:

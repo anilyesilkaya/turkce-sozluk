@@ -5,7 +5,7 @@ slug: ucuncu-sinif
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üçüncü mevki
+- üçüncü mevki
 - Derecelendirmede üçüncü sırada olan
 - Nitelik olarak düşük seviyede olan
 ozellikler:

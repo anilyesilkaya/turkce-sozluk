@@ -5,8 +5,8 @@ slug: korner
 letter: K
 lisan: İngilizce corner
 anlamlar:
-- ► köşe
-- ► köşe vuruşu
+- köşe
+- köşe vuruşu
 ozellikler:
 - - isim
   - spor

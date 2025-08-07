@@ -7,7 +7,7 @@ lisan: Arapça taʿrife
 anlamlar:
 - Fiyat gösteren çizelge
 - Taşıtların gidiş geliş zamanlarını gösteren çizelge
-- ► tanıtmalık
+- tanıtmalık
 ozellikler:
 - - isim
 - - isim

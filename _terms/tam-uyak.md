@@ -5,7 +5,7 @@ slug: tam-uyak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tam kafiye
+- tam kafiye
 ozellikler:
 - - isim
   - edebiyat

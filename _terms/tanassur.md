@@ -5,7 +5,7 @@ slug: tanassur
 letter: T
 lisan: Arapça tanaṣṣur
 anlamlar:
-- ► Hristiyanlaşma
+- Hristiyanlaşma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: yardimci-docent
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► doktor öğretim üyesi
+- doktor öğretim üyesi
 ozellikler:
 - - isim
   - eskimiş

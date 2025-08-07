@@ -5,7 +5,7 @@ slug: nikris
 letter: N
 lisan: Arapça niḳrīs
 anlamlar:
-- ► damla hastalığı
+- damla hastalığı
 ozellikler:
 - - isim
   - eskimiş

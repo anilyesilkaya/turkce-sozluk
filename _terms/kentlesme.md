@@ -5,7 +5,7 @@ slug: kentlesme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehirleşme
+- şehirleşme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: karaim
 letter: K
 lisan: İbranice
 anlamlar:
-- ► Karay
+- Karay
 ozellikler:
 - - isim
 ornekler:

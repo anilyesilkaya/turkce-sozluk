@@ -5,7 +5,7 @@ slug: alemsumulluk
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► evrensellik
+- evrensellik
 ozellikler:
 - - isim
 ornekler:

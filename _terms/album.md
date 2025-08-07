@@ -7,7 +7,7 @@ lisan: Fransızca album
 anlamlar:
 - Fotoğraf, pul vb.ni dizip saklamaya yarayan bir defter türü; resimlik
 - Herhangi bir konu ile ilgili kısa açıklamalar verilerek resimler basılmış olan kitap
-- ► uzunçalar
+- uzunçalar
 ozellikler:
 - - isim
 - - isim

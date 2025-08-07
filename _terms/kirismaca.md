@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak birbirini öldürme
-- ► paylaşma
+- paylaşma
 ozellikler:
 - - isim
 - - isim

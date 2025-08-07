@@ -5,7 +5,7 @@ slug: ekseri
 letter: E
 lisan: Arapça eks̱erī
 anlamlar:
-- ► genellikle
+- genellikle
 ozellikler:
 - - zarf
   - eskimiş

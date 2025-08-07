@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Çok daha fazla; katbekat
-- ► üst üste
+- üst üste
 ozellikler:
 - - zarf
 - - zarf

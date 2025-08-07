@@ -5,7 +5,7 @@ slug: homojenlesmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bağdaşıklaşmak
+- bağdaşıklaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

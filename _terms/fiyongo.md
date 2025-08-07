@@ -5,7 +5,7 @@ slug: fiyongo
 letter: F
 lisan: Rumca
 anlamlar:
-- ► fiyonk
+- fiyonk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zadeganlik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► soyluluk
+- soyluluk
 ozellikler:
 - - isim
 ornekler:

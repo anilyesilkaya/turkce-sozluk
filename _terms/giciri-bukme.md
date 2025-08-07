@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Hemen yetiştirilen, iletilen
-- ► zoraki
+- zoraki
 - Zorla ve çabucak
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: itibarli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► saygın
+- saygın
 - Kredisi olan
 - Gözde olan, önemli sayılan
 ozellikler:

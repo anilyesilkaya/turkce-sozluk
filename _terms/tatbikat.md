@@ -5,7 +5,7 @@ slug: tatbikat
 letter: T
 lisan: Arapça taṭbīḳāt
 anlamlar:
-- ► uygulama
+- uygulama
 - Asker birliklerini savaşa hazırlamak amacıyla, arazi üzerinde yapılan geniş ölçüde savaş denemesi; manevra
 ozellikler:
 - - isim

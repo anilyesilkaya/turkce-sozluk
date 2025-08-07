@@ -5,7 +5,7 @@ slug: nefsi-mudafaa
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nefis müdafaası
+- nefis müdafaası
 ozellikler:
 - - isim
 ornekler:

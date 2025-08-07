@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hikayelemek işi
-- ► anlatı
+- anlatı
 ozellikler:
 - - isim
 - - isim

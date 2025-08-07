@@ -5,7 +5,7 @@ slug: haksizcasina
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haksızca
+- haksızca
 ozellikler:
 - - zarf
 ornekler:

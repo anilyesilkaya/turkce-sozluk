@@ -5,7 +5,7 @@ slug: gumusumsu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gümüşsü
+- gümüşsü
 ozellikler:
 - - sıfat
 ornekler:

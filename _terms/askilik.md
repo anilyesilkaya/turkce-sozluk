@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Avcıların sırtlarına taktıkları askı takımı
-- ► vestiyer
+- vestiyer
 - Asılıp saklanacak sebze, meyve
 ozellikler:
 - - isim

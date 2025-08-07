@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Çarpma işine konu olmak
 - Çarpık duruma gelmek
-- ► uğramak
+- uğramak
 - Bir yankesici tarafından eşyaları el çabukluğuyla çalınmak, soyulmak
-- ► aldatılmak
+- aldatılmak
 - Çekiciliğine kapılmak, etkilenmek
 - Bir şeye ederinden fazla para ödemek
 ozellikler:

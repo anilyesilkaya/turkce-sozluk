@@ -5,7 +5,7 @@ slug: finalizm
 letter: F
 lisan: Fransızca finalisme
 anlamlar:
-- ► erekçilik
+- erekçilik
 ozellikler:
 - - isim
   - felsefe

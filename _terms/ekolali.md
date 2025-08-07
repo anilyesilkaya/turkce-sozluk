@@ -5,7 +5,7 @@ slug: ekolali
 letter: E
 lisan: Fransızca écholalie
 anlamlar:
-- ► yankılı konuşma
+- yankılı konuşma
 ozellikler:
 - - isim
   - ruh bilimi

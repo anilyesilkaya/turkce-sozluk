@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İçki yapan veya satan kimse
-- ► ayyaş
+- ayyaş
 ozellikler:
 - - isim
 - - isim

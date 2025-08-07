@@ -5,7 +5,7 @@ slug: konseptualist
 letter: K
 lisan: Fransızca conceptualiste
 anlamlar:
-- ► kavramcı
+- kavramcı
 ozellikler:
 - - sıfat
   - felsefe

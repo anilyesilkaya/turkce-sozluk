@@ -8,7 +8,7 @@ anlamlar:
 - Alınmış bir şeyi geri verme
 - Verilen bir şeyi almayarak geri çevirme, reddetme
 - Karşılıklı olarak yapma, mukabele etme
-- ► iadeli
+- iadeli
 ozellikler:
 - - isim
 - - isim

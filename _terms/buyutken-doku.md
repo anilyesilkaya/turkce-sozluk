@@ -5,7 +5,7 @@ slug: buyutken-doku
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sürgen doku
+- sürgen doku
 ozellikler:
 - - isim
   - bitki bilimi

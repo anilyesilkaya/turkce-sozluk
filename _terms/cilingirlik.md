@@ -5,7 +5,7 @@ slug: cilingirlik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► anahtarcılık
+- anahtarcılık
 ozellikler:
 - - isim
 ornekler:

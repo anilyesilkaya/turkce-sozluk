@@ -5,7 +5,7 @@ slug: seksuellik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► cinsellik
+- cinsellik
 ozellikler:
 - - isim
 ornekler:

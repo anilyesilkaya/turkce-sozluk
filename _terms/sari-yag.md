@@ -5,7 +5,7 @@ slug: sari-yag
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tereyağı
+- tereyağı
 ozellikler:
 - - isim
 ornekler:

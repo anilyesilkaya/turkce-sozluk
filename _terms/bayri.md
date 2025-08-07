@@ -5,7 +5,7 @@ slug: bayri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kadim
+- kadim
 ozellikler:
 - - sıfat
   - eskimiş

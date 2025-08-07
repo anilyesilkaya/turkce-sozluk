@@ -5,8 +5,8 @@ slug: numune
 letter: N
 lisan: Farsça numūne
 anlamlar:
-- ► örnek
-- ► göstermelik
+- örnek
+- göstermelik
 ozellikler:
 - - ''
 - - ''

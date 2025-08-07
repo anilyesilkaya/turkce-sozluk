@@ -5,7 +5,7 @@ slug: insicamsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tutarsız
+- tutarsız
 ozellikler:
 - - sıfat
 ornekler:

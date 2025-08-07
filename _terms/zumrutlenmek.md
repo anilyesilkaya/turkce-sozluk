@@ -5,7 +5,7 @@ slug: zumrutlenmek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► yeşillenmek
+- yeşillenmek
 ozellikler:
 - - nesnesiz
 ornekler:

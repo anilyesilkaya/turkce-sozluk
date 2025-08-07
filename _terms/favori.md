@@ -6,7 +6,7 @@ letter: F
 lisan: Fransızca favori
 anlamlar:
 - Herhangi bir iş veya yarışmada üstünlük sağlayacağına inanılan (kimse, taraf, takım vb.)
-- ► gözde
+- gözde
 - Şakak üzerinde saç ile sakalın birleşimi olan kısım; duluk
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: duzgu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► norm
+- norm
 ozellikler:
 - - isim
   - felsefe

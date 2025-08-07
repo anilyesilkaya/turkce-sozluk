@@ -6,7 +6,7 @@ letter: E
 lisan: Fransızca ellipse
 anlamlar:
 - Bütün noktalarının belirli iki ayrı noktaya olan uzaklıklarının toplamı birbirine eşit olan kapalı eğri
-- ► eksilti
+- eksilti
 ozellikler:
 - - isim
   - matematik

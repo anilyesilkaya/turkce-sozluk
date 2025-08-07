@@ -5,8 +5,8 @@ slug: tantana
 letter: T
 lisan: Arapça ṭanṭana
 anlamlar:
-- ► görkem
-- ► kuru gürültü
+- görkem
+- kuru gürültü
 - Gereksiz, boş söz
 ozellikler:
 - - isim

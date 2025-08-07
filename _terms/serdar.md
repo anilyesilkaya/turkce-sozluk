@@ -5,7 +5,7 @@ slug: serdar
 letter: S
 lisan: Farsça serdār
 anlamlar:
-- ► başkomutan
+- başkomutan
 ozellikler:
 - - isim
   - eskimiş

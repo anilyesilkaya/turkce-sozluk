@@ -7,7 +7,7 @@ lisan: Arapça sākin
 anlamlar:
 - Hareket etmeyen, kımıldamayan
 - Dingin olan; durgun, sakince
-- ► sessiz
+- sessiz
 - Kimseyi rahatsız etmeyen
 - Kolayca sinirlenmeyen; sinirsiz
 - Huysuzluğu, rahatsızlığı azalmış veya geçmiş

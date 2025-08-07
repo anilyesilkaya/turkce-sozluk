@@ -5,7 +5,7 @@ slug: ezan-saati
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ezan vakti
+- ezan vakti
 ozellikler:
 - - isim
 ornekler:

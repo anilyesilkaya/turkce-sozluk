@@ -5,7 +5,7 @@ slug: marabacilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ortakçılık
+- ortakçılık
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca harmonique
 anlamlar:
 - Armoni ile ilgili olan
-- ► armonika
+- armonika
 ozellikler:
 - - sıfat
   - müzik

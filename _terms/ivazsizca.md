@@ -5,7 +5,7 @@ slug: ivazsizca
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ödünsüzce
+- ödünsüzce
 ozellikler:
 - - zarf
 ornekler:

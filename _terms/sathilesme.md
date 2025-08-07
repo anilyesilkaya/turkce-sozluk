@@ -5,7 +5,7 @@ slug: sathilesme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yüzeyselleşme
+- yüzeyselleşme
 ozellikler:
 - - isim
 ornekler:

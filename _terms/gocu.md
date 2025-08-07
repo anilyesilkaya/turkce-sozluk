@@ -5,7 +5,7 @@ slug: gocu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► toprak kayması
+- toprak kayması
 ozellikler:
 - - isim
   - ağızlardan

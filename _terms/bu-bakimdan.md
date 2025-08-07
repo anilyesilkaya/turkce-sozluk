@@ -5,7 +5,7 @@ slug: bu-bakimdan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bundan dolayı
+- bundan dolayı
 ozellikler:
 - - zarf
 ornekler:

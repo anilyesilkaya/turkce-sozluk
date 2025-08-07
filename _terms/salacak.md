@@ -5,7 +5,7 @@ slug: salacak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► teneşir
+- teneşir
 ozellikler:
 - - isim
 ornekler:

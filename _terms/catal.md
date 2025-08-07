@@ -9,7 +9,7 @@ anlamlar:
 - İki veya daha çok kola ayrılan değnek
 - Yol, ağaç gibi kollara ayrılan şeylerin ayrılma yeri
 - Dallı olan şeylerin her kolu
-- ► dirgen
+- dirgen
 - Bir tür olta iğnesi
 - Ucu kollara ayrılmış
 - İki taraflı

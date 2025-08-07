@@ -5,7 +5,7 @@ slug: yildir-yildir
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pırıl pırıl
+- pırıl pırıl
 ozellikler:
 - - zarf
 ornekler:

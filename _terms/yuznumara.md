@@ -5,7 +5,7 @@ slug: yuznumara
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
 ornekler:

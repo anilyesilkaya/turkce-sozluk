@@ -5,7 +5,7 @@ slug: basmuallim
 letter: B
 lisan: Türkçe baş + Arapça muʿallim
 anlamlar:
-- ► başöğretmen
+- başöğretmen
 ozellikler:
 - - isim
   - eskimiş

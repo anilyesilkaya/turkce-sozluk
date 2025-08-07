@@ -5,7 +5,7 @@ slug: calkak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalkar
+- çalkar
 ozellikler:
 - - isim
   - ağızlardan

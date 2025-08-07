@@ -7,7 +7,7 @@ lisan: Fransızca amateur
 anlamlar:
 - Bir işi para kazanmak için değil, yalnız zevki için yapan, hevesli, meraklı (kimse); özengen, profesyonel karşıtı
 - Bir işi meslek veya alan uzmanı olmadan yapan
-- ► acemi
+- acemi
 ozellikler:
 - - sıfat
 - - sıfat

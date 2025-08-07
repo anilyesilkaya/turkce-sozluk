@@ -5,7 +5,7 @@ slug: kafasi-dumanli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sarhoş
+- sarhoş
 - Çözemediği karışık düşüncelerle kafası yorgun (kimse)
 ozellikler:
 - - sıfat

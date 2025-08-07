@@ -5,7 +5,7 @@ slug: defo
 letter: D
 lisan: Fransızca défaut
 anlamlar:
-- ► bozukluk
+- bozukluk
 ozellikler:
 - - isim
 ornekler:

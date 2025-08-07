@@ -5,8 +5,8 @@ slug: budalalik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aptallık
-- ► akılsızlık
+- aptallık
+- akılsızlık
 ozellikler:
 - - isim
 - - isim

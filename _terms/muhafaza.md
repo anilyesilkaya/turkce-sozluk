@@ -5,8 +5,8 @@ slug: muhafaza
 letter: M
 lisan: Arapça muḥāfaẓa
 anlamlar:
-- ► koruma
-- ► saklama
+- koruma
+- saklama
 ozellikler:
 - - isim
 - - isim

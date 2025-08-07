@@ -5,7 +5,7 @@ slug: meymenetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uğursuz
+- uğursuz
 - Suratsız, huysuz (kimse)
 ozellikler:
 - - sıfat

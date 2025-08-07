@@ -5,8 +5,8 @@ slug: adap
 letter: A
 lisan: Arapça ādāb
 anlamlar:
-- ► töre
-- ► yol yordam
+- töre
+- yol yordam
 ozellikler:
 - - isim
 - - isim

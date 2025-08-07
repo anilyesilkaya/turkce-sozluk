@@ -5,7 +5,7 @@ slug: ekmek-kirintisi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ekmek ufağı
+- ekmek ufağı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: misket-domates
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kiraz domates
+- kiraz domates
 ozellikler:
 - - isim
   - bitki bilimi

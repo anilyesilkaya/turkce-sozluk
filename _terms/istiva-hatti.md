@@ -5,7 +5,7 @@ slug: istiva-hatti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► Ekvator
+- Ekvator
 ozellikler:
 - - isim
   - eskimiş

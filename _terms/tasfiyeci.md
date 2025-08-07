@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir toplumsal olgudan yabancı ögelerin ayıklanması taraftarı olan kimse
-- ► özleştirmeci
+- özleştirmeci
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: tirnaklamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tırmalamak
+- tırmalamak
 - Tırnaklarını geçirerek yolmaya, kazımaya veya çekmeye çalışmak
 ozellikler:
 - - -i

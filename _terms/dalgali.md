@@ -8,7 +8,7 @@ anlamlar:
 - Dalgası olan
 - Dalga dalga görünen
 - Kıvrım kıvrım olan (saç)
-- ► açıklı koyulu
+- açıklı koyulu
 - Belli dalga boylarını alabilen; alternatif
 ozellikler:
 - - sıfat

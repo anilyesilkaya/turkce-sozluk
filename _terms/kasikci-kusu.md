@@ -5,7 +5,7 @@ slug: kasikci-kusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► pelikan
+- pelikan
 ozellikler:
 - - isim
   - hayvan bilimi

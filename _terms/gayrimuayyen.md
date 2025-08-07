@@ -5,7 +5,7 @@ slug: gayrimuayyen
 letter: G
 lisan: Arapça ġayr + muʿayyen
 anlamlar:
-- ► belirsiz
+- belirsiz
 ozellikler:
 - - sıfat
   - eskimiş

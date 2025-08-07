@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uç uca, birbirine çatılan şeylerin bütünü
-- ► sehpa
+- sehpa
 - Alından geçerek başın çevresine çember gibi bağlanan bağ; kaşbastı
 - Bir işin bütününün veya parçalarının bir araya getirilmesinde uyulan yöntem
 ozellikler:

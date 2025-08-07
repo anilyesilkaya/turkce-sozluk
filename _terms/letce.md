@@ -5,7 +5,7 @@ slug: letce
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► Letonca
+- Letonca
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: babalar
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Babayan
+- Babayan
 ozellikler:
 - - isim
   - din bilimi

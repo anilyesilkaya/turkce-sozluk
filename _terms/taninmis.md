@@ -5,7 +5,7 @@ slug: taninmis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ünlü
+- ünlü
 - Herhangi bir özelliği ile ün kazanmış olan
 ozellikler:
 - - sıfat

@@ -5,8 +5,8 @@ slug: bedbaht
 letter: B
 lisan: Farsça bed + baḫt
 anlamlar:
-- ► bahtsız
-- ► mutsuz
+- bahtsız
+- mutsuz
 ozellikler:
 - - sıfat
 - - sıfat

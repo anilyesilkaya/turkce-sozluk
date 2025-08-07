@@ -5,7 +5,7 @@ slug: tabildot
 letter: T
 lisan: Fransızca table d'hôte
 anlamlar:
-- ► seçmesiz yemek, alakart karşıtı
+- seçmesiz yemek, alakart karşıtı
 - Birçok kişinin erzak sağlayıp kendilerine yemek pişirtmek için kurdukları ortaklık
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: secere
 letter: Ş
 lisan: Arapça şecere
 anlamlar:
-- ► soyağacı
+- soyağacı
 - Atların soyunun yazılı olduğu çizelge
 ozellikler:
 - - isim

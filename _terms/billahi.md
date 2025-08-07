@@ -5,7 +5,7 @@ slug: billahi
 letter: B
 lisan: Arapça billahi
 anlamlar:
-- ► vallahi
+- vallahi
 - '"İnan olsun" anlamında kullanılan bir söz'
 ozellikler:
 - - ünlem

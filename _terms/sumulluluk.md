@@ -5,7 +5,7 @@ slug: sumulluluk
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kapsamlılık
+- kapsamlılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kokertmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köklemek (I)
+- köklemek (I)
 - Fide, sebze veya asma çubuğunun ufaklarını köküyle çıkararak başka yere dikmek
 ozellikler:
 - - -i

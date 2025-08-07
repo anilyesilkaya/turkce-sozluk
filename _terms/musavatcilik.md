@@ -5,7 +5,7 @@ slug: musavatcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşitçilik
+- eşitçilik
 ozellikler:
 - - isim
 ornekler:

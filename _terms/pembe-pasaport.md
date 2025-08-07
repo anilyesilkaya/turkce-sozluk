@@ -5,7 +5,7 @@ slug: pembe-pasaport
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► geçici pasaport
+- geçici pasaport
 ozellikler:
 - - isim
 ornekler:

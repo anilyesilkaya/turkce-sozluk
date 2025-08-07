@@ -5,7 +5,7 @@ slug: aylandiz
 letter: A
 lisan: Çince Ailanto'dan
 anlamlar:
-- ► kokar ağaç
+- kokar ağaç
 ozellikler:
 - - isim
   - bitki bilimi

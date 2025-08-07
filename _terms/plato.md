@@ -5,7 +5,7 @@ slug: plato
 letter: P
 lisan: Fransızca plateau
 anlamlar:
-- ► yayla
+- yayla
 - Sinema filminin çekimlerinde kullanılmak üzere dekorun kurulduğu yer
 - Diyet yapan kimselerde kilo vermenin durduğu dönem
 - Salgın hastalıkta günlük vaka ve ölüm sayısının artışının durduğu ve sayıların yatay seyrettiği dönem

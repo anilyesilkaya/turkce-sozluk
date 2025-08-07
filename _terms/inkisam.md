@@ -5,7 +5,7 @@ slug: inkisam
 letter: I
 lisan: Arapça inḳisām
 anlamlar:
-- ► parçalanma
+- parçalanma
 ozellikler:
 - - isim
   - eskimiş

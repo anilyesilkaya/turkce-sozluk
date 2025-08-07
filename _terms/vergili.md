@@ -6,9 +6,9 @@ letter: V
 lisan: Türkçe
 anlamlar:
 - Vergisi olan, vergi ödenen
-- ► verimli
-- ► verici
-- ► hayırsever
+- verimli
+- verici
+- hayırsever
 ozellikler:
 - - sıfat
 - - sıfat

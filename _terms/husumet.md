@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫuṣūmet
 anlamlar:
 - Hasım olma durumu
-- ► düşmanlık
+- düşmanlık
 ozellikler:
 - - isim
 - - isim

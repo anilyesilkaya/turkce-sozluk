@@ -5,7 +5,7 @@ slug: kucuk-hindistan-cevizi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Hint cevizi
+- Hint cevizi
 ozellikler:
 - - isim
   - bitki bilimi

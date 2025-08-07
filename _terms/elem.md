@@ -5,7 +5,7 @@ slug: elem
 letter: E
 lisan: Arapça elem
 anlamlar:
-- ► keder
+- keder
 ozellikler:
 - - isim
 ornekler:

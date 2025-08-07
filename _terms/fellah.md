@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça fellāḥ
 anlamlar:
 - Mısır köylüsü
-- ► çiftçi
+- çiftçi
 ozellikler:
 - - isim
   - eskimiş

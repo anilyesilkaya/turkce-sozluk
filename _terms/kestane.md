@@ -7,7 +7,7 @@ lisan: Rumca
 anlamlar:
 - Kayıngillerden, ılıman iklimlerde yetişen, 25-30 metre kadar boylanabilen, kerestesi doğramacılıkta kullanılan bir orman ağacı (Castanea sativa)
 - Bu ağacın yenebilen kabuklu meyvesi
-- ► kestane rengi
+- kestane rengi
 ozellikler:
 - - isim
   - bitki bilimi

@@ -6,7 +6,7 @@ letter: H
 lisan: Farsça ḫoş
 anlamlar:
 - Beğenilen, duyguları okşayan, zevk veren
-- ► bununla birlikte
+- bununla birlikte
 - Beğenilen, duyguları okşayan bir biçimde
 ozellikler:
 - - sıfat

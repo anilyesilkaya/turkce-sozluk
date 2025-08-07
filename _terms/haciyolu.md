@@ -5,7 +5,7 @@ slug: haciyolu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Samanyolu
+- Samanyolu
 ozellikler:
 - - isim
   - eskimiş

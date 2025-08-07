@@ -5,7 +5,7 @@ slug: dizaynci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tasarımcı
+- tasarımcı
 ozellikler:
 - - isim
 ornekler:

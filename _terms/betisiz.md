@@ -5,7 +5,7 @@ slug: betisiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► nonfigüratif
+- nonfigüratif
 ozellikler:
 - - sıfat
 ornekler:

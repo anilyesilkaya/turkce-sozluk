@@ -5,7 +5,7 @@ slug: muasaka
 letter: M
 lisan: Arapça muʿāşaḳa
 anlamlar:
-- ► âşıktaşlık
+- âşıktaşlık
 ozellikler:
 - - isim
   - eskimiş

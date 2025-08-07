@@ -5,7 +5,7 @@ slug: tas-yagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gaz yağı
+- gaz yağı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: huda
 letter: H
 lisan: Farsça ḫudā
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen
 - İşinde, mesleğinde yeni olan, deneyimi olmayan; çaylak, çömez, toy (I), amatör
 - Bir yere, bir şeye yabancı olan
-- ► idmansız
+- idmansız
 - Saraya yeni alınmış cariye
 ozellikler:
 - - sıfat

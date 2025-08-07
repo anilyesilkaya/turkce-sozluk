@@ -5,7 +5,7 @@ slug: parazit
 letter: P
 lisan: Fransızca parasite
 anlamlar:
-- ► asalak
+- asalak
 - Radyo, televizyon, telsiz vb. aygıtların yayınına karışan yabancı ses veya cızırtı
 - Herhangi bir işte, olayda sorun çıkaran kimse
 ozellikler:

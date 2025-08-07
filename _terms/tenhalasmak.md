@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Yalnız kalmak
-- ► ıssızlaşmak
+- ıssızlaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

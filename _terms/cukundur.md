@@ -5,7 +5,7 @@ slug: cukundur
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► pancar
+- pancar
 ozellikler:
 - - isim
   - ağızlardan

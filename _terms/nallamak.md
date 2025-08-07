@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Hayvanın ayağına nal çakmak
-- ► öldürmek
+- öldürmek
 - Bir kimseyi, bir şeyi silahla vurmak
 ozellikler:
 - - -i

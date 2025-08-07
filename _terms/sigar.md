@@ -5,7 +5,7 @@ slug: sigar
 letter: S
 lisan: Fransızca cigare
 anlamlar:
-- ► yaprak sigarası
+- yaprak sigarası
 ozellikler:
 - - isim
 ornekler:

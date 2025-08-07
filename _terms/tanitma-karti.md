@@ -5,7 +5,7 @@ slug: tanitma-karti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kimlik
+- kimlik
 ozellikler:
 - - isim
 ornekler:

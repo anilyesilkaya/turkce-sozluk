@@ -5,7 +5,7 @@ slug: humanizma
 letter: H
 lisan: Fransızca humanisme
 anlamlar:
-- ► insancıllık
+- insancıllık
 ozellikler:
 - - isim
   - felsefe

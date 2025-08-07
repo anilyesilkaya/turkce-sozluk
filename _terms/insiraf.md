@@ -5,7 +5,7 @@ slug: insiraf
 letter: I
 lisan: Arapça inṣirāf
 anlamlar:
-- ► büküm
+- büküm
 ozellikler:
 - - isim
   - eskimiş

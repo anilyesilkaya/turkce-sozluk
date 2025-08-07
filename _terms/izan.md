@@ -5,7 +5,7 @@ slug: izan
 letter: I
 lisan: Arapça iẕʿān
 anlamlar:
-- ► anlayış
+- anlayış
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: mistiklik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gizemcilik
-- ► gizemsellik
+- gizemcilik
+- gizemsellik
 ozellikler:
 - - isim
 - - isim

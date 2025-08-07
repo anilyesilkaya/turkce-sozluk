@@ -5,7 +5,7 @@ slug: hollanda-kavagi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► akkavak
+- akkavak
 ozellikler:
 - - isim
   - bitki bilimi

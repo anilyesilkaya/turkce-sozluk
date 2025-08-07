@@ -5,7 +5,7 @@ slug: aktoreci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ahlakçı
+- ahlakçı
 ozellikler:
 - - sıfat
   - felsefe

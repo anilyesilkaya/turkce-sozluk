@@ -5,7 +5,7 @@ slug: melul
 letter: M
 lisan: Arapça melūl
 anlamlar:
-- ► üzgün
+- üzgün
 - Boynu bükük, zavallı bir biçimde
 ozellikler:
 - - sıfat

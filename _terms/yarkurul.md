@@ -5,7 +5,7 @@ slug: yarkurul
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► alt kurul
+- alt kurul
 ozellikler:
 - - isim
 ornekler:

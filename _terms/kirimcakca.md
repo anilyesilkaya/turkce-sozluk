@@ -5,7 +5,7 @@ slug: kirimcakca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kırımçak Türkçesi
+- Kırımçak Türkçesi
 ozellikler:
 - - isim
 ornekler:

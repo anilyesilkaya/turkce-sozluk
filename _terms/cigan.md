@@ -5,7 +5,7 @@ slug: cigan
 letter: Ç
 lisan: Fransızca tsigane
 anlamlar:
-- ► Çingene
+- Çingene
 ozellikler:
 - - isim
 ornekler:

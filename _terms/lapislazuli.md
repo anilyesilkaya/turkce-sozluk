@@ -5,7 +5,7 @@ slug: lapislazuli
 letter: L
 lisan: İngilizce lapis-lazuli
 anlamlar:
-- ► laciverttaş
+- laciverttaş
 ozellikler:
 - - isim
 ornekler:

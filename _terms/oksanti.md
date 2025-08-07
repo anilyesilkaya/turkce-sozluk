@@ -5,7 +5,7 @@ slug: oksanti
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► okşama
+- okşama
 ozellikler:
 - - isim
 ornekler:

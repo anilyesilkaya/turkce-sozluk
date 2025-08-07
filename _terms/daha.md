@@ -5,7 +5,7 @@ slug: daha
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► henüz
+- henüz
 - Var olana, elde bulunana ek olarak
 - Kendisinden sonra üçüncü kişi iyelik eki alan bir sıfatla birlikte sözü edilen konuda en önemli durumu belirtmek için kullanılan bir söz
 - Bunun dışında

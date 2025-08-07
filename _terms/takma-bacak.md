@@ -5,7 +5,7 @@ slug: takma-bacak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► takma ayak
+- takma ayak
 ozellikler:
 - - isim
 ornekler:

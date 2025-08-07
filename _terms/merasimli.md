@@ -5,7 +5,7 @@ slug: merasimli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► törenli
+- törenli
 - Kurallara, törelere aşırı bağlı olan
 ozellikler:
 - - sıfat

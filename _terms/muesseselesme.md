@@ -5,7 +5,7 @@ slug: muesseselesme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kurumlaşma
+- kurumlaşma
 ozellikler:
 - - isim
   - toplum bilimi

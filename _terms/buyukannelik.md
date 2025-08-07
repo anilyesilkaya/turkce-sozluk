@@ -5,7 +5,7 @@ slug: buyukannelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ninelik
+- ninelik
 ozellikler:
 - - isim
 ornekler:

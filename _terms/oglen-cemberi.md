@@ -5,7 +5,7 @@ slug: oglen-cemberi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► meridyen çemberi
+- meridyen çemberi
 ozellikler:
 - - isim
   - gök bilimi

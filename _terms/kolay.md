@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkıntı çekmeden, yorulmadan yapılabilen; asan, güç (II) ve zor karşıtı
-- ► kolaylık
-- ► kolayca
+- kolaylık
+- kolayca
 ozellikler:
 - - sıfat
 - - sıfat

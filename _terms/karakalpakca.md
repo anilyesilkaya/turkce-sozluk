@@ -5,7 +5,7 @@ slug: karakalpakca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Karakalpak Türkçesi
+- Karakalpak Türkçesi
 ozellikler:
 - - isim
 ornekler:

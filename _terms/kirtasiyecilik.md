@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kırtasiyecinin yaptığı iş
-- ► bürokrasi
+- bürokrasi
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mendil-yaka
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► şal yaka
+- şal yaka
 ozellikler:
 - - isim
 ornekler:

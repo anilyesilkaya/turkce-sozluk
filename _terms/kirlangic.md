@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kırlangıçgillerden, geniş gagalı, çatal kuyruklu, ince uzun kanatlı, küçük göçebe kuş (Hirundo)
-- ► kırlangıç bayrak
+- kırlangıç bayrak
 - Osmanlı donanmasında yer alan, karakol ve keşif işlerinde kullanılan, yelkenli ve kürekli küçük bir tür savaş gemisi
 - Öküz arabasında arka dingil ve tekerlekleri özeğe bağlayan çatal ağaç
 - Köyleri dolaşarak göz hastalıklarını ve özellikle akbasmayı iyi ettiğini öne süren sahte hekim

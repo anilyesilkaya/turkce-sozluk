@@ -5,7 +5,7 @@ slug: is-hacmi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ciro
+- ciro
 ozellikler:
 - - isim
   - ticaret

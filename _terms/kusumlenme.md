@@ -5,8 +5,8 @@ slug: kusumlenme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanma
-- ► kaygılanma
+- kuşkulanma
+- kaygılanma
 ozellikler:
 - - isim
 - - isim

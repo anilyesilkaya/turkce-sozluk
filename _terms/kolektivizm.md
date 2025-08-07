@@ -5,7 +5,7 @@ slug: kolektivizm
 letter: K
 lisan: Fransızca collectivisme
 anlamlar:
-- ► ortaklaşacılık
+- ortaklaşacılık
 ozellikler:
 - - isim
   - toplum bilimi

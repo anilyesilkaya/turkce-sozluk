@@ -5,7 +5,7 @@ slug: pestu
 letter: P
 lisan: Farsça peştū
 anlamlar:
-- ► Afgan
+- Afgan
 ozellikler:
 - - isim
 ornekler:

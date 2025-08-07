@@ -5,7 +5,7 @@ slug: pataklama
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dövme
+- dövme
 ozellikler:
 - - isim
 ornekler:

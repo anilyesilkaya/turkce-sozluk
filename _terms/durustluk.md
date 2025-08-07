@@ -5,7 +5,7 @@ slug: durustluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doğruluk
+- doğruluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: rotarsiz
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gecikmesiz
+- gecikmesiz
 ozellikler:
 - - sıfat
 ornekler:

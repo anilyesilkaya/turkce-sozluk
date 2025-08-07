@@ -7,7 +7,7 @@ lisan: Arapça ḳuvve
 anlamlar:
 - Düşünce, niyet
 - Bir devletin silahlı kuvvetlerinin durumu veya gücü
-- ► yeti
+- yeti
 ozellikler:
 - - isim
   - eskimiş

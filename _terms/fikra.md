@@ -6,10 +6,10 @@ letter: F
 lisan: Arapça fiḳra
 anlamlar:
 - Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik
-- ► köşe yazısı
+- köşe yazısı
 - Kanun maddelerinin kendi içlerinde satır başlarıyla ayrıldıkları ufak bölümlerden her biri
-- ► paragraf
-- ► omur
+- paragraf
+- omur
 ozellikler:
 - - isim
   - edebiyat

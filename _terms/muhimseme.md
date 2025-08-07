@@ -5,7 +5,7 @@ slug: muhimseme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► önemseme
+- önemseme
 ozellikler:
 - - isim
 ornekler:

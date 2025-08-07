@@ -5,7 +5,7 @@ slug: camasirhane
 letter: Ç
 lisan: Farsça cāmeşūr + ḫāne
 anlamlar:
-- ► çamaşırlık
+- çamaşırlık
 ozellikler:
 - - isim
 ornekler:

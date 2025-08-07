@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cenāze
 anlamlar:
 - Kefenlenip tabuta konmuş, gömülmeye hazırlanmış insan ölüsü
-- ► cenaze töreni
+- cenaze töreni
 ozellikler:
 - - isim
 - - isim

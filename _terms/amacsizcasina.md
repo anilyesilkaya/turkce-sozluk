@@ -5,7 +5,7 @@ slug: amacsizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► amaçsızca
+- amaçsızca
 ozellikler:
 - - zarf
 ornekler:

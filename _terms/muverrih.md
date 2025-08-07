@@ -5,7 +5,7 @@ slug: muverrih
 letter: M
 lisan: Arapça muverriḫ
 anlamlar:
-- ► tarihçi
+- tarihçi
 ozellikler:
 - - isim
   - eskimiş

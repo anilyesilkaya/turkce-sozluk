@@ -5,7 +5,7 @@ slug: travmatoloji
 letter: T
 lisan: Fransızca traumatologie
 anlamlar:
-- ► sarsıntı bilimi
+- sarsıntı bilimi
 ozellikler:
 - - isim
   - tıp

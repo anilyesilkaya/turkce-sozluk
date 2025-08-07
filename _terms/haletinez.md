@@ -5,7 +5,7 @@ slug: haletinez
 letter: H
 lisan: Arapça ḥālet + nezʿ
 anlamlar:
-- ► nez hâli
+- nez hâli
 ozellikler:
 - - isim
   - eskimiş

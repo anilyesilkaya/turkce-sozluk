@@ -7,7 +7,7 @@ lisan: Arapça ḍarb + Türkçe etmek
 anlamlar:
 - Vurmak, çarpmak
 - Para basmak
-- ► çarpmak
+- çarpmak
 ozellikler:
 - - -i
 - - -i

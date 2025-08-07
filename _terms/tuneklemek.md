@@ -5,7 +5,7 @@ slug: tuneklemek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tünemek
+- tünemek
 ozellikler:
 - - nesnesiz
 ornekler:

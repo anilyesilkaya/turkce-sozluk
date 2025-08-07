@@ -8,7 +8,7 @@ anlamlar:
 - Ahşap, taş, metal vb. bir maddeden yapılmış, düz ve yüksekçe yer
 - Büyük çaplı tabakaların çarpılması ve bunun sonucunda oluşan hafif eğimlerle nitelenen jeolojik yapı tipi
 - Bir siyaset programında, dayanılan düşünce veya düşüncelerin tümü
-- ► ortam
+- ortam
 - Aynı düşüncede olanların dayanışması
 ozellikler:
 - - isim

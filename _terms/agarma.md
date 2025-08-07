@@ -5,7 +5,7 @@ slug: agarma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlaşma
+- beyazlaşma
 ozellikler:
 - - isim
 ornekler:

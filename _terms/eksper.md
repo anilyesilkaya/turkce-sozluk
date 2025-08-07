@@ -5,7 +5,7 @@ slug: eksper
 letter: E
 lisan: Fransızca expert
 anlamlar:
-- ► bilirkişi
+- bilirkişi
 ozellikler:
 - - isim
 ornekler:

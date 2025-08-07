@@ -5,7 +5,7 @@ slug: dublajci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► seslendirici
+- seslendirici
 ozellikler:
 - - isim
   - sinema

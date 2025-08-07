@@ -5,7 +5,7 @@ slug: hukumet-kapisi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► devlet kapısı
+- devlet kapısı
 ozellikler:
 - - isim
   - mecaz

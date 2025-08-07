@@ -5,7 +5,7 @@ slug: telkih
 letter: T
 lisan: Arapça telḳīḥ
 anlamlar:
-- ► aşılama
+- aşılama
 ozellikler:
 - - isim
   - eskimiş

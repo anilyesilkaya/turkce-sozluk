@@ -5,7 +5,7 @@ slug: murdar
 letter: M
 lisan: Farsça murdār
 anlamlar:
-- ► kirli
+- kirli
 - Cinsel birleşmeden sonra yıkanmamış (kimse)
 - Dinî kurallara uygun olarak kesilmemiş olan (hayvan)
 ozellikler:

@@ -5,7 +5,7 @@ slug: urba
 letter: U
 lisan: İtalyanca roba
 anlamlar:
-- ► giysi
+- giysi
 ozellikler:
 - - isim
   - ağızlardan

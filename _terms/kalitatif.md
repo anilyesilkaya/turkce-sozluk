@@ -5,7 +5,7 @@ slug: kalitatif
 letter: K
 lisan: Fransızca qualitatif
 anlamlar:
-- ► nitel
+- nitel
 ozellikler:
 - - sıfat
 ornekler:

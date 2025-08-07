@@ -5,7 +5,7 @@ slug: yabanillasmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yabanileşmek
+- yabanileşmek
 ozellikler:
 - - nesnesiz
 ornekler:

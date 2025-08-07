@@ -8,7 +8,7 @@ anlamlar:
 - Uçma yeteneği veya özelliği olan; tayyar
 - Düşük sıcaklıkta hızla buharlaşma özelliği olan
 - Uçak kullanma yeteneği olan
-- ► pilot
+- pilot
 ozellikler:
 - - sıfat
 - - sıfat

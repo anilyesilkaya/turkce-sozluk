@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Boyu veya uzunluğu kadar
-- ► süresince
+- süresince
 ozellikler:
 - - zarf
 - - zarf

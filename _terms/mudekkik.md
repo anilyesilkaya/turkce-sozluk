@@ -5,7 +5,7 @@ slug: mudekkik
 letter: M
 lisan: Arapça mudeḳḳiḳ
 anlamlar:
-- ► inceleyici
+- inceleyici
 ozellikler:
 - - isim
   - eskimiş

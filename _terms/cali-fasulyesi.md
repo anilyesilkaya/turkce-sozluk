@@ -5,7 +5,7 @@ slug: cali-fasulyesi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sırık fasulyesi
+- sırık fasulyesi
 ozellikler:
 - - isim
   - bitki bilimi

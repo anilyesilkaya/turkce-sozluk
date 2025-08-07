@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Nur gibi yapmak, parlak ve tertemiz bir duruma getirmek
-- ► aydınlatmak
+- aydınlatmak
 ozellikler:
 - - -i
 - - -i

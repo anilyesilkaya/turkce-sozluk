@@ -5,8 +5,8 @@ slug: oksidasyon
 letter: O
 lisan: Fransızca oxydation
 anlamlar:
-- ► paslanma
-- ► paslandırma
+- paslanma
+- paslandırma
 ozellikler:
 - - isim
 - - isim

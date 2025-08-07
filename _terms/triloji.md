@@ -5,7 +5,7 @@ slug: triloji
 letter: T
 lisan: Fransızca trilogie
 anlamlar:
-- ► üçleme
+- üçleme
 ozellikler:
 - - isim
   - edebiyat

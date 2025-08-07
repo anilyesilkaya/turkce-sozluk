@@ -5,7 +5,7 @@ slug: cikis-noktasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► başlangıç noktası
+- başlangıç noktası
 ozellikler:
 - - isim
 ornekler:

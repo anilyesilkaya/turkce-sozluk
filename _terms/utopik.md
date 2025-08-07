@@ -5,7 +5,7 @@ slug: utopik
 letter: Ü
 lisan: Fransızca utopique
 anlamlar:
-- ► hayalî
+- hayalî
 ozellikler:
 - - sıfat
 ornekler:

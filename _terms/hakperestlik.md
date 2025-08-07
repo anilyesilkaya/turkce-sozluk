@@ -5,7 +5,7 @@ slug: hakperestlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hakseverlik
+- hakseverlik
 ozellikler:
 - - isim
 ornekler:

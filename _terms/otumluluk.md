@@ -5,7 +5,7 @@ slug: otumluluk
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tonluluk
+- tonluluk
 ozellikler:
 - - isim
 ornekler:

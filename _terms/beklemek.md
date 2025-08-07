@@ -11,7 +11,7 @@ anlamlar:
 - Herhangi bir şey ummak
 - Karşılaşma ihtimali bulunmak
 - Bir kimsenin gelmesini veya bir işin olmasını gözler vaziyette olmak
-- ► oyalanmak
+- oyalanmak
 ozellikler:
 - - -i
 - - -i

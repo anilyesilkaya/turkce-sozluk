@@ -5,7 +5,7 @@ slug: nazal
 letter: N
 lisan: Fransızca nasal
 anlamlar:
-- ► genizsil
+- genizsil
 ozellikler:
 - - sıfat
   - dil bilgisi

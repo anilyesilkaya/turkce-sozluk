@@ -5,7 +5,7 @@ slug: lutfeylemek
 letter: L
 lisan: Arapça luṭf + Türkçe eylemek
 anlamlar:
-- ► vermek
+- vermek
 ozellikler:
 - - -i
   - eskimiş

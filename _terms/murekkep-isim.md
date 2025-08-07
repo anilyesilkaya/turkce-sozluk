@@ -5,7 +5,7 @@ slug: murekkep-isim
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► birleşik ad
+- birleşik ad
 ozellikler:
 - - isim
   - eskimiş

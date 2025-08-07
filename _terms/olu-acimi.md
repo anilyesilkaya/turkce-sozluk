@@ -5,7 +5,7 @@ slug: olu-acimi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► otopsi
+- otopsi
 ozellikler:
 - - isim
   - tıp

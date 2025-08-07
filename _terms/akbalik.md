@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Sazangillerden, eti kılçıklı, yumurtası ile tarama yapılan bir balık (Leuciscus)
-- ► akya balığı
+- akya balığı
 ozellikler:
 - - isim
   - hayvan bilimi

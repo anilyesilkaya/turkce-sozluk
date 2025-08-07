@@ -5,7 +5,7 @@ slug: krizantem
 letter: K
 lisan: Fransızca chrysanthème
 anlamlar:
-- ► kasımpatı
+- kasımpatı
 ozellikler:
 - - isim
   - bitki bilimi

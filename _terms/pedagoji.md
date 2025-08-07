@@ -5,7 +5,7 @@ slug: pedagoji
 letter: P
 lisan: Fransızca pédagogie
 anlamlar:
-- ► eğitim bilimi
+- eğitim bilimi
 ozellikler:
 - - isim
 ornekler:

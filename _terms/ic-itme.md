@@ -5,7 +5,7 @@ slug: ic-itme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► zerk
+- zerk
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Birdenbire yakalayarak, çekerek almak
 - Isırıp parçalamak
-- ► koparmak
+- koparmak
 - İşitir işitmez veya görür görmez bellemek ve öğrenmek
 - Yer ayırmak, yer tutmak
 - Bulaşmış olmak, geçmek

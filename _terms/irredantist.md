@@ -5,7 +5,7 @@ slug: irredantist
 letter: I
 lisan: Fransızca irrédentiste
 anlamlar:
-- ► kurtarımcı
+- kurtarımcı
 ozellikler:
 - - sıfat
 ornekler:

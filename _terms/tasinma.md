@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Taşınmak işi
-- ► göç
+- göç
 ozellikler:
 - - isim
 - - isim

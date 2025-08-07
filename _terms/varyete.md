@@ -6,7 +6,7 @@ letter: V
 lisan: Fransızca variété
 anlamlar:
 - Şarkı, dans, hokkabazlık, temsil gibi aralarında ilişki bulunmayan farklı oyunlardan oluşan gösteri
-- ► varyasyon
+- varyasyon
 - Bir posta pulunun farklı baskılarındaki biçimi
 ozellikler:
 - - isim

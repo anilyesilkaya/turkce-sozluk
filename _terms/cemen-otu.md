@@ -5,7 +5,7 @@ slug: cemen-otu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► boy otu
+- boy otu
 ozellikler:
 - - isim
 ornekler:

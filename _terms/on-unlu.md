@@ -5,7 +5,7 @@ slug: on-unlu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ince ünlü
+- ince ünlü
 ozellikler:
 - - isim
   - dil bilgisi

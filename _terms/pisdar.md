@@ -5,7 +5,7 @@ slug: pisdar
 letter: P
 lisan: Farsça pīşdār
 anlamlar:
-- ► öncü
+- öncü
 - Öncülük eden, önde giden kimse
 ozellikler:
 - - isim

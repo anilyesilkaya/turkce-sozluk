@@ -5,7 +5,7 @@ slug: yapyalniz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yapayalnız
+- yapayalnız
 ozellikler:
 - - sıfat
 ornekler:

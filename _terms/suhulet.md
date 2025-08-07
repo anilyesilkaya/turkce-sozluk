@@ -5,7 +5,7 @@ slug: suhulet
 letter: S
 lisan: Arapça suhūlet
 anlamlar:
-- ► kolaylık
+- kolaylık
 - Yumuşaklık, naziklik
 - Uygun ortam
 ozellikler:

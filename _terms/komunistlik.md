@@ -5,7 +5,7 @@ slug: komunistlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► komünizm
+- komünizm
 ozellikler:
 - - isim
 ornekler:

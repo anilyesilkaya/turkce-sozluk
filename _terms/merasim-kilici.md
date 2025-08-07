@@ -5,7 +5,7 @@ slug: merasim-kilici
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tören kılıcı
+- tören kılıcı
 ozellikler:
 - - isim
 ornekler:

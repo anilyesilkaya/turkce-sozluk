@@ -5,7 +5,7 @@ slug: strukturel
 letter: S
 lisan: Fransızca structural
 anlamlar:
-- ► yapısal
+- yapısal
 ozellikler:
 - - sıfat
 ornekler:

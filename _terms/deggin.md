@@ -5,9 +5,9 @@ slug: deggin
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ilişkin
-- ► ilgili
-- ► ait
+- ilişkin
+- ilgili
+- ait
 ozellikler:
 - - edat
 - - edat

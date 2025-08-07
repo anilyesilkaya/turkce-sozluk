@@ -5,7 +5,7 @@ slug: amudufikari
 letter: A
 lisan: Arapça ʿamūd + feḳārī
 anlamlar:
-- ► bel kemiği
+- bel kemiği
 ozellikler:
 - - isim
   - eskimiş

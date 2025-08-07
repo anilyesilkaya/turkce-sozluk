@@ -5,7 +5,7 @@ slug: bakir-sulfat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► göz taşı
+- göz taşı
 ozellikler:
 - - isim
   - kimya

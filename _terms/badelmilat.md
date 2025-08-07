@@ -5,7 +5,7 @@ slug: badelmilat
 letter: B
 lisan: Arapça baʿd + mīlād
 anlamlar:
-- ► milattan sonra
+- milattan sonra
 ozellikler:
 - - zarf
   - eskimiş

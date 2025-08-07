@@ -5,7 +5,7 @@ slug: hami
 letter: H
 lisan: Arapça ḥāmī
 anlamlar:
-- ► koruyucu
+- koruyucu
 ozellikler:
 - - sıfat
 ornekler:

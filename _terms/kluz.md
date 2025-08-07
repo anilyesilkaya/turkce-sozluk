@@ -5,7 +5,7 @@ slug: kluz
 letter: K
 lisan: Fransızca cluse
 anlamlar:
-- ► kanyon
+- kanyon
 ozellikler:
 - - isim
   - coğrafya

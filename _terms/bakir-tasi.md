@@ -5,7 +5,7 @@ slug: bakir-tasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► malakit
+- malakit
 ozellikler:
 - - isim
   - kimya

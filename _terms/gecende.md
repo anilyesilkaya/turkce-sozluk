@@ -5,7 +5,7 @@ slug: gecende
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçenlerde
+- geçenlerde
 ozellikler:
 - - zarf
 ornekler:

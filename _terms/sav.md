@@ -5,10 +5,10 @@ slug: sav
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► iddia
-- ► tez (II)
+- iddia
+- tez (II)
 - Haber, söz
-- ► atasözü
+- atasözü
 ozellikler:
 - - isim
   - hukuk

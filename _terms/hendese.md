@@ -5,7 +5,7 @@ slug: hendese
 letter: H
 lisan: Arapça hendese
 anlamlar:
-- ► geometri
+- geometri
 ozellikler:
 - - isim
   - eskimiş

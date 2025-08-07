@@ -5,7 +5,7 @@ slug: e-ticaret
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik ticaret
+- elektronik ticaret
 ozellikler:
 - - isim
 ornekler:

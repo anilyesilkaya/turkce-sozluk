@@ -5,7 +5,7 @@ slug: ashap
 letter: A
 lisan: Arapça aṣḥāb
 anlamlar:
-- ► sahabe
+- sahabe
 ozellikler:
 - - isim
   - eskimiş

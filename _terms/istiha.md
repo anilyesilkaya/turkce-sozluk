@@ -5,7 +5,7 @@ slug: istiha
 letter: I
 lisan: Arapça iştihāʾ
 anlamlar:
-- ► iştah
+- iştah
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: yayilmacilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► emperyalizm
+- emperyalizm
 ozellikler:
 - - isim
 ornekler:

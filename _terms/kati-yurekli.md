@@ -5,7 +5,7 @@ slug: kati-yurekli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► merhametsiz
+- merhametsiz
 ozellikler:
 - - sıfat
   - mecaz

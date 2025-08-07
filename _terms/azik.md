@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Gereken yiyecek ve içecek şeyler; nevale
-- ► kumanya
+- kumanya
 ozellikler:
 - - isim
 - - isim

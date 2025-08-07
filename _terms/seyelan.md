@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça seyelān
 anlamlar:
 - Akma, akıntı
-- ► akı
+- akı
 ozellikler:
 - - isim
   - eskimiş

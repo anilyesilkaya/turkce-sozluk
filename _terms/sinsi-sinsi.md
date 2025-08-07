@@ -5,7 +5,7 @@ slug: sinsi-sinsi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sinsice
+- sinsice
 ozellikler:
 - - zarf
 ornekler:

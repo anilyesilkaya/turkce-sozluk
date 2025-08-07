@@ -5,7 +5,7 @@ slug: tesahup
 letter: T
 lisan: Arapça teṣāḥub
 anlamlar:
-- ► benimseme
+- benimseme
 - Arkadaşlık etme
 ozellikler:
 - - isim

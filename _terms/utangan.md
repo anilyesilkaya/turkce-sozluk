@@ -5,7 +5,7 @@ slug: utangan
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► utangaç
+- utangaç
 ozellikler:
 - - sıfat
   - ağızlardan

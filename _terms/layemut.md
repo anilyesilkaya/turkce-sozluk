@@ -5,7 +5,7 @@ slug: layemut
 letter: L
 lisan: Arapça lāyemūt
 anlamlar:
-- ► ölümsüz
+- ölümsüz
 ozellikler:
 - - sıfat
   - eskimiş

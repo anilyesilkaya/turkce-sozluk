@@ -5,7 +5,7 @@ slug: yerey
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► arazi
+- arazi
 - Yer kabuğunun oluşumu bakımından ele alınan herhangi bir parçası
 ozellikler:
 - - isim

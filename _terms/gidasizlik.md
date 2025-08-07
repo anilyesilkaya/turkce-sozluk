@@ -5,7 +5,7 @@ slug: gidasizlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► besinsizlik
+- besinsizlik
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: Y
 lisan: Arapça yezīd
 anlamlar:
 - Nefret edilen kimseler için kullanılan bir söz
-- ► sahtekâr
+- sahtekâr
 ozellikler:
 - - isim
   - mecaz

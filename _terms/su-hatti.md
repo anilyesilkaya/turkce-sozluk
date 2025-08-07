@@ -5,7 +5,7 @@ slug: su-hatti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► su kesimi
+- su kesimi
 ozellikler:
 - - isim
   - denizcilik

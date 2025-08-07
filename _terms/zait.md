@@ -6,8 +6,8 @@ letter: Z
 lisan: Arapça zāʾid
 anlamlar:
 - Çoğaltan, artıran
-- ► gereksiz
-- ► artı (+)
+- gereksiz
+- artı (+)
 ozellikler:
 - - sıfat
   - eskimiş

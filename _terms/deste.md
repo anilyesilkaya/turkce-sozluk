@@ -5,7 +5,7 @@ slug: deste
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► demet
+- demet
 - Kılıç, bıçak vb.nin elle tutulacak yeri
 - Elli iki karttan oluşan iskambil kâğıdı
 - Aynı cinsten onluk bir küme

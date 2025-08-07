@@ -5,7 +5,7 @@ slug: ana-yarisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► teyze
+- teyze
 ozellikler:
 - - isim
   - mecaz

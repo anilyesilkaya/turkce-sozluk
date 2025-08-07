@@ -5,7 +5,7 @@ slug: daridunya
 letter: D
 lisan: Arapça dār + dunyā
 anlamlar:
-- ► dünya
+- dünya
 ozellikler:
 - - isim
 ornekler:

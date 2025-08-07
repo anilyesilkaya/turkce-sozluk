@@ -5,8 +5,8 @@ slug: ihtiraz
 letter: I
 lisan: Arapça iḥtirāz
 anlamlar:
-- ► çekinme
-- ► çekince
+- çekinme
+- çekince
 ozellikler:
 - - isim
   - eskimiş

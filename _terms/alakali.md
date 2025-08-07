@@ -5,7 +5,7 @@ slug: alakali
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgili
+- ilgili
 ozellikler:
 - - sıfat
 ornekler:

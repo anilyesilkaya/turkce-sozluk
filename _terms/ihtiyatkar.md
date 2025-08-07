@@ -5,7 +5,7 @@ slug: ihtiyatkar
 letter: I
 lisan: Arapça iḥtiyāṭ + Farsça -kār
 anlamlar:
-- ► ihtiyatlı
+- ihtiyatlı
 ozellikler:
 - - sıfat
   - eskimiş

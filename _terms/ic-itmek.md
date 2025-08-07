@@ -5,7 +5,7 @@ slug: ic-itmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► zerk etmek
+- zerk etmek
 ozellikler:
 - - -i
 ornekler:

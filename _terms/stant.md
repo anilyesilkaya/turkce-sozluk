@@ -5,7 +5,7 @@ slug: stant
 letter: S
 lisan: İngilizce stand
 anlamlar:
-- ► sergilik
+- sergilik
 - At yarışlarında seyirci tribünü
 ozellikler:
 - - isim

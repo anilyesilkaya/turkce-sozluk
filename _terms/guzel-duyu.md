@@ -5,7 +5,7 @@ slug: guzel-duyu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► estetik
+- estetik
 ozellikler:
 - - isim
   - felsefe

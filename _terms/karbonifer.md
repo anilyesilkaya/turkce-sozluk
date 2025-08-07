@@ -5,7 +5,7 @@ slug: karbonifer
 letter: K
 lisan: Fransızca carbonifère
 anlamlar:
-- ► karbon dönemi
+- karbon dönemi
 ozellikler:
 - - isim
   - jeoloji

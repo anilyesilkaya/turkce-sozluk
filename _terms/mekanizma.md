@@ -5,7 +5,7 @@ slug: mekanizma
 letter: M
 lisan: İtalyanca meccanismo
 anlamlar:
-- ► düzenek
+- düzenek
 - Organların işleyiş biçimi
 - Ateşli silahların işlemesini sağlayan mekanik bölüm
 - Oluş, ortaya çıkış, işleyiş

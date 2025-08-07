@@ -5,7 +5,7 @@ slug: kabartici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kabartma tozu
+- kabartma tozu
 ozellikler:
 - - isim
 ornekler:

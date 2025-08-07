@@ -5,7 +5,7 @@ slug: illegal
 letter: I
 lisan: Fransızca illégal
 anlamlar:
-- ► yasa dışı
+- yasa dışı
 ozellikler:
 - - sıfat
   - hukuk

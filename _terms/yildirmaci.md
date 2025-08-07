@@ -5,7 +5,7 @@ slug: yildirmaci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► terörist
+- terörist
 ozellikler:
 - - isim
 ornekler:

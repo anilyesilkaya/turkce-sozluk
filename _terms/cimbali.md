@@ -5,7 +5,7 @@ slug: cimbali
 letter: Ç
 lisan: İtalyanca cembalo
 anlamlar:
-- ► klavsen
+- klavsen
 ozellikler:
 - - isim
   - müzik

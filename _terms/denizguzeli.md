@@ -5,7 +5,7 @@ slug: denizguzeli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sarıağız
+- sarıağız
 ozellikler:
 - - isim
   - hayvan bilimi

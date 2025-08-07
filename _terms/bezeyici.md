@@ -5,7 +5,7 @@ slug: bezeyici
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süslemeci
+- süslemeci
 ozellikler:
 - - isim
 ornekler:

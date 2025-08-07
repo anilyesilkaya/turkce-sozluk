@@ -5,7 +5,7 @@ slug: yansilama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yansıma
+- yansıma
 - Türün öteki üyelerinin davranışlarını, öğrenme söz konusu olmadan yapma eğilimi
 ozellikler:
 - - isim

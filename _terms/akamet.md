@@ -5,7 +5,7 @@ slug: akamet
 letter: A
 lisan: Arapça ʿaḳāmet
 anlamlar:
-- ► verimsizlik
+- verimsizlik
 - Yarıda kalma, sonuca ulaşamama durumu
 ozellikler:
 - - isim

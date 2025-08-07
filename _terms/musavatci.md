@@ -5,7 +5,7 @@ slug: musavatci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşitçi
+- eşitçi
 ozellikler:
 - - sıfat
 ornekler:

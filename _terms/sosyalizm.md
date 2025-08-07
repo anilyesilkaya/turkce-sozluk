@@ -5,7 +5,7 @@ slug: sosyalizm
 letter: S
 lisan: Fransızca socialisme
 anlamlar:
-- ► toplumculuk
+- toplumculuk
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: yoksuzluk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yoksulluk
+- yoksulluk
 - Yoksuz olma durumu, bulunmama
 ozellikler:
 - - isim

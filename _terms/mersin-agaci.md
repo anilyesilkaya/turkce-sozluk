@@ -5,7 +5,7 @@ slug: mersin-agaci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mersin
+- mersin
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: nakkarhane
 letter: N
 lisan: Arapça naḳḳār + Farsça ḫāne
 anlamlar:
-- ► mehter takımı
+- mehter takımı
 - Bu takımın bulunduğu yer
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sila-sigasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► zarf-fiil
+- zarf-fiil
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: enternasyonalist
 letter: E
 lisan: Fransızca internationaliste
 anlamlar:
-- ► uluslararasıcı
+- uluslararasıcı
 ozellikler:
 - - sıfat
 ornekler:

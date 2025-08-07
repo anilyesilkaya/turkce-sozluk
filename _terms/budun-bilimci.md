@@ -5,7 +5,7 @@ slug: budun-bilimci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ırk bilimci
+- ırk bilimci
 ozellikler:
 - - isim
 ornekler:

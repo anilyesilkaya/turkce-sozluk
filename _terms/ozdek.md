@@ -5,9 +5,9 @@ slug: ozdek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ayniyat
+- ayniyat
 - İnsanın çalışmasıyla bir amaç uğruna biçim verdiği veya yararlandığı doğal cisimler, nesneler
-- ► madde
+- madde
 ozellikler:
 - - isim
 - - isim

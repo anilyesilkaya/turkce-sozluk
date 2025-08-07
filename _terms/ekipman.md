@@ -5,7 +5,7 @@ slug: ekipman
 letter: E
 lisan: Fransızca équipement
 anlamlar:
-- ► takım
+- takım
 ozellikler:
 - - isim
 ornekler:

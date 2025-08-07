@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Suyu veya sütü çekilerek pörsümek
-- ► kurumak
+- kurumak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

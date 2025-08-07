@@ -5,7 +5,7 @@ slug: alasim-korozyonu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bölgesel aşındırma
+- bölgesel aşındırma
 ozellikler:
 - - isim
   - fizik

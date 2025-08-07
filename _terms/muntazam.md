@@ -5,8 +5,8 @@ slug: muntazam
 letter: M
 lisan: Arapça muntaẓam
 anlamlar:
-- ► düzgün
-- ► düzenli
+- düzgün
+- düzenli
 - Düzenli olarak, düzgün biçimde
 - Düzenli aralıklarla, sürekli olarak
 ozellikler:

@@ -5,7 +5,7 @@ slug: analizor
 letter: A
 lisan: Fransızca analyseur
 anlamlar:
-- ► çözümler
+- çözümler
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sezindirmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sezdirmek
+- sezdirmek
 ozellikler:
 - - -i
 ornekler:

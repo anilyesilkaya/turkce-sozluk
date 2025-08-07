@@ -5,7 +5,7 @@ slug: kistas
 letter: K
 lisan: Arapça ḳisṭās
 anlamlar:
-- ► ölçüt
+- ölçüt
 ozellikler:
 - - isim
 ornekler:

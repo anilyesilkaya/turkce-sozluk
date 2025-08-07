@@ -5,7 +5,7 @@ slug: zar
 letter: Z
 lisan: Arapça izār'dan
 anlamlar:
-- ► car (II)
+- car (II)
 ozellikler:
 - - isim
   - eskimiş

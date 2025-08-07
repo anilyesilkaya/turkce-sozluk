@@ -5,7 +5,7 @@ slug: yeknesak
 letter: Y
 lisan: Farsça yek + Arapça nesaḳ
 anlamlar:
-- ► tekdüze
+- tekdüze
 ozellikler:
 - - sıfat
   - eskimiş

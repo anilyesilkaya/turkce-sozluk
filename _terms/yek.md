@@ -5,7 +5,7 @@ slug: yek
 letter: Y
 lisan: Farsça yek
 anlamlar:
-- ► bir
+- bir
 ozellikler:
 - - sıfat
 ornekler:

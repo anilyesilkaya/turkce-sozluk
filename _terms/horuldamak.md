@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Horlama sesine benzer gürültü çıkarmak
-- ► horlamak (I)
+- horlamak (I)
 ozellikler:
 - - nesnesiz
 - - nesnesiz

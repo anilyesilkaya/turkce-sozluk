@@ -5,7 +5,7 @@ slug: ehveniyet
 letter: E
 lisan: Arapça ehveniyyet
 anlamlar:
-- ► ehvenlik
+- ehvenlik
 ozellikler:
 - - isim
   - eskimiş

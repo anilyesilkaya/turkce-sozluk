@@ -5,7 +5,7 @@ slug: gergi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► perde
+- perde
 - İp, kayış, tel vb.ni gerginleştirme işinde kullanılan araç
 ozellikler:
 - - isim

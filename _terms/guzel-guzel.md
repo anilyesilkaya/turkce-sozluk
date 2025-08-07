@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Olağan bir durumda, herhangi bir sıkıntıya uğramadan
-- ► tatlı tatlı
+- tatlı tatlı
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: vuruskan
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► dövüşken
+- dövüşken
 ozellikler:
 - - sıfat
 ornekler:

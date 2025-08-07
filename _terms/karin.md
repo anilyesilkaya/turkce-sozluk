@@ -6,9 +6,9 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - İnsan ve hayvanlarda gövdenin kaburga kenarlarından kasıklara kadar olan ön bölgesi; batın
-- ► döl yatağı
+- döl yatağı
 - Bazı şeylerde şiş ve içi boş bölüm
-- ► mide
+- mide
 - İçten geçen, gönüldeki şey
 - Ahlaki açıdan kabul edilemeyen şeyleri kabullenme
 - Gelen ve yansımış dalgaların girişimiyle oluşan duraklı dalgalarda en büyük genlikte titreşen noktalar

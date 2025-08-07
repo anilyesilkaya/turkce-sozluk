@@ -5,7 +5,7 @@ slug: bokelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şampiyonluk
+- şampiyonluk
 ozellikler:
 - - isim
 ornekler:

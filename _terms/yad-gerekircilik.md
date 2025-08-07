@@ -5,7 +5,7 @@ slug: yad-gerekircilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► belirlenmezcilik
+- belirlenmezcilik
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: yazincilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebiyatçılık
+- edebiyatçılık
 ozellikler:
 - - isim
 ornekler:

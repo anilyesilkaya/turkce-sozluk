@@ -5,8 +5,8 @@ slug: bekinme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► direnme
-- ► tıkanma
+- direnme
+- tıkanma
 ozellikler:
 - - isim
 - - isim

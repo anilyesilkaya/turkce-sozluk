@@ -5,7 +5,7 @@ slug: bel-bagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bel kemeri
+- bel kemeri
 ozellikler:
 - - isim
   - ağızlardan

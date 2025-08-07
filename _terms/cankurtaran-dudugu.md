@@ -5,7 +5,7 @@ slug: cankurtaran-dudugu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cankurtaran çanı
+- cankurtaran çanı
 ozellikler:
 - - isim
 ornekler:

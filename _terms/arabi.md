@@ -5,7 +5,7 @@ slug: arabi
 letter: A
 lisan: Arapça ʿarabī
 anlamlar:
-- ► Arapça
+- Arapça
 - Araplara özgü olan
 ozellikler:
 - - isim

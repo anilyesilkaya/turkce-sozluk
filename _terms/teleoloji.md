@@ -5,7 +5,7 @@ slug: teleoloji
 letter: T
 lisan: Fransızca téléologie
 anlamlar:
-- ► erek bilimi
+- erek bilimi
 ozellikler:
 - - isim
   - felsefe

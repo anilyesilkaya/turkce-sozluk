@@ -5,7 +5,7 @@ slug: mufrit
 letter: M
 lisan: Arapça mufriṭ
 anlamlar:
-- ► aşırı
+- aşırı
 ozellikler:
 - - sıfat
 ornekler:

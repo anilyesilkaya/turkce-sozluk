@@ -5,7 +5,7 @@ slug: tufeyli
 letter: T
 lisan: Arapça ṭufeylī
 anlamlar:
-- ► asalak
+- asalak
 - Salaş, virane, yıkık olan
 ozellikler:
 - - sıfat

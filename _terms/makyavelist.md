@@ -5,7 +5,7 @@ slug: makyavelist
 letter: M
 lisan: Fransızca machiavéliste
 anlamlar:
-- ► Makyavelci
+- Makyavelci
 ozellikler:
 - - sıfat
 ornekler:

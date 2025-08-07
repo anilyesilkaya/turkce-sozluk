@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hunhar olma durumu
-- ► kasaplık
+- kasaplık
 ozellikler:
 - - isim
 - - isim

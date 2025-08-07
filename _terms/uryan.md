@@ -5,7 +5,7 @@ slug: uryan
 letter: Ü
 lisan: Arapça ʿuryān
 anlamlar:
-- ► çıplak
+- çıplak
 ozellikler:
 - - sıfat
   - eskimiş

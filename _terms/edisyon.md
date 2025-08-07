@@ -5,8 +5,8 @@ slug: edisyon
 letter: E
 lisan: Fransızca édition
 anlamlar:
-- ► bası
-- ► baskı
+- bası
+- baskı
 ozellikler:
 - - isim
 - - isim

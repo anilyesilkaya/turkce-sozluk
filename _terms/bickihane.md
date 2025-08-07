@@ -5,7 +5,7 @@ slug: bickihane
 letter: B
 lisan: Türkçe bıçkı + Farsça ḫāne
 anlamlar:
-- ► bıçkıevi
+- bıçkıevi
 ozellikler:
 - - isim
 ornekler:

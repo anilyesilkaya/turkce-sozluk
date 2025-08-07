@@ -5,7 +5,7 @@ slug: zac-yagi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sülfürik asit
+- sülfürik asit
 ozellikler:
 - - isim
   - kimya

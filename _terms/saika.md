@@ -5,7 +5,7 @@ slug: saika
 letter: S
 lisan: Arapça sāʾiḳa
 anlamlar:
-- ► sebep
+- sebep
 ozellikler:
 - - isim
   - eskimiş

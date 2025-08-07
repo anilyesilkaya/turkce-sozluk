@@ -5,7 +5,7 @@ slug: individualizm
 letter: I
 lisan: Fransızca individualisme
 anlamlar:
-- ► bireycilik
+- bireycilik
 ozellikler:
 - - isim
   - felsefe

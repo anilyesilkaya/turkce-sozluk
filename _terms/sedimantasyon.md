@@ -5,9 +5,9 @@ slug: sedimantasyon
 letter: S
 lisan: Fransızca sédimentation
 anlamlar:
-- ► çökelme
+- çökelme
 - Pıhtılaşması önlenmiş kanda, alyuvarların dibe çökme hızının ölçülmesiyle yapılan bir tür kan muayenesi
-- ► tortulaşma
+- tortulaşma
 ozellikler:
 - - isim
 - - isim

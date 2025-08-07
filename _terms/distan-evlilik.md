@@ -5,7 +5,7 @@ slug: distan-evlilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dış evlilik
+- dış evlilik
 ozellikler:
 - - isim
   - toplum bilimi

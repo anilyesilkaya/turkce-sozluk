@@ -5,7 +5,7 @@ slug: im
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► işaret
+- işaret
 ozellikler:
 - - isim
 ornekler:

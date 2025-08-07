@@ -5,7 +5,7 @@ slug: beyaz-toprak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► asbest
+- asbest
 ozellikler:
 - - isim
   - mineraloji

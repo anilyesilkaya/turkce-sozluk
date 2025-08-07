@@ -5,7 +5,7 @@ slug: bezzazlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► manifaturacılık
+- manifaturacılık
 ozellikler:
 - - isim
 ornekler:

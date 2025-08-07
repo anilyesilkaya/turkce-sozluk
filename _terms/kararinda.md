@@ -5,7 +5,7 @@ slug: kararinda
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yeterince
+- yeterince
 ozellikler:
 - - zarf
 ornekler:

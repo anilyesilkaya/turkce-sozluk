@@ -5,7 +5,7 @@ slug: itbogan
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kurtboğan
+- kurtboğan
 ozellikler:
 - - isim
   - bitki bilimi

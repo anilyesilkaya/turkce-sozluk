@@ -5,7 +5,7 @@ slug: fedakar
 letter: F
 lisan: Arapça fidāʾ + Farsça -kār
 anlamlar:
-- ► özverili
+- özverili
 ozellikler:
 - - sıfat
 ornekler:

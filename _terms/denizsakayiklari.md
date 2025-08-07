@@ -5,7 +5,7 @@ slug: denizsakayiklari
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denizgülleri
+- denizgülleri
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: ruh-bilimcilik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikolojizm
+- psikolojizm
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yahudi-ebegumeci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► mülhiye
+- mülhiye
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: metropol
 letter: M
 lisan: Fransızca métropole
 anlamlar:
-- ► ana kent
+- ana kent
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gres
 letter: G
 lisan: Fransızca graisse
 anlamlar:
-- ► makine yağı
+- makine yağı
 ozellikler:
 - - isim
 ornekler:

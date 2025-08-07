@@ -5,7 +5,7 @@ slug: otlegen
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► çalı bülbülü
+- çalı bülbülü
 ozellikler:
 - - isim
   - hayvan bilimi

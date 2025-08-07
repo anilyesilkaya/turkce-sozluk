@@ -5,7 +5,7 @@ slug: bu-kabilden
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böyle
+- böyle
 ozellikler:
 - - sıfat
   - eskimiş

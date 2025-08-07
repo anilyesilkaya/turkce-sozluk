@@ -5,7 +5,7 @@ slug: fiil
 letter: F
 lisan: Arapça fiʿl
 anlamlar:
-- ► eylem
+- eylem
 - Bir kılışı, bir oluşu veya bir durumu anlatan, zaman ve kiplerle çekimlenebilen, -ma- ekiyle olumsuz biçimi yapılabilen kelime türü; eylem
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: hasiv
 letter: H
 lisan: Arapça ḥaşv
 anlamlar:
-- ► doldurma
+- doldurma
 - Yazıyı veya konuşmayı gereksiz ayrıntılarla uzatma
 ozellikler:
 - - isim

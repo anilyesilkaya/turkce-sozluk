@@ -5,7 +5,7 @@ slug: radyometre
 letter: R
 lisan: Fransızca radiomètre
 anlamlar:
-- ► ışınölçer
+- ışınölçer
 ozellikler:
 - - isim
   - fizik

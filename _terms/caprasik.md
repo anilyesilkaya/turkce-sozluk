@@ -5,7 +5,7 @@ slug: caprasik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► girift
+- girift
 - Anlaşılması, çözülmesi veya içinden çıkılması güç
 ozellikler:
 - - sıfat

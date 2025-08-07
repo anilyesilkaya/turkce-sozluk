@@ -5,7 +5,7 @@ slug: erkaniharbiyeiumumiye
 letter: E
 lisan: Arapça erkān + ḥarbiyye + ʿumūmiyye
 anlamlar:
-- ► genelkurmay
+- genelkurmay
 ozellikler:
 - - isim
   - eskimiş

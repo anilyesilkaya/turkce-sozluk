@@ -5,7 +5,7 @@ slug: tretuvar
 letter: T
 lisan: Fransızca trottoir
 anlamlar:
-- ► yaya kaldırımı
+- yaya kaldırımı
 ozellikler:
 - - isim
 ornekler:

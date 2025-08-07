@@ -5,7 +5,7 @@ slug: mustantik
 letter: M
 lisan: Arapça mustanṭiḳ
 anlamlar:
-- ► sorgu yargıcı
+- sorgu yargıcı
 ozellikler:
 - - isim
   - eskimiş

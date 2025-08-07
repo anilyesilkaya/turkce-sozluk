@@ -5,7 +5,7 @@ slug: metroloji
 letter: M
 lisan: Fransızca métrologie
 anlamlar:
-- ► ölçü bilimi
+- ölçü bilimi
 - Ağırlıklar ve ölçüler üstüne inceleme kitabı
 ozellikler:
 - - isim

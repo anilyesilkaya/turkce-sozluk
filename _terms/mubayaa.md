@@ -5,7 +5,7 @@ slug: mubayaa
 letter: M
 lisan: Arapça mubāyaʿa
 anlamlar:
-- ► satın alma
+- satın alma
 ozellikler:
 - - isim
   - eskimiş

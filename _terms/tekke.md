@@ -8,7 +8,7 @@ anlamlar:
 - Tarikattan olanların barındıkları, ibadet ve tören yaptıkları yer; dergâh
 - İşsiz güçsüz kimselerin buluşup sığındıkları yer
 - Esrar içilen üstü kapalı yer
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
   - tarih

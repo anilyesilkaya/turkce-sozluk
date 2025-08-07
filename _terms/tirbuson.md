@@ -5,7 +5,7 @@ slug: tirbuson
 letter: T
 lisan: Fransızca tire-bouchon
 anlamlar:
-- ► burgu
+- burgu
 ozellikler:
 - - isim
 ornekler:

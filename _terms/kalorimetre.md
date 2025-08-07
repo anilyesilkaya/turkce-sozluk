@@ -5,7 +5,7 @@ slug: kalorimetre
 letter: K
 lisan: Fransızca calorimètre
 anlamlar:
-- ► ısıölçer
+- ısıölçer
 ozellikler:
 - - isim
   - fizik

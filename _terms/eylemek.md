@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Bir kişiden veya bir şeyden yoksun bırakmak
-- ► etmek
+- etmek
 ozellikler:
 - - -den
 - - -den

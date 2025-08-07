@@ -5,7 +5,7 @@ slug: musabehet
 letter: M
 lisan: Arapça muşābehet
 anlamlar:
-- ► benzeşlik
+- benzeşlik
 ozellikler:
 - - isim
   - eskimiş

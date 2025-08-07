@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Faizin katılmasıyla para çoğalmak
-- ► nasiplenmek
+- nasiplenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

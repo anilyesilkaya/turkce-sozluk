@@ -5,9 +5,9 @@ slug: muhabere
 letter: M
 lisan: Arapça muḫābere
 anlamlar:
-- ► haberleşme
-- ► yazışma
-- ► iletişim
+- haberleşme
+- yazışma
+- iletişim
 ozellikler:
 - - isim
 - - isim

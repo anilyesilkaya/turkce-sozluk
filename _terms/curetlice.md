@@ -5,7 +5,7 @@ slug: curetlice
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretlice
+- cesaretlice
 ozellikler:
 - - zarf
 ornekler:

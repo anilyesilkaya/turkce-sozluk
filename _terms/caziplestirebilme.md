@@ -5,7 +5,7 @@ slug: caziplestirebilme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çekicileştirebilme
+- çekicileştirebilme
 ozellikler:
 - - isim
 ornekler:

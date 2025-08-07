@@ -5,7 +5,7 @@ slug: gonul-borclusu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► minnettar
+- minnettar
 ozellikler:
 - - isim
   - mecaz

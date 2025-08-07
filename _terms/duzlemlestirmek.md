@@ -5,7 +5,7 @@ slug: duzlemlestirmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► açındırmak
+- açındırmak
 ozellikler:
 - - -i
   - matematik

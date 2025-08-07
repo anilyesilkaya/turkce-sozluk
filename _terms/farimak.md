@@ -8,7 +8,7 @@ anlamlar:
 - Güçsüz düşmek, yorulmak
 - Eskimek, yıpranmak
 - Vazgeçmek, usanmak
-- ► yaşlanmak
+- yaşlanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

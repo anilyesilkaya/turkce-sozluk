@@ -5,7 +5,7 @@ slug: antropoitler
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► insansılar
+- insansılar
 ozellikler:
 - - isim
   - hayvan bilimi

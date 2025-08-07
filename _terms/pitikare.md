@@ -5,7 +5,7 @@ slug: pitikare
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pötikare
+- pötikare
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ibdai
 letter: I
 lisan: Arapça ibdāʿī
 anlamlar:
-- ► özgün
+- özgün
 ozellikler:
 - - sıfat
   - eskimiş

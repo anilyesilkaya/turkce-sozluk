@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Kötülüğe yol açan, sağlığı bozan şey
-- ► zarar
+- zarar
 ozellikler:
 - - isim
 - - isim

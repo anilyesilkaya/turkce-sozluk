@@ -5,7 +5,7 @@ slug: acelelestirmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çabuklaştırmak
+- çabuklaştırmak
 ozellikler:
 - - -i
 ornekler:

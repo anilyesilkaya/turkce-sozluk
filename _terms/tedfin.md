@@ -5,7 +5,7 @@ slug: tedfin
 letter: T
 lisan: Arapça tedfīn
 anlamlar:
-- ► gömme
+- gömme
 ozellikler:
 - - isim
   - eskimiş

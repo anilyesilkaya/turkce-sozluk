@@ -5,7 +5,7 @@ slug: kopru-ustu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaptan köşkü
+- kaptan köşkü
 ozellikler:
 - - isim
   - denizcilik

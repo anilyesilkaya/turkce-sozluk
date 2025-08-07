@@ -5,7 +5,7 @@ slug: sahis-eki
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kişi eki
+- kişi eki
 ozellikler:
 - - isim
   - dil bilgisi

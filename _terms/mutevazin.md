@@ -5,7 +5,7 @@ slug: mutevazin
 letter: M
 lisan: Arapça mutevāzin
 anlamlar:
-- ► oranlı
+- oranlı
 ozellikler:
 - - sıfat
   - eskimiş

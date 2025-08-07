@@ -5,7 +5,7 @@ slug: buyrulmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emredilmek
+- emredilmek
 ozellikler:
 - - nesnesiz
 ornekler:

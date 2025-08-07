@@ -5,7 +5,7 @@ slug: dizmen
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dizgici
+- dizgici
 ozellikler:
 - - isim
 ornekler:

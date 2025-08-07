@@ -5,7 +5,7 @@ slug: sincabi
 letter: S
 lisan: Farsça sincāb + Arapça -ī
 anlamlar:
-- ► sincap rengi
+- sincap rengi
 - Bu renkte olan
 ozellikler:
 - - isim

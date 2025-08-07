@@ -5,7 +5,7 @@ slug: cankulagi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► sırdaş
+- sırdaş
 ozellikler:
 - - isim
   - mecaz

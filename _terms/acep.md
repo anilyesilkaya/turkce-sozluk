@@ -5,7 +5,7 @@ slug: acep
 letter: A
 lisan: Arapça ʿaceb
 anlamlar:
-- ► acaba
+- acaba
 ozellikler:
 - - zarf
 ornekler:

@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Makaslamak işi
-- ► çaprazlama
+- çaprazlama
 ozellikler:
 - - isim
 - - isim

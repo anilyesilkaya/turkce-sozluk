@@ -5,7 +5,7 @@ slug: tablakarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tablacılık
+- tablacılık
 ozellikler:
 - - isim
 ornekler:

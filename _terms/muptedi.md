@@ -5,7 +5,7 @@ slug: muptedi
 letter: M
 lisan: Arapça mubtedī
 anlamlar:
-- ► başlayıcı
+- başlayıcı
 ozellikler:
 - - sıfat
   - eskimiş

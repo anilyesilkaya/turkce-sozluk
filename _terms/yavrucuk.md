@@ -5,7 +5,7 @@ slug: yavrucuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yavrucak
+- yavrucak
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarma işine konu olmak
-- ► uyandırılmak
+- uyandırılmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: tutsuluk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► buhurluk
+- buhurluk
 ozellikler:
 - - isim
 ornekler:

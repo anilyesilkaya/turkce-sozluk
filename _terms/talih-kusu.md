@@ -5,7 +5,7 @@ slug: talih-kusu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► devlet kuşu
+- devlet kuşu
 ozellikler:
 - - isim
   - mecaz

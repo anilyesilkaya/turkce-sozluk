@@ -13,7 +13,7 @@ anlamlar:
 - Kaz, ördek, martı gibi hayvanların parmaklarını birbirine bitiştiren zar
 - Bir müzik parçasını oluşturan seslerden her birinin kalınlık veya incelik derecesi
 - Bu ses derecelerini sağlamak için çalgılarda bulunup parmaklarla basılan yer
-- ► katarakt
+- katarakt
 - Bir sahne eserinin büyük bölümlerinin her biri
 ozellikler:
 - - isim

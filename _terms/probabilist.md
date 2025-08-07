@@ -5,7 +5,7 @@ slug: probabilist
 letter: P
 lisan: Fransızca probabiliste
 anlamlar:
-- ► olasıcı
+- olasıcı
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: iblis
 letter: I
 lisan: Arapça iblīs
 anlamlar:
-- ► şeytan
+- şeytan
 - Kötü, düzenci kimse
 ozellikler:
 - - isim

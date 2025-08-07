@@ -5,7 +5,7 @@ slug: nurucesmim
 letter: N
 lisan: Arapça nūr + Farsça çeşm + Türkçe -im
 anlamlar:
-- ► gözümün nuru
+- gözümün nuru
 ozellikler:
 - - ünlem
   - eskimiş

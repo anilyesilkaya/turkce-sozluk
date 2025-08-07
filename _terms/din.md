@@ -5,7 +5,7 @@ slug: din
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ilmek (I)
+- ilmek (I)
 ozellikler:
 - - isim
   - ağızlardan

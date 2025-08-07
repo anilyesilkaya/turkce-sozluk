@@ -5,7 +5,7 @@ slug: mahiye
 letter: M
 lisan: Farsça māh + Arapça -iyye
 anlamlar:
-- ► aylık
+- aylık
 - Aylık olarak
 ozellikler:
 - - isim

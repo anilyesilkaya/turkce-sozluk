@@ -5,7 +5,7 @@ slug: kervankiran
 letter: K
 lisan: Farsça kārbān + Türkçe kıran
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: sene
 letter: S
 lisan: Arapça sene
 anlamlar:
-- ► yıl
+- yıl
 ozellikler:
 - - isim
 ornekler:

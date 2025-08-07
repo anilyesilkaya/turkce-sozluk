@@ -5,7 +5,7 @@ slug: peridot
 letter: P
 lisan: Fransızca péridot
 anlamlar:
-- ► olivin
+- olivin
 ozellikler:
 - - isim
   - jeoloji

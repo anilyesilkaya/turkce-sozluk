@@ -5,7 +5,7 @@ slug: olum-cezasi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► idam cezası
+- idam cezası
 ozellikler:
 - - isim
   - hukuk

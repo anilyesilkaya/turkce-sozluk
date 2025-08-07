@@ -5,7 +5,7 @@ slug: mutlak-deger
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► salt değer
+- salt değer
 ozellikler:
 - - isim
   - matematik

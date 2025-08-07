@@ -5,7 +5,7 @@ slug: mesture
 letter: M
 lisan: Arapça mestūre
 anlamlar:
-- ► gizli
+- gizli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: koordinasyon
 letter: K
 lisan: Fransızca coordination
 anlamlar:
-- ► eş güdüm
+- eş güdüm
 ozellikler:
 - - isim
 ornekler:

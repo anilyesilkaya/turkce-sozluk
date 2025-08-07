@@ -5,7 +5,7 @@ slug: dincelmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dinçleşmek
+- dinçleşmek
 ozellikler:
 - - nesnesiz
   - ağızlardan

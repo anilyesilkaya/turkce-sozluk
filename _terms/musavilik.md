@@ -5,7 +5,7 @@ slug: musavilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşitlik
+- eşitlik
 ozellikler:
 - - isim
 ornekler:

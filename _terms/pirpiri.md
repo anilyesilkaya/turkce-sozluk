@@ -5,7 +5,7 @@ slug: pirpiri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pırpırı
+- pırpırı
 ozellikler:
 - - isim
   - tarih

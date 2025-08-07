@@ -5,7 +5,7 @@ slug: orman-dizisi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► orman kuşağı
+- orman kuşağı
 ozellikler:
 - - isim
 ornekler:

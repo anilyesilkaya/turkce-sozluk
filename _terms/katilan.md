@@ -5,7 +5,7 @@ slug: katilan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► müdahil
+- müdahil
 ozellikler:
 - - isim
   - hukuk

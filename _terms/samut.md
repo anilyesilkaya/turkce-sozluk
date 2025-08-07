@@ -5,7 +5,7 @@ slug: samut
 letter: S
 lisan: Arapça ṣamūt
 anlamlar:
-- ► suskun
+- suskun
 ozellikler:
 - - sıfat
   - eskimiş

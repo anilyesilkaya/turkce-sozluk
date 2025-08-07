@@ -5,7 +5,7 @@ slug: musaade
 letter: M
 lisan: Arapça musāʿade
 anlamlar:
-- ► izin
+- izin
 - Elverişli olma, elverişlilik
 ozellikler:
 - - isim

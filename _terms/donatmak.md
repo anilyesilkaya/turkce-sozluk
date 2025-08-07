@@ -6,10 +6,10 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Birinin giyimini sağlamak
-- ► süslemek
+- süslemek
 - Bir şeyin iş görebilmesi için gereken nesneleri, gereçleri katmak; teçhiz etmek
-- ► sövmek
-- ► azarlamak
+- sövmek
+- azarlamak
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: ispirto
 letter: I
 lisan: İtalyanca spirito
 anlamlar:
-- ► alkol
+- alkol
 - İçki için kullanılan bir söz
 ozellikler:
 - - isim

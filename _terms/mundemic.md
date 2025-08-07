@@ -5,7 +5,7 @@ slug: mundemic
 letter: M
 lisan: Arapça mundemic
 anlamlar:
-- ► içkin
+- içkin
 ozellikler:
 - - sıfat
   - felsefe

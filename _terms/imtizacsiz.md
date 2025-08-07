@@ -5,7 +5,7 @@ slug: imtizacsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uyumsuz
+- uyumsuz
 ozellikler:
 - - sıfat
 ornekler:

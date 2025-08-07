@@ -5,7 +5,7 @@ slug: iki-canli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gebe
+- gebe
 ozellikler:
 - - sıfat
   - mecaz

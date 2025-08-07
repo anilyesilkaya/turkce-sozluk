@@ -5,7 +5,7 @@ slug: arboretum
 letter: A
 lisan: Fransızca arboretum
 anlamlar:
-- ► ağaç parkı
+- ağaç parkı
 ozellikler:
 - - isim
 ornekler:

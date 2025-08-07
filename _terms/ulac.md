@@ -5,7 +5,7 @@ slug: ulac
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► zarf-fiil
+- zarf-fiil
 ozellikler:
 - - isim
   - dil bilgisi

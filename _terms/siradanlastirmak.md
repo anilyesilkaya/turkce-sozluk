@@ -5,7 +5,7 @@ slug: siradanlastirmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bayağılaştırmak
+- bayağılaştırmak
 ozellikler:
 - - -i
 ornekler:

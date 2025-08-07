@@ -5,7 +5,7 @@ slug: bezgi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bezginlik
+- bezginlik
 ozellikler:
 - - isim
 ornekler:

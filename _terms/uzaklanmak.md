@@ -5,7 +5,7 @@ slug: uzaklanmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzaklaşmak
+- uzaklaşmak
 - Bir kişiye karşı nazlanmak
 ozellikler:
 - - nesnesiz

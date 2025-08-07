@@ -7,7 +7,7 @@ lisan: Arapça maḥmūl
 anlamlar:
 - Yükletilmiş
 - Yüklü, dolu(II)
-- ► yüklem
+- yüklem
 ozellikler:
 - - sıfat
 - - sıfat

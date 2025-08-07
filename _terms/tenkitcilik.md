@@ -5,7 +5,7 @@ slug: tenkitcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eleştirmenlik
+- eleştirmenlik
 ozellikler:
 - - isim
 ornekler:

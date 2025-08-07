@@ -5,7 +5,7 @@ slug: uslup
 letter: Ü
 lisan: Arapça uslūb
 anlamlar:
-- ► tarz
+- tarz
 - Sanatçının görüş, duyuş ve anlayışındaki kendine özgü anlatış biçimi; biçem, hava, stil
 - Bir türün, bir çağın kendine özgü anlatış biçimi; biçem, tarz, stil
 ozellikler:

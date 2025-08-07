@@ -5,8 +5,8 @@ slug: sirkuler
 letter: S
 lisan: Fransızca circulaire
 anlamlar:
-- ► genelge
-- ► duyurum
+- genelge
+- duyurum
 ozellikler:
 - - isim
 - - isim

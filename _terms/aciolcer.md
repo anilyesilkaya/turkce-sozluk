@@ -5,7 +5,7 @@ slug: aciolcer
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► iletki
+- iletki
 ozellikler:
 - - isim
   - matematik

@@ -5,7 +5,7 @@ slug: itminan
 letter: I
 lisan: Arapça iṭmiʾnān
 anlamlar:
-- ► gönül rahatlığı
+- gönül rahatlığı
 ozellikler:
 - - isim
   - eskimiş

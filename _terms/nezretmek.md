@@ -5,7 +5,7 @@ slug: nezretmek
 letter: N
 lisan: Arapça neẕr + Türkçe etmek
 anlamlar:
-- ► adamak
+- adamak
 ozellikler:
 - - -e
   - -i

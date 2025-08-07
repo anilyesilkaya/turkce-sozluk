@@ -5,7 +5,7 @@ slug: karamsar
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kötümser
+- kötümser
 ozellikler:
 - - sıfat
   - felsefe

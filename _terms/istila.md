@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istīlāʾ
 anlamlar:
 - Bir ülkeyi silah gücüyle ele geçirme
-- ► kaplama
+- kaplama
 ozellikler:
 - - isim
 - - isim

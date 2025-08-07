@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Damarı olan
 - Damarı belirginleşmiş, kabarmış olan
-- ► huysuz
+- huysuz
 ozellikler:
 - - sıfat
 - - sıfat

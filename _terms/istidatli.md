@@ -5,7 +5,7 @@ slug: istidatli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yetenekli
+- yetenekli
 ozellikler:
 - - sıfat
 ornekler:

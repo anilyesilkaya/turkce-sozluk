@@ -5,7 +5,7 @@ slug: gunuleme
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kıskanma
+- kıskanma
 ozellikler:
 - - isim
 ornekler:

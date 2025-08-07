@@ -5,7 +5,7 @@ slug: sua
 letter: Ş
 lisan: Arapça şuʿā
 anlamlar:
-- ► ışın
+- ışın
 ozellikler:
 - - isim
   - eskimiş

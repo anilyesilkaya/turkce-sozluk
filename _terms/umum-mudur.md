@@ -5,7 +5,7 @@ slug: umum-mudur
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel müdür
+- genel müdür
 ozellikler:
 - - isim
   - eskimiş

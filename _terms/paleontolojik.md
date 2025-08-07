@@ -5,7 +5,7 @@ slug: paleontolojik
 letter: P
 lisan: Fransızca paléontologique
 anlamlar:
-- ► taşıl bilimsel
+- taşıl bilimsel
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kursun-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► diş otu
+- diş otu
 ozellikler:
 - - isim
   - bitki bilimi

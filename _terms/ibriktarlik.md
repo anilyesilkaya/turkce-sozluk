@@ -5,7 +5,7 @@ slug: ibriktarlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ibrikçilik
+- ibrikçilik
 ozellikler:
 - - isim
 ornekler:

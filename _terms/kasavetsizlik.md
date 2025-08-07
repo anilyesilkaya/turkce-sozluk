@@ -5,7 +5,7 @@ slug: kasavetsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sıkıntısızlık
+- sıkıntısızlık
 ozellikler:
 - - isim
 ornekler:

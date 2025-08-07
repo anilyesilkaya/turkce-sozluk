@@ -5,7 +5,7 @@ slug: zeyrek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► keten tohumu
+- keten tohumu
 ozellikler:
 - - isim
   - ağızlardan

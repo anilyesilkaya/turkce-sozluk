@@ -5,7 +5,7 @@ slug: acik-senet
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık bono
+- açık bono
 ozellikler:
 - - isim
   - ticaret

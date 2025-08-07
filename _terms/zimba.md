@@ -5,9 +5,9 @@ slug: zimba
 letter: Z
 lisan: Farsça zunbe
 anlamlar:
-- ► delgeç
+- delgeç
 - Delgeçle açılan delik
-- ► tel zımba
+- tel zımba
 ozellikler:
 - - isim
 - - isim

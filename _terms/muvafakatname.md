@@ -5,7 +5,7 @@ slug: muvafakatname
 letter: M
 lisan: Arapça muvāfaḳat + Farsça nāme
 anlamlar:
-- ► muvafakat belgesi
+- muvafakat belgesi
 ozellikler:
 - - isim
   - eskimiş

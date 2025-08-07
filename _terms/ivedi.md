@@ -5,8 +5,8 @@ slug: ivedi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► acele
-- ► acil
+- acele
+- acil
 - Acele olarak
 ozellikler:
 - - sıfat

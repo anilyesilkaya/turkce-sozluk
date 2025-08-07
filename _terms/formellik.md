@@ -5,8 +5,8 @@ slug: formellik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► biçimsellik
-- ► resmîlik
+- biçimsellik
+- resmîlik
 ozellikler:
 - - isim
 - - isim

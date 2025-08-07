@@ -5,7 +5,7 @@ slug: yazili-imtihan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yazılı sınav
+- yazılı sınav
 ozellikler:
 - - isim
 ornekler:

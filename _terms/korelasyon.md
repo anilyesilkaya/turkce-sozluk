@@ -5,7 +5,7 @@ slug: korelasyon
 letter: K
 lisan: Fransızca corrélation
 anlamlar:
-- ► bağıntı
+- bağıntı
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: dinclenmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dinçleşmek
+- dinçleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: corku
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sayı boncuğu
+- sayı boncuğu
 ozellikler:
 - - isim
   - matematik

@@ -5,8 +5,8 @@ slug: aksedebilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yansıyabilme
-- ► yankılanabilme
+- yansıyabilme
+- yankılanabilme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kursunumsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurşunsu
+- kurşunsu
 ozellikler:
 - - sıfat
 ornekler:

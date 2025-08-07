@@ -5,7 +5,7 @@ slug: girisik-tumce
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► girişik cümle
+- girişik cümle
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: sentetik
 letter: S
 lisan: Fransızca synthétique
 anlamlar:
-- ► yapay
+- yapay
 ozellikler:
 - - sıfat
 ornekler:

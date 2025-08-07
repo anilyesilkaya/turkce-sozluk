@@ -5,7 +5,7 @@ slug: alg
 letter: A
 lisan: Fransızca algue
 anlamlar:
-- ► su yosunu
+- su yosunu
 ozellikler:
 - - isim
   - bitki bilimi

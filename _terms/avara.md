@@ -5,7 +5,7 @@ slug: avara
 letter: A
 lisan: Farsça āvāre
 anlamlar:
-- ► avare
+- avare
 - Üzerinde döndüğü ve kendisini taşıyan milden bağımsız olarak çalışan (mekanizma)
 - İşsiz güçsüz dolaşan (kimse)
 ozellikler:

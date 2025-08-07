@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Usule dayalı olarak
-- ► öylesine
+- öylesine
 ozellikler:
 - - zarf
   - hukuk

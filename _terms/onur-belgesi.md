@@ -5,7 +5,7 @@ slug: onur-belgesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şeref belgesi
+- şeref belgesi
 ozellikler:
 - - isim
 ornekler:

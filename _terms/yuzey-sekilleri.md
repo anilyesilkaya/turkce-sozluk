@@ -5,7 +5,7 @@ slug: yuzey-sekilleri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► engebe
+- engebe
 ozellikler:
 - - isim
   - coğrafya

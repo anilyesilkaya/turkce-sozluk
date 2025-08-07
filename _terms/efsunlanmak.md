@@ -5,7 +5,7 @@ slug: efsunlanmak
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► büyülenmek
+- büyülenmek
 ozellikler:
 - - nesnesiz
 ornekler:

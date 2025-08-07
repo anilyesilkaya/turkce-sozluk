@@ -5,7 +5,7 @@ slug: agac-cilegi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ahududu
+- ahududu
 ozellikler:
 - - isim
   - bitki bilimi

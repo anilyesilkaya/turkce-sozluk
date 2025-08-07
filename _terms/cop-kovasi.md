@@ -5,7 +5,7 @@ slug: cop-kovasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çöp sepeti
+- çöp sepeti
 ozellikler:
 - - isim
 ornekler:

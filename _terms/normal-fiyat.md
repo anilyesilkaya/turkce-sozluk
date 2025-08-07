@@ -5,7 +5,7 @@ slug: normal-fiyat
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► maliyet fiyatı
+- maliyet fiyatı
 ozellikler:
 - - isim
   - ticaret

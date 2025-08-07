@@ -5,7 +5,7 @@ slug: deruhte
 letter: D
 lisan: Farsça der + Arapça ʿuhde
 anlamlar:
-- ► üstlenme
+- üstlenme
 ozellikler:
 - - isim
   - eskimiş

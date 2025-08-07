@@ -5,8 +5,8 @@ slug: bakac
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dürbün
-- ► vizör
+- dürbün
+- vizör
 ozellikler:
 - - isim
   - fizik

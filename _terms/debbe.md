@@ -5,7 +5,7 @@ slug: debbe
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► güğüm
+- güğüm
 ozellikler:
 - - isim
   - ağızlardan

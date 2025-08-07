@@ -5,7 +5,7 @@ slug: yabansilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► acayiplik
+- acayiplik
 ozellikler:
 - - isim
 ornekler:

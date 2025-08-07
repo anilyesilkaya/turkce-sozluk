@@ -5,7 +5,7 @@ slug: bitirim-yeri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kumarhane
+- kumarhane
 ozellikler:
 - - isim
   - argo

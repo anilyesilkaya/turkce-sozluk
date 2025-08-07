@@ -5,7 +5,7 @@ slug: artin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► katyon
+- katyon
 ozellikler:
 - - isim
   - kimya

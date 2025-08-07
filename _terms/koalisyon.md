@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca coalition
 anlamlar:
 - Çeşitli güçlerin bir araya gelmesiyle oluşturulan birlik; ortak yönetim
-- ► koalisyon hükûmeti
+- koalisyon hükûmeti
 ozellikler:
 - - isim
 - - isim

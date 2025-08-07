@@ -5,7 +5,7 @@ slug: girnatacilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► klarnetçilik
+- klarnetçilik
 ozellikler:
 - - isim
 ornekler:

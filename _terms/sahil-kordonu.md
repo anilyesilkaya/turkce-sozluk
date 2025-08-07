@@ -5,7 +5,7 @@ slug: sahil-kordonu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kıyı dili
+- kıyı dili
 ozellikler:
 - - isim
   - coğrafya

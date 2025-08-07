@@ -5,7 +5,7 @@ slug: tarla-sicani
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tarla faresi
+- tarla faresi
 ozellikler:
 - - isim
   - hayvan bilimi

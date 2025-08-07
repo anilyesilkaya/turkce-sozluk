@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Birinden ısrarlı bir biçimde, kendine acındıracak sözlerle, saygılı bir biçimde bir şey istemek
-- ► yakarmak
+- yakarmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

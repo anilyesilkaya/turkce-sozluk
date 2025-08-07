@@ -5,7 +5,7 @@ slug: moderator
 letter: M
 lisan: İngilizce moderator
 anlamlar:
-- ► yönlendirici
+- yönlendirici
 ozellikler:
 - - isim
 ornekler:

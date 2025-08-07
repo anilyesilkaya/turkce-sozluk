@@ -5,8 +5,8 @@ slug: deveran
 letter: D
 lisan: Arapça deverān
 anlamlar:
-- ► dönme
-- ► kan dolaşımı
+- dönme
+- kan dolaşımı
 ozellikler:
 - - isim
   - eskimiş

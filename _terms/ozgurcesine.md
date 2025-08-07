@@ -5,7 +5,7 @@ slug: ozgurcesine
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özgürce
+- özgürce
 ozellikler:
 - - zarf
 ornekler:

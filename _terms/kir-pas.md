@@ -5,7 +5,7 @@ slug: kir-pas
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kir
+- kir
 ozellikler:
 - - isim
 ornekler:

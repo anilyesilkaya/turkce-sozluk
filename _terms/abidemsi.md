@@ -5,7 +5,7 @@ slug: abidemsi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anıtsı
+- anıtsı
 ozellikler:
 - - sıfat
 ornekler:

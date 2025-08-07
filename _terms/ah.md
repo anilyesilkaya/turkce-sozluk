@@ -5,7 +5,7 @@ slug: ah
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► öç
+- öç
 - (a:h) Sesin tonuna göre pişmanlık, öfke, özlem, beğenme, sevgi vb. duygular anlatan bir söz
 - (a:h) Ağrı, acı duyulduğunda söylenen bir söz
 ozellikler:

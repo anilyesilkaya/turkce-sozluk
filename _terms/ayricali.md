@@ -5,7 +5,7 @@ slug: ayricali
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayrık
+- ayrık
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kozalagimsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kozalaksı
+- kozalaksı
 ozellikler:
 - - sıfat
 ornekler:

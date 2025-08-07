@@ -5,7 +5,7 @@ slug: kutan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► saka kuşu
+- saka kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: anlak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zekâ
+- zekâ
 ozellikler:
 - - isim
   - ruh bilimi

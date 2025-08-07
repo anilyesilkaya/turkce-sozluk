@@ -5,9 +5,9 @@ slug: tereddutlu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► duraksamalı
+- duraksamalı
 - Tereddüde yol açan
-- ► kararsız
+- kararsız
 ozellikler:
 - - sıfat
 - - sıfat

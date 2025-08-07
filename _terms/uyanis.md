@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Uyanmak işi
 - Hareketsizlikten veya gafletten kurtulma; intibah
-- ► Rönesans
+- Rönesans
 - Bilgisizlikten kurtulma durumu
 ozellikler:
 - - isim

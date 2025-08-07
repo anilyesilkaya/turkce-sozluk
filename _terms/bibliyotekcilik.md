@@ -5,7 +5,7 @@ slug: bibliyotekcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kütüphanecilik
+- kütüphanecilik
 ozellikler:
 - - isim
 ornekler:

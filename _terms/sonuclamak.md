@@ -5,7 +5,7 @@ slug: sonuclamak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ►  sonuçlandırmak
+- ' sonuçlandırmak'
 ozellikler:
 - - -i
 ornekler:

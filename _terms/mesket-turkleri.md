@@ -5,7 +5,7 @@ slug: mesket-turkleri
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Ahıska Türkleri
+- Ahıska Türkleri
 ozellikler:
 - - isim
 ornekler:

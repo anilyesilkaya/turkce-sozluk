@@ -5,7 +5,7 @@ slug: borsa-komisyonculugu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► borsa aracılığı
+- borsa aracılığı
 ozellikler:
 - - isim
   - ekonomi

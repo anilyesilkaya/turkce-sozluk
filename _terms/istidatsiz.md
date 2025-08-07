@@ -5,7 +5,7 @@ slug: istidatsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yeteneksiz
+- yeteneksiz
 ozellikler:
 - - sıfat
 ornekler:

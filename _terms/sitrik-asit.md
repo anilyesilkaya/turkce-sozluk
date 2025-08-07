@@ -5,7 +5,7 @@ slug: sitrik-asit
 letter: S
 lisan: Fransızca acide citrique
 anlamlar:
-- ► limon tuzu
+- limon tuzu
 ozellikler:
 - - isim
   - kimya

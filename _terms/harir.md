@@ -5,7 +5,7 @@ slug: harir
 letter: H
 lisan: Arapça ḥarīr
 anlamlar:
-- ► ipek
+- ipek
 ozellikler:
 - - isim
   - eskimiş

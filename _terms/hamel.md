@@ -5,7 +5,7 @@ slug: hamel
 letter: H
 lisan: Arapça ḥamel
 anlamlar:
-- ► Koç Burcu
+- Koç Burcu
 ozellikler:
 - - isim
   - gök bilimi

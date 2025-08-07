@@ -5,7 +5,7 @@ slug: yikkin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► harap
+- harap
 ozellikler:
 - - sıfat
 ornekler:

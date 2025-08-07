@@ -5,7 +5,7 @@ slug: bes-beter
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► besbeter
+- besbeter
 ozellikler:
 - - sıfat
 ornekler:

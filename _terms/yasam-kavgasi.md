@@ -5,7 +5,7 @@ slug: yasam-kavgasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat mücadelesi
+- hayat mücadelesi
 ozellikler:
 - - isim
   - mecaz

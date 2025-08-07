@@ -5,9 +5,9 @@ slug: ilinti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilişki
+- ilişki
 - İnsanlar arasındaki bağ
-- ► teyel
+- teyel
 - İç sıkıntısı
 ozellikler:
 - - isim

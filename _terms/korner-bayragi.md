@@ -5,7 +5,7 @@ slug: korner-bayragi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köşe bayrağı
+- köşe bayrağı
 ozellikler:
 - - isim
   - spor

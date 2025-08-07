@@ -5,7 +5,7 @@ slug: salname
 letter: S
 lisan: Farsça sāl + nāme
 anlamlar:
-- ► yıllık
+- yıllık
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: boylu-boslu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boylu poslu
+- boylu poslu
 ozellikler:
 - - sıfat
 ornekler:

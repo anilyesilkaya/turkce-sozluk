@@ -5,7 +5,7 @@ slug: egotizm
 letter: E
 lisan: Fransızca égotisme
 anlamlar:
-- ► benlikçilik
+- benlikçilik
 ozellikler:
 - - isim
   - felsefe

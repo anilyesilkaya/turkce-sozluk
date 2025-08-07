@@ -5,7 +5,7 @@ slug: simyaci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► alşimist
+- alşimist
 ozellikler:
 - - isim
 ornekler:

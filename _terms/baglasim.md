@@ -5,7 +5,7 @@ slug: baglasim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► eşleme
+- eşleme
 - Aralarında ortak çıkar bulunan devletler ilişkisi
 - Bir dizgenin veya alt dizgenin başka bir dizge üzerindeki etkisi
 ozellikler:

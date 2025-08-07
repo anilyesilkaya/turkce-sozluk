@@ -5,7 +5,7 @@ slug: ole
 letter: O
 lisan: İspanyolca ole
 anlamlar:
-- ► yaşa
+- yaşa
 ozellikler:
 - - ünlem
 ornekler:

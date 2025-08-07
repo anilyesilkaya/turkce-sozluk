@@ -5,7 +5,7 @@ slug: ciyaklamak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cıyaklamak
+- cıyaklamak
 ozellikler:
 - - nesnesiz
 ornekler:

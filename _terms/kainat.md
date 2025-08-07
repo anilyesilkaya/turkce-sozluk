@@ -5,8 +5,8 @@ slug: kainat
 letter: K
 lisan: Arapça kāʾināt
 anlamlar:
-- ► evren
-- ► herkes
+- evren
+- herkes
 ozellikler:
 - - isim
   - gök bilimi

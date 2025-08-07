@@ -5,7 +5,7 @@ slug: amperolcer
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akımölçer
+- akımölçer
 ozellikler:
 - - isim
   - fizik

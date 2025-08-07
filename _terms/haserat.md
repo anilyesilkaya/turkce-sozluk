@@ -5,7 +5,7 @@ slug: haserat
 letter: H
 lisan: Arapça ḥaşerāt
 anlamlar:
-- ► böcekler
+- böcekler
 - Değersiz ve zararlı kimseler
 ozellikler:
 - - isim

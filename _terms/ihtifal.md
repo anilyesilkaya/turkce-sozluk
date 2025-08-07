@@ -5,7 +5,7 @@ slug: ihtifal
 letter: I
 lisan: Arapça iḥtifāl
 anlamlar:
-- ► anma töreni
+- anma töreni
 ozellikler:
 - - isim
   - eskimiş

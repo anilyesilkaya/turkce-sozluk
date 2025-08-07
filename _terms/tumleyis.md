@@ -5,7 +5,7 @@ slug: tumleyis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünleyiş
+- bütünleyiş
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Azameti olmayan
-- ► gurursuz
+- gurursuz
 ozellikler:
 - - sıfat
 - - sıfat

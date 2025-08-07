@@ -5,7 +5,7 @@ slug: aktorecilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ahlakçılık
+- ahlakçılık
 ozellikler:
 - - isim
   - felsefe

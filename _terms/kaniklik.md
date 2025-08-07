@@ -5,7 +5,7 @@ slug: kaniklik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kanaatkârlık
+- kanaatkârlık
 ozellikler:
 - - isim
 ornekler:

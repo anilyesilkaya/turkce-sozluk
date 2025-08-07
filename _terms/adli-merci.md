@@ -5,7 +5,7 @@ slug: adli-merci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adli makam
+- adli makam
 ozellikler:
 - - isim
   - hukuk

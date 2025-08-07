@@ -5,7 +5,7 @@ slug: perdeli-pilav
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► perde pilavı
+- perde pilavı
 ozellikler:
 - - isim
 ornekler:

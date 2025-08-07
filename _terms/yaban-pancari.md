@@ -5,7 +5,7 @@ slug: yaban-pancari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pazı (I)
+- pazı (I)
 ozellikler:
 - - isim
   - bitki bilimi

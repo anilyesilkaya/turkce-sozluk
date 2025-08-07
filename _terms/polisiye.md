@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca policier
 anlamlar:
 - Konusu polisin ilgilendiği alanlarda olan (olay, roman, film vb.)
-- ► polislik
+- polislik
 ozellikler:
 - - sıfat
 - - sıfat

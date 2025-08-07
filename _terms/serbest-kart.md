@@ -5,7 +5,7 @@ slug: serbest-kart
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► giriş kartı
+- giriş kartı
 ozellikler:
 - - isim
 ornekler:

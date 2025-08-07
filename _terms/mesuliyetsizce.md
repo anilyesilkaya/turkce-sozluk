@@ -5,7 +5,7 @@ slug: mesuliyetsizce
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorumsuzca
+- sorumsuzca
 ozellikler:
 - - zarf
 ornekler:

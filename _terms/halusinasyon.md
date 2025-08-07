@@ -5,7 +5,7 @@ slug: halusinasyon
 letter: H
 lisan: Fransızca hallucination
 anlamlar:
-- ► sanrı
+- sanrı
 ozellikler:
 - - isim
   - ruh bilimi

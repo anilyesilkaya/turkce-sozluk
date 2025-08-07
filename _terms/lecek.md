@@ -5,7 +5,7 @@ slug: lecek
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► başörtüsü
+- başörtüsü
 ozellikler:
 - - isim
   - ağızlardan

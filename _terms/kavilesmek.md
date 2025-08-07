@@ -5,7 +5,7 @@ slug: kavilesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaşmak
+- sağlamlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: ipeka
 letter: I
 lisan: Fransızca ipéca
 anlamlar:
-- ► altın kökü
+- altın kökü
 ozellikler:
 - - isim
   - bitki bilimi

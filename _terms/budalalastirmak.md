@@ -5,7 +5,7 @@ slug: budalalastirmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aptallaştırmak
+- aptallaştırmak
 ozellikler:
 - - -i
 ornekler:

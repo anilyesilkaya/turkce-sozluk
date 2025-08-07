@@ -5,7 +5,7 @@ slug: inkisarihayal
 letter: I
 lisan: Arapça inkisār + ḫayāl
 anlamlar:
-- ► hayal kırıklığı
+- hayal kırıklığı
 ozellikler:
 - - isim
   - eskimiş

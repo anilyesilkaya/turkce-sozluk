@@ -5,7 +5,7 @@ slug: termitler
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► akkarıncalar
+- akkarıncalar
 ozellikler:
 - - isim
   - hayvan bilimi

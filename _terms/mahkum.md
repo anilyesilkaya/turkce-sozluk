@@ -5,7 +5,7 @@ slug: mahkum
 letter: M
 lisan: Arapça maḥkūm
 anlamlar:
-- ► hükümlü
+- hükümlü
 - Zorunda olan; mecbur
 - Kötü bir sonuca varması kaçınılmaz olan
 ozellikler:

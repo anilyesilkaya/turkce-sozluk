@@ -5,7 +5,7 @@ slug: penalti-alani
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ceza alanı
+- ceza alanı
 ozellikler:
 - - isim
   - spor

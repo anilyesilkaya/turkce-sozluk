@@ -5,7 +5,7 @@ slug: domifinal
 letter: D
 lisan: Fransızca demi-finale
 anlamlar:
-- ► yarı final
+- yarı final
 ozellikler:
 - - isim
   - spor

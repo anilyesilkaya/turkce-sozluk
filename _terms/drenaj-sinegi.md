@@ -5,7 +5,7 @@ slug: drenaj-sinegi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lağım sineği
+- lağım sineği
 ozellikler:
 - - isim
   - hayvan bilimi

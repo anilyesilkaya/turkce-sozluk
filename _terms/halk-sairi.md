@@ -5,7 +5,7 @@ slug: halk-sairi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► halk ozanı
+- halk ozanı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bellek-kaybi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bellek yitimi
+- bellek yitimi
 ozellikler:
 - - isim
   - tıp

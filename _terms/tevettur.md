@@ -5,8 +5,8 @@ slug: tevettur
 letter: T
 lisan: Arapça tevettur
 anlamlar:
-- ► gerilme
-- ► gerilim
+- gerilme
+- gerilim
 ozellikler:
 - - isim
   - eskimiş

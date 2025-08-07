@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
 - Bu hayvanın ördüğü ağ
-- ► yürüteç
+- yürüteç
 ozellikler:
 - - isim
   - hayvan bilimi

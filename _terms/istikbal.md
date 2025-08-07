@@ -5,8 +5,8 @@ slug: istikbal
 letter: I
 lisan: Arapça istiḳbāl
 anlamlar:
-- ► gelecek
-- ► karşılama
+- gelecek
+- karşılama
 ozellikler:
 - - isim
 - - isim

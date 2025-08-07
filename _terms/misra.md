@@ -5,7 +5,7 @@ slug: misra
 letter: M
 lisan: Arapça miṣrāʿ
 anlamlar:
-- ► dize
+- dize
 ozellikler:
 - - isim
   - edebiyat

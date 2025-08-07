@@ -5,7 +5,7 @@ slug: kimilti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıpırtı
+- kıpırtı
 ozellikler:
 - - isim
 ornekler:

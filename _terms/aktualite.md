@@ -5,7 +5,7 @@ slug: aktualite
 letter: A
 lisan: Fransızca actualité
 anlamlar:
-- ► güncellik
+- güncellik
 - Günün olayı veya konusu
 ozellikler:
 - - isim

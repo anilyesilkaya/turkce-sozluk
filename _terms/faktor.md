@@ -5,8 +5,8 @@ slug: faktor
 letter: F
 lisan: Fransızca facteur
 anlamlar:
-- ► etken
-- ► etmen
+- etken
+- etmen
 ozellikler:
 - - isim
 - - isim

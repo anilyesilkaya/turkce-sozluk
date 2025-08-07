@@ -5,7 +5,7 @@ slug: birinci-sinif
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birinci mevki
+- birinci mevki
 - Derecelendirmede ilk sırada olan
 - Nitelik olarak en iyisi olan
 - Öğretim kurumlarında ilk yıl

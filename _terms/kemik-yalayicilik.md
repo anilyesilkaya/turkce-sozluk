@@ -5,7 +5,7 @@ slug: kemik-yalayicilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
 ornekler:

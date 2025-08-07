@@ -5,7 +5,7 @@ slug: iyelik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sahiplik
+- sahiplik
 ozellikler:
 - - isim
 ornekler:

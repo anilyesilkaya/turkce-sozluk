@@ -5,7 +5,7 @@ slug: savasim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mücadele
+- mücadele
 ozellikler:
 - - isim
 ornekler:

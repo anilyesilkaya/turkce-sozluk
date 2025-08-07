@@ -5,7 +5,7 @@ slug: saldirmazlik-antlasmasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saldırmazlık paktı
+- saldırmazlık paktı
 ozellikler:
 - - isim
   - hukuk

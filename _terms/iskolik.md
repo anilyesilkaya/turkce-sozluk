@@ -5,7 +5,7 @@ slug: iskolik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► işsever
+- işsever
 ozellikler:
 - - sıfat
 ornekler:

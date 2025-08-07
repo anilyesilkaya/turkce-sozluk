@@ -5,7 +5,7 @@ slug: siradanlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bayağılık
+- bayağılık
 ozellikler:
 - - isim
 ornekler:

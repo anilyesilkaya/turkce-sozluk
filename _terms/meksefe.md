@@ -5,7 +5,7 @@ slug: meksefe
 letter: M
 lisan: Arapça miks̱efe
 anlamlar:
-- ► kondansatör
+- kondansatör
 - Otomobillerde kondansatör görevini yapan parça
 ozellikler:
 - - isim

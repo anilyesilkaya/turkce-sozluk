@@ -5,7 +5,7 @@ slug: illuzyonist
 letter: I
 lisan: Fransızca illusionniste
 anlamlar:
-- ► göz bağıcı
+- göz bağıcı
 ozellikler:
 - - isim
 ornekler:

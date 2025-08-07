@@ -5,7 +5,7 @@ slug: sanatkar
 letter: S
 lisan: Arapça ṣanʿat + Farsça -kār
 anlamlar:
-- ► sanatçı
+- sanatçı
 - El ile yaptığı işi kendisine meslek edinen işçi veya usta
 - Bir işi ustalıkla yapan, usta, mahir
 ozellikler:

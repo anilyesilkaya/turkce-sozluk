@@ -5,7 +5,7 @@ slug: mors
 letter: M
 lisan: Fransızca morse
 anlamlar:
-- ► Mors alfabesi
+- Mors alfabesi
 - Bu işaretleri almaya ve göndermeye yarayan alet
 - Gizli işaret
 ozellikler:

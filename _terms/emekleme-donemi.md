@@ -5,7 +5,7 @@ slug: emekleme-donemi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► emekleme çağı
+- emekleme çağı
 ozellikler:
 - - isim
   - mecaz

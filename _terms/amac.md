@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Elde edilmesi gereken, ulaşılmak istenilen sonuç; erek, gaye, garaz, kasıt, maksat, murat, niyet
-- ► hedef
+- hedef
 - Bir kimseye veya bir kurula verilen özel amaçlı görev; misyon
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Hafif kaynamayı anlatan yansıma sesinin adı
-- ► cilveleşme
+- cilveleşme
 ozellikler:
 - - isim
 - - isim

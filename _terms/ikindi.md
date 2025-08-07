@@ -6,8 +6,8 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanın gölgesinin iki katına çıktığı andan güneşin batışına kadar geçen zaman dilimi
-- ► ikindi ezanı
-- ► ikindi namazı
+- ikindi ezanı
+- ikindi namazı
 ozellikler:
 - - isim
 - - isim

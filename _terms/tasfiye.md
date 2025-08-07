@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taṣfiye
 anlamlar:
 - Arıtma, ayıklama, temizleme
-- ► özleştirme
+- özleştirme
 - Bir ticaret kuruluşunun batması, kapanması vb. sebepler üzerine hesapların kesilmesi, alacaklılara, ortada kalan mal ve paradan paylarına düşen miktarın verilmesi; likidasyon
 - Bir kurum veya iş yerinde türlü sebeplerle birçok kimsenin görevine son verme
 ozellikler:

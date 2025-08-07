@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Karşısındakilerin kırılacağını bildiği hâlde duygularını veya isteklerini söylemekten çekinmeyen (kimse)
-- ► utanmaz
+- utanmaz
 ozellikler:
 - - sıfat
   - mecaz

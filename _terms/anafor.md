@@ -5,7 +5,7 @@ slug: anafor
 letter: A
 lisan: Rumca
 anlamlar:
-- ► girdap
+- girdap
 - Karmakarışık bir durum
 - Yolsuzluk yapılarak elde edilen şey
 ozellikler:

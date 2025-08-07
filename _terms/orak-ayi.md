@@ -5,7 +5,7 @@ slug: orak-ayi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► temmuz
+- temmuz
 ozellikler:
 - - isim
   - ağızlardan

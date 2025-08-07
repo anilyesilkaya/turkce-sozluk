@@ -5,7 +5,7 @@ slug: daloglen
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dalöğle
+- dalöğle
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: muteriz
 letter: M
 lisan: Arapça muʿteriż
 anlamlar:
-- ► itirazcı
+- itirazcı
 - İtiraz eden (kimse)
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: ankesorlu-telefon
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kutulu telefon
+- kutulu telefon
 ozellikler:
 - - isim
 ornekler:

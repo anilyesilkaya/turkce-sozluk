@@ -5,7 +5,7 @@ slug: standart-dil
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ölçünlü dil
+- ölçünlü dil
 ozellikler:
 - - isim
   - dil bilimi

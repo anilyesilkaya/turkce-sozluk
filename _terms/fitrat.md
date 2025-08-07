@@ -5,7 +5,7 @@ slug: fitrat
 letter: F
 lisan: Arapça fiṭrat
 anlamlar:
-- ► yaradılış
+- yaradılış
 ozellikler:
 - - isim
   - eskimiş

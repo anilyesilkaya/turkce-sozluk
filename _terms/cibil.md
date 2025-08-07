@@ -5,7 +5,7 @@ slug: cibil
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çıplak
+- çıplak
 - Yoksul, parasız, geçim darlığı çeken (kimse)
 ozellikler:
 - - sıfat

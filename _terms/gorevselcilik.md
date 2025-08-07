@@ -5,7 +5,7 @@ slug: gorevselcilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► işlevcilik
+- işlevcilik
 ozellikler:
 - - isim
 ornekler:

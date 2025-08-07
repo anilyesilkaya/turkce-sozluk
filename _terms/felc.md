@@ -5,7 +5,7 @@ slug: felc
 letter: F
 lisan: Arapça felc
 anlamlar:
-- ► inme
+- inme
 - İşlemez durumda olma
 ozellikler:
 - - isim

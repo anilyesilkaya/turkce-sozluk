@@ -5,8 +5,8 @@ slug: ikirciklik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkuculuk
-- ► kararsızlık
+- kuşkuculuk
+- kararsızlık
 ozellikler:
 - - isim
 - - isim

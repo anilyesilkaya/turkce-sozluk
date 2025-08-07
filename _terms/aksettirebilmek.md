@@ -5,8 +5,8 @@ slug: aksettirebilmek
 letter: A
 lisan: Arapça ʿaks + Türkçe ettirebilmek
 anlamlar:
-- ► yansıtabilmek
-- ► yankılatabilmek
+- yansıtabilmek
+- yankılatabilmek
 ozellikler:
 - - -i
 - - -i

@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Kol ile omzun birleştiği yer
-- ► yanı başı
+- yanı başı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: taraba
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tahta perde
+- tahta perde
 ozellikler:
 - - isim
   - ağızlardan

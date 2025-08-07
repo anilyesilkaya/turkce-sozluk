@@ -5,7 +5,7 @@ slug: fesatci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► arabozan
+- arabozan
 ozellikler:
 - - isim
 ornekler:

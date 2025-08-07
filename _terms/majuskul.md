@@ -5,7 +5,7 @@ slug: majuskul
 letter: M
 lisan: Fransızca majuscule
 anlamlar:
-- ► büyük harf
+- büyük harf
 ozellikler:
 - - isim
   - dil bilgisi

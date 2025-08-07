@@ -5,7 +5,7 @@ slug: diyabetolog
 letter: D
 lisan: Fransızca diabétologue
 anlamlar:
-- ► diyabet uzmanı
+- diyabet uzmanı
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: toleranslilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hoşgörülülük
+- hoşgörülülük
 ozellikler:
 - - isim
 ornekler:

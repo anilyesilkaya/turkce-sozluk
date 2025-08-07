@@ -5,7 +5,7 @@ slug: meryemanaeldiveni
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çan çiçeği
+- çan çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

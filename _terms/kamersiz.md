@@ -5,7 +5,7 @@ slug: kamersiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► aysız
+- aysız
 ozellikler:
 - - sıfat
 ornekler:

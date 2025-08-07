@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muṭāvaʿat
 anlamlar:
 - Boyun eğme
-- ► dönüşlü
+- dönüşlü
 ozellikler:
 - - isim
   - eskimiş

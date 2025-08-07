@@ -5,7 +5,7 @@ slug: uluslasma
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletleşme
+- milletleşme
 ozellikler:
 - - isim
 ornekler:

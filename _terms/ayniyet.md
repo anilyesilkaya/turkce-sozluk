@@ -5,7 +5,7 @@ slug: ayniyet
 letter: A
 lisan: Arapça ʿayniyyet
 anlamlar:
-- ► aynılık
+- aynılık
 ozellikler:
 - - isim
   - eskimiş

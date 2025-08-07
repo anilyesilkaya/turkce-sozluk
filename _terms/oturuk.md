@@ -5,7 +5,7 @@ slug: oturuk
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ishal
+- ishal
 ozellikler:
 - - isim
   - ağızlardan

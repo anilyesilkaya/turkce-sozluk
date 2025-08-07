@@ -5,7 +5,7 @@ slug: sari-uygurca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Sarı Uygur Türkçesi
+- Sarı Uygur Türkçesi
 ozellikler:
 - - isim
   - dil bilgisi

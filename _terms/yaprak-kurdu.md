@@ -5,7 +5,7 @@ slug: yaprak-kurdu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaprak böceği
+- yaprak böceği
 ozellikler:
 - - isim
   - hayvan bilimi

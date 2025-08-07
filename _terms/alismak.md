@@ -9,11 +9,11 @@ anlamlar:
 - Yadırgamaz duruma gelmek
 - Uyar duruma gelmek, intibak etmek
 - Sürekli ister olmak, bağımlılık kazanmak
-- ► ısınmak
+- ısınmak
 - Yaban hayvanı evcil duruma gelmek
-- ► tutuşmak
+- tutuşmak
 - Dayanıklı bir duruma gelmek
-- ► kanıksamak
+- kanıksamak
 ozellikler:
 - - -e
 - - -e

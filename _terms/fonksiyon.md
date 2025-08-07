@@ -5,7 +5,7 @@ slug: fonksiyon
 letter: F
 lisan: Fransızca fonction
 anlamlar:
-- ► işlev
+- işlev
 - Bir kümedeki her bir elemanı diğer bir kümede yalnız bir elemana bağlayan kural
 - Bir birleşikteki herhangi bir madde grubunun kimyasal görevi, bu görevi nitelendiren özelliklerin tamamı
 ozellikler:

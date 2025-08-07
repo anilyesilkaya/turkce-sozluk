@@ -5,7 +5,7 @@ slug: veyahut
 letter: V
 lisan: Arapça ve + Farsça yāḫõd
 anlamlar:
-- ► veya
+- veya
 ozellikler:
 - - bağlaç
 ornekler:

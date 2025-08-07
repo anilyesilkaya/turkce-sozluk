@@ -5,7 +5,7 @@ slug: dendrolojist
 letter: D
 lisan: Fransızca dendrologiste
 anlamlar:
-- ► ağaç bilimci
+- ağaç bilimci
 ozellikler:
 - - isim
   - bitki bilimi

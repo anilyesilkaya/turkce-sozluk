@@ -5,7 +5,7 @@ slug: kosulsuz-tepke
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartsız refleks
+- şartsız refleks
 ozellikler:
 - - isim
   - ruh bilimi

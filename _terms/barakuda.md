@@ -5,7 +5,7 @@ slug: barakuda
 letter: B
 lisan: İspanyolca barracuda
 anlamlar:
-- ► deniz turnası
+- deniz turnası
 ozellikler:
 - - isim
   - hayvan bilimi

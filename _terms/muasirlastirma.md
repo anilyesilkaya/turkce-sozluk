@@ -5,7 +5,7 @@ slug: muasirlastirma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çağdaşlaştırma
+- çağdaşlaştırma
 ozellikler:
 - - isim
 ornekler:

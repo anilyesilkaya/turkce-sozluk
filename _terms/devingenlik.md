@@ -5,7 +5,7 @@ slug: devingenlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► hareketlilik
+- hareketlilik
 ozellikler:
 - - isim
 ornekler:

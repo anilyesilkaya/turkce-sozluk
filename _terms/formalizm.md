@@ -5,7 +5,7 @@ slug: formalizm
 letter: F
 lisan: Fransızca formalisme
 anlamlar:
-- ► biçimcilik
+- biçimcilik
 ozellikler:
 - - isim
   - felsefe

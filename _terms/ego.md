@@ -5,7 +5,7 @@ slug: ego
 letter: E
 lisan: Latince
 anlamlar:
-- ► ben (III)
+- ben (III)
 ozellikler:
 - - isim
   - felsefe

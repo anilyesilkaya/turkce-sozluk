@@ -5,7 +5,7 @@ slug: taklidi-kelime
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yansımalı kelime
+- yansımalı kelime
 ozellikler:
 - - isim
   - eskimiş

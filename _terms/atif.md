@@ -7,7 +7,7 @@ lisan: Arapça ʿaṭf
 anlamlar:
 - Bir tarafa çevirme
 - İlişkili bulma
-- ► gönderme
+- gönderme
 - Bir başkasının daha önce yayımlanmış çalışmasına yapılan gönderme
 ozellikler:
 - - isim

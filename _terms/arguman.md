@@ -5,8 +5,8 @@ slug: arguman
 letter: A
 lisan: Fransızca argument
 anlamlar:
-- ► kanıt
-- ► iddia
+- kanıt
+- iddia
 - Bir denklem, bir eşitsizlik veya bir gök cisminin hareketine ait herhangi bir elemanın bağlı bulunduğu belli bir değer
 - Bir çıkış kümesinin değişkeni
 - Bir cetvelde diğer bir sayıyı bulmak için yararlanılan sayı

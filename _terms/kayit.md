@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Pencere çerçevesi
 - Araç, eşya
-- ► yiyecek
+- yiyecek
 ozellikler:
 - - isim
 - - isim

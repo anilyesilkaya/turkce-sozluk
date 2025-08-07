@@ -5,7 +5,7 @@ slug: gremse
 letter: G
 lisan: (Alman İmparatoru Kremintz özel adından)
 anlamlar:
-- ► ikibuçukluk (II)
+- ikibuçukluk (II)
 ozellikler:
 - - isim
 ornekler:

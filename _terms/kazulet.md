@@ -5,7 +5,7 @@ slug: kazulet
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kocaman
+- kocaman
 ozellikler:
 - - sıfat
 ornekler:

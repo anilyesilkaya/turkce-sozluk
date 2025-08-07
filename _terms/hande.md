@@ -5,8 +5,8 @@ slug: hande
 letter: H
 lisan: Farsça ḫande
 anlamlar:
-- ► gülme
-- ► gülüş
+- gülme
+- gülüş
 ozellikler:
 - - isim
   - eskimiş

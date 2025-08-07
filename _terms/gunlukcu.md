@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Günlük yazarı, günlük tutmuş ve yayımlamış olan kimse
-- ► gündelikçi
+- gündelikçi
 ozellikler:
 - - isim
 - - isim

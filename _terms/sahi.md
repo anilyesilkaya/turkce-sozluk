@@ -5,7 +5,7 @@ slug: sahi
 letter: S
 lisan: Arapça ṣaḥīḥ
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
 ornekler:

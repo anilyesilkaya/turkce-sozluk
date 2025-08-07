@@ -5,7 +5,7 @@ slug: iletisme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► haberleşme
+- haberleşme
 ozellikler:
 - - isim
 ornekler:

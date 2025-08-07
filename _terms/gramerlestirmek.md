@@ -5,7 +5,7 @@ slug: gramerlestirmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► dil bilgiselleştirmek
+- dil bilgiselleştirmek
 ozellikler:
 - - -i
   - dil bilgisi

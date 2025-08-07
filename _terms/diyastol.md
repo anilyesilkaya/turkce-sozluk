@@ -6,7 +6,7 @@ letter: D
 lisan: Fransızca diastole
 anlamlar:
 - Sistolden sonra kulakçıkların veya karıncıkların genişlemesi
-- ► gevşeme
+- gevşeme
 ozellikler:
 - - isim
   - fizyoloji

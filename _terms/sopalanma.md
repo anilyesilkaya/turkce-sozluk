@@ -5,7 +5,7 @@ slug: sopalanma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dövülme
+- dövülme
 ozellikler:
 - - isim
 ornekler:

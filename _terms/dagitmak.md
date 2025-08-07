@@ -9,7 +9,7 @@ anlamlar:
 - Belli bir orana göre bölüştürmek; tevzi etmek
 - Herhangi bir şeyi ayrı ayrı kimselere vermek
 - Bir şeyin veya bir yerin düzenini bozmak
-- ► ulaştırmak
+- ulaştırmak
 - Yenilgiye uğratmak
 - Bir topluluğun varlığına son vermek; feshetmek
 - Kurulu bir düzeni bozmak

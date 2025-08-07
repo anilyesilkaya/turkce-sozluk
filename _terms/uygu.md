@@ -5,7 +5,7 @@ slug: uygu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uygulama
+- uygulama
 - İki veya daha fazla şey arasındaki uygunluk ilgisi
 - Aynı anda işitilen iki veya daha çok ses
 ozellikler:

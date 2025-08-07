@@ -5,9 +5,9 @@ slug: cidam
 letter: Ç
 lisan: Moğolca
 anlamlar:
-- ► sabır
+- sabır
 - Dayanıklı olma
-- ► kudret
+- kudret
 ozellikler:
 - - isim
   - eskimiş

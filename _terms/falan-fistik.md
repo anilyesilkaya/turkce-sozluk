@@ -5,7 +5,7 @@ slug: falan-fistik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► falan filan
+- falan filan
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mavera
 letter: M
 lisan: Arapça māverāʾ
 anlamlar:
-- ► öte
+- öte
 - Görülen âlemin ötesi
 ozellikler:
 - - isim

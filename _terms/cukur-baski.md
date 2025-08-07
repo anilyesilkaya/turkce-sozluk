@@ -5,7 +5,7 @@ slug: cukur-baski
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► gravür
+- gravür
 ozellikler:
 - - isim
 ornekler:

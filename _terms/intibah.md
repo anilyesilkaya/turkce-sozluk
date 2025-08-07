@@ -5,8 +5,8 @@ slug: intibah
 letter: I
 lisan: Arapça intibāh
 anlamlar:
-- ► uyanma
-- ► uyanış
+- uyanma
+- uyanış
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: el-topu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► hentbol
+- hentbol
 ozellikler:
 - - isim
   - spor

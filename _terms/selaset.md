@@ -5,7 +5,7 @@ slug: selaset
 letter: S
 lisan: Arapça selāset
 anlamlar:
-- ► akıcılık
+- akıcılık
 ozellikler:
 - - isim
   - edebiyat

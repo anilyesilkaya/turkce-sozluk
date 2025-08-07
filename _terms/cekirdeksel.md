@@ -5,7 +5,7 @@ slug: cekirdeksel
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► nükleer
+- nükleer
 ozellikler:
 - - sıfat
   - fizik

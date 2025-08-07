@@ -5,7 +5,7 @@ slug: toprakbasti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ayakbastı parası
+- ayakbastı parası
 - Şehirden köye, köyden şehre veya bir mahalleden ötekine gelin getirilirken kızevinin oğlanevinden aldığı geleneksel para
 ozellikler:
 - - isim

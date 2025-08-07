@@ -7,13 +7,13 @@ lisan: Fransızca modèle
 anlamlar:
 - Resim, heykel vb. yapılırken baka baka benzetilmeye çalışılan nesne veya kimse; örnek
 - Fotoğraf sanatçılarına poz veren kimse
-- ► örnek
+- örnek
 - Bir özelliği olan nesne veya kişi
-- ► biçim (II)
+- biçim (II)
 - Giysi örneklerini içinde toplayan dergi
 - Otomobil vb.nde tip
-- ► benzer
-- ► manken
+- benzer
+- manken
 - Tasarlanan ürünün tanıtım veya deneme amacıyla üretilen ilk örneği; prototip
 ozellikler:
 - - isim

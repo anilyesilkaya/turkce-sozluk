@@ -5,7 +5,7 @@ slug: ikrah
 letter: I
 lisan: Arapça ikrāh
 anlamlar:
-- ► tiksinme
+- tiksinme
 - İsteği dışında bir şey yaptırma
 ozellikler:
 - - isim

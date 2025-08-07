@@ -5,7 +5,7 @@ slug: e-imza
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik imza
+- elektronik imza
 ozellikler:
 - - isim
 ornekler:

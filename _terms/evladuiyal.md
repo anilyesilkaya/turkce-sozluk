@@ -5,7 +5,7 @@ slug: evladuiyal
 letter: E
 lisan: Arapça evlād + ʿ iyāl
 anlamlar:
-- ► ev halkı
+- ev halkı
 ozellikler:
 - - isim
   - eskimiş

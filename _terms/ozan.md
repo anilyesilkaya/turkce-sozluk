@@ -5,7 +5,7 @@ slug: ozan
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şair
+- şair
 ozellikler:
 - - isim
 ornekler:

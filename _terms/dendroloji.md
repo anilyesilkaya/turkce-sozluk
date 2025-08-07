@@ -5,7 +5,7 @@ slug: dendroloji
 letter: D
 lisan: Fransızca dendrologie
 anlamlar:
-- ► ağaç bilimi
+- ağaç bilimi
 ozellikler:
 - - isim
   - bitki bilimi

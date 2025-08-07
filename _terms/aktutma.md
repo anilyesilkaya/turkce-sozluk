@@ -5,7 +5,7 @@ slug: aktutma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► albümin işeme
+- albümin işeme
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: arkalic
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arkalık
+- arkalık
 ozellikler:
 - - isim
   - ağızlardan

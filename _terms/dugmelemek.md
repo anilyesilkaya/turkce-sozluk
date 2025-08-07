@@ -5,7 +5,7 @@ slug: dugmelemek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iliklemek
+- iliklemek
 ozellikler:
 - - -i
 ornekler:

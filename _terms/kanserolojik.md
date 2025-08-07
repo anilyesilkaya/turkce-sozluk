@@ -5,7 +5,7 @@ slug: kanserolojik
 letter: K
 lisan: Fransızca cancérologique
 anlamlar:
-- ► kanser bilimsel
+- kanser bilimsel
 ozellikler:
 - - sıfat
 ornekler:

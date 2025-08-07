@@ -5,7 +5,7 @@ slug: isloven
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Sloven
+- Sloven
 ozellikler:
 - - isim
 ornekler:

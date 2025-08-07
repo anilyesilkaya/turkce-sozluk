@@ -5,7 +5,7 @@ slug: tapincak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► put (I)
+- put (I)
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hakketme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kakma
+- kakma
 ozellikler:
 - - isim
 ornekler:

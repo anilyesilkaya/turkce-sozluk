@@ -5,7 +5,7 @@ slug: safiyet
 letter: S
 lisan: Arapça ṣāfiyyet
 anlamlar:
-- ► saflık
+- saflık
 ozellikler:
 - - isim
   - eskimiş

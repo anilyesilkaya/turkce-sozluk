@@ -5,7 +5,7 @@ slug: evvel-bahar
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ilkbahar
+- ilkbahar
 ozellikler:
 - - isim
   - eskimiş

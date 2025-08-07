@@ -5,7 +5,7 @@ slug: arter
 letter: A
 lisan: Fransızca artère
 anlamlar:
-- ► atardamar
+- atardamar
 - Trafiği yoğun olan ana yol
 ozellikler:
 - - isim

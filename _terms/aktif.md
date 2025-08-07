@@ -5,7 +5,7 @@ slug: aktif
 letter: A
 lisan: Fransızca actif
 anlamlar:
-- ► etkin
+- etkin
 - Çalışan, çalışmasını sürdüren; faal
 - Bir ticarethanenin, ortaklığın para ile değerlendirilebilen mal ve haklarının tümü
 ozellikler:

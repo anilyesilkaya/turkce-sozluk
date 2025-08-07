@@ -5,7 +5,7 @@ slug: budalalasma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aptallaşma
+- aptallaşma
 ozellikler:
 - - isim
 ornekler:

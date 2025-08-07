@@ -7,7 +7,7 @@ lisan: Arapça mulk
 anlamlar:
 - Ev, dükkân, arazi vb. taşınmaz mal
 - Vakıf olmayıp doğrudan doğruya birinin malı olan yer veya yapı
-- ► ülke
+- ülke
 ozellikler:
 - - isim
 - - isim

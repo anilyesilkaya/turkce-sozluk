@@ -7,8 +7,8 @@ lisan: Arapça ḳadar
 anlamlar:
 - Ölçüsünde, derecesinde; kadarınca
 - Büyüklüğünde, genişliğinde, miktarında
-- ► dek (I)
-- ► gibi
+- dek (I)
+- gibi
 - Bir şeyin, kıyaslandığı diğer bir şey ölçüsünde, derecesinde veya büyüklüğünde olduğunu anlatan bir söz; denli (I), derece
 - Zaman bildiren kelimelerden sonra süre belirten bir söz
 - Miktarda, derecede

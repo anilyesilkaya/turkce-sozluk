@@ -5,7 +5,7 @@ slug: endokrinoloji
 letter: E
 lisan: Fransızca endocrinologie
 anlamlar:
-- ► iç salgı bilimi
+- iç salgı bilimi
 ozellikler:
 - - isim
 ornekler:

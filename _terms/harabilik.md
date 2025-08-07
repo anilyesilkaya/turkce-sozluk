@@ -5,7 +5,7 @@ slug: harabilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haraplık
+- haraplık
 ozellikler:
 - - isim
 ornekler:

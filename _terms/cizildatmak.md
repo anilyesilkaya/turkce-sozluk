@@ -5,7 +5,7 @@ slug: cizildatmak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cızırdatmak
+- cızırdatmak
 ozellikler:
 - - -i
 ornekler:

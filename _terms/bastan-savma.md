@@ -5,8 +5,8 @@ slug: bastan-savma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► üstünkörü
-- ► üstünkörü
+- üstünkörü
+- üstünkörü
 ozellikler:
 - - zarf
 - - zarf

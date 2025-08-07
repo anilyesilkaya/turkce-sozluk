@@ -5,7 +5,7 @@ slug: radyofizyoloji
 letter: R
 lisan: Fransızca radiophysiologie
 anlamlar:
-- ► radyobiyoloji
+- radyobiyoloji
 ozellikler:
 - - isim
   - biyoloji

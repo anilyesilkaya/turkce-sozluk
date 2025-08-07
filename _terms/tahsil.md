@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taḥṣīl
 anlamlar:
 - Parayı alma, toplama
-- ► öğrenim
+- öğrenim
 - Ele geçirme, kazanma
 ozellikler:
 - - isim

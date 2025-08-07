@@ -5,7 +5,7 @@ slug: casit
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► casus
+- casus
 - Ara bozmak amacıyla söz taşıyan kimse
 ozellikler:
 - - isim

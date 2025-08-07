@@ -5,7 +5,7 @@ slug: arzuhal
 letter: A
 lisan: Arapça ʿarż + ḥāl
 anlamlar:
-- ► dilekçe
+- dilekçe
 ozellikler:
 - - isim
 ornekler:

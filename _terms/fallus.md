@@ -5,7 +5,7 @@ slug: fallus
 letter: F
 lisan: Fransızca fallus
 anlamlar:
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - anatomi

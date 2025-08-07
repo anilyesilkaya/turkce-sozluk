@@ -5,7 +5,7 @@ slug: buutlu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boyutlu
+- boyutlu
 ozellikler:
 - - sıfat
 ornekler:

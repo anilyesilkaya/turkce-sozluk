@@ -5,7 +5,7 @@ slug: muhacirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► göçmenlik
+- göçmenlik
 ozellikler:
 - - isim
 ornekler:

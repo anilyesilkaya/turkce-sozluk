@@ -5,7 +5,7 @@ slug: sosyolojik
 letter: S
 lisan: Fransızca sociologique
 anlamlar:
-- ► toplum bilimsel
+- toplum bilimsel
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Orijinal olma durumu
-- ► özgünlük
+- özgünlük
 ozellikler:
 - - isim
 - - isim

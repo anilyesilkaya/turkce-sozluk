@@ -5,7 +5,7 @@ slug: vandoz
 letter: V
 lisan: Fransızca vendeuse
 anlamlar:
-- ► satıcı
+- satıcı
 ozellikler:
 - - isim
 ornekler:

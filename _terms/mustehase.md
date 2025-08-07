@@ -5,7 +5,7 @@ slug: mustehase
 letter: M
 lisan: Arapça musteḥās̱e
 anlamlar:
-- ► fosil
+- fosil
 ozellikler:
 - - isim
   - eskimiş

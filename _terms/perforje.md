@@ -5,7 +5,7 @@ slug: perforje
 letter: P
 lisan: İngilizce perforje
 anlamlar:
-- ► delik
+- delik
 ozellikler:
 - - sıfat
 ornekler:

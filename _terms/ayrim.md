@@ -6,8 +6,8 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırmak işi; tefrik
-- ► fark
-- ► alt bölüm
+- fark
+- alt bölüm
 - Cinsleri ve türleri birbirinden ayıran ana karakter; fark
 - Ayrılma noktası
 - Bir veya daha çok sahne içinde geliştirilip olayın tamamlanmış bir parçasını veren film bölüğü

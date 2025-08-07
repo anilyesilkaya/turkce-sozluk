@@ -5,7 +5,7 @@ slug: endiselice
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılıca
+- kaygılıca
 ozellikler:
 - - zarf
 ornekler:

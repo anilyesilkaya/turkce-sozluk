@@ -5,7 +5,7 @@ slug: tayalik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dadılık
+- dadılık
 ozellikler:
 - - isim
 ornekler:

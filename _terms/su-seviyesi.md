@@ -5,7 +5,7 @@ slug: su-seviyesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► su düzeyi
+- su düzeyi
 ozellikler:
 - - isim
 ornekler:

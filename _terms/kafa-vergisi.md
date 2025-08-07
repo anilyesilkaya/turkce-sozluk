@@ -5,7 +5,7 @@ slug: kafa-vergisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► cizye
+- cizye
 ozellikler:
 - - isim
   - tarih

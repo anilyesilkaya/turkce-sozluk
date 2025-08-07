@@ -5,7 +5,7 @@ slug: pek-basli
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► inatçı
+- inatçı
 ozellikler:
 - - sıfat
   - mecaz

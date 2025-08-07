@@ -5,7 +5,7 @@ slug: yasam-savasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaşama çabası
+- yaşama çabası
 ozellikler:
 - - isim
   - mecaz

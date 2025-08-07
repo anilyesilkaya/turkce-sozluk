@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca caprice
 anlamlar:
 - Geçici, düşüncesizce, değişken istek
-- ► huysuzluk
+- huysuzluk
 ozellikler:
 - - isim
 - - isim

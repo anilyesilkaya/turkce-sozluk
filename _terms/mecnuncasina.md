@@ -5,7 +5,7 @@ slug: mecnuncasina
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mecnunca
+- mecnunca
 ozellikler:
 - - zarf
 ornekler:

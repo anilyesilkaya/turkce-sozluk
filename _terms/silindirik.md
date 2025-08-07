@@ -5,7 +5,7 @@ slug: silindirik
 letter: S
 lisan: Fransızca cylindrique
 anlamlar:
-- ► silindirsel
+- silindirsel
 ozellikler:
 - - sıfat
 ornekler:

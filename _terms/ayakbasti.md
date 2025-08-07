@@ -5,7 +5,7 @@ slug: ayakbasti
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayakbastı parası
+- ayakbastı parası
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: dunyasallik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dünyevilik
+- dünyevilik
 ozellikler:
 - - isim
   - felsefe

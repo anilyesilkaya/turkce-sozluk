@@ -5,7 +5,7 @@ slug: zulfuyar
 letter: Z
 lisan: Farsça zulf + yār
 anlamlar:
-- ► zülüf
+- zülüf
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sezar-mantari
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► imparator mantarı
+- imparator mantarı
 ozellikler:
 - - isim
   - bitki bilimi

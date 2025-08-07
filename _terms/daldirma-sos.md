@@ -5,7 +5,7 @@ slug: daldirma-sos
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dip sos
+- dip sos
 ozellikler:
 - - isim
 ornekler:

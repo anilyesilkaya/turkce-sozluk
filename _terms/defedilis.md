@@ -5,7 +5,7 @@ slug: defedilis
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovuluş
+- kovuluş
 ozellikler:
 - - isim
 ornekler:

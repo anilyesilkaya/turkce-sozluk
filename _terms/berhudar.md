@@ -5,7 +5,7 @@ slug: berhudar
 letter: B
 lisan: Farsça berḫūrdār
 anlamlar:
-- ► mutlu
+- mutlu
 ozellikler:
 - - sıfat
   - eskimiş

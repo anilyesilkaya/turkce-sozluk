@@ -5,7 +5,7 @@ slug: kucuk-sesli-uyumu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küçük ünlü uyumu
+- küçük ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

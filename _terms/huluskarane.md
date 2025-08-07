@@ -5,7 +5,7 @@ slug: huluskarane
 letter: H
 lisan: Arapça ḫulūṣ + Farsça -kār + āne
 anlamlar:
-- ► dalkavukça
+- dalkavukça
 ozellikler:
 - - zarf
 ornekler:

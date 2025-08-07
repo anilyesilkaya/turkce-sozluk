@@ -5,8 +5,8 @@ slug: devran
 letter: D
 lisan: Arapça devrān
 anlamlar:
-- ► dünya
-- ► yazgı
+- dünya
+- yazgı
 - Zaman, çağ
 ozellikler:
 - - isim

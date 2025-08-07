@@ -5,8 +5,8 @@ slug: saik
 letter: S
 lisan: Arapça sāʾiḳ
 anlamlar:
-- ► sebep
-- ► güdü
+- sebep
+- güdü
 ozellikler:
 - - isim
   - eskimiş

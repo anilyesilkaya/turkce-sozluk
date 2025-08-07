@@ -5,7 +5,7 @@ slug: seyrelmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seyrekleşmek
+- seyrekleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

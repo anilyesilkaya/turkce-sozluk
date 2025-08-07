@@ -5,8 +5,8 @@ slug: cife
 letter: C
 lisan: Arapça cīfe
 anlamlar:
-- ► leş
-- ► iğrenç
+- leş
+- iğrenç
 ozellikler:
 - - isim
   - eskimiş

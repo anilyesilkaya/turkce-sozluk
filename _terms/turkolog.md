@@ -5,7 +5,7 @@ slug: turkolog
 letter: T
 lisan: Fransızca turcologue
 anlamlar:
-- ► Türklük bilimci
+- Türklük bilimci
 ozellikler:
 - - isim
 ornekler:

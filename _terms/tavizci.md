@@ -5,7 +5,7 @@ slug: tavizci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ödüncü
+- ödüncü
 ozellikler:
 - - sıfat
 ornekler:

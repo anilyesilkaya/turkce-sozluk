@@ -5,7 +5,7 @@ slug: iri-yari
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iri yapılı
+- iri yapılı
 ozellikler:
 - - sıfat
   - mecaz

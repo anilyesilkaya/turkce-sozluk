@@ -5,7 +5,7 @@ slug: aninda
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 - Aynı anda, o anda yapılan; simultane
 ozellikler:
 - - zarf

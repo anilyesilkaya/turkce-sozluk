@@ -5,7 +5,7 @@ slug: metapsisik
 letter: M
 lisan: Fransızca métapsychique
 anlamlar:
-- ► ruhötesi
+- ruhötesi
 ozellikler:
 - - sıfat
   - ruh bilimi

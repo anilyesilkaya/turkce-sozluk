@@ -5,7 +5,7 @@ slug: egmec
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kavis
+- kavis
 - Çay veya ırmağın kıvrım yaptığı yer
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: asuman
 letter: A
 lisan: Farsça āsmān
 anlamlar:
-- ► gök
+- gök
 ozellikler:
 - - isim
   - eskimiş

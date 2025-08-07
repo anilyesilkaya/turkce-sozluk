@@ -5,7 +5,7 @@ slug: revnak
 letter: R
 lisan: Arapça revnaḳ
 anlamlar:
-- ► parlaklık
+- parlaklık
 ozellikler:
 - - isim
   - eskimiş

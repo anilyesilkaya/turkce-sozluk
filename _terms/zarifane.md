@@ -5,7 +5,7 @@ slug: zarifane
 letter: Z
 lisan: Arapça ẓarįf + Farsça -āne
 anlamlar:
-- ► zarifçe
+- zarifçe
 - Zarife yakışır
 ozellikler:
 - - zarf

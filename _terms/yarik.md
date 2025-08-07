@@ -9,7 +9,7 @@ anlamlar:
 - İnce bir çizgi durumunda açılmış yara
 - Anlaşmazlık durumu
 - Küçük bir ışık demeti elde etmek için ışık kaynağının önüne konulan, saydam olmayan bir düzlem üzerine açılmış, dikdörtgen biçiminde küçük delik
-- ► çatlak
+- çatlak
 - Dişinin cinsel organı
 - Yarılarak açılmış veya yarılarak oluşmuş
 ozellikler:

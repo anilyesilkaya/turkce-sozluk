@@ -5,7 +5,7 @@ slug: baglanti-unsuzu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlayıcı ünsüz
+- bağlayıcı ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

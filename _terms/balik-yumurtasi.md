@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Balıkların genellikle sığ yerlere bıraktıkları, üremelerini sağlayan yumurta
-- ► havyar
+- havyar
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: abuk-subukluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçmalık
+- saçmalık
 ozellikler:
 - - isim
 ornekler:

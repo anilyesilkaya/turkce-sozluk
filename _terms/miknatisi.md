@@ -5,7 +5,7 @@ slug: miknatisi
 letter: M
 lisan: Arapça miḳnāṭīsī
 anlamlar:
-- ► manyetik
+- manyetik
 ozellikler:
 - - sıfat
   - eskimiş

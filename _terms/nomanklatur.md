@@ -5,7 +5,7 @@ slug: nomanklatur
 letter: N
 lisan: Latince
 anlamlar:
-- ► adlar dizgesi
+- adlar dizgesi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: madama
 letter: M
 lisan: Fransızca madame
 anlamlar:
-- ► madam
+- madam
 ozellikler:
 - - isim
 ornekler:

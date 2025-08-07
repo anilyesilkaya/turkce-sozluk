@@ -5,7 +5,7 @@ slug: demoralizasyon
 letter: D
 lisan: Fransızca démoralisation
 anlamlar:
-- ► moral çöküntüsü
+- moral çöküntüsü
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mortlamak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ölmek
+- ölmek
 ozellikler:
 - - nesnesiz
   - argo

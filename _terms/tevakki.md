@@ -5,7 +5,7 @@ slug: tevakki
 letter: T
 lisan: Arapça tevaḳḳī
 anlamlar:
-- ► sakınma
+- sakınma
 ozellikler:
 - - isim
   - eskimiş

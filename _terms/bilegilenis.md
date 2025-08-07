@@ -5,7 +5,7 @@ slug: bilegilenis
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bileniş
+- bileniş
 ozellikler:
 - - isim
 ornekler:

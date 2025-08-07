@@ -5,7 +5,7 @@ slug: hayvan-dami
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► ahır
+- ahır
 ozellikler:
 - - isim
 ornekler:

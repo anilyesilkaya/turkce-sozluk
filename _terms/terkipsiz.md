@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Bileşim içermeyen
-- ► tamlamasız
+- tamlamasız
 ozellikler:
 - - sıfat
 - - sıfat

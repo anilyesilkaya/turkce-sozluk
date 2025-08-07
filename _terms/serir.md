@@ -5,7 +5,7 @@ slug: serir
 letter: Ş
 lisan: Arapça şerīr
 anlamlar:
-- ► kötülükçü
+- kötülükçü
 ozellikler:
 - - isim
   - eskimiş

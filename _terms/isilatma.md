@@ -5,7 +5,7 @@ slug: isilatma
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışıldatma
+- ışıldatma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kafuru
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kâfur
+- kâfur
 ozellikler:
 - - isim
 ornekler:

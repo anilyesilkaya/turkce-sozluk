@@ -5,7 +5,7 @@ slug: elestiriyel
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eleştirel
+- eleştirel
 ozellikler:
 - - sıfat
 ornekler:

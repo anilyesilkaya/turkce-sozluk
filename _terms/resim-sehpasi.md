@@ -5,7 +5,7 @@ slug: resim-sehpasi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► ressam sehpası
+- ressam sehpası
 ozellikler:
 - - isim
 ornekler:

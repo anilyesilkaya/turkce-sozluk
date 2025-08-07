@@ -5,8 +5,8 @@ slug: merhale
 letter: M
 lisan: Arapça merḥale
 anlamlar:
-- ► evre
-- ► aşama
+- evre
+- aşama
 - Bir yolcunun sekiz saatte gidebileceği mesafe
 ozellikler:
 - - isim

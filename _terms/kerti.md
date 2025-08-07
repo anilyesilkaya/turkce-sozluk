@@ -5,7 +5,7 @@ slug: kerti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kerte (I)
+- kerte (I)
 - Bayat olan (ekmek, et)
 ozellikler:
 - - isim

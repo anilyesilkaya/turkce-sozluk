@@ -5,7 +5,7 @@ slug: suvari
 letter: S
 lisan: Farsça sevārī
 anlamlar:
-- ► atlı
+- atlı
 - Ticaret gemilerinde kaptanlık yapan kimse
 ozellikler:
 - - sıfat

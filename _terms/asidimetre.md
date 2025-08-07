@@ -5,7 +5,7 @@ slug: asidimetre
 letter: A
 lisan: Fransızca acidimètre
 anlamlar:
-- ► asitölçer
+- asitölçer
 ozellikler:
 - - isim
   - kimya

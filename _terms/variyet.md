@@ -5,7 +5,7 @@ slug: variyet
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► zenginlik
+- zenginlik
 ozellikler:
 - - isim
   - ağızlardan

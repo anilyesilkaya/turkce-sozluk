@@ -5,7 +5,7 @@ slug: fantazyali
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fantezili
+- fantezili
 ozellikler:
 - - sıfat
 ornekler:

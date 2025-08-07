@@ -5,7 +5,7 @@ slug: kulamparalik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► oğlancılık
+- oğlancılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: on-gosterim
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ilk gösterim
+- ilk gösterim
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: fahri
 letter: F
 lisan: Arapça faḫrī
 anlamlar:
-- ► onursal
-- ► gönüllü
+- onursal
+- gönüllü
 ozellikler:
 - - sıfat
 - - sıfat

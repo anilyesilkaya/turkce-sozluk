@@ -5,7 +5,7 @@ slug: katar
 letter: K
 lisan: Arapça ḳiṭār
 anlamlar:
-- ► tren
+- tren
 - Taşıt dizisi
 - Bir arada giden veya uçan hayvan dizisi
 ozellikler:

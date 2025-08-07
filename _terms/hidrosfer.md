@@ -5,7 +5,7 @@ slug: hidrosfer
 letter: H
 lisan: Fransızca hydrosphère
 anlamlar:
-- ► su yuvarı
+- su yuvarı
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: farta-furta
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fart furt
+- fart furt
 ozellikler:
 - - isim
 ornekler:

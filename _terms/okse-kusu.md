@@ -5,7 +5,7 @@ slug: okse-kusu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► saka kuşu
+- saka kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: istisare
 letter: I
 lisan: Arapça istişāre
 anlamlar:
-- ► danışma
+- danışma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: sindirim-aygiti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sindirim sistemi
+- sindirim sistemi
 ozellikler:
 - - isim
 ornekler:

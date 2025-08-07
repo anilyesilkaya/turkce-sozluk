@@ -5,7 +5,7 @@ slug: caniyane
 letter: C
 lisan: Arapça cāni + Farsça -āne
 anlamlar:
-- ► canice
+- canice
 - Canice olan
 ozellikler:
 - - zarf

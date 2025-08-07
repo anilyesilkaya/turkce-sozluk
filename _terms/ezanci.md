@@ -5,7 +5,7 @@ slug: ezanci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► müezzin
+- müezzin
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cati-arasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tavan arası
+- tavan arası
 ozellikler:
 - - isim
 ornekler:

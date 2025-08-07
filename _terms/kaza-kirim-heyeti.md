@@ -5,7 +5,7 @@ slug: kaza-kirim-heyeti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaza kırım ekibi
+- kaza kırım ekibi
 ozellikler:
 - - isim
 ornekler:

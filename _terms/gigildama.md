@@ -5,7 +5,7 @@ slug: gigildama
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► agulama
+- agulama
 ozellikler:
 - - isim
   - edebiyat

@@ -5,8 +5,8 @@ slug: tez-beri
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kolaylıkla
-- ► çabucak
+- kolaylıkla
+- çabucak
 ozellikler:
 - - zarf
   - ağızlardan

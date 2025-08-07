@@ -5,7 +5,7 @@ slug: delecek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► delgeç
+- delgeç
 ozellikler:
 - - isim
   - ağızlardan

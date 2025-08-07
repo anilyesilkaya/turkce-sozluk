@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Değeri olmayan veya değeri çok az olan; derme çatma, kıymetsiz
-- ► müptezel
+- müptezel
 ozellikler:
 - - sıfat
 - - sıfat

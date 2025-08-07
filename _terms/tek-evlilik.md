@@ -5,7 +5,7 @@ slug: tek-evlilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tek eşlilik
+- tek eşlilik
 ozellikler:
 - - isim
   - toplum bilimi

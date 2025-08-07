@@ -5,7 +5,7 @@ slug: kapuson
 letter: K
 lisan: Fransızca capuchon
 anlamlar:
-- ► başlık
+- başlık
 ozellikler:
 - - isim
 ornekler:

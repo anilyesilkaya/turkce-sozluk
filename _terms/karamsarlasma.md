@@ -5,7 +5,7 @@ slug: karamsarlasma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kötümserleşme
+- kötümserleşme
 ozellikler:
 - - isim
 ornekler:

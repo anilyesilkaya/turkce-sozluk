@@ -5,7 +5,7 @@ slug: insiyak
 letter: I
 lisan: Arapça insiyāḳ
 anlamlar:
-- ► içgüdü
+- içgüdü
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: fena-kalplilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kötü kalplilik
+- kötü kalplilik
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça teʾmīn
 anlamlar:
 - Korkusunu giderme, inanç verme
 - Sağlama, elde etme
-- ► gerçekleştirme
+- gerçekleştirme
 ozellikler:
 - - isim
 - - isim

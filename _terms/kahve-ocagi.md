@@ -5,7 +5,7 @@ slug: kahve-ocagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çay ocağı
+- çay ocağı
 ozellikler:
 - - isim
 ornekler:

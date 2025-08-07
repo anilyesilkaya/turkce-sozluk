@@ -5,7 +5,7 @@ slug: propolis
 letter: P
 lisan: Yunanca
 anlamlar:
-- ► arı zamkı
+- arı zamkı
 ozellikler:
 - - isim
 ornekler:

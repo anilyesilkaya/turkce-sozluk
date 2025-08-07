@@ -5,7 +5,7 @@ slug: epifit
 letter: E
 lisan: Fransızca épiphyte
 anlamlar:
-- ► üst bitken
+- üst bitken
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: bulug
 letter: B
 lisan: Arapça bulūġ
 anlamlar:
-- ► ergenleşme
+- ergenleşme
 ozellikler:
 - - isim
 ornekler:

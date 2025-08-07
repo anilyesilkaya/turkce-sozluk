@@ -5,7 +5,7 @@ slug: interaktif
 letter: I
 lisan: İngilizce interactive
 anlamlar:
-- ► etkileşimli
+- etkileşimli
 ozellikler:
 - - sıfat
 ornekler:

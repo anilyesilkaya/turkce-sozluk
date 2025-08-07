@@ -5,7 +5,7 @@ slug: parazitolog
 letter: P
 lisan: Fransızca parasitologue
 anlamlar:
-- ► asalak bilimci
+- asalak bilimci
 ozellikler:
 - - isim
 ornekler:

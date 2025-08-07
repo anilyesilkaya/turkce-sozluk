@@ -5,7 +5,7 @@ slug: sitma-agaci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► okaliptus
+- okaliptus
 ozellikler:
 - - isim
   - bitki bilimi

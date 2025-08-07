@@ -5,7 +5,7 @@ slug: kirtlama
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıtlama
+- kıtlama
 ozellikler:
 - - isim
   - zarf

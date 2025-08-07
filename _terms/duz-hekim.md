@@ -5,7 +5,7 @@ slug: duz-hekim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► pratisyen
+- pratisyen
 ozellikler:
 - - isim
 ornekler:

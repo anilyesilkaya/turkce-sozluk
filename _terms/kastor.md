@@ -5,7 +5,7 @@ slug: kastor
 letter: K
 lisan: Fransızca castor
 anlamlar:
-- ► kunduz
+- kunduz
 - Kunduz kürkü
 - Bu kürkten yapılmış
 ozellikler:

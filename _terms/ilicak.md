@@ -5,7 +5,7 @@ slug: ilicak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ılıkça
+- ılıkça
 ozellikler:
 - - sıfat
   - ağızlardan

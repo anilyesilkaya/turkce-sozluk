@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kıstırmak işi
 - İçerisine peynir, kıyılmış et vb. konularak sac üzerinde pişirilen börek
-- ► karnıyarık
+- karnıyarık
 ozellikler:
 - - isim
 - - isim

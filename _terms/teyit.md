@@ -5,8 +5,8 @@ slug: teyit
 letter: T
 lisan: Arapça teʾyīd
 anlamlar:
-- ► doğrulama
-- ► gerçekleme
+- doğrulama
+- gerçekleme
 ozellikler:
 - - isim
 - - isim

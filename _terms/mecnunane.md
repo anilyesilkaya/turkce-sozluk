@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mecnūn + Farsça -āne
 anlamlar:
 - Çılgın gibi, çılgınca olan
-- ► mecnunca
+- mecnunca
 ozellikler:
 - - sıfat
   - eskimiş

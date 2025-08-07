@@ -8,7 +8,7 @@ anlamlar:
 - Bir zanaatı gereği gibi öğrenmiş olan ve kendi başına yapabilen kimse; hazık
 - Zanaat öğreticisi
 - Zanaatçılar için ünvan
-- ► mahir
+- mahir
 - Osmanlı Devleti'nde saraydaki cariye ve hizmetlilerin kıdemlisi
 - Akıl veren veya öğreten kimse
 ozellikler:

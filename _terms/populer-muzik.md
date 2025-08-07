@@ -5,7 +5,7 @@ slug: populer-muzik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pop müzik
+- pop müzik
 ozellikler:
 - - isim
 ornekler:

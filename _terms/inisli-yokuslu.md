@@ -5,7 +5,7 @@ slug: inisli-yokuslu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inişli çıkışlı
+- inişli çıkışlı
 ozellikler:
 - - sıfat
 ornekler:

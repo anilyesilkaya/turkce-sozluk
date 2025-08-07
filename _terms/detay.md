@@ -5,7 +5,7 @@ slug: detay
 letter: D
 lisan: Fransızca détail
 anlamlar:
-- ► ayrıntı
+- ayrıntı
 ozellikler:
 - - isim
 ornekler:

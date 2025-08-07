@@ -5,7 +5,7 @@ slug: akaret
 letter: A
 lisan: Arapça ʿaḳārāt sözünden
 anlamlar:
-- ► akar (I)
+- akar (I)
 ozellikler:
 - - isim
   - eskimiş

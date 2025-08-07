@@ -5,7 +5,7 @@ slug: mumessillik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► temsilcilik
+- temsilcilik
 ozellikler:
 - - isim
 ornekler:

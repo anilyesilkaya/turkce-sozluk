@@ -5,7 +5,7 @@ slug: cemi-cumlesi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► hepsi
+- hepsi
 ozellikler:
 - - isim
 ornekler:

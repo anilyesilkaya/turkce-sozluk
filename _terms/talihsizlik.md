@@ -5,7 +5,7 @@ slug: talihsizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bahtsızlık
+- bahtsızlık
 ozellikler:
 - - isim
 ornekler:

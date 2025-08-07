@@ -5,7 +5,7 @@ slug: cazip
 letter: C
 lisan: Arapça cāẕib
 anlamlar:
-- ► çekici
+- çekici
 ozellikler:
 - - sıfat
 ornekler:

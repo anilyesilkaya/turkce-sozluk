@@ -5,7 +5,7 @@ slug: uslamlama
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► usa vurma
+- usa vurma
 ozellikler:
 - - isim
   - felsefe

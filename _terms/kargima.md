@@ -5,7 +5,7 @@ slug: kargima
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ilenme
+- ilenme
 ozellikler:
 - - isim
 ornekler:

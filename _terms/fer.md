@@ -6,8 +6,8 @@ letter: F
 lisan: Farsça fer
 anlamlar:
 - Bir şeyin parlak olması
-- ► canlılık
-- ► güç (I)
+- canlılık
+- güç (I)
 ozellikler:
 - - isim
 - - isim

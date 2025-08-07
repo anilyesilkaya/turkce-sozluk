@@ -5,7 +5,7 @@ slug: fitri
 letter: F
 lisan: Arapça fiṭrī
 anlamlar:
-- ► doğuştan
+- doğuştan
 ozellikler:
 - - sıfat
   - eskimiş

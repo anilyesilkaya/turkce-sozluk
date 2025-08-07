@@ -5,7 +5,7 @@ slug: izdirapsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kedersiz
+- kedersiz
 - Ağrısı ve acısı olmayan
 ozellikler:
 - - sıfat

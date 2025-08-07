@@ -5,7 +5,7 @@ slug: kenef
 letter: K
 lisan: Arapça kenīf
 anlamlar:
-- ► tuvalet
+- tuvalet
 - Pis, berbat olan
 ozellikler:
 - - isim

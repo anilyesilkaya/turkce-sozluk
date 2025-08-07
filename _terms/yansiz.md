@@ -5,7 +5,7 @@ slug: yansiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tarafsız
+- tarafsız
 - Turnusol gibi bir ayıraç karşısında, asit ve alkali tepkisi göstermeyen; nötr
 - Elektriğe karşı hiçbir tepkisi olmayan; nötr
 - Cinsiyet kategorisinin söz konusu olduğu dillerde erkek veya dişi cinsten sayılmayan (kelime)

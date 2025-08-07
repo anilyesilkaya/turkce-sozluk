@@ -5,9 +5,9 @@ slug: taraca
 letter: T
 lisan: İtalyanca terrazza
 anlamlar:
-- ► teras
+- teras
 - Toprak veya başka malzemeyle elde edilen, önü bir duvarla desteklenen yüksek düzlük
-- ► seki (I)
+- seki (I)
 ozellikler:
 - - isim
 - - isim

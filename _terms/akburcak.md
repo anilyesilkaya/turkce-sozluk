@@ -5,7 +5,7 @@ slug: akburcak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► mürdümük
+- mürdümük
 ozellikler:
 - - isim
   - bitki bilimi

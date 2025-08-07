@@ -5,7 +5,7 @@ slug: tahmil
 letter: T
 lisan: Arapça taḥmīl
 anlamlar:
-- ► yükleme
+- yükleme
 ozellikler:
 - - isim
   - eskimiş

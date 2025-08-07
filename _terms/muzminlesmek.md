@@ -5,7 +5,7 @@ slug: muzminlesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► süreğenleşmek
+- süreğenleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

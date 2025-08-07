@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir nitelikte temeli olan
-- ► sürekli
+- sürekli
 - (te'melli) Sürekli olarak
 - (te'melli) ► tamamen
 ozellikler:

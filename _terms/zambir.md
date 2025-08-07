@@ -5,7 +5,7 @@ slug: zambir
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► çalım
+- çalım
 ozellikler:
 - - isim
 ornekler:

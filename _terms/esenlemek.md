@@ -5,7 +5,7 @@ slug: esenlemek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► selamlamak
+- selamlamak
 - Birine esenlik dileyerek ayrılmak, veda etmek
 ozellikler:
 - - -i

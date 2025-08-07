@@ -5,7 +5,7 @@ slug: narkotik
 letter: N
 lisan: Fransızca narcotique
 anlamlar:
-- ► uyuşturucu
+- uyuşturucu
 - Kolluk kuvvetleri bünyesinde uyuşturucu madde yapımı, satışı ve kullanımını önlemek ve mücadele etmek amacıyla oluşturulmuş özel birim
 ozellikler:
 - - sıfat

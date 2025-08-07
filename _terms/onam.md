@@ -5,7 +5,7 @@ slug: onam
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► rıza
+- rıza
 ozellikler:
 - - isim
 ornekler:

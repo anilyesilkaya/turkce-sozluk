@@ -5,7 +5,7 @@ slug: aygin-baygin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bitkin
+- bitkin
 - Duygusallığı aşırı olan
 - Kendinden geçercesine âşık, vurgun olan
 ozellikler:

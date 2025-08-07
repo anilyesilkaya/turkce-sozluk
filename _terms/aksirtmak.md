@@ -5,7 +5,7 @@ slug: aksirtmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırtmak
+- hapşırtmak
 ozellikler:
 - - -i
 ornekler:

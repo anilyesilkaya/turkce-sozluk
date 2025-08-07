@@ -5,7 +5,7 @@ slug: angajmansiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağlantısız
+- bağlantısız
 ozellikler:
 - - sıfat
 ornekler:

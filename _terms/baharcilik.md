@@ -5,7 +5,7 @@ slug: baharcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baharatçılık
+- baharatçılık
 ozellikler:
 - - isim
 ornekler:

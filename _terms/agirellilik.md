@@ -5,7 +5,7 @@ slug: agirellilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► eli ağırlık
+- eli ağırlık
 ozellikler:
 - - isim
   - mecaz

@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça fāsid
 anlamlar:
 - Kötü, işe yaramaz olan
-- ► arabozan
+- arabozan
 ozellikler:
 - - sıfat
   - eskimiş

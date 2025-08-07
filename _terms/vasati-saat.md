@@ -5,7 +5,7 @@ slug: vasati-saat
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► alafranga saat
+- alafranga saat
 ozellikler:
 - - isim
 ornekler:

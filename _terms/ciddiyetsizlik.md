@@ -5,7 +5,7 @@ slug: ciddiyetsizlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► laubalilik
+- laubalilik
 ozellikler:
 - - isim
 ornekler:

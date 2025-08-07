@@ -5,8 +5,8 @@ slug: musahede
 letter: M
 lisan: Arapça muşāhede
 anlamlar:
-- ► görme
-- ► gözlem
+- görme
+- gözlem
 ozellikler:
 - - isim
 - - isim

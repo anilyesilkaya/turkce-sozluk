@@ -5,7 +5,7 @@ slug: masumcasina
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► masumca
+- masumca
 ozellikler:
 - - zarf
 ornekler:

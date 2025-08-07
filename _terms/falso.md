@@ -7,7 +7,7 @@ lisan: İtalyanca falso
 anlamlar:
 - Yanlış davranış
 - Bir parça çalınır veya söylenirken yapılan nota yanlışlığı
-- ► yanlışlık
+- yanlışlık
 - Topun rakip oyuncuları yanıltacak biçimde eğri gitmesi
 ozellikler:
 - - isim

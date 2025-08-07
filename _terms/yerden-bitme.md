@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Kısa boylu; yerden yapma
-- ► türedi
+- türedi
 ozellikler:
 - - sıfat
   - mecaz

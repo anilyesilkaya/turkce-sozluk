@@ -5,7 +5,7 @@ slug: orge
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► motif
+- motif
 ozellikler:
 - - isim
 ornekler:

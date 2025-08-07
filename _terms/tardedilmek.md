@@ -5,7 +5,7 @@ slug: tardedilmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► savılmak
+- savılmak
 ozellikler:
 - - nesnesiz
   - eskimiş

@@ -5,7 +5,7 @@ slug: sukun
 letter: S
 lisan: Arapça sukūn
 anlamlar:
-- ► sükûnet
+- sükûnet
 ozellikler:
 - - isim
 ornekler:

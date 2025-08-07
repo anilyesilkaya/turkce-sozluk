@@ -5,7 +5,7 @@ slug: cumlesi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► hepsi
+- hepsi
 ozellikler:
 - - zamir
 ornekler:

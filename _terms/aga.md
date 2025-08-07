@@ -7,10 +7,10 @@ lisan: Moğolca
 anlamlar:
 - Halk arasında sayılan ve sözü geçen erkeklere verilen ünvan
 - Genellikle köy ve kasabalarda geniş toprakları olan, sözü geçen, varlıklı kimse
-- ► ağabey
+- ağabey
 - Okuryazar olmayan yaşlı kimselerin adlarıyla birlikte kullanılan san
 - Cömert, eli açık olan
-- ► koca (I)
+- koca (I)
 - Osmanlı Devleti'nde bazı kuruluşların başında bulunanlara verilen resmî ünvan
 - Şenlik düzenleme geleneğinde ev sahibi ve şenliğin düzenleyicisi olarak öne çıkan kimse
 ozellikler:

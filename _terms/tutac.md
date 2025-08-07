@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Laboratuvar maşası
-- ► tutacak
+- tutacak
 ozellikler:
 - - isim
 - - isim

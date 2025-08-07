@@ -5,7 +5,7 @@ slug: peneplen
 letter: P
 lisan: Fransızca pénéplaine
 anlamlar:
-- ► yontuk düz
+- yontuk düz
 ozellikler:
 - - isim
   - coğrafya

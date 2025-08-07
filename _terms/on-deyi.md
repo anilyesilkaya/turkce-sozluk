@@ -5,8 +5,8 @@ slug: on-deyi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ön söz
-- ► kehanet
+- ön söz
+- kehanet
 ozellikler:
 - - isim
 - - isim

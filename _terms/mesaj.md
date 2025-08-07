@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca message
 anlamlar:
 - Bir devlet büyüğünün, bir sorumlunun belirli bir olay veya durum dolayısıyla ilgililere gönderdiği bildiri
-- ► ileti
+- ileti
 - Yazı veya sözle anlatılması amaçlanan duygu, düşünce
 ozellikler:
 - - isim

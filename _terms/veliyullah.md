@@ -5,7 +5,7 @@ slug: veliyullah
 letter: V
 lisan: Arapça veliyullah
 anlamlar:
-- ► ermiş
+- ermiş
 ozellikler:
 - - isim
 ornekler:

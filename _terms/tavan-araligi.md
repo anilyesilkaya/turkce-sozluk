@@ -5,7 +5,7 @@ slug: tavan-araligi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tavan arası
+- tavan arası
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maʿşerī
 anlamlar:
 - Topluluğa ait olan, toplumu ilgilendiren
-- ► toplumsal
+- toplumsal
 ozellikler:
 - - sıfat
   - eskimiş

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşmak işi; sıvaşma, sıvışma
-- ► bulaşı
+- bulaşı
 ozellikler:
 - - isim
 - - isim

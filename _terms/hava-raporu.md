@@ -5,7 +5,7 @@ slug: hava-raporu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hava tahmini
+- hava tahmini
 ozellikler:
 - - isim
   - meteoroloji

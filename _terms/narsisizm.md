@@ -5,7 +5,7 @@ slug: narsisizm
 letter: N
 lisan: Fransızca narcissisme
 anlamlar:
-- ► özseverlik
+- özseverlik
 ozellikler:
 - - isim
   - ruh bilimi

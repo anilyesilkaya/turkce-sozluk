@@ -16,8 +16,8 @@ anlamlar:
 - Son veya aralık verilmek
 - Kendini herhangi bir şey gibi göstermek
 - Tutulmak, kapatılmak
-- ► makaslanmak
-- ► durmak
+- makaslanmak
+- durmak
 - Yoksun kalmak
 - Sünnet olmak
 - Çok beğenmek, çok hoşlanmak

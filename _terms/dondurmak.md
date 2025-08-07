@@ -6,9 +6,9 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Donmasını sağlamak; buydurmak
-- ► sabitlemek
+- sabitlemek
 - Hareketsiz hâle getirmek
-- ► soğutmak
+- soğutmak
 - Bir işin gerektirdiği sorumluluk ve yetkileri geçici bir süre için kullanmamak üzere durdurmak
 - Beklemeye almak
 ozellikler:

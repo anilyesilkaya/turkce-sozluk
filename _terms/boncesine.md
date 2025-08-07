@@ -5,7 +5,7 @@ slug: boncesine
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - zarf
 ornekler:

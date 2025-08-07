@@ -5,7 +5,7 @@ slug: ulusal-medya
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ulusal basın
+- ulusal basın
 ozellikler:
 - - isim
 ornekler:

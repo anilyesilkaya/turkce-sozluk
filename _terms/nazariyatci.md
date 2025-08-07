@@ -5,7 +5,7 @@ slug: nazariyatci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kuramcı
+- kuramcı
 ozellikler:
 - - isim
 ornekler:

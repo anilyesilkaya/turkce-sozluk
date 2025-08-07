@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça beyyine
 anlamlar:
 - Bir olayın doğruluğunu ortaya koyabilen yöntem
-- ► kanıt
+- kanıt
 ozellikler:
 - - isim
   - eskimiş

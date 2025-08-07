@@ -5,7 +5,7 @@ slug: haftalikli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haftalıkçı
+- haftalıkçı
 ozellikler:
 - - sıfat
 ornekler:

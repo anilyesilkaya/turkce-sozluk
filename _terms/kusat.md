@@ -5,7 +5,7 @@ slug: kusat
 letter: K
 lisan: Farsça guşād
 anlamlar:
-- ► açılış
+- açılış
 - Tavlada bir tür oyun
 ozellikler:
 - - isim

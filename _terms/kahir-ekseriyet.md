@@ -5,7 +5,7 @@ slug: kahir-ekseriyet
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ezici çoğunluk
+- ezici çoğunluk
 ozellikler:
 - - isim
 ornekler:

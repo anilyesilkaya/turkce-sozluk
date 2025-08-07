@@ -5,7 +5,7 @@ slug: muhasebeci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sayman
+- sayman
 ozellikler:
 - - isim
 ornekler:

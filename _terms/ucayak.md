@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - Fotoğraf makinesi, televizyon kameraları vb. aletlerin üzerine oturduğu üç ayaklı düzen
-- ► sacayağı
+- sacayağı
 - Bir halay türü
 ozellikler:
 - - isim

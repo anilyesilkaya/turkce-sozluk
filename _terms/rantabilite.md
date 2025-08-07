@@ -5,7 +5,7 @@ slug: rantabilite
 letter: R
 lisan: Fransızca rentabilité
 anlamlar:
-- ► verimlilik
+- verimlilik
 ozellikler:
 - - isim
   - ekonomi

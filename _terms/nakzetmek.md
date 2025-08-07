@@ -5,7 +5,7 @@ slug: nakzetmek
 letter: N
 lisan: Arapça naḳż + Türkçe etmek
 anlamlar:
-- ► bozmak
+- bozmak
 - Yargıtay, bir mahkemenin yargısını yerinde veya yolunda bulmayarak geri çevirmek
 ozellikler:
 - - -i

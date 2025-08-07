@@ -5,7 +5,7 @@ slug: kanunlastirilma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasalaştırılma
+- yasalaştırılma
 ozellikler:
 - - isim
 ornekler:

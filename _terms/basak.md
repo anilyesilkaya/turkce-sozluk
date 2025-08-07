@@ -5,7 +5,7 @@ slug: basak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► temren
+- temren
 ozellikler:
 - - isim
 ornekler:

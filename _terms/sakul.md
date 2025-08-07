@@ -5,7 +5,7 @@ slug: sakul
 letter: Ş
 lisan: Arapça şāḳūl
 anlamlar:
-- ► çekül
+- çekül
 ozellikler:
 - - isim
   - eskimiş

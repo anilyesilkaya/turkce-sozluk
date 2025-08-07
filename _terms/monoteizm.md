@@ -5,7 +5,7 @@ slug: monoteizm
 letter: M
 lisan: Fransızca monothéisme
 anlamlar:
-- ► tek tanrıcılık
+- tek tanrıcılık
 ozellikler:
 - - isim
   - toplum bilimi

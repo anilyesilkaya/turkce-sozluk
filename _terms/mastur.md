@@ -5,7 +5,7 @@ slug: mastur
 letter: M
 lisan: Rumca
 anlamlar:
-- ► mastor
+- mastor
 ozellikler:
 - - sıfat
   - argo

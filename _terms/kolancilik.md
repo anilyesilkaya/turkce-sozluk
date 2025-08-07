@@ -5,7 +5,7 @@ slug: kolancilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yedekçilik
+- yedekçilik
 ozellikler:
 - - isim
 ornekler:

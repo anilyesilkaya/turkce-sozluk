@@ -5,7 +5,7 @@ slug: dalgunduz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► güpegündüz
+- güpegündüz
 ozellikler:
 - - zarf
 ornekler:

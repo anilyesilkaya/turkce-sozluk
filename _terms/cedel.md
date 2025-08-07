@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cedel
 anlamlar:
 - Karşısındakini susturmak için yapılan tartışma
-- ► diyalektik
+- diyalektik
 ozellikler:
 - - isim
   - eskimiş

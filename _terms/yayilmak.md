@@ -10,8 +10,8 @@ anlamlar:
 - Genelleşmek, yaygınlaşmak
 - Herkes tarafından duyulmak
 - Genişlemek, büyümek
-- ► serilmek
-- ► otlamak
+- serilmek
+- otlamak
 - Rahat bir biçimde, sere serpe oturmak; serpilmek
 - Kaynağından çıkan ışık, doğru çizgiler hâlinde türlü yönlere dağılmak
 - Ayrıntıya girmek, açılmak

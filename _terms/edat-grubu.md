@@ -5,7 +5,7 @@ slug: edat-grubu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► edatlı tümleç
+- edatlı tümleç
 ozellikler:
 - - isim
   - dil bilgisi

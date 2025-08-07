@@ -5,7 +5,7 @@ slug: gammazlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ispiyonculuk
+- ispiyonculuk
 ozellikler:
 - - isim
 ornekler:

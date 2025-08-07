@@ -5,7 +5,7 @@ slug: takiben
 letter: T
 lisan: taʿḳīben
 anlamlar:
-- ► ardınca
+- ardınca
 - İzleyerek, hemen sonra
 ozellikler:
 - - zarf

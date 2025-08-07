@@ -5,7 +5,7 @@ slug: katismak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► katılmak
+- katılmak
 ozellikler:
 - - -e
 ornekler:

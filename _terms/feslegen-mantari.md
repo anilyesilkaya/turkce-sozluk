@@ -5,7 +5,7 @@ slug: feslegen-mantari
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► çörek mantarı
+- çörek mantarı
 ozellikler:
 - - isim
   - bitki bilimi

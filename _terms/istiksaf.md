@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istikşāf
 anlamlar:
 - Keşif ve araştırmaya çalışma, ayrıntısını ortaya çıkarma
-- ► açınsama
+- açınsama
 ozellikler:
 - - isim
   - eskimiş

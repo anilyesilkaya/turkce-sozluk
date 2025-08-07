@@ -5,7 +5,7 @@ slug: kaligrafi
 letter: K
 lisan: Fransızca calligraphie
 anlamlar:
-- ► güzel yazı sanatı
+- güzel yazı sanatı
 ozellikler:
 - - isim
 ornekler:

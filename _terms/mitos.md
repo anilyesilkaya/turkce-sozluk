@@ -5,7 +5,7 @@ slug: mitos
 letter: M
 lisan: Yunanca
 anlamlar:
-- ► mit
+- mit
 ozellikler:
 - - isim
 ornekler:

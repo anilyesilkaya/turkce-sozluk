@@ -7,8 +7,8 @@ lisan: Arapça zevāl
 anlamlar:
 - Yok olma, yok edilme
 - Suç, kabahat, sorumluluk
-- ► bozulma
-- ► öğle
+- bozulma
+- öğle
 ozellikler:
 - - isim
   - eskimiş

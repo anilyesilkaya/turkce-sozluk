@@ -5,7 +5,7 @@ slug: heves
 letter: H
 lisan: Arapça heves
 anlamlar:
-- ► istek
+- istek
 - Gelip geçici istek
 ozellikler:
 - - isim

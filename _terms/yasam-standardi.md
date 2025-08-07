@@ -5,7 +5,7 @@ slug: yasam-standardi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat standardı
+- hayat standardı
 ozellikler:
 - - isim
 ornekler:

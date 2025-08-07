@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayışlı olma durumu
-- ► hoşgörülülük
+- hoşgörülülük
 ozellikler:
 - - isim
 - - isim

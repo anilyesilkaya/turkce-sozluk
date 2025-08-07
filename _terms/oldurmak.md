@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Olmasını sağlamak
-- ► olgunlaştırmak
+- olgunlaştırmak
 - Olması imkânsız görünen şeyleri gerçekleştirmek
 ozellikler:
 - - -i

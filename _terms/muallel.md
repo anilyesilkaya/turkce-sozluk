@@ -5,8 +5,8 @@ slug: muallel
 letter: M
 lisan: Arapça muʿallel
 anlamlar:
-- ► eksik
-- ► sakat
+- eksik
+- sakat
 ozellikler:
 - - sıfat
   - eskimiş

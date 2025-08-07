@@ -5,7 +5,7 @@ slug: temdit-penaltisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uzatma penaltısı
+- uzatma penaltısı
 ozellikler:
 - - isim
   - spor

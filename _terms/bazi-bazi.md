@@ -5,7 +5,7 @@ slug: bazi-bazi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

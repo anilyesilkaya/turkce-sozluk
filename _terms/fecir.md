@@ -5,8 +5,8 @@ slug: fecir
 letter: F
 lisan: Arapça fecr
 anlamlar:
-- ► tan
-- ► tan kızıllığı
+- tan
+- tan kızıllığı
 ozellikler:
 - - isim
 - - isim

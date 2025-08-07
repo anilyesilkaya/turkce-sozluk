@@ -10,7 +10,7 @@ anlamlar:
 - Kumaş, kâğıt gibi şeylerin belli miktardaki bağı
 - Kumaş, kâğıt vb. şeylerin düzenli bir yığın durumuna getirilmiş bağı
 - Yuvarlak, toparlak biçimde olan
-- ► tamamen
+- tamamen
 - Homoseksüel erkek
 - Gülle veya şarapnel atan büyük, ateşli silah
 ozellikler:

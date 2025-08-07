@@ -5,7 +5,7 @@ slug: modem
 letter: M
 lisan: Fransızca mo[dulateur] + dem[odulateur]
 anlamlar:
-- ► çevirge
+- çevirge
 ozellikler:
 - - isim
   - bilişim

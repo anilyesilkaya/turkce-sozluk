@@ -5,7 +5,7 @@ slug: siperisaika
 letter: S
 lisan: Farsça siper + Arapça ṣāʿiḳa
 anlamlar:
-- ► yıldırımsavar
+- yıldırımsavar
 ozellikler:
 - - isim
   - eskimiş

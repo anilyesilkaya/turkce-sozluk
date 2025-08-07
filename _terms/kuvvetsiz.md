@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Fiziksel gücü olmayan
-- ► etkisiz
+- etkisiz
 ozellikler:
 - - sıfat
 - - sıfat

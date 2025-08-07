@@ -5,7 +5,7 @@ slug: dayanti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dayanıklılık
+- dayanıklılık
 ozellikler:
 - - isim
   - ağızlardan

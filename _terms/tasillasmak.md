@@ -5,7 +5,7 @@ slug: tasillasmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fosilleşmek
+- fosilleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

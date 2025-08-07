@@ -5,7 +5,7 @@ slug: saadetlilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mutluluk
+- mutluluk
 ozellikler:
 - - isim
 ornekler:

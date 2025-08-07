@@ -5,7 +5,7 @@ slug: hela
 letter: H
 lisan: Arapça ḫalā
 anlamlar:
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
 ornekler:

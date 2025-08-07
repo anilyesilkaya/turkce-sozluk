@@ -5,7 +5,7 @@ slug: arlanma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► utanma
+- utanma
 - Namuslu, ahlaklı olma
 ozellikler:
 - - isim

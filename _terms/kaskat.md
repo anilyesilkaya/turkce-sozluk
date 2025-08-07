@@ -5,7 +5,7 @@ slug: kaskat
 letter: K
 lisan: Fransızca cascade
 anlamlar:
-- ► şelale
+- şelale
 - Köşk, saray vb.nin bahçesinde yapılan yapay şelale
 - Basamaklı yer
 - Çağlayan şeklinde dökülen herhangi bir şey

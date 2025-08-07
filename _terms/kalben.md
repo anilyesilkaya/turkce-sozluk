@@ -5,7 +5,7 @@ slug: kalben
 letter: K
 lisan: Arapça ḳalben
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - zarf
 ornekler:

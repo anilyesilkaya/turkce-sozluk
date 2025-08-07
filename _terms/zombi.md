@@ -5,7 +5,7 @@ slug: zombi
 letter: Z
 lisan: İngilizce zombie
 anlamlar:
-- ► hortlak
+- hortlak
 - Uykusuzluktan, yorgunluktan serseme dönmüş kimse
 ozellikler:
 - - isim

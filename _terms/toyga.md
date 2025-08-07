@@ -5,7 +5,7 @@ slug: toyga
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► toyga çorbası
+- toyga çorbası
 ozellikler:
 - - isim
 ornekler:

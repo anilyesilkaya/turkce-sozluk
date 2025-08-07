@@ -5,7 +5,7 @@ slug: fassal
 letter: F
 lisan: Arapça faṣṣāl
 anlamlar:
-- ► karalamacı
+- karalamacı
 ozellikler:
 - - sıfat
   - eskimiş

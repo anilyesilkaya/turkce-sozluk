@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Çabuk ve sık sık küsen (kimse)
-- ► küstüm otu
+- küstüm otu
 ozellikler:
 - - sıfat
   - ağızlardan

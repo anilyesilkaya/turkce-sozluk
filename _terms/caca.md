@@ -6,7 +6,7 @@ letter: Ç
 lisan: Rumca
 anlamlar:
 - Ticaret gemilerinde eski ve usta gemici
-- ► abla
+- abla
 ozellikler:
 - - isim
 - - isim

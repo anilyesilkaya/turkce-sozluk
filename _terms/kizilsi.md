@@ -5,7 +5,7 @@ slug: kizilsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızılımsı
+- kızılımsı
 ozellikler:
 - - sıfat
 ornekler:

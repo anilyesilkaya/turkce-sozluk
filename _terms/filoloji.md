@@ -6,7 +6,7 @@ letter: F
 lisan: Fransızca philologie
 anlamlar:
 - Dili ve yazılı belgeleri dil ve tarih açısından inceleme
-- ► dil bilimi
+- dil bilimi
 ozellikler:
 - - isim
 - - isim

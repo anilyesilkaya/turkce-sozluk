@@ -5,9 +5,9 @@ slug: omuzluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► apolet
+- apolet
 - Gemilerde baş ve kıç bölümlerinin her bir yanı
-- ► çiğindirik
+- çiğindirik
 ozellikler:
 - - isim
   - askerlik

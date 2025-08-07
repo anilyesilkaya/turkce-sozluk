@@ -5,7 +5,7 @@ slug: mehtap
 letter: M
 lisan: Farsça meh + tāb
 anlamlar:
-- ► ay ışığı
+- ay ışığı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: volontarizm
 letter: V
 lisan: Fransızca volontarisme
 anlamlar:
-- ► iradecilik
+- iradecilik
 ozellikler:
 - - isim
   - ruh bilimi

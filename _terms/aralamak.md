@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - İki şey arasında açıklık oluşturmak, az açmak
-- ► seyrekleştirmek
+- seyrekleştirmek
 - Bitkilerin fazla dal ve çubuklarını kesmek
 ozellikler:
 - - -i

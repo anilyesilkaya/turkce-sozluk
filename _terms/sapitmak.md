@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Doğru yoldan ayrılmak
 - Ruhsal bir düzensizlik içine düşmek
-- ► şaşırmak
+- şaşırmak
 - Saçmalamaya başlamak
 - Aklını bozmak
 ozellikler:

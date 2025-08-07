@@ -5,7 +5,7 @@ slug: nuvazisli
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nevazişli
+- nevazişli
 ozellikler:
 - - sıfat
 ornekler:

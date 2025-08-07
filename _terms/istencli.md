@@ -5,7 +5,7 @@ slug: istencli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradeli
+- iradeli
 ozellikler:
 - - sıfat
   - ruh bilimi

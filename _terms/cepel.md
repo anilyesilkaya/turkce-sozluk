@@ -5,9 +5,9 @@ slug: cepel
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► pislik
+- pislik
 - Ürüne karışmış yabancı madde
-- ► çalı çırpı
+- çalı çırpı
 - Bozuk, kapalı (hava)
 ozellikler:
 - - isim

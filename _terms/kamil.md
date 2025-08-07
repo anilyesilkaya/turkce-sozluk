@@ -5,7 +5,7 @@ slug: kamil
 letter: K
 lisan: Arapça kāmil
 anlamlar:
-- ► olgun
+- olgun
 ozellikler:
 - - sıfat
 ornekler:

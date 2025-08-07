@@ -5,7 +5,7 @@ slug: ufacik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► küçücük
+- küçücük
 ozellikler:
 - - sıfat
 ornekler:

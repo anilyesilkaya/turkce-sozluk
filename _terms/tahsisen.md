@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taḫṣįṣen
 anlamlar:
 - Tahsis yoluyla
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
 - - zarf

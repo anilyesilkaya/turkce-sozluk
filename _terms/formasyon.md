@@ -5,8 +5,8 @@ slug: formasyon
 letter: F
 lisan: Fransızca formation
 anlamlar:
-- ► biçimlenme
-- ► pedagojik formasyon
+- biçimlenme
+- pedagojik formasyon
 ozellikler:
 - - isim
 - - isim

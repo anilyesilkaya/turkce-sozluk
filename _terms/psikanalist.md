@@ -5,7 +5,7 @@ slug: psikanalist
 letter: P
 lisan: Fransızca psychanaliste
 anlamlar:
-- ► psikanalizci
+- psikanalizci
 ozellikler:
 - - isim
 ornekler:

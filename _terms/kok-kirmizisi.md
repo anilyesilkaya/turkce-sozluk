@@ -5,7 +5,7 @@ slug: kok-kirmizisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kök boyası
+- kök boyası
 ozellikler:
 - - isim
   - kimya

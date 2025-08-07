@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Sözünde durmayan
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - sıfat
 - - sıfat

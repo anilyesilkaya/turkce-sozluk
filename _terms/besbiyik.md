@@ -5,7 +5,7 @@ slug: besbiyik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► muşmula
+- muşmula
 ozellikler:
 - - isim
   - bitki bilimi

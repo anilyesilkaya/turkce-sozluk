@@ -5,7 +5,7 @@ slug: kocabasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► muhtar
+- muhtar
 ozellikler:
 - - isim
   - ağızlardan

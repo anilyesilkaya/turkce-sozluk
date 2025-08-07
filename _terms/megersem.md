@@ -5,7 +5,7 @@ slug: megersem
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► meğer
+- meğer
 ozellikler:
 - - bağlaç
 ornekler:

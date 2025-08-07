@@ -5,7 +5,7 @@ slug: kara-toprak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mezar
+- mezar
 ozellikler:
 - - isim
   - mecaz

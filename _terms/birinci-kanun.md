@@ -5,7 +5,7 @@ slug: birinci-kanun
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aralık
+- aralık
 ozellikler:
 - - isim
   - eskimiş

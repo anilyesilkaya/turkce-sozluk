@@ -5,7 +5,7 @@ slug: kuse-kagidi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuşe
+- kuşe
 ozellikler:
 - - isim
 ornekler:

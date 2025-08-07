@@ -5,7 +5,7 @@ slug: carpinmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çırpınmak
+- çırpınmak
 ozellikler:
 - - nesnesiz
 ornekler:

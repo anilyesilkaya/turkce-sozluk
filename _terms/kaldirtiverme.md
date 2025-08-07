@@ -5,7 +5,7 @@ slug: kaldirtiverme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaldırıverme
+- kaldırıverme
 ozellikler:
 - - isim
 ornekler:

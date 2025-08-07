@@ -5,7 +5,7 @@ slug: animatorluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► canlandırıcılık
+- canlandırıcılık
 ozellikler:
 - - isim
 ornekler:

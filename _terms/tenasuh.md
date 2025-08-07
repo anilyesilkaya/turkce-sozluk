@@ -5,7 +5,7 @@ slug: tenasuh
 letter: T
 lisan: Arapça tenāsuḫ
 anlamlar:
-- ► ruh göçü
+- ruh göçü
 ozellikler:
 - - isim
   - eskimiş

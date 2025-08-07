@@ -9,12 +9,12 @@ anlamlar:
 - Karada insanların ve hayvanların geçmesi için açılan veya kendi kendine oluşmuş, yürümeye uygun yer
 - Genellikle yerleşim alanlarını birbirine bağlamak için düzeltilerek açılmış ulaşım şeridi
 - İçinden veya üstünden bir sıvının geçtiği, aktığı yer
-- ► yolculuk
+- yolculuk
 - Gidiş çabukluğu, hız
 - Davranış, tutum, gidiş veya davranış biçimi
 - Uyulan ilke; sistem
 - Kumaşta bulunan çizgi
-- ► kez
+- kez
 - Düğünde, oğlanevinin kızevine verdiği para, mal veya armağan
 - Bir sonuca, bir amaca ulaşmak için izlenen süreç
 - Bir amaca ulaşmak için başvurulması gereken çare

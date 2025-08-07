@@ -5,7 +5,7 @@ slug: sekincilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dingincilik
+- dingincilik
 ozellikler:
 - - isim
   - felsefe

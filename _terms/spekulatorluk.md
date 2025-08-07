@@ -5,7 +5,7 @@ slug: spekulatorluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► vurgunculuk
+- vurgunculuk
 ozellikler:
 - - isim
 ornekler:

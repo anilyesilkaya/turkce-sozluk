@@ -5,7 +5,7 @@ slug: afsunlu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
   - ağızlardan

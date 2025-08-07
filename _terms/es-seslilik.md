@@ -5,7 +5,7 @@ slug: es-seslilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sesteşlik
+- sesteşlik
 ozellikler:
 - - isim
 ornekler:

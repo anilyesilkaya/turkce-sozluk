@@ -5,7 +5,7 @@ slug: zubde
 letter: Z
 lisan: Arapça zubde
 anlamlar:
-- ► öz (I)
+- öz (I)
 ozellikler:
 - - isim
   - eskimiş

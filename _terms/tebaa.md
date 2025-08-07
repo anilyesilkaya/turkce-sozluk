@@ -5,7 +5,7 @@ slug: tebaa
 letter: T
 lisan: Arapça tebaʿa
 anlamlar:
-- ► uyruk
+- uyruk
 ozellikler:
 - - isim
   - eskimiş

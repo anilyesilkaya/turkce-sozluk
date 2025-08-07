@@ -5,7 +5,7 @@ slug: elbisesizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysisizlik
+- giysisizlik
 ozellikler:
 - - isim
 ornekler:

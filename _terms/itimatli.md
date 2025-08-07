@@ -5,7 +5,7 @@ slug: itimatli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► güvenilir
+- güvenilir
 ozellikler:
 - - sıfat
 ornekler:

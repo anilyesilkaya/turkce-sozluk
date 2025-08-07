@@ -5,7 +5,7 @@ slug: isimlestirme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adlaştırma
+- adlaştırma
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça irāde
 anlamlar:
 - Bir şeyi yapıp yapmama konusunda kişinin kendi kendine karar verebilme ve bunu uygulama gücü
 - Davranışlarla ilgili tepilerden bir bölümünü tutup ötekileri eyleme dönüştürme gücü; istenç
-- ► emir
+- emir
 - Kişinin kendisinin verdiği özgür karar; istenç
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: helisel
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sarmal
+- sarmal
 ozellikler:
 - - sıfat
   - fizik

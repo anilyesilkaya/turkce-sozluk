@@ -5,7 +5,7 @@ slug: arketip
 letter: A
 lisan: Fransızca archétype
 anlamlar:
-- ► kök örnek
+- kök örnek
 ozellikler:
 - - isim
 ornekler:

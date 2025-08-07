@@ -5,7 +5,7 @@ slug: citirbom
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► türedi
+- türedi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: italik
 letter: I
 lisan: Fransızca italique
 anlamlar:
-- ► eğik yazı
+- eğik yazı
 ozellikler:
 - - isim
 ornekler:

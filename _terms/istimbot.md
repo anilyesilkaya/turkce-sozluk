@@ -5,7 +5,7 @@ slug: istimbot
 letter: I
 lisan: İngilizce steamboat
 anlamlar:
-- ► çatana
+- çatana
 ozellikler:
 - - isim
   - denizcilik

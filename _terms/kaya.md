@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük ve sert taş kütlesi
-- ► kayaç
+- kayaç
 ozellikler:
 - - isim
 - - isim

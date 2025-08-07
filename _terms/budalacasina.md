@@ -5,7 +5,7 @@ slug: budalacasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aptalca
+- aptalca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: el-uzlugu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ustalık
+- ustalık
 ozellikler:
 - - isim
 ornekler:

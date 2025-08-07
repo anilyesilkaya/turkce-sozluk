@@ -5,7 +5,7 @@ slug: angajmanli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağlantılı
+- bağlantılı
 ozellikler:
 - - sıfat
 ornekler:

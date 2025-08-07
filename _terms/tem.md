@@ -5,7 +5,7 @@ slug: tem
 letter: T
 lisan: Fransızca thème
 anlamlar:
-- ► tema
+- tema
 ozellikler:
 - - isim
   - edebiyat

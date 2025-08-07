@@ -5,7 +5,7 @@ slug: primitiflik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ilkellik
+- ilkellik
 ozellikler:
 - - isim
   - felsefe

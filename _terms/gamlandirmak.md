@@ -5,7 +5,7 @@ slug: gamlandirmak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygılandırmak
+- kaygılandırmak
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: maras
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Kahramanmaraş
+- Kahramanmaraş
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sahteci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sahtekâr
+- sahtekâr
 ozellikler:
 - - sıfat
 ornekler:

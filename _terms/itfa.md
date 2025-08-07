@@ -5,8 +5,8 @@ slug: itfa
 letter: I
 lisan: Arapça iṭfāʾ
 anlamlar:
-- ► söndürme
-- ► sönüm
+- söndürme
+- sönüm
 ozellikler:
 - - isim
   - eskimiş

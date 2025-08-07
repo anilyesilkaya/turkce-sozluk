@@ -5,7 +5,7 @@ slug: cinlendirme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► öfkelendirme
+- öfkelendirme
 ozellikler:
 - - isim
 ornekler:

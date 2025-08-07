@@ -5,7 +5,7 @@ slug: hakkisukut
 letter: H
 lisan: Arapça ḥaḳḳ + sukūt
 anlamlar:
-- ► sus payı
+- sus payı
 ozellikler:
 - - isim
   - eskimiş

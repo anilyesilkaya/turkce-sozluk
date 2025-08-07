@@ -5,7 +5,7 @@ slug: paramotor
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► motorlu paraşüt
+- motorlu paraşüt
 ozellikler:
 - - isim
 ornekler:

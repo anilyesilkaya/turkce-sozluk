@@ -5,7 +5,7 @@ slug: zarafetli
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zarif
+- zarif
 ozellikler:
 - - sıfat
 ornekler:

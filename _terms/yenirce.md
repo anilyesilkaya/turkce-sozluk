@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Kemik ve diş dokusunun harap olması durumu
-- ► frengi (I)
+- frengi (I)
 - Gittikçe genişleyen yara
 ozellikler:
 - - isim

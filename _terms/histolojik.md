@@ -5,7 +5,7 @@ slug: histolojik
 letter: H
 lisan: Fransızca histologique
 anlamlar:
-- ► doku bilimsel
+- doku bilimsel
 ozellikler:
 - - sıfat
 ornekler:

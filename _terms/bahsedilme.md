@@ -5,7 +5,7 @@ slug: bahsedilme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağışlanma
+- bağışlanma
 ozellikler:
 - - isim
 ornekler:

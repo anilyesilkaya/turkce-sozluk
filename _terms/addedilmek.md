@@ -5,7 +5,7 @@ slug: addedilmek
 letter: A
 lisan: Arapça ʿadd + Türkçe edilmek
 anlamlar:
-- ► sayılmak
+- sayılmak
 ozellikler:
 - - nesnesiz
 ornekler:

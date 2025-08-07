@@ -5,9 +5,9 @@ slug: derinti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► toplantı
+- toplantı
 - Gelişigüzel toplanmış eşya
-- ► güruh
+- güruh
 ozellikler:
 - - isim
   - ağızlardan

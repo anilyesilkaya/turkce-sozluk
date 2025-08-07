@@ -5,7 +5,7 @@ slug: cibilliyetsiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► soysuz
+- soysuz
 ozellikler:
 - - sıfat
 ornekler:

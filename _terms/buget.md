@@ -5,7 +5,7 @@ slug: buget
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► gölet
+- gölet
 ozellikler:
 - - isim
   - ağızlardan

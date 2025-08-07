@@ -5,7 +5,7 @@ slug: tapincakcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fetişizm
+- fetişizm
 ozellikler:
 - - isim
   - toplum bilimi

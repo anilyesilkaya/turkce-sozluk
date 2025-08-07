@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bir malı bir bedel karşılığında alıcıya vermek
-- ► taslamak
+- taslamak
 - Bir kimse, kendini veya başkasını olduğundan daha önemli, yetkili ve değerli göstermek
 - Bir çıkar karşılığında bir şeyi gözden çıkarmak, feda etmek
 - Bir yolunu bularak birinin yanından ayrılmak

@@ -5,7 +5,7 @@ slug: bayrak-gemisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► amiral gemisi
+- amiral gemisi
 ozellikler:
 - - isim
   - denizcilik

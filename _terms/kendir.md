@@ -5,7 +5,7 @@ slug: kendir
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kenevir
+- kenevir
 - Kenevirden yapılmış
 ozellikler:
 - - isim

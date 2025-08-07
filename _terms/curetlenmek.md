@@ -5,7 +5,7 @@ slug: curetlenmek
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretlenmek
+- cesaretlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

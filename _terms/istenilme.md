@@ -5,7 +5,7 @@ slug: istenilme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► istenme
+- istenme
 ozellikler:
 - - isim
 ornekler:

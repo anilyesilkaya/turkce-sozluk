@@ -5,7 +5,7 @@ slug: safdillik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saflık
+- saflık
 ozellikler:
 - - isim
 ornekler:

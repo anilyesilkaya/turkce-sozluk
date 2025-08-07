@@ -8,7 +8,7 @@ anlamlar:
 - Neşeli, hoşça vakit geçirmek
 - Bir kimsenin herhangi bir kusuru veya zayıf noktası ile alay etmek
 - Bir yerde durmak, beklemek; tevakkuf etmek
-- ► oyalanmak
+- oyalanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

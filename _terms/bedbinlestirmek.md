@@ -5,7 +5,7 @@ slug: bedbinlestirmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kötümserleştirmek
+- kötümserleştirmek
 ozellikler:
 - - -i
 ornekler:

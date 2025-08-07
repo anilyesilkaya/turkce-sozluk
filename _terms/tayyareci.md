@@ -5,7 +5,7 @@ slug: tayyareci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► pilot
+- pilot
 ozellikler:
 - - isim
 ornekler:

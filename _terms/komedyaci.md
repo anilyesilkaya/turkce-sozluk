@@ -5,7 +5,7 @@ slug: komedyaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► komedyen
+- komedyen
 ozellikler:
 - - isim
 ornekler:

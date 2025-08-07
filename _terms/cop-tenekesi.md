@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sokaklarda çöplerin içinde toplandığı büyük kap
 - Evlerde çöplerin biriktirildiği teneke kap
-- ► çöplük
+- çöplük
 - İşe yaramayan, kötü, berbat (şey)
 ozellikler:
 - - isim

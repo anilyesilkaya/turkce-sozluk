@@ -5,7 +5,7 @@ slug: celadet
 letter: C
 lisan: Arapça celādet
 anlamlar:
-- ► yiğitlik
+- yiğitlik
 ozellikler:
 - - isim
   - eskimiş

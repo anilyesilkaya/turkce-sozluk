@@ -5,7 +5,7 @@ slug: kurtyenigi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bityeniği
+- bityeniği
 ozellikler:
 - - isim
   - mecaz

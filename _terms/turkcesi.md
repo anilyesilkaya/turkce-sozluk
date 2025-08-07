@@ -5,7 +5,7 @@ slug: turkcesi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► açıkçası
+- açıkçası
 ozellikler:
 - - zarf
 ornekler:

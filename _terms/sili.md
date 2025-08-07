@@ -5,8 +5,8 @@ slug: sili
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► temiz
-- ► iffetli
+- temiz
+- iffetli
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: mushaf-i-serif
 letter: M
 lisan: Arapça muṣḥaf + şerīf
 anlamlar:
-- ► Kur'an
+- Kur'an
 ozellikler:
 - - isim
   - din bilimi

@@ -9,7 +9,7 @@ anlamlar:
 - Vahşi olan, evcil olmayan canlı
 - Kendi kendine yetişen bitki
 - Aile ocağından uzak olan yer
-- ► ıssız
+- ıssız
 - Yerli halktan olmayan kimse
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: lokma-gozlu
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► patlak gözlü
+- patlak gözlü
 ozellikler:
 - - sıfat
   - mecaz

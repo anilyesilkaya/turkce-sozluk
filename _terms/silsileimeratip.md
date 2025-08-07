@@ -5,7 +5,7 @@ slug: silsileimeratip
 letter: S
 lisan: Arapça silsile + merātib
 anlamlar:
-- ► rütbe sıralaması
+- rütbe sıralaması
 ozellikler:
 - - isim
   - eskimiş

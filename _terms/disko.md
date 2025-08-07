@@ -5,7 +5,7 @@ slug: disko
 letter: D
 lisan: İngilizce disco
 anlamlar:
-- ► diskotek
+- diskotek
 ozellikler:
 - - isim
 ornekler:

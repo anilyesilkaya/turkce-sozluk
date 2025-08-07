@@ -5,7 +5,7 @@ slug: bienal
 letter: B
 lisan: Fransızca biennal
 anlamlar:
-- ► yılaşırı
+- yılaşırı
 ozellikler:
 - - zarf
 ornekler:

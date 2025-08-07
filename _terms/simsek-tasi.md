@@ -5,7 +5,7 @@ slug: simsek-tasi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► gök taşı
+- gök taşı
 ozellikler:
 - - isim
   - gök bilimi

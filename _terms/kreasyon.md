@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca création
 anlamlar:
 - Yaratma işi
-- ► yaratım
+- yaratım
 - Bir terzinin veya modaevinin yarattığı her türlü yeni model
 ozellikler:
 - - isim

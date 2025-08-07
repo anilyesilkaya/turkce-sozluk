@@ -5,7 +5,7 @@ slug: hengam
 letter: H
 lisan: Farsça hengām
 anlamlar:
-- ► zaman
+- zaman
 ozellikler:
 - - isim
   - eskimiş

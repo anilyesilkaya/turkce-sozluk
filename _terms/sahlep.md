@@ -5,7 +5,7 @@ slug: sahlep
 letter: S
 lisan: Arapça saḥleb
 anlamlar:
-- ► salep
+- salep
 ozellikler:
 - - isim
   - eskimiş

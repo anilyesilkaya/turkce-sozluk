@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cuzʾ
 anlamlar:
 - Bir bütünü oluşturan bölümlerden her biri
-- ► fasikül
+- fasikül
 - Kur'an'ın bölünmüş olduğu otuz parçadan her biri
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿayb
 anlamlar:
 - Toplumun ahlak kurallarına aykırı olan, utanılacak durum veya davranış
-- ► bozukluk
+- bozukluk
 - Utanç veren
 ozellikler:
 - - isim

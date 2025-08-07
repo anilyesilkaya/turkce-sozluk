@@ -5,7 +5,7 @@ slug: husnuhal-kagidi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► iyi hâl belgesi
+- iyi hâl belgesi
 ozellikler:
 - - isim
 ornekler:

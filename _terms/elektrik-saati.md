@@ -5,7 +5,7 @@ slug: elektrik-saati
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrik sayacı
+- elektrik sayacı
 ozellikler:
 - - isim
 ornekler:

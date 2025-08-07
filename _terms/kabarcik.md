@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İçi su veya hava dolu ufak kabartı veya kürecik; baloncuk, domur
 - Vücutta oluşan sivilce gibi küçük şişkinlik
-- ► kabartı
+- kabartı
 - Metal biliminde sıvı veya katıların içinde oluşan gaz hacmi
 ozellikler:
 - - isim

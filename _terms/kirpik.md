@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kırpılmış olan
-- ► bölük pörçük
+- bölük pörçük
 ozellikler:
 - - sıfat
 - - sıfat

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Top cephanesi taşıyan araba
-- ► topak
+- topak
 - Top biçiminde olan; yuvarlak
 ozellikler:
 - - isim

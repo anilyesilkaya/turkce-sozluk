@@ -6,7 +6,7 @@ letter: V
 lisan: Türkçe
 anlamlar:
 - Zamanında, uygun zamanda
-- ► bir zamanlar
+- bir zamanlar
 - Oldukça eski bir zamanda
 ozellikler:
 - - zarf

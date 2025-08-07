@@ -5,7 +5,7 @@ slug: mahfi
 letter: M
 lisan: Arapça maḫfī
 anlamlar:
-- ► gizli
+- gizli
 ozellikler:
 - - sıfat
   - eskimiş

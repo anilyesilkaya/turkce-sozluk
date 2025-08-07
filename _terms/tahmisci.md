@@ -5,7 +5,7 @@ slug: tahmisci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kuru kahveci
+- kuru kahveci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tiksinc
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tiksindirici
+- tiksindirici
 ozellikler:
 - - sıfat
 ornekler:

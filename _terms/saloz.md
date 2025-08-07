@@ -5,7 +5,7 @@ slug: saloz
 letter: S
 lisan: Rumca
 anlamlar:
-- ► salak
+- salak
 ozellikler:
 - - sıfat
   - argo

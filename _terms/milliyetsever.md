@@ -5,7 +5,7 @@ slug: milliyetsever
 letter: M
 lisan: Arapça milliyyet + Türkçe sever
 anlamlar:
-- ► milliyetçi
+- milliyetçi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: raks
 letter: R
 lisan: Arapça raḳṣ
 anlamlar:
-- ► dans
-- ► salınım
+- dans
+- salınım
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: spiritualizm
 letter: S
 lisan: Fransızca spiritualisme
 anlamlar:
-- ► ruhçuluk
+- ruhçuluk
 ozellikler:
 - - isim
   - felsefe

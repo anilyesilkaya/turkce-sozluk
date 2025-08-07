@@ -5,7 +5,7 @@ slug: kadincil
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► zampara
+- zampara
 ozellikler:
 - - sıfat
 ornekler:

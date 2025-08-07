@@ -5,7 +5,7 @@ slug: aku
 letter: A
 lisan: Fransızca accu
 anlamlar:
-- ► akümülatör
+- akümülatör
 ozellikler:
 - - isim
   - fizik

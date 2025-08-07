@@ -5,7 +5,7 @@ slug: kalpgah
 letter: K
 lisan: Arapça ḳalb + Farsça -gāh
 anlamlar:
-- ► canevi
+- canevi
 - Ordunun sağ ve sol kanatları arasında yer alan ve komutan ile çevresindekilerin bulunduğu merkez birliklerden oluşan bölüm
 ozellikler:
 - - isim

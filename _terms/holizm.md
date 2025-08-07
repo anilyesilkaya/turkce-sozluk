@@ -5,7 +5,7 @@ slug: holizm
 letter: H
 lisan: İngilizce holism
 anlamlar:
-- ► bütüncülük
+- bütüncülük
 ozellikler:
 - - isim
 ornekler:

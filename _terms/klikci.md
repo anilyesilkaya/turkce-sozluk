@@ -5,7 +5,7 @@ slug: klikci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► hizipçi
+- hizipçi
 ozellikler:
 - - isim
 ornekler:

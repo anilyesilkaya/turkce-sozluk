@@ -5,7 +5,7 @@ slug: konsensus
 letter: K
 lisan: Fransızca consensus
 anlamlar:
-- ► uzlaşma
+- uzlaşma
 ozellikler:
 - - isim
 ornekler:

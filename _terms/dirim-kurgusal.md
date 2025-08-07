@@ -5,7 +5,7 @@ slug: dirim-kurgusal
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► biyonik
+- biyonik
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: emircik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yalıçapkını
+- yalıçapkını
 ozellikler:
 - - isim
   - hayvan bilimi

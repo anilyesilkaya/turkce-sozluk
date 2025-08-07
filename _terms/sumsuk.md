@@ -5,7 +5,7 @@ slug: sumsuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yumruk
+- yumruk
 - Yumrukla vurma
 ozellikler:
 - - isim

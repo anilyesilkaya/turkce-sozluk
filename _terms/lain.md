@@ -5,7 +5,7 @@ slug: lain
 letter: L
 lisan: Arapça laʿīn
 anlamlar:
-- ► lanetli
+- lanetli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: vayvaycilik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yaygaracılık
+- yaygaracılık
 ozellikler:
 - - isim
 ornekler:

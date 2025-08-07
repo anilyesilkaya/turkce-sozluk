@@ -5,7 +5,7 @@ slug: tunekleme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tüneme
+- tüneme
 ozellikler:
 - - isim
 ornekler:

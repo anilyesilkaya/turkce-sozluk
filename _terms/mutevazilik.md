@@ -5,7 +5,7 @@ slug: mutevazilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► alçak gönüllülük
+- alçak gönüllülük
 ozellikler:
 - - isim
 ornekler:

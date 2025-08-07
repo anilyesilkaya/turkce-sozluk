@@ -5,7 +5,7 @@ slug: paternalizm
 letter: P
 lisan: Fransızca paternalisme
 anlamlar:
-- ► babacılık
+- babacılık
 ozellikler:
 - - isim
   - felsefe

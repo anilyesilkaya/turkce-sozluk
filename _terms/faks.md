@@ -5,7 +5,7 @@ slug: faks
 letter: F
 lisan: İngilizce fax
 anlamlar:
-- ► belgegeçer
+- belgegeçer
 ozellikler:
 - - isim
 ornekler:

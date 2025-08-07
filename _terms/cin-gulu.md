@@ -5,7 +5,7 @@ slug: cin-gulu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kamelya
+- kamelya
 ozellikler:
 - - isim
   - bitki bilimi

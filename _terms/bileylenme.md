@@ -5,7 +5,7 @@ slug: bileylenme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilenme
+- bilenme
 ozellikler:
 - - isim
 ornekler:

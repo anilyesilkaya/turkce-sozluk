@@ -5,7 +5,7 @@ slug: gecesefasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► akşamsefası
+- akşamsefası
 ozellikler:
 - - isim
   - bitki bilimi

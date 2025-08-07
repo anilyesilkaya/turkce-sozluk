@@ -5,7 +5,7 @@ slug: amirane
 letter: A
 lisan: Arapça āmir + Farsça -āne
 anlamlar:
-- ► amirce
+- amirce
 ozellikler:
 - - zarf
 ornekler:

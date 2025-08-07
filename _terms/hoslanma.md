@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşlanmak işi; hazzetme
-- ► teveccüh
+- teveccüh
 ozellikler:
 - - isim
 - - isim

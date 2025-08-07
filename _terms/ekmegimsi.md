@@ -5,7 +5,7 @@ slug: ekmegimsi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ekmeksi
+- ekmeksi
 ozellikler:
 - - sıfat
 ornekler:

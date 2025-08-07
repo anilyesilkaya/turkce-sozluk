@@ -5,7 +5,7 @@ slug: kesel
 letter: K
 lisan: Arapça kesel
 anlamlar:
-- ► tembellik
+- tembellik
 ozellikler:
 - - isim
   - eskimiş

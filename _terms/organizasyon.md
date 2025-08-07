@@ -5,7 +5,7 @@ slug: organizasyon
 letter: O
 lisan: Fransızca organisation
 anlamlar:
-- ► düzenleme
+- düzenleme
 - Devlet, idare, toplum vb.nin düzenleniş biçimi
 - Düzenli bir grubun üyelerinin tamamı
 - Kuruluş, kurum, teşkilat

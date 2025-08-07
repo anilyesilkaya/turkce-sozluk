@@ -5,7 +5,7 @@ slug: teshil
 letter: T
 lisan: Arapça teshīl
 anlamlar:
-- ► kolaylaştırma
+- kolaylaştırma
 ozellikler:
 - - isim
   - eskimiş

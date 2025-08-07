@@ -5,7 +5,7 @@ slug: hisim
 letter: H
 lisan: Farsça ḫişm
 anlamlar:
-- ► öfke
+- öfke
 ozellikler:
 - - isim
 ornekler:

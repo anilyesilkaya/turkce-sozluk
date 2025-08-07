@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naẓariyyāt
 anlamlar:
 - Kuramlar
-- ► kuram
+- kuram
 ozellikler:
 - - isim
   - eskimiş

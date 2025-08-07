@@ -5,7 +5,7 @@ slug: hokelek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gösteriş
+- gösteriş
 ozellikler:
 - - isim
   - ağızlardan

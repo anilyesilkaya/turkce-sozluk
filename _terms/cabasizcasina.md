@@ -5,7 +5,7 @@ slug: cabasizcasina
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çabasızca
+- çabasızca
 ozellikler:
 - - zarf
 ornekler:

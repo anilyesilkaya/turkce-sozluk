@@ -7,7 +7,7 @@ lisan: Arapça menḳūl
 anlamlar:
 - Bir yerden bir yere taşınabilen (mal)
 - Ağızdan ağıza geçerek gelmiş, söylenegelmiş
-- ► taşınır
+- taşınır
 ozellikler:
 - - sıfat
 - - sıfat

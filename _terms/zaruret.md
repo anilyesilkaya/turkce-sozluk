@@ -5,7 +5,7 @@ slug: zaruret
 letter: Z
 lisan: Arapça żarūret
 anlamlar:
-- ► zorunluluk
+- zorunluluk
 - Sıkıntı, yoksulluk içinde olma
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sondurucu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yangın söndürücü
+- yangın söndürücü
 - Yangınları söndürmeye yarayan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: kelime-hazinesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► söz varlığı
+- söz varlığı
 ozellikler:
 - - isim
   - dil bilgisi

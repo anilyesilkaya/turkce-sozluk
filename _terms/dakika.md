@@ -6,7 +6,7 @@ letter: D
 lisan: Arapça daḳīḳa
 anlamlar:
 - Bir saatlik zamanın altmışta biri
-- ► an (I)
+- an (I)
 - Bir derecenin altmışta biri
 ozellikler:
 - - isim

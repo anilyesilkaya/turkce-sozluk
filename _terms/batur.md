@@ -5,7 +5,7 @@ slug: batur
 letter: B
 lisan: Moğolca
 anlamlar:
-- ► bahadır
+- bahadır
 ozellikler:
 - - isim
 ornekler:

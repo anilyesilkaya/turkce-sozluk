@@ -5,7 +5,7 @@ slug: tazip
 letter: T
 lisan: Arapça taʿẕīb
 anlamlar:
-- ► üzme
+- üzme
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mūcid
 anlamlar:
 - Yeni bir buluş ortaya koyan, icat eden kimse
-- ► yaratıcı
+- yaratıcı
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naġme
 anlamlar:
 - Güzel, uyumlu ses, ezgi, melodi
-- ► ezgi
+- ezgi
 - Birinin yalandan ve nazlanarak söylediği söz
 ozellikler:
 - - isim

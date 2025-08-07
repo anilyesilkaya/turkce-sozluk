@@ -5,7 +5,7 @@ slug: karnikara
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► börülce
+- börülce
 ozellikler:
 - - isim
   - ağızlardan

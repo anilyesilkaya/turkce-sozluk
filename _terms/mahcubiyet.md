@@ -5,7 +5,7 @@ slug: mahcubiyet
 letter: M
 lisan: Arapça maḥcūbiyyet
 anlamlar:
-- ► utangaçlık
+- utangaçlık
 ozellikler:
 - - isim
 ornekler:

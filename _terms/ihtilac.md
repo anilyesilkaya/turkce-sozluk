@@ -5,7 +5,7 @@ slug: ihtilac
 letter: I
 lisan: Arapça iḫtilāc
 anlamlar:
-- ► çırpınma
+- çırpınma
 ozellikler:
 - - isim
   - eskimiş

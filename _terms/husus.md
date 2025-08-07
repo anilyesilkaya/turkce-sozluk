@@ -5,7 +5,7 @@ slug: husus
 letter: H
 lisan: Arapça ḫuṣūṣ
 anlamlar:
-- ► konu
+- konu
 ozellikler:
 - - isim
 ornekler:

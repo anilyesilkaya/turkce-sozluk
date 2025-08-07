@@ -5,7 +5,7 @@ slug: kargo-paketi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kargo
+- kargo
 ozellikler:
 - - isim
 ornekler:

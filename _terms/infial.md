@@ -7,7 +7,7 @@ lisan: Arapça infiʿāl
 anlamlar:
 - Kızgınlık, öfke duyma
 - Herhangi bir şeyin etkisi altında kalma
-- ► edilgi
+- edilgi
 ozellikler:
 - - isim
 - - isim

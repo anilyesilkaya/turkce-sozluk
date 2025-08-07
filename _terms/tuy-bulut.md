@@ -5,7 +5,7 @@ slug: tuy-bulut
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► saçak bulut
+- saçak bulut
 ozellikler:
 - - isim
 ornekler:

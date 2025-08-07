@@ -5,7 +5,7 @@ slug: yazmanlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sekreterlik
+- sekreterlik
 ozellikler:
 - - isim
 ornekler:

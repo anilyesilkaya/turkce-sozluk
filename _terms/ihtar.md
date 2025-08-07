@@ -5,7 +5,7 @@ slug: ihtar
 letter: I
 lisan: Arapça iḫṭār
 anlamlar:
-- ► uyarı
+- uyarı
 - Bir şeyi birine hatırlatma
 - Oyun kurallarına aykırı davranışta bulunan oyuncuya hakem tarafından kart gösterilmeden yapılan sözlü uyarı
 ozellikler:

@@ -5,7 +5,7 @@ slug: konjonktivit
 letter: K
 lisan: Fransızca conjonctivite
 anlamlar:
-- ► göz zarı yangısı
+- göz zarı yangısı
 ozellikler:
 - - isim
   - tıp

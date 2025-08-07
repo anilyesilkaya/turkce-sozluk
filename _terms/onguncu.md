@@ -5,7 +5,7 @@ slug: onguncu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► totemci
+- totemci
 ozellikler:
 - - sıfat
   - toplum bilimi

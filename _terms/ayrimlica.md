@@ -5,7 +5,7 @@ slug: ayrimlica
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farklıca
+- farklıca
 ozellikler:
 - - zarf
 ornekler:

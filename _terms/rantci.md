@@ -5,7 +5,7 @@ slug: rantci
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► getirimci
+- getirimci
 ozellikler:
 - - isim
 ornekler:

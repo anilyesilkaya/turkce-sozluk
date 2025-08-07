@@ -5,7 +5,7 @@ slug: bayramdan-bayrama
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► seyrek
+- seyrek
 - Sadece bayram günlerinde
 ozellikler:
 - - zarf

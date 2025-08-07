@@ -5,7 +5,7 @@ slug: yon-belirteci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pusula (I)
+- pusula (I)
 ozellikler:
 - - isim
 ornekler:

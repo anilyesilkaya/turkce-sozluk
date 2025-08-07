@@ -5,7 +5,7 @@ slug: hudut-boyu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınır boyu
+- sınır boyu
 ozellikler:
 - - isim
 ornekler:

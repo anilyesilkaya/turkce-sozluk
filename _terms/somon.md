@@ -5,7 +5,7 @@ slug: somon
 letter: S
 lisan: Fransızca saumon
 anlamlar:
-- ► somon balığı
+- somon balığı
 ozellikler:
 - - isim
   - hayvan bilimi

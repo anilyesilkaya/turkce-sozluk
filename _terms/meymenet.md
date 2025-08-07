@@ -5,7 +5,7 @@ slug: meymenet
 letter: M
 lisan: Arapça meymenet
 anlamlar:
-- ► uğur (I)
+- uğur (I)
 ozellikler:
 - - isim
 ornekler:

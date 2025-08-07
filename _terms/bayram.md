@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Millî veya dinî bakımdan önemi olan ve kutlanan gün veya günler
-- ► şenlik
+- şenlik
 - Tam ve yoğun bir mutluluk duygusu
 ozellikler:
 - - isim

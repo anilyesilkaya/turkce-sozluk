@@ -5,7 +5,7 @@ slug: maceraperest
 letter: M
 lisan: Arapça mācerā + Farsça -perest
 anlamlar:
-- ► maceracı
+- maceracı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: basi-ortulu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başı kapalı
+- başı kapalı
 ozellikler:
 - - sıfat
 ornekler:

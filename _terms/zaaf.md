@@ -5,7 +5,7 @@ slug: zaaf
 letter: Z
 lisan: Arapça żaʿf
 anlamlar:
-- ► düşkünlük
+- düşkünlük
 - İrade zayıflığı
 - Eksiklik, yetersizlik
 ozellikler:

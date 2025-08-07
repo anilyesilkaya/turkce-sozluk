@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - 'Bir tamlayan ile bir tamlanandan oluşan kelime grubu; terkip: Evin kapısı, bizim evimiz, karlı dağlar vb'
-- ► tamamlama
+- tamamlama
 ozellikler:
 - - isim
   - dil bilgisi

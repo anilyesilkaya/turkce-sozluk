@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - Şeftali vb.nin üzerinde bulunan ince tüy
-- ► hav (I)
+- hav (I)
 ozellikler:
 - - isim
 - - isim

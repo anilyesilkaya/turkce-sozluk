@@ -5,7 +5,7 @@ slug: siyam-ikizi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Siyam ikizleri
+- Siyam ikizleri
 ozellikler:
 - - isim
 ornekler:

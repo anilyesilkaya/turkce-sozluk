@@ -5,7 +5,7 @@ slug: reddeyleme
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► reddetme
+- reddetme
 ozellikler:
 - - isim
 ornekler:

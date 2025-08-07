@@ -5,7 +5,7 @@ slug: tasnifleme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bölümleme
+- bölümleme
 ozellikler:
 - - isim
 ornekler:

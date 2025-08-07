@@ -5,7 +5,7 @@ slug: cigrisma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağrışma
+- çağrışma
 ozellikler:
 - - isim
   - ağızlardan

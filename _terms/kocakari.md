@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Yaşlı kadın
-- ► anne
+- anne
 ozellikler:
 - - isim
 - - isim

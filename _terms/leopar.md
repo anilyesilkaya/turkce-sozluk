@@ -5,7 +5,7 @@ slug: leopar
 letter: L
 lisan: Fransızca léopard
 anlamlar:
-- ► pars
+- pars
 ozellikler:
 - - isim
   - hayvan bilimi

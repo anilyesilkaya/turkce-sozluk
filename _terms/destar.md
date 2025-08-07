@@ -5,8 +5,8 @@ slug: destar
 letter: D
 lisan: Farsça destār
 anlamlar:
-- ► sarık
-- ► örtü
+- sarık
+- örtü
 ozellikler:
 - - isim
   - eskimiş

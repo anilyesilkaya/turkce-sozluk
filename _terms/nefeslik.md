@@ -5,7 +5,7 @@ slug: nefeslik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► hava deliği
+- hava deliği
 ozellikler:
 - - isim
 ornekler:

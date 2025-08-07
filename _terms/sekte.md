@@ -6,8 +6,8 @@ letter: S
 lisan: Arapça sekte
 anlamlar:
 - Olmakta olan bir şeyin birdenbire durarak kesilmesi; durgu
-- ► bozukluk
-- ► inme
+- bozukluk
+- inme
 ozellikler:
 - - isim
 - - isim

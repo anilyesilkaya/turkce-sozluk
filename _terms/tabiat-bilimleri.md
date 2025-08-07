@@ -5,7 +5,7 @@ slug: tabiat-bilimleri
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğa bilimleri
+- doğa bilimleri
 ozellikler:
 - - isim
 ornekler:

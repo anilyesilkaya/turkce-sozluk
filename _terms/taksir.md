@@ -5,8 +5,8 @@ slug: taksir
 letter: T
 lisan: Arapça taḳṣīr
 anlamlar:
-- ► kısaltma
-- ► kısaltım
+- kısaltma
+- kısaltım
 - Kusurda bulunma
 - Dikkatsizlik, tedbirsizlik, meslekte acemilik veya düzene, buyruklara ve talimata uymazlıktan doğan kusurlu olma durumu
 ozellikler:

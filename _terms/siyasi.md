@@ -5,8 +5,8 @@ slug: siyasi
 letter: S
 lisan: Arapça siyāsī
 anlamlar:
-- ► siyasal
-- ► politikacı
+- siyasal
+- politikacı
 ozellikler:
 - - sıfat
 - - sıfat

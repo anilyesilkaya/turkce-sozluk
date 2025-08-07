@@ -5,10 +5,10 @@ slug: ayaklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► pedal
+- pedal
 - Ayak basacak yer
-- ► ayakçak
-- ► kaide
+- ayakçak
+- kaide
 - Küçük teknelerde kürekçinin oturduğu yeri destekleyen, kaplamaların iç tarafına çakılan kiriş
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: yedek-teker
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yedek lastik
+- yedek lastik
 ozellikler:
 - - isim
 ornekler:

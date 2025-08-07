@@ -5,7 +5,7 @@ slug: akademisyen
 letter: A
 lisan: Fransızca académicien
 anlamlar:
-- ► öğretim elemanı
+- öğretim elemanı
 ozellikler:
 - - isim
 ornekler:

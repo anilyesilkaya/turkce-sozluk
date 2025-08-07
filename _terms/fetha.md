@@ -5,7 +5,7 @@ slug: fetha
 letter: F
 lisan: Arapça fetḥa
 anlamlar:
-- ► üstün (II)
+- üstün (II)
 ozellikler:
 - - isim
   - eskimiş

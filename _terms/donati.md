@@ -5,7 +5,7 @@ slug: donati
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► teçhizat
+- teçhizat
 ozellikler:
 - - isim
   - askerlik

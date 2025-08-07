@@ -5,7 +5,7 @@ slug: baglanak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlantı
+- bağlantı
 ozellikler:
 - - isim
 ornekler:

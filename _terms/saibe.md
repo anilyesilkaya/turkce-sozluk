@@ -6,7 +6,7 @@ letter: Ş
 lisan: Arapça şāʾibe
 anlamlar:
 - Bir iş, proje vb.nin gerçekleştirilmesi sırasında yanlışlık, yolsuzluk yapıldığı düşüncesi
-- ► leke
+- leke
 ozellikler:
 - - isim
 - - isim

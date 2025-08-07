@@ -8,7 +8,7 @@ anlamlar:
 - Atom numarası 50, atom ağırlığı 118,7, yoğunluğu 7,29 olan, 232 °C'de eriyen, gümüş beyazlığında, kolay işlenebilen, yumuşak bir element (simgesi Sn)
 - Kalaylanmış bir kabın üzerindeki alaşım tabakası
 - Aldatıcı görünüş
-- ► küfür
+- küfür
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: dadaist
 letter: D
 lisan: Fransızca dadaïste
 anlamlar:
-- ► Dadacı
+- Dadacı
 ozellikler:
 - - sıfat
 ornekler:

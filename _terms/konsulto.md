@@ -5,7 +5,7 @@ slug: konsulto
 letter: K
 lisan: İtalyanca consulto
 anlamlar:
-- ► konsültasyon
+- konsültasyon
 ozellikler:
 - - isim
   - tıp

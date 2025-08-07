@@ -5,7 +5,7 @@ slug: miskin-hastaligi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► cüzzam
+- cüzzam
 ozellikler:
 - - isim
   - tıp

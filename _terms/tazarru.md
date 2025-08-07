@@ -5,7 +5,7 @@ slug: tazarru
 letter: T
 lisan: Arapça tażarruʿ
 anlamlar:
-- ► yakarma
+- yakarma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: bilsat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilgileşim
+- bilgileşim
 ozellikler:
 - - isim
 ornekler:

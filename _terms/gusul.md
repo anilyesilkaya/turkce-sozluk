@@ -5,7 +5,7 @@ slug: gusul
 letter: G
 lisan: Arapça ġusl
 anlamlar:
-- ► boy abdesti
+- boy abdesti
 ozellikler:
 - - isim
   - din bilimi

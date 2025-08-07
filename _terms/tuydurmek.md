@@ -5,7 +5,7 @@ slug: tuydurmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çalmak
+- çalmak
 - Uzaklaştırmak, kaçmasını sağlamak
 ozellikler:
 - - -i

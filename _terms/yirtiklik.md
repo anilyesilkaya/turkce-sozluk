@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtık olma durumu
-- ► utanmazlık
+- utanmazlık
 ozellikler:
 - - isim
 - - isim

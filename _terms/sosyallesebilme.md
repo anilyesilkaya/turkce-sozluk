@@ -5,7 +5,7 @@ slug: sosyallesebilme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumsallaşabilme
+- toplumsallaşabilme
 ozellikler:
 - - isim
 ornekler:

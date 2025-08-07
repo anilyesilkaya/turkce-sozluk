@@ -5,7 +5,7 @@ slug: betisiz-sanat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► nonfigüratif sanat
+- nonfigüratif sanat
 ozellikler:
 - - isim
 ornekler:

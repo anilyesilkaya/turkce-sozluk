@@ -5,7 +5,7 @@ slug: nedensizlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sebepsizlik
+- sebepsizlik
 ozellikler:
 - - isim
 ornekler:

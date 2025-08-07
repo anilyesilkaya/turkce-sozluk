@@ -5,7 +5,7 @@ slug: muvaffakiyetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► başarısız
+- başarısız
 ozellikler:
 - - sıfat
 ornekler:

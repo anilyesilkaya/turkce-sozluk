@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüklü olma durumu
-- ► gerginlik
+- gerginlik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: doga-bilgisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tabiat bilgisi
+- tabiat bilgisi
 ozellikler:
 - - isim
 ornekler:

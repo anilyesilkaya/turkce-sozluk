@@ -5,7 +5,7 @@ slug: suphesiz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkusuz
+- kuşkusuz
 - Kuşkusuz biçimde
 ozellikler:
 - - sıfat

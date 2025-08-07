@@ -5,7 +5,7 @@ slug: iptidai-mektep
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilkokul
+- ilkokul
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: boyar
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boyar madde
+- boyar madde
 ozellikler:
 - - isim
   - kimya

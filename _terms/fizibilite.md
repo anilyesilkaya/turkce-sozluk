@@ -5,7 +5,7 @@ slug: fizibilite
 letter: F
 lisan: İngilizce feasibility
 anlamlar:
-- ► yapılabilirlik
+- yapılabilirlik
 ozellikler:
 - - isim
 ornekler:

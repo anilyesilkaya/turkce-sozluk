@@ -5,8 +5,8 @@ slug: darussifa
 letter: D
 lisan: Arapça dār + şifā
 anlamlar:
-- ► hastane
-- ► akıl hastanesi
+- hastane
+- akıl hastanesi
 ozellikler:
 - - isim
   - eskimiş

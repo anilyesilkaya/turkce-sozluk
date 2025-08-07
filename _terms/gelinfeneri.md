@@ -5,7 +5,7 @@ slug: gelinfeneri
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kuş kirazı
+- kuş kirazı
 ozellikler:
 - - isim
   - bitki bilimi

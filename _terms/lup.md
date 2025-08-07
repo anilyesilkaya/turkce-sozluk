@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Emek vermeden ele geçirilen şey
 - Büyükçe bir şeyin birdenbire ve kolaylıkla yutulmasını anlatan ses
-- ► evin
+- evin
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: ulak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► haberci
+- haberci
 ozellikler:
 - - isim
 ornekler:

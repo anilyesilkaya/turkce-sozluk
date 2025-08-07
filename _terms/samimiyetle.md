@@ -5,7 +5,7 @@ slug: samimiyetle
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► içtenlikle
+- içtenlikle
 - Doğru bir biçimde
 ozellikler:
 - - zarf

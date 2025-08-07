@@ -5,7 +5,7 @@ slug: teberru
 letter: T
 lisan: Arapça teberruʿ
 anlamlar:
-- ► bağış
+- bağış
 ozellikler:
 - - isim
   - eskimiş

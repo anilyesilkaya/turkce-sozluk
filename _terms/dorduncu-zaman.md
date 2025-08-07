@@ -5,7 +5,7 @@ slug: dorduncu-zaman
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► Dördüncü Çağ
+- Dördüncü Çağ
 ozellikler:
 - - isim
   - jeoloji

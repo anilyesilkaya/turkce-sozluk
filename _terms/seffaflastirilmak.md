@@ -5,7 +5,7 @@ slug: seffaflastirilmak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► saydamlaştırılmak
+- saydamlaştırılmak
 ozellikler:
 - - nesnesiz
 ornekler:

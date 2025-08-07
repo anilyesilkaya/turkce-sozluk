@@ -5,7 +5,7 @@ slug: sekitmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sektirmek
+- sektirmek
 ozellikler:
 - - -i
 ornekler:

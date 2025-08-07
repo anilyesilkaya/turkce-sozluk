@@ -6,9 +6,9 @@ letter: T
 lisan: Arapça taʿbīr
 anlamlar:
 - Rüya yorumlama
-- ► yorum
+- yorum
 - Anlatım biçimi
-- ► deyim
+- deyim
 ozellikler:
 - - isim
 - - isim

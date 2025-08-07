@@ -5,7 +5,7 @@ slug: probabilizm
 letter: P
 lisan: Fransızca probabilisme
 anlamlar:
-- ► olasıcılık
+- olasıcılık
 ozellikler:
 - - isim
   - felsefe

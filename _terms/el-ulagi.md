@@ -5,7 +5,7 @@ slug: el-ulagi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yamak
+- yamak
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıldız olma durumu
-- ► gökevi
+- gökevi
 ozellikler:
 - - isim
 - - isim

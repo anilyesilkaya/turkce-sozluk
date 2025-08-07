@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istiḥḳāḳ
 anlamlar:
 - Hakkı olma, hak kazanma
-- ► hak ediş
+- hak ediş
 ozellikler:
 - - isim
 - - isim

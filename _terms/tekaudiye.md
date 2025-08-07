@@ -5,7 +5,7 @@ slug: tekaudiye
 letter: T
 lisan: Arapça teḳāʿudiyye
 anlamlar:
-- ► emekli aylığı
+- emekli aylığı
 ozellikler:
 - - isim
   - eskimiş

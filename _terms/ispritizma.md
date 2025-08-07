@@ -5,7 +5,7 @@ slug: ispritizma
 letter: I
 lisan: Fransızca spiritisme
 anlamlar:
-- ► ruhçuluk
+- ruhçuluk
 ozellikler:
 - - isim
 ornekler:

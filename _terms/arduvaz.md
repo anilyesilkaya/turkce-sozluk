@@ -5,7 +5,7 @@ slug: arduvaz
 letter: A
 lisan: Fransızca ardoise
 anlamlar:
-- ► kayağan taş
+- kayağan taş
 ozellikler:
 - - isim
   - mineraloji

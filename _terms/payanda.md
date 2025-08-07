@@ -5,7 +5,7 @@ slug: payanda
 letter: P
 lisan: Farsça pāyende
 anlamlar:
-- ► destek
+- destek
 ozellikler:
 - - isim
 ornekler:

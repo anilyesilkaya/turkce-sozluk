@@ -5,7 +5,7 @@ slug: itinalilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özenlilik
+- özenlilik
 ozellikler:
 - - isim
 ornekler:

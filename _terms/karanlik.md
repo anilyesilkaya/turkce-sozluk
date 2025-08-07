@@ -10,7 +10,7 @@ anlamlar:
 - Üzüntü, sıkıntı, perişanlık
 - Yasalara, töreye uygun olmayan
 - Gereğince anlaşılıp bilinemeyen, ne olacağı, sonu belli olmayan (durum)
-- ► karışık
+- karışık
 ozellikler:
 - - isim
 - - isim

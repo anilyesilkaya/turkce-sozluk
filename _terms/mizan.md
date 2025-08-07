@@ -5,10 +5,10 @@ slug: mizan
 letter: M
 lisan: Arapça mīzān
 anlamlar:
-- ► terazi
+- terazi
 - Tartı, ölçü aleti
-- ► ölçü
-- ► sağlama
+- ölçü
+- sağlama
 - Bir tüccarın, ticari durumunu, işinin genel sonucunu gösteren, belirli zamanlarda yaptığı hesap özeti
 ozellikler:
 - - isim

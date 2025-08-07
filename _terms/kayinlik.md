@@ -5,7 +5,7 @@ slug: kayinlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kayınbiraderlik
+- kayınbiraderlik
 ozellikler:
 - - isim
 ornekler:

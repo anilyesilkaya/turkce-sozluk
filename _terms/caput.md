@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eskimiş bez parçası; paçavra
-- ► bez (I)
+- bez (I)
 ozellikler:
 - - isim
   - ağızlardan

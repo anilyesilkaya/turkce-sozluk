@@ -5,7 +5,7 @@ slug: kati-sabun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalıp sabun
+- kalıp sabun
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: kiyafetli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► giysili
-- ► kılıklı
+- giysili
+- kılıklı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: ceri
 letter: Ç
 lisan: İngilizce cherry
 anlamlar:
-- ► kiraz domates
+- kiraz domates
 ozellikler:
 - - isim
 ornekler:

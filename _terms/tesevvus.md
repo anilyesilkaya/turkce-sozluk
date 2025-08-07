@@ -5,7 +5,7 @@ slug: tesevvus
 letter: T
 lisan: Arapça teşevvuş
 anlamlar:
-- ► karışıklık
+- karışıklık
 ozellikler:
 - - isim
   - eskimiş

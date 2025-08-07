@@ -5,7 +5,7 @@ slug: gayrimesru-cocuk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► piç
+- piç
 ozellikler:
 - - isim
 ornekler:

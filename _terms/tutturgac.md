@@ -5,7 +5,7 @@ slug: tutturgac
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ataş
+- ataş
 ozellikler:
 - - isim
 ornekler:

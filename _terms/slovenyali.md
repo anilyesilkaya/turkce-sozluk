@@ -5,7 +5,7 @@ slug: slovenyali
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Sloven
+- Sloven
 ozellikler:
 - - isim
 ornekler:

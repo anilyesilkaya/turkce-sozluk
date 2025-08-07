@@ -5,7 +5,7 @@ slug: gecit-resmi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçit töreni
+- geçit töreni
 ozellikler:
 - - isim
 ornekler:

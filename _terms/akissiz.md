@@ -5,7 +5,7 @@ slug: akissiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yankısız
+- yankısız
 ozellikler:
 - - sıfat
 ornekler:

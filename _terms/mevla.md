@@ -5,7 +5,7 @@ slug: mevla
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - din bilimi

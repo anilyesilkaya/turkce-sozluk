@@ -8,8 +8,8 @@ anlamlar:
 - Uçlu duruma gelmek, uç vermek, filizlenmek
 - Gelişmeye başlamak
 - Bir şeyden kaynaklanmak
-- ► yararlanmak
-- ► vermek
+- yararlanmak
+- vermek
 - Bedava almak, birinden geçinmek
 ozellikler:
 - - nesnesiz

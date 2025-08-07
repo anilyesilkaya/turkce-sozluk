@@ -5,7 +5,7 @@ slug: cobanuzumu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► yaban mersini
+- yaban mersini
 ozellikler:
 - - isim
   - bitki bilimi

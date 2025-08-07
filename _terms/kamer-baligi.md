@@ -5,7 +5,7 @@ slug: kamer-baligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ay balığı
+- ay balığı
 ozellikler:
 - - isim
   - hayvan bilimi

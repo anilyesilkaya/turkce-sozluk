@@ -5,7 +5,7 @@ slug: asitane
 letter: A
 lisan: Farsça āstāne
 anlamlar:
-- ► eşik
+- eşik
 - Bir tarikatın veya tarikat kolunun merkezi durumunda olan tam teşekküllü büyük tekke
 - Osmanlı döneminde İstanbul, Edirne vb. saltanat merkezlerine verilen ad
 ozellikler:

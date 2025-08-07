@@ -5,7 +5,7 @@ slug: zambirli
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► çalımlı
+- çalımlı
 ozellikler:
 - - sıfat
 ornekler:

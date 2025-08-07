@@ -5,7 +5,7 @@ slug: tab
 letter: T
 lisan: Arapça ṭabʿ
 anlamlar:
-- ► bası
+- bası
 ozellikler:
 - - isim
 ornekler:

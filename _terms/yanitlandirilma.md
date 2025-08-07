@@ -5,7 +5,7 @@ slug: yanitlandirilma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevaplandırılma
+- cevaplandırılma
 ozellikler:
 - - isim
 ornekler:

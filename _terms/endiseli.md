@@ -5,7 +5,7 @@ slug: endiseli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılı
+- kaygılı
 ozellikler:
 - - sıfat
 ornekler:

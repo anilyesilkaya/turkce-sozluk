@@ -5,7 +5,7 @@ slug: tombul
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yuvarlak
+- yuvarlak
 - Şişman, etine dolgun olan; yumuk
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: marsivan-ayisi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► marsıvan eşeği
+- marsıvan eşeği
 ozellikler:
 - - isim
   - hayvan bilimi

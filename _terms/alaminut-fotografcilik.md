@@ -5,7 +5,7 @@ slug: alaminut-fotografcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► şipşakçılık
+- şipşakçılık
 ozellikler:
 - - isim
 ornekler:

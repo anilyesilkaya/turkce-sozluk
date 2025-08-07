@@ -5,7 +5,7 @@ slug: bir-tutamlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir tutam
+- bir tutam
 ozellikler:
 - - sıfat
 ornekler:

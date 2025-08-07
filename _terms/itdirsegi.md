@@ -5,7 +5,7 @@ slug: itdirsegi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► arpacık
+- arpacık
 ozellikler:
 - - isim
 ornekler:

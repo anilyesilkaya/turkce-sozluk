@@ -5,7 +5,7 @@ slug: idiyopati
 letter: I
 lisan: Fransızca idiopathie
 anlamlar:
-- ► kapan duygu
+- kapan duygu
 ozellikler:
 - - isim
   - tıp

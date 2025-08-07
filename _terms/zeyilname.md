@@ -5,7 +5,7 @@ slug: zeyilname
 letter: Z
 lisan: Arapça ẕeyl + Farsça nāme
 anlamlar:
-- ► ek poliçe
+- ek poliçe
 ozellikler:
 - - isim
   - ticaret

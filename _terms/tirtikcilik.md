@@ -5,7 +5,7 @@ slug: tirtikcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yankesicilik
+- yankesicilik
 ozellikler:
 - - isim
 ornekler:

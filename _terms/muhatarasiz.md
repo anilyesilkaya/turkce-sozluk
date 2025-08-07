@@ -5,7 +5,7 @@ slug: muhatarasiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tehlikesiz
+- tehlikesiz
 ozellikler:
 - - sıfat
 ornekler:

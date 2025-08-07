@@ -5,7 +5,7 @@ slug: familya
 letter: F
 lisan: İtalyanca famiglia
 anlamlar:
-- ► aile
+- aile
 - Çok belirli ve kendilerine özgü ortak özelliklerinden dolayı bir arada değerlendirilen cinsler topluluğu; fasile
 - Eşlerden kadın için kullanılan söz
 ozellikler:

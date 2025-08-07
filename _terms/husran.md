@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫusrān
 anlamlar:
 - Beklenilen şeyin elde edilememesi yüzünden duyulan acı; batkı
-- ► zarar
+- zarar
 ozellikler:
 - - isim
 - - isim

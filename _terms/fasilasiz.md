@@ -5,7 +5,7 @@ slug: fasilasiz
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kesintisiz
+- kesintisiz
 - Durmadan, ara vermeden
 ozellikler:
 - - sıfat

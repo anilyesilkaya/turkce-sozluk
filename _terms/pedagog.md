@@ -5,7 +5,7 @@ slug: pedagog
 letter: P
 lisan: Fransızca pédagogue
 anlamlar:
-- ► eğitim bilimci
+- eğitim bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: degin
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sincap
+- sincap
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: cehalet
 letter: C
 lisan: Arapça cehālet
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 ozellikler:
 - - isim
 ornekler:

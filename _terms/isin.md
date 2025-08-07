@@ -5,7 +5,7 @@ slug: isin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kalori
+- kalori
 ozellikler:
 - - isim
   - fizik

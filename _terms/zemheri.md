@@ -5,7 +5,7 @@ slug: zemheri
 letter: Z
 lisan: Arapça zemherīr
 anlamlar:
-- ► kara kış
+- kara kış
 ozellikler:
 - - isim
 ornekler:

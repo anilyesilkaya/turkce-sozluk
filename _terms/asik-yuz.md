@@ -5,7 +5,7 @@ slug: asik-yuz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► asık surat
+- asık surat
 ozellikler:
 - - isim
 ornekler:

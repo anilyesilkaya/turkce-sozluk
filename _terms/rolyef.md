@@ -5,7 +5,7 @@ slug: rolyef
 letter: R
 lisan: Fransızca relief
 anlamlar:
-- ► kabartma
+- kabartma
 ozellikler:
 - - isim
 ornekler:

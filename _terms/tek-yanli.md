@@ -5,7 +5,7 @@ slug: tek-yanli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tek taraflı
+- tek taraflı
 ozellikler:
 - - sıfat
 ornekler:

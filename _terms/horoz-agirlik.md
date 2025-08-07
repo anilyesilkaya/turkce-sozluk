@@ -5,7 +5,7 @@ slug: horoz-agirlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hafif sıklet
+- hafif sıklet
 ozellikler:
 - - isim
   - spor

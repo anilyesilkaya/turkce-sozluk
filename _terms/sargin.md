@@ -5,7 +5,7 @@ slug: sargin
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - zarf
   - ağızlardan

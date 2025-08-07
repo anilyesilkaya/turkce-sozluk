@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kavisi olmayan
-- ► falsosuz
+- falsosuz
 ozellikler:
 - - sıfat
 - - sıfat

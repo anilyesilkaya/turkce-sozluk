@@ -5,7 +5,7 @@ slug: hayli
 letter: H
 lisan: Farsça ḫaylī
 anlamlar:
-- ► çok
+- çok
 - (ha'yli) ► olabildiğince
 ozellikler:
 - - sıfat

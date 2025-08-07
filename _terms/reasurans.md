@@ -5,7 +5,7 @@ slug: reasurans
 letter: R
 lisan: Fransızca réassurance
 anlamlar:
-- ► ikili sigorta
+- ikili sigorta
 ozellikler:
 - - isim
 ornekler:

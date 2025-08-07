@@ -5,7 +5,7 @@ slug: menfaattar
 letter: M
 lisan: Arapça menfaʿat + Farsça -dār
 anlamlar:
-- ► çıkarcı
+- çıkarcı
 ozellikler:
 - - sıfat
   - eskimiş

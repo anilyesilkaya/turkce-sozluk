@@ -5,7 +5,7 @@ slug: mutat
 letter: M
 lisan: Arapça muʿtād
 anlamlar:
-- ► alışılmış
+- alışılmış
 ozellikler:
 - - sıfat
 ornekler:

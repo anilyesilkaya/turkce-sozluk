@@ -5,7 +5,7 @@ slug: isguderlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► maslahatgüzarlık
+- maslahatgüzarlık
 ozellikler:
 - - isim
 ornekler:

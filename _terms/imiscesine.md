@@ -5,7 +5,7 @@ slug: imiscesine
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gibi
+- gibi
 ozellikler:
 - - edat
 ornekler:

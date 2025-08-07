@@ -5,9 +5,9 @@ slug: yavuklu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nişanlı
-- ► sözlü
-- ► sevgili
+- nişanlı
+- sözlü
+- sevgili
 ozellikler:
 - - ağızlardan
 - - ağızlardan

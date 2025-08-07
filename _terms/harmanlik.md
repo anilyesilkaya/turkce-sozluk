@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Harman için gerekli eşya
-- ► harman yeri
+- harman yeri
 ozellikler:
 - - isim
 - - isim

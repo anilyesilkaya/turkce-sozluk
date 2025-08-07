@@ -5,7 +5,7 @@ slug: seslem
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hece
+- hece
 ozellikler:
 - - isim
   - dil bilgisi

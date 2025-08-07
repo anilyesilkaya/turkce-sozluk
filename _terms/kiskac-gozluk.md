@@ -5,7 +5,7 @@ slug: kiskac-gozluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kelebek gözlük
+- kelebek gözlük
 ozellikler:
 - - isim
 ornekler:

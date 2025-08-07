@@ -6,8 +6,8 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Titrer gibi dalgalanan, ince (kumaş, elbise)
-- ► tertemiz
-- ► tir tir
+- tertemiz
+- tir tir
 - Titreye titreye
 ozellikler:
 - - sıfat

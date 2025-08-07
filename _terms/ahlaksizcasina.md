@@ -5,7 +5,7 @@ slug: ahlaksizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ahlaksızca
+- ahlaksızca
 ozellikler:
 - - zarf
 ornekler:

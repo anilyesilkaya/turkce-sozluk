@@ -5,7 +5,7 @@ slug: kabiliyetsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yeteneksizlik
+- yeteneksizlik
 ozellikler:
 - - isim
 ornekler:

@@ -9,7 +9,7 @@ anlamlar:
 - İyi tanınmış, köklü bir aileden gelen (kimse); kişizade, asil, aristokrat
 - Saygı uyandıran, yücelik taşıyan
 - Soyu iyi nitelikli olan, iyi cins soydan gelen (at vb.)
-- ► kökten sürme
+- kökten sürme
 ozellikler:
 - - sıfat
 - - sıfat

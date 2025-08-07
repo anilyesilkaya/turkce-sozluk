@@ -5,7 +5,7 @@ slug: imtiyazsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ayrıcalıksızlık
+- ayrıcalıksızlık
 ozellikler:
 - - isim
 ornekler:

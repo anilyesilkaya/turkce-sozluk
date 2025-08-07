@@ -5,7 +5,7 @@ slug: yavuklanmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nişanlanmak
+- nişanlanmak
 ozellikler:
 - - -e
   - nesnesiz

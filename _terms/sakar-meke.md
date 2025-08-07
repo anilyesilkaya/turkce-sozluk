@@ -5,7 +5,7 @@ slug: sakar-meke
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yaban kazı
+- yaban kazı
 ozellikler:
 - - isim
   - hayvan bilimi

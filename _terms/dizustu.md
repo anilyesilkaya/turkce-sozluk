@@ -5,7 +5,7 @@ slug: dizustu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dizüstü bilgisayar
+- dizüstü bilgisayar
 ozellikler:
 - - isim
 ornekler:

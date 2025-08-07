@@ -5,7 +5,7 @@ slug: meyvehos
 letter: M
 lisan: Farsça mīve + ḫuşk
 anlamlar:
-- ► kuru yemiş
+- kuru yemiş
 - Kuru yemiş satılan yer
 ozellikler:
 - - isim

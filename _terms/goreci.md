@@ -5,7 +5,7 @@ slug: goreci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► bağıntıcı
+- bağıntıcı
 ozellikler:
 - - sıfat
   - felsefe

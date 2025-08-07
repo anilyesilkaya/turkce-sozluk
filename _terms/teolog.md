@@ -5,7 +5,7 @@ slug: teolog
 letter: T
 lisan: Fransızca théologue
 anlamlar:
-- ► tanrı bilimci
+- tanrı bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -6,8 +6,8 @@ letter: R
 lisan: Farsça reng
 anlamlar:
 - Cisimler tarafından yansılanan ışığın gözde oluşturduğu duyum
-- ► nitelik
-- ► çeşitlilik
+- nitelik
+- çeşitlilik
 ozellikler:
 - - isim
 - - isim

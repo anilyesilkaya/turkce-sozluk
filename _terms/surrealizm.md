@@ -5,7 +5,7 @@ slug: surrealizm
 letter: S
 lisan: Fransızca surréalisme
 anlamlar:
-- ► gerçeküstücülük
+- gerçeküstücülük
 ozellikler:
 - - isim
 ornekler:

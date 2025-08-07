@@ -5,7 +5,7 @@ slug: metis
 letter: M
 lisan: Fransızca métis
 anlamlar:
-- ► melez
+- melez
 ozellikler:
 - - sıfat
   - biyoloji

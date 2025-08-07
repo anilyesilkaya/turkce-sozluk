@@ -5,7 +5,7 @@ slug: sekvaci
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şikâyetçi
+- şikâyetçi
 ozellikler:
 - - sıfat
 ornekler:

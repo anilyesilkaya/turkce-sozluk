@@ -5,9 +5,9 @@ slug: eglemek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► durdurmak
-- ► oyalamak (I)
-- ► avutmak
+- durdurmak
+- oyalamak (I)
+- avutmak
 ozellikler:
 - - -i
 - - -i

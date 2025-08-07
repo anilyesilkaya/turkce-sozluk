@@ -5,7 +5,7 @@ slug: imtizac
 letter: I
 lisan: Arapça imtizāc
 anlamlar:
-- ► uyum
+- uyum
 - Karşısındakiyle iyi geçinme
 - İki veya daha çok şeyin karışarak tek bir şey oluşturması; bağdaşma
 ozellikler:

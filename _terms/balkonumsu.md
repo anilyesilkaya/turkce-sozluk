@@ -5,7 +5,7 @@ slug: balkonumsu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► balkonsu
+- balkonsu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: bilyon
 letter: B
 lisan: Fransızca billion
 anlamlar:
-- ► milyar
+- milyar
 ozellikler:
 - - isim
   - eskimiş

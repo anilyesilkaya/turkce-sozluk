@@ -5,7 +5,7 @@ slug: cenubi
 letter: C
 lisan: Arapça cenūbî
 anlamlar:
-- ► Güney (I)
+- Güney (I)
 - Güney'le ilgili, Güney'e özgü olan
 ozellikler:
 - - sıfat

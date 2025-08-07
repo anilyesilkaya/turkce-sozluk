@@ -5,8 +5,8 @@ slug: ikircikli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkucu
-- ► kararsız
+- kuşkucu
+- kararsız
 - Kararsız bir biçimde
 ozellikler:
 - - sıfat

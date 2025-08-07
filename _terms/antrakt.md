@@ -5,7 +5,7 @@ slug: antrakt
 letter: A
 lisan: Fransızca entracte
 anlamlar:
-- ► ara
+- ara
 ozellikler:
 - - isim
   - sinema

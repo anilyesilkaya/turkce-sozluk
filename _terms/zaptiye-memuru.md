@@ -5,7 +5,7 @@ slug: zaptiye-memuru
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zaptiye
+- zaptiye
 ozellikler:
 - - isim
   - eskimiş

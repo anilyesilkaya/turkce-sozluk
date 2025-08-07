@@ -5,7 +5,7 @@ slug: ozek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► merkez
+- merkez
 ozellikler:
 - - isim
 ornekler:

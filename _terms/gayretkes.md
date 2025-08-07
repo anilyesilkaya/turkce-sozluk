@@ -5,7 +5,7 @@ slug: gayretkes
 letter: G
 lisan: Arapça ġayret + Farsça -keş
 anlamlar:
-- ► çalışkan
+- çalışkan
 - Yan tutan, kayıran
 ozellikler:
 - - sıfat

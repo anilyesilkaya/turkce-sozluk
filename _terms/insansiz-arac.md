@@ -5,7 +5,7 @@ slug: insansiz-arac
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insansız hava aracı
+- insansız hava aracı
 ozellikler:
 - - isim
 ornekler:

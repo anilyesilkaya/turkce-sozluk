@@ -5,7 +5,7 @@ slug: ikinci-ferik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tümgeneral
+- tümgeneral
 ozellikler:
 - - isim
   - eskimiş

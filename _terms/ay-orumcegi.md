@@ -5,7 +5,7 @@ slug: ay-orumcegi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Ay modülü
+- Ay modülü
 ozellikler:
 - - isim
 ornekler:

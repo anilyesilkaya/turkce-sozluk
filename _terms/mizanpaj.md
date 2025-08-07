@@ -5,7 +5,7 @@ slug: mizanpaj
 letter: M
 lisan: Fransızca mise en page
 anlamlar:
-- ► sayfalama
+- sayfalama
 ozellikler:
 - - isim
 ornekler:

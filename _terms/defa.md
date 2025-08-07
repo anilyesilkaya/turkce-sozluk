@@ -5,7 +5,7 @@ slug: defa
 letter: D
 lisan: Arapça defʿa
 anlamlar:
-- ► kez
+- kez
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: nu
 letter: N
 lisan: Fransızca nu
 anlamlar:
-- ► çıplak
-- ► çıplak resim
+- çıplak
+- çıplak resim
 ozellikler:
 - - sıfat
 - - sıfat

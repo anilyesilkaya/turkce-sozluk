@@ -5,7 +5,7 @@ slug: mustahdemlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hizmetlilik
+- hizmetlilik
 ozellikler:
 - - isim
 ornekler:

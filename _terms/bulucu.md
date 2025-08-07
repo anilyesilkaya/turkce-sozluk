@@ -5,9 +5,9 @@ slug: bulucu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kâşif
-- ► icatçı
-- ► dedektör
+- kâşif
+- icatçı
+- dedektör
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: ilahiyatci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tanrı bilimci
+- tanrı bilimci
 ozellikler:
 - - isim
   - felsefe

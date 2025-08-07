@@ -5,7 +5,7 @@ slug: kazan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kahramankazan
+- Kahramankazan
 ozellikler:
 - - isim
 ornekler:

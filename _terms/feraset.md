@@ -5,8 +5,8 @@ slug: feraset
 letter: F
 lisan: Arapça ferāset
 anlamlar:
-- ► anlayış
-- ► zekâ
+- anlayış
+- zekâ
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: oz-yapi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► karakter
+- karakter
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: satis-sarayi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► satış merkezi
+- satış merkezi
 ozellikler:
 - - isim
   - ticaret

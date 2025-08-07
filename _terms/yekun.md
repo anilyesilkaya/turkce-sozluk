@@ -5,7 +5,7 @@ slug: yekun
 letter: Y
 lisan: Arapça yekūn
 anlamlar:
-- ► toplam
+- toplam
 ozellikler:
 - - isim
   - matematik

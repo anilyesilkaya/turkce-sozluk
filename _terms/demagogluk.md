@@ -5,7 +5,7 @@ slug: demagogluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► laf cambazlığı
+- laf cambazlığı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cintar
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kanlıca
+- kanlıca
 ozellikler:
 - - isim
   - bitki bilimi

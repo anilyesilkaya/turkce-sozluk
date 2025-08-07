@@ -5,7 +5,7 @@ slug: soz-dizimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► cümle bilgisi
+- cümle bilgisi
 ozellikler:
 - - isim
   - dil bilgisi

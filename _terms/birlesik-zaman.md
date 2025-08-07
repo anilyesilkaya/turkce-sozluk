@@ -5,7 +5,7 @@ slug: birlesik-zaman
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birleşik çekim
+- birleşik çekim
 ozellikler:
 - - isim
   - dil bilgisi

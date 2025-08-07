@@ -5,7 +5,7 @@ slug: bagirsak-otu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► farekulağı
+- farekulağı
 ozellikler:
 - - isim
   - bitki bilimi

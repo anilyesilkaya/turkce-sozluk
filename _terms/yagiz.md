@@ -5,9 +5,9 @@ slug: yagiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► esmer
-- ► doru
-- ► yiğit
+- esmer
+- doru
+- yiğit
 ozellikler:
 - - sıfat
 - - sıfat

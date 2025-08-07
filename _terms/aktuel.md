@@ -5,8 +5,8 @@ slug: aktuel
 letter: A
 lisan: Fransızca actuel
 anlamlar:
-- ► güncel
-- ► edimsel
+- güncel
+- edimsel
 ozellikler:
 - - sıfat
 - - sıfat

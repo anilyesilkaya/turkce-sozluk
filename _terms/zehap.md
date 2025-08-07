@@ -5,7 +5,7 @@ slug: zehap
 letter: Z
 lisan: Arapça ẕehāb
 anlamlar:
-- ► sanı
+- sanı
 ozellikler:
 - - isim
   - eskimiş

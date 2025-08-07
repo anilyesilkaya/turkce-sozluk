@@ -5,7 +5,7 @@ slug: cehtsiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çabasız
+- çabasız
 ozellikler:
 - - isim
 ornekler:

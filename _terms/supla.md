@@ -5,7 +5,7 @@ slug: supla
 letter: S
 lisan: Fransızca supple
 anlamlar:
-- ► Amerikan servis
+- Amerikan servis
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: musiki
 letter: M
 lisan: Arapça mūsīḳī
 anlamlar:
-- ► müzik
+- müzik
 - Kulağa hoş gelen sesler dizisi
 ozellikler:
 - - isim

@@ -10,7 +10,7 @@ anlamlar:
 - Özel bir biçimde olmayan, üniforma olmayan (giysi)
 - Üniforma veya özel giysi giymemiş olan (kimse)
 - Resmî olmayan giysi
-- ► sivil polis
+- sivil polis
 - Çıplak, çırılçıplak
 ozellikler:
 - - sıfat

@@ -5,8 +5,8 @@ slug: mizika
 letter: M
 lisan: İtalyanca musica
 anlamlar:
-- ► bando
-- ► armonika
+- bando
+- armonika
 ozellikler:
 - - isim
   - müzik

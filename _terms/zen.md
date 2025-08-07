@@ -5,7 +5,7 @@ slug: zen
 letter: Z
 lisan: Farsça zen
 anlamlar:
-- ► kadın
+- kadın
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kanun-teklifi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasa teklifi
+- yasa teklifi
 ozellikler:
 - - isim
   - hukuk

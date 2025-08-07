@@ -5,7 +5,7 @@ slug: evhamlilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kuruntululuk
+- kuruntululuk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bickin
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kabadayı
+- kabadayı
 - Korkusuz, gözü pek, yürekli, cesur
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalı çırpı kırıntısı
-- ► süprüntü
+- süprüntü
 - Bazı çocuk oyunlarında "dikkat" anlamında kullanılan bir uyarma sözü
 ozellikler:
 - - isim

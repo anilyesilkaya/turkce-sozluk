@@ -5,7 +5,7 @@ slug: kuraklik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yağışsızlık
+- yağışsızlık
 ozellikler:
 - - isim
 ornekler:

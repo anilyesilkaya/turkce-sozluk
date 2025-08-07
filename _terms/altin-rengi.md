@@ -5,7 +5,7 @@ slug: altin-rengi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► altın sarısı
+- altın sarısı
 - Bu renkte olan
 ozellikler:
 - - isim

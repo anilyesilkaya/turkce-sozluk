@@ -5,8 +5,8 @@ slug: gravite
 letter: G
 lisan: İngilizce gravity
 anlamlar:
-- ► yoğunluk
-- ► ağırlık
+- yoğunluk
+- ağırlık
 ozellikler:
 - - isim
 - - isim

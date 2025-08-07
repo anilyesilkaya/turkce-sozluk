@@ -5,7 +5,7 @@ slug: narenc
 letter: N
 lisan: Farsça nārenc
 anlamlar:
-- ► turunç
+- turunç
 ozellikler:
 - - isim
   - bitki bilimi

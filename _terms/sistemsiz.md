@@ -5,7 +5,7 @@ slug: sistemsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzensiz
+- düzensiz
 - Belirli kural ve ilkelere uymayan; dizgesiz
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: sogrulmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğurulmak
+- soğurulmak
 ozellikler:
 - - nesnesiz
 ornekler:

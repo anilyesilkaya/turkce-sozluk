@@ -5,7 +5,7 @@ slug: kemoterapi
 letter: K
 lisan: İngilizce chemotherapy
 anlamlar:
-- ► kimyasal tedavi
+- kimyasal tedavi
 ozellikler:
 - - isim
   - tıp

@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳaṭʿ + Türkçe etmek
 anlamlar:
 - Bir yeri aşarak geçmek
-- ► kesmek
+- kesmek
 ozellikler:
 - - -i
 - - -i

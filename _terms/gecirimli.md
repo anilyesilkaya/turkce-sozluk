@@ -5,7 +5,7 @@ slug: gecirimli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçirgen
+- geçirgen
 ozellikler:
 - - sıfat
 ornekler:

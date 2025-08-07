@@ -5,7 +5,7 @@ slug: gezen-tavuk-yumurtasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► köy yumurtası
+- köy yumurtası
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: narsist
 letter: N
 lisan: Fransızca narcissiste
 anlamlar:
-- ► özsever
+- özsever
 ozellikler:
 - - sıfat
   - ruh bilimi

@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca comte
 anlamlar:
 - Roma imparatorunun anlaşma sağladığı yabancı ülke yöneticisi
-- ► derebeyi
+- derebeyi
 - Batı toplumunda erkekler için kullanılan bir soyluluk ünvanı
 ozellikler:
 - - isim

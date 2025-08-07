@@ -5,7 +5,7 @@ slug: esrarengizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► gizemlilik
+- gizemlilik
 ozellikler:
 - - isim
 ornekler:

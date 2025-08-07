@@ -5,7 +5,7 @@ slug: gebertebilme
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► öldürebilme
+- öldürebilme
 ozellikler:
 - - isim
 ornekler:

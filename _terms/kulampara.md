@@ -5,7 +5,7 @@ slug: kulampara
 letter: K
 lisan: Arapça ġulām + Farsça bāre
 anlamlar:
-- ► oğlancı
+- oğlancı
 ozellikler:
 - - isim
   - kaba konuşmada

@@ -5,7 +5,7 @@ slug: mahsusen
 letter: M
 lisan: Arapça maḫṣūṣen
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
   - eskimiş

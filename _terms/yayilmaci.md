@@ -5,7 +5,7 @@ slug: yayilmaci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► emperyalist
+- emperyalist
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tembelcesine
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tembelce
+- tembelce
 ozellikler:
 - - zarf
 ornekler:

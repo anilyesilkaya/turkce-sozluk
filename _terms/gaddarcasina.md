@@ -5,7 +5,7 @@ slug: gaddarcasina
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gaddarca
+- gaddarca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: stenografi
 letter: S
 lisan: Fransızca sténographie
 anlamlar:
-- ► steno
+- steno
 ozellikler:
 - - isim
 ornekler:

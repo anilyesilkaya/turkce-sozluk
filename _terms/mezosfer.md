@@ -5,7 +5,7 @@ slug: mezosfer
 letter: M
 lisan: Fransızca mésosphère
 anlamlar:
-- ► orta yuvar
+- orta yuvar
 ozellikler:
 - - isim
   - gök bilimi

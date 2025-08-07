@@ -9,7 +9,7 @@ anlamlar:
 - Vakit, zaman
 - Bir işin yapıldığı belli bir zaman
 - Günün hangi anı olduğunu gösteren alet
-- ► sayaç
+- sayaç
 ozellikler:
 - - isim
 - - isim

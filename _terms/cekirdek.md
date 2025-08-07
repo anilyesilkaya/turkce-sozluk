@@ -10,7 +10,7 @@ anlamlar:
 - Ağaçlarda soyulmayan bölüm
 - Kuyumculukta kullanılan ve beş santigrama eşit olan ağırlık ölçüsü
 - Bir hücrenin merkezini oluşturan cisimcik
-- ► atom çekirdeği
+- atom çekirdeği
 - Bir şeyin temelini oluşturan
 ozellikler:
 - - isim

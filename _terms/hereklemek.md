@@ -5,7 +5,7 @@ slug: hereklemek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sırıklamak
+- sırıklamak
 ozellikler:
 - - -i
 ornekler:

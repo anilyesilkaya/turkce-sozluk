@@ -5,7 +5,7 @@ slug: kolayina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kolaylıkla
+- kolaylıkla
 ozellikler:
 - - zarf
 ornekler:

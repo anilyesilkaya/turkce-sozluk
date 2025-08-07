@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kurmak işi; ihdas
-- ► prefabrik
+- prefabrik
 ozellikler:
 - - isim
 - - isim

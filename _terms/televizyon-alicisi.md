@@ -5,7 +5,7 @@ slug: televizyon-alicisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► televizyon
+- televizyon
 ozellikler:
 - - isim
 ornekler:

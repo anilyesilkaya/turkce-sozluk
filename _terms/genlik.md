@@ -5,8 +5,8 @@ slug: genlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► genişlik
-- ► dalga genliği
+- genişlik
+- dalga genliği
 - Bolluk, refah
 ozellikler:
 - - isim

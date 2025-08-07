@@ -5,7 +5,7 @@ slug: celim
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► güç (I)
+- güç (I)
 ozellikler:
 - - isim
   - ağızlardan

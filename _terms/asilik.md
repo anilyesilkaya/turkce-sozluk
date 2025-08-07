@@ -5,7 +5,7 @@ slug: asilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► başkaldırıcılık
+- başkaldırıcılık
 ozellikler:
 - - isim
 ornekler:

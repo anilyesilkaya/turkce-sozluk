@@ -5,7 +5,7 @@ slug: hakiki
 letter: H
 lisan: Arapça ḥaḳīḳī
 anlamlar:
-- ► gerçek
+- gerçek
 - Niteliği değişmemiş, aslına uygun olan
 ozellikler:
 - - sıfat

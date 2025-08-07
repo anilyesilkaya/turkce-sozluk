@@ -5,7 +5,7 @@ slug: agiz-agiza
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
   - mecaz

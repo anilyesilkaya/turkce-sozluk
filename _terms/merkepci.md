@@ -5,7 +5,7 @@ slug: merkepci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşekçi
+- eşekçi
 ozellikler:
 - - isim
 ornekler:

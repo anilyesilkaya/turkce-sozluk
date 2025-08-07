@@ -5,7 +5,7 @@ slug: daimi
 letter: D
 lisan: Arapça dāʾimī
 anlamlar:
-- ► sürekli
+- sürekli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: yillikci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıllıklı
+- yıllıklı
 - Ücreti yılda bir verilen kimse
 ozellikler:
 - - sıfat

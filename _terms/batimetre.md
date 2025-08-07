@@ -5,7 +5,7 @@ slug: batimetre
 letter: B
 lisan: Fransızca bathymètre
 anlamlar:
-- ► derinlikölçer
+- derinlikölçer
 ozellikler:
 - - isim
   - denizcilik

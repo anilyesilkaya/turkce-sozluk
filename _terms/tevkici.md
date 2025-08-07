@@ -5,7 +5,7 @@ slug: tevkici
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► nişancı
+- nişancı
 ozellikler:
 - - isim
   - tarih

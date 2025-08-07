@@ -5,7 +5,7 @@ slug: temettu
 letter: T
 lisan: Arapça temettuʿ
 anlamlar:
-- ► kazanç
+- kazanç
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: ak-yildiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
 ornekler:

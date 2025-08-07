@@ -6,9 +6,9 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hafif duruma gelmek
-- ► kolaylaşmak
+- kolaylaşmak
 - '... belli belirsiz olmak'
-- ► yavaşlamak
+- yavaşlamak
 - Etkisi azalmak
 - Ağırbaşlılığını yitirmek
 ozellikler:

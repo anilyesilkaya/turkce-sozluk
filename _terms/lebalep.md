@@ -5,8 +5,8 @@ slug: lebalep
 letter: L
 lisan: Farsça lebāleb
 anlamlar:
-- ► silme
-- ► tıklım tıklım
+- silme
+- tıklım tıklım
 ozellikler:
 - - zarf
   - eskimiş

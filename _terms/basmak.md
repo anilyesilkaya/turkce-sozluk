@@ -5,7 +5,7 @@ slug: basmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ayakkabı
+- ayakkabı
 ozellikler:
 - - isim
   - eskimiş

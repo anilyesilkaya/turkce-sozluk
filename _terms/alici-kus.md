@@ -5,7 +5,7 @@ slug: alici-kus
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avcı kuş
+- avcı kuş
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,8 +5,8 @@ slug: esenlesme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► selamlaşma
-- ► vedalaşma
+- selamlaşma
+- vedalaşma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: nakliyatcilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► Taşımacılık
+- Taşımacılık
 - Nakliyatçının işi
 ozellikler:
 - - isim

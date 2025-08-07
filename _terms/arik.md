@@ -5,7 +5,7 @@ slug: arik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zayıf
+- zayıf
 ozellikler:
 - - sıfat
 ornekler:

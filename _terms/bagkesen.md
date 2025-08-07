@@ -5,7 +5,7 @@ slug: bagkesen
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► makaslı böcek
+- makaslı böcek
 ozellikler:
 - - isim
   - hayvan bilimi

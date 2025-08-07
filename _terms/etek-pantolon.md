@@ -5,7 +5,7 @@ slug: etek-pantolon
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► pantolon etek
+- pantolon etek
 ozellikler:
 - - isim
 ornekler:

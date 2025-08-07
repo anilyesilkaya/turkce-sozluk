@@ -5,7 +5,7 @@ slug: jips
 letter: J
 lisan: Fransızca gypse
 anlamlar:
-- ► alçı taşı
+- alçı taşı
 ozellikler:
 - - isim
   - mineraloji

@@ -5,8 +5,8 @@ slug: basamak-basamak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
-- ► adım adım
+- yavaş yavaş
+- adım adım
 ozellikler:
 - - zarf
 - - zarf

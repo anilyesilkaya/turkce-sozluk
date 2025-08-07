@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muşterī
 anlamlar:
 - Hizmet, mal vb. alan ve karşılığında ücret ödeyen kimse
-- ► alıcı
+- alıcı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: legallik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► yasallık
+- yasallık
 ozellikler:
 - - isim
 ornekler:

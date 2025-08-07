@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kılavuz olma durumu; rehberlik, delalet
 - Kılavuzun işi; rehberlik, delalet
-- ► kösemenlik
+- kösemenlik
 - Bir gemiyi limana sokma veya limandan çıkarma işi
 ozellikler:
 - - isim

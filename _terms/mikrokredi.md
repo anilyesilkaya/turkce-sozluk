@@ -5,7 +5,7 @@ slug: mikrokredi
 letter: M
 lisan: Fransızca micro + crédit
 anlamlar:
-- ► işçelik
+- işçelik
 ozellikler:
 - - isim
   - ekonomi

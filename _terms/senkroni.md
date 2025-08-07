@@ -5,7 +5,7 @@ slug: senkroni
 letter: S
 lisan: Fransızca synchronie
 anlamlar:
-- ► eş zamanlılık
+- eş zamanlılık
 ozellikler:
 - - isim
   - dil bilgisi

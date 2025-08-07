@@ -5,7 +5,7 @@ slug: garplilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Batılılık
+- Batılılık
 ozellikler:
 - - isim
 ornekler:

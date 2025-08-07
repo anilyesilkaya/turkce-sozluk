@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca crépon
 anlamlar:
 - Kıvrımları olan yün, pamuk veya ipek kumaş
-- ► krepon kâğıdı
+- krepon kâğıdı
 ozellikler:
 - - isim
 - - isim

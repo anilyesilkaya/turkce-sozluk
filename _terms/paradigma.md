@@ -5,9 +5,9 @@ slug: paradigma
 letter: P
 lisan: Fransızca paradigme
 anlamlar:
-- ► değerler dizisi
+- değerler dizisi
 - Herhangi bir işin yapılması için alınan örnek çalışma, yöntem vb
-- ► dizi
+- dizi
 ozellikler:
 - - isim
 - - isim

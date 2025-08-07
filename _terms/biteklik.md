@@ -5,7 +5,7 @@ slug: biteklik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► verimlilik
+- verimlilik
 ozellikler:
 - - isim
 ornekler:

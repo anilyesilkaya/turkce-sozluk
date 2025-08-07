@@ -5,7 +5,7 @@ slug: telase
 letter: T
 lisan: Arapça telāşī
 anlamlar:
-- ► telaş
+- telaş
 ozellikler:
 - - isim
 ornekler:

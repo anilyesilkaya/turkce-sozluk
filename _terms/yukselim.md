@@ -5,7 +5,7 @@ slug: yukselim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dik açıklık
+- dik açıklık
 ozellikler:
 - - isim
   - gök bilimi

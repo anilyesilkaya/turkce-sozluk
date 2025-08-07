@@ -5,7 +5,7 @@ slug: odlek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► korkak
+- korkak
 ozellikler:
 - - sıfat
 ornekler:

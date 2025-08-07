@@ -5,7 +5,7 @@ slug: telyazi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► telgraf
+- telgraf
 ozellikler:
 - - isim
 ornekler:

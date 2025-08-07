@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca stabilisé
 anlamlar:
 - Silindirle sıkıştırılarak düz duruma getirilmiş (yol)
-- ► istikrarlı
+- istikrarlı
 ozellikler:
 - - sıfat
 - - sıfat

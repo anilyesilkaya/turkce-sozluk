@@ -5,7 +5,7 @@ slug: casus-kamera
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► gizli kamera
+- gizli kamera
 ozellikler:
 - - isim
 ornekler:

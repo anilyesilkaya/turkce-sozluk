@@ -5,7 +5,7 @@ slug: mama
 letter: M
 lisan: İtalyanca mamma
 anlamlar:
-- ► abla
+- abla
 ozellikler:
 - - isim
   - argo

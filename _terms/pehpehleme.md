@@ -5,7 +5,7 @@ slug: pehpehleme
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pohpohlama
+- pohpohlama
 ozellikler:
 - - isim
 ornekler:

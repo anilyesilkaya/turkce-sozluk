@@ -5,7 +5,7 @@ slug: epilog
 letter: E
 lisan: Fransızca épilogue
 anlamlar:
-- ► son söz
+- son söz
 ozellikler:
 - - isim
   - edebiyat

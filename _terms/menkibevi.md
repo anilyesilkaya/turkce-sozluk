@@ -5,7 +5,7 @@ slug: menkibevi
 letter: M
 lisan: Arapça menḳabevī
 anlamlar:
-- ► efsanevi
+- efsanevi
 ozellikler:
 - - sıfat
 ornekler:

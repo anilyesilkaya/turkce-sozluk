@@ -5,7 +5,7 @@ slug: im-bilimi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gösterge bilimi
+- gösterge bilimi
 ozellikler:
 - - isim
 ornekler:

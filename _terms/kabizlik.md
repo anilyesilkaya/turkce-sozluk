@@ -5,7 +5,7 @@ slug: kabizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kabız
+- kabız
 ozellikler:
 - - isim
 ornekler:

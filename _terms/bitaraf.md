@@ -5,7 +5,7 @@ slug: bitaraf
 letter: B
 lisan: Farsça bī + Arapça ṭaraf
 anlamlar:
-- ► tarafsız
+- tarafsız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: peruka
 letter: P
 lisan: İtalyanca parrucca
 anlamlar:
-- ► takma saç
+- takma saç
 ozellikler:
 - - isim
 ornekler:

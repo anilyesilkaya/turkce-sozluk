@@ -5,7 +5,7 @@ slug: kaptan-pasa
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaptanıderya
+- kaptanıderya
 ozellikler:
 - - isim
   - tarih

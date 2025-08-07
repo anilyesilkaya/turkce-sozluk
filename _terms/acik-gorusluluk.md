@@ -5,7 +5,7 @@ slug: acik-gorusluluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık fikirlilik
+- açık fikirlilik
 ozellikler:
 - - isim
 ornekler:

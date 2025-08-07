@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıpranmak işi
-- ► doku bozukluğu
+- doku bozukluğu
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: higrofil
 letter: H
 lisan: Fransızca hygrophile
 anlamlar:
-- ► nemcil
+- nemcil
 ozellikler:
 - - sıfat
   - bitki bilimi

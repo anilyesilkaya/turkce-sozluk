@@ -5,7 +5,7 @@ slug: hristo-teyeli
 letter: H
 lisan: (Hristo özel adından)
 anlamlar:
-- ► kazayağı (II)
+- kazayağı (II)
 ozellikler:
 - - isim
 ornekler:

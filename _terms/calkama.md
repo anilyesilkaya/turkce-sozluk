@@ -5,7 +5,7 @@ slug: calkama
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalkalama
+- çalkalama
 - Çalkalanarak yapılan
 ozellikler:
 - - isim

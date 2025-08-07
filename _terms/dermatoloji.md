@@ -5,7 +5,7 @@ slug: dermatoloji
 letter: D
 lisan: Fransızca dermatologie
 anlamlar:
-- ► cildiye
+- cildiye
 ozellikler:
 - - isim
   - tıp

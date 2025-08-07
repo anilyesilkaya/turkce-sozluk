@@ -5,7 +5,7 @@ slug: bivefa
 letter: B
 lisan: Farsça bī + Arapça vefā
 anlamlar:
-- ► vefasız
+- vefasız
 ozellikler:
 - - sıfat
   - eskimiş

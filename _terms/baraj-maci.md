@@ -5,7 +5,7 @@ slug: baraj-maci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► eleme
+- eleme
 ozellikler:
 - - isim
   - spor

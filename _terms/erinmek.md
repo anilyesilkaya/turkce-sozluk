@@ -5,7 +5,7 @@ slug: erinmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► üşenmek
+- üşenmek
 ozellikler:
 - - -e
   - nesnesiz

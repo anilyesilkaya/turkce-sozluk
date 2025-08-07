@@ -5,7 +5,7 @@ slug: ate
 letter: A
 lisan: Fransızca athée
 anlamlar:
-- ► tanrıtanımaz
+- tanrıtanımaz
 ozellikler:
 - - sıfat
   - felsefe

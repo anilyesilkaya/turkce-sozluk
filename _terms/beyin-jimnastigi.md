@@ -5,7 +5,7 @@ slug: beyin-jimnastigi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zihin jimnastiği
+- zihin jimnastiği
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: ardic-zamki
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akgünlük
+- akgünlük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: el-erki
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► demokrasi
+- demokrasi
 ozellikler:
 - - isim
   - toplum bilimi

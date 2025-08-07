@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Nasıl olması gerekli ise öyle, gereği gibi, gereğine göre, gerektiği gibi; uyarınca, mucibince, usulünce, usulü dairesinde
-- ► göre
+- göre
 ozellikler:
 - - zarf
 - - zarf

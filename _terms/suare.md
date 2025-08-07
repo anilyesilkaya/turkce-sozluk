@@ -5,7 +5,7 @@ slug: suare
 letter: S
 lisan: Fransızca soirée
 anlamlar:
-- ► gece gösterimi
+- gece gösterimi
 - Akşam yemeğinden sonra yapılan eğlence, toplantı
 ozellikler:
 - - isim

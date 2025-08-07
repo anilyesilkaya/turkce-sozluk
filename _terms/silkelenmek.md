@@ -6,8 +6,8 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Silkeleme işine konu olmak
-- ► silkinmek
-- ► elenmek
+- silkinmek
+- elenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

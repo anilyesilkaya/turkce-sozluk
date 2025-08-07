@@ -5,7 +5,7 @@ slug: evvelce
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önceden
+- önceden
 ozellikler:
 - - zarf
 ornekler:

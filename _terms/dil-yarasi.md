@@ -5,7 +5,7 @@ slug: dil-yarasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gönül yarası
+- gönül yarası
 ozellikler:
 - - isim
   - mecaz

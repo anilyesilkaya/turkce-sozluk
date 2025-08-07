@@ -5,7 +5,7 @@ slug: musilaj
 letter: M
 lisan: İngilizce mucilage
 anlamlar:
-- ► deniz salyası
+- deniz salyası
 ozellikler:
 - - isim
 ornekler:

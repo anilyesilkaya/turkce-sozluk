@@ -5,7 +5,7 @@ slug: leksikograf
 letter: L
 lisan: Fransızca lexicographe
 anlamlar:
-- ► sözlükçü
+- sözlükçü
 ozellikler:
 - - isim
 ornekler:

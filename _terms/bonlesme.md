@@ -5,7 +5,7 @@ slug: bonlesme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► saflaşma (II)
+- saflaşma (II)
 ozellikler:
 - - isim
 ornekler:

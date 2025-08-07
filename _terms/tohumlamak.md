@@ -5,7 +5,7 @@ slug: tohumlamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► döllemek
+- döllemek
 - Dişi bir hayvanı, erkeğinden alınan tohumla yapay olarak döllemek
 ozellikler:
 - - -i

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Aynası olmayan
 - Güvenli olmayan
-- ► polis
+- polis
 ozellikler:
 - - sıfat
 - - sıfat

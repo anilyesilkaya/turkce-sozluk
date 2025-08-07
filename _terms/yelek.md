@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kolsuz, önü açık veya düğmeli üst giysisi; delme
 - Okun yay kirişine takılan bölümündeki tüy
-- ► telek
+- telek
 ozellikler:
 - - isim
 - - isim

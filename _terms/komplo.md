@@ -5,8 +5,8 @@ slug: komplo
 letter: K
 lisan: Fransızca complot
 anlamlar:
-- ► düzen
-- ► tuzak
+- düzen
+- tuzak
 ozellikler:
 - - isim
 - - isim

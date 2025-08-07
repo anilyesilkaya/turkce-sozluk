@@ -5,7 +5,7 @@ slug: harezmce
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Harezm Türkçesi
+- Harezm Türkçesi
 ozellikler:
 - - isim
 ornekler:

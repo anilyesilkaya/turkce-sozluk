@@ -5,7 +5,7 @@ slug: muhtel
 letter: M
 lisan: Arapça muḫtell
 anlamlar:
-- ► bozuk (I)
+- bozuk (I)
 ozellikler:
 - - sıfat
   - eskimiş

@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳuʿūd
 anlamlar:
 - Namazın oturularak kılınan kısmı
-- ► oturma
+- oturma
 ozellikler:
 - - isim
   - eskimiş

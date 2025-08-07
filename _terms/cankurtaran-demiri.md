@@ -5,7 +5,7 @@ slug: cankurtaran-demiri
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ocaklık demiri
+- ocaklık demiri
 ozellikler:
 - - denizcilik
 ornekler:

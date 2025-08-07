@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yenisiyle veya tazesiyle değiştirmek
 - Bazı yiyecekleri, bayatlamışken kaynatıp taze duruma getirmek
-- ► tekrarlamak
+- tekrarlamak
 - Unutulmuş bir duygu veya bir düşünceyi yeniden canlandırmak
 ozellikler:
 - - -i

@@ -8,7 +8,7 @@ anlamlar:
 - Bir kişiliği canlandıran oyuncunun söylemesi ve yapması gereken hareketlerin genel adı
 - Bir işte bir kimse veya şeyin üstüne düşen görev
 - Gerçek olmayan davranış, gösteriş
-- ► etki
+- etki
 ozellikler:
 - - isim
   - sinema

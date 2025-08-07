@@ -5,7 +5,7 @@ slug: mermerimsi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mermersi
+- mermersi
 ozellikler:
 - - sıfat
 ornekler:

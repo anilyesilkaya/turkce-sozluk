@@ -5,7 +5,7 @@ slug: pli
 letter: P
 lisan: Fransızca pli
 anlamlar:
-- ► pile
+- pile
 ozellikler:
 - - isim
 ornekler:

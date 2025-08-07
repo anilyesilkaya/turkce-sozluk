@@ -5,7 +5,7 @@ slug: denizleylaklari
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denizlaleleri
+- denizlaleleri
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: rakkas
 letter: R
 lisan: Arapça raḳḳāṣ
 anlamlar:
-- ► sarkaç
+- sarkaç
 - Raksı meslek edinmiş erkek
 ozellikler:
 - - isim

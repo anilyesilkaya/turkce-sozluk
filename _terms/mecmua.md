@@ -5,7 +5,7 @@ slug: mecmua
 letter: M
 lisan: Arapça mecmūʿa
 anlamlar:
-- ► dergi
+- dergi
 ozellikler:
 - - isim
 ornekler:

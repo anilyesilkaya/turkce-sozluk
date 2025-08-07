@@ -5,7 +5,7 @@ slug: morumtirak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► morumsu
+- morumsu
 ozellikler:
 - - sıfat
 ornekler:

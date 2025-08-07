@@ -5,7 +5,7 @@ slug: medeniyetcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygarlıkçılık
+- uygarlıkçılık
 ozellikler:
 - - isim
 ornekler:

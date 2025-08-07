@@ -5,7 +5,7 @@ slug: yetingen
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kanaatkâr
+- kanaatkâr
 ozellikler:
 - - sıfat
 ornekler:

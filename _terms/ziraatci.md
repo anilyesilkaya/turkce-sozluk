@@ -5,7 +5,7 @@ slug: ziraatci
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► tarımcı
+- tarımcı
 ozellikler:
 - - isim
 ornekler:

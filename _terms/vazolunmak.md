@@ -5,7 +5,7 @@ slug: vazolunmak
 letter: V
 lisan: Arapça vażʿ + Türkçe olunmak
 anlamlar:
-- ► konulmak
+- konulmak
 ozellikler:
 - - nesnesiz
 ornekler:

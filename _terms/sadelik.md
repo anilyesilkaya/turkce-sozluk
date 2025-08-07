@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Yalın olma durumu
-- ► yalınlık
+- yalınlık
 ozellikler:
 - - isim
 - - isim

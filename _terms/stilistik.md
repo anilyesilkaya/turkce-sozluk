@@ -5,7 +5,7 @@ slug: stilistik
 letter: S
 lisan: Fransızca stylistique
 anlamlar:
-- ► anlatım bilimi
+- anlatım bilimi
 - Üslupla ilgili
 ozellikler:
 - - isim

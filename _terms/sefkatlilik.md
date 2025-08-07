@@ -5,7 +5,7 @@ slug: sefkatlilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► sevecenlik
+- sevecenlik
 ozellikler:
 - - isim
 ornekler:

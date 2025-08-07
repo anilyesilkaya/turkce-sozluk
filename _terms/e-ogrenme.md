@@ -5,7 +5,7 @@ slug: e-ogrenme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► çevrim içi öğrenme
+- çevrim içi öğrenme
 ozellikler:
 - - isim
 ornekler:

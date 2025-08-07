@@ -5,7 +5,7 @@ slug: gerekircilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► belirlenimcilik
+- belirlenimcilik
 ozellikler:
 - - isim
   - felsefe

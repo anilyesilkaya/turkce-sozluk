@@ -5,7 +5,7 @@ slug: gurpedek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 ornekler:

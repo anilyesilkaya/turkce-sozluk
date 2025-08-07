@@ -5,7 +5,7 @@ slug: uz-iletisim
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► telekomünikasyon
+- telekomünikasyon
 ozellikler:
 - - isim
 ornekler:

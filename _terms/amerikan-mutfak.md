@@ -5,7 +5,7 @@ slug: amerikan-mutfak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık mutfak
+- açık mutfak
 ozellikler:
 - - isim
 ornekler:

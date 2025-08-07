@@ -5,7 +5,7 @@ slug: istenclilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradelilik
+- iradelilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: efsunkar
 letter: E
 lisan: Farsça efsūnkār
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
   - eskimiş

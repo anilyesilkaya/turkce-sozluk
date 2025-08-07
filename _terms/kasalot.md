@@ -5,7 +5,7 @@ slug: kasalot
 letter: K
 lisan: Fransızca cachalot
 anlamlar:
-- ► ispermeçet balinası
+- ispermeçet balinası
 - Aptal, budala
 ozellikler:
 - - isim

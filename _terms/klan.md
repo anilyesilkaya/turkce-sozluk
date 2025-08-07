@@ -5,7 +5,7 @@ slug: klan
 letter: K
 lisan: Fransızca clan
 anlamlar:
-- ► boy (II)
+- boy (II)
 ozellikler:
 - - isim
   - toplum bilimi

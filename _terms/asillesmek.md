@@ -5,7 +5,7 @@ slug: asillesmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soylulaşmak
+- soylulaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

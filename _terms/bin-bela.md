@@ -5,7 +5,7 @@ slug: bin-bela
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► güçlükle
+- güçlükle
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: catir-patir
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çat pat
+- çat pat
 - Çat pat sesleri çıkararak
 ozellikler:
 - - zarf

@@ -5,7 +5,7 @@ slug: art-bolge
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► iç bölge
+- iç bölge
 ozellikler:
 - - isim
   - coğrafya

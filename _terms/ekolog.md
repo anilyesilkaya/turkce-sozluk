@@ -5,7 +5,7 @@ slug: ekolog
 letter: E
 lisan: Fransızca écologue
 anlamlar:
-- ► ekoloji uzmanı
+- ekoloji uzmanı
 ozellikler:
 - - isim
 ornekler:

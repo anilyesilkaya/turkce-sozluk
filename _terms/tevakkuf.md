@@ -5,7 +5,7 @@ slug: tevakkuf
 letter: T
 lisan: Arapça tevaḳḳuf
 anlamlar:
-- ► eğleşme
+- eğleşme
 - Bağlı olma, ilgili olma
 ozellikler:
 - - isim

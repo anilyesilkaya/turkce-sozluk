@@ -5,7 +5,7 @@ slug: ayriksiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istisnasız
+- istisnasız
 - Hiçbir ayrığı olmadan, hiçbirini ayrık tutmaksızın
 ozellikler:
 - - zarf

@@ -5,9 +5,9 @@ slug: muskul
 letter: M
 lisan: Arapça muşkil
 anlamlar:
-- ► zor
-- ► zorluk
-- ► sorun
+- zor
+- zorluk
+- sorun
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: islahatci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► düzeltmeci
+- düzeltmeci
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: P
 lisan: Farsça pīşgīr
 anlamlar:
 - Genellikle pamuk ipliğinden dokunmuş ince havlu
-- ► peçete
+- peçete
 ozellikler:
 - - isim
 - - isim

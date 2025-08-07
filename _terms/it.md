@@ -5,7 +5,7 @@ slug: it
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► köpek
+- köpek
 - Aşağılık niyetlerle yaltaklanan veya davranışları kötü olan kimse için kullanılan bir sövgü sözü
 ozellikler:
 - - isim

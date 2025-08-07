@@ -5,7 +5,7 @@ slug: afakilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► nesnellik
+- nesnellik
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Hafifçe titremek
-- ► ürpermek
+- ürpermek
 ozellikler:
 - - nesnesiz
   - ağızlardan

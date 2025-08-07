@@ -5,7 +5,7 @@ slug: eseme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► mantık
+- mantık
 ozellikler:
 - - isim
   - ağızlardan

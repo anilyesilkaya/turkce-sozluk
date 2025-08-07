@@ -6,10 +6,10 @@ letter: K
 lisan: Arapça ḳażāʾ
 anlamlar:
 - İstem dışı veya ihmal, tedbirsizlik ve dikkatsizlik dolayısıyla bir kimsenin, bir nesnenin veya bir aracın zarara uğraması
-- ► ilçe
+- ilçe
 - Allah tarafından ezelde tayin edilen kaderin gerçekleşmesi
 - Vaktinde kılınmayan namazı veya tutulmayan orucu sonradan yerine getirme
-- ► yargı
+- yargı
 - Kadılık görevi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: berenari
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şöyle böyle
+- şöyle böyle
 ozellikler:
 - - zarf
   - ağızlardan

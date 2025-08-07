@@ -5,7 +5,7 @@ slug: tevdiat
 letter: T
 lisan: Arapça tevdīʿāt
 anlamlar:
-- ► mevduat
+- mevduat
 ozellikler:
 - - isim
   - eskimiş

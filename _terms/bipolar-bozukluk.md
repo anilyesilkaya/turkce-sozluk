@@ -5,7 +5,7 @@ slug: bipolar-bozukluk
 letter: B
 lisan: Fransızca bipolaire + Türkçe bozukluk
 anlamlar:
-- ► duygu durumu bozukluğu
+- duygu durumu bozukluğu
 ozellikler:
 - - isim
   - ruh bilimi

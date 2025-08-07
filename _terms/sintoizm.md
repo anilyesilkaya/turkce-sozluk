@@ -5,7 +5,7 @@ slug: sintoizm
 letter: Ş
 lisan: Fransızca chintoisme
 anlamlar:
-- ► Şintoculuk
+- Şintoculuk
 ozellikler:
 - - isim
 ornekler:

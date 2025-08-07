@@ -5,7 +5,7 @@ slug: tediye
 letter: T
 lisan: Arapça teʾdiye
 anlamlar:
-- ► ödeme
+- ödeme
 ozellikler:
 - - isim
   - eskimiş

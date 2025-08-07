@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Peş peşe dizilmiş; düzüm düzüm
-- ► dizi dizi
+- dizi dizi
 ozellikler:
 - - sıfat
 - - sıfat

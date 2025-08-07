@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mucevher
 anlamlar:
 - Altın, yakut, pırlanta vb. değerli taşlardan yapılmış süs eşyası; cevher
-- ► cevahir
+- cevahir
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: sessizcesine
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sessizce
+- sessizce
 ozellikler:
 - - zarf
 ornekler:

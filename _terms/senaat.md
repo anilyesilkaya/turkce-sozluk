@@ -5,8 +5,8 @@ slug: senaat
 letter: Ş
 lisan: Arapça şenāʿat
 anlamlar:
-- ► kötülük
-- ► alçaklık
+- kötülük
+- alçaklık
 ozellikler:
 - - isim
   - eskimiş

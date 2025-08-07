@@ -5,7 +5,7 @@ slug: balcik-inciri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► balçık hurması
+- balçık hurması
 ozellikler:
 - - isim
 ornekler:

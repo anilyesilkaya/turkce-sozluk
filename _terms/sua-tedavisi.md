@@ -5,7 +5,7 @@ slug: sua-tedavisi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ışın tedavisi
+- ışın tedavisi
 ozellikler:
 - - isim
 ornekler:

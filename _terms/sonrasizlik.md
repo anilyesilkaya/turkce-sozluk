@@ -5,7 +5,7 @@ slug: sonrasizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonsuzluk
+- sonsuzluk
 ozellikler:
 - - isim
 ornekler:

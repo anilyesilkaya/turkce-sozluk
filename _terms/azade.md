@@ -5,8 +5,8 @@ slug: azade
 letter: A
 lisan: Farsça āzāde
 anlamlar:
-- ► serbest
-- ► özgür
+- serbest
+- özgür
 - Her türlü bağdan kurtulmuş, yakasını sıyırmış olan
 - Bir şeyden uzak bir biçimde
 ozellikler:

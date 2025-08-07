@@ -5,7 +5,7 @@ slug: hava-tasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gök taşı
+- gök taşı
 ozellikler:
 - - isim
   - gök bilimi

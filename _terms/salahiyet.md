@@ -5,7 +5,7 @@ slug: salahiyet
 letter: S
 lisan: Arapça ṣalāḥiyyet
 anlamlar:
-- ► yetki
+- yetki
 ozellikler:
 - - isim
   - eskimiş

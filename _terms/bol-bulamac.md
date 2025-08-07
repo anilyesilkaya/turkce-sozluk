@@ -5,7 +5,7 @@ slug: bol-bulamac
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pek çok
+- pek çok
 ozellikler:
 - - zarf
   - ağızlardan

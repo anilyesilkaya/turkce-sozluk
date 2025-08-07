@@ -5,7 +5,7 @@ slug: haincesine
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haince
+- haince
 ozellikler:
 - - zarf
 ornekler:

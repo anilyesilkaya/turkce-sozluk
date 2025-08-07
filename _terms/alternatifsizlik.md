@@ -5,7 +5,7 @@ slug: alternatifsizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► seçeneksizlik
+- seçeneksizlik
 ozellikler:
 - - isim
 ornekler:

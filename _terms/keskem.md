@@ -5,7 +5,7 @@ slug: keskem
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► keşke
+- keşke
 ozellikler:
 - - ünlem
 ornekler:

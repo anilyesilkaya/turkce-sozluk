@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Haber veren, bildiren kimse
-- ► muhbir
+- muhbir
 ozellikler:
 - - isim
 - - isim

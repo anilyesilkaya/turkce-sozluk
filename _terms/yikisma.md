@@ -5,7 +5,7 @@ slug: yikisma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► güreşme
+- güreşme
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mustevlī
 anlamlar:
 - Bir yeri istila eden, yönetimi altına alan (kimse, devlet, ordu vb.)
-- ► salgın
+- salgın
 ozellikler:
 - - sıfat
   - eskimiş

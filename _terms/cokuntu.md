@@ -5,7 +5,7 @@ slug: cokuntu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çökme
+- çökme
 - Çöken şeylerin kalıntısı; enkaz
 - Suyun dibine çöken şeyler
 - Jeolojik bir olay sonunda bir kısım yerin alttan yıkılarak alçalması; çökme

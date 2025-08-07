@@ -5,7 +5,7 @@ slug: tebaruz
 letter: T
 lisan: Arapça tebāruz
 anlamlar:
-- ► belirme
+- belirme
 ozellikler:
 - - isim
   - eskimiş

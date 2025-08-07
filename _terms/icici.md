@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İçme işini yapan (kimse)
-- ► ayyaş
+- ayyaş
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: hesap-pusulasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hesap
+- hesap
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bitimsiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sonsuz
+- sonsuz
 ozellikler:
 - - sıfat
 ornekler:

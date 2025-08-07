@@ -5,7 +5,7 @@ slug: mirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► beylik
+- beylik
 ozellikler:
 - - isim
 ornekler:

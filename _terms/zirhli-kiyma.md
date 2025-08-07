@@ -5,7 +5,7 @@ slug: zirhli-kiyma
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırh kıyması
+- zırh kıyması
 ozellikler:
 - - isim
 ornekler:

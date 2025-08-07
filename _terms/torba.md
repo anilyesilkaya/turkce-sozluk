@@ -8,7 +8,7 @@ anlamlar:
 - Genellikle pamuk ve kıldan dokunmuş, türlü boy ve biçimde, ağzı büzülüp bağlanabilen araç
 - Genellikle plastikten veya kâğıttan yapılmış, içine öteberi koymaya yarayan, çeşitli büyüklükte olabilen taşıma gereci; poşet
 - Vücutta meydana gelen şişlik
-- ► taşak
+- taşak
 ozellikler:
 - - isim
 - - isim

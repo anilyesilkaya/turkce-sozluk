@@ -5,7 +5,7 @@ slug: istifadesiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yararsız
+- yararsız
 ozellikler:
 - - sıfat
 ornekler:

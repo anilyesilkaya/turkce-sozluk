@@ -5,7 +5,7 @@ slug: stabilizator
 letter: S
 lisan: Fransızca stabilisateur
 anlamlar:
-- ► dengeleyici
+- dengeleyici
 ozellikler:
 - - isim
 ornekler:

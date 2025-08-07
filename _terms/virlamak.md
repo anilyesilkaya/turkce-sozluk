@@ -5,7 +5,7 @@ slug: virlamak
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vırıldamak
+- vırıldamak
 ozellikler:
 - - nesnesiz
 ornekler:

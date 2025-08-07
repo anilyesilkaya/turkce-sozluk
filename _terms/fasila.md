@@ -5,8 +5,8 @@ slug: fasila
 letter: F
 lisan: Arapça fāṣila
 anlamlar:
-- ► aralık
-- ► kesinti
+- aralık
+- kesinti
 ozellikler:
 - - isim
 - - isim

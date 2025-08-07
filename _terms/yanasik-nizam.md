@@ -5,7 +5,7 @@ slug: yanasik-nizam
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yanaşık düzen
+- yanaşık düzen
 ozellikler:
 - - isim
 ornekler:

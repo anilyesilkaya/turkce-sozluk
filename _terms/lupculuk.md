@@ -5,7 +5,7 @@ slug: lupculuk
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► bedavacılık
+- bedavacılık
 ozellikler:
 - - isim
 ornekler:

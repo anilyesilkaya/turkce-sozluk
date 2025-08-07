@@ -5,7 +5,7 @@ slug: dis-alimcilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ithalatçılık
+- ithalatçılık
 ozellikler:
 - - isim
 ornekler:

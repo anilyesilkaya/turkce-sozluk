@@ -5,7 +5,7 @@ slug: isin-etkin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► radyoaktif
+- radyoaktif
 ozellikler:
 - - sıfat
   - fizik

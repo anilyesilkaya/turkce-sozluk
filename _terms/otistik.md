@@ -6,7 +6,7 @@ letter: O
 lisan: Fransızca autistique
 anlamlar:
 - Otizmle ilgili
-- ► otizmli
+- otizmli
 ozellikler:
 - - sıfat
   - ruh bilimi

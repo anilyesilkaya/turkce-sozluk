@@ -5,7 +5,7 @@ slug: yegniltmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hafifletmek
+- hafifletmek
 ozellikler:
 - - -i
   - ağızlardan

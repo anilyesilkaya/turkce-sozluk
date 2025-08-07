@@ -5,8 +5,8 @@ slug: badik
 letter: B
 lisan: Ermenice
 anlamlar:
-- ► ördek
-- ► palaz
+- ördek
+- palaz
 - Kısa boylu
 ozellikler:
 - - isim

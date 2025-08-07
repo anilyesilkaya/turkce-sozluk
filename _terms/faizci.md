@@ -5,7 +5,7 @@ slug: faizci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► tefeci
+- tefeci
 ozellikler:
 - - isim
   - ekonomi

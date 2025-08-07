@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca antenne.
 anlamlar:
 - Vericiden boşluğa gönderilen elektromanyetik dalgaları toplayarak alıcıya ileten veya elektromanyetik dalgalar gönderen, çeşitli biçimlerdeki iletken veya iletkenler bütünü aygıt
-- ► duyarga
+- duyarga
 - Olta şamandırasının alt ve üst kısmında bulunan ince uçlar
 ozellikler:
 - - isim

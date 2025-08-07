@@ -5,7 +5,7 @@ slug: dahiliye-mutehassisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç hastalıkları uzmanı
+- iç hastalıkları uzmanı
 ozellikler:
 - - isim
   - tıp

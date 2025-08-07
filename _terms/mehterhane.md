@@ -5,9 +5,9 @@ slug: mehterhane
 letter: M
 lisan: Farsça mihter + ḫāne
 anlamlar:
-- ► mehter takımı
+- mehter takımı
 - Bu takımın görev yaptığı yer
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
   - tarih

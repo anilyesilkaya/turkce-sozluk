@@ -5,9 +5,9 @@ slug: tecessum
 letter: T
 lisan: Arapça tecessum
 anlamlar:
-- ► cisimlenme
-- ► belirme
-- ► canlanma
+- cisimlenme
+- belirme
+- canlanma
 ozellikler:
 - - isim
   - eskimiş

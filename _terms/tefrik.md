@@ -5,7 +5,7 @@ slug: tefrik
 letter: T
 lisan: Arapça tefrīḳ
 anlamlar:
-- ► ayrım
+- ayrım
 ozellikler:
 - - isim
   - eskimiş

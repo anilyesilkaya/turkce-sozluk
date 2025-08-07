@@ -5,7 +5,7 @@ slug: amansizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► amansızca
+- amansızca
 ozellikler:
 - - zarf
 ornekler:

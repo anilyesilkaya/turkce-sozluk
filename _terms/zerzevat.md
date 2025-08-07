@@ -5,7 +5,7 @@ slug: zerzevat
 letter: Z
 lisan: Farsça sebze + Arapça -vāt
 anlamlar:
-- ► sebze
+- sebze
 - Küçük, önemsiz nesneler
 ozellikler:
 - - isim

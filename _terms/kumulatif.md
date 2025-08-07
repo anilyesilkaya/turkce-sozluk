@@ -5,7 +5,7 @@ slug: kumulatif
 letter: K
 lisan: Fransızca cumulatif
 anlamlar:
-- ► kümeli
+- kümeli
 ozellikler:
 - - sıfat
 ornekler:

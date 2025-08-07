@@ -5,7 +5,7 @@ slug: menu
 letter: M
 lisan: Fransızca menu
 anlamlar:
-- ► yemek listesi
+- yemek listesi
 - Sofraya çıkarılacak yemeklerin hepsi
 - Komut veya seçenek listesi
 ozellikler:

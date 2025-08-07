@@ -5,7 +5,7 @@ slug: dominant
 letter: D
 lisan: Fransızca dominante
 anlamlar:
-- ► baskın
+- baskın
 ozellikler:
 - - sıfat
 ornekler:

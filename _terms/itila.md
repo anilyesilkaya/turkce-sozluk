@@ -5,8 +5,8 @@ slug: itila
 letter: I
 lisan: Arapça iʿtilāʾ
 anlamlar:
-- ► yücelme
-- ► yükselme
+- yücelme
+- yükselme
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Okullarda eğitim ve öğretim etkinliklerinin bir hafta içinde hangi gün ve saatlerde yapılacağını gösteren çizelge; program
-- ► öğretim programı
+- öğretim programı
 ozellikler:
 - - isim
   - eğitim

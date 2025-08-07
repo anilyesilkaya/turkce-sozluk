@@ -5,7 +5,7 @@ slug: ahenksiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uyumsuz
+- uyumsuz
 - Kulağa hoş gelmeyen
 ozellikler:
 - - sıfat

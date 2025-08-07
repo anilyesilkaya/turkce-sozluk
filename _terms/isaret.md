@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça işāret
 anlamlar:
 - Bir anlam yükletilen ve bir şeyi bildirmeye, anlatmaya yarayan şekil, anlamlı iz; bel (I), im, delalet
-- ► gösterge
+- gösterge
 - Gösterilmek istenen şeyi veya anlatılmak istenilen anlamı baş, el, yüz hareketleriyle gösterme; sim (II)
 - İçe doğan belirti
 ozellikler:

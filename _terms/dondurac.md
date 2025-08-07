@@ -5,7 +5,7 @@ slug: dondurac
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► derin dondurucu
+- derin dondurucu
 ozellikler:
 - - isim
 ornekler:

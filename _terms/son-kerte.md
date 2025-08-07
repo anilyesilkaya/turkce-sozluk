@@ -5,7 +5,7 @@ slug: son-kerte
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► son derece
+- son derece
 ozellikler:
 - - sıfat
 ornekler:

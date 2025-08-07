@@ -5,7 +5,7 @@ slug: hasret
 letter: H
 lisan: Arapça ḥasret
 anlamlar:
-- ► özlem
+- özlem
 ozellikler:
 - - isim
 ornekler:

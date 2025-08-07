@@ -6,7 +6,7 @@ letter: Z
 lisan: Farsça zūr + Yunanca
 anlamlar:
 - İstemeyerek yapılan; gıcırı bükme
-- ► zorla
+- zorla
 ozellikler:
 - - sıfat
 - - sıfat

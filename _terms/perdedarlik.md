@@ -5,7 +5,7 @@ slug: perdedarlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► perdecilik
+- perdecilik
 ozellikler:
 - - isim
 ornekler:

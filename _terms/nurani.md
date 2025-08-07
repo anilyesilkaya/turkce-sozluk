@@ -5,7 +5,7 @@ slug: nurani
 letter: N
 lisan: Arapça nūrānī
 anlamlar:
-- ► ışıklı
+- ışıklı
 - Saygı uyandıran
 ozellikler:
 - - sıfat

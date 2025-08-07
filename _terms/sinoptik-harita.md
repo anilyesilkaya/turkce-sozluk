@@ -5,7 +5,7 @@ slug: sinoptik-harita
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hava haritası
+- hava haritası
 ozellikler:
 - - isim
   - meteoroloji

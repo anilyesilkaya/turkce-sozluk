@@ -5,7 +5,7 @@ slug: gudum-bilimi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sibernetik
+- sibernetik
 ozellikler:
 - - isim
 ornekler:

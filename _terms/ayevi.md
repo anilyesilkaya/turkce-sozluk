@@ -5,7 +5,7 @@ slug: ayevi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hale
+- hale
 ozellikler:
 - - isim
 ornekler:

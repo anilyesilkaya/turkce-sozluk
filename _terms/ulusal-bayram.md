@@ -5,7 +5,7 @@ slug: ulusal-bayram
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Cumhuriyet Bayramı
+- Cumhuriyet Bayramı
 ozellikler:
 - - isim
 ornekler:

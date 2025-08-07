@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cedvel
 anlamlar:
 - Doğru çizgileri çizmeye yarayan, dereceli veya derecesiz, tahtadan, plastikten, madenden yapılmış araç; çizgilik
-- ► çizelge
+- çizelge
 ozellikler:
 - - isim
 - - isim

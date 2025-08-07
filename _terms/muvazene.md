@@ -5,8 +5,8 @@ slug: muvazene
 letter: M
 lisan: Arapça muvāzene
 anlamlar:
-- ► denge
-- ► dengeleme
+- denge
+- dengeleme
 ozellikler:
 - - isim
   - eskimiş

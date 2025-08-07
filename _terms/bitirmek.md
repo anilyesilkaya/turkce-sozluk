@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bitmesini sağlamak; tamamlamak
-- ► sonuçlandırmak
+- sonuçlandırmak
 - Güçsüz düşürmek, bitkin duruma getirmek, yormak
 - Onulmaz duruma getirmek, mahvetmek
 ozellikler:

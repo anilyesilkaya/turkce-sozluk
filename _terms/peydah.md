@@ -5,7 +5,7 @@ slug: peydah
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► peyda
+- peyda
 ozellikler:
 - - sıfat
 ornekler:

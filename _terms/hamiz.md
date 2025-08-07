@@ -5,7 +5,7 @@ slug: hamiz
 letter: H
 lisan: Arapça ḥāmiż
 anlamlar:
-- ► asit
+- asit
 ozellikler:
 - - isim
   - eskimiş

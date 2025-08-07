@@ -5,7 +5,7 @@ slug: otlakci
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► asalak
+- asalak
 - Çok sigara içmesine karşın satın almayıp sürekli başkalarından sigara isteyen kimse
 ozellikler:
 - - sıfat

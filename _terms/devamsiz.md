@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Okuluna düzenli bir biçimde devam etmeyen
-- ► süreksiz
+- süreksiz
 - Uygunsuz davranışlarda bulunan
 ozellikler:
 - - sıfat

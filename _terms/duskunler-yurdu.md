@@ -5,7 +5,7 @@ slug: duskunler-yurdu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bakım yurdu
+- bakım yurdu
 ozellikler:
 - - isim
 ornekler:

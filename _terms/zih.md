@@ -6,7 +6,7 @@ letter: Z
 lisan: Farsça zih
 anlamlar:
 - Yay kirişi
-- ► zırh (II)
+- zırh (II)
 ozellikler:
 - - isim
 - - isim

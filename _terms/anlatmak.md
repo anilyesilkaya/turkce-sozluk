@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bilgi vermek
 - Bir konu üzerinde açıklama yapmak, açıklamada bulunmak
-- ► nakletmek
+- nakletmek
 ozellikler:
 - - -e
   - -i

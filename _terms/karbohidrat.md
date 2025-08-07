@@ -5,7 +5,7 @@ slug: karbohidrat
 letter: K
 lisan: İngilizce carbohydrate
 anlamlar:
-- ► karbonhidrat
+- karbonhidrat
 ozellikler:
 - - isim
   - kimya

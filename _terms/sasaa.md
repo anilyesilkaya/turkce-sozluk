@@ -5,8 +5,8 @@ slug: sasaa
 letter: Ş
 lisan: Arapça şaʿşaʿa
 anlamlar:
-- ► görkem
-- ► parıltı
+- görkem
+- parıltı
 ozellikler:
 - - isim
   - eskimiş

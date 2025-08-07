@@ -5,7 +5,7 @@ slug: kilo
 letter: K
 lisan: Fransızca kilo
 anlamlar:
-- ► kilogram
+- kilogram
 - Halter sporunda barın iki ucuna yerleştirilen ve ağırlığı oluşturan parça
 ozellikler:
 - - isim

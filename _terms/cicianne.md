@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Bazı çocukların, büyükannelerine veya o yaştaki kadın yakınlarına verdikleri ad
-- ► üvey anne
+- üvey anne
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: soz-birligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ağız birliği
+- ağız birliği
 ozellikler:
 - - isim
   - mecaz

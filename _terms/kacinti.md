@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Erken doğan kuzu
-- ► kaçak
+- kaçak
 ozellikler:
 - - isim
   - ağızlardan

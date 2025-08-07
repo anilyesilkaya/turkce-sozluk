@@ -5,7 +5,7 @@ slug: enternasyonalcilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► uluslararasıcılık
+- uluslararasıcılık
 ozellikler:
 - - isim
 ornekler:

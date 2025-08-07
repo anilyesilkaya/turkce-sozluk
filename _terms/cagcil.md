@@ -5,7 +5,7 @@ slug: cagcil
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağdaş
+- çağdaş
 - Tekniğin, bilimin yeniliklerinden yararlanan; modern
 ozellikler:
 - - sıfat

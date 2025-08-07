@@ -5,7 +5,7 @@ slug: bagri-yufka
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yufka yürekli
+- yufka yürekli
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: pleistosen
 letter: P
 lisan: Fransızca pléistocène
 anlamlar:
-- ► Buzul Çağı
+- Buzul Çağı
 - Bu zamanla ilgili
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: yontu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► heykel
+- heykel
 ozellikler:
 - - isim
 ornekler:

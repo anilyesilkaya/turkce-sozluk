@@ -5,7 +5,7 @@ slug: yarici
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ortakçı
+- ortakçı
 ozellikler:
 - - isim
 ornekler:

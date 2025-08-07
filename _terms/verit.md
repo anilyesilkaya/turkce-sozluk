@@ -5,7 +5,7 @@ slug: verit
 letter: V
 lisan: Arapça verīd
 anlamlar:
-- ► toplardamar
+- toplardamar
 ozellikler:
 - - isim
   - eskimiş

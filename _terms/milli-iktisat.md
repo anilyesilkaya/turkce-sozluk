@@ -5,7 +5,7 @@ slug: milli-iktisat
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► millî ekonomi
+- millî ekonomi
 ozellikler:
 - - isim
 ornekler:

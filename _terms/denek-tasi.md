@@ -5,7 +5,7 @@ slug: denek-tasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► mihenk taşı
+- mihenk taşı
 - Bir kimse veya nesnenin değerini anlamaya yarayan şey
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: maraz
 letter: M
 lisan: Arapça maraż
 anlamlar:
-- ► hastalık
+- hastalık
 - Dayanılması güç durum
 - Huysuzluğu ve titizliği ile can sıkan
 ozellikler:

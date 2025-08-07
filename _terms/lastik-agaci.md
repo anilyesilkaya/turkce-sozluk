@@ -5,7 +5,7 @@ slug: lastik-agaci
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► kauçuk
+- kauçuk
 ozellikler:
 - - isim
   - bitki bilimi

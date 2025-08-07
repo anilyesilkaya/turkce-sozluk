@@ -5,7 +5,7 @@ slug: etik-bilimi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ahlak bilimi
+- ahlak bilimi
 ozellikler:
 - - isim
 ornekler:

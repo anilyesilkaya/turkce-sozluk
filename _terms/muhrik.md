@@ -5,7 +5,7 @@ slug: muhrik
 letter: M
 lisan: Arapça muḥriḳ
 anlamlar:
-- ► yakıcı (I)
+- yakıcı (I)
 - Yanık, dokunaklı (ses)
 ozellikler:
 - - sıfat

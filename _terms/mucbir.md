@@ -5,7 +5,7 @@ slug: mucbir
 letter: M
 lisan: Arapça mucbir
 anlamlar:
-- ► zorlayıcı
+- zorlayıcı
 ozellikler:
 - - sıfat
   - eskimiş

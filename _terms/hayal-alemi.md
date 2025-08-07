@@ -5,7 +5,7 @@ slug: hayal-alemi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayal dünyası
+- hayal dünyası
 ozellikler:
 - - isim
 ornekler:

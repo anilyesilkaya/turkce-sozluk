@@ -5,7 +5,7 @@ slug: ozel-tesebbus
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özel sektör
+- özel sektör
 ozellikler:
 - - isim
   - ticaret

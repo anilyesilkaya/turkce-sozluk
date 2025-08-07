@@ -5,7 +5,7 @@ slug: ihtisamsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► görkemsiz
+- görkemsiz
 ozellikler:
 - - sıfat
 ornekler:

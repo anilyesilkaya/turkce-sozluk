@@ -5,7 +5,7 @@ slug: pragmatik
 letter: P
 lisan: Fransızca pragmatique
 anlamlar:
-- ► yararcı
+- yararcı
 ozellikler:
 - - sıfat
   - felsefe

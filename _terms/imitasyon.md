@@ -5,7 +5,7 @@ slug: imitasyon
 letter: I
 lisan: Fransızca imitation
 anlamlar:
-- ► taklit
+- taklit
 ozellikler:
 - - isim
 ornekler:

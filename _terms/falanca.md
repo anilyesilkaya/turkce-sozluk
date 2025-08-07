@@ -5,7 +5,7 @@ slug: falanca
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► falan
+- falan
 ozellikler:
 - - sıfat
   - zamir

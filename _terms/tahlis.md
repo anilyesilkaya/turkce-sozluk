@@ -5,7 +5,7 @@ slug: tahlis
 letter: T
 lisan: Arapça taḫlīṣ
 anlamlar:
-- ► kurtarma
+- kurtarma
 ozellikler:
 - - isim
   - eskimiş

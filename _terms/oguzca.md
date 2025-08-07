@@ -5,7 +5,7 @@ slug: oguzca
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► Oğuz Türkçesi
+- Oğuz Türkçesi
 ozellikler:
 - - isim
 ornekler:

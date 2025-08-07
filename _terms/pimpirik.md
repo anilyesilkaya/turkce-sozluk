@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Gereksiz yere titizlik gösteren
-- ► kuşkucu
+- kuşkucu
 - Çok yaşlı ve güçsüz (kimse)
 - Harap, bozuk, virane
 ozellikler:

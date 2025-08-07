@@ -5,7 +5,7 @@ slug: eldecilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► zilyetlik
+- zilyetlik
 ozellikler:
 - - isim
 ornekler:

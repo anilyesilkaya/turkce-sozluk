@@ -5,7 +5,7 @@ slug: despotizm
 letter: D
 lisan: Fransızca despotisme
 anlamlar:
-- ► despotluk
+- despotluk
 ozellikler:
 - - isim
 ornekler:

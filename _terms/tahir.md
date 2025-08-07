@@ -5,7 +5,7 @@ slug: tahir
 letter: T
 lisan: Arapça ṭāhir
 anlamlar:
-- ► temiz
+- temiz
 - Klasik Türk müziğinde basit bir makam
 ozellikler:
 - - isim

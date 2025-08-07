@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca accent
 anlamlar:
 - Ölçünlü dile nazaran herhangi bir bölgeye veya yabancılara özgü ses perdesi değişiklikleri
-- ► vurgu
+- vurgu
 ozellikler:
 - - isim
 - - isim

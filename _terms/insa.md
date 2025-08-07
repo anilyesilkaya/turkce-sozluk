@@ -6,10 +6,10 @@ letter: I
 lisan: Arapça inşāʾ
 anlamlar:
 - Yapı kurma, yapı yapma, kurma
-- ► yapım
+- yapım
 - Düzyazı veya şiir kaleme alma, yazıya dökme
-- ► düzyazı
-- ► dilek kipi
+- düzyazı
+- dilek kipi
 ozellikler:
 - - isim
 - - isim

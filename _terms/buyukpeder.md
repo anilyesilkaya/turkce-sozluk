@@ -5,7 +5,7 @@ slug: buyukpeder
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dede
+- dede
 ozellikler:
 - - isim
 ornekler:

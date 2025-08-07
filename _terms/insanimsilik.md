@@ -5,7 +5,7 @@ slug: insanimsilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insansılık
+- insansılık
 ozellikler:
 - - isim
 ornekler:

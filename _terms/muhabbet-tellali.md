@@ -5,7 +5,7 @@ slug: muhabbet-tellali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
   - argo

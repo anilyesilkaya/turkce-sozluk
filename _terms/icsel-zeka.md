@@ -5,7 +5,7 @@ slug: icsel-zeka
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► duygusal zekâ
+- duygusal zekâ
 ozellikler:
 - - isim
 ornekler:

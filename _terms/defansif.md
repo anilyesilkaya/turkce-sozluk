@@ -5,7 +5,7 @@ slug: defansif
 letter: D
 lisan: Fransızca défensive
 anlamlar:
-- ► savunmalı
+- savunmalı
 ozellikler:
 - - sıfat
   - spor

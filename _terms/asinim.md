@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aşınmak işi
-- ► erozyon
+- erozyon
 ozellikler:
 - - isim
 - - isim

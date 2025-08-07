@@ -5,7 +5,7 @@ slug: bindirimli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zamlı
+- zamlı
 ozellikler:
 - - sıfat
 ornekler:

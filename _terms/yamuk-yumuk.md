@@ -5,7 +5,7 @@ slug: yamuk-yumuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yamru yumru
+- yamru yumru
 ozellikler:
 - - sıfat
 ornekler:

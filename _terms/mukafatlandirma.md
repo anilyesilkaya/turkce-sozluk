@@ -5,7 +5,7 @@ slug: mukafatlandirma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ödüllendirme
+- ödüllendirme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kivanclanmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► övünmek
+- övünmek
 ozellikler:
 - - -den
 ornekler:

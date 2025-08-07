@@ -5,7 +5,7 @@ slug: cobandagarcigi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kuşekmeği
+- kuşekmeği
 ozellikler:
 - - isim
   - bitki bilimi

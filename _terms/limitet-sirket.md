@@ -5,7 +5,7 @@ slug: limitet-sirket
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► limitet ortaklık
+- limitet ortaklık
 ozellikler:
 - - isim
   - ticaret

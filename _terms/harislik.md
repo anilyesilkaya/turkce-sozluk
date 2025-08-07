@@ -5,7 +5,7 @@ slug: harislik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► açgözlülük
+- açgözlülük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tahrir-heyeti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yazı kurulu
+- yazı kurulu
 ozellikler:
 - - isim
   - eskimiş

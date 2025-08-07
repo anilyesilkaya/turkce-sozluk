@@ -5,7 +5,7 @@ slug: meydan-korkusu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► alan korkusu
+- alan korkusu
 ozellikler:
 - - isim
   - tıp

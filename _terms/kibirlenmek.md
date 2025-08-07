@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kendini üstün görmek
-- ► büyüklenmek
+- büyüklenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

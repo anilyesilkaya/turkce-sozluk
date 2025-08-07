@@ -5,7 +5,7 @@ slug: hakikaten
 letter: H
 lisan: Arapça ḥaḳīḳaten
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
 ornekler:

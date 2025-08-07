@@ -5,7 +5,7 @@ slug: cazibeli
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çekici
+- çekici
 - İlgiyi, dikkati üzerinde toplayan
 ozellikler:
 - - sıfat

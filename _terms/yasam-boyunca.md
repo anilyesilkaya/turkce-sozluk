@@ -5,7 +5,7 @@ slug: yasam-boyunca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ömür boyu
+- ömür boyu
 ozellikler:
 - - zarf
 ornekler:

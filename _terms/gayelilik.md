@@ -5,7 +5,7 @@ slug: gayelilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► amaçlılık
+- amaçlılık
 ozellikler:
 - - isim
 ornekler:

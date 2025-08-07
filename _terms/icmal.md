@@ -5,8 +5,8 @@ slug: icmal
 letter: I
 lisan: Arapça icmāl
 anlamlar:
-- ► gösterge
-- ► özet
+- gösterge
+- özet
 ozellikler:
 - - isim
   - eskimiş

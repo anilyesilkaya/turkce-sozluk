@@ -5,7 +5,7 @@ slug: benzeti
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► benzetme
+- benzetme
 ozellikler:
 - - isim
   - edebiyat

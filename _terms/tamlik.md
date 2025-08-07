@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Eksik olmama durumu; tamamiyet
-- ► olgunluk
+- olgunluk
 ozellikler:
 - - isim
 - - isim

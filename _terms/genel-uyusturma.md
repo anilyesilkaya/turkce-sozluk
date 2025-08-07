@@ -5,7 +5,7 @@ slug: genel-uyusturma
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► genel anestezi
+- genel anestezi
 ozellikler:
 - - isim
   - tıp

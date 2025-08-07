@@ -5,7 +5,7 @@ slug: teehhul
 letter: T
 lisan: Arapça teʾehhul
 anlamlar:
-- ► evlenme
+- evlenme
 ozellikler:
 - - isim
   - eskimiş

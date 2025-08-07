@@ -5,7 +5,7 @@ slug: poc
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kuyruk sokumu kemiği
+- kuyruk sokumu kemiği
 ozellikler:
 - - isim
   - ağızlardan

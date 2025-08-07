@@ -5,7 +5,7 @@ slug: sevket
 letter: Ş
 lisan: Arapça şevket
 anlamlar:
-- ► büyüklük
+- büyüklük
 ozellikler:
 - - isim
   - eskimiş

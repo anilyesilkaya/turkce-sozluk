@@ -5,7 +5,7 @@ slug: tabiat-yasasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğa kanunu
+- doğa kanunu
 ozellikler:
 - - isim
 ornekler:

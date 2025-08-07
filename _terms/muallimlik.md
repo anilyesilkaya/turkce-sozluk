@@ -5,7 +5,7 @@ slug: muallimlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► öğretmenlik
+- öğretmenlik
 ozellikler:
 - - isim
 ornekler:

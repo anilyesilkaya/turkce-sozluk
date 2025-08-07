@@ -5,7 +5,7 @@ slug: asilzadelik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soyluluk
+- soyluluk
 ozellikler:
 - - isim
 ornekler:

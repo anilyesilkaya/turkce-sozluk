@@ -5,7 +5,7 @@ slug: fakul
 letter: F
 lisan: Fransızca facule
 anlamlar:
-- ► benek
+- benek
 ozellikler:
 - - isim
   - gök bilimi

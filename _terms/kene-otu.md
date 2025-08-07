@@ -5,7 +5,7 @@ slug: kene-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Hint yağı ağacı
+- Hint yağı ağacı
 ozellikler:
 - - isim
   - bitki bilimi

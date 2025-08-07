@@ -5,7 +5,7 @@ slug: ultraviyole
 letter: U
 lisan: Fransızca ultraviolet
 anlamlar:
-- ► morötesi
+- morötesi
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: otanazi
 letter: Ö
 lisan: Fransızca euthanasie
 anlamlar:
-- ► ölme hakkı
+- ölme hakkı
 ozellikler:
 - - isim
 ornekler:

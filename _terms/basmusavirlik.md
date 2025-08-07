@@ -5,7 +5,7 @@ slug: basmusavirlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başdanışmanlık
+- başdanışmanlık
 ozellikler:
 - - isim
 ornekler:

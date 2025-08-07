@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muṭābiḳ
 anlamlar:
 - Birbirine uyan, karşılıklı olarak anlaşmaya varan, birbiriyle uzlaşan
-- ► uygun
+- uygun
 ozellikler:
 - - sıfat
 - - sıfat

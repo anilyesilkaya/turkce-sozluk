@@ -5,7 +5,7 @@ slug: egir-koku
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğir otu
+- eğir otu
 ozellikler:
 - - isim
   - bitki bilimi

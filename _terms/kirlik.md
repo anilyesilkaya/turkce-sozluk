@@ -5,7 +5,7 @@ slug: kirlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırsal
+- kırsal
 ozellikler:
 - - isim
 ornekler:

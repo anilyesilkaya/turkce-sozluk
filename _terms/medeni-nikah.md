@@ -5,7 +5,7 @@ slug: medeni-nikah
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► resmî nikâh
+- resmî nikâh
 ozellikler:
 - - isim
   - hukuk

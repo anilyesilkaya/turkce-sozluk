@@ -5,7 +5,7 @@ slug: cayir-kusu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tarla kuşu
+- tarla kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

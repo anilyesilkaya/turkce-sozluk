@@ -5,7 +5,7 @@ slug: agababa
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ata
+- ata
 - Bir yerde, bir topluluk içinde etkili olan, sözü geçen, ileri gelen kimse
 - Ünvanı "ağa" olan babaya çocuğunun sesleniş sözü
 - Bir işte ustalık gösteren, önde gelen kimse

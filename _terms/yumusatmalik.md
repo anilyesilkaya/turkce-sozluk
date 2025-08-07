@@ -5,7 +5,7 @@ slug: yumusatmalik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► amortisör
+- amortisör
 ozellikler:
 - - isim
 ornekler:

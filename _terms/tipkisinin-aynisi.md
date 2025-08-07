@@ -5,7 +5,7 @@ slug: tipkisinin-aynisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıpatıp
+- tıpatıp
 ozellikler:
 - - sıfat
 ornekler:

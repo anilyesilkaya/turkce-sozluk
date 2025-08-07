@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Fotoğraf çeken veya basan kimse
-- ► fotoğrafhane
+- fotoğrafhane
 ozellikler:
 - - isim
 - - isim

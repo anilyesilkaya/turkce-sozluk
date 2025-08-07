@@ -5,7 +5,7 @@ slug: suurlandirabilme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlendirebilme
+- bilinçlendirebilme
 ozellikler:
 - - isim
 ornekler:

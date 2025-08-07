@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Açık toprak rengi
-- ► kül rengi
+- kül rengi
 - Bu renklerde olan
 - Açılmamış, sürülmemiş (toprak)
 ozellikler:

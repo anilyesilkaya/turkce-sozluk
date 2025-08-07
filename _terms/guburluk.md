@@ -5,7 +5,7 @@ slug: guburluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► çöplük
+- çöplük
 ozellikler:
 - - isim
 ornekler:

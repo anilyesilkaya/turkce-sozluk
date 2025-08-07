@@ -5,7 +5,7 @@ slug: kus-ucumu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuş uçuşu
+- kuş uçuşu
 ozellikler:
 - - isim
 ornekler:

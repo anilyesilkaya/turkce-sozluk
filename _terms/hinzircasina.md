@@ -5,7 +5,7 @@ slug: hinzircasina
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hınzırca
+- hınzırca
 ozellikler:
 - - zarf
 ornekler:

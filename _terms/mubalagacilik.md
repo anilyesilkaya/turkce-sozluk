@@ -5,7 +5,7 @@ slug: mubalagacilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► abartıcılık
+- abartıcılık
 ozellikler:
 - - isim
 ornekler:

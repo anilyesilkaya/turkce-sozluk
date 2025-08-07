@@ -5,7 +5,7 @@ slug: hece-tasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► mezar taşı
+- mezar taşı
 ozellikler:
 - - isim
   - ağızlardan

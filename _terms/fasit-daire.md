@@ -5,7 +5,7 @@ slug: fasit-daire
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kısır döngü
+- kısır döngü
 ozellikler:
 - - isim
   - mantık

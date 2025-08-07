@@ -5,7 +5,7 @@ slug: glayol
 letter: G
 lisan: Fransızca glaïeul
 anlamlar:
-- ► kuzgunkılıcı
+- kuzgunkılıcı
 ozellikler:
 - - isim
   - bitki bilimi

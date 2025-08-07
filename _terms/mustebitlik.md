@@ -5,7 +5,7 @@ slug: mustebitlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► zorbalık
+- zorbalık
 ozellikler:
 - - isim
 ornekler:

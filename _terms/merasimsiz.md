@@ -5,7 +5,7 @@ slug: merasimsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► törensiz
+- törensiz
 - Resmî davranıştan uzak, sade
 ozellikler:
 - - sıfat

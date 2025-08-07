@@ -5,7 +5,7 @@ slug: coz
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► mumbar
+- mumbar
 ozellikler:
 - - isim
   - ağızlardan

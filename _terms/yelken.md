@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Rüzgâr gücünden yararlanmak için geniş bir yüzey oluşturacak biçimde yan yana dikilen ve teknenin direğine uygun bir biçimde takılarak onu hareket ettiren kumaş veya şeritlerin tümü
-- ► yelkenli
+- yelkenli
 ozellikler:
 - - isim
   - denizcilik

@@ -8,9 +8,9 @@ anlamlar:
 - Alma işini yapan
 - Satın almak isteyen kimse; müşteri
 - Kendisine bir şey gönderilen kimse
-- ► almaç
-- ► kamera
-- ► Azrail
+- almaç
+- kamera
+- Azrail
 ozellikler:
 - - isim
 - - isim

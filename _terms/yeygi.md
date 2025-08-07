@@ -5,7 +5,7 @@ slug: yeygi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yem
+- yem
 ozellikler:
 - - isim
   - ağızlardan

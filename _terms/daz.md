@@ -5,7 +5,7 @@ slug: daz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dazlak
+- dazlak
 - Çıplak olan (toprak)
 ozellikler:
 - - sıfat

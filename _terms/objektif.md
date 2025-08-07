@@ -5,7 +5,7 @@ slug: objektif
 letter: O
 lisan: Fransızca objectif
 anlamlar:
-- ► nesnel, subjektif karşıtı
+- nesnel, subjektif karşıtı
 - Fotoğraf makinesi, mikroskop, dürbün vb. optik aletlerde cisimlerden gelen ışınları alıp ekran üzerine aktaran mercek veya mercek sistemi
 ozellikler:
 - - sıfat

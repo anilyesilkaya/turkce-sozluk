@@ -5,7 +5,7 @@ slug: kiziltuygun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► saz delicesi
+- saz delicesi
 ozellikler:
 - - isim
   - hayvan bilimi

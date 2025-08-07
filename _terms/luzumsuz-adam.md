@@ -5,7 +5,7 @@ slug: luzumsuz-adam
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lüzumsuz insan
+- lüzumsuz insan
 ozellikler:
 - - isim
 ornekler:

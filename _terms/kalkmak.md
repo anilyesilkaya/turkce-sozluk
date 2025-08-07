@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Oturmaktayken veya yatmaktayken gitmek üzere yerinden ayrılmak
-- ► doğrulmak
+- doğrulmak
 - Uyanarak yataktan ayrılmak
 - Yukarı doğru yükselmek
 - Taşıtlar yola çıkmak

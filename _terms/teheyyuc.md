@@ -5,7 +5,7 @@ slug: teheyyuc
 letter: T
 lisan: Arapça teheyyuc
 anlamlar:
-- ► heyecan
+- heyecan
 ozellikler:
 - - isim
   - eskimiş

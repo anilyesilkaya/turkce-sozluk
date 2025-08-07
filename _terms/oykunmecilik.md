@@ -5,7 +5,7 @@ slug: oykunmecilik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► taklitçilik
+- taklitçilik
 ozellikler:
 - - isim
 ornekler:

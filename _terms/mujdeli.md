@@ -5,7 +5,7 @@ slug: mujdeli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muştulu
+- muştulu
 ozellikler:
 - - sıfat
 ornekler:

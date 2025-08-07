@@ -5,7 +5,7 @@ slug: iradi
 letter: I
 lisan: Arapça irādī
 anlamlar:
-- ► iradeci
+- iradeci
 ozellikler:
 - - sıfat
   - eskimiş

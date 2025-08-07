@@ -5,7 +5,7 @@ slug: varyemezlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
 ornekler:

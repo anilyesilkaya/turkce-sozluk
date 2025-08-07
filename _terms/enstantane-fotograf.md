@@ -5,7 +5,7 @@ slug: enstantane-fotograf
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► enstantane
+- enstantane
 ozellikler:
 - - isim
 ornekler:

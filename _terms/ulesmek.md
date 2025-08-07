@@ -5,7 +5,7 @@ slug: ulesmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► paylaşmak
+- paylaşmak
 ozellikler:
 - - nesnesiz
   - -le

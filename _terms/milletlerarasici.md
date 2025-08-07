@@ -5,7 +5,7 @@ slug: milletlerarasici
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uluslararasıcı
+- uluslararasıcı
 ozellikler:
 - - sıfat
 ornekler:

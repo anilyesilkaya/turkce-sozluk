@@ -7,7 +7,7 @@ lisan: Arapça ḥaẓẓ
 anlamlar:
 - Bir şeyin insanda uyandırdığı hoşlanma duygusu
 - Bir şeyden duyusal veya manevi sevinç duyma
-- ► ezgi
+- ezgi
 - Sürdürülmesi istenen ılımlı ve doygunluk veren coşku
 ozellikler:
 - - isim

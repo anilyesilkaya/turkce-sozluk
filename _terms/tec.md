@@ -5,7 +5,7 @@ slug: tec
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çeç
+- çeç
 ozellikler:
 - - isim
   - ağızlardan

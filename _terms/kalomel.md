@@ -5,7 +5,7 @@ slug: kalomel
 letter: K
 lisan: Fransızca calomel
 anlamlar:
-- ► tatlı sülümen
+- tatlı sülümen
 ozellikler:
 - - isim
   - kimya

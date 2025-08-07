@@ -5,7 +5,7 @@ slug: yuma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıkama
+- yıkama
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kentci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehirci
+- şehirci
 ozellikler:
 - - isim
 ornekler:

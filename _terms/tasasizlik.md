@@ -5,7 +5,7 @@ slug: tasasizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygısızlık
+- kaygısızlık
 ozellikler:
 - - isim
 ornekler:

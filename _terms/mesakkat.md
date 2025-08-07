@@ -5,7 +5,7 @@ slug: mesakkat
 letter: M
 lisan: Arapça meşaḳḳat
 anlamlar:
-- ► güçlük
+- güçlük
 ozellikler:
 - - isim
 ornekler:

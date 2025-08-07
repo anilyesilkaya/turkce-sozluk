@@ -5,7 +5,7 @@ slug: canavarcasina
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► canavarca
+- canavarca
 ozellikler:
 - - zarf
 ornekler:

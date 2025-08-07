@@ -5,7 +5,7 @@ slug: sanli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ünlü
+- ünlü
 - Yüce, ulu, büyük olan
 ozellikler:
 - - sıfat

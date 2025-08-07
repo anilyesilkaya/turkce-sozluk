@@ -5,7 +5,7 @@ slug: faziletkar
 letter: F
 lisan: Arapça fażīlet + Farsça -kār
 anlamlar:
-- ► erdemli
+- erdemli
 ozellikler:
 - - sıfat
   - eskimiş

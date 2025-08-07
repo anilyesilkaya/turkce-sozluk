@@ -5,7 +5,7 @@ slug: dag-reyhani
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► anık (II)
+- anık (II)
 ozellikler:
 - - isim
   - bitki bilimi

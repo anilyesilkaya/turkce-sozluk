@@ -5,7 +5,7 @@ slug: adamkoku
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adamotu
+- adamotu
 ozellikler:
 - - isim
   - bitki bilimi

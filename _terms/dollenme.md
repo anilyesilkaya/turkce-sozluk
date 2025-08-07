@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Erkek gametle dişi gametin kaynaşmasıyla yumurtacığın oğulcuk durumuna gelmesi; aşılanma, ilkah
-- ► tozlaşma
+- tozlaşma
 ozellikler:
 - - isim
   - biyoloji

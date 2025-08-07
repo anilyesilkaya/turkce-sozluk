@@ -5,7 +5,7 @@ slug: ulusal-varlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî varlık
+- millî varlık
 ozellikler:
 - - isim
 ornekler:

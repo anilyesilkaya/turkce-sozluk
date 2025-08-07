@@ -5,7 +5,7 @@ slug: kocatmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kocaltmak
+- kocaltmak
 ozellikler:
 - - -i
 ornekler:

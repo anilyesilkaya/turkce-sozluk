@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çukur duruma gelmek
-- ► çökmek
+- çökmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

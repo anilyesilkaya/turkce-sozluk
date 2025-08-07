@@ -8,10 +8,10 @@ anlamlar:
 - Şimdiki zamana en yakın zamandan beri olan veya bu zamanda yapılmış, olmuş olan; encam, hatime, ilk karşıtı
 - En arkada bulunan
 - Artık ondan ötesi veya başkası olmayan
-- ► olanca
+- olanca
 - Bir şeyin en arkadan gelen bölümü; bitim, nihayet, münteha
-- ► ölüm
-- ► döl eşi
+- ölüm
+- döl eşi
 ozellikler:
 - - sıfat
 - - sıfat

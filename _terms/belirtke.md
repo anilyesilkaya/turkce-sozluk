@@ -5,9 +5,9 @@ slug: belirtke
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► amblem
+- amblem
 - Bir konu hakkındaki açıklayıcı bilgilerin tümü
-- ► gösterge
+- gösterge
 ozellikler:
 - - isim
 - - isim

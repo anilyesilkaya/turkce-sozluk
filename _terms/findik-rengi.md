@@ -5,7 +5,7 @@ slug: findik-rengi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fındıkkabuğu
+- fındıkkabuğu
 ozellikler:
 - - isim
 ornekler:

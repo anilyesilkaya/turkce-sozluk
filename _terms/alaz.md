@@ -5,7 +5,7 @@ slug: alaz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alev (I)
+- alev (I)
 ozellikler:
 - - isim
   - ağızlardan

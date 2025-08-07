@@ -5,7 +5,7 @@ slug: sarmal-metot
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarmal yöntem
+- sarmal yöntem
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca caméra
 anlamlar:
 - Görüntülerin filme alınmasını sağlayan alet; alıcı
-- ► kameraman
+- kameraman
 - Bir çekime başlanırken, yönetmenin alıcıyı çalıştırmaları için verdiği buyruk
 ozellikler:
 - - isim

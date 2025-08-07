@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Üzerine tüfek, tabanca fişekleri geçirilip bele asılan veya omuzdan bele doğru çapraz geçirilen kemer; kargılık
-- ► kütüklük
+- kütüklük
 ozellikler:
 - - isim
 - - isim

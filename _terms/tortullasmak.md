@@ -5,7 +5,7 @@ slug: tortullasmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tortulaşmak
+- tortulaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

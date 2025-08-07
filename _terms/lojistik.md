@@ -5,10 +5,10 @@ slug: lojistik
 letter: L
 lisan: Fransızca logistique
 anlamlar:
-- ► geri hizmet
+- geri hizmet
 - Geri hizmetle ilgili
 - Kişilerin ihtiyaçlarını karşılamak üzere her türlü ürünün, hizmetin ve bilgi akışının çıkış noktasından varış noktasına kadar taşınmasının etkili ve verimli bir biçimde planlanması ve uygulanması
-- ► modern mantık
+- modern mantık
 ozellikler:
 - - isim
   - askerlik

@@ -5,7 +5,7 @@ slug: halaskar
 letter: H
 lisan: Arapça ḫalāṣ + Farsça -kār
 anlamlar:
-- ► kurtarıcı
+- kurtarıcı
 ozellikler:
 - - isim
   - eskimiş

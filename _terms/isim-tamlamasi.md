@@ -5,7 +5,7 @@ slug: isim-tamlamasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ad tamlaması
+- ad tamlaması
 ozellikler:
 - - isim
   - dil bilgisi

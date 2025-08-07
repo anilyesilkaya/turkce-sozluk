@@ -5,8 +5,8 @@ slug: tatbik
 letter: T
 lisan: Arapça taṭbīḳ
 anlamlar:
-- ► uygulama
-- ► karşılaştırma
+- uygulama
+- karşılaştırma
 - Bir şeyi başka bir şeye uygun duruma getirme
 - Bir şeyi bilinen başka bir şeye benzetme, aynısını yapma
 ozellikler:

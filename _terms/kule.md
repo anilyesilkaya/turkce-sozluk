@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳulle
 anlamlar:
 - Çoğunlukla kare veya silindir biçimindeki yüksek yapı
-- ► cihannüma
+- cihannüma
 - Dağ tepesi
 ozellikler:
 - - isim

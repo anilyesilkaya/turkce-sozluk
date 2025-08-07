@@ -5,7 +5,7 @@ slug: yuruyus-bandi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► koşu bandı
+- koşu bandı
 ozellikler:
 - - isim
 ornekler:

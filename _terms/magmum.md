@@ -5,7 +5,7 @@ slug: magmum
 letter: M
 lisan: Arapça maġmūm
 anlamlar:
-- ► kaygılı
+- kaygılı
 - Sıkıcı, kapanık (hava)
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: tavus
 letter: T
 lisan: Arapça ṭāvus
 anlamlar:
-- ► tavus kuşu
+- tavus kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

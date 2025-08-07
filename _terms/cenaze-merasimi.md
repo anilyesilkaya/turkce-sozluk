@@ -5,7 +5,7 @@ slug: cenaze-merasimi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cenaze töreni
+- cenaze töreni
 ozellikler:
 - - isim
 ornekler:

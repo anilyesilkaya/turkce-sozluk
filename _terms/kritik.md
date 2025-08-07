@@ -5,9 +5,9 @@ slug: kritik
 letter: K
 lisan: Fransızca critique
 anlamlar:
-- ► eleştiri
+- eleştiri
 - Endişe verici, çok tehlikeli (durum)
-- ► nazik
+- nazik
 ozellikler:
 - - isim
 - - isim

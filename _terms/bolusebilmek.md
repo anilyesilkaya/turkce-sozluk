@@ -5,7 +5,7 @@ slug: bolusebilmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaşabilmek
+- paylaşabilmek
 ozellikler:
 - - -i
 ornekler:

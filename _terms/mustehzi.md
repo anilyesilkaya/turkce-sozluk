@@ -5,7 +5,7 @@ slug: mustehzi
 letter: M
 lisan: Arapça mustehzī
 anlamlar:
-- ► alaycı
+- alaycı
 - Alaycı bir biçimde
 ozellikler:
 - - sıfat

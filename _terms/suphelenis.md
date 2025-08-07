@@ -5,7 +5,7 @@ slug: suphelenis
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanış
+- kuşkulanış
 ozellikler:
 - - isim
 ornekler:

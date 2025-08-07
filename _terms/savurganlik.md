@@ -5,7 +5,7 @@ slug: savurganlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tutumsuzluk
+- tutumsuzluk
 ozellikler:
 - - isim
 ornekler:

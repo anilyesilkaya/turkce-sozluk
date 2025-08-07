@@ -5,7 +5,7 @@ slug: kipirdamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kımıldamak
+- kımıldamak
 ozellikler:
 - - nesnesiz
 ornekler:

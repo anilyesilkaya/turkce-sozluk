@@ -5,7 +5,7 @@ slug: cuppadak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cumbadak
+- cumbadak
 ozellikler:
 - - zarf
 ornekler:

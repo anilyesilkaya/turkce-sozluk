@@ -5,7 +5,7 @@ slug: pozitivist
 letter: P
 lisan: Fransızca pozitiviste
 anlamlar:
-- ► olgucu
+- olgucu
 ozellikler:
 - - sıfat
   - felsefe

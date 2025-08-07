@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İpi olmayan
-- ► ipsiz sapsız
+- ipsiz sapsız
 ozellikler:
 - - sıfat
 - - sıfat

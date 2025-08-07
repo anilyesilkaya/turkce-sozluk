@@ -5,7 +5,7 @@ slug: gazometri
 letter: G
 lisan: Fransızca gazométrie
 anlamlar:
-- ► gaz ölçümü
+- gaz ölçümü
 ozellikler:
 - - isim
   - fizik

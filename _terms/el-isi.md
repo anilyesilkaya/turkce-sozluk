@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Makine kullanmadan yapılan örgü, dikiş vb. el ürünü
 - Okullarda kâğıt, mukavva, tahta vb. ile yaptırılan çalışmalar
-- ► işleme
+- işleme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: bitkicil
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► otobur
+- otobur
 ozellikler:
 - - sıfat
 ornekler:

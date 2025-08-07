@@ -5,7 +5,7 @@ slug: yalapsap
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► üstünkörü
+- üstünkörü
 ozellikler:
 - - zarf
 ornekler:

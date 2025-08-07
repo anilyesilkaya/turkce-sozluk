@@ -5,7 +5,7 @@ slug: ana-mektebi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anaokulu
+- anaokulu
 ozellikler:
 - - isim
   - eğitim

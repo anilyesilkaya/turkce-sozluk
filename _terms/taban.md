@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭabʿan
 anlamlar:
 - Huy bakımından
-- ► yaradılıştan
+- yaradılıştan
 ozellikler:
 - - zarf
   - eskimiş

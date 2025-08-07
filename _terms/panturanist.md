@@ -5,7 +5,7 @@ slug: panturanist
 letter: P
 lisan: Fransızca pantouraniste
 anlamlar:
-- ► Turancı
+- Turancı
 ozellikler:
 - - sıfat
 ornekler:

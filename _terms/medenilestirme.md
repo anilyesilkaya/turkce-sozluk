@@ -5,7 +5,7 @@ slug: medenilestirme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygarlaştırma
+- uygarlaştırma
 ozellikler:
 - - isim
 ornekler:

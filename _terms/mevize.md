@@ -5,8 +5,8 @@ slug: mevize
 letter: M
 lisan: Arapça mevʿiẓe
 anlamlar:
-- ► vaaz
-- ► öğüt
+- vaaz
+- öğüt
 ozellikler:
 - - isim
   - eskimiş

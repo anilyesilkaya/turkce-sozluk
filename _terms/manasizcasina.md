@@ -5,7 +5,7 @@ slug: manasizcasina
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anlamsızca
+- anlamsızca
 ozellikler:
 - - zarf
 ornekler:

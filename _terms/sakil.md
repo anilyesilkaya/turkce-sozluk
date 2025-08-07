@@ -5,7 +5,7 @@ slug: sakil
 letter: S
 lisan: Arapça s̱aḳīl
 anlamlar:
-- ► ağır
+- ağır
 - Sıkıntı veren; sıkıntılı
 - Çirkin, kaba, uyumsuz olan
 - Türk müziğinde bir usul

@@ -5,7 +5,7 @@ slug: senozoik
 letter: S
 lisan: Fransızca cénozoïque
 anlamlar:
-- ► Üçüncü Çağ
+- Üçüncü Çağ
 - Bu zamanla ilgili
 ozellikler:
 - - isim

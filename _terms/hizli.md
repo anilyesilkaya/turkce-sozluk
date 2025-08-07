@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Hızı çok olan; seri (II), süratli, şiddetli
 - Güç kullanarak
-- ► çabucak
+- çabucak
 - Çok hareketli olan
 ozellikler:
 - - sıfat

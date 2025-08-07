@@ -5,7 +5,7 @@ slug: harekelendirme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► harekeleme
+- harekeleme
 ozellikler:
 - - isim
 ornekler:

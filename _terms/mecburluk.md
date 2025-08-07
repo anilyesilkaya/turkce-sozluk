@@ -5,8 +5,8 @@ slug: mecburluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► zorunluluk
-- ► yükümlülük
+- zorunluluk
+- yükümlülük
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: ahilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cömertlik
+- cömertlik
 ozellikler:
 - - isim
 ornekler:

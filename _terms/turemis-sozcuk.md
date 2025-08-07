@@ -5,7 +5,7 @@ slug: turemis-sozcuk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► türemiş kelime
+- türemiş kelime
 ozellikler:
 - - isim
   - dil bilgisi

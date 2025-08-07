@@ -5,7 +5,7 @@ slug: hezar
 letter: H
 lisan: Farsça hezār
 anlamlar:
-- ► bülbül
+- bülbül
 ozellikler:
 - - isim
 ornekler:

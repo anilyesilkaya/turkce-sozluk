@@ -5,7 +5,7 @@ slug: dizelge
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► liste
+- liste
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: muazzam
 letter: M
 lisan: Arapça muʿaẓẓam
 anlamlar:
-- ► koskoca
+- koskoca
 - Alışılmışın sınırlarını aşan, pek yüce
 - Büyük bir değer ve önem taşıyan, çok önemli
 ozellikler:

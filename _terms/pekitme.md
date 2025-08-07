@@ -5,7 +5,7 @@ slug: pekitme
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► tekit
+- tekit
 ozellikler:
 - - isim
 ornekler:

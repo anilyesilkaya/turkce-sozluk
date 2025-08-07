@@ -5,7 +5,7 @@ slug: ustenci
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► yüklenici
+- yüklenici
 ozellikler:
 - - isim
 ornekler:

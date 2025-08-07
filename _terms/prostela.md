@@ -5,7 +5,7 @@ slug: prostela
 letter: P
 lisan: Rumca
 anlamlar:
-- ► önlük
+- önlük
 ozellikler:
 - - isim
 ornekler:

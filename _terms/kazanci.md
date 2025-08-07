@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kazan yapan, satan veya onaran usta
-- ► ateşçi
+- ateşçi
 ozellikler:
 - - isim
 - - isim

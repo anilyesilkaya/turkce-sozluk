@@ -5,7 +5,7 @@ slug: bumbar
 letter: B
 lisan: Farsça mubār
 anlamlar:
-- ► mumbar
+- mumbar
 ozellikler:
 - - isim
 ornekler:

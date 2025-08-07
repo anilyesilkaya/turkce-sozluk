@@ -5,7 +5,7 @@ slug: simurg
 letter: S
 lisan: Farsça sī + murġ
 anlamlar:
-- ► Anka
+- Anka
 ozellikler:
 - - isim
 ornekler:

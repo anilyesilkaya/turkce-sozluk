@@ -5,7 +5,7 @@ slug: sosyallik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumsallık
+- toplumsallık
 ozellikler:
 - - isim
 ornekler:

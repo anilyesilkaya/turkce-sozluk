@@ -5,7 +5,7 @@ slug: ecnebilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yabancılık
+- yabancılık
 ozellikler:
 - - isim
 ornekler:

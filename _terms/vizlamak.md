@@ -5,7 +5,7 @@ slug: vizlamak
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vızıldamak
+- vızıldamak
 ozellikler:
 - - nesnesiz
 ornekler:

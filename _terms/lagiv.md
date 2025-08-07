@@ -5,7 +5,7 @@ slug: lagiv
 letter: L
 lisan: Arapça laġv
 anlamlar:
-- ► fesih
+- fesih
 - Hükümsüz kılma
 ozellikler:
 - - isim

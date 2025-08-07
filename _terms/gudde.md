@@ -5,7 +5,7 @@ slug: gudde
 letter: G
 lisan: Arapça ġudde
 anlamlar:
-- ► beze (I)
+- beze (I)
 ozellikler:
 - - isim
   - eskimiş

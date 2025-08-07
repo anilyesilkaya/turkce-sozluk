@@ -5,7 +5,7 @@ slug: ibadetgah
 letter: I
 lisan: Arapça ʿibādet + Farsça -gāh
 anlamlar:
-- ► mabet
+- mabet
 ozellikler:
 - - isim
   - eskimiş

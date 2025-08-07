@@ -5,7 +5,7 @@ slug: yuzeylesmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüzeyselleşmek
+- yüzeyselleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

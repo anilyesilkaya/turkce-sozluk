@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nekbet
 anlamlar:
 - Talihsizlik, felaket
-- ► düşkünlük
+- düşkünlük
 ozellikler:
 - - isim
   - eskimiş

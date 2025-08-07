@@ -5,8 +5,8 @@ slug: yekten
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ansızın
-- ► durup dururken
+- ansızın
+- durup dururken
 ozellikler:
 - - zarf
 - - zarf

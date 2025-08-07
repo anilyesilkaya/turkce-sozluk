@@ -5,7 +5,7 @@ slug: kosun-kosun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dizi dizi
+- dizi dizi
 ozellikler:
 - - zarf
 ornekler:

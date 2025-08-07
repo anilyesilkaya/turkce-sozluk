@@ -5,7 +5,7 @@ slug: latilokum
 letter: L
 lisan: Arapça rāḥat + ḥulḳūm
 anlamlar:
-- ► lokum
+- lokum
 ozellikler:
 - - isim
   - eskimiş

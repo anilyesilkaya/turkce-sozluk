@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taḥrīk
 anlamlar:
 - Cinsel isteği, duyguları uyandırma, artırma
-- ► kışkırtma
+- kışkırtma
 - Yola çıkartma, hareket ettirme; kımıldatma
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: dunyaevi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► evlilik
+- evlilik
 ozellikler:
 - - isim
   - mecaz

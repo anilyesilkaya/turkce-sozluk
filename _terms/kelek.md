@@ -8,7 +8,7 @@ anlamlar:
 - Olgunlaşmamış, ham kavun
 - Irmaklarda işleyen ve şişirilmiş tulumlar üzerine kurulan bir tür sal
 - Yer yer çıplaklığı veya boşluğu olan
-- ► kılsız
+- kılsız
 - Aptal, salak olan (kimse)
 ozellikler:
 - - isim

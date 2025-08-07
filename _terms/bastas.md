@@ -5,8 +5,8 @@ slug: bastas
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kafadar
-- ► akran
+- kafadar
+- akran
 ozellikler:
 - - isim
 - - isim

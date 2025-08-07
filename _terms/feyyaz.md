@@ -5,7 +5,7 @@ slug: feyyaz
 letter: F
 lisan: Arapça feyyāż
 anlamlar:
-- ► gür
+- gür
 ozellikler:
 - - sıfat
   - eskimiş

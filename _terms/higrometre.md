@@ -5,7 +5,7 @@ slug: higrometre
 letter: H
 lisan: Fransızca hygromètre
 anlamlar:
-- ► nemölçer
+- nemölçer
 ozellikler:
 - - isim
 ornekler:

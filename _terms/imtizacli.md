@@ -5,7 +5,7 @@ slug: imtizacli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uyumlu
+- uyumlu
 ozellikler:
 - - sıfat
 ornekler:

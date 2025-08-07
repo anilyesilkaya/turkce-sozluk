@@ -5,7 +5,7 @@ slug: basci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► işçibaşı
+- işçibaşı
 - Çiğ veya pişmiş koyun, kuzu, sığır başı satan kimse
 ozellikler:
 - - isim

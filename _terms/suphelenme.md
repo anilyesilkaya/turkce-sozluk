@@ -5,7 +5,7 @@ slug: suphelenme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanma
+- kuşkulanma
 ozellikler:
 - - isim
 ornekler:

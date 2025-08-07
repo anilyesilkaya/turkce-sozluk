@@ -5,7 +5,7 @@ slug: dansimetre
 letter: D
 lisan: Fransızca densimètre
 anlamlar:
-- ► yoğunlukölçer
+- yoğunlukölçer
 ozellikler:
 - - isim
   - fizik

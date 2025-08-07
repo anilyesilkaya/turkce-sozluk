@@ -5,7 +5,7 @@ slug: kriter
 letter: K
 lisan: Fransızca critère
 anlamlar:
-- ► ölçüt
+- ölçüt
 ozellikler:
 - - isim
 ornekler:

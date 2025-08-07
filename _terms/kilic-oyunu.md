@@ -5,7 +5,7 @@ slug: kilic-oyunu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eskrim
+- eskrim
 ozellikler:
 - - isim
   - spor

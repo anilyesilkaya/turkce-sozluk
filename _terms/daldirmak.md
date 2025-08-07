@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dalma işini yaptırmak, dalmasına sebep olmak
-- ► dalmak
+- dalmak
 ozellikler:
 - - -e
   - -i

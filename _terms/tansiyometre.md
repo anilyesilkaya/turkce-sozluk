@@ -5,7 +5,7 @@ slug: tansiyometre
 letter: T
 lisan: Fransızca tensiomètre
 anlamlar:
-- ► gerilimölçer
+- gerilimölçer
 ozellikler:
 - - isim
   - teknik

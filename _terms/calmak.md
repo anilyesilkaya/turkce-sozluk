@@ -12,7 +12,7 @@ anlamlar:
 - Bir şeyi bir yere çarpmak, vurmak
 - Üzerine sürmek
 - Bozmak, zarar vermek
-- ► çelmek
+- çelmek
 - Madeni oymak, kalemle işlemek
 - Benzemek, andırmak
 - Zamanı boşa harcatmak, ziyan edilmesine yol açmak

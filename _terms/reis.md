@@ -5,8 +5,8 @@ slug: reis
 letter: R
 lisan: Arapça reʾīs
 anlamlar:
-- ► başkan
-- ► lider
+- başkan
+- lider
 - Küçük tekne kaptanı
 ozellikler:
 - - isim

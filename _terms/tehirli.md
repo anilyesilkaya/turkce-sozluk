@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Geciktirilmiş
 - Ertelenmiş
-- ► gecikmeli
+- gecikmeli
 - Gecikmiş bir biçimde
 ozellikler:
 - - sıfat

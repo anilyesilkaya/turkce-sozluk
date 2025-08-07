@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İri kıyılmış
-- ► iri yapılı
+- iri yapılı
 ozellikler:
 - - sıfat
 - - sıfat

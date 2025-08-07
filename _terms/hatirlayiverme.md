@@ -5,7 +5,7 @@ slug: hatirlayiverme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anımsayıverme
+- anımsayıverme
 ozellikler:
 - - isim
 ornekler:

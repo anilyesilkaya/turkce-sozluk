@@ -5,8 +5,8 @@ slug: curetkar
 letter: C
 lisan: Arapça curʾet + Farsça -kār
 anlamlar:
-- ► cüretli
-- ► cesaretli
+- cüretli
+- cesaretli
 ozellikler:
 - - sıfat
 - - sıfat

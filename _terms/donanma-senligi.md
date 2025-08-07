@@ -5,7 +5,7 @@ slug: donanma-senligi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► donanma gecesi
+- donanma gecesi
 ozellikler:
 - - isim
 ornekler:

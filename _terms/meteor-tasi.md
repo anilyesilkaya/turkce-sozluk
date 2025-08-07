@@ -5,7 +5,7 @@ slug: meteor-tasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gök taşı
+- gök taşı
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: yanitsizlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevapsızlık
+- cevapsızlık
 ozellikler:
 - - isim
 ornekler:

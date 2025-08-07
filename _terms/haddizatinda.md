@@ -5,7 +5,7 @@ slug: haddizatinda
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► aslında
+- aslında
 ozellikler:
 - - zarf
 ornekler:

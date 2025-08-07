@@ -6,7 +6,7 @@ letter: Z
 lisan: Farsça zirnīḫ
 anlamlar:
 - Herhangi bir şeyin en küçük, önemsiz ve işe yaramaz parçası
-- ► arsenik
+- arsenik
 ozellikler:
 - - isim
 - - isim

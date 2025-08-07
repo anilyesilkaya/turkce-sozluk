@@ -5,7 +5,7 @@ slug: maksat
 letter: M
 lisan: Arapça maḳṣad
 anlamlar:
-- ► amaç
+- amaç
 ozellikler:
 - - isim
 ornekler:

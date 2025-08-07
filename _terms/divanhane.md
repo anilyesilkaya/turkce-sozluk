@@ -5,7 +5,7 @@ slug: divanhane
 letter: D
 lisan: Arapça dīvān + Farsça ḫāne
 anlamlar:
-- ► Kubbealtı
+- Kubbealtı
 ozellikler:
 - - isim
   - eskimiş

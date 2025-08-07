@@ -6,7 +6,7 @@ letter: R
 lisan: Türkçe
 anlamlar:
 - Ruhani olma durumu
-- ► manevilik
+- manevilik
 ozellikler:
 - - isim
 - - isim

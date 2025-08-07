@@ -5,7 +5,7 @@ slug: veca
 letter: V
 lisan: Arapça vecaʿ
 anlamlar:
-- ► ağrı
+- ağrı
 ozellikler:
 - - isim
   - eskimiş

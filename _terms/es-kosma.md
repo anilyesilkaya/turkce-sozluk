@@ -5,7 +5,7 @@ slug: es-kosma
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► şirk
+- şirk
 ozellikler:
 - - isim
   - din bilimi

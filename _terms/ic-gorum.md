@@ -5,7 +5,7 @@ slug: ic-gorum
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► endoskopi
+- endoskopi
 ozellikler:
 - - isim
   - tıp

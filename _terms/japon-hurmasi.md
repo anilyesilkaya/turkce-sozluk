@@ -5,7 +5,7 @@ slug: japon-hurmasi
 letter: J
 lisan: Türkçe
 anlamlar:
-- ► Trabzon hurması
+- Trabzon hurması
 ozellikler:
 - - isim
   - bitki bilimi

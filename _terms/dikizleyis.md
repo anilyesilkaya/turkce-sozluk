@@ -5,7 +5,7 @@ slug: dikizleyis
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gözetleyiş
+- gözetleyiş
 ozellikler:
 - - isim
 ornekler:

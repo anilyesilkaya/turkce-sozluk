@@ -5,7 +5,7 @@ slug: itham
 letter: I
 lisan: Arapça ithām
 anlamlar:
-- ► suçlama
+- suçlama
 ozellikler:
 - - isim
 ornekler:

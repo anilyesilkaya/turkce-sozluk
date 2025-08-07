@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kırk tanesi bir arada olan veya içinde aynı şeyden kırk tane bulunan
 - Kırk yaş dolaylarında olan veya görünen (kimse)
-- ► kırk para
+- kırk para
 - Doğacak çocuk için hazırlanan bez veya giysi
 ozellikler:
 - - sıfat

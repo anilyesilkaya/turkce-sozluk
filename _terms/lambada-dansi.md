@@ -5,7 +5,7 @@ slug: lambada-dansi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lambada
+- lambada
 ozellikler:
 - - isim
 ornekler:

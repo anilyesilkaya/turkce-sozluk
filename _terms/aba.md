@@ -5,8 +5,8 @@ slug: aba
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► abla
-- ► anne
+- abla
+- anne
 ozellikler:
 - - isim
   - ağızlardan

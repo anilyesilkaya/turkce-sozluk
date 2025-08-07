@@ -5,7 +5,7 @@ slug: embriyolog
 letter: E
 lisan: Fransızca embryologue
 anlamlar:
-- ► embriyoloji uzmanı
+- embriyoloji uzmanı
 ozellikler:
 - - isim
 ornekler:

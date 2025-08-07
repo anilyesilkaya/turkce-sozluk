@@ -5,7 +5,7 @@ slug: dogal-gaz-sayaci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gaz sayacı
+- gaz sayacı
 ozellikler:
 - - isim
 ornekler:

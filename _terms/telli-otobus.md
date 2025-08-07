@@ -5,7 +5,7 @@ slug: telli-otobus
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► troleybüs
+- troleybüs
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zamme
 letter: Z
 lisan: Arapça żamme
 anlamlar:
-- ► ötre
+- ötre
 ozellikler:
 - - isim
   - eskimiş

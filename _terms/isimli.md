@@ -5,7 +5,7 @@ slug: isimli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adlı
+- adlı
 ozellikler:
 - - sıfat
 ornekler:

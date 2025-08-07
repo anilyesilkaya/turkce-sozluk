@@ -5,7 +5,7 @@ slug: gasyolmak
 letter: G
 lisan: Arapça ġaşy + Türkçe olmak
 anlamlar:
-- ► esrimek
+- esrimek
 ozellikler:
 - - nesnesiz
   - eskimiş

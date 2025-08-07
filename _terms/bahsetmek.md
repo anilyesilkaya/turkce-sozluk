@@ -5,7 +5,7 @@ slug: bahsetmek
 letter: B
 lisan: Farsça baḫş + Türkçe etmek
 anlamlar:
-- ► bağışlamak
+- bağışlamak
 ozellikler:
 - - -e
   - -i

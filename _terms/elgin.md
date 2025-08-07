@@ -5,7 +5,7 @@ slug: elgin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► garip
+- garip
 ozellikler:
 - - sıfat
   - eskimiş

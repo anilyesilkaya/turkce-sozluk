@@ -5,7 +5,7 @@ slug: umitli
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutlu
+- umutlu
 - Verim beklenen
 ozellikler:
 - - sıfat

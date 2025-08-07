@@ -5,7 +5,7 @@ slug: ayrikli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istisnai
+- istisnai
 ozellikler:
 - - sıfat
 ornekler:

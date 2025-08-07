@@ -5,7 +5,7 @@ slug: unsiyet
 letter: Ü
 lisan: Arapça unsiyyet
 anlamlar:
-- ► yakınlık
+- yakınlık
 ozellikler:
 - - isim
 ornekler:

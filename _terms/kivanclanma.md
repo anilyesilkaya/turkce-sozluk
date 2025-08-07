@@ -5,7 +5,7 @@ slug: kivanclanma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► övünme
+- övünme
 ozellikler:
 - - isim
 ornekler:

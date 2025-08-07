@@ -5,7 +5,7 @@ slug: ihtisam
 letter: I
 lisan: Arapça iḥtişām
 anlamlar:
-- ► görkem
+- görkem
 ozellikler:
 - - isim
 ornekler:

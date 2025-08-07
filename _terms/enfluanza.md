@@ -5,7 +5,7 @@ slug: enfluanza
 letter: E
 lisan: Fransızca influenza
 anlamlar:
-- ► grip
+- grip
 ozellikler:
 - - isim
   - tıp

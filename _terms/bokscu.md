@@ -5,7 +5,7 @@ slug: bokscu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boksör
+- boksör
 ozellikler:
 - - isim
 ornekler:

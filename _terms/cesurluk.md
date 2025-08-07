@@ -5,7 +5,7 @@ slug: cesurluk
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretlilik
+- cesaretlilik
 ozellikler:
 - - isim
 ornekler:

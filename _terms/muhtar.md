@@ -7,7 +7,7 @@ lisan: Arapça muḫtār
 anlamlar:
 - Köy ve mahallenin yasalarla belirtilmiş işlerini yürütmek için o köy veya mahallede oturanların seçtikleri kimse; köy muhtarı, mahalle muhtarı
 - Köy ihtiyar heyetinin başı; kocabaşı
-- ► özerk
+- özerk
 - Her işe burnunu sokan
 ozellikler:
 - - isim

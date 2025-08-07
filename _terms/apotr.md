@@ -5,7 +5,7 @@ slug: apotr
 letter: A
 lisan: Fransızca apôtre
 anlamlar:
-- ► havari
+- havari
 ozellikler:
 - - isim
 ornekler:

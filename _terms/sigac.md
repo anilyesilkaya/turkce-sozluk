@@ -5,7 +5,7 @@ slug: sigac
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kondansatör
+- kondansatör
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: grosmarket
 letter: G
 lisan: Almanca Grossmarket
 anlamlar:
-- ► büyük mağaza
+- büyük mağaza
 ozellikler:
 - - isim
 ornekler:

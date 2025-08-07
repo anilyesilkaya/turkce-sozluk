@@ -5,7 +5,7 @@ slug: ugruluk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► hırsızlık
+- hırsızlık
 ozellikler:
 - - isim
 ornekler:

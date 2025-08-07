@@ -5,7 +5,7 @@ slug: titizlesme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► titizlenme
+- titizlenme
 ozellikler:
 - - isim
 ornekler:

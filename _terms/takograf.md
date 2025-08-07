@@ -5,7 +5,7 @@ slug: takograf
 letter: T
 lisan: Almanca Tachograph
 anlamlar:
-- ► hızölçer
+- hızölçer
 ozellikler:
 - - isim
 ornekler:

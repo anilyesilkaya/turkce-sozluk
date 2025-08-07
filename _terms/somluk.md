@@ -5,7 +5,7 @@ slug: somluk
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► uğursuzluk
+- uğursuzluk
 ozellikler:
 - - isim
 ornekler:

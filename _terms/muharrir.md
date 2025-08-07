@@ -5,7 +5,7 @@ slug: muharrir
 letter: M
 lisan: Arapça muḥarrir
 anlamlar:
-- ► yazar
+- yazar
 ozellikler:
 - - isim
   - eskimiş

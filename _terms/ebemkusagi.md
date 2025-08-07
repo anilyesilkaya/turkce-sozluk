@@ -5,7 +5,7 @@ slug: ebemkusagi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - meteoroloji

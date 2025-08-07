@@ -8,7 +8,7 @@ anlamlar:
 - Dörtten sonra gelen sayının adı; penç
 - Bu sayıyı gösteren 5 ve V rakamlarının adı
 - Dörtten bir artık
-- ► ilkokul
+- ilkokul
 ozellikler:
 - - isim
 - - isim

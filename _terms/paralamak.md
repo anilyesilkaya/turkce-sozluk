@@ -5,7 +5,7 @@ slug: paralamak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parçalamak
+- parçalamak
 - Yıpratıp eskitmek
 - Sözle yaralanmasını, incinmesini sağlamak
 - Bir işte çok çaba ve özen göstererek kendini çok yormak, yıpratmak

@@ -5,7 +5,7 @@ slug: tezene
 letter: T
 lisan: Farsça tāziyāne
 anlamlar:
-- ► mızrap
+- mızrap
 ozellikler:
 - - isim
   - müzik

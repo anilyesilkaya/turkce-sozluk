@@ -11,7 +11,7 @@ anlamlar:
 - Kapatılmış olan
 - Bir kuruluşun yetkisi altında bulunan
 - Birinin emri altında bulunan, onun hâkimiyeti altında olan; tabi (I)
-- ► köyaltı
+- köyaltı
 - Bir kimseye, bir düşünceye, bir hatıraya saygı, aşk vb. duygularla bağlanan
 - Halk inanışına göre büyü etkisiyle cinsel güçten yoksun edilmiş (erkek)
 ozellikler:

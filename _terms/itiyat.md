@@ -5,7 +5,7 @@ slug: itiyat
 letter: I
 lisan: Arapça iʿtiyād
 anlamlar:
-- ► alışkanlık
+- alışkanlık
 ozellikler:
 - - isim
   - eskimiş

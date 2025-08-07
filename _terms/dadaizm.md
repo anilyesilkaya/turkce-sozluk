@@ -5,7 +5,7 @@ slug: dadaizm
 letter: D
 lisan: Fransızca dadaïsme
 anlamlar:
-- ► Dadacılık
+- Dadacılık
 ozellikler:
 - - isim
 ornekler:

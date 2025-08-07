@@ -5,7 +5,7 @@ slug: reis-efendi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► reisülküttap
+- reisülküttap
 ozellikler:
 - - isim
   - tarih

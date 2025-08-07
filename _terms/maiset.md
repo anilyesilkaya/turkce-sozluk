@@ -5,7 +5,7 @@ slug: maiset
 letter: M
 lisan: Arapça maʿīşet
 anlamlar:
-- ► geçim
+- geçim
 ozellikler:
 - - isim
   - eskimiş

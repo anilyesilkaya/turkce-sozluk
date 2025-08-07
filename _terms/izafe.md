@@ -7,7 +7,7 @@ lisan: Arapça iżāfe
 anlamlar:
 - Bir şeyi başka bir şeye veya bir nedene bağlama
 - Bir şeyin birine ait olduğunu gösterme
-- ► ekleme
+- ekleme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: fehmetme
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► anlama
+- anlama
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir tür küçük ve tatlı yaş incir
-- ► bardak eriği
+- bardak eriği
 ozellikler:
 - - isim
   - bitki bilimi

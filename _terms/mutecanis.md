@@ -5,7 +5,7 @@ slug: mutecanis
 letter: M
 lisan: Arapça mutecānis
 anlamlar:
-- ► bağdaşık
+- bağdaşık
 ozellikler:
 - - sıfat
   - eskimiş

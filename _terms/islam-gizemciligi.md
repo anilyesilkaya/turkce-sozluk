@@ -5,7 +5,7 @@ slug: islam-gizemciligi
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► tasavvuf
+- tasavvuf
 ozellikler:
 - - isim
   - din bilimi

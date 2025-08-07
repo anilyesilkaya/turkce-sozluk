@@ -5,7 +5,7 @@ slug: seri-imalat
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seri üretim
+- seri üretim
 ozellikler:
 - - isim
 ornekler:

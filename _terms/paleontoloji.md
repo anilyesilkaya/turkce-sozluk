@@ -5,7 +5,7 @@ slug: paleontoloji
 letter: P
 lisan: Fransızca paléontologie
 anlamlar:
-- ► taşıl bilimi
+- taşıl bilimi
 ozellikler:
 - - isim
 ornekler:

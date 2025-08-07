@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Alışmasına yol açmak
 - Uyar duruma getirmek
-- ► hazırlamak
+- hazırlamak
 ozellikler:
 - - -i
 - - -i

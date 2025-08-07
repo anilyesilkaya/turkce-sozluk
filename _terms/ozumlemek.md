@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Canlı varlıklar, dışarıdan aldıkları besinleri, değişikliğe uğratarak yeni bir birleşimle, organizmanın gereksinim duyduğu maddeler durumuna getirmek; temsil etmek
-- ► özümsemek
+- özümsemek
 ozellikler:
 - - -i
   - biyoloji

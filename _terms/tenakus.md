@@ -5,7 +5,7 @@ slug: tenakus
 letter: T
 lisan: Arapça tenāḳuṣ
 anlamlar:
-- ► eksilme
+- eksilme
 ozellikler:
 - - isim
   - eskimiş

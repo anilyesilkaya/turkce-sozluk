@@ -8,7 +8,7 @@ anlamlar:
 - Genellikle kumaş üzerine renkli iplikler veya sırma ve sim kullanarak elle, makineyle yapılan işleme; ince iş
 - Özellikle duvar ve tavanları süslemek için yapılan resim
 - Beste ve semainin, dört yerine iki haneli olanı
-- ► hile
+- hile
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: basortu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başörtüsü
+- başörtüsü
 ozellikler:
 - - isim
 ornekler:

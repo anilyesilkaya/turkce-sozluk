@@ -5,7 +5,7 @@ slug: devamcilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► müdavimlik
+- müdavimlik
 ozellikler:
 - - isim
 ornekler:

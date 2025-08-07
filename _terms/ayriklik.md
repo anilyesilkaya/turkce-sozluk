@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - İstisnai olma durumu, ayrı tutma, ayrı tutulma
-- ► kural dışılık
+- kural dışılık
 - Elips, daire, parabol, hiperbol vb. bir konik üzerinde hareket eden cismi, odağa veya merkeze birleştiren doğrunun büyük eksen ile yaptığı açı
 - Kaplamları birbirinden ayrı olmakla birlikte aynı yakın cinsin kaplamına giren kavramlar arasındaki bağlantı
 - Genel kuraldan ayrılma; derogasyon

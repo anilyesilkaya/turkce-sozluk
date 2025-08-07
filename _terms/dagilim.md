@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dağılarak birbirinden ayrılma
-- ► paylaşım
+- paylaşım
 - Bir toplumda, bir kümede incelenen bir veya birçok özelliğin zamana, yere, seçilen herhangi bir değişkene göre hesaplanan sayısal ve oransal dağılışı
 - Mal üretiminde, katkıda bulunanlara, üretilen mallardan herhangi bir ölçüde verilmesi, dağıtılması
 - Birleşiminde kütle içinde tamamen eşit olarak dağılmış gerçek veya koloidal eriyik biçiminde başka bir madde bulunan katı, sıvı veya gaz durumundaki bütün cisimler

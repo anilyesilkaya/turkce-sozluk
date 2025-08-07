@@ -5,7 +5,7 @@ slug: eslek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Ekvator
+- Ekvator
 ozellikler:
 - - isim
   - coğrafya

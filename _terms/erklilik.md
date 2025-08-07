@@ -5,8 +5,8 @@ slug: erklilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► muktedirlik
-- ► nüfuzluluk
+- muktedirlik
+- nüfuzluluk
 ozellikler:
 - - isim
 - - isim

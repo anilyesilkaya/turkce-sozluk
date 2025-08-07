@@ -5,7 +5,7 @@ slug: muphemiyet
 letter: M
 lisan: Arapça mubhemiyyet
 anlamlar:
-- ► belirsizlik
+- belirsizlik
 ozellikler:
 - - isim
   - eskimiş

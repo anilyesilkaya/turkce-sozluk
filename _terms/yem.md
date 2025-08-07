@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Hayvanlar için saklanan kışlık yiyecek; yeygi
 - Kuş ve balık tutmak için tuzağa bırakılan, oltaya takılan yiyecek veya yiyecek görüntüsündeki nesne
-- ► ağızotu
+- ağızotu
 - Birini aldatabilmek için hazırlanmış düzen, kullanılan kimse veya şey
-- ► rüşvet
+- rüşvet
 - Kumarda ütülecek kimseye oyunun başında bilinçli olarak kazandırılan para
 ozellikler:
 - - isim

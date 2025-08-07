@@ -5,7 +5,7 @@ slug: mustemilat
 letter: M
 lisan: Arapça muştemelāt
 anlamlar:
-- ► eklentiler
+- eklentiler
 ozellikler:
 - - isim
 ornekler:

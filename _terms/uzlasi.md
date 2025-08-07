@@ -5,7 +5,7 @@ slug: uzlasi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzlaşma
+- uzlaşma
 ozellikler:
 - - isim
 ornekler:

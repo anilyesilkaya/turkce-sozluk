@@ -5,7 +5,7 @@ slug: rutubetli
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► nemli
+- nemli
 ozellikler:
 - - sıfat
 ornekler:

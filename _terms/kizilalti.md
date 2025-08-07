@@ -5,7 +5,7 @@ slug: kizilalti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızılötesi
+- kızılötesi
 ozellikler:
 - - isim
   - fizik

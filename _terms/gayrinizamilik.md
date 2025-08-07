@@ -5,7 +5,7 @@ slug: gayrinizamilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► düzensizlik
+- düzensizlik
 ozellikler:
 - - isim
 ornekler:

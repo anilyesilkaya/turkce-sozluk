@@ -5,7 +5,7 @@ slug: baba-tatlisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şambaba
+- şambaba
 ozellikler:
 - - isim
 ornekler:

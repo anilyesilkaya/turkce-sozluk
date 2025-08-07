@@ -5,7 +5,7 @@ slug: alpinizm
 letter: A
 lisan: Fransızca alpinisme
 anlamlar:
-- ► dağcılık
+- dağcılık
 ozellikler:
 - - isim
   - spor

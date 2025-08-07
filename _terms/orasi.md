@@ -5,7 +5,7 @@ slug: orasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ora
+- ora
 - O yönü
 ozellikler:
 - - isim

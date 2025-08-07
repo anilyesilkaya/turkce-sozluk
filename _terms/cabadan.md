@@ -5,8 +5,8 @@ slug: cabadan
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► bedava
-- ► fazladan
+- bedava
+- fazladan
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: sozunubilmez
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► patavatsız
+- patavatsız
 ozellikler:
 - - sıfat
   - mecaz

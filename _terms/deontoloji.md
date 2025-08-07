@@ -5,7 +5,7 @@ slug: deontoloji
 letter: D
 lisan: Fransızca déontologie
 anlamlar:
-- ► ödev bilimi
+- ödev bilimi
 ozellikler:
 - - isim
 ornekler:

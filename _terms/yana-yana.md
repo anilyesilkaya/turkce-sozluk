@@ -5,7 +5,7 @@ slug: yana-yana
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tekrar tekrar
+- tekrar tekrar
 - Yanarak
 ozellikler:
 - - zarf

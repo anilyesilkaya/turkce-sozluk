@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yuvarlak olan
 - Eni boyuna eşit olan (kumaş)
-- ► yemeni
+- yemeni
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: telin
 letter: T
 lisan: Arapça telʿīn
 anlamlar:
-- ► lanetleme
+- lanetleme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: alenen
 letter: A
 lisan: Arapça ʿalenen
 anlamlar:
-- ► açıkça
+- açıkça
 ozellikler:
 - - zarf
 ornekler:

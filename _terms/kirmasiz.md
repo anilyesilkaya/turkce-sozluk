@@ -5,7 +5,7 @@ slug: kirmasiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► pilesiz
+- pilesiz
 ozellikler:
 - - sıfat
 ornekler:

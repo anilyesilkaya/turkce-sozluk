@@ -5,7 +5,7 @@ slug: surdurumcu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► abone
+- abone
 ozellikler:
 - - isim
 ornekler:

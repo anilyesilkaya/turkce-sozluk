@@ -5,7 +5,7 @@ slug: mudahale
 letter: M
 lisan: Arapça mudāḫale
 anlamlar:
-- ► karışma
+- karışma
 - Bir dava sonucu verilecek olan kararın, dolaylı olarak etkileyeceği üçüncü kişilerin davaya katılmaları
 - Bir hastalığın seyrine el koyma
 ozellikler:

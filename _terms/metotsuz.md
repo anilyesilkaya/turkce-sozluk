@@ -5,7 +5,7 @@ slug: metotsuz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yöntemsiz
+- yöntemsiz
 ozellikler:
 - - sıfat
 ornekler:

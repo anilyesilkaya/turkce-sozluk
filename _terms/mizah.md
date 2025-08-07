@@ -5,7 +5,7 @@ slug: mizah
 letter: M
 lisan: Arapça mizāḥ
 anlamlar:
-- ► gülmece
+- gülmece
 ozellikler:
 - - isim
   - edebiyat

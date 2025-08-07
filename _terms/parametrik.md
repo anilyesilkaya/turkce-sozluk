@@ -5,7 +5,7 @@ slug: parametrik
 letter: P
 lisan: Fransızca paramétrique
 anlamlar:
-- ► parametreli
+- parametreli
 ozellikler:
 - - sıfat
 ornekler:

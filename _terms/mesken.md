@@ -5,7 +5,7 @@ slug: mesken
 letter: M
 lisan: Arapça mesken
 anlamlar:
-- ► konut (I)
+- konut (I)
 ozellikler:
 - - isim
 ornekler:

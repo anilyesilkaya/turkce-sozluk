@@ -9,8 +9,8 @@ anlamlar:
 - Bir nesneyi sıkıca duracak biçimde bir yere koymak, yerleştirmek veya orada tutmak
 - Gevşek veya seyrek olan şeyleri birbirine yaklaştırarak sıkı duruma getirmek; sıkılamak
 - Bir şeyin sıkışmasına, kısılmasına, ezilmesine sebep olmak
-- ► tutuşturmak
-- ► kıstırmak
+- tutuşturmak
+- kıstırmak
 - Üstüne düşüp zorlamak
 - Elle sarkıntılık etmek
 ozellikler:

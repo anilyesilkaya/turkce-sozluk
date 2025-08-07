@@ -5,7 +5,7 @@ slug: odsuz
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ateşsiz
+- ateşsiz
 ozellikler:
 - - sıfat
 ornekler:

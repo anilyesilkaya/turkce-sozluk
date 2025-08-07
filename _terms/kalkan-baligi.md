@@ -5,7 +5,7 @@ slug: kalkan-baligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalkan (II)
+- kalkan (II)
 ozellikler:
 - - isim
   - hayvan bilimi

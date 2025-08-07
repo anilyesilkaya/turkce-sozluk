@@ -5,7 +5,7 @@ slug: musandira
 letter: M
 lisan: Rumca
 anlamlar:
-- ► yüklük
+- yüklük
 - Mutfakta yüksek ve geniş raf
 ozellikler:
 - - isim

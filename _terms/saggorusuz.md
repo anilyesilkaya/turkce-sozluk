@@ -5,7 +5,7 @@ slug: saggorusuz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► basiretsiz
+- basiretsiz
 ozellikler:
 - - sıfat
 ornekler:

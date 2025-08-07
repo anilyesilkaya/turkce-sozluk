@@ -5,7 +5,7 @@ slug: mum-direk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dimdik
+- dimdik
 - Çok uslu, yaramazlık yapmayan (çocuk)
 ozellikler:
 - - sıfat

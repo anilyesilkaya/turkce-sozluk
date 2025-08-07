@@ -5,7 +5,7 @@ slug: ihtiram-kitasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tören birliği
+- tören birliği
 ozellikler:
 - - isim
   - askerlik

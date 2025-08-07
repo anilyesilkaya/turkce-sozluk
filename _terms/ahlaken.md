@@ -5,7 +5,7 @@ slug: ahlaken
 letter: A
 lisan: Arapça aḫlāḳen
 anlamlar:
-- ► ahlakça
+- ahlakça
 ozellikler:
 - - zarf
 ornekler:

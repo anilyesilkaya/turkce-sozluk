@@ -5,7 +5,7 @@ slug: muzikolog
 letter: M
 lisan: Fransızca musicologue
 anlamlar:
-- ► müzik bilimci
+- müzik bilimci
 ozellikler:
 - - isim
 ornekler:

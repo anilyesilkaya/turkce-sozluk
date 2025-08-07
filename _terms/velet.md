@@ -5,7 +5,7 @@ slug: velet
 letter: V
 lisan: Arapça veled
 anlamlar:
-- ► çocuk
+- çocuk
 - Çocukları paylarken kullanılan bir söz
 ozellikler:
 - - isim

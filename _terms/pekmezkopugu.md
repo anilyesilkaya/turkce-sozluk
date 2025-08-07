@@ -5,7 +5,7 @@ slug: pekmezkopugu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► açık kahverengi
+- açık kahverengi
 - Bu renkte olan
 ozellikler:
 - - isim

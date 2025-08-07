@@ -5,7 +5,7 @@ slug: muhatarali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tehlikeli
+- tehlikeli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ihtiyarlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yaşlılık
+- yaşlılık
 - Her bakımdan güçsüzlük, yetersizlik, zayıflık
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: kavaracilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gürültücülük
+- gürültücülük
 ozellikler:
 - - isim
 ornekler:

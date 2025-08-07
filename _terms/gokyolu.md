@@ -5,7 +5,7 @@ slug: gokyolu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Samanyolu
+- Samanyolu
 ozellikler:
 - - isim
   - gök bilimi

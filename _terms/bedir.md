@@ -5,7 +5,7 @@ slug: bedir
 letter: B
 lisan: Arapça bedr
 anlamlar:
-- ► dolunay
+- dolunay
 ozellikler:
 - - isim
   - eskimiş

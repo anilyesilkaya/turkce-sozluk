@@ -5,7 +5,7 @@ slug: catal-agiz
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► delta
+- delta
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: odunumsu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► odunsu
+- odunsu
 ozellikler:
 - - sıfat
 ornekler:

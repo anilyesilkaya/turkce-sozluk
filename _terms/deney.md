@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Bilimsel bir gerçeği göstermek, bir yasayı doğrulamak, bir varsayımı kanıtlamak amacıyla yapılan işlem; tecrübe
-- ► deneyim
+- deneyim
 ozellikler:
 - - isim
 - - isim

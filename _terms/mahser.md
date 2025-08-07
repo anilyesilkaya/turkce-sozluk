@@ -7,7 +7,7 @@ lisan: Arapça maḥşer
 anlamlar:
 - Ahirette bütün insanların tekrar dirilip toplanacakları yer
 - Büyük kalabalık
-- ► kargaşa
+- kargaşa
 ozellikler:
 - - isim
   - din bilimi

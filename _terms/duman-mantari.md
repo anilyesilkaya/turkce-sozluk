@@ -5,7 +5,7 @@ slug: duman-mantari
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kurt mantarı
+- kurt mantarı
 ozellikler:
 - - isim
   - bitki bilimi

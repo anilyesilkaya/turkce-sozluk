@@ -18,7 +18,7 @@ anlamlar:
 - İzlemek, takip etmek
 - Bir yerden alınıp bir yere ulaştırılmak
 - Katılmak, eklenmek
-- ► türemek
+- türemek
 - Daha önce üzerinde durulmuş olan bir konuya yeniden dönmek
 - Sonuç çıkmak
 - Dayanmak, tahammül etmek
@@ -26,7 +26,7 @@ anlamlar:
 - Bir şeye sonradan inanmak, doğruluğuna hak vermek, eğilim göstermek, kabul etmek
 - Etkisini herhangi bir biçimde göstermek
 - Kazanılmak, sağlanılmak
-- ► uymak
+- uymak
 - Olmak, -e uğramak
 - Bir şey akmak
 - Düşmek, rast gelmek

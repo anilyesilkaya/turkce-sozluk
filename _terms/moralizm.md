@@ -5,7 +5,7 @@ slug: moralizm
 letter: M
 lisan: Fransızca moralisme
 anlamlar:
-- ► ahlakçılık
+- ahlakçılık
 ozellikler:
 - - isim
   - felsefe

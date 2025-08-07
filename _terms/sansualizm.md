@@ -5,7 +5,7 @@ slug: sansualizm
 letter: S
 lisan: Fransızca sensualisme
 anlamlar:
-- ► duyumculuk
+- duyumculuk
 ozellikler:
 - - isim
   - ruh bilimi

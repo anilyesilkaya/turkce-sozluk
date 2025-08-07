@@ -5,7 +5,7 @@ slug: geriz
 letter: G
 lisan: Farsça kārīz
 anlamlar:
-- ► lağım
+- lağım
 ozellikler:
 - - isim
 ornekler:

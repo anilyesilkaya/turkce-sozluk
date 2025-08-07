@@ -5,7 +5,7 @@ slug: tebligat
 letter: T
 lisan: Arapça teblīġāt
 anlamlar:
-- ► bildirim
+- bildirim
 ozellikler:
 - - isim
 ornekler:

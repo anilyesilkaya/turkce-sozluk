@@ -5,10 +5,10 @@ slug: ahenk
 letter: A
 lisan: Farsça āheng
 anlamlar:
-- ► uyum
+- uyum
 - Çalgılı eğlence
 - Edebî metinlerde sözcüklerin sıralanışından veya birbirleriyle ilişkisinden doğan ve kulağa hoş gelen ses düzeni
-- ► ezgi
+- ezgi
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: bir-solukta
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir nefeste
+- bir nefeste
 ozellikler:
 - - zarf
 ornekler:

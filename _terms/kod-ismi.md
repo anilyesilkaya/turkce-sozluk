@@ -5,7 +5,7 @@ slug: kod-ismi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kod adı
+- kod adı
 ozellikler:
 - - isim
 ornekler:

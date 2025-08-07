@@ -5,7 +5,7 @@ slug: misir-turnasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ibis
+- ibis
 ozellikler:
 - - isim
   - hayvan bilimi

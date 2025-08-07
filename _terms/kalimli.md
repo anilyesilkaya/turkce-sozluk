@@ -5,7 +5,7 @@ slug: kalimli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ölümsüz
+- ölümsüz
 ozellikler:
 - - sıfat
 ornekler:

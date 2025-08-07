@@ -5,7 +5,7 @@ slug: gardiyan
 letter: G
 lisan: Fransızca gardien
 anlamlar:
-- ► infaz ve koruma memuru
+- infaz ve koruma memuru
 ozellikler:
 - - isim
 ornekler:

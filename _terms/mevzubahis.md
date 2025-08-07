@@ -5,7 +5,7 @@ slug: mevzubahis
 letter: M
 lisan: Arapça mevzūʿ + baḥs̱
 anlamlar:
-- ► söz konusu
+- söz konusu
 - Adından söz edilen
 ozellikler:
 - - sıfat

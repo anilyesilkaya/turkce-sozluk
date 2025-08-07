@@ -5,7 +5,7 @@ slug: yildiri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► terör
+- terör
 ozellikler:
 - - isim
 ornekler:

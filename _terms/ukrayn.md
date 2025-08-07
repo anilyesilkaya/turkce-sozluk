@@ -5,7 +5,7 @@ slug: ukrayn
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Ukraynalı
+- Ukraynalı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: musteki
 letter: M
 lisan: Arapça muştekī
 anlamlar:
-- ► şikâyetçi
+- şikâyetçi
 ozellikler:
 - - sıfat
   - eskimiş

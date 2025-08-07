@@ -5,7 +5,7 @@ slug: tasar-cizimcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tasarımcılık
+- tasarımcılık
 ozellikler:
 - - isim
 ornekler:

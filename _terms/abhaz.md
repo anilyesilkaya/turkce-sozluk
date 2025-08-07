@@ -5,7 +5,7 @@ slug: abhaz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Abaza
+- Abaza
 ozellikler:
 - - isim
 ornekler:

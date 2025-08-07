@@ -5,7 +5,7 @@ slug: tasalanmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılanmak
+- kaygılanmak
 ozellikler:
 - - nesnesiz
 ornekler:

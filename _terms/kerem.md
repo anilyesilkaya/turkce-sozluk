@@ -5,9 +5,9 @@ slug: kerem
 letter: K
 lisan: Arapça kerem
 anlamlar:
-- ► soyluluk
-- ► iyilik
-- ► cömertlik
+- soyluluk
+- iyilik
+- cömertlik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: hoygoygoyculuk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► goygoyculuk
+- goygoyculuk
 ozellikler:
 - - isim
   - eskimiş

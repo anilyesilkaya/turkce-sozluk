@@ -6,8 +6,8 @@ letter: T
 lisan: Arapça teşrīḥ
 anlamlar:
 - Bir sorunu veya konuyu ele alıp en ince noktalarına kadar gözden geçirerek anlatma; açımlama
-- ► anatomi
-- ► iskelet
+- anatomi
+- iskelet
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: ziyansiz
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zararsız
+- zararsız
 - Zarar görmeden
 ozellikler:
 - - sıfat

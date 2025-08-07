@@ -5,7 +5,7 @@ slug: becellesmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► cedelleşmek
+- cedelleşmek
 ozellikler:
 - - nesnesiz
   - ağızlardan

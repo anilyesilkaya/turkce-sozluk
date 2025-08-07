@@ -5,7 +5,7 @@ slug: tuz-ekmek-dusmani
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► iyilikbilmez
+- iyilikbilmez
 ozellikler:
 - - sıfat
   - mecaz

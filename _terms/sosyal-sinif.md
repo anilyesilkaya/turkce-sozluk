@@ -5,7 +5,7 @@ slug: sosyal-sinif
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sosyal tabaka
+- sosyal tabaka
 ozellikler:
 - - isim
   - toplum bilimi

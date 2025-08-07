@@ -5,7 +5,7 @@ slug: pasa-kapisi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► hükûmet konağı
+- hükûmet konağı
 ozellikler:
 - - isim
   - eskimiş

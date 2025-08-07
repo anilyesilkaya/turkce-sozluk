@@ -5,7 +5,7 @@ slug: parlama-noktasi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► alevlenme noktası
+- alevlenme noktası
 ozellikler:
 - - isim
   - kimya

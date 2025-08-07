@@ -5,7 +5,7 @@ slug: jeolojik
 letter: J
 lisan: Fransızca géologique
 anlamlar:
-- ► yer bilimsel
+- yer bilimsel
 ozellikler:
 - - sıfat
 ornekler:

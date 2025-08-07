@@ -5,7 +5,7 @@ slug: otarmak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► otlatmak
+- otlatmak
 ozellikler:
 - - -i
   - ağızlardan

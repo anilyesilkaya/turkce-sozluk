@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuz olma durumu
-- ► parasızlık
+- parasızlık
 ozellikler:
 - - isim
 - - isim

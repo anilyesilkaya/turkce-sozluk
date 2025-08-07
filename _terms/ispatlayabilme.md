@@ -5,8 +5,8 @@ slug: ispatlayabilme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtlayabilme
-- ► tanıtlayabilme
+- kanıtlayabilme
+- tanıtlayabilme
 ozellikler:
 - - isim
 - - isim

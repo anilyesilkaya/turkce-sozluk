@@ -5,7 +5,7 @@ slug: kurun
 letter: K
 lisan: Arapça ḳurūn
 anlamlar:
-- ► çağ
+- çağ
 ozellikler:
 - - isim
 ornekler:

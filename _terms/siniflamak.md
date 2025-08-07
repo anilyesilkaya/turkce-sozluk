@@ -5,7 +5,7 @@ slug: siniflamak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bölümlemek
+- bölümlemek
 ozellikler:
 - - -i
 ornekler:

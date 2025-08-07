@@ -5,7 +5,7 @@ slug: akcakavak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akkavak
+- akkavak
 ozellikler:
 - - isim
   - bitki bilimi

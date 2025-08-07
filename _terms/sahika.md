@@ -5,7 +5,7 @@ slug: sahika
 letter: Ş
 lisan: Arapça şāhiḳa
 anlamlar:
-- ► doruk
+- doruk
 - En üst derece
 ozellikler:
 - - isim

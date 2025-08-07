@@ -5,7 +5,7 @@ slug: bir-tahtada
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir defada
+- bir defada
 ozellikler:
 - - zarf
   - eskimiş

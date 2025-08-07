@@ -5,7 +5,7 @@ slug: detaysizca
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ayrıntısızca
+- ayrıntısızca
 ozellikler:
 - - zarf
 ornekler:

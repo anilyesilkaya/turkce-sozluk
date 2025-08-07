@@ -5,7 +5,7 @@ slug: muhtesemlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► görkemlilik
+- görkemlilik
 ozellikler:
 - - isim
 ornekler:

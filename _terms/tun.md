@@ -5,7 +5,7 @@ slug: tun
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gece
+- gece
 ozellikler:
 - - isim
   - eskimiş

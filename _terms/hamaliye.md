@@ -5,7 +5,7 @@ slug: hamaliye
 letter: H
 lisan: Arapça ḥammāliyye
 anlamlar:
-- ► hamallık
+- hamallık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: aktivizm
 letter: A
 lisan: Fransızca activisme
 anlamlar:
-- ► etkincilik
+- etkincilik
 ozellikler:
 - - isim
   - felsefe

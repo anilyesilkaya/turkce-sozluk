@@ -5,7 +5,7 @@ slug: gece
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yaka
+- yaka
 ozellikler:
 - - isim
   - ağızlardan

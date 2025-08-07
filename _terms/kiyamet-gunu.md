@@ -5,7 +5,7 @@ slug: kiyamet-gunu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıyamet
+- kıyamet
 ozellikler:
 - - isim
   - din bilimi

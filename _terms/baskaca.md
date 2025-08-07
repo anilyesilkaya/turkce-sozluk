@@ -5,7 +5,7 @@ slug: baskaca
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ayrıca
+- ayrıca
 - Başka türlü, başka biçimde
 ozellikler:
 - - zarf

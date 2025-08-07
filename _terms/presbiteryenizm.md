@@ -5,7 +5,7 @@ slug: presbiteryenizm
 letter: P
 lisan: Fransızca presbytérienisme
 anlamlar:
-- ► presbiteryenlik
+- presbiteryenlik
 ozellikler:
 - - isim
 ornekler:

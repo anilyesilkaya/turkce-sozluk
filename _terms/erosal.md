@@ -5,7 +5,7 @@ slug: erosal
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erotik
+- erotik
 ozellikler:
 - - sıfat
 ornekler:

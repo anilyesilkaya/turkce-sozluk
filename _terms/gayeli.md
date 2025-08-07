@@ -5,7 +5,7 @@ slug: gayeli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► amaçlı
+- amaçlı
 ozellikler:
 - - sıfat
 ornekler:

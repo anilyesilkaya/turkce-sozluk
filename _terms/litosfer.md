@@ -5,7 +5,7 @@ slug: litosfer
 letter: L
 lisan: Fransızca lithosphère
 anlamlar:
-- ► taş yuvarı
+- taş yuvarı
 ozellikler:
 - - isim
   - jeoloji

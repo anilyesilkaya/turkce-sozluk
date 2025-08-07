@@ -5,7 +5,7 @@ slug: ikina-tikina
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ıkına sıkına
+- ıkına sıkına
 ozellikler:
 - - zarf
 ornekler:

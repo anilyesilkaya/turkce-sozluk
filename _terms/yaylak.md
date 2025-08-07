@@ -5,8 +5,8 @@ slug: yaylak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► otlak
-- ► yayla
+- otlak
+- yayla
 ozellikler:
 - - isim
   - coğrafya

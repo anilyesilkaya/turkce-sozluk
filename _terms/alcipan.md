@@ -5,7 +5,7 @@ slug: alcipan
 letter: A
 lisan: (Alçıpan tescilli marka adından)
 anlamlar:
-- ► alçı levha
+- alçı levha
 ozellikler:
 - - isim
   - mimarlık

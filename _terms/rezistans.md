@@ -5,7 +5,7 @@ slug: rezistans
 letter: R
 lisan: Fransızca résistance
 anlamlar:
-- ► direnç
+- direnç
 ozellikler:
 - - isim
   - fizik

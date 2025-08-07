@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anıştırmak işi; ima
-- ► telmih
+- telmih
 ozellikler:
 - - isim
 - - isim

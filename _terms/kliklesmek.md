@@ -5,7 +5,7 @@ slug: kliklesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► hizipleşmek
+- hizipleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

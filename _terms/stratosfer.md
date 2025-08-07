@@ -5,7 +5,7 @@ slug: stratosfer
 letter: S
 lisan: Fransızca stratosphère
 anlamlar:
-- ► kat yuvarı
+- kat yuvarı
 ozellikler:
 - - isim
   - gök bilimi

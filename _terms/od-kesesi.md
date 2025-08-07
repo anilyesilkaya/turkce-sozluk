@@ -5,7 +5,7 @@ slug: od-kesesi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► safra kesesi
+- safra kesesi
 ozellikler:
 - - isim
   - anatomi

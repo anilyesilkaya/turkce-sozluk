@@ -5,7 +5,7 @@ slug: keklemek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kandırmak
+- kandırmak
 ozellikler:
 - - -i
   - argo

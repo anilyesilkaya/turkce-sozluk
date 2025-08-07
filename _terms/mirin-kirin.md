@@ -5,7 +5,7 @@ slug: mirin-kirin
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► nazlanma
+- nazlanma
 ozellikler:
 - - isim
 ornekler:

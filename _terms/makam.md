@@ -7,7 +7,7 @@ lisan: Arapça maḳām
 anlamlar:
 - Devlet kademesinde yüksek ve önemli memuriyet; kat (I), huzur, mansıp, mevki, post
 - Durulan yer, mekân tutulan yer
-- ► makam odası
+- makam odası
 - Bir velinin veya büyük bir zatın defnedildiği veya defnedilmediği hâlde onun adına yapılmış türbe; ziyaret yeri
 - Klasik Türk müziğinde bir müzik parçası veya şarkının işleniş biçimi
 ozellikler:

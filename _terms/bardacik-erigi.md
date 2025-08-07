@@ -5,7 +5,7 @@ slug: bardacik-erigi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bardak eriği
+- bardak eriği
 ozellikler:
 - - isim
   - bitki bilimi

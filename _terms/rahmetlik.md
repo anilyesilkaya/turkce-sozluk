@@ -5,8 +5,8 @@ slug: rahmetlik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► merhume
-- ► merhum
+- merhume
+- merhum
 ozellikler:
 - - isim
 - - isim

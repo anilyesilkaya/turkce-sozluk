@@ -5,7 +5,7 @@ slug: aksilenmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aksileşmek
+- aksileşmek
 ozellikler:
 - - nesnesiz
 ornekler:

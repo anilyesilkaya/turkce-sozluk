@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - İliştirilmiş, eklenmiş, bağlanmış
 - Bir şeyle ilgili; ait
-- ► ek
-- ► ilişki
+- ek
+- ilişki
 ozellikler:
 - - sıfat
 - - sıfat

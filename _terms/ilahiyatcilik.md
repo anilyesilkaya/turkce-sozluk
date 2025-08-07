@@ -5,7 +5,7 @@ slug: ilahiyatcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tanrı bilimcilik
+- tanrı bilimcilik
 ozellikler:
 - - isim
 ornekler:

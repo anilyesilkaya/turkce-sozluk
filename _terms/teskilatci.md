@@ -5,7 +5,7 @@ slug: teskilatci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütçü
+- örgütçü
 ozellikler:
 - - isim
 ornekler:

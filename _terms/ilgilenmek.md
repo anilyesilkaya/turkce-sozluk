@@ -9,8 +9,8 @@ anlamlar:
 - Birine karşı yakınlık duymak
 - Bir şeye karşı merak duymak
 - Görev gereği bir sorumluluğu yerine getirmek
-- ► bakmak
-- ► ağırlamak
+- bakmak
+- ağırlamak
 - Bir konu üzerinde çalışmak, uğraşmak
 - Bir şeyi çekici bulmak
 ozellikler:

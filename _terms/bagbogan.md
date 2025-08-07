@@ -5,7 +5,7 @@ slug: bagbogan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► küsküt otu
+- küsküt otu
 ozellikler:
 - - isim
   - bitki bilimi

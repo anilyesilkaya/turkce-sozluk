@@ -5,7 +5,7 @@ slug: madersahi
 letter: M
 lisan: Farsça māder + şāh + Arapça -ī
 anlamlar:
-- ► anaerkil
+- anaerkil
 ozellikler:
 - - sıfat
   - eskimiş

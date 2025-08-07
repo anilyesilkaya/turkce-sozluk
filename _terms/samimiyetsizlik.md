@@ -5,7 +5,7 @@ slug: samimiyetsizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► içtenliksizlik
+- içtenliksizlik
 ozellikler:
 - - isim
 ornekler:

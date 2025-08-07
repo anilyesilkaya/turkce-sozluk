@@ -5,7 +5,7 @@ slug: el
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yabancı
+- yabancı
 ozellikler:
 - - isim
 ornekler:

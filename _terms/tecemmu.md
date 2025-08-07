@@ -5,7 +5,7 @@ slug: tecemmu
 letter: T
 lisan: Arapça tecemmuʿ
 anlamlar:
-- ► yığınak
+- yığınak
 ozellikler:
 - - isim
   - eskimiş

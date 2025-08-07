@@ -5,7 +5,7 @@ slug: barparalel
 letter: B
 lisan: Fransızca barre parallèle
 anlamlar:
-- ► paralel bar
+- paralel bar
 ozellikler:
 - - isim
   - spor

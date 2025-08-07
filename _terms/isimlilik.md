@@ -5,7 +5,7 @@ slug: isimlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adlılık
+- adlılık
 ozellikler:
 - - isim
 ornekler:

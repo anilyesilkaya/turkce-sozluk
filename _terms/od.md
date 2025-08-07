@@ -5,7 +5,7 @@ slug: od
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ateş
+- ateş
 - Cehennem ateşi
 ozellikler:
 - - isim

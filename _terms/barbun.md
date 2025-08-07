@@ -5,7 +5,7 @@ slug: barbun
 letter: B
 lisan: Rumca
 anlamlar:
-- ► barbunya (I)
+- barbunya (I)
 ozellikler:
 - - isim
   - hayvan bilimi

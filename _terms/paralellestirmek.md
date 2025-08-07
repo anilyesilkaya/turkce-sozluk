@@ -5,7 +5,7 @@ slug: paralellestirmek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► koşutlaştırmak
+- koşutlaştırmak
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: harabi
 letter: H
 lisan: Arapça ḫarābī
 anlamlar:
-- ► haraplık
+- haraplık
 ozellikler:
 - - sıfat
 ornekler:

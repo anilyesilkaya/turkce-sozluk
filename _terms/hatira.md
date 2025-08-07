@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫāṭira
 anlamlar:
 - Bir kimseyi veya olayı anımsatan nesne; andaç, anmalık, bergüzar, yadigâr
-- ► anı
+- anı
 ozellikler:
 - - isim
 - - isim

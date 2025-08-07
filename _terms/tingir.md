@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Metal bir nesne sert bir yüzeye düştüğü zaman çıkan ses
 - Parasız, züğürt
-- ► boş
-- ► para
+- boş
+- para
 ozellikler:
 - - isim
 - - isim

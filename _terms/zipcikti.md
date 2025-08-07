@@ -6,7 +6,7 @@ letter: Z
 lisan: Türkçe
 anlamlar:
 - Görgüsüz, fırsatçı kimse
-- ► türedi
+- türedi
 ozellikler:
 - - isim
   - mecaz

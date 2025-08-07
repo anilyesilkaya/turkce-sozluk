@@ -5,7 +5,7 @@ slug: avanakca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - zarf
 ornekler:

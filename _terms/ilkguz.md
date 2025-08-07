@@ -5,7 +5,7 @@ slug: ilkguz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► eylül
+- eylül
 ozellikler:
 - - isim
 ornekler:

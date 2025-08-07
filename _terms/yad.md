@@ -5,8 +5,8 @@ slug: yad
 letter: Y
 lisan: Farsça yād
 anlamlar:
-- ► anma
-- ► bellek
+- anma
+- bellek
 ozellikler:
 - - isim
 - - isim

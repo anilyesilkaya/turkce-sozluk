@@ -5,7 +5,7 @@ slug: konfeksiyon-magazasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► giyimevi
+- giyimevi
 ozellikler:
 - - isim
 ornekler:

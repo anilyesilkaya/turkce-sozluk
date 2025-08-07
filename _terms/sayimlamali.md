@@ -5,7 +5,7 @@ slug: sayimlamali
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► istatistiksel
+- istatistiksel
 ozellikler:
 - - sıfat
 ornekler:

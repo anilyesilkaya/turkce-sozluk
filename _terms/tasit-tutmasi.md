@@ -5,7 +5,7 @@ slug: tasit-tutmasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hareket hastalığı
+- hareket hastalığı
 ozellikler:
 - - isim
 ornekler:

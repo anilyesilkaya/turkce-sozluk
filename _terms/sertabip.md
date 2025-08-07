@@ -5,7 +5,7 @@ slug: sertabip
 letter: S
 lisan: Farsça ser + Arapça ṭabīb
 anlamlar:
-- ► başhekim
+- başhekim
 ozellikler:
 - - isim
   - eskimiş

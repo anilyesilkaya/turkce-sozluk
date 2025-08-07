@@ -5,7 +5,7 @@ slug: reenkarnasyon
 letter: R
 lisan: Fransızca réincarnation
 anlamlar:
-- ► ruh göçü
+- ruh göçü
 ozellikler:
 - - isim
 ornekler:

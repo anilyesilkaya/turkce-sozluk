@@ -5,7 +5,7 @@ slug: baseser
 letter: B
 lisan: Türkçe baş + Arapça es̱er
 anlamlar:
-- ► şaheser
+- şaheser
 ozellikler:
 - - isim
 ornekler:

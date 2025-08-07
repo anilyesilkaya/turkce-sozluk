@@ -5,7 +5,7 @@ slug: melodik
 letter: M
 lisan: Fransızca mélodique
 anlamlar:
-- ► ezgili
+- ezgili
 ozellikler:
 - - sıfat
 ornekler:

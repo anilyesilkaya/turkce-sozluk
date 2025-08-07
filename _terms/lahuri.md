@@ -5,7 +5,7 @@ slug: lahuri
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lahuraki
+- lahuraki
 ozellikler:
 - - sıfat
 ornekler:

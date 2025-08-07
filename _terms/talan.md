@@ -5,7 +5,7 @@ slug: talan
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yağma (II)
+- yağma (II)
 ozellikler:
 - - isim
 ornekler:

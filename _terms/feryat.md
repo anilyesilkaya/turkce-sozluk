@@ -5,7 +5,7 @@ slug: feryat
 letter: F
 lisan: Farsça feryād
 anlamlar:
-- ► çığlık
+- çığlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tesrii
 letter: T
 lisan: Arapça teşrīʿī
 anlamlar:
-- ► yasamalı
+- yasamalı
 ozellikler:
 - - sıfat
   - eskimiş

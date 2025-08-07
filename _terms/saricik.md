@@ -5,7 +5,7 @@ slug: saricik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarıasma
+- sarıasma
 ozellikler:
 - - isim
   - hayvan bilimi

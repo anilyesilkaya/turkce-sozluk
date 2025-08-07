@@ -5,7 +5,7 @@ slug: cingar
 letter: Ç
 lisan: Rumca
 anlamlar:
-- ► kavga
+- kavga
 ozellikler:
 - - isim
   - argo

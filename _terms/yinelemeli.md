@@ -5,7 +5,7 @@ slug: yinelemeli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tekrarlı
+- tekrarlı
 ozellikler:
 - - sıfat
 ornekler:

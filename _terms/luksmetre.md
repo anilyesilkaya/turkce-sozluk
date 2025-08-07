@@ -5,7 +5,7 @@ slug: luksmetre
 letter: L
 lisan: Fransızca luxmètre
 anlamlar:
-- ► aydınlıkölçer
+- aydınlıkölçer
 ozellikler:
 - - isim
   - fizik

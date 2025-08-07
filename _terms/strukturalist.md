@@ -5,7 +5,7 @@ slug: strukturalist
 letter: S
 lisan: Fransızca structuraliste
 anlamlar:
-- ► yapısalcı
+- yapısalcı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: mukavvi
 letter: M
 lisan: Arapça muḳavvī
 anlamlar:
-- ► güçlendirici
+- güçlendirici
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: fevkalbeser
 letter: F
 lisan: Arapça fevḳ + beşer
 anlamlar:
-- ► insanüstü
+- insanüstü
 - Üstün nitelikli (kimse)
 ozellikler:
 - - sıfat

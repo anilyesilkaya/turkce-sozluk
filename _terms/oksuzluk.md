@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksüz olma durumu
-- ► kimsesizlik
+- kimsesizlik
 ozellikler:
 - - isim
 - - isim

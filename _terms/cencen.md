@@ -5,7 +5,7 @@ slug: cencen
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: simitci-firini
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► simit fırını
+- simit fırını
 ozellikler:
 - - isim
 ornekler:

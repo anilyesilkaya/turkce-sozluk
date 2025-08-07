@@ -6,7 +6,7 @@ letter: V
 lisan: Rumca
 anlamlar:
 - Balıkçı kayıklarının balıkları çevirmek için denize fırdolayı ağ salmaları
-- ► vurgun
+- vurgun
 ozellikler:
 - - isim
   - denizcilik

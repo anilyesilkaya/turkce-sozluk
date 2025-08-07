@@ -5,7 +5,7 @@ slug: aruz-olcusu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aruz vezni
+- aruz vezni
 ozellikler:
 - - isim
   - edebiyat

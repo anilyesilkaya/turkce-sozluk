@@ -5,7 +5,7 @@ slug: palamar-resmi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► palamar parası
+- palamar parası
 ozellikler:
 - - isim
   - denizcilik

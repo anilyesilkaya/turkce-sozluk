@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cemāẕī + evvel
 anlamlar:
 - Ay takviminin beşinci ayı; büyük tövbe ayı
-- ► geçmiş
+- geçmiş
 ozellikler:
 - - isim
   - eskimiş

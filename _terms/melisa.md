@@ -5,7 +5,7 @@ slug: melisa
 letter: M
 lisan: Rumca
 anlamlar:
-- ► oğul otu
+- oğul otu
 ozellikler:
 - - isim
   - bitki bilimi

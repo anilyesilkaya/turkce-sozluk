@@ -5,7 +5,7 @@ slug: komplikasyon
 letter: K
 lisan: Fransızca complication
 anlamlar:
-- ► karmaşıklık
+- karmaşıklık
 - Hastalık sırasında ortaya çıkan ve hastalığın temel özellikleriyle ilişkili olmayan her türlü olumsuz sağlık olayı veya süreci
 - İlaçların doğurabileceği yan etki
 ozellikler:

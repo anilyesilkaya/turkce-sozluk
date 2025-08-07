@@ -5,7 +5,7 @@ slug: denizcakisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► süline
+- süline
 ozellikler:
 - - isim
   - hayvan bilimi

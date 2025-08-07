@@ -5,7 +5,7 @@ slug: cizlam
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► savuşma
+- savuşma
 ozellikler:
 - - isim
   - argo

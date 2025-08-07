@@ -5,7 +5,7 @@ slug: safran-rengi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► safran sarısı
+- safran sarısı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kengel-sakizi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kenger sakızı
+- kenger sakızı
 ozellikler:
 - - isim
 ornekler:

@@ -10,7 +10,7 @@ anlamlar:
 - Bir tür küçük deniz taşıtı
 - Geminin omurga, kaburga ve kaplamadan oluşan temel bölümü
 - Katmanlı kayaçların içeri doğru çukur, alçak bölümü; ineç, havza, kemer karşıtı
-- ► havza
+- havza
 - Ut, tambur vb. çalgılarının sesi yükselten oyuk ve şişkin parçası
 ozellikler:
 - - isim

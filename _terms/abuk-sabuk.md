@@ -5,7 +5,7 @@ slug: abuk-sabuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçma
+- saçma
 - Saçma bir biçimde
 ozellikler:
 - - sıfat

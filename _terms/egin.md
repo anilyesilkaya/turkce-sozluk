@@ -5,8 +5,8 @@ slug: egin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► vücut
-- ► boy pos
+- vücut
+- boy pos
 ozellikler:
 - - isim
   - ağızlardan

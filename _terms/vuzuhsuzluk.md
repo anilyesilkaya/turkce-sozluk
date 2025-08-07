@@ -5,7 +5,7 @@ slug: vuzuhsuzluk
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► belirsizlik
+- belirsizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: adres-rehberi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adres defteri
+- adres defteri
 ozellikler:
 - - isim
 ornekler:

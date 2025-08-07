@@ -7,7 +7,7 @@ lisan: Arapça istimzāc
 anlamlar:
 - Bir kimsenin huyunu, kişiliğini tanımak için araştırma
 - Birinin düşüncesini sorma
-- ► anket
+- anket
 ozellikler:
 - - isim
   - eskimiş

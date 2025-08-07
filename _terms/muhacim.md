@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muhācim
 anlamlar:
 - Hücum eden, saldıran kimse
-- ► ileri uç oyuncusu
+- ileri uç oyuncusu
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: ebedilestirilme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sonsuzlaştırılma
-- ► ölümsüzleştirilme
+- sonsuzlaştırılma
+- ölümsüzleştirilme
 ozellikler:
 - - isim
 - - isim

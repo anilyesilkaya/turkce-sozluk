@@ -5,7 +5,7 @@ slug: itikal
 letter: I
 lisan: Arapça iʿtikāl
 anlamlar:
-- ► erozyon
+- erozyon
 ozellikler:
 - - isim
   - eskimiş

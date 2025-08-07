@@ -6,7 +6,7 @@ letter: N
 lisan: Farsça nev + Arapça ẓuhūr
 anlamlar:
 - Son zamanlarda ortaya çıkmış olan, yeni zuhur eden
-- ► moda
+- moda
 ozellikler:
 - - sıfat
 - - sıfat

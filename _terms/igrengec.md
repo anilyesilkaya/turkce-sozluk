@@ -5,7 +5,7 @@ slug: igrengec
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iğrengen
+- iğrengen
 ozellikler:
 - - sıfat
   - ağızlardan

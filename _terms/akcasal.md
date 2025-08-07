@@ -5,7 +5,7 @@ slug: akcasal
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► parasal
+- parasal
 ozellikler:
 - - sıfat
 ornekler:

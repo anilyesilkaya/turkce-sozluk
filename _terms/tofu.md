@@ -5,7 +5,7 @@ slug: tofu
 letter: T
 lisan: Japonca
 anlamlar:
-- ► soya eti
+- soya eti
 ozellikler:
 - - isim
 ornekler:

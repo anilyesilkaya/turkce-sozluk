@@ -5,7 +5,7 @@ slug: sazende
 letter: S
 lisan: Farsça sāzende
 anlamlar:
-- ► sazcı
+- sazcı
 ozellikler:
 - - isim
   - eskimiş

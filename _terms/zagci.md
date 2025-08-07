@@ -5,7 +5,7 @@ slug: zagci
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağıcı
+- kılağıcı
 ozellikler:
 - - isim
 ornekler:

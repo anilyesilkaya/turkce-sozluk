@@ -5,7 +5,7 @@ slug: artim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► artış
+- artış
 ozellikler:
 - - isim
   - ağızlardan

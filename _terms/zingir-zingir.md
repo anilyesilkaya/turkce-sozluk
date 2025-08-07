@@ -5,7 +5,7 @@ slug: zingir-zingir
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zangır zangır
+- zangır zangır
 ozellikler:
 - - zarf
 ornekler:

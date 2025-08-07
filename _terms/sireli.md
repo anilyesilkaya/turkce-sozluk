@@ -5,7 +5,7 @@ slug: sireli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şerbetli
+- şerbetli
 ozellikler:
 - - sıfat
 ornekler:

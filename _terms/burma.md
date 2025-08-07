@@ -6,13 +6,13 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Burmak işi
-- ► sarığıburma
+- sarığıburma
 - Burularak yapılmış altın bilezik
 - Burulmuş, burularak yapılmış, kıvrılmış
-- ► musluk
+- musluk
 - Eğrilmek için bükülmüş yün
 - Yaşken burularak kurutulan ot
-- ► kuru incir
+- kuru incir
 ozellikler:
 - - isim
 - - isim

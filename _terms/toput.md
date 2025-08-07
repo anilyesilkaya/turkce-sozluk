@@ -5,7 +5,7 @@ slug: toput
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çökelti
+- çökelti
 ozellikler:
 - - isim
   - kimya

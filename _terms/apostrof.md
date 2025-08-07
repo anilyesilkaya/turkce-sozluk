@@ -5,7 +5,7 @@ slug: apostrof
 letter: A
 lisan: Fransızca apostrophe
 anlamlar:
-- ► kesme işareti
+- kesme işareti
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: grecka
 letter: G
 lisan: Rusça
 anlamlar:
-- ► karabuğday
+- karabuğday
 ozellikler:
 - - isim
   - bitki bilimi

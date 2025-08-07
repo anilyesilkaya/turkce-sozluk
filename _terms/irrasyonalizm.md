@@ -5,7 +5,7 @@ slug: irrasyonalizm
 letter: I
 lisan: Fransızca irrationalisme
 anlamlar:
-- ► akıl dışıcılık
+- akıl dışıcılık
 ozellikler:
 - - isim
   - felsefe

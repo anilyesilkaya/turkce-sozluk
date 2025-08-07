@@ -6,8 +6,8 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlak olma durumu
-- ► çatlak
-- ► delilik
+- çatlak
+- delilik
 ozellikler:
 - - isim
 - - isim

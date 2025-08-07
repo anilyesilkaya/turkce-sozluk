@@ -5,7 +5,7 @@ slug: tevekkeli
 letter: T
 lisan: Arapça tevekkül'den
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

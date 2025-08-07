@@ -5,7 +5,7 @@ slug: kalitsal
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalıtımsal
+- kalıtımsal
 ozellikler:
 - - sıfat
 ornekler:

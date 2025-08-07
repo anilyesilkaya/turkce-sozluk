@@ -5,7 +5,7 @@ slug: harbici
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► doğrucu
+- doğrucu
 ozellikler:
 - - sıfat
 ornekler:

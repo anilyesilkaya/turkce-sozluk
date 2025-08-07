@@ -5,7 +5,7 @@ slug: kol
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kolluk (II)
+- kolluk (II)
 ozellikler:
 - - tarih
 ornekler:

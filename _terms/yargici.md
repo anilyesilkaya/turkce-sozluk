@@ -5,7 +5,7 @@ slug: yargici
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hakem
+- hakem
 ozellikler:
 - - isim
 ornekler:

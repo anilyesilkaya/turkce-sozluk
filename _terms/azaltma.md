@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Azaltmak işi; azlaştırma
-- ► kısıntı
+- kısıntı
 ozellikler:
 - - isim
 - - isim

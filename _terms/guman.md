@@ -5,7 +5,7 @@ slug: guman
 letter: G
 lisan: Farsça gümān
 anlamlar:
-- ► kuşku
+- kuşku
 ozellikler:
 - - isim
 ornekler:

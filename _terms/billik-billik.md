@@ -5,7 +5,7 @@ slug: billik-billik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► etli butlu
+- etli butlu
 ozellikler:
 - - sıfat
 ornekler:

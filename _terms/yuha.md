@@ -5,7 +5,7 @@ slug: yuha
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yuh
+- yuh
 ozellikler:
 - - ünlem
 ornekler:

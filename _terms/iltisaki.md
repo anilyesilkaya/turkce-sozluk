@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iltiṣāḳī
 anlamlar:
 - İltisakla ilgili olan
-- ► bitişken
+- bitişken
 ozellikler:
 - - sıfat
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: kudretten
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yaradılıştan
+- yaradılıştan
 ozellikler:
 - - zarf
 ornekler:

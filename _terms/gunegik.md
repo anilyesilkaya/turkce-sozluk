@@ -5,7 +5,7 @@ slug: gunegik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hindiba
+- hindiba
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: sokum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► lokma
+- lokma
 - Yufka ekmeğinden yapılan dürüm
 ozellikler:
 - - isim

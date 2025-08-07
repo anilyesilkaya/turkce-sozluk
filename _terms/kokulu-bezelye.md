@@ -5,7 +5,7 @@ slug: kokulu-bezelye
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ıtırşahi
+- ıtırşahi
 ozellikler:
 - - isim
   - bitki bilimi

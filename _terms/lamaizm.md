@@ -5,7 +5,7 @@ slug: lamaizm
 letter: L
 lisan: Fransızca lamaïsm
 anlamlar:
-- ► lamacılık
+- lamacılık
 ozellikler:
 - - isim
 ornekler:

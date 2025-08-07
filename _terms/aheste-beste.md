@@ -5,7 +5,7 @@ slug: aheste-beste
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 ozellikler:
 - - zarf
 ornekler:

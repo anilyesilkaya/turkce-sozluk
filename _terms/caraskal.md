@@ -5,7 +5,7 @@ slug: caraskal
 letter: C
 lisan: Arapça cerr + esḳāl
 anlamlar:
-- ► palanga
+- palanga
 ozellikler:
 - - isim
 ornekler:

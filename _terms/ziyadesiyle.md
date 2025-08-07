@@ -5,7 +5,7 @@ slug: ziyadesiyle
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► fazlasıyla
+- fazlasıyla
 ozellikler:
 - - zarf
 ornekler:

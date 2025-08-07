@@ -5,7 +5,7 @@ slug: surrealite
 letter: S
 lisan: Fransızca surréalité
 anlamlar:
-- ► gerçeküstü
+- gerçeküstü
 ozellikler:
 - - isim
 ornekler:

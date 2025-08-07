@@ -5,8 +5,8 @@ slug: meskenet
 letter: M
 lisan: Arapça meskenet
 anlamlar:
-- ► miskinlik
-- ► yoksulluk
+- miskinlik
+- yoksulluk
 ozellikler:
 - - isim
   - eskimiş

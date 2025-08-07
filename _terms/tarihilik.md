@@ -5,7 +5,7 @@ slug: tarihilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tarihsellik
+- tarihsellik
 ozellikler:
 - - isim
 ornekler:

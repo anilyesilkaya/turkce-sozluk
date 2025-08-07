@@ -5,7 +5,7 @@ slug: polinom
 letter: P
 lisan: Fransızca polinôme
 anlamlar:
-- ► çok terimli
+- çok terimli
 ozellikler:
 - - sıfat
   - matematik

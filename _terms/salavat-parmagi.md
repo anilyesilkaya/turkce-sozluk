@@ -5,7 +5,7 @@ slug: salavat-parmagi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► işaret parmağı
+- işaret parmağı
 ozellikler:
 - - isim
 ornekler:

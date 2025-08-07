@@ -5,7 +5,7 @@ slug: akordeoncu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akordiyoncu
+- akordiyoncu
 ozellikler:
 - - isim
 ornekler:

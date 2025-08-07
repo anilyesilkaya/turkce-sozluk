@@ -5,7 +5,7 @@ slug: taharri
 letter: T
 lisan: Arapça taḥarrī
 anlamlar:
-- ► arama
+- arama
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: ekolojik-tarim
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► organik tarım
+- organik tarım
 ozellikler:
 - - isim
 ornekler:

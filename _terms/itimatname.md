@@ -5,7 +5,7 @@ slug: itimatname
 letter: I
 lisan: Arapça iʿtimād + Farsça nāme
 anlamlar:
-- ► güven mektubu
+- güven mektubu
 ozellikler:
 - - isim
   - eskimiş

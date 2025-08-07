@@ -5,7 +5,7 @@ slug: mahcuz
 letter: M
 lisan: Arapça maḥcūz
 anlamlar:
-- ► hacizli
+- hacizli
 ozellikler:
 - - sıfat
   - eskimiş

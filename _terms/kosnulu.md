@@ -5,7 +5,7 @@ slug: kosnulu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehvetli
+- şehvetli
 ozellikler:
 - - sıfat
 ornekler:

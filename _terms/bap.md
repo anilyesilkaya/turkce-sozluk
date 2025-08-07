@@ -5,9 +5,9 @@ slug: bap
 letter: B
 lisan: Arapça bāb
 anlamlar:
-- ► kapı
+- kapı
 - Kitaplarda bölüm, başlık
-- ► konu
+- konu
 - Arap dil bilgisinde mastar çeşitlerinden her biri
 ozellikler:
 - - isim

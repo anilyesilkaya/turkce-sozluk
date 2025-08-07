@@ -5,7 +5,7 @@ slug: dusunce-alisverisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► fikir alışverişi
+- fikir alışverişi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hazan
 letter: H
 lisan: Farsça ḫazān
 anlamlar:
-- ► sonbahar
+- sonbahar
 ozellikler:
 - - isim
 ornekler:

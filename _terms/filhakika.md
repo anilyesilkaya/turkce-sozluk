@@ -5,7 +5,7 @@ slug: filhakika
 letter: F
 lisan: Arapça fi'l-ḥaḳīḳa
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
   - eskimiş

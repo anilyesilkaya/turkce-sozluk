@@ -6,7 +6,7 @@ letter: P
 lisan: Farsça pīşkeş
 anlamlar:
 - Yaranmak amacıyla uygunsuz olarak verilen şey
-- ► armağan
+- armağan
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: idare-meclisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yönetim kurulu
+- yönetim kurulu
 ozellikler:
 - - isim
 ornekler:

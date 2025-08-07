@@ -5,7 +5,7 @@ slug: saadetsizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mutsuzluk
+- mutsuzluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: irksal
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ırki
+- ırki
 ozellikler:
 - - sıfat
 ornekler:

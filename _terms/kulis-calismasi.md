@@ -5,7 +5,7 @@ slug: kulis-calismasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kulis faaliyeti
+- kulis faaliyeti
 ozellikler:
 - - isim
 ornekler:

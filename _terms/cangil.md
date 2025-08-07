@@ -5,7 +5,7 @@ slug: cangil
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cengel
+- cengel
 - Kalabalık, düzensizlik vb.nin yol açtığı karışıklık
 ozellikler:
 - - isim

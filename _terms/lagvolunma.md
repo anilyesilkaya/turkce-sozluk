@@ -5,7 +5,7 @@ slug: lagvolunma
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► fesholunma
+- fesholunma
 ozellikler:
 - - isim
 ornekler:

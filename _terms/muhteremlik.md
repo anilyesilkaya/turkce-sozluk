@@ -5,7 +5,7 @@ slug: muhteremlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► saygıdeğerlik
+- saygıdeğerlik
 ozellikler:
 - - isim
 ornekler:

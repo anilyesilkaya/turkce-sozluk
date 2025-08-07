@@ -5,7 +5,7 @@ slug: ezkaza
 letter: E
 lisan: Farsça ez + Arapça ḳażā
 anlamlar:
-- ► kazara
+- kazara
 ozellikler:
 - - zarf
   - eskimiş

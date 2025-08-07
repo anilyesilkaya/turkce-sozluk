@@ -5,7 +5,7 @@ slug: saz-sairi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► halk ozanı
+- halk ozanı
 ozellikler:
 - - isim
   - edebiyat

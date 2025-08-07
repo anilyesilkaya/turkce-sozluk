@@ -5,7 +5,7 @@ slug: kermen
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kale
+- kale
 ozellikler:
 - - isim
   - tarih

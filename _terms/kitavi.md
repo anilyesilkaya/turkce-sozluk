@@ -5,7 +5,7 @@ slug: kitavi
 letter: K
 lisan: Arapça ḳiṭʿavī
 anlamlar:
-- ► kıtasal
+- kıtasal
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: teessur
 letter: T
 lisan: Arapça teʾes̱s̱ur
 anlamlar:
-- ► üzüntü
-- ► duygulanım
+- üzüntü
+- duygulanım
 - Bir şeyden etkilenme
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: ogur
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► akran
+- akran
 - Öğrenmiş
 - Alışılmış, yadırganmaz olmuş; menus
 - Takım, fırka, zümre

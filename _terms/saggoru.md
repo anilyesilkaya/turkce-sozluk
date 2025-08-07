@@ -5,7 +5,7 @@ slug: saggoru
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► basiret
+- basiret
 ozellikler:
 - - isim
 ornekler:

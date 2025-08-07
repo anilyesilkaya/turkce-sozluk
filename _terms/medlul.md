@@ -5,7 +5,7 @@ slug: medlul
 letter: M
 lisan: Arapça medlūl
 anlamlar:
-- ► anlam
+- anlam
 - Gösterilen, işaret edilen
 ozellikler:
 - - isim

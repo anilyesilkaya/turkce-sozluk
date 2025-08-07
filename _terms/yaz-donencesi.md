@@ -5,7 +5,7 @@ slug: yaz-donencesi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yengeç Dönencesi
+- Yengeç Dönencesi
 ozellikler:
 - - isim
   - gök bilimi

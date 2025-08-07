@@ -5,7 +5,7 @@ slug: milli-misak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Misakımillî
+- Misakımillî
 ozellikler:
 - - isim
 ornekler:

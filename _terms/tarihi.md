@@ -5,7 +5,7 @@ slug: tarihi
 letter: T
 lisan: Arapça tārīḫī
 anlamlar:
-- ► tarihsel
+- tarihsel
 - Tarihe geçmiş
 - Geçmiş yüzyıllardan günümüze ulaşmış olan
 - Unutulmayan, anılma değeri olan

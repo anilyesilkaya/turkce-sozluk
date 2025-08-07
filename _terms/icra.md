@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça icrāʾ
 anlamlar:
 - Yapma, yerine getirme
-- ► yürütme
+- yürütme
 - Borçlunun alacaklıya karşı yapmak veya ödemekle yükümlü bulunduğu bir şeyi adli bir kuruluş aracılığıyla yerine getirme
 - Adliyenin bu işle görevli dairesi
 - Bir müzik eserini oluşturan notaları sese çevirme

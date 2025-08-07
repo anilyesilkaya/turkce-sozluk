@@ -5,7 +5,7 @@ slug: meyilli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eğimli
+- eğimli
 - İlgili, gönül vermiş
 ozellikler:
 - - sıfat

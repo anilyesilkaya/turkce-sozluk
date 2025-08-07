@@ -5,7 +5,7 @@ slug: ayakli-ansiklopedi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayaklı kütüphane
+- ayaklı kütüphane
 ozellikler:
 - - isim
   - mecaz

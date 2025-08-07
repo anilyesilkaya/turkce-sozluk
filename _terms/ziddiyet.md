@@ -5,7 +5,7 @@ slug: ziddiyet
 letter: Z
 lisan: Arapça żiddiyyet
 anlamlar:
-- ► karşıtlık
+- karşıtlık
 - Geçimsizlik, çekemezlik, birbini sevmeme
 ozellikler:
 - - isim

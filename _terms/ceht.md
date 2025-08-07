@@ -5,7 +5,7 @@ slug: ceht
 letter: C
 lisan: Arapça cehd
 anlamlar:
-- ► çaba
+- çaba
 ozellikler:
 - - isim
   - eskimiş

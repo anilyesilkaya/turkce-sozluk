@@ -5,7 +5,7 @@ slug: ulusalci
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milliyetçi
+- milliyetçi
 ozellikler:
 - - isim
 ornekler:

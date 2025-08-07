@@ -5,7 +5,7 @@ slug: gayriinsani
 letter: G
 lisan: Arapça ġayr + insānī
 anlamlar:
-- ► insanlık dışı
+- insanlık dışı
 ozellikler:
 - - sıfat
   - eskimiş

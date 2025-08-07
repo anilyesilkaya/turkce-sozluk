@@ -5,7 +5,7 @@ slug: lagvetmek
 letter: L
 lisan: Arapça laġv + Türkçe etmek
 anlamlar:
-- ► feshetmek
+- feshetmek
 - Hükümsüz kılmak
 ozellikler:
 - - -i

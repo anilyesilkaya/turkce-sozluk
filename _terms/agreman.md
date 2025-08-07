@@ -5,7 +5,7 @@ slug: agreman
 letter: A
 lisan: Fransızca agrément
 anlamlar:
-- ► uygunluk
+- uygunluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: destanimsi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► destansı
+- destansı
 ozellikler:
 - - sıfat
 ornekler:

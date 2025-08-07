@@ -5,7 +5,7 @@ slug: yukseltgemek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► oksitlemek
+- oksitlemek
 ozellikler:
 - - -i
   - kimya

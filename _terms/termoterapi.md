@@ -5,7 +5,7 @@ slug: termoterapi
 letter: T
 lisan: Fransızca thermothérapie
 anlamlar:
-- ► ısı tedavisi
+- ısı tedavisi
 ozellikler:
 - - isim
   - tıp

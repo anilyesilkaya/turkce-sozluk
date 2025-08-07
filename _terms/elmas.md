@@ -8,7 +8,7 @@ anlamlar:
 - Yerin derinliklerinde bulunan, billurlaşmış arı karbon
 - Mücevher olarak kullanılan, saydam, değerli taş
 - Bu taşlarla yapılmış
-- ► elmastıraş
+- elmastıraş
 ozellikler:
 - - isim
 - - isim

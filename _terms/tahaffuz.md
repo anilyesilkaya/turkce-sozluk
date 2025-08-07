@@ -5,7 +5,7 @@ slug: tahaffuz
 letter: T
 lisan: Arapça taḥaffuẓ
 anlamlar:
-- ► sakınma
+- sakınma
 ozellikler:
 - - isim
   - eskimiş

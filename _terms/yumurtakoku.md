@@ -5,7 +5,7 @@ slug: yumurtakoku
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kökboyası
+- kökboyası
 ozellikler:
 - - isim
   - ağızlardan

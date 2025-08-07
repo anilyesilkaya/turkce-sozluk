@@ -5,7 +5,7 @@ slug: revizyonizm
 letter: R
 lisan: Fransızca révisionnisme
 anlamlar:
-- ► revizyonculuk
+- revizyonculuk
 ozellikler:
 - - isim
 ornekler:

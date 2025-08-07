@@ -5,7 +5,7 @@ slug: vade-bitimi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► süre sonu
+- süre sonu
 ozellikler:
 - - isim
 ornekler:

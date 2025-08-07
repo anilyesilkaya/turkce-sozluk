@@ -5,7 +5,7 @@ slug: tanin
 letter: T
 lisan: Arapça ṭanīn
 anlamlar:
-- ► tınlama
+- tınlama
 ozellikler:
 - - isim
   - eskimiş

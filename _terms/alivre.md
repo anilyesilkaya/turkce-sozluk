@@ -5,7 +5,7 @@ slug: alivre
 letter: A
 lisan: Fransızca à livrer
 anlamlar:
-- ► önceden satış
+- önceden satış
 ozellikler:
 - - isim
   - ekonomi

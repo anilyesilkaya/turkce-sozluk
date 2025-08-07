@@ -5,7 +5,7 @@ slug: vicdansizcasina
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vicdansızca
+- vicdansızca
 ozellikler:
 - - zarf
 ornekler:

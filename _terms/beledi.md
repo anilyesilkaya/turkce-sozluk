@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça beledī
 anlamlar:
 - Şehirle ilgili
-- ► yerleşik
+- yerleşik
 - Pamuklu, kalın bir tür kumaş
 ozellikler:
 - - sıfat

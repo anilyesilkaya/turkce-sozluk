@@ -5,7 +5,7 @@ slug: mezru
 letter: M
 lisan: Arapça mezrūʿ
 anlamlar:
-- ► ekili
+- ekili
 ozellikler:
 - - sıfat
   - eskimiş

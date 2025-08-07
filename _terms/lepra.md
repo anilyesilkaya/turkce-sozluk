@@ -5,7 +5,7 @@ slug: lepra
 letter: L
 lisan: Yunanca
 anlamlar:
-- ► cüzzam
+- cüzzam
 ozellikler:
 - - isim
   - tıp

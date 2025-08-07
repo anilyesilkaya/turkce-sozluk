@@ -5,7 +5,7 @@ slug: yaban-tavsani
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ada tavşanı
+- ada tavşanı
 ozellikler:
 - - isim
   - hayvan bilimi

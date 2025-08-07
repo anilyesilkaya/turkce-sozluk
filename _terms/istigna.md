@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istiġnā
 anlamlar:
 - Önerilen bir işe karşı nazlanma, nazlı davranma
-- ► doygunluk
+- doygunluk
 ozellikler:
 - - isim
   - eskimiş

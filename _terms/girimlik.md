@@ -5,7 +5,7 @@ slug: girimlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giriş kartı
+- giriş kartı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sekilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tribün
+- tribün
 ozellikler:
 - - isim
 ornekler:

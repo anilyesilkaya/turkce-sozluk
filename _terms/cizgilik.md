@@ -5,7 +5,7 @@ slug: cizgilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► cetvel
+- cetvel
 - … çizgi miktarı olan
 ozellikler:
 - - isim

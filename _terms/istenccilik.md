@@ -5,7 +5,7 @@ slug: istenccilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradecilik
+- iradecilik
 ozellikler:
 - - isim
   - ruh bilimi

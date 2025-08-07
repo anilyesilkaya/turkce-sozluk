@@ -5,7 +5,7 @@ slug: mesuliyetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorumlu
+- sorumlu
 - Sorumluluk gerektiren
 ozellikler:
 - - sıfat

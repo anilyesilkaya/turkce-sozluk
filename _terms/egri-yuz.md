@@ -5,7 +5,7 @@ slug: egri-yuz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► asık surat
+- asık surat
 ozellikler:
 - - isim
   - mecaz

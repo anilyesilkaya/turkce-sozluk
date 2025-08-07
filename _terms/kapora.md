@@ -5,7 +5,7 @@ slug: kapora
 letter: K
 lisan: İtalyanca caparra
 anlamlar:
-- ► güvenmelik
+- güvenmelik
 ozellikler:
 - - isim
   - hukuk

@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿamūd
 anlamlar:
 - Dik durma
-- ► dikme
+- dikme
 ozellikler:
 - - isim
 - - isim

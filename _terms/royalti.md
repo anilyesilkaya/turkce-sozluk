@@ -5,7 +5,7 @@ slug: royalti
 letter: R
 lisan: İngilizce royalty
 anlamlar:
-- ► telif hakkı
+- telif hakkı
 ozellikler:
 - - isim
   - hukuk

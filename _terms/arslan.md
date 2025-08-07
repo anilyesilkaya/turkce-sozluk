@@ -5,7 +5,7 @@ slug: arslan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aslan
+- aslan
 ozellikler:
 - - isim
   - hayvan bilimi

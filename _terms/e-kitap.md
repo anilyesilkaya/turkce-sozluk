@@ -5,7 +5,7 @@ slug: e-kitap
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik kitap
+- elektronik kitap
 ozellikler:
 - - isim
 ornekler:

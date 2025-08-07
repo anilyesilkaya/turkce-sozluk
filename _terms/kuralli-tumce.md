@@ -5,7 +5,7 @@ slug: kuralli-tumce
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurallı cümle
+- kurallı cümle
 ozellikler:
 - - isim
   - dil bilgisi

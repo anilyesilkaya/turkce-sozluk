@@ -5,7 +5,7 @@ slug: sovmen
 letter: Ş
 lisan: İngilizce showman
 anlamlar:
-- ► gösteri adamı
+- gösteri adamı
 ozellikler:
 - - isim
 ornekler:

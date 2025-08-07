@@ -5,7 +5,7 @@ slug: urbasizlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► giysisizlik
+- giysisizlik
 ozellikler:
 - - isim
 ornekler:

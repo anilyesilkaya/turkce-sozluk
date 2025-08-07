@@ -6,8 +6,8 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Yalan olmayan, doğru olan şey; çın, ciddi, hakikat
-- ► gerçeklik
-- ► doğruluk
+- gerçeklik
+- doğruluk
 - Yalan olmayan
 - Bir durum, bir nesne veya bir nitelik olarak var olan, varlığı inkâr edilemeyen, olgu durumunda olan, özbeöz, hakiki, reel
 - Aslına uygun nitelikler taşıyan, sahici

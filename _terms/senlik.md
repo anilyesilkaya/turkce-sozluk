@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Şen olma durumu; şetaret
 - Belli günlerde yapılan, coşku veren eğlendirici gösterilerin tümü; bayram
-- ► festival
+- festival
 ozellikler:
 - - isim
 - - isim

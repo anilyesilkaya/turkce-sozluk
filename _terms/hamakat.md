@@ -5,7 +5,7 @@ slug: hamakat
 letter: H
 lisan: Arapça ḥamāḳat
 anlamlar:
-- ► ahmaklık
+- ahmaklık
 ozellikler:
 - - isim
   - eskimiş

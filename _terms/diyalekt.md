@@ -5,8 +5,8 @@ slug: diyalekt
 letter: D
 lisan: Fransızca dialecte
 anlamlar:
-- ► lehçe
-- ► ağız (I)
+- lehçe
+- ağız (I)
 ozellikler:
 - - isim
   - dil bilimi

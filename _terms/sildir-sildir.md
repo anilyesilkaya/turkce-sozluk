@@ -8,7 +8,7 @@ anlamlar:
 - Canlı, parlak (göz)
 - Çok sulu
 - Canlı, parlak bir biçimde
-- ► şırıl şırıl
+- şırıl şırıl
 ozellikler:
 - - sıfat
 - - sıfat

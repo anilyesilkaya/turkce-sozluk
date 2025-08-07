@@ -5,7 +5,7 @@ slug: ev-bark
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ev
+- ev
 - Aile bireylerinin tümü
 ozellikler:
 - - isim

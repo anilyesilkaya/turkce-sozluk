@@ -5,7 +5,7 @@ slug: antropomorfizm
 letter: A
 lisan: Fransızca anthropomorphisme
 anlamlar:
-- ► insan biçimcilik
+- insan biçimcilik
 ozellikler:
 - - isim
   - felsefe

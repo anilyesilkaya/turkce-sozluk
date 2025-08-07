@@ -5,7 +5,7 @@ slug: dimmer
 letter: D
 lisan: İngilizce dimmer
 anlamlar:
-- ► reosta
+- reosta
 ozellikler:
 - - isim
   - fizik

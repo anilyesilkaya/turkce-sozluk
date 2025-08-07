@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kapı üstlerine konulan eğik saçak biçimindeki örtme
 - Rüzgârdan korunmak için giysilerin üstüne giyilen bir üstlük türü
-- ► yelkesen
+- yelkesen
 ozellikler:
 - - isim
 - - isim

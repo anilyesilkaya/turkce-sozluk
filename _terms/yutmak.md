@@ -5,7 +5,7 @@ slug: yutmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ütmek (II)
+- ütmek (II)
 ozellikler:
 - - -i
   - ağızlardan

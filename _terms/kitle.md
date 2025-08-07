@@ -7,7 +7,7 @@ lisan: Arapça kutle
 anlamlar:
 - Bir yerde toplanmış, bir araya gelmiş insan topluluğu; kütle
 - Belirli işleviyle özellik gösteren büyük insan kalabalığı; kütle
-- ► kist
+- kist
 ozellikler:
 - - isim
 - - isim

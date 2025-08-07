@@ -5,7 +5,7 @@ slug: silgec
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► silecek
+- silecek
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zahme
 letter: Z
 lisan: Arapça żaḫme
 anlamlar:
-- ► mızrap
+- mızrap
 - Kudüm çalmakta kullanılan ucu topuzlu uzun değnek
 ozellikler:
 - - isim

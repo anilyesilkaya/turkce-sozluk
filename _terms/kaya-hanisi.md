@@ -5,7 +5,7 @@ slug: kaya-hanisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lagos
+- lagos
 ozellikler:
 - - isim
   - hayvan bilimi

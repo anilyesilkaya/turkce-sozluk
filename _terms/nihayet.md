@@ -5,7 +5,7 @@ slug: nihayet
 letter: N
 lisan: Arapça nihāyet
 anlamlar:
-- ► son
+- son
 - (ni'ha:yet) Sonunda
 - -den başka bir şey değil
 ozellikler:

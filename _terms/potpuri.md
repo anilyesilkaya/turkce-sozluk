@@ -5,7 +5,7 @@ slug: potpuri
 letter: P
 lisan: Fransızca pot-pourri
 anlamlar:
-- ► karmaca
+- karmaca
 ozellikler:
 - - isim
   - müzik

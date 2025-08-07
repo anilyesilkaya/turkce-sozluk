@@ -5,7 +5,7 @@ slug: nurlu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► ışıklı
+- ışıklı
 - Saygı uyandıran
 ozellikler:
 - - sıfat

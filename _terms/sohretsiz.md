@@ -5,7 +5,7 @@ slug: sohretsiz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ünsüz
+- ünsüz
 ozellikler:
 - - sıfat
 ornekler:

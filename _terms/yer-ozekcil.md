@@ -5,7 +5,7 @@ slug: yer-ozekcil
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yermerkezci
+- yermerkezci
 ozellikler:
 - - sıfat
 ornekler:

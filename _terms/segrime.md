@@ -5,7 +5,7 @@ slug: segrime
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seğirme
+- seğirme
 ozellikler:
 - - isim
 ornekler:

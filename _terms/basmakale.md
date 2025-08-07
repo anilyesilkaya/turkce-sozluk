@@ -5,7 +5,7 @@ slug: basmakale
 letter: B
 lisan: Türkçe baş + Arapça maḳāle
 anlamlar:
-- ► başyazı
+- başyazı
 ozellikler:
 - - isim
 ornekler:

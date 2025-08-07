@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mutecessis
 anlamlar:
 - Gizliyi arayan, gizliyi gözetleyen
-- ► meraklı
+- meraklı
 ozellikler:
 - - sıfat
   - eskimiş

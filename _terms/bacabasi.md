@@ -5,7 +5,7 @@ slug: bacabasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baca kaşı
+- baca kaşı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: heyetiyle
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
   - eskimiş

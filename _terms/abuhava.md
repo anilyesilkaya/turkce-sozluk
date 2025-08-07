@@ -5,7 +5,7 @@ slug: abuhava
 letter: A
 lisan: Farsça āb + Arapça havā
 anlamlar:
-- ► iklim
+- iklim
 ozellikler:
 - - isim
   - eskimiş

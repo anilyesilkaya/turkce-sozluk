@@ -5,7 +5,7 @@ slug: unsur
 letter: U
 lisan: Arapça ʿunṣur
 anlamlar:
-- ► öge
+- öge
 ozellikler:
 - - isim
 ornekler:

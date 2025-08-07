@@ -5,7 +5,7 @@ slug: izzetinefis
 letter: I
 lisan: Arapça ʿizzet + nefs
 anlamlar:
-- ► öz saygı
+- öz saygı
 - Kişinin kendine verdiği değer
 ozellikler:
 - - isim

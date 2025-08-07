@@ -7,7 +7,7 @@ lisan: Arapça varaḳ
 anlamlar:
 - Yazılı kâğıt; varaka
 - Altın, gümüş veya başka madenler dövülerek oluşturulan ince, parlak yaprak
-- ► yaprak
+- yaprak
 ozellikler:
 - - isim
 - - isim

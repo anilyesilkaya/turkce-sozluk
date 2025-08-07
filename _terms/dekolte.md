@@ -5,8 +5,8 @@ slug: dekolte
 letter: D
 lisan: Fransızca décolleté
 anlamlar:
-- ► açık giyim
-- ► açık giyimli
+- açık giyim
+- açık giyimli
 ozellikler:
 - - isim
 - - isim

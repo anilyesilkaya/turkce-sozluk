@@ -5,7 +5,7 @@ slug: seref-sozu
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► namus sözü
+- namus sözü
 ozellikler:
 - - isim
 ornekler:

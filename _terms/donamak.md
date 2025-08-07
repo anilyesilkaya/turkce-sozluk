@@ -5,7 +5,7 @@ slug: donamak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► süslemek
+- süslemek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: epiderm
 letter: E
 lisan: Fransızca épiderme
 anlamlar:
-- ► üst deri
+- üst deri
 ozellikler:
 - - isim
   - bitki bilimi

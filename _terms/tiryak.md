@@ -5,7 +5,7 @@ slug: tiryak
 letter: T
 lisan: Arapça tiryāḳ
 anlamlar:
-- ► panzehir
+- panzehir
 ozellikler:
 - - isim
   - eskimiş

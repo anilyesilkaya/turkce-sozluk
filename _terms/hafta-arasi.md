@@ -5,7 +5,7 @@ slug: hafta-arasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hafta içi
+- hafta içi
 ozellikler:
 - - isim
 ornekler:

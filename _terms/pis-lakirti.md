@@ -5,7 +5,7 @@ slug: pis-lakirti
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pis söz
+- pis söz
 ozellikler:
 - - isim
 ornekler:

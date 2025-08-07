@@ -5,7 +5,7 @@ slug: farmason
 letter: F
 lisan: Fransızca franc-maçon
 anlamlar:
-- ► mason
+- mason
 - Dinsiz, imansız olan
 ozellikler:
 - - isim

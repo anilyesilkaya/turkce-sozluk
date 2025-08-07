@@ -5,7 +5,7 @@ slug: munafik
 letter: M
 lisan: Arapça munāfiḳ
 anlamlar:
-- ► arabozan
+- arabozan
 - Dinî kurallara inanmadığı hâlde inanmış gibi görünen
 ozellikler:
 - - sıfat

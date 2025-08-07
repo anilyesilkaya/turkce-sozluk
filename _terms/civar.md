@@ -5,8 +5,8 @@ slug: civar
 letter: C
 lisan: Arapça civār
 anlamlar:
-- ► yöre (I)
-- ► dolay
+- yöre (I)
+- dolay
 - Yakında olan
 ozellikler:
 - - isim

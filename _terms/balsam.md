@@ -5,7 +5,7 @@ slug: balsam
 letter: B
 lisan: İngilizce balsam
 anlamlar:
-- ► pelesenk ağacı
+- pelesenk ağacı
 - İlaç ve parfüm üretiminde kullanılan, bazı ağaç ve bitkiler tarafından salgılanan reçinemsi kokulu madde; belsem, pelesenk (I)
 - Her türlü merhem
 ozellikler:

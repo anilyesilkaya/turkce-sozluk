@@ -9,7 +9,7 @@ anlamlar:
 - Kurnaz, yalancı, düzenci, aşağılık kimse
 - Zorba, külhanbeyi tipli kimse
 - Titiz, huysuz olan
-- ► görgüsüz
+- görgüsüz
 ozellikler:
 - - isim
   - hayvan bilimi

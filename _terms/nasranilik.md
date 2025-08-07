@@ -5,7 +5,7 @@ slug: nasranilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► Hristiyanlık
+- Hristiyanlık
 ozellikler:
 - - isim
 ornekler:

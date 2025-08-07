@@ -5,7 +5,7 @@ slug: kenar-semt
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kenar mahalle
+- kenar mahalle
 ozellikler:
 - - isim
 ornekler:

@@ -5,9 +5,9 @@ slug: baht
 letter: B
 lisan: Farsça baḫt
 anlamlar:
-- ► yazgı
+- yazgı
 - Rastlantıları düzenleyerek insanların iyi veya kötü yaşam sürmelerine neden olduğuna inanılan gizli güç; felek, talih
-- ► şans
+- şans
 ozellikler:
 - - isim
 - - isim

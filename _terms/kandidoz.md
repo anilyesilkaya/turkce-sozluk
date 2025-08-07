@@ -5,7 +5,7 @@ slug: kandidoz
 letter: K
 lisan: Fransızca candidose
 anlamlar:
-- ► pamukçuk
+- pamukçuk
 ozellikler:
 - - isim
   - tıp

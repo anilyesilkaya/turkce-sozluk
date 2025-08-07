@@ -5,7 +5,7 @@ slug: yarim-ay
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dördün
+- dördün
 ozellikler:
 - - isim
 ornekler:

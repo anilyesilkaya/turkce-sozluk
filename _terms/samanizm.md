@@ -5,7 +5,7 @@ slug: samanizm
 letter: Ş
 lisan: Fransızca chamanisme
 anlamlar:
-- ► Şamanlık
+- Şamanlık
 ozellikler:
 - - isim
 ornekler:

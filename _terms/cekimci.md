@@ -5,8 +5,8 @@ slug: cekimci
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► yapımcı
-- ► kameraman
+- yapımcı
+- kameraman
 ozellikler:
 - - isim
 - - isim

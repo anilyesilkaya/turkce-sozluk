@@ -5,7 +5,7 @@ slug: irip
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ığrıp
+- ığrıp
 ozellikler:
 - - isim
 ornekler:

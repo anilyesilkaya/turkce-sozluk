@@ -5,7 +5,7 @@ slug: besus
 letter: B
 lisan: Arapça beşūş
 anlamlar:
-- ► güler yüzlü
+- güler yüzlü
 ozellikler:
 - - sıfat
 ornekler:

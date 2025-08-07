@@ -5,7 +5,7 @@ slug: zenginleme
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zenginleşme
+- zenginleşme
 ozellikler:
 - - isim
 ornekler:

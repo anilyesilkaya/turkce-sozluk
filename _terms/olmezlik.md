@@ -5,7 +5,7 @@ slug: olmezlik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölümsüzlük
+- ölümsüzlük
 ozellikler:
 - - isim
 ornekler:

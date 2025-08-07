@@ -5,7 +5,7 @@ slug: uflemeli-calgilar
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üflemeli sazlar
+- üflemeli sazlar
 ozellikler:
 - - isim
   - müzik

@@ -5,7 +5,7 @@ slug: serian
 letter: S
 lisan: Arapça serīʿan
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
   - eskimiş

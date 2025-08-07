@@ -5,7 +5,7 @@ slug: hidroterapi
 letter: H
 lisan: Fransızca hydrotherapie
 anlamlar:
-- ► su tedavisi
+- su tedavisi
 ozellikler:
 - - isim
   - tıp

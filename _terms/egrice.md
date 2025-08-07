@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Buttan yapılan pastırma
-- ► saç örgüsü
+- saç örgüsü
 - Turnanın kafasındaki sorguç
 ozellikler:
 - - isim

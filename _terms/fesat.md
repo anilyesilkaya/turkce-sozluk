@@ -5,9 +5,9 @@ slug: fesat
 letter: F
 lisan: Arapça fesād
 anlamlar:
-- ► bozukluk
+- bozukluk
 - Karışıklık, kargaşalık, ara bozuculuk
-- ► hile
+- hile
 - Herhangi bir konuda iyimser olmayan, kötü yorumlayan (kimse)
 - Karıştırıcı, ara bozucu (kimse)
 ozellikler:

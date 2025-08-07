@@ -5,7 +5,7 @@ slug: iftar-zamani
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iftar vakti
+- iftar vakti
 ozellikler:
 - - isim
 ornekler:

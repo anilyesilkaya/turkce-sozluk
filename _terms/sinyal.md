@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca signal
 anlamlar:
 - Bir şey bildirmek için verilen işaret
-- ► çevir sesi
+- çevir sesi
 ozellikler:
 - - isim
 - - isim

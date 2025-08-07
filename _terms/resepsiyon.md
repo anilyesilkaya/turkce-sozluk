@@ -6,8 +6,8 @@ letter: R
 lisan: Fransızca réception
 anlamlar:
 - Kabul, kabul etme
-- ► kabul töreni
-- ► kabul yeri
+- kabul töreni
+- kabul yeri
 - Kabul yerinde çalışan kimselerin tümü
 ozellikler:
 - - isim

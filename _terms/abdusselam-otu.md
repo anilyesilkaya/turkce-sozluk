@@ -5,7 +5,7 @@ slug: abdusselam-otu
 letter: A
 lisan: Arapça ʿabd + selām
 anlamlar:
-- ► adamotu
+- adamotu
 ozellikler:
 - - isim
   - bitki bilimi

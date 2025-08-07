@@ -10,9 +10,9 @@ anlamlar:
 - Karşılıklı iki yandan her biri; geçe (II)
 - Eğimli arazi
 - Yapıların saçaklarında, suyun içeriye sızmasını önlemek için kiremidin altıyla oluk arasına konulan metal levha
-- ► semt
-- ► kenar
-- ► sahil
+- semt
+- kenar
+- sahil
 - Yelkenlerin kenar ve köşeleri
 ozellikler:
 - - isim

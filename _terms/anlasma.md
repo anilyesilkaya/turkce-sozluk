@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Anlaşmak durumu
 - Devletler arası siyasal, ekonomik, kültürel vb. alanlarda yapılan uzlaşma ve bu uzlaşmanın tespit edildiği belge; itilaf, antant, konvansiyon
-- ► sözleşme
+- sözleşme
 ozellikler:
 - - isim
 - - isim

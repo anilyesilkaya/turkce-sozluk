@@ -6,7 +6,7 @@ letter: G
 lisan: Arapça ġayr + şaḫṣī
 anlamlar:
 - İnsanın kişiliğine ait olmayan, kendi dışında olan
-- ► kişilik dışı
+- kişilik dışı
 ozellikler:
 - - sıfat
   - eskimiş

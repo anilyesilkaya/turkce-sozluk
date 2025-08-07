@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Görme bozukluğu olan gözlerin daha iyi görmesine veya gözleri korumaya yarayan, bir çerçeveye yerleştirilmiş çift camdan oluşan araç; camekân
 - Atların çevreden ürkmemeleri için gözlerinin iki yanına takılan siper
-- ► gözene
+- gözene
 ozellikler:
 - - isim
 - - isim

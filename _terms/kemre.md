@@ -5,7 +5,7 @@ slug: kemre
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gübre
+- gübre
 - Deride kalınlaşmış kir tabakası
 - Başta olan kepek
 ozellikler:

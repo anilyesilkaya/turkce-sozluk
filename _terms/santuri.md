@@ -5,7 +5,7 @@ slug: santuri
 letter: S
 lisan: Farsça sentūr + Arapça -ī
 anlamlar:
-- ► santurcu
+- santurcu
 ozellikler:
 - - isim
 ornekler:

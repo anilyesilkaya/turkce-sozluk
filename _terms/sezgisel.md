@@ -5,7 +5,7 @@ slug: sezgisel
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sezgili
+- sezgili
 ozellikler:
 - - sıfat
 ornekler:

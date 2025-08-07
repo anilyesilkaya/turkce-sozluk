@@ -5,7 +5,7 @@ slug: ahmakislatan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çisenti
+- çisenti
 ozellikler:
 - - isim
 ornekler:

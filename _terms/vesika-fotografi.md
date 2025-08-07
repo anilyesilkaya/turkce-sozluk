@@ -5,7 +5,7 @@ slug: vesika-fotografi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vesikalık fotoğraf
+- vesikalık fotoğraf
 ozellikler:
 - - isim
 ornekler:

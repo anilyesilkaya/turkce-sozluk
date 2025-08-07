@@ -5,8 +5,8 @@ slug: isima
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► aydınlanma
-- ► radyasyon
+- aydınlanma
+- radyasyon
 ozellikler:
 - - isim
 - - isim

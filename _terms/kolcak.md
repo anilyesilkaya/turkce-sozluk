@@ -9,7 +9,7 @@ anlamlar:
 - Koltuk veya iskemlenin kol konacak parçası
 - Ceket veya gömlek kollarının kirlenmesine engel olmak için bilekten dirseğe kadar geçirilen eğreti kolluk
 - Kadınların dirseklerine kadar taktıkları basmadan yapılan süs eşyası
-- ► pazubent
+- pazubent
 - Zırhın kola geçirilen parçası
 ozellikler:
 - - isim

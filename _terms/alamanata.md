@@ -5,7 +5,7 @@ slug: alamanata
 letter: A
 lisan: Rumca
 anlamlar:
-- ► alamana
+- alamana
 ozellikler:
 - - isim
   - denizcilik

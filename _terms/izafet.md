@@ -5,7 +5,7 @@ slug: izafet
 letter: I
 lisan: Arapça iżāfet
 anlamlar:
-- ► bağıntı
+- bağıntı
 ozellikler:
 - - isim
   - eskimiş

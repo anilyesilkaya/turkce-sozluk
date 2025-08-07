@@ -5,7 +5,7 @@ slug: duziko
 letter: D
 lisan: Rumca
 anlamlar:
-- ► düz rakı
+- düz rakı
 ozellikler:
 - - isim
 ornekler:

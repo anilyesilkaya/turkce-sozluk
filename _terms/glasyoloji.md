@@ -5,7 +5,7 @@ slug: glasyoloji
 letter: G
 lisan: Fransızca glaciologie
 anlamlar:
-- ► buzul bilimi
+- buzul bilimi
 ozellikler:
 - - isim
 ornekler:

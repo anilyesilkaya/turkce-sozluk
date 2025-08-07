@@ -5,7 +5,7 @@ slug: bisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pişi
+- pişi
 ozellikler:
 - - isim
   - ağızlardan

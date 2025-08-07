@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça istiḫbār
 anlamlar:
 - Haber ve bilgi alma
-- ► duyma
-- ► öğrenme
+- duyma
+- öğrenme
 ozellikler:
 - - isim
   - eskimiş

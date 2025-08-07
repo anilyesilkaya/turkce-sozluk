@@ -5,7 +5,7 @@ slug: tekerleme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yuvarlama
+- yuvarlama
 - Çoğunlukla basmakalıp söz
 - Birbiriyle uyumlu hazır söz kalıbı
 - Çoğunlukla, masalların genellikle başında bulunan "Bir varmış bir yokmuş. Evvel zaman içinde, kalbur saman içinde." gibi uyaklı giriş veya ara sözler

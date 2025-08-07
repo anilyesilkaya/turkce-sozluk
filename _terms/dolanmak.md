@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir şeyin çevresine sarılmak
 - Bir şeyin çevresinde dönmek, gezmek, dolaşmak
-- ► dolaşmak
+- dolaşmak
 - Gelişigüzel gezmek
 ozellikler:
 - - -e

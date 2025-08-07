@@ -5,7 +5,7 @@ slug: kantite
 letter: K
 lisan: Fransızca quantité
 anlamlar:
-- ► nicelik
+- nicelik
 ozellikler:
 - - isim
 ornekler:

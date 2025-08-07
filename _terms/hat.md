@@ -5,15 +5,15 @@ slug: hat
 letter: H
 lisan: Arapça ḫaṭṭ
 anlamlar:
-- ► çizgi
-- ► yazı (I)
+- çizgi
+- yazı (I)
 - Ulaşım sağlayan bir taşıtın uğradığı yerlerin bütünü
 - Elektrik akımı taşıyan tel veya kablo sistemi
-- ► kanal
+- kanal
 - Savunma veya saldırma amacıyla bir araya getirilmiş asker dizisi
 - Arap alfabesiyle güzel yazı yazma sanatı ve bu biçimde yazılmış yazı
 - Yüzü biçimlendiren çizgi veya kırışıklık
-- ► biçim (II)
+- biçim (II)
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: yukselti
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tümsek
+- tümsek
 - Yer kabuğu üzerindeki bir yerin deniz seviyesine göre ölçülen yüksekliği; yükseklik, rakım, irtifa
 ozellikler:
 - - isim

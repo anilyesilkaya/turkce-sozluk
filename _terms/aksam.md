@@ -6,8 +6,8 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Güneşin batmasına yakın zamandan gecenin başlamasına kadar geçen zaman dilimi
-- ► akşam ezanı
-- ► akşam namazı
+- akşam ezanı
+- akşam namazı
 ozellikler:
 - - isim
 - - isim

@@ -11,7 +11,7 @@ anlamlar:
 - İki kişilik, iki kişinin oturabileceği büyüklükte veya sayıda olan
 - İki kişiden oluşmuş topluluk
 - İki çalgı veya iki ses için düzenlenmiş müzik parçası; düet
-- ► ikili bahis
+- ikili bahis
 ozellikler:
 - - sıfat
 - - sıfat

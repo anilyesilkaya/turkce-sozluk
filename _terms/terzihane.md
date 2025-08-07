@@ -5,7 +5,7 @@ slug: terzihane
 letter: T
 lisan: Farsça derzī + ḫāne
 anlamlar:
-- ► terzi
+- terzi
 ozellikler:
 - - isim
   - eskimiş

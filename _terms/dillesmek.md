@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Karşılıklı tatlı tatlı söyleşmek
-- ► dırlaşmak
+- dırlaşmak
 ozellikler:
 - - -le
 - - -le

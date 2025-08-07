@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Uzunlamasına yarılan kızarmış patlıcanların ortasına kıymalı iç konularak hazırlanmış yemek; kıstırma
 - Matbaacılıkta her sayfayı çift sütun olarak düzenleme
-- ► karnıyarık otu
+- karnıyarık otu
 ozellikler:
 - - isim
 - - isim

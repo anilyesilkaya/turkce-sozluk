@@ -5,7 +5,7 @@ slug: havali
 letter: H
 lisan: Arapça ḥavālī
 anlamlar:
-- ► yöre (I)
+- yöre (I)
 ozellikler:
 - - isim
 ornekler:

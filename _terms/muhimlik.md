@@ -5,7 +5,7 @@ slug: muhimlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► önemlilik
+- önemlilik
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Giymek işi
 - Giyme biçimi
-- ► giysi
+- giysi
 ozellikler:
 - - isim
 - - isim

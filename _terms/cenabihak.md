@@ -5,7 +5,7 @@ slug: cenabihak
 letter: C
 lisan: Arapça cenāb + ḥaḳḳ
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - din bilimi

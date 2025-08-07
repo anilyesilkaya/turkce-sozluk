@@ -5,8 +5,8 @@ slug: ozenc
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► istek
-- ► imrenme
+- istek
+- imrenme
 ozellikler:
 - - isim
   - ağızlardan

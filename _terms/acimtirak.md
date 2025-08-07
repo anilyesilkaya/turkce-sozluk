@@ -5,7 +5,7 @@ slug: acimtirak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► acımsı
+- acımsı
 ozellikler:
 - - sıfat
 ornekler:

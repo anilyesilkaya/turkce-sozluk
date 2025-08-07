@@ -5,7 +5,7 @@ slug: icat
 letter: I
 lisan: Arapça īcād
 anlamlar:
-- ► buluş
+- buluş
 - Gerçekmiş gibi gösterme çabası
 ozellikler:
 - - isim

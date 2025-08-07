@@ -5,7 +5,7 @@ slug: immun
 letter: I
 lisan: Fransızca immune
 anlamlar:
-- ► bağışık
+- bağışık
 ozellikler:
 - - sıfat
   - tıp

@@ -5,7 +5,7 @@ slug: hevessizce
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► isteksizce
+- isteksizce
 ozellikler:
 - - zarf
 ornekler:

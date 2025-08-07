@@ -5,7 +5,7 @@ slug: helvaci-koku
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► çöven
+- çöven
 ozellikler:
 - - isim
   - bitki bilimi

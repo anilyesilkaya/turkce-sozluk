@@ -5,7 +5,7 @@ slug: stator
 letter: S
 lisan: Fransızca stator
 anlamlar:
-- ► duruk
+- duruk
 ozellikler:
 - - isim
   - fizik

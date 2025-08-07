@@ -5,7 +5,7 @@ slug: antepli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Gaziantepli
+- Gaziantepli
 ozellikler:
 - - sıfat
 ornekler:

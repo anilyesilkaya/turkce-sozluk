@@ -5,7 +5,7 @@ slug: memba
 letter: M
 lisan: Arapça menbaʿ
 anlamlar:
-- ► kaynak (I)
+- kaynak (I)
 - Bir şeyin ilk olarak ortaya çıktığı yer
 ozellikler:
 - - isim

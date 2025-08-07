@@ -5,7 +5,7 @@ slug: alp
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yiğit
+- yiğit
 ozellikler:
 - - sıfat
 ornekler:

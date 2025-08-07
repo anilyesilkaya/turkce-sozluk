@@ -7,7 +7,7 @@ lisan: Arapça tażyīḳ
 anlamlar:
 - Bir şeyi sıkıştırma, darlaştırma
 - Manevi baskı, zorlama, zarara sokma
-- ► basınç
+- basınç
 ozellikler:
 - - isim
 - - isim

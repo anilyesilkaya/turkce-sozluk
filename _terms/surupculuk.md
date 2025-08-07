@@ -5,7 +5,7 @@ slug: surupculuk
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şerbetçilik
+- şerbetçilik
 ozellikler:
 - - isim
 ornekler:

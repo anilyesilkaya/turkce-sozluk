@@ -5,7 +5,7 @@ slug: imtihansiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sınavsız
+- sınavsız
 ozellikler:
 - - zarf
 ornekler:

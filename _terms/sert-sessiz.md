@@ -5,7 +5,7 @@ slug: sert-sessiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonsuz ünsüz
+- tonsuz ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

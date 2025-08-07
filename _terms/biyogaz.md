@@ -5,7 +5,7 @@ slug: biyogaz
 letter: B
 lisan: Fransızca biogaz
 anlamlar:
-- ► gübre gazı
+- gübre gazı
 ozellikler:
 - - isim
 ornekler:

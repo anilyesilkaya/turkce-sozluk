@@ -5,7 +5,7 @@ slug: parkometre
 letter: P
 lisan: Fransızca parcomètre
 anlamlar:
-- ► parkmetre
+- parkmetre
 ozellikler:
 - - isim
 ornekler:

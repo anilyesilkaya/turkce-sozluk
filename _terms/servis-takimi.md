@@ -5,7 +5,7 @@ slug: servis-takimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yemek takımı
+- yemek takımı
 ozellikler:
 - - isim
 ornekler:

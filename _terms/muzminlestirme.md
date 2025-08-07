@@ -5,7 +5,7 @@ slug: muzminlestirme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► süreğenleştirme
+- süreğenleştirme
 ozellikler:
 - - isim
 ornekler:

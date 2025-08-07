@@ -5,7 +5,7 @@ slug: mekan-zarfi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yer zarfı
+- yer zarfı
 ozellikler:
 - - isim
   - dil bilgisi

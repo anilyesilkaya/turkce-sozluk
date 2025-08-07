@@ -8,7 +8,7 @@ anlamlar:
 - Alıcının görmesi, seçmesi için dizilmiş şeylerin tümü ve bu nesnelerin serildiği yer
 - Halkın gezip görmesi, tanıması için uygun biçimde yerleştirilmiş ürünlerin, sanat eserlerinin tümü
 - Bir yerin, bir ülkenin veya çeşitli ülkelerin kendine özgü tarım, sanayi vb. ürünlerini tanıtmak için bunların uygun bir biçimde gösterildiği yer
-- ► işporta
+- işporta
 - Yaygı, kilim
 ozellikler:
 - - isim

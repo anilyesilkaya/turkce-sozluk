@@ -5,7 +5,7 @@ slug: sekilsellestirmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimselleştirmek
+- biçimselleştirmek
 ozellikler:
 - - -i
 ornekler:

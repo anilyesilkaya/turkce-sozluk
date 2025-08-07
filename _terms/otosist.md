@@ -5,7 +5,7 @@ slug: otosist
 letter: O
 lisan: Fransızca autocyste
 anlamlar:
-- ► işitme kesesi
+- işitme kesesi
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: kaplica
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► siyez buğdayı
+- siyez buğdayı
 ozellikler:
 - - isim
   - ağızlardan

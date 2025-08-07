@@ -7,7 +7,7 @@ lisan: Fransızca séance
 anlamlar:
 - Bir işin yapılmasına ayrılan çalışma süresi; oturum
 - Bazı tedavi yöntemlerinin uygulanması için ayrılan süre
-- ► gösterim
+- gösterim
 ozellikler:
 - - isim
 - - isim

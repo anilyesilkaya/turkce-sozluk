@@ -9,7 +9,7 @@ anlamlar:
 - Bir şeye başlamak
 - Bir işe kalkışmak
 - Birbirine karışmak
-- ► dövmek
+- dövmek
 - Kavgaya tutuşmak
 ozellikler:
 - - -e

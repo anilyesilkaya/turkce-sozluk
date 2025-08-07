@@ -5,7 +5,7 @@ slug: tepetaklak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tepetakla
+- tepetakla
 ozellikler:
 - - zarf
 ornekler:

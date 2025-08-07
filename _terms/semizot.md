@@ -5,7 +5,7 @@ slug: semizot
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► semizotu
+- semizotu
 ozellikler:
 - - isim
   - bitki bilimi

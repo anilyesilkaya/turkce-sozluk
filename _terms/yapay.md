@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğadaki örneklerine benzetilerek insan eliyle yapılmış veya üretilmiş; yapma, bileşimli, suni, tasni, sentetik, doğal karşıtı
-- ► yapmacık
+- yapmacık
 ozellikler:
 - - sıfat
 - - sıfat

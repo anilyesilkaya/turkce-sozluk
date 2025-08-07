@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça ictimāʿ
 anlamlar:
 - Askerlerin silahlı ve donatılmış olarak toplanmaları
-- ► kavuşum
-- ► toplantı
+- kavuşum
+- toplantı
 ozellikler:
 - - isim
   - askerlik

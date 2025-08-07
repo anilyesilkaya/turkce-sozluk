@@ -5,7 +5,7 @@ slug: sozun-kisasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kısacası
+- kısacası
 ozellikler:
 - - zarf
 ornekler:

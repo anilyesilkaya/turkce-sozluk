@@ -5,7 +5,7 @@ slug: elektrik-anahtari
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrik düğmesi
+- elektrik düğmesi
 ozellikler:
 - - isim
 ornekler:

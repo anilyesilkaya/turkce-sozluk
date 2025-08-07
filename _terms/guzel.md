@@ -14,7 +14,7 @@ anlamlar:
 - Okşayıcı, aldatıcı, kandırıcı
 - Pek iyi, doğru
 - Hoş görünüşlü kız veya kadın
-- ► güzellik kraliçesi
+- güzellik kraliçesi
 - Hoşa giden, beğenilen, iyi, doğru bir biçimde
 - Adamakıllı, şiddetli bir biçimde
 ozellikler:

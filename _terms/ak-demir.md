@@ -5,7 +5,7 @@ slug: ak-demir
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dövme demir
+- dövme demir
 ozellikler:
 - - isim
 ornekler:

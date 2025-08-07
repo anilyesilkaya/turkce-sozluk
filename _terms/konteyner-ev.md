@@ -5,7 +5,7 @@ slug: konteyner-ev
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► taşınır ev
+- taşınır ev
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zooloji
 letter: Z
 lisan: Fransızca zoologie
 anlamlar:
-- ► hayvan bilimi
+- hayvan bilimi
 ozellikler:
 - - isim
 ornekler:

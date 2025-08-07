@@ -5,7 +5,7 @@ slug: yilan-kavi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yılan gömleği
+- yılan gömleği
 ozellikler:
 - - isim
 ornekler:

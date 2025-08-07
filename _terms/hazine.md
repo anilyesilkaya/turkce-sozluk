@@ -9,7 +9,7 @@ anlamlar:
 - Değerli şeylerin saklandığı yer; hazne
 - Değerli bir şeyin çok bulunduğu yer
 - Gömülü veya saklıyken bulunan değerli şeylerin bütünü
-- ► kaynak (I)
+- kaynak (I)
 - Devlet malı veya parası
 - Devlet malının veya parasının saklandığı yer
 - Devletin altın, döviz, bono ve nakit işlemlerini maliye ile birlikte düzenleme görevini üstlenen makam

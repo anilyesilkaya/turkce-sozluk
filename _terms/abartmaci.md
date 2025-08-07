@@ -5,7 +5,7 @@ slug: abartmaci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► abartıcı
+- abartıcı
 ozellikler:
 - - sıfat
 ornekler:

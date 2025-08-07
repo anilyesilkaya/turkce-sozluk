@@ -5,7 +5,7 @@ slug: transandantal
 letter: T
 lisan: Fransızca transcendantal
 anlamlar:
-- ► deneyüstü
+- deneyüstü
 ozellikler:
 - - isim
   - felsefe

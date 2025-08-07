@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İdare etmesini bilen, iyi yöneten
-- ► tutumlu
+- tutumlu
 - Tutumlu bir biçimde, ekonomik olarak
 ozellikler:
 - - sıfat

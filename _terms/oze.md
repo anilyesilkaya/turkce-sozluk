@@ -5,7 +5,7 @@ slug: oze
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özgü
+- özgü
 - Laboratuvarda bakteri üretimi işleminde kullanılan ince telli çubuk
 ozellikler:
 - - isim

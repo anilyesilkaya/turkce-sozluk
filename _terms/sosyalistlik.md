@@ -5,7 +5,7 @@ slug: sosyalistlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumculuk
+- toplumculuk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yitim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kayıp
+- kayıp
 ozellikler:
 - - isim
 ornekler:

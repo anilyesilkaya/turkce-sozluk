@@ -5,7 +5,7 @@ slug: munasebetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ilişkili
+- ilişkili
 - Uygun, yakışık alan
 ozellikler:
 - - sıfat

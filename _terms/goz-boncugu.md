@@ -5,7 +5,7 @@ slug: goz-boncugu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► nazar boncuğu
+- nazar boncuğu
 ozellikler:
 - - isim
 ornekler:

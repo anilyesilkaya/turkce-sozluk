@@ -5,7 +5,7 @@ slug: salat
 letter: S
 lisan: Arapça ṣalāt
 anlamlar:
-- ► namaz
+- namaz
 - Hz. Muhammed'in adı anıldığında saygı göstermek için okunan dua
 ozellikler:
 - - isim

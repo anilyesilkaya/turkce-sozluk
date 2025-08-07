@@ -5,7 +5,7 @@ slug: kalitcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mirasçılık
+- mirasçılık
 ozellikler:
 - - isim
 ornekler:

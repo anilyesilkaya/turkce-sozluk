@@ -5,7 +5,7 @@ slug: pulverizator
 letter: P
 lisan: Fransızca pulvérisateur
 anlamlar:
-- ► püskürteç
+- püskürteç
 ozellikler:
 - - isim
 ornekler:

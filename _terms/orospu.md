@@ -5,7 +5,7 @@ slug: orospu
 letter: O
 lisan: Farsça rūspī
 anlamlar:
-- ► fahişe
+- fahişe
 - Kolay elde edilen, düşük ahlaklı kadın
 ozellikler:
 - - isim

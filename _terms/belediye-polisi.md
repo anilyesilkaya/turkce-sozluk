@@ -5,7 +5,7 @@ slug: belediye-polisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belediye zabıtası
+- belediye zabıtası
 ozellikler:
 - - isim
   - eskimiş

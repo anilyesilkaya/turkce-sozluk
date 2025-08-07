@@ -5,7 +5,7 @@ slug: bileyleyis
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bileyiş
+- bileyiş
 ozellikler:
 - - isim
 ornekler:

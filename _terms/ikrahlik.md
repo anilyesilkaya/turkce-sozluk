@@ -5,7 +5,7 @@ slug: ikrahlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tiksinti
+- tiksinti
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cicimayi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► balayı
+- balayı
 - Her tür işin başlangıcı, ilk zamanları
 ozellikler:
 - - isim

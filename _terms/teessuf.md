@@ -5,7 +5,7 @@ slug: teessuf
 letter: T
 lisan: Arapça teʾessuf
 anlamlar:
-- ► yazıklanma
+- yazıklanma
 ozellikler:
 - - isim
 ornekler:

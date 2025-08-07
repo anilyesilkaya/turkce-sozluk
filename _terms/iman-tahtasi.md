@@ -5,7 +5,7 @@ slug: iman-tahtasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► göğüs kemiği
+- göğüs kemiği
 ozellikler:
 - - isim
   - ağızlardan

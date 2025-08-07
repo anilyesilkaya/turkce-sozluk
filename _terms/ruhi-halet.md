@@ -5,7 +5,7 @@ slug: ruhi-halet
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► ruhsal durum
+- ruhsal durum
 ozellikler:
 - - isim
 ornekler:

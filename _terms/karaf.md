@@ -5,7 +5,7 @@ slug: karaf
 letter: K
 lisan: İtalyanca caraffa
 anlamlar:
-- ► karafa
+- karafa
 ozellikler:
 - - isim
 ornekler:

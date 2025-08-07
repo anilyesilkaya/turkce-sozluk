@@ -5,7 +5,7 @@ slug: esatiri
 letter: E
 lisan: Arapça esāṭīrī
 anlamlar:
-- ► mitolojik
+- mitolojik
 ozellikler:
 - - sıfat
   - eskimiş

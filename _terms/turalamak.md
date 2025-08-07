@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İplik çilelerini turalarına ayırmak
 - Bazı oyunlarda, tura ile vurmak
-- ► turlamak
+- turlamak
 ozellikler:
 - - -i
 - - -i

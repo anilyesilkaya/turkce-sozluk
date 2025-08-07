@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Oklava ile açılan ince, yuvarlak hamur yaprağı
 - Sacda pişen bir ekmek türü
-- ► katlama
+- katlama
 - Zayıf, ince, dayanıksız olan
 ozellikler:
 - - isim

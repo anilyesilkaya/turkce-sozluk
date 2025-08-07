@@ -5,7 +5,7 @@ slug: acimtiraklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► acımsılık
+- acımsılık
 ozellikler:
 - - isim
 ornekler:

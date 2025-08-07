@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağı az
-- ► katıksız
+- katıksız
 - Hoşa gitmeyen, tatsız olan
 - Görgüsüz, bilgisiz olan
 ozellikler:

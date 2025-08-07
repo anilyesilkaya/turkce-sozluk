@@ -5,7 +5,7 @@ slug: mecra
 letter: M
 lisan: Arapça mecrā
 anlamlar:
-- ► yatak
+- yatak
 - Bir işin gidişi, bir olayın doğrultusu
 ozellikler:
 - - isim

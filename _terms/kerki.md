@@ -5,7 +5,7 @@ slug: kerki
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► keser
+- keser
 ozellikler:
 - - isim
   - ağızlardan

@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca cirque
 anlamlar:
 - Cambazların ve eğitilmiş hayvanların gösteri yaptıkları, genellikle kapalı yer
-- ► buz yalağı
+- buz yalağı
 ozellikler:
 - - isim
 - - isim

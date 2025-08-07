@@ -5,7 +5,7 @@ slug: tabedilme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► basılma
+- basılma
 ozellikler:
 - - isim
 ornekler:

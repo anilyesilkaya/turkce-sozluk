@@ -5,7 +5,7 @@ slug: agnam
 letter: A
 lisan: Arapça aġnām
 anlamlar:
-- ► sayım vergisi
+- sayım vergisi
 ozellikler:
 - - isim
   - eskimiş

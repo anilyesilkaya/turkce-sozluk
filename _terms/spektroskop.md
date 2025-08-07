@@ -5,7 +5,7 @@ slug: spektroskop
 letter: S
 lisan: Fransızca spectroscope
 anlamlar:
-- ► tayfölçer
+- tayfölçer
 ozellikler:
 - - isim
   - fizik

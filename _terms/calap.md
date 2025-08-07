@@ -5,7 +5,7 @@ slug: calap
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - eskimiş

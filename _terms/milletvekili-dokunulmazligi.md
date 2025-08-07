@@ -5,7 +5,7 @@ slug: milletvekili-dokunulmazligi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yasama dokunulmazlığı
+- yasama dokunulmazlığı
 ozellikler:
 - - isim
 ornekler:

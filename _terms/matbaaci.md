@@ -5,7 +5,7 @@ slug: matbaaci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► basımcı
+- basımcı
 ozellikler:
 - - isim
 ornekler:

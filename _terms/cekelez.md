@@ -5,7 +5,7 @@ slug: cekelez
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sincap
+- sincap
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: emniyet-seridi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► güvenlik şeridi
+- güvenlik şeridi
 ozellikler:
 - - isim
 ornekler:

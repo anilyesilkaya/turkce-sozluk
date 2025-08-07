@@ -5,7 +5,7 @@ slug: esegimsi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eşeksi
+- eşeksi
 ozellikler:
 - - sıfat
 ornekler:

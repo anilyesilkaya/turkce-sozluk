@@ -5,7 +5,7 @@ slug: tepeustu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► baş aşağı
+- baş aşağı
 ozellikler:
 - - zarf
 ornekler:

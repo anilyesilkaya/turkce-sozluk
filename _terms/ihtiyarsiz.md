@@ -5,7 +5,7 @@ slug: ihtiyarsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► irade dışı
+- irade dışı
 - Düşünmeksizin, elde olmadan
 ozellikler:
 - - sıfat

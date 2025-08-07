@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gurup zamanı
-- ► batı
+- batı
 ozellikler:
 - - isim
   - ağızlardan

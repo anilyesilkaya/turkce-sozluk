@@ -5,7 +5,7 @@ slug: kengel
 letter: K
 lisan: Farsça kenger
 anlamlar:
-- ► kenger
+- kenger
 ozellikler:
 - - isim
   - bitki bilimi

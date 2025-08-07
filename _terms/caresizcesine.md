@@ -5,7 +5,7 @@ slug: caresizcesine
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çaresizce
+- çaresizce
 ozellikler:
 - - zarf
 ornekler:

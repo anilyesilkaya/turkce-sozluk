@@ -5,7 +5,7 @@ slug: kils
 letter: K
 lisan: Arapça kils
 anlamlar:
-- ► kireç taşı
+- kireç taşı
 ozellikler:
 - - isim
   - eskimiş

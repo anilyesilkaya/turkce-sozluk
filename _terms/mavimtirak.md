@@ -5,7 +5,7 @@ slug: mavimtirak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mavimsi
+- mavimsi
 ozellikler:
 - - sıfat
 ornekler:

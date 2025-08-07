@@ -5,7 +5,7 @@ slug: mukavelesiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sözleşmesiz
+- sözleşmesiz
 ozellikler:
 - - sıfat
 ornekler:

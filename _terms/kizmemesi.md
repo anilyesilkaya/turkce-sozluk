@@ -5,7 +5,7 @@ slug: kizmemesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► greyfurt
+- greyfurt
 - Bir tür şeftali
 ozellikler:
 - - isim

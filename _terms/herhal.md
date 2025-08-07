@@ -5,7 +5,7 @@ slug: herhal
 letter: H
 lisan: Farsça her + Arapça hāl
 anlamlar:
-- ► herhâlde
+- herhâlde
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: ornitolog
 letter: O
 lisan: Fransızca ornithologue
 anlamlar:
-- ► kuş bilimci
+- kuş bilimci
 ozellikler:
 - - isim
 ornekler:

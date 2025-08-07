@@ -5,7 +5,7 @@ slug: mutesebbis
 letter: M
 lisan: Arapça muteşebbis̱
 anlamlar:
-- ► girişimci
+- girişimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: icki-sefasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içki âlemi
+- içki âlemi
 ozellikler:
 - - isim
 ornekler:

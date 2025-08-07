@@ -7,9 +7,9 @@ lisan: Arapça tekmīl
 anlamlar:
 - Bir şeyi tamamlama, bitirme
 - Bütün, tüm
-- ► eksiksiz
-- ► tamamen
-- ► tekmil haberi
+- eksiksiz
+- tamamen
+- tekmil haberi
 ozellikler:
 - - isim
   - eskimiş

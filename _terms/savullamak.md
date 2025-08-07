@@ -6,7 +6,7 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Yoklamak veya kollamak
-- ► şakullemek
+- şakullemek
 - Göz gezdirmek, araştırmak
 ozellikler:
 - - -i

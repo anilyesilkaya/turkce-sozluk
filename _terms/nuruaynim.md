@@ -5,7 +5,7 @@ slug: nuruaynim
 letter: N
 lisan: Arapça nūr + ʿayn + Türkçe -ım
 anlamlar:
-- ► gözümün nuru
+- gözümün nuru
 ozellikler:
 - - ünlem
   - eskimiş

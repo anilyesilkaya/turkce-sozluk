@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Buğdaygillerden bir bitki (Hordeum vulgare)
 - Bu bitkinin ekmek ve bira yapımında kullanılan, hayvanlara yem olarak verilen taneleri
-- ► rüşvet
+- rüşvet
 ozellikler:
 - - isim
   - bitki bilimi

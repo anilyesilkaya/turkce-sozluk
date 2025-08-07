@@ -5,7 +5,7 @@ slug: onanizm
 letter: O
 lisan: Fransızca onanisme
 anlamlar:
-- ► mastürbasyon
+- mastürbasyon
 ozellikler:
 - - isim
 ornekler:

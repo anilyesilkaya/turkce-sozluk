@@ -9,7 +9,7 @@ anlamlar:
 - Bir işi başarabilme yetki ve yeteneği
 - Devlet yönetimini elinde bulundurma ve devlet gücünü kullanma yetkisi
 - Bu yetkiyi elinde bulunduran kişi ve kuruluşlar
-- ► cinsel güç
+- cinsel güç
 ozellikler:
 - - isim
 - - isim

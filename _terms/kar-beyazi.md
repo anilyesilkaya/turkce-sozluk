@@ -5,7 +5,7 @@ slug: kar-beyazi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kar beyaz
+- kar beyaz
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mesum
 letter: M
 lisan: Arapça meşʾūm
 anlamlar:
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: parantez
 letter: P
 lisan: Fransızca parenthèse
 anlamlar:
-- ► ayraç
+- ayraç
 - Konunun dışında kalan söz ve yazı
 ozellikler:
 - - isim

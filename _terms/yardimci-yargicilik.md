@@ -5,7 +5,7 @@ slug: yardimci-yargicilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yardımcı hakemlik
+- yardımcı hakemlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hususen
 letter: H
 lisan: Arapça ḫuṣūṣen
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
 ornekler:

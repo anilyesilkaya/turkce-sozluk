@@ -5,8 +5,8 @@ slug: seksiyon
 letter: S
 lisan: Fransızca section
 anlamlar:
-- ► bölüm
-- ► oturum
+- bölüm
+- oturum
 ozellikler:
 - - isim
 - - isim

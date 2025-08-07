@@ -5,8 +5,8 @@ slug: ebedilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sonsuzluk
-- ► ölümsüzlük
+- sonsuzluk
+- ölümsüzlük
 ozellikler:
 - - isim
 - - isim

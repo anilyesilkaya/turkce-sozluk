@@ -5,7 +5,7 @@ slug: bilek-saati
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kol saati
+- kol saati
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: rabit-edati
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► bağlaç
+- bağlaç
 ozellikler:
 - - isim
   - eskimiş

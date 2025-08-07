@@ -5,8 +5,8 @@ slug: vazih
 letter: V
 lisan: Arapça vāżiḥ
 anlamlar:
-- ► açık
-- ► aydınlık
+- açık
+- aydınlık
 ozellikler:
 - - sıfat
   - eskimiş

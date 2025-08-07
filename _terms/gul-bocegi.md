@@ -5,7 +5,7 @@ slug: gul-bocegi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► altın böcek
+- altın böcek
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: zorlukla
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► güçlükle
+- güçlükle
 ozellikler:
 - - zarf
 ornekler:

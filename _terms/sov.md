@@ -5,7 +5,7 @@ slug: sov
 letter: Ş
 lisan: İngilizce show
 anlamlar:
-- ► gösteri
+- gösteri
 ozellikler:
 - - isim
 ornekler:

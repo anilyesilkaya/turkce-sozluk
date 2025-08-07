@@ -5,8 +5,8 @@ slug: sehvani
 letter: Ş
 lisan: Arapça şehvānī
 anlamlar:
-- ► erotik
-- ► şehvetli
+- erotik
+- şehvetli
 ozellikler:
 - - sıfat
   - eskimiş

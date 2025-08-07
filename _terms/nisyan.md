@@ -5,7 +5,7 @@ slug: nisyan
 letter: N
 lisan: Arapça nisyān
 anlamlar:
-- ► unutma
+- unutma
 ozellikler:
 - - isim
   - eskimiş

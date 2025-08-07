@@ -5,7 +5,7 @@ slug: muhtelit
 letter: M
 lisan: Arapça muḫteliṭ
 anlamlar:
-- ► karma
+- karma
 ozellikler:
 - - sıfat
   - eskimiş

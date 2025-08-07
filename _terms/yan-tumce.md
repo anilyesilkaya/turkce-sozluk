@@ -5,7 +5,7 @@ slug: yan-tumce
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yan cümle
+- yan cümle
 ozellikler:
 - - isim
   - dil bilgisi

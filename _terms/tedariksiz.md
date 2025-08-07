@@ -5,7 +5,7 @@ slug: tedariksiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hazırlıksız
+- hazırlıksız
 - Önceden gereken şeyleri sağlamadan, hazırlıksız bir biçimde
 ozellikler:
 - - sıfat

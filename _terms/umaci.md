@@ -5,7 +5,7 @@ slug: umaci
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► öcü
+- öcü
 ozellikler:
 - - isim
 ornekler:

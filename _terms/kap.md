@@ -5,7 +5,7 @@ slug: kap
 letter: K
 lisan: Arapça kaʿb
 anlamlar:
-- ► aşık kemiği
+- aşık kemiği
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Operatör olma durumu
-- ► işletmenlik
+- işletmenlik
 ozellikler:
 - - isim
 - - isim

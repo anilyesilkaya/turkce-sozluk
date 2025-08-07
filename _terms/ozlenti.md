@@ -5,7 +5,7 @@ slug: ozlenti
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özlem
+- özlem
 ozellikler:
 - - isim
 ornekler:

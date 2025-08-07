@@ -5,7 +5,7 @@ slug: sigala
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► günlük ağacı
+- günlük ağacı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: sergerdelik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► elebaşılık
+- elebaşılık
 - Gönüllü asker olma durumu
 ozellikler:
 - - isim

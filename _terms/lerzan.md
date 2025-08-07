@@ -5,7 +5,7 @@ slug: lerzan
 letter: L
 lisan: Farsça lerzān
 anlamlar:
-- ► titrek
+- titrek
 ozellikler:
 - - sıfat
   - eskimiş

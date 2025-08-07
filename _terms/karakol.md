@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Güvenliği sağlamakla görevli kimselerin bulunduğu yapı
-- ► kolluk (II)
+- kolluk (II)
 ozellikler:
 - - isim
 - - isim

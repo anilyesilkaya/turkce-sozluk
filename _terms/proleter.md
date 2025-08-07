@@ -5,7 +5,7 @@ slug: proleter
 letter: P
 lisan: Fransızca prolétaire
 anlamlar:
-- ► emekçi
+- emekçi
 ozellikler:
 - - isim
 ornekler:

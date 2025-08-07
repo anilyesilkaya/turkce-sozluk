@@ -8,7 +8,7 @@ anlamlar:
 - Vücut yapısı
 - Bir bütünü oluşturan parçalar arasındaki düzenleniş
 - Bir kurum, kuruluş veya iş yerinin iç yapısı
-- ► yapı
+- yapı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: muayyen
 letter: M
 lisan: Arapça muʿayyen
 anlamlar:
-- ► belirli
+- belirli
 - Belirlenmiş olan
 - Bilinen
 ozellikler:

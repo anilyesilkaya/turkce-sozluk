@@ -5,7 +5,7 @@ slug: mutlakci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► saltçı
+- saltçı
 ozellikler:
 - - sıfat
 ornekler:

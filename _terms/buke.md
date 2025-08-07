@@ -5,7 +5,7 @@ slug: buke
 letter: B
 lisan: Fransızca bouquet
 anlamlar:
-- ► koku
+- koku
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gayrinizami
 letter: G
 lisan: Arapça ġayr + niẓāmī
 anlamlar:
-- ► düzensiz
+- düzensiz
 ozellikler:
 - - sıfat
   - eskimiş

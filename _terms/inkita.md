@@ -5,7 +5,7 @@ slug: inkita
 letter: I
 lisan: Arapça inḳiṭāʿ
 anlamlar:
-- ► kesinti
+- kesinti
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: nisif-kutur
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► yarıçap
+- yarıçap
 ozellikler:
 - - isim
   - geometri

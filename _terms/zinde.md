@@ -5,7 +5,7 @@ slug: zinde
 letter: Z
 lisan: Farsça zinde
 anlamlar:
-- ► diri
+- diri
 ozellikler:
 - - sıfat
 ornekler:

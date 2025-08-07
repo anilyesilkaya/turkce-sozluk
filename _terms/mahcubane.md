@@ -5,7 +5,7 @@ slug: mahcubane
 letter: M
 lisan: Arapça maḥcūb + Farsça -āne
 anlamlar:
-- ► mahcupça
+- mahcupça
 ozellikler:
 - - zarf
   - eskimiş

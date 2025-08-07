@@ -5,7 +5,7 @@ slug: cumudiye
 letter: C
 lisan: Arapça cumūdiyye
 anlamlar:
-- ► buzul
+- buzul
 ozellikler:
 - - isim
   - eskimiş

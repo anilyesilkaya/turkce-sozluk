@@ -5,7 +5,7 @@ slug: anemometre
 letter: A
 lisan: Fransızca anémomètre
 anlamlar:
-- ► yelölçer
+- yelölçer
 ozellikler:
 - - isim
 ornekler:

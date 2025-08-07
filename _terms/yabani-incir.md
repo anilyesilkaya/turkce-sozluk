@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - İncir ağacının yabani türü
-- ► yaban inciri
+- yaban inciri
 ozellikler:
 - - isim
   - bitki bilimi

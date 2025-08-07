@@ -5,7 +5,7 @@ slug: beslenen
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sönümsüz
+- sönümsüz
 - Besin ihtiyacını karşılayan; beslek
 ozellikler:
 - - sıfat

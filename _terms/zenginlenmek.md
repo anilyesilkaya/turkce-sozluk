@@ -5,7 +5,7 @@ slug: zenginlenmek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zenginleşmek
+- zenginleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

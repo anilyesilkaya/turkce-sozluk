@@ -6,7 +6,7 @@ letter: Ü
 lisan: Fransızca unitaire
 anlamlar:
 - Birlikçi, birlikten yana, birleştirici (siyaset)
-- ► merkeziyetçi
+- merkeziyetçi
 ozellikler:
 - - sıfat
 - - sıfat

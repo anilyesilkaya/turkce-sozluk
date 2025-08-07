@@ -5,7 +5,7 @@ slug: maden-filizi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maden cevheri
+- maden cevheri
 ozellikler:
 - - isim
   - mineraloji

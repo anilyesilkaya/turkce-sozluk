@@ -5,7 +5,7 @@ slug: acik-elli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cömert
+- cömert
 ozellikler:
 - - sıfat
   - mecaz

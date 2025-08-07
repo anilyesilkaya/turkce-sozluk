@@ -5,7 +5,7 @@ slug: isim-cumlesi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ad cümlesi
+- ad cümlesi
 ozellikler:
 - - isim
   - dil bilgisi

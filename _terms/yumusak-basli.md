@@ -5,7 +5,7 @@ slug: yumusak-basli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► uysal
+- uysal
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: duble-yol
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bölünmüş yol
+- bölünmüş yol
 ozellikler:
 - - isim
 ornekler:

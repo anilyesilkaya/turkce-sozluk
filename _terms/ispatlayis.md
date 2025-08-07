@@ -5,8 +5,8 @@ slug: ispatlayis
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtlayış
-- ► tanıtlayış
+- kanıtlayış
+- tanıtlayış
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca problème
 anlamlar:
 - Teoremler veya kurallar yardımıyla çözülmesi istenen soru; mesele
-- ► sorun
+- sorun
 - Davranışları normal olmayan ve özel olarak eğitilmesi gereken (kimse)
 ozellikler:
 - - isim

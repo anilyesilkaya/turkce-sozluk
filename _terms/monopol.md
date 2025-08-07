@@ -5,7 +5,7 @@ slug: monopol
 letter: M
 lisan: Fransızca monopole
 anlamlar:
-- ► tekel
+- tekel
 ozellikler:
 - - isim
 ornekler:

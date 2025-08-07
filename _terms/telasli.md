@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Telaş eden, telaşa düşen; pürtelaş
-- ► aceleci
+- aceleci
 ozellikler:
 - - sıfat
 - - sıfat

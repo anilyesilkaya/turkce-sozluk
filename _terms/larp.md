@@ -5,7 +5,7 @@ slug: larp
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 - Güçlü bir biçimde
 ozellikler:
 - - zarf

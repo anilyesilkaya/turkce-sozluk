@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılanmak işi
-- ► düzenleme
+- düzenleme
 ozellikler:
 - - isim
 - - isim

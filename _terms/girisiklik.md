@@ -5,7 +5,7 @@ slug: girisiklik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giriftlik
+- giriftlik
 ozellikler:
 - - isim
 ornekler:

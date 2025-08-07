@@ -5,7 +5,7 @@ slug: virajsiz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► dönemeçsiz
+- dönemeçsiz
 ozellikler:
 - - sıfat
 ornekler:

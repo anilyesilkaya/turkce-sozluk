@@ -5,7 +5,7 @@ slug: portor
 letter: P
 lisan: Fransızca porteur
 anlamlar:
-- ► taşıyıcı
+- taşıyıcı
 ozellikler:
 - - isim
   - tıp

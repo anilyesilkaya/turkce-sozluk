@@ -5,7 +5,7 @@ slug: firkat
 letter: F
 lisan: Arapça firḳat
 anlamlar:
-- ► ayrılık
+- ayrılık
 ozellikler:
 - - isim
   - eskimiş

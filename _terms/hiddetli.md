@@ -5,7 +5,7 @@ slug: hiddetli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► öfkeli
+- öfkeli
 ozellikler:
 - - sıfat
 ornekler:

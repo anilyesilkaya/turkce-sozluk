@@ -5,7 +5,7 @@ slug: ofans
 letter: O
 lisan: Fransızca offence
 anlamlar:
-- ► atak (II)
+- atak (II)
 ozellikler:
 - - sıfat
   - spor

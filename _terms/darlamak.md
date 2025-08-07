@@ -5,7 +5,7 @@ slug: darlamak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bunaltmak
+- bunaltmak
 ozellikler:
 - - -i
 ornekler:

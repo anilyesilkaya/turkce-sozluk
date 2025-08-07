@@ -5,8 +5,8 @@ slug: evveli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önceki
-- ► eskiden
+- önceki
+- eskiden
 ozellikler:
 - - sıfat
   - ağızlardan

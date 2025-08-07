@@ -5,8 +5,8 @@ slug: dinamo
 letter: D
 lisan: Fransızca dynamo
 anlamlar:
-- ► üreteç
-- ► sürükleyici
+- üreteç
+- sürükleyici
 ozellikler:
 - - isim
   - fizik

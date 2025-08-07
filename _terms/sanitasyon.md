@@ -5,7 +5,7 @@ slug: sanitasyon
 letter: S
 lisan: Fransızca sanitation
 anlamlar:
-- ► sağlıklama
+- sağlıklama
 ozellikler:
 - - isim
   - tıp

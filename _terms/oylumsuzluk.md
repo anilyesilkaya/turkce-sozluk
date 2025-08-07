@@ -5,7 +5,7 @@ slug: oylumsuzluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hacimsizlik
+- hacimsizlik
 ozellikler:
 - - isim
 ornekler:

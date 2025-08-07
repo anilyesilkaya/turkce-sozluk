@@ -5,7 +5,7 @@ slug: vajina
 letter: V
 lisan: Latince
 anlamlar:
-- ► döl yolu
+- döl yolu
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: yerdegezen
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yılan
+- yılan
 ozellikler:
 - - isim
   - ağızlardan

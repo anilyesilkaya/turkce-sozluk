@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Eskimek, dağılmaya yüz tutmak
 - Herhangi bir şey ek yerlerinden ayrılmak, oynamak
-- ► yaşlanmak
+- yaşlanmak
 - Zayıflamak, gevşemek, güçsüzleşmek
 ozellikler:
 - - nesnesiz

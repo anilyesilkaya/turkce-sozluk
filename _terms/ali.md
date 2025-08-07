@@ -5,8 +5,8 @@ slug: ali
 letter: A
 lisan: Arapça ʿālī
 anlamlar:
-- ► yüce
-- ► yüksek
+- yüce
+- yüksek
 ozellikler:
 - - sıfat
 - - sıfat

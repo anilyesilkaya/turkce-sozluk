@@ -8,7 +8,7 @@ anlamlar:
 - Hesabı tutulmayan
 - Sayılamayacak kadar çok olan
 - Önceden iyi düşünülmemiş, sonu belli olmayan; ölçüsüz, plansız
-- ► tutumsuz
+- tutumsuz
 ozellikler:
 - - sıfat
 - - sıfat

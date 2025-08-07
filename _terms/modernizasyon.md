@@ -5,7 +5,7 @@ slug: modernizasyon
 letter: M
 lisan: Fransızca modernisation
 anlamlar:
-- ► çağdaşlaşma
+- çağdaşlaşma
 ozellikler:
 - - isim
 ornekler:

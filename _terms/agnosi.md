@@ -5,7 +5,7 @@ slug: agnosi
 letter: A
 lisan: Fransızca agnosie
 anlamlar:
-- ► tanısızlık
+- tanısızlık
 ozellikler:
 - - isim
   - ruh bilimi

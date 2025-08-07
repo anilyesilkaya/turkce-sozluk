@@ -5,7 +5,7 @@ slug: endam
 letter: E
 lisan: Farsça endām
 anlamlar:
-- ► boy pos
+- boy pos
 ozellikler:
 - - isim
 ornekler:

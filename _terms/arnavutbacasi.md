@@ -5,7 +5,7 @@ slug: arnavutbacasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çatı penceresi
+- çatı penceresi
 ozellikler:
 - - isim
 ornekler:

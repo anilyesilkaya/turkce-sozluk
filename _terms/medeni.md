@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça medenī
 anlamlar:
 - Kentlileşmiş, kırsallıktan kurtulmuş
-- ► uygar
+- uygar
 - Uygar biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: endustri
 letter: E
 lisan: Fransızca industrie
 anlamlar:
-- ► sanayi
+- sanayi
 ozellikler:
 - - isim
 ornekler:

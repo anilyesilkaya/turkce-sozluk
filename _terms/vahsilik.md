@@ -5,7 +5,7 @@ slug: vahsilik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yabanilik
+- yabanilik
 ozellikler:
 - - isim
 ornekler:

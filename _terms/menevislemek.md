@@ -5,7 +5,7 @@ slug: menevislemek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► harelemek
+- harelemek
 ozellikler:
 - - -i
 ornekler:

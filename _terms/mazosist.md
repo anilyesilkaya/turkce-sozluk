@@ -5,7 +5,7 @@ slug: mazosist
 letter: M
 lisan: Fransızca masochiste
 anlamlar:
-- ► özezer
+- özezer
 ozellikler:
 - - isim
   - ruh bilimi

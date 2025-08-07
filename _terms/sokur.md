@@ -5,7 +5,7 @@ slug: sokur
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► köstebek
+- köstebek
 - İçeriye batmış
 - Bir gözü kör
 ozellikler:

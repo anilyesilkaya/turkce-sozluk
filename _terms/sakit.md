@@ -5,7 +5,7 @@ slug: sakit
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► murana
+- murana
 ozellikler:
 - - isim
   - hayvan bilimi

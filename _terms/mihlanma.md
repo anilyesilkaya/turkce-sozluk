@@ -5,7 +5,7 @@ slug: mihlanma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivilenme
+- çivilenme
 ozellikler:
 - - isim
 ornekler:

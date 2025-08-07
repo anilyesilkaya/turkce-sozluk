@@ -5,7 +5,7 @@ slug: riyaseticumhur
 letter: R
 lisan: Arapça riyaset + cumhur
 anlamlar:
-- ► cumhurbaşkanlığı
+- cumhurbaşkanlığı
 ozellikler:
 - - isim
 ornekler:

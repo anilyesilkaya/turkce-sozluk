@@ -5,7 +5,7 @@ slug: ulestirmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► paylaştırmak
+- paylaştırmak
 ozellikler:
 - - -e
   - -i

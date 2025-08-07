@@ -5,7 +5,7 @@ slug: terbiyeci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eğitimci
+- eğitimci
 ozellikler:
 - - isim
   - eskimiş

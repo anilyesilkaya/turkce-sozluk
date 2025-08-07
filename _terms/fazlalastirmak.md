@@ -5,7 +5,7 @@ slug: fazlalastirmak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► çoğaltmak
+- çoğaltmak
 ozellikler:
 - - -i
 ornekler:

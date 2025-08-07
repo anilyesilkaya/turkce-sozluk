@@ -5,7 +5,7 @@ slug: folklor
 letter: F
 lisan: Fransızca folklore
 anlamlar:
-- ► halk bilimi
+- halk bilimi
 ozellikler:
 - - isim
 ornekler:

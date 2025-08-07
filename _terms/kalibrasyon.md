@@ -5,7 +5,7 @@ slug: kalibrasyon
 letter: K
 lisan: Fransızca calibration
 anlamlar:
-- ► ölçümleme
+- ölçümleme
 ozellikler:
 - - isim
 ornekler:

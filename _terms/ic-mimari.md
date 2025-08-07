@@ -5,7 +5,7 @@ slug: ic-mimari
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iç mimarlık
+- iç mimarlık
 ozellikler:
 - - isim
 ornekler:

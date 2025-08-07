@@ -5,9 +5,9 @@ slug: operasyon
 letter: O
 lisan: Fransızca opération
 anlamlar:
-- ► dizi eylem
+- dizi eylem
 - Güvenlik güçlerince suçluların yakalanması için düzenlenen eylemler bütünü
-- ► ameliyat
+- ameliyat
 ozellikler:
 - - isim
 - - isim

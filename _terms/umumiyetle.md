@@ -5,7 +5,7 @@ slug: umumiyetle
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genellikle
+- genellikle
 ozellikler:
 - - zarf
 ornekler:

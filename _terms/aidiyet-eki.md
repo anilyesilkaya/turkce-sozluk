@@ -5,7 +5,7 @@ slug: aidiyet-eki
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aitlik eki
+- aitlik eki
 ozellikler:
 - - isim
   - dil bilgisi

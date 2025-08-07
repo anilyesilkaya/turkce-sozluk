@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Parıldayarak
-- ► gürül gürül
+- gürül gürül
 ozellikler:
 - - zarf
 - - zarf

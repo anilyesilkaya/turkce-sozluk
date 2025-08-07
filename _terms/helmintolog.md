@@ -5,7 +5,7 @@ slug: helmintolog
 letter: H
 lisan: Fransızca helminthologue
 anlamlar:
-- ► kurt bilimci
+- kurt bilimci
 ozellikler:
 - - isim
 ornekler:

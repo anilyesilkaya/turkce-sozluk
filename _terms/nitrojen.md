@@ -5,7 +5,7 @@ slug: nitrojen
 letter: N
 lisan: Fransızca nitrogène
 anlamlar:
-- ► azot
+- azot
 ozellikler:
 - - isim
   - kimya

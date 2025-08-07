@@ -5,8 +5,8 @@ slug: hayvani
 letter: H
 lisan: Arapça ḥayvānī
 anlamlar:
-- ► hayvansal
-- ► hayvanca
+- hayvansal
+- hayvanca
 ozellikler:
 - - sıfat
 - - sıfat

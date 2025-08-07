@@ -5,7 +5,7 @@ slug: mufit
 letter: M
 lisan: Arapça mufīd
 anlamlar:
-- ► yararlı
+- yararlı
 - Anlatan, ifade eden
 ozellikler:
 - - sıfat

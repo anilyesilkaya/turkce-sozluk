@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Seyreltmek işi
-- ► seyrekleştirme
+- seyrekleştirme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mudafaaname
 letter: M
 lisan: Arapça mudāfaʿa + Farsça nāme
 anlamlar:
-- ► savunma
+- savunma
 ozellikler:
 - - isim
   - eskimiş

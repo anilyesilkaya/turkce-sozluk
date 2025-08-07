@@ -5,7 +5,7 @@ slug: oylumlu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hacimli
+- hacimli
 - Büyük, geniş
 ozellikler:
 - - sıfat

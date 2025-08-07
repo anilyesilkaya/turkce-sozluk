@@ -5,7 +5,7 @@ slug: olumsuz-eylem
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olumsuz fiil
+- olumsuz fiil
 ozellikler:
 - - isim
   - dil bilgisi

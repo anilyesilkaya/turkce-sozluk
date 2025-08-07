@@ -5,7 +5,7 @@ slug: karsi-akin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karşı atak
+- karşı atak
 ozellikler:
 - - isim
   - spor

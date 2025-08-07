@@ -5,7 +5,7 @@ slug: guguklu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► guguklu saat
+- guguklu saat
 ozellikler:
 - - isim
 ornekler:

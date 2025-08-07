@@ -5,7 +5,7 @@ slug: pogrom
 letter: P
 lisan: Rusça
 anlamlar:
-- ► soykırım
+- soykırım
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: sanatkarane
 letter: S
 lisan: Arapça ṣanʿat + Farsça -kār-āne
 anlamlar:
-- ► sanatkârca
+- sanatkârca
 ozellikler:
 - - zarf
 ornekler:

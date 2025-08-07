@@ -5,7 +5,7 @@ slug: fotosfer
 letter: F
 lisan: Fransızca photosphère
 anlamlar:
-- ► ışık yuvarı
+- ışık yuvarı
 ozellikler:
 - - isim
   - gök bilimi

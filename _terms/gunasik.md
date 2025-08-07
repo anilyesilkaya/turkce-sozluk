@@ -5,7 +5,7 @@ slug: gunasik
 letter: G
 lisan: Türkçe gün + Arapça ʿāşiḳ
 anlamlar:
-- ► ayçiçeği
+- ayçiçeği
 ozellikler:
 - - isim
   - ağızlardan

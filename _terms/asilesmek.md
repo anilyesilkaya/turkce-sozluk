@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Asi durumuna gelmek; başkaldırmak, isyan etmek
-- ► başkaldırmak
+- başkaldırmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

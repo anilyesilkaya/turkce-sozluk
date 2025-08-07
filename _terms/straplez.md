@@ -5,7 +5,7 @@ slug: straplez
 letter: S
 lisan: İngilizce strapless
 anlamlar:
-- ► askısız
+- askısız
 - Kadın tekstil ürünlerinde askısız ve kolsuz yaka kesimi
 ozellikler:
 - - isim

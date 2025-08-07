@@ -5,7 +5,7 @@ slug: simsariye
 letter: S
 lisan: Arapça simsāriyye
 anlamlar:
-- ► komisyon
+- komisyon
 ozellikler:
 - - isim
   - eskimiş

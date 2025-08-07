@@ -5,8 +5,8 @@ slug: hopurdek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► yudum
-- ► höpürtü
+- yudum
+- höpürtü
 - Çayı ve çorbayı höpürdeterek içen (kimse)
 - Aceleci ve sabırsız (kimse)
 ozellikler:

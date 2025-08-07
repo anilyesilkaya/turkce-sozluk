@@ -8,7 +8,7 @@ anlamlar:
 - Aynı düzlem içinde ikişer ikişer bulunan ve kesişmeyen; koşut, muvazi, mütevazi
 - Başlangıç meridyenine birer derecelik açılarla çizilen, Ekvator’a paralel ve aralarında 111 km’lik mesafe bulunan farazi çemberlerden her biri
 - Aynı zaman içinde gelişen veya aynı özellikleri gösteren (olay, düşünce vb.)
-- ► paralel bar
+- paralel bar
 ozellikler:
 - - sıfat
   - matematik

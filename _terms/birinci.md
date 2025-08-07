@@ -8,7 +8,7 @@ anlamlar:
 - Bir sayısının sıra sıfatı
 - Zaman, yer, sıra bakımından başkalarından önce gelen kimse, şey
 - Sırada, önem sırasında en üstün olan kimse
-- ► birinci mevki
+- birinci mevki
 ozellikler:
 - - sıfat
 - - sıfat

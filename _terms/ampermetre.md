@@ -5,7 +5,7 @@ slug: ampermetre
 letter: A
 lisan: Fransızca ampèremètre
 anlamlar:
-- ► akımölçer
+- akımölçer
 ozellikler:
 - - isim
   - fizik

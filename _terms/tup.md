@@ -8,7 +8,7 @@ anlamlar:
 - Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru
 - İçine krem, diş macunu, ilaç vb. maddeler konulan, bir ucu burgu kapaklı, plastik veya metal boru; tulum
 - Akışkan maddelerin konulduğu, genellikle silindir biçiminde, içi boş, ağzı özel tapalı kap
-- ► fallop tüpü
+- fallop tüpü
 - Bitkilerin tohum veya fide olarak içerisine dikildikleri plastik vb. toprak dolu kap
 - Çok sayıda ampulün bir araya getirilmesiyle oluşturulmuş, televizyonda ekran görüntüsü sağlayan cihaz
 ozellikler:

@@ -5,7 +5,7 @@ slug: bolalma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bollaşma
+- bollaşma
 ozellikler:
 - - isim
 ornekler:

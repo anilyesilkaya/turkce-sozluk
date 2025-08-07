@@ -5,7 +5,7 @@ slug: mutereddit
 letter: M
 lisan: Arapça mutereddid
 anlamlar:
-- ► kararsız
+- kararsız
 ozellikler:
 - - sıfat
   - eskimiş

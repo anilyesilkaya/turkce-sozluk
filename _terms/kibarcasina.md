@@ -5,7 +5,7 @@ slug: kibarcasina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kibarca
+- kibarca
 ozellikler:
 - - zarf
 ornekler:

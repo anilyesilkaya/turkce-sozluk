@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birkaç kuşak sonra ortaya çıkan ve o zamana kadar aradaki döllerde gizli kalan (soya çekim nitelikleri); resesif
-- ► çekingen
+- çekingen
 - Çekingen bir biçimde
 ozellikler:
 - - sıfat

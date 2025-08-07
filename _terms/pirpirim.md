@@ -5,7 +5,7 @@ slug: pirpirim
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► semizotu
+- semizotu
 ozellikler:
 - - isim
   - ağızlardan

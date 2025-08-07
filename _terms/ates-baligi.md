@@ -5,7 +5,7 @@ slug: ates-baligi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sardalya
+- sardalya
 ozellikler:
 - - isim
   - hayvan bilimi

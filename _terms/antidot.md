@@ -5,7 +5,7 @@ slug: antidot
 letter: A
 lisan: Fransızca antidote
 anlamlar:
-- ► panzehir
+- panzehir
 ozellikler:
 - - isim
 ornekler:

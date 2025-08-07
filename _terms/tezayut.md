@@ -5,7 +5,7 @@ slug: tezayut
 letter: T
 lisan: Arapça tezāyud
 anlamlar:
-- ► artma
+- artma
 ozellikler:
 - - isim
   - eskimiş

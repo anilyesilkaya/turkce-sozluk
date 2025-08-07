@@ -5,7 +5,7 @@ slug: hasretsizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özlemsizlik
+- özlemsizlik
 ozellikler:
 - - isim
 ornekler:

@@ -8,8 +8,8 @@ anlamlar:
 - Ceza olarak belli bir yerin dışında veya belli bir yerde oturtulan kimse; menfa
 - Sürülme işi; nefiy
 - Bir kimsenin sürüldüğü yer
-- ► filiz (I)
-- ► ishal
+- filiz (I)
+- ishal
 ozellikler:
 - - isim
 - - isim

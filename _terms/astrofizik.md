@@ -5,7 +5,7 @@ slug: astrofizik
 letter: A
 lisan: Fransızca astrophysique
 anlamlar:
-- ► yıldız fiziği
+- yıldız fiziği
 ozellikler:
 - - isim
   - gök bilimi

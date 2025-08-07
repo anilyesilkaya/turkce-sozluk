@@ -5,7 +5,7 @@ slug: ayin-on-dordu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dolunay
+- dolunay
 ozellikler:
 - - isim
 ornekler:

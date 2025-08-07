@@ -5,7 +5,7 @@ slug: karsi-oy
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırmızı oy
+- kırmızı oy
 - Muhalefet etme, karşı gelme
 ozellikler:
 - - isim

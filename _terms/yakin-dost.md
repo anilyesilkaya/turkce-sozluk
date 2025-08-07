@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - İçten, samimi kimse
-- ► kardeşlik
+- kardeşlik
 ozellikler:
 - - isim
 - - isim

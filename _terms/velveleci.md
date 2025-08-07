@@ -5,7 +5,7 @@ slug: velveleci
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► gürültücü
+- gürültücü
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: top-zambak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► zambak
+- zambak
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: flaman-kusu
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► flamingo
+- flamingo
 ozellikler:
 - - isim
   - hayvan bilimi

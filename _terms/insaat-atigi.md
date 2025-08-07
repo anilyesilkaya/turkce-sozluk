@@ -5,7 +5,7 @@ slug: insaat-atigi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► moloz
+- moloz
 ozellikler:
 - - isim
 ornekler:

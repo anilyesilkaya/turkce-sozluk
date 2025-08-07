@@ -5,8 +5,8 @@ slug: obligasyon
 letter: O
 lisan: Fransızca obligation
 anlamlar:
-- ► tahvil
-- ► yükümlülük
+- tahvil
+- yükümlülük
 - Ödünç sermaye
 ozellikler:
 - - isim

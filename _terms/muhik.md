@@ -5,7 +5,7 @@ slug: muhik
 letter: M
 lisan: Arapça muḥiḳḳ
 anlamlar:
-- ► haklı
+- haklı
 ozellikler:
 - - sıfat
   - eskimiş

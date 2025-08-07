@@ -5,7 +5,7 @@ slug: dogrulum
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yönelim
+- yönelim
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: ciziltili
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cızırtılı
+- cızırtılı
 ozellikler:
 - - sıfat
 ornekler:

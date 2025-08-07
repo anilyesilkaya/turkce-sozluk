@@ -7,11 +7,11 @@ lisan: Fransızca groupe
 anlamlar:
 - Birbirine benzer veya aynı cinsten olan şeylerin oluşturduğu bütün; küme, takım
 - Ortak özellikleri olan varlıklar, nesneler bütünü; küme
-- ► ekip
-- ► kategori
+- ekip
+- kategori
 - Görüşleri, çıkarları bir olan kimseler bütünü
 - Çeşitli sınıf veya birliklere bağlı elemanların, belirli bir taktik görevi gerçekleştirmek üzere, tek komutanın emri altında birleştirilmesinden oluşan kıta topluluğu
-- ► öbek
+- öbek
 ozellikler:
 - - isim
 - - isim

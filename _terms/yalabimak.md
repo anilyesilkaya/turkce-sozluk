@@ -5,7 +5,7 @@ slug: yalabimak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► parıldamak
+- parıldamak
 - Şimşek çakmak
 ozellikler:
 - - nesnesiz

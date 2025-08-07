@@ -5,7 +5,7 @@ slug: antagonizma
 letter: A
 lisan: Fransızca antagonisme
 anlamlar:
-- ► antagonizm
+- antagonizm
 ozellikler:
 - - isim
 ornekler:

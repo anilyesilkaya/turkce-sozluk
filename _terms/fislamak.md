@@ -5,7 +5,7 @@ slug: fislamak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fıkramak
+- fıkramak
 ozellikler:
 - - nesnesiz
   - ağızlardan

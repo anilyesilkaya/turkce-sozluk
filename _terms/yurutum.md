@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürütmek işi
-- ► infaz
+- infaz
 ozellikler:
 - - isim
 - - isim

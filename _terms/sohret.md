@@ -5,7 +5,7 @@ slug: sohret
 letter: Ş
 lisan: Arapça şuhret
 anlamlar:
-- ► ün
+- ün
 - Tanınmış, ünlü kimse
 - Bir kimsenin herkesçe bilinen, onunla meşhur olduğu adı veya lakabı
 ozellikler:

@@ -5,7 +5,7 @@ slug: seamet
 letter: Ş
 lisan: Arapça şeʾāmet
 anlamlar:
-- ► uğursuzluk
+- uğursuzluk
 ozellikler:
 - - isim
   - eskimiş

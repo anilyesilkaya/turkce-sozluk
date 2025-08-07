@@ -5,7 +5,7 @@ slug: bin-cesit
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bin türlü
+- bin türlü
 ozellikler:
 - - sıfat
 ornekler:

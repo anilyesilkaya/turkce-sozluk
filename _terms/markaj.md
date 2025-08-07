@@ -5,7 +5,7 @@ slug: markaj
 letter: M
 lisan: Fransızca marquage
 anlamlar:
-- ► tutma
+- tutma
 ozellikler:
 - - isim
   - spor

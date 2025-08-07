@@ -5,7 +5,7 @@ slug: ulusca
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletçe
+- milletçe
 ozellikler:
 - - zarf
 ornekler:

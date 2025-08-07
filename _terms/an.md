@@ -5,7 +5,7 @@ slug: an
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bellek
+- bellek
 ozellikler:
 - - isim
   - ruh bilimi

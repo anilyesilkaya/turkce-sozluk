@@ -5,8 +5,8 @@ slug: cenklesmek
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► savaşmak
-- ► tartışmak
+- savaşmak
+- tartışmak
 ozellikler:
 - - nesnesiz
   - -le

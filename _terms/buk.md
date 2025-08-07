@@ -5,7 +5,7 @@ slug: buk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dönemeç
+- dönemeç
 ozellikler:
 - - isim
 ornekler:

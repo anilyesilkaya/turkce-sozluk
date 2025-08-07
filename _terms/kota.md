@@ -9,7 +9,7 @@ anlamlar:
 - Bir ülkede ithal edilecek mallar için getirilen sınırlama
 - Kuruluşlarda veya derneklerde bir gruba tanınan kontenjan sayısı
 - Bazı ülkelerde, sinemalarda belirli bir süre oynatılması zorunlu olan yerli film sayısının yabancı filmlere oranı
-- ► sınırlama
+- sınırlama
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: etimolojik
 letter: E
 lisan: Fransızca étymologique
 anlamlar:
-- ► köken bilimsel
+- köken bilimsel
 ozellikler:
 - - sıfat
 ornekler:

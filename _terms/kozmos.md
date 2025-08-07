@@ -5,7 +5,7 @@ slug: kozmos
 letter: K
 lisan: Fransızca cosmos
 anlamlar:
-- ► evren
+- evren
 ozellikler:
 - - isim
   - gök bilimi

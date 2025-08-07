@@ -5,7 +5,7 @@ slug: baskesislik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başrahiplik
+- başrahiplik
 ozellikler:
 - - isim
 ornekler:

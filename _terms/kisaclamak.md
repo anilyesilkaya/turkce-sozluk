@@ -5,7 +5,7 @@ slug: kisaclamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıskaçlamak
+- kıskaçlamak
 ozellikler:
 - - -i
 ornekler:

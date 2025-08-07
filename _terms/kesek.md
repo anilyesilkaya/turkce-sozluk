@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Bel, çapa veya sabanın topraktan kaldırdığı iri parça
-- ► tezek
+- tezek
 - Çimen yapmak için üzerindeki otuyla birlikte çıkarılmış çayır parçası
 ozellikler:
 - - isim

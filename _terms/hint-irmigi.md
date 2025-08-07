@@ -5,7 +5,7 @@ slug: hint-irmigi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sagu (I)
+- sagu (I)
 ozellikler:
 - - isim
 ornekler:

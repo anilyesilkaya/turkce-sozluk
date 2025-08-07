@@ -5,7 +5,7 @@ slug: catal-zipkin
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çatal kargı
+- çatal kargı
 ozellikler:
 - - isim
 ornekler:

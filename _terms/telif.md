@@ -5,9 +5,9 @@ slug: telif
 letter: T
 lisan: Arapça teʾlīf
 anlamlar:
-- ► uzlaştırma
+- uzlaştırma
 - Kitap yazma
-- ► telif hakkı
+- telif hakkı
 - Yazarın kendisinin kaleme aldığı
 ozellikler:
 - - isim

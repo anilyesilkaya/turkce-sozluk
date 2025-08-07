@@ -5,7 +5,7 @@ slug: sim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► işaret
+- işaret
 ozellikler:
 - - isim
   - ağızlardan

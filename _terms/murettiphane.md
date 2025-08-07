@@ -5,7 +5,7 @@ slug: murettiphane
 letter: M
 lisan: Arapça murettib + Farsça ḫāne
 anlamlar:
-- ► dizgi yeri
+- dizgi yeri
 ozellikler:
 - - isim
   - eskimiş

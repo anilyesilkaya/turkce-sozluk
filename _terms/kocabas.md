@@ -6,9 +6,9 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - İspinozgillerden, 18 santimetre uzunluğunda, sırtı kahverengi, karnı pembe bir tür kuş; flurcun (Cocothraustes coccothraustes)
-- ► büyükbaş
+- büyükbaş
 - Doğu Anadolu'da, yol ve tarla kenarlarında yetişen, 30-150 santimetre yüksekliğinde, iki yıllık otsu bir bitki (Onopordon acanthium)
-- ► şeker pancarı
+- şeker pancarı
 ozellikler:
 - - isim
   - hayvan bilimi

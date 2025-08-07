@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Çabuk olmak, davranmak
-- ► sallamak
+- sallamak
 ozellikler:
 - - -i
   - ağızlardan

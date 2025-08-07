@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yağ çıkarma veya satma işi
 - Makineyi yağlama işi
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: multimedya
 letter: M
 lisan: İngilizce multimedia
 anlamlar:
-- ► çoklu ortam
+- çoklu ortam
 ozellikler:
 - - isim
   - bilişim

@@ -5,7 +5,7 @@ slug: intiba
 letter: I
 lisan: Arapça inṭibā
 anlamlar:
-- ► izlenim
+- izlenim
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: carcabuk
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

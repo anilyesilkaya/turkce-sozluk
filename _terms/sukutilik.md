@@ -5,7 +5,7 @@ slug: sukutilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► suskunluk
+- suskunluk
 ozellikler:
 - - isim
 ornekler:

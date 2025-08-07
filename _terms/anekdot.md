@@ -5,7 +5,7 @@ slug: anekdot
 letter: A
 lisan: Fransızca anecdote
 anlamlar:
-- ► hikâyecik
+- hikâyecik
 ozellikler:
 - - isim
 ornekler:

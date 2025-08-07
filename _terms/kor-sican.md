@@ -5,7 +5,7 @@ slug: kor-sican
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köstebek
+- köstebek
 ozellikler:
 - - isim
   - ağızlardan

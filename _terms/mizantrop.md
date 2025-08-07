@@ -5,7 +5,7 @@ slug: mizantrop
 letter: M
 lisan: Fransızca misanthrope
 anlamlar:
-- ► merdümgiriz
+- merdümgiriz
 - İnsandan nefret eden (kimse)
 ozellikler:
 - - sıfat

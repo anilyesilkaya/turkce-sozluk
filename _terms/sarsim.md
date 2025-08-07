@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sarsmak işi
-- ► tedirginlik
+- tedirginlik
 ozellikler:
 - - isim
 - - isim

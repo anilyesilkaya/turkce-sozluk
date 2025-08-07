@@ -5,7 +5,7 @@ slug: buyuru
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emir
+- emir
 ozellikler:
 - - isim
 ornekler:

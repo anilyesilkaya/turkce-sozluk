@@ -5,7 +5,7 @@ slug: plili
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pileli
+- pileli
 ozellikler:
 - - sıfat
 ornekler:

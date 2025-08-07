@@ -5,7 +5,7 @@ slug: simultane
 letter: S
 lisan: Fransızca simultané
 anlamlar:
-- ► anında
+- anında
 ozellikler:
 - - sıfat
 ornekler:

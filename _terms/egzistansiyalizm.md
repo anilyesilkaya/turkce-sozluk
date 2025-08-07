@@ -5,7 +5,7 @@ slug: egzistansiyalizm
 letter: E
 lisan: Fransızca existentialisme
 anlamlar:
-- ► varoluşçuluk
+- varoluşçuluk
 ozellikler:
 - - isim
   - felsefe

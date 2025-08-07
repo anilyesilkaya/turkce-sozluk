@@ -5,7 +5,7 @@ slug: purcuk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pürçek
+- pürçek
 ozellikler:
 - - isim
   - ağızlardan

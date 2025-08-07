@@ -5,7 +5,7 @@ slug: hukumran
 letter: H
 lisan: Arapça ḥukm + Farsça -rān
 anlamlar:
-- ► egemen
+- egemen
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: bet-bereket
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bereket
+- bereket
 ozellikler:
 - - isim
 ornekler:

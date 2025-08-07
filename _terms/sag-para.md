@@ -5,7 +5,7 @@ slug: sag-para
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlam para
+- sağlam para
 - Mecidiyenin on dokuz kuruş hesabıyla ödendiği zaman sağlam para yerine kullanılan bir söz, çürük para karşıtı
 ozellikler:
 - - isim

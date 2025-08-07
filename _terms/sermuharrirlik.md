@@ -5,7 +5,7 @@ slug: sermuharrirlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► başyazarlık
+- başyazarlık
 ozellikler:
 - - isim
 ornekler:

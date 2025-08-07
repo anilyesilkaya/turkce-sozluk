@@ -5,7 +5,7 @@ slug: calgisal
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sözsüz
+- sözsüz
 ozellikler:
 - - sıfat
 ornekler:

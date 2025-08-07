@@ -5,7 +5,7 @@ slug: polis-hafiyesi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dedektif
+- dedektif
 ozellikler:
 - - isim
 ornekler:

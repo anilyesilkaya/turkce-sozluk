@@ -5,8 +5,8 @@ slug: erk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► iktidar
-- ► nüfuz
+- iktidar
+- nüfuz
 - Bir bireyin, bir toplumun, başka birey, küme veya toplumları egemenliği, baskısı ve denetimi altına alma, hürriyetlerine karışma ve onları belli biçimlerde davranmaya zorlama yetkisi veya yeteneği
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: mezbelelik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çöplük
+- çöplük
 ozellikler:
 - - isim
   - ağızlardan

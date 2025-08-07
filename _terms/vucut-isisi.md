@@ -5,7 +5,7 @@ slug: vucut-isisi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vücut sıcaklığı
+- vücut sıcaklığı
 ozellikler:
 - - isim
 ornekler:

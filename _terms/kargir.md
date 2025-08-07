@@ -5,7 +5,7 @@ slug: kargir
 letter: K
 lisan: Farsça kārgīr
 anlamlar:
-- ► kâgir
+- kâgir
 ozellikler:
 - - sıfat
   - mimarlık

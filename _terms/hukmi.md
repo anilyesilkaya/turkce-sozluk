@@ -5,7 +5,7 @@ slug: hukmi
 letter: H
 lisan: Arapça ḥukmī
 anlamlar:
-- ► tüzel
+- tüzel
 ozellikler:
 - - sıfat
   - eskimiş

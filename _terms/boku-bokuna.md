@@ -5,7 +5,7 @@ slug: boku-bokuna
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yok yere
+- yok yere
 ozellikler:
 - - zarf
   - kaba konuşmada

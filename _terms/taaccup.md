@@ -5,7 +5,7 @@ slug: taaccup
 letter: T
 lisan: Arapça taʿaccub
 anlamlar:
-- ► şaşma
+- şaşma
 ozellikler:
 - - isim
   - eskimiş

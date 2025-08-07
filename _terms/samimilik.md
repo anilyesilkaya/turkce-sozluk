@@ -5,7 +5,7 @@ slug: samimilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► içtenlik
+- içtenlik
 ozellikler:
 - - isim
 ornekler:

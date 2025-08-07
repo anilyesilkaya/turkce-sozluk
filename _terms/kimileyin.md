@@ -5,7 +5,7 @@ slug: kimileyin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

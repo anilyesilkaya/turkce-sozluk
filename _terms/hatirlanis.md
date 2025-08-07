@@ -5,7 +5,7 @@ slug: hatirlanis
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anımsanış
+- anımsanış
 ozellikler:
 - - isim
 ornekler:

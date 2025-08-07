@@ -5,7 +5,7 @@ slug: ruam
 letter: R
 lisan: Arapça ruʿām
 anlamlar:
-- ► sakağı
+- sakağı
 ozellikler:
 - - isim
   - eskimiş

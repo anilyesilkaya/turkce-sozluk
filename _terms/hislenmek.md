@@ -5,7 +5,7 @@ slug: hislenmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygulanmak
+- duygulanmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -6,7 +6,7 @@ letter: L
 lisan: Arapça lāzime
 anlamlar:
 - Yapılması gerekli olan şey
-- ► gerekçe
+- gerekçe
 ozellikler:
 - - isim
   - eskimiş

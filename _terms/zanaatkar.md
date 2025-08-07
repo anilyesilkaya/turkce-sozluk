@@ -5,7 +5,7 @@ slug: zanaatkar
 letter: Z
 lisan: Arapça ṣināʿat + Farsça -kār
 anlamlar:
-- ► zanaatçı
+- zanaatçı
 ozellikler:
 - - isim
 ornekler:

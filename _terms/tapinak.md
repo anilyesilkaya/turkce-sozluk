@@ -5,7 +5,7 @@ slug: tapinak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► mabet
+- mabet
 - İçinde tapınılan yapı
 ozellikler:
 - - isim

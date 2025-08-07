@@ -5,7 +5,7 @@ slug: sentagma
 letter: S
 lisan: Fransızca syntagme
 anlamlar:
-- ► dizim
+- dizim
 ozellikler:
 - - isim
   - dil bilgisi

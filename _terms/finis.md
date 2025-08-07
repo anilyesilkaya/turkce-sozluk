@@ -5,8 +5,8 @@ slug: finis
 letter: F
 lisan: İngilizce finish
 anlamlar:
-- ► bitme
-- ► varış
+- bitme
+- varış
 ozellikler:
 - - isim
 - - isim

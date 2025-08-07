@@ -5,7 +5,7 @@ slug: techil
 letter: T
 lisan: Arapça techīl
 anlamlar:
-- ► bilmezleme
+- bilmezleme
 ozellikler:
 - - isim
   - eskimiş

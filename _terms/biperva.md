@@ -5,7 +5,7 @@ slug: biperva
 letter: B
 lisan: Farsça bīpervā
 anlamlar:
-- ► pervasız
+- pervasız
 ozellikler:
 - - sıfat
   - zarf

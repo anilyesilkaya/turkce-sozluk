@@ -5,7 +5,7 @@ slug: pasor
 letter: P
 lisan: Fransızca passeur
 anlamlar:
-- ► pasçı
+- pasçı
 ozellikler:
 - - isim
   - spor

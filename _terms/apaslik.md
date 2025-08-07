@@ -5,7 +5,7 @@ slug: apaslik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► külhanbeylik
+- külhanbeylik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cet
 letter: C
 lisan: Arapça cedd
 anlamlar:
-- ► ata
+- ata
 ozellikler:
 - - isim
 ornekler:

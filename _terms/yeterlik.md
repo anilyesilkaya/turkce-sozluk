@@ -5,7 +5,7 @@ slug: yeterlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeterlilik
+- yeterlilik
 ozellikler:
 - - isim
 ornekler:

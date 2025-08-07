@@ -8,7 +8,7 @@ anlamlar:
 - Çeşitli ülkelerden yöneticilerin, elçilerin, delegelerin katılmasıyla yapılan toplantı
 - Sorunları görüşmek, fikir alışverişinde bulunmak ve kararlar almak amacıyla bir araya gelen kimselerin yaptığı toplantı
 - Bir meslek dalında belirli konular üzerinde bilgi alışverişinde bulunmak üzere yapılan toplantı
-- ► kurultay
+- kurultay
 - Amerika Birleşik Devletleri'nde Temsilciler Meclisi ile Senatonun bir aradayken aldıkları ad
 ozellikler:
 - - isim

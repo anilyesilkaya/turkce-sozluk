@@ -5,8 +5,8 @@ slug: oglen
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öğle
-- ► meridyen düzlemi
+- öğle
+- meridyen düzlemi
 ozellikler:
 - - isim
 - - isim

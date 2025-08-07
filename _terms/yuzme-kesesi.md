@@ -5,7 +5,7 @@ slug: yuzme-kesesi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hava kesesi
+- hava kesesi
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: sarrafiye
 letter: S
 lisan: Arapça ṣarrāfiyye
 anlamlar:
-- ► sarraflık hakkı
+- sarraflık hakkı
 ozellikler:
 - - isim
   - eskimiş

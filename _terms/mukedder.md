@@ -5,7 +5,7 @@ slug: mukedder
 letter: M
 lisan: Arapça mukedder
 anlamlar:
-- ► kederli
+- kederli
 - Kederli biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: yuna
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► belleme (II)
+- belleme (II)
 ozellikler:
 - - isim
   - ağızlardan

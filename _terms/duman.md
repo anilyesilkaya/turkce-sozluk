@@ -8,7 +8,7 @@ anlamlar:
 - Bir maddenin yanması ile çıkan ve içinde katı zerrelerle buğu bulunan değişik renklerde gaz; tütün
 - Havalanan tozların veya sisin oluşturduğu bulanıklık
 - Çok kötü
-- ► esrar (II)
+- esrar (II)
 ozellikler:
 - - isim
 - - isim

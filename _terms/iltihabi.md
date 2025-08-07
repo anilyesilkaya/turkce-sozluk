@@ -5,7 +5,7 @@ slug: iltihabi
 letter: I
 lisan: Arapça iltihābī
 anlamlar:
-- ► iltihaplı
+- iltihaplı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: museddes
 letter: M
 lisan: Arapça museddes
 anlamlar:
-- ► altıgen
+- altıgen
 - Divan edebiyatında her bendi altı dizeden oluşan nazım biçimi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: ana-sehir
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ana kent
+- ana kent
 ozellikler:
 - - isim
 ornekler:

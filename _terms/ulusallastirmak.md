@@ -5,7 +5,7 @@ slug: ulusallastirmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millîleştirmek
+- millîleştirmek
 ozellikler:
 - - -i
 ornekler:

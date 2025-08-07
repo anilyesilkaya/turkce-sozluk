@@ -5,7 +5,7 @@ slug: mukallit
 letter: M
 lisan: Arapça muḳallid
 anlamlar:
-- ► taklitçi
+- taklitçi
 ozellikler:
 - - isim
   - eskimiş

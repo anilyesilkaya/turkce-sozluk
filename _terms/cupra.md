@@ -5,7 +5,7 @@ slug: cupra
 letter: Ç
 lisan: Rumca
 anlamlar:
-- ► çipura
+- çipura
 ozellikler:
 - - isim
   - hayvan bilimi

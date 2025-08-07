@@ -5,7 +5,7 @@ slug: otekilesmek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► dışlanmak
+- dışlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

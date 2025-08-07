@@ -5,7 +5,7 @@ slug: polarimetre
 letter: P
 lisan: Fransızca polarimètre
 anlamlar:
-- ► polarölçer
+- polarölçer
 ozellikler:
 - - isim
   - fizik

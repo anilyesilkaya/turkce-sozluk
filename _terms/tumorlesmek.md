@@ -5,7 +5,7 @@ slug: tumorlesmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► urlaşmak
+- urlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: zat-isleri
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► özlük işleri
+- özlük işleri
 ozellikler:
 - - isim
   - hukuk

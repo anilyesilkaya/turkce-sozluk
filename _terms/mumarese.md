@@ -5,7 +5,7 @@ slug: mumarese
 letter: M
 lisan: Arapça mumārese
 anlamlar:
-- ► yatkınlık
+- yatkınlık
 ozellikler:
 - - isim
   - eskimiş

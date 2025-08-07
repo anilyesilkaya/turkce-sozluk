@@ -5,7 +5,7 @@ slug: yargi-yeri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► mahkeme
+- mahkeme
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: korona
 letter: K
 lisan: İtalyanca corona
 anlamlar:
-- ► Güneş tacı
+- Güneş tacı
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: bilader-agaci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kaju
+- kaju
 ozellikler:
 - - isim
   - bitki bilimi

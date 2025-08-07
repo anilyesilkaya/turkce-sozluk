@@ -5,7 +5,7 @@ slug: trombosit
 letter: T
 lisan: Fransızca thrombocyte
 anlamlar:
-- ► kan pulcuğu
+- kan pulcuğu
 ozellikler:
 - - isim
   - tıp

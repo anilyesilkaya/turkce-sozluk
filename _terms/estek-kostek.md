@@ -5,7 +5,7 @@ slug: estek-kostek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► falan filan
+- falan filan
 ozellikler:
 - - isim
 ornekler:

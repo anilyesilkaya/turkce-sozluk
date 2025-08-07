@@ -5,7 +5,7 @@ slug: fujer
 letter: F
 lisan: Fransızca fougère
 anlamlar:
-- ► eğrelti otu
+- eğrelti otu
 ozellikler:
 - - isim
   - bitki bilimi

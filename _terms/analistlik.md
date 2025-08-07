@@ -5,7 +5,7 @@ slug: analistlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çözümleyicilik
+- çözümleyicilik
 ozellikler:
 - - isim
 ornekler:

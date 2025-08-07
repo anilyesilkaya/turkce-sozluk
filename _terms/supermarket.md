@@ -5,7 +5,7 @@ slug: supermarket
 letter: S
 lisan: İngilizce supermarket
 anlamlar:
-- ► büyük mağaza
+- büyük mağaza
 ozellikler:
 - - isim
 ornekler:

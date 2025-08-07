@@ -5,7 +5,7 @@ slug: he
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► evet
+- evet
 ozellikler:
 - - ünlem
   - ağızlardan

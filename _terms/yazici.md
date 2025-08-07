@@ -5,7 +5,7 @@ slug: yazici
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yazar
+- yazar
 - İşi yazı yazma olan kimse
 - Bilgisayarda hazırlanan metin, resim ve çizimleri kâğıt üzerine yazan araç
 - Orduda yazı işleri ile uğraşan er veya erbaş

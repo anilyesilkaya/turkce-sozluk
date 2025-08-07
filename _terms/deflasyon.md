@@ -5,7 +5,7 @@ slug: deflasyon
 letter: D
 lisan: Fransızca déflation
 anlamlar:
-- ► para kısıtlaması
+- para kısıtlaması
 ozellikler:
 - - isim
   - ekonomi

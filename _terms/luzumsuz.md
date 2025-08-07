@@ -5,7 +5,7 @@ slug: luzumsuz
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gereksiz
+- gereksiz
 ozellikler:
 - - sıfat
 ornekler:

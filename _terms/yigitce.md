@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yiğit gibi, yiğide yaraşır bir biçimde
-- ► kahramanca
+- kahramanca
 ozellikler:
 - - zarf
 - - zarf

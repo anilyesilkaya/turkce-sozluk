@@ -5,7 +5,7 @@ slug: polat
 letter: P
 lisan: Farsça pūlād
 anlamlar:
-- ► çelik (I)
+- çelik (I)
 ozellikler:
 - - isim
   - eskimiş

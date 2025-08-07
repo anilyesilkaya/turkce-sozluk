@@ -5,7 +5,7 @@ slug: oftalmolojik
 letter: O
 lisan: Fransızca ophtalmologique
 anlamlar:
-- ► göz bilimsel
+- göz bilimsel
 ozellikler:
 - - sıfat
 ornekler:

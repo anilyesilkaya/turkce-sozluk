@@ -5,7 +5,7 @@ slug: mustehzilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► alaycılık
+- alaycılık
 ozellikler:
 - - isim
 ornekler:

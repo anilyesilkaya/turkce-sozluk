@@ -5,8 +5,8 @@ slug: mesihat
 letter: M
 lisan: Arapça meşīḫat
 anlamlar:
-- ► şeyhlik
-- ► şeyhülislamlık
+- şeyhlik
+- şeyhülislamlık
 ozellikler:
 - - isim
   - eskimiş

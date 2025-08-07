@@ -5,7 +5,7 @@ slug: ut-yeri
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► edep yeri
+- edep yeri
 ozellikler:
 - - isim
 ornekler:

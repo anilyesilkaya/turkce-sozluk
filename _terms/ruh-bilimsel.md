@@ -5,7 +5,7 @@ slug: ruh-bilimsel
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikolojik
+- psikolojik
 ozellikler:
 - - sıfat
 ornekler:

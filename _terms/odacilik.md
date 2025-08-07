@@ -5,7 +5,7 @@ slug: odacilik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hizmetlilik
+- hizmetlilik
 ozellikler:
 - - isim
 ornekler:

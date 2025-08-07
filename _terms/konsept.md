@@ -5,11 +5,11 @@ slug: konsept
 letter: K
 lisan: Fransızca concept
 anlamlar:
-- ► kavram
-- ► anlayış
-- ► görüş
-- ► tarz
-- ► düzen
+- kavram
+- anlayış
+- görüş
+- tarz
+- düzen
 ozellikler:
 - - isim
   - felsefe

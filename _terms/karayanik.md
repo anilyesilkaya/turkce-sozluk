@@ -5,8 +5,8 @@ slug: karayanik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şarbon
-- ► çıban
+- şarbon
+- çıban
 ozellikler:
 - - isim
   - tıp

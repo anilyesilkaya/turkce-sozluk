@@ -5,7 +5,7 @@ slug: diyetisyen
 letter: D
 lisan: Fransızca diététicien
 anlamlar:
-- ► diyet uzmanı
+- diyet uzmanı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kilbaz
 letter: K
 lisan: Türkçe kıl + Farsça -bāz
 anlamlar:
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - isim
   - argo

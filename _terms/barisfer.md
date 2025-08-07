@@ -5,7 +5,7 @@ slug: barisfer
 letter: B
 lisan: Fransızca barysphère
 anlamlar:
-- ► ağır küre
+- ağır küre
 ozellikler:
 - - isim
   - jeoloji

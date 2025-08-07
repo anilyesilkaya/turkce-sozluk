@@ -7,8 +7,8 @@ lisan: İtalyanca lira
 anlamlar:
 - Yüz kuruş değerinde Türkiye'nin para birimi; teklik
 - Suriye, Mısır vb. ülkelerin para birimi
-- ► cumhuriyet altını
-- ► sarı lira
+- cumhuriyet altını
+- sarı lira
 ozellikler:
 - - isim
 - - isim

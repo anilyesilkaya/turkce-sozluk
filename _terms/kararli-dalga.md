@@ -5,7 +5,7 @@ slug: kararli-dalga
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► duraklı dalga
+- duraklı dalga
 ozellikler:
 - - isim
   - fizik

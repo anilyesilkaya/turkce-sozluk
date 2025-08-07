@@ -5,7 +5,7 @@ slug: ekmegi-dizinde
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► iyilikbilmez
+- iyilikbilmez
 ozellikler:
 - - isim
 ornekler:

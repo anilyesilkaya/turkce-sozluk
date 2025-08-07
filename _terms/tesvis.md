@@ -5,7 +5,7 @@ slug: tesvis
 letter: T
 lisan: Arapça teşvīş
 anlamlar:
-- ► karıştırma
+- karıştırma
 ozellikler:
 - - isim
   - eskimiş

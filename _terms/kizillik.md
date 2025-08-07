@@ -8,7 +8,7 @@ anlamlar:
 - Kızıl olma durumu
 - Kızıl renkte yer
 - Pudra, allık, düzgün
-- ► kızartı
+- kızartı
 - Güneş doğarken veya batarken oluşan hafif kızıl renk; kızarı
 ozellikler:
 - - isim

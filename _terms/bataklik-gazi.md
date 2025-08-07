@@ -5,7 +5,7 @@ slug: bataklik-gazi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► metan
+- metan
 ozellikler:
 - - isim
   - kimya

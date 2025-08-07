@@ -5,7 +5,7 @@ slug: filtre
 letter: F
 lisan: Fransızca filtre
 anlamlar:
-- ► süzgeç
+- süzgeç
 ozellikler:
 - - isim
 ornekler:

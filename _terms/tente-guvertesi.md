@@ -5,7 +5,7 @@ slug: tente-guvertesi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hafif güverte
+- hafif güverte
 ozellikler:
 - - isim
   - denizcilik

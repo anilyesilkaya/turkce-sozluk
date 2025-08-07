@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Düğümlenmiş olan
-- ► budaklı
+- budaklı
 - Sorunlu, karışık olan
 ozellikler:
 - - sıfat

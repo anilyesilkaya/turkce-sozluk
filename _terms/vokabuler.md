@@ -5,7 +5,7 @@ slug: vokabuler
 letter: V
 lisan: Fransızca vocabulaire
 anlamlar:
-- ► söz varlığı
+- söz varlığı
 - Küçük sözlük
 ozellikler:
 - - isim

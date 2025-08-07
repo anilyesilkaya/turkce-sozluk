@@ -14,7 +14,7 @@ anlamlar:
 - Tenha, ıssız olan yer
 - Boş anlamsız olma durumu
 - Yasa, anlaşma vb.nde belli bir konuda hüküm bulunmaması durumu
-- ► uzay boşluğu
+- uzay boşluğu
 ozellikler:
 - - isim
 - - isim

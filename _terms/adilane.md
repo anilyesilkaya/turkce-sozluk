@@ -5,7 +5,7 @@ slug: adilane
 letter: A
 lisan: Arapça ʿādil + Farsça -āne
 anlamlar:
-- ► hakça
+- hakça
 ozellikler:
 - - zarf
 ornekler:

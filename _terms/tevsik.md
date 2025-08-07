@@ -5,7 +5,7 @@ slug: tevsik
 letter: T
 lisan: Arapça tevs̱īḳ
 anlamlar:
-- ► belgeleme
+- belgeleme
 ozellikler:
 - - isim
   - eskimiş

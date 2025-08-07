@@ -5,7 +5,7 @@ slug: yassiltmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yassılaştırmak
+- yassılaştırmak
 ozellikler:
 - - -i
 ornekler:

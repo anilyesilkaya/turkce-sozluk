@@ -5,7 +5,7 @@ slug: dis-doktoru
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► diş hekimi
+- diş hekimi
 ozellikler:
 - - isim
   - tıp

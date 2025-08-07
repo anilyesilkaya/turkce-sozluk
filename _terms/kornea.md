@@ -5,7 +5,7 @@ slug: kornea
 letter: K
 lisan: Latince
 anlamlar:
-- ► saydam tabaka
+- saydam tabaka
 ozellikler:
 - - isim
   - anatomi

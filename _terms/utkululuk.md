@@ -5,7 +5,7 @@ slug: utkululuk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► muzafferlik
+- muzafferlik
 ozellikler:
 - - isim
 ornekler:

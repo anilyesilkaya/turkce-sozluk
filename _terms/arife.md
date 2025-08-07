@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿarefe
 anlamlar:
 - Belirli bir günün, olayın bir önceki günü veya ona yakın günler; ön gün
-- ► arife günü
+- arife günü
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işte yeteneği, becerisi olan
-- ► yatık
+- yatık
 - Çok durmaktan sağlamlığını yitirmiş, çürük olan
 - Benimsemiş, alışmış, eğilimli olan
 ozellikler:

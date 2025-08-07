@@ -5,7 +5,7 @@ slug: sirrus
 letter: S
 lisan: Latince
 anlamlar:
-- ► saçak bulut
+- saçak bulut
 ozellikler:
 - - isim
   - meteoroloji

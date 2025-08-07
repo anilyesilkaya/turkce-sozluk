@@ -5,7 +5,7 @@ slug: tarsin
 letter: T
 lisan: Arapça tarṣīn
 anlamlar:
-- ► sağlamlaştırma
+- sağlamlaştırma
 ozellikler:
 - - isim
   - eskimiş

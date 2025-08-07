@@ -5,7 +5,7 @@ slug: metanetsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dayanıksızlık
+- dayanıksızlık
 ozellikler:
 - - isim
 ornekler:

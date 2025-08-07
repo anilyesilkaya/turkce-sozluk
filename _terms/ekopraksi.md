@@ -5,7 +5,7 @@ slug: ekopraksi
 letter: E
 lisan: Fransızca échopraxie
 anlamlar:
-- ► yansıca
+- yansıca
 ozellikler:
 - - isim
   - ruh bilimi

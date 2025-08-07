@@ -5,7 +5,7 @@ slug: sahil-seyri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kıyı seyri
+- kıyı seyri
 ozellikler:
 - - isim
   - denizcilik

@@ -5,7 +5,7 @@ slug: yuzergezer
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► amfibi
+- amfibi
 ozellikler:
 - - sıfat
 ornekler:

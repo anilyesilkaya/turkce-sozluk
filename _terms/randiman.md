@@ -5,7 +5,7 @@ slug: randiman
 letter: R
 lisan: Fransızca rendement
 anlamlar:
-- ► verim
+- verim
 ozellikler:
 - - isim
 ornekler:

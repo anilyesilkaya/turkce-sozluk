@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin öz varlığı, kişiliği, onu kendisi yapan şey
-- ► kibir
+- kibir
 ozellikler:
 - - isim
 - - isim

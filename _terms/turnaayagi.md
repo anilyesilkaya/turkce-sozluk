@@ -5,7 +5,7 @@ slug: turnaayagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► düğün çiçeği
+- düğün çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

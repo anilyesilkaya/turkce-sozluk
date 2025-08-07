@@ -5,7 +5,7 @@ slug: babasiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yetim
+- yetim
 ozellikler:
 - - sıfat
 ornekler:

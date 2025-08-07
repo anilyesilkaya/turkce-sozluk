@@ -5,7 +5,7 @@ slug: otojestiyon
 letter: O
 lisan: Fransızca autogestion
 anlamlar:
-- ► öz yönetim
+- öz yönetim
 ozellikler:
 - - isim
 ornekler:

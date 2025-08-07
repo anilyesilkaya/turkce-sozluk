@@ -5,7 +5,7 @@ slug: amerikan-armudu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avokado
+- avokado
 ozellikler:
 - - isim
   - bitki bilimi

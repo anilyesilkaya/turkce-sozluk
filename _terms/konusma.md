@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşmak işi; musahabe
-- ► görüşme
-- ► konferans
+- görüşme
+- konferans
 ozellikler:
 - - isim
 - - isim

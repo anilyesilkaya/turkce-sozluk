@@ -5,7 +5,7 @@ slug: mustaceliyet
 letter: M
 lisan: Arapça mustaʿceliyyet
 anlamlar:
-- ► ivedilik
+- ivedilik
 ozellikler:
 - - isim
   - eskimiş

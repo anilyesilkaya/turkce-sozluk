@@ -5,7 +5,7 @@ slug: savlayici
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► davacı
+- davacı
 ozellikler:
 - - isim
   - hukuk

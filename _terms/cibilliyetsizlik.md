@@ -5,7 +5,7 @@ slug: cibilliyetsizlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► soysuzluk
+- soysuzluk
 ozellikler:
 - - isim
 ornekler:

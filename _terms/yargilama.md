@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Birbirine karşı olan iki tarafı dinleyerek bir yargıya varma; mahkeme, muhakeme
-- ► anlık (II)
+- anlık (II)
 ozellikler:
 - - isim
   - hukuk

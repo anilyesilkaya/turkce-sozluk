@@ -5,7 +5,7 @@ slug: savaci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► muştucu
+- muştucu
 ozellikler:
 - - isim
 ornekler:

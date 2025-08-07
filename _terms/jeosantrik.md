@@ -5,7 +5,7 @@ slug: jeosantrik
 letter: J
 lisan: Fransızca géocentrique
 anlamlar:
-- ► yermerkezci
+- yermerkezci
 ozellikler:
 - - sıfat
 ornekler:

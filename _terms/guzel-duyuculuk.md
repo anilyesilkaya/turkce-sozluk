@@ -5,7 +5,7 @@ slug: guzel-duyuculuk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► estetikçilik
+- estetikçilik
 ozellikler:
 - - isim
   - felsefe

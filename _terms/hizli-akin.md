@@ -5,7 +5,7 @@ slug: hizli-akin
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hızlı hücum
+- hızlı hücum
 ozellikler:
 - - isim
   - spor

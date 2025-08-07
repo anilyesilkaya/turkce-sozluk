@@ -5,7 +5,7 @@ slug: tasalanabilmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılanabilmek
+- kaygılanabilmek
 ozellikler:
 - - nesnesiz
 ornekler:

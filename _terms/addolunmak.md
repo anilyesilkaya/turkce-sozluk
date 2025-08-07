@@ -5,7 +5,7 @@ slug: addolunmak
 letter: A
 lisan: Arapça ʿadd + Türkçe olunmak
 anlamlar:
-- ► sayılmak
+- sayılmak
 ozellikler:
 - - nesnesiz
 ornekler:

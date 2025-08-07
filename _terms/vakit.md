@@ -5,9 +5,9 @@ slug: vakit
 letter: V
 lisan: Arapça vaḳt
 anlamlar:
-- ► zaman
+- zaman
 - Bir işe ayrılmış veya bir iş için alışılmış saatler
-- ► çağ
+- çağ
 - Belirlenmiş olan zaman
 - Zaman anlatan kelimelere belirtilen durumunda geldiğinde "iken" anlamı veren bir söz
 - Geçim, para bakımından elverişli durum

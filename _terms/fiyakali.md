@@ -5,7 +5,7 @@ slug: fiyakali
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gösterişli
+- gösterişli
 ozellikler:
 - - sıfat
 ornekler:

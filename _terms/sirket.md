@@ -5,7 +5,7 @@ slug: sirket
 letter: Ş
 lisan: Arapça şirket
 anlamlar:
-- ► ortaklık
+- ortaklık
 ozellikler:
 - - isim
   - ticaret

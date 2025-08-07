@@ -5,7 +5,7 @@ slug: onbiraylik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► çuha çiçeği
+- çuha çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

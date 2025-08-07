@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥarbe
 anlamlar:
 - Kısa mızrak
-- ► harbi
+- harbi
 ozellikler:
 - - isim
   - eskimiş

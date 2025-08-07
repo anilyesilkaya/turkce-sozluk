@@ -5,7 +5,7 @@ slug: kalite
 letter: K
 lisan: Fransızca qualité
 anlamlar:
-- ► nitelik
+- nitelik
 - Herhangi bir bakımdan üstünlük
 ozellikler:
 - - isim

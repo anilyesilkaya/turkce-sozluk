@@ -5,7 +5,7 @@ slug: bitimsizlestirmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sonsuzlaştırmak
+- sonsuzlaştırmak
 ozellikler:
 - - -i
 ornekler:

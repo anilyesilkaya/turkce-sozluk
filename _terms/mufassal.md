@@ -5,7 +5,7 @@ slug: mufassal
 letter: M
 lisan: Arapça mufaṣṣal
 anlamlar:
-- ► ayrıntılı
+- ayrıntılı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: methiye
 letter: M
 lisan: Arapça medḥiyye
 anlamlar:
-- ► övgü
+- övgü
 - Bir kimseyi veya bir şeyi övmek için yazılmış şiir
 ozellikler:
 - - isim

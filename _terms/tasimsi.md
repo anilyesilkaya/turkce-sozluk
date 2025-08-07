@@ -5,7 +5,7 @@ slug: tasimsi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taşsı
+- taşsı
 ozellikler:
 - - sıfat
 ornekler:

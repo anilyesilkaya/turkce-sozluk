@@ -5,7 +5,7 @@ slug: hamlac
 letter: H
 lisan: Arapça ḥamlāc
 anlamlar:
-- ► üfleç
+- üfleç
 ozellikler:
 - - isim
   - eskimiş

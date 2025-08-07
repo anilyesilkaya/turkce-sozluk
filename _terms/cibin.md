@@ -5,7 +5,7 @@ slug: cibin
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► sinek
+- sinek
 ozellikler:
 - - isim
   - eskimiş

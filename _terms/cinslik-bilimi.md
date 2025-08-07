@@ -5,7 +5,7 @@ slug: cinslik-bilimi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cinsellik bilimi
+- cinsellik bilimi
 ozellikler:
 - - isim
 ornekler:

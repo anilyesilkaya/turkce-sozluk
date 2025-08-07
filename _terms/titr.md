@@ -5,7 +5,7 @@ slug: titr
 letter: T
 lisan: Fransızca titre
 anlamlar:
-- ► ünvan
+- ünvan
 ozellikler:
 - - isim
 ornekler:

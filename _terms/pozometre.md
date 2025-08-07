@@ -5,7 +5,7 @@ slug: pozometre
 letter: P
 lisan: Fransızca posemètre
 anlamlar:
-- ► ışıkölçer
+- ışıkölçer
 ozellikler:
 - - isim
 ornekler:

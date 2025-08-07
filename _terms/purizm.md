@@ -5,7 +5,7 @@ slug: purizm
 letter: P
 lisan: Fransızca purisme
 anlamlar:
-- ► arıtmacılık
+- arıtmacılık
 ozellikler:
 - - isim
 ornekler:

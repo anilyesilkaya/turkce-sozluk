@@ -5,7 +5,7 @@ slug: santrifujor
 letter: S
 lisan: Fransızca centrifugeur
 anlamlar:
-- ► santrifüj
+- santrifüj
 ozellikler:
 - - isim
   - fizik

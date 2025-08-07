@@ -5,7 +5,7 @@ slug: kirmalik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► melezlik
+- melezlik
 ozellikler:
 - - isim
 ornekler:

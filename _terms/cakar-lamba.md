@@ -5,7 +5,7 @@ slug: cakar-lamba
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çakar
+- çakar
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yuzsuzluk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► utanmazlık
+- utanmazlık
 ozellikler:
 - - isim
 ornekler:

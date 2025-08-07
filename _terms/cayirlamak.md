@@ -5,7 +5,7 @@ slug: cayirlamak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çayırlanmak
+- çayırlanmak
 - Hayvan yediği çayırdan hastalanmak
 ozellikler:
 - - nesnesiz

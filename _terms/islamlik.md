@@ -5,7 +5,7 @@ slug: islamlik
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Müslümanlık
+- Müslümanlık
 ozellikler:
 - - isim
   - din bilimi

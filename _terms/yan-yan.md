@@ -5,8 +5,8 @@ slug: yan-yan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yanlamasına
-- ► ucun ucun
+- yanlamasına
+- ucun ucun
 ozellikler:
 - - zarf
 - - zarf

@@ -5,8 +5,8 @@ slug: besalet
 letter: B
 lisan: Arapça besālet
 anlamlar:
-- ► yiğitlik
-- ► yararlılık
+- yiğitlik
+- yararlılık
 ozellikler:
 - - isim
   - eskimiş

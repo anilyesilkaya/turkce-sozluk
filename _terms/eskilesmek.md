@@ -5,7 +5,7 @@ slug: eskilesmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eskimek
+- eskimek
 ozellikler:
 - - nesnesiz
 ornekler:

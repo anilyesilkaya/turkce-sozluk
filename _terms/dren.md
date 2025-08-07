@@ -5,7 +5,7 @@ slug: dren
 letter: D
 lisan: Fransızca drain
 anlamlar:
-- ► ark
+- ark
 - Ameliyat sonrası vücut içinde kalan doku artıklarını ve sıvıları dışarı atmak veya yara üzerindeki iltihabı akıtmakta kullanılan bükülgen tüp; akıtaç
 ozellikler:
 - - isim

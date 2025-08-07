@@ -5,7 +5,7 @@ slug: kokusuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kokmuş
+- kokmuş
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: rumuz
 letter: R
 lisan: Arapça rumūz
 anlamlar:
-- ► simge
+- simge
 - Gizli anlamları olan işaretler ve sözler
 ozellikler:
 - - isim

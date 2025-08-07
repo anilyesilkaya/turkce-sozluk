@@ -5,7 +5,7 @@ slug: kurt-baklasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► termiye
+- termiye
 ozellikler:
 - - isim
   - bitki bilimi

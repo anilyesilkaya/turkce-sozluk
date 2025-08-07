@@ -5,7 +5,7 @@ slug: mujdelemek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muştulamak
+- muştulamak
 ozellikler:
 - - -e
   - -i

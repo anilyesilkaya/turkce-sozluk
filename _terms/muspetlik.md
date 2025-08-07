@@ -5,7 +5,7 @@ slug: muspetlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► olumluluk
+- olumluluk
 ozellikler:
 - - isim
 ornekler:

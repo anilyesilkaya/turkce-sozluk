@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Madene benzeyen, madeni andıran, maden gibi; madenimsi
-- ► metalsi
+- metalsi
 ozellikler:
 - - sıfat
 - - sıfat

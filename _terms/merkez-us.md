@@ -5,7 +5,7 @@ slug: merkez-us
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► deprem ortası
+- deprem ortası
 - Bir faaliyet, hareket vb.nin tam ortası
 ozellikler:
 - - isim

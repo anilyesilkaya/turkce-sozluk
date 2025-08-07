@@ -5,7 +5,7 @@ slug: tumler
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünler
+- bütünler
 ozellikler:
 - - sıfat
 ornekler:

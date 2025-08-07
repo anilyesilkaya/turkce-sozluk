@@ -5,7 +5,7 @@ slug: sekli
 letter: Ş
 lisan: Arapça şeklī
 anlamlar:
-- ► biçimsel
+- biçimsel
 ozellikler:
 - - sıfat
   - eskimiş

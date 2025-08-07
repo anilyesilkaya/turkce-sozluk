@@ -5,7 +5,7 @@ slug: kecisagan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çobanaldatan
+- çobanaldatan
 ozellikler:
 - - isim
   - hayvan bilimi

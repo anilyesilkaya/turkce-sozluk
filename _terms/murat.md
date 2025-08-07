@@ -5,8 +5,8 @@ slug: murat
 letter: M
 lisan: Arapça murād
 anlamlar:
-- ► dilek
-- ► amaç
+- dilek
+- amaç
 ozellikler:
 - - isim
 - - isim

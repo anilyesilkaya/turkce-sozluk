@@ -11,7 +11,7 @@ anlamlar:
 - Bir birlik için sağlanan yardım veya koruma
 - Bir vektörü taşıyan sonsuz doğru
 - Maddi ve manevi yardımcı
-- ► yardım
+- yardım
 ozellikler:
 - - isim
 - - isim

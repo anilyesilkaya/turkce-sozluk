@@ -5,9 +5,9 @@ slug: ilkah
 letter: I
 lisan: Arapça ilḳāḥ
 anlamlar:
-- ► dölleme
-- ► döllenme
-- ► aşılama
+- dölleme
+- döllenme
+- aşılama
 ozellikler:
 - - isim
   - eskimiş

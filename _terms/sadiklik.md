@@ -5,7 +5,7 @@ slug: sadiklik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sadakatlilik
+- sadakatlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zaman-zaman
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

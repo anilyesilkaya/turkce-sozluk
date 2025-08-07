@@ -7,7 +7,7 @@ lisan: Fransızca collecteur
 anlamlar:
 - Atık suların akmasını sağlayan boru
 - Su, atık su, hava, elektrik, buhar, ısı vb.ni toplayıp yönlendirmeye yarayan düzenek
-- ► toplaç
+- toplaç
 ozellikler:
 - - isim
 - - isim

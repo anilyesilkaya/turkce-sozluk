@@ -5,7 +5,7 @@ slug: dondurmaz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► antifriz
+- antifriz
 ozellikler:
 - - isim
 ornekler:

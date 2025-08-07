@@ -5,7 +5,7 @@ slug: karinca-asidi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► formik asit
+- formik asit
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: idarecilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yöneticilik
+- yöneticilik
 - İdareci olma durumu
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: ulusal-kimlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî kimlik
+- millî kimlik
 ozellikler:
 - - isim
 ornekler:

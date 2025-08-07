@@ -5,7 +5,7 @@ slug: bir-vakit
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir zaman
+- bir zaman
 ozellikler:
 - - zarf
 ornekler:

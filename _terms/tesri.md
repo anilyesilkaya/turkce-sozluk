@@ -5,7 +5,7 @@ slug: tesri
 letter: T
 lisan: Arapça teşrīʿ
 anlamlar:
-- ► yasama
+- yasama
 ozellikler:
 - - isim
   - eskimiş

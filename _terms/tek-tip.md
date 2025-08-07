@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Aynı biçim veya nitelikte
 - Aynı düşünceleri benimseyen, benzer hareket eden
-- ► standart
+- standart
 ozellikler:
 - - sıfat
 - - sıfat

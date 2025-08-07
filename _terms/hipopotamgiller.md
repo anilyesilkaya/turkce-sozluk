@@ -5,7 +5,7 @@ slug: hipopotamgiller
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► su aygırıgiller
+- su aygırıgiller
 ozellikler:
 - - isim
   - hayvan bilimi

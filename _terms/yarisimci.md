@@ -5,7 +5,7 @@ slug: yarisimci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarışmacı
+- yarışmacı
 ozellikler:
 - - isim
 ornekler:

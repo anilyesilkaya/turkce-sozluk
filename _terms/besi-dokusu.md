@@ -5,7 +5,7 @@ slug: besi-dokusu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► besi doku
+- besi doku
 ozellikler:
 - - isim
   - bitki bilimi

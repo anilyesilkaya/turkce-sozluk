@@ -5,7 +5,7 @@ slug: erkinci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► liberal
+- liberal
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: jeomorfoloji
 letter: J
 lisan: Fransızca géomorphologie
 anlamlar:
-- ► yüzey bilimi
+- yüzey bilimi
 ozellikler:
 - - isim
 ornekler:

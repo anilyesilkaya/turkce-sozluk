@@ -5,7 +5,7 @@ slug: mukassi
 letter: M
 lisan: Arapça muḳassī
 anlamlar:
-- ► sıkıntılı
+- sıkıntılı
 ozellikler:
 - - sıfat
   - eskimiş

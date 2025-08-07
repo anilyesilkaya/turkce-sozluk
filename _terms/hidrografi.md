@@ -5,7 +5,7 @@ slug: hidrografi
 letter: H
 lisan: Fransızca hydrographie
 anlamlar:
-- ► su bilgisi
+- su bilgisi
 ozellikler:
 - - isim
 ornekler:

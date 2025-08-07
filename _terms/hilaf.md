@@ -5,8 +5,8 @@ slug: hilaf
 letter: H
 lisan: Arapça ḫilāf
 anlamlar:
-- ► aykırı
-- ► yalan
+- aykırı
+- yalan
 ozellikler:
 - - sıfat
 - - sıfat

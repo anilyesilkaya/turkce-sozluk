@@ -5,7 +5,7 @@ slug: orumce
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► örümcek
+- örümcek
 ozellikler:
 - - isim
   - ağızlardan

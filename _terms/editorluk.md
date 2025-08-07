@@ -5,7 +5,7 @@ slug: editorluk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yayımcılık
+- yayımcılık
 ozellikler:
 - - isim
 ornekler:

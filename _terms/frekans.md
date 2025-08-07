@@ -5,7 +5,7 @@ slug: frekans
 letter: F
 lisan: Fransızca fréquence
 anlamlar:
-- ► sıklık
+- sıklık
 ozellikler:
 - - isim
   - fizik

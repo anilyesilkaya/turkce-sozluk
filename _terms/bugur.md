@@ -5,7 +5,7 @@ slug: bugur
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► buğra
+- buğra
 ozellikler:
 - - isim
   - ağızlardan

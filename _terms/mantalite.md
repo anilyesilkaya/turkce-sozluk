@@ -5,7 +5,7 @@ slug: mantalite
 letter: M
 lisan: Fransızca mentalité
 anlamlar:
-- ► anlayış
+- anlayış
 ozellikler:
 - - isim
 ornekler:

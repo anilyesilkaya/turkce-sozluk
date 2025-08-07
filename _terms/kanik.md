@@ -5,8 +5,8 @@ slug: kanik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kanaatkâr
-- ► gözü tok
+- kanaatkâr
+- gözü tok
 ozellikler:
 - - sıfat
   - ağızlardan

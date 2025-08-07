@@ -5,7 +5,7 @@ slug: imaret
 letter: I
 lisan: Arapça ʿimāret
 anlamlar:
-- ► imarethane
+- imarethane
 ozellikler:
 - - isim
 ornekler:

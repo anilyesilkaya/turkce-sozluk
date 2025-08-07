@@ -5,7 +5,7 @@ slug: utopist
 letter: Ü
 lisan: Fransızca utopiste
 anlamlar:
-- ► hayalci
+- hayalci
 ozellikler:
 - - sıfat
 ornekler:

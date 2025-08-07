@@ -5,7 +5,7 @@ slug: usme
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üşüşme
+- üşüşme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cirnaklama
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► tırmalama
+- tırmalama
 ozellikler:
 - - isim
 ornekler:

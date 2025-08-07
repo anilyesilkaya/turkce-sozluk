@@ -5,7 +5,7 @@ slug: mapushane
 letter: M
 lisan: Arapça maḥbūs + Farsça ḫāne
 anlamlar:
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
   - ağızlardan

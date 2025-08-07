@@ -5,7 +5,7 @@ slug: yagmurolcer
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yağışölçer
+- yağışölçer
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kosullandirilmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartlandırılmak
+- şartlandırılmak
 ozellikler:
 - - nesnesiz
 ornekler:

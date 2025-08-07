@@ -5,7 +5,7 @@ slug: gotik
 letter: G
 lisan: Fransızca gothique
 anlamlar:
-- ► Gotça
+- Gotça
 - Gotlarla ilgili
 - Orta Çağ'a özgü
 ozellikler:

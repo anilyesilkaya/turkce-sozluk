@@ -5,7 +5,7 @@ slug: zeytinimsi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zeytinsi
+- zeytinsi
 ozellikler:
 - - sıfat
 ornekler:

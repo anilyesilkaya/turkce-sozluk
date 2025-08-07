@@ -5,7 +5,7 @@ slug: ulusal-park
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî park
+- millî park
 ozellikler:
 - - isim
 ornekler:

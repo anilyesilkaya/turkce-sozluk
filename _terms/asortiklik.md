@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Asortik olma durumu
-- ► sosyetiklik
+- sosyetiklik
 ozellikler:
 - - isim
 - - isim

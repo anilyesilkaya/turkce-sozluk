@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Yalın ayak olan (kimse)
-- ► serseri
+- serseri
 ozellikler:
 - - sıfat
 - - sıfat

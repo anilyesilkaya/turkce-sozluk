@@ -5,7 +5,7 @@ slug: imamsuyu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► rakı
+- rakı
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: taravetli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► körpe
+- körpe
 ozellikler:
 - - sıfat
 ornekler:

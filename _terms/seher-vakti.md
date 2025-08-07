@@ -5,7 +5,7 @@ slug: seher-vakti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seher
+- seher
 ozellikler:
 - - isim
 ornekler:

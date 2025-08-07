@@ -5,7 +5,7 @@ slug: subjektivist
 letter: S
 lisan: Fransızca subjectiviste
 anlamlar:
-- ► öznelci
+- öznelci
 ozellikler:
 - - sıfat
   - felsefe

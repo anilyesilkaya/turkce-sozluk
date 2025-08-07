@@ -5,7 +5,7 @@ slug: mukattar
 letter: M
 lisan: Arapça muḳaṭṭar
 anlamlar:
-- ► damıtık
+- damıtık
 ozellikler:
 - - sıfat
   - eskimiş

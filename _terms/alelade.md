@@ -5,8 +5,8 @@ slug: alelade
 letter: A
 lisan: Arapça ʿalā'l-ʿāde
 anlamlar:
-- ► sıradan
-- ► bayağı
+- sıradan
+- bayağı
 ozellikler:
 - - sıfat
 - - sıfat

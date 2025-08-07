@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Artırmak işi; tezyit
-- ► açık artırma
+- açık artırma
 ozellikler:
 - - isim
 - - isim

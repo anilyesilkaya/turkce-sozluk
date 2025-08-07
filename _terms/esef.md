@@ -6,7 +6,7 @@ letter: E
 lisan: Arapça esef
 anlamlar:
 - Olmaması, yapılmaması gereken veya yapılamayan bir şey için duyulan üzüntü
-- ► yerinme
+- yerinme
 ozellikler:
 - - isim
   - eskimiş

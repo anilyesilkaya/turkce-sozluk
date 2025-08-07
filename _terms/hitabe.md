@@ -5,7 +5,7 @@ slug: hitabe
 letter: H
 lisan: Arapça ḫiṭābe
 anlamlar:
-- ► söylev
+- söylev
 ozellikler:
 - - isim
   - eskimiş

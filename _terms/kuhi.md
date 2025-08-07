@@ -5,7 +5,7 @@ slug: kuhi
 letter: K
 lisan: Farsça kūh + Arapça -ī
 anlamlar:
-- ► ıssız
+- ıssız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: kal
 letter: K
 lisan: Arapça ḳāl
 anlamlar:
-- ► söz
+- söz
 ozellikler:
 - - isim
   - eskimiş

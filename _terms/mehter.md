@@ -6,7 +6,7 @@ letter: M
 lisan: Farsça mihter
 anlamlar:
 - Mehter takımında görevli kimse
-- ► mehter takımı
+- mehter takımı
 - Çadırlara bakan uşak
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: politeist
 letter: P
 lisan: Fransızca polythéiste
 anlamlar:
-- ► çok tanrıcı
+- çok tanrıcı
 ozellikler:
 - - sıfat
   - toplum bilimi

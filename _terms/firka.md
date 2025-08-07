@@ -6,8 +6,8 @@ letter: F
 lisan: Arapça firḳa
 anlamlar:
 - İnsan topluluğu
-- ► parti (I)
-- ► tümen
+- parti (I)
+- tümen
 ozellikler:
 - - isim
   - eskimiş

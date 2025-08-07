@@ -5,7 +5,7 @@ slug: zirt-zirt
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırt pırt
+- zırt pırt
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: sirke-ruhu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► asetik asit
+- asetik asit
 ozellikler:
 - - isim
   - kimya

@@ -6,7 +6,7 @@ letter: V
 lisan: İngilizce video
 anlamlar:
 - Manyetik bantlar üzerinde yer alan veya sayısal olarak derlenmiş hareketli resimler dizisi
-- ► videoteyp
+- videoteyp
 ozellikler:
 - - isim
 - - isim

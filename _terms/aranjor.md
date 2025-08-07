@@ -5,7 +5,7 @@ slug: aranjor
 letter: A
 lisan: Fransızca arrangeur
 anlamlar:
-- ► düzenleyici
+- düzenleyici
 ozellikler:
 - - isim
   - müzik

@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Kaba ve hoyrat bir biçimde iterek
-- ► güçlükle
+- güçlükle
 ozellikler:
 - - zarf
 - - zarf

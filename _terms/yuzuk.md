@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Parmağa geçirilen genellikle metal halka
-- ► yüzük oyunu
+- yüzük oyunu
 ozellikler:
 - - isim
 - - isim

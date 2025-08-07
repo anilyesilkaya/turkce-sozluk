@@ -5,7 +5,7 @@ slug: hipotez
 letter: H
 lisan: Fransızca hypothèse
 anlamlar:
-- ► varsayım
+- varsayım
 ozellikler:
 - - isim
 ornekler:

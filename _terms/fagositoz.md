@@ -5,7 +5,7 @@ slug: fagositoz
 letter: F
 lisan: Fransızca phagocytose
 anlamlar:
-- ► hücre yutarlığı
+- hücre yutarlığı
 ozellikler:
 - - isim
   - biyoloji

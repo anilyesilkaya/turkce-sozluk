@@ -5,7 +5,7 @@ slug: bitaplik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bitkinlik
+- bitkinlik
 ozellikler:
 - - isim
 ornekler:

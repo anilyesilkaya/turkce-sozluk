@@ -5,11 +5,11 @@ slug: tamam
 letter: T
 lisan: Arapça tamām
 anlamlar:
-- ► bütün
-- ► eksiksiz
+- bütün
+- eksiksiz
 - Tamamlanmış, bitmiş
 - Olması gerektiği gibi
-- ► evet
+- evet
 - Beğenilmeyen bir iş veya öneri karşısında söylenen bir söz
 ozellikler:
 - - ''

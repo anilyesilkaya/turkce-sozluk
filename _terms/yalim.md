@@ -5,9 +5,9 @@ slug: yalim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► alev (I)
+- alev (I)
 - Kılıç, bıçak gibi kesici araçların keskin yüzü
-- ► herhâlde
+- herhâlde
 ozellikler:
 - - isim
 - - isim

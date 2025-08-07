@@ -5,7 +5,7 @@ slug: kaytarmaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaytarıcı
+- kaytarıcı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: esasta
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► aslında
+- aslında
 ozellikler:
 - - zarf
 ornekler:

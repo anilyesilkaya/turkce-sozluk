@@ -5,7 +5,7 @@ slug: asli-nusha
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► asıl nüsha
+- asıl nüsha
 ozellikler:
 - - isim
 ornekler:

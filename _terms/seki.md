@@ -5,7 +5,7 @@ slug: seki
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sekil
+- sekil
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: valf
 letter: V
 lisan: Fransızca valve
 anlamlar:
-- ► vana
+- vana
 ozellikler:
 - - isim
 ornekler:

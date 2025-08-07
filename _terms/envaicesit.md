@@ -5,7 +5,7 @@ slug: envaicesit
 letter: E
 lisan: Arapça envāʿ + Farsça çeşīden
 anlamlar:
-- ► envaitürlü
+- envaitürlü
 ozellikler:
 - - sıfat
 ornekler:

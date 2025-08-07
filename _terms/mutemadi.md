@@ -5,8 +5,8 @@ slug: mutemadi
 letter: M
 lisan: Arapça mutemādī
 anlamlar:
-- ► aralıksız
-- ► sürekli
+- aralıksız
+- sürekli
 ozellikler:
 - - sıfat
   - eskimiş

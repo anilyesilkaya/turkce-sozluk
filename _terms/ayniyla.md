@@ -5,7 +5,7 @@ slug: ayniyla
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aynen
+- aynen
 ozellikler:
 - - zarf
 ornekler:

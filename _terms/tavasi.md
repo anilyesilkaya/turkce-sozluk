@@ -5,7 +5,7 @@ slug: tavasi
 letter: T
 lisan: Arapça tavāşį
 anlamlar:
-- ► harem ağası
+- harem ağası
 - Osmanlılarda saray hizmetlerinde kullanılan, hadım edilmiş kimse
 ozellikler:
 - - isim

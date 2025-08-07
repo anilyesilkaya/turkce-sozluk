@@ -5,7 +5,7 @@ slug: tatarca
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Tatar Türkçesi
+- Tatar Türkçesi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mutenakiz
 letter: M
 lisan: Arapça mutenāḳiż
 anlamlar:
-- ► çelişkili
+- çelişkili
 ozellikler:
 - - sıfat
   - eskimiş

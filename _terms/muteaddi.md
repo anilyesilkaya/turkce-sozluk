@@ -5,7 +5,7 @@ slug: muteaddi
 letter: M
 lisan: Arapça muteʿaddī
 anlamlar:
-- ► geçişli
+- geçişli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,9 +5,9 @@ slug: mahrec
 letter: M
 lisan: Arapça maḫrec
 anlamlar:
-- ► çıkak
-- ► boğumlanma noktası
-- ► payda
+- çıkak
+- boğumlanma noktası
+- payda
 ozellikler:
 - - isim
   - eskimiş

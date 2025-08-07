@@ -5,7 +5,7 @@ slug: luks-lambasi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lüks (II)
+- lüks (II)
 ozellikler:
 - - isim
 ornekler:

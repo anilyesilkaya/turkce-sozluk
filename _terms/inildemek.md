@@ -5,7 +5,7 @@ slug: inildemek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inlemek
+- inlemek
 ozellikler:
 - - nesnesiz
 ornekler:

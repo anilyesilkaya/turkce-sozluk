@@ -5,7 +5,7 @@ slug: marsandiz
 letter: M
 lisan: Fransızca marchandise
 anlamlar:
-- ► yük treni
+- yük treni
 ozellikler:
 - - isim
 ornekler:

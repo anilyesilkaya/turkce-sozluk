@@ -5,7 +5,7 @@ slug: radde
 letter: R
 lisan: Arapça rādde
 anlamlar:
-- ► kerte (II)
+- kerte (II)
 ozellikler:
 - - isim
   - eskimiş

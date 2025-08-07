@@ -5,7 +5,7 @@ slug: takibat
 letter: T
 lisan: Arapça taʿḳībāt
 anlamlar:
-- ► kovuşturma
+- kovuşturma
 ozellikler:
 - - isim
   - hukuk

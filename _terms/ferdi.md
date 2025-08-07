@@ -5,7 +5,7 @@ slug: ferdi
 letter: F
 lisan: Arapça ferdī
 anlamlar:
-- ► bireysel
+- bireysel
 ozellikler:
 - - sıfat
   - eskimiş

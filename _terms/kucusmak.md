@@ -5,7 +5,7 @@ slug: kucusmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kucaklaşmak
+- kucaklaşmak
 ozellikler:
 - - nesnesiz
   - -le

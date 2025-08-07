@@ -5,7 +5,7 @@ slug: dedeborku
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► turnabacağı
+- turnabacağı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: kavillesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sözleşmek
+- sözleşmek
 ozellikler:
 - - nesnesiz
   - -le

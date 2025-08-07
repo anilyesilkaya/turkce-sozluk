@@ -5,7 +5,7 @@ slug: sohretsizlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ünsüzlük
+- ünsüzlük
 ozellikler:
 - - isim
 ornekler:

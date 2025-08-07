@@ -5,7 +5,7 @@ slug: iftariyelik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iftarlık
+- iftarlık
 ozellikler:
 - - isim
 ornekler:

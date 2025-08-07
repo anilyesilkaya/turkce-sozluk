@@ -5,7 +5,7 @@ slug: izobar-egrisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► eş basınç
+- eş basınç
 ozellikler:
 - - isim
   - coğrafya

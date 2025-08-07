@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Musahhih olma durumu
-- ► düzelticilik
+- düzelticilik
 ozellikler:
 - - isim
 - - isim

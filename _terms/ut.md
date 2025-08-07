@@ -5,7 +5,7 @@ slug: ut
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► utanma duygusu
+- utanma duygusu
 ozellikler:
 - - isim
 ornekler:

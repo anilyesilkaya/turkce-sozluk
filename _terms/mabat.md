@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mābaʿd
 anlamlar:
 - Bitmemiş yazı, roman vb.nde arka, devam
-- ► kıç
+- kıç
 ozellikler:
 - - isim
   - eskimiş

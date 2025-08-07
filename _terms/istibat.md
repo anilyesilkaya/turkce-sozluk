@@ -5,7 +5,7 @@ slug: istibat
 letter: I
 lisan: Arapça istibʿād
 anlamlar:
-- ► uzaksama
+- uzaksama
 ozellikler:
 - - isim
   - eskimiş

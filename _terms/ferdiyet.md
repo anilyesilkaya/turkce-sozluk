@@ -5,7 +5,7 @@ slug: ferdiyet
 letter: F
 lisan: Arapça ferdiyyet
 anlamlar:
-- ► bireysellik
+- bireysellik
 ozellikler:
 - - isim
   - eskimiş

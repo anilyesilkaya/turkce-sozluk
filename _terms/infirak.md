@@ -5,7 +5,7 @@ slug: infirak
 letter: I
 lisan: Arapça infirāḳ
 anlamlar:
-- ► ayrılma
+- ayrılma
 ozellikler:
 - - isim
   - eskimiş

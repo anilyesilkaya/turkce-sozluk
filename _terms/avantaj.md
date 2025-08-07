@@ -5,9 +5,9 @@ slug: avantaj
 letter: A
 lisan: Fransızca avantage
 anlamlar:
-- ► üstünlük
-- ► kazanım
-- ► yarar
+- üstünlük
+- kazanım
+- yarar
 - Teniste eşitliğin bozulması için alınan ilk puan
 - Durumun oyuncu veya takımın lehine olması göz önüne alınarak oyunun devam ettirilmesi
 ozellikler:

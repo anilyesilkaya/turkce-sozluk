@@ -6,7 +6,7 @@ letter: L
 lisan: Türkçe
 anlamlar:
 - Bir çizimin oranları bozulmadan daha küçük veya daha büyüğünün çizilmesi için kullanılan araç
-- ► çobaniğnesi
+- çobaniğnesi
 ozellikler:
 - - isim
 - - isim

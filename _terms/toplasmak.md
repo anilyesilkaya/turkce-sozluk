@@ -5,7 +5,7 @@ slug: toplasmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► toplanmak
+- toplanmak
 - Top durumuna gelmek
 ozellikler:
 - - nesnesiz

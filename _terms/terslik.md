@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ters olma durumu
 - Tersçe davranış
-- ► aksilik
+- aksilik
 ozellikler:
 - - isim
 - - isim

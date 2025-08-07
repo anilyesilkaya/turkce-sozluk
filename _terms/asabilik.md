@@ -5,7 +5,7 @@ slug: asabilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sinirlilik
+- sinirlilik
 ozellikler:
 - - isim
 ornekler:

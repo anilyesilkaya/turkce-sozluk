@@ -8,7 +8,7 @@ anlamlar:
 - Vücudun boyunla karın arasında bulunan ve kalp, akciğer vb. organları içine alan bölümü; bağır, sine
 - Bu vücut bölümünün ön tarafı; döş, sırt karşıtı
 - Bu bölümün içindeki organlar
-- ► meme
+- meme
 ozellikler:
 - - isim
 - - isim

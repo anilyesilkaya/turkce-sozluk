@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyin sayılabilen, ölçülebilen veya azalıp çoğalabilen durumu; kemiyet, miktar, kantite
 - Bir şeyin eşit parçalara bölünebilen ve ölçülebilir olan yanları
 - Genellikle sayılabilen, toplamı doğrudan sayı olarak belirtilebilen genel özellik
-- ► ulam
+- ulam
 ozellikler:
 - - isim
 - - isim

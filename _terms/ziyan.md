@@ -5,7 +5,7 @@ slug: ziyan
 letter: Z
 lisan: Farsça ziyān
 anlamlar:
-- ► zarar
+- zarar
 ozellikler:
 - - isim
 ornekler:

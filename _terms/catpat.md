@@ -5,7 +5,7 @@ slug: catpat
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çatapat
+- çatapat
 ozellikler:
 - - isim
 ornekler:

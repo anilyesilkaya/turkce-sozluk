@@ -5,7 +5,7 @@ slug: ragmen
 letter: R
 lisan: Arapça raġmen
 anlamlar:
-- ► karşın
+- karşın
 ozellikler:
 - - edat
 ornekler:

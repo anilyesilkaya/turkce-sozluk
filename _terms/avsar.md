@@ -5,7 +5,7 @@ slug: avsar
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Afşar
+- Afşar
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: serdengectilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► fedailik
+- fedailik
 ozellikler:
 - - isim
 ornekler:

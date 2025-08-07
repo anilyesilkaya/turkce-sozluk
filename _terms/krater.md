@@ -5,7 +5,7 @@ slug: krater
 letter: K
 lisan: Fransızca cratère
 anlamlar:
-- ► yanardağ ağzı
+- yanardağ ağzı
 ozellikler:
 - - isim
   - jeoloji

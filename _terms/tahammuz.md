@@ -5,7 +5,7 @@ slug: tahammuz
 letter: T
 lisan: Arapça taḫammuż
 anlamlar:
-- ► ekşime
+- ekşime
 ozellikler:
 - - isim
   - eskimiş

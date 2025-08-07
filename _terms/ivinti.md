@@ -5,7 +5,7 @@ slug: ivinti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çabukluk
+- çabukluk
 ozellikler:
 - - isim
 ornekler:

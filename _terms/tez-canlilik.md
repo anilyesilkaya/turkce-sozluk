@@ -5,7 +5,7 @@ slug: tez-canlilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► acelecilik
+- acelecilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: istigrak
 letter: I
 lisan: Arapça istiġrāḳ
 anlamlar:
-- ► dalınç
+- dalınç
 ozellikler:
 - - isim
   - eskimiş

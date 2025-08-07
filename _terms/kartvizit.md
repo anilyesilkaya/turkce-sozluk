@@ -5,7 +5,7 @@ slug: kartvizit
 letter: K
 lisan: Fransızca carte de visite
 anlamlar:
-- ► kart (II)
+- kart (II)
 ozellikler:
 - - isim
 ornekler:

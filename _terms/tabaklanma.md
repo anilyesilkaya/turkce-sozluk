@@ -5,7 +5,7 @@ slug: tabaklanma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sepilenme
+- sepilenme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: efkariumumiye
 letter: E
 lisan: Arapça efkār + ʿumūmiyye
 anlamlar:
-- ► kamuoyu
+- kamuoyu
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: laubaliyane
 letter: L
 lisan: Arapça lāʾubālī + Farsça -āne
 anlamlar:
-- ► saygısızca
+- saygısızca
 ozellikler:
 - - zarf
   - eskimiş

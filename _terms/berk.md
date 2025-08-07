@@ -5,8 +5,8 @@ slug: berk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sert
-- ► sağlam
+- sert
+- sağlam
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,8 +5,8 @@ slug: istenc
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► irade
-- ► irade
+- irade
+- irade
 ozellikler:
 - - isim
 - - isim

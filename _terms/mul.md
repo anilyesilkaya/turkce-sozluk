@@ -5,7 +5,7 @@ slug: mul
 letter: M
 lisan: Farsça mul
 anlamlar:
-- ► şarap
+- şarap
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: godosluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► pezevenklik
+- pezevenklik
 ozellikler:
 - - isim
 ornekler:

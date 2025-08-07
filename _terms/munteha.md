@@ -5,7 +5,7 @@ slug: munteha
 letter: M
 lisan: Arapça muntehā
 anlamlar:
-- ► son
+- son
 - Sona ermiş, bitmiş
 ozellikler:
 - - isim

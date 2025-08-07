@@ -5,7 +5,7 @@ slug: sahihlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► gerçeklik
+- gerçeklik
 ozellikler:
 - - isim
 ornekler:

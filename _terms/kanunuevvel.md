@@ -5,7 +5,7 @@ slug: kanunuevvel
 letter: K
 lisan: Arapça kānūn + evvel
 anlamlar:
-- ► aralık
+- aralık
 ozellikler:
 - - isim
   - eskimiş

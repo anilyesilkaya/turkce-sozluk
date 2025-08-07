@@ -5,8 +5,8 @@ slug: ivazli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ödünlü
-- ► karşılıklı
+- ödünlü
+- karşılıklı
 ozellikler:
 - - sıfat
 - - sıfat

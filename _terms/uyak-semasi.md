@@ -5,7 +5,7 @@ slug: uyak-semasi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiye şeması
+- kafiye şeması
 ozellikler:
 - - isim
   - edebiyat

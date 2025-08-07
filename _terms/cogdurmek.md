@@ -5,7 +5,7 @@ slug: cogdurmek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► işemek
+- işemek
 - İleri doğru fışkırtmak
 ozellikler:
 - - nesnesiz

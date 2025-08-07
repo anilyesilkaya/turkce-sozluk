@@ -5,7 +5,7 @@ slug: belgeclemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belgegeçerlemek
+- belgegeçerlemek
 ozellikler:
 - - -i
 ornekler:

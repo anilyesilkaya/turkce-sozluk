@@ -5,7 +5,7 @@ slug: olu-soyucu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► mezar soyguncusu
+- mezar soyguncusu
 ozellikler:
 - - isim
 ornekler:

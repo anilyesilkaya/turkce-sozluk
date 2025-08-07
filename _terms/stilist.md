@@ -5,7 +5,7 @@ slug: stilist
 letter: S
 lisan: Fransızca styliste
 anlamlar:
-- ► giyimçizer
+- giyimçizer
 ozellikler:
 - - isim
 ornekler:

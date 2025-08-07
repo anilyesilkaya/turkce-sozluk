@@ -5,7 +5,7 @@ slug: sportmen
 letter: S
 lisan: Fransızca sportsman
 anlamlar:
-- ► sporcu
+- sporcu
 - Vücudu iyi gelişmiş
 - Sporun gerektirdiği değerlere sahip olan (kimse)
 ozellikler:

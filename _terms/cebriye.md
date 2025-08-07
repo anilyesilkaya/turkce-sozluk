@@ -5,7 +5,7 @@ slug: cebriye
 letter: C
 lisan: Arapça cebriyye
 anlamlar:
-- ► yazgıcılık
+- yazgıcılık
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: istisare-heyeti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► danışma kurulu
+- danışma kurulu
 ozellikler:
 - - isim
   - eskimiş

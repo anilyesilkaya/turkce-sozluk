@@ -5,7 +5,7 @@ slug: isvesizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► cilvesizlik
+- cilvesizlik
 ozellikler:
 - - isim
 ornekler:

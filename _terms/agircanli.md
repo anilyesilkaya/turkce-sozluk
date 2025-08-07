@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çok yavaş iş yapan, çevik olmayan; ağırkanlı
 - Varlığı sıkıntı veren
-- ► tembel
+- tembel
 - Doğurması yakın, doğurmak üzere olan (kadın)
 ozellikler:
 - - sıfat

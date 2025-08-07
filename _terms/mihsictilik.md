@@ -5,7 +5,7 @@ slug: mihsictilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
 ornekler:

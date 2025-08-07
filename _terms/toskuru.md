@@ -5,7 +5,7 @@ slug: toskuru
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► geri geri
+- geri geri
 ozellikler:
 - - zarf
   - ağızlardan

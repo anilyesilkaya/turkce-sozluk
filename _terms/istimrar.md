@@ -5,7 +5,7 @@ slug: istimrar
 letter: I
 lisan: Arapça istimrār
 anlamlar:
-- ► süreklilik
+- süreklilik
 ozellikler:
 - - isim
   - eskimiş

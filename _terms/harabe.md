@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫarābe
 anlamlar:
 - Yıkılmış veya yıkılmaya yüz tutmuş yapı; yıkı
-- ► kalıntı
+- kalıntı
 ozellikler:
 - - isim
 - - isim

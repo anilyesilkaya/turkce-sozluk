@@ -5,7 +5,7 @@ slug: digeri
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ötekisi
+- ötekisi
 ozellikler:
 - - zamir
 ornekler:

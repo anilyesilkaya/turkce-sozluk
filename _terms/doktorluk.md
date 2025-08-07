@@ -5,8 +5,8 @@ slug: doktorluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► hekimlik
-- ► doktorculuk
+- hekimlik
+- doktorculuk
 ozellikler:
 - - isim
 - - isim

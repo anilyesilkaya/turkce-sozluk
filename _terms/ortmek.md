@@ -6,8 +6,8 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak
-- ► kapamak
-- ► kaplamak
+- kapamak
+- kaplamak
 - Kötü bir durumu belli etmemek, gizlemek, saklamak
 ozellikler:
 - - -i

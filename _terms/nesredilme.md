@@ -5,7 +5,7 @@ slug: nesredilme
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► yayımlanma
+- yayımlanma
 ozellikler:
 - - isim
 ornekler:

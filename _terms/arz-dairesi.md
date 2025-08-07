@@ -5,7 +5,7 @@ slug: arz-dairesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► enlem dairesi
+- enlem dairesi
 ozellikler:
 - - isim
   - coğrafya

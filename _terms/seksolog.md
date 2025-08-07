@@ -5,7 +5,7 @@ slug: seksolog
 letter: S
 lisan: Fransızca sexologue
 anlamlar:
-- ► cinsellik bilimci
+- cinsellik bilimci
 ozellikler:
 - - isim
 ornekler:

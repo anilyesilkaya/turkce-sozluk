@@ -5,7 +5,7 @@ slug: istavrit-azmani
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ton balığı
+- ton balığı
 ozellikler:
 - - isim
 ornekler:

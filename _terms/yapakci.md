@@ -5,7 +5,7 @@ slug: yapakci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yapağıcı
+- yapağıcı
 ozellikler:
 - - isim
 ornekler:

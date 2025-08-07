@@ -5,7 +5,7 @@ slug: ceste-ceste
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► parça parça
+- parça parça
 ozellikler:
 - - zarf
   - eskimiş

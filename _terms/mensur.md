@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça menşūr
 anlamlar:
 - Yayılmış, dağıtılmış, neşredilmiş
-- ► prizma
+- prizma
 - Padişah tarafından verilen vezirlik vb. bir ünvanı gösteren bir ferman türü
 ozellikler:
 - - sıfat

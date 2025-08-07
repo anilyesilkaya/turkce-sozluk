@@ -5,7 +5,7 @@ slug: ihtilam
 letter: I
 lisan: Arapça iḥtilām
 anlamlar:
-- ► düş azması
+- düş azması
 ozellikler:
 - - isim
   - eskimiş

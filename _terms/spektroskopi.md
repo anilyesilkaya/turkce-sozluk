@@ -5,7 +5,7 @@ slug: spektroskopi
 letter: S
 lisan: Fransızca spectroscopie
 anlamlar:
-- ► tayf ölçümü
+- tayf ölçümü
 ozellikler:
 - - isim
 ornekler:

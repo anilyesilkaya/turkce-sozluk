@@ -5,7 +5,7 @@ slug: deformasyon
 letter: D
 lisan: Fransızca déformation
 anlamlar:
-- ► biçimsizleşme
+- biçimsizleşme
 ozellikler:
 - - isim
 ornekler:

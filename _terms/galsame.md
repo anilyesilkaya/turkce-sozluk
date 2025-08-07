@@ -5,7 +5,7 @@ slug: galsame
 letter: G
 lisan: Arapça ġalṣama
 anlamlar:
-- ► solungaç
+- solungaç
 ozellikler:
 - - isim
   - eskimiş

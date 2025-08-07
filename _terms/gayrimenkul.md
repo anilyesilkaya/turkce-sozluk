@@ -5,7 +5,7 @@ slug: gayrimenkul
 letter: G
 lisan: Arapça ġayr + menḳūl
 anlamlar:
-- ► taşınmaz
+- taşınmaz
 ozellikler:
 - - isim
   - hukuk

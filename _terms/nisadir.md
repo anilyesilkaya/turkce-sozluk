@@ -5,7 +5,7 @@ slug: nisadir
 letter: N
 lisan: Farsça nişādūr
 anlamlar:
-- ► amonyak
+- amonyak
 ozellikler:
 - - isim
   - kimya

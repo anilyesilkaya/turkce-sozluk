@@ -5,7 +5,7 @@ slug: talepkarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► isteklilik
+- isteklilik
 ozellikler:
 - - isim
 ornekler:

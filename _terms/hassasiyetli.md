@@ -5,7 +5,7 @@ slug: hassasiyetli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duyarlıklı
+- duyarlıklı
 ozellikler:
 - - sıfat
 ornekler:

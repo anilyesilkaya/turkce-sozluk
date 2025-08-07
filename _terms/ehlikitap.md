@@ -5,7 +5,7 @@ slug: ehlikitap
 letter: E
 lisan: Arapça ehl + kitāb
 anlamlar:
-- ► kitap ehli
+- kitap ehli
 ozellikler:
 - - sıfat
   - din bilimi

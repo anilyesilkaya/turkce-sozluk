@@ -5,7 +5,7 @@ slug: indeterminist
 letter: I
 lisan: Fransızca indéterministe
 anlamlar:
-- ► belirlenmezci
+- belirlenmezci
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: ozonosfer
 letter: O
 lisan: Fransızca ozonosphère
 anlamlar:
-- ► ozon yuvarı
+- ozon yuvarı
 ozellikler:
 - - isim
   - gök bilimi

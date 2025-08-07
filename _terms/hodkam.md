@@ -5,7 +5,7 @@ slug: hodkam
 letter: H
 lisan: Farsça ḫōdkām
 anlamlar:
-- ► bencil
+- bencil
 ozellikler:
 - - sıfat
   - eskimiş

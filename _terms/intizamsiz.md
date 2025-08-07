@@ -5,7 +5,7 @@ slug: intizamsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► karışık
+- karışık
 ozellikler:
 - - sıfat
 ornekler:

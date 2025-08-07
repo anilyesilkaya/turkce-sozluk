@@ -5,7 +5,7 @@ slug: albeni
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çekicilik
+- çekicilik
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: anaforlu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akıntılı
+- akıntılı
 ozellikler:
 - - sıfat
 ornekler:

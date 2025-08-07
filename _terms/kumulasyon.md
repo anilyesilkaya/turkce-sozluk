@@ -5,7 +5,7 @@ slug: kumulasyon
 letter: K
 lisan: Fransızca cumulation
 anlamlar:
-- ► kümelenme
+- kümelenme
 ozellikler:
 - - isim
 ornekler:

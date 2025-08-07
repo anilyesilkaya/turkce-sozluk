@@ -5,7 +5,7 @@ slug: segirdim-yeri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seğirdim yolu
+- seğirdim yolu
 ozellikler:
 - - isim
   - tarih

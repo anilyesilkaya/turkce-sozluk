@@ -5,7 +5,7 @@ slug: aleni-tadat
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık sayım
+- açık sayım
 ozellikler:
 - - isim
 ornekler:

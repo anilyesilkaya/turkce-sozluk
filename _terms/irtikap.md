@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça irtikāb
 anlamlar:
 - Kötü iş yapma, kötülük etme
-- ► yiyicilik
+- yiyicilik
 - Yalan söyleme, hile yapma
 ozellikler:
 - - isim

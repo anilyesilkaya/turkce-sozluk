@@ -5,7 +5,7 @@ slug: premature
 letter: P
 lisan: Fransızca prématuré
 anlamlar:
-- ► erkendoğan
+- erkendoğan
 ozellikler:
 - - sıfat
   - tıp

@@ -5,7 +5,7 @@ slug: bani
 letter: B
 lisan: Arapça bānī
 anlamlar:
-- ► kurucu
+- kurucu
 - Yapan (kimse)
 ozellikler:
 - - sıfat

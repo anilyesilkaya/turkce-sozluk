@@ -5,7 +5,7 @@ slug: kademsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uğursuzluk
+- uğursuzluk
 ozellikler:
 - - isim
 ornekler:

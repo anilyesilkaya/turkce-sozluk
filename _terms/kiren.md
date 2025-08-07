@@ -5,7 +5,7 @@ slug: kiren
 letter: K
 lisan: Yunanca
 anlamlar:
-- ► kızılcık
+- kızılcık
 ozellikler:
 - - isim
   - ağızlardan

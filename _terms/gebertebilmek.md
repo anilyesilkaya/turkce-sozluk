@@ -5,7 +5,7 @@ slug: gebertebilmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► öldürebilmek
+- öldürebilmek
 ozellikler:
 - - -i
   - teklifsiz konuşmada

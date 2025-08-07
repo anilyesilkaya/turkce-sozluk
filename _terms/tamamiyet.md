@@ -5,7 +5,7 @@ slug: tamamiyet
 letter: T
 lisan: Arapça tamāmiyyet
 anlamlar:
-- ► tamlık
+- tamlık
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: H
 lisan: Rumca
 anlamlar:
 - Bir sıvıyı ağzı dar bir kaba aktarmak için kullanılan koni biçimindeki araç
-- ► ağızlık
+- ağızlık
 ozellikler:
 - - isim
 - - isim

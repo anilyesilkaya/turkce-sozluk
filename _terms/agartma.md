@@ -5,8 +5,8 @@ slug: agartma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlatma
-- ► beyazlaştırma
+- beyazlatma
+- beyazlaştırma
 ozellikler:
 - - isim
 - - isim

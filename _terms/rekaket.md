@@ -5,7 +5,7 @@ slug: rekaket
 letter: R
 lisan: Arapça rekāket
 anlamlar:
-- ► kekemelik
+- kekemelik
 ozellikler:
 - - isim
   - eskimiş

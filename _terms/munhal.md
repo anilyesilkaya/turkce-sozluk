@@ -5,7 +5,7 @@ slug: munhal
 letter: M
 lisan: Arapça munḥall
 anlamlar:
-- ► boş
+- boş
 - Eriyebilen, çözülebilen
 ozellikler:
 - - sıfat

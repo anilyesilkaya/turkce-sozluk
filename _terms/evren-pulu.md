@@ -5,7 +5,7 @@ slug: evren-pulu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► mika
+- mika
 ozellikler:
 - - isim
   - mineraloji

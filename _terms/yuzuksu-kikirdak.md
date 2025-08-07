@@ -5,7 +5,7 @@ slug: yuzuksu-kikirdak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► halkamsı kıkırdak
+- halkamsı kıkırdak
 ozellikler:
 - - isim
   - anatomi

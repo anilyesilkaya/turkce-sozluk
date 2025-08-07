@@ -5,7 +5,7 @@ slug: barometre
 letter: B
 lisan: Fransızca baromètre
 anlamlar:
-- ► basınçölçer
+- basınçölçer
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: dirim-bilimi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► biyoloji
+- biyoloji
 ozellikler:
 - - isim
 ornekler:

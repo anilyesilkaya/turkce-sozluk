@@ -5,8 +5,8 @@ slug: yalin-kilic
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkılıç
-- ► tek başına
+- dalkılıç
+- tek başına
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: muhlet
 letter: M
 lisan: Arapça muhlet
 anlamlar:
-- ► vade
+- vade
 ozellikler:
 - - isim
 ornekler:

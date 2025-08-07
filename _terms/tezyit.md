@@ -5,7 +5,7 @@ slug: tezyit
 letter: T
 lisan: Arapça tezyīd
 anlamlar:
-- ► artırma
+- artırma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: defaten
 letter: D
 lisan: Arapça defʿaten
 anlamlar:
-- ► bir defada
-- ► ansızın
+- bir defada
+- ansızın
 ozellikler:
 - - zarf
 - - zarf

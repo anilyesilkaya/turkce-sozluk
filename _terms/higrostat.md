@@ -5,7 +5,7 @@ slug: higrostat
 letter: H
 lisan: Fransızca hygrostat
 anlamlar:
-- ► nemdenetir
+- nemdenetir
 ozellikler:
 - - isim
   - fizik

@@ -5,8 +5,8 @@ slug: asik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aşık kemiği
-- ► aşırma
+- aşık kemiği
+- aşırma
 ozellikler:
 - - isim
   - anatomi

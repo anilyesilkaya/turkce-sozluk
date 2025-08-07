@@ -5,7 +5,7 @@ slug: ak-zambak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zambak
+- zambak
 ozellikler:
 - - isim
   - bitki bilimi

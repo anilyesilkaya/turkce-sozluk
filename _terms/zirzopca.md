@@ -5,7 +5,7 @@ slug: zirzopca
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zıpırca
+- zıpırca
 - Zıpırca olan
 ozellikler:
 - - zarf

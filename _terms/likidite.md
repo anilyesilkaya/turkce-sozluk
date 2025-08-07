@@ -5,7 +5,7 @@ slug: likidite
 letter: L
 lisan: Fransızca liquidité
 anlamlar:
-- ► akışkanlık
+- akışkanlık
 ozellikler:
 - - isim
   - ticaret

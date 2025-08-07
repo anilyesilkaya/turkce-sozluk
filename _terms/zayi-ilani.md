@@ -5,7 +5,7 @@ slug: zayi-ilani
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kayıp ilanı
+- kayıp ilanı
 ozellikler:
 - - isim
 ornekler:

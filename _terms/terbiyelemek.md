@@ -5,7 +5,7 @@ slug: terbiyelemek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eğitmek
+- eğitmek
 - Çeşitli katkı maddeleriyle yemeği lezzetli duruma getirmek
 ozellikler:
 - - -i

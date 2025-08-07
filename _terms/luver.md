@@ -5,7 +5,7 @@ slug: luver
 letter: L
 lisan: Fransızca revolver
 anlamlar:
-- ► altıpatlar
+- altıpatlar
 ozellikler:
 - - isim
 ornekler:

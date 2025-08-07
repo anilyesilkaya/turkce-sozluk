@@ -5,7 +5,7 @@ slug: ardi-sira
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ardınca
+- ardınca
 ozellikler:
 - - zarf
 ornekler:

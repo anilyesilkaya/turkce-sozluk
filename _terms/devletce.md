@@ -5,7 +5,7 @@ slug: devletce
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► resmen
+- resmen
 ozellikler:
 - - zarf
 ornekler:

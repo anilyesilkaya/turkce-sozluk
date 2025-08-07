@@ -5,7 +5,7 @@ slug: aksirtabilmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırtabilmek
+- hapşırtabilmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: tutulga
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tutanak
+- tutanak
 ozellikler:
 - - isim
 ornekler:

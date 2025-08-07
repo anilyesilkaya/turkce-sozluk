@@ -5,7 +5,7 @@ slug: afurlu-tafurlu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► afralı tafralı
+- afralı tafralı
 ozellikler:
 - - sıfat
 ornekler:

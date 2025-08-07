@@ -5,7 +5,7 @@ slug: sogrulma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğurulma
+- soğurulma
 ozellikler:
 - - isim
 ornekler:

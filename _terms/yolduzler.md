@@ -5,7 +5,7 @@ slug: yolduzler
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dozer
+- dozer
 ozellikler:
 - - isim
 ornekler:

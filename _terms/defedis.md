@@ -5,7 +5,7 @@ slug: defedis
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovuş
+- kovuş
 ozellikler:
 - - isim
 ornekler:

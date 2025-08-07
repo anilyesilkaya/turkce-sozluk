@@ -5,7 +5,7 @@ slug: baytarlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► veterinerlik
+- veterinerlik
 ozellikler:
 - - isim
 ornekler:

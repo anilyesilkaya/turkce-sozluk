@@ -5,7 +5,7 @@ slug: torelcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ahlakçılık
+- ahlakçılık
 ozellikler:
 - - isim
   - toplum bilimi

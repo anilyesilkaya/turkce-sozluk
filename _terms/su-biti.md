@@ -5,7 +5,7 @@ slug: su-biti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► su piresi
+- su piresi
 ozellikler:
 - - isim
   - hayvan bilimi

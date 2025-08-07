@@ -5,7 +5,7 @@ slug: polimci
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► gösterişçi
+- gösterişçi
 - Yalan söyleyerek karşısındakini kandıran kimse
 ozellikler:
 - - isim

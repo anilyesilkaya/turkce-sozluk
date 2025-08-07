@@ -5,8 +5,8 @@ slug: oma
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► kalça kemiği
-- ► bel kemiği
+- kalça kemiği
+- bel kemiği
 ozellikler:
 - - isim
   - ağızlardan

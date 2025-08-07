@@ -5,7 +5,7 @@ slug: hararet
 letter: H
 lisan: Arapça ḥarāret
 anlamlar:
-- ► sıcaklık
+- sıcaklık
 - Susama, susuzluk
 - Coşkunluk, ateşlilik
 ozellikler:

@@ -5,7 +5,7 @@ slug: halita
 letter: H
 lisan: Arapça ḫalīṭa
 anlamlar:
-- ► alaşım
+- alaşım
 - Birden çok ögeden oluşmuş karmaşık bir bütün
 ozellikler:
 - - isim

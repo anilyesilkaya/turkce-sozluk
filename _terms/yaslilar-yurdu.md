@@ -5,7 +5,7 @@ slug: yaslilar-yurdu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► huzurevi
+- huzurevi
 ozellikler:
 - - isim
 ornekler:

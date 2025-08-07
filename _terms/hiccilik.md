@@ -5,7 +5,7 @@ slug: hiccilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► nihilizm
+- nihilizm
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: kompozit
 letter: K
 lisan: Fransızca composite
 anlamlar:
-- ► karma
+- karma
 - Değişik tarzları bir arada taşıyan
 ozellikler:
 - - sıfat

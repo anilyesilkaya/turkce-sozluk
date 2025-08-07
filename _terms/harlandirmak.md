@@ -5,7 +5,7 @@ slug: harlandirmak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► harlatmak
+- harlatmak
 ozellikler:
 - - -i
 ornekler:

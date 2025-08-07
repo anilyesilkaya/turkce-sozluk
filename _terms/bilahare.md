@@ -5,7 +5,7 @@ slug: bilahare
 letter: B
 lisan: Arapça bi'l-āḫire
 anlamlar:
-- ► sonra
+- sonra
 ozellikler:
 - - zarf
 ornekler:

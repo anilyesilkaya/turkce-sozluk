@@ -5,7 +5,7 @@ slug: toleranssizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hoşgörüsüzlük
+- hoşgörüsüzlük
 ozellikler:
 - - isim
 ornekler:

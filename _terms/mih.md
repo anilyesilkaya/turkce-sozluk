@@ -5,7 +5,7 @@ slug: mih
 letter: M
 lisan: Farsça mīḫ
 anlamlar:
-- ► çivi
+- çivi
 - Büyük çivi
 ozellikler:
 - - isim

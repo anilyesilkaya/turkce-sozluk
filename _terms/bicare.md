@@ -5,8 +5,8 @@ slug: bicare
 letter: B
 lisan: Farsça bīçāre
 anlamlar:
-- ► çaresiz
-- ► zavallı
+- çaresiz
+- zavallı
 ozellikler:
 - - sıfat
 - - sıfat

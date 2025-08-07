@@ -5,7 +5,7 @@ slug: hint-kertenkelesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► iguana
+- iguana
 ozellikler:
 - - isim
   - hayvan bilimi

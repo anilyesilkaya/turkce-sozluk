@@ -5,7 +5,7 @@ slug: dudak-boyasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ruj
+- ruj
 ozellikler:
 - - isim
 ornekler:

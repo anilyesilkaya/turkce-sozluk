@@ -5,7 +5,7 @@ slug: arama-kutusu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sorgu kutusu
+- sorgu kutusu
 ozellikler:
 - - isim
   - bilişim

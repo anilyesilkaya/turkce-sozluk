@@ -5,7 +5,7 @@ slug: aglati
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► trajedi
+- trajedi
 ozellikler:
 - - isim
   - tiyatro

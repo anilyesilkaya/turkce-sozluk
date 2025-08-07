@@ -5,7 +5,7 @@ slug: tasalanis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılanış
+- kaygılanış
 ozellikler:
 - - isim
 ornekler:

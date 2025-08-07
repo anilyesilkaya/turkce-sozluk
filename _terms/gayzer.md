@@ -5,7 +5,7 @@ slug: gayzer
 letter: G
 lisan: Fransızca geyser
 anlamlar:
-- ► kaynaç
+- kaynaç
 ozellikler:
 - - isim
   - jeoloji

@@ -5,7 +5,7 @@ slug: cismanilik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► maddilik
+- maddilik
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: yer-mantari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► domalan
+- domalan
 ozellikler:
 - - isim
   - bitki bilimi

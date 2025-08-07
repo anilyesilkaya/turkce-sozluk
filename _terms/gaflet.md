@@ -5,7 +5,7 @@ slug: gaflet
 letter: G
 lisan: Arapça ġaflet
 anlamlar:
-- ► aymazlık
+- aymazlık
 ozellikler:
 - - isim
 ornekler:

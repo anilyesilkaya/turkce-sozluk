@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bilinmedik bir yanı olmayan
 - Gizli olmayan, ortada olan, anlaşılan; zahir, aşikâr
-- ► belirli
+- belirli
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,8 +5,8 @@ slug: aksulamel
 letter: A
 lisan: Arapça ʿaks + ʿamel
 anlamlar:
-- ► tepki
-- ► yankı
+- tepki
+- yankı
 ozellikler:
 - - isim
 - - isim

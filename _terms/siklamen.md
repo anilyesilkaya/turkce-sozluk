@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca cyclamen
 anlamlar:
 - Çuha çiçeğigillerden, kalp biçiminde geniş yapraklı, beyaz, pembe, şarap rengi çiçekli bir bitki; buhurumeryem, meryemanakandili, tavşankulağı (Cyclamen coum)
-- ► siklamen rengi
+- siklamen rengi
 - Bu renkte olan
 ozellikler:
 - - isim

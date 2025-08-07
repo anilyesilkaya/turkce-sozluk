@@ -5,7 +5,7 @@ slug: hapazlama
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► avuçlama
+- avuçlama
 ozellikler:
 - - isim
 ornekler:

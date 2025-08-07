@@ -5,8 +5,8 @@ slug: alelitlak
 letter: A
 lisan: Arapça ʿalā'l-iṭlāḳ
 anlamlar:
-- ► genellikle
-- ► gelişigüzel
+- genellikle
+- gelişigüzel
 ozellikler:
 - - zarf
   - eskimiş

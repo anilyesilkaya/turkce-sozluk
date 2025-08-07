@@ -5,7 +5,7 @@ slug: irtica
 letter: I
 lisan: Arapça irticāʿ
 anlamlar:
-- ► gericilik
+- gericilik
 ozellikler:
 - - isim
 ornekler:

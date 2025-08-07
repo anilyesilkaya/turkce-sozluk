@@ -5,7 +5,7 @@ slug: tahlilcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çözümleyicilik
+- çözümleyicilik
 ozellikler:
 - - isim
 ornekler:

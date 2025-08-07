@@ -6,7 +6,7 @@ letter: D
 lisan: Farsça dū + bāre
 anlamlar:
 - Zarla oynanan oyunlarda, atılan zarlardan her ikisinin de iki benekli olan yüzünün üste gelmesi
-- ► aldatmaca
+- aldatmaca
 ozellikler:
 - - isim
 - - isim

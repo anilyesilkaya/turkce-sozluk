@@ -5,7 +5,7 @@ slug: primitivist
 letter: P
 lisan: Fransızca primitiviste
 anlamlar:
-- ► ilkelci
+- ilkelci
 ozellikler:
 - - sıfat
   - felsefe

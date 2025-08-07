@@ -5,7 +5,7 @@ slug: kipcakca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kıpçak Türkçesi
+- Kıpçak Türkçesi
 ozellikler:
 - - isim
 ornekler:

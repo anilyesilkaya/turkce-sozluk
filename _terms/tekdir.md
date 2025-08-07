@@ -5,7 +5,7 @@ slug: tekdir
 letter: T
 lisan: Arapça tekdīr
 anlamlar:
-- ► azarlama
+- azarlama
 ozellikler:
 - - isim
   - eskimiş

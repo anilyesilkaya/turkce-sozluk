@@ -5,7 +5,7 @@ slug: vasitalik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► aracılık
+- aracılık
 ozellikler:
 - - isim
 ornekler:

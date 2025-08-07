@@ -5,7 +5,7 @@ slug: elektrik-firini
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrikli fırın
+- elektrikli fırın
 ozellikler:
 - - isim
 ornekler:

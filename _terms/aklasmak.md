@@ -5,7 +5,7 @@ slug: aklasmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlaşmak
+- beyazlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

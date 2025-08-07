@@ -5,7 +5,7 @@ slug: mihlama
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivileme
+- çivileme
 - Yumurta, un, soğan, ıspanak karışımıyla yağda yapılan bir yemek türü
 ozellikler:
 - - isim

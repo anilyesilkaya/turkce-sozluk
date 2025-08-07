@@ -5,7 +5,7 @@ slug: kruvasan
 letter: K
 lisan: Fransızca croissant
 anlamlar:
-- ► ay çöreği
+- ay çöreği
 ozellikler:
 - - isim
 ornekler:

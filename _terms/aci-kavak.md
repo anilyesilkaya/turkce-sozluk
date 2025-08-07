@@ -5,7 +5,7 @@ slug: aci-kavak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► titrek kavak
+- titrek kavak
 ozellikler:
 - - isim
   - bitki bilimi

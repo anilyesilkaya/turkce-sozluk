@@ -5,7 +5,7 @@ slug: asariatika
 letter: A
 lisan: Arapça ās̱ār + ʿatīḳa
 anlamlar:
-- ► eski eserler
+- eski eserler
 ozellikler:
 - - isim
   - eskimiş

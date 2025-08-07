@@ -7,7 +7,7 @@ lisan: Fransızca arabesque
 anlamlar:
 - Köyden kente göç eden toplulukların geleneksel yaşam tarzından çağdaş yaşam tarzına geçiş evresini yansıtan (kültür, sanat vb.)
 - Arap müziğine ait icra anlayışının Türk müziğine uygulanmasıyla oluşmuş, söz ağırlıklı (müzik)
-- ► girişik bezeme
+- girişik bezeme
 - Bu tarz süslemelerle bezenmiş olan
 ozellikler:
 - - sıfat

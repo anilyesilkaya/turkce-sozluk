@@ -5,7 +5,7 @@ slug: baharlanmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baharatlanmak
+- baharatlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

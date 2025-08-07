@@ -5,7 +5,7 @@ slug: obje
 letter: O
 lisan: Fransızca objet
 anlamlar:
-- ► nesne
+- nesne
 ozellikler:
 - - isim
   - felsefe

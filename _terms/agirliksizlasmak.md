@@ -5,7 +5,7 @@ slug: agirliksizlasmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çekimsizleşmek
+- çekimsizleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

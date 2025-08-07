@@ -8,7 +8,7 @@ anlamlar:
 - Çok dik; mum direk
 - Sıkıntıları karşılayacak durumda olan, baş eğmeyen
 - Çok dik bir biçimde
-- ► dosdoğru
+- dosdoğru
 - Kaskatı, çok sertleşmiş olarak
 - Dikkatli, ısrarlı bir biçimde
 - Dikkatli, ısrarlı (bakış)

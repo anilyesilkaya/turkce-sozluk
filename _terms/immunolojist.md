@@ -5,7 +5,7 @@ slug: immunolojist
 letter: I
 lisan: Fransızca immunologiste
 anlamlar:
-- ► bağışıklık bilimci
+- bağışıklık bilimci
 ozellikler:
 - - isim
 ornekler:

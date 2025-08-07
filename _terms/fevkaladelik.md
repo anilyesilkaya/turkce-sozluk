@@ -5,7 +5,7 @@ slug: fevkaladelik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► olağanüstülük
+- olağanüstülük
 ozellikler:
 - - isim
 ornekler:

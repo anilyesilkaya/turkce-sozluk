@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cuzʾī
 anlamlar:
 - Çok az
-- ► tikel
+- tikel
 ozellikler:
 - - sıfat
 - - sıfat

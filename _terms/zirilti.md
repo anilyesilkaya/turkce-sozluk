@@ -6,7 +6,7 @@ letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırıldama sırasında çıkan sesin adı
-- ► zımbırtı
+- zımbırtı
 - Can sıkan veya hoşa gitmeyen ses çıkaran nesne
 - Anlaşmazlık sebebiyle çıkan kavga, geçimsizlik
 ozellikler:

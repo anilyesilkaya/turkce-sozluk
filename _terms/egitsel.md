@@ -5,7 +5,7 @@ slug: egitsel
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğitici
+- eğitici
 ozellikler:
 - - sıfat
 ornekler:

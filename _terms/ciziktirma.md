@@ -5,7 +5,7 @@ slug: ciziktirma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiziktirme
+- çiziktirme
 ozellikler:
 - - isim
 ornekler:

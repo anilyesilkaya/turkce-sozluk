@@ -5,7 +5,7 @@ slug: fikrisabit
 letter: F
 lisan: Arapça fikr + s̱ābit
 anlamlar:
-- ► saplantı
+- saplantı
 ozellikler:
 - - isim
   - eskimiş

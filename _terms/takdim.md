@@ -6,8 +6,8 @@ letter: T
 lisan: Arapça taḳdīm
 anlamlar:
 - Bir şeyi karşılıksız olarak birine verme
-- ► tanıtma
-- ► tanıştırma
+- tanıtma
+- tanıştırma
 - Öne alma, önceye alma
 ozellikler:
 - - isim

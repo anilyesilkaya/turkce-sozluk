@@ -6,7 +6,7 @@ letter: C
 lisan: Farsça cengāver
 anlamlar:
 - Savaşta kahramanlık gösteren
-- ► savaşçı
+- savaşçı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: kolorimetre
 letter: K
 lisan: Fransızca colorimètre
 anlamlar:
-- ► renkölçer
+- renkölçer
 ozellikler:
 - - isim
 ornekler:

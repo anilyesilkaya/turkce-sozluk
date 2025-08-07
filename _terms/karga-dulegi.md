@@ -5,7 +5,7 @@ slug: karga-dulegi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► it hıyarı
+- it hıyarı
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: medenice
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygarca
+- uygarca
 ozellikler:
 - - zarf
 ornekler:

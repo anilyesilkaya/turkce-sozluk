@@ -5,7 +5,7 @@ slug: bagirdak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağıldak
+- bağıldak
 ozellikler:
 - - isim
   - ağızlardan

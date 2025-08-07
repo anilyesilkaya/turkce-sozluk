@@ -5,7 +5,7 @@ slug: tepeli-toygar
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tepeli tarla kuşu
+- tepeli tarla kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

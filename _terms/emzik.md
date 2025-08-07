@@ -8,7 +8,7 @@ anlamlar:
 - Süt çocuklarını oyalamak için ağızlarına verilen kauçuk meme
 - Beslemek için süt çocuklarına meme yerine emdirilen ağzı kauçuklu süt şişesi; biberon
 - İbrik, çaydanlık, testi vb. kapların, suyu azar azar akıtmaya yarayan içi delik uzantısı; ibik
-- ► sigara ağızlığı
+- sigara ağızlığı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: muahede
 letter: M
 lisan: Arapça muʿāhede
 anlamlar:
-- ► antlaşma
+- antlaşma
 ozellikler:
 - - isim
   - eskimiş

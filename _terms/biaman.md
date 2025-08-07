@@ -5,7 +5,7 @@ slug: biaman
 letter: B
 lisan: Farsça bī + Arapça amān
 anlamlar:
-- ► amansız
+- amansız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,9 +5,9 @@ slug: vukuf
 letter: V
 lisan: Arapça vuḳūf
 anlamlar:
-- ► anlama
-- ► bilgi
-- ► biliş
+- anlama
+- bilgi
+- biliş
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: irkiltec
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kalp pili
+- kalp pili
 ozellikler:
 - - isim
   - tıp

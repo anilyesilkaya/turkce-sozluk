@@ -5,7 +5,7 @@ slug: kertik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çentik
+- çentik
 - Çentilmiş olan
 ozellikler:
 - - isim

@@ -8,8 +8,8 @@ anlamlar:
 - Çalımlı, süslü olan (kimse)
 - Güzel, titiz olan
 - Cilveli olan
-- ► boylu poslu
-- ► çevik
+- boylu poslu
+- çevik
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: tahtelbahir
 letter: T
 lisan: Arapça taḥt + baḥr
 anlamlar:
-- ► denizaltı
+- denizaltı
 ozellikler:
 - - isim
   - eskimiş

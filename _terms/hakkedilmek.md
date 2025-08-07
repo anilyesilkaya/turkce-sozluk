@@ -5,7 +5,7 @@ slug: hakkedilmek
 letter: H
 lisan: Arapça ḥaḳḳ + Türkçe edilmek
 anlamlar:
-- ► kakılmak
+- kakılmak
 ozellikler:
 - - nesnesiz
 ornekler:

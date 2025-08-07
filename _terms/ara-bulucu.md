@@ -5,7 +5,7 @@ slug: ara-bulucu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uzlaştırıcı
+- uzlaştırıcı
 ozellikler:
 - - isim
 ornekler:

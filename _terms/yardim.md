@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kendi gücünü ve imkânlarını başka birinin iyiliği için kullanma; iane, muavenet
 - Bir ülkeye veya birine bağış veya ödünç olarak verilen para ve ihtiyaç maddeleri; destek
-- ► etki
+- etki
 - İşlerin daha etkin ve verimli olabilmesi için sağlanan katkı; destek
 ozellikler:
 - - isim

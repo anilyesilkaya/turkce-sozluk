@@ -5,7 +5,7 @@ slug: enin
 letter: E
 lisan: Arapça enįn
 anlamlar:
-- ► inilti
+- inilti
 ozellikler:
 - - isim
 ornekler:

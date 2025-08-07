@@ -5,7 +5,7 @@ slug: bos-yere
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

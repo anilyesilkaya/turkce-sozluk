@@ -5,7 +5,7 @@ slug: kavilesme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaşma
+- sağlamlaşma
 ozellikler:
 - - isim
 ornekler:

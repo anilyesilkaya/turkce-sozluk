@@ -5,7 +5,7 @@ slug: kayitsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ilgisizlik
+- ilgisizlik
 ozellikler:
 - - isim
 ornekler:

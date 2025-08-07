@@ -5,7 +5,7 @@ slug: notralizasyon
 letter: N
 lisan: Fransızca neutralisation
 anlamlar:
-- ► yansızlaştırma
+- yansızlaştırma
 ozellikler:
 - - isim
   - kimya

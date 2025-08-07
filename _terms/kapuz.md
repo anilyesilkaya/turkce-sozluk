@@ -5,7 +5,7 @@ slug: kapuz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kanyon
+- kanyon
 - İçine girilmeyen sık orman
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: ittifak
 letter: I
 lisan: Arapça ittifāḳ
 anlamlar:
-- ► bağlaşma
+- bağlaşma
 - Oy birliği
 ozellikler:
 - - isim

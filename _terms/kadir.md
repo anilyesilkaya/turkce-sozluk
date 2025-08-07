@@ -5,7 +5,7 @@ slug: kadir
 letter: K
 lisan: Arapça ḳādir
 anlamlar:
-- ► muktedir
+- muktedir
 - Her şeye gücü yeten (Tanrı)
 ozellikler:
 - - sıfat

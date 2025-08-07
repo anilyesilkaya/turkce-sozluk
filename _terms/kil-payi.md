@@ -5,7 +5,7 @@ slug: kil-payi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► neredeyse
+- neredeyse
 - Son anda
 ozellikler:
 - - zarf

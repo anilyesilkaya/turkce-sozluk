@@ -5,7 +5,7 @@ slug: purnese
 letter: P
 lisan: Farsça pur + Arapça neşʾe
 anlamlar:
-- ► neşeli
+- neşeli
 ozellikler:
 - - sıfat
   - eskimiş

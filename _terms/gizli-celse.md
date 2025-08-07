@@ -5,8 +5,8 @@ slug: gizli-celse
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gizli duruşma
-- ► kapalı oturum, açık celse karşıtı
+- gizli duruşma
+- kapalı oturum, açık celse karşıtı
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: kufretme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sövme
+- sövme
 ozellikler:
 - - isim
 ornekler:

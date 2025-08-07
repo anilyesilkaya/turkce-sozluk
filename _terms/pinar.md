@@ -6,8 +6,8 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Yerden kaynayarak çıkan su; bulak, göze
-- ► kaynak (I)
-- ► çeşme
+- kaynak (I)
+- çeşme
 ozellikler:
 - - isim
 - - isim

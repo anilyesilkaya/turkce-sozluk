@@ -5,7 +5,7 @@ slug: icma
 letter: I
 lisan: Arapça icmāʿ
 anlamlar:
-- ► toplama
+- toplama
 - İslam bilginlerinin bir konuda fikir birliği etmeleri
 ozellikler:
 - - isim

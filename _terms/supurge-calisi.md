@@ -5,7 +5,7 @@ slug: supurge-calisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süpürge otu
+- süpürge otu
 ozellikler:
 - - isim
   - bitki bilimi

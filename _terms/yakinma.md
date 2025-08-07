@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakınmak (II) işi; serzeniş
-- ► şikâyet
+- şikâyet
 ozellikler:
 - - isim
 - - isim

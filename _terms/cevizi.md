@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cevzī
 anlamlar:
 - Cevizden yapılmış veya cevizi andıran
-- ► ceviz yeşili
+- ceviz yeşili
 ozellikler:
 - - sıfat
   - eskimiş

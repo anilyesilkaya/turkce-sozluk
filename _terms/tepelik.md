@@ -8,7 +8,7 @@ anlamlar:
 - Tepesi çok olan (yer)
 - Bir yapının veya bir mobilyanın en yukarısına süs olarak yapılan bölüm
 - Anadolu'da köylü kadınların kullandıkları, altın ve gümüş paralarla, bazı değerli taşlarla süslü başlık
-- ► sorguç
+- sorguç
 ozellikler:
 - - sıfat
 - - sıfat

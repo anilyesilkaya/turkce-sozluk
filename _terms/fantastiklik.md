@@ -5,7 +5,7 @@ slug: fantastiklik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► hayalîlik
+- hayalîlik
 ozellikler:
 - - isim
 ornekler:

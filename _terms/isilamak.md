@@ -5,7 +5,7 @@ slug: isilamak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışıldamak
+- ışıldamak
 ozellikler:
 - - nesnesiz
   - ağızlardan

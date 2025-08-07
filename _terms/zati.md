@@ -5,9 +5,9 @@ slug: zati
 letter: Z
 lisan: Arapça ẕātī
 anlamlar:
-- ► kişisel
-- ► özel
-- ► özünlü
+- kişisel
+- özel
+- özünlü
 ozellikler:
 - - sıfat
   - eskimiş

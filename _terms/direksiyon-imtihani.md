@@ -5,7 +5,7 @@ slug: direksiyon-imtihani
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► direksiyon sınavı
+- direksiyon sınavı
 ozellikler:
 - - isim
 ornekler:

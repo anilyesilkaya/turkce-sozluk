@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ifrāġ
 anlamlar:
 - Bir şeyi başka bir biçime çevirme
-- ► boşaltım
+- boşaltım
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: emirlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► beylik
+- beylik
 ozellikler:
 - - isim
 ornekler:

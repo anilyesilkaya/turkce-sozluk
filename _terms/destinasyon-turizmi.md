@@ -5,7 +5,7 @@ slug: destinasyon-turizmi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► nokta turizmi
+- nokta turizmi
 ozellikler:
 - - isim
 ornekler:

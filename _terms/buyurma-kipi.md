@@ -5,7 +5,7 @@ slug: buyurma-kipi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emir kipi
+- emir kipi
 ozellikler:
 - - isim
   - dil bilgisi

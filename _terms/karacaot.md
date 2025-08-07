@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Bir tür çöpleme (Helloborus niger)
-- ► çörek otu
+- çörek otu
 ozellikler:
 - - isim
   - bitki bilimi

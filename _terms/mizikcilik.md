@@ -5,7 +5,7 @@ slug: mizikcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► oyunbozanlık
+- oyunbozanlık
 ozellikler:
 - - isim
 ornekler:

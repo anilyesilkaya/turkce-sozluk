@@ -5,7 +5,7 @@ slug: fasla-fasla
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yer yer
+- yer yer
 ozellikler:
 - - zarf
 ornekler:

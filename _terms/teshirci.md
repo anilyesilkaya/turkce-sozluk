@@ -5,7 +5,7 @@ slug: teshirci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► göstermeci
+- göstermeci
 ozellikler:
 - - sıfat
   - ruh bilimi

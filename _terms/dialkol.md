@@ -5,7 +5,7 @@ slug: dialkol
 letter: D
 lisan: Fransızca dialcool
 anlamlar:
-- ► glikol
+- glikol
 ozellikler:
 - - isim
   - kimya

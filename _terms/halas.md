@@ -5,7 +5,7 @@ slug: halas
 letter: H
 lisan: Arapça ḫalāṣ
 anlamlar:
-- ► kurtuluş
+- kurtuluş
 ozellikler:
 - - isim
   - eskimiş

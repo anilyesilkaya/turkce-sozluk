@@ -5,7 +5,7 @@ slug: kasavetsiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sıkıntısız
+- sıkıntısız
 ozellikler:
 - - sıfat
 ornekler:

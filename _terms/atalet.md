@@ -5,9 +5,9 @@ slug: atalet
 letter: A
 lisan: Arapça ʿaṭālet
 anlamlar:
-- ► tembellik
+- tembellik
 - İşsiz olma, işsiz kalma
-- ► süredurum
+- süredurum
 ozellikler:
 - - isim
   - eskimiş

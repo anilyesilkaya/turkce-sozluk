@@ -5,7 +5,7 @@ slug: cenabiallah
 letter: C
 lisan: Arapça cenāb + allah
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
 ornekler:

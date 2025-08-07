@@ -5,12 +5,12 @@ slug: siki
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dar (I)
+- dar (I)
 - İyice sıkıştırılmış, doldurulmuş; tıkız, gevşek olmayan
 - Zorlu, güçlü ve etkili
 - Dikkatli, titiz ve göz yummadan uygulanan
-- ► katı (I)
-- ► yoğun
+- katı (I)
+- yoğun
 - Sıkıca, iyice
 - Zorlayıcı durum
 - Ağızdan dolma ateşli silahlarda, barut ve kurşunun üstünden namluya sokulup bastırılan bez ve kâğıt parçaları vb. şeylerin tümü

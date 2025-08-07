@@ -5,7 +5,7 @@ slug: astronot
 letter: A
 lisan: Fransızca astronaute
 anlamlar:
-- ► uzay adamı
+- uzay adamı
 ozellikler:
 - - isim
   - gök bilimi

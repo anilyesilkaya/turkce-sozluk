@@ -5,7 +5,7 @@ slug: sirkat
 letter: S
 lisan: Arapça sirḳat
 anlamlar:
-- ► hırsızlık
+- hırsızlık
 ozellikler:
 - - isim
   - eskimiş

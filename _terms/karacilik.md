@@ -5,7 +5,7 @@ slug: karacilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karalamacılık
+- karalamacılık
 ozellikler:
 - - isim
 ornekler:

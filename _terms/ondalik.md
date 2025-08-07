@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Temel olarak on sayısını alan; aşar, aşari
 - Onda bir olarak alınan veya verilen ücret; komisyon
-- ► öşür
+- öşür
 ozellikler:
 - - sıfat
   - matematik

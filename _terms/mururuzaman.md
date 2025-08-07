@@ -5,7 +5,7 @@ slug: mururuzaman
 letter: M
 lisan: Arapça murūr + zamān
 anlamlar:
-- ► süre aşımı
+- süre aşımı
 ozellikler:
 - - isim
   - eskimiş

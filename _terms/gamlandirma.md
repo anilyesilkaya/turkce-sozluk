@@ -5,7 +5,7 @@ slug: gamlandirma
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygılandırma
+- kaygılandırma
 ozellikler:
 - - isim
 ornekler:

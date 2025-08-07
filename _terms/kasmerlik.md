@@ -5,7 +5,7 @@ slug: kasmerlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► soytarılık
+- soytarılık
 ozellikler:
 - - isim
 ornekler:

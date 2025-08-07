@@ -5,7 +5,7 @@ slug: tulumsular
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tulumlular
+- tulumlular
 ozellikler:
 - - isim
   - hayvan bilimi

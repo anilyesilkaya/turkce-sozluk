@@ -5,7 +5,7 @@ slug: hiddetlilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► öfkelilik
+- öfkelilik
 ozellikler:
 - - isim
 ornekler:

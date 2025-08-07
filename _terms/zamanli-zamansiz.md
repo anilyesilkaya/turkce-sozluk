@@ -5,7 +5,7 @@ slug: zamanli-zamansiz
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► vakitli vakitsiz
+- vakitli vakitsiz
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: odunaga
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalı
+- kalın kafalı
 ozellikler:
 - - sıfat
   - kaba konuşmada

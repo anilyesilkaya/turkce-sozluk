@@ -5,7 +5,7 @@ slug: curetsiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretsiz
+- cesaretsiz
 - Cesaretsiz bir biçimde
 ozellikler:
 - - sıfat

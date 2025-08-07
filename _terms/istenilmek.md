@@ -5,7 +5,7 @@ slug: istenilmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► istenmek
+- istenmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: monte
 letter: M
 lisan: Fransızca monté
 anlamlar:
-- ► montaj
+- montaj
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Toprak içinde yaşayıp bitkilere, köklerini keserek zarar veren bir böcek; kök kurdu (Gryllotalpa vulgaris)
-- ► aslanağzı
+- aslanağzı
 ozellikler:
 - - isim
   - hayvan bilimi

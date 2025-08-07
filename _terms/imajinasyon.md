@@ -5,7 +5,7 @@ slug: imajinasyon
 letter: I
 lisan: Fransızca imagination
 anlamlar:
-- ► imgelem
+- imgelem
 ozellikler:
 - - isim
   - toplum bilimi

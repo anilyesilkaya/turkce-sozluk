@@ -5,7 +5,7 @@ slug: luks-mevki
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► birinci mevki
+- birinci mevki
 ozellikler:
 - - isim
 ornekler:

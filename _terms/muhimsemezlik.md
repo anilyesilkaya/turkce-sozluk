@@ -5,7 +5,7 @@ slug: muhimsemezlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► önemsemezlik
+- önemsemezlik
 ozellikler:
 - - isim
 ornekler:

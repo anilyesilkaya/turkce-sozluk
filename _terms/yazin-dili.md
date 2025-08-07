@@ -5,7 +5,7 @@ slug: yazin-dili
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebî dil
+- edebî dil
 ozellikler:
 - - isim
 ornekler:

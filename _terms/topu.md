@@ -5,7 +5,7 @@ slug: topu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hepsi
+- hepsi
 ozellikler:
 - - zamir
 ornekler:

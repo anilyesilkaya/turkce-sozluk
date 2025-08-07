@@ -5,7 +5,7 @@ slug: direnleme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dirgenleme
+- dirgenleme
 ozellikler:
 - - isim
 ornekler:

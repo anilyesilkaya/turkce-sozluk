@@ -5,7 +5,7 @@ slug: muhresenk
 letter: M
 lisan: Farsça muhre + seng
 anlamlar:
-- ► balgam taşı
+- balgam taşı
 - Süsleme nakışlarını ve yaldızları mührelemekte kullanılan araç
 ozellikler:
 - - isim

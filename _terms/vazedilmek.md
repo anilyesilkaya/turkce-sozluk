@@ -6,7 +6,7 @@ letter: V
 lisan: Türkçe
 anlamlar:
 - Ortaya konulmak
-- ► yerleştirilmek
+- yerleştirilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

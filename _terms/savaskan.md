@@ -5,7 +5,7 @@ slug: savaskan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► savaşçı
+- savaşçı
 ozellikler:
 - - sıfat
 ornekler:

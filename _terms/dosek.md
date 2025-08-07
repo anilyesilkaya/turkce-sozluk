@@ -5,7 +5,7 @@ slug: dosek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yatak
+- yatak
 - Gemi gövdesinde, su basıncı, çarpma, karaya oturma vb. durumlarda darbeleri karşılayabilecek, yük ve makinelerin ağırlığına dayanabilecek dirençteki yapı gereci
 - Dövülmek üzere harman yerine serilen ekin sapları
 ozellikler:

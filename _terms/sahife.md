@@ -5,7 +5,7 @@ slug: sahife
 letter: S
 lisan: Arapça ṣaḥīfe
 anlamlar:
-- ► sayfa
+- sayfa
 ozellikler:
 - - isim
   - eskimiş

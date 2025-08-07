@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Niyeti olan, niyet eden
-- ► oruçlu
+- oruçlu
 ozellikler:
 - - sıfat
 - - sıfat

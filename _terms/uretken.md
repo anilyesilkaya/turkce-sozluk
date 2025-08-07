@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üretme gücü olan, çok üreten
-- ► doğurucu
+- doğurucu
 ozellikler:
 - - sıfat
 - - sıfat

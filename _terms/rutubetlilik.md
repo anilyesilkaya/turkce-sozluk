@@ -5,7 +5,7 @@ slug: rutubetlilik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► nemlilik
+- nemlilik
 ozellikler:
 - - isim
 ornekler:

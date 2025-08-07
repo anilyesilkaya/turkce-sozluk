@@ -5,7 +5,7 @@ slug: menfa
 letter: M
 lisan: Arapça menfā
 anlamlar:
-- ► sürgün
+- sürgün
 ozellikler:
 - - isim
   - eskimiş

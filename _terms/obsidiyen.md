@@ -5,7 +5,7 @@ slug: obsidiyen
 letter: O
 lisan: Fransızca obsidien
 anlamlar:
-- ► cam kaya
+- cam kaya
 ozellikler:
 - - isim
 ornekler:

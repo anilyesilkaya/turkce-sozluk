@@ -5,7 +5,7 @@ slug: yelec
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► havadar
+- havadar
 ozellikler:
 - - sıfat
   - ağızlardan

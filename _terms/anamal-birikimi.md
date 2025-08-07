@@ -5,7 +5,7 @@ slug: anamal-birikimi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sermaye birikimi
+- sermaye birikimi
 ozellikler:
 - - isim
   - ticaret

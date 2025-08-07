@@ -5,7 +5,7 @@ slug: himayecilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► korumacılık
+- korumacılık
 ozellikler:
 - - isim
 ornekler:

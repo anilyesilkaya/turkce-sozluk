@@ -5,7 +5,7 @@ slug: sorumak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► somurmak
+- somurmak
 ozellikler:
 - - -i
 ornekler:

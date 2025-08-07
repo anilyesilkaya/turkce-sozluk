@@ -5,7 +5,7 @@ slug: buklum-buklum
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kıvrım kıvrım
+- kıvrım kıvrım
 ozellikler:
 - - sıfat
 ornekler:

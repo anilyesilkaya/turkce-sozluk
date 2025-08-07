@@ -5,7 +5,7 @@ slug: bir-tuhaf
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir hoş
+- bir hoş
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: orek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► duvar
+- duvar
 ozellikler:
 - - isim
   - ağızlardan

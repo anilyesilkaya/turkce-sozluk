@@ -5,7 +5,7 @@ slug: as
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yemek (I)
+- yemek (I)
 ozellikler:
 - - isim
 ornekler:

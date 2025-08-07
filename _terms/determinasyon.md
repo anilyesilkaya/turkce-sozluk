@@ -5,7 +5,7 @@ slug: determinasyon
 letter: D
 lisan: Fransızca détermination
 anlamlar:
-- ► belirlenim
+- belirlenim
 ozellikler:
 - - isim
   - felsefe

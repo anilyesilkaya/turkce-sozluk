@@ -5,7 +5,7 @@ slug: haci-fitil
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hacı fışfış
+- hacı fışfış
 ozellikler:
 - - isim
 ornekler:

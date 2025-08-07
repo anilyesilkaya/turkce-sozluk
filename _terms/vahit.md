@@ -5,8 +5,8 @@ slug: vahit
 letter: V
 lisan: Arapça vāḥid
 anlamlar:
-- ► tek (I)
-- ► birim
+- tek (I)
+- birim
 ozellikler:
 - - sıfat
   - eskimiş

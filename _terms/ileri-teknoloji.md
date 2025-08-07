@@ -5,7 +5,7 @@ slug: ileri-teknoloji
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yüksek teknoloji
+- yüksek teknoloji
 ozellikler:
 - - isim
 ornekler:

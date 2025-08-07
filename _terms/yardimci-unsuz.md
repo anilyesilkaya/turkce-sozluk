@@ -5,7 +5,7 @@ slug: yardimci-unsuz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► bağlayıcı ünsüz
+- bağlayıcı ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

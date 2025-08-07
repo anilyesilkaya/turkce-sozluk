@@ -5,7 +5,7 @@ slug: munevver
 letter: M
 lisan: Arapça munevver
 anlamlar:
-- ► aydın
+- aydın
 - Aydınlatılmış
 - Aydın kimse
 ozellikler:

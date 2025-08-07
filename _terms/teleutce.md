@@ -5,7 +5,7 @@ slug: teleutce
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Teleüt Türkçesi
+- Teleüt Türkçesi
 ozellikler:
 - - isim
 ornekler:

@@ -6,8 +6,8 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlemleme veya gözetleme işini yapan kimse; dideban
-- ► gözetmen
-- ► göz doktoru
+- gözetmen
+- göz doktoru
 ozellikler:
 - - isim
 - - isim

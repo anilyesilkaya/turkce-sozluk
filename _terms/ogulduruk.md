@@ -5,7 +5,7 @@ slug: ogulduruk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► döl yatağı
+- döl yatağı
 - Bitkinin dibinden çıkan filiz
 ozellikler:
 - - isim

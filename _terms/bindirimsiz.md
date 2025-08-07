@@ -5,7 +5,7 @@ slug: bindirimsiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zamsız
+- zamsız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tahammulfersa
 letter: T
 lisan: Arapça taḥammul + Farsça -fersā
 anlamlar:
-- ► dayanılmaz
+- dayanılmaz
 ozellikler:
 - - sıfat
   - eskimiş

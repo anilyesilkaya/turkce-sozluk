@@ -5,7 +5,7 @@ slug: ceviricilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çevirmenlik
+- çevirmenlik
 ozellikler:
 - - isim
 ornekler:

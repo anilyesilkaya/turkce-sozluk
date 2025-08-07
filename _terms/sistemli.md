@@ -5,7 +5,7 @@ slug: sistemli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzenli
+- düzenli
 - Belli ilkelere, kurallara uyan; dizgeli, sistematik
 ozellikler:
 - - sıfat

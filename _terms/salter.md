@@ -5,9 +5,9 @@ slug: salter
 letter: Ş
 lisan: Almanca Schalter
 anlamlar:
-- ► anahtar
+- anahtar
 - Genellikle binaların girişine gelen elektrik akımını açıp kapamaya yarayan araç; şalt
-- ► gişe
+- gişe
 ozellikler:
 - - isim
   - fizik

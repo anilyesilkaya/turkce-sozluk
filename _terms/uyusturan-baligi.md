@@ -5,7 +5,7 @@ slug: uyusturan-baligi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► torpil balığı
+- torpil balığı
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - İnat olsun diye
-- ► iyiden iyiye
+- iyiden iyiye
 ozellikler:
 - - zarf
 - - zarf

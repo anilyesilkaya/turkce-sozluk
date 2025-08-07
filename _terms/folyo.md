@@ -5,7 +5,7 @@ slug: folyo
 letter: F
 lisan: İngilizce folio.
 anlamlar:
-- ► folyo kâğıdı
+- folyo kâğıdı
 ozellikler:
 - - isim
 ornekler:

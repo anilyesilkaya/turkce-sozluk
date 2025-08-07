@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kara ile suyun birleştiği yer
 - Bir yerin kenarı; periferi
-- ► sahil
+- sahil
 - Issız, tenha yer
 ozellikler:
 - - isim

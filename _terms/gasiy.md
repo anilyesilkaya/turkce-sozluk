@@ -5,7 +5,7 @@ slug: gasiy
 letter: G
 lisan: Arapça ġaşy
 anlamlar:
-- ► esrime
+- esrime
 ozellikler:
 - - isim
   - eskimiş

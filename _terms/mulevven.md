@@ -5,7 +5,7 @@ slug: mulevven
 letter: M
 lisan: Arapça mulevven
 anlamlar:
-- ► renkli
+- renkli
 ozellikler:
 - - sıfat
   - eskimiş

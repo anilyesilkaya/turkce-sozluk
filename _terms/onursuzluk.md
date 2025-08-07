@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Onursuz olma durumu; haysiyetsizlik
-- ► şerefsizlik
+- şerefsizlik
 ozellikler:
 - - isim
 - - isim

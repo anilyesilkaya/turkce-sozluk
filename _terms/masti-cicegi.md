@@ -5,7 +5,7 @@ slug: masti-cicegi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► öküzgözü (I)
+- öküzgözü (I)
 ozellikler:
 - - isim
   - bitki bilimi

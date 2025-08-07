@@ -5,7 +5,7 @@ slug: primatlar
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► maymunlar
+- maymunlar
 ozellikler:
 - - isim
   - hayvan bilimi

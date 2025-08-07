@@ -5,7 +5,7 @@ slug: kodifikasyon
 letter: K
 lisan: Fransızca codification
 anlamlar:
-- ► düzenleme
+- düzenleme
 ozellikler:
 - - isim
   - hukuk

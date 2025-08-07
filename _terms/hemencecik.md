@@ -5,7 +5,7 @@ slug: hemencecik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

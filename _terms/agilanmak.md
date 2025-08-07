@@ -5,7 +5,7 @@ slug: agilanmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zehirlenmek
+- zehirlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

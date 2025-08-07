@@ -5,7 +5,7 @@ slug: sihirsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► büyüsüz
+- büyüsüz
 ozellikler:
 - - sıfat
 ornekler:

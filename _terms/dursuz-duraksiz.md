@@ -5,7 +5,7 @@ slug: dursuz-duraksiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► durmadan
+- durmadan
 ozellikler:
 - - zarf
 ornekler:

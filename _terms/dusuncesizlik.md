@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Düşüncesizce davranma durumu
-- ► fikirsizlik
+- fikirsizlik
 ozellikler:
 - - isim
 - - isim

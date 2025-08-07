@@ -5,7 +5,7 @@ slug: oylumsuz
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hacimsiz
+- hacimsiz
 ozellikler:
 - - sıfat
 ornekler:

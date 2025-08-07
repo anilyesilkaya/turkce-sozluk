@@ -6,7 +6,7 @@ letter: T
 lisan: Rusça
 anlamlar:
 - Rusya'da kullanılan, üç atla çekilen kızak veya araba
-- ► üçlü
+- üçlü
 ozellikler:
 - - isim
 - - isim

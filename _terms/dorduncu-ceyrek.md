@@ -5,7 +5,7 @@ slug: dorduncu-ceyrek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► son çeyrek
+- son çeyrek
 ozellikler:
 - - isim
   - spor

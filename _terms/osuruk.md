@@ -5,7 +5,7 @@ slug: osuruk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► yellenme
+- yellenme
 ozellikler:
 - - isim
   - kaba konuşmada

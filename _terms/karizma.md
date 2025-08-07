@@ -5,7 +5,7 @@ slug: karizma
 letter: K
 lisan: Fransızca charisme
 anlamlar:
-- ► etkileyicilik
+- etkileyicilik
 ozellikler:
 - - isim
 ornekler:

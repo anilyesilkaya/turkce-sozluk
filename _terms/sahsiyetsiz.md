@@ -5,7 +5,7 @@ slug: sahsiyetsiz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kişiliksiz
+- kişiliksiz
 ozellikler:
 - - sıfat
 ornekler:

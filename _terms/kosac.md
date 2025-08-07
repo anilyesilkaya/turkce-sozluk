@@ -5,7 +5,7 @@ slug: kosac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bildirme eki
+- bildirme eki
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: kele
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► boğa
+- boğa
 ozellikler:
 - - isim
   - ağızlardan

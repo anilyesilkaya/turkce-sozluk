@@ -5,7 +5,7 @@ slug: nebbaslik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► mezar soygunculuğu
+- mezar soygunculuğu
 ozellikler:
 - - isim
 ornekler:

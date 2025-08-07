@@ -5,7 +5,7 @@ slug: tuzel
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hukuki
+- hukuki
 - Hükümle ilgili; hükmi
 ozellikler:
 - - sıfat

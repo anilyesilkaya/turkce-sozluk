@@ -5,7 +5,7 @@ slug: sindi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► makas
+- makas
 ozellikler:
 - - isim
   - ağızlardan

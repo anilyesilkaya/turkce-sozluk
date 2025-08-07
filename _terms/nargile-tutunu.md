@@ -5,7 +5,7 @@ slug: nargile-tutunu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► tömbeki
+- tömbeki
 ozellikler:
 - - isim
   - bitki bilimi

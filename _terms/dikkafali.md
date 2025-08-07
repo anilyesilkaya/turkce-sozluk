@@ -5,7 +5,7 @@ slug: dikkafali
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dikbaşlı
+- dikbaşlı
 ozellikler:
 - - sıfat
   - mecaz

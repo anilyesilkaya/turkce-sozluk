@@ -5,7 +5,7 @@ slug: cakasiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► gösterişsiz
+- gösterişsiz
 ozellikler:
 - - sıfat
 ornekler:

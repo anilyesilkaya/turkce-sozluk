@@ -5,7 +5,7 @@ slug: tenezzuh
 letter: T
 lisan: Arapça tenezzuh
 anlamlar:
-- ► gezinti
+- gezinti
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: abstraksiyonizm
 letter: A
 lisan: Fransızca abstractionisme
 anlamlar:
-- ► soyutçuluk
+- soyutçuluk
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: suni-solunum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yapay solunum
+- yapay solunum
 ozellikler:
 - - isim
 ornekler:

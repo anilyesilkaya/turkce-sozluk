@@ -5,7 +5,7 @@ slug: adavet
 letter: A
 lisan: Arapça ʿadāvet
 anlamlar:
-- ► düşmanlık
+- düşmanlık
 ozellikler:
 - - isim
   - eskimiş

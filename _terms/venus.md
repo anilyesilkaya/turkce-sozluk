@@ -5,7 +5,7 @@ slug: venus
 letter: V
 lisan: Fransızca vénus
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

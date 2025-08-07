@@ -5,7 +5,7 @@ slug: muteaffin
 letter: M
 lisan: Arapça muteʿaffin
 anlamlar:
-- ► kokmuş
+- kokmuş
 ozellikler:
 - - sıfat
   - eskimiş

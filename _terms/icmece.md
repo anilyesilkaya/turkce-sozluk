@@ -5,7 +5,7 @@ slug: icmece
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içme
+- içme
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Alışılmışın dışında olan; olağan dışı, gayritabii, normalüstü, ekstrem
-- ► beklenmedik
+- beklenmedik
 ozellikler:
 - - sıfat
 - - sıfat

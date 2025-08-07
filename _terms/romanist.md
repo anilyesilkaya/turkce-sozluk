@@ -5,7 +5,7 @@ slug: romanist
 letter: R
 lisan: Fransızca romaniste
 anlamlar:
-- ► Romanolog
+- Romanolog
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kumbet
 letter: K
 lisan: Farsça gunbed
 anlamlar:
-- ► kubbe
+- kubbe
 - Damı koni veya piramit biçiminde olan, yuvarlak veya köşeli yapı
 ozellikler:
 - - isim

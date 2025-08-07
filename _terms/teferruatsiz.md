@@ -5,7 +5,7 @@ slug: teferruatsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ayrıntısız
+- ayrıntısız
 ozellikler:
 - - sıfat
 ornekler:

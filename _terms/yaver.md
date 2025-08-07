@@ -5,8 +5,8 @@ slug: yaver
 letter: Y
 lisan: Farsça yāver
 anlamlar:
-- ► yardımcı
-- ► emir subayı
+- yardımcı
+- emir subayı
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: elin-oglu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eloğlu
+- eloğlu
 ozellikler:
 - - isim
 ornekler:

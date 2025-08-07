@@ -5,7 +5,7 @@ slug: bibliyotekci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kütüphaneci
+- kütüphaneci
 ozellikler:
 - - isim
 ornekler:

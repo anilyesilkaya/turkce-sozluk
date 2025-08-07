@@ -5,7 +5,7 @@ slug: despotik
 letter: D
 lisan: Fransızca despotique
 anlamlar:
-- ► despotça
+- despotça
 ozellikler:
 - - sıfat
   - zarf

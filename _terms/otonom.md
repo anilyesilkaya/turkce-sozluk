@@ -5,7 +5,7 @@ slug: otonom
 letter: O
 lisan: Fransızca autonome
 anlamlar:
-- ► özerk
+- özerk
 ozellikler:
 - - sıfat
 ornekler:

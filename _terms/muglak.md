@@ -5,7 +5,7 @@ slug: muglak
 letter: M
 lisan: Arapça muġlaḳ
 anlamlar:
-- ► anlaşılmaz
+- anlaşılmaz
 ozellikler:
 - - sıfat
 ornekler:

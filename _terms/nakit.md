@@ -5,7 +5,7 @@ slug: nakit
 letter: N
 lisan: Arapça naḳd
 anlamlar:
-- ► para
+- para
 - Kullanılması hemen mümkün olan para, peşin para; likit
 ozellikler:
 - - isim

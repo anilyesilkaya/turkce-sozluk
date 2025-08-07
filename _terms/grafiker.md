@@ -5,7 +5,7 @@ slug: grafiker
 letter: G
 lisan: Almanca Graphiker
 anlamlar:
-- ► grafik tasarımcısı
+- grafik tasarımcısı
 ozellikler:
 - - isim
 ornekler:

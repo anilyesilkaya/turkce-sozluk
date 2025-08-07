@@ -5,7 +5,7 @@ slug: plasman
 letter: P
 lisan: Fransızca placement
 anlamlar:
-- ► yatırım
+- yatırım
 ozellikler:
 - - isim
   - ekonomi

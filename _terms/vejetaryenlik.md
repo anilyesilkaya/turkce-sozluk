@@ -5,7 +5,7 @@ slug: vejetaryenlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► etyemezlik
+- etyemezlik
 ozellikler:
 - - isim
 ornekler:

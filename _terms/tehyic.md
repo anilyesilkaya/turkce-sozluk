@@ -5,7 +5,7 @@ slug: tehyic
 letter: T
 lisan: Arapça tehyīc
 anlamlar:
-- ► heyecanlandırma
+- heyecanlandırma
 ozellikler:
 - - isim
   - eskimiş

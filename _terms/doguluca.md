@@ -5,7 +5,7 @@ slug: doguluca
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► alaturka
+- alaturka
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: hijyen
 letter: H
 lisan: Fransızca hygiène
 anlamlar:
-- ► sağlık bilgisi
-- ► temiz
+- sağlık bilgisi
+- temiz
 - Sağlığa zarar verecek ortamlardan korunmak için yapılacak uygulamalar ve alınan temizlik önlemlerinin tümü
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: iskandinavyali
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► İskandinav
+- İskandinav
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hurmetkarlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygılılık
+- saygılılık
 ozellikler:
 - - isim
 ornekler:

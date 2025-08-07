@@ -5,7 +5,7 @@ slug: kadintuzlugu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sarıçalı
+- sarıçalı
 ozellikler:
 - - isim
   - bitki bilimi

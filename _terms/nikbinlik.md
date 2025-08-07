@@ -5,7 +5,7 @@ slug: nikbinlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► iyimserlik
+- iyimserlik
 ozellikler:
 - - isim
 ornekler:

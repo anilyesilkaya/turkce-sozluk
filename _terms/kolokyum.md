@@ -5,7 +5,7 @@ slug: kolokyum
 letter: K
 lisan: Latince
 anlamlar:
-- ► konuşu
+- konuşu
 - Doçentlik sözlü sınavı
 ozellikler:
 - - isim

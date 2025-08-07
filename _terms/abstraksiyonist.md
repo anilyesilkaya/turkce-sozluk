@@ -5,7 +5,7 @@ slug: abstraksiyonist
 letter: A
 lisan: Fransızca abstractioniste
 anlamlar:
-- ► soyutçu
+- soyutçu
 ozellikler:
 - - sıfat
   - felsefe

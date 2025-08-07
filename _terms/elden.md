@@ -5,7 +5,7 @@ slug: elden
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► doğrudan
+- doğrudan
 - Başkasıyla
 ozellikler:
 - - zarf

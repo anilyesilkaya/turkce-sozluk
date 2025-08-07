@@ -5,8 +5,8 @@ slug: muharriklik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► devitkenlik
-- ► kışkırtıcılık
+- devitkenlik
+- kışkırtıcılık
 ozellikler:
 - - isim
 - - isim

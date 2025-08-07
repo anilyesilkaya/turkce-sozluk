@@ -5,7 +5,7 @@ slug: defterikebir
 letter: D
 lisan: Arapça defter + kebīr
 anlamlar:
-- ► büyük defter
+- büyük defter
 ozellikler:
 - - isim
   - ticaret

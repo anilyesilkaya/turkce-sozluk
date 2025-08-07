@@ -5,7 +5,7 @@ slug: atis-yeri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atış poligonu
+- atış poligonu
 ozellikler:
 - - isim
 ornekler:

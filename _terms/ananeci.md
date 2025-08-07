@@ -5,7 +5,7 @@ slug: ananeci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gelenekçi
+- gelenekçi
 ozellikler:
 - - sıfat
 ornekler:

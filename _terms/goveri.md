@@ -5,7 +5,7 @@ slug: goveri
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sebze
+- sebze
 ozellikler:
 - - isim
   - ağızlardan

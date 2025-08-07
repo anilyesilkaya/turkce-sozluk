@@ -5,7 +5,7 @@ slug: riyakarcasina
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► riyakârca
+- riyakârca
 ozellikler:
 - - zarf
 ornekler:

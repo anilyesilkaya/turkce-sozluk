@@ -5,7 +5,7 @@ slug: pervaz
 letter: P
 lisan: Farsça pervāz
 anlamlar:
-- ► uçuş
+- uçuş
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - '"Gümbür" diye ses çıkarmak'
-- ► ölmek
+- ölmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

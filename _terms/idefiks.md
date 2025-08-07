@@ -5,7 +5,7 @@ slug: idefiks
 letter: I
 lisan: Fransızca idée fixe
 anlamlar:
-- ► saplantı
+- saplantı
 ozellikler:
 - - isim
   - ruh bilimi

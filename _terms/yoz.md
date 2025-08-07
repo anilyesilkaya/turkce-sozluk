@@ -6,9 +6,9 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğada olduğu gibi kalarak işlenmemiş olan
-- ► kaba
+- kaba
 - Yozlaşmış; dejenere
-- ► kısır (I)
+- kısır (I)
 - Davar sürüsü
 - Tek hörgüçlü dişi deve
 ozellikler:

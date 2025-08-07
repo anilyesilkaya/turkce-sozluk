@@ -5,7 +5,7 @@ slug: kiray
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yolkesen
+- yolkesen
 - Genç, delikanlı olan
 ozellikler:
 - - sıfat

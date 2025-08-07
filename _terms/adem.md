@@ -5,7 +5,7 @@ slug: adem
 letter: Â
 lisan: Arapça ādem
 anlamlar:
-- ► insan
+- insan
 ozellikler:
 - - isim
 ornekler:

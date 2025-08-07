@@ -5,7 +5,7 @@ slug: jakuzi
 letter: J
 lisan: Jacuzzi tescilli ürün adından
 anlamlar:
-- ► sağlık havuzu
+- sağlık havuzu
 ozellikler:
 - - isim
 ornekler:

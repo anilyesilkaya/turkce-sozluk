@@ -5,7 +5,7 @@ slug: ihbarname
 letter: I
 lisan: Arapça iḫbār + Farsça nāme
 anlamlar:
-- ► bildirim
+- bildirim
 ozellikler:
 - - isim
 ornekler:

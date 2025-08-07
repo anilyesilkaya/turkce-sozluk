@@ -5,7 +5,7 @@ slug: kaziye
 letter: K
 lisan: Arapça ḳażiyye
 anlamlar:
-- ► önerme
+- önerme
 ozellikler:
 - - isim
   - eskimiş

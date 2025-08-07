@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça neşr
 anlamlar:
 - Yayma, dağıtma, saçma
-- ► yayım
+- yayım
 ozellikler:
 - - isim
   - eskimiş

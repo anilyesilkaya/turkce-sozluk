@@ -5,7 +5,7 @@ slug: miskinhane
 letter: M
 lisan: Arapça miskīn + Farsça ḫāne
 anlamlar:
-- ► miskinler tekkesi
+- miskinler tekkesi
 ozellikler:
 - - isim
   - eskimiş

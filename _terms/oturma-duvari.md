@@ -5,7 +5,7 @@ slug: oturma-duvari
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oturmalık
+- oturmalık
 ozellikler:
 - - isim
   - mimarlık

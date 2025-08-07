@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tahıl unundan yapılmış hamurun fırında, sacda veya tandırda pişirilmesiyle yapılan yiyecek; nan, nanıaziz
 - İnsanı geçindirecek iş; kazanç
-- ► yemek (I)
+- yemek (I)
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: berri
 letter: B
 lisan: Arapça berrī
 anlamlar:
-- ► karasal
+- karasal
 ozellikler:
 - - sıfat
   - eskimiş

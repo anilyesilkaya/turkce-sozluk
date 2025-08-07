@@ -5,7 +5,7 @@ slug: hakimiyet
 letter: H
 lisan: Arapça ḥākimiyyet
 anlamlar:
-- ► egemenlik
+- egemenlik
 ozellikler:
 - - isim
 ornekler:

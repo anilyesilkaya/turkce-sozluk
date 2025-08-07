@@ -5,7 +5,7 @@ slug: misir-baklasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► termiye
+- termiye
 ozellikler:
 - - isim
   - bitki bilimi

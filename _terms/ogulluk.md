@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Oğul olma durumu
-- ► üvey oğul
+- üvey oğul
 ozellikler:
 - - isim
 - - isim

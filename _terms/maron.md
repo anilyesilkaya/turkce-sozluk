@@ -5,7 +5,7 @@ slug: maron
 letter: M
 lisan: Fransızca marron
 anlamlar:
-- ► kestane rengi
+- kestane rengi
 - Bu renkte olan
 ozellikler:
 - - isim

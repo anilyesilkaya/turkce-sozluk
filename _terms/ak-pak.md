@@ -5,7 +5,7 @@ slug: ak-pak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bembeyaz
+- bembeyaz
 - Saçı sakalı ağarmış
 ozellikler:
 - - sıfat

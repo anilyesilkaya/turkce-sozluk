@@ -5,7 +5,7 @@ slug: alamet
 letter: A
 lisan: Arapça ʿalāmet
 anlamlar:
-- ► belirti
+- belirti
 - Büyüklük, irilik bakımından şaşılacak durumda olan nesne
 ozellikler:
 - - isim

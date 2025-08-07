@@ -5,7 +5,7 @@ slug: fikdan
 letter: F
 lisan: Arapça fiḳdān
 anlamlar:
-- ► yokluk
+- yokluk
 ozellikler:
 - - isim
   - eskimiş

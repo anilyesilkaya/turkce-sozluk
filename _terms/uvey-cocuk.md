@@ -5,7 +5,7 @@ slug: uvey-cocuk
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üvey evlat
+- üvey evlat
 ozellikler:
 - - isim
 ornekler:

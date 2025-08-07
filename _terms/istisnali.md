@@ -5,7 +5,7 @@ slug: istisnali
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► istisnai
+- istisnai
 ozellikler:
 - - sıfat
 ornekler:

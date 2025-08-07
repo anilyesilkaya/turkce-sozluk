@@ -5,7 +5,7 @@ slug: bahusus
 letter: B
 lisan: Farsça bā + Arapça ḫuṣūṣ
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
   - eskimiş

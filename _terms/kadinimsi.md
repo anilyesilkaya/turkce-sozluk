@@ -5,7 +5,7 @@ slug: kadinimsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kadınsı
+- kadınsı
 ozellikler:
 - - sıfat
 ornekler:

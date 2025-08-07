@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Atlamak, sıçramak, zıplamak
-- ► cıvmak
+- cıvmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

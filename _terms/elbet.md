@@ -5,9 +5,9 @@ slug: elbet
 letter: E
 lisan: Arapça elbet
 anlamlar:
-- ► tabii
-- ► kuşkusuz
-- ► kesinlikle
+- tabii
+- kuşkusuz
+- kesinlikle
 ozellikler:
 - - zarf
 - - zarf

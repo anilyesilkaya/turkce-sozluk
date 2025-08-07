@@ -5,7 +5,7 @@ slug: ekspresyonist
 letter: E
 lisan: Fransızca expressionniste
 anlamlar:
-- ► dışa vurumcu
+- dışa vurumcu
 ozellikler:
 - - sıfat
   - felsefe

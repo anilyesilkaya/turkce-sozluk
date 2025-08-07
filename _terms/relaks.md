@@ -5,8 +5,8 @@ slug: relaks
 letter: R
 lisan: İngilizce relax
 anlamlar:
-- ► rahatlama
-- ► gevşeme
+- rahatlama
+- gevşeme
 ozellikler:
 - - isim
 - - isim

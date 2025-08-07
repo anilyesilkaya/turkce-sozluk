@@ -5,7 +5,7 @@ slug: caniyurekten
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► içtenlikle
+- içtenlikle
 ozellikler:
 - - zarf
 ornekler:

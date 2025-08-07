@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sarıyı andıran, sarıya yakın
-- ► yaban arısı
+- yaban arısı
 - Eyalet valileri buyruğundaki başıbozuk asker
 ozellikler:
 - - sıfat

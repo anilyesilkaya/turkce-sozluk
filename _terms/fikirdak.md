@@ -5,7 +5,7 @@ slug: fikirdak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fingirdek
+- fingirdek
 ozellikler:
 - - sıfat
 ornekler:

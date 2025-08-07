@@ -5,7 +5,7 @@ slug: oyun-sahasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oyun alanı
+- oyun alanı
 ozellikler:
 - - isim
   - spor

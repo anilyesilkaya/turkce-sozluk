@@ -5,7 +5,7 @@ slug: alimcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tahsildarlık
+- tahsildarlık
 ozellikler:
 - - isim
 ornekler:

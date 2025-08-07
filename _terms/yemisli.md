@@ -5,7 +5,7 @@ slug: yemisli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► meyveli
+- meyveli
 ozellikler:
 - - sıfat
 ornekler:

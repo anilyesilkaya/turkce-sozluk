@@ -5,7 +5,7 @@ slug: turkluk-bilgisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Türklük bilimi
+- Türklük bilimi
 ozellikler:
 - - isim
 ornekler:

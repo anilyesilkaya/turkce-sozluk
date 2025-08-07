@@ -5,7 +5,7 @@ slug: yer-yer
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 - Parçalar hâlinde; fasla fasla
 ozellikler:
 - - zarf

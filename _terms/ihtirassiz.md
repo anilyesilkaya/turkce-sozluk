@@ -5,7 +5,7 @@ slug: ihtirassiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tutkusuz
+- tutkusuz
 ozellikler:
 - - sıfat
 ornekler:

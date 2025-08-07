@@ -5,7 +5,7 @@ slug: muaraza
 letter: M
 lisan: Arapça muʿāraża
 anlamlar:
-- ► çekişme
+- çekişme
 ozellikler:
 - - isim
   - eskimiş

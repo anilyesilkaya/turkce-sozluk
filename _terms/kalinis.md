@@ -5,7 +5,7 @@ slug: kalinis
 letter: K
 lisan: Rumca
 anlamlar:
-- ► su tavuğu
+- su tavuğu
 ozellikler:
 - - isim
   - hayvan bilimi

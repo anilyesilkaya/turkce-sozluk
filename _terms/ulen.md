@@ -5,7 +5,7 @@ slug: ulen
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► ulan
+- ulan
 ozellikler:
 - - isim
   - ağızlardan

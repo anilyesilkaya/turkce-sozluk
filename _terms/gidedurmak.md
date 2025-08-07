@@ -5,7 +5,7 @@ slug: gidedurmak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gitmek
+- gitmek
 ozellikler:
 - - -e
 ornekler:

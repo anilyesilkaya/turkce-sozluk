@@ -5,7 +5,7 @@ slug: mesut
 letter: M
 lisan: Arapça mesʿūd
 anlamlar:
-- ► mutlu
+- mutlu
 ozellikler:
 - - sıfat
 ornekler:

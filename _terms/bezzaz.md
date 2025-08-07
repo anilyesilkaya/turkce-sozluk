@@ -5,7 +5,7 @@ slug: bezzaz
 letter: B
 lisan: Arapça bezzāz
 anlamlar:
-- ► manifaturacı
+- manifaturacı
 ozellikler:
 - - isim
   - eskimiş

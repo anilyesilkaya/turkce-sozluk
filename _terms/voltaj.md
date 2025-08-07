@@ -5,7 +5,7 @@ slug: voltaj
 letter: V
 lisan: Fransızca voltage
 anlamlar:
-- ► gerilim
+- gerilim
 ozellikler:
 - - isim
   - fizik

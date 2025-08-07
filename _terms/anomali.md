@@ -5,7 +5,7 @@ slug: anomali
 letter: A
 lisan: Fransızca anomalie
 anlamlar:
-- ► sapaklık
+- sapaklık
 ozellikler:
 - - isim
   - ruh bilimi

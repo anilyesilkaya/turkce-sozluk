@@ -5,7 +5,7 @@ slug: kazayagi-mantari
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► horoz mantarı
+- horoz mantarı
 ozellikler:
 - - isim
   - bitki bilimi

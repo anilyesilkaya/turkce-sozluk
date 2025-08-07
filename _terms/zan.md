@@ -5,7 +5,7 @@ slug: zan
 letter: Z
 lisan: Arapça ẓann
 anlamlar:
-- ► sanı
+- sanı
 ozellikler:
 - - isim
 ornekler:

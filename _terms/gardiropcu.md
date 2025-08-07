@@ -5,7 +5,7 @@ slug: gardiropcu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giydirici
+- giydirici
 ozellikler:
 - - isim
   - eskimiş

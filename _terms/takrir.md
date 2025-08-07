@@ -7,7 +7,7 @@ lisan: Arapça taḳrīr
 anlamlar:
 - Belli bir yere yerleştirme, orada bulundurma
 - Sözle anlatma, ifade etme
-- ► önerge
+- önerge
 - Tapu dairesinde taşınmaz malını başkasına sattığını veya ipotek ettiğini söyleme
 ozellikler:
 - - isim

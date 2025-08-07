@@ -5,7 +5,7 @@ slug: meyvedar
 letter: M
 lisan: Farsça mīvedār
 anlamlar:
-- ► meyveli
+- meyveli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: paralanmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parçalanmak
+- parçalanmak
 - Sıkıntı ve üzüntü içinde, olmayacak bir işle uğraşmak, didinmek
 - Sözle yaralanmak, incinmek
 - Bir işte çok çaba ve özen göstermek

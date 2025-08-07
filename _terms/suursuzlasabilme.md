@@ -5,7 +5,7 @@ slug: suursuzlasabilme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçsizleşebilme
+- bilinçsizleşebilme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cicek-boyasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kırmız
+- kırmız
 ozellikler:
 - - isim
 ornekler:

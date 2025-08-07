@@ -6,7 +6,7 @@ letter: R
 lisan: Arapça rutbe
 anlamlar:
 - Subay, astsubay ve polislerin sahip olduğu, astlık üstlük ilişkilerini düzenleyen basamak; paye
-- ► aşama
+- aşama
 ozellikler:
 - - isim
 - - isim

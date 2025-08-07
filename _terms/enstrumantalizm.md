@@ -5,7 +5,7 @@ slug: enstrumantalizm
 letter: E
 lisan: Fransızca instrumentalisme
 anlamlar:
-- ► araççılık
+- araççılık
 ozellikler:
 - - isim
   - felsefe

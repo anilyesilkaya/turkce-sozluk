@@ -5,7 +5,7 @@ slug: aksiseda
 letter: A
 lisan: Arapça ʿaks + ṣadā
 anlamlar:
-- ► yankı
+- yankı
 ozellikler:
 - - isim
   - eskimiş

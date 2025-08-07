@@ -5,7 +5,7 @@ slug: zirzop
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zıpır
+- zıpır
 ozellikler:
 - - sıfat
   - teklifsiz konuşmada

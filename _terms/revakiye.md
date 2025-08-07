@@ -5,7 +5,7 @@ slug: revakiye
 letter: R
 lisan: Arapça rivāḳiyye
 anlamlar:
-- ► stoacılık
+- stoacılık
 ozellikler:
 - - isim
   - eskimiş

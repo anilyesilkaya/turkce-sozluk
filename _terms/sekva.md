@@ -5,7 +5,7 @@ slug: sekva
 letter: Ş
 lisan: Arapça şekvā
 anlamlar:
-- ► şikâyet
+- şikâyet
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: zihniye
 letter: Z
 lisan: Arapça ẕihniyye
 anlamlar:
-- ► anlıkçılık
+- anlıkçılık
 ozellikler:
 - - isim
   - felsefe

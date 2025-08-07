@@ -5,7 +5,7 @@ slug: nazir
 letter: N
 lisan: Arapça naẓīr
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - sıfat
   - eskimiş

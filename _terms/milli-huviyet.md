@@ -5,7 +5,7 @@ slug: milli-huviyet
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► millî kimlik
+- millî kimlik
 ozellikler:
 - - isim
   - toplum bilimi

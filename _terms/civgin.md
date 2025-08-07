@@ -5,7 +5,7 @@ slug: civgin
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► şıvgın
+- şıvgın
 ozellikler:
 - - isim
   - ağızlardan

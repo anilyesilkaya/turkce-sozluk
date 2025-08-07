@@ -5,7 +5,7 @@ slug: feza
 letter: F
 lisan: Arapça feżāʾ
 anlamlar:
-- ► uzay
+- uzay
 ozellikler:
 - - isim
   - eskimiş

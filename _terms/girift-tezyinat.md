@@ -5,7 +5,7 @@ slug: girift-tezyinat
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► girişik bezeme
+- girişik bezeme
 ozellikler:
 - - isim
 ornekler:

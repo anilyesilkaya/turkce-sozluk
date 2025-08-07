@@ -5,7 +5,7 @@ slug: komple
 letter: K
 lisan: Fransızca complet
 anlamlar:
-- ► dolu (II)
+- dolu (II)
 - Eksiksiz, gerekli her şeyi tamam olan
 - Bütünü aynı şeyden olup bir takım oluşturan
 - Üstün nitelikleri kendinde toplayan, mükemmel olan

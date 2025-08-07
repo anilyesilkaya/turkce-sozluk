@@ -5,7 +5,7 @@ slug: mumasil
 letter: M
 lisan: Arapça mumās̱il
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - sıfat
   - eskimiş

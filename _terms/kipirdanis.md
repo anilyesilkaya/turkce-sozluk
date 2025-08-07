@@ -5,7 +5,7 @@ slug: kipirdanis
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kımıldanış
+- kımıldanış
 ozellikler:
 - - isim
 ornekler:

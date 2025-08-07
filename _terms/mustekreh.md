@@ -5,7 +5,7 @@ slug: mustekreh
 letter: M
 lisan: Arapça mustekreh
 anlamlar:
-- ► iğrenç
+- iğrenç
 ozellikler:
 - - sıfat
   - eskimiş

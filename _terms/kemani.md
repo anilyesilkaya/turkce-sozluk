@@ -5,7 +5,7 @@ slug: kemani
 letter: K
 lisan: Farsça kemān + Arapça -ī
 anlamlar:
-- ► kemancı
+- kemancı
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: murahhas
 letter: M
 lisan: Arapça muraḫḫaṣ
 anlamlar:
-- ► delege
+- delege
 ozellikler:
 - - isim
   - eskimiş

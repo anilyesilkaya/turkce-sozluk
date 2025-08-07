@@ -5,7 +5,7 @@ slug: kodes
 letter: K
 lisan: Rumca
 anlamlar:
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: yonulmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yontulmak
+- yontulmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

@@ -5,8 +5,8 @@ slug: harmoni
 letter: H
 lisan: Fransızca harmonie
 anlamlar:
-- ► uyum
-- ► armoni
+- uyum
+- armoni
 ozellikler:
 - - isim
   - dil bilgisi

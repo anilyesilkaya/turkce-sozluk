@@ -5,7 +5,7 @@ slug: hava-tebdili
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hava değişimi
+- hava değişimi
 ozellikler:
 - - isim
 ornekler:

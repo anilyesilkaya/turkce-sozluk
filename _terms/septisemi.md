@@ -5,7 +5,7 @@ slug: septisemi
 letter: S
 lisan: Fransızca septicémie
 anlamlar:
-- ► kan zehirlenmesi
+- kan zehirlenmesi
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: yayinim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yayınma
+- yayınma
 ozellikler:
 - - isim
   - fizik

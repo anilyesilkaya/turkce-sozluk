@@ -5,7 +5,7 @@ slug: kayin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kayınbirader
+- kayınbirader
 ozellikler:
 - - isim
 ornekler:

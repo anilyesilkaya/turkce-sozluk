@@ -5,7 +5,7 @@ slug: uzatma-isareti
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► düzeltme işareti
+- düzeltme işareti
 ozellikler:
 - - isim
   - dil bilgisi

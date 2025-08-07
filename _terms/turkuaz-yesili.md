@@ -5,7 +5,7 @@ slug: turkuaz-yesili
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► turkuaz
+- turkuaz
 - Bu renkte olan
 ozellikler:
 - - isim

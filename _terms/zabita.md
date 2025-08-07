@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça żābiṭa
 anlamlar:
 - Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim
-- ► belediye zabıtası
+- belediye zabıtası
 ozellikler:
 - - isim
 - - isim

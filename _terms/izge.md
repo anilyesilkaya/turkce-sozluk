@@ -5,7 +5,7 @@ slug: izge
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çeşitlilik
+- çeşitlilik
 ozellikler:
 - - isim
 ornekler:

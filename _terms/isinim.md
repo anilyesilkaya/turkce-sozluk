@@ -5,7 +5,7 @@ slug: isinim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► radyasyon
+- radyasyon
 ozellikler:
 - - isim
   - fizik

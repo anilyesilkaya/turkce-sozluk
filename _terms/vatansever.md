@@ -5,7 +5,7 @@ slug: vatansever
 letter: V
 lisan: Arapça vaṭan + Türkçe sever
 anlamlar:
-- ► yurtsever
+- yurtsever
 ozellikler:
 - - sıfat
 ornekler:

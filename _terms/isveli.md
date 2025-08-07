@@ -5,7 +5,7 @@ slug: isveli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► cilveli
+- cilveli
 ozellikler:
 - - sıfat
 ornekler:

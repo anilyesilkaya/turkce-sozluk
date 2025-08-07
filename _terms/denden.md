@@ -5,7 +5,7 @@ slug: denden
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denden işareti
+- denden işareti
 ozellikler:
 - - isim
 ornekler:

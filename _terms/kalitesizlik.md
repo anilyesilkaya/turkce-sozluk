@@ -5,7 +5,7 @@ slug: kalitesizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► niteliksizlik
+- niteliksizlik
 ozellikler:
 - - isim
 ornekler:

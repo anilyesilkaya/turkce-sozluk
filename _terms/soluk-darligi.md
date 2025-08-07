@@ -5,7 +5,7 @@ slug: soluk-darligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► nefes darlığı
+- nefes darlığı
 ozellikler:
 - - isim
   - tıp

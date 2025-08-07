@@ -6,9 +6,9 @@ letter: S
 lisan: Farsça sāḫte
 anlamlar:
 - Bir şeyin aslına benzetilerek yapılan; çakma, düzme, düzmece
-- ► uydurma
+- uydurma
 - Gerçek olmayan, gerçeğe benzetilmiş; yalancı
-- ► yapmacık
+- yapmacık
 ozellikler:
 - - sıfat
 - - sıfat

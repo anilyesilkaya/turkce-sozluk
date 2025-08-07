@@ -5,7 +5,7 @@ slug: kademe
 letter: K
 lisan: Arapça ḳademe
 anlamlar:
-- ► aşama
+- aşama
 - Motorlu araçların bakım ve onarım işlerinin yapıldığı birim; bakımevi
 ozellikler:
 - - isim

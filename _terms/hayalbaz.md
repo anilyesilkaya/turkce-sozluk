@@ -5,7 +5,7 @@ slug: hayalbaz
 letter: H
 lisan: Arapça ḫayāl + Farsça -bāz
 anlamlar:
-- ► Karagözcü
+- Karagözcü
 ozellikler:
 - - isim
   - eskimiş

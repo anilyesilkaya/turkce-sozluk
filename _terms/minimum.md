@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca minimum
 anlamlar:
 - Değişken bir niceliğin inebileceği en alt olan (sınır); minimal
-- ► asgari
+- asgari
 ozellikler:
 - - ''
 - - ''

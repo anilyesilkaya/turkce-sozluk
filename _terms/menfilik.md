@@ -5,7 +5,7 @@ slug: menfilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► olumsuzluk
+- olumsuzluk
 ozellikler:
 - - isim
   - eskimiş

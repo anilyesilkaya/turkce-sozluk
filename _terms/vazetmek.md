@@ -5,7 +5,7 @@ slug: vazetmek
 letter: V
 lisan: Arapça vażʿ + Türkçe etmek
 anlamlar:
-- ► koymak
+- koymak
 ozellikler:
 - - -i
   - eskimiş

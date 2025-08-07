@@ -5,7 +5,7 @@ slug: ser
 letter: Ş
 lisan: Arapça şerr
 anlamlar:
-- ► kötülük
+- kötülük
 - Yaramaz olan
 ozellikler:
 - - isim

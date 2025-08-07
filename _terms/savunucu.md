@@ -6,8 +6,8 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi savunan kimse; müdafi
-- ► savunma oyuncusu
-- ► avukat
+- savunma oyuncusu
+- avukat
 ozellikler:
 - - isim
 - - isim

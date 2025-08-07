@@ -5,7 +5,7 @@ slug: musterek
 letter: M
 lisan: Arapça muşterek
 anlamlar:
-- ► ortak
+- ortak
 - Ortaklaşa, el birliğiyle yapılan veya hazırlanan
 - Ortaklaşa kullanılan
 - Ortaklaşa, birlikte

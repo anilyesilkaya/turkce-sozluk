@@ -5,7 +5,7 @@ slug: igne-yapraklilar
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kozalaklılar
+- kozalaklılar
 ozellikler:
 - - isim
   - bitki bilimi

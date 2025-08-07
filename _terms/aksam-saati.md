@@ -5,7 +5,7 @@ slug: aksam-saati
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akşamleyin
+- akşamleyin
 ozellikler:
 - - zarf
 ornekler:

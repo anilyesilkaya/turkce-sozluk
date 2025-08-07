@@ -5,7 +5,7 @@ slug: star
 letter: S
 lisan: İngilizce star
 anlamlar:
-- ► yıldız
+- yıldız
 ozellikler:
 - - isim
 ornekler:

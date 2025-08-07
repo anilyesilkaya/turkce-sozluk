@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vesselām
 anlamlar:
 - '"İşte o kadar, son söz şudur" anlamlarında kullanılan bir söz'
-- ► kısacası
+- kısacası
 ozellikler:
 - - ünlem
 - - ünlem

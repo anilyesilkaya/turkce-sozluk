@@ -5,7 +5,7 @@ slug: gayrimahdut
 letter: G
 lisan: Arapça ġayr + maḥdūd
 anlamlar:
-- ► sınırsız
+- sınırsız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: konstruktivizm
 letter: K
 lisan: Fransızca constructivisme
 anlamlar:
-- ► kurmacılık
+- kurmacılık
 ozellikler:
 - - isim
 ornekler:

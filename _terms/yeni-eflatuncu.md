@@ -5,7 +5,7 @@ slug: yeni-eflatuncu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeni Platoncu
+- yeni Platoncu
 ozellikler:
 - - sıfat
   - felsefe

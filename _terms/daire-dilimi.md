@@ -5,7 +5,7 @@ slug: daire-dilimi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► daire kesmesi
+- daire kesmesi
 ozellikler:
 - - isim
   - geometri

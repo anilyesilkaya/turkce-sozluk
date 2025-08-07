@@ -5,7 +5,7 @@ slug: ispanyali
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► İspanyol
+- İspanyol
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: var-kuvvetiyle
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► var gücüyle
+- var gücüyle
 ozellikler:
 - - zarf
 ornekler:

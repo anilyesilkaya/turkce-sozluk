@@ -5,7 +5,7 @@ slug: moruklamak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yaşlanmak
+- yaşlanmak
 ozellikler:
 - - nesnesiz
   - argo

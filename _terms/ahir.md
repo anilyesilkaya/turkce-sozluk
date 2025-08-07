@@ -6,8 +6,8 @@ letter: A
 lisan: Arapça āḫir
 anlamlar:
 - Sıralamada sonuncu olan
-- ► sonunda
-- ► sonra
+- sonunda
+- sonra
 ozellikler:
 - - sıfat
 - - sıfat

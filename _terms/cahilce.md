@@ -5,7 +5,7 @@ slug: cahilce
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► bilgisizce
+- bilgisizce
 ozellikler:
 - - zarf
 ornekler:

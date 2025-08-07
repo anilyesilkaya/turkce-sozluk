@@ -5,7 +5,7 @@ slug: sirurji
 letter: Ş
 lisan: Fransızca chirurgie
 anlamlar:
-- ► cerrahi
+- cerrahi
 ozellikler:
 - - isim
   - tıp

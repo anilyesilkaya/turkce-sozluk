@@ -5,7 +5,7 @@ slug: umitvar
 letter: Ü
 lisan: Farsça umīd + vār
 anlamlar:
-- ► umutlu
+- umutlu
 ozellikler:
 - - sıfat
 ornekler:

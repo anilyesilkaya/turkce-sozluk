@@ -5,7 +5,7 @@ slug: morula
 letter: M
 lisan: Fransızca morula
 anlamlar:
-- ► blastula
+- blastula
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: dizemli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ritimli
+- ritimli
 ozellikler:
 - - sıfat
 ornekler:

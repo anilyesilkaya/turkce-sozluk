@@ -5,7 +5,7 @@ slug: faydalandirma
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararlandırma
+- yararlandırma
 ozellikler:
 - - isim
 ornekler:

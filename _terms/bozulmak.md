@@ -8,7 +8,7 @@ anlamlar:
 - Bozma işine konu olmak
 - Yiyecek kokmak, yenilemeyecek duruma gelmek; ekşimek
 - Dağılmak, bozguna uğramak
-- ► arızalanmak
+- arızalanmak
 - İyi ve değerli niteliğini yitirmek
 - Bir şeye kızmak, içerlemek
 - Sağlığını yitirip zayıflamak

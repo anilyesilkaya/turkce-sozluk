@@ -5,7 +5,7 @@ slug: seritgiller
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şeritler
+- şeritler
 ozellikler:
 - - isim
   - hayvan bilimi

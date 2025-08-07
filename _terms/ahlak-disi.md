@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Genel ahlak kurallarına uygun olmayan; gayriahlaki
-- ► töre dışı
+- töre dışı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca assortique
 anlamlar:
 - Giysilerini birbirine uygun giyen
-- ► sosyetik
+- sosyetik
 ozellikler:
 - - sıfat
 - - sıfat

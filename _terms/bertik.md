@@ -5,7 +5,7 @@ slug: bertik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bere (I)
+- bere (I)
 - Deride mor leke, çürük
 - İncinmiş, burkulmuş
 ozellikler:

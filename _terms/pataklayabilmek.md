@@ -5,7 +5,7 @@ slug: pataklayabilmek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dövebilmek
+- dövebilmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: uyduruk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uydurma
+- uydurma
 - Derme çatma, işe yaramaz
 - İpe sapa gelmez
 ozellikler:

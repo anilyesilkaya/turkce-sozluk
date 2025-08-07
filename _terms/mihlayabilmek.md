@@ -5,7 +5,7 @@ slug: mihlayabilmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivileyebilmek
+- çivileyebilmek
 ozellikler:
 - - -i
 ornekler:

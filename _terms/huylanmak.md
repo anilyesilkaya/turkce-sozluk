@@ -5,7 +5,7 @@ slug: huylanmak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanmak
+- kuşkulanmak
 - Bir şeyden huzursuz olup sinirlenmek
 - Hayvan, ürküp huysuzlaşmak
 ozellikler:

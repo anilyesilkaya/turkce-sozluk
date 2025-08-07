@@ -5,7 +5,7 @@ slug: mucrimlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► suçluluk
+- suçluluk
 ozellikler:
 - - isim
 ornekler:

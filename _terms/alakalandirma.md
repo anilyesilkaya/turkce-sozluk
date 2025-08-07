@@ -5,7 +5,7 @@ slug: alakalandirma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgilendirme
+- ilgilendirme
 ozellikler:
 - - isim
 ornekler:

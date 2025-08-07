@@ -5,7 +5,7 @@ slug: matemli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yaslı
+- yaslı
 ozellikler:
 - - sıfat
 ornekler:

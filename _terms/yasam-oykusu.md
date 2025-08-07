@@ -5,7 +5,7 @@ slug: yasam-oykusu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► öz geçmiş
+- öz geçmiş
 ozellikler:
 - - isim
 ornekler:

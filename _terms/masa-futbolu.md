@@ -5,7 +5,7 @@ slug: masa-futbolu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► langırt
+- langırt
 ozellikler:
 - - isim
 ornekler:

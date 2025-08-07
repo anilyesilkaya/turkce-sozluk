@@ -5,7 +5,7 @@ slug: hirsiz-anahtari
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► maymuncuk
+- maymuncuk
 ozellikler:
 - - isim
 ornekler:

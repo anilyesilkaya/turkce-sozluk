@@ -5,7 +5,7 @@ slug: musahhih
 letter: M
 lisan: Arapça muṣaḥḥiḥ
 anlamlar:
-- ► düzeltmen
+- düzeltmen
 ozellikler:
 - - isim
   - eskimiş

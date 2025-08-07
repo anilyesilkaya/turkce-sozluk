@@ -5,7 +5,7 @@ slug: hislendirmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygulandırmak
+- duygulandırmak
 ozellikler:
 - - -i
 ornekler:

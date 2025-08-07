@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Parmaklar kullanılarak yapılan hesap
-- ► hece ölçüsü
+- hece ölçüsü
 ozellikler:
 - - isim
 - - isim

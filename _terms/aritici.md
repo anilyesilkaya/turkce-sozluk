@@ -6,9 +6,9 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtma özelliği olan (şey)
-- ► deterjan
+- deterjan
 - Özleştirici, sadeleştirici kimse
-- ► arıtmacı
+- arıtmacı
 ozellikler:
 - - sıfat
 - - sıfat

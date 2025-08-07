@@ -5,7 +5,7 @@ slug: sinikci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kırıkçı
+- kırıkçı
 ozellikler:
 - - isim
 ornekler:

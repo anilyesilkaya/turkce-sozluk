@@ -5,7 +5,7 @@ slug: antipatiklestirmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sevimsizleştirmek
+- sevimsizleştirmek
 ozellikler:
 - - -i
 ornekler:

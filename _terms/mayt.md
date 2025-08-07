@@ -5,7 +5,7 @@ slug: mayt
 letter: M
 lisan: İngilizce mite
 anlamlar:
-- ► akar (II)
+- akar (II)
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: hava-kure
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hava yuvarı
+- hava yuvarı
 ozellikler:
 - - isim
   - gök bilimi

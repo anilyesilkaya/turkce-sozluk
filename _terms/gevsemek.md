@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Sertlik ve gerginliği bozulmak
-- ► çözülmek
+- çözülmek
 - Yumuşamak, yatışmak, sakinleşmek
 - Sevmek, hoşlanmak
 - Para piyasasında değer yitirmek

@@ -5,7 +5,7 @@ slug: yiyintili
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► lezzetli
+- lezzetli
 ozellikler:
 - - sıfat
 ornekler:

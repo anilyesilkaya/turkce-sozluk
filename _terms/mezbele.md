@@ -5,7 +5,7 @@ slug: mezbele
 letter: M
 lisan: Arapça mezbele
 anlamlar:
-- ► çöplük
+- çöplük
 - Aşağılık ve kötü durum
 ozellikler:
 - - isim

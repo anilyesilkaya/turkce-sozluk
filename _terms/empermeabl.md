@@ -5,7 +5,7 @@ slug: empermeabl
 letter: E
 lisan: Fransızca imperméable
 anlamlar:
-- ► yağmurluk
+- yağmurluk
 - Su geçirmeyen
 ozellikler:
 - - isim

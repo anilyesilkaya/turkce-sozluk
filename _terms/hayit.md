@@ -5,7 +5,7 @@ slug: hayit
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► ayıt
+- ayıt
 ozellikler:
 - - isim
   - bitki bilimi

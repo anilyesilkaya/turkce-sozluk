@@ -5,7 +5,7 @@ slug: bostan-beygiri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dolap beygiri
+- dolap beygiri
 ozellikler:
 - - isim
 ornekler:

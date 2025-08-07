@@ -5,7 +5,7 @@ slug: envaicesitli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► envaitürlü
+- envaitürlü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: olumsuz-tumce
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olumsuz cümle
+- olumsuz cümle
 ozellikler:
 - - isim
   - dil bilgisi

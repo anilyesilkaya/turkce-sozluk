@@ -5,7 +5,7 @@ slug: ettirgen-eylem
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ettirgen fiil
+- ettirgen fiil
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: bibliyomani
 letter: B
 lisan: Fransızca bibliomanie
 anlamlar:
-- ► kitap düşkünlüğü
+- kitap düşkünlüğü
 ozellikler:
 - - isim
 ornekler:

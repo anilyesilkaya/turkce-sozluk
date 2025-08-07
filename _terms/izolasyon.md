@@ -5,7 +5,7 @@ slug: izolasyon
 letter: I
 lisan: Fransızca isolation
 anlamlar:
-- ► yalıtım
+- yalıtım
 ozellikler:
 - - isim
   - fizik

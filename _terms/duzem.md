@@ -5,8 +5,8 @@ slug: duzem
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düzey
-- ► dozaj
+- düzey
+- dozaj
 ozellikler:
 - - isim
 - - isim

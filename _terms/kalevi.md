@@ -5,7 +5,7 @@ slug: kalevi
 letter: K
 lisan: Arapça ḳalevī
 anlamlar:
-- ► alkalik
+- alkalik
 ozellikler:
 - - sıfat
   - eskimiş

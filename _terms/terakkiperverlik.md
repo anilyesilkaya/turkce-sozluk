@@ -5,7 +5,7 @@ slug: terakkiperverlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ilericilik
+- ilericilik
 ozellikler:
 - - isim
 ornekler:

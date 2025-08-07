@@ -5,7 +5,7 @@ slug: zamaninda
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► eskiden
+- eskiden
 - Tam vaktinde
 ozellikler:
 - - zarf

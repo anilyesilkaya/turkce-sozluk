@@ -5,7 +5,7 @@ slug: lezbiyenlik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► sevicilik
+- sevicilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: meriyet
 letter: M
 lisan: Arapça merʿiyyet
 anlamlar:
-- ► yürürlük
+- yürürlük
 ozellikler:
 - - isim
   - eskimiş

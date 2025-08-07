@@ -5,7 +5,7 @@ slug: ceriha
 letter: C
 lisan: Arapça cerīḥa
 anlamlar:
-- ► yara
+- yara
 ozellikler:
 - - isim
   - eskimiş

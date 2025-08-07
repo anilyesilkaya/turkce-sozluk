@@ -5,7 +5,7 @@ slug: sufi
 letter: S
 lisan: Arapça ṣūfī
 anlamlar:
-- ► mutasavvıf
+- mutasavvıf
 ozellikler:
 - - isim
   - din bilimi

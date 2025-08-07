@@ -5,7 +5,7 @@ slug: sulf
 letter: S
 lisan: Latince
 anlamlar:
-- ► kükürt
+- kükürt
 ozellikler:
 - - isim
   - eskimiş

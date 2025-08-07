@@ -5,8 +5,8 @@ slug: adese
 letter: A
 lisan: Arapça ʿadese
 anlamlar:
-- ► mercek
-- ► kovucuk
+- mercek
+- kovucuk
 ozellikler:
 - - isim
   - fizik

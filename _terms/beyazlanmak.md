@@ -5,7 +5,7 @@ slug: beyazlanmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beyazlaşmak
+- beyazlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

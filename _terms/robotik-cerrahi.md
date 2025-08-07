@@ -5,7 +5,7 @@ slug: robotik-cerrahi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► robotik ameliyat
+- robotik ameliyat
 ozellikler:
 - - isim
   - tıp

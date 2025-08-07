@@ -8,8 +8,8 @@ anlamlar:
 - Varlıkların, doğadaki görünüşlerinin kalem, fırça gibi araçlarla kâğıt, bez vb. üzerinde yapılan biçimleri
 - Bunu yapmak için gerekli yöntemleri öğreten sanat
 - Bazı eşyadan ve işlerden alınan vergi veya harç
-- ► fotoğraf
-- ► tören
+- fotoğraf
+- tören
 - Açık gösterge, kesin sonuç
 ozellikler:
 - - isim

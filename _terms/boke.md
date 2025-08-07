@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Kahraman, güçlü (kimse)
-- ► şampiyon
+- şampiyon
 ozellikler:
 - - sıfat
 - - sıfat

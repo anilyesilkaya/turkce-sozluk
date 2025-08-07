@@ -5,7 +5,7 @@ slug: devimli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► devinimli
+- devinimli
 ozellikler:
 - - sıfat
   - zarf

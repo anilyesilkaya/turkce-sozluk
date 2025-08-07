@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca manuel
 anlamlar:
 - Elle işletilen
-- ► el kitabı
+- el kitabı
 ozellikler:
 - - sıfat
 - - sıfat

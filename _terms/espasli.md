@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Espası olan
-- ► aralıklı
+- aralıklı
 ozellikler:
 - - sıfat
 - - sıfat

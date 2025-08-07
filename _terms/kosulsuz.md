@@ -5,7 +5,7 @@ slug: kosulsuz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartsız
+- şartsız
 ozellikler:
 - - sıfat
 ornekler:

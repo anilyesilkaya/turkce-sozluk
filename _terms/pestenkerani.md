@@ -5,7 +5,7 @@ slug: pestenkerani
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► saçma
+- saçma
 ozellikler:
 - - sıfat
   - teklifsiz konuşmada

@@ -5,7 +5,7 @@ slug: reha
 letter: R
 lisan: Farsça rehā
 anlamlar:
-- ► kurtuluş
+- kurtuluş
 ozellikler:
 - - isim
   - eskimiş

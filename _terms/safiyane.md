@@ -5,7 +5,7 @@ slug: safiyane
 letter: S
 lisan: Arapça ṣāfī + Farsça -āne
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - zarf
 ornekler:

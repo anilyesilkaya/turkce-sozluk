@@ -5,7 +5,7 @@ slug: vasiflandirilmak
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► nitelendirilmek
+- nitelendirilmek
 ozellikler:
 - - nesnesiz
 ornekler:

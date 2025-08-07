@@ -7,7 +7,7 @@ lisan: Arapça tefriḳa
 anlamlar:
 - Gazete veya dergilerde çıkan, birbirini tamamlayan yazılardan oluşan dizi
 - Bu biçimde yayımlanan
-- ► ikilik
+- ikilik
 ozellikler:
 - - isim
 - - isim

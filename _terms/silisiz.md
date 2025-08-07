@@ -5,7 +5,7 @@ slug: silisiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► iffetsiz
+- iffetsiz
 ozellikler:
 - - sıfat
 ornekler:

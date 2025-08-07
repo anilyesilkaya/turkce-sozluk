@@ -7,7 +7,7 @@ lisan: İngilizce punch
 anlamlar:
 - Ahşap, alçı, kartonpiyer vb. üzerinde delik açma aleti
 - Bir tür alkollü içki
-- ► yumruk
+- yumruk
 ozellikler:
 - - isim
 - - isim

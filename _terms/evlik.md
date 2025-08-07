@@ -5,7 +5,7 @@ slug: evlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► hanelik
+- hanelik
 ozellikler:
 - - sıfat
 ornekler:

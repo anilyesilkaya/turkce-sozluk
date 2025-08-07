@@ -5,7 +5,7 @@ slug: hava-bosaltma-makinesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► boşaltaç
+- boşaltaç
 ozellikler:
 - - isim
 ornekler:

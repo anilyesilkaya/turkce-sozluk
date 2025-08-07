@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İşitmek işi
-- ► duyma
+- duyma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: dolut
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► cenin
+- cenin
 ozellikler:
 - - isim
   - biyoloji

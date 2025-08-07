@@ -5,7 +5,7 @@ slug: tali-bayi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► alt bayi
+- alt bayi
 ozellikler:
 - - isim
 ornekler:

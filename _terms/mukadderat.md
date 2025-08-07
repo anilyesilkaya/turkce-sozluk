@@ -5,7 +5,7 @@ slug: mukadderat
 letter: M
 lisan: Arapça muḳadderāt
 anlamlar:
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
   - eskimiş

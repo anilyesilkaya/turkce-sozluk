@@ -8,13 +8,13 @@ anlamlar:
 - Araba, hayvan vb.nin taşıdığı şeylerin hepsi
 - Bir şeyin ağırlığı
 - Araba, hayvan vb.nin taşıyabildiği miktar
-- ► eşya
+- eşya
 - Birinin üzerine almak zorunda kaldığı ağır görev; hamule
 - Tedirginlik veren şey
 - Bir cismin yüzeyinde biriken elektrik miktarı
 - Yüz bin kuruşluk mal veya tutar
 - Doğacak bebek
-- ► yüklük
+- yüklük
 ozellikler:
 - - isim
 - - isim

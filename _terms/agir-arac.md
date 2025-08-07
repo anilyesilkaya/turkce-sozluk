@@ -5,7 +5,7 @@ slug: agir-arac
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağır vasıta
+- ağır vasıta
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: irrealist
 letter: I
 lisan: Fransızca irréaliste
 anlamlar:
-- ► gerçek dışı
+- gerçek dışı
 ozellikler:
 - - sıfat
 ornekler:

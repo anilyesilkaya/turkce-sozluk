@@ -5,7 +5,7 @@ slug: dil-ebeligi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► laf ebeliği
+- laf ebeliği
 ozellikler:
 - - isim
 ornekler:

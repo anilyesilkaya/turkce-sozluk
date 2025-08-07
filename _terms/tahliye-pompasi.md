@@ -5,7 +5,7 @@ slug: tahliye-pompasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► boşaltma pompası
+- boşaltma pompası
 ozellikler:
 - - isim
 ornekler:

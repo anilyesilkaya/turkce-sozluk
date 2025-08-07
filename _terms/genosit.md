@@ -5,7 +5,7 @@ slug: genosit
 letter: G
 lisan: Fransızca génocide
 anlamlar:
-- ► soykırım
+- soykırım
 ozellikler:
 - - isim
   - toplum bilimi

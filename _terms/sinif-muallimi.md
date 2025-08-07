@@ -5,7 +5,7 @@ slug: sinif-muallimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sınıf öğretmeni
+- sınıf öğretmeni
 ozellikler:
 - - isim
 ornekler:

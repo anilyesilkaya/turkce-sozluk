@@ -5,7 +5,7 @@ slug: medenilestirici
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygarlaştırıcı
+- uygarlaştırıcı
 ozellikler:
 - - sıfat
 ornekler:

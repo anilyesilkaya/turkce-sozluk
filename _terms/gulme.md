@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gülmek işi; hande
-- ► kahkaha
+- kahkaha
 ozellikler:
 - - isim
 - - isim

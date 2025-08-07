@@ -6,7 +6,7 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde, bugünkü belediye zabıtası görevini yapan, şehrin temizlik ve güzelliğiyle ilgilenen yerel yönetim
-- ► belediye
+- belediye
 ozellikler:
 - - isim
   - tarih

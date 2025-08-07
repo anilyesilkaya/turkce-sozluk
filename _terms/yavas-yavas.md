@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavaş bir biçimde; ağır ağır, adım adım, basamak basamak, fıstıki makamla, aheste aheste, aheste beste, az az, azar azar, öyle öyle, perde perde, sepil sepil, siya siya, ucun ucun, ufak ufak, usul usul
-- ► gittikçe
+- gittikçe
 ozellikler:
 - - zarf
 - - zarf

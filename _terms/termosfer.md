@@ -5,7 +5,7 @@ slug: termosfer
 letter: T
 lisan: Fransızca thermosphère
 anlamlar:
-- ► ısı yuvarı
+- ısı yuvarı
 ozellikler:
 - - isim
   - gök bilimi

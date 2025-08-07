@@ -5,7 +5,7 @@ slug: kiyasa-muhalefet
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurala aykırılık
+- kurala aykırılık
 ozellikler:
 - - isim
   - eskimiş

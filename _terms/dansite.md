@@ -5,7 +5,7 @@ slug: dansite
 letter: D
 lisan: Fransızca densité
 anlamlar:
-- ► özgül ağırlık
+- özgül ağırlık
 ozellikler:
 - - isim
   - kimya

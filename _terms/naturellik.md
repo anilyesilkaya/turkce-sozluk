@@ -5,7 +5,7 @@ slug: naturellik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► doğallık
+- doğallık
 ozellikler:
 - - isim
 ornekler:

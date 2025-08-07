@@ -6,8 +6,8 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kendi ipiyle onarılmış kısım
-- ► saç örgüsü
-- ► örk
+- saç örgüsü
+- örk
 ozellikler:
 - - isim
 - - isim

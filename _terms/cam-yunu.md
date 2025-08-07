@@ -5,7 +5,7 @@ slug: cam-yunu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cam elyafı
+- cam elyafı
 ozellikler:
 - - isim
   - teknik

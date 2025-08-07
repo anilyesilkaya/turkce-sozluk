@@ -5,7 +5,7 @@ slug: caputlama
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► nezle
+- nezle
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ak-kan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► lenf
+- lenf
 ozellikler:
 - - isim
   - anatomi

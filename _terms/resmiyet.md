@@ -5,8 +5,8 @@ slug: resmiyet
 letter: R
 lisan: Arapça resmiyyet
 anlamlar:
-- ► resmîlik
-- ► mesafe
+- resmîlik
+- mesafe
 ozellikler:
 - - isim
 - - isim

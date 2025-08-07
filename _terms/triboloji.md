@@ -5,7 +5,7 @@ slug: triboloji
 letter: T
 lisan: İngilizce tribology
 anlamlar:
-- ► sürtünme bilimi
+- sürtünme bilimi
 ozellikler:
 - - isim
 ornekler:

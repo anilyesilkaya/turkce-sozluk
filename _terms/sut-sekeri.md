@@ -5,7 +5,7 @@ slug: sut-sekeri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► laktoz
+- laktoz
 ozellikler:
 - - isim
   - kimya

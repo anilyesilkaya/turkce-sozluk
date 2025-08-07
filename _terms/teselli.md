@@ -5,8 +5,8 @@ slug: teselli
 letter: T
 lisan: Arapça tesellī
 anlamlar:
-- ► avuntu
-- ► avunma
+- avuntu
+- avunma
 - Piyangoda büyük ikramiyeyi kaybeden en yakın numaralara yapılan ödeme
 ozellikler:
 - - isim

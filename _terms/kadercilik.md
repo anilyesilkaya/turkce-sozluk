@@ -5,7 +5,7 @@ slug: kadercilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yazgıcılık
+- yazgıcılık
 ozellikler:
 - - isim
   - felsefe

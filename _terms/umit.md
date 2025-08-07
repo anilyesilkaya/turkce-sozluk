@@ -5,7 +5,7 @@ slug: umit
 letter: Ü
 lisan: Farsça umīd
 anlamlar:
-- ► umut
+- umut
 ozellikler:
 - - isim
 ornekler:

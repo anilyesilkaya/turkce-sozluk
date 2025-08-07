@@ -5,7 +5,7 @@ slug: safdil
 letter: S
 lisan: Arapça ṣāf + Farsça dil
 anlamlar:
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İşaret olarak yere dikilen çubuk
 - Maden üzerine kazıma yapmak ve çıkrıkta çevrilen şeyleri yontmak için kullanılan çelik kalem
-- ► halef
+- halef
 ozellikler:
 - - isim
   - ağızlardan

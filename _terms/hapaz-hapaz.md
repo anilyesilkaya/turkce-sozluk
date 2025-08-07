@@ -5,7 +5,7 @@ slug: hapaz-hapaz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► avuç avuç
+- avuç avuç
 ozellikler:
 - - zarf
 ornekler:

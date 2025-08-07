@@ -5,7 +5,7 @@ slug: mukaddes
 letter: M
 lisan: Arapça muḳaddes
 anlamlar:
-- ► kutsal
+- kutsal
 ozellikler:
 - - sıfat
 ornekler:

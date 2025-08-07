@@ -5,7 +5,7 @@ slug: yan-soy
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hısım
+- hısım
 ozellikler:
 - - isim
   - hukuk

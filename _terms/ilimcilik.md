@@ -5,7 +5,7 @@ slug: ilimcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bilimcilik
+- bilimcilik
 ozellikler:
 - - isim
   - felsefe

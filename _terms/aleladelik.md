@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Alelade olma durumu
-- ► bayağılık
+- bayağılık
 ozellikler:
 - - isim
 - - isim

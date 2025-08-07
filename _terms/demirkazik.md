@@ -5,7 +5,7 @@ slug: demirkazik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► Kutup Yıldızı
+- Kutup Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

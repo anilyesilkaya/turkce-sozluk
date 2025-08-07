@@ -5,7 +5,7 @@ slug: ahenk-kaidesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ünlü uyumu
+- ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

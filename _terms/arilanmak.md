@@ -5,7 +5,7 @@ slug: arilanmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arılaşmak
+- arılaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

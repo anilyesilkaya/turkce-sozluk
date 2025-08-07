@@ -5,7 +5,7 @@ slug: alev
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► flama
+- flama
 ozellikler:
 - - isim
 ornekler:

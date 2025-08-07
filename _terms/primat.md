@@ -5,7 +5,7 @@ slug: primat
 letter: P
 lisan: Fransızca primate
 anlamlar:
-- ► maymun
+- maymun
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: yol-halisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yolluk
+- yolluk
 ozellikler:
 - - isim
 ornekler:

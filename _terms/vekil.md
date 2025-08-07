@@ -6,9 +6,9 @@ letter: V
 lisan: Arapça vekīl
 anlamlar:
 - Birinin, işini görmesi için kendi yerine bıraktığı veya yetki verdiği kimse
-- ► milletvekili
+- milletvekili
 - Bir görevde, asıl görevlinin yerine bakan kimse
-- ► bakan
+- bakan
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kiklon
 letter: K
 lisan: Almanca Kyklon
 anlamlar:
-- ► siklon
+- siklon
 ozellikler:
 - - isim
 ornekler:

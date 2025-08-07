@@ -7,8 +7,8 @@ lisan: Fransızca statut
 anlamlar:
 - Bir kimsenin, bir kurum veya bir toplum içindeki durumu
 - Kadro bakımından bağlı olduğu durum; pozisyon
-- ► tüzük
-- ► heykel
+- tüzük
+- heykel
 ozellikler:
 - - isim
 - - isim

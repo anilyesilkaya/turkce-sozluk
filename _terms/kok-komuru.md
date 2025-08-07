@@ -5,7 +5,7 @@ slug: kok-komuru
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kok
+- kok
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: saggorulu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► basiretli
+- basiretli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: dizgesiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sistemsiz
+- sistemsiz
 ozellikler:
 - - sıfat
 ornekler:

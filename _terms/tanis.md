@@ -5,7 +5,7 @@ slug: tanis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanıdık
+- tanıdık
 ozellikler:
 - - sıfat
 ornekler:

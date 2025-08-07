@@ -5,7 +5,7 @@ slug: yakari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yakarış
+- yakarış
 ozellikler:
 - - isim
 ornekler:

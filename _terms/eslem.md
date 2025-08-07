@@ -5,7 +5,7 @@ slug: eslem
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kopya
+- kopya
 ozellikler:
 - - isim
 ornekler:

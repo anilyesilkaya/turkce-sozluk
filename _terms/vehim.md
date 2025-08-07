@@ -5,7 +5,7 @@ slug: vehim
 letter: V
 lisan: Arapça vehm
 anlamlar:
-- ► kuruntu
+- kuruntu
 ozellikler:
 - - isim
   - eskimiş

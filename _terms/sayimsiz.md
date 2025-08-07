@@ -5,7 +5,7 @@ slug: sayimsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sayısız
+- sayısız
 ozellikler:
 - - sıfat
 ornekler:

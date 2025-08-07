@@ -5,7 +5,7 @@ slug: kizil-kiyamet
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızılca kıyamet
+- kızılca kıyamet
 ozellikler:
 - - isim
 ornekler:

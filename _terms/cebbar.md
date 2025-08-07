@@ -5,7 +5,7 @@ slug: cebbar
 letter: C
 lisan: Arapça cebbār
 anlamlar:
-- ► Avcı
+- Avcı
 ozellikler:
 - - isim
   - gök bilimi

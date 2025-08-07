@@ -5,8 +5,8 @@ slug: kavara
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yellenme
-- ► gürültü
+- yellenme
+- gürültü
 ozellikler:
 - - isim
   - ağızlardan

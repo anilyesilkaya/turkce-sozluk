@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Değiştirilmiş olan; muaddel
 - Alışılmışın dışında bir özelliği bulunan
-- ► farklı
+- farklı
 - Yedek iç çamaşırı veya giysi
 - Çok hastalık geçirerek gelişmemiş çocuk
 ozellikler:

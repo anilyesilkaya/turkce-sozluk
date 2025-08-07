@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Buna göre, şu hâlde, artık
-- ► şimdi
+- şimdi
 ozellikler:
 - - zarf
   - eskimiş

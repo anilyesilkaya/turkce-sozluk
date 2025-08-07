@@ -5,7 +5,7 @@ slug: amberbaris
 letter: A
 lisan: Farsça ʿanber + Arapça berbāris'ten
 anlamlar:
-- ► sarıçalı
+- sarıçalı
 ozellikler:
 - - isim
   - bitki bilimi

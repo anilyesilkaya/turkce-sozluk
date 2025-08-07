@@ -5,7 +5,7 @@ slug: hail
 letter: H
 lisan: Arapça ḥāʾil
 anlamlar:
-- ► engel
+- engel
 ozellikler:
 - - isim
   - eskimiş

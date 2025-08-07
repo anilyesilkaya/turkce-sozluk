@@ -5,7 +5,7 @@ slug: senit
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hamur tahtası
+- hamur tahtası
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: cicek-yagi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► ayçiçeği yağı
+- ayçiçeği yağı
 ozellikler:
 - - isim
 ornekler:

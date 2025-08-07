@@ -5,7 +5,7 @@ slug: nalinli
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► takunyalı
+- takunyalı
 ozellikler:
 - - sıfat
 ornekler:

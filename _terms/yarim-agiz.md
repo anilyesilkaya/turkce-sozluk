@@ -5,7 +5,7 @@ slug: yarim-agiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarım ağızla
+- yarım ağızla
 ozellikler:
 - - zarf
   - mecaz

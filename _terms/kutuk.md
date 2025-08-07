@@ -10,10 +10,10 @@ anlamlar:
 - Kesimden sonra ağaç gövdesinin toprakta kalan bölümü
 - Üzüm teveğinin gövdesi
 - Resmî kayıt defteri
-- ► nüfus kütüğü
+- nüfus kütüğü
 - Birbirleriyle ilgili olan verilerin tümü
 - Verilerin işlemci içinde yazıldığı yer
-- ► kütük demir
+- kütük demir
 - Görgüsüz, kaba kimse
 - Kum, odun, kömür vb. taşımakta kullanılan hafif tekne
 - Osmanlı'da kullanılan, mavnadan küçük, altı nispeten düz, başı kalkık ve içeriye bükük, sığ sularda ve çıkarma işlerinde kullanılan, tek kürekli yelkenli gemi

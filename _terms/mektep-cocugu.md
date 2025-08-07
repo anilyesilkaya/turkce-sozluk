@@ -5,7 +5,7 @@ slug: mektep-cocugu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► öğrenci
+- öğrenci
 - Acemi, toy
 ozellikler:
 - - isim

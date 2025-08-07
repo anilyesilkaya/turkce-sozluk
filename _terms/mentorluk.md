@@ -5,7 +5,7 @@ slug: mentorluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yönderlik
+- yönderlik
 ozellikler:
 - - isim
 ornekler:

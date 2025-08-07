@@ -5,11 +5,11 @@ slug: muamele
 letter: M
 lisan: Arapça muʿāmele
 anlamlar:
-- ► davranış
+- davranış
 - Yol, yöntem
-- ► işlem
-- ► işlem
-- ► alışveriş
+- işlem
+- işlem
+- alışveriş
 ozellikler:
 - - isim
 - - isim

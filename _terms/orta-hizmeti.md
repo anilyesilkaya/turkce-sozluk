@@ -5,7 +5,7 @@ slug: orta-hizmeti
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► orta işi
+- orta işi
 ozellikler:
 - - isim
 ornekler:

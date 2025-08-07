@@ -5,8 +5,8 @@ slug: ziyali
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► ışıklı
-- ► aydın
+- ışıklı
+- aydın
 ozellikler:
 - - sıfat
 - - sıfat

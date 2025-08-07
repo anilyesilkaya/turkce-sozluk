@@ -5,7 +5,7 @@ slug: nazende-cicegi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► ıtırşahi
+- ıtırşahi
 ozellikler:
 - - isim
   - bitki bilimi

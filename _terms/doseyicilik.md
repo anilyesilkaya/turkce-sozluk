@@ -5,7 +5,7 @@ slug: doseyicilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tesisatçılık
+- tesisatçılık
 ozellikler:
 - - isim
 ornekler:

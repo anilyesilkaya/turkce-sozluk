@@ -5,7 +5,7 @@ slug: yalanci-akasya
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► akasya
+- akasya
 ozellikler:
 - - isim
   - bitki bilimi

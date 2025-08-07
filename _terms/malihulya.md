@@ -5,8 +5,8 @@ slug: malihulya
 letter: M
 lisan: Arapça māliḫulyā
 anlamlar:
-- ► kara sevda
-- ► kuruntu
+- kara sevda
+- kuruntu
 ozellikler:
 - - isim
   - eskimiş

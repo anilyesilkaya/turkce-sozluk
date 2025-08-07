@@ -5,7 +5,7 @@ slug: tasizm
 letter: T
 lisan: Fransızca tachisme
 anlamlar:
-- ► lekecilik
+- lekecilik
 ozellikler:
 - - isim
 ornekler:

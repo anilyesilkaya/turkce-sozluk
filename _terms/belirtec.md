@@ -5,8 +5,8 @@ slug: belirtec
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zarf
-- ► ayıraç
+- zarf
+- ayıraç
 ozellikler:
 - - isim
   - dil bilgisi

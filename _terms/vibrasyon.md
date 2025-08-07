@@ -5,7 +5,7 @@ slug: vibrasyon
 letter: V
 lisan: Fransızca vibration
 anlamlar:
-- ► titreşim
+- titreşim
 ozellikler:
 - - isim
   - fizik

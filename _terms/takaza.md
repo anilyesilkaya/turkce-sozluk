@@ -5,7 +5,7 @@ slug: takaza
 letter: T
 lisan: Arapça taḳāżā
 anlamlar:
-- ► azarlama
+- azarlama
 - Başa kakma
 ozellikler:
 - - isim

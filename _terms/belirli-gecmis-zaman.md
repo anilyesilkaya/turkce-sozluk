@@ -5,7 +5,7 @@ slug: belirli-gecmis-zaman
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► görülen geçmiş zaman
+- görülen geçmiş zaman
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: afakan
 letter: A
 lisan: Arapça ḫafaḳān
 anlamlar:
-- ► hafakan
+- hafakan
 ozellikler:
 - - isim
 ornekler:

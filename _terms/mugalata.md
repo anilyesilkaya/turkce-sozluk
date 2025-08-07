@@ -7,7 +7,7 @@ lisan: Arapça muġālaṭa
 anlamlar:
 - Yanıltmak için, yanıltacak yolda söz söyleme
 - Bu biçimde söylenen söz
-- ► yanıltmaca
+- yanıltmaca
 ozellikler:
 - - isim
   - eskimiş

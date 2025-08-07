@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Kalın değnek
-- ► dayak (I)
+- dayak (I)
 ozellikler:
 - - isim
 - - isim

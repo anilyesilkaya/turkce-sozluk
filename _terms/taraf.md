@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭaraf
 anlamlar:
 - Ön, arka, sağ, sol, üst, alt vb. yanların her biri; yüz (II), cenah, canip
-- ► yön
+- yön
 - …nın bulunduğu yer
 - İstekleri, düşünceleri karşıt olan iki kişiden veya iki topluluktan her biri
 - Bir kişinin soyundan gelenlerin hepsi

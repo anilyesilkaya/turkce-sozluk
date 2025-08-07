@@ -5,7 +5,7 @@ slug: tecahuluarif
 letter: T
 lisan: Arapça tecāhul + ʿārif
 anlamlar:
-- ► bilmezlikten gelme
+- bilmezlikten gelme
 ozellikler:
 - - isim
   - eskimiş

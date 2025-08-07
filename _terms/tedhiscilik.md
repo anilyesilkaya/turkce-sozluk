@@ -5,7 +5,7 @@ slug: tedhiscilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► terörizm
+- terörizm
 ozellikler:
 - - isim
 ornekler:

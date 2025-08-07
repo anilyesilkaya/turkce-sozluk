@@ -5,7 +5,7 @@ slug: kilgili
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uygulamalı
+- uygulamalı
 - Maksada uygun, kullanışlı
 - Gerçeklere uygun
 ozellikler:

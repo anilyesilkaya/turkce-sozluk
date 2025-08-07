@@ -5,7 +5,7 @@ slug: ortak-payda
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► asgari müşterek
+- asgari müşterek
 ozellikler:
 - - isim
 ornekler:

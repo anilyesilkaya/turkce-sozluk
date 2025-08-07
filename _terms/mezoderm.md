@@ -5,7 +5,7 @@ slug: mezoderm
 letter: M
 lisan: Fransızca mésoderme
 anlamlar:
-- ► orta deri
+- orta deri
 ozellikler:
 - - isim
   - anatomi

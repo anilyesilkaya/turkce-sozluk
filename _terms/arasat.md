@@ -5,7 +5,7 @@ slug: arasat
 letter: A
 lisan: Arapça ʿaraṣāt
 anlamlar:
-- ► mahşer yeri
+- mahşer yeri
 ozellikler:
 - - isim
 ornekler:

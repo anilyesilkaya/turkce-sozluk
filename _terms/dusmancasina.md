@@ -5,7 +5,7 @@ slug: dusmancasina
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düşmanca
+- düşmanca
 ozellikler:
 - - zarf
 ornekler:

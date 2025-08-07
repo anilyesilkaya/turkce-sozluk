@@ -8,7 +8,7 @@ anlamlar:
 - Yanında başkaları bulunmayan
 - (ya'lnız) ► tek başına
 - (ya'lnız) Sadece
-- ► yalnızca
+- yalnızca
 - “Ama, fakat” anlamlarında bir söz
 - Toplumsal ilişkilerden yoksun veya yoksun bırakılan kişi
 ozellikler:

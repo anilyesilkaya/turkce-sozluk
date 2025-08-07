@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Geceleri yatılmayan
-- ► gündüzlü
+- gündüzlü
 ozellikler:
 - - sıfat
 - - sıfat

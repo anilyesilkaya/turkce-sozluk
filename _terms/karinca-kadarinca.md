@@ -5,7 +5,7 @@ slug: karinca-kadarinca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karınca kararınca
+- karınca kararınca
 ozellikler:
 - - zarf
 ornekler:

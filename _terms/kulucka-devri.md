@@ -5,7 +5,7 @@ slug: kulucka-devri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuluçka dönemi
+- kuluçka dönemi
 ozellikler:
 - - isim
 ornekler:

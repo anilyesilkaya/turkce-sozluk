@@ -5,7 +5,7 @@ slug: kavranilmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kavranmak
+- kavranmak
 ozellikler:
 - - nesnesiz
 ornekler:

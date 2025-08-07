@@ -5,7 +5,7 @@ slug: kumandan
 letter: K
 lisan: Fransızca commandant
 anlamlar:
-- ► komutan
+- komutan
 ozellikler:
 - - isim
   - askerlik

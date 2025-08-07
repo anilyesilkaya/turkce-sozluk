@@ -5,7 +5,7 @@ slug: teres
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
   - kaba konuşmada

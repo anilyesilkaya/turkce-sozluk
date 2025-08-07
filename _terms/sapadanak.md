@@ -5,7 +5,7 @@ slug: sapadanak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 - '"Şap" diye ses çıkararak'
 ozellikler:
 - - zarf

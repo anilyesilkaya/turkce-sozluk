@@ -5,7 +5,7 @@ slug: heterotrofi
 letter: H
 lisan: Fransızca hétérotrophie
 anlamlar:
-- ► dış beslenme
+- dış beslenme
 ozellikler:
 - - isim
   - biyoloji

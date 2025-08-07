@@ -5,7 +5,7 @@ slug: kiyaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► cani
+- cani
 ozellikler:
 - - isim
 ornekler:

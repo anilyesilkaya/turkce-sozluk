@@ -5,7 +5,7 @@ slug: bogrulce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► börülce
+- börülce
 ozellikler:
 - - isim
   - ağızlardan

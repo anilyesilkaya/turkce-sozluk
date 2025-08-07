@@ -5,7 +5,7 @@ slug: sakrama
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şakıma
+- şakıma
 ozellikler:
 - - isim
 ornekler:

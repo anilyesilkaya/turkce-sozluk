@@ -5,7 +5,7 @@ slug: duzleme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tesviye
+- tesviye
 ozellikler:
 - - isim
 ornekler:

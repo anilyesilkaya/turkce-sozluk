@@ -5,7 +5,7 @@ slug: perdesi-siyrik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► perdesi yırtık
+- perdesi yırtık
 ozellikler:
 - - sıfat
   - mecaz

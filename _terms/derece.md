@@ -5,10 +5,10 @@ slug: derece
 letter: D
 lisan: Arapça derece
 anlamlar:
-- ► aşama
-- ► kadar
+- aşama
+- kadar
 - Ölçü aletlerinin ölçeğinde belirtilmiş bulunan başlıca bölümlerden her biri
-- ► ateşölçer
+- ateşölçer
 - Bir çözeltinin yoğunluğunu ölçmede kullanılan birim
 - Bir çemberin üç yüz altmışta birine eşit olan açı birimi
 - Başarı gösterme

@@ -5,7 +5,7 @@ slug: istinat
 letter: I
 lisan: Arapça istinād
 anlamlar:
-- ► dayanma
+- dayanma
 - Birinden, bir şeyden kuvvet alma
 - Bir şeyi kanıt sayma
 ozellikler:

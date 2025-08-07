@@ -5,7 +5,7 @@ slug: endokrinolojik
 letter: E
 lisan: Fransızca endocrinologique
 anlamlar:
-- ► iç salgı bilimsel
+- iç salgı bilimsel
 ozellikler:
 - - sıfat
 ornekler:

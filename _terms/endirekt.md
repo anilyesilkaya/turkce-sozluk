@@ -5,7 +5,7 @@ slug: endirekt
 letter: E
 lisan: Fransızca indirect
 anlamlar:
-- ► dolaylı
+- dolaylı
 ozellikler:
 - - sıfat
 ornekler:

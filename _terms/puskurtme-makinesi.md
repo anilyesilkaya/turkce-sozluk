@@ -5,7 +5,7 @@ slug: puskurtme-makinesi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► püskürteç
+- püskürteç
 ozellikler:
 - - isim
 ornekler:

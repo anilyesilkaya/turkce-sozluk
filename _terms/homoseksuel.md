@@ -5,7 +5,7 @@ slug: homoseksuel
 letter: H
 lisan: Fransızca homosexuel
 anlamlar:
-- ► eş cinsel
+- eş cinsel
 ozellikler:
 - - isim
 ornekler:

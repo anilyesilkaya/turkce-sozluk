@@ -5,7 +5,7 @@ slug: yirik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarık
+- yarık
 - Üst dudağı yarık olan (kimse)
 ozellikler:
 - - isim

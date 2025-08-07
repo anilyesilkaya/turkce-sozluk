@@ -5,7 +5,7 @@ slug: sanatlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sanatsal
+- sanatsal
 ozellikler:
 - - sıfat
 ornekler:

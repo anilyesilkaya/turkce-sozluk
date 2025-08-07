@@ -5,7 +5,7 @@ slug: serapa
 letter: S
 lisan: Farsça serāpā
 anlamlar:
-- ► baştan başa
+- baştan başa
 ozellikler:
 - - zarf
   - eskimiş

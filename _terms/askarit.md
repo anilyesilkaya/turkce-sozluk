@@ -5,7 +5,7 @@ slug: askarit
 letter: A
 lisan: Fransızca ascaride
 anlamlar:
-- ► bağırsak solucanı
+- bağırsak solucanı
 ozellikler:
 - - isim
   - hayvan bilimi

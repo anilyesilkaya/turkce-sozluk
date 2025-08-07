@@ -5,7 +5,7 @@ slug: sarma-uyak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarma kafiye
+- sarma kafiye
 ozellikler:
 - - isim
   - edebiyat

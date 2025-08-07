@@ -5,7 +5,7 @@ slug: metinlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dayanıklılık
+- dayanıklılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: belemir
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► mavikantaron
+- mavikantaron
 ozellikler:
 - - isim
   - bitki bilimi

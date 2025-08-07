@@ -5,7 +5,7 @@ slug: ad-eylem
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ad-fiil
+- ad-fiil
 ozellikler:
 - - isim
   - dil bilgisi

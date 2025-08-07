@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Uyumamış; bidar
 - Uykudan uyanmış
-- ► açıkgöz
+- açıkgöz
 - Yapacağı işi bilen, dikkatli ve tetikte olan; sak (I), müteyakkız
 - Bilgisizlikten kurtulmuş, bilgili olan
 ozellikler:

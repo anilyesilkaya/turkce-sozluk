@@ -5,7 +5,7 @@ slug: kiskirtmaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kışkırtıcı
+- kışkırtıcı
 ozellikler:
 - - sıfat
 ornekler:

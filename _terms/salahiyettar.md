@@ -5,7 +5,7 @@ slug: salahiyettar
 letter: S
 lisan: Arapça ṣalāḥiyyet + Farsça -dār
 anlamlar:
-- ► yetkili
+- yetkili
 ozellikler:
 - - sıfat
   - eskimiş

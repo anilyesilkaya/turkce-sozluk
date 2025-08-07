@@ -7,7 +7,7 @@ lisan: Arapça ḫuşūʿ
 anlamlar:
 - Yüreği ürperme ve korku ile dolu olarak Allah’a boyun eğme
 - Varlığının farkında olamayacak derecede kendini karşısında bulunduğu şeyin heybet ve cazibesine kaptırma
-- ► alçak gönüllülük
+- alçak gönüllülük
 ozellikler:
 - - isim
   - din bilimi

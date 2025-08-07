@@ -5,7 +5,7 @@ slug: tatbikatci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uygulayıcı
+- uygulayıcı
 ozellikler:
 - - sıfat
 ornekler:

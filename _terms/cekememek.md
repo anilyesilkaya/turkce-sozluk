@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çekme işini yapamamak
 - Katlanamamak
-- ► kıskanmak
+- kıskanmak
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: hirtapozluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► zıpırlık
+- zıpırlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cennetmekan
 letter: C
 lisan: Arapça cennet + mekān
 anlamlar:
-- ► cennetlik
+- cennetlik
 ozellikler:
 - - sıfat
   - eskimiş

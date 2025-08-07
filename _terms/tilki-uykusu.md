@@ -5,7 +5,7 @@ slug: tilki-uykusu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tavşan uykusu
+- tavşan uykusu
 ozellikler:
 - - isim
 ornekler:

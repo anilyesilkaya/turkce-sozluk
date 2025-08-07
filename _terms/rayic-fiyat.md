@@ -5,7 +5,7 @@ slug: rayic-fiyat
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► piyasa fiyatı
+- piyasa fiyatı
 ozellikler:
 - - isim
   - ticaret

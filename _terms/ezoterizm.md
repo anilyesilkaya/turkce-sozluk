@@ -5,7 +5,7 @@ slug: ezoterizm
 letter: E
 lisan: Fransızca ésotérisme
 anlamlar:
-- ► içreklik
+- içreklik
 ozellikler:
 - - isim
   - felsefe

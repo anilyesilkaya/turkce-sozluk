@@ -5,7 +5,7 @@ slug: mefkure
 letter: M
 lisan: Arapça mefkūre
 anlamlar:
-- ► ülkü
+- ülkü
 ozellikler:
 - - isim
   - eskimiş

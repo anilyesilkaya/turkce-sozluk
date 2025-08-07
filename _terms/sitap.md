@@ -5,7 +5,7 @@ slug: sitap
 letter: Ş
 lisan: Arapça şitāb
 anlamlar:
-- ► acele
+- acele
 ozellikler:
 - - isim
   - eskimiş

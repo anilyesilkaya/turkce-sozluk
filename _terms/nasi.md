@@ -5,7 +5,7 @@ slug: nasi
 letter: N
 lisan: Arapça nāşī
 anlamlar:
-- ► ötürü
+- ötürü
 ozellikler:
 - - edat
   - eskimiş

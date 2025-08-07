@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Başı olan
-- ► yaralı
+- yaralı
 - Yarım kalmış, başlandığı hâlde bitmemiş olan
 ozellikler:
 - - sıfat

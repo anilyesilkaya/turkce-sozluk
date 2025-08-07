@@ -5,7 +5,7 @@ slug: yeterlilik-sinavi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeterlik sınavı
+- yeterlik sınavı
 ozellikler:
 - - isim
   - eğitim

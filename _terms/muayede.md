@@ -5,7 +5,7 @@ slug: muayede
 letter: M
 lisan: Arapça muʿāyede
 anlamlar:
-- ► bayramlaşma
+- bayramlaşma
 ozellikler:
 - - isim
   - eskimiş

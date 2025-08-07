@@ -5,9 +5,9 @@ slug: husunet
 letter: H
 lisan: Arapça ḫuşūnet
 anlamlar:
-- ► sertlik
-- ► kırıcılık
-- ► kabalık
+- sertlik
+- kırıcılık
+- kabalık
 ozellikler:
 - - isim
   - eskimiş

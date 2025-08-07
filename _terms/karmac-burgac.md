@@ -5,7 +5,7 @@ slug: karmac-burgac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karmakarışık
+- karmakarışık
 ozellikler:
 - - sıfat
 ornekler:

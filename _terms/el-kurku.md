@@ -5,7 +5,7 @@ slug: el-kurku
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► manşon
+- manşon
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gocer
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göçebe
+- göçebe
 ozellikler:
 - - sıfat
 ornekler:

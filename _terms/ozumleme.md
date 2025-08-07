@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özümlemek işi; yapım, temessül, temsil, asimilasyon, anabolizma, yadımlama karşıtı
-- ► özümseme
+- özümseme
 ozellikler:
 - - isim
   - biyoloji

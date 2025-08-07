@@ -5,7 +5,7 @@ slug: kedi-uykusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şekerleme
+- şekerleme
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: antipatiklesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sevimsizleşme
+- sevimsizleşme
 ozellikler:
 - - isim
 ornekler:

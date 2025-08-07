@@ -5,7 +5,7 @@ slug: ayakli-mani
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cinaslı mâni
+- cinaslı mâni
 ozellikler:
 - - isim
   - edebiyat

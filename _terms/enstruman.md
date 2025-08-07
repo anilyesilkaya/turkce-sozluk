@@ -5,8 +5,8 @@ slug: enstruman
 letter: E
 lisan: Fransızca instrument
 anlamlar:
-- ► çalgı
-- ► mali belge
+- çalgı
+- mali belge
 ozellikler:
 - - isim
   - müzik

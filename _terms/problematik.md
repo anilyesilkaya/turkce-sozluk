@@ -5,7 +5,7 @@ slug: problematik
 letter: P
 lisan: Fransızca problématique
 anlamlar:
-- ► sorunsal
+- sorunsal
 ozellikler:
 - - sıfat
 ornekler:

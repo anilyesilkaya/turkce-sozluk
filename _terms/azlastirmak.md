@@ -5,7 +5,7 @@ slug: azlastirmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► azaltmak
+- azaltmak
 ozellikler:
 - - -i
 ornekler:

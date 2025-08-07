@@ -5,7 +5,7 @@ slug: nesvunema
 letter: N
 lisan: Arapça neşv + nemā
 anlamlar:
-- ► gelişme
+- gelişme
 ozellikler:
 - - isim
   - eskimiş

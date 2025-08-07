@@ -5,7 +5,7 @@ slug: matrus
 letter: M
 lisan: Arapça maṭrūş
 anlamlar:
-- ► tıraşlı
+- tıraşlı
 ozellikler:
 - - sıfat
   - eskimiş

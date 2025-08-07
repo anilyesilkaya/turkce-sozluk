@@ -5,7 +5,7 @@ slug: yonlenis
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yöneliş
+- yöneliş
 ozellikler:
 - - isim
 ornekler:

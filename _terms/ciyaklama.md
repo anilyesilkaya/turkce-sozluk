@@ -5,7 +5,7 @@ slug: ciyaklama
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cıyaklama
+- cıyaklama
 ozellikler:
 - - isim
 ornekler:

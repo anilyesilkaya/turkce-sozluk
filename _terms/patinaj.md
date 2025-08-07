@@ -5,7 +5,7 @@ slug: patinaj
 letter: P
 lisan: Fransızca patinage
 anlamlar:
-- ► buz pateni
+- buz pateni
 - Yolun kaygan veya çamur olması dolayısıyla tekerleklerin olduğu yerde dönmesi
 ozellikler:
 - - isim

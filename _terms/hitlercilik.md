@@ -5,7 +5,7 @@ slug: hitlercilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Nazizm
+- Nazizm
 ozellikler:
 - - isim
 ornekler:

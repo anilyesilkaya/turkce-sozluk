@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırlanmak için gereken şey veya durumların bütünü; tedarik
-- ► hazırlık sınıfı
+- hazırlık sınıfı
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿaḳūr
 anlamlar:
 - Azgın, şiddetli olan
-- ► kuduruk
+- kuduruk
 ozellikler:
 - - sıfat
   - eskimiş

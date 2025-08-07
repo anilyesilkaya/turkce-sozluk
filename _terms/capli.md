@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çapı geniş olan
 - Bilgisi çok olan
-- ► yetenekli
+- yetenekli
 ozellikler:
 - - sıfat
 - - sıfat

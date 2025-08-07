@@ -5,7 +5,7 @@ slug: bazlamac
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bazlama
+- bazlama
 ozellikler:
 - - isim
 ornekler:

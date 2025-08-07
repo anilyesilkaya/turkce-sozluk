@@ -5,7 +5,7 @@ slug: eksimik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► çökelek
+- çökelek
 ozellikler:
 - - isim
   - ağızlardan

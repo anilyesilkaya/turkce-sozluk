@@ -5,7 +5,7 @@ slug: pandif
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pantufla
+- pantufla
 ozellikler:
 - - isim
 ornekler:

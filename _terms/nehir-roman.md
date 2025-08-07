@@ -5,7 +5,7 @@ slug: nehir-roman
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► ırmak roman
+- ırmak roman
 ozellikler:
 - - isim
   - edebiyat

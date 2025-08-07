@@ -5,7 +5,7 @@ slug: zitlanmak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zıtlaşmak
+- zıtlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

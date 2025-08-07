@@ -5,7 +5,7 @@ slug: tesrinievvel
 letter: T
 lisan: Arapça teşrīn + evvel
 anlamlar:
-- ► ekim
+- ekim
 ozellikler:
 - - isim
   - eskimiş

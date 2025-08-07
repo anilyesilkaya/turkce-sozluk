@@ -5,7 +5,7 @@ slug: o-bakimdan
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► bundan dolayı
+- bundan dolayı
 ozellikler:
 - - zarf
 ornekler:

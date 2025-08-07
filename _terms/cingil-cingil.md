@@ -5,7 +5,7 @@ slug: cingil-cingil
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıngıl çıngıl
+- çıngıl çıngıl
 ozellikler:
 - - zarf
 ornekler:

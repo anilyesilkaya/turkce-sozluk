@@ -5,7 +5,7 @@ slug: talepkar
 letter: T
 lisan: Arapça ṭaleb + Farsça -kār
 anlamlar:
-- ► istekli
+- istekli
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dillendirmek işi
-- ► intak
+- intak
 ozellikler:
 - - isim
 - - isim

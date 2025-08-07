@@ -5,7 +5,7 @@ slug: gezelemek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gezinmek
+- gezinmek
 - Sıkıntılı bir durumda dolaşmak, gezinmek
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: ulusal-irade
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî irade
+- millî irade
 ozellikler:
 - - isim
 ornekler:

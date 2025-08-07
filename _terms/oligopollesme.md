@@ -5,7 +5,7 @@ slug: oligopollesme
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► azelleşme
+- azelleşme
 ozellikler:
 - - isim
 ornekler:

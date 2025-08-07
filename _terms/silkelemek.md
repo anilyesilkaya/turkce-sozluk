@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Üstündeki şeyleri düşürmek, kaydırmak için bir şeyi üst üste, birden silkmek
 - Kuvvetle sarsmak
-- ► dövmek
+- dövmek
 - Sarsmak, etkilemek
 - Yük olan, yük sayılan birinin geçim ve sorumluluğunu üstünden atmak
 ozellikler:

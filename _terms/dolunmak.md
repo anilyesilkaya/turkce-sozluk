@@ -5,7 +5,7 @@ slug: dolunmak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doluşulmak
+- doluşulmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: nalin
 letter: N
 lisan: Arapça naʿleyn
 anlamlar:
-- ► takunya
+- takunya
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tarassut
 letter: T
 lisan: Arapça taraṣṣud
 anlamlar:
-- ► gözleme (I)
+- gözleme (I)
 ozellikler:
 - - isim
   - eskimiş

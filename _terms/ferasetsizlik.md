@@ -5,7 +5,7 @@ slug: ferasetsizlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► anlayışsızlık
+- anlayışsızlık
 ozellikler:
 - - isim
 ornekler:

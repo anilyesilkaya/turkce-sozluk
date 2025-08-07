@@ -5,7 +5,7 @@ slug: giybetcilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► dedikoduculuk
+- dedikoduculuk
 ozellikler:
 - - isim
 ornekler:

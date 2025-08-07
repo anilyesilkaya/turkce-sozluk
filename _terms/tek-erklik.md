@@ -5,7 +5,7 @@ slug: tek-erklik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► monarşi
+- monarşi
 ozellikler:
 - - isim
   - toplum bilimi

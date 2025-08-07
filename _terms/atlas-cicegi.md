@@ -5,7 +5,7 @@ slug: atlas-cicegi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kaktüs
+- kaktüs
 ozellikler:
 - - isim
   - bitki bilimi

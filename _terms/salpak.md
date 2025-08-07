@@ -5,7 +5,7 @@ slug: salpak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► salpa
+- salpa
 ozellikler:
 - - sıfat
 ornekler:

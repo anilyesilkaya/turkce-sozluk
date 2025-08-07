@@ -5,7 +5,7 @@ slug: somestir
 letter: S
 lisan: Fransızca semestre
 anlamlar:
-- ► yarıyıl
+- yarıyıl
 ozellikler:
 - - isim
   - eğitim

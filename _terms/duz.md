@@ -5,7 +5,7 @@ slug: duz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düz rakı
+- düz rakı
 ozellikler:
 - - isim
 ornekler:

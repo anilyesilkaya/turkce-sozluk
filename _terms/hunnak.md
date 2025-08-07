@@ -5,7 +5,7 @@ slug: hunnak
 letter: H
 lisan: Arapça ḫunnāḳ
 anlamlar:
-- ► anjin
+- anjin
 ozellikler:
 - - isim
   - eskimiş

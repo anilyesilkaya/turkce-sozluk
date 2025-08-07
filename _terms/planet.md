@@ -5,7 +5,7 @@ slug: planet
 letter: P
 lisan: Fransızca planète
 anlamlar:
-- ► gezegen
+- gezegen
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: ahd-i-cedit
 letter: A
 lisan: Arapça ʿahd + cedīd
 anlamlar:
-- ► İncil
+- İncil
 ozellikler:
 - - isim
   - din bilimi

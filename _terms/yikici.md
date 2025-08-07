@@ -5,7 +5,7 @@ slug: yikici
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıkmacı
+- yıkmacı
 - Bir şeyin zarar görmesine, bozulmasına, yok olmasına, ortadan kalkmasına yol açan; katastrofik
 ozellikler:
 - - isim

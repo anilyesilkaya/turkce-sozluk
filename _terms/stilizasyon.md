@@ -5,7 +5,7 @@ slug: stilizasyon
 letter: S
 lisan: Fransızca stylisation
 anlamlar:
-- ► biçemleme
+- biçemleme
 ozellikler:
 - - isim
 ornekler:

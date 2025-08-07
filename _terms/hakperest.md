@@ -5,7 +5,7 @@ slug: hakperest
 letter: H
 lisan: Arapça ḥaḳḳ + Farsça -perest
 anlamlar:
-- ► haksever
+- haksever
 ozellikler:
 - - sıfat
   - eskimiş

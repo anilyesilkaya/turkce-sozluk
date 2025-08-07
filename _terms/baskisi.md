@@ -5,7 +5,7 @@ slug: baskisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkahraman
+- başkahraman
 ozellikler:
 - - isim
   - edebiyat

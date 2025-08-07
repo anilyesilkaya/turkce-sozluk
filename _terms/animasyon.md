@@ -5,7 +5,7 @@ slug: animasyon
 letter: A
 lisan: Fransızca animation
 anlamlar:
-- ► canlandırma
+- canlandırma
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Fransızca tablette
 anlamlar:
 - Düz ve yassı biçimli, çiğnenecek veya yutulacak madde
 - Eski medeniyetlerden kalma, pişmiş veya güneşte kurutulmuş kilden yapılmış, üzerinde çivi yazısı ile metin yazılı belge
-- ► tablet bilgisayar
+- tablet bilgisayar
 ozellikler:
 - - isim
 - - isim

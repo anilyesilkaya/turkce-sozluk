@@ -5,7 +5,7 @@ slug: anlamdas
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► eş anlamlı
+- eş anlamlı
 ozellikler:
 - - sıfat
   - dil bilgisi

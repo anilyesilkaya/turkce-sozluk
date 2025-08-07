@@ -9,8 +9,8 @@ anlamlar:
 - Başta gelen, başta olan, baskın çıkan
 - Duygu, davranış vb.ni iradesiyle denetleyebilen (kimse)
 - Yüksekten bir yeri bütün olarak gören
-- ► yargıç
-- ► baskın
+- yargıç
+- baskın
 ozellikler:
 - - sıfat
 - - sıfat

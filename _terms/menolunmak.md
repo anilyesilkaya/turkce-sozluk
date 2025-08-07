@@ -5,7 +5,7 @@ slug: menolunmak
 letter: M
 lisan: Arapça menʿ + Türkçe olunmak
 anlamlar:
-- ► yasaklanmak
+- yasaklanmak
 ozellikler:
 - - nesnesiz
 ornekler:

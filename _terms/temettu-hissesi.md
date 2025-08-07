@@ -5,7 +5,7 @@ slug: temettu-hissesi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kâr payı
+- kâr payı
 ozellikler:
 - - isim
 ornekler:

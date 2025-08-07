@@ -5,7 +5,7 @@ slug: lakirti-ebesi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - mecaz

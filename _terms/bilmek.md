@@ -10,7 +10,7 @@ anlamlar:
 - Bir bilim veya sanat dalında yeterli olmak
 - Beceri ve ustalık isteyen bir işten anlıyor ve o iş elinden geliyor olmak
 - Birini veya bir şeyi özelliklerinden tanıyıp çıkarmak
-- ► sanmak
+- sanmak
 - Sorumlu kabul etmek, muhatap kabul etmek
 - Bir şeyi yapmaya yeteneği olmak
 - Birinin, bir şeyin veya bir olayın tanıtılan veya belirtilen biçimde olduğunu düşünmek

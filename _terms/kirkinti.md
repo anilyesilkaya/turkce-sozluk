@@ -5,7 +5,7 @@ slug: kirkinti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırpıntı
+- kırpıntı
 ozellikler:
 - - isim
 ornekler:

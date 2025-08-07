@@ -5,7 +5,7 @@ slug: hafiza-kaybi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bellek yitimi
+- bellek yitimi
 ozellikler:
 - - isim
   - tıp

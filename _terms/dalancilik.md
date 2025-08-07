@@ -5,7 +5,7 @@ slug: dalancilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lobicilik
+- lobicilik
 ozellikler:
 - - isim
 ornekler:

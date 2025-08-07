@@ -5,7 +5,7 @@ slug: fonksiyonalizm
 letter: F
 lisan: Fransızca fonctionnalisme
 anlamlar:
-- ► işlevcilik
+- işlevcilik
 ozellikler:
 - - isim
   - ruh bilimi

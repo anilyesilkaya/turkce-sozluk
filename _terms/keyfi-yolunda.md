@@ -5,7 +5,7 @@ slug: keyfi-yolunda
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► keyfi yerinde
+- keyfi yerinde
 ozellikler:
 - - sıfat
   - mecaz

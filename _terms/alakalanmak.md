@@ -5,7 +5,7 @@ slug: alakalanmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgilenmek
+- ilgilenmek
 - Gönül bağlamak, yakınlık duymak
 - Bir şey çekici gelmek
 - Bir şeyden zevk almak

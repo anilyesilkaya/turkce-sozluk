@@ -5,7 +5,7 @@ slug: terekkup
 letter: T
 lisan: Arapça terekkub
 anlamlar:
-- ► bileşme
+- bileşme
 ozellikler:
 - - isim
   - eskimiş

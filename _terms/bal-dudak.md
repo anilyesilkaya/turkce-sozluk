@@ -5,7 +5,7 @@ slug: bal-dudak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bal dudaklı
+- bal dudaklı
 ozellikler:
 - - sıfat
   - mecaz

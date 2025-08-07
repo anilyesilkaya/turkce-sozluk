@@ -5,7 +5,7 @@ slug: digerkam
 letter: D
 lisan: Farsça dīger + kām
 anlamlar:
-- ► özgeci
+- özgeci
 ozellikler:
 - - sıfat
   - eskimiş

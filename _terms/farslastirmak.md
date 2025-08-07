@@ -5,7 +5,7 @@ slug: farslastirmak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► Acemleştirmek
+- Acemleştirmek
 ozellikler:
 - - -i
 ornekler:

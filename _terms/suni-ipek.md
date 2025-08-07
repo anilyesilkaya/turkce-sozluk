@@ -5,7 +5,7 @@ slug: suni-ipek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yapay ipek
+- yapay ipek
 ozellikler:
 - - isim
 ornekler:

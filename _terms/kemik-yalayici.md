@@ -5,7 +5,7 @@ slug: kemik-yalayici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - isim
   - mecaz

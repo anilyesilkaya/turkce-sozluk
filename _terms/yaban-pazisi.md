@@ -5,7 +5,7 @@ slug: yaban-pazisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ıştır
+- ıştır
 ozellikler:
 - - isim
   - bitki bilimi

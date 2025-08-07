@@ -5,7 +5,7 @@ slug: kronometre
 letter: K
 lisan: Fransızca chronomètre
 anlamlar:
-- ► süreölçer
+- süreölçer
 ozellikler:
 - - isim
 ornekler:

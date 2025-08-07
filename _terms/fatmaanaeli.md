@@ -5,7 +5,7 @@ slug: fatmaanaeli
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► havvaanaeli
+- havvaanaeli
 ozellikler:
 - - isim
   - bitki bilimi

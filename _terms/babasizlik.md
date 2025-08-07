@@ -5,7 +5,7 @@ slug: babasizlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yetimlik
+- yetimlik
 ozellikler:
 - - isim
 ornekler:

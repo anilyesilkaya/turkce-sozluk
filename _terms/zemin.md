@@ -5,11 +5,11 @@ slug: zemin
 letter: Z
 lisan: Farsça zemīn
 anlamlar:
-- ► taban (I)
+- taban (I)
 - Kumaş, süslü kâğıt, halı, yer muşambası, tablo vb. desenli nesnelerde, biçimlerin üzerinde yer aldığı renk
-- ► temel
-- ► ortam
-- ► dünya
+- temel
+- ortam
+- dünya
 - Oyun sahasının yüzeyi
 ozellikler:
 - - isim

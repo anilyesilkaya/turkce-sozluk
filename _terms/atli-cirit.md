@@ -5,7 +5,7 @@ slug: atli-cirit
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cirit
+- cirit
 ozellikler:
 - - isim
   - spor

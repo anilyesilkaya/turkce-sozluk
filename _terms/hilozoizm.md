@@ -5,7 +5,7 @@ slug: hilozoizm
 letter: H
 lisan: Fransızca hylozoïsme
 anlamlar:
-- ► canlı özdekçilik
+- canlı özdekçilik
 ozellikler:
 - - isim
   - felsefe

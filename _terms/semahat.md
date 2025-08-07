@@ -5,7 +5,7 @@ slug: semahat
 letter: S
 lisan: Arapça semāḥat
 anlamlar:
-- ► cömertlik
+- cömertlik
 ozellikler:
 - - isim
   - eskimiş

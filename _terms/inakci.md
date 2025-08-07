@@ -5,7 +5,7 @@ slug: inakci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► dogmacı
+- dogmacı
 ozellikler:
 - - sıfat
   - felsefe

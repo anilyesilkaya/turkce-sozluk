@@ -5,8 +5,8 @@ slug: zaruri
 letter: Z
 lisan: Arapça żarūrī
 anlamlar:
-- ► zorunlu
-- ► gerekli
+- zorunlu
+- gerekli
 ozellikler:
 - - sıfat
 - - sıfat

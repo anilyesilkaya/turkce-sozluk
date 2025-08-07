@@ -5,7 +5,7 @@ slug: baglanti-unlusu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlayıcı ünlü
+- bağlayıcı ünlü
 ozellikler:
 - - isim
   - dil bilgisi

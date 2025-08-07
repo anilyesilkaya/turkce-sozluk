@@ -5,7 +5,7 @@ slug: doymazlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► açgözlülük
+- açgözlülük
 - Doymaz olma durumu
 ozellikler:
 - - isim

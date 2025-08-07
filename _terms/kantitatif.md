@@ -5,7 +5,7 @@ slug: kantitatif
 letter: K
 lisan: Fransızca quantitatif
 anlamlar:
-- ► nicel
+- nicel
 ozellikler:
 - - sıfat
 ornekler:

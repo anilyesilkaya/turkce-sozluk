@@ -5,7 +5,7 @@ slug: gayesizlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► amaçsızlık
+- amaçsızlık
 ozellikler:
 - - isim
 ornekler:

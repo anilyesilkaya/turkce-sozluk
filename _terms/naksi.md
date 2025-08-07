@@ -5,7 +5,7 @@ slug: naksi
 letter: N
 lisan: Arapça naḳş + -ī
 anlamlar:
-- ► Nakşibendi
+- Nakşibendi
 ozellikler:
 - - isim
 ornekler:

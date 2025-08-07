@@ -5,7 +5,7 @@ slug: tallahi
 letter: T
 lisan: Arapça tallahi
 anlamlar:
-- ► vallahi
+- vallahi
 ozellikler:
 - - ünlem
 ornekler:

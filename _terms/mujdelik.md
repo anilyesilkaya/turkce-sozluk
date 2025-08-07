@@ -5,7 +5,7 @@ slug: mujdelik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muştuluk
+- muştuluk
 ozellikler:
 - - isim
 ornekler:

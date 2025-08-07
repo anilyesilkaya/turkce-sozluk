@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Uzay ve zamanın ötesinde, öznenin dışında, kendiliğinden var olan, duyularla değil, yalnızca ruhen algılanabilen asıl gerçeklik; mütalaa, fikir, ide, idea, mülahaza
 - Dış dünyanın insan zihnine yansıması
-- ► niyet
-- ► kaygı
+- niyet
+- kaygı
 - İlke, yönetici sav
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: isve
 letter: I
 lisan: Arapça ʿişve
 anlamlar:
-- ► cilve
+- cilve
 ozellikler:
 - - isim
 ornekler:

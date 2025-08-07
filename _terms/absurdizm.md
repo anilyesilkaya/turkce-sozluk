@@ -5,7 +5,7 @@ slug: absurdizm
 letter: A
 lisan: Fransızca absurdizm
 anlamlar:
-- ► absürtlük
+- absürtlük
 ozellikler:
 - - isim
   - felsefe

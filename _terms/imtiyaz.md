@@ -5,9 +5,9 @@ slug: imtiyaz
 letter: I
 lisan: Arapça imtiyāz
 anlamlar:
-- ► ayrıcalık
+- ayrıcalık
 - Fabrika kurmak, maden işletmek vb. için bir kişi veya kuruluşa devlet tarafından verilen özel izin
-- ► gedik
+- gedik
 ozellikler:
 - - isim
 - - isim

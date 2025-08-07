@@ -5,7 +5,7 @@ slug: telli-calgilar
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► telli sazlar
+- telli sazlar
 ozellikler:
 - - isim
   - müzik

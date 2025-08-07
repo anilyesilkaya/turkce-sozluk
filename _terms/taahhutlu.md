@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Taahhüt edilmiş, üstlenilmiş olan
-- ► alındılı
+- alındılı
 ozellikler:
 - - sıfat
 - - sıfat

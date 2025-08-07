@@ -7,7 +7,7 @@ lisan: Arapça ṣinf
 anlamlar:
 - Öğrencilerin yıllık öğrenime göre ayrıldıkları bölümlerden her biri
 - Çeşitli amaçlarla oluşmuş kümeler
-- ► derslik
+- derslik
 - Önemlerine, niteliklerine göre kişi veya nesnelerin yerleştirildiği kategorilerden her biri
 - Takımlardan oluşan birlik, dalların alt bölümü
 - Belli ortak belirtileri olan tek tek nesneler öbeği

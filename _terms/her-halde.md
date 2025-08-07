@@ -5,7 +5,7 @@ slug: her-halde
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: seniyet
 letter: Ş
 lisan: Arapça şeʾniyyet
 anlamlar:
-- ► gerçeklik
+- gerçeklik
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Arabası olan
-- ► arabalı vapur
+- arabalı vapur
 ozellikler:
 - - sıfat
 - - sıfat

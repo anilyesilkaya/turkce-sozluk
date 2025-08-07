@@ -5,8 +5,8 @@ slug: gonder
 letter: G
 lisan: Rumca
 anlamlar:
-- ► bayrak direği
-- ► üvendire
+- bayrak direği
+- üvendire
 - Kayık ve yelkenli gemilere yön vermeye yarayan, ucunda metal olan ağaç sopa
 ozellikler:
 - - isim

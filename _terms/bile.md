@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Cümlede kendinden önceki ögeyi belirli duruma getiren bir söz; dahi
 - '"İle" anlamında kullanılan bir söz'
-- ► üstelik
+- üstelik
 ozellikler:
 - - bağlaç
 - - bağlaç

@@ -5,7 +5,7 @@ slug: tabaklamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sepilemek
+- sepilemek
 ozellikler:
 - - -i
 ornekler:

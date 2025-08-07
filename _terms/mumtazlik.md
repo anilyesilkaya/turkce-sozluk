@@ -5,7 +5,7 @@ slug: mumtazlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► seçkinlik
+- seçkinlik
 ozellikler:
 - - isim
 ornekler:

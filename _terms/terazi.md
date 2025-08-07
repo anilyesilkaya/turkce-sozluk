@@ -8,7 +8,7 @@ anlamlar:
 - Bir kolun iki ucuna asılı iki kefeden oluşan tartı; mizan, vezne
 - Elektronik tartma aracı
 - İp cambazlarının dengeyi sağlamak için kullandıkları uzun sırık
-- ► su terazisi
+- su terazisi
 - Vücudun, asılarak veya dayanarak yere paralel bulunduğu denge duruşu
 ozellikler:
 - - isim

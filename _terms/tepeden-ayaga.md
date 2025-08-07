@@ -5,7 +5,7 @@ slug: tepeden-ayaga
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
   - mecaz

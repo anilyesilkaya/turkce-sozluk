@@ -5,8 +5,8 @@ slug: modern
 letter: M
 lisan: Fransızca moderne
 anlamlar:
-- ► çağdaş
-- ► çağcıl
+- çağdaş
+- çağcıl
 ozellikler:
 - - sıfat
 - - sıfat

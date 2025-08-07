@@ -5,7 +5,7 @@ slug: para-canlisi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► paragöz
+- paragöz
 ozellikler:
 - - sıfat
   - mecaz

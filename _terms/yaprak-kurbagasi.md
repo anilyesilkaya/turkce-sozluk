@@ -5,7 +5,7 @@ slug: yaprak-kurbagasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeşilbağa
+- yeşilbağa
 ozellikler:
 - - isim
   - hayvan bilimi

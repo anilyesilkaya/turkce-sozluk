@@ -5,7 +5,7 @@ slug: ekspresyonizm
 letter: E
 lisan: Fransızca expressionnisme
 anlamlar:
-- ► dışa vurumculuk
+- dışa vurumculuk
 ozellikler:
 - - isim
   - felsefe

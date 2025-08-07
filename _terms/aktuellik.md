@@ -5,7 +5,7 @@ slug: aktuellik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► güncellik
+- güncellik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: seffaflasma
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► saydamlaşma
+- saydamlaşma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: muavenet
 letter: M
 lisan: Arapça muʿāvenet
 anlamlar:
-- ► yardım
+- yardım
 ozellikler:
 - - isim
   - eskimiş

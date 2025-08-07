@@ -5,7 +5,7 @@ slug: sagir-nun
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağır kef
+- sağır kef
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: dirimsel
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► hayati
+- hayati
 ozellikler:
 - - sıfat
 ornekler:

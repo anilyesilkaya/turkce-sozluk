@@ -5,7 +5,7 @@ slug: manasiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anlamsız
+- anlamsız
 - Yararsız olan
 ozellikler:
 - - sıfat

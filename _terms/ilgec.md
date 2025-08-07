@@ -5,7 +5,7 @@ slug: ilgec
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► edat
+- edat
 ozellikler:
 - - isim
   - dil bilgisi

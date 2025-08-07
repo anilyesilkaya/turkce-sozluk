@@ -5,7 +5,7 @@ slug: yayla-kekigi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► mercanköşk
+- mercanköşk
 ozellikler:
 - - isim
   - bitki bilimi

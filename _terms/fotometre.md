@@ -5,7 +5,7 @@ slug: fotometre
 letter: F
 lisan: Fransızca photomètre
 anlamlar:
-- ► ışıkölçer
+- ışıkölçer
 ozellikler:
 - - isim
   - fizik

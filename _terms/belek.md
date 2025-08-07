@@ -5,7 +5,7 @@ slug: belek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kundak
+- kundak
 - Beşiğe konulan yatak
 ozellikler:
 - - isim

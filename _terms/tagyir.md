@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taġyīr
 anlamlar:
 - Değiştirme, başkalaştırma
-- ► bozma
+- bozma
 ozellikler:
 - - isim
   - eskimiş

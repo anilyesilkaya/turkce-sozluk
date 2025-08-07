@@ -5,7 +5,7 @@ slug: mesaha
 letter: M
 lisan: Arapça misāḥa
 anlamlar:
-- ► yüz ölçümü
+- yüz ölçümü
 ozellikler:
 - - isim
   - eskimiş

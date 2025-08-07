@@ -5,8 +5,8 @@ slug: mubayenet
 letter: M
 lisan: Arapça mubāyenet
 anlamlar:
-- ► ayrılık
-- ► karşıtlık
+- ayrılık
+- karşıtlık
 ozellikler:
 - - isim
   - eskimiş

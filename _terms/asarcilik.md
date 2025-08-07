@@ -5,7 +5,7 @@ slug: asarcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► öşürcülük
+- öşürcülük
 ozellikler:
 - - isim
 ornekler:

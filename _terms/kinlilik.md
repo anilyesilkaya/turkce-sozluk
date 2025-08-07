@@ -5,7 +5,7 @@ slug: kinlilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kindarlık
+- kindarlık
 ozellikler:
 - - isim
 ornekler:

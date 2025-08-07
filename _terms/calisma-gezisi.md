@@ -5,7 +5,7 @@ slug: calisma-gezisi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► iş gezisi
+- iş gezisi
 ozellikler:
 - - isim
 ornekler:

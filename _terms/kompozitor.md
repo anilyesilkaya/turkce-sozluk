@@ -5,7 +5,7 @@ slug: kompozitor
 letter: K
 lisan: Fransızca compositeur
 anlamlar:
-- ► besteci
+- besteci
 ozellikler:
 - - isim
   - müzik

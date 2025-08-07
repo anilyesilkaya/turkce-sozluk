@@ -6,7 +6,7 @@ letter: Y
 lisan: (Orta Afrika'daki zenci bir topluluğun adından)
 anlamlar:
 - Daha çok din, tapınma, büyü vb. amaçlarla insan eti yiyen (kimse)
-- ► yabani
+- yabani
 - Açgözlü olan (kimse)
 ozellikler:
 - - sıfat

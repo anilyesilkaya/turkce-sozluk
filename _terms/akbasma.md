@@ -5,7 +5,7 @@ slug: akbasma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► katarakt
+- katarakt
 ozellikler:
 - - isim
   - ağızlardan

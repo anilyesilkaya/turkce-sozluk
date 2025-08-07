@@ -5,7 +5,7 @@ slug: musavi
 letter: M
 lisan: Arapça musāvī
 anlamlar:
-- ► eşit
+- eşit
 ozellikler:
 - - sıfat
 ornekler:

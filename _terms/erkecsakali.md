@@ -5,7 +5,7 @@ slug: erkecsakali
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► keçisakalı
+- keçisakalı
 ozellikler:
 - - isim
   - bitki bilimi

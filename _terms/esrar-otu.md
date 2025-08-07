@@ -5,7 +5,7 @@ slug: esrar-otu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Hint keneviri
+- Hint keneviri
 ozellikler:
 - - isim
   - bitki bilimi

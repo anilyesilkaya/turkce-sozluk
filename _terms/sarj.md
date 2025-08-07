@@ -5,7 +5,7 @@ slug: sarj
 letter: Ş
 lisan: Fransızca charge
 anlamlar:
-- ► yükleme
+- yükleme
 ozellikler:
 - - isim
   - fizik

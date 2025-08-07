@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taḳbīḥ
 anlamlar:
 - Çirkin görme, beğenmeme
-- ► kınama
+- kınama
 ozellikler:
 - - isim
   - eskimiş

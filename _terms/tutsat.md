@@ -5,7 +5,7 @@ slug: tutsat
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tutulu satış
+- tutulu satış
 ozellikler:
 - - isim
   - ticaret

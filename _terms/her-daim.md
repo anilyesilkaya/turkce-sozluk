@@ -5,7 +5,7 @@ slug: her-daim
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► her zaman
+- her zaman
 ozellikler:
 - - zarf
 ornekler:

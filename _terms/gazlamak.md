@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Gaz yağı sürmek
 - Motorlu taşıtlarda aracın hızlanmasını sağlamak için gaz pedalına kuvvetle basmak
-- ► kaçmak
+- kaçmak
 ozellikler:
 - - -i
   - nesnesiz

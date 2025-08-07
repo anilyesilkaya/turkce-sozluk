@@ -5,7 +5,7 @@ slug: urume
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► havlama
+- havlama
 ozellikler:
 - - isim
 ornekler:

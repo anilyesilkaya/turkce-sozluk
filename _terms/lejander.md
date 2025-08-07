@@ -5,7 +5,7 @@ slug: lejander
 letter: L
 lisan: Fransızca légendaire
 anlamlar:
-- ► destansı
+- destansı
 ozellikler:
 - - sıfat
 ornekler:

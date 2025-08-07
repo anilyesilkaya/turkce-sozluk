@@ -5,7 +5,7 @@ slug: sorusturucu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soruşturmacı
+- soruşturmacı
 - Herhangi bir şeyin aslını, sebebini, değişkenlerini araştıran, bir konuya eleştirel yaklaşan
 ozellikler:
 - - isim

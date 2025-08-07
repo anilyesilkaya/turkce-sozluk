@@ -5,7 +5,7 @@ slug: payton
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► fayton
+- fayton
 ozellikler:
 - - isim
 ornekler:

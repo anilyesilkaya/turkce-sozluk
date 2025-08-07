@@ -6,7 +6,7 @@ letter: R
 lisan: Türkçe
 anlamlar:
 - Öğrencilerin özel durumlarıyla yakından ilgilenen ve öğrenciye, zorluklar karşısında yardımcı olan öğretmen
-- ► uygulama öğretmeni
+- uygulama öğretmeni
 ozellikler:
 - - isim
   - eğitim

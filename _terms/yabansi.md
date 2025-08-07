@@ -5,7 +5,7 @@ slug: yabansi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► acayip
+- acayip
 - Abartılı, görülmemiş, duyulmamış; yabanıl
 ozellikler:
 - - sıfat

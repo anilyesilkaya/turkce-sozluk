@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Damarı olmayan
-- ► damarı bozuk
+- damarı bozuk
 ozellikler:
 - - sıfat
 - - sıfat

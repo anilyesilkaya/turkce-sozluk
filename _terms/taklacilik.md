@@ -5,7 +5,7 @@ slug: taklacilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dalaverecilik
+- dalaverecilik
 ozellikler:
 - - isim
 ornekler:

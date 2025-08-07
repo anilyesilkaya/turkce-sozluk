@@ -5,7 +5,7 @@ slug: matbaa
 letter: M
 lisan: Arapça maṭbaʿa
 anlamlar:
-- ► basımevi
+- basımevi
 ozellikler:
 - - isim
 ornekler:

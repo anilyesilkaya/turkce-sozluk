@@ -5,7 +5,7 @@ slug: tirnak-cilasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► oje
+- oje
 - El ve ayak tırnaklarına sürülen, şeffaf parlatıcı ve koruyucu
 ozellikler:
 - - isim

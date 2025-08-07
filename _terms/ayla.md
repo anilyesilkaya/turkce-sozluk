@@ -5,7 +5,7 @@ slug: ayla
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hale
+- hale
 - Bazı kutsal kişilerin başı etrafında gösterilen ışık çevresi
 ozellikler:
 - - isim

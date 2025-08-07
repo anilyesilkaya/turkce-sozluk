@@ -9,7 +9,7 @@ anlamlar:
 - Beyaz dışında başka rengi veya renkleri olan; mülevven
 - Neşeli, canlı, ilgi çekici
 - Kendine özgü, ilginç, çarpıcı nitelikleri olan (kimse)
-- ► renkli film
+- renkli film
 ozellikler:
 - - sıfat
 - - sıfat

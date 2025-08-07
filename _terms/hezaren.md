@@ -5,7 +5,7 @@ slug: hezaren
 letter: H
 lisan: Arapça ḫayzurān
 anlamlar:
-- ► bambu
+- bambu
 ozellikler:
 - - isim
   - eskimiş

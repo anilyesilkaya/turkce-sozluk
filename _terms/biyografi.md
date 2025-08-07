@@ -5,7 +5,7 @@ slug: biyografi
 letter: B
 lisan: Fransızca biographie
 anlamlar:
-- ► öz geçmiş
+- öz geçmiş
 ozellikler:
 - - isim
 ornekler:

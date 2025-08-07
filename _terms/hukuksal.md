@@ -5,7 +5,7 @@ slug: hukuksal
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hukuki
+- hukuki
 ozellikler:
 - - sıfat
   - hukuk

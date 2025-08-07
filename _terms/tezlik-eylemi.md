@@ -5,7 +5,7 @@ slug: tezlik-eylemi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tezlik fiili
+- tezlik fiili
 ozellikler:
 - - isim
   - dil bilgisi

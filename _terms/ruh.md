@@ -5,13 +5,13 @@ slug: ruh
 letter: R
 lisan: Arapça rūḥ
 anlamlar:
-- ► can
+- can
 - Allah tarafından insan bedenine üflenen, ölümden sonra da varlığı devam eden ve mahiyeti tam olarak bilinemeyen ilahi ve manevi cevher; tin (I)
 - En önemli nokta
-- ► duygu
-- ► karakter
+- duygu
+- karakter
 - Göze çarpan en belirgin nitelik
-- ► esans
+- esans
 - Bedeni etkin kılan canlılık ilkesi, bedenin hayat gücü
 ozellikler:
 - - isim

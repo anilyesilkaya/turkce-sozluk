@@ -5,7 +5,7 @@ slug: gosterme-sifati
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► işaret sıfatı
+- işaret sıfatı
 ozellikler:
 - - isim
   - dil bilgisi

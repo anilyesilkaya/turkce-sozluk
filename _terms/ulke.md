@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir devletin egemenliği altında bulunan toprakların tümü; diyar, arz (III), iklim, memleket, mülk
-- ► devlet
+- devlet
 - Bir özelliği ön plana çıkarılarak düşünülen bölge; yer
 ozellikler:
 - - isim

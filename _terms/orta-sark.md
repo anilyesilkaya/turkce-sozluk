@@ -5,7 +5,7 @@ slug: orta-sark
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► Orta Doğu
+- Orta Doğu
 ozellikler:
 - - isim
   - eskimiş

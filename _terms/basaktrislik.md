@@ -5,7 +5,7 @@ slug: basaktrislik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başoyunculuk
+- başoyunculuk
 ozellikler:
 - - isim
 ornekler:

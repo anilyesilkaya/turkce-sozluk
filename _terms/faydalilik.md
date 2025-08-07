@@ -5,7 +5,7 @@ slug: faydalilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararlılık
+- yararlılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: emniyetsizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► güvensizlik
+- güvensizlik
 ozellikler:
 - - isim
 ornekler:

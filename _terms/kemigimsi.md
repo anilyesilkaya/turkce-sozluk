@@ -5,7 +5,7 @@ slug: kemigimsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kemiksi
+- kemiksi
 ozellikler:
 - - sıfat
 ornekler:

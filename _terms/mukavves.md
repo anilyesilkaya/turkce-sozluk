@@ -5,7 +5,7 @@ slug: mukavves
 letter: M
 lisan: Arapça muḳavves
 anlamlar:
-- ► kavisli
+- kavisli
 ozellikler:
 - - sıfat
   - eskimiş

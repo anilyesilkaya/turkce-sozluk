@@ -5,8 +5,8 @@ slug: dideban
 letter: D
 lisan: Farsça dīdebān
 anlamlar:
-- ► gümrük kolcusu
-- ► gözcü
+- gümrük kolcusu
+- gözcü
 ozellikler:
 - - isim
   - eskimiş

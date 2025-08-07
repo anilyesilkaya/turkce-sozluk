@@ -5,7 +5,7 @@ slug: temel-sayilar
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► asıl sayılar
+- asıl sayılar
 ozellikler:
 - - isim
   - matematik

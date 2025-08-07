@@ -5,7 +5,7 @@ slug: cilegimsi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çileksi
+- çileksi
 ozellikler:
 - - sıfat
 ornekler:

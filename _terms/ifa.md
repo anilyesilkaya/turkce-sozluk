@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça īfāʾ
 anlamlar:
 - Bir işi yapma, yerine getirme
-- ► ödeme
+- ödeme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: yineletebilme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tekrarlatabilme
+- tekrarlatabilme
 ozellikler:
 - - isim
 ornekler:

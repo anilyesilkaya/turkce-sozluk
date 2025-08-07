@@ -5,7 +5,7 @@ slug: izansizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► anlayışsızlık
+- anlayışsızlık
 ozellikler:
 - - isim
 ornekler:

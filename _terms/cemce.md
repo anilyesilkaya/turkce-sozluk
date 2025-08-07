@@ -5,7 +5,7 @@ slug: cemce
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çömçe
+- çömçe
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: emrihak
 letter: E
 lisan: Arapça emr + ḥaḳḳ
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
   - eskimiş

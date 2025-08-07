@@ -5,7 +5,7 @@ slug: tahliye-kanali
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► boşaltma kanalı
+- boşaltma kanalı
 ozellikler:
 - - isim
 ornekler:

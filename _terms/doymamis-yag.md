@@ -5,7 +5,7 @@ slug: doymamis-yag
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doymamış yağ asidi
+- doymamış yağ asidi
 ozellikler:
 - - isim
 ornekler:

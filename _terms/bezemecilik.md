@@ -5,7 +5,7 @@ slug: bezemecilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süslemecilik
+- süslemecilik
 ozellikler:
 - - isim
 ornekler:

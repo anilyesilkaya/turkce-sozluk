@@ -5,7 +5,7 @@ slug: muzekker
 letter: M
 lisan: Arapça muẕekker
 anlamlar:
-- ► eril
+- eril
 ozellikler:
 - - sıfat
   - eskimiş

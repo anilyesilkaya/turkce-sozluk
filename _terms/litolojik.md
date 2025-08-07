@@ -5,7 +5,7 @@ slug: litolojik
 letter: L
 lisan: Fransızca lithologique
 anlamlar:
-- ► taş bilimsel
+- taş bilimsel
 ozellikler:
 - - sıfat
 ornekler:

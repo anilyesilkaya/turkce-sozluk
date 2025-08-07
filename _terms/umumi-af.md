@@ -5,7 +5,7 @@ slug: umumi-af
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel af
+- genel af
 ozellikler:
 - - isim
   - eskimiş

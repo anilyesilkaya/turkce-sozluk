@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bekinmek işi
-- ► tıkanma
+- tıkanma
 ozellikler:
 - - isim
 - - isim

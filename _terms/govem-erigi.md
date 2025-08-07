@@ -5,7 +5,7 @@ slug: govem-erigi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► alıç
+- alıç
 ozellikler:
 - - isim
   - bitki bilimi

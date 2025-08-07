@@ -5,7 +5,7 @@ slug: savasimci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mücadeleci
+- mücadeleci
 ozellikler:
 - - ''
 ornekler:

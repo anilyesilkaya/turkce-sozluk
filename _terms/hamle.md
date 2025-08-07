@@ -5,10 +5,10 @@ slug: hamle
 letter: H
 lisan: Arapça ḥamle
 anlamlar:
-- ► atılım
+- atılım
 - İleri atılma, saldırma
 - Satrançta ve damada taş sürme işi
-- ► atak (II)
+- atak (II)
 ozellikler:
 - - isim
 - - isim

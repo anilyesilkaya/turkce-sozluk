@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncü olma durumu
-- ► önderlik
+- önderlik
 ozellikler:
 - - isim
 - - isim

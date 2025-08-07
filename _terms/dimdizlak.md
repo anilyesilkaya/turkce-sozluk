@@ -5,7 +5,7 @@ slug: dimdizlak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çırılçıplak
+- çırılçıplak
 - Saçı dökülmüş (kimse)
 - Elindeki her şeyini, imkânlarını yitirmiş
 ozellikler:

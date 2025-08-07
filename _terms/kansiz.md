@@ -8,8 +8,8 @@ anlamlar:
 - Kanı olmayan
 - Kan dökmeden yapılan
 - Kanı az olan, çok kan kaybetmiş olan; anemik
-- ► korkak
-- ► soysuz
+- korkak
+- soysuz
 ozellikler:
 - - sıfat
 - - sıfat

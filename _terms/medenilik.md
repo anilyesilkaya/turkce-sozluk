@@ -5,7 +5,7 @@ slug: medenilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygarlık
+- uygarlık
 ozellikler:
 - - isim
 ornekler:

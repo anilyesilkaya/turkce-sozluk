@@ -5,7 +5,7 @@ slug: guya
 letter: G
 lisan: Farsça gūyā
 anlamlar:
-- ► sözde
+- sözde
 ozellikler:
 - - zarf
 ornekler:

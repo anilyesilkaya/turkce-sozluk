@@ -5,7 +5,7 @@ slug: afif
 letter: A
 lisan: Arapça ʿafīf
 anlamlar:
-- ► iffetli (erkek)
+- iffetli (erkek)
 ozellikler:
 - - sıfat
   - eskimiş

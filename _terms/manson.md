@@ -7,7 +7,7 @@ lisan: Fransızca manchon
 anlamlar:
 - Elleri soğuktan korumak için kullanılan astarlanmış kürk; el kürkü
 - Manto yakası, eteklerin ucu vb. yerlere takılan kürk parçası
-- ► ek bileziği
+- ek bileziği
 - Tansiyon ölçümünde kola bağlanan içi hava dolan kese
 - Dijital tansiyon cihazı
 ozellikler:

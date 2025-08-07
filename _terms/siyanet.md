@@ -5,7 +5,7 @@ slug: siyanet
 letter: S
 lisan: Arapça ṣiyānet
 anlamlar:
-- ► koruma
+- koruma
 ozellikler:
 - - isim
   - eskimiş

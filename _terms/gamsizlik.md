@@ -5,7 +5,7 @@ slug: gamsizlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygısızlık
+- kaygısızlık
 ozellikler:
 - - isim
 ornekler:

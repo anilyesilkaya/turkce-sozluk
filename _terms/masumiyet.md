@@ -5,7 +5,7 @@ slug: masumiyet
 letter: M
 lisan: Arapça maʿṣūmiyyet
 anlamlar:
-- ► masumluk
+- masumluk
 ozellikler:
 - - isim
 ornekler:

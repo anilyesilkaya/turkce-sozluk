@@ -5,7 +5,7 @@ slug: livata
 letter: L
 lisan: Arapça livāta
 anlamlar:
-- ► oğlancılık
+- oğlancılık
 ozellikler:
 - - isim
 ornekler:

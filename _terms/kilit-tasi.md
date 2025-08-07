@@ -5,7 +5,7 @@ slug: kilit-tasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► anahtar taşı
+- anahtar taşı
 ozellikler:
 - - isim
   - mimarlık

@@ -5,7 +5,7 @@ slug: tolksov
 letter: T
 lisan: İngilizce talk show
 anlamlar:
-- ► söz gösterisi
+- söz gösterisi
 ozellikler:
 - - isim
   - televizyon

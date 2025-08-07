@@ -5,7 +5,7 @@ slug: istencsizce
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradesizce
+- iradesizce
 ozellikler:
 - - zarf
   - ruh bilimi

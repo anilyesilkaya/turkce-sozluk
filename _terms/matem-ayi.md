@@ -5,7 +5,7 @@ slug: matem-ayi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muharrem
+- muharrem
 ozellikler:
 - - isim
   - eskimiş

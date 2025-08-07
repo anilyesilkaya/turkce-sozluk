@@ -5,7 +5,7 @@ slug: bebe
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bebek
+- bebek
 - Küçük çocuk
 ozellikler:
 - - isim

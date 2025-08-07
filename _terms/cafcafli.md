@@ -5,7 +5,7 @@ slug: cafcafli
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► gösterişli
+- gösterişli
 - Karışık, gürültülü patırtılı, tehlikeli olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: tonmayster
 letter: T
 lisan: Almanca Tonmeister
 anlamlar:
-- ► ses yönetmeni
+- ses yönetmeni
 ozellikler:
 - - isim
 ornekler:

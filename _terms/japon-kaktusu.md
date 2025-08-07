@@ -5,7 +5,7 @@ slug: japon-kaktusu
 letter: J
 lisan: Türkçe
 anlamlar:
-- ► sütleğen
+- sütleğen
 ozellikler:
 - - isim
   - bitki bilimi

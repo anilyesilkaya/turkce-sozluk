@@ -5,7 +5,7 @@ slug: tandansli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eğilimli
+- eğilimli
 ozellikler:
 - - sıfat
 ornekler:

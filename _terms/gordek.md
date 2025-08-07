@@ -5,7 +5,7 @@ slug: gordek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► acı balık
+- acı balık
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: friksiyon
 letter: F
 lisan: Fransızca friction
 anlamlar:
-- ► ovma
+- ovma
 ozellikler:
 - - isim
 ornekler:

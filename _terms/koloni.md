@@ -5,7 +5,7 @@ slug: koloni
 letter: K
 lisan: Fransızca colonie
 anlamlar:
-- ► sömürge
+- sömürge
 - Göçmen topluluğu veya bu topluluğun yerleştiği yer
 - Bir ülkede bulunan küçük yabancı topluluğu
 - Birlik durumda yaşayan aynı türden organizmaların oluşturduğu topluluk

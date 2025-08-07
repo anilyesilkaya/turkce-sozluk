@@ -5,7 +5,7 @@ slug: metrik
 letter: M
 lisan: Fransızca métrique
 anlamlar:
-- ► ölçümlü
+- ölçümlü
 ozellikler:
 - - sıfat
   - matematik

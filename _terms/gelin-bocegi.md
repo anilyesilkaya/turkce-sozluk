@@ -5,7 +5,7 @@ slug: gelin-bocegi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► uğur böceği
+- uğur böceği
 ozellikler:
 - - isim
   - hayvan bilimi

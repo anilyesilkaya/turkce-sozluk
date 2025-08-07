@@ -5,7 +5,7 @@ slug: son-vazife
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► son görev
+- son görev
 ozellikler:
 - - isim
   - mecaz

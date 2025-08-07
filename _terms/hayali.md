@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫayālī
 anlamlar:
 - Gerçekte var olmayan, gerçek olmayan; fantastik, ütopik
-- ► Karagözcü
+- Karagözcü
 ozellikler:
 - - sıfat
 - - sıfat

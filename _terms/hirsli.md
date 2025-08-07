@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şeyi elde etmek için önüne geçilmez derecede kuvvetli istekleri olan, aşırı tutkuları olan (kimse); muhteris
-- ► öfkeli
+- öfkeli
 ozellikler:
 - - sıfat
 - - sıfat

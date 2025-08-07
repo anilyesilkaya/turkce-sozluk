@@ -5,7 +5,7 @@ slug: kagidimsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kâğıtsı
+- kâğıtsı
 ozellikler:
 - - sıfat
 ornekler:

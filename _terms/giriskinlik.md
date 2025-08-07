@@ -5,7 +5,7 @@ slug: giriskinlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► girişkenlik
+- girişkenlik
 ozellikler:
 - - isim
 ornekler:

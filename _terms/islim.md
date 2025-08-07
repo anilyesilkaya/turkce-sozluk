@@ -5,7 +5,7 @@ slug: islim
 letter: I
 lisan: İngilizce steam
 anlamlar:
-- ► istim
+- istim
 ozellikler:
 - - isim
 ornekler:

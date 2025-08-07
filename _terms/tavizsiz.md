@@ -5,7 +5,7 @@ slug: tavizsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ödünsüz
+- ödünsüz
 ozellikler:
 - - sıfat
 ornekler:

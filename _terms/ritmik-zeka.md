@@ -5,7 +5,7 @@ slug: ritmik-zeka
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► işitsel zekâ
+- işitsel zekâ
 ozellikler:
 - - isim
 ornekler:

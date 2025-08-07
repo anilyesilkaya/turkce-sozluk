@@ -5,8 +5,8 @@ slug: vatvat
 letter: V
 lisan: Arapça vaṭvāṭ
 anlamlar:
-- ► ebabil
-- ► yarasa
+- ebabil
+- yarasa
 ozellikler:
 - - isim
 - - isim

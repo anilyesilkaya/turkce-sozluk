@@ -5,7 +5,7 @@ slug: vefat
 letter: V
 lisan: Arapça vefāt
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
 ornekler:

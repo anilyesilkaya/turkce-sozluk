@@ -5,7 +5,7 @@ slug: semeresiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► verimsiz
+- verimsiz
 ozellikler:
 - - sıfat
 ornekler:

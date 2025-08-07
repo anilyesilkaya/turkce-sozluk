@@ -5,7 +5,7 @@ slug: ulusal
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî
+- millî
 ozellikler:
 - - sıfat
 ornekler:

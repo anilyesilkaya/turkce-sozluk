@@ -5,7 +5,7 @@ slug: mukayeseli-edebiyat
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► karşılaştırmalı edebiyat
+- karşılaştırmalı edebiyat
 ozellikler:
 - - isim
   - edebiyat

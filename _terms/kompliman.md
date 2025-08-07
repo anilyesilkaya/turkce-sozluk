@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca compliment
 anlamlar:
 - Gönül okşayıcı, hoşa giden söz
-- ► koltuklama
+- koltuklama
 ozellikler:
 - - isim
 - - isim

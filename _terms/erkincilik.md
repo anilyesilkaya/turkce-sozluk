@@ -5,7 +5,7 @@ slug: erkincilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► liberalizm
+- liberalizm
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: cani-tez
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► aceleci
+- aceleci
 ozellikler:
 - - sıfat
   - mecaz

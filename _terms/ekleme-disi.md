@@ -5,7 +5,7 @@ slug: ekleme-disi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► duvar dişi
+- duvar dişi
 ozellikler:
 - - isim
   - mimarlık

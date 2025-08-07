@@ -5,7 +5,7 @@ slug: babagan
 letter: B
 lisan: Türkçe baba + Farsça -gān
 anlamlar:
-- ► Babayan
+- Babayan
 ozellikler:
 - - isim
   - din bilimi

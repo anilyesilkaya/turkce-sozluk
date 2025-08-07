@@ -5,8 +5,8 @@ slug: paye
 letter: P
 lisan: Farsça pāye
 anlamlar:
-- ► rütbe
-- ► aşama
+- rütbe
+- aşama
 ozellikler:
 - - isim
   - eskimiş

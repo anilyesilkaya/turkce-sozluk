@@ -5,7 +5,7 @@ slug: salkim-agaci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► akasya
+- akasya
 ozellikler:
 - - isim
   - bitki bilimi

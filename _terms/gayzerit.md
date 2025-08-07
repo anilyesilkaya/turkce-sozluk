@@ -5,7 +5,7 @@ slug: gayzerit
 letter: G
 lisan: Fransızca geysérite
 anlamlar:
-- ► kaynaç taşı
+- kaynaç taşı
 ozellikler:
 - - isim
   - mineraloji

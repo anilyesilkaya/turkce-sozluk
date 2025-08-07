@@ -5,7 +5,7 @@ slug: semptom
 letter: S
 lisan: Fransızca symptôme
 anlamlar:
-- ► belirti
+- belirti
 ozellikler:
 - - isim
   - tıp

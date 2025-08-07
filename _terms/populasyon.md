@@ -5,8 +5,8 @@ slug: populasyon
 letter: P
 lisan: Fransızca population
 anlamlar:
-- ► varlık
-- ► nüfus
+- varlık
+- nüfus
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: maganda-kursunu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► serseri kurşun
+- serseri kurşun
 ozellikler:
 - - isim
 ornekler:

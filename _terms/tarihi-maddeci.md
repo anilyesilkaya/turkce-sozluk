@@ -5,7 +5,7 @@ slug: tarihi-maddeci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tarihsel özdekçi
+- tarihsel özdekçi
 ozellikler:
 - - sıfat
   - felsefe

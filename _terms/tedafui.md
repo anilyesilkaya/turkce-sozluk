@@ -5,7 +5,7 @@ slug: tedafui
 letter: T
 lisan: Arapça tedāfuʿī
 anlamlar:
-- ► savunmalık
+- savunmalık
 ozellikler:
 - - sıfat
   - eskimiş

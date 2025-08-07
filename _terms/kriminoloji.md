@@ -5,7 +5,7 @@ slug: kriminoloji
 letter: K
 lisan: Fransızca criminologie
 anlamlar:
-- ► suç bilimi
+- suç bilimi
 ozellikler:
 - - isim
 ornekler:

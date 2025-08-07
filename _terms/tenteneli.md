@@ -5,7 +5,7 @@ slug: tenteneli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dantelli
+- dantelli
 ozellikler:
 - - sıfat
 ornekler:

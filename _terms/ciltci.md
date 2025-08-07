@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Kitapları ciltleyen kimse; mücellit
-- ► ciltevi
+- ciltevi
 ozellikler:
 - - isim
 - - isim

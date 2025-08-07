@@ -6,10 +6,10 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Güçlü, yürekli olan (kimse); alp, celadetli, yağız, dilaver
-- ► kahraman
+- kahraman
 - Gözü pek, düşüncelerini açıkça söylemekten çekinmeyen (kimse); mert
 - Delikanlı, genç erkek
-- ► taşaklı
+- taşaklı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: kalp-yarasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gönül yarası
+- gönül yarası
 ozellikler:
 - - isim
   - mecaz

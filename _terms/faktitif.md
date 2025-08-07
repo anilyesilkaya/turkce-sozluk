@@ -5,7 +5,7 @@ slug: faktitif
 letter: F
 lisan: Fransızca factitif
 anlamlar:
-- ► ettirgen fiil
+- ettirgen fiil
 ozellikler:
 - - isim
   - dil bilgisi

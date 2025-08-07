@@ -5,7 +5,7 @@ slug: yari-kure
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarım küre
+- yarım küre
 ozellikler:
 - - isim
   - coğrafya

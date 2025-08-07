@@ -5,9 +5,9 @@ slug: takviye
 letter: T
 lisan: Arapça taḳviye
 anlamlar:
-- ► sağlamlaştırma
+- sağlamlaştırma
 - Yardımcı kuvvet, destek
-- ► ek
+- ek
 ozellikler:
 - - isim
 - - isim

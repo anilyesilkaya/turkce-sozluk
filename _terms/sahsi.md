@@ -5,7 +5,7 @@ slug: sahsi
 letter: Ş
 lisan: Arapça şaḫṣī
 anlamlar:
-- ► kişisel
+- kişisel
 ozellikler:
 - - sıfat
 ornekler:

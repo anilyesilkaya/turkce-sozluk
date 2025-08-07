@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi görebilme alanı
-- ► bakış açısı
+- bakış açısı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kuzuluk-kapisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuzu kapı
+- kuzu kapı
 ozellikler:
 - - isim
 ornekler:

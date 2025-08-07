@@ -5,7 +5,7 @@ slug: otcul
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► otobur
+- otobur
 ozellikler:
 - - sıfat
   - hayvan bilimi

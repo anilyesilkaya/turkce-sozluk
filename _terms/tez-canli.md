@@ -5,7 +5,7 @@ slug: tez-canli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► aceleci
+- aceleci
 ozellikler:
 - - sıfat
   - mecaz

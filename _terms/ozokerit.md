@@ -5,7 +5,7 @@ slug: ozokerit
 letter: O
 lisan: Fransızca ozokérite
 anlamlar:
-- ► yer mumu
+- yer mumu
 ozellikler:
 - - isim
   - jeoloji

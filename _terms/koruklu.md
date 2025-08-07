@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Körüğü olan
-- ► körüklü otobüs
+- körüklü otobüs
 ozellikler:
 - - sıfat
 - - sıfat

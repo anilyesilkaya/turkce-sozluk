@@ -5,7 +5,7 @@ slug: posalanmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► tortulanmak
+- tortulanmak
 ozellikler:
 - - nesnesiz
 ornekler:

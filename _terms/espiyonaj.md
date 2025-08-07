@@ -5,7 +5,7 @@ slug: espiyonaj
 letter: E
 lisan: Fransızca espionnage
 anlamlar:
-- ► casusluk
+- casusluk
 ozellikler:
 - - isim
 ornekler:

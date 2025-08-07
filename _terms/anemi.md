@@ -5,7 +5,7 @@ slug: anemi
 letter: A
 lisan: Fransızca anémie
 anlamlar:
-- ► kansızlık
+- kansızlık
 ozellikler:
 - - isim
   - tıp

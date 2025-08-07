@@ -5,7 +5,7 @@ slug: kizoglankiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bakire
+- bakire
 ozellikler:
 - - sıfat
 ornekler:

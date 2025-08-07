@@ -5,7 +5,7 @@ slug: muvesvis
 letter: M
 lisan: Arapça muvesvis
 anlamlar:
-- ► kuruntulu
+- kuruntulu
 ozellikler:
 - - sıfat
   - eskimiş

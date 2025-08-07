@@ -5,7 +5,7 @@ slug: penis
 letter: P
 lisan: Latince
 anlamlar:
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: cehreli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► yüzlü
+- yüzlü
 ozellikler:
 - - sıfat
 ornekler:

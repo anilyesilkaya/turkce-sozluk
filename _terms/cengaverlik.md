@@ -5,7 +5,7 @@ slug: cengaverlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► savaşçılık
+- savaşçılık
 ozellikler:
 - - isim
 ornekler:

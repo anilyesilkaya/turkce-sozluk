@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Düzeltmek işi
 - Daha iyi duruma getirmek için yapılan değişiklik; ıslahat, reform
-- ► düzelti
+- düzelti
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: laisizm
 letter: L
 lisan: Fransızca laïcisme
 anlamlar:
-- ► laiklik
+- laiklik
 ozellikler:
 - - isim
   - hukuk

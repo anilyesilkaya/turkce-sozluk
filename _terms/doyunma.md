@@ -5,7 +5,7 @@ slug: doyunma
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doyma
+- doyma
 ozellikler:
 - - isim
 ornekler:

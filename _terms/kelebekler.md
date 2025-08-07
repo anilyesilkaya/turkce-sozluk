@@ -5,7 +5,7 @@ slug: kelebekler
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► pul kanatlılar
+- pul kanatlılar
 ozellikler:
 - - isim
   - hayvan bilimi

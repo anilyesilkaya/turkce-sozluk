@@ -5,7 +5,7 @@ slug: karamsarlastirmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kötümserleştirmek
+- kötümserleştirmek
 ozellikler:
 - - -i
 ornekler:

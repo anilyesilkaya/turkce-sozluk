@@ -5,7 +5,7 @@ slug: metodolojik
 letter: M
 lisan: Fransızca méthodologique
 anlamlar:
-- ► yöntem bilimsel
+- yöntem bilimsel
 ozellikler:
 - - sıfat
 ornekler:

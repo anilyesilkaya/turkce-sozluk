@@ -5,7 +5,7 @@ slug: kablelmilat
 letter: K
 lisan: Arapça ḳabl + mīlād
 anlamlar:
-- ► milattan önce
+- milattan önce
 ozellikler:
 - - zarf
   - eskimiş

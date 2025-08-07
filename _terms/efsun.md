@@ -5,7 +5,7 @@ slug: efsun
 letter: E
 lisan: Farsça efsūn
 anlamlar:
-- ► büyü
+- büyü
 ozellikler:
 - - isim
   - eskimiş

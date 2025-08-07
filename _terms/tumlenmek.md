@@ -5,7 +5,7 @@ slug: tumlenmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünlenmek
+- bütünlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

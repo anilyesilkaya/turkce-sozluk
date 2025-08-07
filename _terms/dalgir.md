@@ -5,7 +5,7 @@ slug: dalgir
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► hare
+- hare
 ozellikler:
 - - isim
   - ağızlardan

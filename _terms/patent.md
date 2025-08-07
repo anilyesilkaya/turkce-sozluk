@@ -5,7 +5,7 @@ slug: patent
 letter: P
 lisan: Fransızca patente
 anlamlar:
-- ► buluş belgesi
+- buluş belgesi
 - Belirli şartları sağlayan buluşlar için verilen ve ilgili kamu kurumunca resmî sicile kaydedilerek korunan mülkiyet hakkı
 - Uyruğunu belirten belge
 - Gemilere ayrıldıkları limanın sağlık durumu için verilen belge

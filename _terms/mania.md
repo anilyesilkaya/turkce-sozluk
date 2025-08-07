@@ -5,7 +5,7 @@ slug: mania
 letter: M
 lisan: Arapça māniʿa
 anlamlar:
-- ► engel
+- engel
 ozellikler:
 - - isim
 ornekler:

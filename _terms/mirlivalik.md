@@ -5,7 +5,7 @@ slug: mirlivalik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tuğgenerallik
+- tuğgenerallik
 ozellikler:
 - - isim
   - eskimiş

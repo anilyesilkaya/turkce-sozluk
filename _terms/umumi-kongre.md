@@ -5,7 +5,7 @@ slug: umumi-kongre
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kurultay
+- kurultay
 ozellikler:
 - - isim
   - eskimiş

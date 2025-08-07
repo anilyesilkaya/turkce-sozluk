@@ -5,8 +5,8 @@ slug: sergen
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► raf
-- ► vitrin
+- raf
+- vitrin
 ozellikler:
 - - isim
   - ağızlardan

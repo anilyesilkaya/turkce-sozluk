@@ -5,7 +5,7 @@ slug: bonkor
 letter: B
 lisan: Fransızca bon coeur
 anlamlar:
-- ► cömert
+- cömert
 ozellikler:
 - - sıfat
 ornekler:

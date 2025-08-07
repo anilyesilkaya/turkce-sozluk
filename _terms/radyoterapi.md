@@ -5,7 +5,7 @@ slug: radyoterapi
 letter: R
 lisan: Fransızca radiothérapie
 anlamlar:
-- ► ışın tedavisi
+- ışın tedavisi
 ozellikler:
 - - isim
   - fizik

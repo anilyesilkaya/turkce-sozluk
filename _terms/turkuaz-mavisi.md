@@ -5,7 +5,7 @@ slug: turkuaz-mavisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► turkuaz
+- turkuaz
 - Bu renkte olan
 ozellikler:
 - - isim

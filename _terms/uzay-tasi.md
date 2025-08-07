@@ -5,7 +5,7 @@ slug: uzay-tasi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► gök taşı
+- gök taşı
 ozellikler:
 - - isim
   - gök bilimi

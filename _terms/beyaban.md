@@ -5,7 +5,7 @@ slug: beyaban
 letter: B
 lisan: Farsça beyābān
 anlamlar:
-- ► çöl
+- çöl
 ozellikler:
 - - isim
   - eskimiş

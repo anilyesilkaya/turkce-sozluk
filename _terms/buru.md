@@ -5,7 +5,7 @@ slug: buru
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sancı
+- sancı
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: dolmalik-biber
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dolma biber
+- dolma biber
 ozellikler:
 - - isim
 ornekler:

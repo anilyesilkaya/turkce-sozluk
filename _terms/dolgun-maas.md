@@ -5,7 +5,7 @@ slug: dolgun-maas
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dolgun ücret
+- dolgun ücret
 ozellikler:
 - - isim
 ornekler:

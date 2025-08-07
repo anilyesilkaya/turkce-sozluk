@@ -5,7 +5,7 @@ slug: maysor
 letter: M
 lisan: Fransızca maillechort
 anlamlar:
-- ► Alman gümüşü
+- Alman gümüşü
 ozellikler:
 - - isim
   - kimya

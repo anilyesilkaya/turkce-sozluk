@@ -5,7 +5,7 @@ slug: yarayissizlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yararsızlık
+- yararsızlık
 ozellikler:
 - - isim
 ornekler:

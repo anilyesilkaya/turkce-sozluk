@@ -5,7 +5,7 @@ slug: veladet
 letter: V
 lisan: Arapça velādet
 anlamlar:
-- ► doğum
+- doğum
 ozellikler:
 - - isim
   - eskimiş

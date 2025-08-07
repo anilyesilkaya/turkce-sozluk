@@ -5,7 +5,7 @@ slug: siradanlasma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bayağılaşma
+- bayağılaşma
 ozellikler:
 - - isim
 ornekler:

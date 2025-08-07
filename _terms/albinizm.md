@@ -5,7 +5,7 @@ slug: albinizm
 letter: A
 lisan: Fransızca albinism
 anlamlar:
-- ► akşınlık
+- akşınlık
 ozellikler:
 - - isim
   - tıp

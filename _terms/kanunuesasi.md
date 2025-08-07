@@ -5,7 +5,7 @@ slug: kanunuesasi
 letter: K
 lisan: Arapça ḳānūn + esāsī
 anlamlar:
-- ► anayasa
+- anayasa
 ozellikler:
 - - isim
   - eskimiş

@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kırık olma durumu
-- ► kırgınlık
-- ► güceniklik
+- kırgınlık
+- güceniklik
 ozellikler:
 - - isim
 - - isim

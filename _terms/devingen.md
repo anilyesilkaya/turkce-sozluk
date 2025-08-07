@@ -5,7 +5,7 @@ slug: devingen
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► hareketli
+- hareketli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: boylu-boyuna
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boylu boyunca
+- boylu boyunca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: esermek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bakmak
+- bakmak
 ozellikler:
 - - -i
   - ağızlardan

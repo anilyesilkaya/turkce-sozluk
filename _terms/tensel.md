@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Bedene ait, tenle ilgili
-- ► cinsel
+- cinsel
 ozellikler:
 - - sıfat
 - - sıfat

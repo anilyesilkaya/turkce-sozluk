@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Saklamaksızın
 - Bütün ayrıntılarıyla
-- ► içtenlikle
+- içtenlikle
 ozellikler:
 - - zarf
 - - zarf

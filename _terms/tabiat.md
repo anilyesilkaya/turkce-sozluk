@@ -5,11 +5,11 @@ slug: tabiat
 letter: T
 lisan: Arapça ṭabīʿat
 anlamlar:
-- ► doğa
+- doğa
 - Doğal özellik
 - Dış dünyanın dağlar, denizler, kırlar vb. daha çok güzelliğiyle insana hitap eden tarafı
 - İnsanın sahip olduğu güce karşılık, dış dünyada hüküm sürmekte olan düzenden doğan güç
-- ► huy
+- huy
 - Güzeli ayırma melekesi; zevk
 - İnsanın büyük abdest bozma kolaylığı veya zorluğu
 ozellikler:

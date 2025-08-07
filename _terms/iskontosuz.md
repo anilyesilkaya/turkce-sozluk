@@ -5,7 +5,7 @@ slug: iskontosuz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► indirimsiz
+- indirimsiz
 ozellikler:
 - - sıfat
 ornekler:

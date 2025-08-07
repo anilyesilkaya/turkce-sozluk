@@ -5,7 +5,7 @@ slug: hiyeroglif
 letter: H
 lisan: Fransızca hiéroglyphe
 anlamlar:
-- ► resim yazı
+- resim yazı
 ozellikler:
 - - isim
   - tarih

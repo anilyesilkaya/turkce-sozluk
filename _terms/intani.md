@@ -5,7 +5,7 @@ slug: intani
 letter: I
 lisan: Arapça intānī
 anlamlar:
-- ► mikroplu
+- mikroplu
 - Mikropla oluşan
 ozellikler:
 - - sıfat

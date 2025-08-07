@@ -5,7 +5,7 @@ slug: ustuka
 letter: U
 lisan: Fransızca stucco
 anlamlar:
-- ► malakâri
+- malakâri
 ozellikler:
 - - isim
 ornekler:

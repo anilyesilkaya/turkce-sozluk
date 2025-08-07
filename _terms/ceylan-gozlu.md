@@ -5,7 +5,7 @@ slug: ceylan-gozlu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ahu gözlü
+- ahu gözlü
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: tatbiki
 letter: T
 lisan: Arapça taṭbīḳī
 anlamlar:
-- ► uygulamalı
+- uygulamalı
 ozellikler:
 - - sıfat
 ornekler:

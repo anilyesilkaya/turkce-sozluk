@@ -5,7 +5,7 @@ slug: demograf
 letter: D
 lisan: Fransızca démographe
 anlamlar:
-- ► nüfus bilimci
+- nüfus bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yirtimcilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► manifaturacılık
+- manifaturacılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dar-darina
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► darı darına
+- darı darına
 ozellikler:
 - - zarf
 ornekler:

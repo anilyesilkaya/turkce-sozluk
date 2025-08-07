@@ -5,7 +5,7 @@ slug: mulevves
 letter: M
 lisan: Arapça mulevves̱
 anlamlar:
-- ► kirli
+- kirli
 ozellikler:
 - - sıfat
   - eskimiş

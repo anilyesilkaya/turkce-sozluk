@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayışı olan; ferasetli, izanlı
-- ► hoşgörülü
+- hoşgörülü
 - Hoşgörülü bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: tahliye-hortumu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► boşaltma hortumu
+- boşaltma hortumu
 ozellikler:
 - - isim
 ornekler:

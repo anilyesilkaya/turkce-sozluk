@@ -5,7 +5,7 @@ slug: kollayici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koruyucu
+- koruyucu
 ozellikler:
 - - sıfat
 ornekler:

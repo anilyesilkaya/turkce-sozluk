@@ -5,7 +5,7 @@ slug: ihmalcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ihmalkârlık
+- ihmalkârlık
 ozellikler:
 - - isim
 ornekler:

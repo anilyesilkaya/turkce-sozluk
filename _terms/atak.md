@@ -5,7 +5,7 @@ slug: atak
 letter: A
 lisan: Fransızca attaque
 anlamlar:
-- ► atılım
+- atılım
 - Gol atmak veya sayı kazanmak amacıyla yapılan akın; hamle, hücum, ofans
 ozellikler:
 - - isim

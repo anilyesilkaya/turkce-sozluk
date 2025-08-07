@@ -5,7 +5,7 @@ slug: grafiti
 letter: G
 lisan: İngilizce graffiti
 anlamlar:
-- ► duvar yazısı
+- duvar yazısı
 ozellikler:
 - - isim
 ornekler:

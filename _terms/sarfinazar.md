@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça ṣarf + naẓar
 anlamlar:
 - Dikkate almama
-- ► vazgeçme
+- vazgeçme
 ozellikler:
 - - isim
 - - isim

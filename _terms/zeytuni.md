@@ -5,7 +5,7 @@ slug: zeytuni
 letter: Z
 lisan: Arapça zeytūnī
 anlamlar:
-- ► zeytin rengi
+- zeytin rengi
 ozellikler:
 - - isim
   - eskimiş

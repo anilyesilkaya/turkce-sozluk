@@ -5,9 +5,9 @@ slug: cehre
 letter: Ç
 lisan: Farsça çihre, çehre
 anlamlar:
-- ► yüz (II)
-- ► görünüş
-- ► kimlik
+- yüz (II)
+- görünüş
+- kimlik
 ozellikler:
 - - isim
 - - isim

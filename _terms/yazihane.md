@@ -5,8 +5,8 @@ slug: yazihane
 letter: Y
 lisan: Türkçe yazı + Farsça ḫāne
 anlamlar:
-- ► büro
-- ► yazı masası
+- büro
+- yazı masası
 ozellikler:
 - - isim
 - - isim

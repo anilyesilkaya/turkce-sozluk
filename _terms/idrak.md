@@ -5,10 +5,10 @@ slug: idrak
 letter: I
 lisan: Arapça idrāk
 anlamlar:
-- ► anlayış
+- anlayış
 - Bir zamana veya olaya erişme
-- ► algı (I)
-- ► algılama
+- algı (I)
+- algılama
 ozellikler:
 - - isim
 - - isim

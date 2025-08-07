@@ -5,7 +5,7 @@ slug: margarit
 letter: M
 lisan: Fransızca marguerite
 anlamlar:
-- ► koyungözü
+- koyungözü
 ozellikler:
 - - isim
   - bitki bilimi

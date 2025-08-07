@@ -5,7 +5,7 @@ slug: husye
 letter: H
 lisan: Arapça ḫuṣye
 anlamlar:
-- ► taşak
+- taşak
 ozellikler:
 - - isim
   - anatomi

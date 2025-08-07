@@ -5,7 +5,7 @@ slug: cingirdak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıngırak
+- çıngırak
 - Düğünlerde, bayramlarda kız ve erkek çocuklarının toplu olarak oynadıkları bir oyun
 ozellikler:
 - - isim

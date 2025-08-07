@@ -5,7 +5,7 @@ slug: konseptualizm
 letter: K
 lisan: Fransızca conceptualisme
 anlamlar:
-- ► kavramcılık
+- kavramcılık
 ozellikler:
 - - isim
   - felsefe

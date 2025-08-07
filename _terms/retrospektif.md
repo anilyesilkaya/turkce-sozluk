@@ -5,7 +5,7 @@ slug: retrospektif
 letter: R
 lisan: Fransızca rétrospective
 anlamlar:
-- ► dünden bugüne
+- dünden bugüne
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: namuskar
 letter: N
 lisan: Arapça nāmūs + Farsça -kār
 anlamlar:
-- ► namuslu
+- namuslu
 ozellikler:
 - - sıfat
   - eskimiş

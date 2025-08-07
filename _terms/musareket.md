@@ -5,8 +5,8 @@ slug: musareket
 letter: M
 lisan: Arapça muşāreket
 anlamlar:
-- ► ortaklık
-- ► işteş çatı
+- ortaklık
+- işteş çatı
 ozellikler:
 - - isim
   - eskimiş

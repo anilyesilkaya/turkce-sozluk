@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yarışmada kaybetme, yenilme; mağlubiyet
-- ► bozgun
+- bozgun
 - Bir işte, bir uğraşta başarısızlığa uğrama, kaybetme
 ozellikler:
 - - isim

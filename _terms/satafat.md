@@ -5,7 +5,7 @@ slug: satafat
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► görkem
+- görkem
 ozellikler:
 - - isim
 ornekler:

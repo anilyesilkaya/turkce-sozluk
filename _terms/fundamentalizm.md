@@ -5,7 +5,7 @@ slug: fundamentalizm
 letter: F
 lisan: Fransızca fondamentalisme
 anlamlar:
-- ► kökten dincilik
+- kökten dincilik
 ozellikler:
 - - isim
   - toplum bilimi

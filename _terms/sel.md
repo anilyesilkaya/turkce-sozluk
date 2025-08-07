@@ -8,7 +8,7 @@ anlamlar:
 - Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su; su taşkını
 - Hareket hâlindeki büyük kalabalık
 - Etki ve iz bırakan güçlü durum veya davranış
-- ► yoğunluk
+- yoğunluk
 ozellikler:
 - - isim
 - - isim

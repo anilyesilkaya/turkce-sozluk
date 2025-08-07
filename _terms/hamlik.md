@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Ham olma durumu
-- ► idmansızlık
+- idmansızlık
 ozellikler:
 - - isim
 - - isim

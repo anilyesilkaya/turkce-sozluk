@@ -5,7 +5,7 @@ slug: pesi-sira
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ardınca
+- ardınca
 ozellikler:
 - - zarf
 ornekler:

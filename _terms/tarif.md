@@ -5,7 +5,7 @@ slug: tarif
 letter: T
 lisan: Arapça taʿrīf
 anlamlar:
-- ► tanım
+- tanım
 - Bir işin yapılış yöntemini açıklama ve belirtme
 - Bir şeyin bulunduğu yeri, çevre ile ilgisini belirterek açıklama
 ozellikler:

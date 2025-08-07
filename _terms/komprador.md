@@ -5,7 +5,7 @@ slug: komprador
 letter: K
 lisan: Fransızca comprador
 anlamlar:
-- ► aracı
+- aracı
 - Çok zengin kimse
 - Uzak Doğu ülkelerinde yabancı ortaklıklar hesabına iş sözleşmesi yapan yerli aracı
 ozellikler:

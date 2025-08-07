@@ -7,7 +7,7 @@ lisan: Fransızca central
 anlamlar:
 - Doğadaki başka enerji türlerini elektrik enerjisine çeviren fabrika
 - Telefonların bağlı olduğu merkez
-- ► santralci
+- santralci
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kiska
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► arpacık soğanı
+- arpacık soğanı
 ozellikler:
 - - isim
   - ağızlardan

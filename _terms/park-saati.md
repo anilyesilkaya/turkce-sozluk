@@ -5,7 +5,7 @@ slug: park-saati
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parkmetre
+- parkmetre
 ozellikler:
 - - isim
 ornekler:

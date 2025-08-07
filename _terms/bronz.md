@@ -5,7 +5,7 @@ slug: bronz
 letter: B
 lisan: Fransızca bronze
 anlamlar:
-- ► tunç
+- tunç
 - Bu maddeden yapılan
 ozellikler:
 - - isim

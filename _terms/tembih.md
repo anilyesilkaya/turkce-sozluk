@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça tenbīh
 anlamlar:
 - Bir şeyin belli biçimde ve yolda yapılmasını söyleme, bunu üsteleyerek hatırlatma
-- ► uyarım
+- uyarım
 ozellikler:
 - - isim
 - - isim

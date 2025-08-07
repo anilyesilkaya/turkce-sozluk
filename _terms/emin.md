@@ -5,8 +5,8 @@ slug: emin
 letter: E
 lisan: Arapça emīn
 anlamlar:
-- ► güvenli
-- ► tehlikesiz
+- güvenli
+- tehlikesiz
 - Şüphesi olmayan
 - Osmanlı Devleti'nde bazı devlet görevlerindeki sorumlu kişi
 ozellikler:

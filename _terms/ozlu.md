@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Özü olan, öz bölümü çokça olan
 - Düşünceyi gereksiz söz kullanmadan bildiren
-- ► kıvamlı
+- kıvamlı
 - Benliğinde, varlığında, yapısında herhangi bir nitelik bulunan
 - Yapışkan, verimli (toprak)
 - Kısa ve anlamlı bir biçimde

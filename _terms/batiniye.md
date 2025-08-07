@@ -5,7 +5,7 @@ slug: batiniye
 letter: B
 lisan: Arapça bāṭiniyye
 anlamlar:
-- ► Bâtınilik
+- Bâtınilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sahis
 letter: Ş
 lisan: Arapça şaḫṣ
 anlamlar:
-- ► kişi
+- kişi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yanitlayis
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevaplayış
+- cevaplayış
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yikismak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► güreşmek
+- güreşmek
 ozellikler:
 - - nesnesiz
   - ağızlardan

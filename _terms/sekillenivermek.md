@@ -5,7 +5,7 @@ slug: sekillenivermek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimlenivermek
+- biçimlenivermek
 ozellikler:
 - - nesnesiz
 ornekler:

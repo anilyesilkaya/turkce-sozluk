@@ -5,7 +5,7 @@ slug: z-kitap
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zenginleştirilmiş kitap
+- zenginleştirilmiş kitap
 ozellikler:
 - - isim
 ornekler:

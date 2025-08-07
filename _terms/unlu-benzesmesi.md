@@ -5,7 +5,7 @@ slug: unlu-benzesmesi
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► ünlü uyumu
+- ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

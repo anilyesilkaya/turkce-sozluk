@@ -5,7 +5,7 @@ slug: bakir-caligi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bakır yeşili
+- bakır yeşili
 - Bu renkte olan
 - Bakır tuzları ile zehirli duruma gelmiş
 ozellikler:

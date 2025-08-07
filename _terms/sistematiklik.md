@@ -5,7 +5,7 @@ slug: sistematiklik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sistemlilik
+- sistemlilik
 ozellikler:
 - - isim
 ornekler:

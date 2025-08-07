@@ -5,7 +5,7 @@ slug: asrilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çağdaşlık
+- çağdaşlık
 ozellikler:
 - - isim
 ornekler:

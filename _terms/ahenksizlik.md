@@ -5,7 +5,7 @@ slug: ahenksizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uyumsuzluk
+- uyumsuzluk
 ozellikler:
 - - isim
 ornekler:

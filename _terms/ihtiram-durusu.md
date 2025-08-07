@@ -5,7 +5,7 @@ slug: ihtiram-durusu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► saygı duruşu
+- saygı duruşu
 ozellikler:
 - - isim
 ornekler:

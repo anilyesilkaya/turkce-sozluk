@@ -5,7 +5,7 @@ slug: beden-terbiyesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beden eğitimi
+- beden eğitimi
 ozellikler:
 - - isim
   - spor

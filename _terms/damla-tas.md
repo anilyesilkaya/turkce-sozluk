@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Tıraş edilmeyerek yuvarlak ve cilalı bırakılmış, değerli veya yarı değerli taş
-- ► sarkıt
+- sarkıt
 ozellikler:
 - - isim
   - mineraloji

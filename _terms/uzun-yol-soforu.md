@@ -5,7 +5,7 @@ slug: uzun-yol-soforu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzun yol sürücüsü
+- uzun yol sürücüsü
 ozellikler:
 - - isim
 ornekler:

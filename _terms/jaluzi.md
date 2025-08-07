@@ -5,7 +5,7 @@ slug: jaluzi
 letter: J
 lisan: Fransızca jalousie
 anlamlar:
-- ► şerit perde
+- şerit perde
 ozellikler:
 - - isim
 ornekler:

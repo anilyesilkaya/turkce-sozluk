@@ -5,7 +5,7 @@ slug: desimal
 letter: D
 lisan: Fransızca décimal
 anlamlar:
-- ► ondalık sistem
+- ondalık sistem
 ozellikler:
 - - isim
   - matematik

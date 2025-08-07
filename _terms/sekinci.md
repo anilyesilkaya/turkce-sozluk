@@ -5,7 +5,7 @@ slug: sekinci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dinginci
+- dinginci
 ozellikler:
 - - sıfat
   - felsefe

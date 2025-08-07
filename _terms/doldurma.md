@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Doldurmak işi; haşiv
 - Gereksiz söz ve benzetmelerle dolu anlatım
-- ► yükleme
+- yükleme
 ozellikler:
 - - isim
 - - isim

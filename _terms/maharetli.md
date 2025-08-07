@@ -5,7 +5,7 @@ slug: maharetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► becerikli
+- becerikli
 ozellikler:
 - - sıfat
 ornekler:

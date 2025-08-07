@@ -5,8 +5,8 @@ slug: muhatara
 letter: M
 lisan: Arapça muḫāṭara
 anlamlar:
-- ► tehlike
-- ► zarar
+- tehlike
+- zarar
 ozellikler:
 - - isim
   - eskimiş

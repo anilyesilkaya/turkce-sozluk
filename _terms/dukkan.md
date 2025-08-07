@@ -7,7 +7,7 @@ lisan: Arapça dukkān
 anlamlar:
 - Esnafın perakende satış yaptığı, küçük zanaat sahiplerinin çalıştıkları yer; işletme, iş yeri
 - Görevli olarak çalışılan yer
-- ► kumarhane
+- kumarhane
 ozellikler:
 - - isim
 - - isim

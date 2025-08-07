@@ -5,7 +5,7 @@ slug: maharet
 letter: M
 lisan: Arapça mahāret
 anlamlar:
-- ► beceri
+- beceri
 ozellikler:
 - - isim
 ornekler:

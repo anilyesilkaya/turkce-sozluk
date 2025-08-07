@@ -8,7 +8,7 @@ anlamlar:
 - Bir yapının yanlarını dışa karşı koruyan, iç bölümlerini birbirinden ayıran, taş, tuğla vb. gereçlerden yapılan veya örülen dikey düzlem; örek, cidar
 - Bir toprak parçasını sınırlayan taş, tuğla, kerpiçten yapılan engel
 - Sonuç alınamayan yer
-- ► engel
+- engel
 - Voleybolda ağ üzerinde karşı takım oyuncusunun vuruşuna karşı koyma
 ozellikler:
 - - isim

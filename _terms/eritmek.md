@@ -8,7 +8,7 @@ anlamlar:
 - Erimesini sağlamak, erimesine yol açmak
 - Harcayıp tüketmek
 - Çok üzmek
-- ► zayıflatmak
+- zayıflatmak
 - Bir şeyi yok etmek
 ozellikler:
 - - -i

@@ -5,7 +5,7 @@ slug: gardiyanlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► infaz ve koruma memurluğu
+- infaz ve koruma memurluğu
 ozellikler:
 - - isim
 ornekler:

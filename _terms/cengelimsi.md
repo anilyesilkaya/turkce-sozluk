@@ -5,7 +5,7 @@ slug: cengelimsi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çengelsi
+- çengelsi
 ozellikler:
 - - sıfat
 ornekler:

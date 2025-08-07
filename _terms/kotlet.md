@@ -5,7 +5,7 @@ slug: kotlet
 letter: K
 lisan: Fransızca côtelette
 anlamlar:
-- ► pirzola
+- pirzola
 ozellikler:
 - - isim
 ornekler:

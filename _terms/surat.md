@@ -5,7 +5,7 @@ slug: surat
 letter: S
 lisan: Arapça ṣūret
 anlamlar:
-- ► yüz (II)
+- yüz (II)
 - Somurtkanlık, asık yüzlülük
 - Soğuk davranma
 ozellikler:

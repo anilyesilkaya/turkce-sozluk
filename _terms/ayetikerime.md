@@ -5,7 +5,7 @@ slug: ayetikerime
 letter: A
 lisan: Arapça āyet + kerįme
 anlamlar:
-- ► ayet
+- ayet
 ozellikler:
 - - isim
   - din bilimi

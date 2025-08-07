@@ -5,7 +5,7 @@ slug: ihtiyari
 letter: I
 lisan: Arapça iḫtiyārī
 anlamlar:
-- ► seçimlik
+- seçimlik
 ozellikler:
 - - sıfat
   - eskimiş

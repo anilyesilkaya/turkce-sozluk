@@ -5,7 +5,7 @@ slug: ihtiyarlama
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yaşlanma
+- yaşlanma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: seriklik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ortaklık
+- ortaklık
 ozellikler:
 - - isim
 ornekler:

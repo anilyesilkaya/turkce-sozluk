@@ -5,7 +5,7 @@ slug: sidik-torbasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar torbası
+- idrar torbası
 ozellikler:
 - - isim
   - anatomi

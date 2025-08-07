@@ -5,7 +5,7 @@ slug: elezerlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sadistlik
+- sadistlik
 ozellikler:
 - - isim
   - ruh bilimi

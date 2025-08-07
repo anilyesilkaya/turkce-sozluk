@@ -5,7 +5,7 @@ slug: plaket
 letter: P
 lisan: Fransızca plaquette
 anlamlar:
-- ► onurluk
+- onurluk
 - Metal, ağaç, cam vb.nden türlü biçimlerde yapılan, duvara veya herhangi bir yere çakılan küçük, alçak kabartma levha
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: plackaci
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► çapulcu
+- çapulcu
 ozellikler:
 - - isim
 ornekler:

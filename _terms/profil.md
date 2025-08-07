@@ -5,11 +5,11 @@ slug: profil
 letter: P
 lisan: Fransızca profil
 anlamlar:
-- ► yan
+- yan
 - İnsanın yüzünün yandan görünüşü
 - Bir kişi veya eşya için ayırt edici özelliklerin bütünü
 - Tutum veya eğilim
-- ► yanay
+- yanay
 - İnşaat vb. işlerde kullanılan, kesiti I, H, L veya T biçiminde olan (demir vb.)
 ozellikler:
 - - isim

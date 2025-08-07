@@ -5,7 +5,7 @@ slug: esmayiserife
 letter: E
 lisan: Arapça esmā + şerīfe
 anlamlar:
-- ► esmayıhüsna
+- esmayıhüsna
 ozellikler:
 - - isim
   - din bilimi

@@ -5,7 +5,7 @@ slug: ereksiyon
 letter: E
 lisan: İngilizce erection
 anlamlar:
-- ► sertleşme
+- sertleşme
 ozellikler:
 - - isim
   - tıp

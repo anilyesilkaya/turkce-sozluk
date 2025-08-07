@@ -5,7 +5,7 @@ slug: zanneyleme
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sanma
+- sanma
 ozellikler:
 - - isim
 ornekler:

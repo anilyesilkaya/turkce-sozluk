@@ -5,7 +5,7 @@ slug: efsunlu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
 ornekler:

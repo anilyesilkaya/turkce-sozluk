@@ -5,8 +5,8 @@ slug: vetire
 letter: V
 lisan: Arapça vetīre
 anlamlar:
-- ► süreç
-- ► tarz
+- süreç
+- tarz
 - Burun deliklerini ayıran zar
 ozellikler:
 - - isim

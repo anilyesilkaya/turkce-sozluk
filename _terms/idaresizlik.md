@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Gevşeklik, beceriksizlik
-- ► tutumsuzluk
+- tutumsuzluk
 ozellikler:
 - - isim
 - - isim

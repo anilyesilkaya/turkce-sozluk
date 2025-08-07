@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükselmek işi; itila
-- ► terfi
+- terfi
 - Suların kabararak yüzeyinin yükseğe çıkması
 - Yer kabuğunun yerin düşey salınımından ileri gelen hareketi
 ozellikler:

@@ -5,7 +5,7 @@ slug: animizm
 letter: A
 lisan: Fransızca animisme
 anlamlar:
-- ► canlıcılık
+- canlıcılık
 ozellikler:
 - - isim
   - felsefe

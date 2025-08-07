@@ -5,7 +5,7 @@ slug: rua
 letter: R
 lisan: Fransızca roi
 anlamlar:
-- ► papaz
+- papaz
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ilgecli-tumlec
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► edatlı tümleç
+- edatlı tümleç
 ozellikler:
 - - isim
   - dil bilgisi

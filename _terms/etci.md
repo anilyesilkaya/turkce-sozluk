@@ -5,7 +5,7 @@ slug: etci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kasap
+- kasap
 ozellikler:
 - - isim
 ornekler:

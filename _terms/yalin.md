@@ -5,7 +5,7 @@ slug: yalin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► süssüz
+- süssüz
 - Kınından çıkmış
 ozellikler:
 - - sıfat

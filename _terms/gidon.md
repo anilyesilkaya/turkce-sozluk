@@ -5,7 +5,7 @@ slug: gidon
 letter: G
 lisan: Fransızca guidon
 anlamlar:
-- ► yönelteç
+- yönelteç
 - Komodorlara özgü çıması çatal biçiminde kesilmiş sancak; fors
 ozellikler:
 - - isim

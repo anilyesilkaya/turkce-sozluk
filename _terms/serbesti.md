@@ -5,7 +5,7 @@ slug: serbesti
 letter: S
 lisan: Farsça serbest + Arapça -ī
 anlamlar:
-- ► serbestlik
+- serbestlik
 ozellikler:
 - - isim
   - eskimiş

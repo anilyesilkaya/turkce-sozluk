@@ -5,7 +5,7 @@ slug: tahrilli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tahrirli
+- tahrirli
 ozellikler:
 - - sıfat
 ornekler:

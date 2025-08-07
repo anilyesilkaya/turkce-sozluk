@@ -7,7 +7,7 @@ lisan: Arapça duʿāʾ
 anlamlar:
 - Allah'a yalvarma, bir şeyin olmasını veya olmamasını isteme; alkış
 - Allah'a yalvarmak için söylenen dinî metin
-- ► yakarış
+- yakarış
 ozellikler:
 - - isim
   - din bilimi

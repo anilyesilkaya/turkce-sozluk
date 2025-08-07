@@ -5,7 +5,7 @@ slug: es-surem
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eş zaman
+- eş zaman
 ozellikler:
 - - sıfat
 ornekler:

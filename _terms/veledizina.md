@@ -5,7 +5,7 @@ slug: veledizina
 letter: V
 lisan: Arapça veled + zinā
 anlamlar:
-- ► piç
+- piç
 ozellikler:
 - - isim
   - kaba konuşmada

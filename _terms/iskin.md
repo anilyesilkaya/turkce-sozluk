@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Bahar aylarında yüksek kayalık yerlerde ve dağlarda yetişen, vitamin değeri yüksek, çiğ veya pişmiş olarak tüketilebilen bir tür ot (Reun ribes)
-- ► filiz (I)
+- filiz (I)
 ozellikler:
 - - isim
   - ağızlardan

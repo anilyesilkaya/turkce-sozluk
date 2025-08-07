@@ -5,8 +5,8 @@ slug: bet
 letter: B
 lisan: Farsça bed
 anlamlar:
-- ► kötü
-- ► çirkin
+- kötü
+- çirkin
 ozellikler:
 - - isim
 - - isim

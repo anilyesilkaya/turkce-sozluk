@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥarām
 anlamlar:
 - Din kurallarına aykırı olan, dinî bakımdan yasak olan, helal karşıtı
-- ► yasak
+- yasak
 ozellikler:
 - - sıfat
   - din bilimi

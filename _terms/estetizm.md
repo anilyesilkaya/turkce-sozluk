@@ -5,7 +5,7 @@ slug: estetizm
 letter: E
 lisan: Fransızca esthétisme
 anlamlar:
-- ► estetikçilik
+- estetikçilik
 ozellikler:
 - - isim
   - felsefe

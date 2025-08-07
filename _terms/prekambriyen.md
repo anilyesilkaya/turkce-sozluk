@@ -5,7 +5,7 @@ slug: prekambriyen
 letter: P
 lisan: Fransızca précambrien
 anlamlar:
-- ► kambriyen öncesi
+- kambriyen öncesi
 ozellikler:
 - - isim
   - jeoloji

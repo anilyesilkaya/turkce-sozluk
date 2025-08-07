@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça bedīʿī
 anlamlar:
 - Güzellik ölçülerine uyan, gözü gönlü okşayan, beğenilen
-- ► estetik
+- estetik
 ozellikler:
 - - sıfat
   - eskimiş

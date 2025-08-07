@@ -5,7 +5,7 @@ slug: maluliyet
 letter: M
 lisan: Arapça maʿlūliyyet
 anlamlar:
-- ► sakatlık
+- sakatlık
 ozellikler:
 - - isim
   - eskimiş

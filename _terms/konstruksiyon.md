@@ -5,8 +5,8 @@ slug: konstruksiyon
 letter: K
 lisan: Fransızca construction
 anlamlar:
-- ► yapı
-- ► yapım
+- yapı
+- yapım
 ozellikler:
 - - isim
 - - isim

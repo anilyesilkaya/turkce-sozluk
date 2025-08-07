@@ -5,7 +5,7 @@ slug: isyancilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► başkaldırıcılık
+- başkaldırıcılık
 ozellikler:
 - - isim
 ornekler:

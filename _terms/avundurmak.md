@@ -5,7 +5,7 @@ slug: avundurmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avutmak
+- avutmak
 - Acısını hafifletmek, acısını unutturmak, teselli etmek
 ozellikler:
 - - -i

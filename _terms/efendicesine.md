@@ -5,7 +5,7 @@ slug: efendicesine
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► efendice
+- efendice
 ozellikler:
 - - zarf
 ornekler:

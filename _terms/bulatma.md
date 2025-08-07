@@ -5,7 +5,7 @@ slug: bulatma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bulaştırma
+- bulaştırma
 ozellikler:
 - - isim
 ornekler:

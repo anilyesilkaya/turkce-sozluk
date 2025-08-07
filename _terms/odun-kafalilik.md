@@ -5,7 +5,7 @@ slug: odun-kafalilik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 ozellikler:
 - - isim
 ornekler:

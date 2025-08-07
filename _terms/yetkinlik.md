@@ -5,7 +5,7 @@ slug: yetkinlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► olgunluk
+- olgunluk
 ozellikler:
 - - isim
 ornekler:

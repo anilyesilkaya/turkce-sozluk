@@ -5,7 +5,7 @@ slug: olumsek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölümcül
+- ölümcül
 ozellikler:
 - - sıfat
   - ağızlardan

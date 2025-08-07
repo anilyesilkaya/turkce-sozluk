@@ -5,7 +5,7 @@ slug: marksist
 letter: M
 lisan: Fransızca marxiste
 anlamlar:
-- ► Marksçı
+- Marksçı
 ozellikler:
 - - sıfat
 ornekler:

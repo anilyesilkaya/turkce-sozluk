@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurma işini yapan
-- ► palavracı
+- palavracı
 - Kelime uyduran kimse
 ozellikler:
 - - sıfat

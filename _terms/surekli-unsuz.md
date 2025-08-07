@@ -5,7 +5,7 @@ slug: surekli-unsuz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sızıcı ünsüz
+- sızıcı ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

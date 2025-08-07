@@ -5,7 +5,7 @@ slug: toygar
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tarla kuşu
+- tarla kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

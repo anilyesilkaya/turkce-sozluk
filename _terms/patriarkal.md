@@ -5,7 +5,7 @@ slug: patriarkal
 letter: P
 lisan: Fransızca patriarcal
 anlamlar:
-- ► ataerkil
+- ataerkil
 ozellikler:
 - - sıfat
   - toplum bilimi

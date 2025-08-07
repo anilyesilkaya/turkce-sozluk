@@ -5,7 +5,7 @@ slug: bicirgan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bıçılgan
+- bıçılgan
 ozellikler:
 - - isim
   - ağızlardan

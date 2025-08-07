@@ -5,7 +5,7 @@ slug: sorgu-hakimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sorgu yargıcı
+- sorgu yargıcı
 ozellikler:
 - - isim
   - hukuk

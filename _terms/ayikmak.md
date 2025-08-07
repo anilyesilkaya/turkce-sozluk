@@ -5,7 +5,7 @@ slug: ayikmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayılmak
+- ayılmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

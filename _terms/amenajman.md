@@ -5,7 +5,7 @@ slug: amenajman
 letter: A
 lisan: Fransızca aménagement
 anlamlar:
-- ► düzenleyim
+- düzenleyim
 ozellikler:
 - - isim
   - hukuk

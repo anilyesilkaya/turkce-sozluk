@@ -5,8 +5,8 @@ slug: giygiyci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kemancı
-- ► beceriksiz
+- kemancı
+- beceriksiz
 ozellikler:
 - - isim
 - - isim

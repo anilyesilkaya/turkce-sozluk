@@ -5,9 +5,9 @@ slug: bastan-sona
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► her zaman
-- ► tamamen
-- ► baştan başa
+- her zaman
+- tamamen
+- baştan başa
 ozellikler:
 - - zarf
 - - zarf

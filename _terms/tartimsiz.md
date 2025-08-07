@@ -5,7 +5,7 @@ slug: tartimsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ritimsiz
+- ritimsiz
 ozellikler:
 - - sıfat
 ornekler:

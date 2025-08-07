@@ -5,7 +5,7 @@ slug: dolasmak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gezinmek
+- gezinmek
 - Doğru gitmeyip yolu uzatmak
 - Dönüp başka bir yönden gelmek
 - Bir şey akmak
@@ -13,7 +13,7 @@ anlamlar:
 - Bir yeri belli bir amaçla gezmek
 - Denetlemek amacıyla bir yeri gezmek
 - Nefes, el bir şey üzerinde hafifçe hareket etmek
-- ► gezinmek
+- gezinmek
 - Çok kimse tarafından söylenmek
 - Kendini hissettirmek
 ozellikler:

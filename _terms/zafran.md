@@ -5,7 +5,7 @@ slug: zafran
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► safran
+- safran
 ozellikler:
 - - isim
 ornekler:

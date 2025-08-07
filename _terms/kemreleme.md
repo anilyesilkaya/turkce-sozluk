@@ -5,7 +5,7 @@ slug: kemreleme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gübreleme
+- gübreleme
 ozellikler:
 - - isim
 ornekler:

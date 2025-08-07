@@ -5,7 +5,7 @@ slug: dualizm
 letter: D
 lisan: Fransızca dualisme
 anlamlar:
-- ► ikicilik
+- ikicilik
 ozellikler:
 - - isim
   - felsefe

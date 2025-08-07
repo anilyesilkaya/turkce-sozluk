@@ -5,7 +5,7 @@ slug: termometre
 letter: T
 lisan: Fransızca thermomètre
 anlamlar:
-- ► sıcaklıkölçer
+- sıcaklıkölçer
 ozellikler:
 - - isim
   - fizik

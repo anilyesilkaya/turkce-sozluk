@@ -6,7 +6,7 @@ letter: F
 lisan: İngilizce fissure
 anlamlar:
 - Anüs çıkışındaki mukozanın genellikle arka kenardan çatlaması veya yırtılması
-- ► çatlak
+- çatlak
 ozellikler:
 - - isim
   - tıp

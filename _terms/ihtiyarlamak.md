@@ -5,7 +5,7 @@ slug: ihtiyarlamak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yaşlanmak
+- yaşlanmak
 - Yaşlı görünüşü almak, yaşlı görünmek
 ozellikler:
 - - nesnesiz

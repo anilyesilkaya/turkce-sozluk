@@ -5,8 +5,8 @@ slug: mafevk
 letter: M
 lisan: Arapça māfevḳ
 anlamlar:
-- ► üst
-- ► yukarı
+- üst
+- yukarı
 ozellikler:
 - - isim
   - eskimiş

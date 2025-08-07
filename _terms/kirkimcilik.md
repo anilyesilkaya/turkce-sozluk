@@ -5,7 +5,7 @@ slug: kirkimcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırkıcılık
+- kırkıcılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: menevissiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► haresiz
+- haresiz
 ozellikler:
 - - sıfat
 ornekler:

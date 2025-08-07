@@ -5,7 +5,7 @@ slug: koyut
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ön doğru
+- ön doğru
 ozellikler:
 - - isim
   - matematik

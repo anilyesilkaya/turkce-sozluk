@@ -5,7 +5,7 @@ slug: ruhca
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► ruhen
+- ruhen
 ozellikler:
 - - zarf
 ornekler:

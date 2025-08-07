@@ -8,7 +8,7 @@ anlamlar:
 - Donanmak işi
 - Belli bir amaçla kullanılan gemilerin bütünü
 - Bir devletin deniz kuvvetleri; armada
-- ► donanma gecesi
+- donanma gecesi
 ozellikler:
 - - isim
 - - isim

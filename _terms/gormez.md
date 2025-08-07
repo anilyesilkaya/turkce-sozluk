@@ -5,7 +5,7 @@ slug: gormez
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► görme engelli
+- görme engelli
 - Göremediği (yer)
 ozellikler:
 - - sıfat

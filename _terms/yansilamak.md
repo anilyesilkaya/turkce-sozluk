@@ -5,7 +5,7 @@ slug: yansilamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yansımak
+- yansımak
 - Birinin söylediklerini, yaptıklarını alay ederek tekrarlamak
 ozellikler:
 - - -i

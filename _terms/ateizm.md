@@ -5,7 +5,7 @@ slug: ateizm
 letter: A
 lisan: Fransızca athéisme
 anlamlar:
-- ► tanrıtanımazlık
+- tanrıtanımazlık
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: futurolog
 letter: F
 lisan: Fransızca futurologue
 anlamlar:
-- ► gelecek bilimci
+- gelecek bilimci
 ozellikler:
 - - isim
 ornekler:

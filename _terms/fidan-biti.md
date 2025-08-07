@@ -5,7 +5,7 @@ slug: fidan-biti
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yaprak biti
+- yaprak biti
 ozellikler:
 - - isim
   - hayvan bilimi

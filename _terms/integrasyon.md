@@ -5,7 +5,7 @@ slug: integrasyon
 letter: I
 lisan: Fransızca intégration
 anlamlar:
-- ► integralleme
+- integralleme
 - Bir diferansiyel denklemi çözme işlemi
 ozellikler:
 - - isim

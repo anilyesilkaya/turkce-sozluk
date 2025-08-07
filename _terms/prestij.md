@@ -5,7 +5,7 @@ slug: prestij
 letter: P
 lisan: Fransızca prestige
 anlamlar:
-- ► saygınlık
+- saygınlık
 ozellikler:
 - - isim
 ornekler:

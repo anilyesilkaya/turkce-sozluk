@@ -5,7 +5,7 @@ slug: ic-surme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ishal
+- ishal
 ozellikler:
 - - isim
 ornekler:

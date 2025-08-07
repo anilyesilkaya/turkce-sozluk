@@ -5,7 +5,7 @@ slug: arslanli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aslanlı
+- aslanlı
 - Osmanlı Devleti'nde kullanılan aslan baskılı gümüş sikke
 ozellikler:
 - - sıfat

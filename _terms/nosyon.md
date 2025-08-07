@@ -5,7 +5,7 @@ slug: nosyon
 letter: N
 lisan: Fransızca notion
 anlamlar:
-- ► kavram
+- kavram
 ozellikler:
 - - isim
   - felsefe

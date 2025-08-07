@@ -5,7 +5,7 @@ slug: dayaniklik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dayanıklılık
+- dayanıklılık
 ozellikler:
 - - isim
 ornekler:

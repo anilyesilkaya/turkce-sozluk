@@ -5,7 +5,7 @@ slug: cello
 letter: Ç
 lisan: İtalyanca cello
 anlamlar:
-- ► viyolonsel
+- viyolonsel
 ozellikler:
 - - isim
   - müzik

@@ -5,7 +5,7 @@ slug: yasam-bicimi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat tarzı
+- hayat tarzı
 ozellikler:
 - - isim
 ornekler:

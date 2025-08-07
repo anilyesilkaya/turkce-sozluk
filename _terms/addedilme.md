@@ -5,7 +5,7 @@ slug: addedilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sayılma
+- sayılma
 ozellikler:
 - - isim
 ornekler:

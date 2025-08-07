@@ -5,7 +5,7 @@ slug: hunharcasina
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hunharca
+- hunharca
 ozellikler:
 - - zarf
 ornekler:

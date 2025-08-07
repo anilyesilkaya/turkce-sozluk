@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kısıtlı olma durumu
-- ► kısıt
+- kısıt
 ozellikler:
 - - isim
 - - isim

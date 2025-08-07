@@ -9,7 +9,7 @@ anlamlar:
 - Yapı çatılarında uzun mertek; aşık
 - Aşırılmış
 - Küçük kazan, kova, bakraç
-- ► intihal
+- intihal
 - Özellikle para çalma; aşırtı, ihtilas
 ozellikler:
 - - isim

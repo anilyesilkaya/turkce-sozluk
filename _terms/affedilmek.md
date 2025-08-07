@@ -5,7 +5,7 @@ slug: affedilmek
 letter: A
 lisan: Arapça ʿafv + Türkçe edilmek
 anlamlar:
-- ► bağışlanmak
+- bağışlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

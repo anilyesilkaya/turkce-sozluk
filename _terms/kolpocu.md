@@ -5,7 +5,7 @@ slug: kolpocu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dalavereci
+- dalavereci
 ozellikler:
 - - isim
 ornekler:

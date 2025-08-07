@@ -5,7 +5,7 @@ slug: metodoloji
 letter: M
 lisan: Fransızca méthodologie
 anlamlar:
-- ► yöntem bilimi
+- yöntem bilimi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: beribenzer
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sıradan
+- sıradan
 ozellikler:
 - - sıfat
   - ağızlardan

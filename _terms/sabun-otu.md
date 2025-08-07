@@ -5,7 +5,7 @@ slug: sabun-otu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► çöven
+- çöven
 ozellikler:
 - - isim
   - bitki bilimi

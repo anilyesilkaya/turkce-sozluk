@@ -7,7 +7,7 @@ lisan: Fransızca consolidation
 anlamlar:
 - Yapıları benzer durumda olan nesnelerin birleştirilmesi
 - Firmaların tüzel kişiliklerinin ortadan kaldırılarak yeni bir tüzel kişilikte birleştirilmesi
-- ► süreletme
+- süreletme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: nasrani
 letter: N
 lisan: Arapça naṣrānī
 anlamlar:
-- ► Hristiyan
+- Hristiyan
 ozellikler:
 - - isim
   - din bilimi

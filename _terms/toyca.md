@@ -5,7 +5,7 @@ slug: toyca
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► acemice
+- acemice
 ozellikler:
 - - zarf
 ornekler:

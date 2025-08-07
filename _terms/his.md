@@ -5,7 +5,7 @@ slug: his
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hişt
+- hişt
 ozellikler:
 - - ünlem
   - teklifsiz konuşmada

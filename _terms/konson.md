@@ -5,7 +5,7 @@ slug: konson
 letter: K
 lisan: Fransızca consonne
 anlamlar:
-- ► ünsüz
+- ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

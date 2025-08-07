@@ -5,7 +5,7 @@ slug: otelgarni
 letter: O
 lisan: Fransızca hôtel garni
 anlamlar:
-- ► apart otel
+- apart otel
 ozellikler:
 - - isim
 ornekler:

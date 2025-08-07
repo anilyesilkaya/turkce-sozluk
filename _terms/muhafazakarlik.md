@@ -5,7 +5,7 @@ slug: muhafazakarlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tutuculuk
+- tutuculuk
 ozellikler:
 - - isim
 ornekler:

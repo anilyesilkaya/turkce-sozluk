@@ -5,7 +5,7 @@ slug: dengelem
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bilanço
+- bilanço
 ozellikler:
 - - isim
   - ekonomi

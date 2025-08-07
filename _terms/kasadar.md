@@ -5,7 +5,7 @@ slug: kasadar
 letter: K
 lisan: İtalyanca cassa + Farsça -dār
 anlamlar:
-- ► kasiyer
+- kasiyer
 ozellikler:
 - - isim
 ornekler:

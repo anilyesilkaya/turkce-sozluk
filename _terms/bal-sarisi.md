@@ -5,7 +5,7 @@ slug: bal-sarisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► krem rengi
+- krem rengi
 ozellikler:
 - - isim
 ornekler:

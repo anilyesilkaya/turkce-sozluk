@@ -5,7 +5,7 @@ slug: aktiflestirme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► etkinleştirme
+- etkinleştirme
 ozellikler:
 - - isim
 ornekler:

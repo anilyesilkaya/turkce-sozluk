@@ -5,7 +5,7 @@ slug: yon-eki
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yön gösterme eki
+- yön gösterme eki
 ozellikler:
 - - isim
   - dil bilgisi

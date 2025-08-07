@@ -5,7 +5,7 @@ slug: faydalanabilme
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararlanabilme
+- yararlanabilme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: umumi-efkar
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kamuoyu
+- kamuoyu
 ozellikler:
 - - isim
   - eskimiş

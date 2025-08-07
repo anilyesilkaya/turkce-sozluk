@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca chaos
 anlamlar:
 - Evrenin düzene girmeden önceki biçimden yoksun, uyumsuz ve karışık durumu
-- ► kargaşa
+- kargaşa
 ozellikler:
 - - isim
 - - isim

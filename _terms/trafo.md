@@ -5,7 +5,7 @@ slug: trafo
 letter: T
 lisan: Almanca Trafo
 anlamlar:
-- ► dönüştürücü
+- dönüştürücü
 - Yüksek gerilim hattından aldığı elektriği şehrin şebekesinde kullanılabilecek seviyeye düşüren dönüştürücünün bulunduğu yer
 ozellikler:
 - - isim

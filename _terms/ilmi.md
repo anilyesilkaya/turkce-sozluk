@@ -5,7 +5,7 @@ slug: ilmi
 letter: I
 lisan: Arapça ʿilmī
 anlamlar:
-- ► bilimsel
+- bilimsel
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: itenek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► piston
+- piston
 ozellikler:
 - - isim
 ornekler:

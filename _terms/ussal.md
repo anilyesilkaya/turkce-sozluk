@@ -5,7 +5,7 @@ slug: ussal
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► akli
+- akli
 ozellikler:
 - - sıfat
 ornekler:

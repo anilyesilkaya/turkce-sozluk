@@ -5,7 +5,7 @@ slug: imamet
 letter: I
 lisan: Arapça imāmet
 anlamlar:
-- ► imamlık
+- imamlık
 ozellikler:
 - - isim
   - eskimiş

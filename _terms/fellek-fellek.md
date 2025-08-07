@@ -5,7 +5,7 @@ slug: fellek-fellek
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fellik fellik
+- fellik fellik
 ozellikler:
 - - zarf
 ornekler:

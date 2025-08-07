@@ -5,7 +5,7 @@ slug: atom-numarasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atom sayısı
+- atom sayısı
 ozellikler:
 - - isim
   - kimya

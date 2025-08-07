@@ -5,7 +5,7 @@ slug: ulustaslik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millettaşlık
+- millettaşlık
 ozellikler:
 - - isim
 ornekler:

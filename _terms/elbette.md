@@ -5,9 +5,9 @@ slug: elbette
 letter: E
 lisan: Arapça elbette
 anlamlar:
-- ► tabii
-- ► kuşkusuz
-- ► kesinlikle
+- tabii
+- kuşkusuz
+- kesinlikle
 ozellikler:
 - - zarf
 - - zarf

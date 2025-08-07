@@ -5,7 +5,7 @@ slug: taarruz
 letter: T
 lisan: Arapça taʿarruż
 anlamlar:
-- ► saldırı
+- saldırı
 ozellikler:
 - - isim
 ornekler:

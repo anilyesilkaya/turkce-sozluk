@@ -6,7 +6,7 @@ letter: H
 lisan: Farsça ḫvāce
 anlamlar:
 - Müslümanlıkta din görevlisi
-- ► öğretmen
+- öğretmen
 - Akıl öğreten, öğüt veren kimse
 - Medresede öğrenim görmüş din görevlisi
 ozellikler:

@@ -5,7 +5,7 @@ slug: ittiratsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► düzensizlik
+- düzensizlik
 ozellikler:
 - - isim
 ornekler:

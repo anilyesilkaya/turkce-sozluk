@@ -5,7 +5,7 @@ slug: formatlatmak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► biçimlendirtmek
+- biçimlendirtmek
 ozellikler:
 - - -i
 ornekler:

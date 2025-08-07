@@ -5,7 +5,7 @@ slug: sevi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► aşk
+- aşk
 ozellikler:
 - - isim
 ornekler:

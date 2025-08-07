@@ -5,11 +5,11 @@ slug: aksi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► karşıt
+- karşıt
 - Uygun olmayan
-- ► inatçı
-- ► hırçın
-- ► huysuz
+- inatçı
+- hırçın
+- huysuz
 ozellikler:
 - - sıfat
 - - sıfat

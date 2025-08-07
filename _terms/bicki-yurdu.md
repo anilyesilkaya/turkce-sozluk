@@ -5,7 +5,7 @@ slug: bicki-yurdu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► biçki dikiş yurdu
+- biçki dikiş yurdu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: parapet
 letter: P
 lisan: İtalyanca parapetto
 anlamlar:
-- ► küpeşte
+- küpeşte
 ozellikler:
 - - isim
   - denizcilik

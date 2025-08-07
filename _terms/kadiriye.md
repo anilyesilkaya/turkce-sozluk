@@ -5,7 +5,7 @@ slug: kadiriye
 letter: K
 lisan: Arapça ḳādiriyye
 anlamlar:
-- ► Kadirilik
+- Kadirilik
 ozellikler:
 - - isim
 ornekler:

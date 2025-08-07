@@ -5,7 +5,7 @@ slug: nemse
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► Nemçe
+- Nemçe
 ozellikler:
 - - isim
   - tarih

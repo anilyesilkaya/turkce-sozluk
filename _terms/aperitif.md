@@ -5,7 +5,7 @@ slug: aperitif
 letter: A
 lisan: Fransızca apéritif
 anlamlar:
-- ► ön içki
+- ön içki
 - Yemek öncesinde yenen çerez vb. yiyecek
 ozellikler:
 - - isim

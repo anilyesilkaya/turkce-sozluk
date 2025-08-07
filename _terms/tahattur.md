@@ -5,7 +5,7 @@ slug: tahattur
 letter: T
 lisan: Arapça taḫaṭṭur
 anlamlar:
-- ► anımsama
+- anımsama
 ozellikler:
 - - isim
   - eskimiş

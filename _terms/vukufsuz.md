@@ -5,7 +5,7 @@ slug: vukufsuz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► bilgisiz
+- bilgisiz
 ozellikler:
 - - sıfat
 ornekler:

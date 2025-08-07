@@ -5,7 +5,7 @@ slug: yukun
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iyon
+- iyon
 ozellikler:
 - - isim
   - kimya

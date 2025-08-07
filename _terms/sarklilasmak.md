@@ -5,7 +5,7 @@ slug: sarklilasmak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Doğululaşmak
+- Doğululaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

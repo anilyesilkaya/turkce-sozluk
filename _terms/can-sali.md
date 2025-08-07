@@ -5,7 +5,7 @@ slug: can-sali
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cankurtaran salı
+- cankurtaran salı
 ozellikler:
 - - isim
   - denizcilik

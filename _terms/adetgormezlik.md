@@ -5,7 +5,7 @@ slug: adetgormezlik
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► menopoz
+- menopoz
 ozellikler:
 - - isim
 ornekler:

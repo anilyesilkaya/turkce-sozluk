@@ -5,7 +5,7 @@ slug: tavzif
 letter: T
 lisan: Arapça tavẓīf
 anlamlar:
-- ► görevlendirme
+- görevlendirme
 ozellikler:
 - - isim
   - eskimiş

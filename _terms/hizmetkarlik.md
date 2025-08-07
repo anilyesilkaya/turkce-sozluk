@@ -5,7 +5,7 @@ slug: hizmetkarlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► uşaklık
+- uşaklık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: oykunme
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► taklit
+- taklit
 ozellikler:
 - - isim
 ornekler:

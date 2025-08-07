@@ -6,7 +6,7 @@ letter: B
 lisan: İtalyanca papafigo
 anlamlar:
 - Yelkenli gemilerde direklerin ve gabyanın üstünde bulunan en yüksek bölüm
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - denizcilik

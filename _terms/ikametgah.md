@@ -5,7 +5,7 @@ slug: ikametgah
 letter: I
 lisan: Arapça iḳāmet + Farsça -gāh
 anlamlar:
-- ► konut (I)
+- konut (I)
 ozellikler:
 - - isim
 ornekler:

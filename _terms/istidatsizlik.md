@@ -5,7 +5,7 @@ slug: istidatsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yeteneksizlik
+- yeteneksizlik
 ozellikler:
 - - isim
 ornekler:

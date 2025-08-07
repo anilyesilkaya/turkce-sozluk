@@ -5,7 +5,7 @@ slug: reformcu
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► düzeltmeci
+- düzeltmeci
 ozellikler:
 - - isim
 ornekler:

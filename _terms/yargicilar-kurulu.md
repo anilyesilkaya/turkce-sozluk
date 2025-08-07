@@ -5,7 +5,7 @@ slug: yargicilar-kurulu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hakem heyeti
+- hakem heyeti
 ozellikler:
 - - isim
   - hukuk

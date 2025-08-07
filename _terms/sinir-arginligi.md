@@ -5,7 +5,7 @@ slug: sinir-arginligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► nevrasteni
+- nevrasteni
 ozellikler:
 - - isim
   - ruh bilimi

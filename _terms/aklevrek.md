@@ -5,7 +5,7 @@ slug: aklevrek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tatlısu levreği
+- tatlısu levreği
 ozellikler:
 - - isim
   - hayvan bilimi

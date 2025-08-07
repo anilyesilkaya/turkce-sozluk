@@ -5,8 +5,8 @@ slug: findiki
 letter: F
 lisan: Arapça funduḳī
 anlamlar:
-- ► fındıkkabuğu
-- ► fındık altını
+- fındıkkabuğu
+- fındık altını
 ozellikler:
 - - isim
 - - isim

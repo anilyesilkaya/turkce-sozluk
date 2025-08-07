@@ -5,7 +5,7 @@ slug: teker-tuker
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teker teker
+- teker teker
 ozellikler:
 - - zarf
 ornekler:

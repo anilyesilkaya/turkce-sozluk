@@ -5,7 +5,7 @@ slug: futurizm
 letter: F
 lisan: Fransızca futurisme
 anlamlar:
-- ► gelecekçilik
+- gelecekçilik
 ozellikler:
 - - isim
 ornekler:

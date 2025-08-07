@@ -5,8 +5,8 @@ slug: bengilesme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sonsuzlaşma
-- ► ölümsüzleşme
+- sonsuzlaşma
+- ölümsüzleşme
 ozellikler:
 - - isim
 - - isim

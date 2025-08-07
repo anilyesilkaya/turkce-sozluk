@@ -5,7 +5,7 @@ slug: esekkulagi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► karakafes
+- karakafes
 ozellikler:
 - - isim
   - bitki bilimi

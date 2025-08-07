@@ -5,7 +5,7 @@ slug: sandal-agaci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► koca yemiş
+- koca yemiş
 ozellikler:
 - - isim
   - bitki bilimi

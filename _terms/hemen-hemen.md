@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Nerede ise, az zaman sonra
-- ► aşağı yukarı
+- aşağı yukarı
 ozellikler:
 - - zarf
 - - zarf

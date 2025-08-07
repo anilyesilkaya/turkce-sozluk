@@ -5,7 +5,7 @@ slug: imar
 letter: I
 lisan: Arapça iʿmār
 anlamlar:
-- ► bayındırlık
+- bayındırlık
 ozellikler:
 - - isim
 ornekler:

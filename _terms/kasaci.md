@@ -5,7 +5,7 @@ slug: kasaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► vezneci
+- vezneci
 - Kasa yapan veya satan kimse
 ozellikler:
 - - isim

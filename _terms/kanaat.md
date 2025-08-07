@@ -6,9 +6,9 @@ letter: K
 lisan: Arapça ḳanāʿat
 anlamlar:
 - Elindekinden hoşnut olma durumu, yeter bulma, fazlasını istememe
-- ► yetinme
+- yetinme
 - Birine veya bir şey karşı duyulan güven
-- ► görüş
+- görüş
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: toplumicinci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► toplummerkezci
+- toplummerkezci
 ozellikler:
 - - sıfat
   - felsefe

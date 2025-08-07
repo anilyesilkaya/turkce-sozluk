@@ -6,10 +6,10 @@ letter: P
 lisan: Fransızca programme
 anlamlar:
 - Belirli şartlara ve düzene göre yapılması öngörülen işlemlerin bütünü; izlence
-- ► ders programı
+- ders programı
 - Tören, gösteri, gezi vb.nin öngörülen ayrıntılarını gösteren basılı kâğıt
 - Siyasi partinin, toplumsal örgütün veya hükûmetin açıkladığı ana ilkelerin tümü
-- ► yayın
+- yayın
 - Bilgisayara bir işlemi yaptırmak için yazılan komutlar dizisi
 - Yapılacak bir işin bölümlerini, bölümlerin sırasını ve zamanını gösteren tasarı; yetişek
 ozellikler:

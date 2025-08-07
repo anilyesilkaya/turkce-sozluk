@@ -5,7 +5,7 @@ slug: tasali
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılı
+- kaygılı
 ozellikler:
 - - sıfat
 ornekler:

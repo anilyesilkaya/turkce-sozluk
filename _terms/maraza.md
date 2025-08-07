@@ -5,8 +5,8 @@ slug: maraza
 letter: M
 lisan: Arapça maraża
 anlamlar:
-- ► hastalık
-- ► anlaşmazlık
+- hastalık
+- anlaşmazlık
 ozellikler:
 - - isim
   - ağızlardan

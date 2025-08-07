@@ -5,7 +5,7 @@ slug: gullabici
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güllabi
+- güllabi
 ozellikler:
 - - isim
 ornekler:

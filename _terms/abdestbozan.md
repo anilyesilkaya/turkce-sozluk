@@ -5,7 +5,7 @@ slug: abdestbozan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tenya
+- tenya
 ozellikler:
 - - isim
   - hayvan bilimi

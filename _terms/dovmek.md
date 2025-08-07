@@ -8,7 +8,7 @@ anlamlar:
 - Tokat, yumruk, tekme vurarak canını acıtmak; benzetmek, girişmek, hırpalamak, pataklamak,  silkelemek, sopalamak, ufalamak
 - Çamaşır, halı vb.ni tokaç, sopa gibi şeylerle vurarak temizlemek
 - Bir şeyi toz durumuna getirmek için ezmek
-- ► çırpmak
+- çırpmak
 - Ateşte ısıtılarak yumuşatılmış bir madeni, vurarak istenilen biçime getirmek
 - Topa tutmak
 - Çarpmak, sertçe dokunmak

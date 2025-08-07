@@ -5,7 +5,7 @@ slug: pataklanmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dövülmek
+- dövülmek
 ozellikler:
 - - nesnesiz
 ornekler:

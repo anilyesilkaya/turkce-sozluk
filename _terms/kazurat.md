@@ -5,7 +5,7 @@ slug: kazurat
 letter: K
 lisan: Arapça ḳāẕūrāt
 anlamlar:
-- ► dışkı
+- dışkı
 ozellikler:
 - - isim
   - eskimiş

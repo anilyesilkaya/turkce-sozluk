@@ -5,7 +5,7 @@ slug: yuksek-kan-basinci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hipertansiyon
+- hipertansiyon
 ozellikler:
 - - isim
 ornekler:

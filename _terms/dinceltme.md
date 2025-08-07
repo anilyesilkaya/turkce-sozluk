@@ -5,7 +5,7 @@ slug: dinceltme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dinçleştirme
+- dinçleştirme
 ozellikler:
 - - isim
 ornekler:

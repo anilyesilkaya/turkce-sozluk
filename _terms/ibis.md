@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Orta oyununda çoğu kez aptal uşak rolünü oynayan komedyen
-- ► şapşal
+- şapşal
 ozellikler:
 - - isim
   - tiyatro

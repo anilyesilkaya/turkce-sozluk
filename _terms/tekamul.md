@@ -5,9 +5,9 @@ slug: tekamul
 letter: T
 lisan: Arapça tekāmul
 anlamlar:
-- ► olgunlaşma
-- ► gelişme
-- ► evrim
+- olgunlaşma
+- gelişme
+- evrim
 ozellikler:
 - - isim
   - eskimiş

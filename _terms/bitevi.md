@@ -5,7 +5,7 @@ slug: bitevi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tekdüze
+- tekdüze
 ozellikler:
 - - zarf
 ornekler:

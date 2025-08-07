@@ -5,7 +5,7 @@ slug: mirat
 letter: M
 lisan: Arapça mirʾāt
 anlamlar:
-- ► ayna
+- ayna
 ozellikler:
 - - isim
   - eskimiş

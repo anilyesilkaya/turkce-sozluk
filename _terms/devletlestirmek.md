@@ -5,7 +5,7 @@ slug: devletlestirmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kamulaştırmak
+- kamulaştırmak
 ozellikler:
 - - -i
   - hukuk

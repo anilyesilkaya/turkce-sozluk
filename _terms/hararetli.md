@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Isısı, sıcaklığı fazla olan
-- ► coşkulu
+- coşkulu
 ozellikler:
 - - sıfat
 - - sıfat

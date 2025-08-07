@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sancıya tutulan, sancısı olan
 - Sancı veren
-- ► sıkıntılı
+- sıkıntılı
 ozellikler:
 - - sıfat
 - - sıfat

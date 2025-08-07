@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Taşan bir suyun çekildikten sonra bıraktığı tortu
-- ► çökelti
+- çökelti
 ozellikler:
 - - isim
 - - isim

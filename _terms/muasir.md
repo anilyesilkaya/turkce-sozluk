@@ -5,7 +5,7 @@ slug: muasir
 letter: M
 lisan: Arapça muʿāṣir
 anlamlar:
-- ► çağdaş
+- çağdaş
 ozellikler:
 - - sıfat
 ornekler:

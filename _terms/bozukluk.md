@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bozuk olma durumu; ayıp, halel, kusur, özür, defo, fesat, illet, sakamet, sekte
-- ► bozuk para
+- bozuk para
 ozellikler:
 - - isim
 - - isim

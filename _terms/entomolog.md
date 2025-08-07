@@ -5,7 +5,7 @@ slug: entomolog
 letter: E
 lisan: Fransızca entomologue
 anlamlar:
-- ► böcek bilimci
+- böcek bilimci
 ozellikler:
 - - isim
 ornekler:

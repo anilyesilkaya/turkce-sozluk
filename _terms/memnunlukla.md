@@ -5,7 +5,7 @@ slug: memnunlukla
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► memnuniyetle
+- memnuniyetle
 ozellikler:
 - - zarf
 ornekler:

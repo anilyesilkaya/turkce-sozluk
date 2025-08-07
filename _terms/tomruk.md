@@ -8,8 +8,8 @@ anlamlar:
 - Ağacın kesilerek silindir biçimine getirilmiş gövdesi
 - İşlenmek veya biçilmek için hazırlanmış taş kütlesi
 - Ayak ve ellere geçirilip bağlanan iki parça kütükten meydana gelen işkence aleti
-- ► tomurcuk
-- ► tutukevi
+- tomurcuk
+- tutukevi
 ozellikler:
 - - isim
 - - isim

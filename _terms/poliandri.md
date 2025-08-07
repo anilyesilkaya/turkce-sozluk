@@ -5,7 +5,7 @@ slug: poliandri
 letter: P
 lisan: Fransızca polyandrie
 anlamlar:
-- ► çok kocalılık
+- çok kocalılık
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: odorimetre
 letter: O
 lisan: Fransızca odorimètre
 anlamlar:
-- ► kokuölçer
+- kokuölçer
 ozellikler:
 - - isim
 ornekler:

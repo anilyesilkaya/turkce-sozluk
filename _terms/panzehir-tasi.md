@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Antilop gibi hayvanların midesinde oluşan, zehri önleyici etkisi olan kütle
-- ► opal
+- opal
 ozellikler:
 - - isim
 - - isim

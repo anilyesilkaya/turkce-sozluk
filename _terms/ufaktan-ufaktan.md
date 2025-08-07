@@ -5,7 +5,7 @@ slug: ufaktan-ufaktan
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ufaktan ufağa
+- ufaktan ufağa
 ozellikler:
 - - zarf
   - mecaz

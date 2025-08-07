@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Töreye uygunluk
-- ► ahlakilik
+- ahlakilik
 ozellikler:
 - - isim
 - - isim

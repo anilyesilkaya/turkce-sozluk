@@ -5,9 +5,9 @@ slug: mebde
 letter: M
 lisan: Arapça mebdeʾ
 anlamlar:
-- ► başlangıç
-- ► kaynak (I)
-- ► ilke
+- başlangıç
+- kaynak (I)
+- ilke
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: cidalci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► savaşçı
+- savaşçı
 - Bir düşünce, fikir ve konu üzerinde şiddetle duran, fikirlerini ısrarla savunan, o yolda mücadele eden kimse
 ozellikler:
 - - isim

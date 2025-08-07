@@ -5,7 +5,7 @@ slug: pestamallik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► hava parası
+- hava parası
 - Peştamal olmaya yarayan (dokuma)
 ozellikler:
 - - isim

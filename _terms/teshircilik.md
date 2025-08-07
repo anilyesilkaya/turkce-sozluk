@@ -5,7 +5,7 @@ slug: teshircilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► göstermecilik
+- göstermecilik
 ozellikler:
 - - isim
   - ruh bilimi

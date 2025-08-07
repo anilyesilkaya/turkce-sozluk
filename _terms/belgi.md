@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyi benzerlerinden ayıran özellik
-- ► şiar
+- şiar
 ozellikler:
 - - isim
 - - isim

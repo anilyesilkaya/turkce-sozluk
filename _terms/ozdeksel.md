@@ -5,7 +5,7 @@ slug: ozdeksel
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► maddi, tinsel karşıtı
+- maddi, tinsel karşıtı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: individualist
 letter: I
 lisan: Fransızca individualiste
 anlamlar:
-- ► bireyci
+- bireyci
 ozellikler:
 - - sıfat
   - felsefe

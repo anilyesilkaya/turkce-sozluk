@@ -5,7 +5,7 @@ slug: kafasi-iyi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sarhoş
+- sarhoş
 ozellikler:
 - - sıfat
   - mecaz

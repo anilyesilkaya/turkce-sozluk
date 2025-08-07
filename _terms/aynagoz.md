@@ -5,7 +5,7 @@ slug: aynagoz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açıkgöz
+- açıkgöz
 ozellikler:
 - - sıfat
   - mecaz

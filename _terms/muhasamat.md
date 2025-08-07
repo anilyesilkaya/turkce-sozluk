@@ -5,7 +5,7 @@ slug: muhasamat
 letter: M
 lisan: Arapça muḫāṣamāt
 anlamlar:
-- ► düşmanlık
+- düşmanlık
 - Savaşta çarpışma
 ozellikler:
 - - isim

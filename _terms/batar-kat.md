@@ -5,7 +5,7 @@ slug: batar-kat
 letter: B
 lisan: Rumca + Türkçe kat
 anlamlar:
-- ► asma kat
+- asma kat
 ozellikler:
 - - isim
 ornekler:

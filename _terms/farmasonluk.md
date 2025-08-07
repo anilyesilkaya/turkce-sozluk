@@ -5,7 +5,7 @@ slug: farmasonluk
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► masonluk
+- masonluk
 ozellikler:
 - - isim
 ornekler:

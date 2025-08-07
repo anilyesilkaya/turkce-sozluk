@@ -5,7 +5,7 @@ slug: as-dami
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► mutfak
+- mutfak
 ozellikler:
 - - isim
   - ağızlardan

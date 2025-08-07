@@ -5,7 +5,7 @@ slug: gecim-derdi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçim sıkıntısı
+- geçim sıkıntısı
 ozellikler:
 - - isim
 ornekler:

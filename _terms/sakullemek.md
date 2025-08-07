@@ -6,7 +6,7 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Çekülle düşey doğrultusuna bakmak; şavullamak
-- ► yoklamak
+- yoklamak
 ozellikler:
 - - -i
   - eskimiş

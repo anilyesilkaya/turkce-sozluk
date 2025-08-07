@@ -5,7 +5,7 @@ slug: notasyon
 letter: N
 lisan: Fransızca notation
 anlamlar:
-- ► notalama
+- notalama
 ozellikler:
 - - isim
   - müzik

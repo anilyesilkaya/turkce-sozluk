@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kakışmak işi
-- ► ses uyumsuzluğu
+- ses uyumsuzluğu
 ozellikler:
 - - isim
 - - isim

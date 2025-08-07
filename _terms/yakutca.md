@@ -5,7 +5,7 @@ slug: yakutca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yakut Türkçesi
+- Yakut Türkçesi
 ozellikler:
 - - isim
 ornekler:

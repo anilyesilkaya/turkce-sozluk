@@ -5,7 +5,7 @@ slug: sumugumsu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sümüksü
+- sümüksü
 ozellikler:
 - - sıfat
 ornekler:

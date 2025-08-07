@@ -5,7 +5,7 @@ slug: e-dergi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik dergi
+- elektronik dergi
 ozellikler:
 - - isim
 ornekler:

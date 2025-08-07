@@ -5,7 +5,7 @@ slug: plastik-ameliyat
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► plastik cerrahi
+- plastik cerrahi
 ozellikler:
 - - isim
 ornekler:

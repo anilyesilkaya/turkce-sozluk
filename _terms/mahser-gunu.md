@@ -5,7 +5,7 @@ slug: mahser-gunu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kıyamet
+- kıyamet
 ozellikler:
 - - isim
   - din bilimi

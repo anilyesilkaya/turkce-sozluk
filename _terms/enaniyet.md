@@ -5,7 +5,7 @@ slug: enaniyet
 letter: E
 lisan: Arapça enāiyyet
 anlamlar:
-- ► bencillik
+- bencillik
 ozellikler:
 - - isim
   - eskimiş

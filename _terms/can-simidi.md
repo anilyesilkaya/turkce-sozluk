@@ -5,7 +5,7 @@ slug: can-simidi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cankurtaran simidi
+- cankurtaran simidi
 ozellikler:
 - - isim
 ornekler:

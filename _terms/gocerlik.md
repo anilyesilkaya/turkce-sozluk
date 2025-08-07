@@ -5,7 +5,7 @@ slug: gocerlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göçebelik
+- göçebelik
 ozellikler:
 - - isim
 ornekler:

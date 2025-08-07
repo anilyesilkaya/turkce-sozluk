@@ -5,7 +5,7 @@ slug: tumturakli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gösterişli
+- gösterişli
 - Anlama bir şey katmayan, bir anlam bildirmeyen ancak kulağa hoş gelen
 ozellikler:
 - - sıfat

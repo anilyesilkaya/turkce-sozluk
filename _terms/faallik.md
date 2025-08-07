@@ -5,7 +5,7 @@ slug: faallik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► etkinlik
+- etkinlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tasalanabilme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılanabilme
+- kaygılanabilme
 ozellikler:
 - - isim
 ornekler:

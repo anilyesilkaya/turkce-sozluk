@@ -5,7 +5,7 @@ slug: sovusmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► küfürleşmek
+- küfürleşmek
 ozellikler:
 - - nesnesiz
   - -le

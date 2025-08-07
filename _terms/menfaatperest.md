@@ -5,7 +5,7 @@ slug: menfaatperest
 letter: M
 lisan: Arapça menfaʿat + Farsça -perest
 anlamlar:
-- ► çıkarcı
+- çıkarcı
 ozellikler:
 - - sıfat
   - eskimiş

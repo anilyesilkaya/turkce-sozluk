@@ -8,7 +8,7 @@ anlamlar:
 - Yeni olma durumu
 - Yeni olan bir şeyin özelliği
 - Eskimiş, zararlı veya yetersiz sayılan şeyleri yeni, yararlı ve yeterli olanlarıyla değiştirme; teceddüt
-- ► yenileşim
+- yenileşim
 ozellikler:
 - - isim
 - - isim

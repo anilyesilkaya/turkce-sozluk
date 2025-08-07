@@ -6,9 +6,9 @@ letter: T
 lisan: Arapça tevḥīd
 anlamlar:
 - Allah'ın birliğine inanma, bir sayma, bir olarak bakma
-- ► tek tanrıcılık
+- tek tanrıcılık
 - Divan edebiyatında Allah'ı övmek için yazılan manzume
-- ► birleştirme
+- birleştirme
 ozellikler:
 - - isim
   - din bilimi

@@ -5,7 +5,7 @@ slug: yapisik-ceneliler
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► çengel çeneliler
+- çengel çeneliler
 ozellikler:
 - - isim
   - hayvan bilimi

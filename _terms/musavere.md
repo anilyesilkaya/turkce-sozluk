@@ -5,7 +5,7 @@ slug: musavere
 letter: M
 lisan: Arapça muşāvere
 anlamlar:
-- ► danışma
+- danışma
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cāhil
 anlamlar:
 - Öğrenim görmemiş, okumamış
-- ► bilgisiz
+- bilgisiz
 - Deneyimsiz, toy olan (delikanlı veya kız)
 ozellikler:
 - - sıfat

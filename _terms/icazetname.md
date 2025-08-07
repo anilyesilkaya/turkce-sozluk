@@ -7,7 +7,7 @@ lisan: Arapça icāzet + Farsça nāme
 anlamlar:
 - Herhangi bir konuda verilen izin belgesi
 - Yapılan herhangi bir iş için verilen onay belgesi
-- ► diploma
+- diploma
 ozellikler:
 - - isim
   - eskimiş

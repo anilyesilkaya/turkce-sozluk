@@ -5,7 +5,7 @@ slug: mihrak
 letter: M
 lisan: Arapça miḥrāḳ
 anlamlar:
-- ► odak
+- odak
 ozellikler:
 - - isim
   - eskimiş

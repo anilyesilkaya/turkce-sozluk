@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek; ağ (I), fak, komplo
-- ► aldangıç
+- aldangıç
 - Birini güç ve tehlikeli bir duruma düşürmek için kurulan düzen; ağ, komplo
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: halk
 letter: H
 lisan: Arapça ḫalḳ
 anlamlar:
-- ► yaratma
+- yaratma
 ozellikler:
 - - isim
   - eskimiş

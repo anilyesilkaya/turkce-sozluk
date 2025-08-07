@@ -5,7 +5,7 @@ slug: hidrofilik
 letter: H
 lisan: Fransızca hydrophilic
 anlamlar:
-- ► sucul
+- sucul
 ozellikler:
 - - sıfat
 ornekler:

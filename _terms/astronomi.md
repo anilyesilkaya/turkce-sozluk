@@ -5,7 +5,7 @@ slug: astronomi
 letter: A
 lisan: Fransızca astronomie
 anlamlar:
-- ► gök bilimi
+- gök bilimi
 ozellikler:
 - - isim
 ornekler:

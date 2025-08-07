@@ -5,7 +5,7 @@ slug: kelam-i-kadim
 letter: K
 lisan: Arapça kelām + ḳadīm
 anlamlar:
-- ► Kur'an
+- Kur'an
 ozellikler:
 - - isim
   - din bilimi

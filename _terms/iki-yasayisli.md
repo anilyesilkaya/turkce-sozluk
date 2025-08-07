@@ -5,7 +5,7 @@ slug: iki-yasayisli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iki yaşamlı
+- iki yaşamlı
 ozellikler:
 - - sıfat
   - biyoloji

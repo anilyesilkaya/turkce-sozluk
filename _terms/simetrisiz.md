@@ -5,7 +5,7 @@ slug: simetrisiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bakışımsız
+- bakışımsız
 ozellikler:
 - - sıfat
 ornekler:

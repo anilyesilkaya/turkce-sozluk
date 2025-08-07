@@ -10,7 +10,7 @@ anlamlar:
 - Sunulan bir şeyi, armağanı alma
 - Bir öneriyi uygun bulma
 - Bir yere alınma
-- ► akseptans
+- akseptans
 ozellikler:
 - - isim
 - - isim

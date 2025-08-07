@@ -5,7 +5,7 @@ slug: kilic-alayi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kılıç kuşanma
+- kılıç kuşanma
 ozellikler:
 - - isim
   - eskimiş

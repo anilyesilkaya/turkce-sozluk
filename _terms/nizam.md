@@ -5,8 +5,8 @@ slug: nizam
 letter: N
 lisan: Arapça niẓām
 anlamlar:
-- ► düzen
-- ► kural
+- düzen
+- kural
 ozellikler:
 - - isim
 - - isim

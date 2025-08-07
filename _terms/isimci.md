@@ -5,7 +5,7 @@ slug: isimci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adcı
+- adcı
 ozellikler:
 - - sıfat
   - felsefe

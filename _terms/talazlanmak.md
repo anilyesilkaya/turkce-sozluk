@@ -5,7 +5,7 @@ slug: talazlanmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dalgalanmak
+- dalgalanmak
 - İpekli kumaşların örselenmesiyle yüzündeki tellerde kabarıklık oluşmak
 ozellikler:
 - - nesnesiz

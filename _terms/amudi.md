@@ -5,7 +5,7 @@ slug: amudi
 letter: A
 lisan: Arapça ʿamūdī
 anlamlar:
-- ► dikey
+- dikey
 ozellikler:
 - - sıfat
   - eskimiş

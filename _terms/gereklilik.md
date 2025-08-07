@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gerekli olma durumu; lüzumluluk, zarurilik
-- ► zorunluluk
+- zorunluluk
 ozellikler:
 - - isim
 - - isim

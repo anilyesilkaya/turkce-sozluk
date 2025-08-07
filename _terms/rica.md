@@ -5,7 +5,7 @@ slug: rica
 letter: R
 lisan: Arapça recā
 anlamlar:
-- ► dileme
+- dileme
 ozellikler:
 - - isim
 ornekler:

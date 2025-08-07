@@ -5,7 +5,7 @@ slug: yan-tesir
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yan etki
+- yan etki
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kademhane
 letter: K
 lisan: Arapça ḳadem + Farsça ḫāne
 anlamlar:
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
   - eskimiş

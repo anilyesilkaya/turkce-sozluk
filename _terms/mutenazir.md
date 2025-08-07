@@ -5,7 +5,7 @@ slug: mutenazir
 letter: M
 lisan: Arapça mutenāẓir
 anlamlar:
-- ► bakışımlı
+- bakışımlı
 ozellikler:
 - - sıfat
   - eskimiş

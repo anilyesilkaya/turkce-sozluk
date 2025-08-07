@@ -5,7 +5,7 @@ slug: havalename
 letter: H
 lisan: Arapça ḥavāle + Farsça nāme
 anlamlar:
-- ► havale
+- havale
 ozellikler:
 - - isim
   - eskimiş

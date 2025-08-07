@@ -5,7 +5,7 @@ slug: kayinbabalik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaynatalık
+- kaynatalık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fason-mal
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fason
+- fason
 ozellikler:
 - - isim
   - ticaret

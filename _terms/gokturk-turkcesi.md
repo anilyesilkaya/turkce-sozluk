@@ -5,7 +5,7 @@ slug: gokturk-turkcesi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Köktürk Türkçesi
+- Köktürk Türkçesi
 ozellikler:
 - - isim
 ornekler:

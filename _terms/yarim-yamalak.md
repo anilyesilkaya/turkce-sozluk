@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Kusurlu, eksik olan; çat pat
-- ► üstünkörü
+- üstünkörü
 ozellikler:
 - - sıfat
 - - sıfat

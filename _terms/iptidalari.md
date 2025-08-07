@@ -5,7 +5,7 @@ slug: iptidalari
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► önceleri
+- önceleri
 ozellikler:
 - - zarf
   - eskimiş

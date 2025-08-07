@@ -5,7 +5,7 @@ slug: oniks
 letter: O
 lisan: Fransızca onyx
 anlamlar:
-- ► balgam taşı
+- balgam taşı
 ozellikler:
 - - isim
   - mineraloji

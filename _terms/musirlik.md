@@ -5,7 +5,7 @@ slug: musirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mareşallik
+- mareşallik
 ozellikler:
 - - isim
 ornekler:

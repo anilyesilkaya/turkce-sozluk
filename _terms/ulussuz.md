@@ -5,7 +5,7 @@ slug: ulussuz
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletsiz
+- milletsiz
 ozellikler:
 - - sıfat
 ornekler:

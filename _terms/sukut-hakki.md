@@ -5,7 +5,7 @@ slug: sukut-hakki
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sus payı
+- sus payı
 ozellikler:
 - - isim
   - hukuk

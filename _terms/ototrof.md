@@ -5,7 +5,7 @@ slug: ototrof
 letter: O
 lisan: Fransızca autotrophe
 anlamlar:
-- ► özbeslenen
+- özbeslenen
 ozellikler:
 - - sıfat
   - biyoloji

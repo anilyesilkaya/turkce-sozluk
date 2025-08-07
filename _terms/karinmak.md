@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Sallanarak karışmak
-- ► çiftleşmek
+- çiftleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

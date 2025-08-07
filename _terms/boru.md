@@ -5,7 +5,7 @@ slug: boru
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kurt (I)
+- kurt (I)
 ozellikler:
 - - isim
 ornekler:

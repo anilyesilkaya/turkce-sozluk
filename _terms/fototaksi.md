@@ -5,7 +5,7 @@ slug: fototaksi
 letter: F
 lisan: Fransızca phototaxie
 anlamlar:
-- ► ışığa göçüm
+- ışığa göçüm
 ozellikler:
 - - isim
   - bitki bilimi

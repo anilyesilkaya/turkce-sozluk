@@ -5,7 +5,7 @@ slug: tevabi
 letter: T
 lisan: Arapça tevābiʿ
 anlamlar:
-- ► maiyet
+- maiyet
 ozellikler:
 - - isim
   - eskimiş

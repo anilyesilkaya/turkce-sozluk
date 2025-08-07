@@ -5,7 +5,7 @@ slug: debdebesiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► görkemsiz
+- görkemsiz
 ozellikler:
 - - sıfat
 ornekler:

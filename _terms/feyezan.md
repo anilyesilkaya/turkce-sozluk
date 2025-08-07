@@ -5,8 +5,8 @@ slug: feyezan
 letter: F
 lisan: Arapça feyeżān
 anlamlar:
-- ► su baskını
-- ► bereket
+- su baskını
+- bereket
 ozellikler:
 - - isim
   - eskimiş

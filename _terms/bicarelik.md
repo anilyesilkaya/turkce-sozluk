@@ -5,8 +5,8 @@ slug: bicarelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çaresizlik
-- ► zavallılık
+- çaresizlik
+- zavallılık
 ozellikler:
 - - isim
 - - isim

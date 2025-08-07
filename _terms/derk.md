@@ -5,7 +5,7 @@ slug: derk
 letter: D
 lisan: Arapça derk
 anlamlar:
-- ► anlama
+- anlama
 ozellikler:
 - - isim
   - eskimiş

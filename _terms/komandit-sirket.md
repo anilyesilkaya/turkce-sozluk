@@ -5,7 +5,7 @@ slug: komandit-sirket
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► komandit ortaklık
+- komandit ortaklık
 ozellikler:
 - - isim
   - ticaret

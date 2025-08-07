@@ -5,7 +5,7 @@ slug: mani
 letter: M
 lisan: Arapça māniʿ
 anlamlar:
-- ► engel
+- engel
 ozellikler:
 - - isim
 ornekler:

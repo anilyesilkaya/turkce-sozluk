@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça berrāḳ
 anlamlar:
 - Bulanık, kirli olmayan
-- ► duru
+- duru
 - Pürüzsüz, kulağa hoş gelen (ses)
 - Açık seçik, net olan
 ozellikler:

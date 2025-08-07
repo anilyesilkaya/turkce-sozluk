@@ -5,8 +5,8 @@ slug: zamkinos
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zımbırtı
-- ► metres
+- zımbırtı
+- metres
 - Kaçıp savuşma
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: kalic
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► orak
+- orak
 ozellikler:
 - - isim
   - ağızlardan

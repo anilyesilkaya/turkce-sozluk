@@ -5,7 +5,7 @@ slug: aktualist
 letter: A
 lisan: Fransızca actualiste
 anlamlar:
-- ► edimselci
+- edimselci
 ozellikler:
 - - sıfat
   - felsefe

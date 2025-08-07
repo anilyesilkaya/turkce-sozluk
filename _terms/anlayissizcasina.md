@@ -5,7 +5,7 @@ slug: anlayissizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anlayışsızca
+- anlayışsızca
 ozellikler:
 - - zarf
 ornekler:

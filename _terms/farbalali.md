@@ -5,7 +5,7 @@ slug: farbalali
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fırfırlı
+- fırfırlı
 ozellikler:
 - - sıfat
 ornekler:

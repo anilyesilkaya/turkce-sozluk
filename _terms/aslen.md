@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça aṣlen
 anlamlar:
 - Kök veya soy bakımından
-- ► aslında
+- aslında
 ozellikler:
 - - zarf
 - - zarf

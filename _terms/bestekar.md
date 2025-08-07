@@ -5,7 +5,7 @@ slug: bestekar
 letter: B
 lisan: Farsça bestekâr
 anlamlar:
-- ► besteci
+- besteci
 ozellikler:
 - - isim
   - müzik

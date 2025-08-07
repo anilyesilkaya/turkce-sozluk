@@ -5,7 +5,7 @@ slug: hedonizm
 letter: H
 lisan: Fransızca hédonisme
 anlamlar:
-- ► hazcılık
+- hazcılık
 ozellikler:
 - - isim
   - felsefe

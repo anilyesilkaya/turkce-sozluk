@@ -5,7 +5,7 @@ slug: eroinman
 letter: E
 lisan: Fransızca héroïnomane
 anlamlar:
-- ► eroinci
+- eroinci
 ozellikler:
 - - isim
 ornekler:

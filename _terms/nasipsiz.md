@@ -5,7 +5,7 @@ slug: nasipsiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kısmetsiz
+- kısmetsiz
 - İstediğine ulaşamayan
 ozellikler:
 - - sıfat

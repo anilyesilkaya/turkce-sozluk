@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca sublimé
 anlamlar:
 - Süblimleştirme yoluyla elde edilen ürün
-- ► ak sülümen
+- ak sülümen
 ozellikler:
 - - isim
   - kimya

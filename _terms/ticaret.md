@@ -8,7 +8,7 @@ anlamlar:
 - Ürün, mal vb. alım satımı; tecim
 - Kazanç amacıyla yürütülen alım satım etkinliği; tecim
 - Bu etkinlikle ilgili bilim
-- ► kâr
+- kâr
 ozellikler:
 - - isim
 - - isim

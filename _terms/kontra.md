@@ -6,7 +6,7 @@ letter: K
 lisan: İtalyanca contra
 anlamlar:
 - Karşıt, karşı, aksi
-- ► kontrplak
+- kontrplak
 ozellikler:
 - - sıfat
 - - sıfat

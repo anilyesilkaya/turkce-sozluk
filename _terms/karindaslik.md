@@ -5,7 +5,7 @@ slug: karindaslik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kardeşlik
+- kardeşlik
 ozellikler:
 - - isim
   - eskimiş

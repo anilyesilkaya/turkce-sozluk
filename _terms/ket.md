@@ -5,7 +5,7 @@ slug: ket
 letter: K
 lisan: Ermenice
 anlamlar:
-- ► engel
+- engel
 ozellikler:
 - - isim
 ornekler:

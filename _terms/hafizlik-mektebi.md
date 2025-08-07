@@ -5,7 +5,7 @@ slug: hafizlik-mektebi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hafızlık okulu
+- hafızlık okulu
 ozellikler:
 - - isim
 ornekler:

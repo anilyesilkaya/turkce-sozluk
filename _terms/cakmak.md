@@ -14,7 +14,7 @@ anlamlar:
 - Sezinlemek, anlamak, farkına varmak
 - İçki içmek
 - Anlamak, bilmek
-- ► vurmak
+- vurmak
 - Sınavda başarısız olmak
 - Kabul etmeyeceği bir şeyi kurnazlıkla kabul etmesini sağlamak
 ozellikler:

@@ -5,7 +5,7 @@ slug: sarkci
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Doğucu
+- Doğucu
 ozellikler:
 - - isim
 ornekler:

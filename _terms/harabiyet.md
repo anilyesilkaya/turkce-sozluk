@@ -5,7 +5,7 @@ slug: harabiyet
 letter: H
 lisan: Arapça ḫarābiyet
 anlamlar:
-- ► haraplık
+- haraplık
 ozellikler:
 - - isim
 ornekler:

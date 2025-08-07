@@ -5,8 +5,8 @@ slug: cevgen
 letter: Ç
 lisan: Farsça çevgān
 anlamlar:
-- ► değnek
-- ► polo
+- değnek
+- polo
 ozellikler:
 - - isim
 - - isim

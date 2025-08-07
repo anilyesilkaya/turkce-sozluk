@@ -7,7 +7,7 @@ lisan: Arapça mefʿūl
 anlamlar:
 - Yapılmış, işlenmiş
 - Bir işin etkisinde olan
-- ► tümleç
+- tümleç
 ozellikler:
 - - sıfat
   - eskimiş

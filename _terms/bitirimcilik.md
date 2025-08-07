@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirimcinin yaptığı iş
-- ► kumarbazlık
+- kumarbazlık
 ozellikler:
 - - isim
 - - isim

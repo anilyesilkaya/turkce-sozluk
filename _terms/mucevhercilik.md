@@ -5,7 +5,7 @@ slug: mucevhercilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kuyumculuk
+- kuyumculuk
 ozellikler:
 - - isim
 ornekler:

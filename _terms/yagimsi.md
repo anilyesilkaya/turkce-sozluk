@@ -5,7 +5,7 @@ slug: yagimsi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yağsı
+- yağsı
 ozellikler:
 - - sıfat
 ornekler:

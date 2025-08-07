@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca slogan + Farsça vārī
 anlamlar:
 - Slogana benzer
-- ► basmakalıp
+- basmakalıp
 ozellikler:
 - - sıfat
 - - sıfat

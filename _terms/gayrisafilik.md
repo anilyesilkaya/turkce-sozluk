@@ -5,7 +5,7 @@ slug: gayrisafilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► karışıklık
+- karışıklık
 ozellikler:
 - - isim
 ornekler:

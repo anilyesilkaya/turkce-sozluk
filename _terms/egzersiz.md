@@ -5,7 +5,7 @@ slug: egzersiz
 letter: E
 lisan: Fransızca exercice
 anlamlar:
-- ► alıştırma
+- alıştırma
 ozellikler:
 - - isim
   - spor

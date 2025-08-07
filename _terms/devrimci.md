@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Belli bir alanda hızlı, köklü ve nitelikli değişiklik yapan kimse
-- ► ihtilalci
-- ► inkılapçı
+- ihtilalci
+- inkılapçı
 ozellikler:
 - - isim
 - - isim

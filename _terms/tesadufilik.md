@@ -5,7 +5,7 @@ slug: tesadufilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► rastlantısallık
+- rastlantısallık
 ozellikler:
 - - isim
 ornekler:

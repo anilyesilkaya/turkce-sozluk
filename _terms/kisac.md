@@ -5,7 +5,7 @@ slug: kisac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıskaç
+- kıskaç
 ozellikler:
 - - isim
 ornekler:

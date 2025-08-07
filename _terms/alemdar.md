@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿalem + Farsça -dār
 anlamlar:
 - Bayrağı veya sancağı taşıyan kimse
-- ► önder
+- önder
 ozellikler:
 - - isim
 - - isim

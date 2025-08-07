@@ -5,7 +5,7 @@ slug: kazanli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kahramankazanlı
+- Kahramankazanlı
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Geleneği olan, geleneklere dayanan; ananeli
-- ► geleneksel
+- geleneksel
 ozellikler:
 - - sıfat
 - - sıfat

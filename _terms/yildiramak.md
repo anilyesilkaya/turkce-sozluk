@@ -5,7 +5,7 @@ slug: yildiramak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► parıldamak
+- parıldamak
 ozellikler:
 - - nesnesiz
   - ağızlardan

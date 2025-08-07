@@ -5,7 +5,7 @@ slug: lades-oyunu
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lades
+- lades
 ozellikler:
 - - isim
 ornekler:

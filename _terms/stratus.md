@@ -5,7 +5,7 @@ slug: stratus
 letter: S
 lisan: Latince
 anlamlar:
-- ► katman bulut
+- katman bulut
 ozellikler:
 - - isim
   - meteoroloji

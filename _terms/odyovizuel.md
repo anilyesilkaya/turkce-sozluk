@@ -5,7 +5,7 @@ slug: odyovizuel
 letter: O
 lisan: Fransızca audio-visuel
 anlamlar:
-- ► görsel-işitsel
+- görsel-işitsel
 ozellikler:
 - - sıfat
 ornekler:

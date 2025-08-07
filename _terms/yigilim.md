@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yığılmak işi
-- ► stok
+- stok
 - Organizmada zararlı maddelerin birikmesi
 ozellikler:
 - - isim

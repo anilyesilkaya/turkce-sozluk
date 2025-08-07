@@ -5,7 +5,7 @@ slug: konkav
 letter: K
 lisan: Fransızca concave
 anlamlar:
-- ► içbükey
+- içbükey
 ozellikler:
 - - sıfat
   - matematik

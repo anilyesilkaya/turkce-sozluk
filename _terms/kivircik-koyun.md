@@ -5,7 +5,7 @@ slug: kivircik-koyun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıvırcık
+- kıvırcık
 ozellikler:
 - - isim
   - hayvan bilimi

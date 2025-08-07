@@ -5,7 +5,7 @@ slug: enformatik
 letter: E
 lisan: Fransızca informatique
 anlamlar:
-- ► bilişim
+- bilişim
 ozellikler:
 - - isim
 ornekler:

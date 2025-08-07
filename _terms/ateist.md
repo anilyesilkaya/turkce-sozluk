@@ -5,7 +5,7 @@ slug: ateist
 letter: A
 lisan: Fransızca athéiste
 anlamlar:
-- ► tanrıtanımaz
+- tanrıtanımaz
 ozellikler:
 - - sıfat
   - felsefe

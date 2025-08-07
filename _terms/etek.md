@@ -11,7 +11,7 @@ anlamlar:
 - Çadır, kanepe örtüsü gibi kumaştan olan şeylerin yere sarkan bölümü
 - Dağ, tepe, yığın vb. yamaçlı şeylerin alt bölümü
 - Yağmur sularının, çatının bazı yerlerinden içeri sızmasını önlemek için yapılan saç örtü
-- ► edep yeri
+- edep yeri
 ozellikler:
 - - isim
 - - isim

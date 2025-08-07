@@ -5,7 +5,7 @@ slug: gayriihtiyari
 letter: G
 lisan: Arapça ġayr + iḫtiyārī
 anlamlar:
-- ► istem dışı
+- istem dışı
 ozellikler:
 - - zarf
 ornekler:

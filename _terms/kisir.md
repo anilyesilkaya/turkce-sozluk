@@ -5,7 +5,7 @@ slug: kisir
 letter: K
 lisan: Arapça ḳişr
 anlamlar:
-- ► kabuk
+- kabuk
 ozellikler:
 - - isim
   - eskimiş

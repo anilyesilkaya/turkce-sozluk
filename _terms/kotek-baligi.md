@@ -5,7 +5,7 @@ slug: kotek-baligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gölge balığı
+- gölge balığı
 ozellikler:
 - - isim
   - hayvan bilimi

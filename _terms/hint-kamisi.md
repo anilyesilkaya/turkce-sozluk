@@ -5,7 +5,7 @@ slug: hint-kamisi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bambu
+- bambu
 ozellikler:
 - - isim
   - bitki bilimi

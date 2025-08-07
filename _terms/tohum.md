@@ -8,7 +8,7 @@ anlamlar:
 - Bitkilerde döllenme sonunda yumurtacıktan oluşan ve yeni bir bitki oluşmasını sağlayan tane; ekecek
 - Soy sop, döl, nesil, sülale
 - Ortaya bir sonuç çıkaran, bir sonucun oluşmasına sebep olan şey
-- ► spermatozoit
+- spermatozoit
 ozellikler:
 - - isim
   - bitki bilimi

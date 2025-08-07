@@ -5,7 +5,7 @@ slug: e-icerik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik içerik
+- elektronik içerik
 ozellikler:
 - - isim
 ornekler:

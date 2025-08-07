@@ -5,7 +5,7 @@ slug: endisesiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygısız
+- kaygısız
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Yakın çevre
-- ► bayır
+- bayır
 - Kıraç toprak
 - Birbirine paralel olarak uzanan iki akarsu arasında kalmış dağ sırtı
 ozellikler:

@@ -5,7 +5,7 @@ slug: mankafa
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalı
+- kalın kafalı
 - Sakağı hastalığına tutulmuş (at)
 ozellikler:
 - - sıfat

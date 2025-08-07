@@ -5,7 +5,7 @@ slug: solidarizm
 letter: S
 lisan: Fransızca solidarisme
 anlamlar:
-- ► dayanışmacılık
+- dayanışmacılık
 ozellikler:
 - - isim
   - toplum bilimi

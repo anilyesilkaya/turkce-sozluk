@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Peyk olma durumu
-- ► uyduluk
+- uyduluk
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: monoteist
 letter: M
 lisan: Fransızca monothéiste
 anlamlar:
-- ► tek tanrıcı
+- tek tanrıcı
 ozellikler:
 - - sıfat
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: handiyse
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► neredeyse
+- neredeyse
 ozellikler:
 - - zarf
 ornekler:

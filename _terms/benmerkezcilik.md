@@ -5,7 +5,7 @@ slug: benmerkezcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beniçincilik
+- beniçincilik
 ozellikler:
 - - isim
   - felsefe

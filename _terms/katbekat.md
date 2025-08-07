@@ -5,7 +5,7 @@ slug: katbekat
 letter: K
 lisan: Türkçe kat + Farsça -be + Türkçe kat
 anlamlar:
-- ► kat kat
+- kat kat
 ozellikler:
 - - zarf
   - eskimiş

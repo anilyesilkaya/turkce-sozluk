@@ -5,7 +5,7 @@ slug: cilenti
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► serpinti
+- serpinti
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gipta
 letter: G
 lisan: Arapça ġibṭa
 anlamlar:
-- ► imrenme
+- imrenme
 ozellikler:
 - - isim
 ornekler:

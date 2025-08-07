@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Duru olma durumu
 - Dil veya üslubun karışık olmama durumu
-- ► açıklık
+- açıklık
 ozellikler:
 - - isim
 - - isim

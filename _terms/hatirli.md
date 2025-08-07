@@ -5,7 +5,7 @@ slug: hatirli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygın
+- saygın
 ozellikler:
 - - sıfat
 ornekler:

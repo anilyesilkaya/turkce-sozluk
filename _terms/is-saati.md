@@ -5,7 +5,7 @@ slug: is-saati
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çalışma saati
+- çalışma saati
 ozellikler:
 - - isim
 ornekler:

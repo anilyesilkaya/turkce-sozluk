@@ -5,7 +5,7 @@ slug: icikizil
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çayır mantarı
+- çayır mantarı
 ozellikler:
 - - isim
   - bitki bilimi

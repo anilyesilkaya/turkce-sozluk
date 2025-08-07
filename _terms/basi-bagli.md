@@ -5,7 +5,7 @@ slug: basi-bagli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başı kapalı
+- başı kapalı
 - Evli veya nişanlı olan (kimse)
 ozellikler:
 - - sıfat

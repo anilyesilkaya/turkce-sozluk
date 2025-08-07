@@ -5,7 +5,7 @@ slug: endustriyalizm
 letter: E
 lisan: Fransızca industrialisme
 anlamlar:
-- ► sanayicilik
+- sanayicilik
 ozellikler:
 - - isim
 ornekler:

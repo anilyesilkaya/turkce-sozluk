@@ -5,7 +5,7 @@ slug: kadin-hareketi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► feminizm
+- feminizm
 ozellikler:
 - - isim
   - toplum bilimi

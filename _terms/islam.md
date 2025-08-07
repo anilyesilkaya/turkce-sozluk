@@ -5,7 +5,7 @@ slug: islam
 letter: İ
 lisan: Arapça islām
 anlamlar:
-- ► Müslümanlık
+- Müslümanlık
 ozellikler:
 - - isim
   - din bilimi

@@ -5,7 +5,7 @@ slug: gunes-kolektoru
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güneş enerjisi
+- güneş enerjisi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mango
 letter: M
 lisan: Portekizce manga
 anlamlar:
-- ► Hint kirazı
+- Hint kirazı
 ozellikler:
 - - isim
   - bitki bilimi

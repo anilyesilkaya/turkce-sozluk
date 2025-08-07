@@ -5,7 +5,7 @@ slug: zeban
 letter: Z
 lisan: Farsça zebān
 anlamlar:
-- ► dil (I)
+- dil (I)
 ozellikler:
 - - isim
   - eskimiş

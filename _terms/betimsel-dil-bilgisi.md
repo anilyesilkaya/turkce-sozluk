@@ -5,7 +5,7 @@ slug: betimsel-dil-bilgisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► betimlemeli dil bilgisi
+- betimlemeli dil bilgisi
 ozellikler:
 - - isim
   - dil bilgisi

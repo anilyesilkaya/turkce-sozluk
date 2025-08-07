@@ -5,7 +5,7 @@ slug: yelken-kulak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yelken kulaklı
+- yelken kulaklı
 ozellikler:
 - - sıfat
 ornekler:

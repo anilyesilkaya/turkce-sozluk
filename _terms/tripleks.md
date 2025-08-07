@@ -5,7 +5,7 @@ slug: tripleks
 letter: T
 lisan: Fransızca triplex
 anlamlar:
-- ► üç katlı
+- üç katlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: sirtci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hamal
+- hamal
 ozellikler:
 - - isim
   - ağızlardan

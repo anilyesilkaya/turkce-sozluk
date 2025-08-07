@@ -5,7 +5,7 @@ slug: gramer
 letter: G
 lisan: Fransızca grammaire
 anlamlar:
-- ► dil bilgisi
+- dil bilgisi
 - Dil bilgisi kitabı
 - Bir disiplinin bağlı olduğu kendine özgü yasa
 ozellikler:

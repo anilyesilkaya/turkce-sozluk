@@ -5,7 +5,7 @@ slug: ruyet
 letter: R
 lisan: Arapça ruʾyet
 anlamlar:
-- ► görme
+- görme
 ozellikler:
 - - isim
   - eskimiş

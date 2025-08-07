@@ -5,7 +5,7 @@ slug: pandomim
 letter: P
 lisan: Fransızca pantomime
 anlamlar:
-- ► sözsüz oyun
+- sözsüz oyun
 ozellikler:
 - - isim
   - tiyatro

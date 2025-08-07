@@ -5,7 +5,7 @@ slug: asaletlilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soyluluk
+- soyluluk
 ozellikler:
 - - isim
 ornekler:

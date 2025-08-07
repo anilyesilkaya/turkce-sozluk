@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça baḫūr
 anlamlar:
 - Dinî törenlerde yakılan kokulu ağaç vb. maddeler
-- ► tütsü
+- tütsü
 ozellikler:
 - - isim
 - - isim

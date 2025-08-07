@@ -5,7 +5,7 @@ slug: aktuellestirme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► güncelleştirme
+- güncelleştirme
 ozellikler:
 - - isim
 ornekler:

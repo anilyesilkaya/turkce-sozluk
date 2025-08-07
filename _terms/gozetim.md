@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetmek işi; nezaret
-- ► gözaltı
+- gözaltı
 ozellikler:
 - - isim
 - - isim

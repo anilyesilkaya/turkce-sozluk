@@ -5,9 +5,9 @@ slug: tabiiyeci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğa bilimci
+- doğa bilimci
 - Tabiat bilgisi öğretmeni
-- ► doğalcı
+- doğalcı
 ozellikler:
 - - isim
   - eskimiş

@@ -8,7 +8,7 @@ anlamlar:
 - Yaklaşık olarak değerlendirme; oranlama
 - Akla, sezgiye veya bazı verilere dayanarak olabilecek bir şeyi, bir olayı önceden kestirme; kestirim
 - Önceden kestirilen, düşünülen şey; kestirme
-- ► keşif
+- keşif
 ozellikler:
 - - isim
 - - isim

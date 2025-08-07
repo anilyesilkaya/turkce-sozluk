@@ -5,7 +5,7 @@ slug: emreylemek
 letter: E
 lisan: Arapça emr + Türkçe eylemek
 anlamlar:
-- ► emretmek
+- emretmek
 ozellikler:
 - - -e
   - -i

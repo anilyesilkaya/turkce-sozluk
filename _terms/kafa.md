@@ -5,14 +5,14 @@ slug: kafa
 letter: K
 lisan: Arapça ḳafā
 anlamlar:
-- ► baş
+- baş
 - Hayvanlarda genellikle ağız, göz, burun, kulak vb. organların bulunduğu vücudun en ön bölümü
 - Çocuk oyunlarında kullanılan zıpzıp taşının veya cevizin büyük boyu
 - Mekanik bir bütünün parçası
 - Kavrama ve anlama yeteneği; zekâ, zihin, bellek
 - Görüş ve inançların etkisi altında beliren düşünme ve yargılama yolu; zihniyet
 - Çivi vb. şeylerin irice baş kısmı
-- ► kafadar
+- kafadar
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mucavir
 letter: M
 lisan: Arapça mucāvir
 anlamlar:
-- ► komşu
+- komşu
 ozellikler:
 - - sıfat
   - eskimiş

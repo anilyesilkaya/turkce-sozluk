@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nidāʾ
 anlamlar:
 - Çağırma, bağırma, seslenme
-- ► ünlem
+- ünlem
 ozellikler:
 - - isim
   - eskimiş

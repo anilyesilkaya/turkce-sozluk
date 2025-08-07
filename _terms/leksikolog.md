@@ -5,7 +5,7 @@ slug: leksikolog
 letter: L
 lisan: Fransızca lexicologue
 anlamlar:
-- ► sözcük bilimci
+- sözcük bilimci
 ozellikler:
 - - isim
 ornekler:

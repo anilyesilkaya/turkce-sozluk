@@ -5,7 +5,7 @@ slug: ilimsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bilimsizlik
+- bilimsizlik
 ozellikler:
 - - isim
 ornekler:

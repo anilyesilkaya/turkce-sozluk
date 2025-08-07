@@ -5,7 +5,7 @@ slug: tropikal-bolge
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tropikal kuşak
+- tropikal kuşak
 ozellikler:
 - - isim
 ornekler:

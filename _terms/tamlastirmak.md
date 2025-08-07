@@ -5,7 +5,7 @@ slug: tamlastirmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünleştirmek
+- bütünleştirmek
 ozellikler:
 - - -i
 ornekler:

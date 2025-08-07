@@ -5,7 +5,7 @@ slug: fehva
 letter: F
 lisan: Arapça feḥvā
 anlamlar:
-- ► kavram
+- kavram
 ozellikler:
 - - isim
   - eskimiş

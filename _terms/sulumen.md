@@ -5,7 +5,7 @@ slug: sulumen
 letter: S
 lisan: Arapça suleymānī
 anlamlar:
-- ► ak sülümen
+- ak sülümen
 ozellikler:
 - - isim
   - kimya

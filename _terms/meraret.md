@@ -5,7 +5,7 @@ slug: meraret
 letter: M
 lisan: Arapça merāret
 anlamlar:
-- ► acılık
+- acılık
 ozellikler:
 - - isim
   - eskimiş

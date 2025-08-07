@@ -5,7 +5,7 @@ slug: meshut-curumler-mahkemesi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► suçüstü mahkemesi
+- suçüstü mahkemesi
 ozellikler:
 - - isim
   - hukuk

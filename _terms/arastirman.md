@@ -5,7 +5,7 @@ slug: arastirman
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► araştırmacı
+- araştırmacı
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca actionnaire
 anlamlar:
 - Durağan olmayan, hareketli ve etkin olan
-- ► hissedar
+- hissedar
 ozellikler:
 - - sıfat
 - - sıfat

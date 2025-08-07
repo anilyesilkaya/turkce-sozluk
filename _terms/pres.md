@@ -7,7 +7,7 @@ lisan: Fransızca presse
 anlamlar:
 - İşletme, onarma, düzletme vb. işlemlerin uygulanması için bir nesneyi, iki ağırlık arasında mekanik olarak sıkıştırmaya yarayan alet; mengene, cendere
 - Üzüm, elma, zeytin vb. meyve ve sebzeleri sıkarak suyunu, yağını çıkarmakta kullanılan alet veya araç; mengene
-- ► baskı
+- baskı
 ozellikler:
 - - isim
   - teknik

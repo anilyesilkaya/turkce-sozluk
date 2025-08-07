@@ -5,8 +5,8 @@ slug: dirim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yaşam
-- ► yaşama gücü
+- yaşam
+- yaşama gücü
 ozellikler:
 - - isim
 - - isim

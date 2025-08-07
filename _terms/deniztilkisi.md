@@ -5,7 +5,7 @@ slug: deniztilkisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► saban balığı
+- saban balığı
 ozellikler:
 - - isim
   - hayvan bilimi

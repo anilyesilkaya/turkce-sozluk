@@ -5,7 +5,7 @@ slug: faydalanilmak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararlanılmak
+- yararlanılmak
 ozellikler:
 - - nesnesiz
 ornekler:

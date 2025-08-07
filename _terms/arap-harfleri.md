@@ -5,7 +5,7 @@ slug: arap-harfleri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Arap alfabesi
+- Arap alfabesi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: seyirtmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► koşmak (I)
+- koşmak (I)
 ozellikler:
 - - nesnesiz
 ornekler:

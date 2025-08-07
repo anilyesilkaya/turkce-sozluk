@@ -5,7 +5,7 @@ slug: cevir
 letter: C
 lisan: Arapça cevr
 anlamlar:
-- ► eziyet
+- eziyet
 ozellikler:
 - - isim
   - eskimiş

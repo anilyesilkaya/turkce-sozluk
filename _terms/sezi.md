@@ -5,7 +5,7 @@ slug: sezi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sezgi
+- sezgi
 ozellikler:
 - - isim
 ornekler:

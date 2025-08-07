@@ -5,7 +5,7 @@ slug: cin-cami
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► mabet ağacı
+- mabet ağacı
 ozellikler:
 - - isim
   - bitki bilimi

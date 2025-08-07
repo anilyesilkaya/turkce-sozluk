@@ -5,8 +5,8 @@ slug: solunum-aygiti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► solunum sistemi
-- ► solunum cihazı
+- solunum sistemi
+- solunum cihazı
 ozellikler:
 - - isim
   - anatomi

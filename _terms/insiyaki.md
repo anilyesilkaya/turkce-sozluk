@@ -5,7 +5,7 @@ slug: insiyaki
 letter: I
 lisan: Arapça insiyāḳī
 anlamlar:
-- ► içgüdüsel
+- içgüdüsel
 ozellikler:
 - - sıfat
   - eskimiş

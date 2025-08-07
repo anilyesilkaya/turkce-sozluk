@@ -5,7 +5,7 @@ slug: gabyar
 letter: G
 lisan: İtalyanca gabbiere
 anlamlar:
-- ► gabyacı
+- gabyacı
 ozellikler:
 - - isim
   - denizcilik

@@ -5,7 +5,7 @@ slug: miftah
 letter: M
 lisan: Arapça miftāḥ
 anlamlar:
-- ► anahtar
+- anahtar
 ozellikler:
 - - isim
   - eskimiş

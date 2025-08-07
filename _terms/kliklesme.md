@@ -5,7 +5,7 @@ slug: kliklesme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► hizipleşme
+- hizipleşme
 ozellikler:
 - - isim
 ornekler:

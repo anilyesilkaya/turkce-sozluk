@@ -5,7 +5,7 @@ slug: karasal-iklim
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kara iklimi
+- kara iklimi
 ozellikler:
 - - isim
   - coğrafya

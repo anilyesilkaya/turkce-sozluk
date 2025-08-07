@@ -5,7 +5,7 @@ slug: gayesiz
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► amaçsız
+- amaçsız
 ozellikler:
 - - sıfat
   - zarf

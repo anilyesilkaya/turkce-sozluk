@@ -5,7 +5,7 @@ slug: bakterisit
 letter: B
 lisan: Fransızca bactéricide
 anlamlar:
-- ► bakterikıran
+- bakterikıran
 ozellikler:
 - - sıfat
 ornekler:

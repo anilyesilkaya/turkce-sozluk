@@ -6,7 +6,7 @@ letter: E
 lisan: Farsça endāze
 anlamlar:
 - 65 santimetrelik uzunluk ölçüsü
-- ► ölçü
+- ölçü
 ozellikler:
 - - isim
 - - isim

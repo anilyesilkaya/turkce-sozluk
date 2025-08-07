@@ -5,7 +5,7 @@ slug: ibadethane
 letter: I
 lisan: Arapça ʿibādet + Farsça ḫāne
 anlamlar:
-- ► mabet
+- mabet
 ozellikler:
 - - isim
   - eskimiş

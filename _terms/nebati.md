@@ -5,7 +5,7 @@ slug: nebati
 letter: N
 lisan: Arapça nebātī
 anlamlar:
-- ► bitkisel
+- bitkisel
 ozellikler:
 - - sıfat
   - eskimiş

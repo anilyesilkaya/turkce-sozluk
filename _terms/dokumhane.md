@@ -5,7 +5,7 @@ slug: dokumhane
 letter: D
 lisan: Türkçe döküm + Farsça ḫāne
 anlamlar:
-- ► dökümevi
+- dökümevi
 ozellikler:
 - - isim
 ornekler:

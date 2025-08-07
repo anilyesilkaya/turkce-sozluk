@@ -5,8 +5,8 @@ slug: regulator
 letter: R
 lisan: Fransızca régulateur
 anlamlar:
-- ► ayarlayıcı
-- ► düzenleyici
+- ayarlayıcı
+- düzenleyici
 ozellikler:
 - - isim
   - fizik

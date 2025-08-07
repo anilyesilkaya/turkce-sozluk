@@ -5,7 +5,7 @@ slug: burjuvacasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► burjuvaca
+- burjuvaca
 ozellikler:
 - - zarf
 ornekler:

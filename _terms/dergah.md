@@ -5,8 +5,8 @@ slug: dergah
 letter: D
 lisan: Farsça dergāh
 anlamlar:
-- ► tekke
-- ► huzur
+- tekke
+- huzur
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: agir-uyku
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► derin uyku
+- derin uyku
 ozellikler:
 - - isim
   - mecaz

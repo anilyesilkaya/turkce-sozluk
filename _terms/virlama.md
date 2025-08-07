@@ -5,7 +5,7 @@ slug: virlama
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vırıldama
+- vırıldama
 ozellikler:
 - - isim
 ornekler:

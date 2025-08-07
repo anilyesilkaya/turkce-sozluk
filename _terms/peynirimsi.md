@@ -5,7 +5,7 @@ slug: peynirimsi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► peynirsi
+- peynirsi
 ozellikler:
 - - sıfat
 ornekler:

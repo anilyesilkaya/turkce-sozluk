@@ -5,7 +5,7 @@ slug: dikotomik
 letter: D
 lisan: Fransızca dichotomique
 anlamlar:
-- ► ikileşik
+- ikileşik
 ozellikler:
 - - sıfat
 ornekler:

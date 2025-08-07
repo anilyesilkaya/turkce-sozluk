@@ -8,7 +8,7 @@ anlamlar:
 - Kaymakam olma durumu
 - Kaymakamın görevi
 - Kaymakamın makamı ve bu makama bağlı resmî dairelerin bütünü
-- ► ilçe
+- ilçe
 ozellikler:
 - - isim
 - - isim

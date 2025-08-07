@@ -5,7 +5,7 @@ slug: nasyonalist
 letter: N
 lisan: Fransızca nationaliste
 anlamlar:
-- ► milliyetçi
+- milliyetçi
 ozellikler:
 - - isim
 ornekler:

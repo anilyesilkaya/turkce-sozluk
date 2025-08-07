@@ -5,7 +5,7 @@ slug: aksama-dogru
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akşamüstü
+- akşamüstü
 ozellikler:
 - - zarf
 ornekler:

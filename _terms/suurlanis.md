@@ -5,7 +5,7 @@ slug: suurlanis
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçleniş
+- bilinçleniş
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: alarmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kızarmak
+- kızarmak
 - Ala renkli duruma gelmek
 ozellikler:
 - - nesnesiz

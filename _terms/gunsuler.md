@@ -5,7 +5,7 @@ slug: gunsuler
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güneş hayvancıkları
+- güneş hayvancıkları
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: calistiran
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► işveren
+- işveren
 ozellikler:
 - - isim
 ornekler:

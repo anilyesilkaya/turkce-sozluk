@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Açkı yapan kimse; perdahçı
-- ► anahtarcı
+- anahtarcı
 ozellikler:
 - - isim
 - - isim

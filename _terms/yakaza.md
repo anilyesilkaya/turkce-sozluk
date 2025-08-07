@@ -5,7 +5,7 @@ slug: yakaza
 letter: Y
 lisan: Arapça yaḳaẓa
 anlamlar:
-- ► uyanıklık
+- uyanıklık
 ozellikler:
 - - isim
   - eskimiş

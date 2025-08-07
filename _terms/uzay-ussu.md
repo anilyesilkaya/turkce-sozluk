@@ -5,7 +5,7 @@ slug: uzay-ussu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzay istasyonu
+- uzay istasyonu
 ozellikler:
 - - isim
   - gök bilimi

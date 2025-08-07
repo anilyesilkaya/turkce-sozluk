@@ -5,7 +5,7 @@ slug: ferik-elmasi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ferik (I)
+- ferik (I)
 ozellikler:
 - - isim
 ornekler:

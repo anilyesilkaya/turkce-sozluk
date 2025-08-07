@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kasma işi yapılmak
 - Kas, büzülüp toplanmak; büzüşmek, gerilmek, takallüs etmek
-- ► büyüklenmek
+- büyüklenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

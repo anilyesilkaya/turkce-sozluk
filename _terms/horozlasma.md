@@ -5,7 +5,7 @@ slug: horozlasma
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kabadayılaşma
+- kabadayılaşma
 ozellikler:
 - - isim
 ornekler:

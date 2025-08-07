@@ -5,7 +5,7 @@ slug: suphesizlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkusuzluk
+- kuşkusuzluk
 ozellikler:
 - - isim
 ornekler:

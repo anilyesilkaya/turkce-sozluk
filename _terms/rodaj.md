@@ -5,7 +5,7 @@ slug: rodaj
 letter: R
 lisan: Fransızca rodage
 anlamlar:
-- ► alıştırma
+- alıştırma
 ozellikler:
 - - isim
 ornekler:

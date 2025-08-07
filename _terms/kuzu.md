@@ -9,7 +9,7 @@ anlamlar:
 - Bir meyve ve sebzeye bitişik olan küçük meyve veya sebze
 - Yazma kitaplarda sayfa kenarına çizilmiş içi işlenmiş cetvelin yakınına çekilen tek çizgi
 - Bir kerpicin yarısı büyüklüğünde kerpiç
-- ► yavru
+- yavru
 - Bir meyve, sebze veya ekmeğin kendisine yapışık olarak çıkan küçüğü
 - Deneyimsiz, toy kimse
 ozellikler:

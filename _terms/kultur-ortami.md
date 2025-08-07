@@ -5,7 +5,7 @@ slug: kultur-ortami
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► besi yeri
+- besi yeri
 ozellikler:
 - - isim
   - biyoloji

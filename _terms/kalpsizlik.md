@@ -5,7 +5,7 @@ slug: kalpsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► merhametsizlik
+- merhametsizlik
 ozellikler:
 - - isim
 ornekler:

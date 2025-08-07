@@ -5,7 +5,7 @@ slug: kendine-has
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kendine özgü
+- kendine özgü
 ozellikler:
 - - sıfat
 ornekler:

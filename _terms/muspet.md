@@ -5,7 +5,7 @@ slug: muspet
 letter: M
 lisan: Arapça mus̱bet
 anlamlar:
-- ► olumlu
+- olumlu
 ozellikler:
 - - sıfat
 ornekler:

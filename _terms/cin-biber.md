@@ -5,7 +5,7 @@ slug: cin-biber
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cin biberi
+- cin biberi
 ozellikler:
 - - isim
 ornekler:

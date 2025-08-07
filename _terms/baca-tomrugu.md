@@ -5,7 +5,7 @@ slug: baca-tomrugu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baca kürsüsü
+- baca kürsüsü
 ozellikler:
 - - isim
   - mimarlık

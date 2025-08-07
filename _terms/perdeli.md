@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Perdesi olan veya perde ile örtülü bulunan
-- ► duvaklı
+- duvaklı
 - Perde sağlamak için parmaklarla basılacak yerleri olan (çalgı)
 - Utanma duygusu olan; namuslu
 - Gerçeği göremeyen

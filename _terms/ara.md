@@ -8,7 +8,7 @@ anlamlar:
 - İki şeyi birbirinden ayıran uzaklık; çatlak, mesafe
 - İki olguyu, iki olayı birbirinden ayıran zaman
 - Kişilerin veya toplulukların birbirine karşı olan durumu veya ilgisi
-- ► iç
+- iç
 - Bir oyunda, bir filmde izleme sırasında dinlenmek üzere verilen kısa süre; antrakt
 - Toplu jimnastik dizilmelerinde, sıradakilerin birbirlerinden yanlamasına olan uzaklıkları
 - Spor karşılaşmalarında oyuncuların dinlenmek ve taktik almak için kullandıkları süre

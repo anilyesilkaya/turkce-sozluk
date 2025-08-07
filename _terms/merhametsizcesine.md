@@ -5,7 +5,7 @@ slug: merhametsizcesine
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merhametsizce
+- merhametsizce
 ozellikler:
 - - zarf
 ornekler:

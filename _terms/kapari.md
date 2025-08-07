@@ -5,7 +5,7 @@ slug: kapari
 letter: K
 lisan: Rumca
 anlamlar:
-- ► gebre otu
+- gebre otu
 ozellikler:
 - - isim
   - bitki bilimi

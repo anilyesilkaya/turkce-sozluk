@@ -5,8 +5,8 @@ slug: pedolog
 letter: P
 lisan: Fransızca pédologue
 anlamlar:
-- ► çocuk bilimci
-- ► toprak bilimci
+- çocuk bilimci
+- toprak bilimci
 ozellikler:
 - - isim
 - - isim

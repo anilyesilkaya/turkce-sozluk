@@ -5,7 +5,7 @@ slug: idam-sehpasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► darağacı
+- darağacı
 ozellikler:
 - - isim
 ornekler:

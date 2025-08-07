@@ -5,7 +5,7 @@ slug: insanimsilar
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insansılar
+- insansılar
 ozellikler:
 - - isim
   - hayvan bilimi

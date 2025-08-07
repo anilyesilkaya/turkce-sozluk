@@ -5,7 +5,7 @@ slug: infiratci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yalnızcı
+- yalnızcı
 ozellikler:
 - - sıfat
 ornekler:

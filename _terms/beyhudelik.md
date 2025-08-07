@@ -5,7 +5,7 @@ slug: beyhudelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yararsızlık
+- yararsızlık
 ozellikler:
 - - isim
 ornekler:

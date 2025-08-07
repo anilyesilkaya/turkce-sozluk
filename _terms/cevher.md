@@ -6,9 +6,9 @@ letter: C
 lisan: Arapça cevher
 anlamlar:
 - Bir şeyin özü; gevher
-- ► mücevher
+- mücevher
 - İyi yetenek
-- ► töz
+- töz
 ozellikler:
 - - isim
 - - isim

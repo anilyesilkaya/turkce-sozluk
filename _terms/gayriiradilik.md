@@ -5,7 +5,7 @@ slug: gayriiradilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► iradesizlik
+- iradesizlik
 ozellikler:
 - - isim
 ornekler:

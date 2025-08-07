@@ -5,7 +5,7 @@ slug: munhasiran
 letter: M
 lisan: Arapça munḥaṣiran
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
   - eskimiş

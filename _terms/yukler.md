@@ -5,7 +5,7 @@ slug: yukler
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yükleyici
+- yükleyici
 ozellikler:
 - - isim
   - bilişim

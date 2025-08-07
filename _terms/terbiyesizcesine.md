@@ -5,7 +5,7 @@ slug: terbiyesizcesine
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► terbiyesizce
+- terbiyesizce
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: su-rezenesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► su baldıranı
+- su baldıranı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: ratip
 letter: R
 lisan: Arapça rāṭib
 anlamlar:
-- ► nemli
+- nemli
 ozellikler:
 - - sıfat
   - eskimiş

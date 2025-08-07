@@ -5,7 +5,7 @@ slug: tanrisizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Allahsızlık
+- Allahsızlık
 ozellikler:
 - - isim
 ornekler:

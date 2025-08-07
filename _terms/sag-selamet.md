@@ -5,7 +5,7 @@ slug: sag-selamet
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağ salim
+- sağ salim
 ozellikler:
 - - zarf
 ornekler:

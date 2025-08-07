@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sızan şey
-- ► akıntı
+- akıntı
 ozellikler:
 - - isim
 - - isim

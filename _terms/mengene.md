@@ -6,7 +6,7 @@ letter: M
 lisan: Rumca
 anlamlar:
 - Onarma, işleme, düzeltme vb. işlemlerin uygulanacağı nesneyi sıkıştırıp istenildiği gibi tutturmaya yarayan bir tür alet
-- ► pres
+- pres
 ozellikler:
 - - isim
   - teknik

@@ -5,7 +5,7 @@ slug: seytanet
 letter: Ş
 lisan: Arapça şeyṭanet
 anlamlar:
-- ► şeytanlık
+- şeytanlık
 ozellikler:
 - - isim
   - eskimiş

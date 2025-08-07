@@ -5,7 +5,7 @@ slug: zirai
 letter: Z
 lisan: Arapça zirāʿī
 anlamlar:
-- ► tarımsal
+- tarımsal
 ozellikler:
 - - sıfat
 ornekler:

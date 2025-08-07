@@ -5,7 +5,7 @@ slug: ansima
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anımsama
+- anımsama
 ozellikler:
 - - isim
 ornekler:

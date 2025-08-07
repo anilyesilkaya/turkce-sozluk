@@ -5,7 +5,7 @@ slug: mutekebbirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kibirlilik
+- kibirlilik
 ozellikler:
 - - isim
 ornekler:

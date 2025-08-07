@@ -5,7 +5,7 @@ slug: destur
 letter: D
 lisan: Farsça destūr
 anlamlar:
-- ► izin
+- izin
 - (destu:r) "Yol verin, savulun, izin verin" anlamlarında kullanılan bir söz
 - (destu:r) Karanlık, ıssız yerlere pis veya atık su dökerken cin çarpmasın diye yüksek sesle söylenen bir söz
 - Tarikat geleneğinde bir işe başlanırken söylenen bir söz

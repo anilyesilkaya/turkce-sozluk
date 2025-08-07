@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça sehm
 anlamlar:
 - Hisse bedeli
-- ► pay
+- pay
 - Yüksek çelik binaların tepesinin sürekli olarak sağa sola yaylanması
 ozellikler:
 - - isim

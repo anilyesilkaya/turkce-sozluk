@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - Herkesçe bilinme, tanınma durumu; san, nam, şöhret, şan (I)
-- ► ses
+- ses
 ozellikler:
 - - isim
 - - isim

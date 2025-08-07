@@ -5,7 +5,7 @@ slug: harbiden
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
   - argo

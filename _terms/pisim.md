@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pişmek işi
-- ► pişirim
+- pişirim
 ozellikler:
 - - isim
 - - isim

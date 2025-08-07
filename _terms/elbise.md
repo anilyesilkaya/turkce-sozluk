@@ -5,7 +5,7 @@ slug: elbise
 letter: E
 lisan: Arapça elbise
 anlamlar:
-- ► giysi
+- giysi
 - Alt kısmı etek biçiminde, tek parçadan oluşan kadın kıyafeti
 ozellikler:
 - - isim

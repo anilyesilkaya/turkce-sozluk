@@ -5,7 +5,7 @@ slug: kadirga-baligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ispermeçet balinası
+- ispermeçet balinası
 ozellikler:
 - - isim
   - hayvan bilimi

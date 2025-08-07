@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sallandığında küçük bir hava akımı yapan ve özellikle yüzü serinletmeye yarayan, katlanabilir, taşınabilir araç
 - Bu biçimde olan
-- ► çeşitlilik
+- çeşitlilik
 ozellikler:
 - - isim
 - - isim

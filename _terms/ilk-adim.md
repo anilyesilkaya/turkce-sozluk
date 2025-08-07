@@ -5,7 +5,7 @@ slug: ilk-adim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► başlangıç
+- başlangıç
 ozellikler:
 - - isim
   - mecaz

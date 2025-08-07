@@ -5,7 +5,7 @@ slug: neticesizlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonuçsuzluk
+- sonuçsuzluk
 ozellikler:
 - - isim
 ornekler:

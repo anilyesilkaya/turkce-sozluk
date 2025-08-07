@@ -5,7 +5,7 @@ slug: kokoroz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mısır
+- mısır
 - Sivri uçlu uzun şey
 - Çirkin kimse
 ozellikler:

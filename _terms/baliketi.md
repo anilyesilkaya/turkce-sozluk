@@ -5,7 +5,7 @@ slug: baliketi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► balıketinde
+- balıketinde
 ozellikler:
 - - sıfat
   - mecaz

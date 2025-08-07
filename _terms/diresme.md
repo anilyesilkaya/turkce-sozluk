@@ -5,7 +5,7 @@ slug: diresme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sebat
+- sebat
 ozellikler:
 - - isim
 ornekler:

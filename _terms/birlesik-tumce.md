@@ -5,7 +5,7 @@ slug: birlesik-tumce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birleşik cümle
+- birleşik cümle
 ozellikler:
 - - isim
   - dil bilgisi

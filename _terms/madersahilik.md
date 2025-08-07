@@ -5,7 +5,7 @@ slug: madersahilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anaerkillik
+- anaerkillik
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: yastamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaslamak
+- yaslamak
 ozellikler:
 - - -i
 ornekler:

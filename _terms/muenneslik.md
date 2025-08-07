@@ -5,8 +5,8 @@ slug: muenneslik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dişilik
-- ► dişillik
+- dişilik
+- dişillik
 ozellikler:
 - - isim
 - - isim

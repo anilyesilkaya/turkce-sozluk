@@ -5,7 +5,7 @@ slug: mehter-musikisi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mehter müziği
+- mehter müziği
 ozellikler:
 - - isim
 ornekler:

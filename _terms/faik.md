@@ -5,7 +5,7 @@ slug: faik
 letter: F
 lisan: Arapça fāʾiḳ
 anlamlar:
-- ► üstün (I)
+- üstün (I)
 ozellikler:
 - - sıfat
   - eskimiş

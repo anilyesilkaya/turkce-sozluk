@@ -5,7 +5,7 @@ slug: tasallup
 letter: T
 lisan: Arapça taṣallub
 anlamlar:
-- ► katılaşma
+- katılaşma
 ozellikler:
 - - isim
   - eskimiş

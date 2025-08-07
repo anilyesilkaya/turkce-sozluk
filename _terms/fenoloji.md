@@ -5,7 +5,7 @@ slug: fenoloji
 letter: F
 lisan: Fransızca phénologie
 anlamlar:
-- ► belirti bilimi
+- belirti bilimi
 ozellikler:
 - - isim
 ornekler:

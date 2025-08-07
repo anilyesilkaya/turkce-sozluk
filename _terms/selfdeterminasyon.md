@@ -5,7 +5,7 @@ slug: selfdeterminasyon
 letter: S
 lisan: Fransızca self détérmination
 anlamlar:
-- ► öz belirtim
+- öz belirtim
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Telefon düzeni kuran veya telefon onaran kimse
 - Özellikle cep telefonu alıp satan kimse
-- ► santralci
+- santralci
 ozellikler:
 - - isim
 - - isim

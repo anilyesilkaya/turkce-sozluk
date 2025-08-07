@@ -6,7 +6,7 @@ letter: T
 lisan: Fransızca tyran
 anlamlar:
 - Eski Yunan'da siyasal gücü zorla ele geçiren, onu kötüye kullanan kimse
-- ► despot (I)
+- despot (I)
 ozellikler:
 - - isim
   - tarih

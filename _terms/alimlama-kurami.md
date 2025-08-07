@@ -5,7 +5,7 @@ slug: alimlama-kurami
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alımlama estetiği
+- alımlama estetiği
 ozellikler:
 - - isim
   - edebiyat

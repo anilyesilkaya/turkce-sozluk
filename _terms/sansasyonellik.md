@@ -5,7 +5,7 @@ slug: sansasyonellik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► çarpıcılık
+- çarpıcılık
 ozellikler:
 - - isim
 ornekler:

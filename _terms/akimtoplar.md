@@ -5,7 +5,7 @@ slug: akimtoplar
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akümülatör
+- akümülatör
 ozellikler:
 - - isim
   - fizik

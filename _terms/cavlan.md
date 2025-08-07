@@ -5,7 +5,7 @@ slug: cavlan
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► şelale
+- şelale
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: agorafobi
 letter: A
 lisan: Fransızca agoraphobie
 anlamlar:
-- ► alan korkusu
+- alan korkusu
 ozellikler:
 - - isim
   - tıp

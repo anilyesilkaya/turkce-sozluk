@@ -5,8 +5,8 @@ slug: cincik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► züccaciye
-- ► bilye
+- züccaciye
+- bilye
 ozellikler:
 - - isim
   - ağızlardan

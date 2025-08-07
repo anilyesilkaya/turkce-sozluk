@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Kralın annesi
-- ► arı beyi
+- arı beyi
 ozellikler:
 - - isim
 - - isim

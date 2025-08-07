@@ -5,7 +5,7 @@ slug: emmi
 letter: E
 lisan: Arapça ʿamm
 anlamlar:
-- ► amca
+- amca
 ozellikler:
 - - isim
   - ağızlardan

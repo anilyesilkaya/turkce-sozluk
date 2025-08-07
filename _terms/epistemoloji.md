@@ -5,7 +5,7 @@ slug: epistemoloji
 letter: E
 lisan: Fransızca épistémologie
 anlamlar:
-- ► bilgi kuramı
+- bilgi kuramı
 ozellikler:
 - - isim
 ornekler:

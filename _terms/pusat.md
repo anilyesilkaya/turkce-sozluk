@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Silah, zırh vb. savaş aracı
 - Giysi veya giysilik kumaş
-- ► araç gereç
+- araç gereç
 ozellikler:
 - - isim
 - - isim

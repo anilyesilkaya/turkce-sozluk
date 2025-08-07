@@ -5,7 +5,7 @@ slug: degimsizlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► liyakatsizlik
+- liyakatsizlik
 ozellikler:
 - - isim
 ornekler:

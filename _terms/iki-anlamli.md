@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İki anlama gelen
-- ► ikircil
+- ikircil
 ozellikler:
 - - sıfat
 - - sıfat

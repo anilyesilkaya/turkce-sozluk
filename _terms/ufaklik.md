@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Ufak olma durumu
 - Küçük çocuk
-- ► bozuk para
+- bozuk para
 - Çocuklar için kullanılan bir seslenme sözü
-- ► bit (I)
+- bit (I)
 ozellikler:
 - - isim
 - - isim

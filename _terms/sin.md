@@ -5,7 +5,7 @@ slug: sin
 letter: S
 lisan: Arapça sinn
 anlamlar:
-- ► yaş (I)
+- yaş (I)
 ozellikler:
 - - isim
   - eskimiş

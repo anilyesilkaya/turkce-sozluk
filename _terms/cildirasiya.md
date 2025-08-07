@@ -5,7 +5,7 @@ slug: cildirasiya
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çılgınca
+- çılgınca
 ozellikler:
 - - zarf
 ornekler:

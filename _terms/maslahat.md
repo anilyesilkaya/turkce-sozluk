@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maṣlaḥat
 anlamlar:
 - Önemli iş, mesele
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - eskimiş

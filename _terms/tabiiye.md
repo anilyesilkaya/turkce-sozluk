@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭabiʽiyye
 anlamlar:
 - Tabiat bilgisi dersi
-- ► doğalcılık
+- doğalcılık
 ozellikler:
 - - isim
   - eskimiş

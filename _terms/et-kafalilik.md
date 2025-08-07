@@ -5,7 +5,7 @@ slug: et-kafalilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 ozellikler:
 - - isim
 ornekler:

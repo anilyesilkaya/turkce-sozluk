@@ -5,7 +5,7 @@ slug: deniz-ordegi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► fırtına kuşu
+- fırtına kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

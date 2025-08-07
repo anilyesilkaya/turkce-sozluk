@@ -5,7 +5,7 @@ slug: izzet
 letter: I
 lisan: Arapça ʿizzet
 anlamlar:
-- ► ululuk
+- ululuk
 ozellikler:
 - - isim
 ornekler:

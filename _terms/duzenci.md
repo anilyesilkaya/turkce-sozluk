@@ -5,7 +5,7 @@ slug: duzenci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düzenbaz
+- düzenbaz
 ozellikler:
 - - sıfat
 ornekler:

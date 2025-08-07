@@ -5,7 +5,7 @@ slug: muhabbet-tellalligi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► pezevenklik
+- pezevenklik
 ozellikler:
 - - isim
 ornekler:

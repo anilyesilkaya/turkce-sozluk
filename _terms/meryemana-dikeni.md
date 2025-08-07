@@ -5,7 +5,7 @@ slug: meryemana-dikeni
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► deve dikeni
+- deve dikeni
 ozellikler:
 - - isim
   - bitki bilimi

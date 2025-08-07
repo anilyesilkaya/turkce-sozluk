@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir bütünü oluşturan iki eşit parçadan her biri; nısıf, nim
 - Bir şeyin yarısı kadar olan, yarım olan
-- ► devre arası
+- devre arası
 - Gereğinden az, tam olmayarak
 ozellikler:
 - - sıfat

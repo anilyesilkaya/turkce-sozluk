@@ -5,7 +5,7 @@ slug: gerektirim
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► belirlenim
+- belirlenim
 ozellikler:
 - - isim
   - felsefe

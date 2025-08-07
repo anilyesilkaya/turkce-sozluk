@@ -5,7 +5,7 @@ slug: zevc
 letter: Z
 lisan: Arapça zevc
 anlamlar:
-- ► koca (I)
+- koca (I)
 ozellikler:
 - - isim
   - eskimiş

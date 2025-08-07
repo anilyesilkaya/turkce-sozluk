@@ -5,7 +5,7 @@ slug: sagucu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ağıtçı
+- ağıtçı
 ozellikler:
 - - isim
 ornekler:

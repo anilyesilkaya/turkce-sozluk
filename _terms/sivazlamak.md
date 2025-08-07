@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üstünde yavaş yavaş, hafifçe el gezdirmek
-- ► okşamak
+- okşamak
 ozellikler:
 - - -i
 - - -i

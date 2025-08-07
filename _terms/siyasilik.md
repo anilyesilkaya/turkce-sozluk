@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Siyasi olma durumu
-- ► siyasallık
+- siyasallık
 ozellikler:
 - - isim
 - - isim

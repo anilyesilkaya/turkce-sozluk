@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Düşme tehlikesi olan yerlere çekilen duvar veya parmaklık
-- ► bostan korkuluğu
-- ► küpeşte
+- bostan korkuluğu
+- küpeşte
 ozellikler:
 - - isim
 - - isim

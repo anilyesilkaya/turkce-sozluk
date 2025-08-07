@@ -5,7 +5,7 @@ slug: harezmi-yolu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► algoritma
+- algoritma
 ozellikler:
 - - isim
   - matematik

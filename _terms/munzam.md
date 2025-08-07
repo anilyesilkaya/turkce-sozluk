@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça munżamm
 anlamlar:
 - Katılmış, ulanmış, eklenmiş
-- ► ekleme
+- ekleme
 ozellikler:
 - - sıfat
   - eskimiş

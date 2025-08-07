@@ -5,7 +5,7 @@ slug: ezani-saat
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► alaturka saat
+- alaturka saat
 ozellikler:
 - - isim
 ornekler:

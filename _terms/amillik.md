@@ -5,7 +5,7 @@ slug: amillik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► etkenlik
+- etkenlik
 ozellikler:
 - - isim
 ornekler:

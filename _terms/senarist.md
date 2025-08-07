@@ -5,7 +5,7 @@ slug: senarist
 letter: S
 lisan: Fransızca scénariste
 anlamlar:
-- ► senaryocu
+- senaryocu
 ozellikler:
 - - isim
 ornekler:

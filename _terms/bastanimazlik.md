@@ -5,7 +5,7 @@ slug: bastanimazlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkaldırıcılık
+- başkaldırıcılık
 ozellikler:
 - - isim
 ornekler:

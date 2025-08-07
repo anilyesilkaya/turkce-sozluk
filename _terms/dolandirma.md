@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolandırmak işi; söğüşleme
-- ► dolaştırma
+- dolaştırma
 ozellikler:
 - - isim
 - - isim

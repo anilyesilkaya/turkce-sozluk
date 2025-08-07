@@ -5,7 +5,7 @@ slug: kis-donencesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Oğlak Dönencesi
+- Oğlak Dönencesi
 ozellikler:
 - - isim
   - gök bilimi

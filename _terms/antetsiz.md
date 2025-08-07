@@ -5,7 +5,7 @@ slug: antetsiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► başlıksız
+- başlıksız
 ozellikler:
 - - sıfat
 ornekler:

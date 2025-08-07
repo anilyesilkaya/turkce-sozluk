@@ -5,7 +5,7 @@ slug: tabakli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sepili
+- sepili
 ozellikler:
 - - sıfat
 ornekler:

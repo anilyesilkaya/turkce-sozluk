@@ -5,7 +5,7 @@ slug: yarayissiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yararsız
+- yararsız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: calisma-gunu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► iş günü
+- iş günü
 ozellikler:
 - - isim
 ornekler:

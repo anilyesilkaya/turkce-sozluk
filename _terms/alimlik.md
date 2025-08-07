@@ -5,7 +5,7 @@ slug: alimlik
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► bilginlik
+- bilginlik
 ozellikler:
 - - isim
 ornekler:

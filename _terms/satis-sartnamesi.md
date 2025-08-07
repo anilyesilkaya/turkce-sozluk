@@ -5,7 +5,7 @@ slug: satis-sartnamesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► satış sözleşmesi
+- satış sözleşmesi
 ozellikler:
 - - isim
   - hukuk

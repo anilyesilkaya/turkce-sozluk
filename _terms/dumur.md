@@ -5,7 +5,7 @@ slug: dumur
 letter: D
 lisan: Arapça żumūr
 anlamlar:
-- ► körelme
+- körelme
 ozellikler:
 - - isim
   - fizyoloji

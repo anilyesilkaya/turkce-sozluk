@@ -5,7 +5,7 @@ slug: abuklasma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçmalaşma
+- saçmalaşma
 ozellikler:
 - - isim
 ornekler:

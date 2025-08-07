@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Hoş duruma gelmek
 - İyilik hissetmek
-- ► hoşlanmak
+- hoşlanmak
 - Birbirinden hoşlanmak
 ozellikler:
 - - nesnesiz

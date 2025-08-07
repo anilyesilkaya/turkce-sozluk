@@ -5,7 +5,7 @@ slug: hamleci
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► atılımcı
+- atılımcı
 ozellikler:
 - - sıfat
 ornekler:

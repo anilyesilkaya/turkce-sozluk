@@ -5,7 +5,7 @@ slug: ulam
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kategori
+- kategori
 - Nesnel gerçekliğin ve bilginin en genel ve temel özelliklerini, ilişkilerini yansıtan temel kavramların her biri; nicelik, nitelik, bağıntı, makule, kategori
 ozellikler:
 - - isim

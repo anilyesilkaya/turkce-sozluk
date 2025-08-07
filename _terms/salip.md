@@ -5,7 +5,7 @@ slug: salip
 letter: S
 lisan: Arapça ṣalīb
 anlamlar:
-- ► haç
+- haç
 ozellikler:
 - - isim
   - eskimiş

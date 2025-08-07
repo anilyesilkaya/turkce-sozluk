@@ -5,7 +5,7 @@ slug: hurriyetci
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özgürlükçü
+- özgürlükçü
 ozellikler:
 - - sıfat
 ornekler:

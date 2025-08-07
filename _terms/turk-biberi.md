@@ -5,7 +5,7 @@ slug: turk-biberi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kırmızıbiber
+- kırmızıbiber
 ozellikler:
 - - isim
 ornekler:

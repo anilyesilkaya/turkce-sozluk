@@ -5,7 +5,7 @@ slug: sondajci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sondalamacı
+- sondalamacı
 ozellikler:
 - - isim
 ornekler:

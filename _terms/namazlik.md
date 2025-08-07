@@ -5,7 +5,7 @@ slug: namazlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► seccade
+- seccade
 - Namaz süresi kadar olan
 - Namazda okunan kısa sureler
 ozellikler:

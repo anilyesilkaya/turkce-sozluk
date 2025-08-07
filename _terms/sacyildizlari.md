@@ -5,7 +5,7 @@ slug: sacyildizlari
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► denizlaleleri
+- denizlaleleri
 ozellikler:
 - - isim
   - hayvan bilimi

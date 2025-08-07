@@ -5,8 +5,8 @@ slug: rabita
 letter: R
 lisan: Arapça rābiṭa
 anlamlar:
-- ► bağ (I)
-- ► ilişki
+- bağ (I)
+- ilişki
 - Birbirini tutma, tutarlık
 - Düzen, sıra
 - Birbirine geçmeli tahtadan bir döşeme türü

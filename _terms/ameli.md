@@ -5,7 +5,7 @@ slug: ameli
 letter: A
 lisan: Arapça ʿamelī
 anlamlar:
-- ► uygulamalı
+- uygulamalı
 ozellikler:
 - - sıfat
 ornekler:

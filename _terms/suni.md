@@ -5,8 +5,8 @@ slug: suni
 letter: S
 lisan: Arapça ṣunʿī
 anlamlar:
-- ► yapay
-- ► yapmacık
+- yapay
+- yapmacık
 ozellikler:
 - - sıfat
 - - sıfat

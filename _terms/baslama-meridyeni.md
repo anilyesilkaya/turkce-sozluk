@@ -5,7 +5,7 @@ slug: baslama-meridyeni
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başlangıç meridyeni
+- başlangıç meridyeni
 ozellikler:
 - - isim
   - gök bilimi

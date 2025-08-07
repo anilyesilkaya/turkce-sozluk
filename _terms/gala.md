@@ -6,7 +6,7 @@ letter: G
 lisan: İtalyanca gala
 anlamlar:
 - Resmî bir törenden sonra yapılan büyük ve gösterişli şölen
-- ► ilk gösterim
+- ilk gösterim
 ozellikler:
 - - isim
 - - isim

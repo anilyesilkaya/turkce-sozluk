@@ -5,7 +5,7 @@ slug: ay-donumu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ay başı
+- ay başı
 ozellikler:
 - - isim
 ornekler:

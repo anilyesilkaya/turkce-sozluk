@@ -5,7 +5,7 @@ slug: berkitme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaştırma
+- sağlamlaştırma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bibilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► halalık
+- halalık
 ozellikler:
 - - isim
 ornekler:

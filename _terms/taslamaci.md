@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Taşlama işiyle uğraşan usta
-- ► yergici
+- yergici
 ozellikler:
 - - isim
 - - isim

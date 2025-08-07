@@ -5,7 +5,7 @@ slug: inam
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► emanet
+- emanet
 ozellikler:
 - - isim
   - eskimiş

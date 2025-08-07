@@ -5,7 +5,7 @@ slug: utku
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► zafer
+- zafer
 ozellikler:
 - - isim
 ornekler:

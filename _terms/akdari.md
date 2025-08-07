@@ -5,7 +5,7 @@ slug: akdari
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► darı
+- darı
 ozellikler:
 - - isim
   - bitki bilimi

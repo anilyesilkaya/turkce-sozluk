@@ -5,7 +5,7 @@ slug: ilhan
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► imparator
+- imparator
 - İran Moğollarında hükümdarın ünvanı
 ozellikler:
 - - isim

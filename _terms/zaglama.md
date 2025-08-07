@@ -5,7 +5,7 @@ slug: zaglama
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağılama
+- kılağılama
 ozellikler:
 - - isim
 ornekler:

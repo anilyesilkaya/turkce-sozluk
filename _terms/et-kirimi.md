@@ -5,7 +5,7 @@ slug: et-kirimi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► et kesimi
+- et kesimi
 ozellikler:
 - - isim
   - din bilimi

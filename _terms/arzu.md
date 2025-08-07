@@ -5,7 +5,7 @@ slug: arzu
 letter: A
 lisan: Farsça ārzū
 anlamlar:
-- ► istek
+- istek
 ozellikler:
 - - isim
 ornekler:

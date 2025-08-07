@@ -5,7 +5,7 @@ slug: rahmani
 letter: R
 lisan: Arapça raḥmānī
 anlamlar:
-- ► ilahi (I)
+- ilahi (I)
 ozellikler:
 - - sıfat
   - eskimiş

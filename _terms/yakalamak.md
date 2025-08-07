@@ -13,7 +13,7 @@ anlamlar:
 - Birdenbire etkisi altına almak
 - Arayarak veya rastlantı sonucu bulup bağlantı kurmak
 - Avlamak, tuzakla ele geçirmek
-- ► tutturmak
+- tutturmak
 - Aynı düzeye gelmek
 ozellikler:
 - - -i

@@ -5,7 +5,7 @@ slug: sarkiyatci
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Doğu bilimci
+- Doğu bilimci
 ozellikler:
 - - isim
 ornekler:

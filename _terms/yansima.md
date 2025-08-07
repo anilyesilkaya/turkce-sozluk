@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansımak işi; yansınım, yansılama, aksetme
-- ► yansımalı kelime
+- yansımalı kelime
 ozellikler:
 - - isim
 - - isim

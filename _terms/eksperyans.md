@@ -5,7 +5,7 @@ slug: eksperyans
 letter: E
 lisan: Fransızca expérience
 anlamlar:
-- ► deneyim
+- deneyim
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: acik-kalpli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık yürekli
+- açık yürekli
 ozellikler:
 - - sıfat
   - mecaz

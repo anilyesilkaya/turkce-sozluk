@@ -5,7 +5,7 @@ slug: teneffus
 letter: T
 lisan: Arapça teneffus
 anlamlar:
-- ► solunum
+- solunum
 - Temiz hava almak, dinlenmek için verilen ara
 ozellikler:
 - - isim

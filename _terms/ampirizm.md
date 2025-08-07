@@ -5,7 +5,7 @@ slug: ampirizm
 letter: A
 lisan: Fransızca empirisme
 anlamlar:
-- ► deneycilik
+- deneycilik
 ozellikler:
 - - isim
   - felsefe

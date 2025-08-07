@@ -5,7 +5,7 @@ slug: basmurakip
 letter: B
 lisan: Türkçe baş + Arapça murāḳib
 anlamlar:
-- ► başdenetçi
+- başdenetçi
 ozellikler:
 - - isim
 ornekler:

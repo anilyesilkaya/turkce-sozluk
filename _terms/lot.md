@@ -5,7 +5,7 @@ slug: lot
 letter: L
 lisan: Fransızca lot
 anlamlar:
-- ► tutam (II)
+- tutam (II)
 ozellikler:
 - - isim
   - ekonomi

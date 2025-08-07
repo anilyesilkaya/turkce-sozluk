@@ -5,7 +5,7 @@ slug: sigirgozu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► öküzgözü (II)
+- öküzgözü (II)
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: ziyaretgah
 letter: Z
 lisan: Arapça ziyāret + Farsça -gâh
 anlamlar:
-- ► ziyaret yeri
+- ziyaret yeri
 ozellikler:
 - - isim
   - eskimiş

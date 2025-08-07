@@ -5,8 +5,8 @@ slug: tereddut
 letter: T
 lisan: Arapça tereddud
 anlamlar:
-- ► kararsızlık
-- ► duraksama
+- kararsızlık
+- duraksama
 ozellikler:
 - - isim
 - - isim

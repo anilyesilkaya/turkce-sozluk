@@ -9,13 +9,13 @@ anlamlar:
 - Öteki yüzünü görünür duruma getirmek
 - Döndürerek hareket ettirmek
 - Yönetmek, idare etmek
-- ► durdurmak
+- durdurmak
 - Yolundan alıkoymak, yoldan döndürmek
 - Geri göndermek
 - Bir giyeceği söküp iç yüzünü dışa getirmek
 - Çevrilemek, tevil etmek
 - Çeviri yapmak
-- ► kuşatmak
+- kuşatmak
 - Bir durumdan başka duruma getirmek, dönüştürmek
 - Bir durumdan başka duruma geçmek
 - Kâğıt oyunu oynamak

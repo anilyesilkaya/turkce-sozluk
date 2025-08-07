@@ -5,7 +5,7 @@ slug: ihtimalen
 letter: I
 lisan: Arapça iḫtimālen
 anlamlar:
-- ► muhtemelen
+- muhtemelen
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: istencci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iradeci
+- iradeci
 ozellikler:
 - - sıfat
   - ruh bilimi

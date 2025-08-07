@@ -5,7 +5,7 @@ slug: menetmek
 letter: M
 lisan: Arapça menʿ + Türkçe etmek
 anlamlar:
-- ► yasaklamak
+- yasaklamak
 - Engel olmak
 ozellikler:
 - - -i

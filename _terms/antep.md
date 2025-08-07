@@ -5,7 +5,7 @@ slug: antep
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Gaziantep
+- Gaziantep
 ozellikler:
 - - isim
 ornekler:

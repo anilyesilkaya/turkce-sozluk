@@ -5,7 +5,7 @@ slug: ilmiklemek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilmeklemek
+- ilmeklemek
 ozellikler:
 - - -i
 ornekler:

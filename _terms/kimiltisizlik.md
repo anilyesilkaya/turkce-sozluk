@@ -5,7 +5,7 @@ slug: kimiltisizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıpırtısızlık
+- kıpırtısızlık
 ozellikler:
 - - isim
 ornekler:

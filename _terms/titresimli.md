@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Titreşim yapan veya titreşim oluşturan; vibrasyonlu
-- ► tonlu
+- tonlu
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: pompaj
 letter: P
 lisan: Fransızca pompage
 anlamlar:
-- ► pompalama
+- pompalama
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: aktiflik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► etkinlik
+- etkinlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: su-cullugu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bataklık çulluğu
+- bataklık çulluğu
 ozellikler:
 - - isim
   - hayvan bilimi

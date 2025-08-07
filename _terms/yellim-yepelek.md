@@ -5,7 +5,7 @@ slug: yellim-yepelek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yel yeperek
+- yel yeperek
 ozellikler:
 - - zarf
 ornekler:

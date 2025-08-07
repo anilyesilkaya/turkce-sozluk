@@ -5,7 +5,7 @@ slug: tahakkuk-memuru
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gerçekleştirme görevlisi
+- gerçekleştirme görevlisi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: merkezlemek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merkezleştirmek
+- merkezleştirmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: kabristan
 letter: K
 lisan: Arapça ḳabr + Farsça -istān
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
 ornekler:

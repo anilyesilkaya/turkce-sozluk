@@ -6,7 +6,7 @@ letter: T
 lisan: Fransızca trois-quarts
 anlamlar:
 - Kısa manto
-- ► fakir kol
+- fakir kol
 ozellikler:
 - - isim
 - - isim

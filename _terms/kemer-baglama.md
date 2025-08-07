@@ -5,7 +5,7 @@ slug: kemer-baglama
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuşak bağlama
+- kuşak bağlama
 ozellikler:
 - - isim
 ornekler:

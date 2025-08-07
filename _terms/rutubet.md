@@ -5,7 +5,7 @@ slug: rutubet
 letter: R
 lisan: Arapça ruṭūbet
 anlamlar:
-- ► nem
+- nem
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: degme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► herhangi bir
-- ► seçkin
+- herhangi bir
+- seçkin
 ozellikler:
 - - sıfat
 - - sıfat

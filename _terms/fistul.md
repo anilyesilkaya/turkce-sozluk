@@ -5,7 +5,7 @@ slug: fistul
 letter: F
 lisan: Fransızca fistule
 anlamlar:
-- ► akarca
+- akarca
 ozellikler:
 - - isim
   - tıp

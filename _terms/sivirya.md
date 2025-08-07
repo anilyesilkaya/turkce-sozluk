@@ -5,7 +5,7 @@ slug: sivirya
 letter: S
 lisan: İtalyanca sigurya
 anlamlar:
-- ► alabildiğine
+- alabildiğine
 - Sürekli olarak
 - Birbiri ardı sıra
 ozellikler:

@@ -5,7 +5,7 @@ slug: homoseksuellik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► eş cinsellik
+- eş cinsellik
 ozellikler:
 - - isim
 ornekler:

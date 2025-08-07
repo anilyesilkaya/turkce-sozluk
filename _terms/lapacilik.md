@@ -5,7 +5,7 @@ slug: lapacilik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► tembellik
+- tembellik
 ozellikler:
 - - isim
   - mecaz

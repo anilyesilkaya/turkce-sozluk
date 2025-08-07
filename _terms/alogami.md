@@ -5,7 +5,7 @@ slug: alogami
 letter: A
 lisan: Fransızca allogamie
 anlamlar:
-- ► tozlaşma
+- tozlaşma
 ozellikler:
 - - isim
   - bitki bilimi

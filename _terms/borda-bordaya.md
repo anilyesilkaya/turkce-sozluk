@@ -5,7 +5,7 @@ slug: borda-bordaya
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yan yana
+- yan yana
 ozellikler:
 - - zarf
 ornekler:

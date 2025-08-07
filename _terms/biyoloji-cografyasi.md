@@ -5,7 +5,7 @@ slug: biyoloji-cografyasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► biyojeografi
+- biyojeografi
 ozellikler:
 - - isim
 ornekler:

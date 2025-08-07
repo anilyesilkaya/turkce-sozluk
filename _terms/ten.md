@@ -6,7 +6,7 @@ letter: T
 lisan: Farsça ten
 anlamlar:
 - İnsan vücudunun dış yüzü; cilt
-- ► vücut
+- vücut
 ozellikler:
 - - isim
 - - isim

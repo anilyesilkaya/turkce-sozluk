@@ -5,7 +5,7 @@ slug: akvarist
 letter: A
 lisan: Fransızca aquariste
 anlamlar:
-- ► akvaryumcu
+- akvaryumcu
 ozellikler:
 - - isim
 ornekler:

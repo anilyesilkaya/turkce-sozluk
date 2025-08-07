@@ -5,7 +5,7 @@ slug: spor-otomobil
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► spor araba
+- spor araba
 ozellikler:
 - - isim
 ornekler:

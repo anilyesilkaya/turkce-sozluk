@@ -5,7 +5,7 @@ slug: umumi-katip
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel sekreter
+- genel sekreter
 ozellikler:
 - - isim
   - eskimiş

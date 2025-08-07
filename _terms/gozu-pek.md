@@ -5,7 +5,7 @@ slug: gozu-pek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► korkusuz
+- korkusuz
 ozellikler:
 - - sıfat
   - mecaz

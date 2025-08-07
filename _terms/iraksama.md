@@ -5,7 +5,7 @@ slug: iraksama
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uzaksama
+- uzaksama
 - Iraksak olma durumu
 ozellikler:
 - - isim

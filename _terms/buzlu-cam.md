@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yüzü özel maddeyle donuklaştırılmış, yarı saydam cam
-- ► televizyon
+- televizyon
 ozellikler:
 - - isim
 - - isim

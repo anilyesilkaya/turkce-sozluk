@@ -5,8 +5,8 @@ slug: sozum-ona
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sözde
-- ► sanki
+- sözde
+- sanki
 ozellikler:
 - - zarf
 - - zarf

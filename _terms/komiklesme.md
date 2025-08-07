@@ -5,7 +5,7 @@ slug: komiklesme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gülünçleşme
+- gülünçleşme
 ozellikler:
 - - isim
 ornekler:

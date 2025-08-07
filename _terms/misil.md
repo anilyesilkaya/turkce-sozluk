@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mis̱l
 anlamlar:
 - Eş, benzer
-- ► kat (I)
+- kat (I)
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: yardimci-eylem
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yardımcı fiil
+- yardımcı fiil
 ozellikler:
 - - isim
   - dil bilgisi

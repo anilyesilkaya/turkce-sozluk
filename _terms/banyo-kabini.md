@@ -5,7 +5,7 @@ slug: banyo-kabini
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► duş kabini
+- duş kabini
 ozellikler:
 - - isim
 ornekler:

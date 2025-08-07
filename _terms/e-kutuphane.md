@@ -5,7 +5,7 @@ slug: e-kutuphane
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik kütüphane
+- elektronik kütüphane
 ozellikler:
 - - isim
 ornekler:

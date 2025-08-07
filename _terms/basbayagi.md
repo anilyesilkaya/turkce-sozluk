@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Alışılandan, bilinenden hiçbir farkı olmayan, bilindiği gibi
-- ► ciddi ciddi
+- ciddi ciddi
 ozellikler:
 - - sıfat
 - - sıfat

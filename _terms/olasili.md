@@ -5,8 +5,8 @@ slug: olasili
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► muhtemel
-- ► belkili
+- muhtemel
+- belkili
 ozellikler:
 - - sıfat
 - - sıfat

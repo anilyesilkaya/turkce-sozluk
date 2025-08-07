@@ -5,7 +5,7 @@ slug: mustesrik
 letter: M
 lisan: Arapça musteşriḳ
 anlamlar:
-- ► Doğu bilimci
+- Doğu bilimci
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: aksi-takdirde
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aksi hâlde
+- aksi hâlde
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: bahsedis
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağışlayış
+- bağışlayış
 ozellikler:
 - - isim
 ornekler:

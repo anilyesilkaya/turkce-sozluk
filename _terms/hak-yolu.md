@@ -5,7 +5,7 @@ slug: hak-yolu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► doğru yol
+- doğru yol
 ozellikler:
 - - isim
 ornekler:

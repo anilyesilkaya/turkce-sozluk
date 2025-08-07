@@ -5,7 +5,7 @@ slug: ercecik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erkenden
+- erkenden
 ozellikler:
 - - zarf
 ornekler:

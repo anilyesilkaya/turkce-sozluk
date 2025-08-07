@@ -6,7 +6,7 @@ letter: Ç
 lisan: Farsça çār + yek
 anlamlar:
 - Dörtte bir
-- ► çeyrek altın
+- çeyrek altın
 - Gümüş mecidiyenin dörtte biri değerinde olan beş kuruş
 - On beş dakikalık zaman
 ozellikler:

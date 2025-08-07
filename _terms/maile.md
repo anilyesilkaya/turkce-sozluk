@@ -5,7 +5,7 @@ slug: maile
 letter: M
 lisan: Arapça māʾile
 anlamlar:
-- ► aklan
+- aklan
 ozellikler:
 - - isim
   - eskimiş

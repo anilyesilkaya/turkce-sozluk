@@ -5,7 +5,7 @@ slug: kontrolculuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► denetçilik
+- denetçilik
 ozellikler:
 - - isim
 ornekler:

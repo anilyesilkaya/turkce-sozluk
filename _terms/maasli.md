@@ -5,7 +5,7 @@ slug: maasli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aylıklı
+- aylıklı
 ozellikler:
 - - sıfat
 ornekler:

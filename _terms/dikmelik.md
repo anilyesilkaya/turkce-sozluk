@@ -5,7 +5,7 @@ slug: dikmelik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► fidanlık
+- fidanlık
 ozellikler:
 - - isim
 ornekler:

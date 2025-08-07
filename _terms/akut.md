@@ -5,7 +5,7 @@ slug: akut
 letter: A
 lisan: Almanca akut
 anlamlar:
-- ► iveğen
+- iveğen
 ozellikler:
 - - sıfat
   - tıp

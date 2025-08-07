@@ -5,7 +5,7 @@ slug: muaseret-adabi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► görgü kuralları
+- görgü kuralları
 ozellikler:
 - - isim
 ornekler:

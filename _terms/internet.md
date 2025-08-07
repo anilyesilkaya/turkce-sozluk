@@ -5,7 +5,7 @@ slug: internet
 letter: I
 lisan: İngilizce inter[national] net[work]
 anlamlar:
-- ► genel ağ
+- genel ağ
 ozellikler:
 - - isim
   - bilişim

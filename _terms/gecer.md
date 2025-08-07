@@ -8,7 +8,7 @@ anlamlar:
 - Yürürlükte bulunan, geçerliği olan, kullanılan
 - Beğenilen; makbul
 - Geçme özelliği olan
-- ► geçer not
+- geçer not
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: ecnebi
 letter: E
 lisan: Arapça ecnebī
 anlamlar:
-- ► yabancı
+- yabancı
 ozellikler:
 - - sıfat
 ornekler:

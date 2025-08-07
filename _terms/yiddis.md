@@ -5,7 +5,7 @@ slug: yiddis
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yahudi Almancası
+- Yahudi Almancası
 ozellikler:
 - - isim
 ornekler:

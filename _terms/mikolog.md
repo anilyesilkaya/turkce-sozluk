@@ -5,7 +5,7 @@ slug: mikolog
 letter: M
 lisan: Fransızca mycologue
 anlamlar:
-- ► mantar bilimci
+- mantar bilimci
 ozellikler:
 - - isim
 ornekler:

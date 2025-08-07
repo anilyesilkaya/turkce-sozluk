@@ -5,7 +5,7 @@ slug: okuzdili
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► sığırdili
+- sığırdili
 ozellikler:
 - - isim
   - bitki bilimi

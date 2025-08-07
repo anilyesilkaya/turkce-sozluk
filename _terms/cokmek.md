@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bulunduğu düzeyden aşağı inmek; çukurlaşmak, batmak, obrumak
 - Üzerinde bulunduğu yere yıkılmak
-- ► çömelmek
+- çömelmek
 - Oturmak, birdenbire oturmak
 - Birinin, bir şeyin üzerine çullanmak
 - Deve, sığır vb. olduğu yere oturmak

@@ -5,7 +5,7 @@ slug: mamelek
 letter: M
 lisan: Arapça māmelek
 anlamlar:
-- ► mal varlığı
+- mal varlığı
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿāriżī
 anlamlar:
 - Sonradan olan, dıştan gelen
-- ► geçici
+- geçici
 ozellikler:
 - - sıfat
   - eskimiş

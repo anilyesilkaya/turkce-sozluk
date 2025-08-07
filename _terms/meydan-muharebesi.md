@@ -5,7 +5,7 @@ slug: meydan-muharebesi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► meydan savaşı
+- meydan savaşı
 ozellikler:
 - - isim
   - askerlik

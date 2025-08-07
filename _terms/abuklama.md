@@ -5,7 +5,7 @@ slug: abuklama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçmalama
+- saçmalama
 ozellikler:
 - - isim
 ornekler:

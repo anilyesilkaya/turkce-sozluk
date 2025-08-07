@@ -5,8 +5,8 @@ slug: tesanut
 letter: T
 lisan: Arapça tesānud
 anlamlar:
-- ► omuzdaşlık
-- ► dayanışma
+- omuzdaşlık
+- dayanışma
 ozellikler:
 - - isim
   - eskimiş

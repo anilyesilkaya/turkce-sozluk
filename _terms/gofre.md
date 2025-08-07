@@ -6,7 +6,7 @@ letter: G
 lisan: Fransızca gaufre
 anlamlar:
 - Klişe aracılığıyla kâğıtta kabartma yapmaya yarayan basımcılık tekniği
-- ► kabartma
+- kabartma
 ozellikler:
 - - isim
 - - isim

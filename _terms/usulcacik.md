@@ -5,7 +5,7 @@ slug: usulcacik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► usul (III)
+- usul (III)
 - Belli etmeden; usullacık, yavaşçacık
 ozellikler:
 - - zarf

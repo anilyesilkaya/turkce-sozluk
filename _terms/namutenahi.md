@@ -5,7 +5,7 @@ slug: namutenahi
 letter: N
 lisan: Farsça nā + Arapça mutenāhī
 anlamlar:
-- ► sonsuz
+- sonsuz
 - Sonsuz bir biçimde
 ozellikler:
 - - sıfat

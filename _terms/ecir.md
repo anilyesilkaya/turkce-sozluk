@@ -5,8 +5,8 @@ slug: ecir
 letter: E
 lisan: Arapça ecr
 anlamlar:
-- ► sevap
-- ► ücret
+- sevap
+- ücret
 ozellikler:
 - - isim
   - eskimiş

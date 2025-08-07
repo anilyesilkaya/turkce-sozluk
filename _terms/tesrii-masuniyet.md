@@ -5,7 +5,7 @@ slug: tesrii-masuniyet
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yasama dokunulmazlığı
+- yasama dokunulmazlığı
 ozellikler:
 - - isim
   - hukuk

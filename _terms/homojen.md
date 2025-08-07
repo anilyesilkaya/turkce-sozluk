@@ -5,7 +5,7 @@ slug: homojen
 letter: H
 lisan: Fransızca homogène
 anlamlar:
-- ► bağdaşık
+- bağdaşık
 - Bütün terimleri aynı derecede olan (çok terimli)
 ozellikler:
 - - sıfat

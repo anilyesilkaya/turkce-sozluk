@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Direnci artmak
-- ► sertleşmek
+- sertleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

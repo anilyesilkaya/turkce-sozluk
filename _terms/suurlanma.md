@@ -5,7 +5,7 @@ slug: suurlanma
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlenme
+- bilinçlenme
 ozellikler:
 - - isim
 ornekler:

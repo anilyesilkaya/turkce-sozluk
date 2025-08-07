@@ -5,7 +5,7 @@ slug: hasmetli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► görkemli
+- görkemli
 - Hükümdarlara verilen ünvan
 ozellikler:
 - - sıfat

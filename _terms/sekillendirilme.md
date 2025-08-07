@@ -5,7 +5,7 @@ slug: sekillendirilme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimlendirilme
+- biçimlendirilme
 ozellikler:
 - - isim
 ornekler:

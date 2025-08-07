@@ -5,7 +5,7 @@ slug: tekaut-ikramiyesi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► emekli ikramiyesi
+- emekli ikramiyesi
 ozellikler:
 - - isim
 ornekler:

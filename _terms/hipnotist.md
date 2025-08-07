@@ -5,7 +5,7 @@ slug: hipnotist
 letter: H
 lisan: Fransızca hypnothyste
 anlamlar:
-- ► hipnozcu
+- hipnozcu
 ozellikler:
 - - isim
 ornekler:

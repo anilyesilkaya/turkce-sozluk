@@ -5,7 +5,7 @@ slug: antrenmanli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► idmanlı
+- idmanlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: yaltakcilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
 ornekler:

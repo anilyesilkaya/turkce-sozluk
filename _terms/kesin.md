@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Şüphe ve duraksamaya yer bırakmayan veya geri dönülmeyen; kati
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - sıfat
 - - sıfat

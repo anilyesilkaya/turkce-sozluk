@@ -5,7 +5,7 @@ slug: higroskopik
 letter: H
 lisan: Fransızca hygroscopique
 anlamlar:
-- ► nemçeker
+- nemçeker
 ozellikler:
 - - sıfat
 ornekler:

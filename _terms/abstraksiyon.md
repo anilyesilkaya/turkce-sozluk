@@ -5,7 +5,7 @@ slug: abstraksiyon
 letter: A
 lisan: Fransızca abstraction
 anlamlar:
-- ► soyutlama
+- soyutlama
 ozellikler:
 - - isim
   - felsefe

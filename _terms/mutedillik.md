@@ -5,7 +5,7 @@ slug: mutedillik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ılımlılık
+- ılımlılık
 ozellikler:
 - - isim
 ornekler:

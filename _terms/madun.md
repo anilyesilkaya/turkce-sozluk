@@ -5,8 +5,8 @@ slug: madun
 letter: M
 lisan: Arapça mā + dūn
 anlamlar:
-- ► alt
-- ► ast
+- alt
+- ast
 ozellikler:
 - - isim
   - eskimiş

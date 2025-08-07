@@ -5,7 +5,7 @@ slug: beslengi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► besleme
+- besleme
 ozellikler:
 - - isim
 ornekler:

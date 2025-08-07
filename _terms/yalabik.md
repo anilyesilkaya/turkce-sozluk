@@ -6,9 +6,9 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Alevin oynayarak parıldaması
-- ► şimşek
-- ► parıltılı
-- ► ikiyüzlü
+- şimşek
+- parıltılı
+- ikiyüzlü
 ozellikler:
 - - isim
   - ağızlardan

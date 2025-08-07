@@ -5,7 +5,7 @@ slug: avdeti
 letter: A
 lisan: Arapça ʿavdetī
 anlamlar:
-- ► dönme
+- dönme
 ozellikler:
 - - sıfat
   - din bilimi

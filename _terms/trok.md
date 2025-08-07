@@ -5,7 +5,7 @@ slug: trok
 letter: T
 lisan: Fransızca troc
 anlamlar:
-- ► değişim
+- değişim
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: monoblok
 letter: M
 lisan: Fransızca monobloc
 anlamlar:
-- ► tekgövde
+- tekgövde
 ozellikler:
 - - isim
 ornekler:

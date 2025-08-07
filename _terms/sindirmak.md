@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kırmak, parçalamak
 - Yenerek bozmak, mağlup etmek
-- ► sindirmek
+- sindirmek
 ozellikler:
 - - -i
   - ağızlardan

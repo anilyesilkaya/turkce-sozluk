@@ -5,7 +5,7 @@ slug: elestirmecilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eleştirmenlik
+- eleştirmenlik
 ozellikler:
 - - isim
 ornekler:

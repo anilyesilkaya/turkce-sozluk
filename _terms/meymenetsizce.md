@@ -5,7 +5,7 @@ slug: meymenetsizce
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uğursuzca
+- uğursuzca
 ozellikler:
 - - zarf
 ornekler:

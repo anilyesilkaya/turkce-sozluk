@@ -7,7 +7,7 @@ lisan: Fransızca zigzag
 anlamlar:
 - Art arda birdenbire ters yöne açılar yapan kırık çizgi
 - Sık sık değişen görüş, düşünce veya davranış; istikrarsızlık
-- ► karşılıklı
+- karşılıklı
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: indeks
 letter: I
 lisan: Fransızca index
 anlamlar:
-- ► dizin
-- ► gösterge
+- dizin
+- gösterge
 ozellikler:
 - - isim
 - - isim

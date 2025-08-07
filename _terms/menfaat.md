@@ -5,7 +5,7 @@ slug: menfaat
 letter: M
 lisan: Arapça menfaʿat
 anlamlar:
-- ► çıkar
+- çıkar
 ozellikler:
 - - isim
 ornekler:

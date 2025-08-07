@@ -5,7 +5,7 @@ slug: kurtkulagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► balkadın
+- balkadın
 ozellikler:
 - - isim
   - bitki bilimi

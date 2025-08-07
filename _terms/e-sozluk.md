@@ -5,7 +5,7 @@ slug: e-sozluk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik sözlük
+- elektronik sözlük
 ozellikler:
 - - isim
 ornekler:

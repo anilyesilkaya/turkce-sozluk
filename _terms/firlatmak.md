@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Hızla atmak, bulunduğu yerden dışarı atmak
-- ► savurmak
+- savurmak
 ozellikler:
 - - -i
 - - -i

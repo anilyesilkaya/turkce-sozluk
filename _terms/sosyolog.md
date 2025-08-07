@@ -5,7 +5,7 @@ slug: sosyolog
 letter: S
 lisan: Fransızca sociologue
 anlamlar:
-- ► toplum bilimci
+- toplum bilimci
 ozellikler:
 - - isim
 ornekler:

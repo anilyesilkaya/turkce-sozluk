@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muẕākere
 anlamlar:
 - Bir konuyla ilgili fikir alışverişinde bulunma; oylaşma
-- ► etüt
+- etüt
 ozellikler:
 - - isim
 - - isim

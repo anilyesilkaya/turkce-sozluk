@@ -5,7 +5,7 @@ slug: antrenor
 letter: A
 lisan: Fransızca entraîneur
 anlamlar:
-- ► çalıştırıcı
+- çalıştırıcı
 ozellikler:
 - - isim
   - spor

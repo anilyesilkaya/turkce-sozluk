@@ -5,7 +5,7 @@ slug: kesme-seker
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küp şeker
+- küp şeker
 ozellikler:
 - - isim
 ornekler:

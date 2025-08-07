@@ -5,7 +5,7 @@ slug: yagar
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yağmur
+- yağmur
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: icra-kuvveti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yürütme gücü
+- yürütme gücü
 ozellikler:
 - - isim
 ornekler:

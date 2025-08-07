@@ -5,7 +5,7 @@ slug: hidrolog
 letter: H
 lisan: Fransızca hydrologue
 anlamlar:
-- ► su bilimci
+- su bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: birakisma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ateşkes
+- ateşkes
 ozellikler:
 - - isim
   - askerlik

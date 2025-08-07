@@ -5,7 +5,7 @@ slug: tamlayan-durumu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ilgi durumu
+- ilgi durumu
 ozellikler:
 - - isim
   - dil bilgisi

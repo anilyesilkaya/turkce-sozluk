@@ -5,8 +5,8 @@ slug: tebrik
 letter: T
 lisan: Arapça tebrīk
 anlamlar:
-- ► kutlama
-- ► tebrik kartı
+- kutlama
+- tebrik kartı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: akide-sekeri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akide (II)
+- akide (II)
 ozellikler:
 - - isim
 ornekler:

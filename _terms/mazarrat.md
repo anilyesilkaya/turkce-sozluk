@@ -5,7 +5,7 @@ slug: mazarrat
 letter: M
 lisan: Arapça mażarrat
 anlamlar:
-- ► zarar
+- zarar
 ozellikler:
 - - isim
   - eskimiş

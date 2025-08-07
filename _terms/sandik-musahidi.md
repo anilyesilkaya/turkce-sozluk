@@ -5,7 +5,7 @@ slug: sandik-musahidi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sandık gözlemcisi
+- sandık gözlemcisi
 ozellikler:
 - - isim
 ornekler:

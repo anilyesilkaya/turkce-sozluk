@@ -5,7 +5,7 @@ slug: dahiyane
 letter: D
 lisan: Arapça dāhī + Farsça -āne
 anlamlar:
-- ► dâhice
+- dâhice
 ozellikler:
 - - zarf
   - eskimiş

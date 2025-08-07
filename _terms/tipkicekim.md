@@ -5,7 +5,7 @@ slug: tipkicekim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fotokopi
+- fotokopi
 ozellikler:
 - - isim
 ornekler:

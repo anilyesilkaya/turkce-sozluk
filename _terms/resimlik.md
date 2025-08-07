@@ -6,7 +6,7 @@ letter: R
 lisan: Türkçe
 anlamlar:
 - Resim takmaya yarayan çerçeve
-- ► albüm
+- albüm
 ozellikler:
 - - isim
 - - isim

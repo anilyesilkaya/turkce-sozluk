@@ -5,7 +5,7 @@ slug: at-kenesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Brezilya at kenesi
+- Brezilya at kenesi
 ozellikler:
 - - isim
   - hayvan bilimi

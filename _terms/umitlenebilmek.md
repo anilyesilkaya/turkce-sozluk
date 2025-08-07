@@ -5,7 +5,7 @@ slug: umitlenebilmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutlanabilmek
+- umutlanabilmek
 ozellikler:
 - - -den
 ornekler:

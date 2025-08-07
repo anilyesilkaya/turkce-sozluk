@@ -5,7 +5,7 @@ slug: terapi
 letter: T
 lisan: Fransızca thérapie
 anlamlar:
-- ► tedavi
+- tedavi
 ozellikler:
 - - isim
 ornekler:

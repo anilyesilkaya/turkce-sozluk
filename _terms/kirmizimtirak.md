@@ -5,7 +5,7 @@ slug: kirmizimtirak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırmızımsı
+- kırmızımsı
 ozellikler:
 - - sıfat
 ornekler:

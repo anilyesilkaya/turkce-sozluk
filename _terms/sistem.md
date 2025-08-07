@@ -5,12 +5,12 @@ slug: sistem
 letter: S
 lisan: Fransızca système
 anlamlar:
-- ► düzen
+- düzen
 - Bir sonuç elde etmeye yarayan yöntemler düzeni
-- ► yol
-- ► düzenek
+- yol
+- düzenek
 - Model, tip
-- ► dizge
+- dizge
 ozellikler:
 - - isim
 - - isim

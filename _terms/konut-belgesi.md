@@ -5,7 +5,7 @@ slug: konut-belgesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yerleşim belgesi
+- yerleşim belgesi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: isgal-eylemek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► işgal etmek
+- işgal etmek
 ozellikler:
 - - ''
 ornekler:

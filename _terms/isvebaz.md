@@ -5,7 +5,7 @@ slug: isvebaz
 letter: I
 lisan: Farsça işve + bāz
 anlamlar:
-- ► cilveli
+- cilveli
 ozellikler:
 - - isim
 ornekler:

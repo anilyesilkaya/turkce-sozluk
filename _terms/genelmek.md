@@ -5,7 +5,7 @@ slug: genelmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► genişlemek
+- genişlemek
 ozellikler:
 - - nesnesiz
   - ağızlardan

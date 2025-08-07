@@ -5,7 +5,7 @@ slug: ilgileme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► teyelleme
+- teyelleme
 ozellikler:
 - - isim
 ornekler:

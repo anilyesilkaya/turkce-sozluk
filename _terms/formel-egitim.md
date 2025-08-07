@@ -5,7 +5,7 @@ slug: formel-egitim
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► örgün eğitim
+- örgün eğitim
 ozellikler:
 - - isim
 ornekler:

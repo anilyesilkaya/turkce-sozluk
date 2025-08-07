@@ -8,7 +8,7 @@ anlamlar:
 - Ayakları altında ezmek
 - Bozguna uğratmak, hırpalamak
 - Kıyasıya dövmek
-- ► öldürmek
+- öldürmek
 ozellikler:
 - - -i
 - - -i

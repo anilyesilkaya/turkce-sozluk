@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tuhaf olma durumu; gariplik, garabet
 - Tuhaf davranış; cinslik
-- ► acayiplik
+- acayiplik
 ozellikler:
 - - isim
 - - isim

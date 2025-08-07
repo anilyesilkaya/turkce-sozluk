@@ -5,7 +5,7 @@ slug: dirliksizlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► geçimsizlik
+- geçimsizlik
 ozellikler:
 - - isim
 ornekler:

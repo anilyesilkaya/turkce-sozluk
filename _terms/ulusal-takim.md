@@ -5,7 +5,7 @@ slug: ulusal-takim
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî takım
+- millî takım
 ozellikler:
 - - isim
 ornekler:

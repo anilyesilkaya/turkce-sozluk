@@ -5,7 +5,7 @@ slug: seciye
 letter: S
 lisan: Arapça seciyye
 anlamlar:
-- ► karakter
+- karakter
 ozellikler:
 - - isim
 ornekler:

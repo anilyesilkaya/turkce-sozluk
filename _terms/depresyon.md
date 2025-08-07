@@ -5,8 +5,8 @@ slug: depresyon
 letter: D
 lisan: Fransızca dépression
 anlamlar:
-- ► bunalım
-- ► çöküntü
+- bunalım
+- çöküntü
 ozellikler:
 - - isim
   - ruh bilimi

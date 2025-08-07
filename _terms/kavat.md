@@ -5,7 +5,7 @@ slug: kavat
 letter: K
 lisan: Arapça ḳavvād
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
   - hakaret yollu

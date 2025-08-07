@@ -5,7 +5,7 @@ slug: karahanlica
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Karahanlı Türkçesi
+- Karahanlı Türkçesi
 ozellikler:
 - - isim
   - dil bilimi

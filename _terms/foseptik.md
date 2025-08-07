@@ -5,7 +5,7 @@ slug: foseptik
 letter: F
 lisan: Fransızca fosse septique
 anlamlar:
-- ► lağım çukuru
+- lağım çukuru
 ozellikler:
 - - isim
 ornekler:

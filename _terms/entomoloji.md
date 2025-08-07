@@ -5,7 +5,7 @@ slug: entomoloji
 letter: E
 lisan: Fransızca entomologie
 anlamlar:
-- ► böcek bilimi
+- böcek bilimi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: endustrilesme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sanayileşme
+- sanayileşme
 ozellikler:
 - - isim
 ornekler:

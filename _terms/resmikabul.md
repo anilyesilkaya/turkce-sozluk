@@ -5,7 +5,7 @@ slug: resmikabul
 letter: R
 lisan: Arapça resm + ḳabūl
 anlamlar:
-- ► kabul töreni
+- kabul töreni
 ozellikler:
 - - isim
   - eskimiş

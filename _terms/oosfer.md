@@ -5,7 +5,7 @@ slug: oosfer
 letter: O
 lisan: Fransızca oosphère
 anlamlar:
-- ► yumurta hücresi
+- yumurta hücresi
 ozellikler:
 - - isim
   - biyoloji

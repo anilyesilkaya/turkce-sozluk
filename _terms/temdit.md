@@ -5,7 +5,7 @@ slug: temdit
 letter: T
 lisan: Arapça temdīd
 anlamlar:
-- ► uzatma
+- uzatma
 ozellikler:
 - - isim
   - eskimiş

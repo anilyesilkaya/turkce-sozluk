@@ -5,7 +5,7 @@ slug: libas
 letter: L
 lisan: Arapça libās
 anlamlar:
-- ► giysi
+- giysi
 ozellikler:
 - - isim
   - eskimiş

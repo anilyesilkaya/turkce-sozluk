@@ -5,7 +5,7 @@ slug: viran
 letter: V
 lisan: Farsça vīrān
 anlamlar:
-- ► harap
+- harap
 ozellikler:
 - - sıfat
 ornekler:

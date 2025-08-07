@@ -5,7 +5,7 @@ slug: kakofoni
 letter: K
 lisan: Fransızca cacophonie
 anlamlar:
-- ► ses uyumsuzluğu
+- ses uyumsuzluğu
 ozellikler:
 - - isim
   - edebiyat

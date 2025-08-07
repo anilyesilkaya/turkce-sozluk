@@ -5,7 +5,7 @@ slug: kutsilestirmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kutsallaştırmak
+- kutsallaştırmak
 ozellikler:
 - - -i
 ornekler:

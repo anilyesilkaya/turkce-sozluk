@@ -5,7 +5,7 @@ slug: kulturfizik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► jimnastik
+- jimnastik
 ozellikler:
 - - isim
 ornekler:

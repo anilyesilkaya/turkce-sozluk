@@ -5,7 +5,7 @@ slug: bateristlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► batericilik
+- batericilik
 ozellikler:
 - - isim
 ornekler:

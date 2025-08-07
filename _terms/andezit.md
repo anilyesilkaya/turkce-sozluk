@@ -5,7 +5,7 @@ slug: andezit
 letter: A
 lisan: Fransızca andésite
 anlamlar:
-- ► Ankara taşı
+- Ankara taşı
 ozellikler:
 - - isim
   - mineraloji

@@ -5,7 +5,7 @@ slug: hayat-arkadasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► eş
+- eş
 ozellikler:
 - - isim
 ornekler:

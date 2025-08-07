@@ -5,7 +5,7 @@ slug: satafatlilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► görkemlilik
+- görkemlilik
 ozellikler:
 - - isim
 ornekler:

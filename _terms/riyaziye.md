@@ -5,7 +5,7 @@ slug: riyaziye
 letter: R
 lisan: Arapça riyāżiyye
 anlamlar:
-- ► matematik
+- matematik
 ozellikler:
 - - isim
   - eskimiş

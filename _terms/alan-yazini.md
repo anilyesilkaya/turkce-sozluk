@@ -5,7 +5,7 @@ slug: alan-yazini
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kaynak (I)
+- kaynak (I)
 ozellikler:
 - - isim
 ornekler:

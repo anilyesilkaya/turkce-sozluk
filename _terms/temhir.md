@@ -5,7 +5,7 @@ slug: temhir
 letter: T
 lisan: Arapça temhīr
 anlamlar:
-- ► mühürleme
+- mühürleme
 ozellikler:
 - - isim
   - eskimiş

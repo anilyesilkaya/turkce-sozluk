@@ -5,7 +5,7 @@ slug: vize-sinavi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ara sınav
+- ara sınav
 ozellikler:
 - - isim
   - eğitim

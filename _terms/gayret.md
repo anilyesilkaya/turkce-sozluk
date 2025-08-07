@@ -6,7 +6,7 @@ letter: G
 lisan: Arapça ġayret
 anlamlar:
 - Çalışma isteği; mücahede
-- ► çaba
+- çaba
 - Koruma, esirgeme, kayırma duygusu
 - Kutsal sayılan şeylere yabancıların saldırmasını görmekten doğan dayanamama duygusu
 ozellikler:

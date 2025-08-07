@@ -5,7 +5,7 @@ slug: aks
 letter: A
 lisan: Fransızca axe
 anlamlar:
-- ► dingil
+- dingil
 ozellikler:
 - - isim
 ornekler:

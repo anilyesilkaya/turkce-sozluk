@@ -5,7 +5,7 @@ slug: istida
 letter: I
 lisan: Arapça istidʿāʾ
 anlamlar:
-- ► dilekçe
+- dilekçe
 ozellikler:
 - - isim
   - eskimiş

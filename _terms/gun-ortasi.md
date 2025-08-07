@@ -5,7 +5,7 @@ slug: gun-ortasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► öğle
+- öğle
 ozellikler:
 - - isim
 ornekler:

@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Aba yapan veya satan kimse
 - Abadan giyecek yapan veya satan kimse
-- ► asalak
-- ► bedavacı
+- asalak
+- bedavacı
 ozellikler:
 - - isim
 - - isim

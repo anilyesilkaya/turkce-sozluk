@@ -5,7 +5,7 @@ slug: korner-atisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köşe vuruşu
+- köşe vuruşu
 ozellikler:
 - - isim
   - spor

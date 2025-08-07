@@ -5,7 +5,7 @@ slug: affedis
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlayış
+- bağışlayış
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gizli-oturum
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kapalı oturum, açık oturum karşıtı
+- kapalı oturum, açık oturum karşıtı
 ozellikler:
 - - isim
 ornekler:

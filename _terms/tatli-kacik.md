@@ -5,7 +5,7 @@ slug: tatli-kacik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tatlı bela
+- tatlı bela
 ozellikler:
 - - isim
   - mecaz

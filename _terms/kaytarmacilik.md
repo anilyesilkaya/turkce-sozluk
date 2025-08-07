@@ -5,7 +5,7 @@ slug: kaytarmacilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaytarıcılık
+- kaytarıcılık
 ozellikler:
 - - isim
 ornekler:

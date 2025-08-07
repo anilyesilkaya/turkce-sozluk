@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İçli bitkiler tanelenmek, iç tutmak
 - Kimseye belli etmeden bir şeyi kendine dert etmek, duygulanmak
-- ► kahrolmak
+- kahrolmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

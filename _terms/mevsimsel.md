@@ -5,7 +5,7 @@ slug: mevsimsel
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mevsimlik
+- mevsimlik
 ozellikler:
 - - sıfat
 ornekler:

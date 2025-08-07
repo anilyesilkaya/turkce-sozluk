@@ -5,7 +5,7 @@ slug: mutavassit
 letter: M
 lisan: Arapça mutavassiṭ
 anlamlar:
-- ► aracı
+- aracı
 ozellikler:
 - - isim
   - eskimiş

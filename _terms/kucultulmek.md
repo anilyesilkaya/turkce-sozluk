@@ -5,7 +5,7 @@ slug: kucultulmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ufaltılmak
+- ufaltılmak
 ozellikler:
 - - nesnesiz
 ornekler:

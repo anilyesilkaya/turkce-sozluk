@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Sağlığı pek yerinde olmayan; mizaçsız, rahatsız
-- ► neşesiz
+- neşesiz
 ozellikler:
 - - sıfat
 - - sıfat

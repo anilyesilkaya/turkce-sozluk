@@ -5,7 +5,7 @@ slug: emniyet-atasesi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► güvenlik ataşesi
+- güvenlik ataşesi
 ozellikler:
 - - isim
 ornekler:

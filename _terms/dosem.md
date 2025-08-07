@@ -5,7 +5,7 @@ slug: dosem
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tesisat
+- tesisat
 ozellikler:
 - - isim
 ornekler:

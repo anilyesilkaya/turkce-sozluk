@@ -5,7 +5,7 @@ slug: yeksan
 letter: Y
 lisan: Farsça yeksān
 anlamlar:
-- ► düz (I)
+- düz (I)
 - Bir, aynı düzeyde, eşit olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: karakavza
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yaban havucu
+- yaban havucu
 ozellikler:
 - - isim
   - bitki bilimi

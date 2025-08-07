@@ -5,8 +5,8 @@ slug: entegrasyon
 letter: E
 lisan: Fransızca intégration
 anlamlar:
-- ► bütünleşme
-- ► uyum
+- bütünleşme
+- uyum
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: hemen
 letter: H
 lisan: Farsça hemān
 anlamlar:
-- ► çabucak
-- ► aşağı yukarı
+- çabucak
+- aşağı yukarı
 - Yakın mesafe, konum vb. için çok
 ozellikler:
 - - zarf

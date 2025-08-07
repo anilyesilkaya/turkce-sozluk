@@ -5,8 +5,8 @@ slug: bastan-asagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tamamen
-- ► baştan başa
+- tamamen
+- baştan başa
 - Her yönüyle
 ozellikler:
 - - zarf

@@ -5,7 +5,7 @@ slug: tamirat
 letter: T
 lisan: Arapça taʿmīrāt
 anlamlar:
-- ► onarım
+- onarım
 ozellikler:
 - - isim
 ornekler:

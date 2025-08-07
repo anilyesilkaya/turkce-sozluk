@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥāmil
 anlamlar:
 - Elinde bulunduran, üzerinde taşıyan
-- ► destek
+- destek
 ozellikler:
 - - sıfat
   - eskimiş

@@ -9,7 +9,7 @@ anlamlar:
 - Bu ağacın meyvesinin çekirdeği
 - Bu çekirdeklerin kavrulup çekilmesiyle elde edilen toz
 - Bu tozla hazırlanan içecek
-- ► kahvehane
+- kahvehane
 ozellikler:
 - - isim
   - bitki bilimi

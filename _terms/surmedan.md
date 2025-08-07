@@ -5,7 +5,7 @@ slug: surmedan
 letter: S
 lisan: Türkçe sürme + Farsça -dān
 anlamlar:
-- ► sürmelik
+- sürmelik
 ozellikler:
 - - isim
   - eskimiş

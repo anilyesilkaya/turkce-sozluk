@@ -5,7 +5,7 @@ slug: uzak-sark
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Uzak Doğu
+- Uzak Doğu
 ozellikler:
 - - isim
 ornekler:

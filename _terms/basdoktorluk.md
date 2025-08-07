@@ -5,7 +5,7 @@ slug: basdoktorluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başhekimlik
+- başhekimlik
 ozellikler:
 - - isim
 ornekler:

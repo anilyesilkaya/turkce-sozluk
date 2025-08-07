@@ -5,7 +5,7 @@ slug: flandra-baligi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kurdele balığı
+- kurdele balığı
 ozellikler:
 - - isim
   - hayvan bilimi

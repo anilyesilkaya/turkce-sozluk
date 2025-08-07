@@ -5,8 +5,8 @@ slug: hifiz
 letter: H
 lisan: Arapça ḥifẓ
 anlamlar:
-- ► saklama
-- ► ezberleme
+- saklama
+- ezberleme
 ozellikler:
 - - isim
   - eskimiş

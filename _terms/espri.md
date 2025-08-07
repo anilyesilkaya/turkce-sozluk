@@ -7,7 +7,7 @@ lisan: Fransızca esprit
 anlamlar:
 - İnce anlamlı, düşündürürken güldüren söz
 - Bir konunun asıl anlamı
-- ► nükte
+- nükte
 ozellikler:
 - - isim
 - - isim

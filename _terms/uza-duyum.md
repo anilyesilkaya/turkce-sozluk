@@ -5,7 +5,7 @@ slug: uza-duyum
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► telepati
+- telepati
 ozellikler:
 - - isim
   - ruh bilimi

@@ -5,7 +5,7 @@ slug: yangisiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iltihapsız
+- iltihapsız
 ozellikler:
 - - sıfat
 ornekler:

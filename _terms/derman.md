@@ -5,7 +5,7 @@ slug: derman
 letter: D
 lisan: Farsça dermān
 anlamlar:
-- ► takat
+- takat
 - Bir hastalığı iyileştiren ilaç
 - Bir sorundan kurtulmayı sağlayan çözüm
 ozellikler:

@@ -5,7 +5,7 @@ slug: anlamdaslik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► eş anlamlılık
+- eş anlamlılık
 ozellikler:
 - - isim
 ornekler:

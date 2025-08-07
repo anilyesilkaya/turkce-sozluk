@@ -5,7 +5,7 @@ slug: asiri-etkinlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hiperaktivite
+- hiperaktivite
 ozellikler:
 - - isim
 ornekler:

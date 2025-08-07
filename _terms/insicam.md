@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça insicām
 anlamlar:
 - Benzer nesneler arasındaki veya bir bütünü oluşturan parçalar arasındaki uyum; bağdaşım
-- ► tutarlılık
+- tutarlılık
 ozellikler:
 - - isim
 - - isim

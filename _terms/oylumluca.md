@@ -5,7 +5,7 @@ slug: oylumluca
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hacimlice
+- hacimlice
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: boynuzumsu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boynuzsu
+- boynuzsu
 ozellikler:
 - - sıfat
 ornekler:

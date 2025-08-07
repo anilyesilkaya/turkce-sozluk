@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekilmek işi
-- ► istifa
+- istifa
 - Savaşta, bir ordunun veya bir birliğin düşmandan ayrılmak için yaptığı davranış; ricat
 - Yerin yükselmesiyle bu yeri örten deniz sularının gerilemesi, basma karşıtı
 - Bir boksörün veya güreşçinin herhangi bir sebeple karşılaşmayı bırakması

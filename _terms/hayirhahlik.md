@@ -5,7 +5,7 @@ slug: hayirhahlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayırseverlik
+- hayırseverlik
 ozellikler:
 - - isim
 ornekler:

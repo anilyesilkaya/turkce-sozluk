@@ -5,7 +5,7 @@ slug: projeksiyon-cihazi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► yansıtım aygıtı
+- yansıtım aygıtı
 ozellikler:
 - - isim
 ornekler:

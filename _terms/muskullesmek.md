@@ -5,7 +5,7 @@ slug: muskullesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► zorlaşmak
+- zorlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

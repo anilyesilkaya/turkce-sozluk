@@ -6,7 +6,7 @@ letter: G
 lisan: Fransızca gastronome
 anlamlar:
 - Damak zevki olan, ağzının tadını bilen, iyi yemekten anlayan kimse
-- ► küvet
+- küvet
 ozellikler:
 - - isim
 - - isim

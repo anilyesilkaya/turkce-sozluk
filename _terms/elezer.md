@@ -5,7 +5,7 @@ slug: elezer
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sadist
+- sadist
 ozellikler:
 - - sıfat
   - ruh bilimi

@@ -5,7 +5,7 @@ slug: dikizlemek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gözetlemek
+- gözetlemek
 ozellikler:
 - - -i
   - argo

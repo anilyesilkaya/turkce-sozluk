@@ -5,7 +5,7 @@ slug: filateli
 letter: F
 lisan: Fransızca philatélie
 anlamlar:
-- ► pulculuk
+- pulculuk
 ozellikler:
 - - isim
 ornekler:

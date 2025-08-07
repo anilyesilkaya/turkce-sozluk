@@ -5,7 +5,7 @@ slug: parlamak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parıldamak
+- parıldamak
 - Bir ışık kaynağından gelen ışınları yansıtmak; delepmek
 - Tutuşup alev çıkarmak
 - Mevkisi yükselmek

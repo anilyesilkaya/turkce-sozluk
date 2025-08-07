@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça murtekib
 anlamlar:
 - Para, kazanç karşılığı olarak kötü, uygunsuz işler çeviren (kimse)
-- ► yiyici
+- yiyici
 ozellikler:
 - - sıfat
   - eskimiş

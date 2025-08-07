@@ -5,8 +5,8 @@ slug: oral
 letter: O
 lisan: Fransızca oral
 anlamlar:
-- ► ağızcıl
-- ► sözlü
+- ağızcıl
+- sözlü
 - Ağız yoluyla
 - Söze dayanan
 ozellikler:

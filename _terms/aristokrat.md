@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca aristocrate
 anlamlar:
 - Soylu erki yanlısı
-- ► soylu
+- soylu
 ozellikler:
 - - sıfat
 - - sıfat

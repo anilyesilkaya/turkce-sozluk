@@ -6,7 +6,7 @@ letter: M
 lisan: Farsça mīve
 anlamlar:
 - Bitkilerde çiçeğin döllenmesinden sonra yumurtalığın gelişmesiyle oluşan tohumları taşıyan, genellikle yenebilen organ; yemiş
-- ► ürün
+- ürün
 ozellikler:
 - - isim
   - bitki bilimi

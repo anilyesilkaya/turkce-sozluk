@@ -5,7 +5,7 @@ slug: cepcevre
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çepeçevre
+- çepeçevre
 ozellikler:
 - - sıfat
   - zarf

@@ -5,7 +5,7 @@ slug: miralay
 letter: M
 lisan: Farsça mīr + Türkçe alay
 anlamlar:
-- ► albay
+- albay
 ozellikler:
 - - isim
   - eskimiş

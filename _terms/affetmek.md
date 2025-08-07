@@ -5,7 +5,7 @@ slug: affetmek
 letter: A
 lisan: Arapça ʿafv + Türkçe etmek
 anlamlar:
-- ► bağışlamak
+- bağışlamak
 - Hoşgörü ile karşılamak; mazur görmek
 - Birinin sorumluluğundaki bir görevden veya işten çıkmasına izin vermek
 ozellikler:

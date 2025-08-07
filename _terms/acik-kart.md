@@ -5,7 +5,7 @@ slug: acik-kart
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık çek
+- açık çek
 ozellikler:
 - - isim
   - mecaz

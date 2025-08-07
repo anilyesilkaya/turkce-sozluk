@@ -5,9 +5,9 @@ slug: yikinti
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıkılma
+- yıkılma
 - Yıkılan bir şeyin parçaları, kalıntıları; enkaz
-- ► virane
+- virane
 - Ruhsal bakımdan yıkılma
 ozellikler:
 - - isim

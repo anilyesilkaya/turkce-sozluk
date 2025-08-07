@@ -5,7 +5,7 @@ slug: senkronizm
 letter: S
 lisan: Fransızca synchronisme
 anlamlar:
-- ► eş zamanlılık
+- eş zamanlılık
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: korporasyon
 letter: K
 lisan: Fransızca corporation
 anlamlar:
-- ► lonca
+- lonca
 ozellikler:
 - - isim
 ornekler:

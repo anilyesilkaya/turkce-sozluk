@@ -5,7 +5,7 @@ slug: celismesiz
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çelişkisiz
+- çelişkisiz
 ozellikler:
 - - sıfat
 ornekler:

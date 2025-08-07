@@ -5,7 +5,7 @@ slug: basmuallimlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başöğretmenlik
+- başöğretmenlik
 ozellikler:
 - - isim
 ornekler:

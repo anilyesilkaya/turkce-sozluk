@@ -5,8 +5,8 @@ slug: telaki
 letter: T
 lisan: Arapça telāḳī
 anlamlar:
-- ► buluşma
-- ► kavuşma
+- buluşma
+- kavuşma
 ozellikler:
 - - isim
   - eskimiş

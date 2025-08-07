@@ -5,7 +5,7 @@ slug: avanaklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saflık
+- saflık
 ozellikler:
 - - isim
 ornekler:

@@ -6,8 +6,8 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval
-- ► öğle ezanı
-- ► öğle namazı
+- öğle ezanı
+- öğle namazı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: yorekent
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► banliyö
+- banliyö
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: anesteziyolojik
 letter: A
 lisan: Fransızca anesthésiologique
 anlamlar:
-- ► anestezi bilimsel
+- anestezi bilimsel
 ozellikler:
 - - sıfat
   - tıp

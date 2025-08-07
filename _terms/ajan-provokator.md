@@ -5,7 +5,7 @@ slug: ajan-provokator
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kışkırtıcı ajan
+- kışkırtıcı ajan
 ozellikler:
 - - isim
 ornekler:

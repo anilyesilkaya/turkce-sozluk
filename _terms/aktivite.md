@@ -5,7 +5,7 @@ slug: aktivite
 letter: A
 lisan: Fransızca activité
 anlamlar:
-- ► etkinlik
+- etkinlik
 ozellikler:
 - - isim
 ornekler:

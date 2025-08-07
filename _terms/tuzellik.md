@@ -5,7 +5,7 @@ slug: tuzellik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hukukilik
+- hukukilik
 ozellikler:
 - - isim
 ornekler:

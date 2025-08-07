@@ -5,7 +5,7 @@ slug: efemine
 letter: E
 lisan: Fransızca efféminé
 anlamlar:
-- ► kadınsı
+- kadınsı
 ozellikler:
 - - sıfat
 ornekler:

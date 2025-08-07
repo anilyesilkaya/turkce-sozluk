@@ -5,7 +5,7 @@ slug: lagvolunmak
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► fesholunmak
+- fesholunmak
 ozellikler:
 - - nesnesiz
 ornekler:

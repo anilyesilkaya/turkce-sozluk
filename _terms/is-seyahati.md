@@ -5,7 +5,7 @@ slug: is-seyahati
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iş gezisi
+- iş gezisi
 ozellikler:
 - - isim
 ornekler:

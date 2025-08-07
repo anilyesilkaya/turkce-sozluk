@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Horoz ötmek
-- ► bağırmak
+- bağırmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

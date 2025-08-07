@@ -5,7 +5,7 @@ slug: oru
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► otlak
+- otlak
 ozellikler:
 - - isim
   - ağızlardan

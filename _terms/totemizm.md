@@ -5,7 +5,7 @@ slug: totemizm
 letter: T
 lisan: Fransızca totemisme
 anlamlar:
-- ► totemcilik
+- totemcilik
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: istenc-disi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► irade dışı
+- irade dışı
 ozellikler:
 - - sıfat
   - ruh bilimi

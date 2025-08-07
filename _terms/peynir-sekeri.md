@@ -5,7 +5,7 @@ slug: peynir-sekeri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► Mevlâna şekeri
+- Mevlâna şekeri
 ozellikler:
 - - isim
 ornekler:

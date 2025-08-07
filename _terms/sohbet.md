@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça ṣuḥbet
 anlamlar:
 - İki veya daha fazla kişi arasında dostça, arkadaşça yapılan konuşma; hasbihâl
-- ► söyleşi
+- söyleşi
 ozellikler:
 - - isim
 - - isim

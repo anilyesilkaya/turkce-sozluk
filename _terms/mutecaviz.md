@@ -5,7 +5,7 @@ slug: mutecaviz
 letter: M
 lisan: Arapça mutecāviz
 anlamlar:
-- ► saldırgan
+- saldırgan
 - -den çok, -i aşan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: nativizm
 letter: N
 lisan: Fransızca nativisme
 anlamlar:
-- ► doğuştancılık
+- doğuştancılık
 ozellikler:
 - - isim
   - ruh bilimi

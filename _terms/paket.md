@@ -10,7 +10,7 @@ anlamlar:
 - Herhangi bir alanda alınmış olan kararların tümü
 - Kullanıcıların belli sorunlarının çözümüne ilişkin geliştirilmiş genel amaçlı program
 - Bir bütün olarak sunulan, ileti ve sayısal hizmet ögelerinden oluşan veriler kümesi
-- ► dolu (II)
+- dolu (II)
 ozellikler:
 - - isim
 - - isim

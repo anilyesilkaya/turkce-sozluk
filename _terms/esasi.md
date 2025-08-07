@@ -5,7 +5,7 @@ slug: esasi
 letter: E
 lisan: Arapça esāsī
 anlamlar:
-- ► asal
+- asal
 ozellikler:
 - - sıfat
   - eskimiş

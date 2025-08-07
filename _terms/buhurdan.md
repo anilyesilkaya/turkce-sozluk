@@ -5,7 +5,7 @@ slug: buhurdan
 letter: B
 lisan: Arapça baḫūr + Farsça -dān
 anlamlar:
-- ► buhurluk
+- buhurluk
 ozellikler:
 - - isim
   - eskimiş

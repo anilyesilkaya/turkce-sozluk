@@ -5,8 +5,8 @@ slug: misyon
 letter: M
 lisan: Fransızca mission
 anlamlar:
-- ► görev
-- ► amaç
+- görev
+- amaç
 - Dinsel, bilimsel veya diplomatik bir görev yüklenmiş kimselerden oluşan kurul
 ozellikler:
 - - isim

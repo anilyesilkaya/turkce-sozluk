@@ -5,7 +5,7 @@ slug: sadeyag
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tereyağı
+- tereyağı
 ozellikler:
 - - isim
 ornekler:

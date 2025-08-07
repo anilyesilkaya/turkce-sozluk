@@ -5,7 +5,7 @@ slug: koordine
 letter: K
 lisan: Fransızca coordinné
 anlamlar:
-- ► eş güdümlü
+- eş güdümlü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: takrip
 letter: T
 lisan: Arapça taḳrīb
 anlamlar:
-- ► yaklaştırma
+- yaklaştırma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: incitmebeni
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanser
+- kanser
 ozellikler:
 - - isim
   - ağızlardan

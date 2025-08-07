@@ -5,7 +5,7 @@ slug: vahsiyane
 letter: V
 lisan: Arapça vaḥşī + Farsça -āne
 anlamlar:
-- ► vahşice
+- vahşice
 ozellikler:
 - - zarf
   - eskimiş

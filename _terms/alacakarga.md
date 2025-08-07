@@ -5,7 +5,7 @@ slug: alacakarga
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saksağan
+- saksağan
 ozellikler:
 - - isim
   - hayvan bilimi

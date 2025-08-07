@@ -5,7 +5,7 @@ slug: sirf
 letter: S
 lisan: Arapça ṣirf
 anlamlar:
-- ► yalnızca
+- yalnızca
 - Tümüyle, tamamen
 ozellikler:
 - - zarf

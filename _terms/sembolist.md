@@ -5,7 +5,7 @@ slug: sembolist
 letter: S
 lisan: Fransızca symboliste
 anlamlar:
-- ► simgeci
+- simgeci
 ozellikler:
 - - sıfat
 ornekler:

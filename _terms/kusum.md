@@ -5,8 +5,8 @@ slug: kusum
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuşku
-- ► kaygı
+- kuşku
+- kaygı
 ozellikler:
 - - isim
   - ağızlardan

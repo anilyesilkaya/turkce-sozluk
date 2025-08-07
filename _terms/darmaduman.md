@@ -5,7 +5,7 @@ slug: darmaduman
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► karmakarışık
+- karmakarışık
 ozellikler:
 - - sıfat
 ornekler:

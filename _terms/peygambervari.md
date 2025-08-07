@@ -6,7 +6,7 @@ letter: P
 lisan: Farsça peyġam-ber-vārī
 anlamlar:
 - Peygamber gibi
-- ► peygamberce
+- peygamberce
 ozellikler:
 - - sıfat
   - eskimiş

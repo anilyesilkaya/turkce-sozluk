@@ -5,8 +5,8 @@ slug: yakinlamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yakınlaşmak
-- ► yaklaşmak
+- yakınlaşmak
+- yaklaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

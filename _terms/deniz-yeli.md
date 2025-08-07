@@ -5,7 +5,7 @@ slug: deniz-yeli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► imbat
+- imbat
 ozellikler:
 - - isim
 ornekler:

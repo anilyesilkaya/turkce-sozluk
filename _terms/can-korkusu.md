@@ -5,7 +5,7 @@ slug: can-korkusu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ölüm korkusu
+- ölüm korkusu
 ozellikler:
 - - isim
 ornekler:

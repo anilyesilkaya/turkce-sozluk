@@ -9,7 +9,7 @@ anlamlar:
 - Gözü biraz kapamak; büzmek
 - Dar duruma getirmek
 - Lamba ışığı, ocak alevi vb.ni azaltmak
-- ► kıstırmak
+- kıstırmak
 - Masraf, harcama vb.ni azaltmak
 - Verilen hak ve özgürlüklerin sınırını daraltmak
 - Pintilik etmek

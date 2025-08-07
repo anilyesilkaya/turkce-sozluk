@@ -5,7 +5,7 @@ slug: mufterilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► karalamacılık
+- karalamacılık
 ozellikler:
 - - isim
 ornekler:

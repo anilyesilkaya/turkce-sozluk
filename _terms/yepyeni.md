@@ -8,7 +8,7 @@ anlamlar:
 - Çok yeni, hiç kullanılmamış; gıcır gıcır
 - Eskiyle bağlantısı olmayan
 - Alışılmamış, görülmemiş
-- ► tertemiz
+- tertemiz
 - Tertemiz bir biçimde
 ozellikler:
 - - sıfat

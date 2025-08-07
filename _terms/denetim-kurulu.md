@@ -5,7 +5,7 @@ slug: denetim-kurulu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denetleme kurulu
+- denetleme kurulu
 ozellikler:
 - - isim
 ornekler:

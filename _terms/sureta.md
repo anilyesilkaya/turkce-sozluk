@@ -5,8 +5,8 @@ slug: sureta
 letter: S
 lisan: Arapça ṣūretā
 anlamlar:
-- ► görünüşte
-- ► yalandan
+- görünüşte
+- yalandan
 ozellikler:
 - - zarf
 - - zarf

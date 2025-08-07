@@ -5,7 +5,7 @@ slug: sekilsizce
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimsizce
+- biçimsizce
 ozellikler:
 - - zarf
 ornekler:

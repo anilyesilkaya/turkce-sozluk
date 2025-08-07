@@ -5,7 +5,7 @@ slug: teizm
 letter: T
 lisan: Fransızca théisme
 anlamlar:
-- ► tanrıcılık
+- tanrıcılık
 ozellikler:
 - - isim
   - felsefe

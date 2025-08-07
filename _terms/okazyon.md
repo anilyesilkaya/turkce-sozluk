@@ -5,8 +5,8 @@ slug: okazyon
 letter: O
 lisan: Fransızca occasion
 anlamlar:
-- ► fırsat
-- ► kelepir
+- fırsat
+- kelepir
 ozellikler:
 - - isim
 - - isim

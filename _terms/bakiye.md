@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça baḳiyye
 anlamlar:
 - Artık, artan, kalan, geri kalan şey
-- ► kalıntı
+- kalıntı
 - Alacak ve borçlar arasındaki fark
 ozellikler:
 - - isim

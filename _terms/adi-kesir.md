@@ -5,7 +5,7 @@ slug: adi-kesir
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bayağı kesir
+- bayağı kesir
 ozellikler:
 - - isim
   - matematik

@@ -5,7 +5,7 @@ slug: adali
 letter: A
 lisan: Arapça ‘ażāli
 anlamlar:
-- ► kaslı
+- kaslı
 ozellikler:
 - - sıfat
 ornekler:

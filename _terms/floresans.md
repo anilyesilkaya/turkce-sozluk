@@ -5,7 +5,7 @@ slug: floresans
 letter: F
 lisan: Fransızca fluorescence
 anlamlar:
-- ► florışı
+- florışı
 ozellikler:
 - - isim
   - fizik

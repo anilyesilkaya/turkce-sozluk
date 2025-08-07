@@ -5,8 +5,8 @@ slug: buruk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çarşaf
-- ► duvak
+- çarşaf
+- duvak
 - Başa takılan beyaz örtü
 ozellikler:
 - - isim

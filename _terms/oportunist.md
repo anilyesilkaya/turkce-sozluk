@@ -5,7 +5,7 @@ slug: oportunist
 letter: O
 lisan: Fransızca opportuniste
 anlamlar:
-- ► fırsatçı
+- fırsatçı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yansitac
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yansıtıcı
+- yansıtıcı
 ozellikler:
 - - isim
 ornekler:

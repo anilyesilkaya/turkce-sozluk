@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mumāss
 anlamlar:
 - Dokunan, temas eden
-- ► teğet
+- teğet
 ozellikler:
 - - sıfat
   - eskimiş

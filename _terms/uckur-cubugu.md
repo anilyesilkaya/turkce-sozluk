@@ -5,7 +5,7 @@ slug: uckur-cubugu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uçkurluk
+- uçkurluk
 ozellikler:
 - - isim
 ornekler:

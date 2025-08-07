@@ -5,7 +5,7 @@ slug: vatan-borcu
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► askerlik
+- askerlik
 ozellikler:
 - - isim
   - mecaz

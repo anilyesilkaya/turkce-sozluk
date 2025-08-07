@@ -5,7 +5,7 @@ slug: akil-defteri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ajanda
+- ajanda
 - Gördüklerini aklına kaydeden, unutmayan kimse
 ozellikler:
 - - isim

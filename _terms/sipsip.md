@@ -5,7 +5,7 @@ slug: sipsip
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şıpıdık
+- şıpıdık
 ozellikler:
 - - isim
 ornekler:

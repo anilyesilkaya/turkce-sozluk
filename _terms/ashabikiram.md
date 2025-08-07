@@ -5,7 +5,7 @@ slug: ashabikiram
 letter: A
 lisan: Arapça aṣḥāb + kirām
 anlamlar:
-- ► sahabe
+- sahabe
 ozellikler:
 - - isim
   - din bilimi

@@ -5,7 +5,7 @@ slug: baytar
 letter: B
 lisan: Arapça bayṭar
 anlamlar:
-- ► veteriner
+- veteriner
 ozellikler:
 - - isim
 ornekler:

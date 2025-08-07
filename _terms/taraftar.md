@@ -5,7 +5,7 @@ slug: taraftar
 letter: T
 lisan: Arapça ṭaraf + Farsça -dār
 anlamlar:
-- ► yandaş
+- yandaş
 - Sporcunun veya sporcuların temsil ettikleri renklere, kulübe veya bayrağa bağlı kimse
 ozellikler:
 - - isim

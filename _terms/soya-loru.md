@@ -5,7 +5,7 @@ slug: soya-loru
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soya eti
+- soya eti
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dusunum
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düşün
+- düşün
 ozellikler:
 - - isim
 ornekler:

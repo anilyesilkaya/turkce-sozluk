@@ -6,9 +6,9 @@ letter: T
 lisan: Arapça tems̱īl
 anlamlar:
 - Birinin veya bir topluluğun adına davranma
-- ► oyun
-- ► söz gelişi
-- ► özümleme
+- oyun
+- söz gelişi
+- özümleme
 ozellikler:
 - - isim
 - - isim

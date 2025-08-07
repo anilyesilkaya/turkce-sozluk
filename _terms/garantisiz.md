@@ -5,7 +5,7 @@ slug: garantisiz
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güvencesiz
+- güvencesiz
 ozellikler:
 - - sıfat
 ornekler:

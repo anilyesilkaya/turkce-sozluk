@@ -5,7 +5,7 @@ slug: misirtavugu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hindi
+- hindi
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: mavraci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► geveze
-- ► palavracı
+- geveze
+- palavracı
 ozellikler:
 - - sıfat
 - - sıfat

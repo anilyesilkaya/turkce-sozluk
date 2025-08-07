@@ -5,7 +5,7 @@ slug: pis
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kirli
+- kirli
 - Kendinde pislik olan veya pislenmiş olan
 - Beğenilmeyecek durumda olan, kötü, zararlı
 - Çirkin, sevimsiz olan

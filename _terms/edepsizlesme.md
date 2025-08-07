@@ -5,7 +5,7 @@ slug: edepsizlesme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► terbiyesizleşme
+- terbiyesizleşme
 ozellikler:
 - - isim
 ornekler:

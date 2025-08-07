@@ -5,7 +5,7 @@ slug: tirtik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çentik
+- çentik
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: kontrast
 letter: K
 lisan: Fransızca contraste
 anlamlar:
-- ► karşıt
-- ► karşıtlık
+- karşıt
+- karşıtlık
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: kipirdatmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kımıldatmak
+- kımıldatmak
 ozellikler:
 - - -i
 ornekler:

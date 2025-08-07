@@ -5,7 +5,7 @@ slug: yuruk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yörük
+- Yörük
 ozellikler:
 - - isim
 ornekler:

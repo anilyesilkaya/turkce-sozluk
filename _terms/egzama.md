@@ -5,7 +5,7 @@ slug: egzama
 letter: E
 lisan: Fransızca eczéma
 anlamlar:
-- ► mayasıl
+- mayasıl
 ozellikler:
 - - isim
   - tıp

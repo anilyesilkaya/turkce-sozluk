@@ -5,7 +5,7 @@ slug: pedofili
 letter: P
 lisan: İngilizce pedophilia
 anlamlar:
-- ► sübyancılık
+- sübyancılık
 ozellikler:
 - - isim
 ornekler:

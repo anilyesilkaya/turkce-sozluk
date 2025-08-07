@@ -5,10 +5,10 @@ slug: emsal
 letter: E
 lisan: Arapça ems̱āl
 anlamlar:
-- ► benzer
-- ► yaşıt
-- ► örnek
-- ► katsayı
+- benzer
+- yaşıt
+- örnek
+- katsayı
 ozellikler:
 - - isim
 - - isim

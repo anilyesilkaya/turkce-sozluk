@@ -5,7 +5,7 @@ slug: intisar
 letter: I
 lisan: Arapça intişār
 anlamlar:
-- ► yayılma
+- yayılma
 - Gazete veya dergi çıkma, yayımlanma
 ozellikler:
 - - isim

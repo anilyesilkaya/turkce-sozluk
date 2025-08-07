@@ -5,7 +5,7 @@ slug: sefalet
 letter: S
 lisan: Arapça sefālet
 anlamlar:
-- ► yoksulluk
+- yoksulluk
 ozellikler:
 - - isim
 ornekler:

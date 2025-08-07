@@ -5,7 +5,7 @@ slug: agil
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hale
+- hale
 - Bazı görüntülerdeki çok ışıklı cisimleri çevreleyen ışıklı teker
 ozellikler:
 - - isim

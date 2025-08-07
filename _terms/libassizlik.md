@@ -5,7 +5,7 @@ slug: libassizlik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► giysisizlik
+- giysisizlik
 ozellikler:
 - - isim
 ornekler:

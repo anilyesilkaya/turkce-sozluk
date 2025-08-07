@@ -5,7 +5,7 @@ slug: santrfor
 letter: S
 lisan: İngilizce centre-forward
 anlamlar:
-- ► orta uç oyuncusu
+- orta uç oyuncusu
 ozellikler:
 - - isim
   - spor

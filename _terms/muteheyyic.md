@@ -5,7 +5,7 @@ slug: muteheyyic
 letter: M
 lisan: Arapça muteheyyic
 anlamlar:
-- ► heyecanlı
+- heyecanlı
 ozellikler:
 - - sıfat
   - eskimiş

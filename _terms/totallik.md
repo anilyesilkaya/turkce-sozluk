@@ -5,7 +5,7 @@ slug: totallik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünsellik
+- bütünsellik
 ozellikler:
 - - isim
 ornekler:

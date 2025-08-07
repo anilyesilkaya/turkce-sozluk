@@ -5,7 +5,7 @@ slug: dipdam
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: tercume
 letter: T
 lisan: Arapça terceme
 anlamlar:
-- ► çeviri
+- çeviri
 ozellikler:
 - - isim
 ornekler:

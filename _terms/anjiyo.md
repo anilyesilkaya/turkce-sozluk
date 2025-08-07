@@ -5,7 +5,7 @@ slug: anjiyo
 letter: A
 lisan: Fransızca angio
 anlamlar:
-- ► damar görüntüleme
+- damar görüntüleme
 ozellikler:
 - - isim
   - tıp

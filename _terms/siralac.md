@@ -5,7 +5,7 @@ slug: siralac
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► klasör
+- klasör
 ozellikler:
 - - isim
 ornekler:

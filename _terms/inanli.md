@@ -5,7 +5,7 @@ slug: inanli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inançlı
+- inançlı
 ozellikler:
 - - sıfat
 ornekler:

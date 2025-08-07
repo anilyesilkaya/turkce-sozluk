@@ -5,7 +5,7 @@ slug: izobar
 letter: I
 lisan: Fransızca isobare
 anlamlar:
-- ► eş basınç
+- eş basınç
 ozellikler:
 - - isim
   - coğrafya

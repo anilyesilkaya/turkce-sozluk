@@ -5,7 +5,7 @@ slug: hayalperver
 letter: H
 lisan: Arapça ḫayāl + Farsça -perver
 anlamlar:
-- ► hayalci
+- hayalci
 ozellikler:
 - - sıfat
   - eskimiş

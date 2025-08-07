@@ -7,7 +7,7 @@ lisan: Farsça ḫām
 anlamlar:
 - Yenecek kadar olgun olmayan (meyve)
 - İşlenmemiş (madde)
-- ► idmansız
+- idmansız
 - Gerçekleşme kolaylığı veya imkânı olmayan
 - Kaba, toplum kurallarını bilmeyen, incelmemiş
 ozellikler:

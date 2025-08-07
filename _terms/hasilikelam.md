@@ -5,7 +5,7 @@ slug: hasilikelam
 letter: H
 lisan: Arapça ḥāṣil + kelām
 anlamlar:
-- ► kısacası
+- kısacası
 ozellikler:
 - - zarf
   - eskimiş

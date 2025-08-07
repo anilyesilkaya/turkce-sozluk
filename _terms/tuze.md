@@ -5,7 +5,7 @@ slug: tuze
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hukuk
+- hukuk
 ozellikler:
 - - isim
 ornekler:

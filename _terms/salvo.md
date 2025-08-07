@@ -5,7 +5,7 @@ slug: salvo
 letter: S
 lisan: İtalyanca salvo
 anlamlar:
-- ► yaylım ateşi
+- yaylım ateşi
 - Yoğun bir biçimde yapılan atak
 - Gemide kullanıldığı yere göre belirli uzunluğu olan ince halatlara verilen ad
 ozellikler:

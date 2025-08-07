@@ -5,7 +5,7 @@ slug: kiymetlendirilmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerlendirilmek
+- değerlendirilmek
 ozellikler:
 - - nesnesiz
 ornekler:

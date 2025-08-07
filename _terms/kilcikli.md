@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kılçığı olan
-- ► pürüzlü
+- pürüzlü
 ozellikler:
 - - sıfat
 - - sıfat

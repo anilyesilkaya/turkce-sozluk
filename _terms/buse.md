@@ -5,7 +5,7 @@ slug: buse
 letter: B
 lisan: Farsça būse
 anlamlar:
-- ► öpücük
+- öpücük
 ozellikler:
 - - isim
   - eskimiş

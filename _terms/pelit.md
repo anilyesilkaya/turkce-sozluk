@@ -5,7 +5,7 @@ slug: pelit
 letter: P
 lisan: Arapça bellūṭ
 anlamlar:
-- ► palamut (II)
+- palamut (II)
 ozellikler:
 - - isim
   - bitki bilimi

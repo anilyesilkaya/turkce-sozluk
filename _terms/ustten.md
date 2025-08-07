@@ -5,7 +5,7 @@ slug: ustten
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üstünkörü
+- üstünkörü
 - Tepeden, yüksekten
 ozellikler:
 - - zarf

@@ -6,12 +6,12 @@ letter: Ş
 lisan: Arapça şiddet
 anlamlar:
 - Bir hareketin, bir gücün derecesi; yeğinlik
-- ► hız
+- hız
 - Bir hareketten doğan güç
 - Karşıt görüşte olanlara kaba kuvvet kullanma
 - Kaba güç
 - Duygu veya davranışta aşırılık
-- ► sertlik
+- sertlik
 ozellikler:
 - - isim
 - - isim

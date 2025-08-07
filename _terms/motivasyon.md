@@ -5,8 +5,8 @@ slug: motivasyon
 letter: M
 lisan: Fransızca motivation
 anlamlar:
-- ► isteklendirme
-- ► güdüleme
+- isteklendirme
+- güdüleme
 ozellikler:
 - - isim
 - - isim

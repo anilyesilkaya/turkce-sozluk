@@ -5,7 +5,7 @@ slug: guburcu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► çöpçü
+- çöpçü
 ozellikler:
 - - isim
 ornekler:

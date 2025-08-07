@@ -5,7 +5,7 @@ slug: kavustak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► nakarat
+- nakarat
 ozellikler:
 - - isim
   - edebiyat

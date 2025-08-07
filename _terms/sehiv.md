@@ -5,7 +5,7 @@ slug: sehiv
 letter: S
 lisan: Arapça sehv
 anlamlar:
-- ► yanıltı
+- yanıltı
 ozellikler:
 - - isim
   - eskimiş

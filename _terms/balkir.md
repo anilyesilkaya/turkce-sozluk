@@ -5,8 +5,8 @@ slug: balkir
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► parıltı
-- ► şimşek
+- parıltı
+- şimşek
 ozellikler:
 - - isim
   - ağızlardan

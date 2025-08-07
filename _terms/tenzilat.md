@@ -5,7 +5,7 @@ slug: tenzilat
 letter: T
 lisan: Arapça tenzīlāt
 anlamlar:
-- ► indirim
+- indirim
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: kalimsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ölümlülük
+- ölümlülük
 ozellikler:
 - - isim
 ornekler:

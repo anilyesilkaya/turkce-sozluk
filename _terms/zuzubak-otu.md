@@ -5,7 +5,7 @@ slug: zuzubak-otu
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► atkuyruğu
+- atkuyruğu
 ozellikler:
 - - isim
   - bitki bilimi

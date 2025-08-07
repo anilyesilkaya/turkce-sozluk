@@ -5,7 +5,7 @@ slug: konveyor
 letter: K
 lisan: Fransızca convoyeur
 anlamlar:
-- ► taşıyıcı
+- taşıyıcı
 - Koruyucu gemi, refakat gemisi
 ozellikler:
 - - isim

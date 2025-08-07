@@ -5,7 +5,7 @@ slug: aslancasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aslanca
+- aslanca
 ozellikler:
 - - zarf
 ornekler:

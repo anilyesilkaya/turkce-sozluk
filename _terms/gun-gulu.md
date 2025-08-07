@@ -5,7 +5,7 @@ slug: gun-gulu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gelincik
+- gelincik
 ozellikler:
 - - isim
   - bitki bilimi

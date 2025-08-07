@@ -5,9 +5,9 @@ slug: kaide
 letter: K
 lisan: Arapça ḳāʿide
 anlamlar:
-- ► kural
+- kural
 - Bir şeyin yere dayanan bölümü veya bir şeyin üzerine oturtulduğu nesne; ayaklık, duraç, taban (I), tabanlık
-- ► kalça
+- kalça
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: bibliyofil
 letter: B
 lisan: Fransızca bibliophile
 anlamlar:
-- ► kitapsever
+- kitapsever
 ozellikler:
 - - sıfat
 ornekler:

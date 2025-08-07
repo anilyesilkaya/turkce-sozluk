@@ -5,7 +5,7 @@ slug: puf-mantari
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kurt mantarı
+- kurt mantarı
 ozellikler:
 - - isim
   - bitki bilimi

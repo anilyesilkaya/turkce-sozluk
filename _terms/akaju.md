@@ -5,7 +5,7 @@ slug: akaju
 letter: A
 lisan: Fransızca acajou
 anlamlar:
-- ► maun
+- maun
 - Maundan yapılmış
 - Maun renginde olan
 ozellikler:

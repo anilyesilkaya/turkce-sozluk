@@ -5,7 +5,7 @@ slug: tekerlemek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yuvarlamak
+- yuvarlamak
 ozellikler:
 - - -i
 ornekler:

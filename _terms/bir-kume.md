@@ -5,7 +5,7 @@ slug: bir-kume
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pek çok
+- pek çok
 ozellikler:
 - - sıfat
 ornekler:

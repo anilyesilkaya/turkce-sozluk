@@ -5,7 +5,7 @@ slug: aka
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağabey
+- ağabey
 ozellikler:
 - - isim
   - ağızlardan

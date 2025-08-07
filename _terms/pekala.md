@@ -6,9 +6,9 @@ letter: P
 lisan: Türkçe pek + Arapça aʿlā
 anlamlar:
 - Benzerlerinden aşağı olmayan
-- ► evet
+- evet
 - Tabii ki
-- ► kuşkusuz
+- kuşkusuz
 - Çok iyi
 ozellikler:
 - - sıfat

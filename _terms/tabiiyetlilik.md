@@ -5,7 +5,7 @@ slug: tabiiyetlilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uyrukluluk
+- uyrukluluk
 ozellikler:
 - - isim
 ornekler:

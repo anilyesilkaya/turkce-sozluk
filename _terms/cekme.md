@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekmek işi
-- ► çekmece
+- çekmece
 - Yüksekteki ince dalları çekip kesmeye yarar, ay biçiminde, uzun saplı, ağzı tırtıklı bıçak
 - Parmak veya mızrapla çalınan çalgı
 - Ağacın yapısındaki nem oranının azalması sonucu boyutlarının küçülmesi

@@ -5,7 +5,7 @@ slug: asil-kirisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Aşil tendonu
+- Aşil tendonu
 ozellikler:
 - - isim
   - anatomi

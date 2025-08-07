@@ -5,7 +5,7 @@ slug: memuriyet
 letter: M
 lisan: Arapça meʾmūriyyet
 anlamlar:
-- ► memurluk
+- memurluk
 ozellikler:
 - - isim
 ornekler:

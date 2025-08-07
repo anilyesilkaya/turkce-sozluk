@@ -5,7 +5,7 @@ slug: logaritma-cetveli
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► logaritma tablosu
+- logaritma tablosu
 ozellikler:
 - - isim
   - matematik

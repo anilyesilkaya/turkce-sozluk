@@ -5,7 +5,7 @@ slug: yarati
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaratım
+- yaratım
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: konsolide-butce
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► destekli bütçe
+- destekli bütçe
 ozellikler:
 - - isim
   - ekonomi

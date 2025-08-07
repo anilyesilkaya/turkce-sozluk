@@ -5,7 +5,7 @@ slug: vulva
 letter: V
 lisan: Latince
 anlamlar:
-- ► ferç
+- ferç
 ozellikler:
 - - isim
   - anatomi

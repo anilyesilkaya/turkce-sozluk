@@ -5,7 +5,7 @@ slug: hasetli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kıskanç
+- kıskanç
 ozellikler:
 - - sıfat
 ornekler:

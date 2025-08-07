@@ -5,7 +5,7 @@ slug: prolog
 letter: P
 lisan: Fransızca prologue
 anlamlar:
-- ► ön deyiş
+- ön deyiş
 ozellikler:
 - - isim
 ornekler:

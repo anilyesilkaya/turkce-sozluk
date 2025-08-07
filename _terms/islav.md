@@ -5,7 +5,7 @@ slug: islav
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Slav
+- Slav
 ozellikler:
 - - isim
 ornekler:

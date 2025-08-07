@@ -5,8 +5,8 @@ slug: konsantre
 letter: K
 lisan: Fransızca concentré
 anlamlar:
-- ► yoğun
-- ► derişik
+- yoğun
+- derişik
 ozellikler:
 - - sıfat
 - - sıfat

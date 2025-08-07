@@ -5,7 +5,7 @@ slug: sigir-tenyasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tenya
+- tenya
 ozellikler:
 - - isim
   - hayvan bilimi

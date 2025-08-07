@@ -5,7 +5,7 @@ slug: ihtisamli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► görkemli
+- görkemli
 ozellikler:
 - - sıfat
 ornekler:

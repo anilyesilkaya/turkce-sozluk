@@ -5,8 +5,8 @@ slug: zat
 letter: Z
 lisan: Arapça ẕāt
 anlamlar:
-- ► kişi
-- ► kendi
+- kişi
+- kendi
 ozellikler:
 - - isim
 - - isim

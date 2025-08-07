@@ -5,8 +5,8 @@ slug: tavik
 letter: T
 lisan: Arapça taʿvīḳ
 anlamlar:
-- ► geciktirme
-- ► alıkoyma
+- geciktirme
+- alıkoyma
 ozellikler:
 - - isim
   - eskimiş

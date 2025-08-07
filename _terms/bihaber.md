@@ -5,7 +5,7 @@ slug: bihaber
 letter: B
 lisan: Farsça bī + Arapça ḫaber
 anlamlar:
-- ► habersiz
+- habersiz
 - Habersiz bir biçimde
 ozellikler:
 - - sıfat

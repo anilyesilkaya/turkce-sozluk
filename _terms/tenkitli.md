@@ -5,7 +5,7 @@ slug: tenkitli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eleştirel
+- eleştirel
 ozellikler:
 - - sıfat
 ornekler:

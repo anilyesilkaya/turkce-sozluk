@@ -5,7 +5,7 @@ slug: faal
 letter: F
 lisan: Arapça faʿāl
 anlamlar:
-- ► etkin
+- etkin
 ozellikler:
 - - sıfat
 ornekler:

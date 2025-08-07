@@ -5,7 +5,7 @@ slug: affettirmek
 letter: A
 lisan: Arapça ʿafv + Türkçe ettirmek
 anlamlar:
-- ► bağışlatmak
+- bağışlatmak
 ozellikler:
 - - -i
 ornekler:

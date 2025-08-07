@@ -5,7 +5,7 @@ slug: vesikalik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vesikalık fotoğraf
+- vesikalık fotoğraf
 - Vesika için gerekli olan
 ozellikler:
 - - isim

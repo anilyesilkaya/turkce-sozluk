@@ -5,7 +5,7 @@ slug: sengin-semai
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yürük semai
+- yürük semai
 ozellikler:
 - - isim
   - müzik

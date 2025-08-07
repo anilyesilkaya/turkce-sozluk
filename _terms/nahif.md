@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naḥīf
 anlamlar:
 - İnce, duygulu, hassas olan
-- ► zayıf
+- zayıf
 ozellikler:
 - - sıfat
   - eskimiş

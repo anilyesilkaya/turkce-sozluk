@@ -5,7 +5,7 @@ slug: iane
 letter: I
 lisan: Arapça iʿāne
 anlamlar:
-- ► yardım
+- yardım
 ozellikler:
 - - isim
   - eskimiş

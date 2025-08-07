@@ -5,7 +5,7 @@ slug: isvebazlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► cilvelilik
+- cilvelilik
 ozellikler:
 - - isim
 ornekler:

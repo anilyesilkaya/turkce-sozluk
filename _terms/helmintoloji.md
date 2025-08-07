@@ -5,7 +5,7 @@ slug: helmintoloji
 letter: H
 lisan: Fransızca helminthologie
 anlamlar:
-- ► kurt bilimi
+- kurt bilimi
 ozellikler:
 - - isim
 ornekler:

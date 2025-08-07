@@ -5,7 +5,7 @@ slug: stabilizasyon
 letter: S
 lisan: Fransızca stabilisation
 anlamlar:
-- ► istikrar
+- istikrar
 ozellikler:
 - - isim
   - ekonomi

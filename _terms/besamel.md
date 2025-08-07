@@ -5,7 +5,7 @@ slug: besamel
 letter: B
 lisan: Fransızca béchamel
 anlamlar:
-- ► beşamel sos
+- beşamel sos
 ozellikler:
 - - isim
 ornekler:

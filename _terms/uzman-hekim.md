@@ -5,7 +5,7 @@ slug: uzman-hekim
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzman doktor
+- uzman doktor
 ozellikler:
 - - isim
   - tıp

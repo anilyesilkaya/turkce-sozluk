@@ -5,7 +5,7 @@ slug: horoz-kafali
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► horoz akıllı
+- horoz akıllı
 ozellikler:
 - - sıfat
   - şaka yollu

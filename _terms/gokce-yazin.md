@@ -5,7 +5,7 @@ slug: gokce-yazin
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► edebiyat
+- edebiyat
 ozellikler:
 - - isim
 ornekler:

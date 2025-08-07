@@ -5,7 +5,7 @@ slug: baklamsi-meyve
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► badıç
+- badıç
 ozellikler:
 - - isim
   - bitki bilimi

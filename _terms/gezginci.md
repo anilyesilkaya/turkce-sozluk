@@ -5,7 +5,7 @@ slug: gezginci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gezici
+- gezici
 ozellikler:
 - - sıfat
   - ağızlardan

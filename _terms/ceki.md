@@ -5,7 +5,7 @@ slug: ceki
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tartı
+- tartı
 - Odun, kireç vb. ağır ve kaba şeyleri tartmakta kullanılan, 225,978 kilogram olan ağırlık ölçü birimi
 - Üzüntü, sıkıntı
 - Kadınların başlarına bağladıkları örtü

@@ -5,7 +5,7 @@ slug: mustenkif
 letter: M
 lisan: Arapça mustenkif
 anlamlar:
-- ► çekimser
+- çekimser
 ozellikler:
 - - sıfat
   - eskimiş

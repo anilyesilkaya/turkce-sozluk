@@ -5,7 +5,7 @@ slug: ipegimsi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ipeksi
+- ipeksi
 ozellikler:
 - - sıfat
 ornekler:

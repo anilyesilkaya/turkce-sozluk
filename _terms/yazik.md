@@ -5,7 +5,7 @@ slug: yazik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► günah
+- günah
 - Acınma, üzüntü anlatan bir söz
 - Kınama anlatan bir söz
 ozellikler:

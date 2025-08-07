@@ -5,7 +5,7 @@ slug: erkek-berberi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► berber
+- berber
 ozellikler:
 - - isim
 ornekler:

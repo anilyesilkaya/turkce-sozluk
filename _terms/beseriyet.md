@@ -5,7 +5,7 @@ slug: beseriyet
 letter: B
 lisan: Arapça beşeriyyet
 anlamlar:
-- ► insanlık
+- insanlık
 ozellikler:
 - - isim
   - eskimiş

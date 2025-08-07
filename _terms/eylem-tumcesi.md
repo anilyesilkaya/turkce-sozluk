@@ -5,7 +5,7 @@ slug: eylem-tumcesi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► fiil cümlesi
+- fiil cümlesi
 ozellikler:
 - - isim
   - dil bilgisi

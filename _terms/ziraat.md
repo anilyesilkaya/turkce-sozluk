@@ -5,7 +5,7 @@ slug: ziraat
 letter: Z
 lisan: Arapça zirāʿat
 anlamlar:
-- ► tarım
+- tarım
 ozellikler:
 - - isim
 ornekler:

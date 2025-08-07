@@ -5,7 +5,7 @@ slug: cigrilmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağrılmak
+- çağrılmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

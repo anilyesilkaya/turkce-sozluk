@@ -5,8 +5,8 @@ slug: cihan
 letter: C
 lisan: Farsça cihān
 anlamlar:
-- ► evren
-- ► dünya
+- evren
+- dünya
 ozellikler:
 - - isim
   - gök bilimi

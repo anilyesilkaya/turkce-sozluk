@@ -5,7 +5,7 @@ slug: isim-cekimi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ad çekimi
+- ad çekimi
 ozellikler:
 - - isim
   - dil bilgisi

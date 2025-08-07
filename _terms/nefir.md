@@ -5,7 +5,7 @@ slug: nefir
 letter: N
 lisan: Arapça nefīr
 anlamlar:
-- ► yuf borusu
+- yuf borusu
 ozellikler:
 - - isim
   - eskimiş

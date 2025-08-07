@@ -5,7 +5,7 @@ slug: neye
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► niçin
+- niçin
 ozellikler:
 - - zarf
 ornekler:

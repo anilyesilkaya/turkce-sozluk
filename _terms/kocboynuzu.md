@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerine ip iliştirmeye yarayan, iki kulaklı ağaç veya metal çengel
-- ► elibelinde
+- elibelinde
 ozellikler:
 - - isim
   - denizcilik

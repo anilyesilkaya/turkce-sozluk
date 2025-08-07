@@ -5,7 +5,7 @@ slug: bezek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süs
+- süs
 - Bir eseri süslemeye yarayan motiflerin her biri
 ozellikler:
 - - isim

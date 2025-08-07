@@ -5,7 +5,7 @@ slug: tehacum
 letter: T
 lisan: Arapça tehācum
 anlamlar:
-- ► saldırma
+- saldırma
 - Üşüşme, bir yere toplaşma
 ozellikler:
 - - isim

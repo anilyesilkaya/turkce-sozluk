@@ -5,7 +5,7 @@ slug: bikarar
 letter: B
 lisan: Farsça bī + Arapça ḳarār
 anlamlar:
-- ► kararsız
+- kararsız
 ozellikler:
 - - sıfat
   - eskimiş

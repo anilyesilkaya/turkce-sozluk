@@ -5,7 +5,7 @@ slug: alaminutcu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► şipşakçı
+- şipşakçı
 ozellikler:
 - - isim
 ornekler:

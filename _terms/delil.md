@@ -6,7 +6,7 @@ letter: D
 lisan: Arapça delīl
 anlamlar:
 - İnsanı aradığı gerçeğe ulaştırabilecek iz
-- ► kanıt
+- kanıt
 - (deli:li) ► kılavuz
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sahitsizlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tanıksızlık
+- tanıksızlık
 ozellikler:
 - - isim
 ornekler:

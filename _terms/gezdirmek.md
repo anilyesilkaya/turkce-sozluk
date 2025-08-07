@@ -11,7 +11,7 @@ anlamlar:
 - Sürterek, değdirerek hareket ettirmek
 - Bir şeyi herkesin alması için dolaştırmak, sunmak
 - Herhangi bir biçimde giydirmek
-- ► taşımak
+- taşımak
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: yokluksuz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► zengin
+- zengin
 ozellikler:
 - - sıfat
 ornekler:

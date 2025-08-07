@@ -5,7 +5,7 @@ slug: vekilharc
 letter: V
 lisan: Arapça vekīl + ḫarc
 anlamlar:
-- ► kesedar
+- kesedar
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: riyaset
 letter: R
 lisan: Arapça riyāset
 anlamlar:
-- ► başkanlık
+- başkanlık
 ozellikler:
 - - isim
   - eskimiş

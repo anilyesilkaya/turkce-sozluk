@@ -5,7 +5,7 @@ slug: inak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► dogma
+- dogma
 ozellikler:
 - - isim
   - felsefe

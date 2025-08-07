@@ -5,7 +5,7 @@ slug: tikel
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kısmi
+- kısmi
 - Bir türün bütün bireylerine değil de bir veya birkaç bireyine ilişkin olan; cüzi, tümel karşıtı
 ozellikler:
 - - sıfat

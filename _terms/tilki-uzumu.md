@@ -5,7 +5,7 @@ slug: tilki-uzumu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► it üzümü
+- it üzümü
 ozellikler:
 - - isim
   - bitki bilimi

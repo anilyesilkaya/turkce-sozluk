@@ -7,7 +7,7 @@ lisan: Arapça ṣadef
 anlamlar:
 - Midye, istiridye vb. deniz hayvanlarının kabuğunda bulunan sedefçilikte kullanılan, pırıltılı, beyaz, sert bir madde
 - Bu maddeden yapılmış veya bu madde ile süslenmiş
-- ► sedef hastalığı
+- sedef hastalığı
 ozellikler:
 - - isim
 - - isim

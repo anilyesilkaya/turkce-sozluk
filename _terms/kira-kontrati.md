@@ -5,7 +5,7 @@ slug: kira-kontrati
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kira sözleşmesi
+- kira sözleşmesi
 ozellikler:
 - - isim
 ornekler:

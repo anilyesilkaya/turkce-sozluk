@@ -5,8 +5,8 @@ slug: diyar
 letter: D
 lisan: Arapça diyār
 anlamlar:
-- ► ülke
-- ► dünya
+- ülke
+- dünya
 - Bazı nitelik veya değerleri taşıyanların çok bulunduğu yer; yurt
 ozellikler:
 - - isim

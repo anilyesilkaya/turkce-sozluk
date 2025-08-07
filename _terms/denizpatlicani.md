@@ -5,7 +5,7 @@ slug: denizpatlicani
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denizhıyarı
+- denizhıyarı
 ozellikler:
 - - isim
   - hayvan bilimi

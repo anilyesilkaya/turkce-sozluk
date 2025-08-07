@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Beline kuşak, kılıç, kemer vb. şeyler bağlamak; takmak
-- ► giymek
+- giymek
 ozellikler:
 - - -i
 - - -i

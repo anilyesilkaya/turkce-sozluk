@@ -5,7 +5,7 @@ slug: senkronik
 letter: S
 lisan: Fransızca synchronique
 anlamlar:
-- ► eş zamanlı
+- eş zamanlı
 ozellikler:
 - - sıfat
 ornekler:

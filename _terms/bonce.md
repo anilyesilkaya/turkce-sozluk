@@ -5,7 +5,7 @@ slug: bonce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - sıfat
   - zarf

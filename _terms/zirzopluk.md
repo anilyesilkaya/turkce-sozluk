@@ -5,7 +5,7 @@ slug: zirzopluk
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zıpırlık
+- zıpırlık
 ozellikler:
 - - isim
 ornekler:

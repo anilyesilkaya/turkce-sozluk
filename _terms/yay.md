@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ok atmaya yarayan, iki ucu arasına kiriş gerilmiş, eğri ağaç veya metal çubuk
 - Farklı amaçlarla çeşitli biçimlerde yapılan esnek parça
-- ► zemberek
+- zemberek
 - Hallacın pamuk veya yünü atmak için tokmak yardımıyla kullandığı araç
 - Bir çember üzerindeki iki nokta ile bu nokta arasındaki çember parçası
 - Bir eğriden alınan parça

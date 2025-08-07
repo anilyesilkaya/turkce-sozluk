@@ -5,7 +5,7 @@ slug: deveelmasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çakırdiken
+- çakırdiken
 ozellikler:
 - - isim
   - bitki bilimi

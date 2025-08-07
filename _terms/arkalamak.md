@@ -5,7 +5,7 @@ slug: arkalamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sırtlamak
+- sırtlamak
 - Bir kimseye güven vererek yardım etmek, destek olmak, korumak
 ozellikler:
 - - -i

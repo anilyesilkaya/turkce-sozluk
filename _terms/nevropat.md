@@ -5,7 +5,7 @@ slug: nevropat
 letter: N
 lisan: Fransızca névropathe
 anlamlar:
-- ► sinir hastası
+- sinir hastası
 ozellikler:
 - - isim
   - ruh bilimi

@@ -5,7 +5,7 @@ slug: basagirlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ağır sıklet
+- ağır sıklet
 ozellikler:
 - - isim
   - spor

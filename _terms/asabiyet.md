@@ -5,9 +5,9 @@ slug: asabiyet
 letter: A
 lisan: Arapça ʿaṣabiyyet
 anlamlar:
-- ► sinirlilik
+- sinirlilik
 - Aynı soydan gelenlerin dayanışma ve aidiyet duygusu
-- ► akrabalık
+- akrabalık
 ozellikler:
 - - isim
   - eskimiş

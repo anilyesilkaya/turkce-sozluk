@@ -5,7 +5,7 @@ slug: horasanca
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Horasan Türkçesi
+- Horasan Türkçesi
 ozellikler:
 - - isim
   - dil bilgisi

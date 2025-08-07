@@ -5,7 +5,7 @@ slug: farenjit
 letter: F
 lisan: Fransızca pharyngite
 anlamlar:
-- ► yutak iltihabı
+- yutak iltihabı
 ozellikler:
 - - isim
   - tıp

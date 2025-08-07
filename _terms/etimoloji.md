@@ -5,7 +5,7 @@ slug: etimoloji
 letter: E
 lisan: Fransızca étymologie
 anlamlar:
-- ► köken bilimi
+- köken bilimi
 ozellikler:
 - - isim
 ornekler:

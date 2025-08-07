@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yüksek, uzak veya geçilmesi güç bir yerin öte yanına geçmek
 - Süre bitmek, sona ermek
-- ► geçmek
+- geçmek
 - Erkek hayvan dişiyle çiftleşmek
 - Görünmeden kaçmak
 ozellikler:

@@ -5,7 +5,7 @@ slug: sabotajci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► baltalayıcı
+- baltalayıcı
 ozellikler:
 - - sıfat
 ornekler:

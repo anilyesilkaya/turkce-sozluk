@@ -5,7 +5,7 @@ slug: saz
 letter: Ş
 lisan: Arapça şāẕẕ
 anlamlar:
-- ► kural dışı
+- kural dışı
 ozellikler:
 - - sıfat
   - eskimiş

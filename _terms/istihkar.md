@@ -5,7 +5,7 @@ slug: istihkar
 letter: I
 lisan: Arapça istiḥḳār
 anlamlar:
-- ► aşağılama
+- aşağılama
 ozellikler:
 - - isim
   - eskimiş

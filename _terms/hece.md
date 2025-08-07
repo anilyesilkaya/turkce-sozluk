@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça hicāʾ
 anlamlar:
 - Bir soluk hamlesiyle çıkarılan ses veya ses birliği; seslem
-- ► hece ölçüsü
+- hece ölçüsü
 ozellikler:
 - - isim
   - dil bilgisi

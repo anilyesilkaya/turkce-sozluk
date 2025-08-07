@@ -5,7 +5,7 @@ slug: lugatci
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► sözlükçü
+- sözlükçü
 ozellikler:
 - - isim
 ornekler:

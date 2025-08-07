@@ -6,8 +6,8 @@ letter: F
 lisan: Rumca
 anlamlar:
 - Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı
-- ► deniz feneri
-- ► askı
+- deniz feneri
+- askı
 - Bina çatılarına, hamam, cami ve medrese kubbelerine, içeriye aydınlık girmesini ve havalandırmayı sağlamak üzere yapılan kule biçimindeki camlı çıkıntı
 ozellikler:
 - - isim

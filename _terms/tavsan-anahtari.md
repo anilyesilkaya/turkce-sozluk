@@ -5,7 +5,7 @@ slug: tavsan-anahtari
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► maymuncuk
+- maymuncuk
 ozellikler:
 - - isim
 ornekler:

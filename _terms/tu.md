@@ -5,7 +5,7 @@ slug: tu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tuh
+- tuh
 ozellikler:
 - - ünlem
 ornekler:

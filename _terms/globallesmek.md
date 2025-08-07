@@ -5,7 +5,7 @@ slug: globallesmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► küreselleşmek
+- küreselleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

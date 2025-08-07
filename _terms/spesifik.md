@@ -5,7 +5,7 @@ slug: spesifik
 letter: S
 lisan: Fransızca spécifique
 anlamlar:
-- ► özellikli
+- özellikli
 ozellikler:
 - - sıfat
 ornekler:

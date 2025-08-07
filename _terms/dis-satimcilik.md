@@ -5,7 +5,7 @@ slug: dis-satimcilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ihracatçılık
+- ihracatçılık
 ozellikler:
 - - isim
 ornekler:

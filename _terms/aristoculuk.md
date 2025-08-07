@@ -5,7 +5,7 @@ slug: aristoculuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Aristotelesçilik
+- Aristotelesçilik
 ozellikler:
 - - isim
   - felsefe

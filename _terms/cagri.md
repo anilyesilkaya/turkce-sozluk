@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birinin bir yere gelmesini isteme; davet
-- ► çağrı cihazı
+- çağrı cihazı
 ozellikler:
 - - isim
 - - isim

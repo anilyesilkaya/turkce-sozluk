@@ -5,7 +5,7 @@ slug: sut-kostik
 letter: S
 lisan: Fransızca soude caustique
 anlamlar:
-- ► sodyum hidroksit
+- sodyum hidroksit
 ozellikler:
 - - isim
   - kimya

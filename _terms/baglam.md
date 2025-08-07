@@ -5,10 +5,10 @@ slug: baglam
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► demet
+- demet
 - Herhangi bir olguda olaylar, durumlar, ilişkiler örgüsü veya bağlantısı; kontekst
 - Bir dil birimini çevreleyen, ondan önce veya sonra gelen, birçok durumda söz konusu birimi etkileyen, onun anlamını, değerini belirleyen birim veya birimler bütünü; kontekst
-- ► bent
+- bent
 ozellikler:
 - - isim
 - - isim

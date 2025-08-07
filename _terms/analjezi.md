@@ -5,7 +5,7 @@ slug: analjezi
 letter: A
 lisan: Fransızca analgésie
 anlamlar:
-- ► ağrı yitimi
+- ağrı yitimi
 ozellikler:
 - - isim
   - tıp

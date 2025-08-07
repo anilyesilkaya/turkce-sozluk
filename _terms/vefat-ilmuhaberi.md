@@ -5,7 +5,7 @@ slug: vefat-ilmuhaberi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ölüm kâğıdı
+- ölüm kâğıdı
 ozellikler:
 - - isim
 ornekler:

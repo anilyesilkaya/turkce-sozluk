@@ -5,7 +5,7 @@ slug: endokrin
 letter: E
 lisan: Fransızca endocrine
 anlamlar:
-- ► iç salgı
+- iç salgı
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: hancere
 letter: H
 lisan: Arapça ḥancere
 anlamlar:
-- ► gırtlak
+- gırtlak
 ozellikler:
 - - isim
   - anatomi

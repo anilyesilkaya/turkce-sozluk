@@ -7,7 +7,7 @@ lisan: Arapça bāṭil
 anlamlar:
 - İnançlar bakımından gerçek olmayan
 - Çürük, temelsiz, asılsız olan
-- ► geçersiz
+- geçersiz
 ozellikler:
 - - sıfat
 - - sıfat

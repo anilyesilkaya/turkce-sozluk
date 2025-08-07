@@ -5,7 +5,7 @@ slug: cok-tarafli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çok yönlü
+- çok yönlü
 ozellikler:
 - - sıfat
 ornekler:

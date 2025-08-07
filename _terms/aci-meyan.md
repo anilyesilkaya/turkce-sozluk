@@ -5,7 +5,7 @@ slug: aci-meyan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dikenli meyan
+- dikenli meyan
 ozellikler:
 - - isim
   - bitki bilimi

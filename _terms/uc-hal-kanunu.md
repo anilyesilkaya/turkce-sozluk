@@ -5,7 +5,7 @@ slug: uc-hal-kanunu
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üç durum yasası
+- üç durum yasası
 ozellikler:
 - - isim
   - felsefe

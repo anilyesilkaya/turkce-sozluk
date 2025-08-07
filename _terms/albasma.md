@@ -5,7 +5,7 @@ slug: albasma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► albastı
+- albastı
 ozellikler:
 - - isim
   - ağızlardan

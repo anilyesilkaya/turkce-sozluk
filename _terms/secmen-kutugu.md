@@ -5,7 +5,7 @@ slug: secmen-kutugu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seçmen listesi
+- seçmen listesi
 ozellikler:
 - - isim
 ornekler:

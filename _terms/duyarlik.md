@@ -5,7 +5,7 @@ slug: duyarlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duyarlılık
+- duyarlılık
 - Zayıf bir etkiye karşı, tepki gösterebilme yeteneği
 - Bir duyar katın ışıktan etkilenme yeteneği
 ozellikler:

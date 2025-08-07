@@ -5,7 +5,7 @@ slug: depremcizer
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► depremölçer
+- depremölçer
 ozellikler:
 - - isim
 ornekler:

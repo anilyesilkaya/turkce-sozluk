@@ -5,7 +5,7 @@ slug: fuzyon
 letter: F
 lisan: Fransızca fusion
 anlamlar:
-- ► kaynaşma
+- kaynaşma
 - Hafif çekirdeklerin çok yüksek basınçta ve yüksek sıcaklıklarda kaynaşıp daha ağır çekirdeklere dönüşürken dışarıya ısı yayması
 ozellikler:
 - - isim

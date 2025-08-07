@@ -5,7 +5,7 @@ slug: alacik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çardak
+- çardak
 - Keçeden yapılan çadır
 ozellikler:
 - - isim

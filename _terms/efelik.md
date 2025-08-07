@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Efe olma durumu
-- ► kabadayılık
+- kabadayılık
 ozellikler:
 - - isim
 - - isim

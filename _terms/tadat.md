@@ -5,8 +5,8 @@ slug: tadat
 letter: T
 lisan: Arapça taʿdād
 anlamlar:
-- ► sayma
-- ► sayım
+- sayma
+- sayım
 - Sayarak yoklama yapma
 ozellikler:
 - - isim

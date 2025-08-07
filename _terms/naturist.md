@@ -5,7 +5,7 @@ slug: naturist
 letter: N
 lisan: Fransızca naturiste
 anlamlar:
-- ► doğacı
+- doğacı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ehemmiyetlilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önemlilik
+- önemlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bicimlemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► biçimlendirmek
+- biçimlendirmek
 ozellikler:
 - - -i
 ornekler:

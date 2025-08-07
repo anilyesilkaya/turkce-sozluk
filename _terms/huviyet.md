@@ -5,7 +5,7 @@ slug: huviyet
 letter: H
 lisan: Arapça huviyyet
 anlamlar:
-- ► kimlik
+- kimlik
 ozellikler:
 - - isim
 ornekler:

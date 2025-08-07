@@ -5,7 +5,7 @@ slug: bloksuzluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlantısızlık
+- bağlantısızlık
 ozellikler:
 - - isim
 ornekler:

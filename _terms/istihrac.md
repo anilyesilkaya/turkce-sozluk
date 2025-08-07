@@ -5,7 +5,7 @@ slug: istihrac
 letter: I
 lisan: Arapça istiḫrāc
 anlamlar:
-- ► çıkarsama
+- çıkarsama
 ozellikler:
 - - isim
   - eskimiş

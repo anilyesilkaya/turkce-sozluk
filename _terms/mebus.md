@@ -5,7 +5,7 @@ slug: mebus
 letter: M
 lisan: Arapça mebʿūs̱
 anlamlar:
-- ► milletvekili
+- milletvekili
 ozellikler:
 - - isim
 ornekler:

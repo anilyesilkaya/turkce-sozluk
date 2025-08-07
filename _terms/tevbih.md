@@ -5,7 +5,7 @@ slug: tevbih
 letter: T
 lisan: Arapça tevbīḫ
 anlamlar:
-- ► azarlama
+- azarlama
 ozellikler:
 - - isim
   - eskimiş

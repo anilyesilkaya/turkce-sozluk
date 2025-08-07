@@ -5,7 +5,7 @@ slug: suratle
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

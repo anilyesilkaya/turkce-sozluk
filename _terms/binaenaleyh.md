@@ -5,7 +5,7 @@ slug: binaenaleyh
 letter: B
 lisan: Arapça bināʾen + ʿaleyh
 anlamlar:
-- ► bundan dolayı
+- bundan dolayı
 ozellikler:
 - - zarf
 ornekler:

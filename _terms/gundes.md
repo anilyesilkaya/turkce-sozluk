@@ -6,8 +6,8 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Aynı günde olan
-- ► çağdaş
-- ► güncel
+- çağdaş
+- güncel
 ozellikler:
 - - sıfat
 - - sıfat

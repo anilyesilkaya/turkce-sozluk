@@ -5,7 +5,7 @@ slug: ana-motif
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► laytmotif
+- laytmotif
 ozellikler:
 - - isim
 ornekler:

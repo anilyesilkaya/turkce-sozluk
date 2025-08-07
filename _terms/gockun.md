@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Göçecek duruma gelmiş
-- ► göçebe
+- göçebe
 - Yaşı ilerlemiş (kimse), çok yaşlı (kimse)
 ozellikler:
 - - sıfat

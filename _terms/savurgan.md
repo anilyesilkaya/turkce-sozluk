@@ -5,7 +5,7 @@ slug: savurgan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tutumsuz
+- tutumsuz
 ozellikler:
 - - sıfat
 ornekler:

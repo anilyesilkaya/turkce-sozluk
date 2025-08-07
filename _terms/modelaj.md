@@ -5,7 +5,7 @@ slug: modelaj
 letter: M
 lisan: Fransızca modelage
 anlamlar:
-- ► oylumlama
+- oylumlama
 ozellikler:
 - - isim
 ornekler:

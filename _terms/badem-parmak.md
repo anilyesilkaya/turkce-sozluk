@@ -5,7 +5,7 @@ slug: badem-parmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başparmak
+- başparmak
 ozellikler:
 - - isim
 ornekler:

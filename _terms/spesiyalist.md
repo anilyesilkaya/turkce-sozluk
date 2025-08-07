@@ -5,7 +5,7 @@ slug: spesiyalist
 letter: S
 lisan: Fransızca spécialiste
 anlamlar:
-- ► uzman
+- uzman
 ozellikler:
 - - isim
 ornekler:

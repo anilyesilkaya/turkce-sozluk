@@ -5,7 +5,7 @@ slug: bey
 letter: B
 lisan: Arapça beyʿ
 anlamlar:
-- ► satış
+- satış
 ozellikler:
 - - isim
   - eskimiş

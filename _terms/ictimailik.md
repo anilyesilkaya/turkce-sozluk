@@ -5,7 +5,7 @@ slug: ictimailik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► toplumsallık
+- toplumsallık
 ozellikler:
 - - isim
 ornekler:

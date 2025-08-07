@@ -5,7 +5,7 @@ slug: akilane
 letter: A
 lisan: Arapça ʿāḳil + Farsça -āne
 anlamlar:
-- ► akıllıca
+- akıllıca
 ozellikler:
 - - zarf
   - eskimiş

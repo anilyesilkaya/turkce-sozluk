@@ -5,7 +5,7 @@ slug: esriklik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sarhoşluk
+- sarhoşluk
 ozellikler:
 - - isim
 ornekler:

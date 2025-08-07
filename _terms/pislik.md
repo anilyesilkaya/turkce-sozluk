@@ -6,8 +6,8 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pis olma durumu; çepel
-- ► dışkı
-- ► kirlilik
+- dışkı
+- kirlilik
 - Kötü, zararlı davranış veya iş
 - Kötü durum
 - Başkalarına zarar veren kimse

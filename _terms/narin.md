@@ -6,7 +6,7 @@ letter: N
 lisan: Farsça nārīn
 anlamlar:
 - İnce yapılı; yepelek, nazenin
-- ► ince
+- ince
 ozellikler:
 - - sıfat
 - - sıfat

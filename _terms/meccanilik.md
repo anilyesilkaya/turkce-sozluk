@@ -5,7 +5,7 @@ slug: meccanilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► parasızlık
+- parasızlık
 ozellikler:
 - - isim
 ornekler:

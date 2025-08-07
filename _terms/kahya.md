@@ -6,10 +6,10 @@ letter: K
 lisan: Farsça ked + ḫudā
 anlamlar:
 - Konak, çiftlik vb. yerlerde türlü işleri yapmakla görevli kimse
-- ► değnekçi
+- değnekçi
 - Gerekmediği hâlde başkasının işine karışan kimse
 - Esnaf kuruluşlarında lonca başkanı
-- ► kethüda
+- kethüda
 ozellikler:
 - - isim
 - - isim

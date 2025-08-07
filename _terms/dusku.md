@@ -5,7 +5,7 @@ slug: dusku
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► uğraşı
+- uğraşı
 ozellikler:
 - - isim
 ornekler:

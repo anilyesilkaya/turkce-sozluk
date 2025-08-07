@@ -5,7 +5,7 @@ slug: kovan-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► oğul otu
+- oğul otu
 ozellikler:
 - - isim
   - bitki bilimi

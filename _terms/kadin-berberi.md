@@ -5,7 +5,7 @@ slug: kadin-berberi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuaför
+- kuaför
 ozellikler:
 - - isim
 ornekler:

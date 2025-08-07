@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Kimsenin malı olmayan; iyesiz
-- ► kimsesiz
+- kimsesiz
 ozellikler:
 - - sıfat
 - - sıfat

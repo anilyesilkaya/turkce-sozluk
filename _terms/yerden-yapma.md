@@ -5,7 +5,7 @@ slug: yerden-yapma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yerden bitme
+- yerden bitme
 ozellikler:
 - - sıfat
   - mecaz

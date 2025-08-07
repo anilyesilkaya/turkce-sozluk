@@ -5,7 +5,7 @@ slug: mazgal-disi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mazgal siperi
+- mazgal siperi
 ozellikler:
 - - isim
   - tarih

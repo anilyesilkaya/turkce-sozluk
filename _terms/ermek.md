@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeye erişmek, ulaşmak
-- ► kavuşmak
+- kavuşmak
 - Yetişip dokunmak
 - İnsan veya bitki büyüyüp gelişmek, yetişmek
 - Ürün olgunlaşmak

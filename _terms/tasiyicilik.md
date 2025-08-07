@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıyıcı olma durumu; yükçülük
-- ► hamallık
+- hamallık
 ozellikler:
 - - isim
 - - isim

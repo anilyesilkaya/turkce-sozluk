@@ -5,7 +5,7 @@ slug: uc-buutlu
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üç boyutlu
+- üç boyutlu
 ozellikler:
 - - sıfat
 ornekler:

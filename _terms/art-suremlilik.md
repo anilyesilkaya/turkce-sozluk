@@ -5,7 +5,7 @@ slug: art-suremlilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► art zamanlılık
+- art zamanlılık
 ozellikler:
 - - isim
   - dil bilgisi

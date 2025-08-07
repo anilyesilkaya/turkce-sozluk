@@ -5,7 +5,7 @@ slug: obsesiflik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► takıntılılık
+- takıntılılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fassallik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► karalamacılık
+- karalamacılık
 ozellikler:
 - - isim
 ornekler:

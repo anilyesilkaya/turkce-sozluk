@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Rahatı olmayan, tedirgin, huzursuz
 - Rahat kullanılmayan, sıkıntı, tedirginlik veren
-- ► keyifsiz
-- ► hasta
+- keyifsiz
+- hasta
 ozellikler:
 - - sıfat
 - - sıfat

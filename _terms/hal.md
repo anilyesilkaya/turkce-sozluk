@@ -5,10 +5,10 @@ slug: hal
 letter: H
 lisan: Arapça ḥāl
 anlamlar:
-- ► durum
+- durum
 - Tutum, tavır
 - Şimdiki zaman, içinde yaşanılan zaman
-- ► takat
+- takat
 - Kötü durum, sıkıntı, dert
 ozellikler:
 - - isim

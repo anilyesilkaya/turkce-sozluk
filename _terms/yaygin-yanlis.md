@@ -5,7 +5,7 @@ slug: yaygin-yanlis
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► galatımeşhur
+- galatımeşhur
 ozellikler:
 - - isim
 ornekler:

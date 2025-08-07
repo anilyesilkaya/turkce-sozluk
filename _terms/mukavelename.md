@@ -5,7 +5,7 @@ slug: mukavelename
 letter: M
 lisan: Arapça muḳāvele + Farsça nāme
 anlamlar:
-- ► sözleşme
+- sözleşme
 ozellikler:
 - - isim
   - eskimiş

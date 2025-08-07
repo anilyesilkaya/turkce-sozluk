@@ -5,7 +5,7 @@ slug: garpcilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Batıcılık
+- Batıcılık
 ozellikler:
 - - isim
 ornekler:

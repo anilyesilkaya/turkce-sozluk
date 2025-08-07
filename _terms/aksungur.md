@@ -5,7 +5,7 @@ slug: aksungur
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akdoğan
+- akdoğan
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: mandater
 letter: M
 lisan: Fransızca mandataire
 anlamlar:
-- ► mandacı
+- mandacı
 ozellikler:
 - - isim
   - hukuk

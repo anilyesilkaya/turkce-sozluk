@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Sürekli olarak gazete, dergi vb. okuyan; okur, kari
 - Bilgisayarda yoğun disk veya disketlerin içindeki bilgileri okuyan aygıt
-- ► şarkıcı
-- ► türkücü
+- şarkıcı
+- türkücü
 - Düğüne çağrı yapan kimse
 ozellikler:
 - - isim

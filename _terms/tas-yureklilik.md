@@ -5,7 +5,7 @@ slug: tas-yureklilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► merhametsizlik
+- merhametsizlik
 ozellikler:
 - - isim
 ornekler:

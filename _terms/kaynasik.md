@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirine kaynamış, kaynaşmış
-- ► fingirdek
+- fingirdek
 ozellikler:
 - - sıfat
 - - sıfat

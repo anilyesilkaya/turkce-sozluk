@@ -5,7 +5,7 @@ slug: tutarik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sara
+- sara
 ozellikler:
 - - isim
   - ağızlardan

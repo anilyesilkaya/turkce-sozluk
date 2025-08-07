@@ -5,7 +5,7 @@ slug: variyetsizlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yoksulluk
+- yoksulluk
 ozellikler:
 - - isim
 ornekler:

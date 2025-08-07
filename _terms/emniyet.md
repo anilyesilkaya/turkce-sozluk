@@ -5,8 +5,8 @@ slug: emniyet
 letter: E
 lisan: Arapça emniyyet
 anlamlar:
-- ► güvenlik
-- ► güven
+- güvenlik
+- güven
 - Polis işleri
 - Güvenlik işlerinin yürütüldüğü yer
 - Bir araçta güven sağlayıcı parça

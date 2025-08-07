@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Herhangi biri olmadan
 - Erkeksiz, kocasız olan
-- ► arkasız
+- arkasız
 ozellikler:
 - - zarf
 - - zarf

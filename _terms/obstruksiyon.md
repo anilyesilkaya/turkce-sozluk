@@ -5,7 +5,7 @@ slug: obstruksiyon
 letter: O
 lisan: Fransızca obstruction
 anlamlar:
-- ► engelleme
+- engelleme
 ozellikler:
 - - isim
 ornekler:

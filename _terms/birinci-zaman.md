@@ -5,7 +5,7 @@ slug: birinci-zaman
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Birinci Çağ
+- Birinci Çağ
 ozellikler:
 - - isim
   - coğrafya

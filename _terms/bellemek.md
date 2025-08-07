@@ -5,7 +5,7 @@ slug: bellemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sikmek
+- sikmek
 ozellikler:
 - - -i
   - argo

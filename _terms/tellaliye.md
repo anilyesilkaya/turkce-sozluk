@@ -5,7 +5,7 @@ slug: tellaliye
 letter: T
 lisan: Arapça dellāliye
 anlamlar:
-- ► tellallık
+- tellallık
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğunlaşmak işi; tekâsüf
-- ► konsantrasyon
+- konsantrasyon
 - Havanın nem bakımından doyma noktasını aşmasına bağlı olarak havadaki su buharının sıvı veya katı duruma geçmesi
 - Bir karışımın bileşimindeki sıvıyı yitirerek daha koyu kıvama gelmesi; derişme
 ozellikler:

@@ -5,7 +5,7 @@ slug: artistik-patinaj
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► artistik buz pateni
+- artistik buz pateni
 ozellikler:
 - - isim
   - spor

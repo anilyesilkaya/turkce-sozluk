@@ -5,7 +5,7 @@ slug: basmuharrirlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başyazarlık
+- başyazarlık
 ozellikler:
 - - isim
 ornekler:

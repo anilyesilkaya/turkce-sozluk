@@ -5,7 +5,7 @@ slug: kiymetsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değersizlik
+- değersizlik
 ozellikler:
 - - isim
 ornekler:

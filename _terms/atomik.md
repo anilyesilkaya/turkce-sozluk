@@ -5,7 +5,7 @@ slug: atomik
 letter: A
 lisan: Fransızca atomique
 anlamlar:
-- ► atomal
+- atomal
 ozellikler:
 - - sıfat
   - fizik

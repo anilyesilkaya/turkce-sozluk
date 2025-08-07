@@ -5,7 +5,7 @@ slug: ermenistanli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Ermeni
+- Ermeni
 ozellikler:
 - - isim
 ornekler:

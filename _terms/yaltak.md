@@ -5,7 +5,7 @@ slug: yaltak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - sıfat
 ornekler:

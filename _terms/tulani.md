@@ -5,7 +5,7 @@ slug: tulani
 letter: T
 lisan: Arapça ṭūlānī
 anlamlar:
-- ► uzunlamasına
+- uzunlamasına
 ozellikler:
 - - zarf
   - eskimiş

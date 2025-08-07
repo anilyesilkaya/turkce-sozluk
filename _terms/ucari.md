@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ele avuca sığmaz, çok haşarı (kimse)
 - Kendini çeşitli eğlencelere vermiş, zevk ve eğlenceye düşkün (kimse); sefih
-- ► havai
+- havai
 ozellikler:
 - - sıfat
 - - sıfat

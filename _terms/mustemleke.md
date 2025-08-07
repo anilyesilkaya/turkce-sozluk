@@ -5,7 +5,7 @@ slug: mustemleke
 letter: M
 lisan: Arapça mustemleke
 anlamlar:
-- ► sömürge
+- sömürge
 ozellikler:
 - - isim
   - eskimiş

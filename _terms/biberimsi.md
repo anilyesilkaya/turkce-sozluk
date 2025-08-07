@@ -5,7 +5,7 @@ slug: biberimsi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bibersi
+- bibersi
 ozellikler:
 - - sıfat
 ornekler:

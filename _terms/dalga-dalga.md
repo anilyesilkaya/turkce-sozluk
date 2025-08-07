@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kıvrım kıvrım olan (saç)
 - Dalgalar hâlinde olan
-- ► açıklı koyulu
+- açıklı koyulu
 - Arka arkaya, yığın hâlinde
 - Düzgün olmayan, alçaklı yüksekli bir biçimde
 ozellikler:

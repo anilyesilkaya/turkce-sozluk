@@ -5,7 +5,7 @@ slug: agiz-kavgasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağız dalaşı
+- ağız dalaşı
 ozellikler:
 - - isim
   - mecaz

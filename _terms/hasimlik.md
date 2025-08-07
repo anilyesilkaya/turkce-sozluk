@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hasım olma durumu
-- ► düşmanlık
+- düşmanlık
 ozellikler:
 - - isim
 - - isim

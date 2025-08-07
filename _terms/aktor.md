@@ -5,7 +5,7 @@ slug: aktor
 letter: A
 lisan: Fransızca acteur
 anlamlar:
-- ► (erkek) oyuncu
+- (erkek) oyuncu
 - Herhangi bir olayda etkisi veya katkısı olan kimse
 ozellikler:
 - - isim

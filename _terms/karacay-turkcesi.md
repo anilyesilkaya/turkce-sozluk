@@ -5,7 +5,7 @@ slug: karacay-turkcesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Karaçay-Balkar Türkçesi
+- Karaçay-Balkar Türkçesi
 ozellikler:
 - - isim
 ornekler:

@@ -5,12 +5,12 @@ slug: yurek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kalp (I)
-- ► gönül
-- ► kupa (I)
+- kalp (I)
+- gönül
+- kupa (I)
 - Herhangi bir şeyden çekinmeme, korkmama, yüreklilik, korkusuzluk durumu
-- ► sine
-- ► iç
+- sine
+- iç
 ozellikler:
 - - isim
   - anatomi

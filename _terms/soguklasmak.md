@@ -5,7 +5,7 @@ slug: soguklasmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğumak
+- soğumak
 - İlgisiz, isteksiz, soğuk davranmak
 - Bir şey sevimsiz bir durum almak
 ozellikler:

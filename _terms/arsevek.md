@@ -5,7 +5,7 @@ slug: arsevek
 letter: A
 lisan: Fransızca archevèque
 anlamlar:
-- ► başpiskopos
+- başpiskopos
 ozellikler:
 - - isim
 ornekler:

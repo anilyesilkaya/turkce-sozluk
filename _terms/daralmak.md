@@ -6,10 +6,10 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dar duruma gelmek; darlaşmak
-- ► azalmak
+- azalmak
 - Bir şey zayıf duruma gelmek
-- ► güçleşmek
-- ► sıkışmak
+- güçleşmek
+- sıkışmak
 - Başı dara gelmek; bunalmak
 ozellikler:
 - - nesnesiz

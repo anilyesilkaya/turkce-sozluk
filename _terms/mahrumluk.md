@@ -5,7 +5,7 @@ slug: mahrumluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yoksunluk
+- yoksunluk
 ozellikler:
 - - isim
 ornekler:

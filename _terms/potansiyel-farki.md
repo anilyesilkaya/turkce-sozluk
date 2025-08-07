@@ -5,7 +5,7 @@ slug: potansiyel-farki
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► gerilim
+- gerilim
 ozellikler:
 - - isim
   - fizik

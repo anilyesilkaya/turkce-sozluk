@@ -5,7 +5,7 @@ slug: cikis-ozeti
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► hikâye
+- hikâye
 ozellikler:
 - - isim
 ornekler:

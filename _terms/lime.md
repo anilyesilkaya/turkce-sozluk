@@ -5,7 +5,7 @@ slug: lime
 letter: L
 lisan: Farsça līme
 anlamlar:
-- ► parça
+- parça
 ozellikler:
 - - isim
   - eskimiş

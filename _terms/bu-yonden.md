@@ -5,7 +5,7 @@ slug: bu-yonden
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bundan dolayı
+- bundan dolayı
 ozellikler:
 - - zarf
 ornekler:

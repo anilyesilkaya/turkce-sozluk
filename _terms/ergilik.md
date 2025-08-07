@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Ergi durumu
-- ► şilt
+- şilt
 ozellikler:
 - - isim
 - - isim

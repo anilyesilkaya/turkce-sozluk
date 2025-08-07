@@ -5,7 +5,7 @@ slug: akisli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yankılı
+- yankılı
 ozellikler:
 - - sıfat
 ornekler:

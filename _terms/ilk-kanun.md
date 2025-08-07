@@ -5,7 +5,7 @@ slug: ilk-kanun
 letter: I
 lisan: Türkçe ilk + Arapça kānūn
 anlamlar:
-- ► aralık
+- aralık
 ozellikler:
 - - isim
   - eskimiş

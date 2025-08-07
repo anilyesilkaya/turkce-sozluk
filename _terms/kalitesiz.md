@@ -5,7 +5,7 @@ slug: kalitesiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► niteliksiz
+- niteliksiz
 ozellikler:
 - - sıfat
 ornekler:

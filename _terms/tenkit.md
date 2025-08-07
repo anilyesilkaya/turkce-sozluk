@@ -5,7 +5,7 @@ slug: tenkit
 letter: T
 lisan: Arapça tenḳīṭ
 anlamlar:
-- ► noktalama
+- noktalama
 ozellikler:
 - - isim
   - eskimiş

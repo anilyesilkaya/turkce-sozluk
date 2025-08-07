@@ -5,7 +5,7 @@ slug: amme-idaresi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kamu yönetimi
+- kamu yönetimi
 ozellikler:
 - - isim
 ornekler:

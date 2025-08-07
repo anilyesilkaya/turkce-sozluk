@@ -5,7 +5,7 @@ slug: dasnik
 letter: D
 lisan: Ermenice
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
   - kaba konuşmada

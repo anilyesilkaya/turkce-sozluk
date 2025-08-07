@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Soluk alıp vermeden uzunca bir zaman durabilen
-- ► üflemeli
+- üflemeli
 - Nefesi güçlü olan
 ozellikler:
 - - sıfat

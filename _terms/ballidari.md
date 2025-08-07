@@ -5,7 +5,7 @@ slug: ballidari
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► incir
+- incir
 ozellikler:
 - - isim
   - ağızlardan

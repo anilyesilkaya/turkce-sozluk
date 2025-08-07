@@ -5,7 +5,7 @@ slug: materyalist
 letter: M
 lisan: Fransızca matérialiste
 anlamlar:
-- ► maddeci
+- maddeci
 ozellikler:
 - - sıfat
   - felsefe

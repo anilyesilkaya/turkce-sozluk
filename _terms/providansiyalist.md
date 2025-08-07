@@ -5,7 +5,7 @@ slug: providansiyalist
 letter: P
 lisan: Fransızca providentialiste
 anlamlar:
-- ► kayracı
+- kayracı
 ozellikler:
 - - sıfat
   - felsefe

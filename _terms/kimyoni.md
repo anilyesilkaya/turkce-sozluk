@@ -5,7 +5,7 @@ slug: kimyoni
 letter: K
 lisan: Arapça kemmūnī
 anlamlar:
-- ► kimyon rengi
+- kimyon rengi
 - Bu renkte olan
 ozellikler:
 - - isim

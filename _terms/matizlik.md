@@ -5,7 +5,7 @@ slug: matizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sarhoşluk
+- sarhoşluk
 ozellikler:
 - - isim
 ornekler:

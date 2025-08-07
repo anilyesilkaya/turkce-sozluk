@@ -5,7 +5,7 @@ slug: sozcuk-turu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kelime türü
+- kelime türü
 ozellikler:
 - - isim
   - dil bilgisi

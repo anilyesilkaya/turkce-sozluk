@@ -5,7 +5,7 @@ slug: metafor
 letter: M
 lisan: Fransızca métaphore
 anlamlar:
-- ► mecaz
+- mecaz
 ozellikler:
 - - isim
   - edebiyat

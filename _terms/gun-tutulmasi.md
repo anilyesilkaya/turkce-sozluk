@@ -5,7 +5,7 @@ slug: gun-tutulmasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Güneş tutulması
+- Güneş tutulması
 ozellikler:
 - - isim
   - gök bilimi

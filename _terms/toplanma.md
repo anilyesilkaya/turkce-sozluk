@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Toplanmak işi; tekâsüf
-- ► kümelenme
+- kümelenme
 ozellikler:
 - - isim
 - - isim

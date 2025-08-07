@@ -6,8 +6,8 @@ letter: K
 lisan: Arapça keşşāf
 anlamlar:
 - Bilinmeyen çok önemli bir şeyi keşfeden
-- ► keşif kolu
-- ► izci
+- keşif kolu
+- izci
 ozellikler:
 - - isim
   - eskimiş

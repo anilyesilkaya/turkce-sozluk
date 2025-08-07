@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca club
 anlamlar:
 - Görüşme, konuşma, okuma, spor yapma vb. amaçlarla yalnız üye olanların toplandıkları yer
-- ► spor kulübü
+- spor kulübü
 - Kişilerin, toplulukların oluşturduğu grup
 - Milletlerin oluşturduğu grup
 - Herkese açık müzikli, içkili eğlence yeri

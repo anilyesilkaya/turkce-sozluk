@@ -5,7 +5,7 @@ slug: maharetsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► beceriksizlik
+- beceriksizlik
 ozellikler:
 - - isim
 ornekler:

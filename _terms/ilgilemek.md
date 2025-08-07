@@ -5,7 +5,7 @@ slug: ilgilemek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► teyellemek
+- teyellemek
 ozellikler:
 - - -i
   - ağızlardan

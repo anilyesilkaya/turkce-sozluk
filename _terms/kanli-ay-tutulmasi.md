@@ -5,7 +5,7 @@ slug: kanli-ay-tutulmasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızıl Ay tutulması
+- kızıl Ay tutulması
 ozellikler:
 - - isim
   - gök bilimi

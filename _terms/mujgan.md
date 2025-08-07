@@ -5,7 +5,7 @@ slug: mujgan
 letter: M
 lisan: Farsça mujgān
 anlamlar:
-- ► kirpik
+- kirpik
 ozellikler:
 - - isim
   - eskimiş

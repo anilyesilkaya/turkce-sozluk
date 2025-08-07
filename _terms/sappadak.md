@@ -5,7 +5,7 @@ slug: sappadak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 - Ani bir "şapırtı" sesi çıkararak
 ozellikler:
 - - zarf

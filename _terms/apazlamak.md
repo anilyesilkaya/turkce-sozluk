@@ -5,7 +5,7 @@ slug: apazlamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avuçlamak
+- avuçlamak
 - Gemi apazlama rüzgârla gitmek
 - Yelken rüzgârla dolup şişmek
 ozellikler:

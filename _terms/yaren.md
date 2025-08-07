@@ -5,7 +5,7 @@ slug: yaren
 letter: Y
 lisan: Farsça yārān
 anlamlar:
-- ► arkadaş
+- arkadaş
 - Dostların oluşturduğu topluluk
 ozellikler:
 - - isim

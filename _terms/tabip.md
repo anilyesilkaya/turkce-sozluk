@@ -5,7 +5,7 @@ slug: tabip
 letter: T
 lisan: Arapça ṭabīb
 anlamlar:
-- ► hekim
+- hekim
 ozellikler:
 - - isim
 ornekler:

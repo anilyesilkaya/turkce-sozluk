@@ -6,7 +6,7 @@ letter: B
 lisan: Fransızca barographe
 anlamlar:
 - Bir hava taşıtının uçarken izlediği yolun yüksekliklerini çizgi hâlinde göstermeye veya işaretlemeye yarayan alet
-- ► basınçyazar
+- basınçyazar
 ozellikler:
 - - isim
 - - isim

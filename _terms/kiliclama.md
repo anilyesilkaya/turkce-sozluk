@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıçlamak işi
-- ► kılıcına
-- ► çaprazlama
+- kılıcına
+- çaprazlama
 ozellikler:
 - - isim
 - - isim

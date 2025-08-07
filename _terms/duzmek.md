@@ -8,7 +8,7 @@ anlamlar:
 - Bir gereksinimi karşılamak amacıyla birçok şeyi birbirini tamamlayacak biçimde bir araya getirmek
 - Düzene sokmak, düzene koymak, sıralamak, elverişli, uygun bir duruma getirmek
 - Şiir, destan, şarkı vb. yaratmak, oluşturmak, meydana getirmek
-- ► uydurmak
+- uydurmak
 - Erkek, cinsel ilişkide bulunmak
 ozellikler:
 - - -i

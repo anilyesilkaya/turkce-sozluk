@@ -5,7 +5,7 @@ slug: elektrik-sobasi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrikli soba
+- elektrikli soba
 ozellikler:
 - - isim
 ornekler:

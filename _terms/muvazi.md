@@ -5,7 +5,7 @@ slug: muvazi
 letter: M
 lisan: Arapça muvāzī
 anlamlar:
-- ► paralel
+- paralel
 ozellikler:
 - - sıfat
   - eskimiş

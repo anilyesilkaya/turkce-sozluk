@@ -5,7 +5,7 @@ slug: musaddak
 letter: M
 lisan: Arapça muṣaddaḳ
 anlamlar:
-- ► onaylı
+- onaylı
 ozellikler:
 - - sıfat
   - eskimiş

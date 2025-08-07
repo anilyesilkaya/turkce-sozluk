@@ -5,7 +5,7 @@ slug: sefir
 letter: S
 lisan: Arapça sefīr
 anlamlar:
-- ► elçi
+- elçi
 ozellikler:
 - - isim
   - eskimiş

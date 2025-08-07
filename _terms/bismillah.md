@@ -5,7 +5,7 @@ slug: bismillah
 letter: B
 lisan: Arapça bismillah
 anlamlar:
-- ► besmele
+- besmele
 - (bi'smillah) Şaşkınlık anında söylenen bir söz
 ozellikler:
 - - isim

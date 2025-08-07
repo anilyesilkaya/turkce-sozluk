@@ -5,7 +5,7 @@ slug: dolikosefal
 letter: D
 lisan: Fransızca dolichocéphale
 anlamlar:
-- ► uzun kafalı
+- uzun kafalı
 ozellikler:
 - - sıfat
   - anatomi

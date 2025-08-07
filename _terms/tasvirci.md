@@ -5,7 +5,7 @@ slug: tasvirci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► betimlemeci
+- betimlemeci
 ozellikler:
 - - sıfat
 ornekler:

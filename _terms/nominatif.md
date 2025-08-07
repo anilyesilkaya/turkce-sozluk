@@ -5,7 +5,7 @@ slug: nominatif
 letter: N
 lisan: Fransızca nominatif
 anlamlar:
-- ► yalın durum
+- yalın durum
 ozellikler:
 - - isim
   - dil bilgisi

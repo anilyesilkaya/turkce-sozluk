@@ -5,7 +5,7 @@ slug: farmakoloji
 letter: F
 lisan: Fransızca pharmacologie
 anlamlar:
-- ► ilaç bilimi
+- ilaç bilimi
 ozellikler:
 - - isim
   - tıp

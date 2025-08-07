@@ -5,7 +5,7 @@ slug: develik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► defne
+- defne
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,9 +5,9 @@ slug: hezeyan
 letter: H
 lisan: Arapça heẕeyān
 anlamlar:
-- ► saçmalama
-- ► sayıklama
-- ► sabuklanma
+- saçmalama
+- sayıklama
+- sabuklanma
 ozellikler:
 - - isim
 - - isim

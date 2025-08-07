@@ -5,7 +5,7 @@ slug: kocalmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yaşlanmak
+- yaşlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

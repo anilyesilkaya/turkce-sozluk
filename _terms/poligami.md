@@ -5,7 +5,7 @@ slug: poligami
 letter: P
 lisan: Fransızca polygamie
 anlamlar:
-- ► çok eşlilik
+- çok eşlilik
 ozellikler:
 - - isim
   - toplum bilimi

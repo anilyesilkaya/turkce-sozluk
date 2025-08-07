@@ -5,7 +5,7 @@ slug: mutlaka
 letter: M
 lisan: Arapça muṭlaḳā
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - zarf
 ornekler:

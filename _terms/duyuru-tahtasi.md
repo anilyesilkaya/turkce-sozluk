@@ -5,7 +5,7 @@ slug: duyuru-tahtasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duyurumluk
+- duyurumluk
 ozellikler:
 - - isim
 ornekler:

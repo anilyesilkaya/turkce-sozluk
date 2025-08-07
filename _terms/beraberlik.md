@@ -5,7 +5,7 @@ slug: beraberlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birliktelik
+- birliktelik
 - Aynı sayıyı alarak berabere kalma durumu
 - Baş başa kalma durumu
 ozellikler:

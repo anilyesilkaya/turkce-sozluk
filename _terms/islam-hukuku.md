@@ -5,7 +5,7 @@ slug: islam-hukuku
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► şeriat
+- şeriat
 ozellikler:
 - - isim
   - din bilimi

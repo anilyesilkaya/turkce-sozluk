@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Tavuğun küçüğü, erginleşmemiş tavuk veya horoz
-- ► ferik (I)
+- ferik (I)
 - Genç, güzel ve alımlı kız veya kadın
 ozellikler:
 - - isim

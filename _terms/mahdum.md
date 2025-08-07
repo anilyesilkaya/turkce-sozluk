@@ -5,7 +5,7 @@ slug: mahdum
 letter: M
 lisan: Arapça maḫdūm
 anlamlar:
-- ► oğul
+- oğul
 ozellikler:
 - - isim
   - eskimiş

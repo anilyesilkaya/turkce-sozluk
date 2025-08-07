@@ -5,7 +5,7 @@ slug: tersiyer
 letter: T
 lisan: Fransızca tertiaire
 anlamlar:
-- ► üçüncül
+- üçüncül
 ozellikler:
 - - sıfat
   - kimya

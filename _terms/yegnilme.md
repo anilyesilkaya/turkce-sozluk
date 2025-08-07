@@ -5,7 +5,7 @@ slug: yegnilme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hafifleme
+- hafifleme
 ozellikler:
 - - isim
 ornekler:

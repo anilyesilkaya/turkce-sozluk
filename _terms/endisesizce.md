@@ -5,7 +5,7 @@ slug: endisesizce
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygısızca
+- kaygısızca
 ozellikler:
 - - zarf
 ornekler:

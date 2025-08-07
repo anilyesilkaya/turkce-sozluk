@@ -5,7 +5,7 @@ slug: tibbi-maske
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► cerrahi maske
+- cerrahi maske
 ozellikler:
 - - isim
 ornekler:

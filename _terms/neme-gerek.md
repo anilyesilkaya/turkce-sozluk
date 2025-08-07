@@ -5,7 +5,7 @@ slug: neme-gerek
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► neme lazım
+- neme lazım
 ozellikler:
 - - isim
 ornekler:

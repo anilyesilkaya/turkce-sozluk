@@ -5,8 +5,8 @@ slug: vezin
 letter: V
 lisan: Arapça vezn
 anlamlar:
-- ► ölçü
-- ► tartı
+- ölçü
+- tartı
 ozellikler:
 - - isim
   - edebiyat

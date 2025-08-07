@@ -5,7 +5,7 @@ slug: uyaksizlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyesizlik
+- kafiyesizlik
 ozellikler:
 - - isim
 ornekler:

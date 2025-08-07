@@ -6,7 +6,7 @@ letter: P
 lisan: İtalyanca piatto
 anlamlar:
 - Yassı ve büyük yemek tabağı
-- ► yassı
+- yassı
 ozellikler:
 - - isim
 - - isim

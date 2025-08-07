@@ -5,7 +5,7 @@ slug: kaysa
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► toprak kayması
+- toprak kayması
 ozellikler:
 - - isim
   - jeoloji

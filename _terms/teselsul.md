@@ -5,7 +5,7 @@ slug: teselsul
 letter: T
 lisan: Arapça teselsul
 anlamlar:
-- ► zincirleme
+- zincirleme
 - Birbirine bağlı, birbiri ile ilgili şeylerin oluşturduğu dizi; sıra, silsile
 - Birden fazla kimsenin bir borçtan dolayı sorumlu olması
 ozellikler:

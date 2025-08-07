@@ -5,7 +5,7 @@ slug: mecal
 letter: M
 lisan: Arapça mecāl
 anlamlar:
-- ► takat
+- takat
 ozellikler:
 - - isim
 ornekler:

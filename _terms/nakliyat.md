@@ -5,7 +5,7 @@ slug: nakliyat
 letter: N
 lisan: Arapça naḳliyyāt
 anlamlar:
-- ► taşımacılık
+- taşımacılık
 ozellikler:
 - - isim
 ornekler:

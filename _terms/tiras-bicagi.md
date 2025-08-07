@@ -5,8 +5,8 @@ slug: tiras-bicagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► jilet
-- ► ustura
+- jilet
+- ustura
 ozellikler:
 - - isim
 - - isim

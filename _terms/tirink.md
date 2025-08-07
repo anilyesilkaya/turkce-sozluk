@@ -5,7 +5,7 @@ slug: tirink
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► peşin
+- peşin
 - Peşin olarak
 ozellikler:
 - - sıfat

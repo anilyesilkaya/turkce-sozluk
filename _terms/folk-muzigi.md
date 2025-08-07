@@ -5,7 +5,7 @@ slug: folk-muzigi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► halk müziği
+- halk müziği
 - Özellikle İkinci Dünya Savaşı'ndan sonra Amerika'da başlayan, halk şarkılarından esinlenen müzik
 ozellikler:
 - - isim

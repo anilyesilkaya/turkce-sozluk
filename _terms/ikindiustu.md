@@ -5,7 +5,7 @@ slug: ikindiustu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ikindiye doğru
+- ikindiye doğru
 ozellikler:
 - - zarf
 ornekler:

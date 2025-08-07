@@ -5,7 +5,7 @@ slug: kaurit-tutkali
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► üre
+- üre
 ozellikler:
 - - isim
 ornekler:

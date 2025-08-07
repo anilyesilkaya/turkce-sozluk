@@ -5,7 +5,7 @@ slug: amoralizm
 letter: A
 lisan: Fransızca amoralisme
 anlamlar:
-- ► töre dışıcılık
+- töre dışıcılık
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: ilahe
 letter: I
 lisan: Arapça ilāhe
 anlamlar:
-- ► tanrıça
+- tanrıça
 ozellikler:
 - - isim
 ornekler:

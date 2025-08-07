@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cefā + Farsça -kār
 anlamlar:
 - Eziyet eden, eziyet veren
-- ► cefakeş
+- cefakeş
 ozellikler:
 - - sıfat
 - - sıfat

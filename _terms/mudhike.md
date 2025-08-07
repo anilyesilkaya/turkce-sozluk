@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mużḥike
 anlamlar:
 - Gülünecek şey
-- ► güldürü
+- güldürü
 ozellikler:
 - - isim
   - eskimiş

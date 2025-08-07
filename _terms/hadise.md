@@ -5,7 +5,7 @@ slug: hadise
 letter: H
 lisan: Arapça ḥādis̱e
 anlamlar:
-- ► olay
+- olay
 ozellikler:
 - - isim
 ornekler:

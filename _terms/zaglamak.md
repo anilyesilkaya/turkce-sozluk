@@ -5,7 +5,7 @@ slug: zaglamak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağılamak
+- kılağılamak
 ozellikler:
 - - -i
 ornekler:

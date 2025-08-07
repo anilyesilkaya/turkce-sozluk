@@ -5,7 +5,7 @@ slug: ilgisizcesine
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilgisizce
+- ilgisizce
 ozellikler:
 - - zarf
 ornekler:

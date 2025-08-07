@@ -5,7 +5,7 @@ slug: siniflanis
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bölümleniş
+- bölümleniş
 ozellikler:
 - - isim
 ornekler:

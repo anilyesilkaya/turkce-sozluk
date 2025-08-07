@@ -5,7 +5,7 @@ slug: seksoloji
 letter: S
 lisan: Fransızca sexologie
 anlamlar:
-- ► cinsellik bilimi
+- cinsellik bilimi
 ozellikler:
 - - isim
 ornekler:

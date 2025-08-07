@@ -5,7 +5,7 @@ slug: mert
 letter: M
 lisan: Farsça merd
 anlamlar:
-- ► yiğit
+- yiğit
 - Sözünün eri, güvenilir (kimse); erkek
 ozellikler:
 - - sıfat

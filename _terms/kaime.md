@@ -5,8 +5,8 @@ slug: kaime
 letter: K
 lisan: Arapça ḳāʾime
 anlamlar:
-- ► ferman
-- ► kâğıt para
+- ferman
+- kâğıt para
 ozellikler:
 - - isim
   - eskimiş

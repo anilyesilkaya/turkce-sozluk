@@ -5,7 +5,7 @@ slug: ulussuzluk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletsizlik
+- milletsizlik
 ozellikler:
 - - isim
 ornekler:

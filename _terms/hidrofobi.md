@@ -5,7 +5,7 @@ slug: hidrofobi
 letter: H
 lisan: Fransızca hydrophobie
 anlamlar:
-- ► su korkusu
+- su korkusu
 ozellikler:
 - - isim
   - ruh bilimi

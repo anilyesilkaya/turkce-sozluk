@@ -5,7 +5,7 @@ slug: eritrosit
 letter: E
 lisan: Fransızca érythrocyte
 anlamlar:
-- ► alyuvar
+- alyuvar
 ozellikler:
 - - isim
   - anatomi

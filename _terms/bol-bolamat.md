@@ -5,7 +5,7 @@ slug: bol-bolamat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bol bol
+- bol bol
 ozellikler:
 - - zarf
   - ağızlardan

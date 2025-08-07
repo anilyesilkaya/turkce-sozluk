@@ -5,7 +5,7 @@ slug: ictensizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içtenliksizlik
+- içtenliksizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: algic
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dedektör
+- dedektör
 ozellikler:
 - - isim
   - fizik

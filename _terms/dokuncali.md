@@ -5,7 +5,7 @@ slug: dokuncali
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► zararlı
+- zararlı
 ozellikler:
 - - sıfat
 ornekler:

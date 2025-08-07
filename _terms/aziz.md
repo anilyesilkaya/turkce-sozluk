@@ -5,7 +5,7 @@ slug: aziz
 letter: A
 lisan: Arapça ʿazīz
 anlamlar:
-- ► ermiş
+- ermiş
 - Hristiyanlıkta kilise tarafından din büyüğü olarak kabul edilen kimse
 - Sevgide üstün tutulan, değerli ve mukaddes olan; muazzez
 - Saygı duyulan, hürmet edilen (kimse); muazzez

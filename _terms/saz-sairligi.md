@@ -5,7 +5,7 @@ slug: saz-sairligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► halk ozanlığı
+- halk ozanlığı
 ozellikler:
 - - isim
 ornekler:

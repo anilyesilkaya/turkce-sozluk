@@ -5,7 +5,7 @@ slug: medar
 letter: M
 lisan: Arapça medār
 anlamlar:
-- ► dönence
+- dönence
 - Dayanak, yardımcı
 ozellikler:
 - - isim

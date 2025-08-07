@@ -5,7 +5,7 @@ slug: kasaphane
 letter: K
 lisan: Arapça ḳaṣṣāb + Farsça ḫāne
 anlamlar:
-- ► kesimevi
+- kesimevi
 ozellikler:
 - - isim
   - eskimiş

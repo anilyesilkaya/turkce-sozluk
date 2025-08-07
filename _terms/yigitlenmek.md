@@ -5,7 +5,7 @@ slug: yigitlenmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yiğitleşmek
+- yiğitleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

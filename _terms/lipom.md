@@ -5,7 +5,7 @@ slug: lipom
 letter: L
 lisan: Fransızca lipome
 anlamlar:
-- ► yağ uru
+- yağ uru
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: pislik-bocegi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► bok böceği
+- bok böceği
 ozellikler:
 - - isim
   - hayvan bilimi

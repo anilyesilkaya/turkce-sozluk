@@ -5,7 +5,7 @@ slug: kalifiye
 letter: K
 lisan: Fransızca qualifié
 anlamlar:
-- ► nitelikli
+- nitelikli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ihtisamlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► görkemlilik
+- görkemlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bungun
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sıkıntılı
+- sıkıntılı
 ozellikler:
 - - sıfat
 ornekler:

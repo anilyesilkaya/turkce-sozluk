@@ -5,8 +5,8 @@ slug: ceride
 letter: C
 lisan: Arapça cerīde
 anlamlar:
-- ► gazete
-- ► kayıt defteri
+- gazete
+- kayıt defteri
 - Süvari kolu
 - Osmanlı Devleti döneminde vergi memurlarının arazilerin yüz ölçümlerini yazdıkları defter
 ozellikler:

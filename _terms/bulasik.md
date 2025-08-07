@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Yiyecek veya içecekle kirletilmiş mutfak eşyası veya kap kacak
 - Yaşanmış bir şeyden geriye kalan belirti etki
-- ► kirli
+- kirli
 - Her şeyin birbirine karıştığı (yer, olay vb.)
-- ► yapışkan
+- yapışkan
 ozellikler:
 - - isim
 - - isim

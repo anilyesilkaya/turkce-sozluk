@@ -5,7 +5,7 @@ slug: kesimhane
 letter: K
 lisan: Türkçe kesim + Farsça ḫāne
 anlamlar:
-- ► kesimevi
+- kesimevi
 ozellikler:
 - - isim
 ornekler:

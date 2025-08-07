@@ -5,7 +5,7 @@ slug: karahumma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tifo
+- tifo
 ozellikler:
 - - isim
   - tıp

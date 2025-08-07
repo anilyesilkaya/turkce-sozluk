@@ -5,7 +5,7 @@ slug: aktivasyon
 letter: A
 lisan: Fransızca activation
 anlamlar:
-- ► etkinleştirme
+- etkinleştirme
 ozellikler:
 - - isim
 ornekler:

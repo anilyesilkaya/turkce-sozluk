@@ -5,7 +5,7 @@ slug: maverai
 letter: M
 lisan: Arapça māverā´
 anlamlar:
-- ► uhrevi
+- uhrevi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: sumaymuncugu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sumaymunu
+- sumaymunu
 ozellikler:
 - - isim
 ornekler:

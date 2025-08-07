@@ -5,7 +5,7 @@ slug: eleman
 letter: E
 lisan: Fransızca élément
 anlamlar:
-- ► öge
+- öge
 - Bir toplulukta çalışan insanların her biri
 - Kümeye ait varlıklardan her biri
 ozellikler:

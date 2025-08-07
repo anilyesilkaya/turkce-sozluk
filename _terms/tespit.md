@@ -7,9 +7,9 @@ lisan: Arapça tes̱bīt
 anlamlar:
 - Bir şeyi sağlam bir biçimde yerleştirme, yerinden oynamaz duruma getirme
 - Bir durumu kuşkuya düşürmeyecek biçimde gösterme
-- ► belirleme
+- belirleme
 - Bir değerlendirme sonunda ortaya çıkan karar
-- ► saptama
+- saptama
 ozellikler:
 - - isim
 - - isim

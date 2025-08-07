@@ -5,7 +5,7 @@ slug: kabarcikli-duzec
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► su terazisi
+- su terazisi
 ozellikler:
 - - isim
   - teknik

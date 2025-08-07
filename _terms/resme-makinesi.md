@@ -5,7 +5,7 @@ slug: resme-makinesi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► reşme (II)
+- reşme (II)
 ozellikler:
 - - isim
 ornekler:

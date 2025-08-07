@@ -5,7 +5,7 @@ slug: hakikatsizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► vefasızlık
+- vefasızlık
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: miralaylik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► albaylık
+- albaylık
 ozellikler:
 - - isim
   - eskimiş

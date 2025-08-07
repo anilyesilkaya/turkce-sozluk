@@ -5,7 +5,7 @@ slug: dumbukluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► pezevenklik
+- pezevenklik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cingen
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► Çingene
+- Çingene
 ozellikler:
 - - isim
 ornekler:

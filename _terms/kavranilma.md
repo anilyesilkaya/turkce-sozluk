@@ -5,7 +5,7 @@ slug: kavranilma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kavranma
+- kavranma
 ozellikler:
 - - isim
 ornekler:

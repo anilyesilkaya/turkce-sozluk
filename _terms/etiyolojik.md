@@ -5,7 +5,7 @@ slug: etiyolojik
 letter: E
 lisan: Fransızca étiologique
 anlamlar:
-- ► neden bilimsel
+- neden bilimsel
 ozellikler:
 - - sıfat
 ornekler:

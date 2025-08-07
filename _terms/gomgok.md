@@ -5,7 +5,7 @@ slug: gomgok
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► masmavi
+- masmavi
 - Olgunlaşmamış
 - Morarmış
 ozellikler:

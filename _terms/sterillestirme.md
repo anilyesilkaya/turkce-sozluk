@@ -5,7 +5,7 @@ slug: sterillestirme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mikropsuzlaştırma
+- mikropsuzlaştırma
 ozellikler:
 - - isim
 ornekler:

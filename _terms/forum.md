@@ -6,7 +6,7 @@ letter: F
 lisan: Latince
 anlamlar:
 - Eski Romalılar zamanında, Roma'da ve diğer şehirlerde kamu işlerini konuşmak için halkın toplandığı alan
-- ► toplu tartışma
+- toplu tartışma
 - Bazı sorunların görüşülerek karara bağlandığı genel toplantı
 - Tartışma alanı
 ozellikler:

@@ -5,7 +5,7 @@ slug: arzusuzca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteksizce
+- isteksizce
 ozellikler:
 - - zarf
 ornekler:

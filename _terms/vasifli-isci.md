@@ -5,7 +5,7 @@ slug: vasifli-isci
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► nitelikli işçi
+- nitelikli işçi
 ozellikler:
 - - isim
 ornekler:

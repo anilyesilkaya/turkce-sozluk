@@ -5,7 +5,7 @@ slug: dayak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► destek
+- destek
 - Evlerin kapısının açılmaması için kapının arkasına konulan kol, destek, sürgü
 ozellikler:
 - - isim

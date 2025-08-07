@@ -5,7 +5,7 @@ slug: mugber
 letter: M
 lisan: Arapça muġber
 anlamlar:
-- ► gücenik
+- gücenik
 ozellikler:
 - - sıfat
   - eskimiş

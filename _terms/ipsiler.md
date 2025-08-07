@@ -5,7 +5,7 @@ slug: ipsiler
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ipsi solucanlar
+- ipsi solucanlar
 ozellikler:
 - - isim
   - hayvan bilimi

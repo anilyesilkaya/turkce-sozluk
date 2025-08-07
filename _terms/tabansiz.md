@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tabanı olmayan
-- ► korkak
+- korkak
 ozellikler:
 - - sıfat
 - - sıfat

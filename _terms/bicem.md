@@ -5,7 +5,7 @@ slug: bicem
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► üslup
+- üslup
 ozellikler:
 - - isim
   - edebiyat

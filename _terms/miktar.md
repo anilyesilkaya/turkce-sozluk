@@ -5,7 +5,7 @@ slug: miktar
 letter: M
 lisan: Arapça miḳdār
 anlamlar:
-- ► nicelik
+- nicelik
 - Çok az
 ozellikler:
 - - isim

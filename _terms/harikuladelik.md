@@ -5,7 +5,7 @@ slug: harikuladelik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► olağanüstülük
+- olağanüstülük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mahir
 letter: M
 lisan: Arapça māhir
 anlamlar:
-- ► becerikli
+- becerikli
 - Uzman, işini iyi bilen, işinin eri; usta
 ozellikler:
 - - sıfat

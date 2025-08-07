@@ -5,7 +5,7 @@ slug: saadetsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mutsuz
+- mutsuz
 ozellikler:
 - - sıfat
 ornekler:

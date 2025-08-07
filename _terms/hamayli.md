@@ -5,7 +5,7 @@ slug: hamayli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hamayıl
+- hamayıl
 ozellikler:
 - - isim
 ornekler:

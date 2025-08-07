@@ -5,7 +5,7 @@ slug: kilogramkuvvet
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kilogramağırlık
+- kilogramağırlık
 ozellikler:
 - - isim
   - fizik

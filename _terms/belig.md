@@ -5,7 +5,7 @@ slug: belig
 letter: B
 lisan: Arapça belīġ
 anlamlar:
-- ► belagatli
+- belagatli
 - Yeterli, tam ve açık
 ozellikler:
 - - sıfat

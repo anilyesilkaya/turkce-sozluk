@@ -5,7 +5,7 @@ slug: nasipsizlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kısmetsizlik
+- kısmetsizlik
 ozellikler:
 - - isim
 ornekler:

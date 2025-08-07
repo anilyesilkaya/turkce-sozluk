@@ -5,7 +5,7 @@ slug: porsuma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pörsüme
+- pörsüme
 ozellikler:
 - - isim
 ornekler:

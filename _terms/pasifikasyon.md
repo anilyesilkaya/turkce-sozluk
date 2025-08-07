@@ -5,7 +5,7 @@ slug: pasifikasyon
 letter: P
 lisan: Fransızca pacification
 anlamlar:
-- ► etkisizleştirme
+- etkisizleştirme
 ozellikler:
 - - isim
 ornekler:

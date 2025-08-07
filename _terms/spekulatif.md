@@ -5,8 +5,8 @@ slug: spekulatif
 letter: S
 lisan: Fransızca spéculatif
 anlamlar:
-- ► kurgusal
-- ► saptırıcı
+- kurgusal
+- saptırıcı
 ozellikler:
 - - sıfat
   - felsefe

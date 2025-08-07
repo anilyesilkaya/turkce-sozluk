@@ -5,7 +5,7 @@ slug: manasizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anlamsızlık
+- anlamsızlık
 ozellikler:
 - - isim
 ornekler:

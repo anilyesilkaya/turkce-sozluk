@@ -5,7 +5,7 @@ slug: umitlendirme
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutlandırma
+- umutlandırma
 ozellikler:
 - - isim
 ornekler:

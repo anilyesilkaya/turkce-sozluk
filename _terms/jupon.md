@@ -5,7 +5,7 @@ slug: jupon
 letter: J
 lisan: Fransızca jupon
 anlamlar:
-- ► iç etek
+- iç etek
 ozellikler:
 - - isim
 ornekler:

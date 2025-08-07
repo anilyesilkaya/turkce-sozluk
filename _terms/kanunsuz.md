@@ -5,7 +5,7 @@ slug: kanunsuz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasasız
+- yasasız
 - Yasaya aykırı
 ozellikler:
 - - sıfat

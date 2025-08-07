@@ -5,7 +5,7 @@ slug: devim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► devinim
+- devinim
 ozellikler:
 - - isim
   - fizik

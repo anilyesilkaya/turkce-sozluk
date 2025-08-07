@@ -5,7 +5,7 @@ slug: peki
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► evet
+- evet
 ozellikler:
 - - ünlem
 ornekler:

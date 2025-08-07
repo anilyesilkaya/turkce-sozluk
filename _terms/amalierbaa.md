@@ -5,7 +5,7 @@ slug: amalierbaa
 letter: A
 lisan: Arapça aʿmāl + erbaʿa
 anlamlar:
-- ► dört işlem
+- dört işlem
 ozellikler:
 - - isim
   - eskimiş

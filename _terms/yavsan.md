@@ -5,7 +5,7 @@ slug: yavsan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yavşan otu
+- yavşan otu
 ozellikler:
 - - isim
   - bitki bilimi

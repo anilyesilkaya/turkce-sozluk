@@ -12,7 +12,7 @@ anlamlar:
 - İki veya daha fazla değişken arasındaki ilişki
 - Ancak bağlı bulunduğu temel kavramlarla birlikte düşünülebilen varlığın bu temel kavramla olan ilişkisinin niteliği; görelik, izafet
 - İki veya daha çok nitelik arasında matematik işlemleri yardımı ile kurulan bağlılık veya eşitlik
-- ► ulam
+- ulam
 ozellikler:
 - - isim
 - - isim

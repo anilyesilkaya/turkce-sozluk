@@ -5,8 +5,8 @@ slug: tefeyyuz
 letter: T
 lisan: Arapça tefeyyuż
 anlamlar:
-- ► ilerleme
-- ► feyzalma
+- ilerleme
+- feyzalma
 ozellikler:
 - - isim
   - eskimiş

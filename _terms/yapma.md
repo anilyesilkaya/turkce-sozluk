@@ -6,8 +6,8 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapmak işi
-- ► yapay
-- ► yapmacık, sahici karşıtı
+- yapay
+- yapmacık, sahici karşıtı
 ozellikler:
 - - isim
 - - isim

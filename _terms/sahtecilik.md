@@ -5,7 +5,7 @@ slug: sahtecilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sahtekârlık
+- sahtekârlık
 ozellikler:
 - - isim
 ornekler:

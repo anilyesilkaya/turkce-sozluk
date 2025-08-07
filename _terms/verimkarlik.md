@@ -5,7 +5,7 @@ slug: verimkarlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► verimlilik
+- verimlilik
 ozellikler:
 - - isim
 ornekler:

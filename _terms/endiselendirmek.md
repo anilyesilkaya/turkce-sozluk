@@ -5,7 +5,7 @@ slug: endiselendirmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılandırmak
+- kaygılandırmak
 ozellikler:
 - - -i
 ornekler:

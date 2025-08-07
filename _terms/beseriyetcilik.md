@@ -5,7 +5,7 @@ slug: beseriyetcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► insancıllık
+- insancıllık
 ozellikler:
 - - isim
   - felsefe

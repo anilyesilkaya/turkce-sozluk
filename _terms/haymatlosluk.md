@@ -5,7 +5,7 @@ slug: haymatlosluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► vatansızlık
+- vatansızlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: denaet
 letter: D
 lisan: Arapça denāʾet
 anlamlar:
-- ► alçaklık
+- alçaklık
 ozellikler:
 - - isim
   - eskimiş

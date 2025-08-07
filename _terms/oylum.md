@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - İçi oyulmuş, çukur duruma getirilmiş
-- ► hacim
+- hacim
 - Resimde derinlik, üç boyutluk etkisi
 ozellikler:
 - - sıfat

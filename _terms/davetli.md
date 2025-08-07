@@ -5,7 +5,7 @@ slug: davetli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çağrılı
+- çağrılı
 ozellikler:
 - - isim
 ornekler:

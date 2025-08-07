@@ -5,7 +5,7 @@ slug: sinestezi
 letter: S
 lisan: Fransızca synésthésie
 anlamlar:
-- ► duyum ikiliği
+- duyum ikiliği
 ozellikler:
 - - isim
   - ruh bilimi

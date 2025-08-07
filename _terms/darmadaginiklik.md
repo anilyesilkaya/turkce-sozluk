@@ -5,7 +5,7 @@ slug: darmadaginiklik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► darmadağınlık
+- darmadağınlık
 ozellikler:
 - - isim
 ornekler:

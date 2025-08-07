@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mevzūn
 anlamlar:
 - Biçimli, düzgün, oranlı olan
-- ► ölçülü
+- ölçülü
 ozellikler:
 - - sıfat
   - eskimiş

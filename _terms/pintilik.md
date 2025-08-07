@@ -5,7 +5,7 @@ slug: pintilik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
 ornekler:

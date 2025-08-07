@@ -5,7 +5,7 @@ slug: cellist
 letter: Ç
 lisan: İngilizce cellist
 anlamlar:
-- ► viyolonselci
+- viyolonselci
 ozellikler:
 - - isim
   - müzik

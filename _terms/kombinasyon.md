@@ -5,8 +5,8 @@ slug: kombinasyon
 letter: K
 lisan: Fransızca combinaison
 anlamlar:
-- ► birleştirme
-- ► düzen
+- birleştirme
+- düzen
 ozellikler:
 - - isim
 - - isim

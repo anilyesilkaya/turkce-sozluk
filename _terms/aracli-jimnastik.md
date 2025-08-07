@@ -5,7 +5,7 @@ slug: aracli-jimnastik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aletli jimnastik
+- aletli jimnastik
 ozellikler:
 - - isim
   - spor

@@ -5,7 +5,7 @@ slug: musmir
 letter: M
 lisan: Arapça mus̱mir
 anlamlar:
-- ► verimli
+- verimli
 - Sonuç veren
 ozellikler:
 - - sıfat

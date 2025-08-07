@@ -5,7 +5,7 @@ slug: kamu-sektoru
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kamu kesimi
+- kamu kesimi
 ozellikler:
 - - isim
 ornekler:

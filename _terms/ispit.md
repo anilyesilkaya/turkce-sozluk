@@ -5,7 +5,7 @@ slug: ispit
 letter: I
 lisan: Rumca
 anlamlar:
-- ► jant
+- jant
 ozellikler:
 - - isim
 ornekler:

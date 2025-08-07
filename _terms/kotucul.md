@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kötülük isteyen (kimse)
 - Kötü niyetli
-- ► kötü huylu
+- kötü huylu
 ozellikler:
 - - sıfat
 - - sıfat

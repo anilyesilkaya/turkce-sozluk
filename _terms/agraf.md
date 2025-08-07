@@ -5,7 +5,7 @@ slug: agraf
 letter: A
 lisan: Fransızca agrafe
 anlamlar:
-- ► kopça
+- kopça
 ozellikler:
 - - isim
 ornekler:

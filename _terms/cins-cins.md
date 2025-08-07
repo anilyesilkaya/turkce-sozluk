@@ -5,7 +5,7 @@ slug: cins-cins
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► türlü türlü
+- türlü türlü
 - Türlerine göre
 ozellikler:
 - - sıfat

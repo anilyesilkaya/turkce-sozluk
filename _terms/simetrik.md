@@ -5,7 +5,7 @@ slug: simetrik
 letter: S
 lisan: Fransızca symétrique
 anlamlar:
-- ► bakışımlı
+- bakışımlı
 ozellikler:
 - - sıfat
   - matematik

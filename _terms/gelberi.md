@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Büyük ocaklardan ateşi dışarı çekmek için kullanılan uzun saplı demir araç
-- ► tırmık
+- tırmık
 - Harman döküntülerini toplamaya yarayan araç; çekberi
 - Ağaç dallarını budamak için kullanılan eğri demir
 ozellikler:

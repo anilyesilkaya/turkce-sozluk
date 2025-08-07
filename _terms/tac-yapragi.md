@@ -5,7 +5,7 @@ slug: tac-yapragi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taç yaprak
+- taç yaprak
 ozellikler:
 - - isim
   - bitki bilimi

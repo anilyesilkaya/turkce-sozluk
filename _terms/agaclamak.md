@@ -5,7 +5,7 @@ slug: agaclamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağaçlandırmak
+- ağaçlandırmak
 ozellikler:
 - - -i
 ornekler:

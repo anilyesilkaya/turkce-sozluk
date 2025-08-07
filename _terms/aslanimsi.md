@@ -5,7 +5,7 @@ slug: aslanimsi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aslansı
+- aslansı
 ozellikler:
 - - sıfat
 ornekler:

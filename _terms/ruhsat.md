@@ -5,8 +5,8 @@ slug: ruhsat
 letter: R
 lisan: Arapça ruḫṣat
 anlamlar:
-- ► izin
-- ► ruhsatname
+- izin
+- ruhsatname
 ozellikler:
 - - isim
 - - isim

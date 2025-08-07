@@ -5,7 +5,7 @@ slug: iz-dusumu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► projeksiyon
+- projeksiyon
 - İz düşümü düzlemi denilen bir düzlem üzerinde, bazı geometri kurallarına uyularak bir cismin gösterilmesi; irtisam, mürtesem
 ozellikler:
 - - isim

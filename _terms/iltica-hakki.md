@@ -5,7 +5,7 @@ slug: iltica-hakki
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sığınma hakkı
+- sığınma hakkı
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: berat
 letter: B
 lisan: Arapça berāt
 anlamlar:
-- ► buluş belgesi
+- buluş belgesi
 - Osmanlı Devleti'nde bir göreve atanan, aylık bağlanan, san, nişan veya ayrıcalık verilen kimseler için çıkarılan padişah buyruğu
 ozellikler:
 - - isim

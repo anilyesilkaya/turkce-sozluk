@@ -5,7 +5,7 @@ slug: metanol
 letter: M
 lisan: İngilizce methanol
 anlamlar:
-- ► odun ruhu
+- odun ruhu
 ozellikler:
 - - isim
   - kimya

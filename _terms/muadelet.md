@@ -5,8 +5,8 @@ slug: muadelet
 letter: M
 lisan: Arapça muʿādelet
 anlamlar:
-- ► eş değerlik
-- ► eşitlik
+- eş değerlik
+- eşitlik
 ozellikler:
 - - isim
   - eskimiş

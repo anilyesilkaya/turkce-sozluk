@@ -5,7 +5,7 @@ slug: hiddetsiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► öfkesiz
+- öfkesiz
 ozellikler:
 - - sıfat
 ornekler:

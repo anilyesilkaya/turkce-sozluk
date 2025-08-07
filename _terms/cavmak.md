@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Güneş doğmak
 - Dağılıp yayılmak, saçılmak
-- ► cıvmak
+- cıvmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

@@ -5,7 +5,7 @@ slug: sekilsel
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimsel
+- biçimsel
 ozellikler:
 - - sıfat
 ornekler:

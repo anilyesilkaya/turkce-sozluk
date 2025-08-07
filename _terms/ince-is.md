@@ -5,7 +5,7 @@ slug: ince-is
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► nakış
+- nakış
 - Özenli ve hesaplı davranış
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: nite
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nasıl
+- nasıl
 ozellikler:
 - - zarf
   - eskimiş

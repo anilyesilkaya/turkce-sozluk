@@ -5,7 +5,7 @@ slug: sizirmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sızdırmak
+- sızdırmak
 ozellikler:
 - - -i
 ornekler:

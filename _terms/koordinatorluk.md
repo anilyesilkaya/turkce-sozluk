@@ -5,7 +5,7 @@ slug: koordinatorluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eş güdümcülük
+- eş güdümcülük
 ozellikler:
 - - isim
 ornekler:

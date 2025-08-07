@@ -5,7 +5,7 @@ slug: janjan
 letter: J
 lisan: Fransızca changeant
 anlamlar:
-- ► yanardöner
+- yanardöner
 ozellikler:
 - - sıfat
 ornekler:

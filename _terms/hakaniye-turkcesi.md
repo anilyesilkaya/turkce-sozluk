@@ -5,7 +5,7 @@ slug: hakaniye-turkcesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Karahanlı Türkçesi
+- Karahanlı Türkçesi
 ozellikler:
 - - isim
 ornekler:

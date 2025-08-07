@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Bir bütünü ince ve yassı parçalara ayırarak kesmek
-- ► yarmak
+- yarmak
 ozellikler:
 - - -i
 - - -i

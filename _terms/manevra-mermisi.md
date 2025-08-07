@@ -5,7 +5,7 @@ slug: manevra-mermisi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► manevra fişeği
+- manevra fişeği
 ozellikler:
 - - isim
   - askerlik

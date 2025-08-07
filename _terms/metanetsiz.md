@@ -5,7 +5,7 @@ slug: metanetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dayanıksız
+- dayanıksız
 ozellikler:
 - - sıfat
 ornekler:

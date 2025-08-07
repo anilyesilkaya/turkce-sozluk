@@ -5,7 +5,7 @@ slug: cins-cibilliyet
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► soy sop
+- soy sop
 ozellikler:
 - - isim
 ornekler:

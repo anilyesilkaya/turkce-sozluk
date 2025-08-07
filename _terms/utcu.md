@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Ut yapan veya satan kimse
-- ► udi
+- udi
 ozellikler:
 - - isim
   - müzik

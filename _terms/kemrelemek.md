@@ -5,7 +5,7 @@ slug: kemrelemek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gübrelemek
+- gübrelemek
 ozellikler:
 - - -i
   - ağızlardan

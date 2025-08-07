@@ -5,7 +5,7 @@ slug: hinoglu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kurnaz
+- kurnaz
 ozellikler:
 - - sıfat
   - teklifsiz konuşmada

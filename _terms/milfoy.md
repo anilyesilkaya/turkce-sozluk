@@ -5,7 +5,7 @@ slug: milfoy
 letter: M
 lisan: Fransızca mille-feuille
 anlamlar:
-- ► milföy hamuru
+- milföy hamuru
 ozellikler:
 - - isim
 ornekler:

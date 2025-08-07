@@ -5,7 +5,7 @@ slug: kosnulme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızışma
+- kızışma
 ozellikler:
 - - isim
 ornekler:

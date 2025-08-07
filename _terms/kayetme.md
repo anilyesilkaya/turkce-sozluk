@@ -5,7 +5,7 @@ slug: kayetme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kusma
+- kusma
 ozellikler:
 - - isim
 ornekler:

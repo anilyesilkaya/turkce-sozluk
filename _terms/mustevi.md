@@ -5,8 +5,8 @@ slug: mustevi
 letter: M
 lisan: Arapça mustevī
 anlamlar:
-- ► düz (I)
-- ► düzlem
+- düz (I)
+- düzlem
 ozellikler:
 - - sıfat
   - eskimiş

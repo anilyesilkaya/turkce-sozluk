@@ -5,7 +5,7 @@ slug: empresyonist
 letter: E
 lisan: Fransızca impressionniste
 anlamlar:
-- ► izlenimci
+- izlenimci
 ozellikler:
 - - sıfat
 ornekler:

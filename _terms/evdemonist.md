@@ -5,7 +5,7 @@ slug: evdemonist
 letter: E
 lisan: Fransızca eudémoniste
 anlamlar:
-- ► mutçu
+- mutçu
 ozellikler:
 - - sıfat
 ornekler:

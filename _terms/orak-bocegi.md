@@ -5,7 +5,7 @@ slug: orak-bocegi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ağustos böceği
+- ağustos böceği
 ozellikler:
 - - isim
   - hayvan bilimi

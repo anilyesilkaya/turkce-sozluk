@@ -5,7 +5,7 @@ slug: bolusuvermek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaşıvermek
+- paylaşıvermek
 ozellikler:
 - - -i
 ornekler:

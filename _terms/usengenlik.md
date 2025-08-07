@@ -5,7 +5,7 @@ slug: usengenlik
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üşengeçlik
+- üşengeçlik
 ozellikler:
 - - isim
 ornekler:

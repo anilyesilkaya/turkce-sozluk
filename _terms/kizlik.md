@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Cinsel ilişkide bulunmamış dişi cinsin durumu; bakirlik, bekâret, bikir
 - Bir kadının evlenmeden önceki yaşantısıyla ilgili, o döneme özgü
-- ► üvey kız
+- üvey kız
 ozellikler:
 - - isim
 - - isim

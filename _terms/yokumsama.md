@@ -5,7 +5,7 @@ slug: yokumsama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yadsıma
+- yadsıma
 ozellikler:
 - - isim
 ornekler:

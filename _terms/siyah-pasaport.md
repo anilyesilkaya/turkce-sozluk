@@ -5,7 +5,7 @@ slug: siyah-pasaport
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► diplomatik pasaport
+- diplomatik pasaport
 ozellikler:
 - - isim
 ornekler:

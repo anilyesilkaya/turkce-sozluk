@@ -5,7 +5,7 @@ slug: toplumsal-tabakalasma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sosyal tabakalaşma
+- sosyal tabakalaşma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zingirdatmak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zangırdatmak
+- zangırdatmak
 ozellikler:
 - - -i
 ornekler:

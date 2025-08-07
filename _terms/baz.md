@@ -5,7 +5,7 @@ slug: baz
 letter: B
 lisan: Fransızca base
 anlamlar:
-- ► temel
+- temel
 - Bir asitle birleştiğinde bir tuz oluşturan madde
 ozellikler:
 - - sıfat

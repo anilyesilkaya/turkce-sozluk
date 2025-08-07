@@ -5,7 +5,7 @@ slug: ergonomi
 letter: E
 lisan: Fransızca ergonomie
 anlamlar:
-- ► iş bilimi
+- iş bilimi
 ozellikler:
 - - isim
 ornekler:

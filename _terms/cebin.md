@@ -5,8 +5,8 @@ slug: cebin
 letter: C
 lisan: Arapça cebīn
 anlamlar:
-- ► alın
-- ► korkak
+- alın
+- korkak
 ozellikler:
 - - isim
   - eskimiş

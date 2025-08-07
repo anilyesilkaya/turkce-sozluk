@@ -5,7 +5,7 @@ slug: yansinim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yansıma
+- yansıma
 ozellikler:
 - - isim
 ornekler:

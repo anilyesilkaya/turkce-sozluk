@@ -5,7 +5,7 @@ slug: zirhli-guc
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırhlı birlik
+- zırhlı birlik
 ozellikler:
 - - isim
   - askerlik

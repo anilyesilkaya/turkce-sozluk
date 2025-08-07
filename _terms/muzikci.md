@@ -5,7 +5,7 @@ slug: muzikci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► müzisyen
+- müzisyen
 - Müzik öğretmeni
 ozellikler:
 - - isim

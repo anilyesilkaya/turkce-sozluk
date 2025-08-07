@@ -5,7 +5,7 @@ slug: nizasiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kavgasız
+- kavgasız
 ozellikler:
 - - sıfat
 ornekler:

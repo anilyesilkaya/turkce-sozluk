@@ -5,7 +5,7 @@ slug: teskilatlandirma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütlendirme
+- örgütlendirme
 ozellikler:
 - - isim
 ornekler:

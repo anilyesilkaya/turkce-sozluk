@@ -7,7 +7,7 @@ lisan: Arapça rūḥānī
 anlamlar:
 - Ruhla ilgili
 - Din ve mezhep işlerini ele alan, bunlarla ilgili bulunan
-- ► manevi, cismani karşıtı
+- manevi, cismani karşıtı
 - Ruhlar âlemine mensup olan varlık
 ozellikler:
 - - sıfat

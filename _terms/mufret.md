@@ -5,7 +5,7 @@ slug: mufret
 letter: M
 lisan: Arapça mufred
 anlamlar:
-- ► teklik
+- teklik
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: amerikan-ingilizcesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Amerikanca
+- Amerikanca
 ozellikler:
 - - isim
 ornekler:

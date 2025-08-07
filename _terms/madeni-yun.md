@@ -5,7 +5,7 @@ slug: madeni-yun
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maden yünü
+- maden yünü
 ozellikler:
 - - isim
 ornekler:

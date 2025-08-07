@@ -5,7 +5,7 @@ slug: akrobat
 letter: A
 lisan: Fransızca acrobate
 anlamlar:
-- ► cambaz
+- cambaz
 ozellikler:
 - - isim
 ornekler:

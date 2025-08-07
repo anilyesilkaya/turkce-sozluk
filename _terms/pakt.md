@@ -5,7 +5,7 @@ slug: pakt
 letter: P
 lisan: Fransızca pacte
 anlamlar:
-- ► antlaşma
+- antlaşma
 ozellikler:
 - - isim
 ornekler:

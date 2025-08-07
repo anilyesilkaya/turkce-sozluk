@@ -5,7 +5,7 @@ slug: benizli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yüzlü
+- yüzlü
 ozellikler:
 - - sıfat
 ornekler:

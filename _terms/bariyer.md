@@ -5,7 +5,7 @@ slug: bariyer
 letter: B
 lisan: Fransızca barrière
 anlamlar:
-- ► engel
+- engel
 ozellikler:
 - - isim
 ornekler:

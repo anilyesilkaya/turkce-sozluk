@@ -5,9 +5,9 @@ slug: emmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► somurmak
+- somurmak
 - Tükürük yardımıyla eriterek içine çekmek
-- ► soğurmak
+- soğurmak
 - Uzun süre yararlanmak
 ozellikler:
 - - -i

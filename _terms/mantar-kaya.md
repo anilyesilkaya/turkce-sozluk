@@ -5,7 +5,7 @@ slug: mantar-kaya
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► şeytanmasası
+- şeytanmasası
 ozellikler:
 - - isim
   - jeoloji

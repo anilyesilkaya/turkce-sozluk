@@ -5,7 +5,7 @@ slug: toz-mantari
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kurt mantarı
+- kurt mantarı
 ozellikler:
 - - isim
   - bitki bilimi

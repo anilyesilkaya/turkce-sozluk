@@ -5,7 +5,7 @@ slug: musellesat
 letter: M
 lisan: Arapça mus̱elles̱āt
 anlamlar:
-- ► trigonometri
+- trigonometri
 ozellikler:
 - - isim
   - eskimiş

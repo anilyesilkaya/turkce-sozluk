@@ -5,7 +5,7 @@ slug: samimiyetsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► içtenliksiz
+- içtenliksiz
 ozellikler:
 - - sıfat
 ornekler:

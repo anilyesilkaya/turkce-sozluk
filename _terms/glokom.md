@@ -5,7 +5,7 @@ slug: glokom
 letter: G
 lisan: Fransızca glaucome
 anlamlar:
-- ► karasu
+- karasu
 ozellikler:
 - - isim
   - tıp

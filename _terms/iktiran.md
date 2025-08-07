@@ -5,7 +5,7 @@ slug: iktiran
 letter: I
 lisan: Arapça iḳtirān
 anlamlar:
-- ► yaklaşma
+- yaklaşma
 - Bir yere ulaşma, erişme
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: hint-kobrasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kobra
+- kobra
 ozellikler:
 - - isim
   - hayvan bilimi

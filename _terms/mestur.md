@@ -5,7 +5,7 @@ slug: mestur
 letter: M
 lisan: Arapça mestūr
 anlamlar:
-- ► gizli
+- gizli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: keci-yolu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► patika
+- patika
 ozellikler:
 - - isim
 ornekler:

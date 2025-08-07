@@ -5,7 +5,7 @@ slug: spirituel
 letter: S
 lisan: Fransızca spirituel
 anlamlar:
-- ► ruhsal
+- ruhsal
 ozellikler:
 - - sıfat
   - felsefe

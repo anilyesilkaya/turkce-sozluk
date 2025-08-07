@@ -5,7 +5,7 @@ slug: badiye
 letter: B
 lisan: Arapça bādiye
 anlamlar:
-- ► çöl
+- çöl
 ozellikler:
 - - isim
   - eskimiş

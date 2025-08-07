@@ -7,7 +7,7 @@ lisan: Rumca
 anlamlar:
 - Bilardo oyununda vuruş
 - Uygun durum, fırsat
-- ► dalavere
+- dalavere
 ozellikler:
 - - isim
 - - isim

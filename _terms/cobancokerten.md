@@ -5,7 +5,7 @@ slug: cobancokerten
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► demir dikeni
+- demir dikeni
 ozellikler:
 - - isim
   - bitki bilimi

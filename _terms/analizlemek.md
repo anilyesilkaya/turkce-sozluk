@@ -5,7 +5,7 @@ slug: analizlemek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çözümlemek
+- çözümlemek
 ozellikler:
 - - -i
 ornekler:

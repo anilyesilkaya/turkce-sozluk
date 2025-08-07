@@ -5,7 +5,7 @@ slug: kizkovalayan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızkaçıran
+- kızkaçıran
 ozellikler:
 - - isim
 ornekler:

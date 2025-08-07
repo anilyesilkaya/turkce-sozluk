@@ -5,7 +5,7 @@ slug: arzusuz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteksiz
+- isteksiz
 - İsteksiz bir biçimde
 ozellikler:
 - - sıfat

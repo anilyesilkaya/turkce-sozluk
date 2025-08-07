@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Halk hizmeti gören devlet organlarının tümü
 - Bir ülkedeki vatandaşların bütünü; amme
-- ► bütün
-- ► halk (I)
+- bütün
+- halk (I)
 ozellikler:
 - - isim
 - - isim

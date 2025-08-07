@@ -5,7 +5,7 @@ slug: z-kutuphane
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zenginleştirilmiş kütüphane
+- zenginleştirilmiş kütüphane
 ozellikler:
 - - isim
 ornekler:

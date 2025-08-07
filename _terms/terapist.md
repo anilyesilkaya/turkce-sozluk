@@ -5,7 +5,7 @@ slug: terapist
 letter: T
 lisan: Fransızca thérapist
 anlamlar:
-- ► tedavici
+- tedavici
 ozellikler:
 - - isim
 ornekler:

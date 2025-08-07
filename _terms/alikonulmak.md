@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Alıkoyma işine konu olmak
-- ► yasaklanmak
+- yasaklanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

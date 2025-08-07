@@ -5,7 +5,7 @@ slug: sempatizan
 letter: S
 lisan: Fransızca sympathisant
 anlamlar:
-- ► duygudaş
+- duygudaş
 ozellikler:
 - - isim
 ornekler:

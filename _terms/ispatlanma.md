@@ -5,8 +5,8 @@ slug: ispatlanma
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtlanma
-- ► tanıtlanma
+- kanıtlanma
+- tanıtlanma
 ozellikler:
 - - isim
 - - isim

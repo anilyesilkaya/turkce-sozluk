@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vaṣiyyet
 anlamlar:
 - Bir kimsenin ölümünden sonra yapılmasını istediği şey
-- ► vasiyetname
+- vasiyetname
 ozellikler:
 - - isim
 - - isim

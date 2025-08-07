@@ -5,7 +5,7 @@ slug: mesame
 letter: M
 lisan: Arapça mesāmme
 anlamlar:
-- ► gözenek
+- gözenek
 ozellikler:
 - - isim
   - eskimiş

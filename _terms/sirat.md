@@ -5,8 +5,8 @@ slug: sirat
 letter: S
 lisan: Arapça ṣirāṭ
 anlamlar:
-- ► sırat köprüsü
-- ► yol
+- sırat köprüsü
+- yol
 ozellikler:
 - - isim
 - - isim

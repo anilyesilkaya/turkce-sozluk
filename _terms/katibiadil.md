@@ -5,7 +5,7 @@ slug: katibiadil
 letter: K
 lisan: Arapça kātib + ʿadl
 anlamlar:
-- ► noter
+- noter
 ozellikler:
 - - isim
   - eskimiş

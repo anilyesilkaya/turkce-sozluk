@@ -5,8 +5,8 @@ slug: acizlik
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► güçsüzlük
-- ► beceriksizlik
+- güçsüzlük
+- beceriksizlik
 ozellikler:
 - - isim
 - - isim

@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Yetişkin adam; bay (II), er (I), er kişi, kişi
 - İnsan, hayvan ve bitkilerin dişiyi dölleyecek cinsten olanı
-- ► koca (I)
+- koca (I)
 - Sperma oluşturan organizma
-- ► mert
+- mert
 - Girintili ve çıkıntılı olarak bir çift oluşturan nesnelerden çıkıntılı olanı
 - Sert, kolay bükülmez
 ozellikler:

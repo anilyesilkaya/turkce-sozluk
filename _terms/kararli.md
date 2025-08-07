@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kesin karar vermiş olan
 - Kararında direnen, kararını değiştirmeyen
-- ► dengeli
+- dengeli
 - Fiziksel ve kimyasal etkenlerden etkilenmeyen, sabit olan
 ozellikler:
 - - sıfat

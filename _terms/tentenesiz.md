@@ -5,7 +5,7 @@ slug: tentenesiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dantelsiz
+- dantelsiz
 ozellikler:
 - - sıfat
 ornekler:

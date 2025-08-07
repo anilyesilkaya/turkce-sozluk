@@ -5,7 +5,7 @@ slug: catra-patra
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çat pat
+- çat pat
 ozellikler:
 - - zarf
 ornekler:

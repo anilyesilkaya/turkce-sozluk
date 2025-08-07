@@ -7,7 +7,7 @@ lisan: Fransızca plan
 anlamlar:
 - Bir işin, bir eserin gerçekleştirilmesi, bir konunun yolunda yürümesi için uyulması tasarlanan düzen
 - Bir şehrin, bir yapının, bir makinenin çeşitli bölümlerini gösteren çizim
-- ► çekim
+- çekim
 - Geleceğe dönük düşünce; niyet
 - Göze hitap eden resim, tiyatro vb. sanatlarda cepheden itibaren derinlemesine bölümlerden her biri
 ozellikler:

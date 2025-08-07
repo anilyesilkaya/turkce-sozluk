@@ -5,7 +5,7 @@ slug: veksilloloji
 letter: V
 lisan: Fransızca vexillologie
 anlamlar:
-- ► bayrak bilimi
+- bayrak bilimi
 ozellikler:
 - - isim
 ornekler:

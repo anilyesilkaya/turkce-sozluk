@@ -5,7 +5,7 @@ slug: avanproje
 letter: A
 lisan: Fransızca avant-projet
 anlamlar:
-- ► ön proje
+- ön proje
 ozellikler:
 - - isim
 ornekler:

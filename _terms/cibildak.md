@@ -5,7 +5,7 @@ slug: cibildak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çıplak
+- çıplak
 - Çıplak olarak
 ozellikler:
 - - sıfat

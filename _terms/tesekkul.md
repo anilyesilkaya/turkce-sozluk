@@ -5,8 +5,8 @@ slug: tesekkul
 letter: T
 lisan: Arapça teşekkul
 anlamlar:
-- ► oluşum
-- ► örgüt
+- oluşum
+- örgüt
 ozellikler:
 - - isim
 - - isim

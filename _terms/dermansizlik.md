@@ -5,7 +5,7 @@ slug: dermansizlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► takatsizlik
+- takatsizlik
 ozellikler:
 - - isim
 ornekler:

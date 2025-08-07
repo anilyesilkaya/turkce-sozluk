@@ -5,7 +5,7 @@ slug: magrurane
 letter: M
 lisan: Arapça maġrūr + Farsça -āne
 anlamlar:
-- ► mağrurca
+- mağrurca
 ozellikler:
 - - zarf
   - eskimiş

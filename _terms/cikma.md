@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkmak işi
-- ► cumba
+- cumba
 - Hamamdan çıkarken kullanılan havlu ve kurulanma takımı; çıkacak
 - Bir yazı sayfasının kenarına metinle ilgili olarak yazılan ek; çıkıntı, derkenar, hamiş
 - Desteklemek amacıyla verilen para

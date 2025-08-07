@@ -5,7 +5,7 @@ slug: nufus-kesafeti
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nüfus yoğunluğu
+- nüfus yoğunluğu
 ozellikler:
 - - isim
 ornekler:

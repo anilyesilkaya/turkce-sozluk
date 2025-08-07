@@ -5,7 +5,7 @@ slug: veznedarlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► veznecilik
+- veznecilik
 - Banka vb. kurum ve kuruluşlarda veznenin bulunduğu yer
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: utanc
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► utanma
+- utanma
 ozellikler:
 - - isim
 ornekler:

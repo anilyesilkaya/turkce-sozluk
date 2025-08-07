@@ -5,7 +5,7 @@ slug: direngenlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► inatçılık
+- inatçılık
 ozellikler:
 - - isim
 ornekler:

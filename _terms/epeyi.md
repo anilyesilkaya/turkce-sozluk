@@ -5,7 +5,7 @@ slug: epeyi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► epey
+- epey
 ozellikler:
 - - zarf
 ornekler:

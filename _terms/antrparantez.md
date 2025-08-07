@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca entre parenthèses
 anlamlar:
 - Söz arasında, sırası gelmişken
-- ► ayrıca
+- ayrıca
 ozellikler:
 - - zarf
 - - zarf

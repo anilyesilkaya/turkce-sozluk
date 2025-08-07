@@ -5,7 +5,7 @@ slug: merinos-koyunu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merinos
+- merinos
 ozellikler:
 - - isim
   - hayvan bilimi

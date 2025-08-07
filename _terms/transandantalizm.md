@@ -5,7 +5,7 @@ slug: transandantalizm
 letter: T
 lisan: Fransızca transcendantalisme
 anlamlar:
-- ► deneyüstücülük
+- deneyüstücülük
 ozellikler:
 - - isim
   - felsefe

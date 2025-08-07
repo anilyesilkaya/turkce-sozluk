@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi akla getirerek sözünü etmek veya onu düşünmek; zikretmek
 - Bir armağanla birinin gönlünü almak
-- ► adlandırmak
+- adlandırmak
 ozellikler:
 - - -i
 - - -i

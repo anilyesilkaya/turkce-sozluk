@@ -5,7 +5,7 @@ slug: celp-kagidi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çağrı belgesi
+- çağrı belgesi
 ozellikler:
 - - isim
   - hukuk

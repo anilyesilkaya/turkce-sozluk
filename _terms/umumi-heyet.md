@@ -5,7 +5,7 @@ slug: umumi-heyet
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel kurul
+- genel kurul
 ozellikler:
 - - isim
   - eskimiş

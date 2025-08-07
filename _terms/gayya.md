@@ -5,7 +5,7 @@ slug: gayya
 letter: G
 lisan: Arapça ġayyā
 anlamlar:
-- ► gayya kuyusu
+- gayya kuyusu
 ozellikler:
 - - isim
 ornekler:

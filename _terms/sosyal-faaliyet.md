@@ -5,7 +5,7 @@ slug: sosyal-faaliyet
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sosyal etkinlik
+- sosyal etkinlik
 ozellikler:
 - - isim
 ornekler:

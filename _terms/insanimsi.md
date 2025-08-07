@@ -5,7 +5,7 @@ slug: insanimsi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insansı
+- insansı
 ozellikler:
 - - sıfat
 ornekler:

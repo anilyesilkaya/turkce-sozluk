@@ -5,7 +5,7 @@ slug: acimik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► mavikantaron
+- mavikantaron
 ozellikler:
 - - isim
   - bitki bilimi

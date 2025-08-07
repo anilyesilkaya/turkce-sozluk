@@ -5,7 +5,7 @@ slug: tedhisci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► terörist
+- terörist
 - Korkutucu şiddet hareketinde bulunan
 ozellikler:
 - - isim

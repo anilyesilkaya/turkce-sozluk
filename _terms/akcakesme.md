@@ -5,7 +5,7 @@ slug: akcakesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kesme
+- kesme
 ozellikler:
 - - isim
   - bitki bilimi

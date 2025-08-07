@@ -5,7 +5,7 @@ slug: nedenli-nedensiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sebepli sebepsiz
+- sebepli sebepsiz
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: mururiye
 letter: M
 lisan: Arapça murūriyye
 anlamlar:
-- ► geçmelik
+- geçmelik
 ozellikler:
 - - isim
   - eskimiş

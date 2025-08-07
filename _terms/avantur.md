@@ -5,7 +5,7 @@ slug: avantur
 letter: A
 lisan: Fransızca aventure
 anlamlar:
-- ► macera
+- macera
 - Macerayı konu alan (film vb.)
 ozellikler:
 - - isim

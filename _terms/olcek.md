@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü
 - Bu ölçü miktarında olan
-- ► kile
+- kile
 - Harita veya resimde gösterilen uzunluklar ile gerçek uzunluklar arasındaki oran
 - Bir ölçü aletinin üzerinde çizgilerle ayrılmış bölüm; kadran
 - Dört okkaya eşit ağırlık ölçüsü

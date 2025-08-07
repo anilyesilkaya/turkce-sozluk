@@ -5,7 +5,7 @@ slug: yadigar
 letter: Y
 lisan: Farsça yādigār
 anlamlar:
-- ► hatıra
+- hatıra
 - Ölmüş bir kimsenin ilgilenilmesini istediği ve daima onu anımsatan kimse
 ozellikler:
 - - isim

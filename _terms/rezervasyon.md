@@ -5,7 +5,7 @@ slug: rezervasyon
 letter: R
 lisan: Fransızca réservation
 anlamlar:
-- ► ayırtma
+- ayırtma
 ozellikler:
 - - isim
 ornekler:

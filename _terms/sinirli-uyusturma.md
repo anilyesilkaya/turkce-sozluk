@@ -5,7 +5,7 @@ slug: sinirli-uyusturma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bölgesel anestezi
+- bölgesel anestezi
 ozellikler:
 - - isim
   - tıp

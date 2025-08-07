@@ -5,7 +5,7 @@ slug: art-unlu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kalın ünlü
+- kalın ünlü
 ozellikler:
 - - isim
   - dil bilgisi

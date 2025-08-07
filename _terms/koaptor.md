@@ -5,7 +5,7 @@ slug: koaptor
 letter: K
 lisan: Fransızca coapteur
 anlamlar:
-- ► cebire
+- cebire
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: atimcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hallaçlık
+- hallaçlık
 ozellikler:
 - - isim
 ornekler:

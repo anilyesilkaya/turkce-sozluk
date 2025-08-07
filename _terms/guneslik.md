@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş ışınlarına engel olan perde veya buna benzer gereç
-- ► siperlik
+- siperlik
 - Güneş ışınlarını alan (yer)
 - Alıcı merceğini zararlı ışınlardan korumak için mercek önüne takılan ve merceğin önünde gölgeli bir alan sağlayan yardımcı donatım türü
 ozellikler:

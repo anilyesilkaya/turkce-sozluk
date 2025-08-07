@@ -5,7 +5,7 @@ slug: karakacan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eşek
+- eşek
 ozellikler:
 - - isim
 ornekler:

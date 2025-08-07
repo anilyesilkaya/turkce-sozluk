@@ -5,7 +5,7 @@ slug: tecrubesizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► deneyimsizlik
+- deneyimsizlik
 ozellikler:
 - - isim
 ornekler:

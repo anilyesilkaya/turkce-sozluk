@@ -5,7 +5,7 @@ slug: kosulsuzluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartsızlık
+- şartsızlık
 ozellikler:
 - - isim
 ornekler:

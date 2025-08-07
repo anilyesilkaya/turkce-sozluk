@@ -5,7 +5,7 @@ slug: ihtimalli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► muhtemel
+- muhtemel
 ozellikler:
 - - sıfat
 ornekler:

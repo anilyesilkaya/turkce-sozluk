@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Özle, öz varlıkla, gerçekle ilgili
 - İçten, candan, samimi
-- ► timüs
+- timüs
 ozellikler:
 - - sıfat
 - - sıfat

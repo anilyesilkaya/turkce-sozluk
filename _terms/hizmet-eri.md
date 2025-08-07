@@ -5,7 +5,7 @@ slug: hizmet-eri
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► emir eri
+- emir eri
 ozellikler:
 - - isim
   - eskimiş

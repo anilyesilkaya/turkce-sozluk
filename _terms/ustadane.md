@@ -5,7 +5,7 @@ slug: ustadane
 letter: Ü
 lisan: Farsça ustādāne
 anlamlar:
-- ► üstatça
+- üstatça
 ozellikler:
 - - zarf
   - eskimiş

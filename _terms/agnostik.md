@@ -5,7 +5,7 @@ slug: agnostik
 letter: A
 lisan: Fransızca agnostique
 anlamlar:
-- ► bilinemezci
+- bilinemezci
 - Bilinemezcilikle ilgili
 ozellikler:
 - - sıfat

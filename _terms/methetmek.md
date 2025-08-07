@@ -5,7 +5,7 @@ slug: methetmek
 letter: M
 lisan: Arapça medḥ + Türkçe etmek
 anlamlar:
-- ► övmek
+- övmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,8 +5,8 @@ slug: sefahat
 letter: S
 lisan: Arapça sefāhet
 anlamlar:
-- ► uçarılık
-- ► eğlence
+- uçarılık
+- eğlence
 ozellikler:
 - - isim
 - - isim

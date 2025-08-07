@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Ancak mikroskopla görülebilen çok küçük hayvan
-- ► hayvancağız
+- hayvancağız
 ozellikler:
 - - isim
 - - isim

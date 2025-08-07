@@ -5,7 +5,7 @@ slug: buruntu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sancı
+- sancı
 ozellikler:
 - - isim
   - ağızlardan

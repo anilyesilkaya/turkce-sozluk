@@ -5,7 +5,7 @@ slug: puren
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► süpürge otu
+- süpürge otu
 ozellikler:
 - - isim
   - ağızlardan

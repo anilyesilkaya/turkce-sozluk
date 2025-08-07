@@ -5,7 +5,7 @@ slug: kiprama
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kımıldama
+- kımıldama
 ozellikler:
 - - isim
 ornekler:

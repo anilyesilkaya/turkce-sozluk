@@ -5,7 +5,7 @@ slug: korkulmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► korkmak
+- korkmak
 - Kaygı duyulmak
 ozellikler:
 - - -den

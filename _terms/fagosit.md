@@ -5,7 +5,7 @@ slug: fagosit
 letter: F
 lisan: Fransızca phagocyte
 anlamlar:
-- ► yutar hücre
+- yutar hücre
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: erosallik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erotiklik
+- erotiklik
 ozellikler:
 - - isim
 ornekler:

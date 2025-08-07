@@ -5,7 +5,7 @@ slug: faydasizca
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararsızca
+- yararsızca
 ozellikler:
 - - zarf
 ornekler:

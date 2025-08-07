@@ -6,11 +6,11 @@ letter: Z
 lisan: Farsça zūr
 anlamlar:
 - Sıkıntı veya güçlükle yapılan; güç (II), yaş (II), müşkül, kolay karşıtı
-- ► sıkıntı
-- ► zorunluluk
-- ► baskı
-- ► hastalık
-- ► güçlükle
+- sıkıntı
+- zorunluluk
+- baskı
+- hastalık
+- güçlükle
 - “Olmaz, yapamaz” anlamında kullanılan bir söz
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: kelamikibar
 letter: K
 lisan: Arapça kelām + kibār
 anlamlar:
-- ► özdeyiş
+- özdeyiş
 ozellikler:
 - - isim
   - eskimiş

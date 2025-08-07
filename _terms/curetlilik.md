@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Cüretli olma durumu
-- ► cesaretlilik
+- cesaretlilik
 ozellikler:
 - - isim
 - - isim

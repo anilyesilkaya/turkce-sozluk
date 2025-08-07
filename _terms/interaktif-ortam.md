@@ -5,7 +5,7 @@ slug: interaktif-ortam
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sanal ortam
+- sanal ortam
 ozellikler:
 - - isim
 ornekler:

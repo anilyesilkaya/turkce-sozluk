@@ -5,7 +5,7 @@ slug: pesimistlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kötümserlik
+- kötümserlik
 ozellikler:
 - - isim
   - felsefe

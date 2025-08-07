@@ -5,7 +5,7 @@ slug: bununla-beraber
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bununla birlikte
+- bununla birlikte
 ozellikler:
 - - zarf
 ornekler:

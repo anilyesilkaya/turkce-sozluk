@@ -5,7 +5,7 @@ slug: serinkanlilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğukkanlılık
+- soğukkanlılık
 ozellikler:
 - - isim
 ornekler:

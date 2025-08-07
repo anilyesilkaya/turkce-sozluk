@@ -5,7 +5,7 @@ slug: krematoryum
 letter: K
 lisan: Fransızca crématorium
 anlamlar:
-- ► yakmalık
+- yakmalık
 ozellikler:
 - - isim
 ornekler:

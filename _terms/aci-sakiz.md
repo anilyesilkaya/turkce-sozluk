@@ -5,7 +5,7 @@ slug: aci-sakiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çam sakızı
+- çam sakızı
 ozellikler:
 - - isim
   - ağızlardan

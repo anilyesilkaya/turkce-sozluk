@@ -5,11 +5,11 @@ slug: ifade
 letter: I
 lisan: Arapça ifāde
 anlamlar:
-- ► anlatım
-- ► deyiş
+- anlatım
+- deyiş
 - Bir duyguyu yüz aracılığıyla anlatan belirtilerin, mimiklerin bütünü
 - Tanık ve sanıkların olay hakkında yargı organlarına yaptıkları sözlü açıklama
-- ► dışa vurum
+- dışa vurum
 ozellikler:
 - - isim
 - - isim

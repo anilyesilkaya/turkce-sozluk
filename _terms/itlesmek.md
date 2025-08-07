@@ -5,7 +5,7 @@ slug: itlesmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► itlenmek
+- itlenmek
 ozellikler:
 - - nesnesiz
   - hakaret yollu

@@ -5,7 +5,7 @@ slug: sonrasiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonsuz
+- sonsuz
 ozellikler:
 - - sıfat
 ornekler:

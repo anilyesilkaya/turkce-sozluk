@@ -5,7 +5,7 @@ slug: subvansiyon
 letter: S
 lisan: Fransızca subvention
 anlamlar:
-- ► destekleme
+- destekleme
 ozellikler:
 - - isim
   - ekonomi

@@ -7,7 +7,7 @@ lisan: Arapça maḥlūl
 anlamlar:
 - Hallolmuş, çözülmüş, dağılmış
 - Mirasçısı olmayan bir kimseden hükûmete kalan (mülk)
-- ► eriyik
+- eriyik
 ozellikler:
 - - sıfat
   - eskimiş

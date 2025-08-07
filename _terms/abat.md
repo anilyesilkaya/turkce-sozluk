@@ -5,7 +5,7 @@ slug: abat
 letter: A
 lisan: Farsça ābād
 anlamlar:
-- ► bayındır
+- bayındır
 - Şen ve rahat olan
 ozellikler:
 - - sıfat

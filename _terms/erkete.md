@@ -5,7 +5,7 @@ slug: erkete
 letter: E
 lisan: Rumca
 anlamlar:
-- ► gözetleme
+- gözetleme
 ozellikler:
 - - isim
   - argo

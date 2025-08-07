@@ -5,7 +5,7 @@ slug: eskin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► filiz (I)
+- filiz (I)
 ozellikler:
 - - isim
   - ağızlardan

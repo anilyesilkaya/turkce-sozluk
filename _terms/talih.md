@@ -5,7 +5,7 @@ slug: talih
 letter: T
 lisan: Arapça ṭāliʿ
 anlamlar:
-- ► baht
+- baht
 ozellikler:
 - - isim
 ornekler:

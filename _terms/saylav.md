@@ -5,7 +5,7 @@ slug: saylav
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► milletvekili
+- milletvekili
 ozellikler:
 - - isim
   - eskimiş

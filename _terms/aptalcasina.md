@@ -5,7 +5,7 @@ slug: aptalcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aptalca
+- aptalca
 ozellikler:
 - - zarf
 ornekler:

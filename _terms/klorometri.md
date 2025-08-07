@@ -5,7 +5,7 @@ slug: klorometri
 letter: K
 lisan: Fransızca chlorométrie
 anlamlar:
-- ► klorölçer
+- klorölçer
 ozellikler:
 - - isim
   - kimya

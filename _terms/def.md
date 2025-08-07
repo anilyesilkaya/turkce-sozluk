@@ -5,7 +5,7 @@ slug: def
 letter: D
 lisan: Arapça defʿ
 anlamlar:
-- ► savma
+- savma
 ozellikler:
 - - isim
 ornekler:

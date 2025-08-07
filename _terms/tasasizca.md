@@ -5,7 +5,7 @@ slug: tasasizca
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygısızca
+- kaygısızca
 ozellikler:
 - - zarf
 ornekler:

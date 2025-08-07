@@ -5,7 +5,7 @@ slug: suurluluk
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlilik
+- bilinçlilik
 ozellikler:
 - - isim
   - ruh bilimi

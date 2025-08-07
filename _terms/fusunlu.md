@@ -5,7 +5,7 @@ slug: fusunlu
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
 ornekler:

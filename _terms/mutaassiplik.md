@@ -5,7 +5,7 @@ slug: mutaassiplik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bağnazlık
+- bağnazlık
 ozellikler:
 - - isim
 ornekler:

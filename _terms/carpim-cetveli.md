@@ -5,7 +5,7 @@ slug: carpim-cetveli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çarpım tablosu
+- çarpım tablosu
 ozellikler:
 - - isim
 ornekler:

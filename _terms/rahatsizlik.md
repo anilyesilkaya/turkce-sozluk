@@ -6,7 +6,7 @@ letter: R
 lisan: Türkçe
 anlamlar:
 - Rahatsız olma durumu, tedirginlik
-- ► hastalık
+- hastalık
 ozellikler:
 - - isim
 - - isim

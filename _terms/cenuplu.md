@@ -5,7 +5,7 @@ slug: cenuplu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► Güneyli
+- Güneyli
 ozellikler:
 - - sıfat
 ornekler:

@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Ekime elverişli olmayan, taşlı, kumlu toprak
 - Yassı, düz taş
-- ► bileği taşı
-- ► kayağan taş
+- bileği taşı
+- kayağan taş
 ozellikler:
 - - isim
   - ağızlardan

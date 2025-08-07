@@ -8,7 +8,7 @@ anlamlar:
 - Açılmak işi
 - Herhangi bir konuyla veya sorunla ilgili olarak düşünce ve uygulamalarda yeni koşulların gerektirdiği değişiklikleri veya yenilikleri yapma
 - Yeni bir bakış açısı getirme
-- ► sağ açıklık
+- sağ açıklık
 - Bir kısaltma veya formülün açık biçimi
 ozellikler:
 - - isim

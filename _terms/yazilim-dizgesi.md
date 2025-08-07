@@ -5,7 +5,7 @@ slug: yazilim-dizgesi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yazılım sistemi
+- yazılım sistemi
 ozellikler:
 - - isim
 ornekler:

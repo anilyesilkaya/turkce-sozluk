@@ -5,7 +5,7 @@ slug: yarisim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarışma
+- yarışma
 ozellikler:
 - - isim
 ornekler:

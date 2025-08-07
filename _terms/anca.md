@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - O kadar
 - Bu biçimde
-- ► ancak
+- ancak
 ozellikler:
 - - zarf
 - - zarf

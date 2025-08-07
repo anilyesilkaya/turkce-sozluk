@@ -7,7 +7,7 @@ lisan: Rumca
 anlamlar:
 - Eşya veya başka nesnelerin düzgün bir biçimde üst üste konulmasıyla oluşan yığın
 - Kereste, tahta vb. ağaç ürünlerini kurutmak veya bekletmek amacı ile belirli düzenlerde üst üste dizerek yapılan yığın
-- ► stok
+- stok
 ozellikler:
 - - isim
 - - isim

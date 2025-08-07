@@ -5,7 +5,7 @@ slug: carta
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yellenme
+- yellenme
 ozellikler:
 - - isim
   - argo

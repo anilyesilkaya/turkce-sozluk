@@ -5,7 +5,7 @@ slug: kulluk-agzi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► külhanbeyi ağzı
+- külhanbeyi ağzı
 ozellikler:
 - - isim
 ornekler:

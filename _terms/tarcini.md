@@ -5,7 +5,7 @@ slug: tarcini
 letter: T
 lisan: Farsça dārçīn + Arapça -ī
 anlamlar:
-- ► tarçın rengi
+- tarçın rengi
 - Bu renkte olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: yalgin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► serap
+- serap
 ozellikler:
 - - isim
   - ağızlardan

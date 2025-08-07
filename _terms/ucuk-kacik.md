@@ -5,7 +5,7 @@ slug: ucuk-kacik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► deli dolu
+- deli dolu
 - Hayatı hafife alan, ciddi ve tutarlı görünmeyen
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: vadeli-mevduat
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vadeli hesap
+- vadeli hesap
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: mahal
 letter: M
 lisan: Arapça maḥall
 anlamlar:
-- ► yöre (I)
-- ► yer
+- yöre (I)
+- yer
 ozellikler:
 - - isim
 - - isim

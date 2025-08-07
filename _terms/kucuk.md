@@ -12,7 +12,7 @@ anlamlar:
 - Geri aşamada
 - Değersiz, önemsiz
 - Kısık, parlak olmayan (ses)
-- ► idrar
+- idrar
 - Makam, rütbe, derece bakımından daha aşağı olan kimse
 ozellikler:
 - - sıfat

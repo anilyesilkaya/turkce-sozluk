@@ -5,7 +5,7 @@ slug: yagi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► düşman
+- düşman
 ozellikler:
 - - isim
   - eskimiş

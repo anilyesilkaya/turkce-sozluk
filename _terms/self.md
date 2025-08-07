@@ -5,7 +5,7 @@ slug: self
 letter: Ş
 lisan: İngilizce shelf
 anlamlar:
-- ► kıta sahanlığı
+- kıta sahanlığı
 ozellikler:
 - - isim
   - coğrafya

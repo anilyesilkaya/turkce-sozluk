@@ -5,7 +5,7 @@ slug: mustahsil
 letter: M
 lisan: Arapça mustaḥṣil
 anlamlar:
-- ► üretici
+- üretici
 ozellikler:
 - - sıfat
   - eskimiş

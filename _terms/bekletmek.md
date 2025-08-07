@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bekleme işini birine yaptırmak
-- ► oyalamak (I)
+- oyalamak (I)
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: mektep-kacagi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► okul kaçağı
+- okul kaçağı
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyle ilgili kılmak
-- ► teyellemek
+- teyellemek
 ozellikler:
 - - -i
 - - -i

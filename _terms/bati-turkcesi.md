@@ -5,7 +5,7 @@ slug: bati-turkcesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Oğuz Türkçesi
+- Oğuz Türkçesi
 ozellikler:
 - - isim
 ornekler:

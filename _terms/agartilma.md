@@ -5,7 +5,7 @@ slug: agartilma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlatılma
+- beyazlatılma
 ozellikler:
 - - isim
 ornekler:

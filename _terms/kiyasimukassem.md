@@ -5,7 +5,7 @@ slug: kiyasimukassem
 letter: K
 lisan: Arapça ḳiyās + muḳassem
 anlamlar:
-- ► ikilem
+- ikilem
 ozellikler:
 - - isim
   - eskimiş

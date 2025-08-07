@@ -5,7 +5,7 @@ slug: barbata
 letter: B
 lisan: İtalyanca barbetta
 anlamlar:
-- ► kale korkuluğu
+- kale korkuluğu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: paskalya
 letter: P
 lisan: Rumca
 anlamlar:
-- ► Paskalya Yortusu
+- Paskalya Yortusu
 ozellikler:
 - - isim
   - din bilimi

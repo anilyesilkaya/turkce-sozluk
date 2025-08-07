@@ -5,7 +5,7 @@ slug: sirali-tumce
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sıralı cümle
+- sıralı cümle
 ozellikler:
 - - isim
   - dil bilgisi

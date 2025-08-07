@@ -5,7 +5,7 @@ slug: hint-biberi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kırmızıbiber
+- kırmızıbiber
 ozellikler:
 - - isim
   - bitki bilimi

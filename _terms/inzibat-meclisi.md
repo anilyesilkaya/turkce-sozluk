@@ -5,7 +5,7 @@ slug: inzibat-meclisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► disiplin kurulu
+- disiplin kurulu
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kreditor
 letter: K
 lisan: Fransızca créditeur
 anlamlar:
-- ► krediaçan
+- krediaçan
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: rehabilitasyon
 letter: R
 lisan: Fransızca réhabilitation
 anlamlar:
-- ► iyileştirme
+- iyileştirme
 ozellikler:
 - - isim
   - ekonomi

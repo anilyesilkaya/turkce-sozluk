@@ -5,7 +5,7 @@ slug: tartimli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ritimli
+- ritimli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tasviri
 letter: T
 lisan: Arapça taṣvīrī
 anlamlar:
-- ► betimlemeli
+- betimlemeli
 ozellikler:
 - - sıfat
   - eskimiş

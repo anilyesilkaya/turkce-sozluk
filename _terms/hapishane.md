@@ -5,7 +5,7 @@ slug: hapishane
 letter: H
 lisan: Arapça ḥabs + Farsça ḫāne
 anlamlar:
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Başka bir biçim veya duruma girmek; tahavvül etmek
 - Yerine başka şey veya kimse gelmek
 - Karşılıklı alıp vermek; mübadele etmek
-- ► değiştirmek
+- değiştirmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

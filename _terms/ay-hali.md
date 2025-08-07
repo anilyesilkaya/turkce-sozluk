@@ -5,7 +5,7 @@ slug: ay-hali
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aybaşı
+- aybaşı
 ozellikler:
 - - isim
 ornekler:

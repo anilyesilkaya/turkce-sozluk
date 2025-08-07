@@ -5,8 +5,8 @@ slug: cocuk-yuvasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► yuva
-- ► yetiştirme yurdu
+- yuva
+- yetiştirme yurdu
 ozellikler:
 - - isim
 - - isim

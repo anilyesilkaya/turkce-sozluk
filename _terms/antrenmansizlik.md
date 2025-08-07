@@ -5,7 +5,7 @@ slug: antrenmansizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► idmansızlık
+- idmansızlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bulgurumsu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bulgursu
+- bulgursu
 ozellikler:
 - - sıfat
 ornekler:

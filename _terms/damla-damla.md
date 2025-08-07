@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Damlalar biçiminde
-- ► azar azar
+- azar azar
 ozellikler:
 - - zarf
 - - zarf

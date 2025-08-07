@@ -5,8 +5,8 @@ slug: yaris
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarışma
-- ► rekabet
+- yarışma
+- rekabet
 ozellikler:
 - - isim
   - spor

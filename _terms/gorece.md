@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Varlığı başka bir şeyin varlığına bağlı olan, kesin olmayıp kişiden kişiye, zamandan zamana, yerden yere değişebilen; göreceli
-- ► bağıntılı
+- bağıntılı
 ozellikler:
 - - sıfat
 - - sıfat

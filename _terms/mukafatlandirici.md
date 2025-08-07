@@ -5,7 +5,7 @@ slug: mukafatlandirici
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ödüllendirici
+- ödüllendirici
 ozellikler:
 - - sıfat
 ornekler:

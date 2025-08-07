@@ -7,7 +7,7 @@ lisan: İtalyanca batteria
 anlamlar:
 - En küçük topçu birliği
 - Savaş gemilerinde borda topları ve bunların bulunduğu güverte parçası
-- ► pil
+- pil
 - Birkaç aygıtın bir araya getirilerek belirli bir biçimde eklenmesinden oluşan takım
 ozellikler:
 - - isim

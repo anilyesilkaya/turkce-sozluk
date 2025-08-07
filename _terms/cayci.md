@@ -5,8 +5,8 @@ slug: cayci
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çayhaneci
-- ► çayevi
+- çayhaneci
+- çayevi
 - Çay yetiştiricisi
 - Çay içmeye düşkün, çay tiryakisi
 - Çay demlenip satılan yer

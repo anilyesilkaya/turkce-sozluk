@@ -5,7 +5,7 @@ slug: kaidesiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuralsız
+- kuralsız
 - Kaidesi olmayan
 ozellikler:
 - - sıfat

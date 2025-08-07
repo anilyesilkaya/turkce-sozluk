@@ -5,8 +5,8 @@ slug: kivrinti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıvrım
-- ► dönemeç
+- kıvrım
+- dönemeç
 ozellikler:
 - - isim
 - - isim

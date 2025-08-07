@@ -5,7 +5,7 @@ slug: hiddet
 letter: H
 lisan: Arapça ḥiddet
 anlamlar:
-- ► öfke
+- öfke
 ozellikler:
 - - isim
 ornekler:

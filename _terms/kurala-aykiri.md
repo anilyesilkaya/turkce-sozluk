@@ -5,7 +5,7 @@ slug: kurala-aykiri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kural dışı
+- kural dışı
 ozellikler:
 - - sıfat
 ornekler:

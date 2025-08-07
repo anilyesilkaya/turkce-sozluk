@@ -5,7 +5,7 @@ slug: ketenpere
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dolandırıcılık
+- dolandırıcılık
 ozellikler:
 - - isim
   - argo

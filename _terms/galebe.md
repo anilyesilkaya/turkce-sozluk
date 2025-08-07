@@ -5,8 +5,8 @@ slug: galebe
 letter: G
 lisan: Arapça ġalebe
 anlamlar:
-- ► yengi
-- ► üstünlük
+- yengi
+- üstünlük
 ozellikler:
 - - isim
   - eskimiş

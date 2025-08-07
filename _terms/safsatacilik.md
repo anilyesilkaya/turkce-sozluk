@@ -5,7 +5,7 @@ slug: safsatacilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bilgicilik
+- bilgicilik
 ozellikler:
 - - isim
   - felsefe

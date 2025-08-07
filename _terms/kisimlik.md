@@ -5,7 +5,7 @@ slug: kisimlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bölümlük
+- bölümlük
 ozellikler:
 - - sıfat
 ornekler:

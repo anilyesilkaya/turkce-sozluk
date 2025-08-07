@@ -5,7 +5,7 @@ slug: vatani
 letter: V
 lisan: Arapça vaṭanī
 anlamlar:
-- ► yurtsal
+- yurtsal
 ozellikler:
 - - sıfat
 ornekler:

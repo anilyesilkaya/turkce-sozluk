@@ -5,7 +5,7 @@ slug: avaz
 letter: A
 lisan: Farsça āvāz
 anlamlar:
-- ► ses
+- ses
 ozellikler:
 - - isim
 ornekler:

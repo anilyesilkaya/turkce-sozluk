@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı biçim veya niteliğe getirmek
-- ► standartlaştırmak
+- standartlaştırmak
 ozellikler:
 - - -i
 - - -i

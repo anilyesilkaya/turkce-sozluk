@@ -5,7 +5,7 @@ slug: vahsi-hayvan
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yabani hayvan
+- yabani hayvan
 ozellikler:
 - - isim
 ornekler:

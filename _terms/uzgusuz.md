@@ -5,7 +5,7 @@ slug: uzgusuz
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► eziyetsiz
+- eziyetsiz
 ozellikler:
 - - sıfat
 ornekler:

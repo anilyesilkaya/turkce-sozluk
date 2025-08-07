@@ -5,7 +5,7 @@ slug: ananevi
 letter: A
 lisan: Arapça ʿanʿanevī
 anlamlar:
-- ► geleneksel
+- geleneksel
 ozellikler:
 - - sıfat
   - eskimiş

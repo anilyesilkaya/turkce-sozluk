@@ -5,7 +5,7 @@ slug: isimsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adsız
+- adsız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: sibakusiyak
 letter: S
 lisan: Arapça sibāḳ + siyāḳ
 anlamlar:
-- ► siyakusibak
+- siyakusibak
 ozellikler:
 - - isim
   - eskimiş

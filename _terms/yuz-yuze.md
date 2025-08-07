@@ -5,7 +5,7 @@ slug: yuz-yuze
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► karşı karşıya
+- karşı karşıya
 ozellikler:
 - - zarf
   - mecaz

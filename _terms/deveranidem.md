@@ -5,7 +5,7 @@ slug: deveranidem
 letter: D
 lisan: Arapça deverān + dem
 anlamlar:
-- ► kan dolaşımı
+- kan dolaşımı
 ozellikler:
 - - isim
   - eskimiş

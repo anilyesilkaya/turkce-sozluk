@@ -5,7 +5,7 @@ slug: sefkat
 letter: Ş
 lisan: Arapça şefḳat
 anlamlar:
-- ► sevecenlik
+- sevecenlik
 ozellikler:
 - - isim
 ornekler:

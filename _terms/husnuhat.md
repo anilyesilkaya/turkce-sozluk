@@ -5,7 +5,7 @@ slug: husnuhat
 letter: H
 lisan: Arapça ḥusn + ḫaṭṭ
 anlamlar:
-- ► güzel yazı sanatı
+- güzel yazı sanatı
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: hatirlatmak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anımsatmak
+- anımsatmak
 ozellikler:
 - - -e
   - -i

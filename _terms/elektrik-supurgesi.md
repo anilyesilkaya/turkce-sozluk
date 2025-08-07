@@ -5,7 +5,7 @@ slug: elektrik-supurgesi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrikli süpürge
+- elektrikli süpürge
 ozellikler:
 - - isim
 ornekler:

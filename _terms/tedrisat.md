@@ -5,7 +5,7 @@ slug: tedrisat
 letter: T
 lisan: Arapça tedrīsāt
 anlamlar:
-- ► öğretim
+- öğretim
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: amme-menfaati
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kamu yararı
+- kamu yararı
 ozellikler:
 - - isim
 ornekler:

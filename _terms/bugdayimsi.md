@@ -5,7 +5,7 @@ slug: bugdayimsi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► buğdaysı
+- buğdaysı
 ozellikler:
 - - sıfat
 ornekler:

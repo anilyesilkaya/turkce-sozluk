@@ -5,7 +5,7 @@ slug: zagcilik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağıcılık
+- kılağıcılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: arzulanmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istenmek
+- istenmek
 ozellikler:
 - - nesnesiz
 ornekler:

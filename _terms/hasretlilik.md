@@ -5,7 +5,7 @@ slug: hasretlilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özlemlilik
+- özlemlilik
 ozellikler:
 - - isim
 ornekler:

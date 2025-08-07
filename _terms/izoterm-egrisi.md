@@ -5,7 +5,7 @@ slug: izoterm-egrisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► eş sıcak eğrisi
+- eş sıcak eğrisi
 ozellikler:
 - - isim
   - coğrafya

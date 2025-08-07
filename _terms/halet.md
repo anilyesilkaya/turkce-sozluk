@@ -5,7 +5,7 @@ slug: halet
 letter: H
 lisan: Arapça ḥālet
 anlamlar:
-- ► durum
+- durum
 ozellikler:
 - - isim
   - eskimiş

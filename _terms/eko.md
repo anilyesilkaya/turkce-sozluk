@@ -5,7 +5,7 @@ slug: eko
 letter: E
 lisan: Fransızca eco
 anlamlar:
-- ► yankı
+- yankı
 ozellikler:
 - - isim
 ornekler:

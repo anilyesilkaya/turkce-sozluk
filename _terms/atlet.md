@@ -5,7 +5,7 @@ slug: atlet
 letter: A
 lisan: Fransızca athlète
 anlamlar:
-- ► fanila
+- fanila
 - Atletizmle uğraşan kimse; atletizmci
 ozellikler:
 - - isim

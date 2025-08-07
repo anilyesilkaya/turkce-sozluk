@@ -5,7 +5,7 @@ slug: iman
 letter: I
 lisan: Arapça īmān
 anlamlar:
-- ► inanç
+- inanç
 - Güçlü inanç, inan
 ozellikler:
 - - isim

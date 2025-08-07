@@ -5,7 +5,7 @@ slug: anemik
 letter: A
 lisan: Fransızca anémique
 anlamlar:
-- ► kansız
+- kansız
 ozellikler:
 - - sıfat
   - tıp

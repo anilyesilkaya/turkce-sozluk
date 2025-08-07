@@ -5,7 +5,7 @@ slug: folklorik
 letter: F
 lisan: Fransızca folklorique
 anlamlar:
-- ► halk bilimsel
+- halk bilimsel
 ozellikler:
 - - sıfat
 ornekler:

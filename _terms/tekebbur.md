@@ -5,7 +5,7 @@ slug: tekebbur
 letter: T
 lisan: Arapça tekebbur
 anlamlar:
-- ► kibirlenme
+- kibirlenme
 ozellikler:
 - - isim
   - eskimiş

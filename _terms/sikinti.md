@@ -9,7 +9,7 @@ anlamlar:
 - Bir bozukluğun, karışıklığın sebep olduğu etkili ve sürekli ruhsal huzursuzluk; ağırlık, karanlık, kasavet, mihnet
 - Yokluk ve parasızlığın yol açtığı geçim darlığı
 - Bulunmama durumu
-- ► sorun
+- sorun
 ozellikler:
 - - isim
 - - isim

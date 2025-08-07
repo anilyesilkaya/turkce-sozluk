@@ -5,7 +5,7 @@ slug: dubbuasgar
 letter: D
 lisan: Arapça dubb + aṣġar
 anlamlar:
-- ► Küçükayı
+- Küçükayı
 ozellikler:
 - - isim
   - gök bilimi

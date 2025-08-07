@@ -5,7 +5,7 @@ slug: hava-meydani
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► havalimanı
+- havalimanı
 ozellikler:
 - - isim
 ornekler:

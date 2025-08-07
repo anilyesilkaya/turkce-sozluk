@@ -9,7 +9,7 @@ anlamlar:
 - Bir işe başlamak, girişmek
 - Yanmaya başlamak, ateş almak
 - Kızarmak, kızıllaşmak
-- ► telaşlanmak
+- telaşlanmak
 - Alev almış olmak, yanmaya başlamak; alışmak
 ozellikler:
 - - -e

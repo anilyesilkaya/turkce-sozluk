@@ -5,7 +5,7 @@ slug: billurlanmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► billurlaşmak
+- billurlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

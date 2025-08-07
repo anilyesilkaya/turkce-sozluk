@@ -8,7 +8,7 @@ anlamlar:
 - Çaresi bulunmayan, onulmaz; umarsız, devasız
 - Çare bulamayan, zavallı (kimse); biçare
 - Çıkar yol bulamayan bir biçimde; umarsız
-- ► ister istemez
+- ister istemez
 ozellikler:
 - - sıfat
 - - sıfat

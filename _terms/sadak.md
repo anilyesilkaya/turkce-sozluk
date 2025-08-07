@@ -5,7 +5,7 @@ slug: sadak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► okluk
+- okluk
 ozellikler:
 - - isim
 ornekler:

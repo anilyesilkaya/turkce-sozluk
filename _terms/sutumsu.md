@@ -5,7 +5,7 @@ slug: sutumsu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sütsü
+- sütsü
 ozellikler:
 - - sıfat
 ornekler:

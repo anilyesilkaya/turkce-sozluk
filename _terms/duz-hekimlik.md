@@ -5,7 +5,7 @@ slug: duz-hekimlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► pratisyenlik
+- pratisyenlik
 ozellikler:
 - - isim
   - tıp

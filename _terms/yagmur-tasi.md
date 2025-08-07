@@ -5,7 +5,7 @@ slug: yagmur-tasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yada taşı
+- yada taşı
 ozellikler:
 - - isim
 ornekler:

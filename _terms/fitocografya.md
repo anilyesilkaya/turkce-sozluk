@@ -5,7 +5,7 @@ slug: fitocografya
 letter: F
 lisan: İngilizce phyto + Arapça cuġrāfiya
 anlamlar:
-- ► bitki coğrafyası
+- bitki coğrafyası
 ozellikler:
 - - isim
   - coğrafya

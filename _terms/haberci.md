@@ -9,7 +9,7 @@ anlamlar:
 - Bir haberi usulünce hazırlayan ve yayın organlarında yayımlayan kimse
 - Muhbir, ihbar eden kimse
 - Bir durumun, bir olayın belirtisi
-- ► karakulak (II)
+- karakulak (II)
 ozellikler:
 - - isim
 - - isim

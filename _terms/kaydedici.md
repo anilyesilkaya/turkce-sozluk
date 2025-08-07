@@ -5,7 +5,7 @@ slug: kaydedici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► imleç
+- imleç
 ozellikler:
 - - isim
   - fizik

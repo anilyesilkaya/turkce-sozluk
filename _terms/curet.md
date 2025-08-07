@@ -7,7 +7,7 @@ lisan: Arapça curʾet
 anlamlar:
 - Kendini bilmezlik
 - Düşüncesizce, saygıyı aşan davranış
-- ► cesaret
+- cesaret
 ozellikler:
 - - isim
 - - isim

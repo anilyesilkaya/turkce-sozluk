@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Aynacının yaptığı iş
 - Aynacı olma durumu
-- ► hilecilik
+- hilecilik
 ozellikler:
 - - isim
 - - isim

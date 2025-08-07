@@ -5,7 +5,7 @@ slug: trikosefal
 letter: T
 lisan: Fransızca trichocéphale
 anlamlar:
-- ► kırbaç kurdu
+- kırbaç kurdu
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: mutearife
 letter: M
 lisan: Arapça muteʿārife
 anlamlar:
-- ► belit
+- belit
 ozellikler:
 - - isim
   - eskimiş

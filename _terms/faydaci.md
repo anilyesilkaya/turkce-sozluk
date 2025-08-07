@@ -5,7 +5,7 @@ slug: faydaci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararcı
+- yararcı
 ozellikler:
 - - sıfat
   - felsefe

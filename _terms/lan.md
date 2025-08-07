@@ -5,7 +5,7 @@ slug: lan
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► ulan
+- ulan
 ozellikler:
 - - ünlem
   - kaba konuşmada

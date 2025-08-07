@@ -5,7 +5,7 @@ slug: pabucluk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ayakkabılık
+- ayakkabılık
 ozellikler:
 - - isim
 ornekler:

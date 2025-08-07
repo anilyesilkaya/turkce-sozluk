@@ -5,7 +5,7 @@ slug: bilim-kadini
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilim adamı
+- bilim adamı
 ozellikler:
 - - isim
 ornekler:

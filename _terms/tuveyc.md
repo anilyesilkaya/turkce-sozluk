@@ -5,7 +5,7 @@ slug: tuveyc
 letter: T
 lisan: Arapça tuveyc
 anlamlar:
-- ► çiçek tacı
+- çiçek tacı
 ozellikler:
 - - isim
   - eskimiş

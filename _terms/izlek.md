@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Bir edebî eserde işlenen konunun anlamca ortaya koyduğu ana yönelim
-- ► patika
+- patika
 ozellikler:
 - - edebiyat
 - - edebiyat

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maḥdūd
 anlamlar:
 - Çevrilmiş, sınırlanmış
-- ► sayılı
+- sayılı
 - Dar (I), basit
 ozellikler:
 - - sıfat

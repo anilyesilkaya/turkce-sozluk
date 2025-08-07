@@ -5,7 +5,7 @@ slug: misafir
 letter: M
 lisan: Arapça musāfir
 anlamlar:
-- ► konuk
+- konuk
 - Gözün saydam tabakasında herhangi bir sebeple oluşan beyaz leke
 ozellikler:
 - - isim

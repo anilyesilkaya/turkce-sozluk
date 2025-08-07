@@ -5,7 +5,7 @@ slug: bar-atesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baraj ateşi
+- baraj ateşi
 ozellikler:
 - - isim
   - askerlik

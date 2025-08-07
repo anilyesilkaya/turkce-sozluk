@@ -5,7 +5,7 @@ slug: caprazlamasina
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çaprazlama
+- çaprazlama
 ozellikler:
 - - zarf
 ornekler:

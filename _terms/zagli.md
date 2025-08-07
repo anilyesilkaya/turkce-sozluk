@@ -5,7 +5,7 @@ slug: zagli
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağılı
+- kılağılı
 ozellikler:
 - - sıfat
 ornekler:

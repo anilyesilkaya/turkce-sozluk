@@ -5,7 +5,7 @@ slug: travmatolojik
 letter: T
 lisan: Fransızca traumatologique
 anlamlar:
-- ► sarsıntı bilimsel
+- sarsıntı bilimsel
 ozellikler:
 - - sıfat
   - tıp

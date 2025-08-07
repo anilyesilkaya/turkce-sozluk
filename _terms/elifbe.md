@@ -5,7 +5,7 @@ slug: elifbe
 letter: E
 lisan: Arapça elif + be
 anlamlar:
-- ► elifba
+- elifba
 ozellikler:
 - - isim
 ornekler:

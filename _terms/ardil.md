@@ -5,7 +5,7 @@ slug: ardil
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► halef, öncel karşıtı
+- halef, öncel karşıtı
 - Bir çıkarımda varılan sonuç
 ozellikler:
 - - isim

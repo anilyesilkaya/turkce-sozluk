@@ -5,7 +5,7 @@ slug: duzlemlestirme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► açındırma
+- açındırma
 ozellikler:
 - - isim
 ornekler:

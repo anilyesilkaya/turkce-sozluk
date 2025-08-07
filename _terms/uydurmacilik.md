@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurmacının işi
-- ► palavracılık
+- palavracılık
 - Kural dışı kelime uydurma işi
 ozellikler:
 - - isim

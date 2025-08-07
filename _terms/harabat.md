@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫarābāt
 anlamlar:
 - Harabeler
-- ► meyhane
+- meyhane
 ozellikler:
 - - isim
   - eskimiş

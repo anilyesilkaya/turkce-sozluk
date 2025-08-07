@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Mutasarrıfın görev ve makamı
-- ► sancak
+- sancak
 ozellikler:
 - - isim
 - - isim

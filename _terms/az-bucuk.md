@@ -5,7 +5,7 @@ slug: az-bucuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bir parça
+- bir parça
 ozellikler:
 - - zarf
 ornekler:

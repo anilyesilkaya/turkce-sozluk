@@ -5,7 +5,7 @@ slug: vakurluk
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ağırbaşlılık
+- ağırbaşlılık
 ozellikler:
 - - isim
 ornekler:

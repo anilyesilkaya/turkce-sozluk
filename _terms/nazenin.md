@@ -5,8 +5,8 @@ slug: nazenin
 letter: N
 lisan: Farsça nāzenīn
 anlamlar:
-- ► nazlı
-- ► narin
+- nazlı
+- narin
 - Üstüne titrenerek çok şımarık, nazlı yetiştirilmiş, şımartılmış
 - Nazlı, genç ve güzel kadın
 ozellikler:

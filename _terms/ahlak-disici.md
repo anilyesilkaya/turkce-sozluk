@@ -5,7 +5,7 @@ slug: ahlak-disici
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► töre dışıcı
+- töre dışıcı
 ozellikler:
 - - sıfat
   - toplum bilimi

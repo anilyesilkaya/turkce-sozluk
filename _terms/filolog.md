@@ -5,7 +5,7 @@ slug: filolog
 letter: F
 lisan: Fransızca philologue
 anlamlar:
-- ► dil bilimci
+- dil bilimci
 ozellikler:
 - - isim
 ornekler:

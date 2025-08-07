@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan; serbest, hür, azat, azade
 - Kendi istediği gibi hareket etme, davranma, karar verme gücü olan
-- ► serbest
+- serbest
 - Başkasının kölesi olmayan; hür
 - Siyasi bir güç tarafından denetlenmeyen, engellenmeyen
 ozellikler:

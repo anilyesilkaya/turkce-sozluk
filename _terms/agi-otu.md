@@ -5,7 +5,7 @@ slug: agi-otu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► baldıran
+- baldıran
 ozellikler:
 - - isim
   - bitki bilimi

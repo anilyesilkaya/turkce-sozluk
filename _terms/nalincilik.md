@@ -5,7 +5,7 @@ slug: nalincilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► takunyacılık
+- takunyacılık
 ozellikler:
 - - isim
 ornekler:

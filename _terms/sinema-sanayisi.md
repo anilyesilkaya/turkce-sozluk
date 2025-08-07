@@ -5,7 +5,7 @@ slug: sinema-sanayisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sinema endüstrisi
+- sinema endüstrisi
 ozellikler:
 - - isim
   - sinema

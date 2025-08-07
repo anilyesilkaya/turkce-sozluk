@@ -5,8 +5,8 @@ slug: forvet
 letter: F
 lisan: İngilizce forward
 anlamlar:
-- ► ileri uç oyuncusu
-- ► ileri uç
+- ileri uç oyuncusu
+- ileri uç
 ozellikler:
 - - isim
   - spor

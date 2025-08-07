@@ -5,7 +5,7 @@ slug: talihsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bahtsız
+- bahtsız
 ozellikler:
 - - sıfat
 ornekler:

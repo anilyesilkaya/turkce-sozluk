@@ -5,7 +5,7 @@ slug: umarsiz
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çaresiz
+- çaresiz
 ozellikler:
 - - sıfat
 ornekler:

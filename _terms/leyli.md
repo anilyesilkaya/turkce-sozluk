@@ -5,7 +5,7 @@ slug: leyli
 letter: L
 lisan: Arapça leylī
 anlamlar:
-- ► yatılı
+- yatılı
 - Geceye özgü
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: savurganca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tutumsuzca
+- tutumsuzca
 ozellikler:
 - - zarf
 ornekler:

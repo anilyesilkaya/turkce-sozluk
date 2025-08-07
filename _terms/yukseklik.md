@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüksek olma durumu; irtifa
-- ► yükselti
+- yükselti
 - Geometrik biçimlerde, tabandan tepeye olan uzaklık
 - Bir yıldızdan gelen ışın ile ufuk düzlemi arasındaki açı
 ozellikler:

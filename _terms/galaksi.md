@@ -5,7 +5,7 @@ slug: galaksi
 letter: G
 lisan: Fransızca galaxie
 anlamlar:
-- ► gök ada
+- gök ada
 ozellikler:
 - - isim
   - gök bilimi

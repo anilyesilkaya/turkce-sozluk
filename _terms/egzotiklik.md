@@ -5,7 +5,7 @@ slug: egzotiklik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yabancıllık
+- yabancıllık
 ozellikler:
 - - isim
 ornekler:

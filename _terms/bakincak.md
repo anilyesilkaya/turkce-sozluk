@@ -5,7 +5,7 @@ slug: bakincak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► nişangâh
+- nişangâh
 ozellikler:
 - - isim
   - ağızlardan

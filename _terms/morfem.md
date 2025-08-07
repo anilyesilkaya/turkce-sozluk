@@ -5,7 +5,7 @@ slug: morfem
 letter: M
 lisan: Fransızca morphème
 anlamlar:
-- ► biçim birimi
+- biçim birimi
 ozellikler:
 - - isim
   - dil bilgisi

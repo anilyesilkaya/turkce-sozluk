@@ -5,7 +5,7 @@ slug: kurume
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küreme
+- küreme
 ozellikler:
 - - isim
 ornekler:

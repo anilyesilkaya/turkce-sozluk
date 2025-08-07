@@ -5,7 +5,7 @@ slug: pey-akcesi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ön ödeme
+- ön ödeme
 ozellikler:
 - - isim
   - hukuk

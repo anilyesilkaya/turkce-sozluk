@@ -5,7 +5,7 @@ slug: kanun-tasarisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasa tasarısı
+- yasa tasarısı
 ozellikler:
 - - isim
   - hukuk

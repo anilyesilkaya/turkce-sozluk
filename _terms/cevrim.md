@@ -5,7 +5,7 @@ slug: cevrim
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► devir
+- devir
 - Bir elektrik akımının iletken üzerinde aldığı yol; devre (I)
 - Elektrik enerjisinin bir başka enerjiye dönüştürülmesi
 ozellikler:

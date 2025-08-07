@@ -5,8 +5,8 @@ slug: nominal
 letter: N
 lisan: Fransızca nominal
 anlamlar:
-- ► saymaca
-- ► yazılı
+- saymaca
+- yazılı
 ozellikler:
 - - sıfat
 - - sıfat

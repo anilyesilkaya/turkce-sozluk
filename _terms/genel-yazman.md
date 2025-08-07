@@ -5,7 +5,7 @@ slug: genel-yazman
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► genel sekreter
+- genel sekreter
 ozellikler:
 - - isim
 ornekler:

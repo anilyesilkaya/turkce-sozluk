@@ -5,7 +5,7 @@ slug: hermafrodit
 letter: H
 lisan: İngilizce hermaphrodite
 anlamlar:
-- ► erdişi
+- erdişi
 ozellikler:
 - - isim
   - bitki bilimi

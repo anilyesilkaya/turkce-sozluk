@@ -5,8 +5,8 @@ slug: lumpen
 letter: L
 lisan: Almanca lumpen
 anlamlar:
-- ► sınıfsız
-- ► ayaktakımı
+- sınıfsız
+- ayaktakımı
 ozellikler:
 - - sıfat
 - - sıfat

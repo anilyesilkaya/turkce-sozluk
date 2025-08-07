@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önemli sayılabilecek kadar
-- ► ciddi
+- ciddi
 ozellikler:
 - - sıfat
 - - sıfat

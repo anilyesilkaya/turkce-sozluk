@@ -5,7 +5,7 @@ slug: efdal
 letter: E
 lisan: Arapça efḍal
 anlamlar:
-- ► erdemli
+- erdemli
 - Yeğ tutulan, tercih edilen
 ozellikler:
 - - sıfat

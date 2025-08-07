@@ -5,7 +5,7 @@ slug: mukellefiyet
 letter: M
 lisan: Arapça mukellefiyyet
 anlamlar:
-- ► yükümlülük
+- yükümlülük
 ozellikler:
 - - isim
 ornekler:

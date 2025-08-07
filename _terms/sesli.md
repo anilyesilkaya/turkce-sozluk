@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sesi olan, ses çıkaran
 - Ses çıkararak
-- ► ünlü
+- ünlü
 ozellikler:
 - - sıfat
 - - sıfat

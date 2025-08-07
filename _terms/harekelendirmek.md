@@ -5,7 +5,7 @@ slug: harekelendirmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► harekelemek
+- harekelemek
 ozellikler:
 - - -i
 ornekler:

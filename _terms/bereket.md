@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça bereket
 anlamlar:
 - Alışılandan veya beklenilenden fazla olma durumu; artağanlık, bolluk, feyiz, feyezan
-- ► yağmur
+- yağmur
 - İyi ki, neyse ki, iyi bir rastlantı sonucunda
 ozellikler:
 - - isim

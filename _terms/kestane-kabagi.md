@@ -5,7 +5,7 @@ slug: kestane-kabagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► helvacı kabağı
+- helvacı kabağı
 ozellikler:
 - - isim
   - bitki bilimi

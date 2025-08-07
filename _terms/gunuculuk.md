@@ -5,7 +5,7 @@ slug: gunuculuk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kıskançlık
+- kıskançlık
 ozellikler:
 - - isim
 ornekler:

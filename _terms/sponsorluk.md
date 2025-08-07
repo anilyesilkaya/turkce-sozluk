@@ -5,7 +5,7 @@ slug: sponsorluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► destekleyicilik
+- destekleyicilik
 ozellikler:
 - - isim
 ornekler:

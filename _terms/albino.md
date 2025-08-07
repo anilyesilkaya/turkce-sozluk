@@ -5,7 +5,7 @@ slug: albino
 letter: A
 lisan: Fransızca albinos
 anlamlar:
-- ► akşın
+- akşın
 ozellikler:
 - - sıfat
 ornekler:

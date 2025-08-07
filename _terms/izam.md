@@ -5,7 +5,7 @@ slug: izam
 letter: I
 lisan: Arapça iʿẓām
 anlamlar:
-- ► abartma
+- abartma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: yavru-kapi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kuzu kapı
+- kuzu kapı
 ozellikler:
 - - isim
 ornekler:

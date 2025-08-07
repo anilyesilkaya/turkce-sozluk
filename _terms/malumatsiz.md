@@ -5,7 +5,7 @@ slug: malumatsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bilgisiz
+- bilgisiz
 ozellikler:
 - - sıfat
 ornekler:

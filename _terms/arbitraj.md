@@ -5,7 +5,7 @@ slug: arbitraj
 letter: A
 lisan: Fransızca arbitrage
 anlamlar:
-- ► ara kazanç
+- ara kazanç
 ozellikler:
 - - isim
   - ticaret

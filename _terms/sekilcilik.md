@@ -5,7 +5,7 @@ slug: sekilcilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimcilik
+- biçimcilik
 ozellikler:
 - - isim
 ornekler:

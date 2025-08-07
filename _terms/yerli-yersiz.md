@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Uygun zamanı olup olmadığı düşünülmeden, nereye varacağı düşünülmeksizin; münasebetli münasebetsiz, ölçüsüz
-- ► ulu orta
+- ulu orta
 ozellikler:
 - - zarf
   - mecaz

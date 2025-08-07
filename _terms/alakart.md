@@ -5,7 +5,7 @@ slug: alakart
 letter: A
 lisan: Fransızca à la carte
 anlamlar:
-- ► seçmeli yemek, tabildot karşıtı
+- seçmeli yemek, tabildot karşıtı
 ozellikler:
 - - isim
 ornekler:

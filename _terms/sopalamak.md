@@ -5,7 +5,7 @@ slug: sopalamak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dövmek
+- dövmek
 ozellikler:
 - - -i
 ornekler:

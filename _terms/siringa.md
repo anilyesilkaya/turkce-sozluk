@@ -6,7 +6,7 @@ letter: Ş
 lisan: İtalyanca siringa
 anlamlar:
 - Havayı, sıvıları emmeye veya itmeye yarayan alet
-- ► enjektör
+- enjektör
 ozellikler:
 - - isim
 - - isim

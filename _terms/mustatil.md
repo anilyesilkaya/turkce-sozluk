@@ -5,7 +5,7 @@ slug: mustatil
 letter: M
 lisan: Arapça mustaṭīl
 anlamlar:
-- ► dikdörtgen
+- dikdörtgen
 ozellikler:
 - - isim
   - eskimiş

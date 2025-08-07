@@ -8,13 +8,13 @@ anlamlar:
 - Sayıların ilki; yek
 - Bu sayıyı gösteren 1 ve I rakamlarının adı
 - Bu sayı kadar olan
-- ► beraber
+- beraber
 - Herhangi bir varlığı belirsiz olarak gösteren (sayı)
 - Eşi bulunmayan
 - Değer, önem ve nitelik bakımlarından birbirinden farksız, birbirine eşit, birbirine benzer
 - Ortaklaşa olan
 - Bir kez
-- ► yalnızca
+- yalnızca
 - Sıfat, isim veya zarf olan bir kelimenin başına geldiğinde kelimenin anlamını güçlendirir
 ozellikler:
 - - isim

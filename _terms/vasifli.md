@@ -5,7 +5,7 @@ slug: vasifli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► nitelikli
+- nitelikli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: cagri-kagidi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağrı belgesi
+- çağrı belgesi
 ozellikler:
 - - isim
   - hukuk

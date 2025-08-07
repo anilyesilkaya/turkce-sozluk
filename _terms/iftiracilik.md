@@ -5,7 +5,7 @@ slug: iftiracilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► karalamacılık
+- karalamacılık
 ozellikler:
 - - isim
 ornekler:

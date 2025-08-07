@@ -5,7 +5,7 @@ slug: rasyonalizm
 letter: R
 lisan: Fransızca rationalisme
 anlamlar:
-- ► akılcılık
+- akılcılık
 ozellikler:
 - - isim
   - felsefe

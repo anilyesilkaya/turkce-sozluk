@@ -5,7 +5,7 @@ slug: degini
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► değinme
+- değinme
 ozellikler:
 - - isim
 ornekler:

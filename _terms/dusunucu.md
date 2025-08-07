@@ -5,7 +5,7 @@ slug: dusunucu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düşünür
+- düşünür
 ozellikler:
 - - isim
 ornekler:

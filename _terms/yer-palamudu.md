@@ -5,7 +5,7 @@ slug: yer-palamudu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kurtluca
+- kurtluca
 ozellikler:
 - - isim
   - bitki bilimi

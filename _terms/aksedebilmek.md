@@ -5,8 +5,8 @@ slug: aksedebilmek
 letter: A
 lisan: Arapça ʿaks + Türkçe edebilmek
 anlamlar:
-- ► yansıyabilmek
-- ► yankılanabilmek
+- yansıyabilmek
+- yankılanabilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

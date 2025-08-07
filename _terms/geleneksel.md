@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Geleneğe dayanan, gelenekle ilgili olan; anadan görme, gelenekli, ananevi, tradisyonel
-- ► kökleşik
+- kökleşik
 ozellikler:
 - - sıfat
 - - sıfat

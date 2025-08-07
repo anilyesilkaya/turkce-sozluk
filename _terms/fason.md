@@ -5,7 +5,7 @@ slug: fason
 letter: F
 lisan: Fransızca façon
 anlamlar:
-- ► kesim
+- kesim
 - Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal; fason mal
 - Kaçak olarak yapılan taklit ürün
 ozellikler:

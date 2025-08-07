@@ -5,7 +5,7 @@ slug: postulat
 letter: P
 lisan: Fransızca postulat
 anlamlar:
-- ► ön doğru
+- ön doğru
 ozellikler:
 - - isim
   - matematik

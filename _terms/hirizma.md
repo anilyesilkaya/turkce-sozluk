@@ -5,7 +5,7 @@ slug: hirizma
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hızma
+- hızma
 ozellikler:
 - - isim
 ornekler:

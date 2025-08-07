@@ -5,7 +5,7 @@ slug: betoniyer
 letter: B
 lisan: Fransızca bétonnière
 anlamlar:
-- ► betonkarar
+- betonkarar
 ozellikler:
 - - isim
 ornekler:

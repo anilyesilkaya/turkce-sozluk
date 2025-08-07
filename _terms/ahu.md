@@ -5,7 +5,7 @@ slug: ahu
 letter: A
 lisan: Farsça āhū
 anlamlar:
-- ► ceylan
+- ceylan
 - Güzel, ince, zarif (kadın)
 ozellikler:
 - - isim

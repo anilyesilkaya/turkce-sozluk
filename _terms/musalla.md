@@ -5,7 +5,7 @@ slug: musalla
 letter: M
 lisan: Arapça muṣallā
 anlamlar:
-- ► namazgâh
+- namazgâh
 - Camilerde cenaze namazı kılınan yer
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: muzekkerlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► erillik
+- erillik
 ozellikler:
 - - isim
 ornekler:

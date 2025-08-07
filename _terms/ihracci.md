@@ -5,7 +5,7 @@ slug: ihracci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ihracatçı
+- ihracatçı
 - Hisse senedi, tahvil vb. kıymetli kâğıtları dış piyasaya satmaya yetkili kuruluş
 ozellikler:
 - - isim

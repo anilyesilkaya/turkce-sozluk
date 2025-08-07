@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolma yapan veya satan kimse
-- ► hileci
+- hileci
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: gerekirci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► belirlenimci
+- belirlenimci
 ozellikler:
 - - sıfat
   - felsefe

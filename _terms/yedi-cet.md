@@ -5,7 +5,7 @@ slug: yedi-cet
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yedi göbek
+- yedi göbek
 ozellikler:
 - - isim
   - mecaz

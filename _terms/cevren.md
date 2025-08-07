@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Anlayış, kavrayış, görüş, düşünce gücü
-- ► ufuk
+- ufuk
 ozellikler:
 - - isim
 - - isim

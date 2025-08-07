@@ -5,7 +5,7 @@ slug: demevi
 letter: D
 lisan: Arapça demevī
 anlamlar:
-- ► kanlı
+- kanlı
 - Öfkeli, sinirli olan
 ozellikler:
 - - sıfat

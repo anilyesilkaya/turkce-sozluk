@@ -5,7 +5,7 @@ slug: spot-lambasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ışıntı lambası
+- ışıntı lambası
 ozellikler:
 - - isim
 ornekler:

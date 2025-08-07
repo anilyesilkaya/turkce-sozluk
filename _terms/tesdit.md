@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teşdīd
 anlamlar:
 - Şiddetini artırma, güç verme
-- ► sağlamlaştırma
+- sağlamlaştırma
 ozellikler:
 - - isim
   - eskimiş

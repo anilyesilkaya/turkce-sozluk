@@ -5,7 +5,7 @@ slug: orfi-idare
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► sıkıyönetim
+- sıkıyönetim
 ozellikler:
 - - isim
 ornekler:

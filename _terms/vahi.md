@@ -5,7 +5,7 @@ slug: vahi
 letter: V
 lisan: Arapça vāhī
 anlamlar:
-- ► saçma
+- saçma
 ozellikler:
 - - sıfat
   - eskimiş

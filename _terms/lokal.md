@@ -6,9 +6,9 @@ letter: L
 lisan: Fransızca local
 anlamlar:
 - Müzikli eğlencelerin yapıldığı yer
-- ► dernekevi
-- ► yöresel
-- ► yerel
+- dernekevi
+- yöresel
+- yerel
 ozellikler:
 - - isim
 - - isim

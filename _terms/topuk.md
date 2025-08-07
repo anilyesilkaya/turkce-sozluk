@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - İnsan ayağının toparlakça olan alt arka bölümü
-- ► ökçe
+- ökçe
 - Belli bir amaçla kazılmaksızın asıl yerinde bırakılan kömür bloku veya cevher kütlesi
 - Akarsu ağzının az ilerisinde meydana gelen kum birikintisi
 - Sütun ve direklerin alt kısmı

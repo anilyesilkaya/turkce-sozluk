@@ -6,7 +6,7 @@ letter: E
 lisan: Fransızca elliptique
 anlamlar:
 - Elips ile ilgili, elips biçiminde olan
-- ► eksiltili
+- eksiltili
 ozellikler:
 - - sıfat
   - matematik

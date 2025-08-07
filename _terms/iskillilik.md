@@ -5,7 +5,7 @@ slug: iskillilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkuculuk
+- kuşkuculuk
 ozellikler:
 - - isim
 ornekler:

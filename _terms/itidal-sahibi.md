@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Ölçülü, ılımlı (kimse)
-- ► soğukkanlı
+- soğukkanlı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: mesru
 letter: M
 lisan: Arapça meşrūʿ
 anlamlar:
-- ► yasal
+- yasal
 ozellikler:
 - - sıfat
   - hukuk

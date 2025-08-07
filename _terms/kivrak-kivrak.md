@@ -5,7 +5,7 @@ slug: kivrak-kivrak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıvrakça
+- kıvrakça
 ozellikler:
 - - zarf
 ornekler:

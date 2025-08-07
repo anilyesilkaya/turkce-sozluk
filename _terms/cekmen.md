@@ -5,7 +5,7 @@ slug: cekmen
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► vantuz
+- vantuz
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Tam öyle; o biçimde, o şekilde
-- ► öylelikle
+- öylelikle
 ozellikler:
 - - zarf
 - - zarf

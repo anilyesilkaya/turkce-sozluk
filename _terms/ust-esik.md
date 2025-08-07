@@ -5,7 +5,7 @@ slug: ust-esik
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► atkı
+- atkı
 ozellikler:
 - - isim
 ornekler:

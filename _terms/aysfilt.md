@@ -5,7 +5,7 @@ slug: aysfilt
 letter: A
 lisan: İngilizce ice-field
 anlamlar:
-- ► buzla
+- buzla
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: namaz-niyaz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► ibadet
+- ibadet
 ozellikler:
 - - isim
 ornekler:

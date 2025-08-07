@@ -5,7 +5,7 @@ slug: basmakcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ayakkabıcılık
+- ayakkabıcılık
 ozellikler:
 - - isim
 ornekler:

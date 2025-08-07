@@ -5,7 +5,7 @@ slug: asna-fisne
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► oynaş
+- oynaş
 ozellikler:
 - - isim
   - argo

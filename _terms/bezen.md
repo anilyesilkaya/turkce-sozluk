@@ -5,7 +5,7 @@ slug: bezen
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süs
+- süs
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: lase
 letter: L
 lisan: Farsça lāşe
 anlamlar:
-- ► leş
+- leş
 ozellikler:
 - - isim
   - eskimiş

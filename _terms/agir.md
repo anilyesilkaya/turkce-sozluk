@@ -7,20 +7,20 @@ lisan: Türkçe
 anlamlar:
 - Tartıda çok çeken; kilolu, sakil, hafif karşıtı
 - Çapı, boyutu büyük
-- ► yavaş
-- ► yoğun
+- yavaş
+- yoğun
 - Çok az işiten (kulak)
 - Gösterişi fazla olmayan, ciddi olan
-- ► değerli
-- ► çetin
+- değerli
+- çetin
 - Sıkıntı veren, bunaltan; sakil
 - Dokunaklı, kırıcı, insanın gücüne giden
-- ► ağırbaşlı
+- ağırbaşlı
 - Keskin, boğucu (koku)
-- ► kısık
+- kısık
 - Davranışları yavaş olan
 - Sindirimi güç (yiyecek)
-- ► ağır sıklet
+- ağır sıklet
 - Yavaş bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: atifet
 letter: A
 lisan: Arapça ʿāṭifet
 anlamlar:
-- ► lütuf
+- lütuf
 - Karşılık beklemeden gösterilen sevgi
 ozellikler:
 - - isim

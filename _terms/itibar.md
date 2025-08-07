@@ -5,7 +5,7 @@ slug: itibar
 letter: I
 lisan: Arapça iʿtibār
 anlamlar:
-- ► saygınlık
+- saygınlık
 - Borç ödemede güvenilir olma durumu; kredi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: hedonist
 letter: H
 lisan: Fransızca hédoniste
 anlamlar:
-- ► hazcı
+- hazcı
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: muvezzi
 letter: M
 lisan: Arapça muvezziʿ
 anlamlar:
-- ► dağıtıcı
+- dağıtıcı
 ozellikler:
 - - isim
   - eskimiş

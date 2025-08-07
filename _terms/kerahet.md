@@ -5,7 +5,7 @@ slug: kerahet
 letter: K
 lisan: Arapça kerāhet
 anlamlar:
-- ► tiksinme
+- tiksinme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: merdivenimsi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merdivensi
+- merdivensi
 ozellikler:
 - - sıfat
 ornekler:

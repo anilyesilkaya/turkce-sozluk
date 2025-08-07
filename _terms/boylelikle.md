@@ -5,7 +5,7 @@ slug: boylelikle
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böylece
+- böylece
 ozellikler:
 - - zarf
 ornekler:

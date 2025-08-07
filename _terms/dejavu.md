@@ -5,7 +5,7 @@ slug: dejavu
 letter: D
 lisan: Fransızca déjà vu
 anlamlar:
-- ► görmüşlük duygusu
+- görmüşlük duygusu
 ozellikler:
 - - isim
   - ruh bilimi

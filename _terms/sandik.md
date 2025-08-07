@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça ṣandūḳ
 anlamlar:
 - İçine çeşitli şeyler konulan, tahtadan yapılmış, kapaklı ev eşyası
-- ► kasa
+- kasa
 - Bir kurumda para alınıp verilen yer
 - Kamu kesiminde çalışan personelin sosyal güvenlik işlerini yürüten kuruluş
 - Yapılarda kum, çakıl vb. şeyleri ölçmek için kullanılan, üstü ve altı açık, dört köşeli tahtadan ölçü aleti

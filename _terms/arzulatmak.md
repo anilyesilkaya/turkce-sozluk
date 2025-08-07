@@ -5,7 +5,7 @@ slug: arzulatmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istetmek
+- istetmek
 ozellikler:
 - - -i
 ornekler:

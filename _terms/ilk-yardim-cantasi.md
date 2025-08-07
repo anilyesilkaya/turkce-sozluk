@@ -5,7 +5,7 @@ slug: ilk-yardim-cantasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ecza çantası
+- ecza çantası
 ozellikler:
 - - isim
 ornekler:

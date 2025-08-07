@@ -5,7 +5,7 @@ slug: cunun
 letter: C
 lisan: Arapça cunūn
 anlamlar:
-- ► delilik
+- delilik
 ozellikler:
 - - isim
   - eskimiş

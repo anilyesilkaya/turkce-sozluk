@@ -5,7 +5,7 @@ slug: gunucu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kıskanç
+- kıskanç
 ozellikler:
 - - sıfat
 ornekler:

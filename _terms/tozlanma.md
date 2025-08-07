@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tozlanmak işi
-- ► tozlaşma
+- tozlaşma
 ozellikler:
 - - isim
 - - isim

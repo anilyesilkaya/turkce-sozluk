@@ -5,7 +5,7 @@ slug: is-birakimci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► grevci
+- grevci
 ozellikler:
 - - isim
 ornekler:

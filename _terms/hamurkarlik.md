@@ -5,7 +5,7 @@ slug: hamurkarlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hamurculuk
+- hamurculuk
 ozellikler:
 - - isim
 ornekler:

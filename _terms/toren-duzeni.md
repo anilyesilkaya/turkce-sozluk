@@ -5,7 +5,7 @@ slug: toren-duzeni
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► protokol
+- protokol
 ozellikler:
 - - isim
 ornekler:

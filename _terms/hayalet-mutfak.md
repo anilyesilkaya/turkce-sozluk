@@ -5,7 +5,7 @@ slug: hayalet-mutfak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gölge mutfak
+- gölge mutfak
 ozellikler:
 - - isim
 ornekler:

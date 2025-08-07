@@ -5,7 +5,7 @@ slug: mukaffa
 letter: M
 lisan: Arapça muḳaffā
 anlamlar:
-- ► kafiyeli
+- kafiyeli
 ozellikler:
 - - sıfat
   - eskimiş

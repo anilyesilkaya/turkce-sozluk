@@ -6,9 +6,9 @@ letter: T
 lisan: Arapça teşḫīṣ
 anlamlar:
 - Kim ve ne olduğunu anlama, tanıma, seçme
-- ► belirleme
-- ► kişileştirme
-- ► tanı
+- belirleme
+- kişileştirme
+- tanı
 ozellikler:
 - - isim
 - - isim

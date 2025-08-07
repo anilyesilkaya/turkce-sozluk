@@ -5,7 +5,7 @@ slug: degisinim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► mutasyon
+- mutasyon
 ozellikler:
 - - isim
   - biyoloji

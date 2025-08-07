@@ -5,7 +5,7 @@ slug: pismak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sinmek
+- sinmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: tam-tarife
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► indirimsiz
+- indirimsiz
 ozellikler:
 - - sıfat
 ornekler:

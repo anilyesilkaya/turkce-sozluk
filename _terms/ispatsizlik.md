@@ -5,8 +5,8 @@ slug: ispatsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtsızlık
-- ► tanıtsızlık
+- kanıtsızlık
+- tanıtsızlık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: zanaatkarlik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zanaatçılık
+- zanaatçılık
 ozellikler:
 - - isim
 ornekler:

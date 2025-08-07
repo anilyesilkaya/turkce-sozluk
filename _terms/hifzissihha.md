@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥifẓ + ṣiḥḥa
 anlamlar:
 - Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü
-- ► sağlık bilgisi
+- sağlık bilgisi
 ozellikler:
 - - isim
   - eskimiş

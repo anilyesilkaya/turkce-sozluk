@@ -5,7 +5,7 @@ slug: batar
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zatürre
+- zatürre
 ozellikler:
 - - isim
   - ağızlardan

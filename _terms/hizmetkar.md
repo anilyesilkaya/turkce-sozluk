@@ -5,7 +5,7 @@ slug: hizmetkar
 letter: H
 lisan: Arapça ḫidmet + Farsça -kâr
 anlamlar:
-- ► uşak
+- uşak
 ozellikler:
 - - isim
 ornekler:

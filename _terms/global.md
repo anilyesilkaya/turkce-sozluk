@@ -5,8 +5,8 @@ slug: global
 letter: G
 lisan: Fransızca global
 anlamlar:
-- ► küresel
-- ► toptan
+- küresel
+- toptan
 ozellikler:
 - - sıfat
 - - sıfat

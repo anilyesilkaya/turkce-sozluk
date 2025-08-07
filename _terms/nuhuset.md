@@ -5,7 +5,7 @@ slug: nuhuset
 letter: N
 lisan: Arapça nuḥūset
 anlamlar:
-- ► uğursuzluk
+- uğursuzluk
 ozellikler:
 - - isim
   - eskimiş

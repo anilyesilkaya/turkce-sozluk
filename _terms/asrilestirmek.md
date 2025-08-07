@@ -5,7 +5,7 @@ slug: asrilestirmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çağdaşlaştırmak
+- çağdaşlaştırmak
 ozellikler:
 - - -i
 ornekler:

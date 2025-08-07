@@ -5,7 +5,7 @@ slug: yonmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yontmak
+- yontmak
 ozellikler:
 - - -i
   - ağızlardan

@@ -5,7 +5,7 @@ slug: yeresegi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► makaslı böcek
+- makaslı böcek
 ozellikler:
 - - isim
   - hayvan bilimi

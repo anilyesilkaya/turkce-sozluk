@@ -5,7 +5,7 @@ slug: soganimsi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğansı
+- soğansı
 ozellikler:
 - - sıfat
 ornekler:

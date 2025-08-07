@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ibhām
 anlamlar:
 - Gizli tutma
-- ► kapalılık
+- kapalılık
 ozellikler:
 - - isim
   - eskimiş

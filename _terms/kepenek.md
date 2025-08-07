@@ -5,7 +5,7 @@ slug: kepenek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► pervane
+- pervane
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: cevelan
 letter: C
 lisan: Arapça cevelān
 anlamlar:
-- ► gezinme
+- gezinme
 ozellikler:
 - - isim
   - eskimiş

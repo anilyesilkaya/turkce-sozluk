@@ -5,7 +5,7 @@ slug: gurecilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► devimselcilik
+- devimselcilik
 ozellikler:
 - - isim
   - felsefe

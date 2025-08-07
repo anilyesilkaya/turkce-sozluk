@@ -5,9 +5,9 @@ slug: anlatimci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anlatıcı yazar
+- anlatıcı yazar
 - Yalnızca hikâye etmeye ağırlık veren yazar ve bu niteliklere sahip eser
-- ► dışa vurumcu
+- dışa vurumcu
 ozellikler:
 - - isim
   - edebiyat

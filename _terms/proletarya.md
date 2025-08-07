@@ -5,7 +5,7 @@ slug: proletarya
 letter: P
 lisan: Fransızca prolétariat
 anlamlar:
-- ► emekçi sınıfı
+- emekçi sınıfı
 ozellikler:
 - - isim
 ornekler:

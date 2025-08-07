@@ -6,8 +6,8 @@ letter: T
 lisan: Fransızca transfert
 anlamlar:
 - Bir şeyi, bir kimseyi, bir grubu bir yerden alıp başka bir yere götürme
-- ► aktarma
-- ► para aktarımı
+- aktarma
+- para aktarımı
 - Bir kimsenin bedel karşılığında başka bir kulüp, kurum vb.ne geçmesi
 ozellikler:
 - - isim

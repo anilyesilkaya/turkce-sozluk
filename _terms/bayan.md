@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Kadınların ad veya soyadlarının önüne getirilen saygı sözü
-- ► kadın
+- kadın
 - Kadınlara bir seslenme sözü
 ozellikler:
 - - isim

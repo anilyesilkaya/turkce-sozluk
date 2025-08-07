@@ -5,7 +5,7 @@ slug: ana-yurt
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ana vatan
+- ana vatan
 ozellikler:
 - - isim
 ornekler:

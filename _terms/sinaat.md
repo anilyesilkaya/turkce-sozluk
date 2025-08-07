@@ -5,7 +5,7 @@ slug: sinaat
 letter: S
 lisan: Arapça ṣināʿat
 anlamlar:
-- ► zanaat
+- zanaat
 ozellikler:
 - - isim
   - eskimiş

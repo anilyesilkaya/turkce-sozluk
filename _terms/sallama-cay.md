@@ -5,7 +5,7 @@ slug: sallama-cay
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► poşet çay
+- poşet çay
 ozellikler:
 - - isim
 ornekler:

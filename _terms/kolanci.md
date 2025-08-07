@@ -5,7 +5,7 @@ slug: kolanci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yedekçi
+- yedekçi
 ozellikler:
 - - isim
 ornekler:

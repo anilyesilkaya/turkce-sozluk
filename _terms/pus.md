@@ -5,7 +5,7 @@ slug: pus
 letter: P
 lisan: Fransızca pouce
 anlamlar:
-- ► inç
+- inç
 ozellikler:
 - - isim
   - matematik

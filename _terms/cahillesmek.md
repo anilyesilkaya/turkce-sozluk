@@ -5,7 +5,7 @@ slug: cahillesmek
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► bilgisizleşmek
+- bilgisizleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

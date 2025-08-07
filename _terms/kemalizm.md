@@ -5,7 +5,7 @@ slug: kemalizm
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Atatürkçülük
+- Atatürkçülük
 ozellikler:
 - - isim
 ornekler:

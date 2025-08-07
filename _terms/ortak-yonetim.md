@@ -5,7 +5,7 @@ slug: ortak-yonetim
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► koalisyon
+- koalisyon
 ozellikler:
 - - isim
 ornekler:

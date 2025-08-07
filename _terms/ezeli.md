@@ -5,8 +5,8 @@ slug: ezeli
 letter: E
 lisan: Arapça ezelī
 anlamlar:
-- ► öncesiz
-- ► eski
+- öncesiz
+- eski
 ozellikler:
 - - sıfat
 - - sıfat

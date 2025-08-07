@@ -5,7 +5,7 @@ slug: tablakar
 letter: T
 lisan: Arapça ṭabla + Farsça -kār
 anlamlar:
-- ► tablacı
+- tablacı
 - Büyük konaklarda mutfaktan yemek tablalarını götürüp getiren görevli
 ozellikler:
 - - isim

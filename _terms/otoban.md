@@ -5,7 +5,7 @@ slug: otoban
 letter: O
 lisan: Almanca Autobahn
 anlamlar:
-- ► otoyol
+- otoyol
 ozellikler:
 - - isim
 ornekler:

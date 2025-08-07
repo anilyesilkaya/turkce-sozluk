@@ -5,7 +5,7 @@ slug: tenzilirutbe
 letter: T
 lisan: Arapça tenzīl + rutbe
 anlamlar:
-- ► rütbe indirimi
+- rütbe indirimi
 ozellikler:
 - - isim
   - eskimiş

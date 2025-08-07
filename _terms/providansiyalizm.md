@@ -5,7 +5,7 @@ slug: providansiyalizm
 letter: P
 lisan: Fransızca providentialisme
 anlamlar:
-- ► kayracılık
+- kayracılık
 ozellikler:
 - - isim
   - felsefe

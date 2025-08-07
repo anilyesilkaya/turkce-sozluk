@@ -5,7 +5,7 @@ slug: kaderci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yazgıcı
+- yazgıcı
 ozellikler:
 - - sıfat
   - felsefe

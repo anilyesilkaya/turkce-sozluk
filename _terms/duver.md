@@ -5,7 +5,7 @@ slug: duver
 letter: D
 lisan: Rumca
 anlamlar:
-- ► mertek
+- mertek
 ozellikler:
 - - isim
   - ağızlardan

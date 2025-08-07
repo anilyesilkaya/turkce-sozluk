@@ -5,7 +5,7 @@ slug: batimetri
 letter: B
 lisan: Fransızca bathymétrie
 anlamlar:
-- ► derinlik ölçümü
+- derinlik ölçümü
 ozellikler:
 - - isim
   - denizcilik

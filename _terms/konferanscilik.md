@@ -5,7 +5,7 @@ slug: konferanscilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► konuşmacılık
+- konuşmacılık
 ozellikler:
 - - isim
 ornekler:

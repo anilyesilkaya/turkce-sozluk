@@ -5,7 +5,7 @@ slug: nadirlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► seyreklik
+- seyreklik
 ozellikler:
 - - isim
 ornekler:

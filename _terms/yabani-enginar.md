@@ -5,7 +5,7 @@ slug: yabani-enginar
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kenger
+- kenger
 ozellikler:
 - - isim
   - bitki bilimi

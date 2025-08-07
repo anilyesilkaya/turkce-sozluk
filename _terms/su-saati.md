@@ -5,7 +5,7 @@ slug: su-saati
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► su sayacı
+- su sayacı
 ozellikler:
 - - isim
 ornekler:

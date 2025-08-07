@@ -5,7 +5,7 @@ slug: isyan
 letter: I
 lisan: Arapça ʿiṣyān
 anlamlar:
-- ► başkaldırı
+- başkaldırı
 ozellikler:
 - - isim
 ornekler:

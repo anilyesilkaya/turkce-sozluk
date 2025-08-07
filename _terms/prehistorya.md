@@ -5,7 +5,7 @@ slug: prehistorya
 letter: P
 lisan: Latince
 anlamlar:
-- ► tarih öncesi
+- tarih öncesi
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Vücut için gerekli besin maddelerini alma; tagaddi
 - Öğrencilerin okulda yemek üzere yanlarında götürdükleri besin maddeleri
-- ► desteklenme
+- desteklenme
 ozellikler:
 - - isim
 - - isim

@@ -9,7 +9,7 @@ anlamlar:
 - Bu kişi ve sorumlulukları sayı, nitelik ve aşamalarıyla gösteren çizelge
 - Bu çizelgedeki yer
 - Bisiklet ve motosiklette iskeleti oluşturan metal bölüm
-- ► ekip
+- ekip
 - Belli bir sebeple bir arada bulunan kimselerin bütünü
 ozellikler:
 - - isim

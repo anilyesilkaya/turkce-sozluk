@@ -5,7 +5,7 @@ slug: ibate
 letter: I
 lisan: Arapça ibāte
 anlamlar:
-- ► barındırma
+- barındırma
 ozellikler:
 - - isim
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda yatağı olan, yatak alabilen
 - İçinde aktığı yer derin olan
-- ► yataklı vagon
+- yataklı vagon
 ozellikler:
 - - sıfat
 - - sıfat

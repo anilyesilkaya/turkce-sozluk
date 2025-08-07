@@ -5,7 +5,7 @@ slug: insan-sarrafi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adam sarrafı
+- adam sarrafı
 ozellikler:
 - - isim
   - mecaz

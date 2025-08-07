@@ -5,7 +5,7 @@ slug: cam-bolmesi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çam yarması
+- çam yarması
 ozellikler:
 - - sıfat
 ornekler:

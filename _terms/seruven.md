@@ -5,7 +5,7 @@ slug: seruven
 letter: S
 lisan: Farsça servān
 anlamlar:
-- ► macera
+- macera
 ozellikler:
 - - isim
 ornekler:

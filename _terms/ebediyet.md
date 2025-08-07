@@ -5,7 +5,7 @@ slug: ebediyet
 letter: E
 lisan: Arapça ebediyyet
 anlamlar:
-- ► sonsuzluk
+- sonsuzluk
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kuluckahane
 letter: K
 lisan: Bulgarca + Farsça ḫāne
 anlamlar:
-- ► kuluçkalık
+- kuluçkalık
 ozellikler:
 - - isim
   - eskimiş

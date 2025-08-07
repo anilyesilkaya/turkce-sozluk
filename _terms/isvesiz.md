@@ -5,7 +5,7 @@ slug: isvesiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► cilvesiz
+- cilvesiz
 ozellikler:
 - - sıfat
 ornekler:

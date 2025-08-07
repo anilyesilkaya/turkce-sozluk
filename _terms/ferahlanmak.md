@@ -5,7 +5,7 @@ slug: ferahlanmak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ferahlamak
+- ferahlamak
 ozellikler:
 - - nesnesiz
 ornekler:

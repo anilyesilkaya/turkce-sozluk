@@ -5,7 +5,7 @@ slug: pentur
 letter: P
 lisan: Fransızca peinture
 anlamlar:
-- ► boyama
+- boyama
 ozellikler:
 - - isim
 ornekler:

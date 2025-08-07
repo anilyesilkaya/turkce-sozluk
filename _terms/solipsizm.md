@@ -5,7 +5,7 @@ slug: solipsizm
 letter: S
 lisan: Fransızca solipsisme
 anlamlar:
-- ► tekbencilik
+- tekbencilik
 ozellikler:
 - - isim
   - felsefe

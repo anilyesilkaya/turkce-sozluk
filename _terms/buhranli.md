@@ -5,7 +5,7 @@ slug: buhranli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bunalımlı
+- bunalımlı
 ozellikler:
 - - sıfat
 ornekler:

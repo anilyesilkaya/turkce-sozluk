@@ -5,7 +5,7 @@ slug: kandela
 letter: K
 lisan: İtalyanca candela
 anlamlar:
-- ► mum
+- mum
 ozellikler:
 - - isim
   - fizik

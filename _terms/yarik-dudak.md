@@ -5,7 +5,7 @@ slug: yarik-dudak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tavşan dudak
+- tavşan dudak
 ozellikler:
 - - sıfat
 ornekler:

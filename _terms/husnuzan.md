@@ -5,7 +5,7 @@ slug: husnuzan
 letter: H
 lisan: Arapça ḥusn + ẓann
 anlamlar:
-- ► iyi niyet
+- iyi niyet
 ozellikler:
 - - isim
 ornekler:

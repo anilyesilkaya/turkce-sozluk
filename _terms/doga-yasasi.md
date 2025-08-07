@@ -5,7 +5,7 @@ slug: doga-yasasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doğa kanunu
+- doğa kanunu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kosam
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► avuç
+- avuç
 - İki avuç dolusu
 ozellikler:
 - - isim

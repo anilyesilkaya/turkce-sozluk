@@ -5,7 +5,7 @@ slug: sozluk-bilgisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sözlükçülük
+- sözlükçülük
 ozellikler:
 - - isim
 ornekler:

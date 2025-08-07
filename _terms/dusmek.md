@@ -14,7 +14,7 @@ anlamlar:
 - Vurmak, değmek, rastlamak
 - Vakti gelmeden ölü doğmak
 - Atlanmak, aradan çıkmak, eksik kalmak
-- ► eksilmek
+- eksilmek
 - Aşırı ilgi veya sevgi göstermek
 - Uğramak, kapılmak
 - Yakışmak, uygun gelmek

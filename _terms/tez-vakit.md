@@ -5,7 +5,7 @@ slug: tez-vakit
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tez vakitte
+- tez vakitte
 ozellikler:
 - - zarf
 ornekler:

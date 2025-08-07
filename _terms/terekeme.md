@@ -5,7 +5,7 @@ slug: terekeme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Karapapak
+- Karapapak
 ozellikler:
 - - isim
 ornekler:

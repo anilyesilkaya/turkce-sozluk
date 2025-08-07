@@ -5,8 +5,8 @@ slug: oyle-oyle
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► böylece
-- ► yavaş yavaş
+- böylece
+- yavaş yavaş
 ozellikler:
 - - zarf
 - - zarf

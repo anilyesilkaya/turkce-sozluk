@@ -5,7 +5,7 @@ slug: oltu-otu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► pire otu
+- pire otu
 ozellikler:
 - - isim
   - bitki bilimi

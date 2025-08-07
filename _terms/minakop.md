@@ -5,7 +5,7 @@ slug: minakop
 letter: M
 lisan: Rumca
 anlamlar:
-- ► gölge balığı (umbrina cirrosa)
+- gölge balığı (umbrina cirrosa)
 ozellikler:
 - - isim
   - hayvan bilimi

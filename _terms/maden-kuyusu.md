@@ -5,7 +5,7 @@ slug: maden-kuyusu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maden ocağı
+- maden ocağı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: torba-cay
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► poşet çay
+- poşet çay
 ozellikler:
 - - isim
 ornekler:

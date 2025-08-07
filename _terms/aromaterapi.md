@@ -5,7 +5,7 @@ slug: aromaterapi
 letter: A
 lisan: Fransızca aromathérapie
 anlamlar:
-- ► koku tedavisi
+- koku tedavisi
 ozellikler:
 - - isim
 ornekler:

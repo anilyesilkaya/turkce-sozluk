@@ -5,7 +5,7 @@ slug: umumhane
 letter: U
 lisan: Arapça ʿumūm + Farsça ḫāne
 anlamlar:
-- ► genelev
+- genelev
 ozellikler:
 - - isim
   - eskimiş

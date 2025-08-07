@@ -5,7 +5,7 @@ slug: mikap
 letter: M
 lisan: Arapça mikʿab
 anlamlar:
-- ► küp (II)
+- küp (II)
 ozellikler:
 - - isim
   - eskimiş

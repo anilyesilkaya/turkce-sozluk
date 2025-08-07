@@ -8,7 +8,7 @@ anlamlar:
 - Genellikle kıldan yapılmış kaba dokuma
 - Kıldan veya yünden yapılmış hayvan örtüsü
 - Tekke mensuplarının büründüğü örtü
-- ► giysi
+- giysi
 ozellikler:
 - - isim
 - - isim

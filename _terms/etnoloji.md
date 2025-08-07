@@ -5,7 +5,7 @@ slug: etnoloji
 letter: E
 lisan: Fransızca ethnologie
 anlamlar:
-- ► ırk bilimi
+- ırk bilimi
 ozellikler:
 - - isim
   - toplum bilimi

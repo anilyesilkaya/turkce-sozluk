@@ -16,7 +16,7 @@ anlamlar:
 - Ölçüyü, sınırı aşmak, fazlasına gitmek
 - Sıvı, gaz vb. sızdırmak
 - İstemeyerek altını kirletmek
-- ► delirmek
+- delirmek
 - Bir araç veya aletle iş görürken aracı iyi kullanamama yüzünden kendine veya bir başkasına zarar vermek
 - Birini veya bir şeyi göstermemek
 - Yarışan bir koşucu diğeri tarafından hızla geçilip ara açılmak

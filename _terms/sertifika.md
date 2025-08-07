@@ -5,7 +5,7 @@ slug: sertifika
 letter: S
 lisan: Fransızca certificat
 anlamlar:
-- ► öğrenim belgesi
+- öğrenim belgesi
 - Kişinin bilgi gerektiren herhangi bir konuda niteliğini gösteren belge
 ozellikler:
 - - isim

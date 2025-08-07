@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tek duruma gelme
-- ► ünsüz tekleşmesi
+- ünsüz tekleşmesi
 ozellikler:
 - - isim
 - - isim

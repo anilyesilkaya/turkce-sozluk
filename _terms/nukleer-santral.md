@@ -5,7 +5,7 @@ slug: nukleer-santral
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► atom santrali
+- atom santrali
 ozellikler:
 - - isim
   - fizik

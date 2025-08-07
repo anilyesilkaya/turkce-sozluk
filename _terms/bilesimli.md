@@ -5,7 +5,7 @@ slug: bilesimli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yapay
+- yapay
 ozellikler:
 - - sıfat
 ornekler:

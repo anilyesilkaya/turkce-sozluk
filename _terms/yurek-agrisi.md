@@ -5,7 +5,7 @@ slug: yurek-agrisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kalp ağrısı
+- kalp ağrısı
 ozellikler:
 - - isim
   - mecaz

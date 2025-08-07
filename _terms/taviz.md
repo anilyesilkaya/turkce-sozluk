@@ -5,7 +5,7 @@ slug: taviz
 letter: T
 lisan: Arapça taʿvīż
 anlamlar:
-- ► ödün
+- ödün
 ozellikler:
 - - isim
 ornekler:

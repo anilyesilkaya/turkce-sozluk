@@ -5,7 +5,7 @@ slug: tardolunma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► savılma
+- savılma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: arada-sirada
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

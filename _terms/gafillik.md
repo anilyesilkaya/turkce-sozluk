@@ -5,7 +5,7 @@ slug: gafillik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► aymazlık
+- aymazlık
 ozellikler:
 - - isim
 ornekler:

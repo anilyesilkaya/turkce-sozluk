@@ -5,7 +5,7 @@ slug: gozu-sulu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sulu gözlü
+- sulu gözlü
 ozellikler:
 - - sıfat
   - mecaz

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kapatmak işi
-- ► metres
+- metres
 - Yolsuzlukla değerinden aşağı elde edilmiş (mal)
 - Basketbolda, elinde top olmayan bir oyuncunun pas almasına veya ilerlemesine engel olma
 ozellikler:

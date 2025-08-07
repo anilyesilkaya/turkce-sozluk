@@ -5,8 +5,8 @@ slug: calki
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalgıç
-- ► tırpan
+- çalgıç
+- tırpan
 ozellikler:
 - - isim
 - - isim

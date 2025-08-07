@@ -5,7 +5,7 @@ slug: tekerlenmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yuvarlanmak
+- yuvarlanmak
 - Durumu bozulmak, kötüye gitmek
 - Uğraşmak, peşinde koşmak, yuvarlanıp gitmek
 ozellikler:

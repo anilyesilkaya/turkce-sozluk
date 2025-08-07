@@ -5,7 +5,7 @@ slug: kerizci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çalgıcı
+- çalgıcı
 - Oyunda hile yapan kimse
 ozellikler:
 - - isim

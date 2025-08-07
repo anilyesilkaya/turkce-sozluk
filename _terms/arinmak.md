@@ -5,7 +5,7 @@ slug: arinmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► temizlenmek
+- temizlenmek
 - Katışıksız, arı (I) duruma gelmek
 - İçinde bulunduğu sıkıntılı, tehlikeli veya kötü bir durumdan kurtularak kendini huzurlu ve rahat hissetmek
 ozellikler:

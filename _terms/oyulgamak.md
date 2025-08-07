@@ -5,7 +5,7 @@ slug: oyulgamak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oyulgalamak
+- oyulgalamak
 ozellikler:
 - - -i
   - ağızlardan

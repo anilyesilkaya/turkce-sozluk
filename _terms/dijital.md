@@ -5,8 +5,8 @@ slug: dijital
 letter: D
 lisan: Fransızca digital
 anlamlar:
-- ► sayısal
-- ► sanal
+- sayısal
+- sanal
 ozellikler:
 - - sıfat
 - - sıfat

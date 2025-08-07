@@ -5,7 +5,7 @@ slug: inaksal
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► dogmatik
+- dogmatik
 ozellikler:
 - - sıfat
   - felsefe

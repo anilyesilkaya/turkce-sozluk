@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Gelişigüzel toplanmış, aralarında uygunluk bulunmayan
 - Değersiz gereçlerle özensiz olarak yapılmış
-- ► değersiz
+- değersiz
 ozellikler:
 - - sıfat
 - - sıfat

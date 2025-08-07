@@ -5,7 +5,7 @@ slug: gibisi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► benzeri
+- benzeri
 ozellikler:
 - - isim
 ornekler:

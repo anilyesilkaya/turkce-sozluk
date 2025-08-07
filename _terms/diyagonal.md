@@ -6,7 +6,7 @@ letter: D
 lisan: Fransızca diagonale
 anlamlar:
 - Eğri bir biçimde dokunmuş kumaş
-- ► köşegen
+- köşegen
 ozellikler:
 - - isim
 - - isim

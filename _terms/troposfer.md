@@ -5,7 +5,7 @@ slug: troposfer
 letter: T
 lisan: Fransızca troposphère
 anlamlar:
-- ► alt hava yuvarı
+- alt hava yuvarı
 ozellikler:
 - - isim
   - gök bilimi

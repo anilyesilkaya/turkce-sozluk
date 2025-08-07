@@ -5,7 +5,7 @@ slug: memat
 letter: M
 lisan: Arapça memāt
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: koy-yeri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köy
+- köy
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kolay-kolay
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kolayca
+- kolayca
 ozellikler:
 - - zarf
 ornekler:

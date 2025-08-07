@@ -5,7 +5,7 @@ slug: o-halde
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► öyleyse
+- öyleyse
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: dalanci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lobici
+- lobici
 ozellikler:
 - - isim
 ornekler:

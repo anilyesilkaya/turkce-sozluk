@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muḳāvemet
 anlamlar:
 - Bir şeye veya kimseye karşı durma, karşı koyma, dayanma gücü
-- ► direnç
+- direnç
 ozellikler:
 - - isim
 - - isim

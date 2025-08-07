@@ -5,7 +5,7 @@ slug: bloke-para
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tutulmuş para
+- tutulmuş para
 ozellikler:
 - - isim
   - ekonomi

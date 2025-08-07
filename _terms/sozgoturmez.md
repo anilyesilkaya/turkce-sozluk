@@ -5,7 +5,7 @@ slug: sozgoturmez
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sugötürmez
+- sugötürmez
 ozellikler:
 - - sıfat
   - mecaz

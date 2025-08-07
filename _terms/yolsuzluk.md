@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yolsuz olma durumu
 - Bir görevi, bir yetkiyi kötüye kullanma; usulsüzlük
-- ► parasızlık
+- parasızlık
 ozellikler:
 - - isim
 - - isim

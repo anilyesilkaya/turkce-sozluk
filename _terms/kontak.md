@@ -7,7 +7,7 @@ lisan: Fransızca contact
 anlamlar:
 - Karşıt elektrik taşıyan iki maddenin birbirine dokunması
 - Motorlu araçları çalıştırmaya yarayan düzenek
-- ► bağlantı
+- bağlantı
 - Ruh sağlığı yerinde olmayan, dengesiz olan
 ozellikler:
 - - isim

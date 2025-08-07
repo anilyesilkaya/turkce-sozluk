@@ -5,7 +5,7 @@ slug: otomasyon
 letter: O
 lisan: Fransızca automation
 anlamlar:
-- ► özişler
+- özişler
 ozellikler:
 - - isim
 ornekler:

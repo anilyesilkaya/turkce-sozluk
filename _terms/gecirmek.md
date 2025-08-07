@@ -19,7 +19,7 @@ anlamlar:
 - Hastalık bulaştırmak
 - Zaman harcamak
 - Bir gereksinimi eldeki imkânla karşılamak
-- ► vurmak
+- vurmak
 - Alışverişte aldatmak, kötü mal satmak, kazıklamak
 - Birine kötü söz söylemek
 ozellikler:

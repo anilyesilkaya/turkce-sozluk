@@ -7,7 +7,7 @@ lisan: Fransızca délégué
 anlamlar:
 - Kendisine yetki verilerek bir yere veya birinin katına gönderilen kimse; murahhas
 - Devlet, parti, sendika vb. kuruluşları toplantılarda temsil eden kimse
-- ► katılımcı
+- katılımcı
 ozellikler:
 - - isim
 - - isim

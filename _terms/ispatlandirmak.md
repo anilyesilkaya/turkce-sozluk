@@ -5,8 +5,8 @@ slug: ispatlandirmak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtlandırmak
-- ► tanıtlandırmak
+- kanıtlandırmak
+- tanıtlandırmak
 ozellikler:
 - - -i
 - - -i

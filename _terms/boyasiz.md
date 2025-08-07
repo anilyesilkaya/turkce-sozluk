@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Boya sürülmemiş, boyanmamış olan
 - Renksiz olan
-- ► makyajsız
+- makyajsız
 - Makyaj yapmadan, boyanmadan
 ozellikler:
 - - sıfat

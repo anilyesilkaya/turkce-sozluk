@@ -5,7 +5,7 @@ slug: rab
 letter: R
 lisan: Arapça rabb
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - din bilimi

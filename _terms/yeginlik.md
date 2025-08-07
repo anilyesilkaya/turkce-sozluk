@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yeğin olma durumu
 - Bir ses çıkarılırken algılanan ve titreşimlerin genliğinden kaynaklanan özellik
-- ► şiddet
+- şiddet
 ozellikler:
 - - isim
 - - isim

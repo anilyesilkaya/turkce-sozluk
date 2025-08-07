@@ -5,7 +5,7 @@ slug: kendisince
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kendince
+- kendince
 ozellikler:
 - - zarf
 ornekler:

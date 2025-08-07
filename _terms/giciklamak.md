@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcık oluşturmak, kaşındırmak
-- ► kuşkulandırmak
+- kuşkulandırmak
 - Cinsel istek uyandırmak
 ozellikler:
 - - -i

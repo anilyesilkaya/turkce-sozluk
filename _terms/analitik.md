@@ -5,7 +5,7 @@ slug: analitik
 letter: A
 lisan: Fransızca analytique
 anlamlar:
-- ► çözümlemeli
+- çözümlemeli
 ozellikler:
 - - sıfat
 ornekler:

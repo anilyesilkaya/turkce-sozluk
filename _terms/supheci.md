@@ -5,7 +5,7 @@ slug: supheci
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kuşkucu
+- kuşkucu
 ozellikler:
 - - sıfat
 ornekler:

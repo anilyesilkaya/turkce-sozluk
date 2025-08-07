@@ -5,7 +5,7 @@ slug: tam-altin
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► cumhuriyet altını
+- cumhuriyet altını
 ozellikler:
 - - isim
 ornekler:

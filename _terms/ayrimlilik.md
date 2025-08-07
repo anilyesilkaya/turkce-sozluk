@@ -5,7 +5,7 @@ slug: ayrimlilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farklılık
+- farklılık
 ozellikler:
 - - isim
 ornekler:

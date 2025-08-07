@@ -5,7 +5,7 @@ slug: vakfe
 letter: V
 lisan: Arapça vaḳfe
 anlamlar:
-- ► durma
+- durma
 - Haccın arife günü öğle ve ikindi namazından sonra Arafat’ta bir süre durma biçiminde yerine getirilen farzlarından biri
 ozellikler:
 - - isim

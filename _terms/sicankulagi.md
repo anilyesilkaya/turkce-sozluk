@@ -5,7 +5,7 @@ slug: sicankulagi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► farekulağı
+- farekulağı
 ozellikler:
 - - isim
   - bitki bilimi

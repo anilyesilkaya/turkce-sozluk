@@ -5,7 +5,7 @@ slug: cezri
 letter: C
 lisan: Arapça ceẕrī
 anlamlar:
-- ► köklü
+- köklü
 ozellikler:
 - - sıfat
   - eskimiş

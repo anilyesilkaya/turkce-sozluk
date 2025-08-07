@@ -5,7 +5,7 @@ slug: mihsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivisiz
+- çivisiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,9 +6,9 @@ letter: K
 lisan: Arapça kursī
 anlamlar:
 - Kalabalığa karşı konuşma yapanların önünde bulunan yüksekçe yer
-- ► ana bilim dalı
-- ► bölüm
-- ► sandalye
+- ana bilim dalı
+- bölüm
+- sandalye
 ozellikler:
 - - isim
 - - isim

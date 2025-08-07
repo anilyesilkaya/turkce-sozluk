@@ -5,7 +5,7 @@ slug: gir-gir
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► alay (II)
+- alay (II)
 - Komik, matrak, eğlenceli
 - Usanç veren, sürekli ve kaba bir sesle
 ozellikler:

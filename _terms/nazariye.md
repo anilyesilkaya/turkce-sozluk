@@ -5,7 +5,7 @@ slug: nazariye
 letter: N
 lisan: Arapça naẓariyye
 anlamlar:
-- ► kuram
+- kuram
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: birsam
 letter: B
 lisan: Arapça birsām
 anlamlar:
-- ► sanrı
+- sanrı
 ozellikler:
 - - isim
   - eskimiş

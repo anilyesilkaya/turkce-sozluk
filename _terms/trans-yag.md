@@ -5,7 +5,7 @@ slug: trans-yag
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► trans yağ asidi
+- trans yağ asidi
 ozellikler:
 - - isim
 ornekler:

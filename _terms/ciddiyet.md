@@ -5,7 +5,7 @@ slug: ciddiyet
 letter: C
 lisan: Arapça ciddiyyet
 anlamlar:
-- ► ciddilik
+- ciddilik
 ozellikler:
 - - isim
 ornekler:

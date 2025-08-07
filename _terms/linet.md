@@ -5,7 +5,7 @@ slug: linet
 letter: L
 lisan: Arapça līnet
 anlamlar:
-- ► ishal
+- ishal
 ozellikler:
 - - isim
   - eskimiş

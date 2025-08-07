@@ -5,7 +5,7 @@ slug: paragozluluk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► paragözlük
+- paragözlük
 ozellikler:
 - - isim
 ornekler:

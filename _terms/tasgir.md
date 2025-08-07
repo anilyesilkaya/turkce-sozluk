@@ -5,7 +5,7 @@ slug: tasgir
 letter: T
 lisan: Arapça taṣġīr
 anlamlar:
-- ► küçültme
+- küçültme
 - Bir isim veya sıfatı küçültmek suretiyle kullanma
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yere çıkarken veya bir yerden inerken basılan ve art arda gelen, birbirine belirli aralıkları olan düz yüzeylerden her biri; ayak, sekmen
-- ► evre
+- evre
 - Bir amaca ulaşmak için yararlanılan kişi, durum veya yer
 - Ondalık sayı sisteminde bir sayının sağdan sola doğru rakamlarının derecelerine göre her birinin bulunduğu yer; hane
 - Bir tam denklemde bulunan bilinmeyenin en yüksek kuvveti

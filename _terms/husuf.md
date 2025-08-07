@@ -5,7 +5,7 @@ slug: husuf
 letter: H
 lisan: Arapça ḫusūf
 anlamlar:
-- ► Ay tutulması
+- Ay tutulması
 ozellikler:
 - - isim
   - eskimiş

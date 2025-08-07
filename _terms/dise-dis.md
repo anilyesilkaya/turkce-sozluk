@@ -5,7 +5,7 @@ slug: dise-dis
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kısasa kısas
+- kısasa kısas
 - Var olan bütün gücünü kullanarak
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: meccanen
 letter: M
 lisan: Arapça meccānen
 anlamlar:
-- ► bedava
+- bedava
 ozellikler:
 - - zarf
   - eskimiş

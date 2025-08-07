@@ -5,7 +5,7 @@ slug: koyak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► vadi
+- vadi
 - Karalarda akarsu aşındırmasıyla oluşmuş, bir yöne doğru eğimli, uzunluğuna çukurluk
 - Dağlar ve kayalıklarda oluşmuş doğal çukur
 ozellikler:

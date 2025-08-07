@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Müstesna olma durumu
-- ► kural dışılık
+- kural dışılık
 ozellikler:
 - - isim
 - - isim

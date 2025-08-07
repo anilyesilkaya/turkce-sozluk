@@ -12,7 +12,7 @@ anlamlar:
 - Yer döşemesine gerekli olan
 - Ayakkabı tabanı yapmak için gerekli olan (kösele)
 - Düztaban olanların ayakkabılarında kullandıkları ortopedik plastik parça
-- ► kaide
+- kaide
 ozellikler:
 - - isim
 - - isim

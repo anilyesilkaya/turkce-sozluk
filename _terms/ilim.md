@@ -5,8 +5,8 @@ slug: ilim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ölçülülük
-- ► gün tün eşitliği
+- ölçülülük
+- gün tün eşitliği
 ozellikler:
 - - isim
 - - isim

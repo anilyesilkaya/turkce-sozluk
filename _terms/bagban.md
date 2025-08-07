@@ -6,7 +6,7 @@ letter: B
 lisan: Farsça bāġbān
 anlamlar:
 - Bağ veya bahçe bekçisi
-- ► bahçıvan
+- bahçıvan
 ozellikler:
 - - isim
 - - isim

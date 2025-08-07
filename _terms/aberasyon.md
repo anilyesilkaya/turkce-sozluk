@@ -5,7 +5,7 @@ slug: aberasyon
 letter: A
 lisan: Fransızca aberration
 anlamlar:
-- ► sapınç
+- sapınç
 ozellikler:
 - - isim
   - gök bilimi

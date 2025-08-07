@@ -5,7 +5,7 @@ slug: tekerli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tekerlekli
+- tekerlekli
 ozellikler:
 - - sıfat
 ornekler:

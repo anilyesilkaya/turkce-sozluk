@@ -5,7 +5,7 @@ slug: bir-derece
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► biraz
+- biraz
 ozellikler:
 - - zarf
 ornekler:

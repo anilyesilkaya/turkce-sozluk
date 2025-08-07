@@ -5,7 +5,7 @@ slug: tirildemek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► titremek
+- titremek
 ozellikler:
 - - nesnesiz
   - ağızlardan

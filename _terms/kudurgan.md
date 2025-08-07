@@ -5,7 +5,7 @@ slug: kudurgan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► azgın
+- azgın
 ozellikler:
 - - sıfat
 ornekler:

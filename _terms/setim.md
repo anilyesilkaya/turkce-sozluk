@@ -5,7 +5,7 @@ slug: setim
 letter: Ş
 lisan: Arapça şetm
 anlamlar:
-- ► sövme
+- sövme
 ozellikler:
 - - isim
   - eskimiş

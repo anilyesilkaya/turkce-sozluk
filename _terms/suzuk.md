@@ -5,7 +5,7 @@ slug: suzuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süzgün
+- süzgün
 - Süzgünleşmiş, süzülmüş
 ozellikler:
 - - sıfat

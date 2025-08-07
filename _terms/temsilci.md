@@ -8,7 +8,7 @@ anlamlar:
 - Hak ve görev bakımından birinin veya bir topluluğun adına davranan kimse; mümessil
 - Benzerlerine örnek olan kimse veya şey
 - Aracı olarak başkasına mal satmakla görevlendirilen ve çoğunlukla yasal çalışma yeri ve elinde malı olmayan kimse
-- ► ajan
+- ajan
 ozellikler:
 - - isim
 - - isim

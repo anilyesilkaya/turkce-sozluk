@@ -5,7 +5,7 @@ slug: turbulans
 letter: T
 lisan: Fransızca turbulence
 anlamlar:
-- ► burgaç
+- burgaç
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: kondor
 letter: K
 lisan: Fransızca condor
 anlamlar:
-- ► tepeli akbaba
+- tepeli akbaba
 ozellikler:
 - - isim
   - hayvan bilimi

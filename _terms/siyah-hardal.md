@@ -5,7 +5,7 @@ slug: siyah-hardal
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hardal
+- hardal
 ozellikler:
 - - isim
   - bitki bilimi

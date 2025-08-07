@@ -5,7 +5,7 @@ slug: ekspozisyon
 letter: E
 lisan: Fransızca exposition
 anlamlar:
-- ► sergileme
+- sergileme
 ozellikler:
 - - isim
 ornekler:

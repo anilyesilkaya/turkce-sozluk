@@ -5,7 +5,7 @@ slug: algler
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► su yosunları
+- su yosunları
 ozellikler:
 - - isim
   - bitki bilimi

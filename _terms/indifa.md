@@ -5,7 +5,7 @@ slug: indifa
 letter: I
 lisan: Arapça indifāʿ
 anlamlar:
-- ► püskürme
+- püskürme
 - Başkaldırma, isyan etme, ayaklanma
 - Kızamık, kızıl vb. hastalıklarda vücutta kırmızı lekeler görülme
 ozellikler:

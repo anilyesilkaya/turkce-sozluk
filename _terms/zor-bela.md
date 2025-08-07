@@ -5,7 +5,7 @@ slug: zor-bela
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► güçlükle
+- güçlükle
 ozellikler:
 - - zarf
   - mecaz

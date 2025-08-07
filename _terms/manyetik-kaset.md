@@ -5,7 +5,7 @@ slug: manyetik-kaset
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► manyetik kartuş
+- manyetik kartuş
 ozellikler:
 - - isim
   - bilişim

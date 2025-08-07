@@ -5,7 +5,7 @@ slug: fayda
 letter: F
 lisan: Arapça fāʾide
 anlamlar:
-- ► yarar
+- yarar
 ozellikler:
 - - isim
 ornekler:

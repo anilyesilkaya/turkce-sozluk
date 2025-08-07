@@ -5,7 +5,7 @@ slug: bizir
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► klitoris
+- klitoris
 ozellikler:
 - - isim
   - anatomi

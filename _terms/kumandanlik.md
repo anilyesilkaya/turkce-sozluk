@@ -5,7 +5,7 @@ slug: kumandanlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► komutanlık
+- komutanlık
 ozellikler:
 - - isim
 ornekler:

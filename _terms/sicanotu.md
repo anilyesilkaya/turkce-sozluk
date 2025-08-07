@@ -5,7 +5,7 @@ slug: sicanotu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► arsenik
+- arsenik
 ozellikler:
 - - isim
   - ağızlardan

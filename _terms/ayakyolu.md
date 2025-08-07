@@ -5,7 +5,7 @@ slug: ayakyolu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yapi-yeri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► şantiye
+- şantiye
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: cesim
 letter: C
 lisan: Arapça cesīm
 anlamlar:
-- ► büyük
-- ► kocaman
+- büyük
+- kocaman
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: kaliplica
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalıplı
+- kalıplı
 ozellikler:
 - - sıfat
   - mecaz

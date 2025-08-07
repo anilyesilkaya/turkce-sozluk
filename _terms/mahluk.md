@@ -5,7 +5,7 @@ slug: mahluk
 letter: M
 lisan: Arapça maḫlūḳ
 anlamlar:
-- ► yaratık
+- yaratık
 ozellikler:
 - - isim
   - eskimiş

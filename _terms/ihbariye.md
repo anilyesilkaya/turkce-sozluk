@@ -5,7 +5,7 @@ slug: ihbariye
 letter: I
 lisan: Arapça iḫbāriyye
 anlamlar:
-- ► bildirim
+- bildirim
 - Kaçak malı haber verenlere ödenen ücret
 ozellikler:
 - - isim

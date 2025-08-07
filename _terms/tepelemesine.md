@@ -5,7 +5,7 @@ slug: tepelemesine
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tepeleme
+- tepeleme
 ozellikler:
 - - zarf
 ornekler:

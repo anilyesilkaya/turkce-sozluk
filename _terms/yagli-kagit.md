@@ -5,7 +5,7 @@ slug: yagli-kagit
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pişirme kâğıdı
+- pişirme kâğıdı
 - Ambalajlamada veya yiyecekleri saklamada kullanılan, malzemeye yapışmayan, suya dayanıklı kâğıt
 - Ressamların, taş veya ahşap üzerine yazı yazanların işleme ve yazıların üzerine koyarak yansıyan karaltıdan kopya aldıkları ince kâğıt
 ozellikler:

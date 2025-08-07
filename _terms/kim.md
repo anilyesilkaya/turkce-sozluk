@@ -5,7 +5,7 @@ slug: kim
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ki (I)
+- ki (I)
 ozellikler:
 - - bağlaç
   - eskimiş

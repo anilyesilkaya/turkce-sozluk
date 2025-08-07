@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Denize girip yüzme, yıkanma
 - Tedavi amacıyla deniz suyunu kullanma
-- ► deniz hamamı
+- deniz hamamı
 ozellikler:
 - - isim
 - - isim

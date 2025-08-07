@@ -5,7 +5,7 @@ slug: buyukanne
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► nine
+- nine
 ozellikler:
 - - isim
 ornekler:

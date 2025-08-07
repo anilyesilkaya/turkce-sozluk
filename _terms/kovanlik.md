@@ -5,7 +5,7 @@ slug: kovanlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► arılık (II)
+- arılık (II)
 ozellikler:
 - - isim
 ornekler:

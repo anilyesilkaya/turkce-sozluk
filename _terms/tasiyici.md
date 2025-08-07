@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Taşıma işini yapan kimse veya şey; yükçü
 - Yükü havadan veya yerden taşımaya yarayan ve kapalı devre çalışan alet; konveyör
-- ► hamal
-- ► aktarıcı
+- hamal
+- aktarıcı
 - Kendisi hastalığa yakalanmaksızın o hastalığın sebebi olan mikrobu vücudunda taşıyan canlı; portör
 ozellikler:
 - - isim

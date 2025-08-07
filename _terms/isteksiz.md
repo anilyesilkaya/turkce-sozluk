@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmaya isteği olmayan; arzusuz, hevessiz
-- ► isteksizce
+- isteksizce
 ozellikler:
 - - sıfat
 - - sıfat

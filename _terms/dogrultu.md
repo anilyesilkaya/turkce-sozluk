@@ -5,7 +5,7 @@ slug: dogrultu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yön
+- yön
 - Tutulan, izlenen yol
 - Paralel olmayan iki sonsuz doğruyu birbirinden ayırt ettiren durum
 - Belli bir sonsuz doğrunun belirttiği tek yol; istikamet

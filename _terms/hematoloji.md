@@ -5,7 +5,7 @@ slug: hematoloji
 letter: H
 lisan: Fransızca hématologie
 anlamlar:
-- ► kan bilimi
+- kan bilimi
 ozellikler:
 - - isim
 ornekler:

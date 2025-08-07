@@ -5,8 +5,8 @@ slug: orospuluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► fahişelik
-- ► kalleşlik
+- fahişelik
+- kalleşlik
 ozellikler:
 - - isim
 - - isim

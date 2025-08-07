@@ -5,7 +5,7 @@ slug: tashih
 letter: T
 lisan: Arapça taṣḥīḥ
 anlamlar:
-- ► düzelti
+- düzelti
 ozellikler:
 - - isim
 ornekler:

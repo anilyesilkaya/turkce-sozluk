@@ -5,7 +5,7 @@ slug: infiratcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yalnızcılık
+- yalnızcılık
 ozellikler:
 - - isim
 ornekler:

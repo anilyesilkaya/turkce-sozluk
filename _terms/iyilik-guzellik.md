@@ -5,7 +5,7 @@ slug: iyilik-guzellik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iyilik sağlık
+- iyilik sağlık
 ozellikler:
 - - ünlem
   - mecaz

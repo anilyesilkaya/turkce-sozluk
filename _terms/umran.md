@@ -5,7 +5,7 @@ slug: umran
 letter: Ü
 lisan: Arapça ʿumrān
 anlamlar:
-- ► bayındırlık
+- bayındırlık
 ozellikler:
 - - isim
   - eskimiş

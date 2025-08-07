@@ -5,7 +5,7 @@ slug: lazut
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► mısır
+- mısır
 ozellikler:
 - - isim
   - ağızlardan

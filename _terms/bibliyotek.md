@@ -5,7 +5,7 @@ slug: bibliyotek
 letter: B
 lisan: Fransızca bibliothèque
 anlamlar:
-- ► kütüphane
+- kütüphane
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: fevk
 letter: F
 lisan: Arapça fevḳ
 anlamlar:
-- ► üst
-- ► yukarı
+- üst
+- yukarı
 ozellikler:
 - - isim
   - eskimiş

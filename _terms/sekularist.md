@@ -5,7 +5,7 @@ slug: sekularist
 letter: S
 lisan: Fransızca seculariste
 anlamlar:
-- ► dünyacı
+- dünyacı
 ozellikler:
 - - isim
   - felsefe

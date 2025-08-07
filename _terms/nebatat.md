@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nebātāt
 anlamlar:
 - Bitkiler
-- ► bitki bilimi
+- bitki bilimi
 ozellikler:
 - - isim
   - eskimiş

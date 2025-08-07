@@ -5,7 +5,7 @@ slug: muhtelif
 letter: M
 lisan: Arapça muḫtelif
 anlamlar:
-- ► çeşitli
+- çeşitli
 - Zıt, birbirini tutmayan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: briz
 letter: B
 lisan: Fransızca brise
 anlamlar:
-- ► meltem
+- meltem
 ozellikler:
 - - isim
 ornekler:

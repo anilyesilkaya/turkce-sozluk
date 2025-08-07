@@ -5,7 +5,7 @@ slug: siyaset
 letter: S
 lisan: Arapça siyāset
 anlamlar:
-- ► politika
+- politika
 - Devlet işlerini düzenleme ve yürütme sanatıyla ilgili özel görüş veya anlayış
 ozellikler:
 - - isim

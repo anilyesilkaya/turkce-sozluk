@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğüt veren kimse; nasihatçi
-- ► vaiz
+- vaiz
 ozellikler:
 - - isim
 - - isim

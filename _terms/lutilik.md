@@ -5,7 +5,7 @@ slug: lutilik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► oğlancılık
+- oğlancılık
 ozellikler:
 - - isim
 ornekler:

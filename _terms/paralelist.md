@@ -5,7 +5,7 @@ slug: paralelist
 letter: P
 lisan: Fransızca paralléliste
 anlamlar:
-- ► koşutçu
+- koşutçu
 ozellikler:
 - - sıfat
   - felsefe

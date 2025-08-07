@@ -5,7 +5,7 @@ slug: pagan
 letter: P
 lisan: İngilizce pagan
 anlamlar:
-- ► çok tanrıcı
+- çok tanrıcı
 ozellikler:
 - - sıfat
   - din bilimi

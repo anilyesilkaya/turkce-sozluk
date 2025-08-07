@@ -5,7 +5,7 @@ slug: orman-sarmasigi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► akasma
+- akasma
 ozellikler:
 - - isim
   - bitki bilimi

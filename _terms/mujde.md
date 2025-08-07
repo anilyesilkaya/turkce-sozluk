@@ -5,8 +5,8 @@ slug: mujde
 letter: M
 lisan: Farsça mujde
 anlamlar:
-- ► muştu
-- ► muştuluk
+- muştu
+- muştuluk
 - Sevindirici haber verileceği zaman söylenen bir söz
 ozellikler:
 - - isim

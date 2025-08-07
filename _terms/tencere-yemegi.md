@@ -5,7 +5,7 @@ slug: tencere-yemegi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sulu yemek
+- sulu yemek
 ozellikler:
 - - isim
 ornekler:

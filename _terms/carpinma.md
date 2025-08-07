@@ -5,7 +5,7 @@ slug: carpinma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çırpınma
+- çırpınma
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Birbiriyle çok samimi
-- ► içli dışlı
+- içli dışlı
 - Çok samimi bir biçimde
 ozellikler:
 - - sıfat

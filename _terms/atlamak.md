@@ -7,11 +7,11 @@ lisan: Türkçe
 anlamlar:
 - Bir engeli sıçrayarak veya fırlayarak aşmak
 - Yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak
-- ► binmek
+- binmek
 - Basında haberi zamanında verememek veya diğer gazetelerden öğrenmek
 - Okuma, yazı yazma, sayı sayma vb. işlerde bazı bölümleri üstünkörü geçmek
 - Sınıfı okumadan geçmek
-- ► inmek
+- inmek
 - Yanılmak, aldanmak
 - Bir işe sonucunu düşünmeden hemen girişmek
 ozellikler:

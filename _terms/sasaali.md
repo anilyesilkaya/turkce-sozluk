@@ -5,8 +5,8 @@ slug: sasaali
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► görkemli
-- ► parıltılı
+- görkemli
+- parıltılı
 ozellikler:
 - - sıfat
   - eskimiş

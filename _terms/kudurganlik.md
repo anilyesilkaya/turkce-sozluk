@@ -5,7 +5,7 @@ slug: kudurganlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► azgınlık
+- azgınlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fonetik-alfabe
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► sesçil alfabe
+- sesçil alfabe
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: kursu-seyhi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kürsü hocası
+- kürsü hocası
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: oyun-ebesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ebe
+- ebe
 ozellikler:
 - - isim
 ornekler:

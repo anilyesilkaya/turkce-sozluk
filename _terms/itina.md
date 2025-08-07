@@ -5,7 +5,7 @@ slug: itina
 letter: I
 lisan: Arapça iʿtināʾ
 anlamlar:
-- ► özen
+- özen
 ozellikler:
 - - isim
 ornekler:

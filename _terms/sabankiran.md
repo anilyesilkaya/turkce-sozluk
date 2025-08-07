@@ -5,7 +5,7 @@ slug: sabankiran
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kayışkıran
+- kayışkıran
 ozellikler:
 - - isim
   - bitki bilimi

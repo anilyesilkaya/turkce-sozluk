@@ -5,7 +5,7 @@ slug: tiris-piris
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tırıs tırıs
+- tırıs tırıs
 ozellikler:
 - - zarf
 ornekler:

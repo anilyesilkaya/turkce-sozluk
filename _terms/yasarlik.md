@@ -5,7 +5,7 @@ slug: yasarlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayatiyet
+- hayatiyet
 ozellikler:
 - - isim
 ornekler:

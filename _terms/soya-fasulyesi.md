@@ -5,7 +5,7 @@ slug: soya-fasulyesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soya
+- soya
 ozellikler:
 - - isim
   - bitki bilimi

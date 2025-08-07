@@ -5,9 +5,9 @@ slug: ivaz
 letter: I
 lisan: Arapça ʿivaż
 anlamlar:
-- ► ödün
-- ► edim
-- ► karşılık
+- ödün
+- edim
+- karşılık
 ozellikler:
 - - isim
   - eskimiş

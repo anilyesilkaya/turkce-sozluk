@@ -5,7 +5,7 @@ slug: sakaf
 letter: S
 lisan: Arapça saḳf
 anlamlar:
-- ► çatı
+- çatı
 ozellikler:
 - - isim
   - eskimiş

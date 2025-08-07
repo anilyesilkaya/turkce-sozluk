@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Buruşturarak, sıkıştırarak veya kıvrım yaparak bir şeyin alanını ve hacmini küçültmek
-- ► kısmak
+- kısmak
 ozellikler:
 - - -i
 - - -i

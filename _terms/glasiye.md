@@ -5,7 +5,7 @@ slug: glasiye
 letter: G
 lisan: Fransızca glacier
 anlamlar:
-- ► buzul
+- buzul
 ozellikler:
 - - isim
   - coğrafya

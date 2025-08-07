@@ -5,7 +5,7 @@ slug: soyut-isim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soyut ad
+- soyut ad
 ozellikler:
 - - isim
   - dil bilgisi

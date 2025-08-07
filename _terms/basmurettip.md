@@ -5,7 +5,7 @@ slug: basmurettip
 letter: B
 lisan: Türkçe baş + Arapça murettib
 anlamlar:
-- ► başdizgici
+- başdizgici
 ozellikler:
 - - isim
   - eskimiş

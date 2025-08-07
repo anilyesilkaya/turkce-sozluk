@@ -5,7 +5,7 @@ slug: spiritualist
 letter: S
 lisan: Fransızca spiritualiste
 anlamlar:
-- ► ruhçu
+- ruhçu
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,8 +5,8 @@ slug: gato
 letter: G
 lisan: Fransızca gateâu
 anlamlar:
-- ► pasta (I)
-- ► çörek
+- pasta (I)
+- çörek
 ozellikler:
 - - isim
 - - isim

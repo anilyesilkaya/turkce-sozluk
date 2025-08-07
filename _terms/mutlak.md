@@ -5,9 +5,9 @@ slug: mutlak
 letter: M
 lisan: Arapça muṭlaḳ
 anlamlar:
-- ► salt
+- salt
 - Kendi başına var olan, hiçbir şeye bağlı olmayan; saltık
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - sıfat
 - - sıfat

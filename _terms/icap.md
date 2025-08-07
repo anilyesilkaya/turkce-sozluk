@@ -5,8 +5,8 @@ slug: icap
 letter: I
 lisan: Arapça īcāb
 anlamlar:
-- ► gerek
-- ► olumlama
+- gerek
+- olumlama
 ozellikler:
 - - isim
 - - isim

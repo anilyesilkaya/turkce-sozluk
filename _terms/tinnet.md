@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭinnet
 anlamlar:
 - Tınlama, çınlama
-- ► tını
+- tını
 ozellikler:
 - - isim
   - eskimiş

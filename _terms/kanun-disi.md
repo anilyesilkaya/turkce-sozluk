@@ -5,7 +5,7 @@ slug: kanun-disi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasa dışı
+- yasa dışı
 ozellikler:
 - - sıfat
   - hukuk

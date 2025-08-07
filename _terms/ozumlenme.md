@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Besini özümlemek işi
-- ► özümsenme
+- özümsenme
 ozellikler:
 - - isim
   - biyoloji

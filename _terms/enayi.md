@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Fazla bön, avanak, budala olan
-- ► ördek
+- ördek
 ozellikler:
 - - sıfat
   - argo

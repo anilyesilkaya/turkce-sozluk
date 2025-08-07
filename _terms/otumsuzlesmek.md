@@ -5,7 +5,7 @@ slug: otumsuzlesmek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tonsuzlaşmak
+- tonsuzlaşmak
 ozellikler:
 - - nesnesiz
   - dil bilgisi

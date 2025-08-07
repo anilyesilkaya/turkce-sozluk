@@ -5,8 +5,8 @@ slug: sirkulasyon
 letter: S
 lisan: Fransızca circulation
 anlamlar:
-- ► dolaşım
-- ► dolanım
+- dolaşım
+- dolanım
 ozellikler:
 - - isim
 - - isim

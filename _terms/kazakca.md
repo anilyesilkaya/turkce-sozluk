@@ -5,7 +5,7 @@ slug: kazakca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kazak Türkçesi
+- Kazak Türkçesi
 ozellikler:
 - - isim
 ornekler:

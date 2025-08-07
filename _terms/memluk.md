@@ -5,7 +5,7 @@ slug: memluk
 letter: M
 lisan: Arapça memlūk
 anlamlar:
-- ► köle
+- köle
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: yevmiyecilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gündelikçilik
+- gündelikçilik
 ozellikler:
 - - isim
 ornekler:

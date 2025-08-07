@@ -5,7 +5,7 @@ slug: izlev
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► işlev
+- işlev
 ozellikler:
 - - isim
   - kimya

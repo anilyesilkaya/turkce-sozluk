@@ -14,7 +14,7 @@ anlamlar:
 - Bir araya gelmek, katılmak
 - İlgilenmek, el atmak
 - Yetkisinde bulunmak, bakmak, iş edinmek, işi olmak
-- ► karılmak
+- karılmak
 ozellikler:
 - - -e
 - - -e

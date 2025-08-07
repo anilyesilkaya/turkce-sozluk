@@ -5,7 +5,7 @@ slug: isiklik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışık bacası
+- ışık bacası
 ozellikler:
 - - isim
   - mimarlık

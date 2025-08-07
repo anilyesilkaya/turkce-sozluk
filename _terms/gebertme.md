@@ -5,7 +5,7 @@ slug: gebertme
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► öldürme
+- öldürme
 ozellikler:
 - - isim
 ornekler:

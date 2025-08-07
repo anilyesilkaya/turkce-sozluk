@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakılan bir şeyin kalıntısı
-- ► şikâyet
+- şikâyet
 ozellikler:
 - - isim
 - - isim

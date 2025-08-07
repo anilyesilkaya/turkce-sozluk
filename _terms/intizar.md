@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça intiẓār
 anlamlar:
 - Birinin gelmesini, bir şeyin olmasını bekleme, gözleme
-- ► ilenme
+- ilenme
 ozellikler:
 - - isim
 - - isim

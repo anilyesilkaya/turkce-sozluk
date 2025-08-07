@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nemā
 anlamlar:
 - Büyüme, gelişme, çoğalma
-- ► faiz
+- faiz
 ozellikler:
 - - isim
   - eskimiş

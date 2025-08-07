@@ -5,7 +5,7 @@ slug: bes-parasiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yoksul
+- yoksul
 ozellikler:
 - - sıfat
 ornekler:

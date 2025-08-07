@@ -5,7 +5,7 @@ slug: iptila
 letter: I
 lisan: Arapça ibtilāʾ
 anlamlar:
-- ► düşkünlük
+- düşkünlük
 ozellikler:
 - - isim
   - eskimiş

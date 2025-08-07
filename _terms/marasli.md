@@ -5,7 +5,7 @@ slug: marasli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Kahramanmaraşlı
+- Kahramanmaraşlı
 ozellikler:
 - - isim
 ornekler:

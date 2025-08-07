@@ -5,7 +5,7 @@ slug: mugayeret
 letter: M
 lisan: Arapça muġāyeret
 anlamlar:
-- ► aykırılık
+- aykırılık
 ozellikler:
 - - isim
   - eskimiş

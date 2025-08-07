@@ -5,7 +5,7 @@ slug: desise
 letter: D
 lisan: Arapça desīse
 anlamlar:
-- ► entrika
+- entrika
 ozellikler:
 - - isim
   - eskimiş

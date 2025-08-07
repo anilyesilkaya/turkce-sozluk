@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hızlı olma durumu; süratlilik
-- ► çabukluk
+- çabukluk
 ozellikler:
 - - isim
 - - isim

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı hareket
 - Hava, moda, sağlık vb. alanlarda belirli bir süre gelip etkisini gösteren geçici durum
-- ► hareketlilik
+- hareketlilik
 - Bir yüzeydeki kıvrım
 - Saçların kıvrım genişliği
 - Gizli iş, dalavere

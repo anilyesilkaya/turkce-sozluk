@@ -5,7 +5,7 @@ slug: ciki
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıkın
+- çıkın
 ozellikler:
 - - isim
 ornekler:

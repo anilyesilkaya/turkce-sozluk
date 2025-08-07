@@ -5,7 +5,7 @@ slug: adalet-orgutu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adliye teşkilatı
+- adliye teşkilatı
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: zorun
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zorunluluk
+- zorunluluk
 ozellikler:
 - - isim
 ornekler:

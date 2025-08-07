@@ -5,7 +5,7 @@ slug: ambar-memuru
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ambarcı
+- ambarcı
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: buyruk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emir
-- ► egemenlik
+- emir
+- egemenlik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mertlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yiğitlik
+- yiğitlik
 ozellikler:
 - - isim
 ornekler:

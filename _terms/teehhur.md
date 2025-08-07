@@ -5,7 +5,7 @@ slug: teehhur
 letter: T
 lisan: Arapça teʾaḫḫur
 anlamlar:
-- ► gecikme
+- gecikme
 ozellikler:
 - - isim
   - eskimiş

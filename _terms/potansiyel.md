@@ -8,7 +8,7 @@ anlamlar:
 - Gizli kalmış, henüz varlığı ortaya çıkmamış olan; gizil
 - Gelecekte oluşması, gelişmesi mümkün olan
 - Kullanılmaya hazır (güç, yetenek)
-- ► gizil güç
+- gizil güç
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: guvezi
 letter: G
 lisan: Türkçe güvez + Arapça -į
 anlamlar:
-- ► güvez
+- güvez
 ozellikler:
 - - sıfat
 ornekler:

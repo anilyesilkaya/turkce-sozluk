@@ -5,7 +5,7 @@ slug: boru-cicegigiller
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çan çiçeğigiller
+- çan çiçeğigiller
 ozellikler:
 - - isim
   - bitki bilimi

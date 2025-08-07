@@ -5,7 +5,7 @@ slug: pelin-otu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pelin
+- pelin
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: kasik-catlagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kasık fıtığı
+- kasık fıtığı
 ozellikler:
 - - isim
   - ağızlardan

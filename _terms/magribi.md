@@ -5,7 +5,7 @@ slug: magribi
 letter: M
 lisan: Arapça maġribī
 anlamlar:
-- ► Batılı
+- Batılı
 ozellikler:
 - - sıfat
   - eskimiş

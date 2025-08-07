@@ -5,7 +5,7 @@ slug: cebretmek
 letter: C
 lisan: Arapça cebr + Türkçe etmek
 anlamlar:
-- ► zorlamak
+- zorlamak
 ozellikler:
 - - -e
   - -i

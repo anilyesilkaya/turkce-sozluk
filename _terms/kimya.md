@@ -7,7 +7,7 @@ lisan: Arapça kīmyāʾ
 anlamlar:
 - Maddelerin temel yapılarını, birleşimlerini, dönüşümlerini, çözümleme, birleşim ve üretim yöntemlerini inceleyen bilim
 - Üstün özellikler taşıyan çok değerli şey
-- ► uyum
+- uyum
 ozellikler:
 - - isim
 - - isim

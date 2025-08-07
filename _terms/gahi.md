@@ -5,7 +5,7 @@ slug: gahi
 letter: G
 lisan: Farsça gāhī
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
   - eskimiş

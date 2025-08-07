@@ -5,7 +5,7 @@ slug: bitap
 letter: B
 lisan: Farsça bītāb
 anlamlar:
-- ► bitkin
+- bitkin
 ozellikler:
 - - sıfat
   - eskimiş

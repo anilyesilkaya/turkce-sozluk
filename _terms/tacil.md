@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taʿcīl
 anlamlar:
 - Acele ettirme
-- ► çabuklaştırma
+- çabuklaştırma
 ozellikler:
 - - isim
   - eskimiş

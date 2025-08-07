@@ -6,7 +6,7 @@ letter: Z
 lisan: İngilizce zonal
 anlamlar:
 - Yeryüzünde enleme bağlı olarak meydana gelen olay
-- ► bölgesel
+- bölgesel
 ozellikler:
 - - isim
   - coğrafya

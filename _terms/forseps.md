@@ -5,7 +5,7 @@ slug: forseps
 letter: F
 lisan: Fransızca forceps
 anlamlar:
-- ► tutçek
+- tutçek
 ozellikler:
 - - isim
   - tıp

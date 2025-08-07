@@ -5,7 +5,7 @@ slug: mesudane
 letter: M
 lisan: Arapça mesʿūd + Farsça -āne
 anlamlar:
-- ► mesutça
+- mesutça
 ozellikler:
 - - zarf
   - eskimiş

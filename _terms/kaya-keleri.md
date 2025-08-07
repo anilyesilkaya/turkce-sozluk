@@ -5,7 +5,7 @@ slug: kaya-keleri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bukalemun
+- bukalemun
 ozellikler:
 - - isim
   - hayvan bilimi

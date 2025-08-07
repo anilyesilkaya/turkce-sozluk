@@ -5,7 +5,7 @@ slug: yari-kubik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► parabol
+- parabol
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: hafiflestirme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hafifletme
+- hafifletme
 ozellikler:
 - - isim
 ornekler:

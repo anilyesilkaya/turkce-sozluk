@@ -5,7 +5,7 @@ slug: kokenli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► asıllı
+- asıllı
 - Belli bir kaynaktan çıkmış olan, bir kaynağa dayanan; menşeli
 ozellikler:
 - - sıfat

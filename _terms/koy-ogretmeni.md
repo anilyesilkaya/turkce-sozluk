@@ -5,7 +5,7 @@ slug: koy-ogretmeni
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eğitmen
+- eğitmen
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça murābiṭ
 anlamlar:
 - Savaşçı derviş
-- ► marabut
+- marabut
 ozellikler:
 - - isim
 - - isim

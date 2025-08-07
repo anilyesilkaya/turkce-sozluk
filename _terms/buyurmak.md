@@ -5,8 +5,8 @@ slug: buyurmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emretmek
-- ► söylemek
+- emretmek
+- söylemek
 - “Buyurun” diyerek konuğu saygı ile içeri almak veya dışarı çıkarmak
 - İkram edilen bir şeyi almak
 - “Etmek, olmak” anlamında yardımcı fiil olarak kullanılır

@@ -5,7 +5,7 @@ slug: demiri
 letter: D
 lisan: Türkçe demir + Arapça -ī
 anlamlar:
-- ► kül rengi
+- kül rengi
 - Bu renkte olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: dizemsiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ritimsiz
+- ritimsiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: erinlesme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ergenleşme
+- ergenleşme
 ozellikler:
 - - isim
 ornekler:

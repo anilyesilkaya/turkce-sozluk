@@ -5,7 +5,7 @@ slug: muradif
 letter: M
 lisan: Arapça murādif
 anlamlar:
-- ► eş anlamlı
+- eş anlamlı
 ozellikler:
 - - sıfat
   - eskimiş

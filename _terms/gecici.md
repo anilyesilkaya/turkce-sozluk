@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çok sürmeyen
 - Kısa ve belli bir süre için olan; gelgeç, arızi, muvakkat, palyatif, kalıcı karşıtı
-- ► bulaşıcı
+- bulaşıcı
 - Yoldan veya karşıdan karşıya geçen kimse
 ozellikler:
 - - sıfat

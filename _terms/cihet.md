@@ -5,7 +5,7 @@ slug: cihet
 letter: C
 lisan: Arapça cihet
 anlamlar:
-- ► yön
+- yön
 ozellikler:
 - - isim
 ornekler:

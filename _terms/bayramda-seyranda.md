@@ -5,7 +5,7 @@ slug: bayramda-seyranda
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► seyrek
+- seyrek
 ozellikler:
 - - zarf
 ornekler:

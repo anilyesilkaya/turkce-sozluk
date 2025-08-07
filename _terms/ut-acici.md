@@ -5,7 +5,7 @@ slug: ut-acici
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► göstermeci
+- göstermeci
 ozellikler:
 - - sıfat
   - ruh bilimi

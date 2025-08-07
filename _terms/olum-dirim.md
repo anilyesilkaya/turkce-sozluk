@@ -5,7 +5,7 @@ slug: olum-dirim
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölüm kalım
+- ölüm kalım
 ozellikler:
 - - sıfat
   - mecaz

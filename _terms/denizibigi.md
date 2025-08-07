@@ -5,7 +5,7 @@ slug: denizibigi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► deniz rezenesi
+- deniz rezenesi
 ozellikler:
 - - isim
   - bitki bilimi

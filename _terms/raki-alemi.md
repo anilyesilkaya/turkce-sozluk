@@ -5,7 +5,7 @@ slug: raki-alemi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► rakı meclisi
+- rakı meclisi
 ozellikler:
 - - isim
 ornekler:

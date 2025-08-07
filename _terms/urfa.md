@@ -5,7 +5,7 @@ slug: urfa
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Şanlıurfa
+- Şanlıurfa
 ozellikler:
 - - isim
 ornekler:

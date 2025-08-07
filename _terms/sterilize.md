@@ -7,7 +7,7 @@ lisan: Fransızca stérilisé
 anlamlar:
 - Bozulmasına yol açabilecek mikroorganizmalardan ve mayalardan sterilizasyon yöntemiyle arınmış olan (ürün vb.)
 - Kısırlaştırılmış
-- ► arınık
+- arınık
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: osinografi
 letter: O
 lisan: İngilizce oceanography
 anlamlar:
-- ► deniz bilimi
+- deniz bilimi
 ozellikler:
 - - isim
 ornekler:

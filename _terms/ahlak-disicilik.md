@@ -5,7 +5,7 @@ slug: ahlak-disicilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► töre dışıcılık
+- töre dışıcılık
 ozellikler:
 - - isim
   - toplum bilimi

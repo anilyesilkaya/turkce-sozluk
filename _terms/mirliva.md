@@ -5,7 +5,7 @@ slug: mirliva
 letter: M
 lisan: Farsça mīr + Arapça livā
 anlamlar:
-- ► tuğgeneral
+- tuğgeneral
 ozellikler:
 - - isim
   - eskimiş

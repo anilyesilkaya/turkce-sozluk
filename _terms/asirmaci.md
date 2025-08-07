@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Başkasına ait olan bir şeyi izinsiz alan kimse
-- ► intihalci
+- intihalci
 ozellikler:
 - - isim
 - - isim

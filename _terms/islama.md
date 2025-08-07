@@ -5,7 +5,7 @@ slug: islama
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ıslatma
+- ıslatma
 ozellikler:
 - - isim
 ornekler:

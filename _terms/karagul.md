@@ -5,7 +5,7 @@ slug: karagul
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karakul
+- karakul
 ozellikler:
 - - isim
   - hayvan bilimi

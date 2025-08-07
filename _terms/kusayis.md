@@ -5,7 +5,7 @@ slug: kusayis
 letter: K
 lisan: Farsça guşāyiş
 anlamlar:
-- ► açılma
+- açılma
 ozellikler:
 - - isim
   - eskimiş

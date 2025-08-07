@@ -5,7 +5,7 @@ slug: tasviri-dil-bilgisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► betimlemeli dil bilgisi
+- betimlemeli dil bilgisi
 ozellikler:
 - - isim
   - eskimiş

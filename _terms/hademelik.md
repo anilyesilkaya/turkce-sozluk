@@ -5,7 +5,7 @@ slug: hademelik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hizmetlilik
+- hizmetlilik
 ozellikler:
 - - isim
 ornekler:

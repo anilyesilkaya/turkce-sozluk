@@ -5,8 +5,8 @@ slug: umuk
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► boğaz
-- ► gırtlak
+- boğaz
+- gırtlak
 ozellikler:
 - - isim
   - ağızlardan

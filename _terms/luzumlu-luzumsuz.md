@@ -5,7 +5,7 @@ slug: luzumlu-luzumsuz
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gerekli gereksiz
+- gerekli gereksiz
 ozellikler:
 - - zarf
 ornekler:

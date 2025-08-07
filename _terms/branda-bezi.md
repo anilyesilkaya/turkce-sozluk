@@ -5,7 +5,7 @@ slug: branda-bezi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► branda
+- branda
 ozellikler:
 - - isim
 ornekler:

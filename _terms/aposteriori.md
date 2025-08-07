@@ -5,7 +5,7 @@ slug: aposteriori
 letter: A
 lisan: Fransızca a posteriori
 anlamlar:
-- ► sonsal
+- sonsal
 ozellikler:
 - - sıfat
   - felsefe

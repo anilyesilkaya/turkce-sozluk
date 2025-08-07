@@ -5,7 +5,7 @@ slug: sakilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► haydutluk
+- haydutluk
 ozellikler:
 - - isim
 ornekler:

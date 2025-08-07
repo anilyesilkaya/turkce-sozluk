@@ -5,7 +5,7 @@ slug: icar
 letter: I
 lisan: Arapça īcār
 anlamlar:
-- ► kira
+- kira
 ozellikler:
 - - isim
   - eskimiş

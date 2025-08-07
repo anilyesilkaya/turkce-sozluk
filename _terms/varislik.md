@@ -5,7 +5,7 @@ slug: varislik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► mirasçılık
+- mirasçılık
 ozellikler:
 - - isim
 ornekler:

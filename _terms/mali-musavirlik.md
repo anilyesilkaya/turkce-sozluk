@@ -5,7 +5,7 @@ slug: mali-musavirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► serbest muhasebeci mali müşavirlik
+- serbest muhasebeci mali müşavirlik
 ozellikler:
 - - isim
   - ekonomi

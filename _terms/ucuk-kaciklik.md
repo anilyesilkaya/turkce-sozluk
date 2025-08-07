@@ -5,7 +5,7 @@ slug: ucuk-kaciklik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► deli doluluk
+- deli doluluk
 - Hayatı hafife alma, ciddi ve tutarlı görünmeme, havailik
 ozellikler:
 - - isim

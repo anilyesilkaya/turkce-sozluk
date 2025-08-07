@@ -5,9 +5,9 @@ slug: savruk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tutumsuz
+- tutumsuz
 - Aklını işine vermeyen
-- ► dikkatsiz
+- dikkatsiz
 - Düzensiz, dağınık
 ozellikler:
 - - sıfat

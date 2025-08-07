@@ -5,7 +5,7 @@ slug: bolusmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaşmak
+- paylaşmak
 ozellikler:
 - - -i
   - -le

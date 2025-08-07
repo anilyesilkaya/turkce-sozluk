@@ -5,7 +5,7 @@ slug: hep-beraber
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► birlikte
+- birlikte
 ozellikler:
 - - zarf
 ornekler:

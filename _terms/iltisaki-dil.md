@@ -5,7 +5,7 @@ slug: iltisaki-dil
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bitişken dil
+- bitişken dil
 ozellikler:
 - - isim
   - dil bilgisi

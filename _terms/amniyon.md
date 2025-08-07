@@ -5,7 +5,7 @@ slug: amniyon
 letter: A
 lisan: Almanca Amnion
 anlamlar:
-- ► döl kesesi
+- döl kesesi
 ozellikler:
 - - isim
   - anatomi

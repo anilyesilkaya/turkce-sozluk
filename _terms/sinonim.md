@@ -5,7 +5,7 @@ slug: sinonim
 letter: S
 lisan: Fransızca synonyme
 anlamlar:
-- ► eş anlamlı
+- eş anlamlı
 ozellikler:
 - - sıfat
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: saftaron
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saftirik
+- saftirik
 ozellikler:
 - - sıfat
   - argo

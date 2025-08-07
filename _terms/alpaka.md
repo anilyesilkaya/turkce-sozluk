@@ -5,7 +5,7 @@ slug: alpaka
 letter: A
 lisan: İtalyanca alpacca
 anlamlar:
-- ► Alman gümüşü
+- Alman gümüşü
 ozellikler:
 - - isim
   - kimya

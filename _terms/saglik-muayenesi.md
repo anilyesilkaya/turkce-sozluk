@@ -5,7 +5,7 @@ slug: saglik-muayenesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► muayene
+- muayene
 ozellikler:
 - - isim
 ornekler:

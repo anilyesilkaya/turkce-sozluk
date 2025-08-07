@@ -5,7 +5,7 @@ slug: ahenkli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uyumlu
+- uyumlu
 - Ahengi olan, kulağa hoş gelen; ahenktar
 ozellikler:
 - - sıfat

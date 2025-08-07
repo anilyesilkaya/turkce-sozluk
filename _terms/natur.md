@@ -5,7 +5,7 @@ slug: natur
 letter: N
 lisan: Fransızca nature
 anlamlar:
-- ► doğa
+- doğa
 ozellikler:
 - - isim
 ornekler:

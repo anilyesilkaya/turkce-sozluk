@@ -5,7 +5,7 @@ slug: metamorfizm
 letter: M
 lisan: Fransızca métamorphisme
 anlamlar:
-- ► başkalaşım
+- başkalaşım
 ozellikler:
 - - isim
   - jeoloji

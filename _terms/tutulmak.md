@@ -12,7 +12,7 @@ anlamlar:
 - Kapatılmak, sarılmak
 - Bir organ veya bir şey hareket edemez olmak
 - Birine tutkun olmak, sevmek
-- ► yakalanmak
+- yakalanmak
 - Bazı takım oyunlarında karşı takımdaki bir oyuncu tarafından hareketine ayakla veya vücutla engel olunmak; markaja alınmak
 ozellikler:
 - - nesnesiz

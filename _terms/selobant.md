@@ -5,7 +5,7 @@ slug: selobant
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seloteyp
+- seloteyp
 ozellikler:
 - - isim
 ornekler:

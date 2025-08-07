@@ -5,7 +5,7 @@ slug: ilim-adami
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bilim adamı
+- bilim adamı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tamahkarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► açgözlülük
+- açgözlülük
 ozellikler:
 - - isim
 ornekler:

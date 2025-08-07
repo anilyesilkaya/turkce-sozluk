@@ -5,7 +5,7 @@ slug: soloculuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► solistlik
+- solistlik
 ozellikler:
 - - isim
 ornekler:

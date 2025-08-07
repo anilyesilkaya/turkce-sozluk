@@ -5,7 +5,7 @@ slug: atif-indeksi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atıf dizini
+- atıf dizini
 ozellikler:
 - - isim
 ornekler:

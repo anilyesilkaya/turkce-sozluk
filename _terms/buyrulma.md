@@ -5,7 +5,7 @@ slug: buyrulma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emredilme
+- emredilme
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: cumhur
 letter: C
 lisan: Arapça cumhūr
 anlamlar:
-- ► halk (I)
-- ► topluluk
+- halk (I)
+- topluluk
 ozellikler:
 - - isim
   - eskimiş

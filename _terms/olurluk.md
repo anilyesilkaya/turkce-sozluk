@@ -5,7 +5,7 @@ slug: olurluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olabilirlik
+- olabilirlik
 ozellikler:
 - - isim
 ornekler:

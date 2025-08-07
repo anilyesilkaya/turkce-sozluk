@@ -5,7 +5,7 @@ slug: enduksiyon
 letter: E
 lisan: Fransızca induction
 anlamlar:
-- ► tümevarım
+- tümevarım
 ozellikler:
 - - isim
   - felsefe

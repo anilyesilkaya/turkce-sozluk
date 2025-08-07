@@ -5,7 +5,7 @@ slug: magrurcasina
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mağrurca
+- mağrurca
 ozellikler:
 - - zarf
 ornekler:

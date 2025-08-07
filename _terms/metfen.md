@@ -5,7 +5,7 @@ slug: metfen
 letter: M
 lisan: Arapça medfen
 anlamlar:
-- ► mezar
+- mezar
 ozellikler:
 - - isim
   - eskimiş

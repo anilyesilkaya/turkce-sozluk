@@ -5,7 +5,7 @@ slug: urbali
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► giysili
+- giysili
 ozellikler:
 - - sıfat
 ornekler:

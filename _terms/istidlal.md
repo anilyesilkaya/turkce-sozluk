@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istidlāl
 anlamlar:
 - Bir konuda kanıtlara dayanarak sonuç çıkarma
-- ► çıkarım
+- çıkarım
 ozellikler:
 - - isim
   - eskimiş

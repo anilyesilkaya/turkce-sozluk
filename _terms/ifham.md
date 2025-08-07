@@ -5,7 +5,7 @@ slug: ifham
 letter: I
 lisan: Arapça ifhām
 anlamlar:
-- ► anlatma
+- anlatma
 ozellikler:
 - - isim
   - eskimiş

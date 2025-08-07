@@ -5,7 +5,7 @@ slug: pudriyer
 letter: P
 lisan: Fransızca poudrier
 anlamlar:
-- ► pudralık
+- pudralık
 ozellikler:
 - - isim
 ornekler:

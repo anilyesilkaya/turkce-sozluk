@@ -5,9 +5,9 @@ slug: icazet
 letter: I
 lisan: Arapça icāzet
 anlamlar:
-- ► izin
-- ► onay
-- ► diploma
+- izin
+- onay
+- diploma
 ozellikler:
 - - isim
   - eskimiş

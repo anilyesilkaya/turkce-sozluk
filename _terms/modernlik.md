@@ -5,7 +5,7 @@ slug: modernlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çağdaşlık
+- çağdaşlık
 ozellikler:
 - - isim
 ornekler:

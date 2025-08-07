@@ -9,7 +9,7 @@ anlamlar:
 - İki borunun ucunu birleştirmeye yarayan halkaya benzer parça
 - Motor pistonlarına, yağlama, soğutma, özellikle sızıntıyı önleme vb. amaçlarla yerleştirilmiş, genel olarak dökme demirden yapılmış, uçları açık ve esnek halka
 - Mobilyaların ayak altlarına takılan kare, dikdörtgen, silindir, kesik koni vb. şekilli, pirinç veya nikel kaplı demirden yapılmış, iki ucu delik gereç
-- ► kelepçe
+- kelepçe
 ozellikler:
 - - isim
 - - isim

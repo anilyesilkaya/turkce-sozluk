@@ -5,7 +5,7 @@ slug: akdiken
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alıç
+- alıç
 ozellikler:
 - - isim
   - bitki bilimi

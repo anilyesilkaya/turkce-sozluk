@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bayramı kutlamak için yazılıp gönderilen kart
-- ► bayram ziyareti
+- bayram ziyareti
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: gayz
 letter: G
 lisan: Arapça ġayż
 anlamlar:
-- ► hınç
+- hınç
 ozellikler:
 - - isim
   - eskimiş

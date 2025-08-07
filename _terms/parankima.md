@@ -5,7 +5,7 @@ slug: parankima
 letter: P
 lisan: Fransızca parenchyme
 anlamlar:
-- ► özek doku
+- özek doku
 ozellikler:
 - - isim
   - anatomi

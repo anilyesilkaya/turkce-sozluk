@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kara kuvvetlerine bağlı subay, astsubay veya er
-- ► karalamacı
+- karalamacı
 ozellikler:
 - - isim
   - askerlik

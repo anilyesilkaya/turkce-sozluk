@@ -5,7 +5,7 @@ slug: patadak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 ornekler:

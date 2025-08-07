@@ -5,7 +5,7 @@ slug: bakirimsi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bakırsı
+- bakırsı
 ozellikler:
 - - sıfat
 ornekler:

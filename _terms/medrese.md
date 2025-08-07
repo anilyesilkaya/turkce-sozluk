@@ -7,7 +7,7 @@ lisan: Arapça medrese
 anlamlar:
 - İslam ülkelerinde, genellikle İslam dini kurallarına uygun bilimlerin okutulduğu yer
 - Kendine has bir mimarisi olan, üstü açık veya kapalı geniş bir avlu çevresinde talebelerin yatıp kalkması, ders çalışması için inşa edilmiş odalardan meydana gelen yapı
-- ► fakülte
+- fakülte
 ozellikler:
 - - isim
   - din bilimi

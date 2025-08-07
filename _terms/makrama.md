@@ -5,7 +5,7 @@ slug: makrama
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mahrama
+- mahrama
 ozellikler:
 - - isim
 ornekler:

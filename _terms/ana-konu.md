@@ -5,7 +5,7 @@ slug: ana-konu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tema
+- tema
 ozellikler:
 - - isim
 ornekler:

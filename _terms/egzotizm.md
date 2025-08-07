@@ -5,7 +5,7 @@ slug: egzotizm
 letter: E
 lisan: Fransızca exotisme
 anlamlar:
-- ► yabancıllık
+- yabancıllık
 ozellikler:
 - - isim
 ornekler:

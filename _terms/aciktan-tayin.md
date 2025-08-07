@@ -5,7 +5,7 @@ slug: aciktan-tayin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açıktan atama
+- açıktan atama
 ozellikler:
 - - isim
 ornekler:

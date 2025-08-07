@@ -5,7 +5,7 @@ slug: kaliteli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► nitelikli
+- nitelikli
 ozellikler:
 - - sıfat
 ornekler:

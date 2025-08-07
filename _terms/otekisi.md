@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sözü edilenden başkası; diğeri, yekdiğeri
-- ► başkası
+- başkası
 ozellikler:
 - - zamir
 - - zamir

@@ -5,7 +5,7 @@ slug: pergola
 letter: P
 lisan: İtalyanca pergola
 anlamlar:
-- ► gölgelik
+- gölgelik
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: tansiyon
 letter: T
 lisan: Fransızca tension
 anlamlar:
-- ► kan basıncı
-- ► gerilim
+- kan basıncı
+- gerilim
 ozellikler:
 - - isim
   - tıp

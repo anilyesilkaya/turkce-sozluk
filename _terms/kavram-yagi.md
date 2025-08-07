@@ -5,7 +5,7 @@ slug: kavram-yagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gömlek yağı
+- gömlek yağı
 ozellikler:
 - - isim
 ornekler:

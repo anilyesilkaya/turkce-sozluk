@@ -5,7 +5,7 @@ slug: flurcun
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kocabaş
+- kocabaş
 ozellikler:
 - - isim
   - hayvan bilimi

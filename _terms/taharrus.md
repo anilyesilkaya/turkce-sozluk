@@ -5,7 +5,7 @@ slug: taharrus
 letter: T
 lisan: Arapça taḥarrüs
 anlamlar:
-- ► çekinme
+- çekinme
 ozellikler:
 - - isim
   - eskimiş

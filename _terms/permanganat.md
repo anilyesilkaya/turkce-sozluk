@@ -5,7 +5,7 @@ slug: permanganat
 letter: P
 lisan: Fransızca permanganate
 anlamlar:
-- ► potasyum permanganat
+- potasyum permanganat
 ozellikler:
 - - isim
   - kimya

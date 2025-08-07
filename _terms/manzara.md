@@ -6,10 +6,10 @@ letter: M
 lisan: Arapça manẓara
 anlamlar:
 - Bakış, görüş alanına giren, dikkati çeken her yer; görüntü, dekor
-- ► görünüş
+- görünüş
 - Konusu bir doğa veya şehir parçası olan resim, gravür veya desen, tablo
-- ► tablo
-- ► durum
+- tablo
+- durum
 ozellikler:
 - - isim
 - - isim

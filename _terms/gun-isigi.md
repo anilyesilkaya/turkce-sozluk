@@ -5,7 +5,7 @@ slug: gun-isigi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► aydınlık
+- aydınlık
 ozellikler:
 - - isim
 ornekler:

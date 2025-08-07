@@ -5,7 +5,7 @@ slug: donbaba
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► turnagagası
+- turnagagası
 ozellikler:
 - - isim
   - bitki bilimi

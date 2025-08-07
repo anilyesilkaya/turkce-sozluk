@@ -5,7 +5,7 @@ slug: umar
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çare
+- çare
 ozellikler:
 - - isim
 ornekler:

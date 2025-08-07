@@ -6,7 +6,7 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve hırsla (yutmak)
-- ► yalan
+- yalan
 - Bir işin oldubittiye getirilerek el çabukluğu ve dalavere ile yapıldığını belirtmek için söylenen ‘ham hum şorolop’ sözünde geçer
 ozellikler:
 - - zarf

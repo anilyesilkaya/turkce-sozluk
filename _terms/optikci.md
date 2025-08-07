@@ -5,7 +5,7 @@ slug: optikci
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► gözlükçü
+- gözlükçü
 ozellikler:
 - - isim
 ornekler:

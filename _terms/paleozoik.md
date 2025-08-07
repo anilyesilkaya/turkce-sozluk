@@ -5,7 +5,7 @@ slug: paleozoik
 letter: P
 lisan: Fransızca paléozoïque
 anlamlar:
-- ► Birinci Çağ
+- Birinci Çağ
 - Bu zamanla ilgili
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: arsizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arsızca
+- arsızca
 ozellikler:
 - - zarf
 ornekler:

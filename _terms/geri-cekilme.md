@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Savaşı daha elverişli şartlarda sürdürmek amacıyla bir askerî birliğin başka bir mevzi veya bölgeye hareket etmesi; ricat
-- ► vazgeçme
+- vazgeçme
 ozellikler:
 - - isim
   - askerlik

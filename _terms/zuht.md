@@ -5,7 +5,7 @@ slug: zuht
 letter: Z
 lisan: Arapça zuhd
 anlamlar:
-- ► takva
+- takva
 ozellikler:
 - - isim
   - eskimiş

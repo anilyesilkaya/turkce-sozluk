@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muṣādeme
 anlamlar:
 - Silahlı iki grup arasındaki kısa çatışma, çarpışma
-- ► uğraşma
+- uğraşma
 ozellikler:
 - - isim
   - eskimiş

@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyin yukarı, göğe doğru olan yanı; üzeri, fevk, alt karşıtı
 - Bir şeyin görülen yanı, yüzü
 - Bir şeyin dış yüzü; üzeri
-- ► giysi
+- giysi
 - Birine göre yüksek aşamada olan kimse; mafevk
 - Vücudun beden bölümü
 - Artan, geriye kalan bölüm

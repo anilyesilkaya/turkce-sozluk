@@ -5,7 +5,7 @@ slug: yurtluk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► malikâne
+- malikâne
 - Bir yerin gelirinin bir kimseye yalnız ölünceye kadar kullanılması şartıyla ayrılması yöntemi
 ozellikler:
 - - isim

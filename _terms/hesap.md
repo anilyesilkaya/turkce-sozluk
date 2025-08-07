@@ -5,7 +5,7 @@ slug: hesap
 letter: H
 lisan: Arapça ḥisāb
 anlamlar:
-- ► aritmetik
+- aritmetik
 - Matematiksel işlem
 - Alacaklı veya borçlu olma durumu
 - Ödenecek ücretin dökümünü ve tutarını gösteren kâğıt; hesap pusulası, adisyon

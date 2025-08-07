@@ -5,7 +5,7 @@ slug: vaz
 letter: V
 lisan: Arapça vażʿ
 anlamlar:
-- ► konma
+- konma
 ozellikler:
 - - isim
   - eskimiş

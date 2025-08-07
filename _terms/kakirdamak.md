@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - '"Kakır kakır" diye ses çıkarmak'
-- ► kurumak
-- ► ölmek
+- kurumak
+- ölmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

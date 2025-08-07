@@ -6,8 +6,8 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Etkisi çok olan; yeğin, zorlu, şedit
-- ► hızlı
-- ► aşırı
+- hızlı
+- aşırı
 - Aşırı bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: solen
 letter: Ş
 lisan: Moğolca
 anlamlar:
-- ► ziyafet
+- ziyafet
 - Belli bir amaçla düzenlenen eğlence
 - Din töreni niteliğinde yemek toplantısı
 - Sanat gösterisi

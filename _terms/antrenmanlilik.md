@@ -5,7 +5,7 @@ slug: antrenmanlilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► idmanlılık
+- idmanlılık
 ozellikler:
 - - isim
 ornekler:

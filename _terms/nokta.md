@@ -7,14 +7,14 @@ lisan: Arapça nuḳṭa
 anlamlar:
 - Biçimi kalemin kâğıda bir defa dokunması ile meydana gelen ben gibi ufak şekil
 - Bazı harflerin üzerine konulan ufak işaret
-- ► yer
+- yer
 - Konu, konu ile ilgili önemli bölüm
 - Nöbetçi bulunan yer
-- ► nöbetçi
-- ► aşama
+- nöbetçi
+- aşama
 - Yazıda cümlenin veya küçük harfle yapılan kısaltmaların sonunda, sıra gösteren sayılardan sonra, tarih yazarken gün, ay ve yıl bildiren rakamların arasına, sayı basamaklarını belirlemek için kullanılan noktalama işareti (.)
 - Hiçbir boyutu olmayan işaret
-- ► orta nokta
+- orta nokta
 ozellikler:
 - - isim
 - - isim

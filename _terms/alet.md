@@ -8,7 +8,7 @@ anlamlar:
 - Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne
 - Bir sanatı yapmaya, uygulamaya yarayan özel araç
 - Bir makineyi oluşturan ve işlemesine yardım eden parçalardan her biri
-- ► maşa
+- maşa
 ozellikler:
 - - isim
 - - isim

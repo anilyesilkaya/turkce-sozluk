@@ -5,7 +5,7 @@ slug: manaca
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anlamca
+- anlamca
 ozellikler:
 - - zarf
 ornekler:

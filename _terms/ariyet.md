@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿāriyet
 anlamlar:
 - Belli bir taşınır malın kullanımının geri verilmek şartıyla bedelsiz olarak bir kimseye bırakılması
-- ► ödünçleme
+- ödünçleme
 ozellikler:
 - - isim
   - hukuk

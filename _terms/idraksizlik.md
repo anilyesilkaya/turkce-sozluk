@@ -5,7 +5,7 @@ slug: idraksizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► anlayışsızlık
+- anlayışsızlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: se
 letter: S
 lisan: Farsça se
 anlamlar:
-- ► üç
+- üç
 ozellikler:
 - - isim
 ornekler:

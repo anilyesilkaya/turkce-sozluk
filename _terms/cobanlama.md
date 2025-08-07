@@ -5,7 +5,7 @@ slug: cobanlama
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► pastoral
+- pastoral
 ozellikler:
 - - sıfat
   - edebiyat

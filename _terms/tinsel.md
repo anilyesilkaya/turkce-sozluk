@@ -5,7 +5,7 @@ slug: tinsel
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ruhsal, özdeksel karşıtı
+- ruhsal, özdeksel karşıtı
 ozellikler:
 - - sıfat
   - felsefe

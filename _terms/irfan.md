@@ -7,7 +7,7 @@ lisan: Arapça ʿirfān
 anlamlar:
 - Bilme, anlama, sezme
 - Gerçeğe ulaştırıcı güçlü seziş
-- ► kültür
+- kültür
 ozellikler:
 - - isim
 - - isim

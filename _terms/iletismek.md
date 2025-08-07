@@ -5,7 +5,7 @@ slug: iletismek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► haberleşmek
+- haberleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

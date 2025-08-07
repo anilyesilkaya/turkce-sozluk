@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Zihnin hayal yaratma yetisi; muhayyile
-- ► imgelem
+- imgelem
 - Bir nesneyi, o nesne karşımızda olmaksızın tasarımlama yetisi
 ozellikler:
 - - isim

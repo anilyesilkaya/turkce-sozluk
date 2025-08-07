@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça budalā
 anlamlar:
 - Zekâca geri olan (kimse)
-- ► aptal
+- aptal
 - Bir şeye aşırı düşkün
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: magduriyet
 letter: M
 lisan: Arapça maġdūriyyet
 anlamlar:
-- ► mağdurluk
+- mağdurluk
 ozellikler:
 - - isim
 ornekler:

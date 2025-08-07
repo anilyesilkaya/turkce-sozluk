@@ -5,7 +5,7 @@ slug: salt
 letter: Ş
 lisan: Almanca Schalt
 anlamlar:
-- ► şalter
+- şalter
 ozellikler:
 - - isim
 ornekler:

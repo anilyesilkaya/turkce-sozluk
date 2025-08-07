@@ -5,7 +5,7 @@ slug: kizari
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızıllık
+- kızıllık
 ozellikler:
 - - isim
 ornekler:

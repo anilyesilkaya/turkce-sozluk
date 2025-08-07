@@ -5,7 +5,7 @@ slug: plise
 letter: P
 lisan: Fransızca plissé
 anlamlar:
-- ► pileli
+- pileli
 ozellikler:
 - - sıfat
 ornekler:

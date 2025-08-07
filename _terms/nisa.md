@@ -5,7 +5,7 @@ slug: nisa
 letter: N
 lisan: Arapça nisā
 anlamlar:
-- ► kadın
+- kadın
 ozellikler:
 - - isim
   - eskimiş

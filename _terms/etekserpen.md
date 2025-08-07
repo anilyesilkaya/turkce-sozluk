@@ -5,7 +5,7 @@ slug: etekserpen
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► pasaklı
+- pasaklı
 ozellikler:
 - - sıfat
   - mecaz

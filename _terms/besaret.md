@@ -5,7 +5,7 @@ slug: besaret
 letter: B
 lisan: Arapça beşāret
 anlamlar:
-- ► muştu
+- muştu
 ozellikler:
 - - isim
   - eskimiş

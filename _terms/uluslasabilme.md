@@ -5,7 +5,7 @@ slug: uluslasabilme
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletleşebilme
+- milletleşebilme
 ozellikler:
 - - isim
 ornekler:

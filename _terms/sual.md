@@ -5,7 +5,7 @@ slug: sual
 letter: S
 lisan: Arapça suʾāl
 anlamlar:
-- ► soru
+- soru
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: numayisci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► gösterici
+- gösterici
 ozellikler:
 - - isim
 ornekler:

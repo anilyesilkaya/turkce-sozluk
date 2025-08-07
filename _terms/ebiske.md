@@ -5,7 +5,7 @@ slug: ebiske
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► balkadın
+- balkadın
 ozellikler:
 - - isim
   - bitki bilimi

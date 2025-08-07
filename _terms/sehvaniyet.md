@@ -5,7 +5,7 @@ slug: sehvaniyet
 letter: Ş
 lisan: Arapça şehvāniyyet
 anlamlar:
-- ► erotizm
+- erotizm
 ozellikler:
 - - isim
   - eskimiş

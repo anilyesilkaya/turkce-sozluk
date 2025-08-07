@@ -5,7 +5,7 @@ slug: yahudi-baklasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► termiye
+- termiye
 ozellikler:
 - - isim
   - bitki bilimi

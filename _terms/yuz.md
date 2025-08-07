@@ -6,14 +6,14 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Başta, alın, göz, burun, ağız, yanak ve çenenin bulunduğu ön bölüm; beniz, duluk, didar, sima, çehre, surat, suret, vecih, faça, bet (I)
-- ► yüzey
+- yüzey
 - Kesici araçlarda ağız
 - Bir kumaşın dikiş sırasında dışa getirilen gösterişli bölümü
 - Bir şeyin görünen bölümünde kullanılan kumaş
 - Birinin görülegelen veya umulan hoşgörürlüğüne güvenilerek gösterilen cüret
-- ► taraf
+- taraf
 - Bir yapının dışa bakan düşey yüzeylerinin her biri
-- ► utanma
+- utanma
 ozellikler:
 - - isim
 - - isim

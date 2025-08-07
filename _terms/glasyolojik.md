@@ -5,7 +5,7 @@ slug: glasyolojik
 letter: G
 lisan: Fransızca glaciologique
 anlamlar:
-- ► buzul bilimsel
+- buzul bilimsel
 ozellikler:
 - - sıfat
 ornekler:

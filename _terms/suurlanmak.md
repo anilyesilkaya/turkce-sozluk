@@ -5,7 +5,7 @@ slug: suurlanmak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlenmek
+- bilinçlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

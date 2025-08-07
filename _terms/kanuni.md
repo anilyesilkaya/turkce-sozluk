@@ -5,7 +5,7 @@ slug: kanuni
 letter: K
 lisan: Arapça ḳānūnī
 anlamlar:
-- ► kanuncu (II)
+- kanuncu (II)
 ozellikler:
 - - isim
   - müzik

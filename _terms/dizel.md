@@ -5,7 +5,7 @@ slug: dizel
 letter: D
 lisan: (Rudolf Diesel özel adından)
 anlamlar:
-- ► dizel motoru
+- dizel motoru
 ozellikler:
 - - isim
 ornekler:

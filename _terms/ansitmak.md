@@ -5,7 +5,7 @@ slug: ansitmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anımsatmak
+- anımsatmak
 ozellikler:
 - - -i
 ornekler:

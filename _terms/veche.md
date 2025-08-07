@@ -5,7 +5,7 @@ slug: veche
 letter: V
 lisan: Arapça veche
 anlamlar:
-- ► yön
+- yön
 ozellikler:
 - - isim
   - eskimiş

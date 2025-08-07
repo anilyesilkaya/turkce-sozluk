@@ -5,7 +5,7 @@ slug: mutenasip
 letter: M
 lisan: Arapça mutenāsib
 anlamlar:
-- ► orantılı
+- orantılı
 ozellikler:
 - - sıfat
   - eskimiş

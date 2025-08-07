@@ -5,7 +5,7 @@ slug: tenevvur
 letter: T
 lisan: Arapça tenevvur
 anlamlar:
-- ► aydınlanma
+- aydınlanma
 ozellikler:
 - - isim
   - eskimiş

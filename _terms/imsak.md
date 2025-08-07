@@ -7,7 +7,7 @@ lisan: Arapça imsāk
 anlamlar:
 - Oruca başlama zamanı
 - Bir şeyden el çekerek nefsine hâkim olma
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
 - - isim

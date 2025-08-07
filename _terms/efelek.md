@@ -5,7 +5,7 @@ slug: efelek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► labada
+- labada
 ozellikler:
 - - isim
   - ağızlardan

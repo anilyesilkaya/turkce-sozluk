@@ -5,7 +5,7 @@ slug: isimlenmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adlanmak
+- adlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

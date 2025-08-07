@@ -6,7 +6,7 @@ letter: R
 lisan: Fransızca résonance
 anlamlar:
 - Düzgün itmelerin etkisiyle bir salınım genliğinin artışı
-- ► titreşim
+- titreşim
 ozellikler:
 - - isim
   - fizik

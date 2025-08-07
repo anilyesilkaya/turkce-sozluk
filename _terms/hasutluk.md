@@ -5,7 +5,7 @@ slug: hasutluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kıskançlık
+- kıskançlık
 ozellikler:
 - - isim
 ornekler:

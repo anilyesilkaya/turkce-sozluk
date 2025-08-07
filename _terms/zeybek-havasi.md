@@ -5,7 +5,7 @@ slug: zeybek-havasi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zeybek
+- zeybek
 - Kısa ve net konuşma
 ozellikler:
 - - isim

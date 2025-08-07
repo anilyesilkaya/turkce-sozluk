@@ -5,7 +5,7 @@ slug: didona
 letter: D
 lisan: Fransızca dis donc
 anlamlar:
-- ► didon (I)
+- didon (I)
 ozellikler:
 - - isim
 ornekler:

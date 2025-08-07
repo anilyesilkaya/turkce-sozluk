@@ -5,7 +5,7 @@ slug: tafsilatli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ayrıntılı
+- ayrıntılı
 ozellikler:
 - - sıfat
 ornekler:

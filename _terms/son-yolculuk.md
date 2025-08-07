@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Yapılan yolculukların sonuncusu
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
 - - isim

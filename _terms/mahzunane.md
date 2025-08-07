@@ -5,7 +5,7 @@ slug: mahzunane
 letter: M
 lisan: Arapça maḥzūn + Farsça -āne
 anlamlar:
-- ► mahzunca
+- mahzunca
 ozellikler:
 - - zarf
   - eskimiş

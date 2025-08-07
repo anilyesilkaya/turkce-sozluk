@@ -5,7 +5,7 @@ slug: tay-tay-arabasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yürüteç
+- yürüteç
 ozellikler:
 - - isim
 ornekler:

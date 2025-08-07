@@ -6,8 +6,8 @@ letter: T
 lisan: Almanca Torpedo
 anlamlar:
 - Otomobillerde, içinde sürücü için gerekli şeylerin bulunduğu kapaklı küçük bölme; torpido gözü
-- ► torpido bot
-- ► torpil
+- torpido bot
+- torpil
 ozellikler:
 - - isim
 - - isim

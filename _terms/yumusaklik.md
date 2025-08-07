@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumuşak olma durumu; mülayemet
-- ► tonluluk
+- tonluluk
 ozellikler:
 - - isim
 - - isim

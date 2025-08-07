@@ -6,9 +6,9 @@ letter: F
 lisan: Arapça fenn
 anlamlar:
 - Fizik, kimya, matematik ve biyolojiye verilen ortak ad
-- ► teknik
+- teknik
 - Bilim, bilgi
-- ► hile
+- hile
 ozellikler:
 - - isim
 - - isim

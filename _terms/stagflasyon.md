@@ -5,7 +5,7 @@ slug: stagflasyon
 letter: S
 lisan: Fransızca stagflation
 anlamlar:
-- ► durgun şişkinlik
+- durgun şişkinlik
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: etcil
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► etobur
+- etobur
 ozellikler:
 - - sıfat
   - hayvan bilimi

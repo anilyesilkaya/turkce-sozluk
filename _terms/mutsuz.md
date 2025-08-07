@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Mutlu olmayan; bedbaht, saadetsiz
-- ► kara bahtlı
+- kara bahtlı
 ozellikler:
 - - sıfat
 - - sıfat

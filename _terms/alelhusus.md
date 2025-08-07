@@ -5,7 +5,7 @@ slug: alelhusus
 letter: A
 lisan: Arapça ʿalā'l-ḫuṣūṣ
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
   - eskimiş

@@ -5,7 +5,7 @@ slug: uyaklanis
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyeleniş
+- kafiyeleniş
 ozellikler:
 - - isim
   - edebiyat

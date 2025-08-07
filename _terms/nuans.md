@@ -5,8 +5,8 @@ slug: nuans
 letter: N
 lisan: Fransızca nuance
 anlamlar:
-- ► ayırtı
-- ► ince ayrım
+- ayırtı
+- ince ayrım
 ozellikler:
 - - isim
 - - isim

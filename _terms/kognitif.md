@@ -5,7 +5,7 @@ slug: kognitif
 letter: K
 lisan: Fransızca cognitif
 anlamlar:
-- ► bilişsel
+- bilişsel
 ozellikler:
 - - sıfat
 ornekler:

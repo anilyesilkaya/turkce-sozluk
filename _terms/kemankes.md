@@ -5,7 +5,7 @@ slug: kemankes
 letter: K
 lisan: Farsça kemānkeş
 anlamlar:
-- ► okçu
+- okçu
 ozellikler:
 - - isim
   - eskimiş

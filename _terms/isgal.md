@@ -8,7 +8,7 @@ anlamlar:
 - Bir yeri ele geçirme
 - Bir yeri geçici bir süre için ele geçirme
 - Bir kimseyi işten alıkoyma, engelleme, oyalama
-- ► uğraştırma
+- uğraştırma
 ozellikler:
 - - isim
 - - isim

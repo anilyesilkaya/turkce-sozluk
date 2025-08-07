@@ -5,7 +5,7 @@ slug: saadetli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mutlu
+- mutlu
 - Osmanlı döneminde korgeneral ile albay arasındaki rütbeli subaylara ve bu derecedeki vezirlere verilen ünvan
 ozellikler:
 - - sıfat

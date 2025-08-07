@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bulunmayan, mevcut olmayan (nesne, kimse vb.); namevcut, nanay var karşıtı
 - Olmayan, bulunmayan şey
-- ► yasak
+- yasak
 - '"Hayır" anlamında kullanılan bir söz'
 - Birbirine karşıt iki cümleden, ikincisinin başına getirilen bir söz
 - Birinin söylediği sözlerden genelde kuşkulanıldığında veya sözler hafifsendiğinde kullanılan bir söz

@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Hava hafif sisli bir durum almak
-- ► buğulanmak
+- buğulanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

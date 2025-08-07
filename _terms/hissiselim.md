@@ -5,7 +5,7 @@ slug: hissiselim
 letter: H
 lisan: Arapça ḥiss + selīm
 anlamlar:
-- ► sağduyu
+- sağduyu
 ozellikler:
 - - isim
   - eskimiş

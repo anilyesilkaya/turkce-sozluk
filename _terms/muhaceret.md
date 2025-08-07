@@ -5,7 +5,7 @@ slug: muhaceret
 letter: M
 lisan: Arapça muhāceret
 anlamlar:
-- ► göç
+- göç
 - Yaşamakta olduğu ülkeden yabancı bir ülkeye uzun veya kısa süreli yerleşmek için gitme
 ozellikler:
 - - isim

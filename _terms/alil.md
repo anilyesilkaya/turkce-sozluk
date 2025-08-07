@@ -5,8 +5,8 @@ slug: alil
 letter: A
 lisan: Arapça ʿalīl
 anlamlar:
-- ► hasta
-- ► sakat
+- hasta
+- sakat
 ozellikler:
 - - sıfat
   - eskimiş

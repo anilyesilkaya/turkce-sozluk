@@ -5,7 +5,7 @@ slug: istifade
 letter: I
 lisan: Arapça istifāde
 anlamlar:
-- ► yararlanma
+- yararlanma
 ozellikler:
 - - isim
 ornekler:

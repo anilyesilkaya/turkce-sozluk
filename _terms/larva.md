@@ -5,7 +5,7 @@ slug: larva
 letter: L
 lisan: Latince
 anlamlar:
-- ► kurtçuk
+- kurtçuk
 ozellikler:
 - - isim
   - hayvan bilimi

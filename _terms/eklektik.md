@@ -5,7 +5,7 @@ slug: eklektik
 letter: E
 lisan: Fransızca éclectique
 anlamlar:
-- ► seçmeci
+- seçmeci
 ozellikler:
 - - sıfat
   - felsefe

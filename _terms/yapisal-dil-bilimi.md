@@ -5,7 +5,7 @@ slug: yapisal-dil-bilimi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yapısalcılık
+- yapısalcılık
 ozellikler:
 - - isim
   - dil bilimi

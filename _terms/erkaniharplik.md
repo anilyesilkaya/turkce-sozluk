@@ -5,7 +5,7 @@ slug: erkaniharplik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kurmaylık
+- kurmaylık
 ozellikler:
 - - isim
 ornekler:

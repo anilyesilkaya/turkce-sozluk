@@ -5,7 +5,7 @@ slug: antrenman
 letter: A
 lisan: Fransızca entraïnement
 anlamlar:
-- ► idman
+- idman
 - Herhangi bir konuda yapılan hazırlık
 ozellikler:
 - - isim

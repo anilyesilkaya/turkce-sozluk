@@ -5,7 +5,7 @@ slug: dudu
 letter: D
 lisan: Farsça ṭūṭī
 anlamlar:
-- ► papağan
+- papağan
 - Kadınlara verilen bir ünvan
 - Yaşlı Ermeni kadını
 ozellikler:

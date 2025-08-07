@@ -5,7 +5,7 @@ slug: hudutsuzluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınırsızlık
+- sınırsızlık
 ozellikler:
 - - isim
 ornekler:

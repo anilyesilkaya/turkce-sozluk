@@ -5,8 +5,8 @@ slug: kadem
 letter: K
 lisan: Arapça ḳadem
 anlamlar:
-- ► ayak
-- ► uğur (I)
+- ayak
+- uğur (I)
 ozellikler:
 - - isim
   - eskimiş

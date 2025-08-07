@@ -5,7 +5,7 @@ slug: zamane-adami
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► günün adamı
+- günün adamı
 ozellikler:
 - - isim
   - mecaz

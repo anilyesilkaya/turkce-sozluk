@@ -5,7 +5,7 @@ slug: vucut-dili
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► beden dili
+- beden dili
 ozellikler:
 - - isim
 ornekler:

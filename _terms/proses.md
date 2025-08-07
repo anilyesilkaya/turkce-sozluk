@@ -5,7 +5,7 @@ slug: proses
 letter: P
 lisan: İngilizce process
 anlamlar:
-- ► süreç
+- süreç
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pasta (I) yapan veya satan kimse
-- ► pastane
+- pastane
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kalma-durumu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bulunma durumu
+- bulunma durumu
 ozellikler:
 - - isim
   - dil bilgisi

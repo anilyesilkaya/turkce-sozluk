@@ -6,7 +6,7 @@ letter: L
 lisan: Türkçe
 anlamlar:
 - Liderin görevi
-- ► önderlik
+- önderlik
 ozellikler:
 - - isim
 - - isim

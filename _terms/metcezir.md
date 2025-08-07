@@ -5,7 +5,7 @@ slug: metcezir
 letter: M
 lisan: Arapça medd + ceẕr
 anlamlar:
-- ► gelgit
+- gelgit
 ozellikler:
 - - isim
   - coğrafya

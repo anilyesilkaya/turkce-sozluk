@@ -5,7 +5,7 @@ slug: varlik-nedeni
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► varlık sebebi
+- varlık sebebi
 ozellikler:
 - - isim
   - felsefe

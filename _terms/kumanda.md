@@ -5,7 +5,7 @@ slug: kumanda
 letter: K
 lisan: Fransızca commandé
 anlamlar:
-- ► komuta
+- komuta
 - Elektronik aygıtları belli bir uzaklıktan yönetmeye yarayan kablosuz alet
 ozellikler:
 - - isim

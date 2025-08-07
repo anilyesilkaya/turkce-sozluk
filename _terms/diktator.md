@@ -7,7 +7,7 @@ lisan: Fransızca dictateur
 anlamlar:
 - Bütün siyasi yetkileri kendinde toplamış bulunan kimse
 - Bütün siyasi yetkileri kendinde toplamış olan
-- ► zorba
+- zorba
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: termoelektrik-pil
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► termoelektrik çifti
+- termoelektrik çifti
 ozellikler:
 - - isim
   - fizik

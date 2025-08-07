@@ -5,7 +5,7 @@ slug: oz-disi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► dışınlı
+- dışınlı
 ozellikler:
 - - sıfat
   - felsefe

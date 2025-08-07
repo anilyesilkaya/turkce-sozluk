@@ -5,7 +5,7 @@ slug: calkatma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalkalatma
+- çalkalatma
 ozellikler:
 - - isim
 ornekler:

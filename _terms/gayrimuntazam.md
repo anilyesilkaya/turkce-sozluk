@@ -5,7 +5,7 @@ slug: gayrimuntazam
 letter: G
 lisan: Arapça ġayr + muntaẓam
 anlamlar:
-- ► düzensiz
+- düzensiz
 ozellikler:
 - - sıfat
   - eskimiş

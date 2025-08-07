@@ -5,7 +5,7 @@ slug: heykeltiraslik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► heykelcilik
+- heykelcilik
 ozellikler:
 - - isim
 ornekler:

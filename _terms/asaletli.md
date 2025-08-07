@@ -5,7 +5,7 @@ slug: asaletli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soylu
+- soylu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: otumsuz
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tonsuz
+- tonsuz
 ozellikler:
 - - sıfat
   - dil bilgisi

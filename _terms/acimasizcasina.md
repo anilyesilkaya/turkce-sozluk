@@ -5,7 +5,7 @@ slug: acimasizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► acımasızca
+- acımasızca
 ozellikler:
 - - zarf
 ornekler:

@@ -7,8 +7,8 @@ lisan: Arapça ḳişr + Farsça į
 anlamlar:
 - Kabukla ilgili
 - Kabuklu olan
-- ► kabuksu
-- ► yüzeysel
+- kabuksu
+- yüzeysel
 ozellikler:
 - - sıfat
 - - sıfat

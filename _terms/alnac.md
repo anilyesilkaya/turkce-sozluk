@@ -5,7 +5,7 @@ slug: alnac
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cephe
+- cephe
 ozellikler:
 - - isim
   - ağızlardan

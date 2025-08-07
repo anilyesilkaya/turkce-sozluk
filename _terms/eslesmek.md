@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Birbiriyle eş olmak, eş tutmak
-- ► çiftleşmek
+- çiftleşmek
 ozellikler:
 - - nesnesiz
   - -le

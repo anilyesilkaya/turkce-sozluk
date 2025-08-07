@@ -5,7 +5,7 @@ slug: yangincilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► itfaiyecilik
+- itfaiyecilik
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Toprak bütünlüğüne bağlı olarak siyasal bakımdan örgütlenmiş millet veya milletler topluluğunun oluşturduğu tüzel varlık; ülke
 - Bu tüzel varlığın yönetim organları
 - Yüksek makam
-- ► mutluluk
+- mutluluk
 - Kişinin bahtı
 ozellikler:
 - - isim

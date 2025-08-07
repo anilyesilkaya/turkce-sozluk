@@ -5,7 +5,7 @@ slug: ikinci-sinif
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ikinci mevki
+- ikinci mevki
 - Derecelendirmede ikinci sırada olan
 - Nitelik olarak birinci sınıftan daha düşük seviyede olan
 ozellikler:

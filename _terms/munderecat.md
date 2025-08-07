@@ -5,7 +5,7 @@ slug: munderecat
 letter: M
 lisan: Arapça mundericāt
 anlamlar:
-- ► içindekiler
+- içindekiler
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: fiyaka
 letter: F
 lisan: İtalyanca fiaccola
 anlamlar:
-- ► gösteriş
+- gösteriş
 ozellikler:
 - - isim
 ornekler:

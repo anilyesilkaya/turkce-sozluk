@@ -5,7 +5,7 @@ slug: lider
 letter: L
 lisan: Fransızca leader
 anlamlar:
-- ► önder
+- önder
 - Bir partinin veya bir kuruluşun en üst düzeyde yönetimiyle görevli kimse; reis
 - Bir yarışmada başta bulunan takım veya yarışmacı
 ozellikler:

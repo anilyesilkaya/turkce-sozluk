@@ -5,7 +5,7 @@ slug: mahirane
 letter: M
 lisan: Arapça māhir + Farsça -āne
 anlamlar:
-- ► becerikli
+- becerikli
 ozellikler:
 - - sıfat
   - eskimiş

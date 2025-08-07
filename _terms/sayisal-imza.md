@@ -5,7 +5,7 @@ slug: sayisal-imza
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► elektronik imza
+- elektronik imza
 ozellikler:
 - - isim
 ornekler:

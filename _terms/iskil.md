@@ -5,7 +5,7 @@ slug: iskil
 letter: I
 lisan: Arapça işkāl'den
 anlamlar:
-- ► kuşku
+- kuşku
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: poligon
 letter: P
 lisan: Fransızca polygone
 anlamlar:
-- ► atış poligonu
-- ► çokgen
+- atış poligonu
+- çokgen
 ozellikler:
 - - isim
 - - isim

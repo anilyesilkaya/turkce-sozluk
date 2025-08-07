@@ -6,7 +6,7 @@ letter: M
 lisan: Farsça mey + ḫoş
 anlamlar:
 - Tadı az şekerli olmakla birlikte daha çok ekşi olan
-- ► limoni
+- limoni
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,9 +5,9 @@ slug: muphem
 letter: M
 lisan: Arapça mubhem
 anlamlar:
-- ► belirsiz
+- belirsiz
 - Açık ve belirgin olmaksızın
-- ► örtülü
+- örtülü
 ozellikler:
 - - sıfat
 - - sıfat

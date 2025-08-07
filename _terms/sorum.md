@@ -5,7 +5,7 @@ slug: sorum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sorumluluk
+- sorumluluk
 ozellikler:
 - - isim
 ornekler:

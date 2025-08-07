@@ -5,7 +5,7 @@ slug: ehlivukuf
 letter: E
 lisan: Arapça ehl + vuḳūf
 anlamlar:
-- ► bilirkişi
+- bilirkişi
 ozellikler:
 - - isim
   - eskimiş

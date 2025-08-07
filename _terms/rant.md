@@ -5,7 +5,7 @@ slug: rant
 letter: R
 lisan: Fransızca rente
 anlamlar:
-- ► getirim
+- getirim
 ozellikler:
 - - isim
   - ekonomi

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Biraz şişman
-- ► bol (I)
+- bol (I)
 ozellikler:
 - - sıfat
 - - sıfat

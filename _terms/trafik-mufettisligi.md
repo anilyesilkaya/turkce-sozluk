@@ -5,7 +5,7 @@ slug: trafik-mufettisligi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fahri trafik müfettişliği
+- fahri trafik müfettişliği
 ozellikler:
 - - isim
 ornekler:

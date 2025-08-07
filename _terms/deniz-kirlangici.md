@@ -5,7 +5,7 @@ slug: deniz-kirlangici
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► balıkçın
+- balıkçın
 ozellikler:
 - - isim
   - hayvan bilimi

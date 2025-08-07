@@ -5,7 +5,7 @@ slug: uzgu
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► eziyet
+- eziyet
 ozellikler:
 - - isim
 ornekler:

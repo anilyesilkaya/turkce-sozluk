@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemek işine konu olmak
-- ► aşınmak
+- aşınmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

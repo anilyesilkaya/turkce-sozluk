@@ -5,7 +5,7 @@ slug: bakarak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► göre
+- göre
 ozellikler:
 - - edat
 ornekler:

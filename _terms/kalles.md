@@ -7,7 +7,7 @@ lisan: Arapça ḳallāş
 anlamlar:
 - Sözünde durmayıp bir işin yüzüstü kalmasına yol açan
 - Birine gizlice kötülük eden
-- ► kahpe
+- kahpe
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: olurcesine
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölesiye
+- ölesiye
 ozellikler:
 - - zarf
 ornekler:

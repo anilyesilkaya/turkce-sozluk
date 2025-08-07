@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Deri ve sümük doku üzerinde görülen küçük ve sivri çıkıntı
-- ► memecik zeytini
+- memecik zeytini
 ozellikler:
 - - isim
   - anatomi

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ayırma işine konu olmak
 - Bir yerden, bir kimseden, bir şeyden uzaklaşmak
-- ► boşanmak
+- boşanmak
 ozellikler:
 - - -e
 - - -e

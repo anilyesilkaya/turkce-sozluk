@@ -5,7 +5,7 @@ slug: oftalmoloji
 letter: O
 lisan: Fransızca ophtalmologie
 anlamlar:
-- ► göz bilimi
+- göz bilimi
 ozellikler:
 - - isim
   - tıp

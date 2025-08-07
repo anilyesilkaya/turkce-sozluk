@@ -5,7 +5,7 @@ slug: karafaki
 letter: K
 lisan: Yunanca
 anlamlar:
-- ► karafa
+- karafa
 ozellikler:
 - - isim
 ornekler:

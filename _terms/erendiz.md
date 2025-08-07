@@ -5,7 +5,7 @@ slug: erendiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Jüpiter
+- Jüpiter
 ozellikler:
 - - isim
   - gök bilimi

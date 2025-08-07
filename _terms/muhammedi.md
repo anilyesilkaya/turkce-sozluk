@@ -5,7 +5,7 @@ slug: muhammedi
 letter: M
 lisan: Arapça muḥammedī
 anlamlar:
-- ► Müslüman
+- Müslüman
 - Hz. Muhammed’e ait, Hz. Muhammed’le ilgili
 ozellikler:
 - - isim

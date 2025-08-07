@@ -5,7 +5,7 @@ slug: kaba-yel
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lodos
+- lodos
 ozellikler:
 - - isim
   - ağızlardan

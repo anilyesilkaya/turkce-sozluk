@@ -8,7 +8,7 @@ anlamlar:
 - Kilitleme işi yapılmak
 - Çalışmaz hâle gelmek
 - Fiziksel, ruhsal vb. nedenlerle hareket edemez, kıpırdayamaz duruma gelmek
-- ► odaklanmak
+- odaklanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

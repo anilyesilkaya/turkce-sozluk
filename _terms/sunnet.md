@@ -7,7 +7,7 @@ lisan: Arapça sunnet
 anlamlar:
 - Hz. Muhammed'in Müslümanlarca uyulması gerekli sayılan davranışları, onayları ve herhangi bir konuda söylemiş olduğu sözleri
 - Erkek çocukta, erkeklik organının ucundaki derinin çepeçevre kesilmesi
-- ► sünnet düğünü
+- sünnet düğünü
 ozellikler:
 - - isim
   - din bilimi

@@ -5,8 +5,8 @@ slug: kiygi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gadir
-- ► zulüm
+- gadir
+- zulüm
 ozellikler:
 - - isim
 - - isim

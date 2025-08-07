@@ -8,7 +8,7 @@ anlamlar:
 - Sert bir durum almak; katılaşmak
 - Gücü artmak, zorlu bir durum almak
 - Erkeklik organı, içindeki damarlara kan dolması ile birlikte sert ve dik duruma gelmek
-- ► tonsuzlaşmak
+- tonsuzlaşmak
 - Bir kimsenin davranış veya sözleri sert, kırıcı olmak; sertelmek
 ozellikler:
 - - nesnesiz

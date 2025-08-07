@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Baltası olan
-- ► baltacı
+- baltacı
 ozellikler:
 - - sıfat
 - - sıfat

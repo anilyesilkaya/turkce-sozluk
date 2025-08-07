@@ -5,7 +5,7 @@ slug: ignedanlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iğnelik
+- iğnelik
 ozellikler:
 - - isim
 ornekler:

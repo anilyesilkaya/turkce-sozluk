@@ -8,7 +8,7 @@ anlamlar:
 - Görünüşe bakarak yanlış bir yargıya varmak
 - Bir hileye, bir yalana kanmak
 - Hayal kırıklığına uğramak
-- ► avunmak
+- avunmak
 - Havanın birden ısınmasıyla zamansız açan çiçek soğuk sebebiyle donmak
 ozellikler:
 - - -e

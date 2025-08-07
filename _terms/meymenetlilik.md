@@ -5,7 +5,7 @@ slug: meymenetlilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uğurluluk
+- uğurluluk
 ozellikler:
 - - isim
 ornekler:

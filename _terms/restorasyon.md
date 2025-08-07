@@ -5,7 +5,7 @@ slug: restorasyon
 letter: R
 lisan: Fransızca restauration
 anlamlar:
-- ► yenileme
+- yenileme
 ozellikler:
 - - isim
   - mimarlık

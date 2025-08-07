@@ -5,7 +5,7 @@ slug: tahsisatimesture
 letter: T
 lisan: Arapça taḫṣīṣāt + mestūre
 anlamlar:
-- ► örtülü ödenek
+- örtülü ödenek
 ozellikler:
 - - isim
   - eskimiş

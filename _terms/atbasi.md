@@ -5,7 +5,7 @@ slug: atbasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► başa baş
+- başa baş
 ozellikler:
 - - zarf
 ornekler:

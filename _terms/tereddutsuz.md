@@ -5,7 +5,7 @@ slug: tereddutsuz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► duraksamasız
+- duraksamasız
 - Tereddüde yol açmayan
 - Kararlı olarak
 - Duraksamadan

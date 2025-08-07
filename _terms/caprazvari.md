@@ -5,7 +5,7 @@ slug: caprazvari
 letter: Ç
 lisan: Farsça çep + rāst + -vārī
 anlamlar:
-- ► çaprazlama
+- çaprazlama
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: yasama-yetkisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yasama gücü
+- yasama gücü
 ozellikler:
 - - isim
 ornekler:

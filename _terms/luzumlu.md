@@ -5,7 +5,7 @@ slug: luzumlu
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gerekli
+- gerekli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: anglikanizm
 letter: A
 lisan: Fransızca anglicanisme
 anlamlar:
-- ► Anglikanlık
+- Anglikanlık
 ozellikler:
 - - isim
   - din bilimi

@@ -6,7 +6,7 @@ letter: B
 lisan: Fransızca banal
 anlamlar:
 - Herkesçe kullanılan, anlaşılan
-- ► sıradan
+- sıradan
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: dilinim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dilinme
+- dilinme
 ozellikler:
 - - isim
   - jeoloji

@@ -5,7 +5,7 @@ slug: direngen
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► inatçı
+- inatçı
 ozellikler:
 - - sıfat
 ornekler:

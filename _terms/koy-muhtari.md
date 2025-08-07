@@ -5,7 +5,7 @@ slug: koy-muhtari
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► muhtar
+- muhtar
 ozellikler:
 - - isim
 ornekler:

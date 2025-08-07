@@ -5,7 +5,7 @@ slug: kezzap
 letter: K
 lisan: Farsça tīz + āb
 anlamlar:
-- ► nitrik asit
+- nitrik asit
 ozellikler:
 - - isim
   - ağızlardan

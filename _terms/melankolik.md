@@ -5,7 +5,7 @@ slug: melankolik
 letter: M
 lisan: Fransızca mélancolique
 anlamlar:
-- ► kara sevdalı
+- kara sevdalı
 - Hüzün veren, hüzün belirtisi olan
 ozellikler:
 - - sıfat

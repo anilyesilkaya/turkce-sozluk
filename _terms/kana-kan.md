@@ -5,7 +5,7 @@ slug: kana-kan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kısasa kısas
+- kısasa kısas
 ozellikler:
 - - isim
 ornekler:

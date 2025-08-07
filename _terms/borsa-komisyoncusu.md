@@ -5,7 +5,7 @@ slug: borsa-komisyoncusu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► borsa aracısı
+- borsa aracısı
 ozellikler:
 - - isim
   - ekonomi

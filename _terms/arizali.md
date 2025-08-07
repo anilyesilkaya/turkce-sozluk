@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Arızası olan, aksayan, işlemeyen, bozulmuş (araç vb.)
-- ► engebeli
+- engebeli
 - Sorunlu olan, sorun çıkaran, uyumsuzluk gösteren
 - Ruhsal bakımdan sıkıntılı, kurallara uymayıp toplumsal düzenin dışına çıkarak çevresini rahatsız eden (kimse)
 ozellikler:

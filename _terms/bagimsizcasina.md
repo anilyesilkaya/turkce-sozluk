@@ -5,7 +5,7 @@ slug: bagimsizcasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağımsızca
+- bağımsızca
 ozellikler:
 - - zarf
 ornekler:

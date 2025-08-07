@@ -5,7 +5,7 @@ slug: karamsarlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kötümserlik
+- kötümserlik
 ozellikler:
 - - isim
   - felsefe

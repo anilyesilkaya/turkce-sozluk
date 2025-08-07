@@ -5,7 +5,7 @@ slug: kismik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► cimri
+- cimri
 ozellikler:
 - - sıfat
   - ağızlardan

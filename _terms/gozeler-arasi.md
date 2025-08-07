@@ -5,7 +5,7 @@ slug: gozeler-arasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hücreler arası
+- hücreler arası
 ozellikler:
 - - isim
   - anatomi

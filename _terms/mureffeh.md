@@ -5,7 +5,7 @@ slug: mureffeh
 letter: M
 lisan: Arapça mureffeh
 anlamlar:
-- ► gönençli
+- gönençli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: evermek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evlendirmek
+- evlendirmek
 ozellikler:
 - - -i
   - ağızlardan

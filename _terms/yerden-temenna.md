@@ -5,7 +5,7 @@ slug: yerden-temenna
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yerden selam
+- yerden selam
 ozellikler:
 - - isim
 ornekler:

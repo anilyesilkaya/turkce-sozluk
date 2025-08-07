@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Karma işi yapılmak; karışmak
-- ► çiftleşmek
+- çiftleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

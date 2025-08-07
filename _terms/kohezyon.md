@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca cohésion
 anlamlar:
 - Moleküller arasındaki çekim kuvveti
-- ► yakınlık derecesi
+- yakınlık derecesi
 ozellikler:
 - - isim
   - fizik

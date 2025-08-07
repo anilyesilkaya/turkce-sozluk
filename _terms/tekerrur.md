@@ -5,7 +5,7 @@ slug: tekerrur
 letter: T
 lisan: Arapça tekerrur
 anlamlar:
-- ► tekrarlanma
+- tekrarlanma
 ozellikler:
 - - isim
 ornekler:

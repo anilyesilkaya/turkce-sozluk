@@ -8,9 +8,9 @@ anlamlar:
 - Ölçülmemiş, ölçüsü alınmamış olan
 - Belirli bir ölçüde olmayan; endazesiz
 - Tutum ve davranışları uyumsuz, dengeli olmayan; muvazenesiz
-- ► yerli yersiz
-- ► pek çok
-- ► hesapsız
+- yerli yersiz
+- pek çok
+- hesapsız
 - Ölçüsü olmayan; vezinsiz
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: salhane
 letter: S
 lisan: Arapça salḫ + Farsça ḫāne
 anlamlar:
-- ► kesimevi
+- kesimevi
 ozellikler:
 - - isim
   - eskimiş

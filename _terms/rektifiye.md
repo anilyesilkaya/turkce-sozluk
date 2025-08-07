@@ -5,7 +5,7 @@ slug: rektifiye
 letter: R
 lisan: Fransızca rectifier
 anlamlar:
-- ► motor yenileme
+- motor yenileme
 ozellikler:
 - - isim
 ornekler:

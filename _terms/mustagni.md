@@ -5,7 +5,7 @@ slug: mustagni
 letter: M
 lisan: Arapça mustaġnī
 anlamlar:
-- ► doygun
+- doygun
 - Nazlı davranan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: oz-isi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ısınma ısısı
+- ısınma ısısı
 ozellikler:
 - - isim
   - fizik

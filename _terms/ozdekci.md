@@ -5,7 +5,7 @@ slug: ozdekci
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► maddeci
+- maddeci
 ozellikler:
 - - sıfat
   - felsefe

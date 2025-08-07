@@ -5,7 +5,7 @@ slug: murettep
 letter: M
 lisan: Arapça muretteb
 anlamlar:
-- ► dizili
+- dizili
 - Gizli bir amaçla düzenlenmiş, yapılmış (iş)
 - Sonradan düzenlenmiş, derlenmiş
 ozellikler:

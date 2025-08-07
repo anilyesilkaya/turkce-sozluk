@@ -5,7 +5,7 @@ slug: vandalizm
 letter: V
 lisan: Fransızca vandalisme
 anlamlar:
-- ► Vandallık
+- Vandallık
 ozellikler:
 - - isim
 ornekler:

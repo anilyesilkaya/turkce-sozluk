@@ -5,7 +5,7 @@ slug: yagilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► düşmanlık
+- düşmanlık
 ozellikler:
 - - isim
 ornekler:

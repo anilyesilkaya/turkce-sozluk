@@ -5,7 +5,7 @@ slug: aktoresel
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ahlaki
+- ahlaki
 ozellikler:
 - - sıfat
 ornekler:

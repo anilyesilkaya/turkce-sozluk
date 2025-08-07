@@ -5,7 +5,7 @@ slug: sihhat
 letter: S
 lisan: Arapça ṣiḥḥat
 anlamlar:
-- ► sağlık
+- sağlık
 ozellikler:
 - - isim
 ornekler:

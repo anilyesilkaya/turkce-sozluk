@@ -5,7 +5,7 @@ slug: fermantasyon
 letter: F
 lisan: Fransızca fermentation
 anlamlar:
-- ► mayalanma
+- mayalanma
 ozellikler:
 - - isim
   - kimya

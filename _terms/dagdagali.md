@@ -5,7 +5,7 @@ slug: dagdagali
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gürültülü patırtılı
+- gürültülü patırtılı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ulusseverlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletseverlik
+- milletseverlik
 ozellikler:
 - - isim
 ornekler:

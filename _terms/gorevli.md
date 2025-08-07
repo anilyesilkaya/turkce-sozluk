@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Görevi olan; vazifeli, işyar
-- ► memur
+- memur
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: asya-koyunu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bozkır koyunu
+- bozkır koyunu
 ozellikler:
 - - isim
   - hayvan bilimi

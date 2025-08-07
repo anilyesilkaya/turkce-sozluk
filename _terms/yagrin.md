@@ -5,7 +5,7 @@ slug: yagrin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kürek kemiği
+- kürek kemiği
 ozellikler:
 - - isim
   - ağızlardan

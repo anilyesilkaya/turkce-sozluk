@@ -8,7 +8,7 @@ anlamlar:
 - Kesme işini yapan kimse
 - Kasaplık hayvanları kesen kimse
 - Kesme işinde kullanılan araç
-- ► stoper
+- stoper
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: done
 letter: D
 lisan: Fransızca donnée
 anlamlar:
-- ► veri
+- veri
 ozellikler:
 - - isim
 ornekler:

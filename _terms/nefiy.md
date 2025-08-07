@@ -6,9 +6,9 @@ letter: N
 lisan: Arapça nefy
 anlamlar:
 - Sürme, sürgüne gönderme; sürgün
-- ► olumsuzluk
+- olumsuzluk
 - Olumsuz kılma
-- ► yadsıma
+- yadsıma
 ozellikler:
 - - isim
   - eskimiş

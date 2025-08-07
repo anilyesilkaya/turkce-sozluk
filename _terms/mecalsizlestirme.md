@@ -5,7 +5,7 @@ slug: mecalsizlestirme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► takatsizleştirme
+- takatsizleştirme
 ozellikler:
 - - isim
 ornekler:

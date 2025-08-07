@@ -5,7 +5,7 @@ slug: akil-disi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yirmilik diş
+- yirmilik diş
 ozellikler:
 - - isim
 ornekler:

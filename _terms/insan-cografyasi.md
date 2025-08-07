@@ -5,7 +5,7 @@ slug: insan-cografyasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► beşerî coğrafya
+- beşerî coğrafya
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: yalin-kelime
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kök kelime
+- kök kelime
 ozellikler:
 - - isim
   - dil bilgisi

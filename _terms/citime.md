@@ -5,7 +5,7 @@ slug: citime
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çitme
+- çitme
 ozellikler:
 - - isim
 ornekler:

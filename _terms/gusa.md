@@ -5,7 +5,7 @@ slug: gusa
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► guatr
+- guatr
 ozellikler:
 - - isim
   - eskimiş

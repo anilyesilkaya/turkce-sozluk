@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vezne
 anlamlar:
 - Banka vb. kurum ve kuruluşlarda para alınıp verilen yer
-- ► terazi
+- terazi
 ozellikler:
 - - isim
 - - isim

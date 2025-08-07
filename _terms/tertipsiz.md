@@ -5,7 +5,7 @@ slug: tertipsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► düzensiz
+- düzensiz
 - Savruk, dağınık, intizamsız (kimse)
 - Düzensiz bir biçimde
 ozellikler:

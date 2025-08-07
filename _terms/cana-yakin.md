@@ -5,7 +5,7 @@ slug: cana-yakin
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► sıcakkanlı
+- sıcakkanlı
 ozellikler:
 - - sıfat
   - mecaz

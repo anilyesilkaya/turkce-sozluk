@@ -5,7 +5,7 @@ slug: ozanca
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şairane
+- şairane
 ozellikler:
 - - sıfat
 ornekler:

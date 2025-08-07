@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Postanelerde ücret karşılığı kiralanan, postaların adres olarak üzerindeki numaraya gönderildiği kutu
 - Apartman, ev, büro vb. yerlere gelen mektup ve evrakın içerisine konulduğu kutu
-- ► elektronik posta kutusu
+- elektronik posta kutusu
 ozellikler:
 - - isim
 - - isim

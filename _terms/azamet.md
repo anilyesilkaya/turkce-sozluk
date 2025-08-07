@@ -5,10 +5,10 @@ slug: azamet
 letter: A
 lisan: Arapça ʿaẓamet
 anlamlar:
-- ► ululuk
-- ► gurur
-- ► görkem
-- ► kurum (III)
+- ululuk
+- gurur
+- görkem
+- kurum (III)
 ozellikler:
 - - isim
 - - isim

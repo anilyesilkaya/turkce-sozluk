@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istis̱mār
 anlamlar:
 - Birinin iyi niyetini kötüye kullanma
-- ► sömürme
+- sömürme
 ozellikler:
 - - isim
 - - isim

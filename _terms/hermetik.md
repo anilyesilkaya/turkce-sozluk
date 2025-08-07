@@ -5,7 +5,7 @@ slug: hermetik
 letter: H
 lisan: Fransızca hermetique
 anlamlar:
-- ► yalıtımlı
+- yalıtımlı
 ozellikler:
 - - sıfat
 ornekler:

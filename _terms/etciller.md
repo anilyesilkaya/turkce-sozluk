@@ -5,7 +5,7 @@ slug: etciller
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► etoburlar
+- etoburlar
 ozellikler:
 - - isim
   - hayvan bilimi

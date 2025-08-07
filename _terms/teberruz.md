@@ -5,7 +5,7 @@ slug: teberruz
 letter: T
 lisan: Arapça teberruz
 anlamlar:
-- ► görünme
+- görünme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: argac
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atkı
+- atkı
 ozellikler:
 - - isim
 ornekler:

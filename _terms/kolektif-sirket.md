@@ -5,7 +5,7 @@ slug: kolektif-sirket
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kolektif ortaklık
+- kolektif ortaklık
 ozellikler:
 - - isim
   - ticaret

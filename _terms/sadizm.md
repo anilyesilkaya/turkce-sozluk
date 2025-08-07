@@ -5,7 +5,7 @@ slug: sadizm
 letter: S
 lisan: Fransızca sadisme
 anlamlar:
-- ► sadistlik
+- sadistlik
 ozellikler:
 - - isim
   - ruh bilimi

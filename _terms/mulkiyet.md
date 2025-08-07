@@ -5,7 +5,7 @@ slug: mulkiyet
 letter: M
 lisan: Arapça mulkiyyet
 anlamlar:
-- ► sahiplik
+- sahiplik
 ozellikler:
 - - isim
 ornekler:

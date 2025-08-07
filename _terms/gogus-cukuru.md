@@ -5,7 +5,7 @@ slug: gogus-cukuru
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göğüs boşluğu
+- göğüs boşluğu
 ozellikler:
 - - isim
   - anatomi

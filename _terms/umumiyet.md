@@ -5,7 +5,7 @@ slug: umumiyet
 letter: U
 lisan: Arapça ʿumūmiyyet
 anlamlar:
-- ► genellik
+- genellik
 ozellikler:
 - - isim
   - eskimiş

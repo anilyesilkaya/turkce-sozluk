@@ -5,8 +5,8 @@ slug: yakinlama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yakınlaşma
-- ► yaklaşma
+- yakınlaşma
+- yaklaşma
 ozellikler:
 - - isim
 - - isim

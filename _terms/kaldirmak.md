@@ -7,18 +7,18 @@ lisan: Türkçe
 anlamlar:
 - Bulunduğu yerden almak
 - Yukarı doğru hareket ettirmek
-- ► yükseltmek
+- yükseltmek
 - Ürün toplamak, taşımak
 - Çekmek, taşımak
 - Bir kuruluşun çalışmasına son vermek
 - Hastayı hastaneye götürmek
 - Tören yaparak ölüyü gömmek
-- ► toplamak
+- toplamak
 - Alıp başka yere götürmek
-- ► uyandırmak
+- uyandırmak
 - Piyasadan çekmek
 - Elin ulaşamayacağı yere koymak; saklamak
-- ► kaçırmak
+- kaçırmak
 - İyi etmek, birini iyileştirmek
 - Bir şeyden çokça satın almak
 - Bir yere tayin etmek

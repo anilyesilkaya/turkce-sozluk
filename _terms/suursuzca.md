@@ -5,7 +5,7 @@ slug: suursuzca
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçsizce
+- bilinçsizce
 ozellikler:
 - - zarf
 ornekler:

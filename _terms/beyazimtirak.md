@@ -5,7 +5,7 @@ slug: beyazimtirak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beyazımsı
+- beyazımsı
 ozellikler:
 - - sıfat
 ornekler:

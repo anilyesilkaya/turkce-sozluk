@@ -5,8 +5,8 @@ slug: tefviz
 letter: T
 lisan: Arapça tefvīż
 anlamlar:
-- ► ihale
-- ► dağıtma
+- ihale
+- dağıtma
 - Bir taşınmaz malı bilinen değeri karşılığı bir kimseye verme
 ozellikler:
 - - isim

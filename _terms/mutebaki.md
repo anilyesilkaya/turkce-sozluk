@@ -5,7 +5,7 @@ slug: mutebaki
 letter: M
 lisan: Arapça mutebāḳī
 anlamlar:
-- ► kalan
+- kalan
 ozellikler:
 - - sıfat
   - eskimiş

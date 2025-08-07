@@ -5,7 +5,7 @@ slug: sosyal-yasam
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sosyal hayat
+- sosyal hayat
 ozellikler:
 - - isim
 ornekler:

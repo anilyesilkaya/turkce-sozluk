@@ -5,7 +5,7 @@ slug: arz-derecesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► enlem
+- enlem
 ozellikler:
 - - isim
   - coğrafya

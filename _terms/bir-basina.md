@@ -5,7 +5,7 @@ slug: bir-basina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tek başına
+- tek başına
 - Başkasının yardımı olmaksızın
 ozellikler:
 - - zarf

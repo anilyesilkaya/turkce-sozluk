@@ -5,7 +5,7 @@ slug: insan-bilimsel
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► antropolojik
+- antropolojik
 ozellikler:
 - - sıfat
 ornekler:

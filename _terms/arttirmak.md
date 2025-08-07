@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Artırma işi yapılmak
-- ► yükseltmek
+- yükseltmek
 ozellikler:
 - - -i
 - - -i

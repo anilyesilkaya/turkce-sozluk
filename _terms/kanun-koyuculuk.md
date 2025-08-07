@@ -5,7 +5,7 @@ slug: kanun-koyuculuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasa koyuculuk
+- yasa koyuculuk
 ozellikler:
 - - isim
 ornekler:

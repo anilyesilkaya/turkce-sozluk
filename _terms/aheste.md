@@ -5,7 +5,7 @@ slug: aheste
 letter: A
 lisan: Farsça āheste
 anlamlar:
-- ► yavaş
+- yavaş
 - Yavaş, ağır bir biçimde
 - Alçak ve hafif olan (ses)
 - Bir müzik parçasının yavaş çalınması ve söylenmesi

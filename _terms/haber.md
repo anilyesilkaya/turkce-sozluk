@@ -7,8 +7,8 @@ lisan: Arapça ḫaber
 anlamlar:
 - Bir olay, bir olgu üzerine edinilen bilgi; çav (I), selen
 - İletişim veya yayın organlarıyla verilen bilgi
-- ► bilgi
-- ► yüklem
+- bilgi
+- yüklem
 ozellikler:
 - - isim
 - - isim

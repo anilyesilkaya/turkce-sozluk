@@ -5,7 +5,7 @@ slug: isim-koku
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ad kökü
+- ad kökü
 ozellikler:
 - - isim
   - dil bilgisi

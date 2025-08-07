@@ -8,7 +8,7 @@ anlamlar:
 - İsteği kalmayıncaya kadar yemek, yeteri kadar yemiş olmak, açlığı kalmamak; doyunmak
 - Bir gereksinimini yeteri kadar karşılamak
 - Yeter bulmak, kanmak, tatmin olmak
-- ► kanmak
+- kanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

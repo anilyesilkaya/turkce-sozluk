@@ -5,7 +5,7 @@ slug: odleklik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► korkaklık
+- korkaklık
 - Ödlekçe davranış
 ozellikler:
 - - isim

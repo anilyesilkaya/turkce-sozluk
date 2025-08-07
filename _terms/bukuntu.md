@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bükme sonucu oluşan biçim veya iz
 - Bağırsakta olan ağrı
-- ► dönemeç
+- dönemeç
 ozellikler:
 - - isim
 - - isim

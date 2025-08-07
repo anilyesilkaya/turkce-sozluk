@@ -5,7 +5,7 @@ slug: sebepsiz-yere
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

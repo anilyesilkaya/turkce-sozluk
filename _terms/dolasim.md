@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaşmak işi; sirkülasyon
-- ► dolanım
-- ► kan dolaşımı
+- dolanım
+- kan dolaşımı
 ozellikler:
 - - isim
 - - isim

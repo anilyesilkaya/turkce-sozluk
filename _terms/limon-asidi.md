@@ -5,7 +5,7 @@ slug: limon-asidi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► limon tuzu
+- limon tuzu
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: surgit
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ilelebet
+- ilelebet
 ozellikler:
 - - zarf
 ornekler:

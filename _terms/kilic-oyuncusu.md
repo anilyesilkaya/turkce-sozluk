@@ -5,7 +5,7 @@ slug: kilic-oyuncusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eskrimci
+- eskrimci
 ozellikler:
 - - isim
   - spor

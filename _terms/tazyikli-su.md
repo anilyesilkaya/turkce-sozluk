@@ -5,7 +5,7 @@ slug: tazyikli-su
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► basınçlı su
+- basınçlı su
 ozellikler:
 - - isim
 ornekler:

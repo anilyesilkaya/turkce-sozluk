@@ -5,7 +5,7 @@ slug: yaricilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ortakçılık
+- ortakçılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mucevher-mahfazasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mücevher kutusu
+- mücevher kutusu
 ozellikler:
 - - isim
 ornekler:

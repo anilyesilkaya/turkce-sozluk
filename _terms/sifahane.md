@@ -5,7 +5,7 @@ slug: sifahane
 letter: Ş
 lisan: Arapça şifāʾ + Farsça ḫāne
 anlamlar:
-- ► hastane
+- hastane
 ozellikler:
 - - isim
   - eskimiş

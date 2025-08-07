@@ -5,7 +5,7 @@ slug: uyaksiz
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyesiz
+- kafiyesiz
 ozellikler:
 - - sıfat
   - edebiyat

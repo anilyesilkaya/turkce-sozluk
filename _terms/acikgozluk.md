@@ -5,7 +5,7 @@ slug: acikgozluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açıkgözlülük
+- açıkgözlülük
 ozellikler:
 - - isim
   - mecaz

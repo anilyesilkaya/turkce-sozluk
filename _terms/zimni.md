@@ -5,8 +5,8 @@ slug: zimni
 letter: Z
 lisan: Arapça żimnī
 anlamlar:
-- ► gizli
-- ► içerik
+- gizli
+- içerik
 ozellikler:
 - - sıfat
   - eskimiş

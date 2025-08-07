@@ -5,7 +5,7 @@ slug: oley
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► yaşa
+- yaşa
 ozellikler:
 - - ünlem
 ornekler:

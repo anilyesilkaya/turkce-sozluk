@@ -5,7 +5,7 @@ slug: hile-hurda
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► yalan dolan
+- yalan dolan
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yogaltma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tüketme
+- tüketme
 ozellikler:
 - - isim
 ornekler:

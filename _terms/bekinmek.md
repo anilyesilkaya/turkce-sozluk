@@ -5,8 +5,8 @@ slug: bekinmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► direnmek
-- ► tıkanmak
+- direnmek
+- tıkanmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

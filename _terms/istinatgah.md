@@ -5,7 +5,7 @@ slug: istinatgah
 letter: I
 lisan: Arapça istinād + Farsça -gāh
 anlamlar:
-- ► dayanak
+- dayanak
 ozellikler:
 - - isim
   - eskimiş

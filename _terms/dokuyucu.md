@@ -5,7 +5,7 @@ slug: dokuyucu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dokumacı
+- dokumacı
 ozellikler:
 - - isim
 ornekler:

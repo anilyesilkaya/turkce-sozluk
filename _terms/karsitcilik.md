@@ -5,7 +5,7 @@ slug: karsitcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► aleyhtarlık
+- aleyhtarlık
 ozellikler:
 - - isim
 ornekler:

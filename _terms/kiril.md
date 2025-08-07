@@ -5,7 +5,7 @@ slug: kiril
 letter: K
 lisan: (Cyrill özel adından)
 anlamlar:
-- ► Kiril alfabesi
+- Kiril alfabesi
 ozellikler:
 - - isim
 ornekler:

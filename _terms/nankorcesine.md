@@ -5,7 +5,7 @@ slug: nankorcesine
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nankörce
+- nankörce
 ozellikler:
 - - zarf
 ornekler:
