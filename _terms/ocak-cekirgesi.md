@@ -5,7 +5,7 @@ slug: ocak-cekirgesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► cırcır böceği
+- cırcır böceği
 ozellikler:
 - - isim
   - hayvan bilimi

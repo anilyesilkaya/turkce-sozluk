@@ -5,8 +5,8 @@ slug: gariplik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► tuhaflık
-- ► acayiplik
+- tuhaflık
+- acayiplik
 ozellikler:
 - - isim
 - - isim

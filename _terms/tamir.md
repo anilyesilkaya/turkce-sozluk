@@ -5,7 +5,7 @@ slug: tamir
 letter: T
 lisan: Arapça taʿmīr
 anlamlar:
-- ► onarım
+- onarım
 - Yapılan bir yanlışı, kusuru düzeltmeye çalışma
 ozellikler:
 - - isim

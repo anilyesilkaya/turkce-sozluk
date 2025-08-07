@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Muhakkik olma durumu
-- ► soruşturmacılık
+- soruşturmacılık
 ozellikler:
 - - isim
 - - isim

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kaplanmış olan
 - Kabı olan
-- ► ciltli
+- ciltli
 ozellikler:
 - - sıfat
 - - sıfat

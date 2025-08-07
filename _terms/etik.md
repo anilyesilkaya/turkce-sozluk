@@ -5,9 +5,9 @@ slug: etik
 letter: E
 lisan: Fransızca éthique
 anlamlar:
-- ► ahlak bilimi
+- ahlak bilimi
 - Çeşitli meslek kolları arasında tarafların uyması veya kaçınması gereken davranışlar bütünü
-- ► ahlaki
+- ahlaki
 ozellikler:
 - - isim
 - - isim

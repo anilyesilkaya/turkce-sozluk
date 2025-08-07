@@ -5,7 +5,7 @@ slug: yangilanma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iltihaplanma
+- iltihaplanma
 ozellikler:
 - - isim
 ornekler:

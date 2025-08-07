@@ -5,7 +5,7 @@ slug: sairfilmenam
 letter: S
 lisan: Arapça sāʾir + fi'l-menām
 anlamlar:
-- ► uyurgezer
+- uyurgezer
 ozellikler:
 - - sıfat
   - eskimiş

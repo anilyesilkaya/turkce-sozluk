@@ -5,7 +5,7 @@ slug: teist
 letter: T
 lisan: Fransızca théiste
 anlamlar:
-- ► tanrıcı
+- tanrıcı
 ozellikler:
 - - sıfat
   - felsefe

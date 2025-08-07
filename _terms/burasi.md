@@ -5,7 +5,7 @@ slug: burasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bura
+- bura
 ozellikler:
 - - isim
 ornekler:

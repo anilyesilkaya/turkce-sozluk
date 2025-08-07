@@ -5,7 +5,7 @@ slug: cayhane
 letter: Ç
 lisan: Türkçe çay + Farsça ḫāne
 anlamlar:
-- ► çayevi
+- çayevi
 ozellikler:
 - - isim
   - eskimiş

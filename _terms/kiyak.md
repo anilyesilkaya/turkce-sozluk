@@ -8,7 +8,7 @@ anlamlar:
 - Benzerlerinden üstün olan, çok güzel
 - Hoşgörü, ayrıcalık tanıma
 - Güzel, biçimli, yakışıklı, düzgün giyimli
-- ► gaddar
+- gaddar
 ozellikler:
 - - sıfat
   - teklifsiz konuşmada

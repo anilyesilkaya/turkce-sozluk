@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Fırlamak işi
 - Arsız, terbiyesiz çocuk
-- ► piç
+- piç
 ozellikler:
 - - isim
 - - isim

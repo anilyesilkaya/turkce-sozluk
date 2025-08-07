@@ -5,7 +5,7 @@ slug: sungercilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sünger avcılığı
+- sünger avcılığı
 - Sünger alıp satma işi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: oligopol
 letter: O
 lisan: Fransızca oligopole
 anlamlar:
-- ► azel
+- azel
 ozellikler:
 - - isim
   - ekonomi

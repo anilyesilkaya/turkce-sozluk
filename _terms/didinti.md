@@ -5,7 +5,7 @@ slug: didinti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► didişme
+- didişme
 ozellikler:
 - - isim
 ornekler:

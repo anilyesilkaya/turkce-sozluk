@@ -5,7 +5,7 @@ slug: yalpi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yamaç
+- yamaç
 - İki tepe arasındaki düzlük
 ozellikler:
 - - isim

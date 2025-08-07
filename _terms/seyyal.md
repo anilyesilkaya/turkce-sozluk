@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça seyyāl
 anlamlar:
 - Akan, akmakta olan
-- ► akışkan
+- akışkan
 ozellikler:
 - - sıfat
 - - sıfat

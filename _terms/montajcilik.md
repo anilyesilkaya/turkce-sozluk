@@ -5,7 +5,7 @@ slug: montajcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kurguculuk
+- kurguculuk
 - Montajcının yaptığı iş
 ozellikler:
 - - isim

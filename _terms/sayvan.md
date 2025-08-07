@@ -7,7 +7,7 @@ lisan: Farsça sāyebān
 anlamlar:
 - Güneşten, yağmurdan korunmak için veya süs olarak bir şeyin üzerine çekilen dam saçağı gibi düz veya eğimli örtü
 - Evlere bitişik, önü açık, direkler üzerine oturtulmuş, üzeri örtülü yer
-- ► kulak kepçesi
+- kulak kepçesi
 ozellikler:
 - - isim
 - - isim

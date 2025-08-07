@@ -5,7 +5,7 @@ slug: tecrubeli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► deneyimli
+- deneyimli
 ozellikler:
 - - sıfat
 ornekler:

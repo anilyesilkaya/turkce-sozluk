@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Zevki için para harcamaktan kaçınmayan (kimse)
-- ► çapkın
+- çapkın
 - Hayat kadınının parasını yiyen erkek
 ozellikler:
 - - sıfat

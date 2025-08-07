@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥamā´il
 anlamlar:
 - Omuzdan çapraz olarak bele inen bağ; hamaylı
-- ► muska
+- muska
 ozellikler:
 - - isim
 - - isim

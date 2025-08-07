@@ -5,7 +5,7 @@ slug: konkasor
 letter: K
 lisan: Fransızca concasseur
 anlamlar:
-- ► kırma makinesi
+- kırma makinesi
 ozellikler:
 - - isim
 ornekler:

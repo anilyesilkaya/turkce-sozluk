@@ -5,7 +5,7 @@ slug: soz-ebesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► laf ebesi
+- laf ebesi
 ozellikler:
 - - isim
   - mecaz

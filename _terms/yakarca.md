@@ -5,7 +5,7 @@ slug: yakarca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tatarcık
+- tatarcık
 ozellikler:
 - - isim
   - ağızlardan

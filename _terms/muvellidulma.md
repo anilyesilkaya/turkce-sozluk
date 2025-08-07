@@ -5,7 +5,7 @@ slug: muvellidulma
 letter: M
 lisan: Arapça muvellid + māʾ
 anlamlar:
-- ► hidrojen
+- hidrojen
 ozellikler:
 - - isim
   - eskimiş

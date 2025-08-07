@@ -5,7 +5,7 @@ slug: canip
 letter: C
 lisan: Arapça cānib
 anlamlar:
-- ► taraf
+- taraf
 ozellikler:
 - - isim
   - eskimiş

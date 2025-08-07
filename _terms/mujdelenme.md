@@ -5,7 +5,7 @@ slug: mujdelenme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muştulanma
+- muştulanma
 ozellikler:
 - - isim
 ornekler:

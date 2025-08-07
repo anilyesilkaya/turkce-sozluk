@@ -5,7 +5,7 @@ slug: navigator
 letter: N
 lisan: Fransızca navigateur
 anlamlar:
-- ► yolbil
+- yolbil
 - Osmanlı denizcisi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: muttasif
 letter: M
 lisan: Arapça muttaṣif
 anlamlar:
-- ► nitelikli
+- nitelikli
 ozellikler:
 - - sıfat
   - eskimiş

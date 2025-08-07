@@ -5,7 +5,7 @@ slug: buyurabilmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emredebilmek
+- emredebilmek
 - Buyurma becerisi bulunmak
 ozellikler:
 - - nesnesiz

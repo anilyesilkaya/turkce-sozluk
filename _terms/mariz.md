@@ -5,7 +5,7 @@ slug: mariz
 letter: M
 lisan: Arapça marīż
 anlamlar:
-- ► hastalıklı
+- hastalıklı
 ozellikler:
 - - sıfat
   - eskimiş

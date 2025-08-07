@@ -5,7 +5,7 @@ slug: aksilenme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aksileşme
+- aksileşme
 ozellikler:
 - - isim
 ornekler:

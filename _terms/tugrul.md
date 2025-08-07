@@ -5,7 +5,7 @@ slug: tugrul
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çakırdoğan
+- çakırdoğan
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: verecek
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► borç, alacak karşıtı
+- borç, alacak karşıtı
 ozellikler:
 - - isim
 ornekler:

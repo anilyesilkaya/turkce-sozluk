@@ -5,7 +5,7 @@ slug: yazin-bilimci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebiyat bilimci
+- edebiyat bilimci
 ozellikler:
 - - isim
 ornekler:

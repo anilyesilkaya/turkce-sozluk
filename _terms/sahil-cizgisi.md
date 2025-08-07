@@ -5,7 +5,7 @@ slug: sahil-cizgisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kıyı çizgisi
+- kıyı çizgisi
 ozellikler:
 - - isim
   - denizcilik

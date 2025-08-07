@@ -5,7 +5,7 @@ slug: misal
 letter: M
 lisan: Arapça mis̱āl
 anlamlar:
-- ► örnek
+- örnek
 - '...-e benzer olan'
 ozellikler:
 - - isim

@@ -5,11 +5,11 @@ slug: vizyon
 letter: V
 lisan: Fransızca vision
 anlamlar:
-- ► görünüm
-- ► ülkü
-- ► basiret
-- ► gösterim
-- ► ileri görüş
+- görünüm
+- ülkü
+- basiret
+- gösterim
+- ileri görüş
 ozellikler:
 - - isim
 - - isim

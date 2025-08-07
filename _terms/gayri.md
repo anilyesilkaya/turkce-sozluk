@@ -5,8 +5,8 @@ slug: gayri
 letter: G
 lisan: Arapça ġayr
 anlamlar:
-- ► gayrı
-- ► başka
+- gayrı
+- başka
 ozellikler:
 - - zarf
 - - zarf

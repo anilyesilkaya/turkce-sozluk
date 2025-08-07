@@ -5,8 +5,8 @@ slug: sumul
 letter: Ş
 lisan: Arapça şumūl
 anlamlar:
-- ► kapsam
-- ► kaplam
+- kapsam
+- kaplam
 ozellikler:
 - - isim
   - eskimiş

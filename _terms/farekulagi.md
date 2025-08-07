@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Çuha çiçeğigillerden, tohumu kuş yemi olarak kullanılan bitkilerin cins adı; bağırsak otu, sıçankulağı (Anagallis)
-- ► yabani mercanköşk
+- yabani mercanköşk
 ozellikler:
 - - isim
   - bitki bilimi

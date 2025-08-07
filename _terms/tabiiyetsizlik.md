@@ -5,7 +5,7 @@ slug: tabiiyetsizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uyruksuzluk
+- uyruksuzluk
 ozellikler:
 - - isim
 ornekler:

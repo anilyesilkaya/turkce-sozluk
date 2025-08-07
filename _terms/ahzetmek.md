@@ -5,7 +5,7 @@ slug: ahzetmek
 letter: A
 lisan: Arapça aḫẕ + Türkçe etmek
 anlamlar:
-- ► almak
+- almak
 ozellikler:
 - - -i
 ornekler:

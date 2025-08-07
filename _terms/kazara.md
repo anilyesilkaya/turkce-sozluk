@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳażāʾ + Farsça -rā
 anlamlar:
 - Kaza sonucu, yanlışlıkla, bilmeden; kazaen, ezkaza
-- ► tesadüfen
+- tesadüfen
 ozellikler:
 - - zarf
 - - zarf

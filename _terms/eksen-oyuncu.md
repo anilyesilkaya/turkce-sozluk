@@ -5,7 +5,7 @@ slug: eksen-oyuncu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► oyun kurucu
+- oyun kurucu
 ozellikler:
 - - isim
   - spor

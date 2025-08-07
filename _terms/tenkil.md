@@ -5,7 +5,7 @@ slug: tenkil
 letter: T
 lisan: Arapça tenḳīl
 anlamlar:
-- ► uzaklaştırma
+- uzaklaştırma
 - Herkese örnek olacak bir ceza verme
 - Düşman veya zararlı kimseleri topluca ortadan kaldırma
 ozellikler:

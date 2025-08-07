@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Herhangi bir; rastgele, lalettayin, alelıtlak
-- ► üstünkörü
+- üstünkörü
 - Âdet yerini bulsun diye; alelusul
 ozellikler:
 - - sıfat

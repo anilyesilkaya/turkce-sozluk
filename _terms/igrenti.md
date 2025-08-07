@@ -5,7 +5,7 @@ slug: igrenti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iğrenme
+- iğrenme
 ozellikler:
 - - isim
 ornekler:

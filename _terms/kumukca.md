@@ -5,7 +5,7 @@ slug: kumukca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kumuk Türkçesi
+- Kumuk Türkçesi
 ozellikler:
 - - isim
 ornekler:

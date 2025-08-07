@@ -5,7 +5,7 @@ slug: insafsizcasina
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insafsızca
+- insafsızca
 ozellikler:
 - - zarf
 ornekler:

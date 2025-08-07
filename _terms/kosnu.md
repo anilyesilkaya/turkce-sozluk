@@ -5,7 +5,7 @@ slug: kosnu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehvet
+- şehvet
 ozellikler:
 - - isim
   - ağızlardan

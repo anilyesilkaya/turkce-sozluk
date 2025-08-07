@@ -5,7 +5,7 @@ slug: tezellul
 letter: T
 lisan: Arapça teẕellul
 anlamlar:
-- ► aşağılanma
+- aşağılanma
 - Kendini hakir görme
 ozellikler:
 - - isim

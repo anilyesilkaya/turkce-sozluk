@@ -5,7 +5,7 @@ slug: floresan
 letter: F
 lisan: Fransızca fluorescent
 anlamlar:
-- ► florışıl
+- florışıl
 ozellikler:
 - - isim
   - fizik

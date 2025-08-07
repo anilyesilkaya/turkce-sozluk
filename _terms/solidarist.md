@@ -5,7 +5,7 @@ slug: solidarist
 letter: S
 lisan: Fransızca solidariste
 anlamlar:
-- ► dayanışmacı
+- dayanışmacı
 ozellikler:
 - - sıfat
   - toplum bilimi

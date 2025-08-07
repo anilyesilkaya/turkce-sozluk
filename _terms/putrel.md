@@ -5,7 +5,7 @@ slug: putrel
 letter: P
 lisan: Fransızca poutrelle
 anlamlar:
-- ► bağlama
+- bağlama
 ozellikler:
 - - isim
 ornekler:

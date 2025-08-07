@@ -5,7 +5,7 @@ slug: katastrofik
 letter: K
 lisan: Fransızca catastrophique
 anlamlar:
-- ► yıkıcı
+- yıkıcı
 ozellikler:
 - - sıfat
 ornekler:

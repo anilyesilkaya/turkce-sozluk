@@ -5,7 +5,7 @@ slug: karha
 letter: K
 lisan: Arapça ḳarḥa
 anlamlar:
-- ► ülser
+- ülser
 ozellikler:
 - - isim
   - eskimiş

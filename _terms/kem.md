@@ -6,7 +6,7 @@ letter: K
 lisan: Farsça kem
 anlamlar:
 - Kötü, fena olan (göz, söz vb.)
-- ► eksik
+- eksik
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: dilaver
 letter: D
 lisan: Farsça dilāver
 anlamlar:
-- ► yiğit
+- yiğit
 ozellikler:
 - - isim
 ornekler:

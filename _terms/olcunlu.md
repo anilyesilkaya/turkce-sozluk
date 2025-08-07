@@ -5,7 +5,7 @@ slug: olcunlu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► standart
+- standart
 ozellikler:
 - - sıfat
 ornekler:

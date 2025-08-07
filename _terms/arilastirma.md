@@ -5,7 +5,7 @@ slug: arilastirma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► özleştirme
+- özleştirme
 ozellikler:
 - - isim
 ornekler:

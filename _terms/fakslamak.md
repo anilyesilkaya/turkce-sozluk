@@ -5,7 +5,7 @@ slug: fakslamak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► belgegeçerlemek
+- belgegeçerlemek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: ustencilik
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► yüklenicilik
+- yüklenicilik
 ozellikler:
 - - isim
 ornekler:

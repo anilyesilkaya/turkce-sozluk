@@ -5,7 +5,7 @@ slug: mahkumluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hükümlülük
+- hükümlülük
 ozellikler:
 - - isim
   - hukuk

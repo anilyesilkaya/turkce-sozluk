@@ -5,7 +5,7 @@ slug: cumhur-reisi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cumhurbaşkanı
+- cumhurbaşkanı
 ozellikler:
 - - isim
 ornekler:

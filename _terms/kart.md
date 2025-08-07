@@ -7,9 +7,9 @@ lisan: Fransızca carte
 anlamlar:
 - Düzgün kesilmiş ince karton parçası
 - Bir kimsenin kimliğini gösteren, kutlamalarda veya kendini tanıtmada kullanılan, çoğunlukla beyaz, küçük, ince karton parçası; kartvizit
-- ► kartpostal
+- kartpostal
 - Bazı yerlere girmek veya bazı şeylerden yararlanmak için verilen, kimliği belirten belge
-- ► iskambil kâğıdı
+- iskambil kâğıdı
 - Fotoğrafçılıkta 9x12 santimetre boyutlarındaki resim
 - Telefonlara takılan, iletişimi sağlamak için gerekli bilgilerin yüklendiği parçacık
 - Genellikle parasal işlemlerde çok amaçlı olarak kullanılan manyetik özelliği olan plastik nesne

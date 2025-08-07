@@ -5,7 +5,7 @@ slug: sozlendirici
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seslendirici
+- seslendirici
 ozellikler:
 - - isim
   - sinema

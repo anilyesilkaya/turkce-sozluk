@@ -5,7 +5,7 @@ slug: dobra
 letter: D
 lisan: Bulgarca
 anlamlar:
-- ► açık sözlü
+- açık sözlü
 - Anlaşılır
 - İyi, güzel olan
 ozellikler:

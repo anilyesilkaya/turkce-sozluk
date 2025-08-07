@@ -5,7 +5,7 @@ slug: fildisi-rengi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fildişi
+- fildişi
 ozellikler:
 - - isim
 ornekler:

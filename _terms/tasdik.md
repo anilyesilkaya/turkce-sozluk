@@ -5,8 +5,8 @@ slug: tasdik
 letter: T
 lisan: Arapça taṣdīḳ
 anlamlar:
-- ► doğrulama
-- ► onay
+- doğrulama
+- onay
 ozellikler:
 - - isim
 - - isim

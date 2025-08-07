@@ -5,7 +5,7 @@ slug: ismiyle-cismiyle
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adıyla sanıyla
+- adıyla sanıyla
 ozellikler:
 - - zarf
 ornekler:

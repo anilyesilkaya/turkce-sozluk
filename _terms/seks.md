@@ -5,7 +5,7 @@ slug: seks
 letter: S
 lisan: Fransızca sexe
 anlamlar:
-- ► cinsiyet
+- cinsiyet
 - Cinsel ilişkide bulunma
 ozellikler:
 - - isim

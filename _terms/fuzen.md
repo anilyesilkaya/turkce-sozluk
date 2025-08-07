@@ -5,7 +5,7 @@ slug: fuzen
 letter: F
 lisan: Fransızca fusain
 anlamlar:
-- ► kömür kalem
+- kömür kalem
 - Bu kalemle yapılmış resim
 ozellikler:
 - - isim

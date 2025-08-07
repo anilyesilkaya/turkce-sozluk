@@ -5,7 +5,7 @@ slug: didaktiklik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► öğreticilik
+- öğreticilik
 ozellikler:
 - - isim
 ornekler:

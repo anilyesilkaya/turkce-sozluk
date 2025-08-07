@@ -5,7 +5,7 @@ slug: partoner
 letter: P
 lisan: Fransızca partenaire
 anlamlar:
-- ► partner
+- partner
 ozellikler:
 - - isim
 ornekler:

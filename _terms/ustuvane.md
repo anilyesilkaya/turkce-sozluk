@@ -5,8 +5,8 @@ slug: ustuvane
 letter: Ü
 lisan: Farsça ustuvāne
 anlamlar:
-- ► silindir
-- ► sütun
+- silindir
+- sütun
 ozellikler:
 - - isim
   - eskimiş

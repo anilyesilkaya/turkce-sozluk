@@ -7,7 +7,7 @@ lisan: Arapça muşʿir
 anlamlar:
 - Yazı ile bildiren, haber veren
 - Taşıtlarda motorun ısı durumunu göstergeye yansıtan araç
-- ► gösterge
+- gösterge
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: roman
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► Çingene
+- Çingene
 ozellikler:
 - - isim
 ornekler:

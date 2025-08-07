@@ -5,9 +5,9 @@ slug: inhilal
 letter: I
 lisan: Arapça inḥilāl
 anlamlar:
-- ► dağılma
-- ► boşalma
-- ► ayrışma
+- dağılma
+- boşalma
+- ayrışma
 ozellikler:
 - - isim
   - eskimiş

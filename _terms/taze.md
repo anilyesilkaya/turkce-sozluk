@@ -8,7 +8,7 @@ anlamlar:
 - Bozulmamış, bayatlamamış olan
 - Dinç, yıpranmamış, yorulmamış
 - Kuru olmayan; kuru karşıtı
-- ► körpe
+- körpe
 - Yeni, zamanı geçmemiş
 - Genç kadın
 ozellikler:

@@ -5,7 +5,7 @@ slug: gayrikanuni
 letter: G
 lisan: Arapça ġayr + ḳānūnī
 anlamlar:
-- ► yasa dışı
+- yasa dışı
 ozellikler:
 - - sıfat
   - eskimiş

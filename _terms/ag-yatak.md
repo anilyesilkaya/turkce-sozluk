@@ -5,7 +5,7 @@ slug: ag-yatak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hamak
+- hamak
 ozellikler:
 - - isim
 ornekler:

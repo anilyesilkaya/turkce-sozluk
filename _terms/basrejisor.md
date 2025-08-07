@@ -5,7 +5,7 @@ slug: basrejisor
 letter: B
 lisan: Türkçe baş + Fransızca régisseur
 anlamlar:
-- ► başyönetmen
+- başyönetmen
 ozellikler:
 - - isim
 ornekler:

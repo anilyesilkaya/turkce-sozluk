@@ -5,7 +5,7 @@ slug: talanlanmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yağmalanmak
+- yağmalanmak
 ozellikler:
 - - nesnesiz
 ornekler:

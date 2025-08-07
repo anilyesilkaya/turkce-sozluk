@@ -5,8 +5,8 @@ slug: meyus
 letter: M
 lisan: Arapça meʾyūs
 anlamlar:
-- ► üzgün
-- ► kötümser
+- üzgün
+- kötümser
 ozellikler:
 - - sıfat
   - eskimiş

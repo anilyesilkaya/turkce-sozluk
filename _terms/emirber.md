@@ -5,7 +5,7 @@ slug: emirber
 letter: E
 lisan: Arapça emr + Farsça -ber
 anlamlar:
-- ► emir eri
+- emir eri
 ozellikler:
 - - isim
   - eskimiş

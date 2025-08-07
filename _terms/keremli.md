@@ -5,7 +5,7 @@ slug: keremli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kerem sahibi
+- kerem sahibi
 ozellikler:
 - - sıfat
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Emmek işi
 - Boruda akan sıvının oluşturduğu çekiş
 - Bir deponun böyle bir çekilme ile doldurulması işlemi
-- ► soğurma
+- soğurma
 - Petrol ile ilgili işlemlerde bir akışkanın çekilişi
 ozellikler:
 - - isim

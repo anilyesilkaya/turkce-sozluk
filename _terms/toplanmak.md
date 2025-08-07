@@ -10,7 +10,7 @@ anlamlar:
 - Toplantı yapmak
 - Kendine çekidüzen vermek
 - Seyahat etmek, taşınmak vb. için hazırlanmak
-- ► şişmanlamak
+- şişmanlamak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

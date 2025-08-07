@@ -5,7 +5,7 @@ slug: hemsehrilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► memleketlilik
+- memleketlilik
 ozellikler:
 - - isim
 ornekler:

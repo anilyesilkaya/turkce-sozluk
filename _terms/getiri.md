@@ -5,9 +5,9 @@ slug: getiri
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yarar
-- ► kâr
-- ► kazanç
+- yarar
+- kâr
+- kazanç
 ozellikler:
 - - isim
 - - isim

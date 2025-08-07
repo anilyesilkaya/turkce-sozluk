@@ -5,7 +5,7 @@ slug: duyu-yitimi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► anestezi
+- anestezi
 ozellikler:
 - - isim
   - tıp

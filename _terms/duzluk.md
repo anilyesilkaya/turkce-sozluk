@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Düz olma durumu
-- ► alan
+- alan
 - Deniz yüzeyine göre değişik yüksekliklerde olan az eğimli yer
 ozellikler:
 - - isim

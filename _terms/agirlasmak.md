@@ -8,14 +8,14 @@ anlamlar:
 - Ağır duruma gelmek
 - Sıkıcı ve bunaltıcı bir durum almak
 - Gökyüzü bulutlu, karanlık, iç karartıcı bir hâl almak
-- ► yavaşlamak
+- yavaşlamak
 - Yiyecek bozulmaya yüz tutmak
 - Organ görevini yapamaz duruma gelmek
 - Göz kapakları kapanmak üzere olmak
 - Artan, çoğalan
 - Gebe kadının doğurması yaklaşmak
 - Ağırbaşlı hâle gelmek
-- ► güçleşmek
+- güçleşmek
 - Hasta tehlikeli duruma gelmek
 ozellikler:
 - - nesnesiz

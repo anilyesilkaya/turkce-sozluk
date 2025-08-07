@@ -5,7 +5,7 @@ slug: esericedit-kagidi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► esericedit
+- esericedit
 ozellikler:
 - - isim
   - eskimiş

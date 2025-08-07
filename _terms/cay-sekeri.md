@@ -5,7 +5,7 @@ slug: cay-sekeri
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► küp şeker
+- küp şeker
 ozellikler:
 - - isim
 ornekler:

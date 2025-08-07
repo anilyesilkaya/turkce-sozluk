@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Çayı içine şeker atmadan, şekeri küçük parçalar hâlinde dişle kırıp ağza alarak içmek
-- ► incitmek
+- incitmek
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: sistemlilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzenlilik
+- düzenlilik
 - Sistemli olma durumu; sistematiklik, dizgelilik
 ozellikler:
 - - isim

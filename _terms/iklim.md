@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iḳlīm
 anlamlar:
 - Yeryüzünün herhangi bir yerinde hava olaylarına bağlı olarak gerçekleşen etkilerin uzun yılların ortalamasına dayanan durumu; abuhava
-- ► ülke
+- ülke
 - Yeryüzünün ekvatordan kuzey kutbuna kadar bölündüğü yedi bölgesinden her biri
 - Bir şeyin kuvvetli biçimde hâkim olduğu ortam
 ozellikler:

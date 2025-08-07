@@ -5,7 +5,7 @@ slug: ibrisim-kurdu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ipek böceği
+- ipek böceği
 ozellikler:
 - - isim
   - hayvan bilimi

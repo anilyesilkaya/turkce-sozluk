@@ -5,7 +5,7 @@ slug: yalanci-dunya
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yalan dünya
+- yalan dünya
 ozellikler:
 - - isim
   - mecaz

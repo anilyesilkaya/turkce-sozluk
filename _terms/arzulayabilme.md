@@ -5,7 +5,7 @@ slug: arzulayabilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteyebilme
+- isteyebilme
 ozellikler:
 - - isim
 ornekler:

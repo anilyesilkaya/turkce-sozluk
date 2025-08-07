@@ -5,7 +5,7 @@ slug: sermestane
 letter: S
 lisan: Farsça ser + mestāne
 anlamlar:
-- ► sarhoşça
+- sarhoşça
 ozellikler:
 - - zarf
   - eskimiş

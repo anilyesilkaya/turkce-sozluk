@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Hayvanlara yem verilen yer veya kap
 - Yem için ayrılan
-- ► rüşvet
+- rüşvet
 - Karşılıksız geçim sağlanan yer veya kimse
 - Kumarda kandırılıp parası alınan kimse
 ozellikler:

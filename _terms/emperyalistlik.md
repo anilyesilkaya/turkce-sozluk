@@ -5,7 +5,7 @@ slug: emperyalistlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► emperyalizm
+- emperyalizm
 ozellikler:
 - - isim
 ornekler:

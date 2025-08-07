@@ -5,7 +5,7 @@ slug: istidatlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yeteneklilik
+- yeteneklilik
 ozellikler:
 - - isim
 ornekler:

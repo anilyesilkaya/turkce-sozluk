@@ -5,7 +5,7 @@ slug: muhliye
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mülhiye
+- mülhiye
 ozellikler:
 - - isim
   - bitki bilimi

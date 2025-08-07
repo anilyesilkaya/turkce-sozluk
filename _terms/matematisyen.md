@@ -5,7 +5,7 @@ slug: matematisyen
 letter: M
 lisan: Fransızca mathématicien
 anlamlar:
-- ► matematikçi
+- matematikçi
 ozellikler:
 - - isim
 ornekler:

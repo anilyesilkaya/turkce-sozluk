@@ -5,7 +5,7 @@ slug: akrobatlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cambazlık
+- cambazlık
 ozellikler:
 - - isim
 ornekler:

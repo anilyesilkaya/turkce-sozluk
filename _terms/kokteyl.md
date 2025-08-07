@@ -7,7 +7,7 @@ lisan: İngilizce cocktail
 anlamlar:
 - Türlü içkiler karıştırılarak yapılan içki
 - Yeri ve zamanı önceden belirlenen, ayaküstü sohbetlerin yapıldığı toplantı
-- ► karışım
+- karışım
 ozellikler:
 - - isim
 - - isim

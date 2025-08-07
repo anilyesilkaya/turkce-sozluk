@@ -5,7 +5,7 @@ slug: gayrimenkulluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► taşınmazlık
+- taşınmazlık
 ozellikler:
 - - isim
 ornekler:

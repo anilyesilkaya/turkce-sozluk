@@ -5,7 +5,7 @@ slug: yineleme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tekrarlama
+- tekrarlama
 - Bir cümle içinde veya arka arkaya gelen cümlelerde bir kelimenin veya bir parçanın tekrarlanması
 ozellikler:
 - - isim

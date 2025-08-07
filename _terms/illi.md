@@ -5,7 +5,7 @@ slug: illi
 letter: I
 lisan: Arapça ʿillī
 anlamlar:
-- ► nedensel
+- nedensel
 ozellikler:
 - - sıfat
   - eskimiş

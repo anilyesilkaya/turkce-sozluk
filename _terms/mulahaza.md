@@ -5,7 +5,7 @@ slug: mulahaza
 letter: M
 lisan: Arapça mulāḥaẓa
 anlamlar:
-- ► düşünce
+- düşünce
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: murakabe
 letter: M
 lisan: Arapça murāḳabe
 anlamlar:
-- ► denetleme
+- denetleme
 - Tasavvufta Tanrı'ya bağlanarak çile doldurma
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: hint-inciri
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Frenk inciri
+- Frenk inciri
 ozellikler:
 - - isim
   - bitki bilimi

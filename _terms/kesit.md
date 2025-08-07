@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şey enlemesine veya boylamasına kesildiğinde ortaya çıkan yüzey
-- ► kesim
+- kesim
 - Ayırıcı özellikleriyle belirlenen süreç
 - Bir cisim düz olarak kesildiğinde ortaya çıkan düzlemin biçimi; makta
 ozellikler:

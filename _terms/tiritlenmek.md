@@ -5,7 +5,7 @@ slug: tiritlenmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tiritleşmek
+- tiritleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

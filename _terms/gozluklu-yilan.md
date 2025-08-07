@@ -5,7 +5,7 @@ slug: gozluklu-yilan
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kobra
+- kobra
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: total
 letter: T
 lisan: Fransızca total
 anlamlar:
-- ► bütünsel
+- bütünsel
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: antroposantrizm
 letter: A
 lisan: Fransızca anthropocentrisme
 anlamlar:
-- ► insanmerkezcilik
+- insanmerkezcilik
 ozellikler:
 - - isim
   - felsefe

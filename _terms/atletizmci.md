@@ -5,7 +5,7 @@ slug: atletizmci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atlet
+- atlet
 ozellikler:
 - - isim
 ornekler:

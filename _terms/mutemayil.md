@@ -5,7 +5,7 @@ slug: mutemayil
 letter: M
 lisan: Arapça mutemāyil
 anlamlar:
-- ► eğimli
+- eğimli
 ozellikler:
 - - sıfat
   - eskimiş

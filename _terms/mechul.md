@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mechūl
 anlamlar:
 - Bilinmeyen, bilinmedik
-- ► bilinmeyen
+- bilinmeyen
 ozellikler:
 - - sıfat
 - - sıfat

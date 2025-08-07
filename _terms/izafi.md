@@ -5,7 +5,7 @@ slug: izafi
 letter: I
 lisan: Arapça iżāfī
 anlamlar:
-- ► bağıntılı
+- bağıntılı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: istenc-yitimi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► irade yitimi
+- irade yitimi
 ozellikler:
 - - isim
   - ruh bilimi

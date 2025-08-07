@@ -5,7 +5,7 @@ slug: hadisene
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haydisene
+- haydisene
 ozellikler:
 - - ünlem
 ornekler:

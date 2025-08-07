@@ -5,7 +5,7 @@ slug: jeomorfolog
 letter: J
 lisan: Fransızca géomorphologue
 anlamlar:
-- ► yüzey bilimci
+- yüzey bilimci
 ozellikler:
 - - isim
 ornekler:

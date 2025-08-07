@@ -5,7 +5,7 @@ slug: mustemlekeci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sömürgeci
+- sömürgeci
 ozellikler:
 - - isim
 ornekler:

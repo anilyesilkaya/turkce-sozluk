@@ -5,7 +5,7 @@ slug: dudak-unlusu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yuvarlak ünlü
+- yuvarlak ünlü
 ozellikler:
 - - isim
   - dil bilgisi

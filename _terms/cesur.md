@@ -5,7 +5,7 @@ slug: cesur
 letter: C
 lisan: Arapça cesūr
 anlamlar:
-- ► cesaretli
+- cesaretli
 - Cesaretli bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: satafatsizlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► görkemsizlik
+- görkemsizlik
 ozellikler:
 - - isim
 ornekler:

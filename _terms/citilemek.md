@@ -5,7 +5,7 @@ slug: citilemek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çitmek
+- çitmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: davranim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► davranış
+- davranış
 ozellikler:
 - - isim
 ornekler:

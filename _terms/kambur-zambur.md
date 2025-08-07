@@ -5,7 +5,7 @@ slug: kambur-zambur
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kambur
+- kambur
 ozellikler:
 - - sıfat
 ornekler:

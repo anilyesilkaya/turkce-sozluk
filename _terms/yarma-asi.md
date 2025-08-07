@@ -5,7 +5,7 @@ slug: yarma-asi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarma çorbası
+- yarma çorbası
 ozellikler:
 - - isim
 ornekler:

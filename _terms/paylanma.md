@@ -5,7 +5,7 @@ slug: paylanma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► azarlanma
+- azarlanma
 ozellikler:
 - - isim
 ornekler:

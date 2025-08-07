@@ -5,7 +5,7 @@ slug: kiyafet
 letter: K
 lisan: Arapça ḳiyāfet
 anlamlar:
-- ► giysi
+- giysi
 ozellikler:
 - - isim
 ornekler:

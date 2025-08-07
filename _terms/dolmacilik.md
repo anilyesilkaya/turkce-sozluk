@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolmacının yaptığı iş
-- ► hilecilik
+- hilecilik
 ozellikler:
 - - isim
 - - isim

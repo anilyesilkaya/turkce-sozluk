@@ -6,7 +6,7 @@ letter: Ş
 lisan: Arapça şāḳūlī
 anlamlar:
 - Çekülle ilgili
-- ► düşey
+- düşey
 ozellikler:
 - - sıfat
   - eskimiş

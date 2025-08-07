@@ -5,7 +5,7 @@ slug: izomorfik
 letter: I
 lisan: Fransızca isomorphique
 anlamlar:
-- ► eş biçimli
+- eş biçimli
 ozellikler:
 - - sıfat
   - kimya

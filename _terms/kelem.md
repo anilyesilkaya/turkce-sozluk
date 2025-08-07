@@ -5,7 +5,7 @@ slug: kelem
 letter: K
 lisan: Farsça kelem
 anlamlar:
-- ► lahana
+- lahana
 ozellikler:
 - - isim
   - ağızlardan

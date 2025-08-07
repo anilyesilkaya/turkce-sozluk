@@ -5,7 +5,7 @@ slug: parlamenter
 letter: P
 lisan: Fransızca parlementaire
 anlamlar:
-- ► milletvekili
+- milletvekili
 - Parlamentoya dayanan, parlamento ile ilgili
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: futurist
 letter: F
 lisan: Fransızca futuriste
 anlamlar:
-- ► gelecekçi
+- gelecekçi
 ozellikler:
 - - sıfat
 ornekler:

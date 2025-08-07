@@ -5,7 +5,7 @@ slug: sormaca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► anket
+- anket
 - Halk hikâyecisi birkaç akşam sürecek bir hikâye anlatırken bir önceki akşam hikâyede kalınan yeri seyircilerden birine sorması
 ozellikler:
 - - isim

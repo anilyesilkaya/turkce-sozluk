@@ -5,7 +5,7 @@ slug: sanem
 letter: S
 lisan: Arapça ṣanem
 anlamlar:
-- ► put (I)
+- put (I)
 - Çok güzel kadın
 ozellikler:
 - - isim

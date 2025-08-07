@@ -5,7 +5,7 @@ slug: buyurabilme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emredebilme
+- emredebilme
 ozellikler:
 - - isim
 ornekler:

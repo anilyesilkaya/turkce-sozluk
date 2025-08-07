@@ -5,7 +5,7 @@ slug: uyuntu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyuşuk
+- uyuşuk
 - Onun bunun ardına takılan, kişiliksiz olan
 ozellikler:
 - - sıfat

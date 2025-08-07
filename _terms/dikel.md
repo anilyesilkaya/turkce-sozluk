@@ -5,7 +5,7 @@ slug: dikel
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► meni
+- meni
 ozellikler:
 - - isim
   - ağızlardan

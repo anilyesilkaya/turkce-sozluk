@@ -5,7 +5,7 @@ slug: immunoloji
 letter: I
 lisan: Fransızca immunologie
 anlamlar:
-- ► bağışıklık bilimi
+- bağışıklık bilimi
 ozellikler:
 - - isim
 ornekler:

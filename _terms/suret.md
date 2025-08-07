@@ -9,8 +9,8 @@ anlamlar:
 - Yazı veya resim kopyası
 - Biçim, yol, tarz
 - İslam felsefesinde, varlığın görünen yanı, beş duyu ile algılanan yönü, siret karşıtı
-- ► fotoğraf
-- ► yüz (II)
+- fotoğraf
+- yüz (II)
 ozellikler:
 - - isim
 - - isim

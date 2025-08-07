@@ -5,7 +5,7 @@ slug: cumbalak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► takla
+- takla
 ozellikler:
 - - isim
   - ağızlardan

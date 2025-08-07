@@ -5,7 +5,7 @@ slug: cartadan
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cartadak
+- cartadak
 ozellikler:
 - - zarf
   - teklifsiz konuşmada

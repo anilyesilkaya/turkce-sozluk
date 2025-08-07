@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kararlamak işi
-- ► tahminî
-- ► tahminen
+- tahminî
+- tahminen
 ozellikler:
 - - isim
 - - isim

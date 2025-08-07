@@ -5,7 +5,7 @@ slug: yarim-uyak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarım kafiye
+- yarım kafiye
 ozellikler:
 - - isim
   - edebiyat

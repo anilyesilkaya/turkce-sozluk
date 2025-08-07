@@ -5,7 +5,7 @@ slug: akselerometre
 letter: A
 lisan: Fransızca accéléromètre
 anlamlar:
-- ► ivmeölçer
+- ivmeölçer
 ozellikler:
 - - isim
   - fizik

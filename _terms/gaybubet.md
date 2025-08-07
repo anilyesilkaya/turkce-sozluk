@@ -5,7 +5,7 @@ slug: gaybubet
 letter: G
 lisan: Arapça ġaybūbet
 anlamlar:
-- ► yokluk
+- yokluk
 ozellikler:
 - - isim
   - eskimiş

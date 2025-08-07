@@ -5,7 +5,7 @@ slug: kromatik
 letter: K
 lisan: Fransızca chromatique
 anlamlar:
-- ► renkser
+- renkser
 - Kromozomlarla ilgili
 - Yarım tonlardan oluşan (ses dizisi)
 ozellikler:

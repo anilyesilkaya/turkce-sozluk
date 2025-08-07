@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mumkin
 anlamlar:
 - Gerçekleşme imkânı bulunan; olası
-- ► muhtemel
+- muhtemel
 ozellikler:
 - - sıfat
 - - sıfat

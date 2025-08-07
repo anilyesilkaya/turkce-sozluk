@@ -5,7 +5,7 @@ slug: itinali
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özenli
+- özenli
 ozellikler:
 - - sıfat
 ornekler:

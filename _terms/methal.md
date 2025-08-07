@@ -5,9 +5,9 @@ slug: methal
 letter: M
 lisan: Arapça medḫal
 anlamlar:
-- ► giriş
-- ► giriş
-- ► giriş
+- giriş
+- giriş
+- giriş
 ozellikler:
 - - isim
   - eskimiş

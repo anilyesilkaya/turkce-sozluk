@@ -5,7 +5,7 @@ slug: gravimetre
 letter: G
 lisan: Fransızca gravimètre
 anlamlar:
-- ► çekimölçer
+- çekimölçer
 ozellikler:
 - - isim
 ornekler:

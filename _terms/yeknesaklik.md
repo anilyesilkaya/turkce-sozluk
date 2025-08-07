@@ -5,7 +5,7 @@ slug: yeknesaklik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tekdüzelik
+- tekdüzelik
 ozellikler:
 - - isim
 ornekler:

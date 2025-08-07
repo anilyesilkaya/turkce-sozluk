@@ -9,7 +9,7 @@ anlamlar:
 - Gereğinde kullanılmak için fazladan bulundurulan, ayrılmış olan
 - Yularından çekilerek götürülen boş binek hayvanı
 - Hayvanı yedeğe alan ip
-- ► redif
+- redif
 ozellikler:
 - - sıfat
 - - sıfat

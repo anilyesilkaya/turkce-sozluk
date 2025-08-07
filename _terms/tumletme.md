@@ -5,7 +5,7 @@ slug: tumletme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünletme
+- bütünletme
 ozellikler:
 - - isim
 ornekler:

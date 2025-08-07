@@ -5,7 +5,7 @@ slug: basmuharrir
 letter: B
 lisan: Türkçe baş + Arapça muḥarrir
 anlamlar:
-- ► başyazar
+- başyazar
 ozellikler:
 - - isim
   - eskimiş

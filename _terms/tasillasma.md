@@ -5,7 +5,7 @@ slug: tasillasma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fosilleşme
+- fosilleşme
 ozellikler:
 - - isim
   - jeoloji

@@ -8,7 +8,7 @@ anlamlar:
 - Başın her iki yanında bulunan işitme organı
 - Bu organın, sesleri toplayıp içeriye almaya yarayan dış bölümü
 - Balıklarda başın iki yanında bulunan ve ağızdan alıp solungaçlardan geçirdiği suyu dışarıya vermeye yarayan yarıklardan her biri
-- ► saban kulağı
+- saban kulağı
 - Duvar, baca, şömine vb. yerlerde kulağa benzer çıkıntı
 - Telli çalgılarda tel germeye yarayan burgu
 - Seslerin uygunluğunu seçebilme ve değerlendirebilme yeteneği

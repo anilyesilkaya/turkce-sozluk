@@ -5,7 +5,7 @@ slug: sari-nokta
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarı benek
+- sarı benek
 ozellikler:
 - - isim
   - biyoloji

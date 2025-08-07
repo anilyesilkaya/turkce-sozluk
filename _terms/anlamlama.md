@@ -5,7 +5,7 @@ slug: anlamlama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anlamlandırma
+- anlamlandırma
 ozellikler:
 - - isim
 ornekler:

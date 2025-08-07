@@ -5,7 +5,7 @@ slug: cuvasca
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► Çuvaş Türkçesi
+- Çuvaş Türkçesi
 ozellikler:
 - - isim
 ornekler:

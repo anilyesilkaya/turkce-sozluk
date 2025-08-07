@@ -5,7 +5,7 @@ slug: pastel-kalem
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pastel boya
+- pastel boya
 ozellikler:
 - - isim
 ornekler:

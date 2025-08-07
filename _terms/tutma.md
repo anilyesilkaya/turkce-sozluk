@@ -6,8 +6,8 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tutmak işi
-- ► destekleme
-- ► yanaşma
+- destekleme
+- yanaşma
 - Bazı takım oyunlarında ayakla veya vücutla karşı takım oyuncusunun hareketine engel olma; markaj
 ozellikler:
 - - isim

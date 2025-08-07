@@ -5,7 +5,7 @@ slug: hilafet
 letter: H
 lisan: Arapça ḫilāfet
 anlamlar:
-- ► halifelik
+- halifelik
 ozellikler:
 - - isim
   - tarih

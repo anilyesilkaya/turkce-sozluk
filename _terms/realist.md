@@ -5,7 +5,7 @@ slug: realist
 letter: R
 lisan: Fransızca réaliste
 anlamlar:
-- ► gerçekçi
+- gerçekçi
 ozellikler:
 - - sıfat
 ornekler:

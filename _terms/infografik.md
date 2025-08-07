@@ -5,7 +5,7 @@ slug: infografik
 letter: I
 lisan: İngilizce infographic
 anlamlar:
-- ► grafik bilgi
+- grafik bilgi
 ozellikler:
 - - isim
   - bilişim

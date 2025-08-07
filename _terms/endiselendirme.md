@@ -5,7 +5,7 @@ slug: endiselendirme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılandırma
+- kaygılandırma
 ozellikler:
 - - isim
 ornekler:

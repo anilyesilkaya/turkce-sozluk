@@ -5,8 +5,8 @@ slug: alto
 letter: A
 lisan: İtalyanca alto
 anlamlar:
-- ► viyola
-- ► kontralto
+- viyola
+- kontralto
 ozellikler:
 - - isim
   - müzik

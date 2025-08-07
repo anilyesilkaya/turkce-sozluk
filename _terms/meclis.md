@@ -9,7 +9,7 @@ anlamlar:
 - Bu toplantının yapıldığı yer
 - Bir konuyu konuşmak veya görüşmek için bir araya gelmiş bir başkan ve üyelerden oluşan resmî kurul; divan
 - Dostlar toplantısı
-- ► sahne
+- sahne
 ozellikler:
 - - isim
 - - isim

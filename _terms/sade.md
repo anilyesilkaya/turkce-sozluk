@@ -5,7 +5,7 @@ slug: sade
 letter: S
 lisan: Farsça sāde
 anlamlar:
-- ► süssüz
+- süssüz
 - Şeker katılmamış (kahve); şekersiz
 - (sa:'de) Yalnızca, yalnız, ancak, sadece
 - İçine bir şey katılmamış olarak

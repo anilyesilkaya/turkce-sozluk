@@ -5,7 +5,7 @@ slug: alan-topu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tenis
+- tenis
 ozellikler:
 - - isim
   - spor

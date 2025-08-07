@@ -5,7 +5,7 @@ slug: asim-takim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► takı
+- takı
 ozellikler:
 - - isim
   - ağızlardan

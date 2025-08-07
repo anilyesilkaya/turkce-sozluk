@@ -5,7 +5,7 @@ slug: ciddiyetsiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► laubali
+- laubali
 ozellikler:
 - - sıfat
 ornekler:

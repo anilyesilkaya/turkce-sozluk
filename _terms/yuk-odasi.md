@@ -5,7 +5,7 @@ slug: yuk-odasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüklük
+- yüklük
 ozellikler:
 - - isim
 ornekler:

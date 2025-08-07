@@ -5,7 +5,7 @@ slug: tezkire
 letter: T
 lisan: Arapça teẕkire
 anlamlar:
-- ► şuara tezkiresi
+- şuara tezkiresi
 ozellikler:
 - - isim
   - edebiyat

@@ -5,7 +5,7 @@ slug: mudevver
 letter: M
 lisan: Arapça mudevver
 anlamlar:
-- ► yuvarlak
+- yuvarlak
 ozellikler:
 - - sıfat
   - eskimiş

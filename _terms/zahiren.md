@@ -5,7 +5,7 @@ slug: zahiren
 letter: Z
 lisan: Arapça ẓāhiren
 anlamlar:
-- ► görünüşte
+- görünüşte
 ozellikler:
 - - zarf
   - eskimiş

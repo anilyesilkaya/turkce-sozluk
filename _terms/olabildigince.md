@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Olabildiği kadar
 - Olduğu kadar; oldukça, hayli
-- ► yeterince
+- yeterince
 ozellikler:
 - - zarf
 - - zarf

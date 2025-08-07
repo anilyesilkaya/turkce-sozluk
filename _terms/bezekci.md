@@ -5,7 +5,7 @@ slug: bezekci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► nakkaş
+- nakkaş
 - Gelinleri süsleyen kadın
 ozellikler:
 - - isim

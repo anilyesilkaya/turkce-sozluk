@@ -5,7 +5,7 @@ slug: nagehan
 letter: N
 lisan: Farsça nāgehān
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
   - eskimiş

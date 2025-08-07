@@ -5,7 +5,7 @@ slug: falez
 letter: F
 lisan: Fransızca falaise
 anlamlar:
-- ► yalı yar
+- yalı yar
 ozellikler:
 - - isim
   - coğrafya

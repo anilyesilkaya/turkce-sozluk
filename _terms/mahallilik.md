@@ -5,7 +5,7 @@ slug: mahallilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yöresellik
+- yöresellik
 ozellikler:
 - - isim
 ornekler:

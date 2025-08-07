@@ -7,7 +7,7 @@ lisan: Arapça cebrī
 anlamlar:
 - Zorla yapılan
 - Zor kullanılarak yaptırılan
-- ► zorlama
+- zorlama
 ozellikler:
 - - sıfat
   - eskimiş

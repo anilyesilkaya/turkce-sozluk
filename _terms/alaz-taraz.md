@@ -5,7 +5,7 @@ slug: alaz-taraz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dağınık
+- dağınık
 ozellikler:
 - - sıfat
 ornekler:

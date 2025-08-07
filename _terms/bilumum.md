@@ -5,7 +5,7 @@ slug: bilumum
 letter: B
 lisan: Arapça bi'l-ʿumūm
 anlamlar:
-- ► bütün
+- bütün
 ozellikler:
 - - sıfat
   - eskimiş

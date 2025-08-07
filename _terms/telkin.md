@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça telḳīn
 anlamlar:
 - Bir duyguyu, bir düşünceyi aşılama
-- ► talkın
+- talkın
 - Bilinç dışı bir sürecin aracılığıyla, kişinin ruhsal veya fizyolojik alanıyla ilgili bir düşüncenin gerçekleştirilmesi
 ozellikler:
 - - isim

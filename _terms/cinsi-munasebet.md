@@ -5,7 +5,7 @@ slug: cinsi-munasebet
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cinsel ilişki
+- cinsel ilişki
 ozellikler:
 - - isim
 ornekler:

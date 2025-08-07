@@ -5,7 +5,7 @@ slug: partisip
 letter: P
 lisan: Fransızca participe
 anlamlar:
-- ► sıfat-fiil
+- sıfat-fiil
 ozellikler:
 - - isim
   - dil bilgisi

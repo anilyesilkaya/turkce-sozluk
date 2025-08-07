@@ -5,7 +5,7 @@ slug: patal
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► lüle taşı
+- lüle taşı
 ozellikler:
 - - isim
   - mineraloji

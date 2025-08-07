@@ -5,7 +5,7 @@ slug: murakiplik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► denetçilik
+- denetçilik
 ozellikler:
 - - isim
 ornekler:

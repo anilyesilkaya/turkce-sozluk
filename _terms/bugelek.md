@@ -5,7 +5,7 @@ slug: bugelek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büve
+- büve
 ozellikler:
 - - isim
 ornekler:

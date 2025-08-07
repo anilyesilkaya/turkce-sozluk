@@ -5,7 +5,7 @@ slug: kayran
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► alan
+- alan
 ozellikler:
 - - isim
   - ağızlardan

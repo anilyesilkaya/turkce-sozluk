@@ -5,7 +5,7 @@ slug: devim-bilimi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dinamik
+- dinamik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: banknot
 letter: B
 lisan: Fransızca banquenote
 anlamlar:
-- ► kâğıt para
+- kâğıt para
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: debagat
 letter: D
 lisan: Arapça debāġat
 anlamlar:
-- ► sepicilik
+- sepicilik
 ozellikler:
 - - isim
   - eskimiş

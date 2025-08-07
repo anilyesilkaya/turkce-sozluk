@@ -5,7 +5,7 @@ slug: halsizce
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► takatsizce
+- takatsizce
 ozellikler:
 - - zarf
 ornekler:

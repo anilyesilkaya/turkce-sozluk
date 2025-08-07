@@ -5,7 +5,7 @@ slug: itibari
 letter: I
 lisan: Arapça iʿtibārī
 anlamlar:
-- ► saymaca
+- saymaca
 ozellikler:
 - - sıfat
 ornekler:

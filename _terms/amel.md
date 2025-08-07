@@ -5,9 +5,9 @@ slug: amel
 letter: A
 lisan: Arapça ʿamel
 anlamlar:
-- ► edim
+- edim
 - Dinin buyruklarını yerine getirmek için yapılan iş, fiil veya hareket
-- ► ishal
+- ishal
 ozellikler:
 - - isim
 - - isim

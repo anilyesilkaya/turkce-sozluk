@@ -5,7 +5,7 @@ slug: meri
 letter: M
 lisan: Arapça merʿī
 anlamlar:
-- ► geçerli
+- geçerli
 ozellikler:
 - - sıfat
   - hukuk

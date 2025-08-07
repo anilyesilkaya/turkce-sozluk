@@ -5,7 +5,7 @@ slug: tabaat
 letter: T
 lisan: Arapça ṭabāʿat
 anlamlar:
-- ► basımcılık
+- basımcılık
 ozellikler:
 - - isim
   - eskimiş

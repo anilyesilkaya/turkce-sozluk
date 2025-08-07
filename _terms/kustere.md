@@ -5,7 +5,7 @@ slug: kustere
 letter: K
 lisan: Farsça kuştere
 anlamlar:
-- ► köstere
+- köstere
 - Değirmen taşı yapılan taş
 - Bileği çarkı
 ozellikler:

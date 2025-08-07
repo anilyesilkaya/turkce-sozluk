@@ -5,7 +5,7 @@ slug: feylesofca
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► filozofça
+- filozofça
 ozellikler:
 - - sıfat
 ornekler:

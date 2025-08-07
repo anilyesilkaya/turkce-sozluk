@@ -5,7 +5,7 @@ slug: konformizm
 letter: K
 lisan: Fransızca conformisme
 anlamlar:
-- ► uymacılık
+- uymacılık
 ozellikler:
 - - isim
   - toplum bilimi

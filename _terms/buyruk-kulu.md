@@ -5,7 +5,7 @@ slug: buyruk-kulu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emir kulu
+- emir kulu
 ozellikler:
 - - isim
 ornekler:

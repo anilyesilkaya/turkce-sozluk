@@ -5,8 +5,8 @@ slug: vezinli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ölçülü
-- ► tartılı
+- ölçülü
+- tartılı
 ozellikler:
 - - sıfat
   - edebiyat

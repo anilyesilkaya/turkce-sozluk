@@ -5,7 +5,7 @@ slug: yukum
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yükümlülük
+- yükümlülük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: agac-sercesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dağ serçesi
+- dağ serçesi
 ozellikler:
 - - isim
   - hayvan bilimi

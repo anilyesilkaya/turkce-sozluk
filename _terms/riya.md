@@ -5,7 +5,7 @@ slug: riya
 letter: R
 lisan: Arapça riyā
 anlamlar:
-- ► ikiyüzlülük
+- ikiyüzlülük
 ozellikler:
 - - isim
 ornekler:

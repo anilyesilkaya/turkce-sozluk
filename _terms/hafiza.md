@@ -5,7 +5,7 @@ slug: hafiza
 letter: H
 lisan: Arapça ḥāfiẓa
 anlamlar:
-- ► bellek
+- bellek
 ozellikler:
 - - isim
   - ruh bilimi

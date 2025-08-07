@@ -5,7 +5,7 @@ slug: acik-saman-rengi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► krem rengi
+- krem rengi
 - Bu renkte olan
 ozellikler:
 - - isim

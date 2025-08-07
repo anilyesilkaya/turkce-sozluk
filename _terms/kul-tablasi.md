@@ -5,7 +5,7 @@ slug: kul-tablasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küllük
+- küllük
 ozellikler:
 - - isim
 ornekler:

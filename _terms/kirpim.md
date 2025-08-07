@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Koyun, keçi vb. için kırkmak işi
-- ► kırpma
+- kırpma
 ozellikler:
 - - isim
 - - isim

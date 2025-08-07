@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakası olmayan gömlek
-- ► kefen
+- kefen
 ozellikler:
 - - isim
 - - isim

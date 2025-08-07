@@ -5,7 +5,7 @@ slug: dide
 letter: D
 lisan: Farsça dīde
 anlamlar:
-- ► göz
+- göz
 ozellikler:
 - - isim
   - eskimiş

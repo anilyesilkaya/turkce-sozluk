@@ -5,7 +5,7 @@ slug: sabahtan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sabahleyin
+- sabahleyin
 ozellikler:
 - - zarf
 ornekler:

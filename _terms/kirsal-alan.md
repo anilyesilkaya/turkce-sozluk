@@ -5,7 +5,7 @@ slug: kirsal-alan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırsal bölge
+- kırsal bölge
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: uzeri
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üst
+- üst
 - Vücudun beden bölümü
 - Artan, geriye kalan bölüm
 - Bazı tamlamalarda zaman bildiren bir söz

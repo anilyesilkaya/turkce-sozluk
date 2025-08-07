@@ -5,7 +5,7 @@ slug: semturreis
 letter: S
 lisan: Arapça semt + reʾs
 anlamlar:
-- ► başucu noktası
+- başucu noktası
 ozellikler:
 - - isim
   - eskimiş

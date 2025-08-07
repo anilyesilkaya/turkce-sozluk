@@ -5,7 +5,7 @@ slug: bilegilemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilemek
+- bilemek
 ozellikler:
 - - -i
 ornekler:

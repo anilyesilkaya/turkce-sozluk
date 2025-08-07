@@ -5,7 +5,7 @@ slug: tereke
 letter: T
 lisan: Arapça tereke
 anlamlar:
-- ► miras
+- miras
 ozellikler:
 - - isim
   - hukuk

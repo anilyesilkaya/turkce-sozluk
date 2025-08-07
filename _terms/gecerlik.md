@@ -5,7 +5,7 @@ slug: gecerlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçerlilik
+- geçerlilik
 - Sürümü olma durumu
 ozellikler:
 - - isim

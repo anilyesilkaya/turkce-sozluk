@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Ülkenin vali yönetimindeki bölümü; vilayet
-- ► yurt
+- yurt
 - Eski Türklerde devlet
 ozellikler:
 - - isim

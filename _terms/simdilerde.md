@@ -5,7 +5,7 @@ slug: simdilerde
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bugünlerde
+- bugünlerde
 - Bu sıralarda
 ozellikler:
 - - zarf

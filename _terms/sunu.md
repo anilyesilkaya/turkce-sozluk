@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sunulan şey
 - Ön söz, takdim
-- ► arz (I)
+- arz (I)
 ozellikler:
 - - isim
 - - isim

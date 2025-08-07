@@ -5,7 +5,7 @@ slug: art-dusunceli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► art niyetli
+- art niyetli
 ozellikler:
 - - sıfat
 ornekler:

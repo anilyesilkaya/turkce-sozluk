@@ -5,7 +5,7 @@ slug: ruhiyatci
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikolog
+- psikolog
 ozellikler:
 - - isim
 ornekler:

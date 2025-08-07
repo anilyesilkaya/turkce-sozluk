@@ -5,7 +5,7 @@ slug: layenkati
 letter: L
 lisan: Arapça lāyenḳaṭiʿ
 anlamlar:
-- ► kesintisiz
+- kesintisiz
 ozellikler:
 - - sıfat
   - eskimiş

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Köle olma durumu
-- ► kulluk (I)
+- kulluk (I)
 ozellikler:
 - - isim
 - - isim

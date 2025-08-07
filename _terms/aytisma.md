@@ -5,7 +5,7 @@ slug: aytisma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atışma
+- atışma
 ozellikler:
 - - isim
 ornekler:

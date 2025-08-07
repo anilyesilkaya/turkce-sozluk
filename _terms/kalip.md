@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳālib
 anlamlar:
 - Bir şeye biçim vermeye veya eski biçimini korumaya yarayan araç
-- ► patron (II)
+- patron (II)
 - Genellikle küp biçiminde yapılan
 - Gösterişli görünüş
 - Zaman içinde değişiklik göstermeyen, her zaman için aynı olan, belirli davranış biçimleri bütünü

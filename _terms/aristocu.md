@@ -5,7 +5,7 @@ slug: aristocu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Aristotelesçi
+- Aristotelesçi
 ozellikler:
 - - sıfat
   - felsefe

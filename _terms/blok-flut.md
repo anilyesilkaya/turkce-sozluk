@@ -5,7 +5,7 @@ slug: blok-flut
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► düz flüt
+- düz flüt
 ozellikler:
 - - isim
 ornekler:

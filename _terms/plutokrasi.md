@@ -5,7 +5,7 @@ slug: plutokrasi
 letter: P
 lisan: Fransızca ploutocratie
 anlamlar:
-- ► varsıl erki
+- varsıl erki
 ozellikler:
 - - isim
   - toplum bilimi

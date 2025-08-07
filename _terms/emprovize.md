@@ -5,7 +5,7 @@ slug: emprovize
 letter: E
 lisan: Fransızca improvisé
 anlamlar:
-- ► doğaçlama
+- doğaçlama
 ozellikler:
 - - zarf
 ornekler:

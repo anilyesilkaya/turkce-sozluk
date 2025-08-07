@@ -5,7 +5,7 @@ slug: tipali
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapalı
+- tapalı
 ozellikler:
 - - sıfat
 ornekler:

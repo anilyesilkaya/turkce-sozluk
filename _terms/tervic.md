@@ -5,7 +5,7 @@ slug: tervic
 letter: T
 lisan: Arapça tervīc
 anlamlar:
-- ► destekleme
+- destekleme
 ozellikler:
 - - isim
   - eskimiş

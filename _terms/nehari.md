@@ -5,7 +5,7 @@ slug: nehari
 letter: N
 lisan: Arapça nehārī
 anlamlar:
-- ► gündüzlü
+- gündüzlü
 - Gündüzlü olarak
 ozellikler:
 - - sıfat

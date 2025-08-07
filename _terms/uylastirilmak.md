@@ -5,7 +5,7 @@ slug: uylastirilmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzlaştırılmak
+- uzlaştırılmak
 ozellikler:
 - - nesnesiz
   - -le

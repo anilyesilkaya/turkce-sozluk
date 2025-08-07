@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bayılmış, kendinden geçmiş
-- ► mahmur
+- mahmur
 - Gönül vermiş
 - İnsanı kendinden geçirir gibi olan
 - Yığılmış, dökülmüş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ömrü kısa olan
 - Kısa süren
-- ► dayanıksız
+- dayanıksız
 ozellikler:
 - - sıfat
 - - sıfat

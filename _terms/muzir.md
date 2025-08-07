@@ -5,7 +5,7 @@ slug: muzir
 letter: M
 lisan: Arapça mużirr
 anlamlar:
-- ► zararlı
+- zararlı
 - Her şeyi bozan, karıştıran, zararlı işler yapan (çocuk)
 - Cinsel gelişmeye zararı olan
 - Sağlığı bozan

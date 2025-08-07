@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Hor görmek
-- ► karalamak
+- karalamak
 ozellikler:
 - - -i
   - ağızlardan

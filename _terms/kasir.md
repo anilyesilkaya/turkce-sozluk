@@ -5,7 +5,7 @@ slug: kasir
 letter: K
 lisan: Arapça ḳaṣr
 anlamlar:
-- ► köşk
+- köşk
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: mudur-muavini
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► müdür yardımcısı
+- müdür yardımcısı
 ozellikler:
 - - isim
 ornekler:

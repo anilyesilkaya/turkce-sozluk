@@ -5,7 +5,7 @@ slug: cekirge-kusu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sığırcık
+- sığırcık
 ozellikler:
 - - isim
   - hayvan bilimi

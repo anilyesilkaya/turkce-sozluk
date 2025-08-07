@@ -5,7 +5,7 @@ slug: dokunmabana
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kanser
+- kanser
 ozellikler:
 - - isim
   - ağızlardan

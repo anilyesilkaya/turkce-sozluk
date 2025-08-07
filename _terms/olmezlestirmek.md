@@ -5,7 +5,7 @@ slug: olmezlestirmek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölümsüzleştirmek
+- ölümsüzleştirmek
 ozellikler:
 - - -i
 ornekler:

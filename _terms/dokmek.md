@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Sıvı veya tane durumunda olan şeyleri bulundukları kaptan başka bir yere boşaltmak
 - Belli bir yere boşaltmak
-- ► akıtmak
-- ► saçmak
+- akıtmak
+- saçmak
 - Bir şeyi salmak, bırakmak
 - Üstünde bulunan bir şeyi düşürmek
 - Teninde kızamık, kızıl, suçiçeği hastalıklarında olduğu gibi kırmızı lekeler çıkmak

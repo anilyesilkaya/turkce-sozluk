@@ -5,7 +5,7 @@ slug: fiktif
 letter: F
 lisan: Fransızca fictif
 anlamlar:
-- ► saymaca
+- saymaca
 ozellikler:
 - - isim
 ornekler:

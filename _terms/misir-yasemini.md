@@ -5,7 +5,7 @@ slug: misir-yasemini
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yasemin
+- yasemin
 ozellikler:
 - - isim
   - bitki bilimi

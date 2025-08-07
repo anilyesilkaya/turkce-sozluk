@@ -5,7 +5,7 @@ slug: sarimtirak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarımsı
+- sarımsı
 ozellikler:
 - - sıfat
 ornekler:

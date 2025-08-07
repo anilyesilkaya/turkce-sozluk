@@ -5,7 +5,7 @@ slug: kilgisal
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uygulamalı
+- uygulamalı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: istimlak
 letter: I
 lisan: Arapça istimlāk
 anlamlar:
-- ► kamulaştırma
+- kamulaştırma
 ozellikler:
 - - isim
 ornekler:

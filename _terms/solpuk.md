@@ -5,7 +5,7 @@ slug: solpuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarkık
+- sarkık
 - Yumuşak, kötü olan (et)
 ozellikler:
 - - sıfat

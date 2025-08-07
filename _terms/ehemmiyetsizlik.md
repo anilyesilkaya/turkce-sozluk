@@ -5,7 +5,7 @@ slug: ehemmiyetsizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önemsizlik
+- önemsizlik
 ozellikler:
 - - isim
 ornekler:

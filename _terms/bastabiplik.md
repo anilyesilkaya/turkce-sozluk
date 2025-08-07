@@ -5,7 +5,7 @@ slug: bastabiplik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başhekimlik
+- başhekimlik
 ozellikler:
 - - isim
 ornekler:

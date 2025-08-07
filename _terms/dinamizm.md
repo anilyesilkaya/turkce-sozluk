@@ -6,7 +6,7 @@ letter: D
 lisan: Fransızca dynamisme
 anlamlar:
 - Davranışları canlı ve hareketli olan canlının özelliği
-- ► devimselcilik
+- devimselcilik
 ozellikler:
 - - isim
 - - isim

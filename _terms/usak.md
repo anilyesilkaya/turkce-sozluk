@@ -5,10 +5,10 @@ slug: usak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çocuk
+- çocuk
 - Herhangi bir bölgenin halkından olan erkek
 - Belli bir ücretle ev işlerini yapmak için tutulan erkek işçi; hizmetkâr
-- ► tayfa
+- tayfa
 ozellikler:
 - - isim
 - - isim

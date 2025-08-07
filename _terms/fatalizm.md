@@ -5,7 +5,7 @@ slug: fatalizm
 letter: F
 lisan: Fransızca fatalisme
 anlamlar:
-- ► yazgıcılık
+- yazgıcılık
 ozellikler:
 - - isim
   - felsefe

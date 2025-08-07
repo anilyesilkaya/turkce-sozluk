@@ -5,7 +5,7 @@ slug: cobantuzlugu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sarıçalı
+- sarıçalı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: tul-derecesi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► boylam
+- boylam
 ozellikler:
 - - isim
   - gök bilimi

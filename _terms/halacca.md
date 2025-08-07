@@ -5,7 +5,7 @@ slug: halacca
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Halaç Türkçesi
+- Halaç Türkçesi
 ozellikler:
 - - isim
 ornekler:

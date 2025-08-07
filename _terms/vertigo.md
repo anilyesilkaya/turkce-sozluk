@@ -5,7 +5,7 @@ slug: vertigo
 letter: V
 lisan: İngilizce vertigo
 anlamlar:
-- ► baş dönmesi
+- baş dönmesi
 ozellikler:
 - - isim
   - tıp

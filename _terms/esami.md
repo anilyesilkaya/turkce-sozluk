@@ -5,7 +5,7 @@ slug: esami
 letter: E
 lisan: Arapça esāmį
 anlamlar:
-- ► esame
+- esame
 ozellikler:
 - - isim
 ornekler:

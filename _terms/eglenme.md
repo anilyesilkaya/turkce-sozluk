@@ -8,7 +8,7 @@ anlamlar:
 - Eğlenmek işi
 - Neşeli, hoşça vakit geçirme
 - Alay etme
-- ► oyalanma
+- oyalanma
 ozellikler:
 - - isim
 - - isim

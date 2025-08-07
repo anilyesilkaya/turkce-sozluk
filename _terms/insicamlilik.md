@@ -5,7 +5,7 @@ slug: insicamlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tutarlılık
+- tutarlılık
 ozellikler:
 - - isim
 ornekler:

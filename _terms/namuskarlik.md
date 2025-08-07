@@ -5,7 +5,7 @@ slug: namuskarlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► namusluluk
+- namusluluk
 ozellikler:
 - - isim
 ornekler:

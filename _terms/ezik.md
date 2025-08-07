@@ -8,7 +8,7 @@ anlamlar:
 - Çarpma, dövülme vb. sebeplerle vücutta oluşan bere
 - Ezilmiş veya yassılmış
 - Olaylar ve hayat şartları karşısında güçsüz ve sıkıntılı duruma düşmüş olan
-- ► pısırık
+- pısırık
 - Üzüntülü bir biçimde
 ozellikler:
 - - isim

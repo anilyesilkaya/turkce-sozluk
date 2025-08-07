@@ -5,7 +5,7 @@ slug: bahsetme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağışlama
+- bağışlama
 ozellikler:
 - - isim
 ornekler:

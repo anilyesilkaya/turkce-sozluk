@@ -5,7 +5,7 @@ slug: cembersi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çemberimsi
+- çemberimsi
 ozellikler:
 - - sıfat
 ornekler:

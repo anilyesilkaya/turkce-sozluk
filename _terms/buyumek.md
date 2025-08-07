@@ -10,7 +10,7 @@ anlamlar:
 - Yaşı artmak; yaş almak
 - Şiddeti artmak
 - Sayıca artmak
-- ► genişlemek
+- genişlemek
 - Önem ve değer kazanmak
 ozellikler:
 - - nesnesiz

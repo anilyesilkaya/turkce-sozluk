@@ -5,7 +5,7 @@ slug: fert
 letter: F
 lisan: Arapça ferd
 anlamlar:
-- ► birey
+- birey
 ozellikler:
 - - isim
 ornekler:

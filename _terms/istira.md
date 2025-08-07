@@ -5,7 +5,7 @@ slug: istira
 letter: I
 lisan: Arapça iştirāʾ
 anlamlar:
-- ► satın alma
+- satın alma
 ozellikler:
 - - isim
   - eskimiş

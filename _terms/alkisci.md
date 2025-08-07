@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Alkışlayan kimse
 - Dalkavuk, yüze gülücü, yağcı kimse; şakşakçı
-- ► alkış ağası
+- alkış ağası
 ozellikler:
 - - isim
 - - isim

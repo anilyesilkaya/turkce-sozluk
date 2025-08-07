@@ -5,7 +5,7 @@ slug: yer-sicani
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► köstebek
+- köstebek
 ozellikler:
 - - isim
   - hayvan bilimi

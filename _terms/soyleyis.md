@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Söylemek işi
-- ► telaffuz
+- telaffuz
 ozellikler:
 - - isim
 - - isim

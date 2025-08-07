@@ -5,8 +5,8 @@ slug: akim
 letter: A
 lisan: Arapça ʿaḳīm
 anlamlar:
-- ► verimsiz
-- ► sonuçsuz
+- verimsiz
+- sonuçsuz
 ozellikler:
 - - sıfat
   - eskimiş

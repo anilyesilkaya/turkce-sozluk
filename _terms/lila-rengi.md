@@ -5,7 +5,7 @@ slug: lila-rengi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► eflatun
+- eflatun
 - Bu renkte olan
 ozellikler:
 - - isim

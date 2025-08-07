@@ -5,7 +5,7 @@ slug: erguvani
 letter: E
 lisan: Farsça erġavān + Arapça -ī
 anlamlar:
-- ► erguvan rengi
+- erguvan rengi
 - Bu renkte olan
 ozellikler:
 - - isim

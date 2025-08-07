@@ -5,7 +5,7 @@ slug: alakalandirmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgilendirmek
+- ilgilendirmek
 ozellikler:
 - - -i
 ornekler:

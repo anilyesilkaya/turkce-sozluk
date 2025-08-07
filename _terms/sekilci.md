@@ -5,8 +5,8 @@ slug: sekilci
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimci
-- ► bürokrat
+- biçimci
+- bürokrat
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: kucumencik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küçücük
+- küçücük
 ozellikler:
 - - sıfat
 ornekler:

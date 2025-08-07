@@ -5,7 +5,7 @@ slug: ilan
 letter: I
 lisan: Arapça iʿlān
 anlamlar:
-- ► duyuru
+- duyuru
 - Açıkça bildirme, açıkça duyurma
 ozellikler:
 - - isim

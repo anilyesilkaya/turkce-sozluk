@@ -5,7 +5,7 @@ slug: sabit-kalem
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kopya kalemi
+- kopya kalemi
 ozellikler:
 - - isim
 ornekler:

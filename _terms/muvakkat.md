@@ -5,7 +5,7 @@ slug: muvakkat
 letter: M
 lisan: Arapça muvaḳḳat
 anlamlar:
-- ► geçici
+- geçici
 ozellikler:
 - - sıfat
   - eskimiş

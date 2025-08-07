@@ -5,7 +5,7 @@ slug: dilmaclik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çevirmenlik
+- çevirmenlik
 ozellikler:
 - - isim
 ornekler:

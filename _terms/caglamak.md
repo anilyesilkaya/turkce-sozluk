@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Su köpürerek ve ses çıkararak coşkun bir biçimde akmak
-- ► coşmak
+- coşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

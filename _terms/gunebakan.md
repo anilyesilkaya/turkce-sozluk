@@ -5,7 +5,7 @@ slug: gunebakan
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ayçiçeği
+- ayçiçeği
 ozellikler:
 - - isim
   - bitki bilimi

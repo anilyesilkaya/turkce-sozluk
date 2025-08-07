@@ -5,7 +5,7 @@ slug: alternatif-akim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dalgalı akım
+- dalgalı akım
 ozellikler:
 - - isim
   - fizik

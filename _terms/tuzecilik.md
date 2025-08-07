@@ -5,7 +5,7 @@ slug: tuzecilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hukukçuluk
+- hukukçuluk
 ozellikler:
 - - isim
 ornekler:

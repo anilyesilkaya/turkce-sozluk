@@ -5,7 +5,7 @@ slug: afsunculuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► büyücülük
+- büyücülük
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: sefkatli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► sevecen
+- sevecen
 - Sevecen bir biçimde
 ozellikler:
 - - sıfat

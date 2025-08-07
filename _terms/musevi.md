@@ -5,7 +5,7 @@ slug: musevi
 letter: M
 lisan: Arapça mūsevī
 anlamlar:
-- ► Yahudi
+- Yahudi
 ozellikler:
 - - isim
   - din bilimi

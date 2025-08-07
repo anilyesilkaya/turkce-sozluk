@@ -5,7 +5,7 @@ slug: fehmetmek
 letter: F
 lisan: Arapça fehm + Türkçe etmek
 anlamlar:
-- ► anlamak
+- anlamak
 ozellikler:
 - - -i
 ornekler:

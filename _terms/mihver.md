@@ -5,8 +5,8 @@ slug: mihver
 letter: M
 lisan: Arapça miḥver
 anlamlar:
-- ► eksen
-- ► önemli
+- eksen
+- önemli
 ozellikler:
 - - isim
   - eskimiş

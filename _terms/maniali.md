@@ -5,7 +5,7 @@ slug: maniali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► engelli
+- engelli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: yari-asalak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarım asalak
+- yarım asalak
 ozellikler:
 - - isim
   - bitki bilimi

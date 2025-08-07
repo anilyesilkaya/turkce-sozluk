@@ -5,7 +5,7 @@ slug: soy-gazlar
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► asal gazlar
+- asal gazlar
 ozellikler:
 - - isim
   - kimya

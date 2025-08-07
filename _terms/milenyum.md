@@ -5,7 +5,7 @@ slug: milenyum
 letter: M
 lisan: İngilizce millenium
 anlamlar:
-- ► binyıl
+- binyıl
 ozellikler:
 - - isim
 ornekler:

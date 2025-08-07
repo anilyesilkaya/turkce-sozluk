@@ -5,7 +5,7 @@ slug: ruhsal-cozumleme
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikanaliz
+- psikanaliz
 ozellikler:
 - - isim
   - ruh bilimi

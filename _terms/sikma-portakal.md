@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkılmış portakal suyu
-- ► sıkmalık portakal
+- sıkmalık portakal
 ozellikler:
 - - isim
 - - isim

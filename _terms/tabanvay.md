@@ -5,7 +5,7 @@ slug: tabanvay
 letter: T
 lisan: Türkçe taban + İngilizce way
 anlamlar:
-- ► yayan
+- yayan
 ozellikler:
 - - zarf
   - şaka yollu

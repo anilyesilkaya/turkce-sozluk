@@ -5,8 +5,8 @@ slug: kademe-kademe
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► adım adım
-- ► derece derece
+- adım adım
+- derece derece
 ozellikler:
 - - zarf
 - - zarf

@@ -11,7 +11,7 @@ anlamlar:
 - Bir akarsuyun denize veya göle döküldüğü yer
 - Koy, körfez, liman vb. yerlerin açık tarafı
 - Giriş yeri
-- ► kavşak
+- kavşak
 - Kesici aletlerin keskin tarafı
 - Üslup, ifade biçimi
 - Top, tüfek vb. silahlarda namlunun ucu veya açık olan kısmı

@@ -5,7 +5,7 @@ slug: sinirlandirmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sınırlamak
+- sınırlamak
 ozellikler:
 - - -i
 ornekler:

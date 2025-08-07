@@ -5,7 +5,7 @@ slug: yalitici
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yalıtkan
+- yalıtkan
 ozellikler:
 - - sıfat
 ornekler:

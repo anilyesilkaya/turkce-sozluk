@@ -5,7 +5,7 @@ slug: beton-mikseri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► betonkarar
+- betonkarar
 ozellikler:
 - - isim
 ornekler:

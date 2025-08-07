@@ -5,7 +5,7 @@ slug: arac-metin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► öncel metin
+- öncel metin
 ozellikler:
 - - isim
   - edebiyat

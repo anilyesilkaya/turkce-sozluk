@@ -5,7 +5,7 @@ slug: iklimleme-cihazi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► klima
+- klima
 ozellikler:
 - - isim
 ornekler:

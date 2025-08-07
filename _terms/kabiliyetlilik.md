@@ -5,7 +5,7 @@ slug: kabiliyetlilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yeteneklilik
+- yeteneklilik
 ozellikler:
 - - isim
 ornekler:

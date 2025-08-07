@@ -5,7 +5,7 @@ slug: karalti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karartı
+- karartı
 - Hafif karanlık
 ozellikler:
 - - isim

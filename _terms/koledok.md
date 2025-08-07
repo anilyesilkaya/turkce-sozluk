@@ -5,7 +5,7 @@ slug: koledok
 letter: K
 lisan: Fransızca cholédoque
 anlamlar:
-- ► öd kanalı
+- öd kanalı
 ozellikler:
 - - isim
   - anatomi

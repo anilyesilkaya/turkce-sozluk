@@ -10,7 +10,7 @@ anlamlar:
 - Kişilerin birbirine karşı uyumları; kimya
 - Bir cismin görüntüsünü tam ağ tabaka üzerine düşürebilmek için göz merceğinin dışbükeylik derecesini çoğaltıp azaltması olayı; mutabakat
 - Sesten söz dizimine kadar değişik dil birimlerini oluşturan ögeler arasındaki uyuşma; harmoni
-- ► armoni
+- armoni
 ozellikler:
 - - isim
 - - isim

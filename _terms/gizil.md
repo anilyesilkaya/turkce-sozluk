@@ -5,7 +5,7 @@ slug: gizil
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► potansiyel
+- potansiyel
 ozellikler:
 - - sıfat
 ornekler:

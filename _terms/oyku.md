@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ayrıntılarıyla anlatılan olay
-- ► hikâye
+- hikâye
 ozellikler:
 - - isim
 - - isim

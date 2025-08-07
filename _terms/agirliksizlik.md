@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlıksız olma durumu
-- ► çekimsizlik
+- çekimsizlik
 ozellikler:
 - - isim
 - - isim

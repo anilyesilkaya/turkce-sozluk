@@ -5,7 +5,7 @@ slug: vadesiz-mevduat
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vadesiz hesap
+- vadesiz hesap
 ozellikler:
 - - isim
 ornekler:

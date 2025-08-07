@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Sert ve öfkeli (kimse)
-- ► coşkun
+- coşkun
 - Hırçın olan
 ozellikler:
 - - sıfat

@@ -5,8 +5,8 @@ slug: imik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gırtlak
-- ► bıngıldak
+- gırtlak
+- bıngıldak
 - Animasyon film müziklerini oluşturan yapısal özelliklerin kültürel mesajları ve izleri içerdiğini belirtme
 ozellikler:
 - - isim

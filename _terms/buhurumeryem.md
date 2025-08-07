@@ -5,7 +5,7 @@ slug: buhurumeryem
 letter: B
 lisan: Arapça baḫūr + meryem
 anlamlar:
-- ► siklamen
+- siklamen
 ozellikler:
 - - isim
   - eskimiş

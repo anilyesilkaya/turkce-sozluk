@@ -5,7 +5,7 @@ slug: arzululuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteklilik
+- isteklilik
 ozellikler:
 - - isim
 ornekler:

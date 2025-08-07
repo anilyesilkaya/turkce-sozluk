@@ -5,7 +5,7 @@ slug: kontrolcu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► denetçi
+- denetçi
 ozellikler:
 - - isim
 ornekler:

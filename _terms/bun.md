@@ -5,7 +5,7 @@ slug: bun
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sıkıntı
+- sıkıntı
 ozellikler:
 - - isim
 ornekler:

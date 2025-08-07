@@ -5,7 +5,7 @@ slug: esvapsizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysisizlik
+- giysisizlik
 ozellikler:
 - - isim
 ornekler:

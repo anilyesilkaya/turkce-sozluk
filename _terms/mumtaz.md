@@ -5,7 +5,7 @@ slug: mumtaz
 letter: M
 lisan: Arapça mumtāz
 anlamlar:
-- ► seçkin
+- seçkin
 ozellikler:
 - - sıfat
 ornekler:

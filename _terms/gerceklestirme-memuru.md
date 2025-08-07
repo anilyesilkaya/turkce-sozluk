@@ -5,7 +5,7 @@ slug: gerceklestirme-memuru
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gerçekleştirme görevlisi
+- gerçekleştirme görevlisi
 ozellikler:
 - - isim
 ornekler:

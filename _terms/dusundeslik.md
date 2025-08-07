@@ -5,7 +5,7 @@ slug: dusundeslik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► oydaşlık
+- oydaşlık
 ozellikler:
 - - isim
 ornekler:

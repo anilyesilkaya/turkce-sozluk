@@ -5,7 +5,7 @@ slug: tagaddi
 letter: T
 lisan: Arapça taġaddī
 anlamlar:
-- ► beslenme
+- beslenme
 ozellikler:
 - - isim
   - eskimiş

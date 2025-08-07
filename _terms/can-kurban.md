@@ -5,7 +5,7 @@ slug: can-kurban
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► can feda
+- can feda
 ozellikler:
 - - ünlem
   - mecaz

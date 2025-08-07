@@ -5,7 +5,7 @@ slug: muge
 letter: M
 lisan: Fransızca muguet
 anlamlar:
-- ► inci çiçeği
+- inci çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

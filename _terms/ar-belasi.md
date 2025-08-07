@@ -5,7 +5,7 @@ slug: ar-belasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► namus belası
+- namus belası
 ozellikler:
 - - isim
   - mecaz

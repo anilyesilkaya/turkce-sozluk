@@ -5,7 +5,7 @@ slug: kurbaga-adam
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dalgıç
+- dalgıç
 ozellikler:
 - - isim
 ornekler:

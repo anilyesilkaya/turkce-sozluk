@@ -5,7 +5,7 @@ slug: vergi-mukellefi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vergi yükümlüsü
+- vergi yükümlüsü
 ozellikler:
 - - isim
 ornekler:

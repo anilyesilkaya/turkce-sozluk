@@ -5,7 +5,7 @@ slug: dusut
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düşük
+- düşük
 ozellikler:
 - - isim
   - ağızlardan

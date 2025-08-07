@@ -5,7 +5,7 @@ slug: adisyon
 letter: A
 lisan: Fransızca addition
 anlamlar:
-- ► hesap
+- hesap
 ozellikler:
 - - isim
 ornekler:

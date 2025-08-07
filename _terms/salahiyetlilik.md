@@ -5,7 +5,7 @@ slug: salahiyetlilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yetkililik
+- yetkililik
 ozellikler:
 - - isim
 ornekler:

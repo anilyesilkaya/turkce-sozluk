@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Başa takılan elmas veya altın iğne
-- ► çekicilik
+- çekicilik
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: vusat
 letter: V
 lisan: Arapça vusʿat
 anlamlar:
-- ► genişlik
-- ► uzam
+- genişlik
+- uzam
 ozellikler:
 - - isim
   - eskimiş

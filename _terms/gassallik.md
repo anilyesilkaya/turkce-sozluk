@@ -5,7 +5,7 @@ slug: gassallik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ölü yıkayıcılığı
+- ölü yıkayıcılığı
 ozellikler:
 - - isim
 ornekler:

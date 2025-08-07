@@ -5,7 +5,7 @@ slug: sabit-fikir
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saplantı
+- saplantı
 ozellikler:
 - - isim
   - ruh bilimi

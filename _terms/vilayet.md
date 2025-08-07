@@ -5,8 +5,8 @@ slug: vilayet
 letter: V
 lisan: Arapça vilāyet
 anlamlar:
-- ► il
-- ► valilik
+- il
+- valilik
 ozellikler:
 - - isim
 - - isim

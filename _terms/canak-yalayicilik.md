@@ -5,7 +5,7 @@ slug: canak-yalayicilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
 ornekler:

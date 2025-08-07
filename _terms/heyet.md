@@ -5,8 +5,8 @@ slug: heyet
 letter: H
 lisan: Arapça heyʾet
 anlamlar:
-- ► kurul
-- ► gök bilimi
+- kurul
+- gök bilimi
 - Biçim, kılık, dış görünüş
 ozellikler:
 - - isim

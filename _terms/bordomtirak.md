@@ -5,7 +5,7 @@ slug: bordomtirak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bordomsu
+- bordomsu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: modernizm
 letter: M
 lisan: Fransızca modernisme
 anlamlar:
-- ► çağdaşlık
+- çağdaşlık
 - Güzel sanatlarda gelenekçiliğe karşı olan yenilikçi eğilim
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sahsilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kişisellik
+- kişisellik
 ozellikler:
 - - isim
 ornekler:

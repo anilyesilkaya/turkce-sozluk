@@ -5,7 +5,7 @@ slug: holding
 letter: H
 lisan: İngilizce holding
 anlamlar:
-- ► ana ortaklık
+- ana ortaklık
 ozellikler:
 - - isim
   - ticaret

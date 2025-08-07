@@ -6,8 +6,8 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Güneşin batışından yaklaşık olarak iki saat sonrasına karşılık gelen zaman
-- ► yatsı ezanı
-- ► yatsı namazı
+- yatsı ezanı
+- yatsı namazı
 ozellikler:
 - - isim
 - - isim

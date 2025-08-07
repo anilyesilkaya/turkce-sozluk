@@ -5,7 +5,7 @@ slug: filizi
 letter: F
 lisan: Rumca + Arapça -ī
 anlamlar:
-- ► filiz rengi
+- filiz rengi
 - Bu renkte olan
 ozellikler:
 - - isim

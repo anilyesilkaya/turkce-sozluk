@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca mascotte
 anlamlar:
 - Uğur getireceğine inanılan şey
-- ► uğurluk
+- uğurluk
 ozellikler:
 - - isim
 - - isim

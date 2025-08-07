@@ -5,7 +5,7 @@ slug: gorelik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► bağıntı
+- bağıntı
 ozellikler:
 - - isim
   - felsefe

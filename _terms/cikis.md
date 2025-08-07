@@ -7,15 +7,15 @@ lisan: Türkçe
 anlamlar:
 - Çıkmak işi
 - Bir yerden çıkmak için kullanılan nokta
-- ► yokuş
+- yokuş
 - Güreşte cazgırın alana çıkardığı pehlivanların izleyicilere doğru yürüyerek çalım yapmaya başlaması
 - Mezuniyet, okul bitirme
-- ► çıkış belgesi
+- çıkış belgesi
 - Beklenilmeyen bir sırada yapılan sert konuşma
 - Uçağın bir havaalanından başka bir havaalanına gitme süreci; sorti
 - Kuşatılmış bir bölgedeki birliklerin yaptığı saldırı
 - Verilen bir işaretle yarışa başlama; depar
-- ► çıktı
+- çıktı
 ozellikler:
 - - isim
 - - isim

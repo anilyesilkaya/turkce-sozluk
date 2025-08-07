@@ -8,7 +8,7 @@ anlamlar:
 - Genellikle bayramlarda çocukların eğlence aracı olarak kullandığı yanıcı madde
 - Savaş gemilerinde su altı silahı olarak kullanılan büyük bomba; torpido
 - Bir kimseyi kayırma işi
-- ► kayırıcı
+- kayırıcı
 ozellikler:
 - - isim
 - - isim

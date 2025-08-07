@@ -5,7 +5,7 @@ slug: mahbes
 letter: M
 lisan: Arapça maḥbes
 anlamlar:
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - isim
   - eskimiş

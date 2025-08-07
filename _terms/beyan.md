@@ -5,7 +5,7 @@ slug: beyan
 letter: B
 lisan: Arapça beyān
 anlamlar:
-- ► bildirme
+- bildirme
 - Bir eserde düşüncelerin, duyguların, hayallerin doğuş ve değerlerini, bunların anlatımında tutulacak yolları konu edinen bir edebiyat bilgisi dalı
 ozellikler:
 - - isim

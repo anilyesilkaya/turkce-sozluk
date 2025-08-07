@@ -5,7 +5,7 @@ slug: sifahi
 letter: Ş
 lisan: Arapça şifāhī
 anlamlar:
-- ► sözlü, tahrirî karşıtı
+- sözlü, tahrirî karşıtı
 ozellikler:
 - - sıfat
   - eskimiş

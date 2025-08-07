@@ -5,8 +5,8 @@ slug: muhtesem
 letter: M
 lisan: Arapça muḥteşem
 anlamlar:
-- ► görkemli
-- ► büyük
+- görkemli
+- büyük
 ozellikler:
 - - sıfat
 - - sıfat

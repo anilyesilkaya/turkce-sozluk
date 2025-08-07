@@ -5,7 +5,7 @@ slug: inhisarcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tekelcilik
+- tekelcilik
 ozellikler:
 - - isim
 ornekler:

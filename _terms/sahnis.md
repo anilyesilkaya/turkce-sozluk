@@ -5,7 +5,7 @@ slug: sahnis
 letter: Ş
 lisan: Farsça şāhnīş
 anlamlar:
-- ► şahnişin
+- şahnişin
 ozellikler:
 - - isim
   - eskimiş

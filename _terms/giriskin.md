@@ -5,7 +5,7 @@ slug: giriskin
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► girişken
+- girişken
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarlama işini yapan kimse
-- ► adaptör
+- adaptör
 ozellikler:
 - - isim
 - - isim

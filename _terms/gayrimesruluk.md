@@ -5,7 +5,7 @@ slug: gayrimesruluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yasa dışılık
+- yasa dışılık
 ozellikler:
 - - isim
 ornekler:

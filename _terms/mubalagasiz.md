@@ -5,7 +5,7 @@ slug: mubalagasiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► abartısız
+- abartısız
 ozellikler:
 - - sıfat
 ornekler:

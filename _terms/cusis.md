@@ -5,7 +5,7 @@ slug: cusis
 letter: C
 lisan: Farsça cūşiş
 anlamlar:
-- ► coşkunluk
+- coşkunluk
 ozellikler:
 - - isim
   - eskimiş

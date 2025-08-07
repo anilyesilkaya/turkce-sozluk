@@ -5,7 +5,7 @@ slug: reorganizasyon
 letter: R
 lisan: Fransızca réorganisation
 anlamlar:
-- ► yeniden düzenleme
+- yeniden düzenleme
 ozellikler:
 - - isim
 ornekler:

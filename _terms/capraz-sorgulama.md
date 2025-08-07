@@ -5,7 +5,7 @@ slug: capraz-sorgulama
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çapraz sorgu
+- çapraz sorgu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: riyakar
 letter: R
 lisan: Arapça riyā + Farsça -kār
 anlamlar:
-- ► ikiyüzlü
+- ikiyüzlü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: silisizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► iffetsizlik
+- iffetsizlik
 ozellikler:
 - - isim
 ornekler:

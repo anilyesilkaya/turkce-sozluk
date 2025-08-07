@@ -5,7 +5,7 @@ slug: normalustu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sıra dışı
+- sıra dışı
 ozellikler:
 - - sıfat
 ornekler:

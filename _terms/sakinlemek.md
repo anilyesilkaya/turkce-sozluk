@@ -5,7 +5,7 @@ slug: sakinlemek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sakinleşmek
+- sakinleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

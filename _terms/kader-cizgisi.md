@@ -5,7 +5,7 @@ slug: kader-cizgisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
 ornekler:

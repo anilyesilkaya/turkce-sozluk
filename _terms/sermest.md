@@ -5,7 +5,7 @@ slug: sermest
 letter: S
 lisan: Farsça ser + mest
 anlamlar:
-- ► sarhoş
+- sarhoş
 ozellikler:
 - - sıfat
   - eskimiş

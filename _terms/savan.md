@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Pamuk ipliğinden yapılan kalınca kilim
-- ► yaygı
+- yaygı
 ozellikler:
 - - isim
   - ağızlardan

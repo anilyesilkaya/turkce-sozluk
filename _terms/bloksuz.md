@@ -5,7 +5,7 @@ slug: bloksuz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlantısız
+- bağlantısız
 ozellikler:
 - - sıfat
 ornekler:

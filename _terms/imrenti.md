@@ -5,7 +5,7 @@ slug: imrenti
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► imrenme
+- imrenme
 ozellikler:
 - - isim
 ornekler:

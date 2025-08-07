@@ -5,7 +5,7 @@ slug: akronim
 letter: A
 lisan: İngilizce acronym
 anlamlar:
-- ► kısaltma ad
+- kısaltma ad
 ozellikler:
 - - isim
   - dil bilgisi

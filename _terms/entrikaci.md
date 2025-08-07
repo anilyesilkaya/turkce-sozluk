@@ -5,7 +5,7 @@ slug: entrikaci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► düzenbaz
+- düzenbaz
 ozellikler:
 - - sıfat
 ornekler:

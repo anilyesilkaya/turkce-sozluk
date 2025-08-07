@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ʿirḳ
 anlamlar:
 - Kalıtımsal olarak ortak fiziksel ve fizyolojik özelliklere sahip insanlar topluluğu; budun
-- ► soy
+- soy
 - Bir canlı türünde aynı karakteri taşıyan canlıların oluşturduğu alt bölüm
 ozellikler:
 - - isim

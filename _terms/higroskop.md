@@ -5,7 +5,7 @@ slug: higroskop
 letter: H
 lisan: Fransızca hygroscope
 anlamlar:
-- ► nemçeker
+- nemçeker
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: misdak
 letter: M
 lisan: Arapça miṣdāḳ
 anlamlar:
-- ► ölçüt
+- ölçüt
 ozellikler:
 - - isim
   - eskimiş

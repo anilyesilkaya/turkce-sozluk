@@ -5,7 +5,7 @@ slug: ivegen
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► aceleci
+- aceleci
 - Ani başlayan ve birden şiddetlenen (hastalık); akut
 ozellikler:
 - - sıfat

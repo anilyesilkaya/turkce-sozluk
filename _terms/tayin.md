@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taʿyīn
 anlamlar:
 - Ne olduğunu anlama, gösterme, belirtme, kararlaştırma belirleme
-- ► atama
+- atama
 ozellikler:
 - - isim
 - - isim

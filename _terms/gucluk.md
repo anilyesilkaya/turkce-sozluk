@@ -5,7 +5,7 @@ slug: gucluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► zorluk
+- zorluk
 - Ağır ve yorucu emek; zahmet, meşakkat
 - Engel, pürüz
 ozellikler:

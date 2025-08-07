@@ -5,7 +5,7 @@ slug: avanakcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - zarf
 ornekler:

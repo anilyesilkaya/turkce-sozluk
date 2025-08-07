@@ -5,7 +5,7 @@ slug: norosirurjiyen
 letter: N
 lisan: Fransızca neurochirurgien
 anlamlar:
-- ► beyin cerrahı
+- beyin cerrahı
 ozellikler:
 - - isim
   - tıp

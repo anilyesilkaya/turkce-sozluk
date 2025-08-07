@@ -5,7 +5,7 @@ slug: sidik-borusu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar borusu
+- idrar borusu
 ozellikler:
 - - isim
   - anatomi

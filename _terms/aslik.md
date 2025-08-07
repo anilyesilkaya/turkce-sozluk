@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Aş yapmak için hazırlanan ve saklanan şeyler
 - Dövüldükten sonra savrularak temizlenen ve kurutulan buğday
-- ► zahire
+- zahire
 ozellikler:
 - - isim
 - - isim

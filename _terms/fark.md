@@ -6,8 +6,8 @@ letter: F
 lisan: Arapça farḳ
 anlamlar:
 - Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım
-- ► üstelik
-- ► ayrım
+- üstelik
+- ayrım
 - Çıkarma işleminin sonucu
 ozellikler:
 - - isim

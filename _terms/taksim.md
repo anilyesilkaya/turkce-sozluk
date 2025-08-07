@@ -5,8 +5,8 @@ slug: taksim
 letter: T
 lisan: Arapça taḳsīm
 anlamlar:
-- ► paylaştırma
-- ► bölü
+- paylaştırma
+- bölü
 - Klasik Türk müziğinde faslın başında ve ortasında çalgıcının doğaçlama yöntemiyle çaldığı müzik
 ozellikler:
 - - isim

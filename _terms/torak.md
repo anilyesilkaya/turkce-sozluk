@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Kömürleştirilecek ağaç veya pişirilecek tuğlalarla dolu olan ve dışı çamur ile sıvanan kümbet
-- ► çökelek
+- çökelek
 ozellikler:
 - - isim
 - - isim

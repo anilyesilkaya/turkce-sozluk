@@ -5,7 +5,7 @@ slug: zarafet
 letter: Z
 lisan: Arapça ẓarāfet
 anlamlar:
-- ► zariflik
+- zariflik
 ozellikler:
 - - isim
 ornekler:

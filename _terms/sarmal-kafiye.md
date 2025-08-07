@@ -5,7 +5,7 @@ slug: sarmal-kafiye
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarma kafiye
+- sarma kafiye
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ilkelce
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilkel
+- ilkel
 - (ilke'lce) İlkel bir biçimde
 ozellikler:
 - - sıfat

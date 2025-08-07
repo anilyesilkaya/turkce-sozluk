@@ -5,7 +5,7 @@ slug: rasyonalist
 letter: R
 lisan: Fransızca rationaliste
 anlamlar:
-- ► akılcı
+- akılcı
 ozellikler:
 - - sıfat
   - felsefe

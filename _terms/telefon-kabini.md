@@ -5,7 +5,7 @@ slug: telefon-kabini
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► telefon kulübesi
+- telefon kulübesi
 ozellikler:
 - - isim
 ornekler:

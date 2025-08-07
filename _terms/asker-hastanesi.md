@@ -5,7 +5,7 @@ slug: asker-hastanesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► askerî hastane
+- askerî hastane
 ozellikler:
 - - isim
 ornekler:

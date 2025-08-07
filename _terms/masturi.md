@@ -5,7 +5,7 @@ slug: masturi
 letter: M
 lisan: Rumca
 anlamlar:
-- ► mastori
+- mastori
 ozellikler:
 - - isim
   - denizcilik

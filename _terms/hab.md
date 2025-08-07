@@ -5,7 +5,7 @@ slug: hab
 letter: H
 lisan: Farsça ḫvāb
 anlamlar:
-- ► uyku
+- uyku
 ozellikler:
 - - isim
   - eskimiş

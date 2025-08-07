@@ -7,7 +7,7 @@ lisan: Farsça bend
 anlamlar:
 - Su biriktirmek için akan suyun önüne yapılan set
 - Kanun maddesinin bölümlerinden her biri
-- ► bağ
+- bağ
 - Kitaplarda kendi içinde bütünlük oluşturan bölüm
 - Gazete yazısı
 - Bir şiirdeki dörtlüklerin her biri; bağlam

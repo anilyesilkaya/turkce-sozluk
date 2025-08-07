@@ -5,7 +5,7 @@ slug: zanli
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► şüpheli
+- şüpheli
 ozellikler:
 - - sıfat
   - hukuk

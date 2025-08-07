@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Geniş olma durumu; genlik, vüsat
-- ► en (I), boy karşıtı
+- en (I), boy karşıtı
 ozellikler:
 - - isim
 - - isim

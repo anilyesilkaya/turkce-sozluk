@@ -5,7 +5,7 @@ slug: setaret
 letter: Ş
 lisan: Arapça şeṭāret
 anlamlar:
-- ► şenlik
+- şenlik
 ozellikler:
 - - isim
   - eskimiş

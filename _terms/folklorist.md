@@ -5,7 +5,7 @@ slug: folklorist
 letter: F
 lisan: Fransızca folkloriste
 anlamlar:
-- ► halk bilimci
+- halk bilimci
 ozellikler:
 - - isim
 ornekler:

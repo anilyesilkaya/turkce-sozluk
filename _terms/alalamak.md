@@ -5,7 +5,7 @@ slug: alalamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gizlemek
+- gizlemek
 ozellikler:
 - - -i
 ornekler:

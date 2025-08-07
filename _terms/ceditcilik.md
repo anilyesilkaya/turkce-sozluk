@@ -5,7 +5,7 @@ slug: ceditcilik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yenilikçilik
+- yenilikçilik
 ozellikler:
 - - isim
 ornekler:

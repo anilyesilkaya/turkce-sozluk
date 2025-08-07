@@ -5,7 +5,7 @@ slug: burudet
 letter: B
 lisan: Arapça burūdet
 anlamlar:
-- ► soğukluk
+- soğukluk
 ozellikler:
 - - isim
   - eskimiş

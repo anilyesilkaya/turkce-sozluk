@@ -5,7 +5,7 @@ slug: zannolunmak
 letter: Z
 lisan: Arapça ẓann + Türkçe olunmak
 anlamlar:
-- ► sanılmak
+- sanılmak
 ozellikler:
 - - nesnesiz
 ornekler:

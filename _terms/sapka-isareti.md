@@ -5,7 +5,7 @@ slug: sapka-isareti
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► düzeltme işareti
+- düzeltme işareti
 ozellikler:
 - - isim
   - dil bilgisi

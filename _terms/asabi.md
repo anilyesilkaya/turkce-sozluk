@@ -5,8 +5,8 @@ slug: asabi
 letter: A
 lisan: Arapça ʿaṣabī
 anlamlar:
-- ► sinirli
-- ► sinirsel
+- sinirli
+- sinirsel
 - Sinirli bir biçimde
 ozellikler:
 - - sıfat

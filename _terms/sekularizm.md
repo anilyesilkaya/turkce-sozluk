@@ -5,7 +5,7 @@ slug: sekularizm
 letter: S
 lisan: Fransızca secularisme
 anlamlar:
-- ► dünyacılık
+- dünyacılık
 ozellikler:
 - - isim
   - felsefe

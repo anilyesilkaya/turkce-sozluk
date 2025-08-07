@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Şekeri olmayan
 - Şekeri az, tadı az olan
-- ► sade
+- sade
 ozellikler:
 - - sıfat
 - - sıfat

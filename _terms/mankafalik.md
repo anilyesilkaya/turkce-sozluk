@@ -5,7 +5,7 @@ slug: mankafalik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 - Atlarda görülen süreğen, şiddetli sakağı
 ozellikler:
 - - isim

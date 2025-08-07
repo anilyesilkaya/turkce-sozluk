@@ -5,7 +5,7 @@ slug: keski
 letter: K
 lisan: Farsça kāşki
 anlamlar:
-- ► keşke
+- keşke
 ozellikler:
 - - ünlem
 ornekler:

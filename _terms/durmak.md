@@ -17,7 +17,7 @@ anlamlar:
 - Bir yerde olmak veya bulunmak
 - Belli bir durumda, bir görevde bulunmak
 - Ara vermek
-- ► yaşamak
+- yaşamak
 - 'Kök veya gövdeleri sonuna -a (-e) zarf-fiil eki almış fiillere gelerek süreklilik bildiren birleşik fiiller oluşturur: Çalışadurmak, bakadurmak, getiredurmak, yiyedurmak gibi'
 ozellikler:
 - - nesnesiz

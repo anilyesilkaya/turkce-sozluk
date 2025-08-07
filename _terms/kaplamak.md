@@ -13,7 +13,7 @@ anlamlar:
 - Kaplama adı verilen ince ağaç levhaları, değişik yöntemlerle hazırlanmış yüzeylere yapıştırmak
 - Bir madeni bir başka madenle kimyasal bir yöntemle örtmek
 - Bir kimsenin veya bir şeyin nitelikleri herkesçe bilinir olmak
-- ► doldurmak
+- doldurmak
 ozellikler:
 - - -i
 - - -i

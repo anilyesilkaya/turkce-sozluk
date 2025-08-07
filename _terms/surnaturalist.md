@@ -5,7 +5,7 @@ slug: surnaturalist
 letter: S
 lisan: Fransızca surnaturaliste
 anlamlar:
-- ► doğaüstücü
+- doğaüstücü
 ozellikler:
 - - sıfat
   - felsefe

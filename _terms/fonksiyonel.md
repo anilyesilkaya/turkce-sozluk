@@ -5,7 +5,7 @@ slug: fonksiyonel
 letter: F
 lisan: Fransızca fonctionnel
 anlamlar:
-- ► işlevsel
+- işlevsel
 - Bir kimyasal fonksiyon ile ilgili
 ozellikler:
 - - sıfat

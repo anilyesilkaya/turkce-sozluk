@@ -5,7 +5,7 @@ slug: peruk
 letter: P
 lisan: Fransızca perruque
 anlamlar:
-- ► takma saç
+- takma saç
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ulamak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► eklemek
+- eklemek
 ozellikler:
 - - -e
   - -i

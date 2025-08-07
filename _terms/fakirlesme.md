@@ -5,7 +5,7 @@ slug: fakirlesme
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yoksullaşma
+- yoksullaşma
 ozellikler:
 - - isim
 ornekler:

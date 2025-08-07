@@ -5,7 +5,7 @@ slug: kerhane
 letter: K
 lisan: Farsça kār + ḫāne
 anlamlar:
-- ► genelev
+- genelev
 ozellikler:
 - - isim
   - eskimiş

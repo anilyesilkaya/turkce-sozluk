@@ -5,7 +5,7 @@ slug: uzatmali-cavus
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzman çavuş
+- uzman çavuş
 ozellikler:
 - - isim
 ornekler:

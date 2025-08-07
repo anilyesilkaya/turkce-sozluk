@@ -5,7 +5,7 @@ slug: yer-yuvari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yerküre
+- yerküre
 ozellikler:
 - - isim
   - coğrafya

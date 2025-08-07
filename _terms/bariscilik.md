@@ -5,7 +5,7 @@ slug: bariscilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► barışseverlik
+- barışseverlik
 ozellikler:
 - - isim
 ornekler:

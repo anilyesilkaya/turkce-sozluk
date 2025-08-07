@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Elle yapılan kalın, seyrek, gelişigüzel dikiş
-- ► oyulgalama
+- oyulgalama
 ozellikler:
 - - isim
 - - isim

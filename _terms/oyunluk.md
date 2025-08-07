@@ -5,7 +5,7 @@ slug: oyunluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► sahne
+- sahne
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: taammum
 letter: T
 lisan: Arapça taʿammum
 anlamlar:
-- ► genelleşme
+- genelleşme
 ozellikler:
 - - isim
   - eskimiş

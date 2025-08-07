@@ -5,7 +5,7 @@ slug: bir-defalik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir kerelik
+- bir kerelik
 ozellikler:
 - - zarf
 ornekler:

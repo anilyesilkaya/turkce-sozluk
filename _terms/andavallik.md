@@ -5,7 +5,7 @@ slug: andavallik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► andavallılık
+- andavallılık
 ozellikler:
 - - isim
 ornekler:

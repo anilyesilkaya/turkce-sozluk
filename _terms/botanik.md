@@ -5,7 +5,7 @@ slug: botanik
 letter: B
 lisan: Fransızca botanique
 anlamlar:
-- ► bitki bilimi
+- bitki bilimi
 ozellikler:
 - - isim
 ornekler:

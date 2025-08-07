@@ -5,7 +5,7 @@ slug: sarahatle
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarahaten
+- sarahaten
 ozellikler:
 - - zarf
 ornekler:

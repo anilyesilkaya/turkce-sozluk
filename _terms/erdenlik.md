@@ -5,7 +5,7 @@ slug: erdenlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bakirelik
+- bakirelik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: norosirurji
 letter: N
 lisan: Fransızca neurochirurgie
 anlamlar:
-- ► beyin cerrahisi
+- beyin cerrahisi
 ozellikler:
 - - isim
   - tıp

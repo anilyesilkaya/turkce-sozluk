@@ -5,7 +5,7 @@ slug: gafil
 letter: G
 lisan: Arapça ġāfil
 anlamlar:
-- ► aymaz
+- aymaz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: disimilasyon
 letter: D
 lisan: Fransızca dissimilation
 anlamlar:
-- ► benzeşmezlik
+- benzeşmezlik
 ozellikler:
 - - isim
   - dil bilgisi

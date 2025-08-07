@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Batmış, çökmüş olan
-- ► müflis
+- müflis
 ozellikler:
 - - sıfat
   - hukuk

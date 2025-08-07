@@ -5,7 +5,7 @@ slug: asiri-etkin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hiperaktif
+- hiperaktif
 ozellikler:
 - - sıfat
 ornekler:

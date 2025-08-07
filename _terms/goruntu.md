@@ -6,8 +6,8 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Görünen şey
-- ► hayalet
-- ► manzara
+- hayalet
+- manzara
 - Gölge oyununda Karagözcünün perdeye yansıttığı görsel malzeme
 - Herhangi bir nesnenin mercek, ayna vb. araçlarla oluşturulan biçimi; hayal
 - Sayı doğrusu üzerinde bir sayıya karşı gelen nokta

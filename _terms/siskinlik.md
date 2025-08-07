@@ -6,10 +6,10 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişkin olma durumu
-- ► kabarıklık
+- kabarıklık
 - Bağırsaklarda gaz birikmesi sonucu karında oluşan şişme ve gerginlik
-- ► enflasyon
-- ► böbürlenme
+- enflasyon
+- böbürlenme
 ozellikler:
 - - isim
 - - isim

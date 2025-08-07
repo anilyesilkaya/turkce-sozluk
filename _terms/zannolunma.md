@@ -5,7 +5,7 @@ slug: zannolunma
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sanılma
+- sanılma
 ozellikler:
 - - isim
 ornekler:

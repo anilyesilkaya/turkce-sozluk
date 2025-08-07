@@ -5,7 +5,7 @@ slug: cins-ismi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cins adı
+- cins adı
 ozellikler:
 - - isim
   - dil bilgisi

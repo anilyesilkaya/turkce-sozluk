@@ -5,7 +5,7 @@ slug: entelektualizm
 letter: E
 lisan: Fransızca intellectualisme
 anlamlar:
-- ► anlıkçılık
+- anlıkçılık
 ozellikler:
 - - isim
   - felsefe

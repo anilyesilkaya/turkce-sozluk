@@ -5,7 +5,7 @@ slug: cubuk-odasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çubukluk
+- çubukluk
 ozellikler:
 - - isim
 ornekler:

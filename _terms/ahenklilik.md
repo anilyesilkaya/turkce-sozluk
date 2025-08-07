@@ -5,7 +5,7 @@ slug: ahenklilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uyumluluk
+- uyumluluk
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çocuğu kundaklamak
 - Beşiğe yatırıp bağlamak
-- ► bulamak
+- bulamak
 ozellikler:
 - - -e
   - -i

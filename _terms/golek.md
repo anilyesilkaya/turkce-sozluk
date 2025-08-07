@@ -5,7 +5,7 @@ slug: golek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gölet
+- gölet
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: leninizm
 letter: L
 lisan: Fransızca leninisme
 anlamlar:
-- ► Lenincilik
+- Lenincilik
 ozellikler:
 - - isim
 ornekler:

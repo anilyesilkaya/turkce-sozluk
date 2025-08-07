@@ -5,7 +5,7 @@ slug: dokumantasyon
 letter: D
 lisan: Fransızca documentation
 anlamlar:
-- ► belgeleme
+- belgeleme
 ozellikler:
 - - isim
 ornekler:

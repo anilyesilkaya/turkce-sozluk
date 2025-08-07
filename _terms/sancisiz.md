@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sancısı olmayan
-- ► sıkıntısız
+- sıkıntısız
 ozellikler:
 - - sıfat
 - - sıfat

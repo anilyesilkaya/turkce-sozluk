@@ -5,7 +5,7 @@ slug: yari-son
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarı final
+- yarı final
 ozellikler:
 - - isim
   - spor

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Yerleşim birimleri içerisinde, trafiğin çok yoğun olduğu ana cadde
-- ► ana atardamar
+- ana atardamar
 ozellikler:
 - - isim
 - - isim

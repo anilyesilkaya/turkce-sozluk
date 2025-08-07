@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Örümcek kuşugillerden, ormanlık, çalılık yerlerde yaşayan, güzel öten bir kuş (Lanius)
-- ► cırcır böceği
+- cırcır böceği
 ozellikler:
 - - isim
   - hayvan bilimi

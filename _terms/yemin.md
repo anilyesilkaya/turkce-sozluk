@@ -5,7 +5,7 @@ slug: yemin
 letter: Y
 lisan: Arapça yemīn
 anlamlar:
-- ► ant
+- ant
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hazik
 letter: H
 lisan: Arapça ḥāẕiḳ
 anlamlar:
-- ► usta
+- usta
 ozellikler:
 - - sıfat
   - eskimiş

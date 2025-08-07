@@ -5,7 +5,7 @@ slug: tasa
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygı
+- kaygı
 - Tatmin edici olmayan veya tedirgin eden durumların ortaya çıkmasını önleyebilmede, güvensizlik içinde bulunulduğunda duyulan tedirgin edici duygu
 ozellikler:
 - - isim

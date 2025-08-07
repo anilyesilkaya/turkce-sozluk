@@ -5,7 +5,7 @@ slug: tacir
 letter: T
 lisan: Arapça tācir
 anlamlar:
-- ► tüccar
+- tüccar
 ozellikler:
 - - isim
   - eskimiş

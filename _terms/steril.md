@@ -5,8 +5,8 @@ slug: steril
 letter: S
 lisan: Fransızca stérile
 anlamlar:
-- ► arınık
-- ► kısır (I)
+- arınık
+- kısır (I)
 ozellikler:
 - - sıfat
   - tıp

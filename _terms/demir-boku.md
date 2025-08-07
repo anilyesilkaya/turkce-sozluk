@@ -5,7 +5,7 @@ slug: demir-boku
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► cüruf
+- cüruf
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: unlemek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► seslenmek
+- seslenmek
 - Yüksek sesle bildirmek
 ozellikler:
 - - -e

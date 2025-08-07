@@ -5,7 +5,7 @@ slug: zeamet
 letter: Z
 lisan: Arapça zeʿāmet
 anlamlar:
-- ► büyük tımar
+- büyük tımar
 ozellikler:
 - - isim
   - tarih

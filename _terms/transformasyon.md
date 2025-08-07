@@ -5,7 +5,7 @@ slug: transformasyon
 letter: T
 lisan: Fransızca transformation
 anlamlar:
-- ► dönüşüm
+- dönüşüm
 ozellikler:
 - - isim
   - ruh bilimi

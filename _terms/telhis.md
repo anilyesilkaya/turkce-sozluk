@@ -5,7 +5,7 @@ slug: telhis
 letter: T
 lisan: Arapça telḫīs
 anlamlar:
-- ► özet
+- özet
 - Sadrazamın bir sorunu kendi düşünceleriyle birlikte özet olarak yazıp padişaha sunduğu kâğıt
 ozellikler:
 - - isim

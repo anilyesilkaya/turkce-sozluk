@@ -5,7 +5,7 @@ slug: kestane-kargasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► alakarga
+- alakarga
 ozellikler:
 - - isim
   - hayvan bilimi

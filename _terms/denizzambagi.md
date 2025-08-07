@@ -5,7 +5,7 @@ slug: denizzambagi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denizlalesi
+- denizlalesi
 ozellikler:
 - - isim
   - hayvan bilimi

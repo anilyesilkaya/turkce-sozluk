@@ -5,7 +5,7 @@ slug: yarayisli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yararlı
+- yararlı
 ozellikler:
 - - sıfat
 ornekler:

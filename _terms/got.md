@@ -5,9 +5,9 @@ slug: got
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► anüs
+- anüs
 - Alt taraf, dip
-- ► kıç
+- kıç
 ozellikler:
 - - isim
   - kaba konuşmada

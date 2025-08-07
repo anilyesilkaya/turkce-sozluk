@@ -5,7 +5,7 @@ slug: hurriyetperverlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özgürlükçülük
+- özgürlükçülük
 ozellikler:
 - - isim
 ornekler:

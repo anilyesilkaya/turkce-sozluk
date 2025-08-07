@@ -5,7 +5,7 @@ slug: solaryum
 letter: S
 lisan: Fransızca solarium
 anlamlar:
-- ► güneşletici
+- güneşletici
 - Hastalıkları güneş ışınları ile tedavi etmeyi amaçlayan kuruluş
 ozellikler:
 - - isim

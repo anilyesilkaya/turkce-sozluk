@@ -5,7 +5,7 @@ slug: siki-duzen
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► disiplin
+- disiplin
 ozellikler:
 - - isim
 ornekler:

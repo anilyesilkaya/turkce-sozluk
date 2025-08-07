@@ -5,7 +5,7 @@ slug: darulfunun
 letter: D
 lisan: Arapça dār + funūn
 anlamlar:
-- ► üniversite
+- üniversite
 ozellikler:
 - - isim
   - eskimiş

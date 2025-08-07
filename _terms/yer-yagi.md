@@ -5,7 +5,7 @@ slug: yer-yagi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► petrol
+- petrol
 ozellikler:
 - - isim
 ornekler:

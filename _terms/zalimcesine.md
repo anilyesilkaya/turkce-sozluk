@@ -5,7 +5,7 @@ slug: zalimcesine
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► acımasızca
+- acımasızca
 ozellikler:
 - - zarf
 ornekler:

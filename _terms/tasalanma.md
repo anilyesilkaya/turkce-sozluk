@@ -5,7 +5,7 @@ slug: tasalanma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılanma
+- kaygılanma
 ozellikler:
 - - isim
 ornekler:

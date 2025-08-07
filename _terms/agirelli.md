@@ -5,7 +5,7 @@ slug: agirelli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► eli ağır
+- eli ağır
 ozellikler:
 - - sıfat
   - mecaz

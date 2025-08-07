@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kavisi olan; mukavves
-- ► falsolu
+- falsolu
 ozellikler:
 - - sıfat
 - - sıfat

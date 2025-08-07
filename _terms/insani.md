@@ -5,7 +5,7 @@ slug: insani
 letter: I
 lisan: Arapça insānī
 anlamlar:
-- ► insanca
+- insanca
 - İnsanla ilgili, insana özgü
 ozellikler:
 - - sıfat

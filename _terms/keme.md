@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük sıçan
-- ► domalan
+- domalan
 ozellikler:
 - - isim
   - ağızlardan

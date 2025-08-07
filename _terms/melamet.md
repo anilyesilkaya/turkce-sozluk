@@ -5,7 +5,7 @@ slug: melamet
 letter: M
 lisan: Arapça melāmet
 anlamlar:
-- ► kınama
+- kınama
 - Halkın gözünde kendisini kötü tanıtarak insanların beğenme ve saygısı yerine hor görmesini isteyen, böylelikle nefsi öldürerek Allah’a yaklaşmayı esas alan tasavvuf anlayışı
 ozellikler:
 - - isim

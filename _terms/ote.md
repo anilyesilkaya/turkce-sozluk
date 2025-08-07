@@ -9,7 +9,7 @@ anlamlar:
 - Bir şeyin arkadan gelen bölümü
 - Bulunulan yere göre karşı yanda olan
 - Daha fazla, çok
-- ► dış
+- dış
 ozellikler:
 - - isim
 - - isim

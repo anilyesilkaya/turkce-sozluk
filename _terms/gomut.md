@@ -5,7 +5,7 @@ slug: gomut
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► mezar
+- mezar
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tanzir
 letter: T
 lisan: Arapça tanẓīr
 anlamlar:
-- ► benzetme
+- benzetme
 - Divan edebiyatında bir şiiri örnek alarak ona benzer bir şiir yazma
 ozellikler:
 - - isim

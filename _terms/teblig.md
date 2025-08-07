@@ -5,9 +5,9 @@ slug: teblig
 letter: T
 lisan: Arapça teblīġ
 anlamlar:
-- ► bildirme
+- bildirme
 - Haber verme
-- ► bildiri
+- bildiri
 ozellikler:
 - - isim
 - - isim

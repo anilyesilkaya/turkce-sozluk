@@ -5,7 +5,7 @@ slug: vasiflilik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► niteliklilik
+- niteliklilik
 ozellikler:
 - - isim
 ornekler:

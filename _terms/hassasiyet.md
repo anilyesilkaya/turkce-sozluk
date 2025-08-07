@@ -5,7 +5,7 @@ slug: hassasiyet
 letter: H
 lisan: Arapça ḥassāsiyyet
 anlamlar:
-- ► duyarlılık
+- duyarlılık
 ozellikler:
 - - isim
 ornekler:

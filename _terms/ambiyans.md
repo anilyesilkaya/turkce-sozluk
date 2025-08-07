@@ -5,7 +5,7 @@ slug: ambiyans
 letter: A
 lisan: Fransızca ambiance
 anlamlar:
-- ► tarz
+- tarz
 ozellikler:
 - - isim
 ornekler:

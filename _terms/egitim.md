@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Çocukların ve gençlerin toplum yaşayışında yerlerini almaları için gerekli bilgi, beceri ve anlayışları elde etmelerine, kişiliklerini geliştirmelerine okul içinde veya dışında, doğrudan veya dolaylı yardım etme; terbiye
-- ► eğitim bilimi
+- eğitim bilimi
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: histoloji
 letter: H
 lisan: Fransızca histologie
 anlamlar:
-- ► doku bilimi
+- doku bilimi
 ozellikler:
 - - isim
 ornekler:

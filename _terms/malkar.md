@@ -5,7 +5,7 @@ slug: malkar
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Balkar
+- Balkar
 ozellikler:
 - - isim
 ornekler:

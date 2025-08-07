@@ -5,7 +5,7 @@ slug: bamyatarlasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: itinasiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özensiz
+- özensiz
 ozellikler:
 - - sıfat
 ornekler:

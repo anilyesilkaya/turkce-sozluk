@@ -5,7 +5,7 @@ slug: kaideli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurallı
+- kurallı
 - Kaidesi olan
 ozellikler:
 - - sıfat

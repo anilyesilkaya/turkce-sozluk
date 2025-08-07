@@ -5,7 +5,7 @@ slug: ziyasizlik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► ışıksızlık
+- ışıksızlık
 ozellikler:
 - - isim
 ornekler:

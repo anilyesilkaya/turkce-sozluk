@@ -5,7 +5,7 @@ slug: arzulayis
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteyiş
+- isteyiş
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ortakca
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ortaklaşa
+- ortaklaşa
 ozellikler:
 - - zarf
 ornekler:

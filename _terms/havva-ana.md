@@ -5,7 +5,7 @@ slug: havva-ana
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Havva
+- Havva
 ozellikler:
 - - isim
 ornekler:

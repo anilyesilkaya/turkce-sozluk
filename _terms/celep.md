@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça celeb
 anlamlar:
 - Koyun, keçi, sığır vb. kesilecek hayvanların ticaretini yapan kimse; celepçi
-- ► iç oğlanı
+- iç oğlanı
 ozellikler:
 - - isim
 - - isim

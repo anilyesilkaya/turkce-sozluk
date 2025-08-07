@@ -5,7 +5,7 @@ slug: soy-ismi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soyadı
+- soyadı
 ozellikler:
 - - isim
 ornekler:

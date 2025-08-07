@@ -5,7 +5,7 @@ slug: yonetsel
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yönetimsel
+- yönetimsel
 ozellikler:
 - - sıfat
 ornekler:

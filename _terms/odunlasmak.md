@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Bitkiler odun durumuna gelmek
-- ► kabalaşmak
+- kabalaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

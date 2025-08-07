@@ -5,7 +5,7 @@ slug: sirakkadak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 ornekler:

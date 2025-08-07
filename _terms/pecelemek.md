@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyi örtmek
-- ► gizlemek
+- gizlemek
 - Uzaktan seçilmesin diye bir şeyin üzerine ağaç dalı, çalı vb. şeyler örtmek, alalamak, kamufle etmek
 ozellikler:
 - - -i

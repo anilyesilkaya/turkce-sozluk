@@ -5,7 +5,7 @@ slug: tahliye
 letter: T
 lisan: Arapça taḫliye
 anlamlar:
-- ► boşaltma
+- boşaltma
 - Tutukluyu serbest bırakma
 ozellikler:
 - - isim

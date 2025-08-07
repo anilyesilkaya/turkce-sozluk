@@ -5,7 +5,7 @@ slug: mutlakcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► saltçılık
+- saltçılık
 ozellikler:
 - - isim
 ornekler:

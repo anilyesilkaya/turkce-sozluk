@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Birinin, güvenlik kuvvetleri tarafından belli bir yerde belli bir süre alıkonulması; gözetim, nezaret
-- ► denetleme
+- denetleme
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: amiriita
 letter: A
 lisan: Arapça āmir + iʿṭā
 anlamlar:
-- ► ita amiri
+- ita amiri
 ozellikler:
 - - isim
   - eskimiş

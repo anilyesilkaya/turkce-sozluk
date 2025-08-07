@@ -5,7 +5,7 @@ slug: cember-yagi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► gömlek yağı
+- gömlek yağı
 ozellikler:
 - - isim
 ornekler:

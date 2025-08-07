@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca coquette
 anlamlar:
 - Güzel görünmeye çalışan, süse düşkün, kırıtan (kadın)
-- ► hoppa
+- hoppa
 ozellikler:
 - - sıfat
 - - sıfat

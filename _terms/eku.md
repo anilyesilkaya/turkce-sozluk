@@ -5,7 +5,7 @@ slug: eku
 letter: E
 lisan: Fransızca écu
 anlamlar:
-- ► avro
+- avro
 ozellikler:
 - - isim
   - eskimiş

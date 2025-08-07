@@ -9,8 +9,8 @@ anlamlar:
 - Bu renkte olan
 - Esmer olan
 - Kötü, uğursuz, sıkıntılı
-- ► leke
-- ► iftira
+- leke
+- iftira
 ozellikler:
 - - isim
 - - isim

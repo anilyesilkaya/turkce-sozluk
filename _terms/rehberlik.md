@@ -5,7 +5,7 @@ slug: rehberlik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► kılavuzluk
+- kılavuzluk
 - Öğrencilerinin sorunlarını öğrenerek onlara yardımda bulunma
 ozellikler:
 - - isim

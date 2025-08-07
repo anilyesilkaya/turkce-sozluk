@@ -5,7 +5,7 @@ slug: tefekkur-dunyasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► düşünce hayatı
+- düşünce hayatı
 ozellikler:
 - - isim
 ornekler:

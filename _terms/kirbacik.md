@@ -5,7 +5,7 @@ slug: kirbacik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tulumcuk
+- tulumcuk
 ozellikler:
 - - isim
 ornekler:

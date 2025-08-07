@@ -5,8 +5,8 @@ slug: muzayaka
 letter: M
 lisan: Arapça mużāyaḳa
 anlamlar:
-- ► darlık
-- ► parasızlık
+- darlık
+- parasızlık
 ozellikler:
 - - isim
   - eskimiş

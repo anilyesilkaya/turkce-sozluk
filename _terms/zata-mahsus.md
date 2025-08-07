@@ -5,7 +5,7 @@ slug: zata-mahsus
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kişiye özel
+- kişiye özel
 ozellikler:
 - - sıfat
 ornekler:

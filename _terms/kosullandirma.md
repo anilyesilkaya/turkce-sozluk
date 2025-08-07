@@ -5,7 +5,7 @@ slug: kosullandirma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartlandırma
+- şartlandırma
 ozellikler:
 - - isim
 ornekler:

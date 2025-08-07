@@ -5,7 +5,7 @@ slug: ayriksizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istisnasızlık
+- istisnasızlık
 ozellikler:
 - - isim
 ornekler:

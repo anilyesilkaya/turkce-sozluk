@@ -5,7 +5,7 @@ slug: ihbarcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► muhbirlik
+- muhbirlik
 ozellikler:
 - - isim
 ornekler:

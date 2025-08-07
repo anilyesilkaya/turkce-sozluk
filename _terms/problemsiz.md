@@ -5,7 +5,7 @@ slug: problemsiz
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sorunsuz
+- sorunsuz
 ozellikler:
 - - sıfat
 ornekler:

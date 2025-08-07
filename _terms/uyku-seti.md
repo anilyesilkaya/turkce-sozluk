@@ -5,7 +5,7 @@ slug: uyku-seti
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyku takımı
+- uyku takımı
 ozellikler:
 - - isim
 ornekler:

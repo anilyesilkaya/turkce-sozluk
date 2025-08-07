@@ -5,7 +5,7 @@ slug: yaycizer
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pergel
+- pergel
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: delalet
 letter: D
 lisan: Arapça delālet
 anlamlar:
-- ► kılavuzluk
-- ► işaret
+- kılavuzluk
+- işaret
 ozellikler:
 - - isim
   - eskimiş

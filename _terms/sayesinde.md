@@ -5,7 +5,7 @@ slug: sayesinde
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► aracılığıyla
+- aracılığıyla
 ozellikler:
 - - zarf
 ornekler:

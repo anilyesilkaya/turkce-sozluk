@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teḳābul
 anlamlar:
 - Karşılık olma, karşılama, yerini tutma
-- ► karşı olum
+- karşı olum
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: cilcibik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çıplak
+- çıplak
 - Çıplak bir biçimde
 ozellikler:
 - - sıfat

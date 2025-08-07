@@ -5,8 +5,8 @@ slug: nahiye
 letter: N
 lisan: Arapça nāḥiye
 anlamlar:
-- ► bucak
-- ► bölge
+- bucak
+- bölge
 ozellikler:
 - - isim
   - eskimiş

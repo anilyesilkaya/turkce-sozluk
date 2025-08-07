@@ -5,7 +5,7 @@ slug: ordovr
 letter: O
 lisan: Fransızca hors-d'oeuvre
 anlamlar:
-- ► yemekaltı
+- yemekaltı
 ozellikler:
 - - isim
 ornekler:

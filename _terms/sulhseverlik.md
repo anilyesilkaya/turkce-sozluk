@@ -5,7 +5,7 @@ slug: sulhseverlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► barışseverlik
+- barışseverlik
 ozellikler:
 - - isim
 ornekler:

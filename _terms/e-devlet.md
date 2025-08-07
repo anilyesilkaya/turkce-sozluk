@@ -5,7 +5,7 @@ slug: e-devlet
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik devlet
+- elektronik devlet
 ozellikler:
 - - isim
 ornekler:

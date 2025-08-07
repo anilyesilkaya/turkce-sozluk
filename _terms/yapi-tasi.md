@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Binanın ağırlığını çeken temel taş
-- ► esas
+- esas
 ozellikler:
 - - isim
 - - isim

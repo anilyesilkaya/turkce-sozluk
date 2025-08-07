@@ -5,7 +5,7 @@ slug: oykuculuk
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► hikâyecilik
+- hikâyecilik
 ozellikler:
 - - isim
 ornekler:

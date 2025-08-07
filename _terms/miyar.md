@@ -6,8 +6,8 @@ letter: M
 lisan: Arapça miʿyār
 anlamlar:
 - Değerli madenlerde yasanın istediği ağırlık, saflık ve değer derecesini gösteren ölçü
-- ► ölçüt
-- ► ayıraç
+- ölçüt
+- ayıraç
 ozellikler:
 - - isim
   - eskimiş

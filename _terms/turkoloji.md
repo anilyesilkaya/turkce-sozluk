@@ -5,7 +5,7 @@ slug: turkoloji
 letter: T
 lisan: Fransızca turcologie
 anlamlar:
-- ► Türklük bilimi
+- Türklük bilimi
 ozellikler:
 - - isim
 ornekler:

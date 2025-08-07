@@ -5,7 +5,7 @@ slug: dirig
 letter: D
 lisan: Farsça dirīġ
 anlamlar:
-- ► esirgeme
+- esirgeme
 ozellikler:
 - - isim
   - eskimiş

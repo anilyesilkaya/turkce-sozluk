@@ -5,7 +5,7 @@ slug: avangart
 letter: A
 lisan: Fransızca avant-garde
 anlamlar:
-- ► öncü
+- öncü
 - Gösterişli, görkemli olan
 ozellikler:
 - - isim

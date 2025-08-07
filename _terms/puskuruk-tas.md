@@ -5,7 +5,7 @@ slug: puskuruk-tas
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► püskürük külte
+- püskürük külte
 ozellikler:
 - - isim
   - mineraloji

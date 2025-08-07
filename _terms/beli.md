@@ -5,7 +5,7 @@ slug: beli
 letter: B
 lisan: Farsça belī
 anlamlar:
-- ► evet
+- evet
 ozellikler:
 - - ünlem
   - eskimiş

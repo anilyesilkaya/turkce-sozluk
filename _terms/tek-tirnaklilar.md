@@ -5,7 +5,7 @@ slug: tek-tirnaklilar
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tek parmaklılar
+- tek parmaklılar
 ozellikler:
 - - isim
   - hayvan bilimi

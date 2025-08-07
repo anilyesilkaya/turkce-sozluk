@@ -5,7 +5,7 @@ slug: teadul
 letter: T
 lisan: Arapça teʿādul
 anlamlar:
-- ► denklik
+- denklik
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: bezir
 letter: B
 lisan: Arapça bezr
 anlamlar:
-- ► keten tohumu
-- ► bezir yağı
+- keten tohumu
+- bezir yağı
 ozellikler:
 - - isim
 - - isim

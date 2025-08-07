@@ -5,7 +5,7 @@ slug: defedilmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovulmak
+- kovulmak
 ozellikler:
 - - nesnesiz
 ornekler:

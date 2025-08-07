@@ -5,7 +5,7 @@ slug: prezantasyon
 letter: P
 lisan: Fransızca présentation
 anlamlar:
-- ► tanıtma
+- tanıtma
 ozellikler:
 - - isim
 ornekler:

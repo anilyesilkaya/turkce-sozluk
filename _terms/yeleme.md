@@ -5,7 +5,7 @@ slug: yeleme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► havai
+- havai
 ozellikler:
 - - sıfat
   - ağızlardan

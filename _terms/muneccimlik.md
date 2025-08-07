@@ -5,7 +5,7 @@ slug: muneccimlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yıldız falcılığı
+- yıldız falcılığı
 ozellikler:
 - - isim
   - gök bilimi

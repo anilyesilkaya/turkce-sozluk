@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çenesi olan
-- ► çenebaz
+- çenebaz
 ozellikler:
 - - sıfat
 - - sıfat

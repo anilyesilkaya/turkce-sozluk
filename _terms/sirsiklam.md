@@ -5,7 +5,7 @@ slug: sirsiklam
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sırılsıklam
+- sırılsıklam
 ozellikler:
 - - sıfat
 ornekler:

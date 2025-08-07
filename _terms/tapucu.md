@@ -5,7 +5,7 @@ slug: tapucu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapu memuru
+- tapu memuru
 ozellikler:
 - - isim
 ornekler:

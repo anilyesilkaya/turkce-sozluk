@@ -5,7 +5,7 @@ slug: kaybolmak
 letter: K
 lisan: Arapça ġayb + Türkçe olmak
 anlamlar:
-- ► yitmek
+- yitmek
 - Görünür olmaktan çıkmak, görünmez olmak
 ozellikler:
 - - nesnesiz

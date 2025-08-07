@@ -5,7 +5,7 @@ slug: mukellef
 letter: M
 lisan: Arapça mukellef
 anlamlar:
-- ► yükümlü
+- yükümlü
 - Eksiksiz, özenli bir biçimde yapılmış
 - Vergi vermekle yükümlü olan kimse veya kuruluş
 ozellikler:

@@ -5,7 +5,7 @@ slug: aristokrasi
 letter: A
 lisan: Fransızca aristocratie
 anlamlar:
-- ► soylu erki
+- soylu erki
 - Soylular sınıfı
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: minimini
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► küçücük
+- küçücük
 - Pek sevimli, küçük çocuk
 ozellikler:
 - - sıfat

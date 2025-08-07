@@ -5,7 +5,7 @@ slug: sekendiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Satürn
+- Satürn
 ozellikler:
 - - isim
   - gök bilimi

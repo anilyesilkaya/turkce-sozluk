@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Seçmeli olma durumu
-- ► seçme hakkı
+- seçme hakkı
 ozellikler:
 - - isim
 - - isim

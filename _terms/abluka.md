@@ -5,7 +5,7 @@ slug: abluka
 letter: A
 lisan: İtalyanca ablóco
 anlamlar:
-- ► kuşatma
+- kuşatma
 ozellikler:
 - - isim
   - askerlik

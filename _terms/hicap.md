@@ -5,8 +5,8 @@ slug: hicap
 letter: H
 lisan: Arapça ḥicāb
 anlamlar:
-- ► utanma
-- ► perde
+- utanma
+- perde
 ozellikler:
 - - isim
   - eskimiş

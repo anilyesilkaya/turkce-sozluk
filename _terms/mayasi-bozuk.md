@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Kötü yaradılışlı, karaktersiz (kimse)
-- ► hain
+- hain
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: barhana
 letter: B
 lisan: Farsça bār + ḫāne
 anlamlar:
-- ► barhane (II)
+- barhane (II)
 ozellikler:
 - - isim
   - ağızlardan

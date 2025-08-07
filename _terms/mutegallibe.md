@@ -5,7 +5,7 @@ slug: mutegallibe
 letter: M
 lisan: Arapça muteġallibe
 anlamlar:
-- ► zorba
+- zorba
 ozellikler:
 - - sıfat
   - eskimiş

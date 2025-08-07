@@ -5,7 +5,7 @@ slug: ses
 letter: Ş
 lisan: Farsça şeş
 anlamlar:
-- ► altı
+- altı
 ozellikler:
 - - isim
   - eskimiş

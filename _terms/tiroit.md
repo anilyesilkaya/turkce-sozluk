@@ -5,7 +5,7 @@ slug: tiroit
 letter: T
 lisan: Fransızca thyroïde
 anlamlar:
-- ► tiroit bezi
+- tiroit bezi
 ozellikler:
 - - isim
   - anatomi

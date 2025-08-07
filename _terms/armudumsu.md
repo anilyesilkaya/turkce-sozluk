@@ -5,7 +5,7 @@ slug: armudumsu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► armutsu
+- armutsu
 ozellikler:
 - - sıfat
 ornekler:

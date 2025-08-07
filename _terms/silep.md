@@ -5,7 +5,7 @@ slug: silep
 letter: Ş
 lisan: Almanca Schlepp
 anlamlar:
-- ► yük gemisi
+- yük gemisi
 ozellikler:
 - - isim
   - denizcilik

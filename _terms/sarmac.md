@@ -5,7 +5,7 @@ slug: sarmac
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bigudi
+- bigudi
 ozellikler:
 - - isim
 ornekler:

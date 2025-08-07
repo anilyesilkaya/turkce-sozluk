@@ -5,7 +5,7 @@ slug: abecesel
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alfabetik
+- alfabetik
 ozellikler:
 - - sıfat
 ornekler:

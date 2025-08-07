@@ -5,7 +5,7 @@ slug: hatir-hatir
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hatır hutur
+- hatır hutur
 ozellikler:
 - - zarf
 ornekler:

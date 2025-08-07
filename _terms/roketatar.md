@@ -5,7 +5,7 @@ slug: roketatar
 letter: R
 lisan: Fransızca roquette + Türkçe
 anlamlar:
-- ► bazuka
+- bazuka
 ozellikler:
 - - isim
   - askerlik

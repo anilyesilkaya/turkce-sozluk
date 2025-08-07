@@ -5,7 +5,7 @@ slug: elhasil
 letter: E
 lisan: Arapça elḥāṣil
 anlamlar:
-- ► kısacası
+- kısacası
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: toplumsal-yapi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sosyal yapı
+- sosyal yapı
 ozellikler:
 - - isim
   - toplum bilimi

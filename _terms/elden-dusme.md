@@ -5,7 +5,7 @@ slug: elden-dusme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ikinci el
+- ikinci el
 ozellikler:
 - - sıfat
   - mecaz

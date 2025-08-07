@@ -5,7 +5,7 @@ slug: nasirlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► yayımcılık
+- yayımcılık
 ozellikler:
 - - isim
 ornekler:

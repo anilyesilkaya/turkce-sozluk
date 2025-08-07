@@ -5,7 +5,7 @@ slug: iskembe-suratli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çopur
+- çopur
 ozellikler:
 - - sıfat
   - mecaz

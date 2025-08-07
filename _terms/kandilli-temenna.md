@@ -5,7 +5,7 @@ slug: kandilli-temenna
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kandilli selam
+- kandilli selam
 ozellikler:
 - - isim
 ornekler:

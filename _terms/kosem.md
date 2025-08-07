@@ -5,7 +5,7 @@ slug: kosem
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kösemen
+- kösemen
 ozellikler:
 - - isim
   - ağızlardan

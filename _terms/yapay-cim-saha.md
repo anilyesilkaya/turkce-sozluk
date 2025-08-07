@@ -5,7 +5,7 @@ slug: yapay-cim-saha
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► suni çim saha
+- suni çim saha
 ozellikler:
 - - isim
   - spor

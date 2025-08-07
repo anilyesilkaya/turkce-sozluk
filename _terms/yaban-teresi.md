@@ -5,7 +5,7 @@ slug: yaban-teresi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► horozcuk otu
+- horozcuk otu
 ozellikler:
 - - isim
   - bitki bilimi

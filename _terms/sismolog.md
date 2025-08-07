@@ -5,7 +5,7 @@ slug: sismolog
 letter: S
 lisan: Fransızca sismologue
 anlamlar:
-- ► deprem bilimci
+- deprem bilimci
 ozellikler:
 - - isim
 ornekler:

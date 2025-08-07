@@ -5,7 +5,7 @@ slug: goden-bagirsagi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göden
+- göden
 ozellikler:
 - - isim
   - anatomi

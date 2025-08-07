@@ -5,7 +5,7 @@ slug: monogami
 letter: M
 lisan: Fransızca monogamie
 anlamlar:
-- ► tek eşlilik
+- tek eşlilik
 ozellikler:
 - - isim
   - toplum bilimi

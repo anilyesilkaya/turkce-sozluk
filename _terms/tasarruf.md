@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taṣarruf
 anlamlar:
 - Bir şeye sahip olma ve onu istediği gibi kullanma yetkisi; kullanım
-- ► tutum
+- tutum
 - Para, mal vb. biriktirme
 ozellikler:
 - - isim

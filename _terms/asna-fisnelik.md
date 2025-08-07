@@ -5,7 +5,7 @@ slug: asna-fisnelik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► oynaşlık
+- oynaşlık
 ozellikler:
 - - isim
 ornekler:

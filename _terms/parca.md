@@ -8,10 +8,10 @@ anlamlar:
 - Bir bütünden ayrılan, ayrı sayılan veya artakalan şey; pare
 - Bir bütünden kopma, kırılma, yırtılma vb. yoluyla ayrılmış bölüm; lime, şerha
 - Birkaçı bir araya geldiğinde bir bütünü oluşturan şeylerin her biri; uzuv, modül
-- ► tane
-- ► pasaj
+- tane
+- pasaj
 - Müzik eseri
-- ► nesne
+- nesne
 - Küçümseme ve değersiz sayma bildiren bir söz
 - Güzel, alımlı kız veya kadın
 ozellikler:

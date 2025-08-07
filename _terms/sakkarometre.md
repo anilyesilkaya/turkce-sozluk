@@ -5,7 +5,7 @@ slug: sakkarometre
 letter: S
 lisan: Fransızca saccharomètre
 anlamlar:
-- ► sakkarozölçer
+- sakkarozölçer
 ozellikler:
 - - isim
   - kimya

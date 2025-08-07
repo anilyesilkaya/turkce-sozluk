@@ -5,7 +5,7 @@ slug: elestirisellik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eleştirellik
+- eleştirellik
 ozellikler:
 - - isim
 ornekler:

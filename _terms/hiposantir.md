@@ -5,7 +5,7 @@ slug: hiposantir
 letter: H
 lisan: Fransızca hypocentre
 anlamlar:
-- ► deprem merkezi
+- deprem merkezi
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: umitsizce
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutsuzca
+- umutsuzca
 ozellikler:
 - - zarf
 ornekler:

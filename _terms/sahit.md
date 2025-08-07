@@ -5,7 +5,7 @@ slug: sahit
 letter: Ş
 lisan: Arapça şāhid
 anlamlar:
-- ► tanık
+- tanık
 ozellikler:
 - - isim
   - hukuk

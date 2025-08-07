@@ -8,7 +8,7 @@ anlamlar:
 - Bükme işine konu olmak; bükünmek
 - İplik eğrilmek
 - Eğik bir duruma gelmek
-- ► yönelmek
+- yönelmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

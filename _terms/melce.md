@@ -5,7 +5,7 @@ slug: melce
 letter: M
 lisan: Arapça melceʾ
 anlamlar:
-- ► sığınak
+- sığınak
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: dayanc
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sabır
-- ► dayanak
+- sabır
+- dayanak
 ozellikler:
 - - isim
 - - isim

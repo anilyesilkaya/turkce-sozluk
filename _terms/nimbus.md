@@ -5,7 +5,7 @@ slug: nimbus
 letter: N
 lisan: Latince
 anlamlar:
-- ► kara bulut
+- kara bulut
 ozellikler:
 - - isim
   - meteoroloji

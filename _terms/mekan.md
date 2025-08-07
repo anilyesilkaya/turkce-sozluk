@@ -7,8 +7,8 @@ lisan: Arapça mekān
 anlamlar:
 - Bulunulan yer
 - İş yeri, gazino, buluşma yeri vb. belli bir işe ayrılmış olan yer
-- ► ev
-- ► uzay
+- ev
+- uzay
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: felah
 letter: F
 lisan: Arapça felāḥ
 anlamlar:
-- ► kurtuluş
+- kurtuluş
 ozellikler:
 - - isim
   - eskimiş

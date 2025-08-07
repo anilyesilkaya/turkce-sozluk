@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin dıştan bakıldığında görünen biçimi, görünme durumu; zevahir, fotoğraf, vizyon
-- ► görünüş
+- görünüş
 ozellikler:
 - - isim
 - - isim

@@ -6,14 +6,14 @@ letter: H
 lisan: Arapça ḥareket
 anlamlar:
 - Vücudu oynatma, kıpırdatma veya kımıldanma
-- ► davranış
+- davranış
 - Yola çıkma
 - Bir cismin bütününün veya bir kısmının yerini, konumunu veya durumunu değiştirmesi; devinim, aksiyon
 - Belirli bir amaca varmak veya bir düşünceyi yerleştirmek için birbiri ardınca yapılan faaliyetler dizisi; akım
 - Toplu olarak ufak çapta başkaldırma
-- ► deprem
+- deprem
 - Demir yollarında katarların düzenlenmesi ve hangi saatlerde yola çıkıp hangi duraklarda karşılaşacaklarını düzenleme işleri
-- ► devinim
+- devinim
 - Bir parçanın yavaşlık, çabukluk derecesi
 - Kas ve eklemlerin, belli doğal şartlar içerisinde işlemeleri sonucu vücut bölümlerinde düzenli ve olumlu etkilerle oluşturdukları yer değişimi
 - Fiyat vb. sayıların, değerlerin değişmesi

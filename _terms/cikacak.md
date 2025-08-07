@@ -5,7 +5,7 @@ slug: cikacak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıkma
+- çıkma
 ozellikler:
 - - isim
 ornekler:

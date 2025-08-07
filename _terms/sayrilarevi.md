@@ -5,7 +5,7 @@ slug: sayrilarevi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hastane
+- hastane
 ozellikler:
 - - isim
 ornekler:

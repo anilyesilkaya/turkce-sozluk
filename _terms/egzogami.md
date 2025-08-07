@@ -5,7 +5,7 @@ slug: egzogami
 letter: E
 lisan: Fransızca exogamie
 anlamlar:
-- ► dış evlilik
+- dış evlilik
 ozellikler:
 - - isim
   - toplum bilimi

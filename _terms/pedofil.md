@@ -5,7 +5,7 @@ slug: pedofil
 letter: P
 lisan: İngilizce pedophile
 anlamlar:
-- ► sübyancı
+- sübyancı
 ozellikler:
 - - isim
 ornekler:

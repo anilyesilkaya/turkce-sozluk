@@ -5,7 +5,7 @@ slug: mustereken
 letter: M
 lisan: Arapça muştereken
 anlamlar:
-- ► ortaklaşa
+- ortaklaşa
 ozellikler:
 - - zarf
 ornekler:

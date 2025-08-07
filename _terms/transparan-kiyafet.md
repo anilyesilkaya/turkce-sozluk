@@ -5,7 +5,7 @@ slug: transparan-kiyafet
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► transparan giysi
+- transparan giysi
 ozellikler:
 - - isim
 ornekler:

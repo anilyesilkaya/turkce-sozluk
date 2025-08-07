@@ -5,7 +5,7 @@ slug: kadife-devrim
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► renkli devrim
+- renkli devrim
 ozellikler:
 - - isim
 ornekler:

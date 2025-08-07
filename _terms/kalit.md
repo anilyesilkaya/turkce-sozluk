@@ -5,7 +5,7 @@ slug: kalit
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► miras
+- miras
 - Kalıtım yoluyla geçmiş olan şey
 - Görenekler yoluyla yerleşmiş olan tutum veya davranış biçimi
 ozellikler:

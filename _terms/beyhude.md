@@ -5,8 +5,8 @@ slug: beyhude
 letter: B
 lisan: Farsça bīhūde
 anlamlar:
-- ► yararsız
-- ► boşuna
+- yararsız
+- boşuna
 ozellikler:
 - - sıfat
 - - sıfat

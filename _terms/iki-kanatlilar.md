@@ -5,7 +5,7 @@ slug: iki-kanatlilar
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çift kanatlılar
+- çift kanatlılar
 ozellikler:
 - - isim
   - hayvan bilimi

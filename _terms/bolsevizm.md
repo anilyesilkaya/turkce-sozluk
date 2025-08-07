@@ -5,7 +5,7 @@ slug: bolsevizm
 letter: B
 lisan: Fransızca bolchevisme
 anlamlar:
-- ► Bolşeviklik
+- Bolşeviklik
 ozellikler:
 - - isim
 ornekler:

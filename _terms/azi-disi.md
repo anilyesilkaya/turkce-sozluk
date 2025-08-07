@@ -5,7 +5,7 @@ slug: azi-disi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► azı
+- azı
 ozellikler:
 - - isim
   - anatomi

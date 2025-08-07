@@ -5,7 +5,7 @@ slug: beyzi
 letter: B
 lisan: Arapça beyżī
 anlamlar:
-- ► oval
+- oval
 ozellikler:
 - - sıfat
   - eskimiş

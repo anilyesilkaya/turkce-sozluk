@@ -5,7 +5,7 @@ slug: isyanci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► başkaldırıcı
+- başkaldırıcı
 ozellikler:
 - - sıfat
 ornekler:

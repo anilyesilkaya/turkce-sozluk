@@ -5,7 +5,7 @@ slug: tazallum
 letter: T
 lisan: Arapça taẓallum
 anlamlar:
-- ► sızlanma
+- sızlanma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: mubalagaci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► abartıcı
+- abartıcı
 ozellikler:
 - - sıfat
 ornekler:

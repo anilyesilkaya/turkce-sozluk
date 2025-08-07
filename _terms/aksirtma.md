@@ -5,7 +5,7 @@ slug: aksirtma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırtma
+- hapşırtma
 ozellikler:
 - - isim
 ornekler:

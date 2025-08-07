@@ -5,7 +5,7 @@ slug: seririyat
 letter: S
 lisan: Arapça serįriyyāt
 anlamlar:
-- ► klinik
+- klinik
 - Tıp öğrencilerinin uygulama yaptıkları eğitim hastanesi
 - Hastanelerde hastaların başucunda yapılan dersler
 ozellikler:

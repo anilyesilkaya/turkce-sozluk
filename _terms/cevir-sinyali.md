@@ -5,7 +5,7 @@ slug: cevir-sinyali
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çevir sesi
+- çevir sesi
 ozellikler:
 - - isim
 ornekler:

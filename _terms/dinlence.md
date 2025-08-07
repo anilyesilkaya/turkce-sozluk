@@ -5,7 +5,7 @@ slug: dinlence
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tatil
+- tatil
 ozellikler:
 - - isim
 ornekler:

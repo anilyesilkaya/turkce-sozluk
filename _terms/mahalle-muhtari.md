@@ -5,7 +5,7 @@ slug: mahalle-muhtari
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muhtar
+- muhtar
 - Çevresinde olup biten her şeyden haberdar olan kimse
 ozellikler:
 - - isim

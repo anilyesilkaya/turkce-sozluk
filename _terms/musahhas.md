@@ -5,7 +5,7 @@ slug: musahhas
 letter: M
 lisan: Arapça muşaḫḫaṣ
 anlamlar:
-- ► somut
+- somut
 ozellikler:
 - - sıfat
   - eskimiş

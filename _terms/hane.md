@@ -5,10 +5,10 @@ slug: hane
 letter: H
 lisan: Farsça ḫāne
 anlamlar:
-- ► ev
+- ev
 - Ev halkı
 - Bir bütünü oluşturan bölümlerden her biri; göz
-- ► basamak
+- basamak
 - Klasik Türk müziğinde, peşrev vb. saz parçalarının bölümlerinden her biri
 - Birleşik kelimelerde "bina, yapı, yer, makam" anlamlarıyla ikinci kelime olarak yer alan bir söz
 ozellikler:

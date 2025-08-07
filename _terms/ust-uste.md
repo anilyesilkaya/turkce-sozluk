@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çok kalabalık, sıkışık
 - Birbirinin üstüne konulmuş bir biçimde; kat kat
-- ► arka arkaya
+- arka arkaya
 ozellikler:
 - - sıfat
 - - sıfat

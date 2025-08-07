@@ -5,7 +5,7 @@ slug: ilk-mektep
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilkokul
+- ilkokul
 ozellikler:
 - - isim
   - eskimiş

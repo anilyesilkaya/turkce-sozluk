@@ -5,7 +5,7 @@ slug: programci
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► yapımcı
+- yapımcı
 - Tiyatro, konser vb. yerlerde program satan veya dağıtan kimse
 - Program yapan kimse
 ozellikler:

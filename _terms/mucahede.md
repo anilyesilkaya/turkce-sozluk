@@ -5,7 +5,7 @@ slug: mucahede
 letter: M
 lisan: Arapça mucāhede
 anlamlar:
-- ► gayret
+- gayret
 - Kutsal ülküler uğruna savaşma, cihat etme
 - Benlik ve bencillikten kurtulmak ve nefsi yenmek için çalışma, uğraşma, mücadele etme
 ozellikler:

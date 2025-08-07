@@ -5,7 +5,7 @@ slug: fantastik
 letter: F
 lisan: Fransızca fantastique
 anlamlar:
-- ► hayalî
+- hayalî
 - XVIII. yüzyıldan başlayarak Fransa'da gelişen bir edebî tür
 ozellikler:
 - - sıfat

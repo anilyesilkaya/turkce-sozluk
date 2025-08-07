@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı biçim veya niteliğe getirilmiş olmak
-- ► standartlaştırmak
+- standartlaştırmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

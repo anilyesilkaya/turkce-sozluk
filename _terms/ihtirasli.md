@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Aşırı istekli
-- ► tutkulu
+- tutkulu
 ozellikler:
 - - sıfat
 - - sıfat

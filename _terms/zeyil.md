@@ -5,7 +5,7 @@ slug: zeyil
 letter: Z
 lisan: Arapça ẕeyl
 anlamlar:
-- ► ek
+- ek
 - Bir yazıya ek olarak katılan parça
 - Bir eseri tamamlamak için sonradan yazılan ek eser
 ozellikler:

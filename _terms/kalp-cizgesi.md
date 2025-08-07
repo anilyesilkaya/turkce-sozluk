@@ -5,7 +5,7 @@ slug: kalp-cizgesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► elektrokardiyogram
+- elektrokardiyogram
 ozellikler:
 - - isim
   - tıp

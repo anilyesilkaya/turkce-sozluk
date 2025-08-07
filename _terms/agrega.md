@@ -5,7 +5,7 @@ slug: agrega
 letter: A
 lisan: Fransızca agrégat
 anlamlar:
-- ► katışmaç
+- katışmaç
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Farklılaşmak işi; ayrımlaşma
-- ► ayrımlaşma
+- ayrımlaşma
 ozellikler:
 - - isim
 - - isim

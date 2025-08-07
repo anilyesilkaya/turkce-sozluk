@@ -5,7 +5,7 @@ slug: peripatetizm
 letter: P
 lisan: Fransızca péripatétisme
 anlamlar:
-- ► Aristotelesçilik
+- Aristotelesçilik
 ozellikler:
 - - isim
   - felsefe

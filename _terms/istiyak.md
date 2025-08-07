@@ -5,7 +5,7 @@ slug: istiyak
 letter: I
 lisan: Arapça iştiyāḳ
 anlamlar:
-- ► özleme
+- özleme
 - Güçlü istek, güçlü arzu
 ozellikler:
 - - isim

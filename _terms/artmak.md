@@ -5,7 +5,7 @@ slug: artmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çoğalmak
+- çoğalmak
 - Harcandıktan, kullanıldıktan veya yenildikten sonra bir miktar geri kalmak
 - Değeri yükselmek, fazlalaşmak
 ozellikler:

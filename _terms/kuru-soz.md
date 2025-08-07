@@ -5,7 +5,7 @@ slug: kuru-soz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuru laf
+- kuru laf
 ozellikler:
 - - isim
 ornekler:

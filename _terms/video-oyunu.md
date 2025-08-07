@@ -5,7 +5,7 @@ slug: video-oyunu
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► bilgisayar oyunu
+- bilgisayar oyunu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sedasizlasmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonsuzlaşmak
+- tonsuzlaşmak
 ozellikler:
 - - nesnesiz
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: polimeri
 letter: P
 lisan: Fransızca polymérie
 anlamlar:
-- ► polimerlik
+- polimerlik
 ozellikler:
 - - isim
   - kimya

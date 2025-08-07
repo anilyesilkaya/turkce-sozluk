@@ -5,7 +5,7 @@ slug: kapucin
 letter: K
 lisan: Fransızca capucine
 anlamlar:
-- ► Latin çiçeği
+- Latin çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

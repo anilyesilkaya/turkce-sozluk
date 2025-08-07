@@ -5,7 +5,7 @@ slug: trafik-akimi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► trafik akışı
+- trafik akışı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: katisma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► katılma
+- katılma
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: pozitif
 letter: P
 lisan: Fransızca positif
 anlamlar:
-- ► olumlu, negatif karşıtı
-- ► artı
+- olumlu, negatif karşıtı
+- artı
 ozellikler:
 - - sıfat
 - - sıfat

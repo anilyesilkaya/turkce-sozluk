@@ -5,7 +5,7 @@ slug: belsem
 letter: B
 lisan: İngilizce balsam
 anlamlar:
-- ► balsam
+- balsam
 ozellikler:
 - - isim
 ornekler:

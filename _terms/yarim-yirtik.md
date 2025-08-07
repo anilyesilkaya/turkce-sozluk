@@ -5,7 +5,7 @@ slug: yarim-yirtik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► önemsiz
+- önemsiz
 ozellikler:
 - - sıfat
   - mecaz

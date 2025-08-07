@@ -5,7 +5,7 @@ slug: kaldirici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kriko
+- kriko
 ozellikler:
 - - isim
   - teknik

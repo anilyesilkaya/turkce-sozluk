@@ -5,7 +5,7 @@ slug: ikmal-imtihani
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bütünleme sınavı
+- bütünleme sınavı
 ozellikler:
 - - isim
   - eğitim

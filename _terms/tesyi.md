@@ -5,7 +5,7 @@ slug: tesyi
 letter: T
 lisan: Arapça teşyīʿ
 anlamlar:
-- ► uğurlama
+- uğurlama
 ozellikler:
 - - isim
   - eskimiş

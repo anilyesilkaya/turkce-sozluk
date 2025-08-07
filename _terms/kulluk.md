@@ -5,7 +5,7 @@ slug: kulluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çöplük
+- çöplük
 - Sigara külü silkelenen ve sigara söndürülen kap; tabla, kül tablası, sigara tablası
 - Banyo, kalorifer kazanıyla ve sobada küllerin döküldüğü yer veya kap
 ozellikler:

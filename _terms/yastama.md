@@ -5,7 +5,7 @@ slug: yastama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaslama
+- yaslama
 ozellikler:
 - - isim
 ornekler:

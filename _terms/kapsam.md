@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içinde bulunan veya içine aldığı ögelerin bütünü; şümul
-- ► kaplam
+- kaplam
 ozellikler:
 - - isim
 - - isim

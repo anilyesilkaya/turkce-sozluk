@@ -6,8 +6,8 @@ letter: A
 lisan: Arapça ʿahd
 anlamlar:
 - Kendi kendine söz vererek bir işi üzerine alma; ant
-- ► antlaşma
-- ► çağ
+- antlaşma
+- çağ
 ozellikler:
 - - isim
 - - isim

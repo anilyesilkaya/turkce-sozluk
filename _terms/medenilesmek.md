@@ -5,7 +5,7 @@ slug: medenilesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygarlaşmak
+- uygarlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

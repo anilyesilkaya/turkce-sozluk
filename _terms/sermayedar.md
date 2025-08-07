@@ -6,7 +6,7 @@ letter: S
 lisan: Farsça ser + māyedār
 anlamlar:
 - Sermayesi olan
-- ► sermayeci
+- sermayeci
 ozellikler:
 - - sıfat
   - ekonomi

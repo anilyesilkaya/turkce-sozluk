@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kaynaşmak işi; füzyon
 - Kalabalığın çok olduğu bir yerde kıpırdanma, hareketlilik
-- ► huzursuzluk
+- huzursuzluk
 ozellikler:
 - - isim
 - - isim

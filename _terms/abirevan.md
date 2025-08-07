@@ -5,7 +5,7 @@ slug: abirevan
 letter: A
 lisan: Farsça āb + Farsça revān
 anlamlar:
-- ► akarsu
+- akarsu
 ozellikler:
 - - isim
 ornekler:

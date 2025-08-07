@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yanı ve yönü olan
 - Herhangi bir yöreden olan
-- ► yandaş
+- yandaş
 ozellikler:
 - - sıfat
 - - sıfat

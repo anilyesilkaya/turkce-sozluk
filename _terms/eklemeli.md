@@ -5,7 +5,7 @@ slug: eklemeli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bitişken
+- bitişken
 ozellikler:
 - - sıfat
 ornekler:

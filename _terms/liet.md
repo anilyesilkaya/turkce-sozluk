@@ -5,7 +5,7 @@ slug: liet
 letter: L
 lisan: Almanca Lied
 anlamlar:
-- ► şarkı
+- şarkı
 ozellikler:
 - - isim
   - müzik

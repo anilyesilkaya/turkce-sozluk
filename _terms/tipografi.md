@@ -6,7 +6,7 @@ letter: T
 lisan: Fransızca typographie
 anlamlar:
 - Kabartma biçimlerle ilgili baskı yöntemi; tipografya
-- ► basım
+- basım
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Elinde kalmamak; bitmek (I)
-- ► bitmek (I)
+- bitmek (I)
 - Güçsüzleşmek, bitkinleşmek, yılgınlaşmak
 - Verimliliğini yitirmek, söyleyecek sözü kalmamak
 ozellikler:

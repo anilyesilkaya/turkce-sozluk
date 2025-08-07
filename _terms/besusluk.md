@@ -5,7 +5,7 @@ slug: besusluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► güler yüzlülük
+- güler yüzlülük
 ozellikler:
 - - isim
 ornekler:

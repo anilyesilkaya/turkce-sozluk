@@ -5,7 +5,7 @@ slug: komedya
 letter: K
 lisan: Latince
 anlamlar:
-- ► güldürü
+- güldürü
 ozellikler:
 - - isim
 ornekler:

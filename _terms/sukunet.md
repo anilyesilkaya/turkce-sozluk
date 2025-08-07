@@ -5,7 +5,7 @@ slug: sukunet
 letter: S
 lisan: Arapça sukūnet
 anlamlar:
-- ► dinginlik
+- dinginlik
 - Huzurlu, rahat olma; sükûn
 - Dinme, yatışma
 ozellikler:

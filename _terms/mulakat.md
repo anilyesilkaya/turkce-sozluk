@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mulāḳāt
 anlamlar:
 - Bir yerde buluşularak yapılan karşılıklı görüşme ve konuşma
-- ► röportaj
+- röportaj
 - Bir işe alınacak kişiler arasından seçim yapabilmek amacıyla kendileriyle karşılıklı konuşma, görüşme
 - Sözlü sınav
 ozellikler:

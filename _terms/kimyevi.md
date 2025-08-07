@@ -5,7 +5,7 @@ slug: kimyevi
 letter: K
 lisan: Arapça kīmyevī
 anlamlar:
-- ► kimyasal
+- kimyasal
 ozellikler:
 - - sıfat
 ornekler:

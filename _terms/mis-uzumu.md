@@ -5,7 +5,7 @@ slug: mis-uzumu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► misket üzümü
+- misket üzümü
 ozellikler:
 - - isim
   - bitki bilimi

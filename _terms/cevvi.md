@@ -5,7 +5,7 @@ slug: cevvi
 letter: C
 lisan: Arapça cevvī
 anlamlar:
-- ► atmosferik
+- atmosferik
 ozellikler:
 - - sıfat
   - eskimiş

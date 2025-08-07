@@ -5,7 +5,7 @@ slug: evlat
 letter: E
 lisan: Arapça evlād
 anlamlar:
-- ► çocuk
+- çocuk
 - Belli bir özelliğe sahip veya belli bir gruptan olma
 - Yaşlı kimselerin çocukları yaşındakilere kullandıkları bir seslenme sözü
 ozellikler:

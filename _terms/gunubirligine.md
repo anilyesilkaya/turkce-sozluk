@@ -5,7 +5,7 @@ slug: gunubirligine
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► günübirlik
+- günübirlik
 ozellikler:
 - - zarf
 ornekler:

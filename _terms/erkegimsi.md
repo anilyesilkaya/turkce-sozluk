@@ -5,7 +5,7 @@ slug: erkegimsi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erkeksi
+- erkeksi
 ozellikler:
 - - sıfat
 ornekler:

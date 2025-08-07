@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Doğada yaşayan, evcil olmayan (hayvan); yabanıl, vahşi, evcil karşıtı
 - Doğada kendiliğinden yetişen (bitki); yabanıl
-- ► tor (II)
+- tor (II)
 - Görgüsü olmayan, kaba ve hoyrat (kimse); yamyam
 ozellikler:
 - - sıfat

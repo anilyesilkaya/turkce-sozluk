@@ -5,7 +5,7 @@ slug: pesi-pesine
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► arka arkaya
+- arka arkaya
 ozellikler:
 - - zarf
 ornekler:

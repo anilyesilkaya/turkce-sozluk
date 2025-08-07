@@ -6,8 +6,8 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Suya dalıp çıkmak
-- ► yıkanmak
-- ► yüzmek (I)
+- yıkanmak
+- yüzmek (I)
 ozellikler:
 - - nesnesiz
 - - nesnesiz

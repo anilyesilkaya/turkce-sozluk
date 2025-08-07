@@ -5,7 +5,7 @@ slug: antinomi
 letter: A
 lisan: Fransızca antinomie
 anlamlar:
-- ► çatışkı
+- çatışkı
 ozellikler:
 - - isim
   - felsefe

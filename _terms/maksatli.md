@@ -5,7 +5,7 @@ slug: maksatli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► amaçlı
+- amaçlı
 - Bilerek, isteyerek, kasıtlı olarak
 ozellikler:
 - - sıfat

@@ -7,7 +7,7 @@ lisan: Arapça ḳadīd
 anlamlar:
 - Çok zayıf
 - Güneşte veya hafif alevde kurutulmuş et
-- ► iskelet
+- iskelet
 ozellikler:
 - - sıfat
 - - sıfat

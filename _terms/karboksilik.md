@@ -5,7 +5,7 @@ slug: karboksilik
 letter: K
 lisan: Fransızca carboxylique
 anlamlar:
-- ► karboksilli
+- karboksilli
 ozellikler:
 - - sıfat
   - kimya

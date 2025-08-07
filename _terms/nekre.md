@@ -5,7 +5,7 @@ slug: nekre
 letter: N
 lisan: Arapça nekre
 anlamlar:
-- ► nükteci
+- nükteci
 ozellikler:
 - - sıfat
   - eskimiş

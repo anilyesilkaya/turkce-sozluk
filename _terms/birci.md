@@ -5,7 +5,7 @@ slug: birci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tekçi
+- tekçi
 ozellikler:
 - - sıfat
   - felsefe

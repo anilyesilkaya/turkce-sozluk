@@ -5,7 +5,7 @@ slug: format
 letter: F
 lisan: İngilizce format
 anlamlar:
-- ► biçim (II)
+- biçim (II)
 ozellikler:
 - - isim
   - bilişim

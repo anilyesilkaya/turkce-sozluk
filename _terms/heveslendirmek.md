@@ -5,7 +5,7 @@ slug: heveslendirmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► isteklendirmek
+- isteklendirmek
 ozellikler:
 - - -i
 ornekler:

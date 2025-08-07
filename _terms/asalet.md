@@ -5,7 +5,7 @@ slug: asalet
 letter: A
 lisan: Arapça aṣālet
 anlamlar:
-- ► soyluluk
+- soyluluk
 - Saygı uyandıracak biçimde davranma
 - Bir görevi yüklenmiş olma, o görevin sahibi olma, vekillik karşıtı
 - Yazıda veya sözde bayağı söz ve deyim bulunmaması durumu

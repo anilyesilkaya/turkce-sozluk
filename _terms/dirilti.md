@@ -5,8 +5,8 @@ slug: dirilti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dırdır
-- ► çekişme
+- dırdır
+- çekişme
 ozellikler:
 - - isim
 - - isim

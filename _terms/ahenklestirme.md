@@ -5,7 +5,7 @@ slug: ahenklestirme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uyumlandırma
+- uyumlandırma
 ozellikler:
 - - isim
 ornekler:

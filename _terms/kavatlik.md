@@ -5,7 +5,7 @@ slug: kavatlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► pezevenklik
+- pezevenklik
 ozellikler:
 - - isim
 ornekler:

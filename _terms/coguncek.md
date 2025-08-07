@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dayanma noktası ortada olan kaldıraç
-- ► tahterevalli
+- tahterevalli
 ozellikler:
 - - isim
   - ağızlardan

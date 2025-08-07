@@ -5,7 +5,7 @@ slug: orta-mektep
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ortaokul
+- ortaokul
 ozellikler:
 - - isim
   - eskimiş

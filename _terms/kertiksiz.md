@@ -5,7 +5,7 @@ slug: kertiksiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çentiksiz
+- çentiksiz
 ozellikler:
 - - sıfat
 ornekler:

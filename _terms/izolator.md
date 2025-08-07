@@ -5,7 +5,7 @@ slug: izolator
 letter: I
 lisan: Fransızca isolateur
 anlamlar:
-- ► yalıtkan
+- yalıtkan
 ozellikler:
 - - sıfat
   - fizik

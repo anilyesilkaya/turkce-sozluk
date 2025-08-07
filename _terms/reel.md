@@ -5,7 +5,7 @@ slug: reel
 letter: R
 lisan: Fransızca réel
 anlamlar:
-- ► gerçek
+- gerçek
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: askerlik-hizmeti
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► askerlik
+- askerlik
 ozellikler:
 - - isim
   - askerlik

@@ -5,7 +5,7 @@ slug: musriflik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tutumsuzluk
+- tutumsuzluk
 ozellikler:
 - - isim
 ornekler:

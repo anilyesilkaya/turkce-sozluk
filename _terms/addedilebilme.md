@@ -5,7 +5,7 @@ slug: addedilebilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sayılabilme
+- sayılabilme
 ozellikler:
 - - isim
 ornekler:

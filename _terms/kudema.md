@@ -5,7 +5,7 @@ slug: kudema
 letter: K
 lisan: Arapça ḳudemā
 anlamlar:
-- ► eskiler
+- eskiler
 - Eskiliği bakımından ileri gelenler, öne çıkanlar
 ozellikler:
 - - isim

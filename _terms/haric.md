@@ -5,7 +5,7 @@ slug: haric
 letter: H
 lisan: Arapça ḫāric
 anlamlar:
-- ► dış
+- dış
 - Yabancı ülke
 - Dışta kalmak üzere, dışında sayılmak üzere, müstesna
 ozellikler:

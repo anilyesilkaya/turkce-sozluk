@@ -5,7 +5,7 @@ slug: sibop
 letter: S
 lisan: Fransızca soupape'den
 anlamlar:
-- ► supap
+- supap
 ozellikler:
 - - isim
 ornekler:

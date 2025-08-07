@@ -5,7 +5,7 @@ slug: ufuk-hatti
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ufuk çizgisi
+- ufuk çizgisi
 ozellikler:
 - - isim
 ornekler:

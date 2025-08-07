@@ -5,7 +5,7 @@ slug: rektum
 letter: R
 lisan: Latince
 anlamlar:
-- ► göden
+- göden
 ozellikler:
 - - isim
   - anatomi

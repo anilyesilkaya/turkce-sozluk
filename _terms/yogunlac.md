@@ -5,7 +5,7 @@ slug: yogunlac
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kondansatör
+- kondansatör
 ozellikler:
 - - isim
   - fizik

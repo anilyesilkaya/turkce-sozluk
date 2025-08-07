@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Körük yapan veya satan kimse
 - Körük kullanan kimse
-- ► körükleyici
+- körükleyici
 ozellikler:
 - - isim
 - - isim

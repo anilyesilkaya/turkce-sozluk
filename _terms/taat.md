@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭāʿat
 anlamlar:
 - Allah'ın buyruklarını yerine getirme, ibadet etme
-- ► ibadet
+- ibadet
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: fusun
 letter: F
 lisan: Farsça fusūn
 anlamlar:
-- ► büyü
+- büyü
 ozellikler:
 - - isim
   - eskimiş

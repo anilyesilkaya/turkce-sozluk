@@ -5,7 +5,7 @@ slug: bayginti
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baygınlık
+- baygınlık
 - İpek böceklerinin sindirim organlarında görülen ve yemden kesilmelerine yol açan bir hastalık
 - Bu sebeple koza yapamama durumu
 ozellikler:

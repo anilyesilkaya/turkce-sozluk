@@ -5,7 +5,7 @@ slug: emeksiz-evlat
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► üvey evlat
+- üvey evlat
 ozellikler:
 - - isim
 ornekler:

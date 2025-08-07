@@ -5,7 +5,7 @@ slug: munekkit
 letter: M
 lisan: Arapça muneḳḳid
 anlamlar:
-- ► eleştirmen
+- eleştirmen
 ozellikler:
 - - isim
   - eskimiş

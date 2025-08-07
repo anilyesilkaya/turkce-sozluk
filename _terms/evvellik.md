@@ -5,7 +5,7 @@ slug: evvellik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► öncelik
+- öncelik
 ozellikler:
 - - isim
 ornekler:

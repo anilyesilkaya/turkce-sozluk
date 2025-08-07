@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Satılan bir mal, yapılan bir iş veya harcanan bir emek karşılığında elde edilen para; getiri, temettü
-- ► ekmek (I)
-- ► yarar
+- ekmek (I)
+- yarar
 ozellikler:
 - - isim
   - ticaret

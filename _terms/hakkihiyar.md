@@ -5,7 +5,7 @@ slug: hakkihiyar
 letter: H
 lisan: Arapça ḥaḳḳ + ḫiyār
 anlamlar:
-- ► seçme hakkı
+- seçme hakkı
 ozellikler:
 - - isim
   - eskimiş

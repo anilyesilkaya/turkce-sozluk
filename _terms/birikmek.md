@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Toplanıp yığılmak
-- ► toplanmak
+- toplanmak
 - Birbirine eklenip çoğalmak
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: suurlandirilma
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlendirilme
+- bilinçlendirilme
 ozellikler:
 - - isim
 ornekler:

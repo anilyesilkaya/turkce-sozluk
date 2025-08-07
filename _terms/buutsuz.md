@@ -5,7 +5,7 @@ slug: buutsuz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boyutsuz
+- boyutsuz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: zilli-bebek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► şakşakçı
+- şakşakçı
 ozellikler:
 - - isim
   - mecaz

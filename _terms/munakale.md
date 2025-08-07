@@ -5,7 +5,7 @@ slug: munakale
 letter: M
 lisan: Arapça munāḳale
 anlamlar:
-- ► ulaşım
+- ulaşım
 - Bir şeyi bir yerden bir yere aktarma
 ozellikler:
 - - isim

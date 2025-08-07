@@ -12,7 +12,7 @@ anlamlar:
 - Yaşı ilerlemiş, belli bir yaşa gelmiş
 - Gücü, kudreti çok olan
 - Önemli olan
-- ► dışkı
+- dışkı
 - Makam, rütbe, derece bakımından daha üst olan kimse
 ozellikler:
 - - sıfat

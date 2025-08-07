@@ -5,7 +5,7 @@ slug: som
 letter: Ş
 lisan: Farsça şūm
 anlamlar:
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - sıfat
   - eskimiş

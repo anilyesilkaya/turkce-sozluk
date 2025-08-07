@@ -5,7 +5,7 @@ slug: zihayat
 letter: Z
 lisan: Arapça ẕīḥayāt
 anlamlar:
-- ► canlı
+- canlı
 ozellikler:
 - - sıfat
   - eskimiş

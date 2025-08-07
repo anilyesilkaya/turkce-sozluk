@@ -5,7 +5,7 @@ slug: urfalilik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Şanlıurfalılık
+- Şanlıurfalılık
 ozellikler:
 - - isim
 ornekler:

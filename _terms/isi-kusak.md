@@ -5,7 +5,7 @@ slug: isi-kusak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sıcak kuşak
+- sıcak kuşak
 ozellikler:
 - - isim
   - coğrafya

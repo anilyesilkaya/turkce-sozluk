@@ -5,7 +5,7 @@ slug: maniasiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► engelsiz
+- engelsiz
 ozellikler:
 - - sıfat
 ornekler:

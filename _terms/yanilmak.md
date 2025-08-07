@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tanımayarak, niteliğini iyi anlamayarak aldanmak
 - Sonucunu düşünmeden veya bilmeden uygunsuz bir davranışta bulunmak
-- ► sürçmek
+- sürçmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: komplike
 letter: K
 lisan: Fransızca compliqué
 anlamlar:
-- ► karmaşık
+- karmaşık
 ozellikler:
 - - sıfat
 ornekler:

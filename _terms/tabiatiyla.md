@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Doğal bir biçimde, tabii olarak
-- ► kendiliğinden
+- kendiliğinden
 ozellikler:
 - - zarf
 - - zarf

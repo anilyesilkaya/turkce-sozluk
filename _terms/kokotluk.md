@@ -5,7 +5,7 @@ slug: kokotluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► aşüftelik
+- aşüftelik
 ozellikler:
 - - isim
 ornekler:

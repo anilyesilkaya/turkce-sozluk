@@ -6,8 +6,8 @@ letter: F
 lisan: Fransızca final
 anlamlar:
 - Bir işin sonu
-- ► yarıyıl sonu sınavı
-- ► bitiş
+- yarıyıl sonu sınavı
+- bitiş
 - Elemeli yarışmalarda sonucu belirleyen karşılaşma
 ozellikler:
 - - isim

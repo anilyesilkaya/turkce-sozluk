@@ -5,7 +5,7 @@ slug: patak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dayak (I)
+- dayak (I)
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: oldum-bittim
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oldum olası
+- oldum olası
 ozellikler:
 - - zarf
 ornekler:

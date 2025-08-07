@@ -5,7 +5,7 @@ slug: kalker
 letter: K
 lisan: Fransızca calcaire
 anlamlar:
-- ► kireç taşı
+- kireç taşı
 ozellikler:
 - - isim
   - mineraloji

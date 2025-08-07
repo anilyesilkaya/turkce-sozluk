@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Doruklamak işi
-- ► tepeleme
+- tepeleme
 ozellikler:
 - - isim
 - - isim

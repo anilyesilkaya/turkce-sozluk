@@ -5,7 +5,7 @@ slug: kafadaslik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kafadarlık
+- kafadarlık
 ozellikler:
 - - isim
 ornekler:

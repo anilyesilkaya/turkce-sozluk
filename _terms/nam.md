@@ -5,8 +5,8 @@ slug: nam
 letter: N
 lisan: Farsça nām
 anlamlar:
-- ► ad (I)
-- ► ün
+- ad (I)
+- ün
 ozellikler:
 - - isim
 - - isim

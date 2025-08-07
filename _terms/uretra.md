@@ -5,7 +5,7 @@ slug: uretra
 letter: Ü
 lisan: Latince
 anlamlar:
-- ► siyek
+- siyek
 ozellikler:
 - - isim
   - anatomi

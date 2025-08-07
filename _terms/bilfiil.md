@@ -5,7 +5,7 @@ slug: bilfiil
 letter: B
 lisan: Arapça bi'l-fiʿl
 anlamlar:
-- ► fiilen
+- fiilen
 ozellikler:
 - - zarf
 ornekler:

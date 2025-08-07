@@ -5,7 +5,7 @@ slug: katiyetle
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - zarf
 ornekler:

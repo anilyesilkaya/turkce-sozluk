@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Nahif olma durumu
-- ► zayıflık
+- zayıflık
 ozellikler:
 - - isim
 - - isim

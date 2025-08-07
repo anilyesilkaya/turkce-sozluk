@@ -5,7 +5,7 @@ slug: bekarhane
 letter: B
 lisan: Arapça bekār + Farsça ḫāne
 anlamlar:
-- ► bekâr odası
+- bekâr odası
 - Bekârların yaşadığı müstakil ev
 ozellikler:
 - - isim

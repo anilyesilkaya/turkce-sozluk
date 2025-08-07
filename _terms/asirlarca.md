@@ -5,7 +5,7 @@ slug: asirlarca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yüzyıllarca
+- yüzyıllarca
 ozellikler:
 - - zarf
 ornekler:

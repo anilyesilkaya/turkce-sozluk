@@ -5,7 +5,7 @@ slug: dos
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► göğüs
+- göğüs
 - Kaburga altı
 ozellikler:
 - - isim

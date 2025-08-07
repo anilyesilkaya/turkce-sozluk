@@ -5,7 +5,7 @@ slug: japon-gulu
 letter: J
 lisan: Türkçe
 anlamlar:
-- ► kamelya
+- kamelya
 ozellikler:
 - - isim
   - bitki bilimi

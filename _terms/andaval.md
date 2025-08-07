@@ -5,7 +5,7 @@ slug: andaval
 letter: A
 lisan: Yunanca
 anlamlar:
-- ► andavallı
+- andavallı
 ozellikler:
 - - sıfat
   - argo

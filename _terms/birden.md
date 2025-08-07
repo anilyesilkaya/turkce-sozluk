@@ -5,8 +5,8 @@ slug: birden
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir defada
-- ► ansızın
+- bir defada
+- ansızın
 - Birlikte, beraberce, hepsi bir arada
 ozellikler:
 - - zarf

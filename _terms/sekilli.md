@@ -5,7 +5,7 @@ slug: sekilli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimli
+- biçimli
 ozellikler:
 - - sıfat
 ornekler:

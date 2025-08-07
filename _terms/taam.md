@@ -5,7 +5,7 @@ slug: taam
 letter: T
 lisan: Arapça ṭaʿām
 anlamlar:
-- ► yemek (I)
+- yemek (I)
 - Yemek yeme
 ozellikler:
 - - isim

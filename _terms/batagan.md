@@ -5,7 +5,7 @@ slug: batagan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bataklık
+- bataklık
 - Eline geçen parayı boş yere harcayan (kimse)
 ozellikler:
 - - isim

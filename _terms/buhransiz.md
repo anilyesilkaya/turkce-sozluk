@@ -5,7 +5,7 @@ slug: buhransiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bunalımsız
+- bunalımsız
 ozellikler:
 - - sıfat
 ornekler:

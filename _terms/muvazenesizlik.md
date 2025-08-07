@@ -5,7 +5,7 @@ slug: muvazenesizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dengesizlik
+- dengesizlik
 ozellikler:
 - - isim
 ornekler:

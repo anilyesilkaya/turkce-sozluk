@@ -5,7 +5,7 @@ slug: lahza
 letter: L
 lisan: Arapça laḥẓa
 anlamlar:
-- ► an (I)
+- an (I)
 ozellikler:
 - - isim
   - eskimiş

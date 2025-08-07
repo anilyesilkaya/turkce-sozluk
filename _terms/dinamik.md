@@ -5,9 +5,9 @@ slug: dinamik
 letter: D
 lisan: Fransızca dynamique
 anlamlar:
-- ► canlı
+- canlı
 - Hareketli, her an değişebilen, duruk karşıtı
-- ► devimsel
+- devimsel
 - Mekaniğin kuvvet, hareket, enerji arasındaki ilişkilerini inceleyen dalı; devim bilimi
 ozellikler:
 - - sıfat

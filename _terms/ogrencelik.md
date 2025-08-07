@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğrenmek amacıyla yapılan ilk uygulama
-- ► simülatör
+- simülatör
 ozellikler:
 - - isim
   - ağızlardan

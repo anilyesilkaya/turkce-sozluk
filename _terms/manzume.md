@@ -5,8 +5,8 @@ slug: manzume
 letter: M
 lisan: Arapça manẓūme
 anlamlar:
-- ► şiir
-- ► dizge
+- şiir
+- dizge
 ozellikler:
 - - isim
   - edebiyat

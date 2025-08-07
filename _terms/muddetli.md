@@ -5,7 +5,7 @@ slug: muddetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► süreli
+- süreli
 ozellikler:
 - - sıfat
 ornekler:

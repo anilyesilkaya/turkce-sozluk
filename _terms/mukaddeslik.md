@@ -5,7 +5,7 @@ slug: mukaddeslik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kutsallık
+- kutsallık
 ozellikler:
 - - isim
 ornekler:

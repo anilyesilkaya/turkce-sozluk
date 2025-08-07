@@ -5,7 +5,7 @@ slug: aspur
 letter: A
 lisan: Arapça ʿuṣfur
 anlamlar:
-- ► yalancı safran
+- yalancı safran
 ozellikler:
 - - isim
   - bitki bilimi

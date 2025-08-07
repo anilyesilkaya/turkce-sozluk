@@ -5,7 +5,7 @@ slug: eveleme-develeme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eveleme geveleme
+- eveleme geveleme
 ozellikler:
 - - isim
 ornekler:

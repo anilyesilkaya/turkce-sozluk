@@ -5,7 +5,7 @@ slug: disci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► diş hekimi
+- diş hekimi
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: T
 lisan: Fransızca transport
 anlamlar:
 - Bir yerden başka bir yere taşıma, iletme
-- ► taşımacılık
+- taşımacılık
 ozellikler:
 - - isim
 - - isim

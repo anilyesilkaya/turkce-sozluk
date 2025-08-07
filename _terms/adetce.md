@@ -5,7 +5,7 @@ slug: adetce
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sayıca
+- sayıca
 ozellikler:
 - - zarf
 ornekler:

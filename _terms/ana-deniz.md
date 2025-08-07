@@ -5,7 +5,7 @@ slug: ana-deniz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► okyanus
+- okyanus
 ozellikler:
 - - isim
   - coğrafya

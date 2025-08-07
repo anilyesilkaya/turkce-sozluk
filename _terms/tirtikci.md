@@ -5,7 +5,7 @@ slug: tirtikci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yankesici
+- yankesici
 ozellikler:
 - - isim
   - argo

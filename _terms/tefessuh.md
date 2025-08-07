@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça tefessuḫ
 anlamlar:
 - Organ, yiyecek vb.nin çürüyerek bozulması
-- ► soysuzlaşma
+- soysuzlaşma
 ozellikler:
 - - isim
   - eskimiş

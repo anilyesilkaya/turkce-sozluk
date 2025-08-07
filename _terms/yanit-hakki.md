@@ -5,7 +5,7 @@ slug: yanit-hakki
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevap hakkı
+- cevap hakkı
 ozellikler:
 - - isim
 ornekler:

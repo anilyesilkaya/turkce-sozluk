@@ -5,7 +5,7 @@ slug: fars
 letter: F
 lisan: Fransızca farce
 anlamlar:
-- ► güldürü
+- güldürü
 ozellikler:
 - - isim
   - tiyatro

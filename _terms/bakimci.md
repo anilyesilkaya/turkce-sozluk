@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bakım işini yapan kimse
-- ► falcı
+- falcı
 ozellikler:
 - - isim
 - - isim

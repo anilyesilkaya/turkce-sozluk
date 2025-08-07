@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Koza gibi yumaklanmış şey
-- ► bürümcük
+- bürümcük
 ozellikler:
 - - isim
 - - isim

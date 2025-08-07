@@ -5,7 +5,7 @@ slug: torlukcu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► torakçı
+- torakçı
 ozellikler:
 - - isim
   - ağızlardan

@@ -8,7 +8,7 @@ anlamlar:
 - Günü belli olmayan (tarih)
 - Güneş görmeyen
 - Günlük hayatını sürdürmekte zorlanan, düzenli bir işi gücü olmayan
-- ► erkendoğan
+- erkendoğan
 ozellikler:
 - - sıfat
   - tıp

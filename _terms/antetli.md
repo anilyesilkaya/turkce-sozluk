@@ -5,7 +5,7 @@ slug: antetli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► başlıklı
+- başlıklı
 ozellikler:
 - - sıfat
 ornekler:

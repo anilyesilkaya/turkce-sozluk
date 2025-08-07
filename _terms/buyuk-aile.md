@@ -5,7 +5,7 @@ slug: buyuk-aile
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► geniş aile
+- geniş aile
 ozellikler:
 - - isim
   - toplum bilimi

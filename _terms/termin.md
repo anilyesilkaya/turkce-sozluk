@@ -5,7 +5,7 @@ slug: termin
 letter: T
 lisan: Almanca Termin
 anlamlar:
-- ► randevu
+- randevu
 ozellikler:
 - - isim
 ornekler:

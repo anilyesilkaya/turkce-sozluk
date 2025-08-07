@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Büyük duruma getirmek; büyültmek
-- ► yetiştirmek
+- yetiştirmek
 - Olduğundan fazla görmek veya göstermek
 ozellikler:
 - - -i

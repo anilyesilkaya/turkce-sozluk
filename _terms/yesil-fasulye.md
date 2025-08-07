@@ -5,7 +5,7 @@ slug: yesil-fasulye
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► taze fasulye
+- taze fasulye
 ozellikler:
 - - isim
 ornekler:

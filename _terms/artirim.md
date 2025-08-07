@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Artırmak işi
-- ► tutum
+- tutum
 - Müzayedede artırma
 ozellikler:
 - - isim

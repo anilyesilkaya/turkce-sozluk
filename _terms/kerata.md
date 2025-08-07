@@ -5,7 +5,7 @@ slug: kerata
 letter: K
 lisan: Rumca
 anlamlar:
-- ► çekecek
+- çekecek
 - Küçüklere sevgi ile söylenen bir sitem sözü
 - Karısı tarafından aldatılan erkek
 ozellikler:

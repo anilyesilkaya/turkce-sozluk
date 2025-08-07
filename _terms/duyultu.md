@@ -5,7 +5,7 @@ slug: duyultu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► şayia
+- şayia
 ozellikler:
 - - isim
 ornekler:

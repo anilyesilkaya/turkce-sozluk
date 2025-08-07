@@ -5,7 +5,7 @@ slug: mufredat
 letter: M
 lisan: Arapça mufredāt
 anlamlar:
-- ► öğretim programı
+- öğretim programı
 - Bir bütünü oluşturan bireyler, ayrıntılar
 ozellikler:
 - - isim

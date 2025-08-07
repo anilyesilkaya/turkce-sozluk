@@ -5,7 +5,7 @@ slug: kuyruksuzlar
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurbağalar
+- kurbağalar
 ozellikler:
 - - isim
   - hayvan bilimi

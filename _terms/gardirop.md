@@ -5,7 +5,7 @@ slug: gardirop
 letter: G
 lisan: Fransızca garde-robe
 anlamlar:
-- ► giysi dolabı
+- giysi dolabı
 - Bir kişinin sahip olduğu bütün giysileri, giysi takımları
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sayeban
 letter: S
 lisan: Farsça sāyebān
 anlamlar:
-- ► gölgelik
+- gölgelik
 ozellikler:
 - - isim
   - eskimiş

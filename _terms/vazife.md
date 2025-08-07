@@ -5,9 +5,9 @@ slug: vazife
 letter: V
 lisan: Arapça vaẓīfe
 anlamlar:
-- ► ödev
-- ► görev
-- ► gündelik
+- ödev
+- görev
+- gündelik
 ozellikler:
 - - isim
 - - isim

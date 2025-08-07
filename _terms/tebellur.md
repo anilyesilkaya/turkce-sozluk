@@ -5,8 +5,8 @@ slug: tebellur
 letter: T
 lisan: Arapça tebellur
 anlamlar:
-- ► billurlaşma
-- ► belirme
+- billurlaşma
+- belirme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: goverti
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sebze
-- ► morluk
+- sebze
+- morluk
 ozellikler:
 - - isim
   - ağızlardan

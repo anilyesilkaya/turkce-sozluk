@@ -5,7 +5,7 @@ slug: afoni
 letter: A
 lisan: Fransızca aphonie
 anlamlar:
-- ► ses yitimi
+- ses yitimi
 ozellikler:
 - - isim
   - tıp

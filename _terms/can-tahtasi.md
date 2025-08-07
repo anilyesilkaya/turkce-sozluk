@@ -5,7 +5,7 @@ slug: can-tahtasi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► göğüs kemiği
+- göğüs kemiği
 ozellikler:
 - - isim
   - ağızlardan

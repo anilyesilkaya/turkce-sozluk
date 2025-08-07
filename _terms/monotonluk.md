@@ -5,7 +5,7 @@ slug: monotonluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tekdüzelik
+- tekdüzelik
 ozellikler:
 - - isim
 ornekler:

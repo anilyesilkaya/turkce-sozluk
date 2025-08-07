@@ -6,7 +6,7 @@ letter: F
 lisan: Farsça pīrūze
 anlamlar:
 - Küpe ve yüzük taşı gibi süslemede kullanılan, mavi renkli, saydam olmayan hidratlı doğal alüminyum ve fosfattan oluşan değerli bir mineral
-- ► turkuaz
+- turkuaz
 ozellikler:
 - - isim
   - mineraloji

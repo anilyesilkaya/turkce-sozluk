@@ -5,7 +5,7 @@ slug: aniklamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hazırlamak
+- hazırlamak
 ozellikler:
 - - -i
   - eskimiş

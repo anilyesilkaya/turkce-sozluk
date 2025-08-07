@@ -5,7 +5,7 @@ slug: aruz
 letter: A
 lisan: Arapça ʿarūż
 anlamlar:
-- ► aruz vezni
+- aruz vezni
 ozellikler:
 - - isim
   - edebiyat

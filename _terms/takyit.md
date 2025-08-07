@@ -5,7 +5,7 @@ slug: takyit
 letter: T
 lisan: Arapça taḳyīd
 anlamlar:
-- ► kayıtlama
+- kayıtlama
 ozellikler:
 - - isim
   - eskimiş

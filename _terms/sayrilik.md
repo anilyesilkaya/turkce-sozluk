@@ -5,7 +5,7 @@ slug: sayrilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hastalık
+- hastalık
 - Aşırı düşkünlük, tutku
 ozellikler:
 - - isim

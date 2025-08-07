@@ -5,7 +5,7 @@ slug: enli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► geniş
+- geniş
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: derrace
 letter: D
 lisan: Arapça derrāce
 anlamlar:
-- ► bisiklet
+- bisiklet
 ozellikler:
 - - isim
   - eskimiş

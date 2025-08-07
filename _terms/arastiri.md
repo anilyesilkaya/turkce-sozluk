@@ -5,7 +5,7 @@ slug: arastiri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► araştırma
+- araştırma
 ozellikler:
 - - isim
 ornekler:

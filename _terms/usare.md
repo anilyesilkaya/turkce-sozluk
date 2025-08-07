@@ -5,7 +5,7 @@ slug: usare
 letter: U
 lisan: Arapça ʿuṣāre
 anlamlar:
-- ► öz su
+- öz su
 - Besleyici, hayat verici öz
 ozellikler:
 - - isim

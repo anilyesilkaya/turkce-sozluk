@@ -5,7 +5,7 @@ slug: hilkaten
 letter: H
 lisan: Arapça ḫilḳaten
 anlamlar:
-- ► yaradılışça
+- yaradılışça
 ozellikler:
 - - zarf
   - eskimiş

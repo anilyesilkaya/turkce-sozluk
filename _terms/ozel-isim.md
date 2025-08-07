@@ -5,7 +5,7 @@ slug: ozel-isim
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özel ad
+- özel ad
 ozellikler:
 - - isim
   - dil bilgisi

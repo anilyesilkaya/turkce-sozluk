@@ -5,7 +5,7 @@ slug: platonizm
 letter: P
 lisan: Fransızca platonizme
 anlamlar:
-- ► Platonculuk
+- Platonculuk
 ozellikler:
 - - isim
   - felsefe

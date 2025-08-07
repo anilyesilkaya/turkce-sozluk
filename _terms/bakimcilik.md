@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bakımcının yaptığı iş
-- ► falcılık
+- falcılık
 ozellikler:
 - - isim
 - - isim

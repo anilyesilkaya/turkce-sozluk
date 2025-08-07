@@ -5,7 +5,7 @@ slug: usulcana
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► yavaşça
+- yavaşça
 ozellikler:
 - - zarf
   - ağızlardan

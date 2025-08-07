@@ -8,7 +8,7 @@ anlamlar:
 - Deniz ve gölde dalgalanma
 - Çalkanmış şey
 - Kalbur yardımıyla ayrılan çer çöp
-- ► coşku
+- coşku
 - Kargaşa ve bunalımın yol açtığı düzensiz, karışık, sıkıntılı durum
 ozellikler:
 - - isim

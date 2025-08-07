@@ -5,7 +5,7 @@ slug: cazibelesmek
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çekicileşmek
+- çekicileşmek
 ozellikler:
 - - nesnesiz
 ornekler:

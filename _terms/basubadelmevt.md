@@ -5,7 +5,7 @@ slug: basubadelmevt
 letter: B
 lisan: Arapça baʿs̱ + baʿde'l-mevt
 anlamlar:
-- ► diriliş
+- diriliş
 - Tamamen yok olmuş gibi görünen bir şeyin yeniden canlanması
 ozellikler:
 - - isim

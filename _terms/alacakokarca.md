@@ -5,7 +5,7 @@ slug: alacakokarca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alacasansar
+- alacasansar
 ozellikler:
 - - isim
   - hayvan bilimi

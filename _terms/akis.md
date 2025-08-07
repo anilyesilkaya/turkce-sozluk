@@ -5,10 +5,10 @@ slug: akis
 letter: A
 lisan: Arapça ʿaks
 anlamlar:
-- ► yansı
-- ► yankı
-- ► evirtim
-- ► evirme
+- yansı
+- yankı
+- evirtim
+- evirme
 ozellikler:
 - - isim
 - - isim

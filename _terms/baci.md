@@ -5,10 +5,10 @@ slug: baci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kız kardeş
+- kız kardeş
 - Bir evde uzun zaman çalışmış yaşlı kadınlara verilen ünvan
-- ► abla
-- ► ana bacı
+- abla
+- ana bacı
 - Kadınlara söylenen bir seslenme sözü
 ozellikler:
 - - isim

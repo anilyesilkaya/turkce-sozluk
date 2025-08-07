@@ -5,7 +5,7 @@ slug: homurdamak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► homurdanmak
+- homurdanmak
 ozellikler:
 - - nesnesiz
 ornekler:

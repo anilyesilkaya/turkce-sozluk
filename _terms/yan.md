@@ -11,12 +11,12 @@ anlamlar:
 - Birlikte, beraberinde veya üstünde olma
 - Ön veya arka kabul edilen yere göre sağ veya solda bulunan
 - İkinci derece olan
-- ► ikincil
+- ikincil
 - Bir tarafa yönelerek
 - İstekleri karşıt olan iki kişiden veya topluluktan biri
 - Savaş düzenindeki ordunun iki kanadından her biri
 - Bir denklemde "=" işaretiyle ayrılmış olan iki anlatımdan her biri
-- ► taç (II)
+- taç (II)
 ozellikler:
 - - isim
 - - isim

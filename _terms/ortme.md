@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtmek işi
-- ► başörtüsü
+- başörtüsü
 - Üstü kapalı, önü açık yer
 ozellikler:
 - - isim

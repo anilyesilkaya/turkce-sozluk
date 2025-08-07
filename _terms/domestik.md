@@ -5,8 +5,8 @@ slug: domestik
 letter: D
 lisan: Fransızca domestique
 anlamlar:
-- ► iç
-- ► yöresel
+- iç
+- yöresel
 ozellikler:
 - - sıfat
 - - sıfat

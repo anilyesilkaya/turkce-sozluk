@@ -5,7 +5,7 @@ slug: basmal
 letter: B
 lisan: Türkçe baş + Arapça māl
 anlamlar:
-- ► sermaye
+- sermaye
 ozellikler:
 - - isim
   - ticaret

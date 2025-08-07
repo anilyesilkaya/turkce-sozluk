@@ -5,7 +5,7 @@ slug: doseyici
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tesisatçı
+- tesisatçı
 ozellikler:
 - - isim
 ornekler:

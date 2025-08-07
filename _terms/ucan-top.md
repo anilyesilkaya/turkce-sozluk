@@ -5,7 +5,7 @@ slug: ucan-top
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► voleybol
+- voleybol
 ozellikler:
 - - isim
   - spor

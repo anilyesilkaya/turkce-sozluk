@@ -5,7 +5,7 @@ slug: analizleme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çözümleme
+- çözümleme
 ozellikler:
 - - isim
 ornekler:

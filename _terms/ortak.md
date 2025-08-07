@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Birlikte iş yapan, ortaklaşa yararlarla birbirlerine bağlı kimselerden her biri; şerik, partner
 - Birden çok kimse veya nesneyi ilgilendiren, onlara özgü olan, onların katılmasıyla oluşan; müşterek
-- ► kuma
+- kuma
 ozellikler:
 - - isim
 - - isim

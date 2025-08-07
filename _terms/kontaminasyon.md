@@ -5,7 +5,7 @@ slug: kontaminasyon
 letter: K
 lisan: Fransızca contamination
 anlamlar:
-- ► bulaşı
+- bulaşı
 ozellikler:
 - - isim
   - tıp

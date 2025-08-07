@@ -5,7 +5,7 @@ slug: sivil-toplum-orgutu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sivil toplum kuruluşu
+- sivil toplum kuruluşu
 ozellikler:
 - - isim
 ornekler:

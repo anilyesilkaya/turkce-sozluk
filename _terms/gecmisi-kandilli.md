@@ -5,7 +5,7 @@ slug: gecmisi-kandilli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçmişi kınalı
+- geçmişi kınalı
 ozellikler:
 - - sıfat
   - argo

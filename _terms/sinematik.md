@@ -5,7 +5,7 @@ slug: sinematik
 letter: S
 lisan: Fransızca cinématique
 anlamlar:
-- ► kinematik
+- kinematik
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: mese-palamudu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► palamut (II)
+- palamut (II)
 ozellikler:
 - - isim
   - bitki bilimi

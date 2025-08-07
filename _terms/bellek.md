@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yaşananları, öğrenilen konuları, bunların geçmişle ilişkisini bilinçli olarak zihinde saklama gücü; an (III), dağar, dağarcık, akıl, hafıza, yâd, zihin
 - Bilgisayar, telefon, otomatik kumanda vb. aletlerde programları ve verileri barındıran ortam
-- ► kafa
+- kafa
 ozellikler:
 - - isim
   - ruh bilimi

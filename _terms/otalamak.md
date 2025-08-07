@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Zehirlemek, ağılamak
-- ► otamak
+- otamak
 ozellikler:
 - - -i
   - ağızlardan

@@ -5,8 +5,8 @@ slug: meyyal
 letter: M
 lisan: Arapça meyyāl
 anlamlar:
-- ► eğilimli
-- ► eğimli
+- eğilimli
+- eğimli
 ozellikler:
 - - sıfat
   - eskimiş

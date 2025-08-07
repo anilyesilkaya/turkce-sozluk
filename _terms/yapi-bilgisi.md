@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Belirli ölçü ve kurallara göre yapıları tasarlama bilgisi
-- ► biçim bilgisi
+- biçim bilgisi
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: numayiscilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► göstericilik
+- göstericilik
 ozellikler:
 - - isim
 ornekler:

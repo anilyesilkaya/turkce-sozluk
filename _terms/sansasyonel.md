@@ -5,7 +5,7 @@ slug: sansasyonel
 letter: S
 lisan: Fransızca sensationnel
 anlamlar:
-- ► çarpıcı
+- çarpıcı
 ozellikler:
 - - sıfat
 ornekler:

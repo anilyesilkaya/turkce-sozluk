@@ -5,7 +5,7 @@ slug: kavki
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kabuk
+- kabuk
 ozellikler:
 - - isim
   - ağızlardan

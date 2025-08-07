@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Global olma durumu
-- ► küresellik
+- küresellik
 ozellikler:
 - - isim
 - - isim

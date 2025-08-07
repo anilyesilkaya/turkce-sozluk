@@ -5,7 +5,7 @@ slug: sark
 letter: Ş
 lisan: Arapça şarḳ
 anlamlar:
-- ► Doğu
+- Doğu
 ozellikler:
 - - isim
 ornekler:

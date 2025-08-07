@@ -5,7 +5,7 @@ slug: amme-hizmeti
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kamu hizmeti
+- kamu hizmeti
 ozellikler:
 - - isim
 ornekler:

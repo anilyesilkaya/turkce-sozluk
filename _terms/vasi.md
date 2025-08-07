@@ -5,8 +5,8 @@ slug: vasi
 letter: V
 lisan: Arapça vāsiʿ
 anlamlar:
-- ► geniş
-- ► engin (I)
+- geniş
+- engin (I)
 ozellikler:
 - - sıfat
   - eskimiş

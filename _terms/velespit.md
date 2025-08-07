@@ -5,7 +5,7 @@ slug: velespit
 letter: V
 lisan: Fransızca vélocipède
 anlamlar:
-- ► bisiklet
+- bisiklet
 ozellikler:
 - - isim
   - eskimiş

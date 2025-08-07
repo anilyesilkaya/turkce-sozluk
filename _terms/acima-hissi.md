@@ -5,7 +5,7 @@ slug: acima-hissi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► acıma duygusu
+- acıma duygusu
 ozellikler:
 - - isim
   - ruh bilimi

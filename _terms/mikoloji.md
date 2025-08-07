@@ -5,7 +5,7 @@ slug: mikoloji
 letter: M
 lisan: Fransızca mycologie
 anlamlar:
-- ► mantar bilimi
+- mantar bilimi
 ozellikler:
 - - isim
 ornekler:

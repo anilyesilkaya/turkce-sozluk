@@ -5,7 +5,7 @@ slug: yeni-sene
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeni yıl
+- yeni yıl
 ozellikler:
 - - isim
 ornekler:

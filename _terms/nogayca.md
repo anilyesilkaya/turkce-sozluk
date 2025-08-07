@@ -5,7 +5,7 @@ slug: nogayca
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► Nogay Türkçesi
+- Nogay Türkçesi
 ozellikler:
 - - isim
 ornekler:

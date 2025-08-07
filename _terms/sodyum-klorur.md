@@ -5,7 +5,7 @@ slug: sodyum-klorur
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tuz
+- tuz
 ozellikler:
 - - isim
   - kimya

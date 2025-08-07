@@ -5,7 +5,7 @@ slug: gril
 letter: G
 lisan: Fransızca grille
 anlamlar:
-- ► ızgara
+- ızgara
 ozellikler:
 - - isim
 ornekler:

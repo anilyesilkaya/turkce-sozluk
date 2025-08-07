@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Doğru olmayan, gerçeğe uymayan söz; kaşkariko, kıtır, hilaf, şorolop
 - Yalancı kimse
-- ► uydurma
+- uydurma
 ozellikler:
 - - isim
 - - isim

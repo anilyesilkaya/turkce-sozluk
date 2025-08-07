@@ -5,7 +5,7 @@ slug: karnabit
 letter: K
 lisan: Arapça ḳarnabīṭ
 anlamlar:
-- ► karnabahar
+- karnabahar
 ozellikler:
 - - isim
   - eskimiş

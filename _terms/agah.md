@@ -5,8 +5,8 @@ slug: agah
 letter: A
 lisan: Farsça āgāh
 anlamlar:
-- ► bilgili
-- ► haberli
+- bilgili
+- haberli
 ozellikler:
 - - sıfat
   - eskimiş

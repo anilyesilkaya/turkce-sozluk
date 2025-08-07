@@ -5,11 +5,11 @@ slug: tertip
 letter: T
 lisan: Arapça tertīb
 anlamlar:
-- ► sıralama
-- ► düzen
-- ► düzenleme
+- sıralama
+- düzen
+- düzenleme
 - Doktorun hastaya verdiği ilaç düzeni
-- ► dizgi
+- dizgi
 - Hile, düzen, komplo
 - Askere alınma dönemi
 ozellikler:

@@ -5,7 +5,7 @@ slug: gelen-gecen
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gelen giden
+- gelen giden
 ozellikler:
 - - sıfat
 ornekler:

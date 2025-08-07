@@ -5,7 +5,7 @@ slug: surupcu
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şerbetçi
+- şerbetçi
 - İçindeki uyuşturucu maddeler için, öksürük şurubu ve benzeri ilaçların tiryakisi olmuş kimse
 ozellikler:
 - - isim

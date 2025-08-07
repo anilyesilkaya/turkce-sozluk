@@ -5,7 +5,7 @@ slug: mutariza
 letter: M
 lisan: Arapça muʿtariża
 anlamlar:
-- ► yay ayraç
+- yay ayraç
 ozellikler:
 - - isim
   - eskimiş

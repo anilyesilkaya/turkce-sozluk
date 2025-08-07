@@ -5,7 +5,7 @@ slug: porfir
 letter: P
 lisan: Fransızca porphyre
 anlamlar:
-- ► kayaç
+- kayaç
 ozellikler:
 - - isim
   - mineraloji

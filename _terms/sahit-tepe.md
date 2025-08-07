@@ -5,7 +5,7 @@ slug: sahit-tepe
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tanık tepe
+- tanık tepe
 ozellikler:
 - - isim
   - coğrafya

@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca paria
 anlamlar:
 - Hindistan'da toplumsal sınıfların dışında kalanlar
-- ► ayaktakımı
+- ayaktakımı
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: cihar
 letter: C
 lisan: Farsça çehār
 anlamlar:
-- ► dört
+- dört
 ozellikler:
 - - isim
 ornekler:

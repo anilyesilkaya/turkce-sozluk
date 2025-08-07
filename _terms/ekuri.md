@@ -5,7 +5,7 @@ slug: ekuri
 letter: E
 lisan: Fransızca écurie
 anlamlar:
-- ► ahırdaş
+- ahırdaş
 ozellikler:
 - - isim
 ornekler:

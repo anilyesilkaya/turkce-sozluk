@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iḥdās̱
 anlamlar:
 - Ortaya çıkarma, meydana getirme
-- ► kurma
+- kurma
 ozellikler:
 - - isim
   - eskimiş

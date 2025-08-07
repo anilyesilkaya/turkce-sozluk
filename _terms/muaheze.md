@@ -5,9 +5,9 @@ slug: muaheze
 letter: M
 lisan: Arapça muʿāḫaẕe
 anlamlar:
-- ► kınama
-- ► azarlama
-- ► eleştiri
+- kınama
+- azarlama
+- eleştiri
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: muvassah
 letter: M
 lisan: Arapça muvaşşaḥ
 anlamlar:
-- ► akrostiş
+- akrostiş
 ozellikler:
 - - isim
   - eskimiş

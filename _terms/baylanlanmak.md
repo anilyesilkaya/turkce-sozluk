@@ -5,7 +5,7 @@ slug: baylanlanmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baylanmak
+- baylanmak
 ozellikler:
 - - nesnesiz
 ornekler:

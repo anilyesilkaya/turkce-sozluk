@@ -5,8 +5,8 @@ slug: kivanc
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► övünme
-- ► sevinç
+- övünme
+- sevinç
 ozellikler:
 - - isim
 - - isim

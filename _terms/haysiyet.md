@@ -5,8 +5,8 @@ slug: haysiyet
 letter: H
 lisan: Arapça ḥays̱iyyet
 anlamlar:
-- ► saygınlık
-- ► öz saygı
+- saygınlık
+- öz saygı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: akuzatif
 letter: A
 lisan: Fransızca accusatif
 anlamlar:
-- ► belirtme durumu
+- belirtme durumu
 ozellikler:
 - - isim
   - dil bilgisi

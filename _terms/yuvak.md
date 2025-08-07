@@ -5,7 +5,7 @@ slug: yuvak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► loğ
+- loğ
 ozellikler:
 - - isim
   - ağızlardan

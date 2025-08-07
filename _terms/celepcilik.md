@@ -5,7 +5,7 @@ slug: celepcilik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► celeplik
+- celeplik
 ozellikler:
 - - ''
 ornekler:

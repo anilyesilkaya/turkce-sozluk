@@ -5,7 +5,7 @@ slug: teorik
 letter: T
 lisan: Fransızca théorique
 anlamlar:
-- ► kuramsal
+- kuramsal
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Ceza olarak hafta sonu veya tatil günü çıkmasına izin verilmeyen (asker veya yatılı öğrenci)
-- ► izinsiz cezası
+- izinsiz cezası
 - İzin almadan
 ozellikler:
 - - sıfat

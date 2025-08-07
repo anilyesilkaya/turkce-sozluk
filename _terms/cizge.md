@@ -5,7 +5,7 @@ slug: cizge
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► grafik
+- grafik
 ozellikler:
 - - isim
 ornekler:

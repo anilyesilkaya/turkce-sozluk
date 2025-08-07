@@ -5,7 +5,7 @@ slug: onel
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► mehil
+- mehil
 ozellikler:
 - - isim
   - hukuk

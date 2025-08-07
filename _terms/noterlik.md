@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Noterin görevi veya makamı
-- ► noter
+- noter
 ozellikler:
 - - isim
 - - isim

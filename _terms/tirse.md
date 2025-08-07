@@ -5,7 +5,7 @@ slug: tirse
 letter: T
 lisan: Farsça terāşe
 anlamlar:
-- ► parşömen
+- parşömen
 - Tezhipte kullanılmak üzere altın varak elde etmek için içine altın parçası konulup sarılarak dövülen deri
 ozellikler:
 - - isim

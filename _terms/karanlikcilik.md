@@ -5,7 +5,7 @@ slug: karanlikcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bilmesinlercilik
+- bilmesinlercilik
 ozellikler:
 - - isim
   - felsefe

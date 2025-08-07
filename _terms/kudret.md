@@ -8,7 +8,7 @@ anlamlar:
 - Bir işi yapabilme, bir direnmeyi yenme gücü; çıdam
 - İstediğini yaptırabilme gücü
 - Maddi bakımdan zenginlik
-- ► Allah yapısı
+- Allah yapısı
 - Allah’ın bütün varlığı kapsayan gücü
 - Allah’ın her şeye kadir olması, dilediği her şeyi yapması şeklinde tecelli eden sıfatı
 ozellikler:

@@ -5,7 +5,7 @@ slug: muharrer
 letter: M
 lisan: Arapça muḥarrer
 anlamlar:
-- ► yazılı
+- yazılı
 ozellikler:
 - - sıfat
   - eskimiş

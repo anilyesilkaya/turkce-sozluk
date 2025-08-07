@@ -5,8 +5,8 @@ slug: haset
 letter: H
 lisan: Arapça ḥased
 anlamlar:
-- ► kıskançlık
-- ► kıskanç
+- kıskançlık
+- kıskanç
 ozellikler:
 - - isim
 - - isim

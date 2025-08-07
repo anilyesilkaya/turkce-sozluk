@@ -5,8 +5,8 @@ slug: mazruf
 letter: M
 lisan: Arapça maẓrūf
 anlamlar:
-- ► zarflı
-- ► içerik
+- zarflı
+- içerik
 ozellikler:
 - - sıfat
   - eskimiş

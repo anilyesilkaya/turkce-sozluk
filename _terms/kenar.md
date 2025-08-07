@@ -9,7 +9,7 @@ anlamlar:
 - Bir şeyi çevreleyen çizgi
 - Pervaz, çizgi, antika, baskı vb. çevre süsleri
 - Merkezden uzak olan, kuytu, ıssız, sapa, tenha yer
-- ► yan
+- yan
 - Bir biçimi sınırlayan çizgilerden her biri
 ozellikler:
 - - isim

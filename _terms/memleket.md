@@ -5,7 +5,7 @@ slug: memleket
 letter: M
 lisan: Arapça memleket
 anlamlar:
-- ► ülke
+- ülke
 - Bir kimsenin doğup büyüdüğü yer, şehir; yurt
 - İklim ve üretim bakımından ele alınan bölge
 ozellikler:

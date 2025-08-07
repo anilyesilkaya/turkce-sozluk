@@ -5,7 +5,7 @@ slug: baharli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baharatlı
+- baharatlı
 ozellikler:
 - - sıfat
 ornekler:

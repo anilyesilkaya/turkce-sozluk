@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Demokrat olma durumu
-- ► demokrasi
+- demokrasi
 ozellikler:
 - - isim
   - toplum bilimi

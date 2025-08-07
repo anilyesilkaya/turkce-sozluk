@@ -5,7 +5,7 @@ slug: sukutuhayal
 letter: S
 lisan: Arapça suḳūṭ + ḫayāl
 anlamlar:
-- ► hayal kırıklığı
+- hayal kırıklığı
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: ari-sili
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tertemiz
+- tertemiz
 ozellikler:
 - - sıfat
   - ağızlardan

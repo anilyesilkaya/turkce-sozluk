@@ -5,7 +5,7 @@ slug: tesci
 letter: T
 lisan: Arapça teşcīʿ
 anlamlar:
-- ► cesaretlendirme
+- cesaretlendirme
 ozellikler:
 - - isim
   - eskimiş

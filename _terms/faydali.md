@@ -5,7 +5,7 @@ slug: faydali
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararlı
+- yararlı
 ozellikler:
 - - sıfat
 ornekler:

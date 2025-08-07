@@ -5,7 +5,7 @@ slug: volontarist
 letter: V
 lisan: Fransızca volontariste
 anlamlar:
-- ► iradeci
+- iradeci
 ozellikler:
 - - sıfat
   - ruh bilimi

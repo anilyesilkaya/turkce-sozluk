@@ -5,7 +5,7 @@ slug: bes-parasizlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yoksulluk
+- yoksulluk
 ozellikler:
 - - isim
 ornekler:

@@ -6,8 +6,8 @@ letter: K
 lisan: Arapça ḳindīl
 anlamlar:
 - İçinde sıvı bir yağ ve fitil bulunan kaptan oluşmuş aydınlatma aracı; yağ kandili
-- ► kandil gecesi
-- ► kör kandil
+- kandil gecesi
+- kör kandil
 ozellikler:
 - - isim
 - - isim

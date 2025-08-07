@@ -5,7 +5,7 @@ slug: cesamet
 letter: C
 lisan: Arapça cesāmet
 anlamlar:
-- ► büyüklük
+- büyüklük
 ozellikler:
 - - isim
   - eskimiş

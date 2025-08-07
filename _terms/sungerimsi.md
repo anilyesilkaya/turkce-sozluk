@@ -5,7 +5,7 @@ slug: sungerimsi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süngersi
+- süngersi
 ozellikler:
 - - sıfat
 ornekler:

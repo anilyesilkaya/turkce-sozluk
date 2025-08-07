@@ -7,7 +7,7 @@ lisan: Fransızca décor
 anlamlar:
 - Tiyatro, sinema ve televizyonda sahneye konulan eserin yazıldığı yerin ve geçtiği çağın özelliklerini belirleyen perde, aksesuar vb. ögelerin bütünü
 - Bir yere süsleme amacıyla verilen düzen
-- ► manzara
+- manzara
 ozellikler:
 - - isim
 - - isim

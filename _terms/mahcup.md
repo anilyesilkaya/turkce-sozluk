@@ -5,7 +5,7 @@ slug: mahcup
 letter: M
 lisan: Arapça maḥcūb
 anlamlar:
-- ► utangaç
+- utangaç
 - Utangaç bir biçimde
 ozellikler:
 - - sıfat

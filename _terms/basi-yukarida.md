@@ -5,7 +5,7 @@ slug: basi-yukarida
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► burnu havada
+- burnu havada
 ozellikler:
 - - sıfat
   - mecaz

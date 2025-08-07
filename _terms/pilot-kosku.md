@@ -5,7 +5,7 @@ slug: pilot-kosku
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pilot kabini
+- pilot kabini
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kanalet
 letter: K
 lisan: Fransızca canalette
 anlamlar:
-- ► kanalcık
+- kanalcık
 ozellikler:
 - - isim
 ornekler:

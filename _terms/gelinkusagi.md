@@ -5,7 +5,7 @@ slug: gelinkusagi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - ağızlardan

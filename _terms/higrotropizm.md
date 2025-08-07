@@ -5,7 +5,7 @@ slug: higrotropizm
 letter: H
 lisan: Fransızca hygrotropisme
 anlamlar:
-- ► neme yönelim
+- neme yönelim
 ozellikler:
 - - isim
   - biyoloji

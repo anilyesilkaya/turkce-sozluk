@@ -5,7 +5,7 @@ slug: panteizm
 letter: P
 lisan: Fransızca panthéisme
 anlamlar:
-- ► tüm tanrıcılık
+- tüm tanrıcılık
 ozellikler:
 - - isim
   - felsefe

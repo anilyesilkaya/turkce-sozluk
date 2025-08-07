@@ -5,7 +5,7 @@ slug: animator
 letter: A
 lisan: Fransızca animateur
 anlamlar:
-- ► canlandırıcı
+- canlandırıcı
 ozellikler:
 - - isim
 ornekler:

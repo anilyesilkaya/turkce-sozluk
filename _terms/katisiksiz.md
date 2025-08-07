@@ -5,7 +5,7 @@ slug: katisiksiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
 ornekler:

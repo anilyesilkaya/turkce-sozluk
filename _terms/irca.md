@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça ircāʿ
 anlamlar:
 - Eski biçimine çevirme
-- ► döndürme
-- ► indirgeme
+- döndürme
+- indirgeme
 ozellikler:
 - - isim
   - eskimiş

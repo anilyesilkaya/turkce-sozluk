@@ -5,7 +5,7 @@ slug: usullacik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► usulcacık
+- usulcacık
 ozellikler:
 - - zarf
 ornekler:

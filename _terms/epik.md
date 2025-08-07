@@ -5,7 +5,7 @@ slug: epik
 letter: E
 lisan: Fransızca épique
 anlamlar:
-- ► destansı
+- destansı
 ozellikler:
 - - sıfat
   - edebiyat

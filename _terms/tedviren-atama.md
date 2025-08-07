@@ -5,7 +5,7 @@ slug: tedviren-atama
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tedviren görevlendirme
+- tedviren görevlendirme
 ozellikler:
 - - isim
 ornekler:

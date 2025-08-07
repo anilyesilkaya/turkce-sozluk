@@ -5,7 +5,7 @@ slug: ovunc
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► övünme
+- övünme
 ozellikler:
 - - isim
 ornekler:

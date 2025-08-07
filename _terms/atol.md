@@ -5,7 +5,7 @@ slug: atol
 letter: A
 lisan: Fransızca atoll
 anlamlar:
-- ► mercan adası
+- mercan adası
 ozellikler:
 - - isim
   - denizcilik

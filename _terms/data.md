@@ -5,7 +5,7 @@ slug: data
 letter: D
 lisan: Fransızca data
 anlamlar:
-- ► veri
+- veri
 - Aslında kendileri ekonomik olmayan ancak ekonomi dünyasını dışarıdan kuşatan veya çerçeveleyen, nüfus, teknik bilgi, hukuk düzeni ve yönetim biçimi ögelerinden her biri
 ozellikler:
 - - isim

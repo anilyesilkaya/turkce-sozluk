@@ -5,7 +5,7 @@ slug: tragedya
 letter: T
 lisan: Latince
 anlamlar:
-- ► trajedi
+- trajedi
 ozellikler:
 - - isim
   - tiyatro

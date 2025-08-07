@@ -5,7 +5,7 @@ slug: tamlayici
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tamlayan
+- tamlayan
 ozellikler:
 - - sıfat
 ornekler:

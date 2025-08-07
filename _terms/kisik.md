@@ -8,7 +8,7 @@ anlamlar:
 - Kısılmış olan; basık
 - Kuvvetli ve yüksek tonda olmayan, hafif, boğuk (ses); ağır, alçak
 - Hafifçe aralanmış, yumulmuş olan (göz kapağı)
-- ► boğaz
+- boğaz
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: is-biraktirimi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► lokavt
+- lokavt
 ozellikler:
 - - isim
 ornekler:

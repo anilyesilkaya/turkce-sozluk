@@ -5,7 +5,7 @@ slug: erkeklik-uzvu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - anatomi

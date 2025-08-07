@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayılmak, dağılmak işi
-- ► otlak
+- otlak
 ozellikler:
 - - isim
 - - isim

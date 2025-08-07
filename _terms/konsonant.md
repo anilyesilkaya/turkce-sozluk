@@ -5,7 +5,7 @@ slug: konsonant
 letter: K
 lisan: Almanca Konsonant
 anlamlar:
-- ► ünsüz
+- ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: baba-yurdu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baba ocağı
+- baba ocağı
 ozellikler:
 - - isim
   - mecaz

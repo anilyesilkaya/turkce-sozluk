@@ -5,9 +5,9 @@ slug: periferi
 letter: P
 lisan: Fransızca périphérie
 anlamlar:
-- ► kıyı
-- ► çevre
-- ► uç
+- kıyı
+- çevre
+- uç
 ozellikler:
 - - isim
 - - isim

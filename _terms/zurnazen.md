@@ -5,7 +5,7 @@ slug: zurnazen
 letter: Z
 lisan: Farsça surnāyzen
 anlamlar:
-- ► zurnacı
+- zurnacı
 ozellikler:
 - - isim
   - eskimiş

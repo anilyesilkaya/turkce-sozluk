@@ -5,7 +5,7 @@ slug: hasir-hasir
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haşır huşur
+- haşır huşur
 ozellikler:
 - - zarf
 ornekler:

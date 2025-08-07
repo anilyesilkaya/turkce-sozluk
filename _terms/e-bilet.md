@@ -5,7 +5,7 @@ slug: e-bilet
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik bilet
+- elektronik bilet
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: optimizm
 letter: O
 lisan: Fransızca optimisme
 anlamlar:
-- ► iyimserlik
+- iyimserlik
 ozellikler:
 - - isim
   - felsefe

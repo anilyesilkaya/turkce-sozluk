@@ -5,7 +5,7 @@ slug: kul-coregi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gömme
+- gömme
 ozellikler:
 - - isim
   - ağızlardan

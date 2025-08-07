@@ -5,8 +5,8 @@ slug: ihtimali
 letter: I
 lisan: Arapça iḥtimālī
 anlamlar:
-- ► muhtemel
-- ► belkili
+- muhtemel
+- belkili
 ozellikler:
 - - sıfat
   - eskimiş

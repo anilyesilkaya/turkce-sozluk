@@ -5,7 +5,7 @@ slug: donama
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► süsleme
+- süsleme
 ozellikler:
 - - isim
 ornekler:

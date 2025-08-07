@@ -5,7 +5,7 @@ slug: odontoskop
 letter: O
 lisan: Fransızca odontoscope
 anlamlar:
-- ► diş aynası
+- diş aynası
 ozellikler:
 - - isim
 ornekler:

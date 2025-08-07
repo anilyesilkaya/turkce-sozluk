@@ -5,7 +5,7 @@ slug: ihtiyarlik-sigortasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yaşlılık sigortası
+- yaşlılık sigortası
 ozellikler:
 - - isim
   - hukuk

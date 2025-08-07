@@ -5,7 +5,7 @@ slug: ketum
 letter: K
 lisan: Arapça ketūm
 anlamlar:
-- ► ağzı sıkı
+- ağzı sıkı
 ozellikler:
 - - sıfat
 ornekler:

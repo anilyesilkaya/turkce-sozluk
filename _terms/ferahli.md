@@ -5,7 +5,7 @@ slug: ferahli
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ferah (II)
+- ferah (II)
 ozellikler:
 - - sıfat
 ornekler:

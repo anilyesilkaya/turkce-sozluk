@@ -5,7 +5,7 @@ slug: gah
 letter: G
 lisan: Farsça gāh
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
   - eskimiş

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Her şeyi bilen, her şeyden anlayan
-- ► ukala
+- ukala
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: alaimisema
 letter: A
 lisan: Arapça ʿalā´im + semā
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - meteoroloji

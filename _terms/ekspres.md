@@ -5,7 +5,7 @@ slug: ekspres
 letter: E
 lisan: Fransızca exprès
 anlamlar:
-- ► özel ulak
+- özel ulak
 ozellikler:
 - - sıfat
 ornekler:

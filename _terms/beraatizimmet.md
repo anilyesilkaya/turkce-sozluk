@@ -5,7 +5,7 @@ slug: beraatizimmet
 letter: B
 lisan: Arapça berāʾat + ẕimmet
 anlamlar:
-- ► borçsuzluk
+- borçsuzluk
 ozellikler:
 - - isim
   - hukuk

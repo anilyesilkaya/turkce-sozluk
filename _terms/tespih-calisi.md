@@ -5,7 +5,7 @@ slug: tespih-calisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tespih ağacı
+- tespih ağacı
 ozellikler:
 - - isim
   - bitki bilimi

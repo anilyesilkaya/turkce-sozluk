@@ -5,7 +5,7 @@ slug: filateli-zarf
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ilk gün zarfı
+- ilk gün zarfı
 ozellikler:
 - - isim
 ornekler:

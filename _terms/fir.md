@@ -5,8 +5,8 @@ slug: fir
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fırıl fırıl
-- ► piç
+- fırıl fırıl
+- piç
 ozellikler:
 - - zarf
 - - zarf

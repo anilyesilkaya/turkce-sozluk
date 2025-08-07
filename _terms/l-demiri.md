@@ -5,7 +5,7 @@ slug: l-demiri
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► köşebent
+- köşebent
 ozellikler:
 - - isim
 ornekler:

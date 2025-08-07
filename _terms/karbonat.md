@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca carbonate
 anlamlar:
 - Karbonik asidin bazlarla birleşerek oluşturduğu tuzların genel adı
-- ► sodyum bikarbonat
+- sodyum bikarbonat
 - Genellikle sindirimi kolaylaştırmak için suya katılan kimyasal birleşim
 ozellikler:
 - - isim

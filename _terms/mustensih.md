@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mustensiḫ
 anlamlar:
 - El yazması eseri el yazısıyla kopya eden kimse; çoğaltıcı
-- ► teksir makinesi
+- teksir makinesi
 ozellikler:
 - - isim
 - - isim

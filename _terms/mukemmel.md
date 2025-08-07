@@ -5,8 +5,8 @@ slug: mukemmel
 letter: M
 lisan: Arapça mukemmel
 anlamlar:
-- ► kusursuz
-- ► eksiksiz
+- kusursuz
+- eksiksiz
 - Olgunlaşmış
 - Çok güzel, harikulade olan
 - Eksiksiz, kusursuz, harikulade bir biçimde

@@ -5,7 +5,7 @@ slug: pirupak
 letter: P
 lisan: Farsça pīr + pāk
 anlamlar:
-- ► tertemiz
+- tertemiz
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: akil-kethudasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akıl hocası
+- akıl hocası
 ozellikler:
 - - isim
   - eskimiş

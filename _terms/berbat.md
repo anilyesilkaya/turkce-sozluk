@@ -5,7 +5,7 @@ slug: berbat
 letter: B
 lisan: Farsça berbād
 anlamlar:
-- ► kötü
+- kötü
 - Bakımsız, perişan bir biçimde olan
 - Çirkin, beğenilmeyen
 - Darmadağın, bakımsız, perişan, viran

@@ -5,7 +5,7 @@ slug: efektif
 letter: E
 lisan: Fransızca effectif
 anlamlar:
-- ► nakit para
+- nakit para
 - Banknot ve metal para
 - Merkez Bankası tarafından alım satımı yapılan ve Türk lirası olarak kurları belirlenen yabancı ülke parası
 ozellikler:

@@ -5,7 +5,7 @@ slug: koku-alma-organi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► burun
+- burun
 ozellikler:
 - - isim
 ornekler:

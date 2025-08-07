@@ -5,7 +5,7 @@ slug: asli
 letter: A
 lisan: Arapça aṣlī
 anlamlar:
-- ► birincil
+- birincil
 - Temel olarak alınan; birincil
 - Asıl olan
 ozellikler:

@@ -5,7 +5,7 @@ slug: monotonlasma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tekdüzeleşme
+- tekdüzeleşme
 ozellikler:
 - - isim
 ornekler:

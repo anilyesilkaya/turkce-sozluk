@@ -5,7 +5,7 @@ slug: cep-faresi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yankesici
+- yankesici
 ozellikler:
 - - isim
   - mecaz

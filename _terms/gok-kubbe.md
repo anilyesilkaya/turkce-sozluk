@@ -5,7 +5,7 @@ slug: gok-kubbe
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gök
+- gök
 ozellikler:
 - - isim
 ornekler:

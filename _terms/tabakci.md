@@ -5,7 +5,7 @@ slug: tabakci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sepici
+- sepici
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: lakoz
 letter: L
 lisan: Rumca
 anlamlar:
-- ► lagos
+- lagos
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: sirtarmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sırıtmak
+- sırıtmak
 ozellikler:
 - - nesnesiz
 ornekler:

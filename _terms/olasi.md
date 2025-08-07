@@ -5,8 +5,8 @@ slug: olasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► muhtemel
-- ► mümkün
+- muhtemel
+- mümkün
 ozellikler:
 - - sıfat
 - - sıfat

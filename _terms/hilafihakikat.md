@@ -5,7 +5,7 @@ slug: hilafihakikat
 letter: H
 lisan: Arapça ḫilāf + ḥaḳīḳat
 anlamlar:
-- ► gerçek dışı
+- gerçek dışı
 ozellikler:
 - - sıfat
   - eskimiş

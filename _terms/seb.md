@@ -5,7 +5,7 @@ slug: seb
 letter: Ş
 lisan: Farsça şeb
 anlamlar:
-- ► gece
+- gece
 ozellikler:
 - - isim
   - eskimiş

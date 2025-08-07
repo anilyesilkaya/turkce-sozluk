@@ -5,7 +5,7 @@ slug: kalpten
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - zarf
 ornekler:

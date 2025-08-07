@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muḫālif
 anlamlar:
 - Bir görüşe, tutuma veya harekete karşı olan kimse
-- ► aykırı
+- aykırı
 ozellikler:
 - - isim
 - - isim

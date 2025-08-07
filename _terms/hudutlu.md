@@ -5,7 +5,7 @@ slug: hudutlu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınırlı
+- sınırlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: rina
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► tırpana
+- tırpana
 ozellikler:
 - - isim
   - hayvan bilimi

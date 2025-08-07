@@ -7,7 +7,7 @@ lisan: Arapça ceyb
 anlamlar:
 - Genellikle bir şey koymaya yarayan, giysinin belli bir yeri açılarak içine yerleştirilen astardan yapılmış parça
 - Trafiği kolaylaştırmak, araçların durabilmesine olanak sağlamak için yaya kaldırımları veya şehirler arası yolların kenarlarında bulunan taşıt yanaşma yeri
-- ► cep telefonu
+- cep telefonu
 - Savaş alanının bir yerinde düşmanın geriletilmesiyle ortaya çıkan taktik durum; çökertme (I)
 - Otomobil yarışlarında arabalarının yarışa başladıkları nokta
 ozellikler:

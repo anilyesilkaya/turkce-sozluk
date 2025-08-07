@@ -5,7 +5,7 @@ slug: bocek-kamera
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► gizli kamera
+- gizli kamera
 ozellikler:
 - - isim
 ornekler:

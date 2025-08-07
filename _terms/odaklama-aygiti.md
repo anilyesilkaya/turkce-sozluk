@@ -5,7 +5,7 @@ slug: odaklama-aygiti
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► odaklayıcı
+- odaklayıcı
 ozellikler:
 - - isim
 ornekler:

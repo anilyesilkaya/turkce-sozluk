@@ -5,7 +5,7 @@ slug: murettip
 letter: M
 lisan: Arapça murettib
 anlamlar:
-- ► dizgici
+- dizgici
 - Düzenleyen, hazırlayan, sıraya koyan
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: P
 lisan: Farsça pīşīn + Arapça -en
 anlamlar:
 - Peşin olarak
-- ► önceden
+- önceden
 ozellikler:
 - - zarf
 - - zarf

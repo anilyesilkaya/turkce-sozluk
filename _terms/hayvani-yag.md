@@ -5,7 +5,7 @@ slug: hayvani-yag
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayvansal yağ
+- hayvansal yağ
 ozellikler:
 - - isim
 ornekler:

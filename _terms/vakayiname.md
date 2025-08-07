@@ -5,7 +5,7 @@ slug: vakayiname
 letter: V
 lisan: Arapça vaḳāyiʿ + Farsça nāme
 anlamlar:
-- ► kronik
+- kronik
 ozellikler:
 - - isim
   - eskimiş

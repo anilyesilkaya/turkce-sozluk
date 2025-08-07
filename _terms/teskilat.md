@@ -5,7 +5,7 @@ slug: teskilat
 letter: T
 lisan: Arapça teşkīlāt
 anlamlar:
-- ► örgüt
+- örgüt
 ozellikler:
 - - isim
 ornekler:

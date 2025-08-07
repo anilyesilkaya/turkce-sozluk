@@ -5,7 +5,7 @@ slug: miyokart
 letter: M
 lisan: Fransızca myocarde
 anlamlar:
-- ► kalp kası
+- kalp kası
 ozellikler:
 - - isim
   - anatomi

@@ -5,7 +5,7 @@ slug: yasama-kurulu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► parlamento
+- parlamento
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: olet
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► kıran (I)
+- kıran (I)
 ozellikler:
 - - isim
   - ağızlardan

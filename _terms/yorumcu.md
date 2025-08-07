@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorum yapan kimse
-- ► tabirci
+- tabirci
 ozellikler:
 - - isim
 - - isim

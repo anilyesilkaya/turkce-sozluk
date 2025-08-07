@@ -5,7 +5,7 @@ slug: kaz-kafali
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalı
+- kalın kafalı
 ozellikler:
 - - sıfat
   - mecaz

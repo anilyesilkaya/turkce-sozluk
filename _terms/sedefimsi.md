@@ -5,7 +5,7 @@ slug: sedefimsi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sedefsi
+- sedefsi
 ozellikler:
 - - sıfat
 ornekler:

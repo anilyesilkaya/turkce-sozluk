@@ -5,9 +5,9 @@ slug: galeyan
 letter: G
 lisan: Arapça ġaleyān
 anlamlar:
-- ► kaynama
-- ► coşma
-- ► coşku
+- kaynama
+- coşma
+- coşku
 ozellikler:
 - - isim
   - eskimiş

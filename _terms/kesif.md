@@ -5,9 +5,9 @@ slug: kesif
 letter: K
 lisan: Arapça kes̱īf
 anlamlar:
-- ► yoğun
+- yoğun
 - Saydam olmayan
-- ► sık
+- sık
 ozellikler:
 - - sıfat
 - - sıfat

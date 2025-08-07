@@ -5,7 +5,7 @@ slug: muhtedilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dönmelik
+- dönmelik
 ozellikler:
 - - isim
 ornekler:

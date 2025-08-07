@@ -5,7 +5,7 @@ slug: artaganlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bereket
+- bereket
 ozellikler:
 - - isim
 ornekler:

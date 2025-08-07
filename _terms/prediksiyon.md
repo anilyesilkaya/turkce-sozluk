@@ -5,7 +5,7 @@ slug: prediksiyon
 letter: P
 lisan: Fransızca prédiction
 anlamlar:
-- ► kehanet
+- kehanet
 ozellikler:
 - - isim
 ornekler:

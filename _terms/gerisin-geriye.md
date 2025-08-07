@@ -5,7 +5,7 @@ slug: gerisin-geriye
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gerisin geri
+- gerisin geri
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: tiynet
 letter: T
 lisan: Arapça ṭīnet
 anlamlar:
-- ► yaradılış
+- yaradılış
 ozellikler:
 - - isim
   - eskimiş

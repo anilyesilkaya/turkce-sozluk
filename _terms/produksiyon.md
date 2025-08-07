@@ -5,8 +5,8 @@ slug: produksiyon
 letter: P
 lisan: Fransızca production
 anlamlar:
-- ► yapım
-- ► üretim
+- yapım
+- üretim
 ozellikler:
 - - isim
   - sinema

@@ -5,7 +5,7 @@ slug: netice
 letter: N
 lisan: Arapça netīce
 anlamlar:
-- ► sonuç
+- sonuç
 ozellikler:
 - - isim
 ornekler:

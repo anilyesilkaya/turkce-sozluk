@@ -5,7 +5,7 @@ slug: bazice
 letter: B
 lisan: Farsça bāzīçe
 anlamlar:
-- ► oyun
+- oyun
 ozellikler:
 - - isim
   - eskimiş

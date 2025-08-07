@@ -5,7 +5,7 @@ slug: suni-kalp
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yapay kalp
+- yapay kalp
 ozellikler:
 - - isim
 ornekler:

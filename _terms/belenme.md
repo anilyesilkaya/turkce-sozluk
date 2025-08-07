@@ -5,7 +5,7 @@ slug: belenme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kundaklanma
+- kundaklanma
 ozellikler:
 - - isim
 ornekler:

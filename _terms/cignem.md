@@ -5,7 +5,7 @@ slug: cignem
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiğnemlik
+- çiğnemlik
 ozellikler:
 - - sıfat
   - ağızlardan

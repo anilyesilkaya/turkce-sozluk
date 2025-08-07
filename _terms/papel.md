@@ -6,7 +6,7 @@ letter: P
 lisan: İspanyolca papel
 anlamlar:
 - Bir liralık kâğıt para
-- ► para
+- para
 ozellikler:
 - - isim
   - argo

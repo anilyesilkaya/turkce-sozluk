@@ -5,7 +5,7 @@ slug: son-kertede
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonuçta
+- sonuçta
 - Son sınırda
 ozellikler:
 - - zarf

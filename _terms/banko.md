@@ -9,7 +9,7 @@ anlamlar:
 - Talih oyunlarında, oyunu yönetenin ortaya koyduğu para
 - Talih oyunlarında oyunu yöneten kimse; bankocu
 - Otuz iki kâğıtla oynanan bir iskambil oyunu
-- ► kesinlikle
+- kesinlikle
 - Talih oyunlarında ortada toplanan paranın hepsine oynandığını anlatan bir söz
 - Su altındaki tepelik
 ozellikler:

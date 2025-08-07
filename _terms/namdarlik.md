@@ -5,7 +5,7 @@ slug: namdarlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► ünlülük
+- ünlülük
 ozellikler:
 - - isim
 ornekler:

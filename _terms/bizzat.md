@@ -5,8 +5,8 @@ slug: bizzat
 letter: B
 lisan: Arapça bi'ẕ-ẕāt
 anlamlar:
-- ► şahsen
-- ► doğrudan doğruya
+- şahsen
+- doğrudan doğruya
 ozellikler:
 - - zarf
 - - zarf

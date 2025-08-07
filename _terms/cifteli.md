@@ -9,7 +9,7 @@ anlamlar:
 - Çifte atan (at, eşek vb. hayvan)
 - Alnında çift sakar bulunan (hayvan)
 - Rahat durmayan, sürekli sataşarak rahatsız eden
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - sıfat
 - - sıfat

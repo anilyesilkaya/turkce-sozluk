@@ -5,7 +5,7 @@ slug: rasyonalizasyon
 letter: R
 lisan: Fransızca rationalisation
 anlamlar:
-- ► aklileştirme
+- aklileştirme
 ozellikler:
 - - isim
 ornekler:

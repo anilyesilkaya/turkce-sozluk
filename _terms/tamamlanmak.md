@@ -6,8 +6,8 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tam ve eksiksiz duruma getirilmek
-- ► bütünlenmek
-- ► bitirilmek
+- bütünlenmek
+- bitirilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

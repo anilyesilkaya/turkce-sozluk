@@ -5,7 +5,7 @@ slug: dar-vakit
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dar zaman
+- dar zaman
 ozellikler:
 - - isim
 ornekler:

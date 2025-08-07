@@ -5,7 +5,7 @@ slug: kolonyalist
 letter: K
 lisan: Fransızca colonialiste
 anlamlar:
-- ► sömürgeci
+- sömürgeci
 ozellikler:
 - - isim
 ornekler:

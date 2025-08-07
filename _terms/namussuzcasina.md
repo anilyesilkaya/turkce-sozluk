@@ -5,7 +5,7 @@ slug: namussuzcasina
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► namussuzca
+- namussuzca
 ozellikler:
 - - zarf
 ornekler:

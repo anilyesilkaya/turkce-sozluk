@@ -5,7 +5,7 @@ slug: apopleksi
 letter: A
 lisan: İngilizce apoplexy
 anlamlar:
-- ► inme
+- inme
 - Damar yırtılması sonucu doku içine kan sızması veya kanama olayı
 ozellikler:
 - - isim

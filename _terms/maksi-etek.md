@@ -5,7 +5,7 @@ slug: maksi-etek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uzun etek
+- uzun etek
 ozellikler:
 - - isim
 ornekler:

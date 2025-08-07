@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca mégalomane
 anlamlar:
 - Megalomaniye tutulmuş olan kimse
-- ► benci
+- benci
 ozellikler:
 - - isim
 - - isim

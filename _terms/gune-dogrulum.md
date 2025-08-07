@@ -5,7 +5,7 @@ slug: gune-dogrulum
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yönelim
+- yönelim
 ozellikler:
 - - isim
   - biyoloji

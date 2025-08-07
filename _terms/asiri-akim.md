@@ -5,7 +5,7 @@ slug: asiri-akim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aşırı gerilim
+- aşırı gerilim
 ozellikler:
 - - isim
   - fizik

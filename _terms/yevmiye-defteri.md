@@ -5,7 +5,7 @@ slug: yevmiye-defteri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► günlük defter
+- günlük defter
 ozellikler:
 - - isim
   - ticaret

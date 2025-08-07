@@ -5,7 +5,7 @@ slug: yazi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ova
+- ova
 ozellikler:
 - - isim
   - ağızlardan

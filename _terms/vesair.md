@@ -5,7 +5,7 @@ slug: vesair
 letter: V
 lisan: Arapça ve + sāʾir
 anlamlar:
-- ► başka
+- başka
 ozellikler:
 - - sıfat
 ornekler:

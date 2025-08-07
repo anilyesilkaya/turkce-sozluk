@@ -5,7 +5,7 @@ slug: haber-kipi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► zaman
+- zaman
 ozellikler:
 - - isim
   - dil bilgisi

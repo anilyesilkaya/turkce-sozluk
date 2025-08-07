@@ -5,7 +5,7 @@ slug: gaz-yuvari
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► atmosfer
+- atmosfer
 ozellikler:
 - - isim
   - gök bilimi

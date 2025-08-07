@@ -5,7 +5,7 @@ slug: horgorucu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► horgörülü
+- horgörülü
 ozellikler:
 - - sıfat
 ornekler:

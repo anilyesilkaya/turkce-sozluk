@@ -5,7 +5,7 @@ slug: elmabas
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► tepeli dalgıç
+- tepeli dalgıç
 ozellikler:
 - - isim
   - hayvan bilimi

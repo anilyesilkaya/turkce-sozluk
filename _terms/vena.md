@@ -5,7 +5,7 @@ slug: vena
 letter: V
 lisan: Latince
 anlamlar:
-- ► toplardamar
+- toplardamar
 ozellikler:
 - - isim
   - anatomi

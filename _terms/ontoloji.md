@@ -5,7 +5,7 @@ slug: ontoloji
 letter: O
 lisan: Fransızca ontologie
 anlamlar:
-- ► varlık bilimi
+- varlık bilimi
 ozellikler:
 - - isim
 ornekler:

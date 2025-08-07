@@ -5,7 +5,7 @@ slug: oligopson
 letter: O
 lisan: Fransızca oligopsone
 anlamlar:
-- ► az alıcı
+- az alıcı
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: su-sigiri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► manda (I)
+- manda (I)
 ozellikler:
 - - isim
   - ağızlardan

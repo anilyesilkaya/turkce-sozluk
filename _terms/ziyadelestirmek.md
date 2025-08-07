@@ -5,7 +5,7 @@ slug: ziyadelestirmek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► çoğaltmak
+- çoğaltmak
 ozellikler:
 - - -i
 ornekler:

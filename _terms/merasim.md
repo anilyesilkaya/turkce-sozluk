@@ -5,7 +5,7 @@ slug: merasim
 letter: M
 lisan: Arapça merāsim
 anlamlar:
-- ► tören
+- tören
 - Resmî işlerde yol yöntem, yol yordam
 ozellikler:
 - - isim

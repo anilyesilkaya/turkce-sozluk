@@ -5,9 +5,9 @@ slug: talim
 letter: T
 lisan: Arapça taʿlīm
 anlamlar:
-- ► öğretim
-- ► alıştırma
-- ► idman
+- öğretim
+- alıştırma
+- idman
 - Uygulamalı olarak yapılan askerlik eğitimi
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Seyrek duruma getirmek
-- ► seyrekleştirmek
+- seyrekleştirmek
 - Sıvıyı bir miktar su veya sıvı katarak az yoğun duruma getirmek; inceltmek
 ozellikler:
 - - -i

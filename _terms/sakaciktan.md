@@ -5,7 +5,7 @@ slug: sakaciktan
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şakadan
+- şakadan
 ozellikler:
 - - zarf
 ornekler:

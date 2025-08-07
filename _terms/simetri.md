@@ -5,7 +5,7 @@ slug: simetri
 letter: S
 lisan: Fransızca symétrie
 anlamlar:
-- ► bakışım
+- bakışım
 ozellikler:
 - - isim
   - matematik

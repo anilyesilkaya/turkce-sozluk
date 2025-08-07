@@ -5,7 +5,7 @@ slug: matris
 letter: M
 lisan: Fransızca matrice
 anlamlar:
-- ► baskı kalıbı
+- baskı kalıbı
 - Elektronik hesap makinelerinde, renkli televizyon vb. cihazlarda hesap ve kumanda işlemlerinin yapılmasını sağlayan elektronik devre; dizey
 - İstatistikte, bir elemanlar topluluğunun düzenlenmiş biçimi; dizey
 - Dikdörtgen bir dizi oluşturacak şekilde satır ve sütunlar hâlinde düzenlenmiş sayı kümesi; dizey

@@ -5,7 +5,7 @@ slug: curetlenme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretlenme
+- cesaretlenme
 ozellikler:
 - - isim
 ornekler:

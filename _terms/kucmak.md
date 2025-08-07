@@ -5,7 +5,7 @@ slug: kucmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kucaklamak
+- kucaklamak
 - Cinsel ilişkide bulunmak
 ozellikler:
 - - -i

@@ -5,7 +5,7 @@ slug: editor
 letter: E
 lisan: Fransızca éditeur
 anlamlar:
-- ► yayımcı
+- yayımcı
 - Yazıları yeniden düzenleyerek yayıma hazırlayan kimse
 ozellikler:
 - - isim

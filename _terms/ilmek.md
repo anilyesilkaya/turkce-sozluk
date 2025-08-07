@@ -5,7 +5,7 @@ slug: ilmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► dokunmak (I)
+- dokunmak (I)
 ozellikler:
 - - -e
   - ağızlardan

@@ -5,7 +5,7 @@ slug: bassehirli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkentli
+- başkentli
 ozellikler:
 - - sıfat
 ornekler:

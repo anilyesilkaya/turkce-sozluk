@@ -5,8 +5,8 @@ slug: alicenap
 letter: A
 lisan: Arapça ʿālī + cenāb
 anlamlar:
-- ► cömert
-- ► onurlu
+- cömert
+- onurlu
 - Onurlu, şerefli bir biçimde
 ozellikler:
 - - sıfat

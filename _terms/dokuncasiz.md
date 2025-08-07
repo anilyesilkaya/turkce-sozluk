@@ -5,7 +5,7 @@ slug: dokuncasiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► zararsız
+- zararsız
 ozellikler:
 - - sıfat
 ornekler:

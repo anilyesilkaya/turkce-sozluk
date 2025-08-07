@@ -5,7 +5,7 @@ slug: karlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kar kuyusu
+- kar kuyusu
 - Dışı hasır örgüsüyle kaplı, içinde kar veya buz koymak için bölmesi bulunan, soğutucu olarak kullanılan büyük şişe
 ozellikler:
 - - isim

@@ -5,9 +5,9 @@ slug: yavuz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► güçlü
-- ► iyi
-- ► kötü
+- güçlü
+- iyi
+- kötü
 ozellikler:
 - - sıfat
 - - sıfat

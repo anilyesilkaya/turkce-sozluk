@@ -5,7 +5,7 @@ slug: rekonstruksiyon
 letter: R
 lisan: Fransızca reconstruction
 anlamlar:
-- ► yeniden kurma
+- yeniden kurma
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: enkaz
 letter: E
 lisan: Arapça enḳāż
 anlamlar:
-- ► çöküntü
-- ► yıkıntı
+- çöküntü
+- yıkıntı
 ozellikler:
 - - isim
 - - isim

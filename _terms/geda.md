@@ -5,8 +5,8 @@ slug: geda
 letter: G
 lisan: Farsça gedā
 anlamlar:
-- ► dilenci
-- ► yoksul
+- dilenci
+- yoksul
 ozellikler:
 - - sıfat
   - eskimiş

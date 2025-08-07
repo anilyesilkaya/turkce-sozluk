@@ -5,7 +5,7 @@ slug: yekpare
 letter: Y
 lisan: Farsça yek + pāre
 anlamlar:
-- ► bütün
+- bütün
 - Tek parça olarak, bütün olarak
 ozellikler:
 - - sıfat

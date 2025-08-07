@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Bir nesne veya bir kimsenin yaptığı iş
-- ► işlev
+- işlev
 - Resmî iş; vazife
 - Bir kimseye veya bir kurula verilen özel amaçlı iş; misyon
 - Bir cümlede bir dil biriminin öbür birimlerle ilişkisi aracılığıyla yerine getirdiği iş

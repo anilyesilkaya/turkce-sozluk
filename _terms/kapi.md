@@ -10,7 +10,7 @@ anlamlar:
 - Tavla oyununda iki pul üst üste getirilerek karşı oyuncunun o haneyi kullanmasına engel olunan yer
 - Geçim sağlamak için çalışılan iş yeri
 - Osmanlı Devleti'nde resmî görev yeri
-- ► portal
+- portal
 - Gelir, geçim, kısmet sağlayan yer, kaynak veya imkân
 - Gidere yol açan gereksinim
 - Ev gezmesi için gidilen yer

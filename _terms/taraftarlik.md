@@ -5,7 +5,7 @@ slug: taraftarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yandaşlık
+- yandaşlık
 - Sporcu veya sporcuların temsil ettikleri renklere, kulübe veya bayrağa bağlı olma durumu
 ozellikler:
 - - isim

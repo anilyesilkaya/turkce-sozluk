@@ -5,7 +5,7 @@ slug: bircilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tekçilik
+- tekçilik
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: satafatli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► görkemli
+- görkemli
 ozellikler:
 - - sıfat
 ornekler:

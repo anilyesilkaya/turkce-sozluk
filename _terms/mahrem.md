@@ -6,8 +6,8 @@ letter: M
 lisan: Arapça maḥrem
 anlamlar:
 - Yakın akrabadan olduğu için nikâh düşmeyen (kimse)
-- ► gizli
-- ► sırdaş
+- gizli
+- sırdaş
 ozellikler:
 - - sıfat
 - - sıfat

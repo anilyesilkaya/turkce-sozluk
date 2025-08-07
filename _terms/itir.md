@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ʿiṭr
 anlamlar:
 - Güzel koku
-- ► ıtır çiçeği
+- ıtır çiçeği
 ozellikler:
 - - isim
 - - isim

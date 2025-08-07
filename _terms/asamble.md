@@ -5,7 +5,7 @@ slug: asamble
 letter: A
 lisan: Fransızca assemblée
 anlamlar:
-- ► kurul
+- kurul
 ozellikler:
 - - isim
 ornekler:

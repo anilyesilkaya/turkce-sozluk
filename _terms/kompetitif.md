@@ -5,7 +5,7 @@ slug: kompetitif
 letter: K
 lisan: Fransızca compétitif
 anlamlar:
-- ► rekabetçi
+- rekabetçi
 ozellikler:
 - - isim
 ornekler:

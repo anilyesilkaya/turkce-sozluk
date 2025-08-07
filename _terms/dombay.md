@@ -5,7 +5,7 @@ slug: dombay
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► manda (I)
+- manda (I)
 ozellikler:
 - - isim
   - ağızlardan

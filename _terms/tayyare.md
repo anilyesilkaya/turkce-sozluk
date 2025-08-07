@@ -5,7 +5,7 @@ slug: tayyare
 letter: T
 lisan: Arapça ṭayyāre
 anlamlar:
-- ► uçak
+- uçak
 ozellikler:
 - - isim
   - eskimiş

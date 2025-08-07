@@ -5,8 +5,8 @@ slug: delk
 letter: D
 lisan: Arapça delk
 anlamlar:
-- ► ovuşturma
-- ► sürtünme
+- ovuşturma
+- sürtünme
 ozellikler:
 - - isim
   - eskimiş

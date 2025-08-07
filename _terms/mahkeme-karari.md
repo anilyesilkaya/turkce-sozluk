@@ -5,7 +5,7 @@ slug: mahkeme-karari
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► karar
+- karar
 ozellikler:
 - - isim
   - hukuk

@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça meşġūliyyet
 anlamlar:
 - Meşgul olma, uğraşma durumu
-- ► uğraş
+- uğraş
 ozellikler:
 - - isim
 - - isim

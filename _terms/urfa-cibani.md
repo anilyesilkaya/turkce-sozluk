@@ -5,7 +5,7 @@ slug: urfa-cibani
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Şark çıbanı
+- Şark çıbanı
 ozellikler:
 - - isim
   - tıp

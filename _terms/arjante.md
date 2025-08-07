@@ -7,7 +7,7 @@ lisan: Fransızca argentine
 anlamlar:
 - Arjantin ülkesine verilen ad
 - Arjantin’e özgü olan
-- ► gümüş
+- gümüş
 - Gümüş gibi olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: ulusal-savunma
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî savunma
+- millî savunma
 ozellikler:
 - - isim
 ornekler:

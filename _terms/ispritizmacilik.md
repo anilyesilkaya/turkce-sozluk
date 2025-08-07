@@ -5,7 +5,7 @@ slug: ispritizmacilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ruhçuluk
+- ruhçuluk
 ozellikler:
 - - isim
 ornekler:

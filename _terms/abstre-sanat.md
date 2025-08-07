@@ -5,7 +5,7 @@ slug: abstre-sanat
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soyut sanat
+- soyut sanat
 ozellikler:
 - - isim
 ornekler:

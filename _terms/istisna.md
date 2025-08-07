@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istis̱nāʾ
 anlamlar:
 - Bir kimse veya bir şeyi benzerlerinden ayrı tutma
-- ► kural dışılık
+- kural dışılık
 - Ayrı tutulan kimse veya şey
 ozellikler:
 - - isim

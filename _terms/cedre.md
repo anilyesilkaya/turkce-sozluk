@@ -5,7 +5,7 @@ slug: cedre
 letter: C
 lisan: Arapça cedre
 anlamlar:
-- ► guatr
+- guatr
 ozellikler:
 - - isim
   - eskimiş

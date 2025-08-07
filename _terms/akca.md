@@ -5,7 +5,7 @@ slug: akca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akçe
+- akçe
 ozellikler:
 - - isim
 ornekler:

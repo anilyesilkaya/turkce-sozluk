@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca catalytique
 anlamlar:
 - Katalizle ilgili, kataliz niteliğinde olan
-- ► katalitik soba
+- katalitik soba
 ozellikler:
 - - sıfat
   - kimya

@@ -5,7 +5,7 @@ slug: demagoji
 letter: D
 lisan: Fransızca démagogie
 anlamlar:
-- ► laf cambazlığı
+- laf cambazlığı
 ozellikler:
 - - isim
 ornekler:

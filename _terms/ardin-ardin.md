@@ -5,7 +5,7 @@ slug: ardin-ardin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geri geri
+- geri geri
 ozellikler:
 - - zarf
 ornekler:

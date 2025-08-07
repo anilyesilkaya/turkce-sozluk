@@ -5,7 +5,7 @@ slug: detayli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ayrıntılı
+- ayrıntılı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: samata
 letter: Ş
 lisan: Arapça şemāte
 anlamlar:
-- ► gürültü patırtı
+- gürültü patırtı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hasmet
 letter: H
 lisan: Arapça ḥaşmet
 anlamlar:
-- ► görkem
+- görkem
 ozellikler:
 - - isim
   - eskimiş

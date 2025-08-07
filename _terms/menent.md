@@ -5,7 +5,7 @@ slug: menent
 letter: M
 lisan: Farsça mānend
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - isim
 ornekler:

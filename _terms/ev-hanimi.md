@@ -5,7 +5,7 @@ slug: ev-hanimi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ev kadını
+- ev kadını
 ozellikler:
 - - isim
 ornekler:

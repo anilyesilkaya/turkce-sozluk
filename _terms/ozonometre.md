@@ -5,7 +5,7 @@ slug: ozonometre
 letter: O
 lisan: Fransızca ozonomètre
 anlamlar:
-- ► ozonölçer
+- ozonölçer
 ozellikler:
 - - isim
   - kimya

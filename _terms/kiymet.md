@@ -5,7 +5,7 @@ slug: kiymet
 letter: K
 lisan: Arapça ḳiymet
 anlamlar:
-- ► değer
+- değer
 ozellikler:
 - - isim
 ornekler:

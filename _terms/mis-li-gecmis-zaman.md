@@ -5,7 +5,7 @@ slug: mis-li-gecmis-zaman
 letter: '-'
 lisan: Türkçe
 anlamlar:
-- ► duyulan geçmiş zaman
+- duyulan geçmiş zaman
 ozellikler:
 - - isim
   - dil bilgisi

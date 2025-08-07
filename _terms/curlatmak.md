@@ -5,7 +5,7 @@ slug: curlatmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► hızlandırmak
+- hızlandırmak
 ozellikler:
 - - -i
   - ağızlardan

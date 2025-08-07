@@ -8,7 +8,7 @@ anlamlar:
 - Makarna yapan veya satan kimse
 - Makarnayı çok seven kimse
 - Şişman, hareketsiz kimse
-- ► İtalyan
+- İtalyan
 ozellikler:
 - - isim
 - - isim

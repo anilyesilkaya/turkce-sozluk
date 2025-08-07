@@ -5,7 +5,7 @@ slug: ademoglu
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► insan
+- insan
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zifaf
 letter: Z
 lisan: Arapça zifāf
 anlamlar:
-- ► gerdek
+- gerdek
 ozellikler:
 - - isim
 ornekler:

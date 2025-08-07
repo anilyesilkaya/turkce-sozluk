@@ -5,8 +5,8 @@ slug: mesime
 letter: M
 lisan: Arapça meşīme
 anlamlar:
-- ► döl yatağı
-- ► döl eşi
+- döl yatağı
+- döl eşi
 ozellikler:
 - - isim
   - eskimiş

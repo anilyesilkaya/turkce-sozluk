@@ -5,7 +5,7 @@ slug: daldirma-cay
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► poşet çay
+- poşet çay
 ozellikler:
 - - isim
 ornekler:

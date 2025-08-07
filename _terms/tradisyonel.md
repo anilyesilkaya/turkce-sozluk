@@ -5,7 +5,7 @@ slug: tradisyonel
 letter: T
 lisan: Fransızca traditionel
 anlamlar:
-- ► geleneksel
+- geleneksel
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ihtikar
 letter: I
 lisan: Arapça iḥtikār
 anlamlar:
-- ► vurgunculuk
+- vurgunculuk
 ozellikler:
 - - isim
   - eskimiş

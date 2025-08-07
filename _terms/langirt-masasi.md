@@ -5,7 +5,7 @@ slug: langirt-masasi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► langırt makinesi
+- langırt makinesi
 ozellikler:
 - - isim
 ornekler:

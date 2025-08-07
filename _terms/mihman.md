@@ -5,7 +5,7 @@ slug: mihman
 letter: M
 lisan: Farsça mihmān
 anlamlar:
-- ► konuk
+- konuk
 ozellikler:
 - - isim
   - eskimiş

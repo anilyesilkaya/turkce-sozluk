@@ -7,7 +7,7 @@ lisan: Fransızca économie
 anlamlar:
 - İnsanların yaşayabilmek için üretme, ürettiklerini bölüşme biçimlerinin ve bu faaliyetlerden doğan ilişkilerin bütünü; iktisat
 - Bu ilişkileri inceleyen bilim dalı; iktisat
-- ► tutum
+- tutum
 ozellikler:
 - - isim
 - - isim

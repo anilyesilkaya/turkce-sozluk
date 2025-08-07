@@ -5,7 +5,7 @@ slug: tahammur
 letter: T
 lisan: Arapça taḫammur
 anlamlar:
-- ► mayalanma
+- mayalanma
 ozellikler:
 - - isim
   - eskimiş

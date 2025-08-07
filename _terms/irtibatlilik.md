@@ -5,7 +5,7 @@ slug: irtibatlilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağlantılılık
+- bağlantılılık
 ozellikler:
 - - isim
 ornekler:

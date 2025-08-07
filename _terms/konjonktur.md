@@ -5,7 +5,7 @@ slug: konjonktur
 letter: K
 lisan: Fransızca conjoncture
 anlamlar:
-- ► geçerli durum
+- geçerli durum
 - Her türlü durum ve şartın ortaya çıkardığı sonuç
 ozellikler:
 - - isim

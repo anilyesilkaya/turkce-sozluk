@@ -5,7 +5,7 @@ slug: mobilize
 letter: M
 lisan: Fransızca mobilisé
 anlamlar:
-- ► hareketli
+- hareketli
 ozellikler:
 - - sıfat
 ornekler:

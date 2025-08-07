@@ -5,7 +5,7 @@ slug: en-azdan
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► en azından
+- en azından
 ozellikler:
 - - zarf
 ornekler:

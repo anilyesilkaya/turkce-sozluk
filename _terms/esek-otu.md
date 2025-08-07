@@ -5,7 +5,7 @@ slug: esek-otu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evliya otu
+- evliya otu
 ozellikler:
 - - isim
   - bitki bilimi

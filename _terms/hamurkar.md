@@ -5,7 +5,7 @@ slug: hamurkar
 letter: H
 lisan: Arapça ḫamīr + Farsça -kār
 anlamlar:
-- ► hamurcu
+- hamurcu
 ozellikler:
 - - isim
   - eskimiş

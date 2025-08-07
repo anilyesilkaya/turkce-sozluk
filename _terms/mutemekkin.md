@@ -5,7 +5,7 @@ slug: mutemekkin
 letter: M
 lisan: Arapça mutemekkin
 anlamlar:
-- ► yerleşik
+- yerleşik
 ozellikler:
 - - sıfat
   - eskimiş

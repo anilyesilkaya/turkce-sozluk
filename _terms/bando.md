@@ -6,7 +6,7 @@ letter: B
 lisan: İtalyanca bando
 anlamlar:
 - Türlü üflemeli ve vurmalı çalgılardan oluşan ve genellikle geçit törenlerinde yer alan mızıkacılar topluluğu veya takımı; mızıka
-- ► takım
+- takım
 ozellikler:
 - - isim
   - müzik

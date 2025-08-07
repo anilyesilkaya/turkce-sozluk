@@ -5,7 +5,7 @@ slug: sescil-imla
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sesçil yazım
+- sesçil yazım
 ozellikler:
 - - isim
   - dil bilgisi

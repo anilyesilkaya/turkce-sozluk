@@ -5,7 +5,7 @@ slug: yasam-dolu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat dolu
+- hayat dolu
 ozellikler:
 - - sıfat
   - mecaz

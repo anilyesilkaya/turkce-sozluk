@@ -5,7 +5,7 @@ slug: satis-bedeli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► satış fiyatı
+- satış fiyatı
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: ayrimsiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farksız
+- farksız
 ozellikler:
 - - sıfat
 ornekler:

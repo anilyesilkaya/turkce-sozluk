@@ -5,7 +5,7 @@ slug: leninist
 letter: L
 lisan: Fransızca leniniste
 anlamlar:
-- ► Leninci
+- Leninci
 ozellikler:
 - - sıfat
 ornekler:

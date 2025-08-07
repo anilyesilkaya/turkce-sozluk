@@ -5,7 +5,7 @@ slug: tenha
 letter: T
 lisan: Farsça tenhā
 anlamlar:
-- ► ıssız
+- ıssız
 - Kalabalık olmayan
 - Yalnız, tek
 ozellikler:

@@ -5,7 +5,7 @@ slug: okuma-vakti
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► okuma saati
+- okuma saati
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: davranis-bilgisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► görgü kuralları
+- görgü kuralları
 ozellikler:
 - - isim
   - toplum bilimi

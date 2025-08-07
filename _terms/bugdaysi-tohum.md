@@ -5,7 +5,7 @@ slug: bugdaysi-tohum
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► buğdaysı meyve
+- buğdaysı meyve
 ozellikler:
 - - isim
   - bitki bilimi

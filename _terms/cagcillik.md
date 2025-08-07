@@ -5,7 +5,7 @@ slug: cagcillik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağdaşlık
+- çağdaşlık
 ozellikler:
 - - isim
 ornekler:

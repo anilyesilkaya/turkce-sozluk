@@ -5,7 +5,7 @@ slug: genel-kongre
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kurultay
+- kurultay
 ozellikler:
 - - isim
 ornekler:

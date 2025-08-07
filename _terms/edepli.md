@@ -5,7 +5,7 @@ slug: edepli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► uslu
+- uslu
 - Ahlaka uygun bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: logos
 letter: L
 lisan: Yunanca
 anlamlar:
-- ► deyi (I)
+- deyi (I)
 ozellikler:
 - - isim
   - felsefe

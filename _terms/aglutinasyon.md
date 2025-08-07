@@ -5,7 +5,7 @@ slug: aglutinasyon
 letter: A
 lisan: Fransızca agglutination
 anlamlar:
-- ► kümeleşim
+- kümeleşim
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: dilemma
 letter: D
 lisan: Yunanca
 anlamlar:
-- ► ikilem
+- ikilem
 ozellikler:
 - - isim
   - eskimiş

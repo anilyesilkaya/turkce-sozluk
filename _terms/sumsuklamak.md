@@ -5,7 +5,7 @@ slug: sumsuklamak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yumruklamak
+- yumruklamak
 ozellikler:
 - - -i
   - ağızlardan

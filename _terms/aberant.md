@@ -5,7 +5,7 @@ slug: aberant
 letter: A
 lisan: Fransızca aberrant
 anlamlar:
-- ► sapıntılı
+- sapıntılı
 ozellikler:
 - - sıfat
   - dil bilgisi

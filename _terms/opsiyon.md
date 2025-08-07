@@ -5,10 +5,10 @@ slug: opsiyon
 letter: O
 lisan: Fransızca option
 anlamlar:
-- ► bekletme süresi
-- ► seçenek
-- ► ek gün
-- ► ek süre
+- bekletme süresi
+- seçenek
+- ek gün
+- ek süre
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: pazi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► beze (II)
+- beze (II)
 ozellikler:
 - - isim
 ornekler:

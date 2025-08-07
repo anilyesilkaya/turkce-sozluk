@@ -5,7 +5,7 @@ slug: bilhassa
 letter: B
 lisan: Arapça bi'l-ḫāṣṣa
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
 ornekler:

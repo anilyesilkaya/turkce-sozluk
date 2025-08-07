@@ -5,7 +5,7 @@ slug: realite
 letter: R
 lisan: Fransızca réalité
 anlamlar:
-- ► gerçeklik
+- gerçeklik
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ittiḫāẕ
 anlamlar:
 - Sayma, tutma, ... olarak görme
-- ► alma
+- alma
 ozellikler:
 - - isim
   - eskimiş

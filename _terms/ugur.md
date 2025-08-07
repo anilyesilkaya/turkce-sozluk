@@ -5,7 +5,7 @@ slug: ugur
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ön
+- ön
 ozellikler:
 - - isim
   - ağızlardan

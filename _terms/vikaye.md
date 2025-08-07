@@ -5,7 +5,7 @@ slug: vikaye
 letter: V
 lisan: Arapça viḳāye
 anlamlar:
-- ► koruma
+- koruma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: gazal
 letter: G
 lisan: Arapça ġazāl
 anlamlar:
-- ► ceylan
+- ceylan
 ozellikler:
 - - isim
   - eskimiş

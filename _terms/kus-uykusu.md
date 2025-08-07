@@ -5,7 +5,7 @@ slug: kus-uykusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tavşan uykusu
+- tavşan uykusu
 ozellikler:
 - - isim
 ornekler:

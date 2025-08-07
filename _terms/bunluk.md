@@ -5,7 +5,7 @@ slug: bunluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bunalım
+- bunalım
 ozellikler:
 - - isim
 ornekler:

@@ -10,7 +10,7 @@ anlamlar:
 - Birbirine iyice uymak
 - Uyuşmak, yakın ilişki kurmak, derinleştirmek, iyi anlaşmak
 - Huzursuzluk çıkmak
-- ► birleşmek
+- birleşmek
 ozellikler:
 - - nesnesiz
   - -le

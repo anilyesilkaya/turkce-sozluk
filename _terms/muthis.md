@@ -5,7 +5,7 @@ slug: muthis
 letter: M
 lisan: Arapça mudhiş
 anlamlar:
-- ► korkunç
+- korkunç
 - Çok rahatsız eden, dayanılmaz
 - Şaşılacak kadar değişik
 - '"Ne acayip şey" anlamında kullanılan bir söz'

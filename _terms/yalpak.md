@@ -5,7 +5,7 @@ slug: yalpak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkavuk
+- dalkavuk
 - Sarp yer; uçurum
 - Sokulgan, cana yakın
 ozellikler:

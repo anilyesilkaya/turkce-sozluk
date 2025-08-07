@@ -5,7 +5,7 @@ slug: lohusa-hummasi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► albastı
+- albastı
 ozellikler:
 - - isim
   - tıp

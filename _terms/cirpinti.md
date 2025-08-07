@@ -5,7 +5,7 @@ slug: cirpinti
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çırpınma
+- çırpınma
 - Suların ufak ve oynak dalgalarla kaynaşması
 - Ruhsal gerginliğin dışa vurulması; ajitasyon
 - Aşırı uykusuzluk, huzursuzluk, titreme, silkinme durumu

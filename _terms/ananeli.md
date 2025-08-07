@@ -5,7 +5,7 @@ slug: ananeli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gelenekli
+- gelenekli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: mevkute
 letter: M
 lisan: Arapça mevḳūte
 anlamlar:
-- ► süreli yayın
+- süreli yayın
 ozellikler:
 - - isim
   - eskimiş

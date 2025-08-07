@@ -5,7 +5,7 @@ slug: tavsiyename
 letter: T
 lisan: Arapça tavṣiye + Farsça nāme
 anlamlar:
-- ► tavsiye mektubu
+- tavsiye mektubu
 ozellikler:
 - - isim
   - eskimiş

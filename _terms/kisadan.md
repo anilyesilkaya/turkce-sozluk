@@ -5,7 +5,7 @@ slug: kisadan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kısaca
+- kısaca
 ozellikler:
 - - zarf
 ornekler:

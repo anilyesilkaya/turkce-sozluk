@@ -5,7 +5,7 @@ slug: ozne-grubu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özne öbeği
+- özne öbeği
 ozellikler:
 - - isim
   - dil bilgisi

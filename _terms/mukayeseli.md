@@ -5,7 +5,7 @@ slug: mukayeseli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► karşılaştırmalı
+- karşılaştırmalı
 ozellikler:
 - - sıfat
 ornekler:

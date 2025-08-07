@@ -5,7 +5,7 @@ slug: mafsal
 letter: M
 lisan: Arapça mafṣal
 anlamlar:
-- ► eklem
+- eklem
 - Birbirine bağlanmış parçaların her yönden dönmesini sağlayan bağlantı ögesi
 ozellikler:
 - - isim

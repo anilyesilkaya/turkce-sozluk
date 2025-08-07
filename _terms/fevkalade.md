@@ -7,7 +7,7 @@ lisan: Arapça fevḳ + ʿāde
 anlamlar:
 - Alışılmış olandan ayrı
 - Aşırı, çok fazla olan
-- ► olağanüstü
+- olağanüstü
 - Aşırı bir biçimde
 - '"Çok iyi, çok üstün, çok güzel" anlamlarında beğeni ifade eden bir söz'
 ozellikler:

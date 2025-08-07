@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ʿiṣmet
 anlamlar:
 - Ahlak kurallarına bağlı kalma durumu; sililik
-- ► temizlik
+- temizlik
 ozellikler:
 - - isim
   - eskimiş

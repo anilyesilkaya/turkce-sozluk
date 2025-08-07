@@ -5,7 +5,7 @@ slug: otculluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► otoburluk
+- otoburluk
 ozellikler:
 - - isim
 ornekler:

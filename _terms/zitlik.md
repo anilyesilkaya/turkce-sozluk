@@ -5,7 +5,7 @@ slug: zitlik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► karşıtlık
+- karşıtlık
 ozellikler:
 - - isim
 ornekler:

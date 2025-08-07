@@ -5,7 +5,7 @@ slug: kiyafet-duskunu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kılık kıyafet düşkünü
+- kılık kıyafet düşkünü
 ozellikler:
 - - isim
 ornekler:

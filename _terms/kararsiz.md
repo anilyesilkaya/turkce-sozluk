@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kararı olmayan
 - Karar vermekte güçlük çeken; duruksun, ikircikli, ikircimli, tereddütlü, bikarar, mütereddit
-- ► dengesiz
+- dengesiz
 ozellikler:
 - - sıfat
 - - sıfat

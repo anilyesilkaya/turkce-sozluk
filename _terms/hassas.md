@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥassās
 anlamlar:
 - Duyum ve duyguları algılayan
-- ► duyarlı
+- duyarlı
 - Çabuk etkilenen
 - En küçük değerleri, incelikleri dahi algılayabilen; keskin
 - Yapımı ve bakımı özen isteyen, aksamadan çok doğru çalışan, kesin ölçüler gerektiren işlerde kullanılan (alet)

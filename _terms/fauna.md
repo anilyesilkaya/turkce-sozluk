@@ -5,7 +5,7 @@ slug: fauna
 letter: F
 lisan: Latince
 anlamlar:
-- ► direy
+- direy
 ozellikler:
 - - isim
   - hayvan bilimi

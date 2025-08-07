@@ -5,7 +5,7 @@ slug: isil
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışıklı
+- ışıklı
 - Işıldayan, parlayan
 ozellikler:
 - - sıfat

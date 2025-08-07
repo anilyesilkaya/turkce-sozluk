@@ -5,7 +5,7 @@ slug: cigirtmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağırtmak
+- çağırtmak
 ozellikler:
 - - -e
   - -i

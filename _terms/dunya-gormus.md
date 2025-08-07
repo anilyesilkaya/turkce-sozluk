@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Çok gezmiş, çok yer görmüş
-- ► deneyimli
+- deneyimli
 ozellikler:
 - - sıfat
   - mecaz

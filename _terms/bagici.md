@@ -5,7 +5,7 @@ slug: bagici
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► göz bağıcı
+- göz bağıcı
 ozellikler:
 - - isim
 ornekler:

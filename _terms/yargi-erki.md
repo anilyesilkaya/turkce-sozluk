@@ -5,7 +5,7 @@ slug: yargi-erki
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yargı gücü
+- yargı gücü
 ozellikler:
 - - isim
   - hukuk

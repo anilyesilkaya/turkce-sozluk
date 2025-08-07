@@ -5,7 +5,7 @@ slug: magfiret
 letter: M
 lisan: Arapça maġfiret
 anlamlar:
-- ► bağışlama
+- bağışlama
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: ilmik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilmek (I)
+- ilmek (I)
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ilḥāḳ
 anlamlar:
 - Egemenliği altına alma
-- ► katma
+- katma
 ozellikler:
 - - isim
 - - isim

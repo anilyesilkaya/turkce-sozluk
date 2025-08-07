@@ -5,7 +5,7 @@ slug: sizgit
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kavurma
+- kavurma
 ozellikler:
 - - isim
   - ağızlardan

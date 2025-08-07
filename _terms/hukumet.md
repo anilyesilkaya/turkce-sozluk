@@ -5,10 +5,10 @@ slug: hukumet
 letter: H
 lisan: Arapça ḥukūmet
 anlamlar:
-- ► bakanlar kurulu
+- bakanlar kurulu
 - Bir ülkenin yönetim kuruluşları
 - Devlet yönetimi; beylik
-- ► hükûmet konağı
+- hükûmet konağı
 - İdare etme
 ozellikler:
 - - isim

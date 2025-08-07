@@ -6,7 +6,7 @@ letter: J
 lisan: Fransızca journal
 anlamlar:
 - Biriyle ilgili kötüleme amaçlı olarak yetkililere verilen bilgi
-- ► günlük (I)
+- günlük (I)
 ozellikler:
 - - isim
 - - isim

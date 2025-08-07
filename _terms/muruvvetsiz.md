@@ -5,7 +5,7 @@ slug: muruvvetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► insaniyetsiz
+- insaniyetsiz
 ozellikler:
 - - sıfat
 ornekler:

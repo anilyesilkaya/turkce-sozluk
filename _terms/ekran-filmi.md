@@ -5,7 +5,7 @@ slug: ekran-filmi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ekran koruyucu
+- ekran koruyucu
 ozellikler:
 - - isim
   - teknik

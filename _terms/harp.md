@@ -5,7 +5,7 @@ slug: harp
 letter: H
 lisan: Fransızca harpe
 anlamlar:
-- ► arp
+- arp
 ozellikler:
 - - isim
   - müzik

@@ -5,7 +5,7 @@ slug: biteviye
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tekdüze
+- tekdüze
 - Durmadan, sürekli olarak; muttasıl
 ozellikler:
 - - zarf

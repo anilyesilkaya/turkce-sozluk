@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Işının yeğinlik düzeyini algılayıp ölçen alet; monitör
 - Ses dalgası iletiminde, iletimi bozmadan ve kesmeden niteliğini denetleyen alet; monitör
-- ► monitör
+- monitör
 ozellikler:
 - - isim
   - fizik

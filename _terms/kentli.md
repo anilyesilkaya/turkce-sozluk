@@ -5,7 +5,7 @@ slug: kentli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehirli
+- şehirli
 ozellikler:
 - - sıfat
 ornekler:

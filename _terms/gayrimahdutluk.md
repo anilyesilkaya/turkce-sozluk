@@ -5,7 +5,7 @@ slug: gayrimahdutluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sınırsızlık
+- sınırsızlık
 ozellikler:
 - - isim
 ornekler:

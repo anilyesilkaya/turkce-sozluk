@@ -5,7 +5,7 @@ slug: reva
 letter: R
 lisan: Farsça revā
 anlamlar:
-- ► uygun
+- uygun
 ozellikler:
 - - sıfat
 ornekler:

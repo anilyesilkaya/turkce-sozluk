@@ -5,7 +5,7 @@ slug: servis-araci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► servis arabası
+- servis arabası
 ozellikler:
 - - isim
 ornekler:

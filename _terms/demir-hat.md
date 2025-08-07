@@ -5,7 +5,7 @@ slug: demir-hat
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► demir yolu
+- demir yolu
 ozellikler:
 - - isim
 ornekler:

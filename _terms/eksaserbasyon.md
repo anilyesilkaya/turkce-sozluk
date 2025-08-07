@@ -5,7 +5,7 @@ slug: eksaserbasyon
 letter: E
 lisan: Fransızca exacerbation
 anlamlar:
-- ► alevlenme
+- alevlenme
 ozellikler:
 - - isim
   - tıp

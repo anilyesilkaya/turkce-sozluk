@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uygunsuz bir durumu fark etmek
-- ► anlamak
+- anlamak
 ozellikler:
 - - -i
 - - -i

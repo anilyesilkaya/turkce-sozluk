@@ -5,7 +5,7 @@ slug: trajikomedi
 letter: T
 lisan: Fransızca tragi-comédie
 anlamlar:
-- ► acıklı komedi
+- acıklı komedi
 ozellikler:
 - - isim
 ornekler:

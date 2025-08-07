@@ -5,7 +5,7 @@ slug: eseksirti
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► beşikörtüsü
+- beşikörtüsü
 ozellikler:
 - - isim
 ornekler:

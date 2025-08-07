@@ -5,7 +5,7 @@ slug: ara-bozuculuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arabozanlık
+- arabozanlık
 ozellikler:
 - - isim
 ornekler:

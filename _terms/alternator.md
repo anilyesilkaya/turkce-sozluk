@@ -5,7 +5,7 @@ slug: alternator
 letter: A
 lisan: Fransızca alternateur
 anlamlar:
-- ► dalgalı akım üreteci
+- dalgalı akım üreteci
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: havra
 letter: H
 lisan: İbranice
 anlamlar:
-- ► sinagog
+- sinagog
 - Çok gürültülü yer
 ozellikler:
 - - isim

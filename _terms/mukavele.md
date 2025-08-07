@@ -5,7 +5,7 @@ slug: mukavele
 letter: M
 lisan: Arapça muḳāvele
 anlamlar:
-- ► sözleşme
+- sözleşme
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: nimetsinaslik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► değerbilirlik
+- değerbilirlik
 ozellikler:
 - - isim
 ornekler:

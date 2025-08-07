@@ -5,7 +5,7 @@ slug: afsunlama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► büyüleme
+- büyüleme
 ozellikler:
 - - isim
   - ağızlardan

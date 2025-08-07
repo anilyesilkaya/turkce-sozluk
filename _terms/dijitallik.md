@@ -5,7 +5,7 @@ slug: dijitallik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sayısallık
+- sayısallık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: derlemecilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► derleyicilik
+- derleyicilik
 ozellikler:
 - - isim
 ornekler:

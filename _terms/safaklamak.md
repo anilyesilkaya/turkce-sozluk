@@ -5,7 +5,7 @@ slug: safaklamak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► sabahlamak
+- sabahlamak
 - Elini güneşe karşı siper ederek bakmak
 ozellikler:
 - - nesnesiz

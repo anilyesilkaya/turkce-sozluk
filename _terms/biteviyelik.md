@@ -5,7 +5,7 @@ slug: biteviyelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tekdüzelik
+- tekdüzelik
 - Değişmeden, aynı biçimde sürüp gitme durumu
 ozellikler:
 - - isim

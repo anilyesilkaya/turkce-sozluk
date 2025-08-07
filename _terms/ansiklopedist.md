@@ -5,7 +5,7 @@ slug: ansiklopedist
 letter: A
 lisan: Fransızca encyclopédiste
 anlamlar:
-- ► ansiklopedici
+- ansiklopedici
 - Geniş, derin bilgisi olan
 ozellikler:
 - - isim

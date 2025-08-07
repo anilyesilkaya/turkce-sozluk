@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İlintilemek işi
-- ► teyelleme
+- teyelleme
 ozellikler:
 - - isim
 - - isim

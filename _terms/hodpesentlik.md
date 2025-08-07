@@ -5,7 +5,7 @@ slug: hodpesentlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bencilik
+- bencilik
 ozellikler:
 - - isim
 ornekler:

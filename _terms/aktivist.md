@@ -5,7 +5,7 @@ slug: aktivist
 letter: A
 lisan: Fransızca activiste
 anlamlar:
-- ► etkinci
+- etkinci
 ozellikler:
 - - isim
 ornekler:

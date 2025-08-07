@@ -5,7 +5,7 @@ slug: tekessur
 letter: T
 lisan: Arapça tekes̱s̱ur
 anlamlar:
-- ► çoğalma
+- çoğalma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: duvaklica
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► imparator mantarı
+- imparator mantarı
 ozellikler:
 - - isim
   - bitki bilimi

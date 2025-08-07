@@ -5,7 +5,7 @@ slug: hurriyet
 letter: H
 lisan: Arapça ḥurriyyet
 anlamlar:
-- ► özgürlük
+- özgürlük
 ozellikler:
 - - isim
 ornekler:

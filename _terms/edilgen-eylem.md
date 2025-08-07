@@ -5,7 +5,7 @@ slug: edilgen-eylem
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► edilgen fiil
+- edilgen fiil
 ozellikler:
 - - isim
   - dil bilgisi

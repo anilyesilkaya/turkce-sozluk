@@ -5,7 +5,7 @@ slug: eren
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ermiş
+- ermiş
 - Olağanüstü sezgileriyle birtakım gerçekleri gördüğüne inanılan kimse
 ozellikler:
 - - isim

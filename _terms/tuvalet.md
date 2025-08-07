@@ -7,7 +7,7 @@ lisan: Fransızca toilette
 anlamlar:
 - İnsanın dışkısıyla idrarını boşalttığı yer; abdesthane, aralık, ayakyolu, yüznumara, hacet yeri, hela, kabine, kenef, memişhane, kademhane, lavabo
 - Yıkanma, tıraş olma, giyinme, süslenme, taranma işi
-- ► gece kıyafeti
+- gece kıyafeti
 - Vücut temizliği ve bakımı için gereken nesne
 - Sidik veya dışkı
 ozellikler:

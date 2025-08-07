@@ -5,7 +5,7 @@ slug: muteakiben
 letter: M
 lisan: Arapça muteʿāḳiben
 anlamlar:
-- ► ardınca
+- ardınca
 ozellikler:
 - - zarf
 ornekler:

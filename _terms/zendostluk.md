@@ -5,7 +5,7 @@ slug: zendostluk
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zamparalık
+- zamparalık
 ozellikler:
 - - isim
 ornekler:

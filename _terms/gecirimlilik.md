@@ -5,7 +5,7 @@ slug: gecirimlilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçirgenlik
+- geçirgenlik
 ozellikler:
 - - isim
 ornekler:

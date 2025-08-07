@@ -5,7 +5,7 @@ slug: yakinlik-eylemi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaklaşma fiili
+- yaklaşma fiili
 ozellikler:
 - - isim
   - dil bilgisi

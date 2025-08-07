@@ -5,7 +5,7 @@ slug: yirlama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ırlama
+- ırlama
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: serdarlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► başkomutanlık
+- başkomutanlık
 ozellikler:
 - - isim
 ornekler:

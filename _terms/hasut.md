@@ -5,7 +5,7 @@ slug: hasut
 letter: H
 lisan: Arapça ḥasūd
 anlamlar:
-- ► kıskanç
+- kıskanç
 ozellikler:
 - - sıfat
   - eskimiş

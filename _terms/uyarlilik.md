@@ -5,7 +5,7 @@ slug: uyarlilik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyumluluk
+- uyumluluk
 ozellikler:
 - - isim
 ornekler:

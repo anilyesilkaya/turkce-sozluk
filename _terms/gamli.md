@@ -5,7 +5,7 @@ slug: gamli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygılı
+- kaygılı
 - Sıkıntı veya üzüntü veren
 ozellikler:
 - - sıfat

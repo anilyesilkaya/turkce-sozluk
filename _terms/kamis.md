@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, sulak, nemli yerlerde yetişen, boğumlu, sert gövdeli, şerit yapraklı bitkilerin genel adı; kargı (Phragmites australis)
 - Bu bitkiden yapılmış
-- ► pipet
-- ► erkeklik organı
+- pipet
+- erkeklik organı
 ozellikler:
 - - isim
   - bitki bilimi

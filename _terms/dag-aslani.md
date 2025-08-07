@@ -5,7 +5,7 @@ slug: dag-aslani
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► puma
+- puma
 ozellikler:
 - - isim
   - hayvan bilimi

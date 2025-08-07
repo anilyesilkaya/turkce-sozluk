@@ -5,8 +5,8 @@ slug: maksi
 letter: M
 lisan: Fransızca maxi
 anlamlar:
-- ► uzun
-- ► uzun etek
+- uzun
+- uzun etek
 ozellikler:
 - - sıfat
 - - sıfat

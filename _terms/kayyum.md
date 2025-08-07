@@ -5,7 +5,7 @@ slug: kayyum
 letter: K
 lisan: Arapça ḳayyim
 anlamlar:
-- ► kayyım
+- kayyım
 ozellikler:
 - - isim
 ornekler:

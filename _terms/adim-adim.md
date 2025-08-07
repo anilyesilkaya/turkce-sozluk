@@ -5,7 +5,7 @@ slug: adim-adim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 - Belli bir sıra takip ederek; kademe kademe, basamak basamak
 ozellikler:
 - - zarf

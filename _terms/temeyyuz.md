@@ -5,7 +5,7 @@ slug: temeyyuz
 letter: T
 lisan: Arapça temeyyuz
 anlamlar:
-- ► sivrilme
+- sivrilme
 ozellikler:
 - - isim
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Arapça illā
 anlamlar:
 - Ne olursa olsun, hangi şartta olursa olsun; ille, illaki
 - Hele, özellikle
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - zarf
 - - zarf

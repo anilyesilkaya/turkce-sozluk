@@ -5,7 +5,7 @@ slug: donatan
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► armatör
+- armatör
 ozellikler:
 - - isim
   - denizcilik

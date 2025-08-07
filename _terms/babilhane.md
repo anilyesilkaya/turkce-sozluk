@@ -5,7 +5,7 @@ slug: babilhane
 letter: B
 lisan: Farsça bābil + Farsça ḫāne
 anlamlar:
-- ► genelev
+- genelev
 ozellikler:
 - - isim
   - argo

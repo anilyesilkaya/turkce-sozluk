@@ -5,7 +5,7 @@ slug: zannetmek
 letter: Z
 lisan: Arapça ẓann + Türkçe etmek
 anlamlar:
-- ► sanmak
+- sanmak
 ozellikler:
 - - nesnesiz
 ornekler:

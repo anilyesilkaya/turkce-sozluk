@@ -5,7 +5,7 @@ slug: musamahasizca
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hoşgörüsüzce
+- hoşgörüsüzce
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: primitif
 letter: P
 lisan: Fransızca primitif
 anlamlar:
-- ► ilkel
+- ilkel
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: zabit-varakasi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► tutanak
+- tutanak
 ozellikler:
 - - isim
   - eskimiş

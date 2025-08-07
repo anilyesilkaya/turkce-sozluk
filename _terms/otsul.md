@@ -5,7 +5,7 @@ slug: otsul
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► otsu
+- otsu
 ozellikler:
 - - sıfat
   - bitki bilimi

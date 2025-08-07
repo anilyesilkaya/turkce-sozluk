@@ -5,7 +5,7 @@ slug: seytan-elmasi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tatula
+- tatula
 ozellikler:
 - - isim
   - bitki bilimi

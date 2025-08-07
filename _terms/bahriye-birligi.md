@@ -5,7 +5,7 @@ slug: bahriye-birligi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► deniz birliği
+- deniz birliği
 ozellikler:
 - - isim
   - askerlik

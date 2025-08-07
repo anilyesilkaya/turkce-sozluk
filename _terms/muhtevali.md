@@ -5,7 +5,7 @@ slug: muhtevali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► içerikli
+- içerikli
 ozellikler:
 - - sıfat
 ornekler:

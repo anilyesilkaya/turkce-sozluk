@@ -5,7 +5,7 @@ slug: anahtar-sozcuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anahtar kelime
+- anahtar kelime
 ozellikler:
 - - isim
 ornekler:

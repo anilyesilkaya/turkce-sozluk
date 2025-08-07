@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Koyu duruma gelmek; koyulmak
-- ► kıvamlanmak
+- kıvamlanmak
 - Derinleşmek, hararetlenmek, aşırı duruma gelmek
 ozellikler:
 - - nesnesiz

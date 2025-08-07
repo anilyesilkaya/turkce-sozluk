@@ -5,7 +5,7 @@ slug: kuyruksuren
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► firavun faresi
+- firavun faresi
 ozellikler:
 - - isim
   - hayvan bilimi

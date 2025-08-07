@@ -5,8 +5,8 @@ slug: ivazsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ödünsüz
-- ► karşılıksız
+- ödünsüz
+- karşılıksız
 ozellikler:
 - - sıfat
 - - sıfat

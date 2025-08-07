@@ -5,7 +5,7 @@ slug: kanunlasmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasalaşmak
+- yasalaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: kari-kiz-milleti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kadın milleti
+- kadın milleti
 ozellikler:
 - - isim
   - kaba konuşmada

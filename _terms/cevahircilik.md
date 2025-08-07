@@ -5,7 +5,7 @@ slug: cevahircilik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► kuyumculuk
+- kuyumculuk
 ozellikler:
 - - isim
 ornekler:

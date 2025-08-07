@@ -5,7 +5,7 @@ slug: radyofonik-piyes
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► radyo oyunu
+- radyo oyunu
 ozellikler:
 - - isim
   - tiyatro

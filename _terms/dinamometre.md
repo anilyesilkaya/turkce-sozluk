@@ -5,7 +5,7 @@ slug: dinamometre
 letter: D
 lisan: Fransızca dynamomètre
 anlamlar:
-- ► kuvvetölçer
+- kuvvetölçer
 ozellikler:
 - - isim
   - fizik

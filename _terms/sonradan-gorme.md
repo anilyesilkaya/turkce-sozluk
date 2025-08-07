@@ -5,7 +5,7 @@ slug: sonradan-gorme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonradan görmüş
+- sonradan görmüş
 ozellikler:
 - - sıfat
   - mecaz

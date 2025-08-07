@@ -5,7 +5,7 @@ slug: seviyesizce
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzeysizce
+- düzeysizce
 ozellikler:
 - - zarf
 ornekler:

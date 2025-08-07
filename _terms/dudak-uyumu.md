@@ -5,7 +5,7 @@ slug: dudak-uyumu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► küçük ünlü uyumu
+- küçük ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

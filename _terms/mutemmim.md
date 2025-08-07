@@ -6,8 +6,8 @@ letter: M
 lisan: Arapça mutemmim
 anlamlar:
 - Tamamlayan, bütünleyen, bitiren
-- ► bütünler
-- ► tümleç
+- bütünler
+- tümleç
 ozellikler:
 - - sıfat
   - eskimiş

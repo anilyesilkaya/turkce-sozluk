@@ -5,7 +5,7 @@ slug: garbi
 letter: G
 lisan: Arapça ġarbį
 anlamlar:
-- ► batı
+- batı
 - Batıyla ilgili, batıya özgü olan
 ozellikler:
 - - isim

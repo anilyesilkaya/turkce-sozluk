@@ -5,7 +5,7 @@ slug: ceyrek-daire
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► köşe yayı
+- köşe yayı
 ozellikler:
 - - isim
   - spor

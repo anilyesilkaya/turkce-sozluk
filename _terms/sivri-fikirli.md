@@ -5,7 +5,7 @@ slug: sivri-fikirli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sivri akıllı
+- sivri akıllı
 ozellikler:
 - - sıfat
   - mecaz

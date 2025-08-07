@@ -5,7 +5,7 @@ slug: memishane
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
   - ağızlardan

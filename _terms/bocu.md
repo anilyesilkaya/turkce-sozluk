@@ -5,8 +5,8 @@ slug: bocu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kurt (II)
-- ► böcek
+- kurt (II)
+- böcek
 - Çocukları korkutmak için söylenen ve hayalet, hortlak vb. hayalî varlık
 ozellikler:
 - - isim

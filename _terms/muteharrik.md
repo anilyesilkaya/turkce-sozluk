@@ -5,7 +5,7 @@ slug: muteharrik
 letter: M
 lisan: Arapça muteḥarrik
 anlamlar:
-- ► hareketli
+- hareketli
 - İşleyen, çalışan
 ozellikler:
 - - sıfat

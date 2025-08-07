@@ -5,7 +5,7 @@ slug: narven
 letter: N
 lisan: Farsça nārven
 anlamlar:
-- ► karaağaç
+- karaağaç
 ozellikler:
 - - isim
   - bitki bilimi

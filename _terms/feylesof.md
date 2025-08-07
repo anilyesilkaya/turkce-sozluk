@@ -5,7 +5,7 @@ slug: feylesof
 letter: F
 lisan: Arapça feylesūf
 anlamlar:
-- ► filozof
+- filozof
 ozellikler:
 - - isim
   - eskimiş

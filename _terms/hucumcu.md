@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hücum eden, saldıran
-- ► ileri uç oyuncusu
+- ileri uç oyuncusu
 ozellikler:
 - - sıfat
 - - sıfat

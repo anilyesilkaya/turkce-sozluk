@@ -9,10 +9,10 @@ anlamlar:
 - Ülke işlerinin yürütülmesi, kamuya ilişkin hizmetlerin bütünü
 - Bir kurum veya kuruluşun yönetildiği yer veya makam
 - Bir kurumun işlerini yürüten kurul
-- ► tutum
+- tutum
 - İdare kandili veya lambası
 - Hoş görme, göz yumma
-- ► yetinme
+- yetinme
 ozellikler:
 - - isim
 - - isim

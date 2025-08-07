@@ -5,7 +5,7 @@ slug: asure-ayi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► muharrem
+- muharrem
 ozellikler:
 - - isim
 ornekler:

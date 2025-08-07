@@ -5,7 +5,7 @@ slug: glasnost
 letter: G
 lisan: Rusça
 anlamlar:
-- ► açıklık politikası
+- açıklık politikası
 ozellikler:
 - - isim
 ornekler:

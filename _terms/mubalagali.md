@@ -5,7 +5,7 @@ slug: mubalagali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► abartılı
+- abartılı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: fislama
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fıkrama
+- fıkrama
 ozellikler:
 - - isim
 ornekler:

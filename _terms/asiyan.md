@@ -5,7 +5,7 @@ slug: asiyan
 letter: A
 lisan: Farsça āşiyān
 anlamlar:
-- ► kuş yuvası
+- kuş yuvası
 - Ev, oturulan yer
 ozellikler:
 - - isim

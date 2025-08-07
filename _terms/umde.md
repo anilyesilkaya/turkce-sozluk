@@ -5,7 +5,7 @@ slug: umde
 letter: U
 lisan: Arapça ʿumde
 anlamlar:
-- ► ilke
+- ilke
 ozellikler:
 - - isim
   - eskimiş

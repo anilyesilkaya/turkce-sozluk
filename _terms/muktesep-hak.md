@@ -5,7 +5,7 @@ slug: muktesep-hak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kazanılmış hak
+- kazanılmış hak
 ozellikler:
 - - isim
   - hukuk

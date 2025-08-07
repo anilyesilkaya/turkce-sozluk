@@ -5,11 +5,11 @@ slug: laf
 letter: L
 lisan: Farsça lāf
 anlamlar:
-- ► söz
+- söz
 - Sonuçsuz, yararı olmayan söz
-- ► konu
+- konu
 - '"Öyle şey olamaz, bu sözün hiçbir değeri yok" anlamlarında hafifseme yollu kullanılan bir söz'
-- ► dedikodu
+- dedikodu
 ozellikler:
 - - isim
 - - isim

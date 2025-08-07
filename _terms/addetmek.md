@@ -5,7 +5,7 @@ slug: addetmek
 letter: A
 lisan: Arapça ʿadd + Türkçe etmek
 anlamlar:
-- ► saymak
+- saymak
 ozellikler:
 - - -i
   - eskimiş

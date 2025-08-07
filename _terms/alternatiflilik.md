@@ -5,7 +5,7 @@ slug: alternatiflilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► seçeneklilik
+- seçeneklilik
 ozellikler:
 - - isim
 ornekler:

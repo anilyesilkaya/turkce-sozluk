@@ -5,7 +5,7 @@ slug: aksona
 letter: A
 lisan: Rumca
 anlamlar:
-- ► basınçlanma
+- basınçlanma
 ozellikler:
 - - isim
   - denizcilik

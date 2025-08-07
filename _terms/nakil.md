@@ -7,7 +7,7 @@ lisan: Arapça nāḳil
 anlamlar:
 - Taşıyan, aktaran, geçiren
 - Anlatan, hikâye eden
-- ► iletken
+- iletken
 ozellikler:
 - - sıfat
   - eskimiş

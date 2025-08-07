@@ -5,7 +5,7 @@ slug: nanay
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► yok
+- yok
 ozellikler:
 - - isim
   - argo

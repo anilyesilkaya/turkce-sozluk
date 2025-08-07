@@ -5,7 +5,7 @@ slug: somurgen
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sömürücü
+- sömürücü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: deniz-kulagi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lagün
+- lagün
 ozellikler:
 - - isim
   - coğrafya

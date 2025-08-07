@@ -5,7 +5,7 @@ slug: celismeli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çelişkili
+- çelişkili
 ozellikler:
 - - sıfat
 ornekler:

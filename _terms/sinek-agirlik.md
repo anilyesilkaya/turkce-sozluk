@@ -5,7 +5,7 @@ slug: sinek-agirlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sinek sıklet
+- sinek sıklet
 ozellikler:
 - - isim
   - spor

@@ -5,7 +5,7 @@ slug: yahudi-tavlasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kız tavlası
+- kız tavlası
 ozellikler:
 - - isim
 ornekler:

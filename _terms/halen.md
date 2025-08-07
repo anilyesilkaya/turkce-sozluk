@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥālen
 anlamlar:
 - İçinde bulunduğumuz zamanda
-- ► hâlâ
+- hâlâ
 ozellikler:
 - - zarf
 - - zarf

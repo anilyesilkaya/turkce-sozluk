@@ -5,7 +5,7 @@ slug: faziletlilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► erdemlilik
+- erdemlilik
 ozellikler:
 - - isim
 ornekler:

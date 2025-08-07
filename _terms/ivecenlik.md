@@ -5,7 +5,7 @@ slug: ivecenlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► acelecilik
+- acelecilik
 ozellikler:
 - - isim
 ornekler:

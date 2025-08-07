@@ -5,7 +5,7 @@ slug: bin-kere
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bin kez
+- bin kez
 ozellikler:
 - - zarf
 ornekler:

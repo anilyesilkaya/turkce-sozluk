@@ -6,8 +6,8 @@ letter: F
 lisan: Arapça fiʿlī
 anlamlar:
 - Sözde kalmayıp gerçekten yapılan, yapılmış ve yapılmakta olan
-- ► edimsel
-- ► eylemli
+- edimsel
+- eylemli
 ozellikler:
 - - sıfat
 - - sıfat

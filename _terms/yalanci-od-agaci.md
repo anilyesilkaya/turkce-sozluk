@@ -5,7 +5,7 @@ slug: yalanci-od-agaci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kalembek
+- kalembek
 ozellikler:
 - - isim
   - bitki bilimi

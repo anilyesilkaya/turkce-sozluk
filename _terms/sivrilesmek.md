@@ -5,7 +5,7 @@ slug: sivrilesmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sivrilmek
+- sivrilmek
 - Genel tutum veya geleneklerin dışında davranmak
 - Dikkat çekici sözler söylemek
 - Kırıcı sözler söylemek

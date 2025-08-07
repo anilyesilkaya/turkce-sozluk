@@ -5,7 +5,7 @@ slug: mazmun
 letter: M
 lisan: Arapça mażmūn
 anlamlar:
-- ► anlam
+- anlam
 - Divan edebiyatında bazı kavramları dolaylı anlatmak için kullanılan nükteli ve sanatlı söz
 ozellikler:
 - - isim

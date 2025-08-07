@@ -8,7 +8,7 @@ anlamlar:
 - Yüklenmiş olan, dayandırılan, isnat olunan
 - (Hz. Muhammed’in söz ve eylemleri için) Peygamberin arkadaşlarından birinin tanıklığına kadar götürülebilen
 - Aruz ölçüsünde kapalı hece
-- ► yüklem
+- yüklem
 ozellikler:
 - - sıfat
 - - sıfat

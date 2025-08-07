@@ -5,7 +5,7 @@ slug: vantrilok
 letter: V
 lisan: Fransızca ventrilogue
 anlamlar:
-- ► karnından konuşan
+- karnından konuşan
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: mangal-komuru
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► odun kömürü
+- odun kömürü
 ozellikler:
 - - isim
 ornekler:

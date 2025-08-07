@@ -5,7 +5,7 @@ slug: soset
 letter: Ş
 lisan: Fransızca chausette
 anlamlar:
-- ► soket çorap
+- soket çorap
 ozellikler:
 - - isim
 ornekler:

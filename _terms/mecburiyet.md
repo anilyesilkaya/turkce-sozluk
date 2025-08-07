@@ -5,8 +5,8 @@ slug: mecburiyet
 letter: M
 lisan: Arapça mecbūriyyet
 anlamlar:
-- ► zorunluluk
-- ► yükümlülük
+- zorunluluk
+- yükümlülük
 ozellikler:
 - - isim
 - - isim

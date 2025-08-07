@@ -5,7 +5,7 @@ slug: lenguistik
 letter: L
 lisan: Fransızca linguistique
 anlamlar:
-- ► dil bilimi
+- dil bilimi
 ozellikler:
 - - isim
 ornekler:

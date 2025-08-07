@@ -5,7 +5,7 @@ slug: yargicilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hakemlik
+- hakemlik
 ozellikler:
 - - isim
 ornekler:

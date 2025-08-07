@@ -5,7 +5,7 @@ slug: piyes
 letter: P
 lisan: Fransızca pièce
 anlamlar:
-- ► oyun
+- oyun
 ozellikler:
 - - isim
 ornekler:

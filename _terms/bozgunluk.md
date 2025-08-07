@@ -5,7 +5,7 @@ slug: bozgunluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bozgun
+- bozgun
 - Bozgun olanın durumu
 ozellikler:
 - - isim

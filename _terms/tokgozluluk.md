@@ -5,7 +5,7 @@ slug: tokgozluluk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gözü tokluk
+- gözü tokluk
 ozellikler:
 - - isim
 ornekler:

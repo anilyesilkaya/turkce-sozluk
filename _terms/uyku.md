@@ -8,7 +8,7 @@ anlamlar:
 - Dış uyaranlara karşı bilincin, bütünüyle veya bir bölümünün yittiği, tepki gücünün zayıfladığı ve her türlü etkinliğin büyük ölçüde azaldığı dinlenme durumu; hab
 - Çevrede olup bitenin farkında olmama
 - Doğada görülen sükûnet durumu
-- ► aymazlık
+- aymazlık
 ozellikler:
 - - isim
 - - isim

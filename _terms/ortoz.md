@@ -5,7 +5,7 @@ slug: ortoz
 letter: O
 lisan: Fransızca orthose
 anlamlar:
-- ► ortoklaz
+- ortoklaz
 ozellikler:
 - - isim
   - jeoloji

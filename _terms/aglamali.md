@@ -5,7 +5,7 @@ slug: aglamali
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağlamaklı
+- ağlamaklı
 ozellikler:
 - - sıfat
 ornekler:

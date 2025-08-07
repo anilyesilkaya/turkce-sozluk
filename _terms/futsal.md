@@ -5,7 +5,7 @@ slug: futsal
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► salon futbolu
+- salon futbolu
 ozellikler:
 - - isim
   - spor

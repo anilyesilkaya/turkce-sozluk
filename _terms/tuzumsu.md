@@ -5,7 +5,7 @@ slug: tuzumsu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tuzsu
+- tuzsu
 ozellikler:
 - - sıfat
 ornekler:

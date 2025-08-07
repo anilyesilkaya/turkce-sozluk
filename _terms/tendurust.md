@@ -5,7 +5,7 @@ slug: tendurust
 letter: T
 lisan: Farsça ten + durust
 anlamlar:
-- ► dinç
+- dinç
 ozellikler:
 - - sıfat
   - eskimiş

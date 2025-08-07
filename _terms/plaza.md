@@ -5,7 +5,7 @@ slug: plaza
 letter: P
 lisan: İspanyolca plaza
 anlamlar:
-- ► iş merkezi
+- iş merkezi
 ozellikler:
 - - isim
 ornekler:

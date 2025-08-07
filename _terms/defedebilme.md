@@ -5,7 +5,7 @@ slug: defedebilme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovabilme
+- kovabilme
 ozellikler:
 - - isim
 ornekler:

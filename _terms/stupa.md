@@ -5,7 +5,7 @@ slug: stupa
 letter: S
 lisan: Sanskritçe stūpa
 anlamlar:
-- ► pagoda
+- pagoda
 ozellikler:
 - - isim
 ornekler:

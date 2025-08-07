@@ -5,7 +5,7 @@ slug: sinematografi
 letter: S
 lisan: Fransızca cinématographie
 anlamlar:
-- ► sinemacılık
+- sinemacılık
 ozellikler:
 - - isim
 ornekler:

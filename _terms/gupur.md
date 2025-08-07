@@ -6,7 +6,7 @@ letter: G
 lisan: Fransızca guipure
 anlamlar:
 - İplikten veya ipekten olan, geniş ilmeklerden oluşan bir dantel türü
-- ► kumaş
+- kumaş
 ozellikler:
 - - isim
 - - isim

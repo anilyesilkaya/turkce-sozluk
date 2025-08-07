@@ -5,7 +5,7 @@ slug: yogurt-cicegi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► papatya
+- papatya
 ozellikler:
 - - isim
   - ağızlardan

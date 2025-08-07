@@ -5,7 +5,7 @@ slug: adaleli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kaslı
+- kaslı
 ozellikler:
 - - sıfat
 ornekler:

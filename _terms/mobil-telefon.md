@@ -5,8 +5,8 @@ slug: mobil-telefon
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► araç telefonu
-- ► cep telefonu
+- araç telefonu
+- cep telefonu
 ozellikler:
 - - isim
 - - isim

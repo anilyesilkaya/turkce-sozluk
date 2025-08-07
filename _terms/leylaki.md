@@ -5,7 +5,7 @@ slug: leylaki
 letter: L
 lisan: Arapça leylāḳī
 anlamlar:
-- ► leylak rengi
+- leylak rengi
 - Bu renkte olan
 ozellikler:
 - - isim

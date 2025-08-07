@@ -9,7 +9,7 @@ anlamlar:
 - Duruluğunu yitirmek
 - Parlaklığını ve açıklığını yitirmek
 - Mide bulantısı olmak
-- ► karışmak
+- karışmak
 ozellikler:
 - - -e
 - - -e

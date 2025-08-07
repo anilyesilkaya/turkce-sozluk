@@ -5,10 +5,10 @@ slug: serviyet
 letter: S
 lisan: Fransızca serviette
 anlamlar:
-- ► evrak çantası
+- evrak çantası
 - Öğrencilerin okul çantası
 - Para cüzdanı
-- ► örtü
+- örtü
 ozellikler:
 - - isim
 - - isim

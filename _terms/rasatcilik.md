@@ -5,7 +5,7 @@ slug: rasatcilik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gözlemcilik
+- gözlemcilik
 ozellikler:
 - - isim
 ornekler:

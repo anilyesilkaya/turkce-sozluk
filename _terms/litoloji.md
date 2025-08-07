@@ -5,7 +5,7 @@ slug: litoloji
 letter: L
 lisan: Fransızca lithologie
 anlamlar:
-- ► taş bilimi
+- taş bilimi
 ozellikler:
 - - isim
 ornekler:

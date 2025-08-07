@@ -5,7 +5,7 @@ slug: muddet
 letter: M
 lisan: Arapça muddet
 anlamlar:
-- ► süre
+- süre
 ozellikler:
 - - isim
 ornekler:

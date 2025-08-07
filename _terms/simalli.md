@@ -5,7 +5,7 @@ slug: simalli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Kuzeyli
+- Kuzeyli
 ozellikler:
 - - sıfat
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Hava alma, hoş vakit geçirme vb. amaçlarla bir yere gitmek
 - Bir yerde dolaşmak, yürümek
 - Gitmek, başvurmak
-- ► bulunmak
+- bulunmak
 - Bir yeri görüp incelemek
 - Hasta iyileşip yürümeye başlamak
 - Herhangi bir biçimde gezinmek

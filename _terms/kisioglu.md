@@ -5,7 +5,7 @@ slug: kisioglu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► insan
+- insan
 - Soylu kimse
 ozellikler:
 - - isim

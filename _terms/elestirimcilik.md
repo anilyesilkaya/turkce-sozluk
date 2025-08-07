@@ -5,7 +5,7 @@ slug: elestirimcilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eleştiricilik
+- eleştiricilik
 ozellikler:
 - - isim
   - felsefe

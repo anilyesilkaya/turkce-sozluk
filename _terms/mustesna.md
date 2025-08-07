@@ -7,7 +7,7 @@ lisan: Arapça mustes̱nā
 anlamlar:
 - Bir bütünün veya kuralın dışında olan
 - Benzerlerinden üstün olan, benzerleri az bulunan
-- ► kural dışı
+- kural dışı
 - Dışında, ayrı, hariç tutularak
 ozellikler:
 - - sıfat

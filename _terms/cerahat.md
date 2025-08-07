@@ -5,7 +5,7 @@ slug: cerahat
 letter: C
 lisan: Arapça cerāḥat
 anlamlar:
-- ► irin
+- irin
 ozellikler:
 - - isim
   - eskimiş

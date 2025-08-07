@@ -5,7 +5,7 @@ slug: ebedi-uyku
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
   - mecaz

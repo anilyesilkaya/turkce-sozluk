@@ -5,7 +5,7 @@ slug: cibildaklik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çıplaklık
+- çıplaklık
 ozellikler:
 - - isim
 ornekler:

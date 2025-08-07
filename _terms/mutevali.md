@@ -5,7 +5,7 @@ slug: mutevali
 letter: M
 lisan: Arapça mutevālī
 anlamlar:
-- ► ardışık
+- ardışık
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: kasik-dokmesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaygana
+- kaygana
 ozellikler:
 - - isim
 ornekler:

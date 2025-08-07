@@ -5,7 +5,7 @@ slug: bigunah
 letter: B
 lisan: Farsça bīgunāh
 anlamlar:
-- ► günahsız
+- günahsız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Süt dişi
-- ► peynir dişi
+- peynir dişi
 ozellikler:
 - - isim
 - - isim

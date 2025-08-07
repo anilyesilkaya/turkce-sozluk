@@ -5,7 +5,7 @@ slug: migren
 letter: M
 lisan: Fransızca migraine
 anlamlar:
-- ► yarım baş ağrısı
+- yarım baş ağrısı
 ozellikler:
 - - isim
   - tıp

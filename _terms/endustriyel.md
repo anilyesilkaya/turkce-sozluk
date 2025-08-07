@@ -5,7 +5,7 @@ slug: endustriyel
 letter: E
 lisan: Fransızca industriel
 anlamlar:
-- ► sınai
+- sınai
 ozellikler:
 - - sıfat
 ornekler:

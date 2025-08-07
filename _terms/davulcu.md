@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Davul çalan kimse
-- ► baterici
+- baterici
 ozellikler:
 - - isim
   - müzik

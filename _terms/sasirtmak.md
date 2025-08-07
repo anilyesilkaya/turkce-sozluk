@@ -6,9 +6,9 @@ letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşırmasına sebep olmak
-- ► yanıltmak
+- yanıltmak
 - Daha iyi yetişmelerini sağlamak için ağaç fidanlarının veya çiçek fidelerinin yerlerini değiştirmek
-- ► şaşkınlaşmak
+- şaşkınlaşmak
 ozellikler:
 - - -i
 - - -i

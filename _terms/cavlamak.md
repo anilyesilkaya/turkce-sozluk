@@ -5,7 +5,7 @@ slug: cavlamak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ölmek
+- ölmek
 ozellikler:
 - - nesnesiz
 ornekler:

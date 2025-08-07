@@ -5,7 +5,7 @@ slug: yazanak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► rapor
+- rapor
 ozellikler:
 - - isim
 ornekler:

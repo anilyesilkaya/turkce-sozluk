@@ -5,7 +5,7 @@ slug: gunahli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► günahkâr
+- günahkâr
 ozellikler:
 - - sıfat
 ornekler:

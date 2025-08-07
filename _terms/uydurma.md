@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurmak işi; tasni
-- ► şişirme haber
+- şişirme haber
 - Gerçek dışı, uydurulmuş olan; uyduruk, yalan, sahte, asılsız, düzme, musanna
 - Yeni bir biçim verilmiş
 - Bir değeri olmayan

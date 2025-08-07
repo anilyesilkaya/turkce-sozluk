@@ -6,8 +6,8 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığın kar üzerinde açtığı iz
-- ► patika
-- ► iz
+- patika
+- iz
 - Yeni bir biçim, yöntem veya yol
 ozellikler:
 - - isim

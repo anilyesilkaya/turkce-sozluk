@@ -5,7 +5,7 @@ slug: gri-pasaport
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hizmet pasaportu
+- hizmet pasaportu
 ozellikler:
 - - isim
 ornekler:

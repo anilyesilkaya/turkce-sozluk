@@ -6,8 +6,8 @@ letter: M
 lisan: Arapça mūnis
 anlamlar:
 - Alışılan, alışılmış
-- ► sıcakkanlı
-- ► uysal
+- sıcakkanlı
+- uysal
 - Uygulanabilir
 ozellikler:
 - - sıfat

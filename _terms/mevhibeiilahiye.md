@@ -5,7 +5,7 @@ slug: mevhibeiilahiye
 letter: M
 lisan: Arapça mevhibe + ilāhiyye
 anlamlar:
-- ► Tanrı vergisi
+- Tanrı vergisi
 ozellikler:
 - - isim
   - eskimiş

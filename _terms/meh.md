@@ -5,7 +5,7 @@ slug: meh
 letter: M
 lisan: Farsça meh
 anlamlar:
-- ► ay (II)
+- ay (II)
 ozellikler:
 - - isim
 ornekler:

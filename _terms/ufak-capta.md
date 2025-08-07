@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Küçük olan
-- ► önemsiz
+- önemsiz
 ozellikler:
 - - sıfat
 - - sıfat

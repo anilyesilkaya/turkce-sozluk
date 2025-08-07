@@ -5,8 +5,8 @@ slug: simendifer
 letter: Ş
 lisan: Fransızca chemin de fer
 anlamlar:
-- ► demir yolu
-- ► tren
+- demir yolu
+- tren
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: arasiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aralıksız
+- aralıksız
 ozellikler:
 - - zarf
 ornekler:

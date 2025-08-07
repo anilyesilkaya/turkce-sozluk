@@ -5,7 +5,7 @@ slug: yazman
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sekreter
+- sekreter
 ozellikler:
 - - isim
 ornekler:

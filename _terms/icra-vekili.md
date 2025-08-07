@@ -5,7 +5,7 @@ slug: icra-vekili
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bakan
+- bakan
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: sekilperest
 letter: Ş
 lisan: Arapça şekl + Farsça -perest
 anlamlar:
-- ► biçimci
+- biçimci
 ozellikler:
 - - sıfat
   - eskimiş

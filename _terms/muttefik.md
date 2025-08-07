@@ -5,7 +5,7 @@ slug: muttefik
 letter: M
 lisan: Arapça muttefiḳ
 anlamlar:
-- ► bağlaşık
+- bağlaşık
 ozellikler:
 - - sıfat
 ornekler:

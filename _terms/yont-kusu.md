@@ -5,7 +5,7 @@ slug: yont-kusu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kuyruksallayan
+- kuyruksallayan
 ozellikler:
 - - isim
   - hayvan bilimi

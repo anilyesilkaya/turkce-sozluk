@@ -5,7 +5,7 @@ slug: kabus
 letter: K
 lisan: Arapça kābūs
 anlamlar:
-- ► karabasan
+- karabasan
 - Acı, sıkıntı, korku veren olay
 ozellikler:
 - - isim

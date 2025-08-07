@@ -5,7 +5,7 @@ slug: basmusavir
 letter: B
 lisan: Türkçe baş + Arapça muşāvir
 anlamlar:
-- ► başdanışman
+- başdanışman
 ozellikler:
 - - isim
 ornekler:

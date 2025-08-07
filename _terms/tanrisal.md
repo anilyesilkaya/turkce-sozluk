@@ -5,7 +5,7 @@ slug: tanrisal
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ilahi (I)
+- ilahi (I)
 ozellikler:
 - - sıfat
   - din bilimi

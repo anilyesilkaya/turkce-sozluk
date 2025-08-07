@@ -5,7 +5,7 @@ slug: kizevi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kız tarafı
+- kız tarafı
 ozellikler:
 - - isim
 ornekler:

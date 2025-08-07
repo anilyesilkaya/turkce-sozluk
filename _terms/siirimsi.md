@@ -5,7 +5,7 @@ slug: siirimsi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şiirsi
+- şiirsi
 ozellikler:
 - - sıfat
 ornekler:

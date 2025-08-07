@@ -5,7 +5,7 @@ slug: makedonyali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Makedon
+- Makedon
 ozellikler:
 - - isim
 ornekler:

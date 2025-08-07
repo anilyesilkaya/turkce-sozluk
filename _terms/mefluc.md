@@ -5,7 +5,7 @@ slug: mefluc
 letter: M
 lisan: Arapça meflūc
 anlamlar:
-- ► inmeli
+- inmeli
 - Bozuk, düzgün olmayan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: irtibatsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağlantısızlık
+- bağlantısızlık
 ozellikler:
 - - isim
 ornekler:

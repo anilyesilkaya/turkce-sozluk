@@ -5,7 +5,7 @@ slug: hazakat
 letter: H
 lisan: Arapça ḥaẕāḳat
 anlamlar:
-- ► uzluk
+- uzluk
 ozellikler:
 - - isim
   - eskimiş

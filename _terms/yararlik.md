@@ -5,7 +5,7 @@ slug: yararlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yararlılık
+- yararlılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: seytansaci
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► küsküt otu
+- küsküt otu
 ozellikler:
 - - isim
   - bitki bilimi

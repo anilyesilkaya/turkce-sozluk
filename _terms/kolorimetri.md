@@ -5,7 +5,7 @@ slug: kolorimetri
 letter: K
 lisan: Fransızca colorimétrie
 anlamlar:
-- ► renk ölçme
+- renk ölçme
 ozellikler:
 - - isim
 ornekler:

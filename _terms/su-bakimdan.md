@@ -5,7 +5,7 @@ slug: su-bakimdan
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şundan dolayı
+- şundan dolayı
 ozellikler:
 - - zarf
 ornekler:

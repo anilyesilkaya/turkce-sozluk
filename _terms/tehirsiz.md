@@ -5,7 +5,7 @@ slug: tehirsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gecikmesiz
+- gecikmesiz
 - Gecikmesi olmadan, gecikmeden
 ozellikler:
 - - sıfat

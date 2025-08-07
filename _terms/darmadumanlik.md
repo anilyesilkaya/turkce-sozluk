@@ -5,7 +5,7 @@ slug: darmadumanlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► karmakarışıklık
+- karmakarışıklık
 ozellikler:
 - - isim
 ornekler:

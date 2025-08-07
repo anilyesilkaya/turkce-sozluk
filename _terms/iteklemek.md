@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak itmek, kakmak
-- ► itelemek
+- itelemek
 ozellikler:
 - - -i
 - - -i

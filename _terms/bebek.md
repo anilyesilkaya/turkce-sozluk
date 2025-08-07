@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe
 - Plastik, tahta, bez vb.nden yapılan insan biçiminde oyuncak
-- ► göz bebeği
+- göz bebeği
 - Sevgi bildiren bir seslenme sözü
 - Çocukça davranışları olan kimse
 ozellikler:

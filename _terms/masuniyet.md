@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maṣūniyyet
 anlamlar:
 - Korunmuş olma durumu
-- ► dokunulmazlık
+- dokunulmazlık
 ozellikler:
 - - isim
   - eskimiş

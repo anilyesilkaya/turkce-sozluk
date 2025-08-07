@@ -5,7 +5,7 @@ slug: nesriyat
 letter: N
 lisan: Arapça neşriyyāt
 anlamlar:
-- ► yayın
+- yayın
 ozellikler:
 - - isim
 ornekler:

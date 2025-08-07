@@ -5,7 +5,7 @@ slug: ayran-agizli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - mecaz

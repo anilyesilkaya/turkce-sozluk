@@ -5,7 +5,7 @@ slug: yalitma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yalıtım
+- yalıtım
 ozellikler:
 - - isim
   - fizik

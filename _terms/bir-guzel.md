@@ -5,7 +5,7 @@ slug: bir-guzel
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► adamakıllı
+- adamakıllı
 ozellikler:
 - - zarf
 ornekler:

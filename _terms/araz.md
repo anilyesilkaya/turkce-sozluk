@@ -5,8 +5,8 @@ slug: araz
 letter: A
 lisan: Arapça ʿaraż
 anlamlar:
-- ► ilinek
-- ► belirti
+- ilinek
+- belirti
 ozellikler:
 - - isim
   - felsefe

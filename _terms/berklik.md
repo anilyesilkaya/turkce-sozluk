@@ -5,8 +5,8 @@ slug: berklik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sertlik
-- ► sağlamlık
+- sertlik
+- sağlamlık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: tesviye-aleti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► düzeç
+- düzeç
 ozellikler:
 - - isim
 ornekler:

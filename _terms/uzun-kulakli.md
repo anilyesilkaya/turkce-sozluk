@@ -5,7 +5,7 @@ slug: uzun-kulakli
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► eşek
+- eşek
 ozellikler:
 - - isim
   - mecaz

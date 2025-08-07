@@ -5,7 +5,7 @@ slug: tenesir-kargasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teneşir horozu
+- teneşir horozu
 ozellikler:
 - - isim
   - mecaz

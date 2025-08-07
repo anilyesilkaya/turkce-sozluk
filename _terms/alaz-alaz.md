@@ -5,7 +5,7 @@ slug: alaz-alaz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alev alev
+- alev alev
 ozellikler:
 - - zarf
 ornekler:

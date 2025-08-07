@@ -5,7 +5,7 @@ slug: informel-egitim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sargın eğitim
+- sargın eğitim
 ozellikler:
 - - isim
 ornekler:

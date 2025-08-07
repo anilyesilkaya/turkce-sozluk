@@ -5,8 +5,8 @@ slug: formel
 letter: F
 lisan: Fransızca formel
 anlamlar:
-- ► biçimsel
-- ► resmî
+- biçimsel
+- resmî
 ozellikler:
 - - sıfat
 - - sıfat

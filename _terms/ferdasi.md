@@ -5,7 +5,7 @@ slug: ferdasi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ertesi
+- ertesi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: hitlerci
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Nazist
+- Nazist
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ahiret-yolculugu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
   - mecaz

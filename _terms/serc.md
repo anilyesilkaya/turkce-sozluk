@@ -5,7 +5,7 @@ slug: serc
 letter: Ş
 lisan: Arapça şerc
 anlamlar:
-- ► anüs
+- anüs
 ozellikler:
 - - isim
   - eskimiş

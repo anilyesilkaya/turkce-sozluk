@@ -7,7 +7,7 @@ lisan: Arapça muṭālaʿa
 anlamlar:
 - Herhangi bir konu üzerinde ayrıntılı bir biçimde düşünme
 - Herhangi bir konu üzerinde ayrıntılı düşünme ile oluşan görüş ve yorum
-- ► etüt
+- etüt
 ozellikler:
 - - isim
 - - isim

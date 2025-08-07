@@ -5,7 +5,7 @@ slug: malumat-sahibi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bilgili
+- bilgili
 ozellikler:
 - - sıfat
 ornekler:

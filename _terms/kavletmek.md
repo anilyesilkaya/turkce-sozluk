@@ -5,7 +5,7 @@ slug: kavletmek
 letter: K
 lisan: Arapça ḳavl + Türkçe etmek
 anlamlar:
-- ► sözleşmek
+- sözleşmek
 ozellikler:
 - - -le
 ornekler:

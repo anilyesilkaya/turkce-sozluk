@@ -5,7 +5,7 @@ slug: kirlikartopu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuyruklu yıldız
+- kuyruklu yıldız
 ozellikler:
 - - isim
   - gök bilimi

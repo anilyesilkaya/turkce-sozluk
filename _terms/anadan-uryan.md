@@ -5,7 +5,7 @@ slug: anadan-uryan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çırılçıplak
+- çırılçıplak
 - Çırılçıplak olarak
 ozellikler:
 - - sıfat

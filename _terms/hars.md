@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥars̱
 anlamlar:
 - Tarla sürme
-- ► kültür
+- kültür
 ozellikler:
 - - isim
   - eskimiş

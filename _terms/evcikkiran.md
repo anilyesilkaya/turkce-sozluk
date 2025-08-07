@@ -5,7 +5,7 @@ slug: evcikkiran
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► köygöçüren
+- köygöçüren
 ozellikler:
 - - isim
   - bitki bilimi

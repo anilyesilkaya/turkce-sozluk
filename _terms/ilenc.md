@@ -5,7 +5,7 @@ slug: ilenc
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► beddua
+- beddua
 ozellikler:
 - - isim
 ornekler:

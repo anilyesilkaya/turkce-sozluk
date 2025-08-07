@@ -5,8 +5,8 @@ slug: ihtisas
 letter: I
 lisan: Arapça iḫtiṣāṣ
 anlamlar:
-- ► uzmanlaşma
-- ► uzmanlık
+- uzmanlaşma
+- uzmanlık
 ozellikler:
 - - isim
 - - isim

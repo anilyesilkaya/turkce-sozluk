@@ -5,7 +5,7 @@ slug: rakiplik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► rekabet
+- rekabet
 ozellikler:
 - - isim
 ornekler:

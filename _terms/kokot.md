@@ -5,7 +5,7 @@ slug: kokot
 letter: K
 lisan: Fransızca cocotte
 anlamlar:
-- ► aşüfte
+- aşüfte
 ozellikler:
 - - isim
 ornekler:

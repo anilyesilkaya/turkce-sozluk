@@ -5,7 +5,7 @@ slug: muvacehe
 letter: M
 lisan: Arapça muvācehe
 anlamlar:
-- ► yüzleşme
+- yüzleşme
 ozellikler:
 - - isim
   - eskimiş

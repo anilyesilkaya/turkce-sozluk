@@ -5,7 +5,7 @@ slug: terbiyecilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eğitimcilik
+- eğitimcilik
 ozellikler:
 - - isim
 ornekler:

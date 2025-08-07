@@ -5,7 +5,7 @@ slug: karmac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► betonkarar
+- betonkarar
 - Bir kabın içindeki maddeleri karıştırmak için kullanılan çubuk biçiminde mutfak aleti
 - Hayvanlara yedirilen unla su karışımı yiyecek
 ozellikler:

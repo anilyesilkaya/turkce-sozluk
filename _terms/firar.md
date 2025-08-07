@@ -5,7 +5,7 @@ slug: firar
 letter: F
 lisan: Arapça firār
 anlamlar:
-- ► kaçma
+- kaçma
 - Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması
 ozellikler:
 - - isim

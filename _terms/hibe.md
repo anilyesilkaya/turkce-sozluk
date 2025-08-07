@@ -5,7 +5,7 @@ slug: hibe
 letter: H
 lisan: Arapça hibe
 anlamlar:
-- ► bağış
+- bağış
 ozellikler:
 - - isim
 ornekler:

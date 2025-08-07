@@ -5,7 +5,7 @@ slug: muhaddep
 letter: M
 lisan: Arapça muḥaddeb
 anlamlar:
-- ► dışbükey
+- dışbükey
 ozellikler:
 - - sıfat
   - eskimiş

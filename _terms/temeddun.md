@@ -5,7 +5,7 @@ slug: temeddun
 letter: T
 lisan: Arapça temeddun
 anlamlar:
-- ► uygarlaşma
+- uygarlaşma
 ozellikler:
 - - isim
   - eskimiş

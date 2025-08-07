@@ -5,7 +5,7 @@ slug: muhteris
 letter: M
 lisan: Arapça muḥteriṣ
 anlamlar:
-- ► açgözlü
+- açgözlü
 ozellikler:
 - - sıfat
   - eskimiş

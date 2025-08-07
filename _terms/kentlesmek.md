@@ -5,7 +5,7 @@ slug: kentlesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehirleşmek
+- şehirleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

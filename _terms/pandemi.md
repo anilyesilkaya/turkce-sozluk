@@ -5,7 +5,7 @@ slug: pandemi
 letter: P
 lisan: İngilizce pandemy
 anlamlar:
-- ► küresel salgın
+- küresel salgın
 - Küresel salgın ile ilgili olan
 ozellikler:
 - - isim

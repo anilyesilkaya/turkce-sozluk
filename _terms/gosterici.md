@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gösteri yapan kimse; nümayişçi
-- ► yansıtım aygıtı
+- yansıtım aygıtı
 ozellikler:
 - - isim
 - - isim

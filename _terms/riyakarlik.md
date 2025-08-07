@@ -5,7 +5,7 @@ slug: riyakarlik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► ikiyüzlülük
+- ikiyüzlülük
 ozellikler:
 - - isim
 ornekler:

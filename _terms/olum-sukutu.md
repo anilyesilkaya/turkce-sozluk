@@ -5,7 +5,7 @@ slug: olum-sukutu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölüm sessizliği
+- ölüm sessizliği
 ozellikler:
 - - isim
   - mecaz

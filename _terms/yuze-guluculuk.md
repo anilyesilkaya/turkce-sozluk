@@ -5,7 +5,7 @@ slug: yuze-guluculuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ikiyüzlülük
+- ikiyüzlülük
 ozellikler:
 - - isim
 ornekler:

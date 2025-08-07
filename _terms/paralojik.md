@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca paralogique
 anlamlar:
 - Mantığa uymayan
-- ► yanıltıcı
+- yanıltıcı
 ozellikler:
 - - sıfat
   - ruh bilimi

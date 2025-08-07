@@ -5,8 +5,8 @@ slug: bekitme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tıkama
-- ► sağlamlaştırma
+- tıkama
+- sağlamlaştırma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: posalanma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► tortulanma
+- tortulanma
 ozellikler:
 - - isim
 ornekler:

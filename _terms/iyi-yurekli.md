@@ -5,7 +5,7 @@ slug: iyi-yurekli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iyi kalpli
+- iyi kalpli
 ozellikler:
 - - sıfat
   - mecaz

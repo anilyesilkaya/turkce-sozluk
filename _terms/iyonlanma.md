@@ -5,7 +5,7 @@ slug: iyonlanma
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iyonlaşma
+- iyonlaşma
 ozellikler:
 - - isim
   - kimya

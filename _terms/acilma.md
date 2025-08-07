@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Açılmak işi; küşayiş
-- ► çatlama
+- çatlama
 - Bir film çekiminde karanlıkta başlayıp gittikçe aydınlanarak görüntülerin belirmesine dayanan noktalama
 - Yakın mesafede duranların jimnastik alıştırmaları için birbirlerinden uzaklaşmaları
 ozellikler:

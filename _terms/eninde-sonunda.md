@@ -5,7 +5,7 @@ slug: eninde-sonunda
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önünde sonunda
+- önünde sonunda
 ozellikler:
 - - zarf
 ornekler:

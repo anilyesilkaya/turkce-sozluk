@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca carcasse
 anlamlar:
 - Demirli betonla yapılmış yapı
-- ► karkas et
+- karkas et
 ozellikler:
 - - isim
   - mimarlık

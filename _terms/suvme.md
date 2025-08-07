@@ -5,7 +5,7 @@ slug: suvme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süğme
+- süğme
 ozellikler:
 - - isim
 ornekler:

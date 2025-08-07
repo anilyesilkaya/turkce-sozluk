@@ -5,7 +5,7 @@ slug: yilgi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► fobi
+- fobi
 ozellikler:
 - - isim
   - ruh bilimi

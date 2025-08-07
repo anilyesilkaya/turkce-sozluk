@@ -6,9 +6,9 @@ letter: S
 lisan: Fransızca spot
 anlamlar:
 - Herhangi bir aynalı alet ile ekran üzerinde oluşturulan görüntü
-- ► tanıtımcık
+- tanıtımcık
 - Toptancıdan bir malı çok miktarda veresiye aldıktan sonra piyasada değerinden daha aşağıya peşin olarak satma; peşin
-- ► ışıntı
+- ışıntı
 ozellikler:
 - - isim
 - - isim

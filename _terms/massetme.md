@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Massetmek işi
-- ► soğurma
+- soğurma
 ozellikler:
 - - isim
 - - isim

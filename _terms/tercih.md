@@ -5,7 +5,7 @@ slug: tercih
 letter: T
 lisan: Arapça tercīḥ
 anlamlar:
-- ► yeğleme
+- yeğleme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yere-dogrulum
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yere yönelim
+- yere yönelim
 ozellikler:
 - - isim
   - bitki bilimi

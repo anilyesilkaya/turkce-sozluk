@@ -9,20 +9,20 @@ anlamlar:
 - Sonunu getirmek
 - Anlamak, ne olduğunu bilmek, sezmek
 - Bulmak, ortaya koymak
-- ► anımsamak
+- anımsamak
 - Öfke, hırs, acı vb.nin zararını çektirmek
 - Sağlamak, elde etmek
 - Gibi göstermek, bir davranış yüklemek
-- ► kusmak
+- kusmak
 - İlgisini keserek uzaklaştırmak
 - Giysi, ayakkabı vb.ni vücuttan ayırmak, soymak
-- ► yayımlamak
+- yayımlamak
 - Bir şeyi temizlemek
 - Ortaya koymak
 - İkram etmek
-- ► göstermek
+- göstermek
 - Bir müzik parçasını notalarıyla çalmak
-- ► boşaltmak
+- boşaltmak
 - Resim yapmak
 - Fotoğraf çektirmek
 - Bir şeyi açık etmek

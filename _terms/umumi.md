@@ -5,7 +5,7 @@ slug: umumi
 letter: U
 lisan: Arapça ʿumūmī
 anlamlar:
-- ► genel
+- genel
 ozellikler:
 - - sıfat
 ornekler:

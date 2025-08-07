@@ -5,7 +5,7 @@ slug: dizaynli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tasarımlı
+- tasarımlı
 ozellikler:
 - - sıfat
 ornekler:

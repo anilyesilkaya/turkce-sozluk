@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Hayvanın ağzına gem takmak
-- ► frenlemek
+- frenlemek
 ozellikler:
 - - -i
 - - -i

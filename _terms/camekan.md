@@ -5,11 +5,11 @@ slug: camekan
 letter: C
 lisan: Farsça cāmekān
 anlamlar:
-- ► vitrin
+- vitrin
 - Bir yeri, bir veya daha çok bölüme ayıran cam bölme; camlık
 - Çiçek, sebze vb. bitkileri dış etkenlerden korumak için yapılmış küçük limonluk
 - Hamamlarda soyunulan camlı yer
-- ► gözlük
+- gözlük
 ozellikler:
 - - isim
 - - isim

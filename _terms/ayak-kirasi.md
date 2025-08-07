@@ -5,7 +5,7 @@ slug: ayak-kirasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayak teri
+- ayak teri
 ozellikler:
 - - isim
   - mecaz

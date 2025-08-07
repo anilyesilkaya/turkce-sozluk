@@ -5,7 +5,7 @@ slug: kafa-dengi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kafadar
+- kafadar
 ozellikler:
 - - isim
 ornekler:

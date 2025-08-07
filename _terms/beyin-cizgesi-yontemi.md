@@ -5,7 +5,7 @@ slug: beyin-cizgesi-yontemi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► elektroensefalografi
+- elektroensefalografi
 ozellikler:
 - - isim
   - tıp

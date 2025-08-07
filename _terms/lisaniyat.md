@@ -5,7 +5,7 @@ slug: lisaniyat
 letter: L
 lisan: Arapça lisāniyyāt
 anlamlar:
-- ► dil bilimi
+- dil bilimi
 ozellikler:
 - - isim
   - eskimiş

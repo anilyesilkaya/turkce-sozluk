@@ -10,7 +10,7 @@ anlamlar:
 - -den dolayı, -den ötürü
 - -e özgü, -e ayrılmış
 - -e göre
-- ► hakkında
+- hakkında
 - Göz önünde tutulursa, birinin adına
 - Karşılığında, karşılık olarak
 - Uğruna, yoluna

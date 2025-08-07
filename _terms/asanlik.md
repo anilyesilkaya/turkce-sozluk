@@ -5,7 +5,7 @@ slug: asanlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kolaylık
+- kolaylık
 ozellikler:
 - - isim
 ornekler:

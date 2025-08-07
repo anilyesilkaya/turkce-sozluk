@@ -5,7 +5,7 @@ slug: yalin-cumle
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► basit cümle
+- basit cümle
 ozellikler:
 - - isim
   - dil bilgisi

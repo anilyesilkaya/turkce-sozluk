@@ -5,7 +5,7 @@ slug: temrin
 letter: T
 lisan: Arapça temrīn
 anlamlar:
-- ► alıştırma
+- alıştırma
 ozellikler:
 - - isim
   - eskimiş

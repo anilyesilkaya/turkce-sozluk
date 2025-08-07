@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Isı ve ışık dalgalarının yansıtıcı bir yüzeye çarparak geri dönmesi; akis
 - Işığın parlak bir yere çarpıp geriye doğru yön değiştirerek kaynağını göstermesi; inikâs
-- ► refleks
+- refleks
 ozellikler:
 - - isim
 - - isim

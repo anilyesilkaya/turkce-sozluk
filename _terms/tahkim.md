@@ -5,7 +5,7 @@ slug: tahkim
 letter: T
 lisan: Arapça taḥkīm
 anlamlar:
-- ► sağlamlaştırma
+- sağlamlaştırma
 - Anlaşmazlıkların hakem yoluyla çözülmesi yöntemi
 ozellikler:
 - - isim

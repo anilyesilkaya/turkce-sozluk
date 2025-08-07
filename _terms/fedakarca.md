@@ -5,7 +5,7 @@ slug: fedakarca
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► özverilice
+- özverilice
 ozellikler:
 - - zarf
 ornekler:

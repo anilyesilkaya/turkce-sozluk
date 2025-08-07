@@ -5,7 +5,7 @@ slug: istiare
 letter: I
 lisan: Arapça istiʿāre
 anlamlar:
-- ► ödünçleme
+- ödünçleme
 - Bir şeyi anlatmak için ona benzetilen başka bir şeyin adını eğreti olarak kullanma; eğretileme
 ozellikler:
 - - isim

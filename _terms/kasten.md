@@ -5,7 +5,7 @@ slug: kasten
 letter: K
 lisan: Arapça ḳaṣden
 anlamlar:
-- ► bilerek
+- bilerek
 ozellikler:
 - - zarf
 ornekler:

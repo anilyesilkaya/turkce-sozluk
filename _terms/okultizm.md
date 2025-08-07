@@ -5,7 +5,7 @@ slug: okultizm
 letter: O
 lisan: Fransızca occultisme
 anlamlar:
-- ► gizlicilik
+- gizlicilik
 ozellikler:
 - - isim
 ornekler:

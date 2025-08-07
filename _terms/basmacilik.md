@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Basmacının yaptığı iş
-- ► basımcılık
-- ► bohçacılık
+- basımcılık
+- bohçacılık
 ozellikler:
 - - isim
 - - isim

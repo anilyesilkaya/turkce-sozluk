@@ -5,7 +5,7 @@ slug: emaret
 letter: E
 lisan: Arapça emāret
 anlamlar:
-- ► beylik
+- beylik
 ozellikler:
 - - isim
 ornekler:

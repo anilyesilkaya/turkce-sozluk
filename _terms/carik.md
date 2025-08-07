@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İşlenmemiş sığır derisinden yapılan ve deliklerine geçirilen şeritle sıkıca bağlanan ayakkabı
 - Araba yokuş aşağı giderken tekerleği frenlemek için altına sürülen demir levha
-- ► çene
+- çene
 - Para cüzdanı
 ozellikler:
 - - isim

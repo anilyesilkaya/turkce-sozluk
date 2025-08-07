@@ -5,7 +5,7 @@ slug: diresken
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sebatlı
+- sebatlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: elektro
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrokardiyografi
+- elektrokardiyografi
 ozellikler:
 - - isim
 ornekler:

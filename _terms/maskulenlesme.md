@@ -5,7 +5,7 @@ slug: maskulenlesme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► erkeksileşme
+- erkeksileşme
 ozellikler:
 - - isim
 ornekler:

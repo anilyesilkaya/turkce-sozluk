@@ -5,7 +5,7 @@ slug: mihmandarlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► konukçuluk
+- konukçuluk
 ozellikler:
 - - isim
 ornekler:

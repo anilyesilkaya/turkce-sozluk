@@ -5,7 +5,7 @@ slug: tedbir
 letter: T
 lisan: Arapça tedbīr
 anlamlar:
-- ► önlem
+- önlem
 - Bir şeyin sonucu düşünülerek önceden yapılan hazırlık
 ozellikler:
 - - isim

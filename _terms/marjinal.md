@@ -5,8 +5,8 @@ slug: marjinal
 letter: M
 lisan: Fransızca marginal
 anlamlar:
-- ► aykırı
-- ► son birim
+- aykırı
+- son birim
 ozellikler:
 - - sıfat
   - mecaz

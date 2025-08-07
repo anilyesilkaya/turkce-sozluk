@@ -5,7 +5,7 @@ slug: anut
 letter: A
 lisan: Arapça ʿanūd
 anlamlar:
-- ► inatçı
+- inatçı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cumʿa
 anlamlar:
 - Perşembe ile cumartesi arasındaki gün
-- ► cuma namazı
+- cuma namazı
 ozellikler:
 - - isim
 - - isim

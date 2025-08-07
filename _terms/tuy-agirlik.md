@@ -5,7 +5,7 @@ slug: tuy-agirlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tüy sıklet
+- tüy sıklet
 ozellikler:
 - - isim
 ornekler:

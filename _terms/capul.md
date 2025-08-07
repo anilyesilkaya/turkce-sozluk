@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birçok kimsenin bir mala üşüşüp bulduklarına el koyması; plaçka
-- ► yağma (II)
+- yağma (II)
 ozellikler:
 - - isim
 - - isim

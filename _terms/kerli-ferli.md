@@ -5,7 +5,7 @@ slug: kerli-ferli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kelli felli
+- kelli felli
 ozellikler:
 - - sıfat
 ornekler:

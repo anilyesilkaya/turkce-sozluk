@@ -5,7 +5,7 @@ slug: fistiki
 letter: F
 lisan: Arapça fustuḳī
 anlamlar:
-- ► fıstık rengi
+- fıstık rengi
 ozellikler:
 - - isim
 ornekler:

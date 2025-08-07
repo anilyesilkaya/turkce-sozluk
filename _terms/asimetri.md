@@ -5,7 +5,7 @@ slug: asimetri
 letter: A
 lisan: Fransızca asymétrie
 anlamlar:
-- ► bakışımsızlık
+- bakışımsızlık
 ozellikler:
 - - isim
   - matematik

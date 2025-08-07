@@ -5,7 +5,7 @@ slug: test
 letter: T
 lisan: Farsça ṭaşt
 anlamlar:
-- ► leğen
+- leğen
 - Çamaşır leğeni
 ozellikler:
 - - isim

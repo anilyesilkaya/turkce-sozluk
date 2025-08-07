@@ -5,7 +5,7 @@ slug: ozveren
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özverili
+- özverili
 ozellikler:
 - - sıfat
 ornekler:

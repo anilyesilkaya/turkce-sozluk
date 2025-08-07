@@ -5,7 +5,7 @@ slug: gezmen
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gezgin
+- gezgin
 ozellikler:
 - - isim
 ornekler:

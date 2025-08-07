@@ -5,7 +5,7 @@ slug: husnuniyet
 letter: H
 lisan: Arapça ḥusn + niyyet
 anlamlar:
-- ► iyi niyet
+- iyi niyet
 ozellikler:
 - - isim
 ornekler:

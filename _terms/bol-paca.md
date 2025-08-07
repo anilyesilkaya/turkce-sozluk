@@ -5,7 +5,7 @@ slug: bol-paca
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► geniş paça
+- geniş paça
 - Dökük, saçık, şapşal (kimse)
 ozellikler:
 - - isim

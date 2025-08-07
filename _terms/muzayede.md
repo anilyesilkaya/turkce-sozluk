@@ -5,7 +5,7 @@ slug: muzayede
 letter: M
 lisan: Arapça muzāyede
 anlamlar:
-- ► açık artırma
+- açık artırma
 ozellikler:
 - - isim
 ornekler:

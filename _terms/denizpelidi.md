@@ -5,7 +5,7 @@ slug: denizpelidi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denizpalamudu
+- denizpalamudu
 ozellikler:
 - - isim
   - hayvan bilimi

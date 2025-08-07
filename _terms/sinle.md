@@ -5,7 +5,7 @@ slug: sinle
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
   - eskimiş

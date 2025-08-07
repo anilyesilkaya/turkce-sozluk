@@ -5,7 +5,7 @@ slug: zahmet
 letter: Z
 lisan: Arapça zaḥmet
 anlamlar:
-- ► güçlük
+- güçlük
 ozellikler:
 - - isim
 ornekler:

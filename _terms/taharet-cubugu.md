@@ -5,7 +5,7 @@ slug: taharet-cubugu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taharet borusu
+- taharet borusu
 ozellikler:
 - - isim
 ornekler:

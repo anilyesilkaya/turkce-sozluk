@@ -5,7 +5,7 @@ slug: losemi
 letter: L
 lisan: Fransızca leucémie
 anlamlar:
-- ► kan kanseri
+- kan kanseri
 ozellikler:
 - - isim
   - tıp

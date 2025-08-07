@@ -5,7 +5,7 @@ slug: kosut
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► paralel
+- paralel
 ozellikler:
 - - sıfat
   - matematik

@@ -5,7 +5,7 @@ slug: kukumav
 letter: K
 lisan: Rumca
 anlamlar:
-- ► kukumav kuşu
+- kukumav kuşu
 ozellikler:
 - - isim
 ornekler:

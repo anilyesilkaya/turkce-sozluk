@@ -5,7 +5,7 @@ slug: beletmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kundaklatmak
+- kundaklatmak
 ozellikler:
 - - -i
   - ağızlardan

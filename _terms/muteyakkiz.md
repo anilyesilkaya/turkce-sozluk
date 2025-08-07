@@ -5,7 +5,7 @@ slug: muteyakkiz
 letter: M
 lisan: Arapça muteyaḳḳiż
 anlamlar:
-- ► uyanık
+- uyanık
 ozellikler:
 - - sıfat
   - eskimiş

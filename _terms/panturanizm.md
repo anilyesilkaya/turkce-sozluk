@@ -5,7 +5,7 @@ slug: panturanizm
 letter: P
 lisan: Fransızca pantouranisme
 anlamlar:
-- ► Turancılık
+- Turancılık
 ozellikler:
 - - isim
 ornekler:

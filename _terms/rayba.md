@@ -5,7 +5,7 @@ slug: rayba
 letter: R
 lisan: Almanca Reiber
 anlamlar:
-- ► pürüzalır
+- pürüzalır
 ozellikler:
 - - isim
 ornekler:

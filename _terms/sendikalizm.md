@@ -5,7 +5,7 @@ slug: sendikalizm
 letter: S
 lisan: Fransızca syndicalisme
 anlamlar:
-- ► sendikacılık
+- sendikacılık
 ozellikler:
 - - isim
 ornekler:

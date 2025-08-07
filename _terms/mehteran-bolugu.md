@@ -5,7 +5,7 @@ slug: mehteran-bolugu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mehter takımı
+- mehter takımı
 ozellikler:
 - - isim
   - tarih

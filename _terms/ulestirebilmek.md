@@ -5,7 +5,7 @@ slug: ulestirebilmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► paylaştırabilmek
+- paylaştırabilmek
 ozellikler:
 - - nesnesiz
 ornekler:

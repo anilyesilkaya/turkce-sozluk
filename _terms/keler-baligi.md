@@ -5,7 +5,7 @@ slug: keler-baligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► keler
+- keler
 ozellikler:
 - - isim
   - hayvan bilimi

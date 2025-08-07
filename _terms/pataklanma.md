@@ -5,7 +5,7 @@ slug: pataklanma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dövülme
+- dövülme
 ozellikler:
 - - isim
 ornekler:

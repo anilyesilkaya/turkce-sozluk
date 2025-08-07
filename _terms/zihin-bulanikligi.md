@@ -5,7 +5,7 @@ slug: zihin-bulanikligi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zihin karışıklığı
+- zihin karışıklığı
 ozellikler:
 - - isim
   - ruh bilimi

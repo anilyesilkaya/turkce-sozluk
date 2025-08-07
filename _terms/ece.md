@@ -5,7 +5,7 @@ slug: ece
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kraliçe
+- kraliçe
 - Güzel kadın
 ozellikler:
 - - isim

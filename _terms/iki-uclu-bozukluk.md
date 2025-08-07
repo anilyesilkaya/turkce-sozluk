@@ -5,7 +5,7 @@ slug: iki-uclu-bozukluk
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► duygu durumu bozukluğu
+- duygu durumu bozukluğu
 ozellikler:
 - - isim
   - ruh bilimi

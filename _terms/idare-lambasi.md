@@ -5,7 +5,7 @@ slug: idare-lambasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► idare kandili
+- idare kandili
 ozellikler:
 - - isim
   - eskimiş

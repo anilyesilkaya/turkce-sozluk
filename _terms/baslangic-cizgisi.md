@@ -5,7 +5,7 @@ slug: baslangic-cizgisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çıkış çizgisi
+- çıkış çizgisi
 ozellikler:
 - - isim
   - spor

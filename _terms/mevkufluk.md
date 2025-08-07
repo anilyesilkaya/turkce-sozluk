@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Mevkuf olma durumu
-- ► tutukluluk
+- tutukluluk
 ozellikler:
 - - isim
 - - isim

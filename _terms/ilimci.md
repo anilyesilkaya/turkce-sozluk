@@ -5,7 +5,7 @@ slug: ilimci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bilimci
+- bilimci
 ozellikler:
 - - sıfat
   - felsefe

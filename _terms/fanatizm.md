@@ -5,7 +5,7 @@ slug: fanatizm
 letter: F
 lisan: Fransızca fanatisme
 anlamlar:
-- ► bağnazlık
+- bağnazlık
 ozellikler:
 - - isim
 ornekler:

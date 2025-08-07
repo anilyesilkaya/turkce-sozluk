@@ -5,7 +5,7 @@ slug: gamlanma
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygılanma
+- kaygılanma
 ozellikler:
 - - isim
 ornekler:

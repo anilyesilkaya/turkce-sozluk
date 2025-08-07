@@ -5,9 +5,9 @@ slug: muessir
 letter: M
 lisan: Arapça muʾes̱s̱ir
 anlamlar:
-- ► dokunaklı
-- ► etkili
-- ► etken
+- dokunaklı
+- etkili
+- etken
 ozellikler:
 - - sıfat
   - eskimiş

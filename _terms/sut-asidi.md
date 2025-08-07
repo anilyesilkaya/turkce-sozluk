@@ -5,7 +5,7 @@ slug: sut-asidi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► laktik asit
+- laktik asit
 ozellikler:
 - - isim
   - kimya

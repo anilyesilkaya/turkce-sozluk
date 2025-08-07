@@ -5,7 +5,7 @@ slug: muzir-nesriyat
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muzır yayın
+- muzır yayın
 ozellikler:
 - - isim
   - eğitim

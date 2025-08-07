@@ -5,7 +5,7 @@ slug: agarti
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlık
+- beyazlık
 - Süt, yoğurt, peynir, ayran vb. yiyecek ve içecekler
 ozellikler:
 - - isim

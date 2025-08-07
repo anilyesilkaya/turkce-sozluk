@@ -5,9 +5,9 @@ slug: tutya
 letter: T
 lisan: Arapça tūtiyā
 anlamlar:
-- ► çinko (I)
-- ► sürme (II)
-- ► çuha çiçeği
+- çinko (I)
+- sürme (II)
+- çuha çiçeği
 ozellikler:
 - - isim
   - eskimiş

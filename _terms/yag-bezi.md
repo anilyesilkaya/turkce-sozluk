@@ -5,7 +5,7 @@ slug: yag-bezi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yağ bezleri
+- yağ bezleri
 ozellikler:
 - - isim
   - anatomi

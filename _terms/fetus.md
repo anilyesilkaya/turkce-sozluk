@@ -5,7 +5,7 @@ slug: fetus
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► cenin
+- cenin
 ozellikler:
 - - isim
   - biyoloji

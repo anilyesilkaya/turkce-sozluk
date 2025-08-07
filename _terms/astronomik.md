@@ -5,7 +5,7 @@ slug: astronomik
 letter: A
 lisan: Fransızca astronomique
 anlamlar:
-- ► gök bilimsel
+- gök bilimsel
 - Aşırı, çok yüksek, çok veya aşırı fazla
 ozellikler:
 - - sıfat

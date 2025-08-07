@@ -5,7 +5,7 @@ slug: afifelik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► iffetlilik
+- iffetlilik
 ozellikler:
 - - isim
 ornekler:

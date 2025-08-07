@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳavī
 anlamlar:
 - Dayanıklı, güçlü, zorlu olan
-- ► sıkıca
+- sıkıca
 ozellikler:
 - - sıfat
 - - sıfat

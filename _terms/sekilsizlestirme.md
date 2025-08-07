@@ -5,7 +5,7 @@ slug: sekilsizlestirme
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimsizleştirme
+- biçimsizleştirme
 ozellikler:
 - - isim
 ornekler:

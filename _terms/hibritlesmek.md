@@ -5,7 +5,7 @@ slug: hibritlesmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► melezleşmek
+- melezleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

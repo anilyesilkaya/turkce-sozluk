@@ -5,7 +5,7 @@ slug: melun
 letter: M
 lisan: Arapça melʿūn
 anlamlar:
-- ► lanetli
+- lanetli
 - Lanetlenmiş kimse
 - Nefretle karşılanan, kötü
 ozellikler:

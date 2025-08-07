@@ -5,7 +5,7 @@ slug: sabit-fikirli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saplantılı
+- saplantılı
 ozellikler:
 - - sıfat
 ornekler:

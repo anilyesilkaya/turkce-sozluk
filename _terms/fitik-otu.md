@@ -5,7 +5,7 @@ slug: fitik-otu
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kızılyaprak
+- kızılyaprak
 ozellikler:
 - - isim
   - bitki bilimi

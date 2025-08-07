@@ -5,7 +5,7 @@ slug: deflator
 letter: D
 lisan: Fransızca déflateur
 anlamlar:
-- ► para kısıtlayıcı
+- para kısıtlayıcı
 ozellikler:
 - - isim
   - ekonomi

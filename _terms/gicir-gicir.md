@@ -6,8 +6,8 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Tertemiz, pırıl pırıl olan
-- ► yepyeni
-- ► gıcırtı
+- yepyeni
+- gıcırtı
 ozellikler:
 - - sıfat
 - - sıfat

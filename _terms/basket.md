@@ -6,7 +6,7 @@ letter: B
 lisan: İngilizce basket
 anlamlar:
 - Basketbolda kazanılan sayı
-- ► basketbol
+- basketbol
 ozellikler:
 - - isim
   - spor

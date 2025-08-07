@@ -5,7 +5,7 @@ slug: encumen
 letter: E
 lisan: Farsça encumen
 anlamlar:
-- ► alt kurul
+- alt kurul
 ozellikler:
 - - isim
 ornekler:

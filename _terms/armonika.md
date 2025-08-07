@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca harmonica
 anlamlar:
 - Yan yana sıralanmış deliklerden her biri üflendiğinde ayrı notada sesler çıkaran küçük ağız çalgısı; mızıka, armonik
-- ► akordiyon
+- akordiyon
 ozellikler:
 - - isim
   - müzik

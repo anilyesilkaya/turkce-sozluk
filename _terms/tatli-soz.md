@@ -5,7 +5,7 @@ slug: tatli-soz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tatlı dil
+- tatlı dil
 ozellikler:
 - - isim
   - mecaz

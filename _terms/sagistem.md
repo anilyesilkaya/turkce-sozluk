@@ -5,7 +5,7 @@ slug: sagistem
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► iyi niyet
+- iyi niyet
 ozellikler:
 - - isim
 ornekler:

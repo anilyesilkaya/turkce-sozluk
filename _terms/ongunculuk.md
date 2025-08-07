@@ -5,7 +5,7 @@ slug: ongunculuk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► totemcilik
+- totemcilik
 ozellikler:
 - - isim
   - toplum bilimi

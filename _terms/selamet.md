@@ -5,7 +5,7 @@ slug: selamet
 letter: S
 lisan: Arapça selāmet
 anlamlar:
-- ► esenlik
+- esenlik
 - Her türlü korku, tasa ve tehlikeden uzak, güvende olma durumu; kurtuluş
 - Anlatıma temel olan düşüncenin her bakımdan doğru ve sağlam olması
 ozellikler:

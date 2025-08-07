@@ -5,7 +5,7 @@ slug: namzet
 letter: N
 lisan: Farsça nāmzed
 anlamlar:
-- ► aday
+- aday
 - Sözlü, yavuklu
 ozellikler:
 - - isim

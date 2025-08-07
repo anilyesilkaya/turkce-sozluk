@@ -5,7 +5,7 @@ slug: bascilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► işçibaşılık
+- işçibaşılık
 ozellikler:
 - - isim
 ornekler:

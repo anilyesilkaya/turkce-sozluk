@@ -5,7 +5,7 @@ slug: badal
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► merdiven
+- merdiven
 - Kardan veya çamurdan oluşan çukur
 ozellikler:
 - - isim

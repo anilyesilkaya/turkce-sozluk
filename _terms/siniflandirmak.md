@@ -5,7 +5,7 @@ slug: siniflandirmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bölümlendirmek
+- bölümlendirmek
 - Karşılaştırma esasına bağlı olarak tasnif yapmak
 ozellikler:
 - - -i

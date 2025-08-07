@@ -5,7 +5,7 @@ slug: sigir-cobani
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sığırtmaç
+- sığırtmaç
 ozellikler:
 - - isim
 ornekler:

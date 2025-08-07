@@ -5,7 +5,7 @@ slug: munferiden
 letter: M
 lisan: Arapça munferiden
 anlamlar:
-- ► tek başına
+- tek başına
 ozellikler:
 - - zarf
   - eskimiş

@@ -5,7 +5,7 @@ slug: yevmi
 letter: Y
 lisan: Arapça yevmī
 anlamlar:
-- ► gündelik
+- gündelik
 ozellikler:
 - - sıfat
   - eskimiş

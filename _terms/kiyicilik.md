@@ -5,8 +5,8 @@ slug: kiyicilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► canilik
-- ► gaddarlık
+- canilik
+- gaddarlık
 ozellikler:
 - - isim
 - - isim

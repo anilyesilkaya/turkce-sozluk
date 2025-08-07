@@ -5,7 +5,7 @@ slug: blok-insaat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► blok nizam
+- blok nizam
 ozellikler:
 - - isim
 ornekler:

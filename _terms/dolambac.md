@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolanarak giden, dönerek uzanan yolun kıvrıntısı
-- ► iç kulak
-- ► başlık
+- iç kulak
+- başlık
 ozellikler:
 - - isim
 - - isim

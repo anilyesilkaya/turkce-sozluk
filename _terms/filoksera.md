@@ -5,7 +5,7 @@ slug: filoksera
 letter: F
 lisan: Fransızca phylloxéra
 anlamlar:
-- ► asma biti
+- asma biti
 - Asma bitinin yol açtığı bağ hastalığı
 ozellikler:
 - - isim

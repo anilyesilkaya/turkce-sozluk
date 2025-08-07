@@ -5,7 +5,7 @@ slug: ziya
 letter: Z
 lisan: Arapça żiyāʾ
 anlamlar:
-- ► ışık
+- ışık
 ozellikler:
 - - isim
   - eskimiş

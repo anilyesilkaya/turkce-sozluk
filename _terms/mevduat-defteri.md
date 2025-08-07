@@ -5,7 +5,7 @@ slug: mevduat-defteri
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► banka cüzdanı
+- banka cüzdanı
 ozellikler:
 - - isim
 ornekler:

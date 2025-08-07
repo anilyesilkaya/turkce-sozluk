@@ -5,7 +5,7 @@ slug: maatteessuf
 letter: M
 lisan: Arapça maʿa't-teʾessuf
 anlamlar:
-- ► maalesef
+- maalesef
 ozellikler:
 - - zarf
   - eskimiş

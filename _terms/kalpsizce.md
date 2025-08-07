@@ -5,7 +5,7 @@ slug: kalpsizce
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► merhametsizce
+- merhametsizce
 ozellikler:
 - - zarf
 ornekler:

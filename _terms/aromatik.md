@@ -5,7 +5,7 @@ slug: aromatik
 letter: A
 lisan: Fransızca aromatique
 anlamlar:
-- ► aromalı
+- aromalı
 ozellikler:
 - - sıfat
 ornekler:

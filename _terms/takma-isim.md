@@ -5,7 +5,7 @@ slug: takma-isim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► takma ad
+- takma ad
 ozellikler:
 - - isim
 ornekler:

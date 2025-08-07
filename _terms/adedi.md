@@ -5,7 +5,7 @@ slug: adedi
 letter: A
 lisan: Arapça ʿadedī
 anlamlar:
-- ► sayıca
+- sayıca
 ozellikler:
 - - zarf
   - eskimiş

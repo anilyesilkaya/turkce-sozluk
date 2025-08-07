@@ -5,7 +5,7 @@ slug: aterina
 letter: A
 lisan: Rumca
 anlamlar:
-- ► gümüş balığı
+- gümüş balığı
 ozellikler:
 - - isim
   - hayvan bilimi

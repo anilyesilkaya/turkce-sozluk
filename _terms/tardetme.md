@@ -5,7 +5,7 @@ slug: tardetme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► savma
+- savma
 ozellikler:
 - - isim
 ornekler:

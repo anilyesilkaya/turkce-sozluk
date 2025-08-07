@@ -5,7 +5,7 @@ slug: satrancli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kareli
+- kareli
 ozellikler:
 - - sıfat
 ornekler:

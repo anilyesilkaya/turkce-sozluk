@@ -5,7 +5,7 @@ slug: cahiliyet
 letter: C
 lisan: Arapça cāhiliyyet
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 ozellikler:
 - - isim
 ornekler:

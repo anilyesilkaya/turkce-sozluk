@@ -5,7 +5,7 @@ slug: abece-sirasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alfabe sırası
+- alfabe sırası
 ozellikler:
 - - isim
 ornekler:

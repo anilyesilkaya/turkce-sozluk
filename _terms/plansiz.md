@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Belirli bir planı olmayan
-- ► hesapsız
+- hesapsız
 ozellikler:
 - - sıfat
 - - sıfat

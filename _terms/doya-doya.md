@@ -5,7 +5,7 @@ slug: doya-doya
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doyasıya
+- doyasıya
 ozellikler:
 - - zarf
 ornekler:

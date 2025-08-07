@@ -5,7 +5,7 @@ slug: naturizm
 letter: N
 lisan: Fransızca naturisme
 anlamlar:
-- ► doğacılık
+- doğacılık
 ozellikler:
 - - isim
   - felsefe

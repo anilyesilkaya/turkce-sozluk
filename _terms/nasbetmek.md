@@ -5,7 +5,7 @@ slug: nasbetmek
 letter: N
 lisan: Arapça naṣb + Türkçe etmek
 anlamlar:
-- ► atamak
+- atamak
 ozellikler:
 - - -e
   - -i

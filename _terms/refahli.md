@@ -5,7 +5,7 @@ slug: refahli
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gönençli
+- gönençli
 ozellikler:
 - - sıfat
 ornekler:

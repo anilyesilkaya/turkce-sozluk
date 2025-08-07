@@ -5,7 +5,7 @@ slug: aynisinin-tipkisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tıpatıp
+- tıpatıp
 ozellikler:
 - - sıfat
 ornekler:

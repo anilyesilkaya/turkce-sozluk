@@ -5,7 +5,7 @@ slug: vesvesesiz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► kuruntusuz
+- kuruntusuz
 ozellikler:
 - - sıfat
 ornekler:

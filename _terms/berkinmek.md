@@ -5,7 +5,7 @@ slug: berkinmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaşmak
+- sağlamlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

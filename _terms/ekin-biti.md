@@ -5,7 +5,7 @@ slug: ekin-biti
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► buğday biti
+- buğday biti
 ozellikler:
 - - isim
   - hayvan bilimi

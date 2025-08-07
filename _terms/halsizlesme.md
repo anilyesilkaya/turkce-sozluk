@@ -5,7 +5,7 @@ slug: halsizlesme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► takatsizleşme
+- takatsizleşme
 ozellikler:
 - - isim
 ornekler:

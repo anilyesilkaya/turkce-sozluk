@@ -5,7 +5,7 @@ slug: pabucculuk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ayakkabıcılık
+- ayakkabıcılık
 ozellikler:
 - - isim
 ornekler:

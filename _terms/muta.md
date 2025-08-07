@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mutʿa
 anlamlar:
 - Geçici kazanç
-- ► muta nikâhı
+- muta nikâhı
 ozellikler:
 - - isim
 - - isim

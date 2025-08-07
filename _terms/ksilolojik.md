@@ -5,7 +5,7 @@ slug: ksilolojik
 letter: K
 lisan: Fransızca xylologique
 anlamlar:
-- ► odun bilimsel
+- odun bilimsel
 ozellikler:
 - - sıfat
 ornekler:

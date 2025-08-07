@@ -5,7 +5,7 @@ slug: gomutluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► mezarlık
+- mezarlık
 ozellikler:
 - - isim
 ornekler:

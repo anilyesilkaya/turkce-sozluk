@@ -5,7 +5,7 @@ slug: nisan-halkasi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nişan yüzüğü
+- nişan yüzüğü
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bahsettirmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağışlatmak
+- bağışlatmak
 ozellikler:
 - - -i
 ornekler:

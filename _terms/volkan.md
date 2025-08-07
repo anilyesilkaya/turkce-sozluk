@@ -5,7 +5,7 @@ slug: volkan
 letter: V
 lisan: Fransızca volcan
 anlamlar:
-- ► yanardağ
+- yanardağ
 ozellikler:
 - - isim
   - jeoloji

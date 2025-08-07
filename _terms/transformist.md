@@ -5,7 +5,7 @@ slug: transformist
 letter: T
 lisan: Fransızca transformiste
 anlamlar:
-- ► dönüşümcü
+- dönüşümcü
 ozellikler:
 - - sıfat
   - felsefe

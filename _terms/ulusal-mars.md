@@ -5,7 +5,7 @@ slug: ulusal-mars
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî marş
+- millî marş
 ozellikler:
 - - isim
 ornekler:

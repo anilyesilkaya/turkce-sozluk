@@ -5,7 +5,7 @@ slug: nisadir-ruhu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► amonyak
+- amonyak
 ozellikler:
 - - isim
   - kimya

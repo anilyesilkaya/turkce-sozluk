@@ -5,7 +5,7 @@ slug: arpacilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yankesicilik
+- yankesicilik
 ozellikler:
 - - isim
   - argo

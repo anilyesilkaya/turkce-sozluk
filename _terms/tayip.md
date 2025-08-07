@@ -5,7 +5,7 @@ slug: tayip
 letter: T
 lisan: Arapça taʿyīb
 anlamlar:
-- ► kınama
+- kınama
 ozellikler:
 - - isim
   - eskimiş

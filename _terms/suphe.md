@@ -5,8 +5,8 @@ slug: suphe
 letter: Ş
 lisan: Arapça şubhe
 anlamlar:
-- ► kuşku
-- ► kuruntu
+- kuşku
+- kuruntu
 ozellikler:
 - - isim
 - - isim

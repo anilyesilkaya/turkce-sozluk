@@ -5,7 +5,7 @@ slug: reseptor
 letter: R
 lisan: Fransızca récepteur
 anlamlar:
-- ► almaç
+- almaç
 ozellikler:
 - - isim
   - fizik

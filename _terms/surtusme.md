@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sürtüşmek işi
-- ► anlaşmazlık
+- anlaşmazlık
 ozellikler:
 - - isim
 - - isim

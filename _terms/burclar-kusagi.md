@@ -5,7 +5,7 @@ slug: burclar-kusagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Zodyak
+- Zodyak
 ozellikler:
 - - isim
   - gök bilimi

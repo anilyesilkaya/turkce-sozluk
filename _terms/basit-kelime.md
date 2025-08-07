@@ -5,7 +5,7 @@ slug: basit-kelime
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kök kelime
+- kök kelime
 ozellikler:
 - - isim
   - dil bilgisi

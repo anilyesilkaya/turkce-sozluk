@@ -5,7 +5,7 @@ slug: porsukluk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pörsüklük
+- pörsüklük
 ozellikler:
 - - isim
 ornekler:

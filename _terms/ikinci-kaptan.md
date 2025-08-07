@@ -5,7 +5,7 @@ slug: ikinci-kaptan
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► birinci zabit
+- birinci zabit
 - Takımlarda birinci kaptanın karşılaşmaya çıkmadığı durumlarda kaptanlık görevini yürüten sporcu
 ozellikler:
 - - isim

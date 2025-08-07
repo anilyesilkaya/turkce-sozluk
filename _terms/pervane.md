@@ -10,7 +10,7 @@ anlamlar:
 - Selçuklularda ve İlhanlılarda has, zeamet, tımar ile ilgili olarak verilen ferman
 - Bu fermanı hazırlamakla görevli memur
 - Bir kimsenin yanından hiç ayrılmayan
-- ► semahçı
+- semahçı
 ozellikler:
 - - isim
 - - isim

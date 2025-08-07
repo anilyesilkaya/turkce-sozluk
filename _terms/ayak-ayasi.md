@@ -5,7 +5,7 @@ slug: ayak-ayasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayak tabanı
+- ayak tabanı
 ozellikler:
 - - isim
   - anatomi

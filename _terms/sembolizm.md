@@ -5,7 +5,7 @@ slug: sembolizm
 letter: S
 lisan: Fransızca symbolisme
 anlamlar:
-- ► simgecilik
+- simgecilik
 ozellikler:
 - - isim
   - edebiyat

@@ -5,7 +5,7 @@ slug: vahsilesmek
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yabanileşmek
+- yabanileşmek
 - Durdurulamamak, zapt edilememek
 ozellikler:
 - - nesnesiz

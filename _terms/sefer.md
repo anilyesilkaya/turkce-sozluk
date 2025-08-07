@@ -5,8 +5,8 @@ slug: sefer
 letter: S
 lisan: Arapça sefer
 anlamlar:
-- ► yolculuk
-- ► kez
+- yolculuk
+- kez
 - Genellikle ülke dışına yapılan askerî harekât, savaş için yapılan yolculuk
 ozellikler:
 - - isim

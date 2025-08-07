@@ -6,19 +6,19 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Ağızda çiğneyerek yutmak
-- ► kemirmek
-- ► ısırmak
-- ► dalamak
+- kemirmek
+- ısırmak
+- dalamak
 - Hoşa gitmeyen kötü bir duruma uğramak, tutulmak
 - Hakkı olmayan ve kendisine yasak edilmiş bulunan bir şeyi kabul etmek
 - Harcayıp bitirmek
 - Yasal yoldan cezalandırılmak
 - Birine alacağını vermemek, ödememek
 - Başkasının parasını harcamak
-- ► kullanılmak
+- kullanılmak
 - Sürekli üzmek, tedirgin etmek
 - Gücünü kırmak, perişan etmek, mahvetmek
-- ► kandırmak
+- kandırmak
 ozellikler:
 - - -i
 - - -i

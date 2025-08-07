@@ -5,8 +5,8 @@ slug: versiyon
 letter: V
 lisan: Fransızca version
 anlamlar:
-- ► yorum
-- ► sürüm
+- yorum
+- sürüm
 ozellikler:
 - - isim
 - - isim

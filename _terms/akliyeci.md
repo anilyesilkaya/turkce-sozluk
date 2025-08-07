@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Akıl hastalıkları uzmanı
-- ► akılcı
+- akılcı
 ozellikler:
 - - isim
   - tıp

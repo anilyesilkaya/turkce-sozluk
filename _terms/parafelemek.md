@@ -5,7 +5,7 @@ slug: parafelemek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► paraflamak
+- paraflamak
 ozellikler:
 - - -i
 ornekler:

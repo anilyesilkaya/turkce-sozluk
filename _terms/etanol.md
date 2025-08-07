@@ -5,7 +5,7 @@ slug: etanol
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► alkol
+- alkol
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: kazaen
 letter: K
 lisan: Arapça ḳażāʾen
 anlamlar:
-- ► kazara
+- kazara
 ozellikler:
 - - zarf
   - eskimiş

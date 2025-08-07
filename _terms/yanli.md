@@ -5,7 +5,7 @@ slug: yanli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yandaş
+- yandaş
 ozellikler:
 - - isim
 ornekler:

@@ -5,12 +5,12 @@ slug: temas
 letter: T
 lisan: Arapça temāss
 anlamlar:
-- ► dokunma (I)
+- dokunma (I)
 - Buluşup görüşme, ilişki kurma; münasebet
 - Değinme, sözünü etme, bahsetme
 - Gidip gelme, ulaşım, bağlantı
-- ► dokunma (I)
-- ► ilişki
+- dokunma (I)
+- ilişki
 ozellikler:
 - - isim
 - - isim

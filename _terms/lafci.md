@@ -5,7 +5,7 @@ slug: lafci
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 - İyi, etkili konuşan
 - Söz götürüp getiren, dedikodu yapan
 ozellikler:

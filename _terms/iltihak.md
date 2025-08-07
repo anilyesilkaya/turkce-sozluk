@@ -5,7 +5,7 @@ slug: iltihak
 letter: I
 lisan: Arapça iltiḥāḳ
 anlamlar:
-- ► katılma
+- katılma
 ozellikler:
 - - isim
   - eskimiş

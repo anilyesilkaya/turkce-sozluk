@@ -5,7 +5,7 @@ slug: tezatli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► karşıtlı
+- karşıtlı
 ozellikler:
 - - sıfat
 ornekler:

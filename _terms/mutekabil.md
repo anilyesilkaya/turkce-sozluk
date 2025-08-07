@@ -5,7 +5,7 @@ slug: mutekabil
 letter: M
 lisan: Arapça muteḳābil
 anlamlar:
-- ► karşılıklı
+- karşılıklı
 ozellikler:
 - - sıfat
   - eskimiş

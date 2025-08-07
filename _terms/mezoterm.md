@@ -5,7 +5,7 @@ slug: mezoterm
 letter: M
 lisan: Fransızca mésotherme
 anlamlar:
-- ► ılıkçıl
+- ılıkçıl
 ozellikler:
 - - isim
   - bitki bilimi

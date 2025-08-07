@@ -5,7 +5,7 @@ slug: libero
 letter: L
 lisan: İtalyanca libero
 anlamlar:
-- ► son adam
+- son adam
 ozellikler:
 - - isim
   - spor

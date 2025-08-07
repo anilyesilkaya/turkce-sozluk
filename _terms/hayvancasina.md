@@ -5,7 +5,7 @@ slug: hayvancasina
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayvanca
+- hayvanca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: miskinane
 letter: M
 lisan: Arapça miskīn + Farsça -āne
 anlamlar:
-- ► miskince
+- miskince
 ozellikler:
 - - zarf
   - eskimiş

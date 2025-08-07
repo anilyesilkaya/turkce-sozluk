@@ -5,7 +5,7 @@ slug: sektor
 letter: S
 lisan: Fransızca secteur
 anlamlar:
-- ► kesim
+- kesim
 - Manyetik tamburun, manyetik diskin veya bir disk paketin üzerine yazılacak veriler için önceden hazırlanmış eşit boydaki alanlar, dilimler
 ozellikler:
 - - isim

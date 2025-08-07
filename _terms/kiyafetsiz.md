@@ -5,8 +5,8 @@ slug: kiyafetsiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► giysisiz
-- ► kılıksız
+- giysisiz
+- kılıksız
 ozellikler:
 - - sıfat
 - - sıfat

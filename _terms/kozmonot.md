@@ -5,7 +5,7 @@ slug: kozmonot
 letter: K
 lisan: Fransızca cosmonaute
 anlamlar:
-- ► uzay adamı
+- uzay adamı
 ozellikler:
 - - isim
   - gök bilimi

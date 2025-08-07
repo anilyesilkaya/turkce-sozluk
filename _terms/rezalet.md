@@ -5,7 +5,7 @@ slug: rezalet
 letter: R
 lisan: Arapça reẕālet
 anlamlar:
-- ► rezillik
+- rezillik
 - Hoşa gitmeyen, beğenilmeyen bir şey için kullanılan söz
 ozellikler:
 - - isim

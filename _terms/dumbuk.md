@@ -5,7 +5,7 @@ slug: dumbuk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
 ornekler:

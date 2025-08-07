@@ -5,7 +5,7 @@ slug: tedris
 letter: T
 lisan: Arapça tedrīs
 anlamlar:
-- ► öğretme
+- öğretme
 ozellikler:
 - - isim
   - eskimiş

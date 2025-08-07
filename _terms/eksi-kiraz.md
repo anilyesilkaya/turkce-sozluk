@@ -5,7 +5,7 @@ slug: eksi-kiraz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► vişne
+- vişne
 ozellikler:
 - - isim
   - bitki bilimi

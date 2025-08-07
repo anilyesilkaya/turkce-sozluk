@@ -5,7 +5,7 @@ slug: mahremiyet
 letter: M
 lisan: Arapça maḥremiyyet
 anlamlar:
-- ► gizlilik
+- gizlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: batcik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► alt geçit
+- alt geçit
 ozellikler:
 - - isim
   - ağızlardan

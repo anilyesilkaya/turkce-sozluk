@@ -5,7 +5,7 @@ slug: haramilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haydutluk
+- haydutluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: barbarcasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► barbarca
+- barbarca
 ozellikler:
 - - zarf
 ornekler:

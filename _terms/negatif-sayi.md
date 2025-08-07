@@ -5,7 +5,7 @@ slug: negatif-sayi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► eksi sayı
+- eksi sayı
 ozellikler:
 - - isim
   - matematik

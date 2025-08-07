@@ -5,7 +5,7 @@ slug: konveks
 letter: K
 lisan: Fransızca convexe
 anlamlar:
-- ► dışbükey
+- dışbükey
 ozellikler:
 - - sıfat
   - matematik

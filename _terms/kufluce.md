@@ -5,7 +5,7 @@ slug: kufluce
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mantar hastalığı
+- mantar hastalığı
 ozellikler:
 - - isim
   - ağızlardan

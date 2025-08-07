@@ -5,7 +5,7 @@ slug: kirik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fay
+- fay
 ozellikler:
 - - isim
   - jeoloji

@@ -5,7 +5,7 @@ slug: olcululemek
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölçümlemek
+- ölçümlemek
 ozellikler:
 - - -i
 ornekler:

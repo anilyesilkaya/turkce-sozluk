@@ -5,7 +5,7 @@ slug: bahsedebilme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağışlayabilme
+- bağışlayabilme
 ozellikler:
 - - isim
 ornekler:

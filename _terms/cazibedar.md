@@ -5,7 +5,7 @@ slug: cazibedar
 letter: C
 lisan: Arapça cāẕibe + Farsça -dār
 anlamlar:
-- ► çekici
+- çekici
 ozellikler:
 - - sıfat
   - eskimiş

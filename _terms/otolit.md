@@ -5,7 +5,7 @@ slug: otolit
 letter: O
 lisan: Fransızca otolite
 anlamlar:
-- ► işitme taşı
+- işitme taşı
 ozellikler:
 - - isim
   - anatomi

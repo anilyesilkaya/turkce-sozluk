@@ -5,7 +5,7 @@ slug: planli-kalkinma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► planlı büyüme
+- planlı büyüme
 ozellikler:
 - - isim
   - ekonomi

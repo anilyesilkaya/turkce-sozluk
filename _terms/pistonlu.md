@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pistonu olan
-- ► arkalı
+- arkalı
 ozellikler:
 - - sıfat
 - - sıfat

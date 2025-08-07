@@ -5,7 +5,7 @@ slug: baski-resim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kazıma resim
+- kazıma resim
 ozellikler:
 - - isim
 ornekler:

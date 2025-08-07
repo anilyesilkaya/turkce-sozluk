@@ -5,7 +5,7 @@ slug: karanlikci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bilmesinlerci
+- bilmesinlerci
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: katil
 letter: K
 lisan: Arapça ḳatl
 anlamlar:
-- ► öldürme
+- öldürme
 ozellikler:
 - - isim
 ornekler:

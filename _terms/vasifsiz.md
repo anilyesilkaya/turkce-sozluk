@@ -5,7 +5,7 @@ slug: vasifsiz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► niteliksiz
+- niteliksiz
 ozellikler:
 - - sıfat
 ornekler:

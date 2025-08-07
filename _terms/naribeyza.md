@@ -5,7 +5,7 @@ slug: naribeyza
 letter: N
 lisan: Arapça nār + beyżāʾ
 anlamlar:
-- ► akkor
+- akkor
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: insicamsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tutarsızlık
+- tutarsızlık
 ozellikler:
 - - isim
 ornekler:

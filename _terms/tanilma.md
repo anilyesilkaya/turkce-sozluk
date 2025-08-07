@@ -5,7 +5,7 @@ slug: tanilma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanınma
+- tanınma
 ozellikler:
 - - isim
 ornekler:

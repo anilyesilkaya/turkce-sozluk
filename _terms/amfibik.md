@@ -5,7 +5,7 @@ slug: amfibik
 letter: A
 lisan: Almanca amphibisch
 anlamlar:
-- ► iki yaşamlı
+- iki yaşamlı
 ozellikler:
 - - sıfat
   - biyoloji

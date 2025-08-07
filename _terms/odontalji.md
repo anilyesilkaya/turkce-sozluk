@@ -5,7 +5,7 @@ slug: odontalji
 letter: O
 lisan: Fransızca odontalgie
 anlamlar:
-- ► diş ağrısı
+- diş ağrısı
 ozellikler:
 - - isim
   - tıp

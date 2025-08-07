@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳiyāsī
 anlamlar:
 - Uygulama ve benzetme ile elde edilen
-- ► kurallı
+- kurallı
 ozellikler:
 - - sıfat
 - - sıfat

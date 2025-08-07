@@ -5,7 +5,7 @@ slug: pamuk-tasi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► traverten
+- traverten
 ozellikler:
 - - isim
   - mineraloji

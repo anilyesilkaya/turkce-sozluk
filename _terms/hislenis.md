@@ -5,7 +5,7 @@ slug: hislenis
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygulanış
+- duygulanış
 ozellikler:
 - - isim
 ornekler:

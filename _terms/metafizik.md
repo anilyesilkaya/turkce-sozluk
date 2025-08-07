@@ -5,7 +5,7 @@ slug: metafizik
 letter: M
 lisan: Fransızca métaphysique
 anlamlar:
-- ► doğaötesi
+- doğaötesi
 ozellikler:
 - - isim
   - felsefe

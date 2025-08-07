@@ -5,7 +5,7 @@ slug: birinci-tesrin
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ekim
+- ekim
 ozellikler:
 - - isim
   - eskimiş

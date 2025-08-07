@@ -5,7 +5,7 @@ slug: ihtiyac
 letter: I
 lisan: Arapça iḥtiyāc
 anlamlar:
-- ► gereksinim
+- gereksinim
 - Güçlü istek
 - Yoksulluk, yokluk
 ozellikler:

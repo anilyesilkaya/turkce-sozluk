@@ -5,7 +5,7 @@ slug: bidayet
 letter: B
 lisan: Arapça bidāyet
 anlamlar:
-- ► başlangıç
+- başlangıç
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: safha
 letter: S
 lisan: Arapça ṣafḥa
 anlamlar:
-- ► evre
-- ► faz
+- evre
+- faz
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: zulbiye
 letter: Z
 lisan: Arapça zulbiye
 anlamlar:
-- ► Bergama tatlısı
+- Bergama tatlısı
 ozellikler:
 - - isim
 ornekler:

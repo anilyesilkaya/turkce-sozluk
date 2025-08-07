@@ -5,7 +5,7 @@ slug: seyislik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► at bakıcılığı
+- at bakıcılığı
 ozellikler:
 - - isim
 ornekler:

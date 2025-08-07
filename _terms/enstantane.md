@@ -7,7 +7,7 @@ lisan: Fransızca instantané
 anlamlar:
 - Işıklama süresi saniyenin 1/25'i veya daha kısa olan hızlı bir hareketi çekme yöntemi
 - Bu yöntemle çekilen fotoğraf; enstantane fotoğraf
-- ► anlık (I)
+- anlık (I)
 ozellikler:
 - - isim
 - - isim

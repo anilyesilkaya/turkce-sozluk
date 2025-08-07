@@ -5,11 +5,11 @@ slug: istirak
 letter: I
 lisan: Arapça iştirāk
 anlamlar:
-- ► paydaşlık
+- paydaşlık
 - Bir işte yer alma; paydaşlık etme
-- ► katılım
-- ► katılma
-- ► ortaklık
+- katılım
+- katılma
+- ortaklık
 ozellikler:
 - - isim
 - - isim

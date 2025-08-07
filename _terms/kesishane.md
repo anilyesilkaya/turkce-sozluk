@@ -5,7 +5,7 @@ slug: kesishane
 letter: K
 lisan: Farsça keşīş + ḫāne
 anlamlar:
-- ► manastır
+- manastır
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: milli-mudafaa
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► millî savunma
+- millî savunma
 ozellikler:
 - - isim
 ornekler:

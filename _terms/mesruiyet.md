@@ -5,7 +5,7 @@ slug: mesruiyet
 letter: M
 lisan: Arapça meşrūʿiyyet
 anlamlar:
-- ► meşruluk
+- meşruluk
 ozellikler:
 - - isim
   - eskimiş

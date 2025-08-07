@@ -5,7 +5,7 @@ slug: tasar-cizimci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tasarımcı
+- tasarımcı
 ozellikler:
 - - isim
 ornekler:

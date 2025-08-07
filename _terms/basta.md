@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - İlk olarak
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: montajlanma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kurgulanma
+- kurgulanma
 ozellikler:
 - - isim
 ornekler:

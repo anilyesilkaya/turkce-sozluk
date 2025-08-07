@@ -5,7 +5,7 @@ slug: bekrilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ayyaşlık
+- ayyaşlık
 ozellikler:
 - - isim
 ornekler:

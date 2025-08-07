@@ -5,7 +5,7 @@ slug: milletlerarasilastirilma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uluslararasılaştırılma
+- uluslararasılaştırılma
 ozellikler:
 - - isim
 ornekler:

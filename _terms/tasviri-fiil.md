@@ -5,7 +5,7 @@ slug: tasviri-fiil
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tasvir fiili
+- tasvir fiili
 ozellikler:
 - - isim
   - eskimiş

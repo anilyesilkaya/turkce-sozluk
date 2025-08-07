@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Pamuktan yapılmış, üzerine sarık sarılan erkek başlığı
 - İçi boş şey
-- ► idrar torbası
+- idrar torbası
 ozellikler:
 - - isim
 - - isim

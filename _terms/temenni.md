@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça temennī
 anlamlar:
 - Bir şeyin gerçekleşmesini dileme
-- ► dilek
+- dilek
 ozellikler:
 - - isim
 - - isim

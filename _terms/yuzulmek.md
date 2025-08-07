@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yüzme işi yapılmak
 - Derisi çıkarılmak
-- ► sömürülmek
+- sömürülmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

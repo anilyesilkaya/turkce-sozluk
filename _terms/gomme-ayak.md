@@ -5,7 +5,7 @@ slug: gomme-ayak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yarım ayak
+- yarım ayak
 ozellikler:
 - - isim
 ornekler:

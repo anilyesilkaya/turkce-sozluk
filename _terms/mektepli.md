@@ -5,7 +5,7 @@ slug: mektepli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► öğrenci
+- öğrenci
 - Okulda yetişmiş olan, alaylı (I) karşıtı
 ozellikler:
 - - isim

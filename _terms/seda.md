@@ -5,7 +5,7 @@ slug: seda
 letter: S
 lisan: Arapça ṣadā
 anlamlar:
-- ► ses
+- ses
 ozellikler:
 - - isim
 ornekler:

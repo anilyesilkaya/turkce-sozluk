@@ -5,7 +5,7 @@ slug: tahliye-borusu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► boşaltma borusu
+- boşaltma borusu
 ozellikler:
 - - isim
 ornekler:

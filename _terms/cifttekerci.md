@@ -5,7 +5,7 @@ slug: cifttekerci
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► bisikletçi
+- bisikletçi
 ozellikler:
 - - isim
 ornekler:

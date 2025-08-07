@@ -5,7 +5,7 @@ slug: malik
 letter: M
 lisan: Arapça mālik
 anlamlar:
-- ► sahip
+- sahip
 ozellikler:
 - - isim
 ornekler:

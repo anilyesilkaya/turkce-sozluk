@@ -5,7 +5,7 @@ slug: engebeli-arazi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► engebelik
+- engebelik
 ozellikler:
 - - isim
 ornekler:

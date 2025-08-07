@@ -5,7 +5,7 @@ slug: baskurtca
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Başkurt Türkçesi
+- Başkurt Türkçesi
 ozellikler:
 - - isim
 ornekler:

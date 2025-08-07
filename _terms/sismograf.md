@@ -5,7 +5,7 @@ slug: sismograf
 letter: S
 lisan: Fransızca sismographe
 anlamlar:
-- ► depremölçer
+- depremölçer
 ozellikler:
 - - isim
 ornekler:

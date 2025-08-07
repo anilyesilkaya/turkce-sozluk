@@ -5,7 +5,7 @@ slug: mufsit
 letter: M
 lisan: Arapça mufsid
 anlamlar:
-- ► arabozan
+- arabozan
 ozellikler:
 - - sıfat
   - eskimiş

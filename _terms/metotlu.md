@@ -5,7 +5,7 @@ slug: metotlu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yöntemli
+- yöntemli
 ozellikler:
 - - sıfat
 ornekler:

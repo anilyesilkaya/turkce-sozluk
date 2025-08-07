@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir olayın birden fazla tekrarlanması
-- ► kısır döngü
+- kısır döngü
 ozellikler:
 - - isim
 - - isim

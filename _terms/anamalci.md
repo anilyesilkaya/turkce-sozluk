@@ -5,7 +5,7 @@ slug: anamalci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sermayeci
+- sermayeci
 - Anamalcılık düzenini benimsemiş kimse; kapitalist
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: degisiklik-teklifi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► değişiklik önergesi
+- değişiklik önergesi
 ozellikler:
 - - isim
 ornekler:

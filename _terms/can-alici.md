@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - En önemli, çarpıcı
 - Kahredici, kendinden geçirici, aşırı çekici
-- ► Azrail
+- Azrail
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: koyun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kucak
+- kucak
 - Göğüsle giysi arası
 - Koruyucu, şefkatli çevre
 ozellikler:

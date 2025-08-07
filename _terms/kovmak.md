@@ -9,7 +9,7 @@ anlamlar:
 - Bir yerden sürüp çıkarmak; kovalamak
 - İşine son vermek, görevinden atmak, uzaklaştırmak; dehlemek
 - Varlığına son vermek, ortadan kaldırmak
-- ► gözetmek
+- gözetmek
 ozellikler:
 - - -i
 - - -i

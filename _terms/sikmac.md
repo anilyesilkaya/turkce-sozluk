@@ -5,7 +5,7 @@ slug: sikmac
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kompresör
+- kompresör
 ozellikler:
 - - isim
   - fizik

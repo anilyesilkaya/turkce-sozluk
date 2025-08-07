@@ -5,7 +5,7 @@ slug: aksiyom
 letter: A
 lisan: Fransızca axiome
 anlamlar:
-- ► belit
+- belit
 ozellikler:
 - - isim
   - mantık

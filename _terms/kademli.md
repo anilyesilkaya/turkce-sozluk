@@ -5,7 +5,7 @@ slug: kademli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uğurlu
+- uğurlu
 ozellikler:
 - - sıfat
 ornekler:

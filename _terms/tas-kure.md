@@ -5,7 +5,7 @@ slug: tas-kure
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taş yuvarı
+- taş yuvarı
 ozellikler:
 - - isim
   - jeoloji

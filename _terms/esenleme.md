@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Esenlemek işi
-- ► selam
+- selam
 ozellikler:
 - - isim
 - - isim

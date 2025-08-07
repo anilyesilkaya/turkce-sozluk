@@ -5,7 +5,7 @@ slug: parametre
 letter: P
 lisan: Fransızca paramètre
 anlamlar:
-- ► değişken
+- değişken
 ozellikler:
 - - isim
   - matematik

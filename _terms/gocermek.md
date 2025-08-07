@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Bir kimseden diğer kimseye geçirmek, havale etmek, devretmek
-- ► göçürmek
+- göçürmek
 ozellikler:
 - - -e
   - -i

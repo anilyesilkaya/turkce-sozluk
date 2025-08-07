@@ -5,7 +5,7 @@ slug: meclup
 letter: M
 lisan: Arapça meclūb
 anlamlar:
-- ► tutkun
+- tutkun
 ozellikler:
 - - sıfat
   - eskimiş

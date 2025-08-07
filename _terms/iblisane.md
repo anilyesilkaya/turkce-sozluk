@@ -5,7 +5,7 @@ slug: iblisane
 letter: I
 lisan: Arapça iblīs + Farsça -āne
 anlamlar:
-- ► şeytanca
+- şeytanca
 ozellikler:
 - - sıfat
   - eskimiş

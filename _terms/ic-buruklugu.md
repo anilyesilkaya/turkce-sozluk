@@ -5,7 +5,7 @@ slug: ic-buruklugu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kırgınlık
+- kırgınlık
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: el-altindan
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► gizlice
+- gizlice
 ozellikler:
 - - zarf
   - mecaz

@@ -5,7 +5,7 @@ slug: musahhaslik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► somutluk
+- somutluk
 ozellikler:
 - - isim
 ornekler:

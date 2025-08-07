@@ -5,7 +5,7 @@ slug: hassaten
 letter: H
 lisan: Arapça ḫāṣṣaten
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
   - eskimiş

@@ -5,7 +5,7 @@ slug: carliston-biber
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çarliston
+- çarliston
 ozellikler:
 - - isim
   - bitki bilimi

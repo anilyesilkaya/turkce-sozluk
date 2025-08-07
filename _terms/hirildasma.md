@@ -5,7 +5,7 @@ slug: hirildasma
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hırlaşma
+- hırlaşma
 ozellikler:
 - - isim
 ornekler:

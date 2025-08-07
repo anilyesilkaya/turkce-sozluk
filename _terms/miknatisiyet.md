@@ -5,7 +5,7 @@ slug: miknatisiyet
 letter: M
 lisan: Arapça miḳnāṭīsiyyet
 anlamlar:
-- ► mıknatıslık
+- mıknatıslık
 ozellikler:
 - - isim
   - eskimiş

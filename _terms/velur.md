@@ -5,7 +5,7 @@ slug: velur
 letter: V
 lisan: Fransızca velours
 anlamlar:
-- ► kadife
+- kadife
 ozellikler:
 - - isim
 ornekler:

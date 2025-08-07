@@ -5,7 +5,7 @@ slug: tekfin
 letter: T
 lisan: Arapça tekfīn
 anlamlar:
-- ► kefenleme
+- kefenleme
 ozellikler:
 - - isim
   - eskimiş

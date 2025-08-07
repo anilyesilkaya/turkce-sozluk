@@ -5,7 +5,7 @@ slug: karnivor
 letter: K
 lisan: Latince
 anlamlar:
-- ► etobur
+- etobur
 ozellikler:
 - - sıfat
   - hayvan bilimi

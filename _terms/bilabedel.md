@@ -5,7 +5,7 @@ slug: bilabedel
 letter: B
 lisan: Arapça bilābedel
 anlamlar:
-- ► bedava
+- bedava
 ozellikler:
 - - zarf
   - eskimiş

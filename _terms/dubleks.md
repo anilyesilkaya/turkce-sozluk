@@ -5,7 +5,7 @@ slug: dubleks
 letter: D
 lisan: Fransızca duplex
 anlamlar:
-- ► iki katlı
+- iki katlı
 ozellikler:
 - - sıfat
 ornekler:

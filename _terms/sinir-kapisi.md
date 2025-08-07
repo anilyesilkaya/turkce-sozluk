@@ -5,7 +5,7 @@ slug: sinir-kapisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► gümrük kapısı
+- gümrük kapısı
 ozellikler:
 - - isim
 ornekler:

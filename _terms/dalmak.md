@@ -8,7 +8,7 @@ anlamlar:
 - Suyun içine bütün vücuduyla ve hızla girmek
 - Bir yerin içine girmek
 - Kendini bilmez duruma gelmek, kendinden geçmek
-- ► uyumak
+- uyumak
 - Başka bir şeyle uğraşamayacak veya başka bir şeyi düşünemeyecek biçimde kendini bir şeye kaptırmak; daldırmak
 - Güreşte rakibinin bacağını aniden tutmak
 ozellikler:

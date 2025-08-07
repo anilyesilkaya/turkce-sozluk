@@ -6,7 +6,7 @@ letter: M
 lisan: Farsça mūsīḳār
 anlamlar:
 - Gagasındaki deliklerden rüzgâr estikçe türlü sesler çıktığına inanılan bir masal kuşu
-- ► mıskal
+- mıskal
 ozellikler:
 - - isim
   - eskimiş

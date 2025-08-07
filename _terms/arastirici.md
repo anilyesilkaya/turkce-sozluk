@@ -5,9 +5,9 @@ slug: arastirici
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► araştırmacı
+- araştırmacı
 - Araştırmacı özelliği olan, araştırma yapan
-- ► meraklı
+- meraklı
 ozellikler:
 - - isim
 - - isim

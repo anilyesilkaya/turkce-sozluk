@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Uyurken zihinde beliren olayların, düşüncelerin bütünü; rüya
-- ► imge
+- imge
 - Gerçekleşmesi istenen şey
 ozellikler:
 - - isim

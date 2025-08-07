@@ -5,7 +5,7 @@ slug: zemmetmek
 letter: Z
 lisan: Arapça ẕemm + Türkçe etmek
 anlamlar:
-- ► yermek
+- yermek
 ozellikler:
 - - -i
 ornekler:

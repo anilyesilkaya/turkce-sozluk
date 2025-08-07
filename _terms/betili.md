@@ -5,7 +5,7 @@ slug: betili
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► figüratif
+- figüratif
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: cop-vergisi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çevre temizlik vergisi
+- çevre temizlik vergisi
 ozellikler:
 - - isim
 ornekler:

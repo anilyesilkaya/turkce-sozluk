@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Olağandan daha hacimli, olağanı aşan büyüklüğü olan; müşekkel, ince karşıtı
-- ► yapılı
+- yapılı
 ozellikler:
 - - sıfat
 - - sıfat

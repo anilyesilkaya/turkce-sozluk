@@ -5,7 +5,7 @@ slug: debdebe
 letter: D
 lisan: Arapça debdebe
 anlamlar:
-- ► görkem
+- görkem
 ozellikler:
 - - isim
   - eskimiş

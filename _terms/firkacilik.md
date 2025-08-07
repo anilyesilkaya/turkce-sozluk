@@ -5,7 +5,7 @@ slug: firkacilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► particilik
+- particilik
 ozellikler:
 - - isim
 ornekler:

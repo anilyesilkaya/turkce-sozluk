@@ -5,7 +5,7 @@ slug: ceren
 letter: C
 lisan: Moğolca
 anlamlar:
-- ► ceylan
+- ceylan
 ozellikler:
 - - isim
   - ağızlardan

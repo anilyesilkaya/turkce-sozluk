@@ -5,7 +5,7 @@ slug: ahuvah
 letter: A
 lisan: Türkçe ah + Arapça vāh
 anlamlar:
-- ► ah vah
+- ah vah
 ozellikler:
 - - isim
 ornekler:

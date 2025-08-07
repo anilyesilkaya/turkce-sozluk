@@ -5,7 +5,7 @@ slug: yayli-calgilar
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaylı sazlar
+- yaylı sazlar
 ozellikler:
 - - isim
 ornekler:

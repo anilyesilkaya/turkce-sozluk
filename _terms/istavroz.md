@@ -5,7 +5,7 @@ slug: istavroz
 letter: I
 lisan: Rumca
 anlamlar:
-- ► haç
+- haç
 - Sıhhi tesisatta kullanılan dört girişli bağlantı borusu
 ozellikler:
 - - isim

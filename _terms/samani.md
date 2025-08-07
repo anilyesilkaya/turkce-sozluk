@@ -5,7 +5,7 @@ slug: samani
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Şamanist
+- Şamanist
 ozellikler:
 - - isim
 ornekler:

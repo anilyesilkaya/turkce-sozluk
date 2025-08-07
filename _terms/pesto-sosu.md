@@ -5,7 +5,7 @@ slug: pesto-sosu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► fesleğen sosu
+- fesleğen sosu
 ozellikler:
 - - isim
 ornekler:

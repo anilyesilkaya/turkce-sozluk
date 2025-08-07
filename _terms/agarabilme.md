@@ -5,7 +5,7 @@ slug: agarabilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlayabilme
+- beyazlayabilme
 ozellikler:
 - - isim
 ornekler:

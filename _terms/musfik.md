@@ -5,7 +5,7 @@ slug: musfik
 letter: M
 lisan: Arapça muşfiḳ
 anlamlar:
-- ► sevecen
+- sevecen
 ozellikler:
 - - sıfat
 ornekler:

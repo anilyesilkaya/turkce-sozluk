@@ -5,7 +5,7 @@ slug: tefcir
 letter: T
 lisan: Arapça tefcīr
 anlamlar:
-- ► akaçlama
+- akaçlama
 ozellikler:
 - - isim
   - eskimiş

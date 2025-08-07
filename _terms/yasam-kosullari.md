@@ -5,7 +5,7 @@ slug: yasam-kosullari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat şartları
+- hayat şartları
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ogutucu-dis
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► azı
+- azı
 ozellikler:
 - - isim
   - anatomi

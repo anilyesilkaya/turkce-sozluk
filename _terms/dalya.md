@@ -5,7 +5,7 @@ slug: dalya
 letter: D
 lisan: (Dahlia özel adından)
 anlamlar:
-- ► yıldız çiçeği
+- yıldız çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

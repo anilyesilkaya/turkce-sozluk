@@ -5,7 +5,7 @@ slug: buzuktas
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kafadar
+- kafadar
 ozellikler:
 - - isim
   - ağızlardan

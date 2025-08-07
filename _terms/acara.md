@@ -5,7 +5,7 @@ slug: acara
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Acar
+- Acar
 ozellikler:
 - - isim
 ornekler:

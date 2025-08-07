@@ -5,7 +5,7 @@ slug: yayla-salatasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeşil salata
+- yeşil salata
 ozellikler:
 - - isim
 ornekler:

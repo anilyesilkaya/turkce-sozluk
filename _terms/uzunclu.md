@@ -5,7 +5,7 @@ slug: uzunclu
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üzüntülü
+- üzüntülü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: hucum-oyuncusu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► ileri uç oyuncusu
+- ileri uç oyuncusu
 ozellikler:
 - - isim
   - spor

@@ -5,7 +5,7 @@ slug: sperm
 letter: S
 lisan: Fransızca sperme
 anlamlar:
-- ► meni
+- meni
 ozellikler:
 - - isim
   - fizyoloji

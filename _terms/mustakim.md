@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mustaḳīm
 anlamlar:
 - Doğruluktan şaşmayan
-- ► doğrulu
+- doğrulu
 ozellikler:
 - - sıfat
   - eskimiş

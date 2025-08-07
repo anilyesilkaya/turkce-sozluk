@@ -5,7 +5,7 @@ slug: serviyet-pensi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► örtü pensi
+- örtü pensi
 ozellikler:
 - - isim
   - tıp

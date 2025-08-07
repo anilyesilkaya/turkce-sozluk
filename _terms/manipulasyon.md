@@ -5,7 +5,7 @@ slug: manipulasyon
 letter: M
 lisan: Fransızca manipulation
 anlamlar:
-- ► yönlendirme
+- yönlendirme
 - Seçme, ekleme ve çıkarma yoluyla bilgileri değiştirme
 - Varlıkları yapıcı, açıklayıcı ve yararlı bir biçimde kullanma işi
 ozellikler:

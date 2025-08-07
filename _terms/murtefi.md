@@ -5,8 +5,8 @@ slug: murtefi
 letter: M
 lisan: Arapça murtefiʿ
 anlamlar:
-- ► yüksek
-- ► yüce
+- yüksek
+- yüce
 ozellikler:
 - - sıfat
   - eskimiş

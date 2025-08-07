@@ -5,7 +5,7 @@ slug: yari-saha
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarı alan
+- yarı alan
 ozellikler:
 - - isim
   - spor

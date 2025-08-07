@@ -5,7 +5,7 @@ slug: salarca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Salar Türkçesi
+- Salar Türkçesi
 ozellikler:
 - - isim
 ornekler:

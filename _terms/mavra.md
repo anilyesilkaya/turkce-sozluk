@@ -5,8 +5,8 @@ slug: mavra
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gevezelik
-- ► palavra
+- gevezelik
+- palavra
 ozellikler:
 - - isim
   - ağızlardan

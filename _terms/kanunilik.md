@@ -5,7 +5,7 @@ slug: kanunilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasallık
+- yasallık
 ozellikler:
 - - isim
 ornekler:

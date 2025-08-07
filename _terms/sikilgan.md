@@ -5,7 +5,7 @@ slug: sikilgan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► utangaç
+- utangaç
 ozellikler:
 - - sıfat
 ornekler:

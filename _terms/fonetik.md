@@ -5,7 +5,7 @@ slug: fonetik
 letter: F
 lisan: Fransızca phonétique
 anlamlar:
-- ► ses bilgisi
+- ses bilgisi
 - Herhangi bir dilde yer alan seslerin fiziksel özellikleri
 ozellikler:
 - - isim

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bakırdan yapılmış, iki buçuk para değerinde sikke
 - Nargile lülesine konulmak için kömür tozundan yapılan, çabuk tutuşur, tavla pulu biçiminde bir tür yakacak
-- ► para
+- para
 ozellikler:
 - - isim
 - - isim

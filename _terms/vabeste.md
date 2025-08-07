@@ -5,7 +5,7 @@ slug: vabeste
 letter: V
 lisan: Farsça vābeste
 anlamlar:
-- ► bağlı
+- bağlı
 ozellikler:
 - - sıfat
   - eskimiş

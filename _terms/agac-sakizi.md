@@ -5,7 +5,7 @@ slug: agac-sakizi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► reçine
+- reçine
 ozellikler:
 - - isim
   - bitki bilimi

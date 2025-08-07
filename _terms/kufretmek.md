@@ -5,7 +5,7 @@ slug: kufretmek
 letter: K
 lisan: Arapça kufr + Türkçe etmek
 anlamlar:
-- ► sövmek
+- sövmek
 ozellikler:
 - - -e
 ornekler:

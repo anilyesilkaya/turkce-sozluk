@@ -5,7 +5,7 @@ slug: idea
 letter: I
 lisan: Yunanca
 anlamlar:
-- ► düşünce
+- düşünce
 ozellikler:
 - - isim
 ornekler:

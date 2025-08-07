@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - İhtiyarlamaya yüz tutmuş, yaşlanmış
-- ► geçmiş
+- geçmiş
 - Gereğinden çok olgun veya solmaya başlamış (bitki)
 ozellikler:
 - - sıfat

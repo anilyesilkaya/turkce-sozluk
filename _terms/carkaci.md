@@ -5,7 +5,7 @@ slug: carkaci
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çarhacı
+- çarhacı
 ozellikler:
 - - isim
   - tarih

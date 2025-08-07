@@ -5,7 +5,7 @@ slug: perde-perde
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 ozellikler:
 - - zarf
 ornekler:

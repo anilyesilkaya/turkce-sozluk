@@ -5,7 +5,7 @@ slug: ana-rahmi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► döl yatağı
+- döl yatağı
 ozellikler:
 - - isim
 ornekler:

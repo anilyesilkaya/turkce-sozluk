@@ -5,7 +5,7 @@ slug: lokasyon
 letter: L
 lisan: İngilizce location
 anlamlar:
-- ► konum
+- konum
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sikar
 letter: Ş
 lisan: Farsça şikār
 anlamlar:
-- ► av
+- av
 - Avlanan hayvan
 - Düşmandan ele geçirilen mal; ganimet
 ozellikler:

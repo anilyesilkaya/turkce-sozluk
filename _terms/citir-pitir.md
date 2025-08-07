@@ -5,7 +5,7 @@ slug: citir-pitir
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıtı pıtı
+- çıtı pıtı
 - Kolaylıkla ve tatlı tatlı (konuşmak)
 ozellikler:
 - - sıfat

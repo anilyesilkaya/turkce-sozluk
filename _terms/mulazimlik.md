@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Mülazım olma durumu
-- ► teğmenlik
+- teğmenlik
 ozellikler:
 - - isim
 - - isim

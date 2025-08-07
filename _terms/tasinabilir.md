@@ -5,7 +5,7 @@ slug: tasinabilir
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taşınır
+- taşınır
 ozellikler:
 - - isim
   - hukuk

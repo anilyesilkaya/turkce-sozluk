@@ -5,7 +5,7 @@ slug: dagdan-inme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dağ adamı
+- dağ adamı
 ozellikler:
 - - isim
   - mecaz

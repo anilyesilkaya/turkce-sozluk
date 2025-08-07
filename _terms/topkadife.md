@@ -5,7 +5,7 @@ slug: topkadife
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kadife çiçeği
+- kadife çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: fanilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ölümlülük
+- ölümlülük
 ozellikler:
 - - isim
 ornekler:

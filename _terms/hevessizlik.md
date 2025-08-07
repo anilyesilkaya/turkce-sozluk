@@ -5,7 +5,7 @@ slug: hevessizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► isteksizlik
+- isteksizlik
 ozellikler:
 - - isim
 ornekler:

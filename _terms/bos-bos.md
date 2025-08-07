@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şey yapmadan
-- ► amaçsız
+- amaçsız
 ozellikler:
 - - zarf
 - - zarf

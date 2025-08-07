@@ -5,7 +5,7 @@ slug: karisi-agizli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karı ağızlı
+- karı ağızlı
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: finansal
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► mali
+- mali
 ozellikler:
 - - sıfat
 ornekler:

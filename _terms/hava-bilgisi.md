@@ -5,7 +5,7 @@ slug: hava-bilgisi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► meteoroloji
+- meteoroloji
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: istihlak
 letter: I
 lisan: Arapça istihlāk
 anlamlar:
-- ► tüketim
+- tüketim
 ozellikler:
 - - isim
   - eskimiş

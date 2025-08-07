@@ -5,7 +5,7 @@ slug: kimiltisiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıpırtısız
+- kıpırtısız
 ozellikler:
 - - sıfat
 ornekler:

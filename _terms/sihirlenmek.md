@@ -5,7 +5,7 @@ slug: sihirlenmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► büyülenmek
+- büyülenmek
 ozellikler:
 - - nesnesiz
 ornekler:

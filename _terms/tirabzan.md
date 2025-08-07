@@ -5,7 +5,7 @@ slug: tirabzan
 letter: T
 lisan: Farsça dārbezīn
 anlamlar:
-- ► merdiven korkuluğu
+- merdiven korkuluğu
 ozellikler:
 - - isim
 ornekler:

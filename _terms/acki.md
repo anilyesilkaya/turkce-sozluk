@@ -8,7 +8,7 @@ anlamlar:
 - Bir cismin yüzeyi üzerinde sert bir madde veya bir araç sürterek onu düzleştirip parlatma
 - Seramik kapların dış yüzünün fırınlanmadan önce bir metal parçasının keskin kenarı kullanılarak perdahlanması
 - Demircilikte delik büyütmekte kullanılan araç
-- ► anahtar
+- anahtar
 - Her türlü açma aracı
 ozellikler:
 - - isim

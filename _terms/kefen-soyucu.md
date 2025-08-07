@@ -5,7 +5,7 @@ slug: kefen-soyucu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mezar soyguncusu
+- mezar soyguncusu
 ozellikler:
 - - isim
 ornekler:

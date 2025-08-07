@@ -5,7 +5,7 @@ slug: depozit
 letter: D
 lisan: İtalyanca deposito
 anlamlar:
-- ► güvence akçesi
+- güvence akçesi
 ozellikler:
 - - isim
   - ekonomi

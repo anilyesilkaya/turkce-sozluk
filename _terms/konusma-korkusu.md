@@ -5,7 +5,7 @@ slug: konusma-korkusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tutukluk
+- tutukluk
 ozellikler:
 - - isim
 ornekler:

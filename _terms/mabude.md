@@ -5,7 +5,7 @@ slug: mabude
 letter: M
 lisan: Arapça maʿbūde
 anlamlar:
-- ► tanrıça
+- tanrıça
 - Tapınırcasına sevilen kadın, sevgili
 ozellikler:
 - - isim

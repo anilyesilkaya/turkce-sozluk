@@ -5,7 +5,7 @@ slug: her-ne-hikmetse
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► nedense
+- nedense
 ozellikler:
 - - zarf
 ornekler:

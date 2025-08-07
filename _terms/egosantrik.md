@@ -5,7 +5,7 @@ slug: egosantrik
 letter: E
 lisan: Fransızca égocentrique
 anlamlar:
-- ► beniçinci
+- beniçinci
 ozellikler:
 - - sıfat
   - felsefe

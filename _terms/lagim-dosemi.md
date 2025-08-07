@@ -5,7 +5,7 @@ slug: lagim-dosemi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► kanalizasyon
+- kanalizasyon
 ozellikler:
 - - isim
 ornekler:

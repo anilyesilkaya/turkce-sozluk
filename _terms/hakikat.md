@@ -5,9 +5,9 @@ slug: hakikat
 letter: H
 lisan: Arapça ḥaḳīḳat
 anlamlar:
-- ► gerçek
-- ► gerçeklik
-- ► gerçekten
+- gerçek
+- gerçeklik
+- gerçekten
 ozellikler:
 - - isim
 - - isim

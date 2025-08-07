@@ -5,7 +5,7 @@ slug: ulusalcilik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milliyetçilik
+- milliyetçilik
 ozellikler:
 - - isim
 ornekler:

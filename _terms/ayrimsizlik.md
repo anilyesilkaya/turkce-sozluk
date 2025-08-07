@@ -5,7 +5,7 @@ slug: ayrimsizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farksızlık
+- farksızlık
 ozellikler:
 - - isim
 ornekler:

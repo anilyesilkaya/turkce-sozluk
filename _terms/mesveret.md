@@ -5,7 +5,7 @@ slug: mesveret
 letter: M
 lisan: Arapça meşveret
 anlamlar:
-- ► danışma
+- danışma
 - İki veya daha fazla kişinin birbiriyle fikir alışverişinde bulunması
 ozellikler:
 - - isim

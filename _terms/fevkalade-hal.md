@@ -5,7 +5,7 @@ slug: fevkalade-hal
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► olağanüstü hâl
+- olağanüstü hâl
 ozellikler:
 - - isim
   - eskimiş

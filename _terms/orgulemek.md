@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgü durumuna getirmek
-- ► düzenlemek
+- düzenlemek
 ozellikler:
 - - -i
 - - -i

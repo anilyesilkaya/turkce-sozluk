@@ -5,7 +5,7 @@ slug: kasinc
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kramp
+- kramp
 ozellikler:
 - - isim
   - tıp

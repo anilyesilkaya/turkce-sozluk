@@ -5,7 +5,7 @@ slug: sihhatsizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlıksızlık
+- sağlıksızlık
 ozellikler:
 - - isim
 ornekler:

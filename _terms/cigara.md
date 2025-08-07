@@ -5,7 +5,7 @@ slug: cigara
 letter: C
 lisan: İspanyolca cigaro
 anlamlar:
-- ► sigara
+- sigara
 ozellikler:
 - - isim
   - ağızlardan

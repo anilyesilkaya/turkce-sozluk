@@ -5,7 +5,7 @@ slug: akil-doktoru
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► psikiyatr
+- psikiyatr
 ozellikler:
 - - isim
 ornekler:

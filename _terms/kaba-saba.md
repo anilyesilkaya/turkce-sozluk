@@ -5,8 +5,8 @@ slug: kaba-saba
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► görgüsüz
-- ► özensiz
+- görgüsüz
+- özensiz
 - Görgüsüz bir biçimde
 ozellikler:
 - - sıfat

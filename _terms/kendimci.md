@@ -5,7 +5,7 @@ slug: kendimci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bencil
+- bencil
 ozellikler:
 - - sıfat
 ornekler:

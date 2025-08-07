@@ -5,7 +5,7 @@ slug: dahili-nizamname
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç tüzük
+- iç tüzük
 ozellikler:
 - - isim
   - eskimiş

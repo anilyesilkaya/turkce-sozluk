@@ -5,10 +5,10 @@ slug: duluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yüz (II)
-- ► şakak
+- yüz (II)
+- şakak
 - Yüzün şakakla çene arasındaki yanı
-- ► favori
+- favori
 ozellikler:
 - - isim
   - ağızlardan

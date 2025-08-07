@@ -5,8 +5,8 @@ slug: vazifelendirmek
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ödevlendirmek
-- ► görevlendirmek
+- ödevlendirmek
+- görevlendirmek
 ozellikler:
 - - -i
 - - -i

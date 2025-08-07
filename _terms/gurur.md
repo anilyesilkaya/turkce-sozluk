@@ -7,8 +7,8 @@ lisan: Arapça ġurūr
 anlamlar:
 - Kendini beğenme; azamet
 - Kendine güvenmekten gelen iftihar
-- ► kurum (III)
-- ► kibir
+- kurum (III)
+- kibir
 ozellikler:
 - - isim
 - - isim

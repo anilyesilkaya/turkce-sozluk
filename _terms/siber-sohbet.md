@@ -5,7 +5,7 @@ slug: siber-sohbet
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sanal sohbet
+- sanal sohbet
 ozellikler:
 - - isim
   - bilişim

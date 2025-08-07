@@ -5,7 +5,7 @@ slug: murekkep-fiil
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► birleşik fiil
+- birleşik fiil
 ozellikler:
 - - isim
   - dil bilgisi

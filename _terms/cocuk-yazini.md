@@ -5,7 +5,7 @@ slug: cocuk-yazini
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çocuk edebiyatı
+- çocuk edebiyatı
 ozellikler:
 - - isim
 ornekler:

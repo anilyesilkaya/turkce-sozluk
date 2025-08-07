@@ -5,7 +5,7 @@ slug: ipek-mati
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ipeksi mat
+- ipeksi mat
 ozellikler:
 - - isim
 ornekler:

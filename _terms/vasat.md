@@ -5,7 +5,7 @@ slug: vasat
 letter: V
 lisan: Arapça vasaṭ
 anlamlar:
-- ► orta
+- orta
 ozellikler:
 - - sıfat
 ornekler:

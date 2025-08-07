@@ -5,7 +5,7 @@ slug: irticalen
 letter: I
 lisan: Arapça irticālen
 anlamlar:
-- ► doğaçlama
+- doğaçlama
 ozellikler:
 - - zarf
 ornekler:

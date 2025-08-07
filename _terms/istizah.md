@@ -7,7 +7,7 @@ lisan: Arapça istīżāḥ
 anlamlar:
 - Herhangi bir konuda açıklayıcı bilgi isteme, bir sorunun açıklanmasını isteme
 - Bir sorunun açıklanmasını isteme
-- ► gensoru
+- gensoru
 ozellikler:
 - - isim
   - eskimiş

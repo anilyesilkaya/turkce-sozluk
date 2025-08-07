@@ -5,8 +5,8 @@ slug: terminoloji
 letter: T
 lisan: Fransızca terminologie
 anlamlar:
-- ► terimler dizgesi
-- ► terim bilimi
+- terimler dizgesi
+- terim bilimi
 ozellikler:
 - - isim
 - - isim

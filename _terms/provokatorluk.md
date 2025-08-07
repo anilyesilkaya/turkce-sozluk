@@ -5,7 +5,7 @@ slug: provokatorluk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kışkırtıcılık
+- kışkırtıcılık
 ozellikler:
 - - isim
 ornekler:

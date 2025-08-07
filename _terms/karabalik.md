@@ -5,7 +5,7 @@ slug: karabalik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tatlısu kayası
+- tatlısu kayası
 ozellikler:
 - - isim
   - hayvan bilimi

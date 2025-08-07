@@ -5,7 +5,7 @@ slug: muhakeme-usulu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yargı yolu
+- yargı yolu
 ozellikler:
 - - isim
   - hukuk

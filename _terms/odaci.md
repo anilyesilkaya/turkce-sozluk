@@ -5,7 +5,7 @@ slug: odaci
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hizmetli
+- hizmetli
 ozellikler:
 - - isim
 ornekler:

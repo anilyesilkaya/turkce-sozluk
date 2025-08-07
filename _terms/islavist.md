@@ -5,7 +5,7 @@ slug: islavist
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Slavist
+- Slavist
 ozellikler:
 - - isim
 ornekler:

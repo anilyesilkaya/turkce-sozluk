@@ -5,7 +5,7 @@ slug: yavascacik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► usulcacık
+- usulcacık
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: defedebilmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovabilmek
+- kovabilmek
 ozellikler:
 - - -i
 ornekler:

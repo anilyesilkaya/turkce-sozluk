@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tomar durumunda olan
-- ► pek çok
+- pek çok
 ozellikler:
 - - sıfat
 - - sıfat

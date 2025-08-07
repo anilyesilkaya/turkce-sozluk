@@ -5,7 +5,7 @@ slug: kafi
 letter: K
 lisan: Arapça kāfī
 anlamlar:
-- ► yeter
+- yeter
 - '"Yeter, yetişir, artık istemez" anlamlarında bir seslenme sözü'
 ozellikler:
 - - sıfat

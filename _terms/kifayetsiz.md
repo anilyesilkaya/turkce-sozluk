@@ -5,7 +5,7 @@ slug: kifayetsiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yetersiz
+- yetersiz
 ozellikler:
 - - sıfat
 ornekler:

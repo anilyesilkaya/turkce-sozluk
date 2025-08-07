@@ -5,7 +5,7 @@ slug: bedavaya
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bedava
+- bedava
 ozellikler:
 - - zarf
 ornekler:

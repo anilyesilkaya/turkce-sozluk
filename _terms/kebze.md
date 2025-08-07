@@ -5,7 +5,7 @@ slug: kebze
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kürek kemiği
+- kürek kemiği
 ozellikler:
 - - isim
   - ağızlardan

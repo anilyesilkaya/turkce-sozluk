@@ -5,7 +5,7 @@ slug: yazili-yoklama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yazılı sınav
+- yazılı sınav
 ozellikler:
 - - isim
 ornekler:

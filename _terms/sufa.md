@@ -5,7 +5,7 @@ slug: sufa
 letter: Ş
 lisan: Arapça şufʿa
 anlamlar:
-- ► ön alım
+- ön alım
 ozellikler:
 - - isim
   - eskimiş

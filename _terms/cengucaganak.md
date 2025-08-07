@@ -5,7 +5,7 @@ slug: cengucaganak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalgı çağanak
+- çalgı çağanak
 ozellikler:
 - - zarf
   - eskimiş

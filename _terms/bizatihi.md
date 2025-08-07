@@ -5,7 +5,7 @@ slug: bizatihi
 letter: B
 lisan: Arapça biẕātihi
 anlamlar:
-- ► kendiliğinden
+- kendiliğinden
 ozellikler:
 - - zarf
   - eskimiş

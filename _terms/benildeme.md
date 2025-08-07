@@ -5,7 +5,7 @@ slug: benildeme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belinleme
+- belinleme
 ozellikler:
 - - isim
 ornekler:

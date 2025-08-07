@@ -5,7 +5,7 @@ slug: armoni
 letter: A
 lisan: Fransızca harmonie
 anlamlar:
-- ► uyum
+- uyum
 - İki veya daha çok sesin aynı anda kulağa hoş gelecek bir biçimdeki uygunluğu; uyum, harmoni
 ozellikler:
 - - isim

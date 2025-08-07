@@ -6,7 +6,7 @@ letter: D
 lisan: Farsça der + Arapça ʿaḳab
 anlamlar:
 - Hemen arkasından
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Fransızca optique
 anlamlar:
 - Görme ile ilgili olan
 - Fizik biliminin ışık olaylarını inceleyen kolu
-- ► gözlükçü
+- gözlükçü
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,8 +5,8 @@ slug: stratejik
 letter: S
 lisan: Fransızca stratégique
 anlamlar:
-- ► izlemsel
-- ► önemli
+- izlemsel
+- önemli
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: bindi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► destek
+- destek
 ozellikler:
 - - isim
 ornekler:

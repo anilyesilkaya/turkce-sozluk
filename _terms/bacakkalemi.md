@@ -5,7 +5,7 @@ slug: bacakkalemi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kaval kemiği
+- kaval kemiği
 ozellikler:
 - - isim
   - anatomi

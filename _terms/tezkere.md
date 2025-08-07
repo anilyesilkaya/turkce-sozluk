@@ -5,7 +5,7 @@ slug: tezkere
 letter: T
 lisan: Arapça teẕkire
 anlamlar:
-- ► pusula (II)
+- pusula (II)
 - Bir iş için izin verildiğini bildiren resmî kâğıt
 - Askerlik görevinin bittiğini bildiren belge
 ozellikler:

@@ -5,7 +5,7 @@ slug: tandans
 letter: T
 lisan: Fransızca tendance
 anlamlar:
-- ► eğilim
+- eğilim
 ozellikler:
 - - isim
 ornekler:

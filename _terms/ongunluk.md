@@ -5,7 +5,7 @@ slug: ongunluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► mutluluk
+- mutluluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: merbutiyet
 letter: M
 lisan: Arapça merbūṭiyyet
 anlamlar:
-- ► bağlılık
+- bağlılık
 ozellikler:
 - - isim
   - eskimiş

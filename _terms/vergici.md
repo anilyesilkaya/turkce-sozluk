@@ -5,7 +5,7 @@ slug: vergici
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► tahsildar
+- tahsildar
 ozellikler:
 - - isim
 ornekler:

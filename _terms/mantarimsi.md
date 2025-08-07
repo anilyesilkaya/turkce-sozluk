@@ -5,7 +5,7 @@ slug: mantarimsi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mantarsı
+- mantarsı
 ozellikler:
 - - sıfat
 ornekler:

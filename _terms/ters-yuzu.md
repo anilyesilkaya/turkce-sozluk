@@ -5,7 +5,7 @@ slug: ters-yuzu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ters yüz
+- ters yüz
 ozellikler:
 - - zarf
 ornekler:

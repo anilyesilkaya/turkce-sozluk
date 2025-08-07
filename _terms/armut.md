@@ -7,7 +7,7 @@ lisan: Farsça armūd, emrūd
 anlamlar:
 - Gülgillerden, çiçekleri beyaz, Türkiye'nin her yerinde yetişen bir ağaç (Pyrus communis)
 - Bu ağacın tatlı ve sulu, yumuşak, ufak çekirdekli meyvesi
-- ► armut koltuk
+- armut koltuk
 - Çok bön, çok aptal
 ozellikler:
 - - isim

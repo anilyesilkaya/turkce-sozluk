@@ -5,7 +5,7 @@ slug: aile-adi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soyadı
+- soyadı
 - Bir aileye başkaları tarafından sonradan takılan, o ailenin bir özelliğinden kaynaklanan ad; aile ismi
 ozellikler:
 - - isim

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kendi kuralları çerçevesinde sürekli gelişen, değişen canlı ve cansız varlıkların hepsi; tabiat, natür
 - İnsan eliyle büyük değişikliğe uğramamış, doğal yapısını koruyan çevre; tabiat
-- ► huy
+- huy
 ozellikler:
 - - isim
 - - isim

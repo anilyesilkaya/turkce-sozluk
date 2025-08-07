@@ -5,7 +5,7 @@ slug: cabukca
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

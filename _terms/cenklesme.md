@@ -5,7 +5,7 @@ slug: cenklesme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► savaşma
+- savaşma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yumurta-mantari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► horoz mantarı
+- horoz mantarı
 ozellikler:
 - - isim
   - bitki bilimi

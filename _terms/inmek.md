@@ -9,16 +9,16 @@ anlamlar:
 - Bir taşıt veya binek hayvanından yere basmak; atlamak
 - Dağ, tepe vb. yüksek bir yerden gelmek
 - Bir yerden başka bir yere gitmek, varmak
-- ► konaklamak
+- konaklamak
 - Alçalıp eski durumuna dönmek
 - Fiyatı düşürmek
 - Değeri düşmek
-- ► vurmak
-- ► yıkılmak
+- vurmak
+- yıkılmak
 - İnme gelmek
 - Bir yeri kaplamak, basmak veya bir yerden akmak, kaymak
 - Uzamak, ulaşmak
-- ► ağmak
+- ağmak
 - Sayısı azalmak
 ozellikler:
 - - -den

@@ -5,7 +5,7 @@ slug: meftuniyet
 letter: M
 lisan: Arapça meftūniyyet
 anlamlar:
-- ► tutkunluk
+- tutkunluk
 ozellikler:
 - - isim
   - eskimiş

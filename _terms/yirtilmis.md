@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtık duruma gelmiş
-- ► yırtık
+- yırtık
 ozellikler:
 - - sıfat
 - - sıfat

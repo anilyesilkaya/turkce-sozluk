@@ -5,7 +5,7 @@ slug: sahre
 letter: S
 lisan: Arapça ṣaḫre
 anlamlar:
-- ► kayaç
+- kayaç
 ozellikler:
 - - isim
   - eskimiş

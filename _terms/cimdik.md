@@ -8,7 +8,7 @@ anlamlar:
 - Bir kimsenin etini başparmak ve işaret parmağının ucu arasına kıstırarak can yakacak şekilde burma, sıkma
 - Başparmakla işaret parmağının ucu arasına alınan miktarda olan
 - Gönül kıracak söz
-- ► Tatar böreği
+- Tatar böreği
 ozellikler:
 - - isim
 - - isim

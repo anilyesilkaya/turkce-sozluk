@@ -6,8 +6,8 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoksul olma durumu; fakirlik, fukaralık, beş parasızlık, yokluk, yoksuzluk, variyetsizlik, sefillik, sefalet, fakr, meskenet
-- ► verimsizlik
-- ► yetersizlik
+- verimsizlik
+- yetersizlik
 ozellikler:
 - - isim
 - - isim

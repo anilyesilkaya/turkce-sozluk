@@ -6,7 +6,7 @@ letter: A
 lisan: Farsça āyīn
 anlamlar:
 - Bir mezhebin veya bir tarikatın kendine özgü ibadet töreni
-- ► töre
+- töre
 - Sema törenlerinde çalınıp söylenen çeşitli makamları içinde barındıran beste; ayinişerif
 ozellikler:
 - - isim

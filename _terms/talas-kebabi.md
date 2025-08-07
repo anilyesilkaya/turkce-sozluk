@@ -5,7 +5,7 @@ slug: talas-kebabi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► talaş böreği
+- talaş böreği
 ozellikler:
 - - isim
 ornekler:

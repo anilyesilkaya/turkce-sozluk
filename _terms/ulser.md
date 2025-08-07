@@ -5,7 +5,7 @@ slug: ulser
 letter: Ü
 lisan: Fransızca ulcère
 anlamlar:
-- ► yara
+- yara
 - Sindirim organlarında ve özellikle mide ile onikiparmak bağırsağında görülen yara; karha
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: hayat-kavgasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayat mücadelesi
+- hayat mücadelesi
 ozellikler:
 - - isim
   - mecaz

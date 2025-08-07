@@ -5,7 +5,7 @@ slug: suvmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süğmek
+- süğmek
 ozellikler:
 - - nesnesiz
 ornekler:

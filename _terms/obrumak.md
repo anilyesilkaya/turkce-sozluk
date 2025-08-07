@@ -5,7 +5,7 @@ slug: obrumak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► çökmek
+- çökmek
 ozellikler:
 - - nesnesiz
 ornekler:

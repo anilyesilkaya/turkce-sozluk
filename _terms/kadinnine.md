@@ -5,7 +5,7 @@ slug: kadinnine
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► nine
+- nine
 - Yaşı epey ilerlemiş kadın
 ozellikler:
 - - isim

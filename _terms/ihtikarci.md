@@ -5,7 +5,7 @@ slug: ihtikarci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► vurguncu
+- vurguncu
 ozellikler:
 - - sıfat
   - eskimiş

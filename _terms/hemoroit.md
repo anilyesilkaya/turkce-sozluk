@@ -5,7 +5,7 @@ slug: hemoroit
 letter: H
 lisan: Fransızca hémorroïde
 anlamlar:
-- ► basur
+- basur
 ozellikler:
 - - isim
   - tıp

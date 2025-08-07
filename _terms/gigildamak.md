@@ -5,7 +5,7 @@ slug: gigildamak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► agulamak
+- agulamak
 ozellikler:
 - - nesnesiz
   - eğitim

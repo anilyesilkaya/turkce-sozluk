@@ -5,7 +5,7 @@ slug: kosu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koşma
+- koşma
 - Koşarak yapılan yarış
 - At yarışı
 ozellikler:

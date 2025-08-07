@@ -5,7 +5,7 @@ slug: ruh-bilimi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikoloji
+- psikoloji
 ozellikler:
 - - isim
 ornekler:

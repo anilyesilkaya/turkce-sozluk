@@ -5,7 +5,7 @@ slug: muruvvetsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► insaniyetsizlik
+- insaniyetsizlik
 ozellikler:
 - - isim
 ornekler:

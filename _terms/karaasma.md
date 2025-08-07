@@ -5,7 +5,7 @@ slug: karaasma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lohusa otu
+- lohusa otu
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: catalli-igne
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çengelli iğne
+- çengelli iğne
 ozellikler:
 - - isim
 ornekler:

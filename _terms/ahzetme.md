@@ -5,7 +5,7 @@ slug: ahzetme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alma
+- alma
 ozellikler:
 - - isim
 ornekler:

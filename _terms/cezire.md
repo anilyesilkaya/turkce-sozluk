@@ -5,7 +5,7 @@ slug: cezire
 letter: C
 lisan: Arapça cezīre
 anlamlar:
-- ► ada
+- ada
 ozellikler:
 - - isim
   - eskimiş

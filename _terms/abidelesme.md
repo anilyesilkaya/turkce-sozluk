@@ -5,7 +5,7 @@ slug: abidelesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anıtlaşma
+- anıtlaşma
 ozellikler:
 - - isim
 ornekler:

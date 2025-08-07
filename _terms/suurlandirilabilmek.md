@@ -5,7 +5,7 @@ slug: suurlandirilabilmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlendirilebilmek
+- bilinçlendirilebilmek
 ozellikler:
 - - nesnesiz
 ornekler:

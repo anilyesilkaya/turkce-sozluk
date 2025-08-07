@@ -5,7 +5,7 @@ slug: konsorsiyum
 letter: K
 lisan: Fransızca consortium
 anlamlar:
-- ► şirketler birliği
+- şirketler birliği
 ozellikler:
 - - isim
   - ekonomi

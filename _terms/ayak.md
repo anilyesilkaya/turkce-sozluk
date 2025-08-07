@@ -9,11 +9,11 @@ anlamlar:
 - Birtakım şeylerin yerden yüksekçe durmasını sağlayan dayak, destek veya bunlardan her biri; bacak
 - Vücudun belden aşağı bölümü; bacak
 - Yürüyüşün ağırlık veya çabukluk derecesi
-- ► basamak
+- basamak
 - Futun küpü alınarak hesaplanan değer
 - Mayalardan önce, makama uygun olarak çalınan veya söylenen beste
 - Yarım arşın veya 30,5 santimetre uzunluğundaki ölçü birimi; kadem, fit (III), fut
-- ► göl ayağı
+- göl ayağı
 - Halk edebiyatında koşuklarda kısa yedekli dizeler
 - Halk edebiyatında uyak
 - Bir doğrunun başka bir doğruyu veya bir düzlemi kestiği nokta

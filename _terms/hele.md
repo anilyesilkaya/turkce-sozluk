@@ -5,7 +5,7 @@ slug: hele
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özellikle
+- özellikle
 - '"Sonunda" anlamıyla geciken davranışları bildirmek için kullanılan bir söz'
 - Uyarma, korkutma veya söz verme anlatan bir söz
 ozellikler:

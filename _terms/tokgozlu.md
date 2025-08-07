@@ -5,7 +5,7 @@ slug: tokgozlu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gözü tok, açgözlü karşıtı
+- gözü tok, açgözlü karşıtı
 ozellikler:
 - - sıfat
   - mecaz

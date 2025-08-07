@@ -5,8 +5,8 @@ slug: aksettirilmek
 letter: A
 lisan: Arapça ʿaks + Türkçe ettirilmek
 anlamlar:
-- ► yansıtılmak
-- ► yankılatılmak
+- yansıtılmak
+- yankılatılmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

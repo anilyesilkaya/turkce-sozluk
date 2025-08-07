@@ -5,7 +5,7 @@ slug: jale
 letter: J
 lisan: Farsça jāle
 anlamlar:
-- ► çiy
+- çiy
 ozellikler:
 - - isim
   - eskimiş

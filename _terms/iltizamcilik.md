@@ -5,7 +5,7 @@ slug: iltizamcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kesenekçilik
+- kesenekçilik
 ozellikler:
 - - isim
 ornekler:

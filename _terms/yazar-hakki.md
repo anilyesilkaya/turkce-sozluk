@@ -5,7 +5,7 @@ slug: yazar-hakki
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► telif hakkı
+- telif hakkı
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: sek
 letter: Ş
 lisan: Arapça şekk
 anlamlar:
-- ► kuşku
+- kuşku
 ozellikler:
 - - isim
   - eskimiş

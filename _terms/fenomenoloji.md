@@ -5,7 +5,7 @@ slug: fenomenoloji
 letter: F
 lisan: Fransızca phénoménologie
 anlamlar:
-- ► görüngü bilimi
+- görüngü bilimi
 ozellikler:
 - - isim
 ornekler:

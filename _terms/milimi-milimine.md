@@ -5,7 +5,7 @@ slug: milimi-milimine
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - sıfat
 ornekler:

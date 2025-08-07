@@ -5,7 +5,7 @@ slug: sekteikalp
 letter: S
 lisan: Arapça sekte + ḳalb
 anlamlar:
-- ► kalp sektesi
+- kalp sektesi
 ozellikler:
 - - isim
   - eskimiş

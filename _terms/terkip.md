@@ -6,8 +6,8 @@ letter: T
 lisan: Arapça terkīb
 anlamlar:
 - Birleşim, birleştirme, bir araya getirme
-- ► tamlama
-- ► bileşim
+- tamlama
+- bileşim
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: nasir
 letter: N
 lisan: Arapça nāşir
 anlamlar:
-- ► yayımcı
+- yayımcı
 - Yayan, saçan
 ozellikler:
 - - isim

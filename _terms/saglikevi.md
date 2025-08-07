@@ -5,7 +5,7 @@ slug: saglikevi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlık ocağı
+- sağlık ocağı
 ozellikler:
 - - isim
 ornekler:

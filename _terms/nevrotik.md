@@ -5,7 +5,7 @@ slug: nevrotik
 letter: N
 lisan: Fransızca névrotique
 anlamlar:
-- ► sinirsel
+- sinirsel
 ozellikler:
 - - sıfat
 ornekler:

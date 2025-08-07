@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tek, bir olma durumu
 - 'Adın tek bir varlığı, çekimli fiilin tek bir kişiyi bildiren biçimi; tekil, müfret, çoğul, çokluk karşıtı: öğrenci, ev-i-m, gel-di-m vb'
-- ► lira
+- lira
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taḥkiye
 anlamlar:
 - Bir olayı anlatmadaki düzen, anlatış düzeni
-- ► anlatı
+- anlatı
 - Çeşitli edebî türlerin kendi yapılarına uygun biçimler içerisinde kullanmakta olduğu, kişi temeline dayalı anlatım tekniklerinden birisi
 ozellikler:
 - - isim

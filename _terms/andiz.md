@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Yaprakları dikenli olan bir tür ardıç
-- ► servi
+- servi
 - Kırlarda yetişen yabani bir otun kökü
 ozellikler:
 - - isim

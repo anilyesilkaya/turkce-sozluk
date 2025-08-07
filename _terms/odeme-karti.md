@@ -5,7 +5,7 @@ slug: odeme-karti
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► banka kartı
+- banka kartı
 ozellikler:
 - - isim
   - ekonomi

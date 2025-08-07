@@ -6,7 +6,7 @@ letter: F
 lisan: Fransızca fraction
 anlamlar:
 - Bir siyasi partinin politikasını parlamentoda, yerel yönetimlerde, çeşitli kuruluşlarda yürütmek için teşkilatlanmış grup
-- ► hizip
+- hizip
 ozellikler:
 - - isim
   - toplum bilimi

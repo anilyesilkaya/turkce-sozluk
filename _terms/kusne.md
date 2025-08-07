@@ -5,7 +5,7 @@ slug: kusne
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karaburçak
+- karaburçak
 ozellikler:
 - - isim
   - bitki bilimi

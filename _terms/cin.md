@@ -5,7 +5,7 @@ slug: cin
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► gerçek
+- gerçek
 ozellikler:
 - - sıfat
   - eskimiş

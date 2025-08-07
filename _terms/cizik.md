@@ -5,7 +5,7 @@ slug: cizik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çizgi
+- çizgi
 - Sıyrık, çizgi biçiminde yara
 - Çizilmiş olan
 ozellikler:

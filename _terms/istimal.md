@@ -5,7 +5,7 @@ slug: istimal
 letter: I
 lisan: Arapça istiʿmāl
 anlamlar:
-- ► kullanma
+- kullanma
 ozellikler:
 - - isim
   - eskimiş

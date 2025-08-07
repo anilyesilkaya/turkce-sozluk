@@ -5,7 +5,7 @@ slug: sulhcu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► barışsever
+- barışsever
 ozellikler:
 - - sıfat
 ornekler:

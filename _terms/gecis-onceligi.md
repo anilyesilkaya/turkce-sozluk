@@ -5,7 +5,7 @@ slug: gecis-onceligi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geçiş üstünlüğü
+- geçiş üstünlüğü
 ozellikler:
 - - isim
 ornekler:

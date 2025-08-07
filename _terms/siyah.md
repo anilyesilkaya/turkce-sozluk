@@ -5,7 +5,7 @@ slug: siyah
 letter: S
 lisan: Farsça siyāh
 anlamlar:
-- ► kara (II), ak, beyaz karşıtı
+- kara (II), ak, beyaz karşıtı
 - Bu renkte olan
 - Baskıda başka harflerden daha kalın görünen harf türü
 ozellikler:

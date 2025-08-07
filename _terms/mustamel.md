@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mustaʿmel
 anlamlar:
 - Kullanılmış olan
-- ► eski
+- eski
 ozellikler:
 - - sıfat
   - eskimiş

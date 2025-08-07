@@ -5,7 +5,7 @@ slug: huthut
 letter: H
 lisan: Arapça hudhud
 anlamlar:
-- ► çavuş kuşu
+- çavuş kuşu
 - Hazreti Süleyman ile Belkıs arasında haberleşmeye aracılık eden bir kuş
 ozellikler:
 - - isim

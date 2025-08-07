@@ -5,7 +5,7 @@ slug: catal-yurek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çatal yürekli
+- çatal yürekli
 ozellikler:
 - - sıfat
   - mecaz

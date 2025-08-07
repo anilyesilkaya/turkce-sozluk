@@ -5,7 +5,7 @@ slug: demirimsi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► demirsi
+- demirsi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,9 +5,9 @@ slug: tecrube
 letter: T
 lisan: Arapça tecribe
 anlamlar:
-- ► deneyim
-- ► deney
-- ► görgü
+- deneyim
+- deney
+- görgü
 ozellikler:
 - - isim
 - - isim

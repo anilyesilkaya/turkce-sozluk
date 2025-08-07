@@ -5,7 +5,7 @@ slug: afyon
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Afyonkarahisar
+- Afyonkarahisar
 ozellikler:
 - - isim
 ornekler:

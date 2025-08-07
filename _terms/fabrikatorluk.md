@@ -5,7 +5,7 @@ slug: fabrikatorluk
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fabrikacılık
+- fabrikacılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ciger-yarasi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► evlat acısı
+- evlat acısı
 - Yakın birinin ölümü ile duyulan büyük üzüntü
 ozellikler:
 - - isim

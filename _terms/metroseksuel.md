@@ -5,7 +5,7 @@ slug: metroseksuel
 letter: M
 lisan: İngilizce metrosexual
 anlamlar:
-- ► bakımlı erkek
+- bakımlı erkek
 ozellikler:
 - - isim
 ornekler:

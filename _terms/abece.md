@@ -5,7 +5,7 @@ slug: abece
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alfabe
+- alfabe
 - Bir iş, bir dönem, bir hayat vb.nin başlangıcı
 ozellikler:
 - - isim

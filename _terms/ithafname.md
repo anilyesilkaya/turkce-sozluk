@@ -5,7 +5,7 @@ slug: ithafname
 letter: I
 lisan: Arapça itḥāf + Farsça nāme
 anlamlar:
-- ► ithaf yazısı
+- ithaf yazısı
 ozellikler:
 - - isim
   - eskimiş

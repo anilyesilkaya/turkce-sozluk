@@ -5,7 +5,7 @@ slug: behemehal
 letter: B
 lisan: Farsça be+ heme + Arapça ḥāl
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - zarf
   - eskimiş

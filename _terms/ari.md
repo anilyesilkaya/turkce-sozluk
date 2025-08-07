@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿārī
 anlamlar:
 - Arınmış, soyutlanmış olan
-- ► çıplak
+- çıplak
 ozellikler:
 - - sıfat
 - - sıfat

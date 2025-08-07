@@ -5,7 +5,7 @@ slug: alternatifsiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► seçeneksiz
+- seçeneksiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca cadran
 anlamlar:
 - Saat, pusula vb. araçlarda, üzerinde yazı, rakam veya başka işaretler bulunan düzlem
-- ► ölçek
+- ölçek
 ozellikler:
 - - isim
 - - isim

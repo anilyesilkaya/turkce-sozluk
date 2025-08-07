@@ -5,7 +5,7 @@ slug: eliminasyon
 letter: E
 lisan: Fransızca élimination
 anlamlar:
-- ► eleme
+- eleme
 ozellikler:
 - - isim
 ornekler:

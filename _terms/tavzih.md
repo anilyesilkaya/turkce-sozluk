@@ -5,7 +5,7 @@ slug: tavzih
 letter: T
 lisan: Arapça tavżīḥ
 anlamlar:
-- ► açıklama
+- açıklama
 ozellikler:
 - - isim
   - eskimiş

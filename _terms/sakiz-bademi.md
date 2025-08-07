@@ -5,7 +5,7 @@ slug: sakiz-bademi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► diş bademi
+- diş bademi
 ozellikler:
 - - isim
 ornekler:

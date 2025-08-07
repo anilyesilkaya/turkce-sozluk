@@ -7,7 +7,7 @@ lisan: Rumca
 anlamlar:
 - Genellikle söğüt veya başka ağaç dallarından örülen, yük taşımaya yarayan, kaba ve dayanıklı sepet
 - Bu sepetin alabildiği miktarda olan
-- ► kıç
+- kıç
 ozellikler:
 - - isim
 - - isim

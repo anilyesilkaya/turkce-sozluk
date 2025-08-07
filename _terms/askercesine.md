@@ -5,7 +5,7 @@ slug: askercesine
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► askerce
+- askerce
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: menfaat-duskunlugu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çıkarcılık
+- çıkarcılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: bigane
 letter: B
 lisan: Farsça bīgāne
 anlamlar:
-- ► yabancı
-- ► ilgisiz
+- yabancı
+- ilgisiz
 ozellikler:
 - - sıfat
   - eskimiş

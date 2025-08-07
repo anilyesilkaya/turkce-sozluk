@@ -5,7 +5,7 @@ slug: salah
 letter: S
 lisan: Arapça ṣalāḥ
 anlamlar:
-- ► iyilik
+- iyilik
 ozellikler:
 - - isim
   - eskimiş

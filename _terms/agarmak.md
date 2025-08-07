@@ -5,8 +5,8 @@ slug: agarmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlaşmak
-- ► aydınlanmak
+- beyazlaşmak
+- aydınlanmak
 - Rengi solmak
 ozellikler:
 - - nesnesiz

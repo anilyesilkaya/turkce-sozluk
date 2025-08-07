@@ -5,7 +5,7 @@ slug: ulusal-egitim
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî eğitim
+- millî eğitim
 ozellikler:
 - - isim
 ornekler:

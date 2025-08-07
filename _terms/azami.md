@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça aʿẓamī
 anlamlar:
 - En çok, en üst, en büyük, en yüksek (derece, nicelik); maksimum, maksimal
-- ► maksimum
+- maksimum
 ozellikler:
 - - sıfat
 - - sıfat

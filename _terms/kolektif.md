@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca collectif
 anlamlar:
 - Birçok kimseyi veya nesneyi içine alan, birçok kişi ve nesnenin bir araya gelmesi sonucu olan
-- ► ortaklaşa
+- ortaklaşa
 ozellikler:
 - - sıfat
 - - sıfat

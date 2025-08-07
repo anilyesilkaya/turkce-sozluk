@@ -5,7 +5,7 @@ slug: beletme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kundaklatma
+- kundaklatma
 ozellikler:
 - - isim
 ornekler:

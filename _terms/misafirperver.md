@@ -5,7 +5,7 @@ slug: misafirperver
 letter: M
 lisan: Arapça musāfir + Farsça -perver
 anlamlar:
-- ► konuksever
+- konuksever
 ozellikler:
 - - sıfat
   - eskimiş

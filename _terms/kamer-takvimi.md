@@ -5,7 +5,7 @@ slug: kamer-takvimi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ay takvimi
+- ay takvimi
 ozellikler:
 - - isim
 ornekler:

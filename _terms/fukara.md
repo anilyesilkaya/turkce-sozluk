@@ -5,8 +5,8 @@ slug: fukara
 letter: F
 lisan: Arapça fuḳarā
 anlamlar:
-- ► yoksul
-- ► zavallı
+- yoksul
+- zavallı
 ozellikler:
 - - sıfat
 - - sıfat

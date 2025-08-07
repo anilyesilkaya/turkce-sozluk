@@ -5,7 +5,7 @@ slug: transkripsiyon
 letter: T
 lisan: Fransızca transcription
 anlamlar:
-- ► çeviri yazı
+- çeviri yazı
 ozellikler:
 - - isim
   - dil bilimi

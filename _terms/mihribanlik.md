@@ -5,7 +5,7 @@ slug: mihribanlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dostluk
+- dostluk
 ozellikler:
 - - isim
 ornekler:

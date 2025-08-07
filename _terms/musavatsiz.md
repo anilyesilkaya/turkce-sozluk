@@ -5,7 +5,7 @@ slug: musavatsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşitsiz
+- eşitsiz
 ozellikler:
 - - sıfat
 ornekler:

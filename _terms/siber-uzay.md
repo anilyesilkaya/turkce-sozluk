@@ -5,7 +5,7 @@ slug: siber-uzay
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► genel ağ
+- genel ağ
 ozellikler:
 - - isim
   - bilişim

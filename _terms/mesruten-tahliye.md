@@ -5,7 +5,7 @@ slug: mesruten-tahliye
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► şartlı tahliye
+- şartlı tahliye
 ozellikler:
 - - isim
   - hukuk

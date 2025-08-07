@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayış kıtlığı; ferasetsizlik, idraksizlik, izansızlık
-- ► hoşgörüsüzlük
+- hoşgörüsüzlük
 ozellikler:
 - - isim
 - - isim

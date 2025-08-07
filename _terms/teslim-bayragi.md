@@ -5,7 +5,7 @@ slug: teslim-bayragi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► beyaz bayrak
+- beyaz bayrak
 ozellikler:
 - - isim
 ornekler:

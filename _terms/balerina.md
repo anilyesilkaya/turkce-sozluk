@@ -5,7 +5,7 @@ slug: balerina
 letter: B
 lisan: Fransızca ballerine
 anlamlar:
-- ► balerin
+- balerin
 - Müzik kutusunun dönen mekanizması üzerinde bulunan balerin heykelciği
 ozellikler:
 - - isim

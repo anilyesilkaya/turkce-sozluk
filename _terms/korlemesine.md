@@ -5,7 +5,7 @@ slug: korlemesine
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► körü körüne
+- körü körüne
 - Etrafına dikkat etmeden
 ozellikler:
 - - zarf

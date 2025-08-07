@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Beşlemek işi
-- ► tahmis (I)
+- tahmis (I)
 - Beş çalgı veya beş sesten meydana gelen bir topluluk için bestelenmiş eser
 ozellikler:
 - - isim

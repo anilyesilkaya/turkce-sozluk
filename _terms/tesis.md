@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teʾsīs
 anlamlar:
 - Yapma, kurma, temelini atma
-- ► kuruluş
+- kuruluş
 ozellikler:
 - - isim
 - - isim

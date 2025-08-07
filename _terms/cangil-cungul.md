@@ -5,7 +5,7 @@ slug: cangil-cungul
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çangır çungur
+- çangır çungur
 ozellikler:
 - - zarf
 ornekler:

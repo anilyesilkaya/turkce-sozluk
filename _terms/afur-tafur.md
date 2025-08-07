@@ -5,7 +5,7 @@ slug: afur-tafur
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► afra tafra
+- afra tafra
 ozellikler:
 - - isim
   - ağızlardan

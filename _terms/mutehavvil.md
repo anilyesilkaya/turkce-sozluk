@@ -5,7 +5,7 @@ slug: mutehavvil
 letter: M
 lisan: Arapça muteḥavvil
 anlamlar:
-- ► değişken
+- değişken
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: kestere
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kitre
+- kitre
 ozellikler:
 - - isim
 ornekler:

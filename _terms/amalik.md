@@ -5,7 +5,7 @@ slug: amalik
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► görme engellilik
+- görme engellilik
 ozellikler:
 - - isim
 ornekler:

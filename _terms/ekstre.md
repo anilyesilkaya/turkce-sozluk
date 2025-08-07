@@ -5,9 +5,9 @@ slug: ekstre
 letter: E
 lisan: Fransızca extrait
 anlamlar:
-- ► öz (I)
-- ► hesap özeti
-- ► özüt
+- öz (I)
+- hesap özeti
+- özüt
 ozellikler:
 - - isim
 - - isim

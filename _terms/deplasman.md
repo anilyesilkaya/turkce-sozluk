@@ -5,7 +5,7 @@ slug: deplasman
 letter: D
 lisan: Fransızca déplacement
 anlamlar:
-- ► dış saha
+- dış saha
 - Belirli bir durumda yüzen geminin teknesinin taşırdığı suyun ton olarak hacmi
 ozellikler:
 - - isim

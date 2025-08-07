@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muhimmāt
 anlamlar:
 - Savaşta kullanılan top, tüfek vb. savaş gereçleri
-- ► cephane
+- cephane
 ozellikler:
 - - isim
   - askerlik

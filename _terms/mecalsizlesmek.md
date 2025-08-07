@@ -5,7 +5,7 @@ slug: mecalsizlesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► takatsizleşmek
+- takatsizleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: sopalama
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dövme
+- dövme
 ozellikler:
 - - isim
 ornekler:

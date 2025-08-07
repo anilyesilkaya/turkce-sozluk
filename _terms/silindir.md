@@ -9,7 +9,7 @@ anlamlar:
 - Metalleri inceltme, kumaşları parlatma, kâğıt üzerine baskı yapma vb. işler için sanayide kullanılan merdane; silindir makinesi
 - Motorlu taşıtların motorunda pistona güçlü bir itiş sağlamak için gaz karışımının yandığı veya patladığı yer
 - Yol yapımında toprağı sıkıştırarak düzleştirmek için kullanılan genellikle motorlu araç
-- ► silindir şapka
+- silindir şapka
 ozellikler:
 - - isim
   - matematik

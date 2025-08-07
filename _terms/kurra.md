@@ -5,7 +5,7 @@ slug: kurra
 letter: K
 lisan: Arapça ḳurrā´
 anlamlar:
-- ► kurra hafızı
+- kurra hafızı
 ozellikler:
 - - isim
 ornekler:

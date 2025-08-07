@@ -5,8 +5,8 @@ slug: juri
 letter: J
 lisan: Fransızca jury
 anlamlar:
-- ► seçiciler kurulu
-- ► hakem heyeti
+- seçiciler kurulu
+- hakem heyeti
 ozellikler:
 - - isim
 - - isim

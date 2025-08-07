@@ -5,7 +5,7 @@ slug: mutekait
 letter: M
 lisan: Arapça muteḳāʿid
 anlamlar:
-- ► emekli
+- emekli
 ozellikler:
 - - sıfat
   - eskimiş

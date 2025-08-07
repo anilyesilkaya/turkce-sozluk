@@ -5,7 +5,7 @@ slug: valide
 letter: V
 lisan: Arapça vālide
 anlamlar:
-- ► anne
+- anne
 ozellikler:
 - - isim
   - eskimiş

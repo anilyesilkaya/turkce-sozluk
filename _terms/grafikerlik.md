@@ -5,7 +5,7 @@ slug: grafikerlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► grafik tasarımcılığı
+- grafik tasarımcılığı
 ozellikler:
 - - isim
 ornekler:

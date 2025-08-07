@@ -5,7 +5,7 @@ slug: urumca
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► Urum Türkçesi
+- Urum Türkçesi
 ozellikler:
 - - isim
   - dil bilgisi

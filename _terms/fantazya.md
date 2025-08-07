@@ -5,7 +5,7 @@ slug: fantazya
 letter: F
 lisan: Rumca
 anlamlar:
-- ► fantezi
+- fantezi
 ozellikler:
 - - isim
 ornekler:

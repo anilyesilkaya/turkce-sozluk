@@ -5,7 +5,7 @@ slug: memnu-mintika
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yasak bölge
+- yasak bölge
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: baobap-agaci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baobap
+- baobap
 ozellikler:
 - - isim
   - bitki bilimi

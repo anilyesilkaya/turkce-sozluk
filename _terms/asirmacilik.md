@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırmacı olma durumu
-- ► intihalcilik
+- intihalcilik
 ozellikler:
 - - isim
 - - isim

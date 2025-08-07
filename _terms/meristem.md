@@ -5,7 +5,7 @@ slug: meristem
 letter: M
 lisan: Fransızca méristème
 anlamlar:
-- ► sürgen doku
+- sürgen doku
 ozellikler:
 - - isim
   - bitki bilimi

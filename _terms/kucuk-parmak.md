@@ -5,7 +5,7 @@ slug: kucuk-parmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► serçe parmak
+- serçe parmak
 ozellikler:
 - - isim
 ornekler:

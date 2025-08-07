@@ -5,7 +5,7 @@ slug: hokelekli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gösterişli
+- gösterişli
 ozellikler:
 - - sıfat
 ornekler:

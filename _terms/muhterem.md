@@ -5,7 +5,7 @@ slug: muhterem
 letter: M
 lisan: Arapça muḥterem
 anlamlar:
-- ► saygıdeğer
+- saygıdeğer
 ozellikler:
 - - sıfat
 ornekler:

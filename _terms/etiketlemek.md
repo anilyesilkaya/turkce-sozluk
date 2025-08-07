@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Satışa çıkarılan mal üzerine etiket koymak
-- ► yaftalamak
+- yaftalamak
 ozellikler:
 - - -i
 - - -i

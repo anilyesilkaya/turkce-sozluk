@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Geviş getiren hayvanların midelerinin ikinci bölümü
-- ► külah
+- külah
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: talipli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► istekli
+- istekli
 - Talibi bulunan
 ozellikler:
 - - sıfat

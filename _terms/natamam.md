@@ -5,7 +5,7 @@ slug: natamam
 letter: N
 lisan: Farsça nā + Arapça tamām
 anlamlar:
-- ► eksik
+- eksik
 - Tamamlanmamış, bitmemiş
 ozellikler:
 - - sıfat

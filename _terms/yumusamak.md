@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sertliği kalmamak, yumuşak duruma gelmek
 - Öfkesi, kızgınlığı, inadı geçmek
-- ► tonlulaşmak
+- tonlulaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

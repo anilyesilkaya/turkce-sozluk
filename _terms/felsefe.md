@@ -8,7 +8,7 @@ anlamlar:
 - Varlığın ve bilginin bilimsel olarak araştırılması
 - Bir bilimin veya bilgi alanının temelini oluşturan ilkeler bütünü
 - Bir filozofun, bir felsefe okulunun, bir çağın öğretisi
-- ► dünya görüşü
+- dünya görüşü
 - Bir konuda soyut düşünüş
 ozellikler:
 - - isim

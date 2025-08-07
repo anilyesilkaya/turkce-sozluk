@@ -5,7 +5,7 @@ slug: uyutum
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► hipnoz
+- hipnoz
 ozellikler:
 - - isim
 ornekler:

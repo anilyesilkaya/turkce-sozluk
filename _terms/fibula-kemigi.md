@@ -5,7 +5,7 @@ slug: fibula-kemigi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► baldır kemiği
+- baldır kemiği
 ozellikler:
 - - isim
   - anatomi

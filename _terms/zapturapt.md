@@ -5,7 +5,7 @@ slug: zapturapt
 letter: Z
 lisan: Arapça żabṭ + rabṭ
 anlamlar:
-- ► disiplin
+- disiplin
 ozellikler:
 - - isim
   - eskimiş

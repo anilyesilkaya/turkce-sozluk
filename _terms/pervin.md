@@ -5,7 +5,7 @@ slug: pervin
 letter: P
 lisan: Farsça pervīn
 anlamlar:
-- ► Ülker
+- Ülker
 ozellikler:
 - - isim
 ornekler:

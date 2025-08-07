@@ -5,7 +5,7 @@ slug: hakketmek
 letter: H
 lisan: Arapça ḥakk + Türkçe etmek
 anlamlar:
-- ► kakmak
+- kakmak
 - Yazı ve şekilleri kazıyarak silmek
 ozellikler:
 - - -e

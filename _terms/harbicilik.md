@@ -5,7 +5,7 @@ slug: harbicilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► doğruculuk
+- doğruculuk
 ozellikler:
 - - isim
 ornekler:

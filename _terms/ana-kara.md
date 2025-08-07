@@ -5,7 +5,7 @@ slug: ana-kara
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kıta
+- kıta
 ozellikler:
 - - isim
   - coğrafya

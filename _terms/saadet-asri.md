@@ -5,7 +5,7 @@ slug: saadet-asri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► asrısaadet
+- asrısaadet
 ozellikler:
 - - isim
 ornekler:

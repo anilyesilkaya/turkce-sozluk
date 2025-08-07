@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ilānihāye
 anlamlar:
 - Sonsuza kadar
-- ► sonsuz
+- sonsuz
 ozellikler:
 - - zarf
 - - zarf

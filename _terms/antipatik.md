@@ -5,7 +5,7 @@ slug: antipatik
 letter: A
 lisan: Fransızca antipathique
 anlamlar:
-- ► sevimsiz
+- sevimsiz
 ozellikler:
 - - sıfat
 ornekler:

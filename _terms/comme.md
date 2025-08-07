@@ -5,7 +5,7 @@ slug: comme
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çömelme
+- çömelme
 ozellikler:
 - - isim
 ornekler:

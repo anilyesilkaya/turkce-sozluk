@@ -5,7 +5,7 @@ slug: yolculamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► uğurlamak
+- uğurlamak
 ozellikler:
 - - -i
 ornekler:

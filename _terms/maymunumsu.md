@@ -5,7 +5,7 @@ slug: maymunumsu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maymunsu
+- maymunsu
 ozellikler:
 - - sıfat
 ornekler:

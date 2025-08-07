@@ -5,7 +5,7 @@ slug: bir-an-evvel
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir an önce
+- bir an önce
 ozellikler:
 - - zarf
 ornekler:

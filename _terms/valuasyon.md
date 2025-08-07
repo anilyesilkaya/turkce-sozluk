@@ -5,7 +5,7 @@ slug: valuasyon
 letter: V
 lisan: Fransızca valuation
 anlamlar:
-- ► değerleme
+- değerleme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kahkaha-firtinasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kahkaha tufanı
+- kahkaha tufanı
 ozellikler:
 - - isim
 ornekler:

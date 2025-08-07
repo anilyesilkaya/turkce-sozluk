@@ -12,7 +12,7 @@ anlamlar:
 - Derece veya makamı bakımından üstün
 - Normal değerlerin üstünde olan
 - Yukarıda, üst tarafta olan yer
-- ► erdemli
+- erdemli
 - Toplum içinde para, ün vb. bakımından üstünlüğü olan
 ozellikler:
 - - sıfat

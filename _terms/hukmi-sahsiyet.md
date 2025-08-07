@@ -5,7 +5,7 @@ slug: hukmi-sahsiyet
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► tüzel kişilik
+- tüzel kişilik
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: ules
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► pay
+- pay
 ozellikler:
 - - isim
 ornekler:

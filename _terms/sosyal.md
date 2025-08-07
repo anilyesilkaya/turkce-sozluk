@@ -5,7 +5,7 @@ slug: sosyal
 letter: S
 lisan: Fransızca social
 anlamlar:
-- ► toplumsal
+- toplumsal
 - Sosyal çevreye uyumlu (kimse)
 ozellikler:
 - - sıfat

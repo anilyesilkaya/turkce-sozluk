@@ -5,7 +5,7 @@ slug: sidik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar
+- idrar
 ozellikler:
 - - isim
 ornekler:

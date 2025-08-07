@@ -5,7 +5,7 @@ slug: kosullu-tepke
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şartlı refleks
+- şartlı refleks
 ozellikler:
 - - isim
   - ruh bilimi

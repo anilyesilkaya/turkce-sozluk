@@ -5,9 +5,9 @@ slug: budun
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kavim
-- ► ırk
-- ► millet
+- kavim
+- ırk
+- millet
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: kertikli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çentikli
+- çentikli
 ozellikler:
 - - sıfat
 ornekler:

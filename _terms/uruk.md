@@ -5,7 +5,7 @@ slug: uruk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► soy
+- soy
 ozellikler:
 - - isim
   - eskimiş

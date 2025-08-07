@@ -5,7 +5,7 @@ slug: devriye
 letter: D
 lisan: Arapça devriyye
 anlamlar:
-- ► kolluk (II)
+- kolluk (II)
 - Osmanlılarda ilmiye sınıfından olan kimselere verilen derece
 ozellikler:
 - - isim

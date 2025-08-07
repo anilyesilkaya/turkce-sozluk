@@ -5,7 +5,7 @@ slug: cobansuzgeci
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► yoğurt otu
+- yoğurt otu
 ozellikler:
 - - isim
   - bitki bilimi

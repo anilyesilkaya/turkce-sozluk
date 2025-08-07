@@ -5,7 +5,7 @@ slug: medeniyet-yulari
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kravat
+- kravat
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: kekelik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kekemelik
+- kekemelik
 ozellikler:
 - - isim
 ornekler:

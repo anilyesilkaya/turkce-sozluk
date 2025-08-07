@@ -5,7 +5,7 @@ slug: goknar
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► köknar
+- köknar
 ozellikler:
 - - isim
   - bitki bilimi

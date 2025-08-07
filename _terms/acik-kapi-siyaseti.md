@@ -5,7 +5,7 @@ slug: acik-kapi-siyaseti
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık kapı politikası
+- açık kapı politikası
 ozellikler:
 - - isim
   - ticaret

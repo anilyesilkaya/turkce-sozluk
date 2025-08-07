@@ -5,7 +5,7 @@ slug: aile-matinesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kadınlar matinesi
+- kadınlar matinesi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: oykucu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► hikâyeci
+- hikâyeci
 ozellikler:
 - - isim
 ornekler:

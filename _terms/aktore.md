@@ -5,7 +5,7 @@ slug: aktore
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ahlak
+- ahlak
 ozellikler:
 - - isim
 ornekler:

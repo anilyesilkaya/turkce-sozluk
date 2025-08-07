@@ -5,7 +5,7 @@ slug: yasamsal
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayati
+- hayati
 ozellikler:
 - - sıfat
 ornekler:

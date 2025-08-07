@@ -5,7 +5,7 @@ slug: merkezci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merkeziyetçi
+- merkeziyetçi
 ozellikler:
 - - sıfat
 ornekler:

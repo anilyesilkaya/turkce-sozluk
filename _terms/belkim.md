@@ -5,7 +5,7 @@ slug: belkim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belki
+- belki
 ozellikler:
 - - zarf
 ornekler:

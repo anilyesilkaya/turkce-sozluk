@@ -5,7 +5,7 @@ slug: asillestirmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► soylulaştırmak
+- soylulaştırmak
 ozellikler:
 - - -i
 ornekler:

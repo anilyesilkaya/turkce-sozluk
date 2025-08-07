@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳibṭī
 anlamlar:
 - Mısır halkından olan kimse
-- ► Çingene
+- Çingene
 ozellikler:
 - - isim
   - eskimiş

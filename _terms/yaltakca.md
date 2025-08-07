@@ -5,7 +5,7 @@ slug: yaltakca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkavukça
+- dalkavukça
 ozellikler:
 - - sıfat
   - zarf

@@ -5,7 +5,7 @@ slug: adaptasyon
 letter: A
 lisan: Fransızca adaptation
 anlamlar:
-- ► uyarlama
+- uyarlama
 - Uyum sağlama
 ozellikler:
 - - isim

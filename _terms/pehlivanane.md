@@ -5,7 +5,7 @@ slug: pehlivanane
 letter: P
 lisan: Farsça pehlevānāne
 anlamlar:
-- ► pehlivanca
+- pehlivanca
 ozellikler:
 - - zarf
   - eskimiş

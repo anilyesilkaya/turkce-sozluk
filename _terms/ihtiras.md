@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iḥtirāṣ
 anlamlar:
 - Aşırı, güçlü istek
-- ► tutku
+- tutku
 ozellikler:
 - - isim
 - - isim

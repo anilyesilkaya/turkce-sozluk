@@ -5,7 +5,7 @@ slug: tumleme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünleme
+- bütünleme
 - Yüklemi çeşitli yönleriyle tamamlama
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: multivizyon
 letter: M
 lisan: Fransızca multivision
 anlamlar:
-- ► çoklu gösterim
+- çoklu gösterim
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça ʿādī
 anlamlar:
 - Sıradan, hiçbir özelliği olmayan
 - Kalitesiz, kötü olan (mal)
-- ► aşağı
+- aşağı
 ozellikler:
 - - sıfat
 - - sıfat

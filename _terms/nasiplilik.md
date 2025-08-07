@@ -5,7 +5,7 @@ slug: nasiplilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kısmetlilik
+- kısmetlilik
 ozellikler:
 - - isim
 ornekler:

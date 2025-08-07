@@ -5,8 +5,8 @@ slug: alarga
 letter: A
 lisan: İtalyanca allarga
 anlamlar:
-- ► açık deniz
-- ► uzaktan
+- açık deniz
+- uzaktan
 - '"Açıktan geç, yaklaşma" anlamında kullanılan bir seslenme sözü'
 ozellikler:
 - - isim

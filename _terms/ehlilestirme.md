@@ -5,7 +5,7 @@ slug: ehlilestirme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evcilleştirme
+- evcilleştirme
 ozellikler:
 - - isim
 ornekler:

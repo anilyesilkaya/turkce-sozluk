@@ -5,7 +5,7 @@ slug: riziko
 letter: R
 lisan: İtalyanca risico
 anlamlar:
-- ► risk
+- risk
 ozellikler:
 - - isim
 ornekler:

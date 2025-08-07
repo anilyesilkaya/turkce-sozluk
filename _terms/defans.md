@@ -5,7 +5,7 @@ slug: defans
 letter: D
 lisan: Fransızca défense
 anlamlar:
-- ► savunma
+- savunma
 ozellikler:
 - - isim
   - spor

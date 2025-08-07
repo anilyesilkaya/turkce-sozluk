@@ -5,7 +5,7 @@ slug: saricicek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ölmez çiçek
+- ölmez çiçek
 ozellikler:
 - - isim
   - bitki bilimi

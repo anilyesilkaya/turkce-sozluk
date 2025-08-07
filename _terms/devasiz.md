@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - İyileştirilemeyen, ilacı bulunamayan
-- ► çaresiz
+- çaresiz
 ozellikler:
 - - sıfat
 - - sıfat

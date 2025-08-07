@@ -5,7 +5,7 @@ slug: tavassut
 letter: T
 lisan: Arapça tavassuṭ
 anlamlar:
-- ► aracılık
+- aracılık
 ozellikler:
 - - isim
   - eskimiş

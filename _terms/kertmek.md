@@ -5,7 +5,7 @@ slug: kertmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çentmek
+- çentmek
 - Sertçe sürtünmek
 ozellikler:
 - - -i

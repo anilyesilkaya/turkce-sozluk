@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça beşerī
 anlamlar:
 - İnsanoğlu ile ilgili
-- ► bedensel
+- bedensel
 ozellikler:
 - - sıfat
 - - sıfat

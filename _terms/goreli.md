@@ -5,7 +5,7 @@ slug: goreli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► bağıntılı
+- bağıntılı
 ozellikler:
 - - sıfat
   - felsefe

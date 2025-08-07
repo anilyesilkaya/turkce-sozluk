@@ -5,7 +5,7 @@ slug: dokumanter
 letter: D
 lisan: Fransızca documentaire
 anlamlar:
-- ► belgesel
+- belgesel
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: muharip
 letter: M
 lisan: Arapça muḥārib
 anlamlar:
-- ► savaşçı
+- savaşçı
 ozellikler:
 - - isim
   - askerlik

@@ -5,7 +5,7 @@ slug: denizkopugu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lüle taşı
+- lüle taşı
 ozellikler:
 - - isim
   - mineraloji

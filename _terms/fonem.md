@@ -5,7 +5,7 @@ slug: fonem
 letter: F
 lisan: Fransızca phonème
 anlamlar:
-- ► ses birimi
+- ses birimi
 ozellikler:
 - - isim
   - dil bilgisi

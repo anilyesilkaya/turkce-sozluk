@@ -5,7 +5,7 @@ slug: kusuntu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kusmuk
+- kusmuk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: olay-bilimi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► görüngü bilimi
+- görüngü bilimi
 ozellikler:
 - - isim
   - felsefe

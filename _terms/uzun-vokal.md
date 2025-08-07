@@ -5,7 +5,7 @@ slug: uzun-vokal
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzun ünlü
+- uzun ünlü
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,8 +5,8 @@ slug: istihzar
 letter: I
 lisan: Arapça istiḥżār
 anlamlar:
-- ► hazırlama
-- ► anımsama
+- hazırlama
+- anımsama
 ozellikler:
 - - isim
   - eskimiş

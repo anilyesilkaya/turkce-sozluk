@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Koltuğu altına almak
 - Koltuğuna girmek
-- ► pohpohlamak
+- pohpohlamak
 ozellikler:
 - - -i
 - - -i

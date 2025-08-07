@@ -5,7 +5,7 @@ slug: saylama
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seçme
+- seçme
 ozellikler:
 - - isim
 ornekler:

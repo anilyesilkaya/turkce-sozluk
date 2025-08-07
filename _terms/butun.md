@@ -5,7 +5,7 @@ slug: butun
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tam
+- tam
 - Bir şeyin hepsi; kamu, bilcümle, bilumum, cümle, cemi, tamam, umum
 - Bozuk olmayan (para)
 - Parçalara ayrılmamış, tek parçadan oluşan; tüm (I), yekpare

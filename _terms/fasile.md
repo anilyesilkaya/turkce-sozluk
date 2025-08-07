@@ -5,7 +5,7 @@ slug: fasile
 letter: F
 lisan: Arapça faṣīle
 anlamlar:
-- ► familya
+- familya
 ozellikler:
 - - isim
   - eskimiş

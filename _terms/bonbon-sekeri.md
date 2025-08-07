@@ -5,7 +5,7 @@ slug: bonbon-sekeri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bonbon
+- bonbon
 ozellikler:
 - - isim
 ornekler:

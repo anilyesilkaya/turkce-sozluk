@@ -5,10 +5,10 @@ slug: tahrir
 letter: T
 lisan: Arapça taḥrīr
 anlamlar:
-- ► yazma (I)
+- yazma (I)
 - Gözün renkli kısmındaki çizgiler; tahril
-- ► çizgi
-- ► kompozisyon
+- çizgi
+- kompozisyon
 ozellikler:
 - - isim
   - eskimiş

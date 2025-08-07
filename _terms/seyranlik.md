@@ -5,7 +5,7 @@ slug: seyranlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► gezinti yeri
+- gezinti yeri
 ozellikler:
 - - isim
 ornekler:

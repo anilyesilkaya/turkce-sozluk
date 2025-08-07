@@ -5,7 +5,7 @@ slug: surgun-avi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sürek avı
+- sürek avı
 ozellikler:
 - - isim
 ornekler:

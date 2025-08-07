@@ -5,7 +5,7 @@ slug: sahiden
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► gerçekten
+- gerçekten
 ozellikler:
 - - zarf
 ornekler:

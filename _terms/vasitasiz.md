@@ -5,8 +5,8 @@ slug: vasitasiz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► araçsız
-- ► doğrudan
+- araçsız
+- doğrudan
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: musfiklik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sevecenlik
+- sevecenlik
 ozellikler:
 - - isim
 ornekler:

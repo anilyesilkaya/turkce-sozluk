@@ -5,10 +5,10 @@ slug: katastrof
 letter: K
 lisan: Fransızca catastrophe
 anlamlar:
-- ► felaket
-- ► doğal afet
+- felaket
+- doğal afet
 - Bir şiir veya tiyatro oyununun sonu
-- ► fiyasko
+- fiyasko
 ozellikler:
 - - isim
 - - isim

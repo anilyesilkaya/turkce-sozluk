@@ -5,7 +5,7 @@ slug: oryantalizm
 letter: O
 lisan: Fransızca orientalisme
 anlamlar:
-- ► Doğu bilimi
+- Doğu bilimi
 ozellikler:
 - - isim
 ornekler:

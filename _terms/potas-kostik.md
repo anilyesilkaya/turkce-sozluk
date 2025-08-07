@@ -5,7 +5,7 @@ slug: potas-kostik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► potasyum hidroksit
+- potasyum hidroksit
 ozellikler:
 - - isim
 ornekler:

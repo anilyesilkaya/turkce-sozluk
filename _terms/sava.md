@@ -5,7 +5,7 @@ slug: sava
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► muştu
+- muştu
 ozellikler:
 - - ağızlardan
 ornekler:

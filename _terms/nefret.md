@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nefret
 anlamlar:
 - Bir kimsenin kötülüğünü, mutsuzluğunu istemeye yönelik duygu
-- ► tiksinme
+- tiksinme
 ozellikler:
 - - isim
 - - isim

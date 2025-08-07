@@ -5,7 +5,7 @@ slug: parca-purcuk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parça bölük
+- parça bölük
 ozellikler:
 - - sıfat
 ornekler:

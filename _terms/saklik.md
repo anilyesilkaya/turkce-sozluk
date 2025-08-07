@@ -5,7 +5,7 @@ slug: saklik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► uyanıklık
+- uyanıklık
 ozellikler:
 - - isim
 ornekler:

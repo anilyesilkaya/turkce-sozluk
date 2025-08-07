@@ -5,7 +5,7 @@ slug: moblesiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mobilyasız
+- mobilyasız
 ozellikler:
 - - sıfat
 ornekler:

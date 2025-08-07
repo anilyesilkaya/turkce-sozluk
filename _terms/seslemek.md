@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Dinlemek, kulak vermek
-- ► çağırmak
+- çağırmak
 ozellikler:
 - - -i
   - ağızlardan

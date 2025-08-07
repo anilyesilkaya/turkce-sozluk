@@ -5,7 +5,7 @@ slug: sacma-sapan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saçma
+- saçma
 ozellikler:
 - - sıfat
 ornekler:

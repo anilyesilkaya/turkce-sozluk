@@ -5,7 +5,7 @@ slug: kimlik-belgesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kimlik
+- kimlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: olay-bilimsel
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► görüngü bilimsel
+- görüngü bilimsel
 ozellikler:
 - - sıfat
 ornekler:

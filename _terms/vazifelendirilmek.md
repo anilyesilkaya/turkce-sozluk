@@ -5,8 +5,8 @@ slug: vazifelendirilmek
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ödevlendirilmek
-- ► görevlendirilmek
+- ödevlendirilmek
+- görevlendirilmek
 ozellikler:
 - - -e
   - nesnesiz

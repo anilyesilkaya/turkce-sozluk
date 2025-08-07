@@ -5,7 +5,7 @@ slug: yagmurca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dağ keçisi
+- dağ keçisi
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: hicci
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► nihilist
+- nihilist
 ozellikler:
 - - sıfat
   - felsefe

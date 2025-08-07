@@ -5,7 +5,7 @@ slug: dikisci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► terzi
+- terzi
 ozellikler:
 - - isim
 ornekler:

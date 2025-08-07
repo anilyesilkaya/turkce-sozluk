@@ -5,9 +5,9 @@ slug: sipsak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 - Çekildikten kısa süre sonra basılabilen; alamünit (fotoğraf)
-- ► şipşakçı
+- şipşakçı
 ozellikler:
 - - zarf
   - teklifsiz konuşmada

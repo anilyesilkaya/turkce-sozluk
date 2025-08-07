@@ -5,7 +5,7 @@ slug: oludoga
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► natürmort
+- natürmort
 ozellikler:
 - - isim
 ornekler:

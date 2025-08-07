@@ -7,7 +7,7 @@ lisan: Fransızca crème
 anlamlar:
 - Tene yumuşaklık vermek veya güneş, yağmur vb. dış etkilerden korunmak için sürülen koyu kıvamlı madde
 - Bu kıvamda hazırlanmış olan
-- ► krem rengi
+- krem rengi
 - Bu renkte olan
 ozellikler:
 - - isim

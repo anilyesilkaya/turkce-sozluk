@@ -5,7 +5,7 @@ slug: analjezik
 letter: A
 lisan: Fransızca analgésique
 anlamlar:
-- ► ağrı kesici
+- ağrı kesici
 ozellikler:
 - - sıfat
   - tıp

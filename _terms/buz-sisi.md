@@ -5,7 +5,7 @@ slug: buz-sisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► buzlu duman
+- buzlu duman
 ozellikler:
 - - isim
   - denizcilik

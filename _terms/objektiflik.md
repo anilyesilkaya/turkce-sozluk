@@ -5,7 +5,7 @@ slug: objektiflik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► nesnellik
+- nesnellik
 ozellikler:
 - - isim
 ornekler:

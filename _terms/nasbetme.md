@@ -5,7 +5,7 @@ slug: nasbetme
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► atama
+- atama
 ozellikler:
 - - isim
 ornekler:

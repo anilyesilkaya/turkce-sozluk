@@ -5,8 +5,8 @@ slug: seleksiyon
 letter: S
 lisan: Fransızca sélection
 anlamlar:
-- ► seçme
-- ► ayıklanma
+- seçme
+- ayıklanma
 ozellikler:
 - - isim
 - - isim

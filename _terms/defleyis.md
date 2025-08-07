@@ -5,8 +5,8 @@ slug: defleyis
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovuş
-- ► savış
+- kovuş
+- savış
 ozellikler:
 - - isim
 - - isim

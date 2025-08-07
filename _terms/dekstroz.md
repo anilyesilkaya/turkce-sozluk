@@ -5,7 +5,7 @@ slug: dekstroz
 letter: D
 lisan: Fransızca dextrose
 anlamlar:
-- ► nişasta şekeri
+- nişasta şekeri
 ozellikler:
 - - isim
   - kimya

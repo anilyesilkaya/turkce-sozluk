@@ -5,7 +5,7 @@ slug: katilesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kesinleşmek
+- kesinleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

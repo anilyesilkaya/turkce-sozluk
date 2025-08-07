@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Balon satan kimse
-- ► palavracı
+- palavracı
 ozellikler:
 - - isim
 - - isim

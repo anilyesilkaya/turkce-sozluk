@@ -5,7 +5,7 @@ slug: bruksel-lahanasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Frenk lahanası
+- Frenk lahanası
 ozellikler:
 - - isim
   - bitki bilimi

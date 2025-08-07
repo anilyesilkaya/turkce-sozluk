@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Nazır olma durumu
-- ► bakanlık
+- bakanlık
 ozellikler:
 - - isim
 - - isim

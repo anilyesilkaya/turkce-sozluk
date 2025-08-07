@@ -5,8 +5,8 @@ slug: regulasyon
 letter: R
 lisan: Fransızca régulation
 anlamlar:
-- ► ayarlama
-- ► düzenleme
+- ayarlama
+- düzenleme
 ozellikler:
 - - isim
 - - isim

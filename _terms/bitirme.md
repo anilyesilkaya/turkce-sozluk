@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirmek işi
-- ► sonuçlandırma
+- sonuçlandırma
 ozellikler:
 - - isim
 - - isim

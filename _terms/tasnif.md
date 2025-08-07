@@ -5,7 +5,7 @@ slug: tasnif
 letter: T
 lisan: Arapça taṣnīf
 anlamlar:
-- ► bölümleme
+- bölümleme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: salmalik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► otlak
+- otlak
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,8 +5,8 @@ slug: balcak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kabza
-- ► barçak
+- kabza
+- barçak
 ozellikler:
 - - isim
   - ağızlardan

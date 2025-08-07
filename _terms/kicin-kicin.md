@@ -5,7 +5,7 @@ slug: kicin-kicin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► geri geri
+- geri geri
 ozellikler:
 - - zarf
   - ağızlardan

@@ -11,7 +11,7 @@ anlamlar:
 - Bir sütunun, bir direğin tepeliği
 - Kâğıt veya zarf üstüne basılmış ad ve adres; antet
 - Bir yazının, bir kitabın bölümlerinin başına konulan ve konuyu kısaca tanıtan ibare; serlevha
-- ► başlık parası
+- başlık parası
 - Tablaların veya iş parçalarının düzgün kalmasını sağlamak amacı ile baş taraflarına takılan parça
 - Tekerlek parmaklarının çakılı olduğu kısım
 - Kadınların başlarına taktıkları altın, gümüş, boncuk ve taşlarla süslü şey

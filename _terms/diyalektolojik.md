@@ -5,7 +5,7 @@ slug: diyalektolojik
 letter: D
 lisan: Fransızca dialectologique
 anlamlar:
-- ► lehçe bilimsel
+- lehçe bilimsel
 ozellikler:
 - - sıfat
   - dil bilimi

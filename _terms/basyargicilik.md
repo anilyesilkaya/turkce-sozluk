@@ -5,7 +5,7 @@ slug: basyargicilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başhakemlik
+- başhakemlik
 ozellikler:
 - - isim
 ornekler:

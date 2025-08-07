@@ -5,7 +5,7 @@ slug: cepcilik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yankesicilik
+- yankesicilik
 ozellikler:
 - - isim
 ornekler:

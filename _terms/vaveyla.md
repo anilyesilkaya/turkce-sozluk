@@ -5,7 +5,7 @@ slug: vaveyla
 letter: V
 lisan: Arapça vāveylā
 anlamlar:
-- ► çığlık
+- çığlık
 ozellikler:
 - - isim
 ornekler:

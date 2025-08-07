@@ -5,7 +5,7 @@ slug: yasanak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kuvöz
+- kuvöz
 ozellikler:
 - - isim
 ornekler:

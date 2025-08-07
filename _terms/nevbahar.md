@@ -5,7 +5,7 @@ slug: nevbahar
 letter: N
 lisan: Farsça nev + bahār
 anlamlar:
-- ► ilkbahar
+- ilkbahar
 - Klasik Türk müziğinde birleşik bir makam
 ozellikler:
 - - isim

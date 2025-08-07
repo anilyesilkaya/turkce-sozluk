@@ -5,7 +5,7 @@ slug: resulmal
 letter: R
 lisan: Arapça reʾs + māl
 anlamlar:
-- ► sermaye
+- sermaye
 ozellikler:
 - - isim
   - eskimiş

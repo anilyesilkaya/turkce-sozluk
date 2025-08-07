@@ -5,8 +5,8 @@ slug: kara-yer
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► toprak
-- ► mezar
+- toprak
+- mezar
 - Beddualarda cehennem anlamında kullanılan bir söz
 ozellikler:
 - - isim

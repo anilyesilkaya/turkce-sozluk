@@ -5,7 +5,7 @@ slug: podosuet
 letter: P
 lisan: Fransızca peau de suède
 anlamlar:
-- ► süet
+- süet
 - Süetten yapılan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: milli-bayram
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Cumhuriyet Bayramı
+- Cumhuriyet Bayramı
 ozellikler:
 - - isim
 ornekler:

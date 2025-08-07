@@ -5,7 +5,7 @@ slug: menajer
 letter: M
 lisan: Fransızca manager
 anlamlar:
-- ► yönetici
+- yönetici
 - Bir sporcunun veya sanatçının mesleki işlerini düzenleyen ve yöneten kimse
 - Bir spor takımının teknik yöneticisi
 ozellikler:

@@ -9,7 +9,7 @@ anlamlar:
 - Bir işin öğretildiği yer
 - Bir işin yoğun olarak yapıldığı yer
 - Belirli bir yerin ortası; özek
-- ► polis karakolu
+- polis karakolu
 - Biçim, tarz
 - Bir kapalı eğrinin veya bazı çokgenlerde köşegenlerin kesişme noktası
 - Bir dairenin veya bir küre yüzeyinin her noktasından aynı uzaklıkta bulunan iç nokta

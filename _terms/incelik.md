@@ -8,7 +8,7 @@ anlamlar:
 - İnce olma durumu
 - İnce davranış gösterme; kibarlık, letafet
 - Bir işin herkesçe görülemeyen nitelikleri
-- ► ayrıntı
+- ayrıntı
 ozellikler:
 - - isim
 - - isim

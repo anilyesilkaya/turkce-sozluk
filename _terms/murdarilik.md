@@ -5,7 +5,7 @@ slug: murdarilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► omurilik
+- omurilik
 ozellikler:
 - - isim
   - eskimiş

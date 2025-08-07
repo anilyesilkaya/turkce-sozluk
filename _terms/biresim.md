@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Parçaların veya ögelerin bir araya getirilip bir bütün olarak birleştirilmesi
 - Bu biçimde oluşan bütün
-- ► sentez
+- sentez
 ozellikler:
 - - isim
 - - isim

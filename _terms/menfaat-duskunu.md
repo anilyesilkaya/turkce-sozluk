@@ -5,7 +5,7 @@ slug: menfaat-duskunu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çıkarcı
+- çıkarcı
 ozellikler:
 - - sıfat
 ornekler:

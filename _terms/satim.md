@@ -5,7 +5,7 @@ slug: satim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► satış
+- satış
 ozellikler:
 - - isim
   - ticaret

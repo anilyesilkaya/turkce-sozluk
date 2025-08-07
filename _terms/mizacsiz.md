@@ -5,7 +5,7 @@ slug: mizacsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► keyifsiz
+- keyifsiz
 ozellikler:
 - - sıfat
 ornekler:

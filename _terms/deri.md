@@ -5,7 +5,7 @@ slug: deri
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dernek
+- dernek
 ozellikler:
 - - isim
   - ağızlardan

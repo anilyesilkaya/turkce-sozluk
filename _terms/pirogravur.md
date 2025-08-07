@@ -5,7 +5,7 @@ slug: pirogravur
 letter: P
 lisan: Fransızca pyrogravure
 anlamlar:
-- ► dağlama resim
+- dağlama resim
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: aksiriverme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırıverme
+- hapşırıverme
 ozellikler:
 - - isim
 ornekler:

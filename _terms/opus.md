@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öpmek işi
-- ► öpücük
+- öpücük
 ozellikler:
 - - isim
 - - isim

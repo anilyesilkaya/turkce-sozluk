@@ -5,7 +5,7 @@ slug: hukuksallik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hukukilik
+- hukukilik
 ozellikler:
 - - isim
 ornekler:

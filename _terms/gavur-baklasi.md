@@ -5,7 +5,7 @@ slug: gavur-baklasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► termiye
+- termiye
 ozellikler:
 - - isim
   - bitki bilimi

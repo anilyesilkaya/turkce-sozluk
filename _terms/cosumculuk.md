@@ -5,7 +5,7 @@ slug: cosumculuk
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► romantizm
+- romantizm
 ozellikler:
 - - isim
 ornekler:

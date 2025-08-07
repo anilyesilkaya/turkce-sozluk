@@ -5,7 +5,7 @@ slug: gozu-gonlu-tok
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gözü tok
+- gözü tok
 ozellikler:
 - - sıfat
   - mecaz

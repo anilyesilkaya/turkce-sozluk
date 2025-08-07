@@ -5,7 +5,7 @@ slug: haksinaslik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haktanırlık
+- haktanırlık
 ozellikler:
 - - isim
 ornekler:

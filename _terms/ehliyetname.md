@@ -5,8 +5,8 @@ slug: ehliyetname
 letter: E
 lisan: Arapça ehliyyet + Farsça nāme
 anlamlar:
-- ► sürücü belgesi
-- ► yeterlik belgesi
+- sürücü belgesi
+- yeterlik belgesi
 ozellikler:
 - - isim
 - - isim

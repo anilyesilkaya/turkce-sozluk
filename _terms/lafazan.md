@@ -5,7 +5,7 @@ slug: lafazan
 letter: L
 lisan: Farsça lāfzen
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - eskimiş

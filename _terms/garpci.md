@@ -5,7 +5,7 @@ slug: garpci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Batıcı
+- Batıcı
 ozellikler:
 - - sıfat
 ornekler:

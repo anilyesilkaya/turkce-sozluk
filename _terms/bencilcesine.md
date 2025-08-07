@@ -5,7 +5,7 @@ slug: bencilcesine
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bencilce
+- bencilce
 ozellikler:
 - - zarf
 ornekler:

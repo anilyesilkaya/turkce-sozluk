@@ -5,8 +5,8 @@ slug: takdimcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanıtmacılık
-- ► sunuculuk
+- tanıtmacılık
+- sunuculuk
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: dikizci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gözetleyici
+- gözetleyici
 ozellikler:
 - - isim
 ornekler:

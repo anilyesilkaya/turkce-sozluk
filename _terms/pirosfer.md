@@ -5,7 +5,7 @@ slug: pirosfer
 letter: P
 lisan: Fransızca pyrosphère
 anlamlar:
-- ► ateş küre
+- ateş küre
 ozellikler:
 - - isim
   - jeoloji

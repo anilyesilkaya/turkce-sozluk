@@ -5,7 +5,7 @@ slug: genitif
 letter: G
 lisan: Fransızca génitif
 anlamlar:
-- ► ilgi durumu
+- ilgi durumu
 ozellikler:
 - - isim
   - dil bilgisi

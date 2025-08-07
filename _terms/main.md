@@ -5,7 +5,7 @@ slug: main
 letter: M
 lisan: Arapça maʿīn
 anlamlar:
-- ► eşkenar dörtgen
+- eşkenar dörtgen
 ozellikler:
 - - isim
   - eskimiş

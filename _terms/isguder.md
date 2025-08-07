@@ -5,7 +5,7 @@ slug: isguder
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► maslahatgüzar
+- maslahatgüzar
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça berzaḫ
 anlamlar:
 - Dinî inanışlara göre dünya ile ahiret arasında ruhların kıyameti bekledikleri yer
-- ► kıstak
+- kıstak
 - Zorlu, belalı geçit
 - Can sıkıcı, bunaltıcı yer
 ozellikler:

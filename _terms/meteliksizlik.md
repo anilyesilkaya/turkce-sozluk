@@ -5,7 +5,7 @@ slug: meteliksizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► züğürtlük
+- züğürtlük
 ozellikler:
 - - isim
 ornekler:

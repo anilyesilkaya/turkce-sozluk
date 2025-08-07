@@ -5,8 +5,8 @@ slug: pluralizm
 letter: P
 lisan: Fransızca pluralisme
 anlamlar:
-- ► çoğulculuk
-- ► çokçuluk
+- çoğulculuk
+- çokçuluk
 ozellikler:
 - - isim
   - toplum bilimi

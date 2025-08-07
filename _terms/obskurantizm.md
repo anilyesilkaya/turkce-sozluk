@@ -5,7 +5,7 @@ slug: obskurantizm
 letter: O
 lisan: Fransızca obscurantisme
 anlamlar:
-- ► bilmesinlercilik
+- bilmesinlercilik
 ozellikler:
 - - isim
   - toplum bilimi

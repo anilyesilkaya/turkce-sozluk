@@ -5,7 +5,7 @@ slug: detant
 letter: D
 lisan: Fransızca détente
 anlamlar:
-- ► yumuşama
+- yumuşama
 ozellikler:
 - - isim
 ornekler:

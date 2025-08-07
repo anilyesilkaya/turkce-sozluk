@@ -5,7 +5,7 @@ slug: serguzestci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► maceracı
+- maceracı
 ozellikler:
 - - isim
 ornekler:

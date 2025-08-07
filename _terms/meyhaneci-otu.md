@@ -5,7 +5,7 @@ slug: meyhaneci-otu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çobandüdüğü
+- çobandüdüğü
 ozellikler:
 - - isim
   - bitki bilimi

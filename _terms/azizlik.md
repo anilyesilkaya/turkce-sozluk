@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aziz olma durumu
-- ► muziplik
+- muziplik
 ozellikler:
 - - isim
 - - isim

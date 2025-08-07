@@ -5,7 +5,7 @@ slug: nikbin
 letter: N
 lisan: Farsça nīkbīn
 anlamlar:
-- ► iyimser
+- iyimser
 ozellikler:
 - - sıfat
   - eskimiş

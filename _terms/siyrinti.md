@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kapta kalan yemek, yemek artığı
 - Bir bezden el ile koparılan uzunca parça
-- ► sıyrık
+- sıyrık
 ozellikler:
 - - isim
 - - isim

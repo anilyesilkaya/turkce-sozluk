@@ -5,7 +5,7 @@ slug: cozumsel
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çözümlemeli
+- çözümlemeli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: konformist
 letter: K
 lisan: Fransızca conformiste
 anlamlar:
-- ► uymacı
+- uymacı
 ozellikler:
 - - sıfat
   - toplum bilimi

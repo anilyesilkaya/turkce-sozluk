@@ -5,7 +5,7 @@ slug: epilepsi
 letter: E
 lisan: Fransızca épilepsie
 anlamlar:
-- ► sara
+- sara
 ozellikler:
 - - isim
   - tıp

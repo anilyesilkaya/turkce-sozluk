@@ -5,7 +5,7 @@ slug: teknopark
 letter: T
 lisan: Fransızca technoparc
 anlamlar:
-- ► teknokent
+- teknokent
 ozellikler:
 - - isim
 ornekler:

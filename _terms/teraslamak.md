@@ -5,7 +5,7 @@ slug: teraslamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sekilemek
+- sekilemek
 ozellikler:
 - - -i
 ornekler:

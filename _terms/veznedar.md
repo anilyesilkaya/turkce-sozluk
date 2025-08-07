@@ -5,7 +5,7 @@ slug: veznedar
 letter: V
 lisan: Arapça vezne + Farsça -dār
 anlamlar:
-- ► vezneci
+- vezneci
 ozellikler:
 - - isim
 ornekler:

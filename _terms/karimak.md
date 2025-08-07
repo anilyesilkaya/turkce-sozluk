@@ -5,7 +5,7 @@ slug: karimak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yaşlanmak
+- yaşlanmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

@@ -5,7 +5,7 @@ slug: ski
 letter: S
 lisan: İngilizce ski
 anlamlar:
-- ► kayak
+- kayak
 ozellikler:
 - - isim
   - spor

@@ -5,7 +5,7 @@ slug: istanbul-nazendesi
 letter: İ
 lisan: 'Türkçe '
 anlamlar:
-- ► ıtırşahi
+- ıtırşahi
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: eyyam-efendisi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eyyam ağası
+- eyyam ağası
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: budun-bilimsel
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ırk bilimsel
+- ırk bilimsel
 ozellikler:
 - - sıfat
 ornekler:

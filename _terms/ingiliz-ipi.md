@@ -5,7 +5,7 @@ slug: ingiliz-ipi
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► İngiliz sicimi
+- İngiliz sicimi
 ozellikler:
 - - isim
 ornekler:

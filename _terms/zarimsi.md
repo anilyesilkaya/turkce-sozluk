@@ -5,7 +5,7 @@ slug: zarimsi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zarsı
+- zarsı
 ozellikler:
 - - sıfat
 ornekler:

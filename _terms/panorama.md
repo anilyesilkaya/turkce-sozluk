@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca panorama
 anlamlar:
 - Yüksek bir yerden bakıldığında göz önüne serilen geniş görünüş
-- ► genel görünüm
+- genel görünüm
 ozellikler:
 - - isim
 - - isim

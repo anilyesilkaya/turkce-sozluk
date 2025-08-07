@@ -5,7 +5,7 @@ slug: musavatsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşitsizlik
+- eşitsizlik
 ozellikler:
 - - isim
 ornekler:

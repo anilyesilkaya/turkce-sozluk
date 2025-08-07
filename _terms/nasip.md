@@ -7,7 +7,7 @@ lisan: Arapça naṣīb
 anlamlar:
 - Birinin payına düşen şey
 - Bir kimsenin elde edebildiği, sahip olabildiği şey
-- ► kısmet
+- kısmet
 - Günlük kazanç
 ozellikler:
 - - isim

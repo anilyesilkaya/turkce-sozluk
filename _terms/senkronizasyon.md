@@ -5,7 +5,7 @@ slug: senkronizasyon
 letter: S
 lisan: Fransızca synchronisation
 anlamlar:
-- ► eşleme
+- eşleme
 ozellikler:
 - - isim
   - sinema

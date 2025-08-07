@@ -5,7 +5,7 @@ slug: fena-kalpli
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kötü kalpli
+- kötü kalpli
 ozellikler:
 - - sıfat
   - mecaz

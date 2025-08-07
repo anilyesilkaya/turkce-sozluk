@@ -5,7 +5,7 @@ slug: april
 letter: A
 lisan: Ermenice
 anlamlar:
-- ► nisan
+- nisan
 ozellikler:
 - - isim
   - ağızlardan

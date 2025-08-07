@@ -5,7 +5,7 @@ slug: demincek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► demin
+- demin
 ozellikler:
 - - zarf
 ornekler:

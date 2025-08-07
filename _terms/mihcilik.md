@@ -5,7 +5,7 @@ slug: mihcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivicilik
+- çivicilik
 ozellikler:
 - - isim
 ornekler:

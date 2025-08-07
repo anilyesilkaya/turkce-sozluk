@@ -5,7 +5,7 @@ slug: hurma
 letter: H
 lisan: Farsça ḫurmā
 anlamlar:
-- ► hurma ağacı
+- hurma ağacı
 - Bu ağacın tatlı meyvesi
 ozellikler:
 - - isim

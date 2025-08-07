@@ -5,7 +5,7 @@ slug: kiraat
 letter: K
 lisan: Arapça ḳirāʾat
 anlamlar:
-- ► okuma
+- okuma
 - Kur'an'ı belli kural ve işaretlere göre okuma
 ozellikler:
 - - isim

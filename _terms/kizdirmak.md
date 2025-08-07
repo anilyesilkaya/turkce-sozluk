@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kızmasına neden olmak, kızmasını sağlamak
 - Bir yeri ısıtmak
-- ► öfkelendirmek
+- öfkelendirmek
 ozellikler:
 - - -i
 - - -i

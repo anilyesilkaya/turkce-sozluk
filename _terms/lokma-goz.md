@@ -5,7 +5,7 @@ slug: lokma-goz
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► patlak göz
+- patlak göz
 ozellikler:
 - - isim
 ornekler:

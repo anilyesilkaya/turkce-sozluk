@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Hayvanın eskiyen nallarını onarmak, eskiyen nalın çivilerini yenilemek
 - Düven taşlarını yeniden koymak veya onarmak
-- ► sövmek
+- sövmek
 ozellikler:
 - - -i
   - ağızlardan

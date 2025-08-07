@@ -5,7 +5,7 @@ slug: yildirim-siperi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıldırımsavar
+- yıldırımsavar
 ozellikler:
 - - isim
 ornekler:

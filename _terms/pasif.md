@@ -5,7 +5,7 @@ slug: pasif
 letter: P
 lisan: Fransızca passif
 anlamlar:
-- ► edilgin
+- edilgin
 - Çekingen, durgun
 - Bir mal varlığı üstünde etki yapan, para ile değerlendirilebilir borç ve yükümlülüklerin toplamı
 ozellikler:

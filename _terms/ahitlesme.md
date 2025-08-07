@@ -5,7 +5,7 @@ slug: ahitlesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► antlaşma
+- antlaşma
 ozellikler:
 - - isim
 ornekler:

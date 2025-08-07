@@ -5,7 +5,7 @@ slug: hapaz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► avuç
+- avuç
 ozellikler:
 - - isim
   - ağızlardan

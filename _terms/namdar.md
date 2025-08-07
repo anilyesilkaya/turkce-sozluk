@@ -5,7 +5,7 @@ slug: namdar
 letter: N
 lisan: Farsça nāmdār
 anlamlar:
-- ► ünlü
+- ünlü
 ozellikler:
 - - sıfat
   - eskimiş

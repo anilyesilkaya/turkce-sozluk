@@ -5,7 +5,7 @@ slug: kartograf
 letter: K
 lisan: Fransızca cartographe
 anlamlar:
-- ► haritacı
+- haritacı
 ozellikler:
 - - isim
 ornekler:

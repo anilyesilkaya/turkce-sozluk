@@ -5,7 +5,7 @@ slug: beher
 letter: B
 lisan: Almanca Becher
 anlamlar:
-- ► beherglas
+- beherglas
 ozellikler:
 - - isim
   - kimya

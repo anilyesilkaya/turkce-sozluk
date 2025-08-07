@@ -5,7 +5,7 @@ slug: montgomer
 letter: M
 lisan: (Montgomery özel adından)
 anlamlar:
-- ► mont
+- mont
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hakasca
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Hakas Türkçesi
+- Hakas Türkçesi
 ozellikler:
 - - isim
 ornekler:

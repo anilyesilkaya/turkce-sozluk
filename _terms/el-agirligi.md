@@ -5,7 +5,7 @@ slug: el-agirligi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► dambıl
+- dambıl
 ozellikler:
 - - isim
   - spor

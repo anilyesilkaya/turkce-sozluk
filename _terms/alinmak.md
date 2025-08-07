@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Alma işi yapılmak
 - Elde edilmek
-- ► uyarlanmak
+- uyarlanmak
 - Bir sözün, bir davranışın kendisine söylendiğini veya yapıldığını sanarak incinmek
 ozellikler:
 - - -e

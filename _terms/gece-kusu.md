@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Geceleri gezmeyi seven kimse
 - Geceleri uyuyamayan kimse
-- ► yarasa
+- yarasa
 ozellikler:
 - - isim
   - mecaz

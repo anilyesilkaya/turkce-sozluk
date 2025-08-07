@@ -5,7 +5,7 @@ slug: serinkanli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğukkanlı
+- soğukkanlı
 - Soğukkanlı bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: yatar-koltuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pulman
+- pulman
 ozellikler:
 - - isim
 ornekler:

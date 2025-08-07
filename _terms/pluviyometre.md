@@ -5,7 +5,7 @@ slug: pluviyometre
 letter: P
 lisan: Fransızca pluviomètre
 anlamlar:
-- ► yağışölçer
+- yağışölçer
 ozellikler:
 - - isim
 ornekler:

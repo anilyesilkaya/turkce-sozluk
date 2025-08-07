@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Katlanmak işi; katlantı
-- ► tahammül
+- tahammül
 ozellikler:
 - - isim
 - - isim

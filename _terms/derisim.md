@@ -5,7 +5,7 @@ slug: derisim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► konsantrasyon
+- konsantrasyon
 ozellikler:
 - - isim
   - kimya

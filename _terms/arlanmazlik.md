@@ -5,7 +5,7 @@ slug: arlanmazlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► utanmazlık
+- utanmazlık
 ozellikler:
 - - isim
 ornekler:

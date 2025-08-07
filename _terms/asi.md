@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Asmak işi
-- ► afiş
+- afiş
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: adale
 letter: A
 lisan: Arapça ʿażale
 anlamlar:
-- ► kas
+- kas
 ozellikler:
 - - isim
   - anatomi

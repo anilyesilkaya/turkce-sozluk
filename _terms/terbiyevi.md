@@ -5,7 +5,7 @@ slug: terbiyevi
 letter: T
 lisan: Arapça terbiyevī
 anlamlar:
-- ► eğitimsel
+- eğitimsel
 ozellikler:
 - - sıfat
   - eskimiş

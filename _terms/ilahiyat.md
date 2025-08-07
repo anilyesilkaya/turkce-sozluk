@@ -5,7 +5,7 @@ slug: ilahiyat
 letter: I
 lisan: Arapça ilāhiyyāt
 anlamlar:
-- ► tanrı bilimi
+- tanrı bilimi
 ozellikler:
 - - isim
   - felsefe

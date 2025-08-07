@@ -5,7 +5,7 @@ slug: senaristlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► senaryoculuk
+- senaryoculuk
 ozellikler:
 - - isim
 ornekler:

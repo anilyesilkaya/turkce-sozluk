@@ -5,7 +5,7 @@ slug: abus
 letter: A
 lisan: Arapça ʿabūs
 anlamlar:
-- ► somurtkan
+- somurtkan
 - Çatık, asık (yüz)
 - Garip ve acayip olan
 - İnsana baskı yapan, olumsuz etki eden

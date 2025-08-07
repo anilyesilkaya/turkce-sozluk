@@ -5,7 +5,7 @@ slug: demonstrasyon
 letter: D
 lisan: Fransızca démonstration
 anlamlar:
-- ► tanıtım sunumu
+- tanıtım sunumu
 ozellikler:
 - - isim
 ornekler:

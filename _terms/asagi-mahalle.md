@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Bulunulan yere göre alt tarafta kalan mahalle
-- ► genelev
+- genelev
 ozellikler:
 - - isim
 - - isim

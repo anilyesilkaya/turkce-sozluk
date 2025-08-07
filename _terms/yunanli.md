@@ -5,7 +5,7 @@ slug: yunanli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yunan
+- Yunan
 - Yunanistan’da yaşayan kimse; Yunanistanlı
 ozellikler:
 - - isim

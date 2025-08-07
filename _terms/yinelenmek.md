@@ -5,7 +5,7 @@ slug: yinelenmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tekrarlanmak
+- tekrarlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

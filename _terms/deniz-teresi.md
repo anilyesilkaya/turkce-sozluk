@@ -5,7 +5,7 @@ slug: deniz-teresi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► deniz rezenesi
+- deniz rezenesi
 ozellikler:
 - - isim
   - bitki bilimi

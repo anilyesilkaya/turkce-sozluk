@@ -5,7 +5,7 @@ slug: kocalma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yaşlanma
+- yaşlanma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zannedis
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sanış
+- sanış
 ozellikler:
 - - isim
 ornekler:

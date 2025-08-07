@@ -5,7 +5,7 @@ slug: vecibe
 letter: V
 lisan: Arapça vecībe
 anlamlar:
-- ► boyun borcu
+- boyun borcu
 ozellikler:
 - - isim
   - eskimiş

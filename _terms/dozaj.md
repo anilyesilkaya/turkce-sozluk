@@ -5,7 +5,7 @@ slug: dozaj
 letter: D
 lisan: Fransızca dosage
 anlamlar:
-- ► doz
+- doz
 - Bir birleşiğe veya bir karışıma girecek madde miktarlarının belirtilmesi; düzem
 ozellikler:
 - - isim

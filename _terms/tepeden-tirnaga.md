@@ -5,7 +5,7 @@ slug: tepeden-tirnaga
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 - Baştan aşağı, her yanıyla, tepeden ayağa
 ozellikler:
 - - zarf

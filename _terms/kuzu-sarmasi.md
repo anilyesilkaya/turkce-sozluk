@@ -5,7 +5,7 @@ slug: kuzu-sarmasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuzu dolması
+- kuzu dolması
 ozellikler:
 - - isim
 ornekler:

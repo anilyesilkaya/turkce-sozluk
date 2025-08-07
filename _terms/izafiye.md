@@ -5,7 +5,7 @@ slug: izafiye
 letter: I
 lisan: Arapça iżāfiyye
 anlamlar:
-- ► bağıntılılık
+- bağıntılılık
 ozellikler:
 - - isim
   - eskimiş

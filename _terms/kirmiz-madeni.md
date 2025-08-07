@@ -5,7 +5,7 @@ slug: kirmiz-madeni
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► madenkırmız
+- madenkırmız
 ozellikler:
 - - isim
   - kimya

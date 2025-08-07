@@ -5,7 +5,7 @@ slug: dairevi
 letter: D
 lisan: Arapça dāʾirevī
 anlamlar:
-- ► dairesel
+- dairesel
 ozellikler:
 - - sıfat
 ornekler:

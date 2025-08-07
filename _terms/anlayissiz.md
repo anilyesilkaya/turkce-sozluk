@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayışı kıt olan; ferasetsiz, idraksiz, izansız
-- ► hoşgörüsüz
+- hoşgörüsüz
 ozellikler:
 - - sıfat
 - - sıfat

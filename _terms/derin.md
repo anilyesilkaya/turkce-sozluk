@@ -8,11 +8,11 @@ anlamlar:
 - Dibi yüzeyinden veya ağzından uzak olan
 - Yüzeyden içeri inen
 - Kendi türünde çok gelişmiş, en ileri durumda olan
-- ► yoğun
+- yoğun
 - Uzun süren
-- ► ayrıntılı
+- ayrıntılı
 - İçten gelen
-- ► dip
+- dip
 ozellikler:
 - - sıfat
 - - sıfat

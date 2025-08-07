@@ -5,7 +5,7 @@ slug: dunyasallasmak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dünyevileşmek
+- dünyevileşmek
 ozellikler:
 - - nesnesiz
   - felsefe

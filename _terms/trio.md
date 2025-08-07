@@ -5,7 +5,7 @@ slug: trio
 letter: T
 lisan: İtalyanca trio
 anlamlar:
-- ► üçlü
+- üçlü
 ozellikler:
 - - sıfat
   - müzik

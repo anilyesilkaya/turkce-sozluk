@@ -5,7 +5,7 @@ slug: beraat
 letter: B
 lisan: Arapça berāʾat
 anlamlar:
-- ► aklanma
+- aklanma
 ozellikler:
 - - isim
   - hukuk

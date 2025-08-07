@@ -5,7 +5,7 @@ slug: umumilestirilmek
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genelleştirilmek
+- genelleştirilmek
 ozellikler:
 - - nesnesiz
 ornekler:

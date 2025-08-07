@@ -5,7 +5,7 @@ slug: pelenk
 letter: P
 lisan: Farsça peleng
 anlamlar:
-- ► pars
+- pars
 ozellikler:
 - - isim
   - eskimiş

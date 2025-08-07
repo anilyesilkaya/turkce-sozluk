@@ -5,7 +5,7 @@ slug: savul
 letter: Ş
 lisan: Arapça şāḳūl
 anlamlar:
-- ► çekül
+- çekül
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: muracaatci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► başvurucu
+- başvurucu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: surupsuz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şerbetsiz
+- şerbetsiz
 ozellikler:
 - - sıfat
 ornekler:

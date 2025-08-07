@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Patlıcangillerden, birleşiminde nikotin bulunan otsu bir bitki (Nicotiana tabacum)
 - Bu bitkinin kurutulup kıyılarak sigara biçiminde veya pipoyla içilen yaprağı
-- ► duman
+- duman
 ozellikler:
 - - isim
   - bitki bilimi

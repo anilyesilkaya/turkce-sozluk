@@ -5,7 +5,7 @@ slug: tane-tane
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teker teker
+- teker teker
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: teftis
 letter: T
 lisan: Arapça teftīş
 anlamlar:
-- ► denetleme
+- denetleme
 ozellikler:
 - - isim
 ornekler:

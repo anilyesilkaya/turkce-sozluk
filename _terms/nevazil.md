@@ -5,7 +5,7 @@ slug: nevazil
 letter: N
 lisan: Arapça nevāzil
 anlamlar:
-- ► nezle
+- nezle
 ozellikler:
 - - isim
   - eskimiş

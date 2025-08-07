@@ -5,7 +5,7 @@ slug: arzusuzluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► isteksizlik
+- isteksizlik
 ozellikler:
 - - isim
 ornekler:

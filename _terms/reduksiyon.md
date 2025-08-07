@@ -5,7 +5,7 @@ slug: reduksiyon
 letter: R
 lisan: Fransızca reduction
 anlamlar:
-- ► indirgeme
+- indirgeme
 ozellikler:
 - - isim
   - kimya

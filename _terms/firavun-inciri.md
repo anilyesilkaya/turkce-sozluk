@@ -5,7 +5,7 @@ slug: firavun-inciri
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► Frenk inciri
+- Frenk inciri
 ozellikler:
 - - isim
   - bitki bilimi

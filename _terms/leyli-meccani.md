@@ -5,7 +5,7 @@ slug: leyli-meccani
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► parasız yatılı
+- parasız yatılı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: siki-denetimcilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sansürcülük
+- sansürcülük
 ozellikler:
 - - isim
 ornekler:

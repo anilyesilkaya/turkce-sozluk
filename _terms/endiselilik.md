@@ -5,7 +5,7 @@ slug: endiselilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılılık
+- kaygılılık
 ozellikler:
 - - isim
 ornekler:

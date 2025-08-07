@@ -5,7 +5,7 @@ slug: hamiyetperver
 letter: H
 lisan: Arapça ḥamiyyet + Farsça -perver
 anlamlar:
-- ► hamiyetli
+- hamiyetli
 ozellikler:
 - - sıfat
   - eskimiş

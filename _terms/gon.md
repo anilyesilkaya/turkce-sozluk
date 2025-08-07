@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - İşlenmiş deri
-- ► kösele
+- kösele
 - Hayvan derisi
 ozellikler:
 - - isim

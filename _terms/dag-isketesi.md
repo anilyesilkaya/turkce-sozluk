@@ -5,7 +5,7 @@ slug: dag-isketesi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► fanta
+- fanta
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,9 +5,9 @@ slug: gun
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güneş
+- güneş
 - Güneş ışığı
-- ► gündüz
+- gündüz
 - Yer yuvarlağının kendi ekseni etrafında bir kez dönmesiyle geçen 24 saatlik süre; ruz
 - İçinde bulunulan zaman
 - Zaman, sıra

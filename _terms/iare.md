@@ -5,7 +5,7 @@ slug: iare
 letter: I
 lisan: Arapça iʿāre
 anlamlar:
-- ► ödünç
+- ödünç
 - Ödünç verme
 ozellikler:
 - - isim

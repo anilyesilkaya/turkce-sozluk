@@ -5,7 +5,7 @@ slug: sitoloji
 letter: S
 lisan: Fransızca cytologie
 anlamlar:
-- ► hücre bilimi
+- hücre bilimi
 ozellikler:
 - - isim
 ornekler:

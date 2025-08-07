@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönü olmayan
-- ► amaçsız
+- amaçsız
 ozellikler:
 - - sıfat
 - - sıfat

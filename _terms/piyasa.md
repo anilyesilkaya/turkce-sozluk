@@ -9,7 +9,7 @@ anlamlar:
 - Bir yol üzerinde gidip gelerek gezinme
 - Alışveriş fiyatı, geçerli fiyat
 - Arz ve talebin karşılaştığı alan
-- ► ortalık
+- ortalık
 ozellikler:
 - - isim
 - - isim

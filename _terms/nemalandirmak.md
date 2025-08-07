@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Nemalanmasını sağlamak
-- ► faizlendirmek
+- faizlendirmek
 ozellikler:
 - - -i
 - - -i

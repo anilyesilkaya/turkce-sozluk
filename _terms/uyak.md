@@ -5,7 +5,7 @@ slug: uyak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiye
+- kafiye
 ozellikler:
 - - isim
   - edebiyat

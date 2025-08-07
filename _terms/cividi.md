@@ -5,7 +5,7 @@ slug: cividi
 letter: Ç
 lisan: Türkçe çivit + Arapça -ī
 anlamlar:
-- ► çivit rengi
+- çivit rengi
 - Bu renkte olan
 ozellikler:
 - - isim

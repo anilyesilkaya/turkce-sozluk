@@ -5,7 +5,7 @@ slug: mel-mel
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bel bel
+- bel bel
 ozellikler:
 - - zarf
   - ağızlardan

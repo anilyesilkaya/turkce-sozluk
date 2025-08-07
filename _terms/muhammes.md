@@ -5,9 +5,9 @@ slug: muhammes
 letter: M
 lisan: Arapça muḫammes
 anlamlar:
-- ► beşli
-- ► beşgen
-- ► beşli
+- beşli
+- beşgen
+- beşli
 ozellikler:
 - - sıfat
   - eskimiş

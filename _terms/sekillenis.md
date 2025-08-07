@@ -5,7 +5,7 @@ slug: sekillenis
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimleniş
+- biçimleniş
 ozellikler:
 - - isim
 ornekler:

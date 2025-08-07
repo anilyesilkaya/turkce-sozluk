@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Öğretimde, öğrencinin değerlendirilmesinde kullanılan en yüksek başarı derecesi
-- ► evet
+- evet
 ozellikler:
 - - isim
 - - isim

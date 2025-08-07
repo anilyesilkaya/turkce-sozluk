@@ -5,7 +5,7 @@ slug: erkin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► liberal
+- liberal
 ozellikler:
 - - sıfat
 ornekler:

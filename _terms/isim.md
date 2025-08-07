@@ -5,9 +5,9 @@ slug: isim
 letter: I
 lisan: Arapça ism
 anlamlar:
-- ► ad (I)
+- ad (I)
 - Kişi, insan
-- ► ad (I)
+- ad (I)
 ozellikler:
 - - isim
 - - isim

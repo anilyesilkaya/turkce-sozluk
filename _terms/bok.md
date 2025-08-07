@@ -5,7 +5,7 @@ slug: bok
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dışkı
+- dışkı
 - Güç durum
 - Hor görülen, tiksinilen
 ozellikler:

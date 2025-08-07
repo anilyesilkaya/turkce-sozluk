@@ -5,7 +5,7 @@ slug: mutenevvi
 letter: M
 lisan: Arapça mutenevviʿ
 anlamlar:
-- ► çeşitli
+- çeşitli
 ozellikler:
 - - sıfat
   - eskimiş

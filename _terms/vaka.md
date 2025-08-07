@@ -5,7 +5,7 @@ slug: vaka
 letter: V
 lisan: Arapça vaḳʿa
 anlamlar:
-- ► olay
+- olay
 - Herhangi bir hastalığa yakalanma durumlarından her biri
 ozellikler:
 - - isim

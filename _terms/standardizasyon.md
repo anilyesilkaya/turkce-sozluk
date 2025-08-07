@@ -5,7 +5,7 @@ slug: standardizasyon
 letter: S
 lisan: Fransızca standardisation
 anlamlar:
-- ► standartlaşma
+- standartlaşma
 ozellikler:
 - - isim
 ornekler:

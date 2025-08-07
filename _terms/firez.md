@@ -5,7 +5,7 @@ slug: firez
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ekin
+- ekin
 - Biçilmiş tarlada kalan tahıl kökleri
 ozellikler:
 - - isim

@@ -8,7 +8,7 @@ anlamlar:
 - Bir maddenin başka bir madde içine karışmasını sağlamak
 - İçinde ne olduğunu anlamak veya aradığını bulmak amacıyla elle yoklamak
 - Yemeği dibinin tutmaması için kaşıkla altüst etmek
-- ► kurcalamak
+- kurcalamak
 - Bir şeye göz atmak, ayrıntılarıyla incelemek
 - Üstünkörü okumak
 - Ayırt edememek, tam olarak seçememek

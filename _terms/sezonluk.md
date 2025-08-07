@@ -5,7 +5,7 @@ slug: sezonluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mevsimlik
+- mevsimlik
 - Belirli bir süre içinde uygulanan
 ozellikler:
 - - sıfat

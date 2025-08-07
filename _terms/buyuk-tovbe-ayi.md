@@ -5,7 +5,7 @@ slug: buyuk-tovbe-ayi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► cemaziyelevvel
+- cemaziyelevvel
 ozellikler:
 - - isim
 ornekler:

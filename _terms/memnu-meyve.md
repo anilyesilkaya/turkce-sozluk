@@ -5,7 +5,7 @@ slug: memnu-meyve
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yasak meyve
+- yasak meyve
 - Dokunulması, elde edilmesi yasaklanan şey
 ozellikler:
 - - isim

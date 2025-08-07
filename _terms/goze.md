@@ -5,8 +5,8 @@ slug: goze
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hücre
-- ► pınar
+- hücre
+- pınar
 ozellikler:
 - - isim
   - anatomi

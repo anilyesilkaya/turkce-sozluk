@@ -5,8 +5,8 @@ slug: minimal
 letter: M
 lisan: Fransızca minimal
 anlamlar:
-- ► minimum
-- ► asgari
+- minimum
+- asgari
 ozellikler:
 - - sıfat
   - matematik

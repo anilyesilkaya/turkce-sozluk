@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça bedīʿiyyāt
 anlamlar:
 - Estetik bilimi, güzel sanatlar
-- ► estetik
+- estetik
 ozellikler:
 - - isim
   - eskimiş

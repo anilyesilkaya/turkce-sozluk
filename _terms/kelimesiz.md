@@ -5,7 +5,7 @@ slug: kelimesiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sözsüz
+- sözsüz
 - Kelime kullanmadan
 ozellikler:
 - - sıfat

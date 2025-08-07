@@ -5,7 +5,7 @@ slug: adalet-mahkemesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adliye mahkemesi
+- adliye mahkemesi
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: kargis
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► beddua, alkış karşıtı
+- beddua, alkış karşıtı
 ozellikler:
 - - isim
   - ağızlardan

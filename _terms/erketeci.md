@@ -5,7 +5,7 @@ slug: erketeci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► gözetleyici
+- gözetleyici
 ozellikler:
 - - isim
 ornekler:

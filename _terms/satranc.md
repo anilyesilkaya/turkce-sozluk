@@ -5,7 +5,7 @@ slug: satranc
 letter: Ş
 lisan: Arapça saṭrenc
 anlamlar:
-- ► satranç
+- satranç
 ozellikler:
 - - isim
 ornekler:

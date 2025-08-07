@@ -5,7 +5,7 @@ slug: donor
 letter: D
 lisan: Fransızca donneur
 anlamlar:
-- ► verici
+- verici
 ozellikler:
 - - isim
   - tıp

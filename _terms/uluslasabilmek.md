@@ -5,7 +5,7 @@ slug: uluslasabilmek
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletleşebilmek
+- milletleşebilmek
 ozellikler:
 - - nesnesiz
 ornekler:

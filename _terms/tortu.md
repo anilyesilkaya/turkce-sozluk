@@ -5,10 +5,10 @@ slug: tortu
 letter: T
 lisan: Farsça durdī
 anlamlar:
-- ► çökelti
+- çökelti
 - Bir şeyin bayağı, işe yaramaz duruma gelmiş olanı
 - Bir topluluğun soysuzlaşmış üyeleri
-- ► kalıntı
+- kalıntı
 ozellikler:
 - - isim
   - kimya

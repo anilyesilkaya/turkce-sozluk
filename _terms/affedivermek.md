@@ -5,7 +5,7 @@ slug: affedivermek
 letter: A
 lisan: Arapça ‘afv + Türkçe edivermek
 anlamlar:
-- ► bağışlayıvermek
+- bağışlayıvermek
 ozellikler:
 - - isim
 ornekler:

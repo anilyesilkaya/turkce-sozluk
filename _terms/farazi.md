@@ -5,7 +5,7 @@ slug: farazi
 letter: F
 lisan: Arapça farżī
 anlamlar:
-- ► varsayımsal
+- varsayımsal
 ozellikler:
 - - sıfat
   - eskimiş

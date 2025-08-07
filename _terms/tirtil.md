@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çevresinde kertikler bulunan ve işlenecek parça üzerine bastırılarak bu kertiklerin izini parçaya basmaya yarayan çelik disk
 - Pulların veya metal paraların kenarındaki kertikleri oluşturan çıkıntılardan her biri
-- ► palet
+- palet
 - Bir şeyin kenarına çizilen zincir gibi çiçeklerden yapılan süs
 - Maraş işi veya diğer elbise nakışlarında kullanılan altın, gümüş gereç
 ozellikler:

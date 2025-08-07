@@ -5,7 +5,7 @@ slug: ilan-tahtasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► duyurumluk
+- duyurumluk
 ozellikler:
 - - isim
 ornekler:

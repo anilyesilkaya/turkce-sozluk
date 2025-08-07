@@ -5,7 +5,7 @@ slug: mustahdem
 letter: M
 lisan: Arapça mustaḫdem
 anlamlar:
-- ► hizmetli
+- hizmetli
 ozellikler:
 - - isim
 ornekler:

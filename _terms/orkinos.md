@@ -5,7 +5,7 @@ slug: orkinos
 letter: O
 lisan: Rumca
 anlamlar:
-- ► ton balığı
+- ton balığı
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: abartmacilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► abartıcılık
+- abartıcılık
 ozellikler:
 - - isim
 ornekler:

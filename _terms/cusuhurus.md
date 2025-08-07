@@ -5,7 +5,7 @@ slug: cusuhurus
 letter: C
 lisan: Farsça cūş + ḫurūş
 anlamlar:
-- ► coşkunluk
+- coşkunluk
 ozellikler:
 - - isim
   - eskimiş

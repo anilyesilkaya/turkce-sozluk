@@ -5,7 +5,7 @@ slug: kari
 letter: K
 lisan: Arapça ḳāriʾ
 anlamlar:
-- ► okuyucu
+- okuyucu
 - Kur'an'ı kurallarına uygun bir biçimde okuyan kimse
 ozellikler:
 - - isim

@@ -5,8 +5,8 @@ slug: terbi
 letter: T
 lisan: Arapça terbīʿ
 anlamlar:
-- ► dördün
-- ► dörtleme
+- dördün
+- dörtleme
 ozellikler:
 - - isim
   - eskimiş

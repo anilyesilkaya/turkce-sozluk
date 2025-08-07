@@ -5,7 +5,7 @@ slug: elmacik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elmacık kemiği
+- elmacık kemiği
 ozellikler:
 - - isim
   - anatomi

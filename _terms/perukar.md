@@ -5,7 +5,7 @@ slug: perukar
 letter: P
 lisan: İtalyanca parrucchiere
 anlamlar:
-- ► berber
+- berber
 ozellikler:
 - - isim
   - eskimiş

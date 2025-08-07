@@ -5,7 +5,7 @@ slug: abadi
 letter: A
 lisan: Farsça ābādį
 anlamlar:
-- ► abadi kâğıt
+- abadi kâğıt
 ozellikler:
 - - isim
   - eskimiş

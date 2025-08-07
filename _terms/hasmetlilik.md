@@ -5,7 +5,7 @@ slug: hasmetlilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► görkemlilik
+- görkemlilik
 ozellikler:
 - - isim
 ornekler:

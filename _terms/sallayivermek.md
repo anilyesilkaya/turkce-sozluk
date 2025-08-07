@@ -5,7 +5,7 @@ slug: sallayivermek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sallamak
+- sallamak
 - Ansızın sallamak
 ozellikler:
 - - -i

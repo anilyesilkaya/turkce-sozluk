@@ -5,7 +5,7 @@ slug: guzelhatun-cicegi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► nergis zambağı
+- nergis zambağı
 ozellikler:
 - - isim
   - bitki bilimi

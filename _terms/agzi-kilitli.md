@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Sır saklayan
-- ► oruçlu
+- oruçlu
 ozellikler:
 - - sıfat
   - mecaz

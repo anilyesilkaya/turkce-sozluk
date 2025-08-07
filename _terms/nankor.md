@@ -5,7 +5,7 @@ slug: nankor
 letter: N
 lisan: Farsça nānkūr
 anlamlar:
-- ► iyilikbilmez
+- iyilikbilmez
 ozellikler:
 - - sıfat
 ornekler:

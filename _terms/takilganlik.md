@@ -5,7 +5,7 @@ slug: takilganlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► muziplik
+- muziplik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: acik-seslem
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık hece
+- açık hece
 ozellikler:
 - - isim
   - dil bilgisi

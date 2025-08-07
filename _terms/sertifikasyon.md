@@ -5,7 +5,7 @@ slug: sertifikasyon
 letter: S
 lisan: Fransızca certification
 anlamlar:
-- ► onaylama
+- onaylama
 ozellikler:
 - - isim
 ornekler:

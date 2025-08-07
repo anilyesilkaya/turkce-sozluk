@@ -5,7 +5,7 @@ slug: santra-yuvarlagi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► orta yuvarlak
+- orta yuvarlak
 ozellikler:
 - - isim
   - spor

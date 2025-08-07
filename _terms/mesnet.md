@@ -5,7 +5,7 @@ slug: mesnet
 letter: M
 lisan: Arapça mesned
 anlamlar:
-- ► dayanak
+- dayanak
 - Mevki, makam
 ozellikler:
 - - isim

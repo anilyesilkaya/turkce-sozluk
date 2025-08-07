@@ -5,7 +5,7 @@ slug: umit-kapisi
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umut kapısı
+- umut kapısı
 ozellikler:
 - - isim
 ornekler:

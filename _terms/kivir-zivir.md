@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Önemsiz, değersiz, derme çatma şey
 - Önemsiz ayrıntı
-- ► gereksiz
+- gereksiz
 ozellikler:
 - - isim
 - - isim

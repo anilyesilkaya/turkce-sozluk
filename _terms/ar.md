@@ -5,7 +5,7 @@ slug: ar
 letter: A
 lisan: Arapça ʿār
 anlamlar:
-- ► utanma duygusu
+- utanma duygusu
 - Utanılacak, ayıp şey
 ozellikler:
 - - isim

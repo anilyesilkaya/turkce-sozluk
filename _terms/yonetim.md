@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönetmek işi; idare
-- ► dümen
+- dümen
 ozellikler:
 - - isim
 - - isim

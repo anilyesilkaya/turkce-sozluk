@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bulunduğu yerden aceleyle, gizlice veya dikkati çekmeden ayrılmak
 - Hastalık veya başka kötü bir durum geçmek, iyileşmek
-- ► ekmek (II)
+- ekmek (II)
 ozellikler:
 - - nesnesiz
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: cirt
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cırtcırt
+- cırtcırt
 ozellikler:
 - - isim
 ornekler:

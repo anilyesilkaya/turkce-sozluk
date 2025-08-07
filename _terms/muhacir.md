@@ -5,7 +5,7 @@ slug: muhacir
 letter: M
 lisan: Arapça muhācir
 anlamlar:
-- ► göçmen
+- göçmen
 - Hz. Muhammed'e uyarak Mekke'den Medine'ye göç eden
 ozellikler:
 - - sıfat

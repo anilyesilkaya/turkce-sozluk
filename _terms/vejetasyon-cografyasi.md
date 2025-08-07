@@ -5,7 +5,7 @@ slug: vejetasyon-cografyasi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► bitki coğrafyası
+- bitki coğrafyası
 ozellikler:
 - - isim
   - coğrafya

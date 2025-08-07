@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrışmak işi
-- ► farklılık
+- farklılık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: ambulans
 letter: A
 lisan: Fransızca ambulance
 anlamlar:
-- ► cankurtaran
+- cankurtaran
 ozellikler:
 - - isim
 ornekler:

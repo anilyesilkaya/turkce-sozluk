@@ -5,7 +5,7 @@ slug: yuzbeyuz
 letter: Y
 lisan: Türkçe yüz + Farsça -be + Türkçe yüz
 anlamlar:
-- ► karşı karşıya
+- karşı karşıya
 ozellikler:
 - - zarf
   - mecaz

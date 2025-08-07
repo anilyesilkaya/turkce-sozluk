@@ -5,7 +5,7 @@ slug: asabilesmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sinirlenmek
+- sinirlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

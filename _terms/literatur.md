@@ -5,8 +5,8 @@ slug: literatur
 letter: L
 lisan: Fransızca littérature
 anlamlar:
-- ► edebiyat
-- ► kaynak (I)
+- edebiyat
+- kaynak (I)
 ozellikler:
 - - isim
 - - isim

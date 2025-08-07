@@ -5,8 +5,8 @@ slug: ispatsiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtsız
-- ► tanıtsız
+- kanıtsız
+- tanıtsız
 ozellikler:
 - - sıfat
 - - sıfat

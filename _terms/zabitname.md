@@ -5,7 +5,7 @@ slug: zabitname
 letter: Z
 lisan: Arapça żabṭ + Farsça nāme
 anlamlar:
-- ► tutanak
+- tutanak
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: abstre
 letter: A
 lisan: Fransızca abstrait
 anlamlar:
-- ► soyut
+- soyut
 ozellikler:
 - - sıfat
   - felsefe

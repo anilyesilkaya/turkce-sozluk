@@ -5,7 +5,7 @@ slug: sismoloji
 letter: S
 lisan: Fransızca sismologie
 anlamlar:
-- ► deprem bilimi
+- deprem bilimi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gun-batisi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► batı
+- batı
 - Batıdan esen, sıcak ve nemli rüzgâr
 ozellikler:
 - - isim

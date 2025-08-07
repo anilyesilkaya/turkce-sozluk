@@ -5,7 +5,7 @@ slug: kibarlar-alemi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yüksek sosyete
+- yüksek sosyete
 ozellikler:
 - - isim
 ornekler:

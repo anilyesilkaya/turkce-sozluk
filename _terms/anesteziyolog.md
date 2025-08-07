@@ -5,7 +5,7 @@ slug: anesteziyolog
 letter: A
 lisan: Fransızca anesthésiologue
 anlamlar:
-- ► anestezi bilimci
+- anestezi bilimci
 ozellikler:
 - - isim
   - tıp

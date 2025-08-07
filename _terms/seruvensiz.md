@@ -5,7 +5,7 @@ slug: seruvensiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► macerasız
+- macerasız
 ozellikler:
 - - sıfat
 ornekler:

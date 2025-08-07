@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İletmek işi
 - İletken şeylerden ısı veya elektriğin geçmesi
-- ► ısı yayımı
+- ısı yayımı
 ozellikler:
 - - isim
 - - isim

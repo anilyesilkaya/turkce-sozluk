@@ -10,13 +10,13 @@ anlamlar:
 - Değerlendirmelerde herhangi bir konu veya evreye, olağanın üzerinde ve belli oranda tanınan değer
 - Sıkıcı, bunaltıcı, iç karartıcı durum
 - Uykudayken gelen ve insana boğulur gibi bir duygu veren durum
-- ► takı
-- ► sorumluluk
+- takı
+- sorumluluk
 - Bir kimse, bir grup vb.nin toplum içinde etkisinin fazla olması durumu
 - Dikkati ve önemi bir şey üzerinde yoğunlaştırmak
 - Gelin olacak kıza erkek tarafından verilen para veya armağan; kalın (II)
-- ► sıkıntı
-- ► ağırbaşlılık
+- sıkıntı
+- ağırbaşlılık
 - Değerli olma durumu
 - Uyuşukluk ve gevşeklik durumu
 - Orduda bir birliğin cephane, yiyecek ve eşya yükleri

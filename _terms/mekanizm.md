@@ -5,7 +5,7 @@ slug: mekanizm
 letter: M
 lisan: Fransızca mécanisme
 anlamlar:
-- ► mekanikçilik
+- mekanikçilik
 ozellikler:
 - - isim
   - felsefe

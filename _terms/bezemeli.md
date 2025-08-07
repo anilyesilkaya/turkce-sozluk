@@ -5,7 +5,7 @@ slug: bezemeli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süslü
+- süslü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kuvarsit
 letter: K
 lisan: Fransızca quartzite
 anlamlar:
-- ► kum taşı
+- kum taşı
 ozellikler:
 - - isim
   - mineraloji

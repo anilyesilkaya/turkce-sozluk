@@ -5,7 +5,7 @@ slug: yapay-cim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► suni çim
+- suni çim
 ozellikler:
 - - isim
 ornekler:

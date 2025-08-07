@@ -5,7 +5,7 @@ slug: kompozitorluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bestecilik
+- bestecilik
 ozellikler:
 - - isim
 ornekler:

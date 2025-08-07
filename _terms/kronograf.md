@@ -5,7 +5,7 @@ slug: kronograf
 letter: K
 lisan: Fransızca choronographe
 anlamlar:
-- ► süreyazar
+- süreyazar
 ozellikler:
 - - isim
 ornekler:

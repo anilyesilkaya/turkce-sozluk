@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pirelenmek işi
-- ► kuşkulanma
+- kuşkulanma
 ozellikler:
 - - isim
 - - isim

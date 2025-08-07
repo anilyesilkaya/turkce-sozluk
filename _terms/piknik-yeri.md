@@ -5,7 +5,7 @@ slug: piknik-yeri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► piknik alanı
+- piknik alanı
 ozellikler:
 - - isim
 ornekler:

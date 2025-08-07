@@ -5,8 +5,8 @@ slug: kasit
 letter: K
 lisan: Arapça ḳaṣd
 anlamlar:
-- ► amaç
-- ► istek
+- amaç
+- istek
 - Öldürmeyi, yaralamayı veya zarar vermeyi isteme, kötü niyet
 ozellikler:
 - - isim

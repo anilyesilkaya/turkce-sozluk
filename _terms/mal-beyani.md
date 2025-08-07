@@ -5,7 +5,7 @@ slug: mal-beyani
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mal bildirimi
+- mal bildirimi
 ozellikler:
 - - isim
   - hukuk

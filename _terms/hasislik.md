@@ -5,7 +5,7 @@ slug: hasislik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► cimrilik
+- cimrilik
 - Hasis davranış
 ozellikler:
 - - isim

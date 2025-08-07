@@ -5,7 +5,7 @@ slug: test-kiti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanı kiti
+- tanı kiti
 - Sıvı maddelerin içeriğini analiz etmek için kullanılan kimyasal madde
 ozellikler:
 - - isim

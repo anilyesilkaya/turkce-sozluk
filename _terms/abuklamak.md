@@ -5,7 +5,7 @@ slug: abuklamak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçmalamak
+- saçmalamak
 ozellikler:
 - - nesnesiz
 ornekler:

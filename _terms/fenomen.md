@@ -6,8 +6,8 @@ letter: F
 lisan: Fransızca phénomène
 anlamlar:
 - Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne
-- ► olgu
-- ► görüngü
+- olgu
+- görüngü
 ozellikler:
 - - isim
 - - isim

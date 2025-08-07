@@ -5,7 +5,7 @@ slug: acelelik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çabukluk
+- çabukluk
 ozellikler:
 - - isim
 ornekler:

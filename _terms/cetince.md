@@ -5,7 +5,7 @@ slug: cetince
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çetin
+- çetin
 - (çeti'nce) Çetin bir biçimde
 ozellikler:
 - - sıfat

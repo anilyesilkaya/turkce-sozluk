@@ -5,7 +5,7 @@ slug: hartuc
 letter: H
 lisan: Fransızca cartouche
 anlamlar:
-- ► kartuş
+- kartuş
 ozellikler:
 - - isim
 ornekler:

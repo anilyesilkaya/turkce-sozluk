@@ -5,7 +5,7 @@ slug: sayisal-donusum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dijital dönüşüm
+- dijital dönüşüm
 ozellikler:
 - - isim
 ornekler:

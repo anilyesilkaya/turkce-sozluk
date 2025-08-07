@@ -5,7 +5,7 @@ slug: damla-kahve
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► süzme kahve
+- süzme kahve
 ozellikler:
 - - isim
 ornekler:

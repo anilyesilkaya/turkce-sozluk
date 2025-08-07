@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Bir şeyin yakını, dolayı; etraf, periferi
 - Kişinin içinde bulunduğu toplumu oluşturan ortam; dünya, muhit
-- ► ortalık
-- ► yağlık
+- ortalık
+- yağlık
 - Aynı konu ile ilgisi bulunan kimselerin tümü; muhit
 - Bir kimse ile ilişkisi bulunanlar; muhit
 - Düzlem üzerindeki bir şekli sınırlayan çizgi

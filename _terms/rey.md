@@ -5,7 +5,7 @@ slug: rey
 letter: R
 lisan: Arapça reʾy
 anlamlar:
-- ► oy (I)
+- oy (I)
 - Düşünce, görüş, fikir
 ozellikler:
 - - isim

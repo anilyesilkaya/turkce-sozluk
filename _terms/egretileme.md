@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Eğretilemek işi
-- ► istiare
+- istiare
 ozellikler:
 - - isim
 - - isim

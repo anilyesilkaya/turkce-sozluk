@@ -5,7 +5,7 @@ slug: cogaltma-makinesi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► teksir makinesi
+- teksir makinesi
 ozellikler:
 - - isim
 ornekler:

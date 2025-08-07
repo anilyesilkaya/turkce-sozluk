@@ -5,7 +5,7 @@ slug: kokturk-harfleri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Köktürk alfabesi
+- Köktürk alfabesi
 ozellikler:
 - - isim
 ornekler:

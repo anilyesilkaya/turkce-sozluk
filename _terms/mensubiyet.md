@@ -5,7 +5,7 @@ slug: mensubiyet
 letter: M
 lisan: Arapça mensūbiyyet
 anlamlar:
-- ► mensupluk
+- mensupluk
 ozellikler:
 - - isim
   - eskimiş

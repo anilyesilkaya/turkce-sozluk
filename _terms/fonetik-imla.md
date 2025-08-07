@@ -5,7 +5,7 @@ slug: fonetik-imla
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► sesçil yazım
+- sesçil yazım
 ozellikler:
 - - isim
   - dil bilgisi

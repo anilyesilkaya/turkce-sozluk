@@ -5,8 +5,8 @@ slug: tetkik
 letter: T
 lisan: Arapça tedḳīḳ
 anlamlar:
-- ► inceleme
-- ► araştırma
+- inceleme
+- araştırma
 ozellikler:
 - - isim
 - - isim

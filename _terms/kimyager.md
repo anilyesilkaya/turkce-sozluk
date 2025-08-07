@@ -5,7 +5,7 @@ slug: kimyager
 letter: K
 lisan: Arapça kīmyāʾ + Farsça -ger
 anlamlar:
-- ► kimyacı
+- kimyacı
 ozellikler:
 - - isim
 ornekler:

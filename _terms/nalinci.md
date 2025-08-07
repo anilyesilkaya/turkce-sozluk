@@ -5,7 +5,7 @@ slug: nalinci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► takunyacı
+- takunyacı
 ozellikler:
 - - isim
 ornekler:

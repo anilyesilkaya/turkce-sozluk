@@ -5,7 +5,7 @@ slug: diren
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dirgen
+- dirgen
 ozellikler:
 - - isim
 ornekler:

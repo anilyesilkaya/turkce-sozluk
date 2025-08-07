@@ -7,7 +7,7 @@ lisan: Farsça şikenbe
 anlamlar:
 - Geviş getirenlerin ilk ve en büyük mide bölümü
 - Kasaplık hayvanlarda mideyi oluşturan bölümlerin bütünü; göden
-- ► mide
+- mide
 ozellikler:
 - - isim
 - - isim

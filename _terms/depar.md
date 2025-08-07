@@ -5,7 +5,7 @@ slug: depar
 letter: D
 lisan: Fransızca départ
 anlamlar:
-- ► çıkış
+- çıkış
 ozellikler:
 - - isim
   - spor

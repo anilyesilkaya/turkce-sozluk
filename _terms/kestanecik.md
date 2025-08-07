@@ -5,7 +5,7 @@ slug: kestanecik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► prostat
+- prostat
 - Atların her bacağında birer tane çıkan, boynuz dokusunda olan kısa ve yayvan uzantı
 ozellikler:
 - - isim

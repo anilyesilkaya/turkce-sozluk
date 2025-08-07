@@ -5,7 +5,7 @@ slug: kavaraci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gürültücü
+- gürültücü
 ozellikler:
 - - isim
 ornekler:

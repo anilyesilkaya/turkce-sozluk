@@ -5,7 +5,7 @@ slug: revaluasyon
 letter: R
 lisan: Fransızca révaluation
 anlamlar:
-- ► değer katma
+- değer katma
 ozellikler:
 - - isim
   - ekonomi

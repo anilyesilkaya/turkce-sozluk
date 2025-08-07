@@ -5,7 +5,7 @@ slug: moble
 letter: M
 lisan: Fransızca meuble
 anlamlar:
-- ► mobilya
+- mobilya
 ozellikler:
 - - isim
 ornekler:

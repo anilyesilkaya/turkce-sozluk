@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Haysiyetsiz olma durumu, haysiyetsizce davranış
-- ► onursuzluk
+- onursuzluk
 ozellikler:
 - - isim
 - - isim

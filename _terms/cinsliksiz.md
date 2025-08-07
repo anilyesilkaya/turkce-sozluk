@@ -5,7 +5,7 @@ slug: cinsliksiz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► eşeysiz
+- eşeysiz
 ozellikler:
 - - sıfat
   - biyoloji

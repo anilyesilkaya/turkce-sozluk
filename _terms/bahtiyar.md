@@ -5,7 +5,7 @@ slug: bahtiyar
 letter: B
 lisan: Farsça baḫtiyār
 anlamlar:
-- ► mutlu
+- mutlu
 - Mutlu olan kimse
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: hirizmali
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hızmalı
+- hızmalı
 ozellikler:
 - - isim
 ornekler:

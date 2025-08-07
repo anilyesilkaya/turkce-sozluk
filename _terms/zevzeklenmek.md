@@ -5,7 +5,7 @@ slug: zevzeklenmek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► gevezelenmek
+- gevezelenmek
 ozellikler:
 - - nesnesiz
 ornekler:

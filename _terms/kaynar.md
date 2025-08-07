@@ -9,7 +9,7 @@ anlamlar:
 - Çok sıcak
 - Yeni doğum yapmış anneye ve konuklara sunulan tatlı içecek
 - Kaynak, pınar
-- ► kaynarca
+- kaynarca
 ozellikler:
 - - sıfat
 - - sıfat

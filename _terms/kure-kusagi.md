@@ -5,7 +5,7 @@ slug: kure-kusagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuşak
+- kuşak
 ozellikler:
 - - isim
   - matematik

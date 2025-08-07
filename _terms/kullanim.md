@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kullanma, yararlanma
-- ► tasarruf
+- tasarruf
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: mutevehhim
 letter: M
 lisan: Arapça mutevehhim
 anlamlar:
-- ► kuruntulu
-- ► korkak
+- kuruntulu
+- korkak
 ozellikler:
 - - sıfat
   - eskimiş

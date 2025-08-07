@@ -5,7 +5,7 @@ slug: bezemek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süslemek
+- süslemek
 ozellikler:
 - - -i
 ornekler:

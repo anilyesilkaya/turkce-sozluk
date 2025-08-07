@@ -5,7 +5,7 @@ slug: dikkat-toplasimi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► konsantrasyon
+- konsantrasyon
 ozellikler:
 - - isim
   - ruh bilimi

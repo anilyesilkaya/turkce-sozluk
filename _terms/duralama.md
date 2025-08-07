@@ -5,7 +5,7 @@ slug: duralama
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duraklama
+- duraklama
 - Konuşma organlarının belirli bir süre aynı durumda kalarak hecedeki bir sesi çıkarması
 ozellikler:
 - - isim

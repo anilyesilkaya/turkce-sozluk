@@ -5,7 +5,7 @@ slug: tepik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tekme
+- tekme
 ozellikler:
 - - isim
   - ağızlardan

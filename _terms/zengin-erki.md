@@ -5,7 +5,7 @@ slug: zengin-erki
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► varsıl erki
+- varsıl erki
 ozellikler:
 - - isim
   - toplum bilimi

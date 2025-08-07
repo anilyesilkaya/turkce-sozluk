@@ -7,7 +7,7 @@ lisan: Arapça maḥbūs
 anlamlar:
 - Kapatılmış, hapsedilmiş (kimse); hapis, mapus
 - Bir tür tavla oyunu
-- ► cezaevi
+- cezaevi
 ozellikler:
 - - sıfat
 - - sıfat

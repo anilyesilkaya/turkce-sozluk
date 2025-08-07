@@ -5,7 +5,7 @@ slug: tuluk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tulum
+- tulum
 ozellikler:
 - - isim
   - ağızlardan

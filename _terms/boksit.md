@@ -5,7 +5,7 @@ slug: boksit
 letter: B
 lisan: Fransızca bauxite
 anlamlar:
-- ► korindon
+- korindon
 ozellikler:
 - - isim
   - mineraloji

@@ -5,7 +5,7 @@ slug: semih
 letter: S
 lisan: Arapça semīḥ
 anlamlar:
-- ► cömert
+- cömert
 ozellikler:
 - - sıfat
   - eskimiş

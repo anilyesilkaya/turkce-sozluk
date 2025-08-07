@@ -5,7 +5,7 @@ slug: ictimai
 letter: I
 lisan: Arapça ictimāʿī
 anlamlar:
-- ► toplumsal
+- toplumsal
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: ensefal
 letter: E
 lisan: Fransızca encéphale
 anlamlar:
-- ► beyin
+- beyin
 ozellikler:
 - - isim
   - tıp

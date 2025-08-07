@@ -5,7 +5,7 @@ slug: buyuturluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aşırılaştırma
+- aşırılaştırma
 ozellikler:
 - - isim
 ornekler:

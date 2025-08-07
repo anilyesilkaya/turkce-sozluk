@@ -5,7 +5,7 @@ slug: buyuk-sesli-uyumu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büyük ünlü uyumu
+- büyük ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

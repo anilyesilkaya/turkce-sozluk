@@ -5,7 +5,7 @@ slug: atistirmalik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çerez
+- çerez
 - Atıştırmaya yarayan
 ozellikler:
 - - isim

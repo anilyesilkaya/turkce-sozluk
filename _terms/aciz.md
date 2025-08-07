@@ -5,8 +5,8 @@ slug: aciz
 letter: A
 lisan: Arapça ʿacz
 anlamlar:
-- ► güçsüzlük
-- ► beceriksizlik
+- güçsüzlük
+- beceriksizlik
 - Kişinin ve kuruluşun borcunu vaktinde ödeyememesi durumu
 ozellikler:
 - - isim

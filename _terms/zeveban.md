@@ -5,7 +5,7 @@ slug: zeveban
 letter: Z
 lisan: Arapça ẕevebān
 anlamlar:
-- ► ergime
+- ergime
 ozellikler:
 - - isim
   - eskimiş

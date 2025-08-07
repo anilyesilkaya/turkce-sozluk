@@ -5,7 +5,7 @@ slug: sanat-adami
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sanatçı
+- sanatçı
 ozellikler:
 - - isim
 ornekler:

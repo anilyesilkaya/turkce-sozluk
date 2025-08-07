@@ -5,7 +5,7 @@ slug: homojenlesme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bağdaşıklaşma
+- bağdaşıklaşma
 ozellikler:
 - - isim
 ornekler:

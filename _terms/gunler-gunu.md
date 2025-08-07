@@ -5,7 +5,7 @@ slug: gunler-gunu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► günlerce
+- günlerce
 ozellikler:
 - - zarf
 ornekler:

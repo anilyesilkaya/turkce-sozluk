@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışma özelliği olan; lüzucetli, lüzuci
-- ► yapıştırıcı
+- yapıştırıcı
 - Gitmek bilmeyen; bulaşık
 ozellikler:
 - - sıfat

@@ -5,8 +5,8 @@ slug: aksettirmek
 letter: A
 lisan: Arapça ʿaks + Türkçe ettirmek
 anlamlar:
-- ► yansıtmak
-- ► yankılatmak
+- yansıtmak
+- yankılatmak
 - Haberi, durumu ulaştırmak, yaymak, duyurmak
 ozellikler:
 - - -e

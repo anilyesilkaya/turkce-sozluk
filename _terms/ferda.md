@@ -5,7 +5,7 @@ slug: ferda
 letter: F
 lisan: Farsça ferdā
 anlamlar:
-- ► yarın
+- yarın
 - Gelecek günler, zamanlar
 ozellikler:
 - - isim

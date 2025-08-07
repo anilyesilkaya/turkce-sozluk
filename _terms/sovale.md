@@ -5,7 +5,7 @@ slug: sovale
 letter: Ş
 lisan: Fransızca chevalet
 anlamlar:
-- ► ressam sehpası
+- ressam sehpası
 ozellikler:
 - - isim
 ornekler:

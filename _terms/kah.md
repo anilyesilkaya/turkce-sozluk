@@ -5,7 +5,7 @@ slug: kah
 letter: K
 lisan: Farsça gāh
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: muddeiumumi
 letter: M
 lisan: Arapça muddeʿī + ʿumūmī
 anlamlar:
-- ► savcı
+- savcı
 ozellikler:
 - - isim
   - eskimiş

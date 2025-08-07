@@ -5,7 +5,7 @@ slug: korida
 letter: K
 lisan: İspanyolca corrida
 anlamlar:
-- ► boğa güreşi
+- boğa güreşi
 ozellikler:
 - - isim
 ornekler:

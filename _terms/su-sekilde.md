@@ -5,8 +5,8 @@ slug: su-sekilde
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şöyle
-- ► şöylece
+- şöyle
+- şöylece
 ozellikler:
 - - zarf
 - - zarf

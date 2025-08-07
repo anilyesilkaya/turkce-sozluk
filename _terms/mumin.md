@@ -5,8 +5,8 @@ slug: mumin
 letter: M
 lisan: Arapça muʾmin
 anlamlar:
-- ► imanlı
-- ► Müslüman
+- imanlı
+- Müslüman
 ozellikler:
 - - sıfat
 - - sıfat

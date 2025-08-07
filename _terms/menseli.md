@@ -5,7 +5,7 @@ slug: menseli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kökenli
+- kökenli
 ozellikler:
 - - sıfat
 ornekler:

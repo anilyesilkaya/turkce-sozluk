@@ -5,7 +5,7 @@ slug: istiklal
 letter: I
 lisan: Arapça istiḳlāl
 anlamlar:
-- ► bağımsızlık
+- bağımsızlık
 ozellikler:
 - - isim
 ornekler:

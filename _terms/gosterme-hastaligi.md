@@ -5,7 +5,7 @@ slug: gosterme-hastaligi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► büyüklük hastalığı
+- büyüklük hastalığı
 ozellikler:
 - - isim
 ornekler:

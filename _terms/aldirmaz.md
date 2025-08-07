@@ -5,8 +5,8 @@ slug: aldirmaz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgisiz
-- ► kaygısız
+- ilgisiz
+- kaygısız
 ozellikler:
 - - sıfat
 - - sıfat

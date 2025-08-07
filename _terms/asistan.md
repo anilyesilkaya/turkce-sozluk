@@ -5,8 +5,8 @@ slug: asistan
 letter: A
 lisan: Fransızca assistant
 anlamlar:
-- ► yardımcı
-- ► araştırma görevlisi
+- yardımcı
+- araştırma görevlisi
 ozellikler:
 - - isim
 - - isim

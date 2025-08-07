@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Direnmek işi
-- ► inat
-- ► temerrüt
+- inat
+- temerrüt
 ozellikler:
 - - isim
 - - isim

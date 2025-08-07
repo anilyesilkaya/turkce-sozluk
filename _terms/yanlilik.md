@@ -5,7 +5,7 @@ slug: yanlilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yandaşlık
+- yandaşlık
 ozellikler:
 - - isim
 ornekler:

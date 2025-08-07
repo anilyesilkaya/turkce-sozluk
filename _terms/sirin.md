@@ -5,7 +5,7 @@ slug: sirin
 letter: Ş
 lisan: Farsça şīrīn
 anlamlar:
-- ► sevimli
+- sevimli
 ozellikler:
 - - sıfat
 ornekler:

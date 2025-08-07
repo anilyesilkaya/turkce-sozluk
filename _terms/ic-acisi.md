@@ -5,7 +5,7 @@ slug: ic-acisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yürek acısı
+- yürek acısı
 ozellikler:
 - - isim
   - mecaz

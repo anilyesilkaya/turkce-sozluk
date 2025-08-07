@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sığır besleyen veya satan kimse
-- ► sığırtmaç
+- sığırtmaç
 ozellikler:
 - - isim
 - - isim

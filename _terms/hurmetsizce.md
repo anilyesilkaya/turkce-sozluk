@@ -5,7 +5,7 @@ slug: hurmetsizce
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygısızca
+- saygısızca
 ozellikler:
 - - zarf
 ornekler:

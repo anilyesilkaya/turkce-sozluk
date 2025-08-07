@@ -5,7 +5,7 @@ slug: hudut
 letter: H
 lisan: Arapça ḥudūd
 anlamlar:
-- ► sınır
+- sınır
 - Bir şeyin varabildiği en son nokta
 ozellikler:
 - - isim

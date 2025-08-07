@@ -5,7 +5,7 @@ slug: ruhsal-cokuntu
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► bunalım
+- bunalım
 ozellikler:
 - - isim
   - ruh bilimi

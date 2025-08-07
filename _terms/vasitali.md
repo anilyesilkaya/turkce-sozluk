@@ -5,8 +5,8 @@ slug: vasitali
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► araçlı
-- ► dolaylı
+- araçlı
+- dolaylı
 ozellikler:
 - - sıfat
 - - sıfat

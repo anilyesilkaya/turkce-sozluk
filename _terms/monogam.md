@@ -5,7 +5,7 @@ slug: monogam
 letter: M
 lisan: Fransızca monogame
 anlamlar:
-- ► tek eşli
+- tek eşli
 ozellikler:
 - - sıfat
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımı; mefhum, fehva, konsept, nosyon
 - Nesnelerin veya olayların ortak özelliklerini kapsayan ve bir ortak ad altında toplayan genel tasarım; mefhum, konsept, nosyon
-- ► tutam (I)
+- tutam (I)
 ozellikler:
 - - isim
 - - isim

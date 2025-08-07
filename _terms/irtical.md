@@ -5,7 +5,7 @@ slug: irtical
 letter: I
 lisan: Arapça irticāl
 anlamlar:
-- ► doğaç
+- doğaç
 ozellikler:
 - - isim
   - eskimiş

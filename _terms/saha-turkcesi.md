@@ -5,7 +5,7 @@ slug: saha-turkcesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Yakut Türkçesi
+- Yakut Türkçesi
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tahrikçinin işi
-- ► kışkırtıcılık
+- kışkırtıcılık
 ozellikler:
 - - isim
 - - isim

@@ -6,9 +6,9 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Yiğit, özellikle Batı Anadolu köy yiğidi; zeybek
-- ► ağabey
-- ► kabadayı
-- ► kaptan
+- ağabey
+- kabadayı
+- kaptan
 ozellikler:
 - - isim
 - - isim

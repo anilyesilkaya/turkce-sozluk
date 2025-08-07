@@ -5,7 +5,7 @@ slug: hisli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygulu
+- duygulu
 ozellikler:
 - - sıfat
 ornekler:

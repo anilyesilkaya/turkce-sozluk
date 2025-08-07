@@ -5,7 +5,7 @@ slug: gosterme-zamiri
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► işaret zamiri
+- işaret zamiri
 ozellikler:
 - - isim
   - dil bilgisi

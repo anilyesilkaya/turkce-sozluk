@@ -5,7 +5,7 @@ slug: turuncumtirak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► turuncumsu
+- turuncumsu
 ozellikler:
 - - sıfat
 ornekler:

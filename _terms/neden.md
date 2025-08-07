@@ -6,8 +6,8 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Bir olayı doğuran başka bir olayı sormak için kullanılan bir söz; ne
-- ► sebep
-- ► niçin
+- sebep
+- niçin
 - Bir varlığı veya olayı etkileyen, oluşturan, doğuran şey; sebep, illet
 ozellikler:
 - - zarf

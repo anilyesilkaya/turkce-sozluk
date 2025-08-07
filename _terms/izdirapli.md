@@ -5,7 +5,7 @@ slug: izdirapli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kederli
+- kederli
 - Ağrı ve acı veren
 ozellikler:
 - - sıfat

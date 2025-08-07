@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Elde edilen bir başarı
 - Herhangi bir olayı veya durumu başarma isteği ve gücü
-- ► performans
+- performans
 ozellikler:
 - - isim
 - - isim

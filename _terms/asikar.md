@@ -5,7 +5,7 @@ slug: asikar
 letter: A
 lisan: Farsça āşikār
 anlamlar:
-- ► belli (II)
+- belli (II)
 ozellikler:
 - - sıfat
 ornekler:

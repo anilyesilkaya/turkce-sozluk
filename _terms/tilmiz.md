@@ -5,7 +5,7 @@ slug: tilmiz
 letter: T
 lisan: Arapça tilmīẕ
 anlamlar:
-- ► öğrenci
+- öğrenci
 ozellikler:
 - - isim
   - eskimiş

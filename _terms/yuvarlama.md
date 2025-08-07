@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvarlamak işi; tekerleme
-- ► yuvalama
+- yuvalama
 ozellikler:
 - - isim
 - - isim

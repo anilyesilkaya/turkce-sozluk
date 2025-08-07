@@ -5,8 +5,8 @@ slug: rindane
 letter: R
 lisan: Farsça rindāne
 anlamlar:
-- ► rintçe
-- ► rintçe
+- rintçe
+- rintçe
 ozellikler:
 - - sıfat
   - eskimiş

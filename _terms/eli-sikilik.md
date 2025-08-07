@@ -5,7 +5,7 @@ slug: eli-sikilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
 ornekler:

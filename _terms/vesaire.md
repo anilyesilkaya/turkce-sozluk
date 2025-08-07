@@ -5,7 +5,7 @@ slug: vesaire
 letter: V
 lisan: Arapça ve + sāʾire
 anlamlar:
-- ► ve benzeri
+- ve benzeri
 ozellikler:
 - - isim
 ornekler:

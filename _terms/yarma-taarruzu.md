@@ -5,7 +5,7 @@ slug: yarma-taarruzu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarma harekâtı
+- yarma harekâtı
 ozellikler:
 - - isim
   - askerlik

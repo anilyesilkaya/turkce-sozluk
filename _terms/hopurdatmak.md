@@ -5,7 +5,7 @@ slug: hopurdatmak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► höpürdetmek
+- höpürdetmek
 ozellikler:
 - - -i
 ornekler:

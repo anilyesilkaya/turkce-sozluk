@@ -5,7 +5,7 @@ slug: nahiv
 letter: N
 lisan: Arapça naḥv
 anlamlar:
-- ► cümle bilgisi
+- cümle bilgisi
 ozellikler:
 - - isim
   - eskimiş

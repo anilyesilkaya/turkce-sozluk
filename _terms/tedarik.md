@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça tedāruk
 anlamlar:
 - Araştırıp bulma, sağlama, elde etme
-- ► hazırlık
+- hazırlık
 ozellikler:
 - - isim
 - - isim

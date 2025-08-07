@@ -5,7 +5,7 @@ slug: yomsuz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - sıfat
 ornekler:

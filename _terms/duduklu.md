@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Düdüğü olan
-- ► düdüklü tencere
+- düdüklü tencere
 ozellikler:
 - - sıfat
 - - sıfat

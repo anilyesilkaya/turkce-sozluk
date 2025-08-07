@@ -5,7 +5,7 @@ slug: karikaturist
 letter: K
 lisan: Fransızca caricaturiste
 anlamlar:
-- ► karikatürcü
+- karikatürcü
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hobi
 letter: H
 lisan: İngilizce hobby
 anlamlar:
-- ► uğraşı
+- uğraşı
 ozellikler:
 - - isim
 ornekler:

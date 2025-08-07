@@ -5,8 +5,8 @@ slug: cinslik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cinsiyet
-- ► tuhaflık
+- cinsiyet
+- tuhaflık
 ozellikler:
 - - isim
   - biyoloji

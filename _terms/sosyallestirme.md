@@ -5,7 +5,7 @@ slug: sosyallestirme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumsallaştırma
+- toplumsallaştırma
 ozellikler:
 - - isim
 ornekler:

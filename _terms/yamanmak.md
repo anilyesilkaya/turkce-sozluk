@@ -5,7 +5,7 @@ slug: yamanmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yamalanmak
+- yamalanmak
 - Kötü bir şey veya kimse birinin üstünde kalmak, birine yük olmak, yükletilmek
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: insan-bilimi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► antropoloji
+- antropoloji
 ozellikler:
 - - isim
 ornekler:

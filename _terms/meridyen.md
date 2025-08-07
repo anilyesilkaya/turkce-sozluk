@@ -5,7 +5,7 @@ slug: meridyen
 letter: M
 lisan: Fransızca méridien
 anlamlar:
-- ► boylam
+- boylam
 ozellikler:
 - - isim
   - gök bilimi

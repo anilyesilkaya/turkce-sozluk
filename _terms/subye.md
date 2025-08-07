@@ -5,7 +5,7 @@ slug: subye
 letter: S
 lisan: Rumca
 anlamlar:
-- ► mürekkep balığı
+- mürekkep balığı
 - Badem içi, ezilmiş sarımsak, kavun çekirdeği vb.nden yapılan boza koyuluğunda sıvı
 ozellikler:
 - - isim

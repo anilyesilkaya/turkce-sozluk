@@ -5,7 +5,7 @@ slug: aluminyum-tasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► korindon
+- korindon
 ozellikler:
 - - isim
   - mineraloji

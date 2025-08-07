@@ -5,7 +5,7 @@ slug: ozbekce
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► Özbek Türkçesi
+- Özbek Türkçesi
 ozellikler:
 - - isim
 ornekler:

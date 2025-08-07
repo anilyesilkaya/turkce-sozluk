@@ -5,7 +5,7 @@ slug: foto
 letter: F
 lisan: Fransızca photo
 anlamlar:
-- ► fotoğraf
+- fotoğraf
 ozellikler:
 - - isim
 ornekler:

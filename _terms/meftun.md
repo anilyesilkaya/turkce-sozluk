@@ -5,7 +5,7 @@ slug: meftun
 letter: M
 lisan: Arapça meftūn
 anlamlar:
-- ► vurgun
+- vurgun
 ozellikler:
 - - sıfat
 ornekler:

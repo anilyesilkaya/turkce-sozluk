@@ -5,7 +5,7 @@ slug: teklifli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► resmî
+- resmî
 ozellikler:
 - - sıfat
 ornekler:

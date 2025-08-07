@@ -5,7 +5,7 @@ slug: kader
 letter: K
 lisan: Arapça ḳader
 anlamlar:
-- ► yazgı
+- yazgı
 - Genellikle kaçınılmaz kötü talih
 ozellikler:
 - - isim

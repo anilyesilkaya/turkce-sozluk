@@ -5,7 +5,7 @@ slug: bu-haysiyetle
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bundan dolayı
+- bundan dolayı
 ozellikler:
 - - zarf
   - eskimiş

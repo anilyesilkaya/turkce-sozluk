@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ʿiffet
 anlamlar:
 - Cinsel konularda ahlak kurallarına bağlılık
-- ► namus
+- namus
 - Dürüst olma, temiz olma
 ozellikler:
 - - isim

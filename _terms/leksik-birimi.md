@@ -5,7 +5,7 @@ slug: leksik-birimi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► sözlük birimi
+- sözlük birimi
 ozellikler:
 - - isim
 ornekler:

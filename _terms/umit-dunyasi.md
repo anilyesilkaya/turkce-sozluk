@@ -5,7 +5,7 @@ slug: umit-dunyasi
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umut dünyası
+- umut dünyası
 ozellikler:
 - - isim
   - mecaz

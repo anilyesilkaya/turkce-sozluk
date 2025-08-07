@@ -5,7 +5,7 @@ slug: kelime-karisikligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► söz karışıklığı
+- söz karışıklığı
 ozellikler:
 - - isim
   - ruh bilimi

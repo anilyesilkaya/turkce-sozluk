@@ -5,7 +5,7 @@ slug: yeniden
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeni baştan
+- yeni baştan
 ozellikler:
 - - zarf
 ornekler:

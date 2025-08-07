@@ -5,7 +5,7 @@ slug: iyicillik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iyi huyluluk
+- iyi huyluluk
 ozellikler:
 - - isim
 ornekler:

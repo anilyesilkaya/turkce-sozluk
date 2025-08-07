@@ -5,7 +5,7 @@ slug: karabaldir
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► baldırıkara
+- baldırıkara
 ozellikler:
 - - isim
   - bitki bilimi

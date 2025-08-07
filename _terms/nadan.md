@@ -6,7 +6,7 @@ letter: N
 lisan: Farsça nādān
 anlamlar:
 - Bilgisiz, cahil
-- ► nobran
+- nobran
 ozellikler:
 - - sıfat
   - eskimiş

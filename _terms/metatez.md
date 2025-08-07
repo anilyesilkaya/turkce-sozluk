@@ -5,7 +5,7 @@ slug: metatez
 letter: M
 lisan: Fransızca métathèse
 anlamlar:
-- ► göçüşme
+- göçüşme
 ozellikler:
 - - isim
   - dil bilgisi

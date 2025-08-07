@@ -5,7 +5,7 @@ slug: tahta-biti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tahtakurusu
+- tahtakurusu
 ozellikler:
 - - isim
   - hayvan bilimi

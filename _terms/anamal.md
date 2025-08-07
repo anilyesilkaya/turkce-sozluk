@@ -5,7 +5,7 @@ slug: anamal
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sermaye
+- sermaye
 ozellikler:
 - - isim
   - ekonomi

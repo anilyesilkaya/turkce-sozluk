@@ -5,7 +5,7 @@ slug: seylani
 letter: S
 lisan: Arapça seylānī
 anlamlar:
-- ► Seylan taşı
+- Seylan taşı
 ozellikler:
 - - isim
   - mineraloji

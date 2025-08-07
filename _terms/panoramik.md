@@ -5,7 +5,7 @@ slug: panoramik
 letter: P
 lisan: Fransızca panoramique
 anlamlar:
-- ► genel görünümlü
+- genel görünümlü
 ozellikler:
 - - sıfat
 ornekler:

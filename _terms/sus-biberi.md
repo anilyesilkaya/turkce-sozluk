@@ -5,7 +5,7 @@ slug: sus-biberi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► cin biberi
+- cin biberi
 ozellikler:
 - - isim
 ornekler:

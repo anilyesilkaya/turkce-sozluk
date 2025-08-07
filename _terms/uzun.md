@@ -9,7 +9,7 @@ anlamlar:
 - Başlangıcı ile bitimi arasında fazla zaman aralığı olan, çok süren
 - Birçok kez yapılan
 - Uzun süre devam edecek biçimde, uzun süre
-- ► derinlemesine
+- derinlemesine
 ozellikler:
 - - sıfat
 - - sıfat

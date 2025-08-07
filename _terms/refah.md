@@ -5,7 +5,7 @@ slug: refah
 letter: R
 lisan: Arapça refāh
 anlamlar:
-- ► gönenç
+- gönenç
 ozellikler:
 - - isim
 ornekler:

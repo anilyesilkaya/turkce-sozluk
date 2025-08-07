@@ -5,7 +5,7 @@ slug: findik-sicani
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fındık faresi
+- fındık faresi
 ozellikler:
 - - isim
   - hayvan bilimi

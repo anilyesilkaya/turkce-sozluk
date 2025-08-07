@@ -5,7 +5,7 @@ slug: mukemmeliyet
 letter: M
 lisan: Arapça mukemmeliyyet
 anlamlar:
-- ► mükemmellik
+- mükemmellik
 ozellikler:
 - - isim
   - eskimiş

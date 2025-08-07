@@ -5,7 +5,7 @@ slug: kapi-karsi-komsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kapı komşu
+- kapı komşu
 ozellikler:
 - - isim
 ornekler:

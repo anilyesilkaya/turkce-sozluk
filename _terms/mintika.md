@@ -5,7 +5,7 @@ slug: mintika
 letter: M
 lisan: Arapça minṭaḳa
 anlamlar:
-- ► bölge
+- bölge
 ozellikler:
 - - isim
 ornekler:

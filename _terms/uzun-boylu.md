@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Boyu uzun olan
 - Uzun süre
-- ► derinlemesine
+- derinlemesine
 ozellikler:
 - - sıfat
 - - sıfat

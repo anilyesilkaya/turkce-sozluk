@@ -5,8 +5,8 @@ slug: perspektif
 letter: P
 lisan: Fransızca perspective
 anlamlar:
-- ► görünge
-- ► bakış açısı
+- görünge
+- bakış açısı
 - Nesneleri bir yüzey üzerine görüldükleri gibi çizme sanatı
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: vazifesinas
 letter: V
 lisan: Arapça vaẓīfe + Farsça -şinās
 anlamlar:
-- ► ödevcil
+- ödevcil
 ozellikler:
 - - sıfat
   - eskimiş

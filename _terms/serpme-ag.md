@@ -5,7 +5,7 @@ slug: serpme-ag
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► serpme
+- serpme
 ozellikler:
 - - isim
   - denizcilik

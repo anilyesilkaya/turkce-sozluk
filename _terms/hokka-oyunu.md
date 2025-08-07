@@ -5,7 +5,7 @@ slug: hokka-oyunu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hokkabazlık
+- hokkabazlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gelin-mantari
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sinek mantarı
+- sinek mantarı
 ozellikler:
 - - isim
   - bitki bilimi

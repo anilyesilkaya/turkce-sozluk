@@ -5,7 +5,7 @@ slug: beskardes
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şamar
+- şamar
 ozellikler:
 - - isim
   - şaka yollu

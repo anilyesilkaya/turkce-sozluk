@@ -21,7 +21,7 @@ anlamlar:
 - Azaltmak, güçleştirmek
 - İskambil kâğıtlarında destenin üzerinden bir bölümünü kaldırıp öte yana koymak
 - Geçişi önlemek
-- ► susmak
+- susmak
 - Hasta organı ameliyatla almak
 - Bölmek, ayırmak
 - Yazıyı, filmi kısaltmak

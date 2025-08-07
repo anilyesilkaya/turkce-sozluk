@@ -5,7 +5,7 @@ slug: kiraathane
 letter: K
 lisan: Arapça ḳirāʾat + Farsça ḫāne
 anlamlar:
-- ► kahvehane
+- kahvehane
 - Müşterilerinin okumaları için gazete, dergi ve kitap bulunduran geniş, temiz ve iyi döşenmiş kahvehane
 ozellikler:
 - - isim

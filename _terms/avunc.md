@@ -5,7 +5,7 @@ slug: avunc
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avuntu
+- avuntu
 ozellikler:
 - - isim
 ornekler:

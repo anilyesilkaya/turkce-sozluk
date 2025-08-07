@@ -5,7 +5,7 @@ slug: fazilet
 letter: F
 lisan: Arapça fażīlet
 anlamlar:
-- ► erdem
+- erdem
 ozellikler:
 - - isim
 ornekler:

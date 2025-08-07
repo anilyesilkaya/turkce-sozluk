@@ -5,7 +5,7 @@ slug: gucuk-ay
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► şubat
+- şubat
 ozellikler:
 - - isim
   - ağızlardan

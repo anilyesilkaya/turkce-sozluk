@@ -5,7 +5,7 @@ slug: islavistik
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Slavistik
+- Slavistik
 ozellikler:
 - - isim
 ornekler:

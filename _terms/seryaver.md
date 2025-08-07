@@ -5,7 +5,7 @@ slug: seryaver
 letter: S
 lisan: Farsça ser + yāver
 anlamlar:
-- ► başyaver
+- başyaver
 ozellikler:
 - - isim
 ornekler:

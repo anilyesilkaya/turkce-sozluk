@@ -6,7 +6,7 @@ letter: D
 lisan: Farsça derūn + Arapça -ī
 anlamlar:
 - İçle ilgili
-- ► özünlü
+- özünlü
 ozellikler:
 - - sıfat
   - eskimiş

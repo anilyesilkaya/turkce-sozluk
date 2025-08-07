@@ -5,7 +5,7 @@ slug: tokat-arsizi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dayak arsızı
+- dayak arsızı
 ozellikler:
 - - sıfat
   - mecaz

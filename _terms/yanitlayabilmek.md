@@ -5,7 +5,7 @@ slug: yanitlayabilmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevaplayabilmek
+- cevaplayabilmek
 ozellikler:
 - - -i
 ornekler:

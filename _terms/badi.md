@@ -5,7 +5,7 @@ slug: badi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ördek
+- ördek
 ozellikler:
 - - isim
   - ağızlardan

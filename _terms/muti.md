@@ -5,7 +5,7 @@ slug: muti
 letter: M
 lisan: Arapça muṭīʿ
 anlamlar:
-- ► itaatli
+- itaatli
 ozellikler:
 - - sıfat
   - eskimiş

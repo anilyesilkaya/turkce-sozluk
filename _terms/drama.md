@@ -5,7 +5,7 @@ slug: drama
 letter: D
 lisan: Latince
 anlamlar:
-- ► dram
+- dram
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: izafilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağıntılılık
+- bağıntılılık
 ozellikler:
 - - isim
   - felsefe

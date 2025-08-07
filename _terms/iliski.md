@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İki şey arasında karşılıklı ilgi; bağ (I), ilinti, ilişik, münasebet, rabıta, temas
-- ► bağlantı
+- bağlantı
 ozellikler:
 - - isim
 - - isim

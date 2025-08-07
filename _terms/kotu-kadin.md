@@ -5,7 +5,7 @@ slug: kotu-kadin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fahişe
+- fahişe
 ozellikler:
 - - isim
 ornekler:

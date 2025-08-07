@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça beyt
 anlamlar:
 - Anlam bakımından birbirine bağlı iki dizeden oluşmuş şiir parçası
-- ► ev
+- ev
 ozellikler:
 - - isim
   - edebiyat

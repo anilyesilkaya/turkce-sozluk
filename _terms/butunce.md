@@ -5,7 +5,7 @@ slug: butunce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► derlem
+- derlem
 ozellikler:
 - - isim
 ornekler:

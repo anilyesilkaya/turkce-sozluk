@@ -5,7 +5,7 @@ slug: agi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zehir
+- zehir
 ozellikler:
 - - isim
 ornekler:

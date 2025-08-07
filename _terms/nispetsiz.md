@@ -5,7 +5,7 @@ slug: nispetsiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► oransız
+- oransız
 - Birbirine uymayan, farklı
 ozellikler:
 - - sıfat

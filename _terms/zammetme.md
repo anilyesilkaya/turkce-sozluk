@@ -5,7 +5,7 @@ slug: zammetme
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► katma
+- katma
 ozellikler:
 - - isim
 ornekler:

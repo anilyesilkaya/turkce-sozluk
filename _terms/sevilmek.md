@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sevgi duyulmak, sevgi beslenilmek
-- ► beğenilmek
+- beğenilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

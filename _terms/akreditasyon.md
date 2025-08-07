@@ -5,7 +5,7 @@ slug: akreditasyon
 letter: A
 lisan: Fransızca accreditation
 anlamlar:
-- ► denklik
+- denklik
 ozellikler:
 - - isim
 ornekler:

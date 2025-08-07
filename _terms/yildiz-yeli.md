@@ -5,7 +5,7 @@ slug: yildiz-yeli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıldız rüzgârı
+- yıldız rüzgârı
 ozellikler:
 - - isim
 ornekler:

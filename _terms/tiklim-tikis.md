@@ -5,7 +5,7 @@ slug: tiklim-tikis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıklım tıklım
+- tıklım tıklım
 ozellikler:
 - - zarf
 ornekler:

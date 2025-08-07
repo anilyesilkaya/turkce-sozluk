@@ -6,8 +6,8 @@ letter: R
 lisan: Türkçe
 anlamlar:
 - '"Tanrı''nın rahmetine kavuşmuş, bağışlanmış" anlamlarında ölmüş Müslümanları saygıyla anmak için ad veya ünvanlarının başına getirilen bir söz'
-- ► merhume
-- ► merhum
+- merhume
+- merhum
 ozellikler:
 - - isim
 - - isim

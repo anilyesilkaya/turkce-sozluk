@@ -5,7 +5,7 @@ slug: psikometri
 letter: P
 lisan: Fransızca psychométrie
 anlamlar:
-- ► ruh ölçümü
+- ruh ölçümü
 ozellikler:
 - - isim
   - ruh bilimi

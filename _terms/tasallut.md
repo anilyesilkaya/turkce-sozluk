@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça tasalluṭ
 anlamlar:
 - Sıkıntı verecek derecede sataşma, rahatsız etme,  musallat olma, saldırma
-- ► sarkıntılık
+- sarkıntılık
 ozellikler:
 - - isim
   - eskimiş

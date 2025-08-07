@@ -5,7 +5,7 @@ slug: fikri
 letter: F
 lisan: Arapça fikrī
 anlamlar:
-- ► düşünsel
+- düşünsel
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: rezede-cicegi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► rezede
+- rezede
 ozellikler:
 - - isim
   - bitki bilimi

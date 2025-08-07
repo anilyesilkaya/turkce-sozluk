@@ -8,7 +8,7 @@ anlamlar:
 - Hoşa giden, güzel olan bir şeyin insanda uyandırdığı beğenme duygusu
 - Herhangi bir konuda güzeli çirkinden ayırma yetisi; zevk, gusto
 - Bir dönemin, bir çağın görme, duyma ve algılama tarzı
-- ► takdir
+- takdir
 ozellikler:
 - - isim
 - - isim

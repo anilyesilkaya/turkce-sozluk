@@ -5,7 +5,7 @@ slug: bit-sirkesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sirke (I)
+- sirke (I)
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dogmatizm
 letter: D
 lisan: Fransızca dogmatisme
 anlamlar:
-- ► dogmacılık
+- dogmacılık
 ozellikler:
 - - isim
   - felsefe

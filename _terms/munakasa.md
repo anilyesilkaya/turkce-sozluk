@@ -5,7 +5,7 @@ slug: munakasa
 letter: M
 lisan: Arapça munāḳaşa
 anlamlar:
-- ► tartışma
+- tartışma
 ozellikler:
 - - isim
 ornekler:

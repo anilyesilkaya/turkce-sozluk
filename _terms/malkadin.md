@@ -5,7 +5,7 @@ slug: malkadin
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► balkadın
+- balkadın
 ozellikler:
 - - isim
   - bitki bilimi

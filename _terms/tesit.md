@@ -5,7 +5,7 @@ slug: tesit
 letter: T
 lisan: Arapça tesʿīd
 anlamlar:
-- ► kutlama
+- kutlama
 ozellikler:
 - - isim
   - eskimiş

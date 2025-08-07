@@ -5,7 +5,7 @@ slug: bestekarlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bestecilik
+- bestecilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gozevi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göz yuvası
+- göz yuvası
 ozellikler:
 - - isim
   - anatomi

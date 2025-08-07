@@ -5,7 +5,7 @@ slug: tamu
 letter: T
 lisan: Soğdca
 anlamlar:
-- ► cehennem
+- cehennem
 ozellikler:
 - - isim
   - eskimiş

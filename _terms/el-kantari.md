@@ -5,7 +5,7 @@ slug: el-kantari
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kantar
+- kantar
 ozellikler:
 - - isim
 ornekler:

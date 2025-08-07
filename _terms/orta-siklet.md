@@ -5,7 +5,7 @@ slug: orta-siklet
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► orta ağırlık
+- orta ağırlık
 ozellikler:
 - - isim
   - spor

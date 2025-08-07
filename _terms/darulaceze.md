@@ -5,7 +5,7 @@ slug: darulaceze
 letter: D
 lisan: Arapça dār + ʿaceze
 anlamlar:
-- ► bakım yurdu
+- bakım yurdu
 ozellikler:
 - - isim
   - eskimiş

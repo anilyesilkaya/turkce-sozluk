@@ -5,7 +5,7 @@ slug: dostane
 letter: D
 lisan: Farsça dūstāne
 anlamlar:
-- ► dostça
+- dostça
 ozellikler:
 - - zarf
   - eskimiş

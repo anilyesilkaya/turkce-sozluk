@@ -5,7 +5,7 @@ slug: halsizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► takatsizlik
+- takatsizlik
 ozellikler:
 - - isim
 ornekler:

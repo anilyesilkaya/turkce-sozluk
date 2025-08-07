@@ -5,7 +5,7 @@ slug: kargisli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ilençli
+- ilençli
 ozellikler:
 - - sıfat
 ornekler:

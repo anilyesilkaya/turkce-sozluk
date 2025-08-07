@@ -5,7 +5,7 @@ slug: tutarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tutarlılık
+- tutarlılık
 ozellikler:
 - - isim
 ornekler:

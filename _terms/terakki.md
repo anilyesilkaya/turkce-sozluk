@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teraḳḳī
 anlamlar:
 - İlerleme, yükselme, gelişme
-- ► ilerleme
+- ilerleme
 ozellikler:
 - - isim
   - eskimiş

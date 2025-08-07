@@ -5,7 +5,7 @@ slug: sopalanmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dövülmek
+- dövülmek
 ozellikler:
 - - nesnesiz
 ornekler:

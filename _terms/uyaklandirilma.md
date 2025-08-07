@@ -5,7 +5,7 @@ slug: uyaklandirilma
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyelendirilme
+- kafiyelendirilme
 ozellikler:
 - - isim
   - edebiyat

@@ -5,7 +5,7 @@ slug: vasifsiz-isci
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► niteliksiz işçi
+- niteliksiz işçi
 ozellikler:
 - - isim
 ornekler:

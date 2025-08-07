@@ -5,7 +5,7 @@ slug: izahli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► açıklamalı
+- açıklamalı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kibernetik
 letter: K
 lisan: Yunanca
 anlamlar:
-- ► sibernetik
+- sibernetik
 ozellikler:
 - - isim
 ornekler:

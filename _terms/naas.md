@@ -5,7 +5,7 @@ slug: naas
 letter: N
 lisan: Arapça naʿş
 anlamlar:
-- ► ceset
+- ceset
 ozellikler:
 - - isim
   - eskimiş

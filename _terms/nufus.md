@@ -5,7 +5,7 @@ slug: nufus
 letter: N
 lisan: Arapça nufūs
 anlamlar:
-- ► kişi
+- kişi
 - Bir ülkede, bir bölgede, bir evde belirli bir anda yaşayanların oluşturduğu toplam sayı; popülasyon
 - Ortak bir özellik gösteren kimselerin bütünü
 ozellikler:

@@ -5,7 +5,7 @@ slug: nasirlanma
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nasırlaşma
+- nasırlaşma
 ozellikler:
 - - isim
 ornekler:

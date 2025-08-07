@@ -5,7 +5,7 @@ slug: mutercimlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çevirmenlik
+- çevirmenlik
 ozellikler:
 - - isim
 ornekler:

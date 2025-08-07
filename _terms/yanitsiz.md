@@ -5,7 +5,7 @@ slug: yanitsiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevapsız
+- cevapsız
 ozellikler:
 - - sıfat
   - zarf

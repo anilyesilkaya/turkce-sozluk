@@ -5,7 +5,7 @@ slug: zevahir
 letter: Z
 lisan: Arapça ẓevāhir
 anlamlar:
-- ► görünüm
+- görünüm
 ozellikler:
 - - isim
 ornekler:

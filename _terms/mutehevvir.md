@@ -5,7 +5,7 @@ slug: mutehevvir
 letter: M
 lisan: Arapça mutehevvir
 anlamlar:
-- ► kızgın
+- kızgın
 ozellikler:
 - - sıfat
   - eskimiş

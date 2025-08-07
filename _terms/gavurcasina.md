@@ -5,7 +5,7 @@ slug: gavurcasina
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gâvurca
+- gâvurca
 ozellikler:
 - - zarf
 ornekler:

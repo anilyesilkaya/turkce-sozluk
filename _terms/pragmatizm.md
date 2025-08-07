@@ -5,7 +5,7 @@ slug: pragmatizm
 letter: P
 lisan: Fransızca pragmatisme
 anlamlar:
-- ► yararcılık
+- yararcılık
 ozellikler:
 - - isim
   - felsefe

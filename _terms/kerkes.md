@@ -5,7 +5,7 @@ slug: kerkes
 letter: K
 lisan: Arapça kerkes
 anlamlar:
-- ► akbaba
+- akbaba
 ozellikler:
 - - isim
   - eskimiş

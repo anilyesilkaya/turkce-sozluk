@@ -5,7 +5,7 @@ slug: akitac
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dren
+- dren
 ozellikler:
 - - isim
   - tıp

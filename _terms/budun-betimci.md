@@ -5,7 +5,7 @@ slug: budun-betimci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► etnograf
+- etnograf
 ozellikler:
 - - isim
 ornekler:

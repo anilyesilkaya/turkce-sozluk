@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kırışık olma durumu
 - Kırışık olan yüzeyin durumu
-- ► kırışık
+- kırışık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kimiltisizca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıpırtısızca
+- kıpırtısızca
 ozellikler:
 - - zarf
 ornekler:

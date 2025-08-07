@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Mükellef olma durumu
-- ► yükümlülük
+- yükümlülük
 ozellikler:
 - - isim
 - - isim

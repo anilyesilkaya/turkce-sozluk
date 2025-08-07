@@ -5,7 +5,7 @@ slug: bakilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ölümsüzlük
+- ölümsüzlük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sekilsizlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimsizlik
+- biçimsizlik
 ozellikler:
 - - isim
 ornekler:

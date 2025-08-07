@@ -5,7 +5,7 @@ slug: sefaret
 letter: S
 lisan: Arapça sefāret
 anlamlar:
-- ► elçilik
+- elçilik
 ozellikler:
 - - isim
 ornekler:

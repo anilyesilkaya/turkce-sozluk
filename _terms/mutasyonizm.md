@@ -5,7 +5,7 @@ slug: mutasyonizm
 letter: M
 lisan: Fransızca mutationisme
 anlamlar:
-- ► değişinimcilik
+- değişinimcilik
 ozellikler:
 - - isim
   - biyoloji

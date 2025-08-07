@@ -5,7 +5,7 @@ slug: demagog
 letter: D
 lisan: Fransızca démagogue
 anlamlar:
-- ► laf cambazı
+- laf cambazı
 ozellikler:
 - - isim
 ornekler:

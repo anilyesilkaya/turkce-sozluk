@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dişi deve
-- ► çıplak
+- çıplak
 ozellikler:
 - - isim
   - ağızlardan

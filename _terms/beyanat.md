@@ -5,7 +5,7 @@ slug: beyanat
 letter: B
 lisan: Arapça beyānāt
 anlamlar:
-- ► demeç
+- demeç
 ozellikler:
 - - isim
 ornekler:

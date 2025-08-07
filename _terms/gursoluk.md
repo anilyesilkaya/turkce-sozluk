@@ -5,7 +5,7 @@ slug: gursoluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► soluk soluğa
+- soluk soluğa
 ozellikler:
 - - zarf
 ornekler:

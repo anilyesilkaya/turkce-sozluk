@@ -5,7 +5,7 @@ slug: kemance
 letter: K
 lisan: Farsça kemānçe
 anlamlar:
-- ► kemençe
+- kemençe
 ozellikler:
 - - isim
   - müzik

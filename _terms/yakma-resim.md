@@ -5,7 +5,7 @@ slug: yakma-resim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dağlama resim
+- dağlama resim
 ozellikler:
 - - isim
 ornekler:

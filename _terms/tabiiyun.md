@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭabiʽiyyūn
 anlamlar:
 - Tabiat bilimiyle uğraşan bilginler
-- ► doğalcı
+- doğalcı
 ozellikler:
 - - isim
 - - isim

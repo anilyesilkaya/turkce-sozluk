@@ -7,7 +7,7 @@ lisan: Arapça cild + Farsça bend
 anlamlar:
 - Kâğıt, evrak, nota, plan vb.ni korumak ve saklamak için kullanılan, kapağın iç tarafında gözler bulunan, deriden yapılmış büyük dosya
 - Kitap cildinin içine konduğu zarf benzeri kutu
-- ► evrak çantası
+- evrak çantası
 - Büyük para cüzdanı
 - Dervişlerin kemerleri arasına yerleştirdikleri meşin cep
 ozellikler:

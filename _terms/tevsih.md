@@ -5,7 +5,7 @@ slug: tevsih
 letter: T
 lisan: Arapça tevşīḥ
 anlamlar:
-- ► akrostiş
+- akrostiş
 ozellikler:
 - - isim
   - eskimiş

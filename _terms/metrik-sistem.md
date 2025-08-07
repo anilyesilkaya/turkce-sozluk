@@ -5,7 +5,7 @@ slug: metrik-sistem
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► metre sistemi
+- metre sistemi
 ozellikler:
 - - isim
   - matematik

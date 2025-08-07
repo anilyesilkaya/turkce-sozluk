@@ -5,7 +5,7 @@ slug: terutaze
 letter: T
 lisan: Farsça ter + tāze
 anlamlar:
-- ► körpe
+- körpe
 - Dinç bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: musvedde-defteri
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► karalama defteri
+- karalama defteri
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: destecilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► desteleyicilik
+- desteleyicilik
 ozellikler:
 - - isim
 ornekler:

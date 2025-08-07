@@ -5,7 +5,7 @@ slug: tepke
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► refleks
+- refleks
 ozellikler:
 - - isim
   - ruh bilimi

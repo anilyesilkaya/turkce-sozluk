@@ -5,7 +5,7 @@ slug: erkekevi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► oğlanevi
+- oğlanevi
 ozellikler:
 - - isim
 ornekler:

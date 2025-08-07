@@ -8,13 +8,13 @@ anlamlar:
 - Bağımlılığına, tutukluluğuna veya baskı altındaki durumuna son vererek serbest kılmak; bırakmak
 - Yollamak, göndermek
 - Koymak, katmak
-- ► sürmek
-- ► uğratmak
+- sürmek
+- uğratmak
 - Vergi yüklemek
 - Üzerine yürütmek
-- ► saldırmak
-- ► sarkıtmak
-- ► koyuvermek
+- saldırmak
+- sarkıtmak
+- koyuvermek
 - Gemi demir üzerinde dört yana dönmek
 - Bakmamak, ilgilenmemek, özen göstermemek
 ozellikler:

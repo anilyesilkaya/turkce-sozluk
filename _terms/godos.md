@@ -5,7 +5,7 @@ slug: godos
 letter: G
 lisan: Ermenice
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
 ornekler:

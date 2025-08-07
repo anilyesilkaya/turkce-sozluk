@@ -5,7 +5,7 @@ slug: geri-kalmis
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► az gelişmiş
+- az gelişmiş
 ozellikler:
 - - sıfat
 ornekler:

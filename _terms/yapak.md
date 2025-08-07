@@ -5,7 +5,7 @@ slug: yapak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yapağı
+- yapağı
 ozellikler:
 - - isim
 ornekler:

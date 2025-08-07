@@ -5,7 +5,7 @@ slug: eczaci-teknisyeni
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eczacı kalfası
+- eczacı kalfası
 ozellikler:
 - - isim
 ornekler:

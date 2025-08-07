@@ -5,7 +5,7 @@ slug: oglan-usak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► çoluk çocuk
+- çoluk çocuk
 ozellikler:
 - - isim
 ornekler:

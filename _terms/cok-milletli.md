@@ -5,7 +5,7 @@ slug: cok-milletli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çok uluslu
+- çok uluslu
 ozellikler:
 - - sıfat
 ornekler:

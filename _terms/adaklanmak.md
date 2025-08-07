@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Adına adak adanmak
-- ► nişanlanmak
+- nişanlanmak
 ozellikler:
 - - nesnesiz
   - -le

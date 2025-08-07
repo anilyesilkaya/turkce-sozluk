@@ -5,7 +5,7 @@ slug: mukteza
 letter: M
 lisan: Arapça muḳteżā
 anlamlar:
-- ► gerekli
+- gerekli
 - Bir iş yapılırken gerekli işlemlerin bütünü
 ozellikler:
 - - sıfat

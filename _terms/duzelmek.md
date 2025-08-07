@@ -5,7 +5,7 @@ slug: duzelmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düzleşmek
+- düzleşmek
 - Kötü, bozulmuş bir durumdayken düzenli duruma gelmek
 - Soğuk ve yağış azalmak
 - Hasta iyileşmek

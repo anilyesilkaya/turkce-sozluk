@@ -5,7 +5,7 @@ slug: bosluk-tulumbasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boşaltaç
+- boşaltaç
 ozellikler:
 - - isim
 ornekler:

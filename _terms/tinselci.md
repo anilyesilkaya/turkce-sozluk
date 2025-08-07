@@ -5,7 +5,7 @@ slug: tinselci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ruhçu
+- ruhçu
 ozellikler:
 - - sıfat
   - felsefe

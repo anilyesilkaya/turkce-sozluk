@@ -5,7 +5,7 @@ slug: bidar
 letter: B
 lisan: Farsça bīdār
 anlamlar:
-- ► uyanık
+- uyanık
 ozellikler:
 - - sıfat
   - eskimiş

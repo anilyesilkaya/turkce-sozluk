@@ -5,7 +5,7 @@ slug: toplumsal-bilim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► toplum bilimi
+- toplum bilimi
 ozellikler:
 - - isim
   - toplum bilimi

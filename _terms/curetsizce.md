@@ -5,7 +5,7 @@ slug: curetsizce
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretsizce
+- cesaretsizce
 ozellikler:
 - - zarf
 ornekler:

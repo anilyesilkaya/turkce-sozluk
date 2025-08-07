@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Aşırı derecede olan
-- ► gösterişli
+- gösterişli
 ozellikler:
 - - sıfat
 - - sıfat

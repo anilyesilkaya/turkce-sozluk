@@ -5,7 +5,7 @@ slug: yan-hakem
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yardımcı hakem
+- yardımcı hakem
 ozellikler:
 - - isim
   - spor

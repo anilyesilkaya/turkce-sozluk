@@ -5,8 +5,8 @@ slug: projektor
 letter: P
 lisan: Fransızca projecteur
 anlamlar:
-- ► ışıldak
-- ► yansıtım aygıtı
+- ışıldak
+- yansıtım aygıtı
 ozellikler:
 - - isim
 - - isim

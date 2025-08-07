@@ -5,7 +5,7 @@ slug: oy-kagidi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oy pusulası
+- oy pusulası
 ozellikler:
 - - isim
 ornekler:

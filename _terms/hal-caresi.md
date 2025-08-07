@@ -5,7 +5,7 @@ slug: hal-caresi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► çözüm yolu
+- çözüm yolu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: uygunsuzluk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► yakışıksızlık
+- yakışıksızlık
 - Kötü durum, kötü davranış, can sıkacak hareket
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Ahbap olma durumu
-- ► yakınlık
+- yakınlık
 ozellikler:
 - - isim
 - - isim

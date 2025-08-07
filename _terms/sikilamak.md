@@ -6,10 +6,10 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkı duruma getirmek
-- ► sıkıştırmak
+- sıkıştırmak
 - Dolma tüfek, tabanca vb. ateşli silahları ağızdan doldurup sıkıştırmak
 - İyice tembih etmek
-- ► bunaltmak
+- bunaltmak
 ozellikler:
 - - -i
 - - -i

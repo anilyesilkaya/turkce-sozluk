@@ -5,8 +5,8 @@ slug: mezur
 letter: M
 lisan: Fransızca mesure
 anlamlar:
-- ► mezura
-- ► ölçü
+- mezura
+- ölçü
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: tek-erkcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► monarşizm
+- monarşizm
 ozellikler:
 - - isim
   - toplum bilimi

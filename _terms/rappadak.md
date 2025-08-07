@@ -5,7 +5,7 @@ slug: rappadak
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 ornekler:

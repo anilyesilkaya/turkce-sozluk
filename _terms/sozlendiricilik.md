@@ -5,7 +5,7 @@ slug: sozlendiricilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seslendiricilik
+- seslendiricilik
 ozellikler:
 - - isim
 ornekler:

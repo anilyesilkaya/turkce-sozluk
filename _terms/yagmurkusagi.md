@@ -5,7 +5,7 @@ slug: yagmurkusagi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - meteoroloji

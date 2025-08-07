@@ -5,7 +5,7 @@ slug: mureccah
 letter: M
 lisan: Arapça muraccaḥ
 anlamlar:
-- ► yeğ
+- yeğ
 ozellikler:
 - - sıfat
   - eskimiş

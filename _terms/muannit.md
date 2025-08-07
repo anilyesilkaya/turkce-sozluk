@@ -5,7 +5,7 @@ slug: muannit
 letter: M
 lisan: Arapça muʿannid
 anlamlar:
-- ► İnatçı
+- İnatçı
 ozellikler:
 - - sıfat
   - eskimiş

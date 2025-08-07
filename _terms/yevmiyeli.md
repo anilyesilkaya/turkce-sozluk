@@ -5,7 +5,7 @@ slug: yevmiyeli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gündelikli
+- gündelikli
 ozellikler:
 - - sıfat
 ornekler:

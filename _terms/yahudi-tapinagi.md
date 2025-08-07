@@ -5,7 +5,7 @@ slug: yahudi-tapinagi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sinagog
+- sinagog
 ozellikler:
 - - isim
   - din bilimi

@@ -5,7 +5,7 @@ slug: lahika
 letter: L
 lisan: Arapça lāḥiḳa
 anlamlar:
-- ► ek
+- ek
 ozellikler:
 - - isim
   - eskimiş

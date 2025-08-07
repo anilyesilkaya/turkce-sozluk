@@ -5,7 +5,7 @@ slug: kefillik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kefalet
+- kefalet
 ozellikler:
 - - isim
   - hukuk

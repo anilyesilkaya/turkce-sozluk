@@ -6,10 +6,10 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işin yolunda gitmemesi durumu; terslik
-- ► karşıtlık
-- ► inatçılık
-- ► hırçınlık
-- ► huysuzluk
+- karşıtlık
+- inatçılık
+- hırçınlık
+- huysuzluk
 ozellikler:
 - - isim
 - - isim

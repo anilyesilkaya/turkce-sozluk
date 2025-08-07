@@ -5,7 +5,7 @@ slug: fragman
 letter: F
 lisan: Fransızca fragment
 anlamlar:
-- ► tanıtma filmi
+- tanıtma filmi
 ozellikler:
 - - isim
   - sinema

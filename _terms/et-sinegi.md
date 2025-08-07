@@ -5,7 +5,7 @@ slug: et-sinegi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kül rengi et sineği
+- kül rengi et sineği
 ozellikler:
 - - isim
   - hayvan bilimi

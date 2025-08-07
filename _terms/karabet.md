@@ -5,8 +5,8 @@ slug: karabet
 letter: K
 lisan: Arapça ḳarābet
 anlamlar:
-- ► yakınlık
-- ► hısımlık
+- yakınlık
+- hısımlık
 ozellikler:
 - - isim
   - eskimiş

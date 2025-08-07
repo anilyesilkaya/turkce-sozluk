@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kızgın, ısınmış olma durumu
 - Hayvanların çiftleşme isteği
-- ► öfke
+- öfke
 ozellikler:
 - - isim
 - - isim

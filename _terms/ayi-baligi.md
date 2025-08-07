@@ -5,7 +5,7 @@ slug: ayi-baligi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► fok
+- fok
 ozellikler:
 - - isim
   - hayvan bilimi

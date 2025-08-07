@@ -5,7 +5,7 @@ slug: vatandaslik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yurttaşlık
+- yurttaşlık
 ozellikler:
 - - isim
 ornekler:

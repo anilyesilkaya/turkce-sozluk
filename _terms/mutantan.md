@@ -5,7 +5,7 @@ slug: mutantan
 letter: M
 lisan: Arapça muṭanṭan
 anlamlar:
-- ► görkemli
+- görkemli
 ozellikler:
 - - sıfat
   - eskimiş

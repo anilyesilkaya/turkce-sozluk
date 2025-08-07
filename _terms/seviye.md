@@ -5,7 +5,7 @@ slug: seviye
 letter: S
 lisan: Arapça seviyye
 anlamlar:
-- ► düzey
+- düzey
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: noksanlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► eksiklik
+- eksiklik
 ozellikler:
 - - isim
 ornekler:

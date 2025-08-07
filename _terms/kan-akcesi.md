@@ -5,7 +5,7 @@ slug: kan-akcesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► diyet (I)
+- diyet (I)
 ozellikler:
 - - isim
   - eskimiş

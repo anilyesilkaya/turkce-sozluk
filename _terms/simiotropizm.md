@@ -5,7 +5,7 @@ slug: simiotropizm
 letter: Ş
 lisan: Fransızca chimiotropisme
 anlamlar:
-- ► kimya doğrulumu
+- kimya doğrulumu
 ozellikler:
 - - isim
   - bitki bilimi

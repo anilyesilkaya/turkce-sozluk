@@ -5,7 +5,7 @@ slug: kendimcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bencillik
+- bencillik
 ozellikler:
 - - isim
 ornekler:

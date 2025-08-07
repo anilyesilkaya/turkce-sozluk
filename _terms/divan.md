@@ -7,8 +7,8 @@ lisan: Arapça dīvān
 anlamlar:
 - Yüksek düzeydeki devlet adamlarının kurduğu büyük meclis
 - Divan edebiyatı şairlerinin şiirlerini topladıkları eser
-- ► sedir (I)
-- ► meclis
+- sedir (I)
+- meclis
 ozellikler:
 - - isim
   - tarih

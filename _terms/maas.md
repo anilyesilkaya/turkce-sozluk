@@ -5,7 +5,7 @@ slug: maas
 letter: M
 lisan: Arapça maʿāş
 anlamlar:
-- ► aylık
+- aylık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: susarimsagi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kurtluca
+- kurtluca
 ozellikler:
 - - isim
   - bitki bilimi

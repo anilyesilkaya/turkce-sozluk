@@ -5,9 +5,9 @@ slug: yordam
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► alışkanlık
+- alışkanlık
 - Çevik ve çabuk olma
-- ► yöntem
+- yöntem
 ozellikler:
 - - isim
 - - isim

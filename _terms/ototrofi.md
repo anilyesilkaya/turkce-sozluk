@@ -5,7 +5,7 @@ slug: ototrofi
 letter: O
 lisan: Fransızca autotrophie
 anlamlar:
-- ► öz beslenme
+- öz beslenme
 ozellikler:
 - - isim
   - biyoloji

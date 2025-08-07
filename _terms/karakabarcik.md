@@ -5,7 +5,7 @@ slug: karakabarcik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şarbon
+- şarbon
 ozellikler:
 - - isim
   - tıp

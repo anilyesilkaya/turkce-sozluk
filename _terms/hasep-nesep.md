@@ -5,7 +5,7 @@ slug: hasep-nesep
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► soy sop
+- soy sop
 ozellikler:
 - - isim
 ornekler:

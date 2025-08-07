@@ -5,7 +5,7 @@ slug: yokumsamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yadsımak
+- yadsımak
 ozellikler:
 - - -i
 ornekler:

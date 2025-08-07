@@ -5,7 +5,7 @@ slug: cebirsel-formul
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cebirsel deyim
+- cebirsel deyim
 ozellikler:
 - - isim
   - matematik

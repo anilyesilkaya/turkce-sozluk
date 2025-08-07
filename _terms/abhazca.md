@@ -5,7 +5,7 @@ slug: abhazca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Abazaca
+- Abazaca
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dualist
 letter: D
 lisan: Fransızca dualiste
 anlamlar:
-- ► ikici
+- ikici
 ozellikler:
 - - sıfat
   - felsefe

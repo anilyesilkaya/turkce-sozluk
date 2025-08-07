@@ -5,7 +5,7 @@ slug: duygun
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duyarlı
+- duyarlı
 ozellikler:
 - - sıfat
 ornekler:

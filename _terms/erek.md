@@ -5,7 +5,7 @@ slug: erek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► amaç
+- amaç
 ozellikler:
 - - isim
 ornekler:

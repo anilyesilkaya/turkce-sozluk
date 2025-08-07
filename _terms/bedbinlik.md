@@ -5,7 +5,7 @@ slug: bedbinlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kötümserlik
+- kötümserlik
 ozellikler:
 - - isim
   - felsefe

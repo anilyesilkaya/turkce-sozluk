@@ -5,7 +5,7 @@ slug: gani-gani
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► bol bol
+- bol bol
 ozellikler:
 - - zarf
 ornekler:

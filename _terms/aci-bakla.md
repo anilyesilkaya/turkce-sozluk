@@ -5,7 +5,7 @@ slug: aci-bakla
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► termiye
+- termiye
 ozellikler:
 - - isim
   - bitki bilimi

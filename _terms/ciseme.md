@@ -5,7 +5,7 @@ slug: ciseme
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiseleme
+- çiseleme
 - İnce yağmur
 ozellikler:
 - - isim

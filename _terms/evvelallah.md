@@ -5,7 +5,7 @@ slug: evvelallah
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evelallah
+- evelallah
 ozellikler:
 - - zarf
 ornekler:

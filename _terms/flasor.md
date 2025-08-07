@@ -5,7 +5,7 @@ slug: flasor
 letter: F
 lisan: Fransızca flasheur
 anlamlar:
-- ► dörtlü
+- dörtlü
 ozellikler:
 - - isim
 ornekler:

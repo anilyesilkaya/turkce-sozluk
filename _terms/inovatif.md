@@ -5,7 +5,7 @@ slug: inovatif
 letter: I
 lisan: İngilizce innovative
 anlamlar:
-- ► yenileşimci
+- yenileşimci
 ozellikler:
 - - isim
 ornekler:

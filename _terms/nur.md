@@ -5,7 +5,7 @@ slug: nur
 letter: N
 lisan: Arapça nūr
 anlamlar:
-- ► ışık
+- ışık
 - İlahi bir güç tarafından gönderildiğine inanılan parlaklık
 ozellikler:
 - - isim

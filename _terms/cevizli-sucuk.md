@@ -5,7 +5,7 @@ slug: cevizli-sucuk
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ceviz sucuğu
+- ceviz sucuğu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sathilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yüzeysellik
+- yüzeysellik
 ozellikler:
 - - isim
 ornekler:

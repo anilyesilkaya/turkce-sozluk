@@ -7,7 +7,7 @@ lisan: Farsça pūst
 anlamlar:
 - Tüylü hayvan derisi
 - Tarikatlarda şeyhlik makamı
-- ► makam
+- makam
 - Bazı deyimlerde "can" anlamında kullanılan bir söz
 ozellikler:
 - - isim

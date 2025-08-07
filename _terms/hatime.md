@@ -5,8 +5,8 @@ slug: hatime
 letter: H
 lisan: Arapça ḫātime
 anlamlar:
-- ► son
-- ► son söz
+- son
+- son söz
 ozellikler:
 - - isim
   - eskimiş

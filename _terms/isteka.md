@@ -6,7 +6,7 @@ letter: I
 lisan: İtalyanca stecca
 anlamlar:
 - Bilardo oyununda toplara vurmak için kullanılan sopa; bilardo sopası
-- ► istika
+- istika
 - Basımevlerinde kitap formalarını kırmak, katlamak için kullanılan sert tahta veya kemikten yapılmış araç
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: denizmaymunu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► denizkedisi
+- denizkedisi
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: ilim-ilim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - sıfat
 ornekler:

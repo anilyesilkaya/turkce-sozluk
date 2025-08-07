@@ -5,7 +5,7 @@ slug: maden-bilimi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mineral bilimi
+- mineral bilimi
 ozellikler:
 - - isim
   - mineraloji

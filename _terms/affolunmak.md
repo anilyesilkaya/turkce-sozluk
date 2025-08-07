@@ -5,7 +5,7 @@ slug: affolunmak
 letter: A
 lisan: Arapça ʿafv + Türkçe olunmak
 anlamlar:
-- ► bağışlanmak
+- bağışlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

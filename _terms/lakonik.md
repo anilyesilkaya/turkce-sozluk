@@ -5,7 +5,7 @@ slug: lakonik
 letter: L
 lisan: Fransızca laconique
 anlamlar:
-- ► veciz
+- veciz
 ozellikler:
 - - sıfat
 ornekler:

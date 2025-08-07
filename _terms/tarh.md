@@ -8,7 +8,7 @@ anlamlar:
 - Bahçelerde çiçek dikmeye ayrılmış yer
 - Vergi koyma
 - Kurma, tertip ve tanzim etme
-- ► çıkarma
+- çıkarma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: karasakiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► zift
+- zift
 ozellikler:
 - - isim
 ornekler:

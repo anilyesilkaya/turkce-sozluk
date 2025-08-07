@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüz tane alabilen
-- ► yüzlük
+- yüzlük
 ozellikler:
 - - sıfat
 - - sıfat

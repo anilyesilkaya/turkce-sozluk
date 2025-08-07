@@ -5,7 +5,7 @@ slug: yalaza
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► alev (I)
+- alev (I)
 ozellikler:
 - - isim
 ornekler:

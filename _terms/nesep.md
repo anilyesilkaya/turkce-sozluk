@@ -5,7 +5,7 @@ slug: nesep
 letter: N
 lisan: Arapça neseb
 anlamlar:
-- ► soy
+- soy
 ozellikler:
 - - isim
   - eskimiş

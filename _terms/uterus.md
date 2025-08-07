@@ -5,7 +5,7 @@ slug: uterus
 letter: U
 lisan: Latince
 anlamlar:
-- ► döl yatağı
+- döl yatağı
 ozellikler:
 - - isim
   - anatomi

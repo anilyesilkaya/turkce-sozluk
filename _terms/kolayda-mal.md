@@ -5,7 +5,7 @@ slug: kolayda-mal
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kolayda ürün
+- kolayda ürün
 ozellikler:
 - - isim
 ornekler:

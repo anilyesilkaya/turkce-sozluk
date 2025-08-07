@@ -5,7 +5,7 @@ slug: kisa-gorusluluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dar görüşlülük
+- dar görüşlülük
 ozellikler:
 - - isim
 ornekler:

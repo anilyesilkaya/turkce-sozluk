@@ -5,7 +5,7 @@ slug: irticali
 letter: I
 lisan: Arapça irticālį
 anlamlar:
-- ► doğaçlama
+- doğaçlama
 ozellikler:
 - - zarf
 ornekler:

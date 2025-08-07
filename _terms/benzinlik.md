@@ -5,7 +5,7 @@ slug: benzinlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► benzin istasyonu
+- benzin istasyonu
 ozellikler:
 - - isim
 ornekler:

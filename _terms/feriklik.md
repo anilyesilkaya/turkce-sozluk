@@ -5,7 +5,7 @@ slug: feriklik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► korgenerallik
+- korgenerallik
 ozellikler:
 - - isim
   - eskimiş

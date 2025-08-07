@@ -5,8 +5,8 @@ slug: askeriye
 letter: A
 lisan: Arapça ʿaskeriyye
 anlamlar:
-- ► ordu
-- ► askerlik
+- ordu
+- askerlik
 ozellikler:
 - - isim
 - - isim

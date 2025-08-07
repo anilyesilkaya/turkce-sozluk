@@ -5,7 +5,7 @@ slug: abuk-subuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçma
+- saçma
 ozellikler:
 - - sıfat
   - zarf

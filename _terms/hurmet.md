@@ -5,7 +5,7 @@ slug: hurmet
 letter: H
 lisan: Arapça ḥurmet
 anlamlar:
-- ► saygı
+- saygı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gevher
 letter: G
 lisan: Farsça gevher
 anlamlar:
-- ► cevher
+- cevher
 ozellikler:
 - - isim
   - eskimiş

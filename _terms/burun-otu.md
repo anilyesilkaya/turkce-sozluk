@@ -5,7 +5,7 @@ slug: burun-otu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► enfiye
+- enfiye
 ozellikler:
 - - isim
 ornekler:

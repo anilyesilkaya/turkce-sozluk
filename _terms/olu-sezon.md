@@ -5,7 +5,7 @@ slug: olu-sezon
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölü mevsim
+- ölü mevsim
 ozellikler:
 - - isim
   - mecaz

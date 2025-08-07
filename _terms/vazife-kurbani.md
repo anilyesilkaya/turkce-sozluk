@@ -5,7 +5,7 @@ slug: vazife-kurbani
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► görev şehidi
+- görev şehidi
 ozellikler:
 - - isim
 ornekler:

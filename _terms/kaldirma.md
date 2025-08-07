@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırmak işi
-- ► tahammül
+- tahammül
 ozellikler:
 - - isim
 - - isim

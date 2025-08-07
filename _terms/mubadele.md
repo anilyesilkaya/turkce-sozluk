@@ -5,7 +5,7 @@ slug: mubadele
 letter: M
 lisan: Arapça mubādele
 anlamlar:
-- ► değişim
+- değişim
 ozellikler:
 - - isim
   - eskimiş

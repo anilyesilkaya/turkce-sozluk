@@ -5,7 +5,7 @@ slug: sihhatli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlıklı
+- sağlıklı
 ozellikler:
 - - sıfat
 ornekler:

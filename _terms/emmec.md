@@ -5,7 +5,7 @@ slug: emmec
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► aspiratör
+- aspiratör
 ozellikler:
 - - isim
   - fizik

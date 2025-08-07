@@ -5,8 +5,8 @@ slug: santra
 letter: S
 lisan: Fransızca centre
 anlamlar:
-- ► orta yuvarlak
-- ► başlama vuruşu
+- orta yuvarlak
+- başlama vuruşu
 ozellikler:
 - - isim
   - spor

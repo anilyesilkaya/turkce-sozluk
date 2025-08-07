@@ -5,7 +5,7 @@ slug: zum
 letter: Z
 lisan: İngilizce zoom
 anlamlar:
-- ► optik kaydırma
+- optik kaydırma
 ozellikler:
 - - isim
 ornekler:

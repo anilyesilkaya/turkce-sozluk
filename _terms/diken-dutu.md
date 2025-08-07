@@ -5,7 +5,7 @@ slug: diken-dutu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► böğürtlen
+- böğürtlen
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: bula
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yenge
+- yenge
 ozellikler:
 - - isim
   - ağızlardan

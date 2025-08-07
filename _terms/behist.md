@@ -5,7 +5,7 @@ slug: behist
 letter: B
 lisan: Farsça behişt
 anlamlar:
-- ► cennet
+- cennet
 ozellikler:
 - - isim
   - eskimiş

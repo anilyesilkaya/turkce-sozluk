@@ -5,7 +5,7 @@ slug: kolesterin
 letter: K
 lisan: Fransızca cholestérine
 anlamlar:
-- ► kolesterol
+- kolesterol
 ozellikler:
 - - isim
   - tıp

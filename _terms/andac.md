@@ -5,9 +5,9 @@ slug: andac
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ajanda
-- ► hatıra
-- ► yıllık
+- ajanda
+- hatıra
+- yıllık
 - Bir yerde geçirilen süreyi anımsamak için düzenlenen fotoğraflı kitapçık
 ozellikler:
 - - isim

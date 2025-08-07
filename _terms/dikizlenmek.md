@@ -5,7 +5,7 @@ slug: dikizlenmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► gözetlenmek
+- gözetlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

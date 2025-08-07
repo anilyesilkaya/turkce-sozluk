@@ -5,9 +5,9 @@ slug: vasita
 letter: V
 lisan: Arapça vāsiṭa
 anlamlar:
-- ► araç
-- ► aracı
-- ► taşıt
+- araç
+- aracı
+- taşıt
 ozellikler:
 - - isim
 - - isim

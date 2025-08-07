@@ -6,7 +6,7 @@ letter: Ü
 lisan: Fransızca unité
 anlamlar:
 - Birlik, birleşmiş olma durumu
-- ► birim
+- birim
 - Okullarda birkaç ders saatinde işlenebilecek nitelikte geniş kapsamlı ders konusu
 - Kan bağışı sırasında kanın içine konulduğu, yaklaşık 500 ml’lik torba
 - Bir görevi, işi sürekli olarak yapmak üzere oluşturulmuş birlik

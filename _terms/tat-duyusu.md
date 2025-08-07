@@ -5,7 +5,7 @@ slug: tat-duyusu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tat alma duyusu
+- tat alma duyusu
 ozellikler:
 - - isim
 ornekler:

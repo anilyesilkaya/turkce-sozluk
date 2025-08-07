@@ -5,7 +5,7 @@ slug: agirkanli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağırcanlı
+- ağırcanlı
 - Hippokrates'in ortaya attığı ağırcanlılık, soğukluk, kolayca duygulanmayış gibi nitelikleri kendinde toplayan kişilik tipi
 ozellikler:
 - - sıfat

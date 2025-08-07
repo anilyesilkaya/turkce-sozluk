@@ -5,7 +5,7 @@ slug: beniz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yüz (II)
+- yüz (II)
 - Yüz rengi
 ozellikler:
 - - isim

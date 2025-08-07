@@ -5,7 +5,7 @@ slug: itinasizca
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özensizce
+- özensizce
 ozellikler:
 - - zarf
 ornekler:

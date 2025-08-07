@@ -5,7 +5,7 @@ slug: serham-serham
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► parça parça
+- parça parça
 ozellikler:
 - - zarf
 ornekler:

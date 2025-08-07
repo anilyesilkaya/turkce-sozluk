@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça neşr + Türkçe etmek
 anlamlar:
 - Yaymak, dağıtmak, saçmak
-- ► yayımlamak
+- yayımlamak
 ozellikler:
 - - -i
   - eskimiş

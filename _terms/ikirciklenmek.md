@@ -5,7 +5,7 @@ slug: ikirciklenmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanmak
+- kuşkulanmak
 - Kararsız olmak
 ozellikler:
 - - nesnesiz

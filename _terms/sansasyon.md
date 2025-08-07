@@ -5,7 +5,7 @@ slug: sansasyon
 letter: S
 lisan: Fransızca sensation
 anlamlar:
-- ► dalgalanma
+- dalgalanma
 - Birçok kimseyi ilgilendiren, etkileyen heyecan verici olay
 ozellikler:
 - - isim

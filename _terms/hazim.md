@@ -5,7 +5,7 @@ slug: hazim
 letter: H
 lisan: Arapça hażm
 anlamlar:
-- ► sindirim
+- sindirim
 - Benimseme, kabul etme
 ozellikler:
 - - isim

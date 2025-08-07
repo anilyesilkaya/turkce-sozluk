@@ -5,7 +5,7 @@ slug: radikalizm
 letter: R
 lisan: Fransızca radicalisme
 anlamlar:
-- ► köktencilik
+- köktencilik
 ozellikler:
 - - isim
   - felsefe

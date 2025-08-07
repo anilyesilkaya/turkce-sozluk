@@ -5,7 +5,7 @@ slug: kucuk-asya
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Anadolu
+- Anadolu
 ozellikler:
 - - isim
 ornekler:

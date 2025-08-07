@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Derme çatma çadır, göçebe çadırı
 - Çingene çadırı
-- ► otağ
+- otağ
 ozellikler:
 - - isim
 - - isim

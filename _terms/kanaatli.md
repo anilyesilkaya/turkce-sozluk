@@ -5,7 +5,7 @@ slug: kanaatli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kanaatkâr
+- kanaatkâr
 ozellikler:
 - - sıfat
 ornekler:

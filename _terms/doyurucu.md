@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Doyurma özelliği bulunan
-- ► inandırıcı
+- inandırıcı
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: olagan-disilik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► sıra dışılık
+- sıra dışılık
 ozellikler:
 - - isim
 ornekler:

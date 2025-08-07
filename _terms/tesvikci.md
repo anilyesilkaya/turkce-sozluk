@@ -5,8 +5,8 @@ slug: tesvikci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► isteklendirici
-- ► özendirici
+- isteklendirici
+- özendirici
 ozellikler:
 - - sıfat
 - - sıfat

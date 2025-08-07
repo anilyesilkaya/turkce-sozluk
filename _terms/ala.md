@@ -5,9 +5,9 @@ slug: ala
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alaca
-- ► alabalık
-- ► ela
+- alaca
+- alabalık
+- ela
 - Kekliğin boynundaki siyah halka
 ozellikler:
 - - sıfat

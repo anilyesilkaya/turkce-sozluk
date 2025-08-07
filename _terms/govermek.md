@@ -5,8 +5,8 @@ slug: govermek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yeşermek
-- ► morarmak
+- yeşermek
+- morarmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

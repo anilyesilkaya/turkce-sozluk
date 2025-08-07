@@ -5,7 +5,7 @@ slug: panter
 letter: P
 lisan: Fransızca panthère
 anlamlar:
-- ► pars
+- pars
 ozellikler:
 - - isim
   - hayvan bilimi

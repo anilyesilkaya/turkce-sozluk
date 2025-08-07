@@ -5,8 +5,8 @@ slug: amiyane
 letter: A
 lisan: Arapça ʿāmmī + Farsça -āne
 anlamlar:
-- ► basit
-- ► sıradan
+- basit
+- sıradan
 ozellikler:
 - - sıfat
 - - sıfat

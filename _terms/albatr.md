@@ -5,7 +5,7 @@ slug: albatr
 letter: A
 lisan: Fransızca albâtre
 anlamlar:
-- ► kaymak taşı
+- kaymak taşı
 ozellikler:
 - - isim
   - mineraloji

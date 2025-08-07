@@ -5,7 +5,7 @@ slug: ita-emri
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► verile emri
+- verile emri
 ozellikler:
 - - isim
 ornekler:

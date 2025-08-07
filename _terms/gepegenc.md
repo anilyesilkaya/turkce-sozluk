@@ -5,7 +5,7 @@ slug: gepegenc
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gencecik
+- gencecik
 ozellikler:
 - - sıfat
 ornekler:

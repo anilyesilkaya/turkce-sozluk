@@ -5,7 +5,7 @@ slug: delepmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► parlamak
+- parlamak
 ozellikler:
 - - nesnesiz
   - ağızlardan

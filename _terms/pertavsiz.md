@@ -5,7 +5,7 @@ slug: pertavsiz
 letter: P
 lisan: Farsça pertevsūz
 anlamlar:
-- ► büyüteç
+- büyüteç
 ozellikler:
 - - isim
   - eskimiş

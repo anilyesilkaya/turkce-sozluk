@@ -5,7 +5,7 @@ slug: murtesem
 letter: M
 lisan: Arapça murtesem
 anlamlar:
-- ► iz düşümü
+- iz düşümü
 ozellikler:
 - - isim
   - eskimiş

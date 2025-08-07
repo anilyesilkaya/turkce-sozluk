@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Arka tarafında kırmaları çok, bacakları dar bir pantolon türü
 - Kırmalı ve potlu
-- ► buruşuk
+- buruşuk
 ozellikler:
 - - isim
 - - isim

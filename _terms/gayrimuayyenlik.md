@@ -5,7 +5,7 @@ slug: gayrimuayyenlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► belirsizlik
+- belirsizlik
 ozellikler:
 - - isim
 ornekler:

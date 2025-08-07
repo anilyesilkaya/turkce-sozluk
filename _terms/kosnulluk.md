@@ -5,7 +5,7 @@ slug: kosnulluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► erotizm
+- erotizm
 ozellikler:
 - - isim
 ornekler:

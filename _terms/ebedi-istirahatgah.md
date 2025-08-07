@@ -5,7 +5,7 @@ slug: ebedi-istirahatgah
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► mezar
+- mezar
 ozellikler:
 - - isim
   - mecaz

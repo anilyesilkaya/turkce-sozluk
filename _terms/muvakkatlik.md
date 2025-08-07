@@ -5,7 +5,7 @@ slug: muvakkatlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► geçicilik
+- geçicilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: salamandra
 letter: S
 lisan: Fransızca salamandre
 anlamlar:
-- ► semender
+- semender
 - Odalar arasında gezdirilebilen bir tür kömür sobası
 ozellikler:
 - - isim

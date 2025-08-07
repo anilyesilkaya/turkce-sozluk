@@ -5,7 +5,7 @@ slug: kocaoglan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ayı
+- ayı
 ozellikler:
 - - isim
   - alay yollu

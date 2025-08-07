@@ -5,7 +5,7 @@ slug: mecalsizce
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► takatsizce
+- takatsizce
 ozellikler:
 - - zarf
 ornekler:

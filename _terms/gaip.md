@@ -7,7 +7,7 @@ lisan: Arapça ġāʾib
 anlamlar:
 - Görünmez âlem
 - Göz önünde olmayan, hazır bulunmayan, nerede olduğu bilinmeyen
-- ► üçüncü kişi
+- üçüncü kişi
 ozellikler:
 - - isim
 - - isim

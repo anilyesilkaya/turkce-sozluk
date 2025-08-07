@@ -9,7 +9,7 @@ anlamlar:
 - Bir topluma veya halk topluluğuna özgü düşünce ve sanat eserlerinin bütünü
 - Muhakeme, zevk ve eleştirme yeteneklerinin öğrenim ve yaşantılar yoluyla geliştirilmiş olan biçimi; irfan
 - Bireyin kazandığı bilgi
-- ► tarım
+- tarım
 - Uygun biyolojik şartlarda bir mikrop türünü üretme
 ozellikler:
 - - isim

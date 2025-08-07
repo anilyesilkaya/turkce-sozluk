@@ -5,7 +5,7 @@ slug: aci-pelin
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► pelin
+- pelin
 ozellikler:
 - - isim
   - bitki bilimi

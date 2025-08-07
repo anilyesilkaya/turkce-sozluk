@@ -5,7 +5,7 @@ slug: tavukkarasi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gece körlüğü
+- gece körlüğü
 ozellikler:
 - - isim
   - tıp

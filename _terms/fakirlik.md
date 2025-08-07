@@ -5,9 +5,9 @@ slug: fakirlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yoksulluk
-- ► verimsizlik
-- ► yetersizlik
+- yoksulluk
+- verimsizlik
+- yetersizlik
 ozellikler:
 - - isim
 - - isim

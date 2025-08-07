@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naḳż
 anlamlar:
 - Bozma, çözme
-- ► kırma
+- kırma
 ozellikler:
 - - isim
   - eskimiş

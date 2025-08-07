@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Açık söylemek gerekirse; Türkçesi
-- ► düpedüz
+- düpedüz
 ozellikler:
 - - zarf
 - - zarf

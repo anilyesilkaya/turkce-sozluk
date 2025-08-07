@@ -5,8 +5,8 @@ slug: ikircim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşku
-- ► kararsızlık
+- kuşku
+- kararsızlık
 ozellikler:
 - - isim
 - - isim

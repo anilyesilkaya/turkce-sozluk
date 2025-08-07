@@ -5,7 +5,7 @@ slug: bagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► göz bağı
+- göz bağı
 ozellikler:
 - - isim
 ornekler:

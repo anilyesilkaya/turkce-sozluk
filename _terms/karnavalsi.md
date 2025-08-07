@@ -5,7 +5,7 @@ slug: karnavalsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karnavalımsı
+- karnavalımsı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: rasathane
 letter: R
 lisan: Arapça raṣad + Farsça ḫāne
 anlamlar:
-- ► gözlemevi
+- gözlemevi
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: zer
 letter: Z
 lisan: Farsça zer
 anlamlar:
-- ► altın
+- altın
 ozellikler:
 - - isim
   - eskimiş

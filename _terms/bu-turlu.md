@@ -5,7 +5,7 @@ slug: bu-turlu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böyle
+- böyle
 ozellikler:
 - - zarf
 ornekler:

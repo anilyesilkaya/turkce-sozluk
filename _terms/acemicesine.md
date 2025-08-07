@@ -5,7 +5,7 @@ slug: acemicesine
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► acemice
+- acemice
 ozellikler:
 - - zarf
 ornekler:

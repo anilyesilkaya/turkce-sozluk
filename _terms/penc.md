@@ -5,7 +5,7 @@ slug: penc
 letter: P
 lisan: Farsça penc
 anlamlar:
-- ► beş
+- beş
 ozellikler:
 - - isim
 ornekler:

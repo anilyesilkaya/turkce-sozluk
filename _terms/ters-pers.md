@@ -5,7 +5,7 @@ slug: ters-pers
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yalan yanlış
+- yalan yanlış
 - Düzelemeyecek kadar ters bir biçimde
 ozellikler:
 - - sıfat

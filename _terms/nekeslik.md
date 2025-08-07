@@ -5,7 +5,7 @@ slug: nekeslik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
 ornekler:

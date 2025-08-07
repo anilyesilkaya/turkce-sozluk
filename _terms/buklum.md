@@ -5,8 +5,8 @@ slug: buklum
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kıvrım
-- ► dönemeç
+- kıvrım
+- dönemeç
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: asirti
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aşırma
+- aşırma
 ozellikler:
 - - isim
   - hukuk

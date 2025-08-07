@@ -8,7 +8,7 @@ anlamlar:
 - Açıkgöz, kurnaz, çokbilmiş kimse
 - Aşağılık ve düzenci kimse
 - Bir şeyin en iyisi, en güzeli
-- ► iffetsiz
+- iffetsiz
 ozellikler:
 - - isim
   - teklifsiz konuşmada

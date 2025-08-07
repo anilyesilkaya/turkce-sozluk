@@ -5,7 +5,7 @@ slug: dikiscilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► terzilik
+- terzilik
 ozellikler:
 - - isim
 ornekler:

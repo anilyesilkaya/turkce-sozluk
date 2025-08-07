@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Durumunu düzeltmek, aşamalı bir biçimde gelişmek, ilerlemek
-- ► zenginleşmek
+- zenginleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

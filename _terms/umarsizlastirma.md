@@ -5,7 +5,7 @@ slug: umarsizlastirma
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çaresizleştirme
+- çaresizleştirme
 ozellikler:
 - - isim
 ornekler:

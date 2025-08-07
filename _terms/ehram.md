@@ -5,8 +5,8 @@ slug: ehram
 letter: E
 lisan: Arapça ehrām
 anlamlar:
-- ► piramit
-- ► piramit
+- piramit
+- piramit
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kunh
 letter: K
 lisan: Arapça kunh
 anlamlar:
-- ► öz (I)
+- öz (I)
 ozellikler:
 - - isim
   - eskimiş

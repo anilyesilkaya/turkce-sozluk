@@ -5,7 +5,7 @@ slug: hak-kisitlamasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hak ihlali
+- hak ihlali
 ozellikler:
 - - isim
   - hukuk

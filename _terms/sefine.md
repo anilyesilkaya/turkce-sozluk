@@ -5,7 +5,7 @@ slug: sefine
 letter: S
 lisan: Arapça sefīne
 anlamlar:
-- ► gemi
+- gemi
 ozellikler:
 - - isim
   - eskimiş

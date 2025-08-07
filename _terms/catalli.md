@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çatalı olan
 - Çatal durumunda olan
-- ► pürüzlü
+- pürüzlü
 - İki veya daha çok ihtimali olan
 ozellikler:
 - - sıfat

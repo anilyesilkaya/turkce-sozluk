@@ -5,8 +5,8 @@ slug: cereyanli
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► akıntılı
-- ► akımlı
+- akıntılı
+- akımlı
 ozellikler:
 - - sıfat
 - - sıfat

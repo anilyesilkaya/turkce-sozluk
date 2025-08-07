@@ -5,7 +5,7 @@ slug: ogle-vakti
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öğle
+- öğle
 - Günün öğle saatlerinde; öğleyin, öğlende
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Paralel olma durumu
-- ► koşutluk
+- koşutluk
 - Benzerlik, yakınlık
 ozellikler:
 - - isim

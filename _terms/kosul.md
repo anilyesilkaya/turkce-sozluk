@@ -5,7 +5,7 @@ slug: kosul
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şart
+- şart
 - Bir antlaşmada belirlenen hükümlerden her biri
 ozellikler:
 - - isim

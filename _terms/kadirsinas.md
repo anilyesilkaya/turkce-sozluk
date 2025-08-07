@@ -5,7 +5,7 @@ slug: kadirsinas
 letter: K
 lisan: Arapça ḳadr + Farsça -şinās
 anlamlar:
-- ► değerbilir
+- değerbilir
 ozellikler:
 - - sıfat
   - eskimiş

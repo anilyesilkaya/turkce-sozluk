@@ -5,7 +5,7 @@ slug: tabaka
 letter: T
 lisan: İtalyanca tabacco
 anlamlar:
-- ► sigara tabakası
+- sigara tabakası
 ozellikler:
 - - isim
 ornekler:

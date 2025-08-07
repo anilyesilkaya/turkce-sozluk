@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - İplik fabrikasında pamuk ipliği yapan (kimse)
-- ► banko
+- banko
 - Talih oyunlarında ortada toplanan paranın hepsi için oynayan kimse
 - İşini sağlama bağlayan (kimse)
 ozellikler:

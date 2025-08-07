@@ -5,7 +5,7 @@ slug: orya
 letter: O
 lisan: Rumca
 anlamlar:
-- ► karo
+- karo
 ozellikler:
 - - isim
 ornekler:

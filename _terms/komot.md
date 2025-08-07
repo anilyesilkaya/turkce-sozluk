@@ -5,7 +5,7 @@ slug: komot
 letter: K
 lisan: Fransızca commode
 anlamlar:
-- ► komodin
+- komodin
 ozellikler:
 - - isim
 ornekler:

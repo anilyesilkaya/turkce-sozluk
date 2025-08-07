@@ -5,7 +5,7 @@ slug: insancasina
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insanca
+- insanca
 ozellikler:
 - - zarf
 ornekler:

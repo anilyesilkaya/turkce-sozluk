@@ -5,8 +5,8 @@ slug: pedagojik
 letter: P
 lisan: Fransızca pédagogique
 anlamlar:
-- ► eğitimsel
-- ► eğitim bilimsel
+- eğitimsel
+- eğitim bilimsel
 ozellikler:
 - - sıfat
 - - sıfat

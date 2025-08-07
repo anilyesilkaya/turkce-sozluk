@@ -5,7 +5,7 @@ slug: martavalcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► palavracılık
+- palavracılık
 ozellikler:
 - - isim
 ornekler:

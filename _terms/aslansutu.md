@@ -5,7 +5,7 @@ slug: aslansutu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► rakı
+- rakı
 ozellikler:
 - - isim
   - şaka yollu

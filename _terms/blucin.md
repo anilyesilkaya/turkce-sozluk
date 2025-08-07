@@ -5,7 +5,7 @@ slug: blucin
 letter: B
 lisan: İngilizce blue-jeans
 anlamlar:
-- ► kot (I)
+- kot (I)
 ozellikler:
 - - isim
 ornekler:

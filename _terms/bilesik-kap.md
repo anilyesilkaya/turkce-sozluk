@@ -5,7 +5,7 @@ slug: bilesik-kap
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birleşik kap
+- birleşik kap
 ozellikler:
 - - isim
   - fizik

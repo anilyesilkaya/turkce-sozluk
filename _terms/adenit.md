@@ -5,7 +5,7 @@ slug: adenit
 letter: A
 lisan: Fransızca adénite
 anlamlar:
-- ► ak kan bezi yangısı
+- ak kan bezi yangısı
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: cazibelestirme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çekicileştirme
+- çekicileştirme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: korner-cizgisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köşe çizgisi
+- köşe çizgisi
 ozellikler:
 - - isim
   - spor

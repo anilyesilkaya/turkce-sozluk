@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Üst baş ve dış görünüş; kalıp kıyafet, kisve
-- ► giysi
+- giysi
 ozellikler:
 - - isim
 - - isim

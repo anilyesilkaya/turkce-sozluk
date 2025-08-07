@@ -5,7 +5,7 @@ slug: musevves
 letter: M
 lisan: Arapça muşevveş
 anlamlar:
-- ► karmakarışık
+- karmakarışık
 ozellikler:
 - - sıfat
   - eskimiş

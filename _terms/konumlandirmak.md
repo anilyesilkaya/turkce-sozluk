@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Bir ürünü veya hizmeti rakiplerinden ayırmak için pazarlama çalışması yapmak
-- ► yerleştirmek
+- yerleştirmek
 ozellikler:
 - - -i
 - - -i

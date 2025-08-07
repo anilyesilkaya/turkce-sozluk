@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sağlam, esen
 - Yaşamakta olan
-- ► katkısız
+- katkısız
 ozellikler:
 - - sıfat
 - - sıfat

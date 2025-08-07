@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Her yanı kızıl, çok kızıl
 - Çok fazla
-- ► koyu
+- koyu
 ozellikler:
 - - sıfat
 - - sıfat

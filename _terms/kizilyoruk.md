@@ -5,7 +5,7 @@ slug: kizilyoruk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yılancık
+- yılancık
 ozellikler:
 - - isim
   - ağızlardan

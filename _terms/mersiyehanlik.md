@@ -5,7 +5,7 @@ slug: mersiyehanlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ağıtçılık
+- ağıtçılık
 ozellikler:
 - - isim
 ornekler:

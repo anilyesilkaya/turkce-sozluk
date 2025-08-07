@@ -5,7 +5,7 @@ slug: tipalanma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapalanma
+- tapalanma
 ozellikler:
 - - isim
 ornekler:

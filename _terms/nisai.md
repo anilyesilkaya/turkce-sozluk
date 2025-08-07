@@ -7,7 +7,7 @@ lisan: Arapça nisāʾī
 anlamlar:
 - Kadınla ilgili
 - Kadın hastalıkları ile ilgili
-- ► kadınsı
+- kadınsı
 ozellikler:
 - - sıfat
   - eskimiş

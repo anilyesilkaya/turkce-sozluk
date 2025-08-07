@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mutesānid
 anlamlar:
 - Dayanışma içinde olan (kimse)
-- ► dayanışık
+- dayanışık
 ozellikler:
 - - sıfat
   - eskimiş

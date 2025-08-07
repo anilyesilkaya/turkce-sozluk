@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nefḥa
 anlamlar:
 - Güzel koku
-- ► esinti
+- esinti
 ozellikler:
 - - isim
   - eskimiş

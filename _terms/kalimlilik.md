@@ -5,7 +5,7 @@ slug: kalimlilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ölümsüzlük
+- ölümsüzlük
 ozellikler:
 - - isim
 ornekler:

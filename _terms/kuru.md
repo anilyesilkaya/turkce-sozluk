@@ -13,10 +13,10 @@ anlamlar:
 - Döşenmemiş, çıplak
 - Katıksız, yanında başka şey olmayan (yiyecek)
 - Etkisi ve sonucu olmayan
-- ► sıska
+- sıska
 - Heyecanı, tadı olmayan, tekdüze
 - Akıcı olmayan, duygudan yoksun
-- ► kuru fasulye
+- kuru fasulye
 ozellikler:
 - - sıfat
 - - sıfat

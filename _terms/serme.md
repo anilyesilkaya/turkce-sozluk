@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sermek işi
-- ► sac ekmeği
+- sac ekmeği
 ozellikler:
 - - isim
 - - isim

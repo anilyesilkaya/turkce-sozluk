@@ -5,7 +5,7 @@ slug: arlilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► utanma duygusu
+- utanma duygusu
 - Utanılacak şey
 ozellikler:
 - - isim

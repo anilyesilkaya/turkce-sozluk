@@ -5,7 +5,7 @@ slug: karin-zari-iltihabi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karın zarı yangısı
+- karın zarı yangısı
 ozellikler:
 - - isim
   - tıp

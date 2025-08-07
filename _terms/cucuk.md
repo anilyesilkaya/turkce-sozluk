@@ -8,7 +8,7 @@ anlamlar:
 - Soğan, patates, buğday vb.nin filizlenmesiyle ortaya çıkan küçük tomurcuk
 - Soğan, marul vb. katmerli bitkilerin en iç bölümü
 - Bir şeyin küçüğü veya onu andıran bir parçası
-- ► civciv
+- civciv
 - Kuş yavrusu
 ozellikler:
 - - isim

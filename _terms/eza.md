@@ -5,7 +5,7 @@ slug: eza
 letter: E
 lisan: Arapça eẕāʾ
 anlamlar:
-- ► üzüntü
+- üzüntü
 ozellikler:
 - - isim
 ornekler:

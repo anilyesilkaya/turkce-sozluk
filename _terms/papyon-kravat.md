@@ -5,7 +5,7 @@ slug: papyon-kravat
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► papyon
+- papyon
 ozellikler:
 - - isim
 ornekler:

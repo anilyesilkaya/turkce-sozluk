@@ -5,7 +5,7 @@ slug: kirim-tatarcasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kırım Tatar Türkçesi
+- Kırım Tatar Türkçesi
 ozellikler:
 - - isim
 ornekler:

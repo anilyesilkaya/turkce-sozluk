@@ -5,7 +5,7 @@ slug: bogan-otu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kurtboğan
+- kurtboğan
 ozellikler:
 - - isim
   - bitki bilimi

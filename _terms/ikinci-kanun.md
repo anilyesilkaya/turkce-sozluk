@@ -5,7 +5,7 @@ slug: ikinci-kanun
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ocak
+- ocak
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: tek-evli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tek eşli
+- tek eşli
 ozellikler:
 - - sıfat
 ornekler:

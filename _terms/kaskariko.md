@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Oyun, dolap, düzen
-- ► yalan
+- yalan
 ozellikler:
 - - isim
   - argo

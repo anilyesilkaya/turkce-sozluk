@@ -5,7 +5,7 @@ slug: buyuk-mevlit-ayi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► rebiyülevvel
+- rebiyülevvel
 ozellikler:
 - - isim
 ornekler:

@@ -6,8 +6,8 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Sevgi, istek, düşünüş, anma, hatır vb. duyguların kaynağı; içeri, yürek, dil (II), kalp (I)
-- ► istek
-- ► sine
+- istek
+- sine
 ozellikler:
 - - isim
 - - isim

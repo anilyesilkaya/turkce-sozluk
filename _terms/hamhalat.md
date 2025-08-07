@@ -5,8 +5,8 @@ slug: hamhalat
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► görgüsüz
-- ► çorak
+- görgüsüz
+- çorak
 ozellikler:
 - - sıfat
   - mecaz

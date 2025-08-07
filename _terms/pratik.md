@@ -7,8 +7,8 @@ lisan: Fransızca pratique
 anlamlar:
 - Kolaylıkla uygulanabilir, kullanışlı olan
 - Kişide bir işi kolaylıkla yapabilme, bir şeyi uygulayabilme deneyimi, becerisi veya eğilimi bulunma
-- ► uygulamalı
-- ► uygulama
+- uygulamalı
+- uygulama
 - Bir şeyi yapma yöntemi veya biçimi; teamül
 - Sorunlara kolay ve hızlı çözüm bulan
 ozellikler:

@@ -5,7 +5,7 @@ slug: daye
 letter: D
 lisan: Farsça dāye
 anlamlar:
-- ► dadı
+- dadı
 ozellikler:
 - - isim
   - eskimiş

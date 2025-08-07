@@ -5,8 +5,8 @@ slug: artizan
 letter: A
 lisan: Fransızca artisan
 anlamlar:
-- ► zanaatçı
-- ► esnaf
+- zanaatçı
+- esnaf
 ozellikler:
 - - isim
 - - isim

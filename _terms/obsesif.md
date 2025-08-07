@@ -5,7 +5,7 @@ slug: obsesif
 letter: O
 lisan: İngilizce obsessive
 anlamlar:
-- ► takıntılı
+- takıntılı
 ozellikler:
 - - sıfat
   - ruh bilimi

@@ -5,7 +5,7 @@ slug: merkepcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eşekçilik
+- eşekçilik
 ozellikler:
 - - isim
 ornekler:

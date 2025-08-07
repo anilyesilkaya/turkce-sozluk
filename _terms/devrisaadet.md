@@ -5,7 +5,7 @@ slug: devrisaadet
 letter: D
 lisan: Arapça devr + saʿādet
 anlamlar:
-- ► asrısaadet
+- asrısaadet
 ozellikler:
 - - isim
   - eskimiş

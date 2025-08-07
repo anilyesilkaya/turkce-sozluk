@@ -5,7 +5,7 @@ slug: jonpromiye
 letter: J
 lisan: Fransızca jeune premier
 anlamlar:
-- ► jön
+- jön
 ozellikler:
 - - isim
   - sinema

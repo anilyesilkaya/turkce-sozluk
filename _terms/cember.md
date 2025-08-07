@@ -9,7 +9,7 @@ anlamlar:
 - Bu biçime getirilmiş katı cisimlerin çevresi
 - Çocukların çevirip arkasından koştukları tekerlek biçiminde oyuncak
 - Sandık, denk, fıçı vb.nin dağılmaması için üzerlerine geçirilen dayanıklı bir cisimden kuşak
-- ► yemeni
+- yemeni
 - Aşılması, çözümü güç durum
 - Basketbolda içinden topun geçmesiyle sayı kazanılan ağlı demir halka
 ozellikler:

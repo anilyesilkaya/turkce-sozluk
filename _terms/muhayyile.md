@@ -5,7 +5,7 @@ slug: muhayyile
 letter: M
 lisan: Arapça muḫayyile
 anlamlar:
-- ► hayal gücü
+- hayal gücü
 ozellikler:
 - - isim
 ornekler:

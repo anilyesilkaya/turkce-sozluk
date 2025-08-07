@@ -5,7 +5,7 @@ slug: komando-er
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► komando
+- komando
 ozellikler:
 - - isim
   - askerlik

@@ -5,7 +5,7 @@ slug: vira
 letter: V
 lisan: İtalyanca vira
 anlamlar:
-- ► aralıksız
+- aralıksız
 - Maçuna ve başka makinelerin çevrilmesi için verilen komut
 ozellikler:
 - - zarf

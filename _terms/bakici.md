@@ -9,7 +9,7 @@ anlamlar:
 - Genellikle çocuk, yaşlı ve hastalara bakma işiyle görevli kimse
 - Yeme içme, barınma ve eğitim karşılığında bakıcılık görevi yapan kimse
 - Bir şeyi satın almayı düşünmeden yalnızca bakarak ilgilenen kimse
-- ► falcı
+- falcı
 - Bakma işini yapan
 ozellikler:
 - - isim

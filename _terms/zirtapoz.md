@@ -5,7 +5,7 @@ slug: zirtapoz
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zıpır
+- zıpır
 ozellikler:
 - - sıfat
   - argo

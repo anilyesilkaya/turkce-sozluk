@@ -5,7 +5,7 @@ slug: subjektiflik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► öznellik
+- öznellik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: akli-sira
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aklınca
+- aklınca
 ozellikler:
 - - zarf
   - alay yollu

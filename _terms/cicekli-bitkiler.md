@@ -5,7 +5,7 @@ slug: cicekli-bitkiler
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tohumlu bitkiler
+- tohumlu bitkiler
 ozellikler:
 - - isim
   - bitki bilimi

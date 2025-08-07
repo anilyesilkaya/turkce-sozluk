@@ -5,7 +5,7 @@ slug: buyukbabalik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dedelik
+- dedelik
 ozellikler:
 - - isim
 ornekler:

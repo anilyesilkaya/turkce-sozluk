@@ -5,7 +5,7 @@ slug: tabii-afet
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğal afet
+- doğal afet
 ozellikler:
 - - isim
 ornekler:

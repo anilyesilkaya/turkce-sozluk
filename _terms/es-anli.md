@@ -5,7 +5,7 @@ slug: es-anli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eş zamanlı
+- eş zamanlı
 ozellikler:
 - - sıfat
 ornekler:

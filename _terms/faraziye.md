@@ -5,7 +5,7 @@ slug: faraziye
 letter: F
 lisan: Arapça farżiyye
 anlamlar:
-- ► varsayım
+- varsayım
 ozellikler:
 - - isim
   - eskimiş

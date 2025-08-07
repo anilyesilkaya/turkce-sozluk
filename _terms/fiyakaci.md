@@ -5,7 +5,7 @@ slug: fiyakaci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gösterişçi
+- gösterişçi
 ozellikler:
 - - sıfat
 ornekler:

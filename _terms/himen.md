@@ -5,7 +5,7 @@ slug: himen
 letter: H
 lisan: Fransızca hymen
 anlamlar:
-- ► kızlık zarı
+- kızlık zarı
 ozellikler:
 - - isim
   - anatomi

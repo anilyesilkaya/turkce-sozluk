@@ -6,8 +6,8 @@ letter: H
 lisan: Arapça ḥadd
 anlamlar:
 - İnsanın yetki ve değeri
-- ► sınır
-- ► terim
+- sınır
+- terim
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: deskriptif
 letter: D
 lisan: Fransızca descriptif
 anlamlar:
-- ► betimlemeli
+- betimlemeli
 ozellikler:
 - - sıfat
 ornekler:

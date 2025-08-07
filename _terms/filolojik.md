@@ -5,7 +5,7 @@ slug: filolojik
 letter: F
 lisan: Fransızca philologique
 anlamlar:
-- ► dil bilimsel
+- dil bilimsel
 ozellikler:
 - - sıfat
 ornekler:

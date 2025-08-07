@@ -5,7 +5,7 @@ slug: maceraperestlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maceracılık
+- maceracılık
 ozellikler:
 - - isim
 ornekler:

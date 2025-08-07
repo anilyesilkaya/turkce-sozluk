@@ -5,9 +5,9 @@ slug: direkt
 letter: D
 lisan: Fransızca direct
 anlamlar:
-- ► aracısız
+- aracısız
 - Doğru olarak, hiçbir yerde durmadan
-- ► doğrudan doğruya
+- doğrudan doğruya
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: divan-sazi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► meydan sazı
+- meydan sazı
 ozellikler:
 - - isim
   - müzik

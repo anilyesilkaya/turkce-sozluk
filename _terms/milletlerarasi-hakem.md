@@ -5,7 +5,7 @@ slug: milletlerarasi-hakem
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uluslararası hakem
+- uluslararası hakem
 ozellikler:
 - - isim
   - spor

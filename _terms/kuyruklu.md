@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyruğu olan
-- ► akrep (I)
+- akrep (I)
 ozellikler:
 - - sıfat
 - - sıfat

@@ -8,7 +8,7 @@ anlamlar:
 - Çevresini sarmak; çevrelemek, çevirmek, sarmak, abluka etmek, ablukaya almak, ihata etmek, muhasara etmek
 - Bir ülkenin veya bir yerin dış dünya ile olan her türlü bağlantısını kuvvet kullanarak kesmek; abluka etmek, ablukaya almak, ihata etmek, muhasara etmek
 - Çokça bulunmak
-- ► kaplamak
+- kaplamak
 - Bele sarılıp bağlanan şeyleri başkasının beline bağlamak
 ozellikler:
 - - -i

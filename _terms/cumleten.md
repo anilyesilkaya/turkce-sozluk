@@ -5,7 +5,7 @@ slug: cumleten
 letter: C
 lisan: Arapça cumleten
 anlamlar:
-- ► hep birden
+- hep birden
 ozellikler:
 - - zarf
 ornekler:

@@ -6,10 +6,10 @@ letter: K
 lisan: Fransızca crise
 anlamlar:
 - Bir organda birdenbire ortaya çıkan fizyolojik bozukluk; bunalım, akse
-- ► bunalım
+- bunalım
 - Bir şeyin çok kıt bulunması durumu
 - Bir şeye duyulan ani ve aşırı istek
-- ► çöküntü
+- çöküntü
 - Bir ülkede veya ülkeler arasında, toplumun veya bir kuruluşun yaşamında görülen güç dönem; bunalım, buhran
 ozellikler:
 - - isim

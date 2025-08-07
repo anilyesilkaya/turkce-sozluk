@@ -5,7 +5,7 @@ slug: hasir-demir
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hasır çelik
+- hasır çelik
 ozellikler:
 - - isim
   - mimarlık

@@ -5,7 +5,7 @@ slug: kur-an-i-kerim
 letter: K
 lisan: Arapça ḳurʾān + kerīm
 anlamlar:
-- ► Kur'an
+- Kur'an
 ozellikler:
 - - isim
   - din bilimi

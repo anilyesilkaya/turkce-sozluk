@@ -5,7 +5,7 @@ slug: tecrubesizce
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► deneyimsizce
+- deneyimsizce
 ozellikler:
 - - zarf
 ornekler:

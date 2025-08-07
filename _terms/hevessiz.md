@@ -5,7 +5,7 @@ slug: hevessiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► isteksiz
+- isteksiz
 ozellikler:
 - - sıfat
 ornekler:

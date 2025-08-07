@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Kumu olan yer
 - Denize, göle vb. yerlere girilebilen alan; kumbaşı, kumluk
-- ► plaj
-- ► kumlu
+- plaj
+- kumlu
 ozellikler:
 - - isim
 - - isim

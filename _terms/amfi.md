@@ -5,7 +5,7 @@ slug: amfi
 letter: A
 lisan: Fransızca amphi
 anlamlar:
-- ► amfiteatr
+- amfiteatr
 - Sıraları arkaya doğru basamaklı olarak yükselen büyük derslik
 ozellikler:
 - - isim

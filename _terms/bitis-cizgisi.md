@@ -5,7 +5,7 @@ slug: bitis-cizgisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► varış çizgisi
+- varış çizgisi
 - Bir ezginin eşit bölümlere ayrılışını gösteren her ölçünün sonunda bulunan dikey çizgi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: sivasma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bulaşma
+- bulaşma
 ozellikler:
 - - isim
 ornekler:

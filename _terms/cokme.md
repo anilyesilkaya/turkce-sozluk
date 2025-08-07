@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökmek işi; çöküntü, obruma
-- ► çöküntü
+- çöküntü
 - Boya içindeki pigmentin ve dolgu maddelerinin zamanla kabın dibinde tortu oluşturması
 ozellikler:
 - - isim

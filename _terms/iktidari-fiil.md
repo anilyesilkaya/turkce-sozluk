@@ -5,7 +5,7 @@ slug: iktidari-fiil
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yeterlik fiili
+- yeterlik fiili
 ozellikler:
 - - isim
   - dil bilgisi

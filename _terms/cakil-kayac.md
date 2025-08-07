@@ -5,7 +5,7 @@ slug: cakil-kayac
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çakıl taşı
+- çakıl taşı
 ozellikler:
 - - isim
   - mineraloji

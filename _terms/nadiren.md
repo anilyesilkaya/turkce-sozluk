@@ -5,7 +5,7 @@ slug: nadiren
 letter: N
 lisan: Arapça nādiren
 anlamlar:
-- ► seyrek
+- seyrek
 ozellikler:
 - - zarf
 ornekler:

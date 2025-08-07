@@ -5,7 +5,7 @@ slug: gok-kandil
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kör kandil
+- kör kandil
 ozellikler:
 - - sıfat
   - mecaz

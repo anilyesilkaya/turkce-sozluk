@@ -6,7 +6,7 @@ letter: B
 lisan: Fransızca bombardement
 anlamlar:
 - Topa tutma
-- ► bombalama
+- bombalama
 - Etkili bir biçimde ve sık olarak gündeme getirme, duyurma
 ozellikler:
 - - isim

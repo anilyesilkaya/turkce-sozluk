@@ -5,7 +5,7 @@ slug: muruvvetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► insaniyetli
+- insaniyetli
 ozellikler:
 - - sıfat
 ornekler:

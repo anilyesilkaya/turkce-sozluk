@@ -5,7 +5,7 @@ slug: cagatayca
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► Çağatay Türkçesi
+- Çağatay Türkçesi
 ozellikler:
 - - isim
 ornekler:

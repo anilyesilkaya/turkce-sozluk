@@ -8,7 +8,7 @@ anlamlar:
 - Yer altı suyunun karbondioksit ile birleşimi sonucu oluşan karbonik asit nedeniyle toprağın çökmesi sonucu oluşan derin çukur
 - İçinde su biriken çukur yer, doğal kuyu. 3. Yüksek dağlarda yazın bile karı erimeyen mağara
 - Yüksek dağlarda yazın bile karı erimeyen mağara
-- ► içbükey
+- içbükey
 - Çukurları olan, engebelik
 - Çok yemek yiyen, çok iştahlı (kimse)
 ozellikler:

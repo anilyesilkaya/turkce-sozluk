@@ -5,7 +5,7 @@ slug: mineroloji
 letter: M
 lisan: Fransızca minéralogie
 anlamlar:
-- ► mineral bilimi
+- mineral bilimi
 ozellikler:
 - - isim
 ornekler:

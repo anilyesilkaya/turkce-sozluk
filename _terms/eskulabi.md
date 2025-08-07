@@ -5,7 +5,7 @@ slug: eskulabi
 letter: E
 lisan: Farsça ez + Arapça kullābī
 anlamlar:
-- ► üstü kapalı
+- üstü kapalı
 ozellikler:
 - - sıfat
   - eskimiş

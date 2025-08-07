@@ -5,7 +5,7 @@ slug: yildirama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► parıldama
+- parıldama
 ozellikler:
 - - isim
 ornekler:

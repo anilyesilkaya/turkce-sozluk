@@ -5,7 +5,7 @@ slug: yonulma
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yontulma
+- yontulma
 ozellikler:
 - - isim
 ornekler:

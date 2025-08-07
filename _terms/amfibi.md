@@ -7,7 +7,7 @@ lisan: Fransızca amphibie
 anlamlar:
 - Karada olduğu gibi suda da kullanılabilen (araba, tank, uçak vb.); yüzergezer
 - Karada, havada ve denizde hareket kabiliyetine sahip (asker)
-- ► iki yaşamlılar
+- iki yaşamlılar
 ozellikler:
 - - sıfat
   - biyoloji

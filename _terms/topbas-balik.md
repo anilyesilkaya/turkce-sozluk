@@ -5,7 +5,7 @@ slug: topbas-balik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kefal
+- kefal
 ozellikler:
 - - isim
   - hayvan bilimi

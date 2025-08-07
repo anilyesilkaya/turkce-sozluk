@@ -5,7 +5,7 @@ slug: esek-hiyari
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► it hıyarı
+- it hıyarı
 ozellikler:
 - - isim
   - bitki bilimi

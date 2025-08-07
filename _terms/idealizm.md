@@ -5,7 +5,7 @@ slug: idealizm
 letter: I
 lisan: Fransızca idéalisme
 anlamlar:
-- ► ülkücülük
+- ülkücülük
 - Bilgide temel olarak düşünceyi alan ve varlığı insan düşüncesinin kurduğunu kabul eden öğretilerin genel adı
 ozellikler:
 - - isim

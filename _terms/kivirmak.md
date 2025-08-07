@@ -13,7 +13,7 @@ anlamlar:
 - Saptırmak, çevirmek
 - Yapmak istememek, yan çizmek
 - Başarmak, başa çıkmak, becermek, hakkından gelmek
-- ► dolandırmak
+- dolandırmak
 ozellikler:
 - - -i
 - - -i

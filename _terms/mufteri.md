@@ -5,7 +5,7 @@ slug: mufteri
 letter: M
 lisan: Arapça mufterī
 anlamlar:
-- ► karalamacı
+- karalamacı
 ozellikler:
 - - sıfat
   - eskimiş

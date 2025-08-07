@@ -7,7 +7,7 @@ lisan: Fransızca initiative
 anlamlar:
 - Bir kişinin gerekli kararları başkalarının görüşüne başvurmadan kendiliğinden, anında alabilme ve sorumluluğu üstlenebilme gücü
 - Bazı şeylere karar verme veya öneride bulunma hakkı
-- ► öncecilik
+- öncecilik
 ozellikler:
 - - isim
 - - isim

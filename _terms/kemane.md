@@ -6,7 +6,7 @@ letter: K
 lisan: Farsça kemāne
 anlamlar:
 - Keman ve kemençe yayı
-- ► kabak kemane
+- kabak kemane
 - Delgi veya küçük torna çevirmek için kullanılan ok yayı biçimindeki araç
 - Ağaç gemilerde talimarın üst ucundaki kıvrım
 ozellikler:

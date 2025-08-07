@@ -5,7 +5,7 @@ slug: belirten
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tamlayan
+- tamlayan
 ozellikler:
 - - isim
   - dil bilgisi

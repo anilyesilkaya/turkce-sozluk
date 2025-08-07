@@ -5,7 +5,7 @@ slug: sungerci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sünger avcısı
+- sünger avcısı
 ozellikler:
 - - isim
 ornekler:

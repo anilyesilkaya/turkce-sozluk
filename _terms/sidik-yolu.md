@@ -5,7 +5,7 @@ slug: sidik-yolu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar yolu
+- idrar yolu
 ozellikler:
 - - isim
   - anatomi

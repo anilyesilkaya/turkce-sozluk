@@ -5,7 +5,7 @@ slug: ornitoloji
 letter: O
 lisan: Fransızca ornithologie
 anlamlar:
-- ► kuş bilimi
+- kuş bilimi
 ozellikler:
 - - isim
 ornekler:

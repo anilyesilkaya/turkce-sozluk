@@ -5,7 +5,7 @@ slug: boylecene
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böylece
+- böylece
 ozellikler:
 - - zarf
   - ağızlardan

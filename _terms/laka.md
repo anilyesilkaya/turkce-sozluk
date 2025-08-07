@@ -5,7 +5,7 @@ slug: laka
 letter: L
 lisan: İtalyanca lacca
 anlamlar:
-- ► lak
+- lak
 ozellikler:
 - - isim
 ornekler:

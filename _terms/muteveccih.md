@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muteveccih
 anlamlar:
 - Bir yere gitmeye, bir şeyi yapmaya karar veren
-- ► yönelik
+- yönelik
 ozellikler:
 - - sıfat
   - eskimiş

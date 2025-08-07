@@ -5,7 +5,7 @@ slug: curuk-gaz
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► egzoz gazı
+- egzoz gazı
 ozellikler:
 - - isim
   - kimya

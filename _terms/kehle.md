@@ -5,7 +5,7 @@ slug: kehle
 letter: K
 lisan: Arapça kehle
 anlamlar:
-- ► bit (I)
+- bit (I)
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: mevkut
 letter: M
 lisan: Arapça mevḳūt
 anlamlar:
-- ► süreli
+- süreli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: kizilyara
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şirpençe
+- şirpençe
 ozellikler:
 - - isim
   - ağızlardan

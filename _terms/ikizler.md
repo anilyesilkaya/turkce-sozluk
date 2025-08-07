@@ -5,7 +5,7 @@ slug: ikizler
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► İkizler Burcu
+- İkizler Burcu
 ozellikler:
 - - isim
   - gök bilimi

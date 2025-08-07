@@ -5,7 +5,7 @@ slug: kusuf
 letter: K
 lisan: Arapça kusūf
 anlamlar:
-- ► Güneş tutulması
+- Güneş tutulması
 ozellikler:
 - - isim
   - eskimiş

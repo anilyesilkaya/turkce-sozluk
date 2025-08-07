@@ -5,7 +5,7 @@ slug: sebabet
 letter: Ş
 lisan: Arapça şebābet
 anlamlar:
-- ► gençlik
+- gençlik
 - Gençlik yılları
 ozellikler:
 - - isim

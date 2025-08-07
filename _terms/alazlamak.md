@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yüzünü alevden geçirmek, aleve tutmak
-- ► yakmak
+- yakmak
 ozellikler:
 - - -i
   - ağızlardan

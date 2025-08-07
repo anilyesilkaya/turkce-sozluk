@@ -5,7 +5,7 @@ slug: fiyakalilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gösterişlilik
+- gösterişlilik
 ozellikler:
 - - isim
 ornekler:

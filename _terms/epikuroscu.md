@@ -5,7 +5,7 @@ slug: epikuroscu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Epikürcü
+- Epikürcü
 ozellikler:
 - - sıfat
   - felsefe

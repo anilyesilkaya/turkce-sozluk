@@ -5,7 +5,7 @@ slug: saba-ruzgari
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sabah yeli
+- sabah yeli
 ozellikler:
 - - isim
   - coğrafya

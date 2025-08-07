@@ -5,7 +5,7 @@ slug: lisan
 letter: L
 lisan: Arapça lisān
 anlamlar:
-- ► dil (I)
+- dil (I)
 ozellikler:
 - - isim
 ornekler:

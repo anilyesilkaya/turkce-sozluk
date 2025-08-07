@@ -5,7 +5,7 @@ slug: derhatir
 letter: D
 lisan: Farsça der + Arapça ḫāṭir
 anlamlar:
-- ► anımsama
+- anımsama
 ozellikler:
 - - isim
   - eskimiş

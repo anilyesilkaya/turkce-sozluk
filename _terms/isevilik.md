@@ -5,7 +5,7 @@ slug: isevilik
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Hristiyanlık
+- Hristiyanlık
 ozellikler:
 - - isim
 ornekler:

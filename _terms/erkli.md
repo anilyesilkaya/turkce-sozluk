@@ -5,8 +5,8 @@ slug: erkli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► muktedir
-- ► nüfuzlu
+- muktedir
+- nüfuzlu
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: iltimasci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kayırıcı
+- kayırıcı
 ozellikler:
 - - isim
 ornekler:

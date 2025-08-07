@@ -5,7 +5,7 @@ slug: husnuhal
 letter: H
 lisan: Arapça ḥusn + ḥāl
 anlamlar:
-- ► iyi hâl
+- iyi hâl
 ozellikler:
 - - isim
   - eskimiş

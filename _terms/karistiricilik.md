@@ -5,7 +5,7 @@ slug: karistiricilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fitnecilik
+- fitnecilik
 ozellikler:
 - - isim
 ornekler:

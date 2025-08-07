@@ -5,7 +5,7 @@ slug: tomarla
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► pek çok
+- pek çok
 - (toma'rla) Çok fazla bir biçimde
 ozellikler:
 - - sıfat

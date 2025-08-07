@@ -5,7 +5,7 @@ slug: tekemmul
 letter: T
 lisan: Arapça tekemmul
 anlamlar:
-- ► olgunlaşma
+- olgunlaşma
 ozellikler:
 - - isim
   - eskimiş

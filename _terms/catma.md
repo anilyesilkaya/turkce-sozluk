@@ -12,7 +12,7 @@ anlamlar:
 - Ahşap yapılarda ağaç iskeletin temel parçaları
 - Semerin ağaç kısmı
 - Heykel yapımında çamuru ayakta tutan tel iskelet
-- ► Yörük çadırı
+- Yörük çadırı
 ozellikler:
 - - isim
 - - isim

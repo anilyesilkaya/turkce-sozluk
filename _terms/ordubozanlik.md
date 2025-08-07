@@ -5,8 +5,8 @@ slug: ordubozanlik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oyunbozanlık
-- ► arabozanlık
+- oyunbozanlık
+- arabozanlık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: bogunclu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boğucu
+- boğucu
 ozellikler:
 - - sıfat
 ornekler:

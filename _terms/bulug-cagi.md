@@ -5,7 +5,7 @@ slug: bulug-cagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ergenlik
+- ergenlik
 ozellikler:
 - - isim
 ornekler:

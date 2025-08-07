@@ -5,7 +5,7 @@ slug: orojeni
 letter: O
 lisan: Fransızca orogénie
 anlamlar:
-- ► dağ oluşu
+- dağ oluşu
 ozellikler:
 - - isim
   - jeoloji

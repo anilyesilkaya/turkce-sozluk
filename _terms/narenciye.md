@@ -5,7 +5,7 @@ slug: narenciye
 letter: N
 lisan: Farsça nārenc + Arapça -iyye
 anlamlar:
-- ► turunçgiller
+- turunçgiller
 ozellikler:
 - - isim
   - bitki bilimi

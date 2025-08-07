@@ -5,7 +5,7 @@ slug: kent
 letter: K
 lisan: Soğdca
 anlamlar:
-- ► şehir
+- şehir
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sermestlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarhoşluk
+- sarhoşluk
 ozellikler:
 - - isim
 ornekler:

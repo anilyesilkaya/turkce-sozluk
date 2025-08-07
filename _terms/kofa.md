@@ -5,7 +5,7 @@ slug: kofa
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► hasır otu
+- hasır otu
 ozellikler:
 - - isim
   - bitki bilimi

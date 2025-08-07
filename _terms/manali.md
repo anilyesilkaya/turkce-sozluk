@@ -5,7 +5,7 @@ slug: manali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anlamlı
+- anlamlı
 - Anlamlı bir biçimde; manalıca
 ozellikler:
 - - sıfat

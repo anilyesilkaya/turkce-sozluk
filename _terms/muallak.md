@@ -5,7 +5,7 @@ slug: muallak
 letter: M
 lisan: Arapça muʿallaḳ
 anlamlar:
-- ► asılı
+- asılı
 - Sonuca bağlanmamış, sürüncemede kalmış
 ozellikler:
 - - sıfat

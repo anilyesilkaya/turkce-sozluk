@@ -5,8 +5,8 @@ slug: az-az
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
-- ► azar azar
+- yavaş yavaş
+- azar azar
 ozellikler:
 - - zarf
 - - zarf

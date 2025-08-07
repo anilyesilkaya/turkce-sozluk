@@ -5,7 +5,7 @@ slug: konkre
 letter: K
 lisan: Fransızca concret
 anlamlar:
-- ► somut
+- somut
 ozellikler:
 - - sıfat
 ornekler:

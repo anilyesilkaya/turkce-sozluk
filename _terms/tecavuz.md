@@ -5,7 +5,7 @@ slug: tecavuz
 letter: T
 lisan: Arapça tecāvuz
 anlamlar:
-- ► saldırı
+- saldırı
 - Zor kullanarak ırzına geçme
 - Başkasının hakkına el uzatma
 - Aşma, ötesine geçme

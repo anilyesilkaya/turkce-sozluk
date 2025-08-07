@@ -5,7 +5,7 @@ slug: tatli-sozluluk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tatlı dillilik
+- tatlı dillilik
 ozellikler:
 - - isim
 ornekler:

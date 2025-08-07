@@ -9,7 +9,7 @@ anlamlar:
 - Eni veya boyu bu organ kadar olan
 - Koyu sıvılara daldırılıp çıkarıldığında bu organa bulaşan miktar kadar olan
 - Bir tekerleğin merkezinden çemberine kadar uzanan çubukların her biri
-- ► inç
+- inç
 - Bir işe karışmış olma ilgisi
 - Arşının yirmi dörtte biri boyunda bir uzunluk ölçüsü
 ozellikler:

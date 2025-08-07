@@ -5,12 +5,12 @@ slug: dert
 letter: D
 lisan: Farsça derd
 anlamlar:
-- ► üzüntü
-- ► hastalık
-- ► ur
+- üzüntü
+- hastalık
+- ur
 - Sızlanma ile karışık dilek
 - Yapılmak istenen şey
-- ► sıkıntı
+- sıkıntı
 ozellikler:
 - - isim
 - - isim

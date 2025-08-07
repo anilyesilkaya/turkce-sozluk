@@ -5,7 +5,7 @@ slug: kaydolma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yazılma
+- yazılma
 ozellikler:
 - - isim
 ornekler:

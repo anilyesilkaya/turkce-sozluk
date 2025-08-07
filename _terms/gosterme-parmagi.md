@@ -5,7 +5,7 @@ slug: gosterme-parmagi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► işaret parmağı
+- işaret parmağı
 ozellikler:
 - - isim
 ornekler:

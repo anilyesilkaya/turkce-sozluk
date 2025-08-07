@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte ve birden koşmak
-- ► koşuşturmak
+- koşuşturmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

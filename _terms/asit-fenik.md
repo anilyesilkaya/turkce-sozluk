@@ -5,7 +5,7 @@ slug: asit-fenik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► fenol
+- fenol
 ozellikler:
 - - isim
   - kimya

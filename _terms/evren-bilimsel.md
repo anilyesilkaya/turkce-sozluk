@@ -5,7 +5,7 @@ slug: evren-bilimsel
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► uzay bilimsel
+- uzay bilimsel
 ozellikler:
 - - sıfat
   - fizik

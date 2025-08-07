@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Uçkuru olmayan
 - Uçkuru olmadan
-- ► ahlaksız
+- ahlaksız
 ozellikler:
 - - sıfat
 - - sıfat

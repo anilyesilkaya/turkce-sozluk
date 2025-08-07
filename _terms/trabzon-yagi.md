@@ -5,7 +5,7 @@ slug: trabzon-yagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Tonya yağı
+- Tonya yağı
 ozellikler:
 - - isim
 ornekler:

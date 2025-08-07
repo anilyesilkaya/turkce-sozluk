@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırma işini yaptırmak
-- ► aşırmak
+- aşırmak
 ozellikler:
 - - -e
   - -i

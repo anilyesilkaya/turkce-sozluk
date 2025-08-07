@@ -5,7 +5,7 @@ slug: zevzek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 - Saçma sapan şeylerle uğraşan
 ozellikler:
 - - sıfat

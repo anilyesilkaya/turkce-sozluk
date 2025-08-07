@@ -5,8 +5,8 @@ slug: kronoloji
 letter: K
 lisan: Fransızca chronologie
 anlamlar:
-- ► zaman bilimi
-- ► zaman dizini
+- zaman bilimi
+- zaman dizini
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: nedenli
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sebepli
-- ► niçinli
+- sebepli
+- niçinli
 ozellikler:
 - - sıfat
 - - sıfat

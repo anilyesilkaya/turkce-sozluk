@@ -5,7 +5,7 @@ slug: tuluat
 letter: T
 lisan: Arapça ṭulūʿāt
 anlamlar:
-- ► doğaçlama
+- doğaçlama
 ozellikler:
 - - isim
   - tiyatro

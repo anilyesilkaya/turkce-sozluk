@@ -5,7 +5,7 @@ slug: lanse
 letter: L
 lisan: Fransızca lancé
 anlamlar:
-- ► önceleme
+- önceleme
 ozellikler:
 - - sıfat
 ornekler:

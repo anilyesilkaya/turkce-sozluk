@@ -5,7 +5,7 @@ slug: kapela
 letter: K
 lisan: İtalyanca cappello
 anlamlar:
-- ► şapka
+- şapka
 ozellikler:
 - - isim
 ornekler:

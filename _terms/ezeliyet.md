@@ -5,7 +5,7 @@ slug: ezeliyet
 letter: E
 lisan: Arapça ezeliyyet
 anlamlar:
-- ► ezelîlik, ebediyet karşıtı
+- ezelîlik, ebediyet karşıtı
 ozellikler:
 - - isim
 ornekler:

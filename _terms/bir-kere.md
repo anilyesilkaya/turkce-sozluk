@@ -5,7 +5,7 @@ slug: bir-kere
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aslında
+- aslında
 - Bir kez olmak üzere, bir defa olarak; bir defa, bir defacık, bir kerecik, bir yol
 ozellikler:
 - - zarf

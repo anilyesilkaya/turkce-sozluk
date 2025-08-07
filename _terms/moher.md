@@ -5,7 +5,7 @@ slug: moher
 letter: M
 lisan: Fransızca mohair
 anlamlar:
-- ► tiftik
+- tiftik
 - Tiftikten yapılan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: tedavul
 letter: T
 lisan: Arapça tedāvul
 anlamlar:
-- ► dolanım
+- dolanım
 ozellikler:
 - - isim
   - ekonomi

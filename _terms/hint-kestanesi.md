@@ -5,7 +5,7 @@ slug: hint-kestanesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► at kestanesi
+- at kestanesi
 ozellikler:
 - - isim
   - bitki bilimi

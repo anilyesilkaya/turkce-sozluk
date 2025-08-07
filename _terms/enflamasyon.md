@@ -5,7 +5,7 @@ slug: enflamasyon
 letter: E
 lisan: Fransızca inflammation
 anlamlar:
-- ► iltihap
+- iltihap
 ozellikler:
 - - isim
   - tıp

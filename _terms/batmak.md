@@ -8,16 +8,16 @@ anlamlar:
 - Bir sıvının üstündeyken içine gömülmek
 - Güneş, Ay ve yıldız Dünya’nın dönüşü dolayısıyla ufkun altına inmek
 - İflas etmek
-- ► kirlenmek
+- kirlenmek
 - Bir yere saplanmak
 - Tedirgin etmemesi gereken şeyler tedirgin etmek
 - Hoşa gitmeyen bir duruma uğramak
 - Devlet, kurum vb. yıkılmak, sona ermek
-- ► çökmek
-- ► dalamak
+- çökmek
+- dalamak
 - Daha kötü bir duruma uğramak
 - Yıkılmak, egemenliği sona ermek
-- ► dokunmak (I)
+- dokunmak (I)
 ozellikler:
 - - nesnesiz
 - - nesnesiz

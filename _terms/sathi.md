@@ -5,7 +5,7 @@ slug: sathi
 letter: S
 lisan: Arapça saṭḥī
 anlamlar:
-- ► yüzeysel
+- yüzeysel
 ozellikler:
 - - sıfat
   - eskimiş

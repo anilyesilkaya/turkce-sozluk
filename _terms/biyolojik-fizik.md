@@ -5,7 +5,7 @@ slug: biyolojik-fizik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► biyofizik
+- biyofizik
 ozellikler:
 - - isim
 ornekler:

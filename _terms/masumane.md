@@ -5,7 +5,7 @@ slug: masumane
 letter: M
 lisan: Arapça maʿṣūm + Farsça -āne
 anlamlar:
-- ► masumca
+- masumca
 ozellikler:
 - - zarf
 ornekler:

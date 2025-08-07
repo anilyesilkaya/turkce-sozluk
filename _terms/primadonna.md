@@ -5,7 +5,7 @@ slug: primadonna
 letter: P
 lisan: İtalyanca prima donna
 anlamlar:
-- ► başoyuncu
+- başoyuncu
 - Operada başrol oynayan kadın oyuncu
 ozellikler:
 - - isim

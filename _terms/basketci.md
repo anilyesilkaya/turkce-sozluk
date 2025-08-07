@@ -5,7 +5,7 @@ slug: basketci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► basketbolcu
+- basketbolcu
 ozellikler:
 - - isim
 ornekler:

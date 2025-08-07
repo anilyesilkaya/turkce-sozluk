@@ -5,7 +5,7 @@ slug: spagetti
 letter: S
 lisan: İtalyanca spaghetti
 anlamlar:
-- ► çubuk makarna
+- çubuk makarna
 ozellikler:
 - - isim
 ornekler:

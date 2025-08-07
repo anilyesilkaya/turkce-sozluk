@@ -5,7 +5,7 @@ slug: cinlenmek
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► öfkelenmek
+- öfkelenmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,8 +5,8 @@ slug: zoru-zoruna
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► güçlükle
-- ► ucu ucuna
+- güçlükle
+- ucu ucuna
 ozellikler:
 - - zarf
 - - zarf

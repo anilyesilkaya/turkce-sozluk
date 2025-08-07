@@ -5,8 +5,8 @@ slug: propagandist
 letter: P
 lisan: Fransızca propagandiste
 anlamlar:
-- ► propagandacı
-- ► tanıtıcı
+- propagandacı
+- tanıtıcı
 ozellikler:
 - - isim
 - - isim

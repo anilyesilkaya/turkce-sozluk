@@ -5,7 +5,7 @@ slug: hakkedilme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kakılma
+- kakılma
 ozellikler:
 - - isim
 ornekler:

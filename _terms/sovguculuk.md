@@ -5,7 +5,7 @@ slug: sovguculuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► küfürbazlık
+- küfürbazlık
 ozellikler:
 - - isim
 ornekler:

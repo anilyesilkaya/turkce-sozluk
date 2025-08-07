@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Düşüncesi olan
 - Düşünerek davranan, anlayışlı
-- ► fikirli
+- fikirli
 - Kaygılı olan
 ozellikler:
 - - sıfat

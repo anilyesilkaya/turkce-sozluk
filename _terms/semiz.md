@@ -5,7 +5,7 @@ slug: semiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► şişman
+- şişman
 - Eti, yağı çok olan; tavlı
 ozellikler:
 - - sıfat

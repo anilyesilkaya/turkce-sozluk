@@ -5,7 +5,7 @@ slug: ardic-otu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ardıç tohumu
+- ardıç tohumu
 ozellikler:
 - - isim
   - bitki bilimi

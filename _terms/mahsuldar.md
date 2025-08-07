@@ -5,7 +5,7 @@ slug: mahsuldar
 letter: M
 lisan: Arapça maḥṣūl + Farsça -dār
 anlamlar:
-- ► verimli
+- verimli
 ozellikler:
 - - sıfat
   - eskimiş

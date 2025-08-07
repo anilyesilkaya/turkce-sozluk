@@ -10,7 +10,7 @@ anlamlar:
 - Bir aletin ana bölümünü oluşturan kısım
 - Bir mıknatısın iki kutbu arasında kuvvet akımını toplu bir duruma getirmek için bu kutuplar arasına yerleştirilen demir parçası
 - Bir kondansatördeki iki iletken yüzeyden her biri
-- ► donanım
+- donanım
 ozellikler:
 - - isim
 - - isim

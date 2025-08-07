@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Ayakla vuruş; tepik, tepme
-- ► çifte
+- çifte
 ozellikler:
 - - isim
 - - isim

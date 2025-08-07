@@ -5,7 +5,7 @@ slug: nisadir-kaymagi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► amonyum karbonat
+- amonyum karbonat
 ozellikler:
 - - isim
   - kimya

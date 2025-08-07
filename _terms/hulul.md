@@ -8,8 +8,8 @@ anlamlar:
 - Gelme, gelip çatma
 - Bir şeyin içine işleme, içine sinme, nüfuz etme
 - Tanrı’nın herhangi bir bedene ve eşyaya girip görünür duruma geldiğini, onların suretine girdiğini kabul etme
-- ► geçişme
-- ► geçişim
+- geçişme
+- geçişim
 ozellikler:
 - - isim
   - eskimiş

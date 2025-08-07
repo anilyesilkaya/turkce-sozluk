@@ -5,8 +5,8 @@ slug: bekitmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tıkamak
-- ► sağlamlaştırmak
+- tıkamak
+- sağlamlaştırmak
 ozellikler:
 - - -i
   - ağızlardan

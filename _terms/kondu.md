@@ -5,7 +5,7 @@ slug: kondu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gecekondu
+- gecekondu
 ozellikler:
 - - isim
 ornekler:

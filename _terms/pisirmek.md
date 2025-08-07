@@ -8,7 +8,7 @@ anlamlar:
 - Bir besin maddesini gerektiği kadar ısıda tutarak yenebilecek veya içilebilecek bir duruma getirmek
 - Isı etkisiyle belirli bir kullanıma elverişli duruma getirmek
 - Çalışarak öğrenmek
-- ► olgunlaştırmak
+- olgunlaştırmak
 - Bunaltacak kadar ısıtmak, yakmak
 ozellikler:
 - - -i

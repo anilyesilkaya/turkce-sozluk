@@ -5,7 +5,7 @@ slug: kecelenmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► keçeleşmek
+- keçeleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

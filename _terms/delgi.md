@@ -5,7 +5,7 @@ slug: delgi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► matkap
+- matkap
 ozellikler:
 - - isim
   - teknik

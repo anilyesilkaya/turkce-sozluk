@@ -5,7 +5,7 @@ slug: ayrimli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farklı
+- farklı
 ozellikler:
 - - sıfat
 ornekler:

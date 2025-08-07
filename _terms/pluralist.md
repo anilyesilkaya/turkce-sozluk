@@ -5,8 +5,8 @@ slug: pluralist
 letter: P
 lisan: Fransızca pluraliste
 anlamlar:
-- ► çoğulcu
-- ► çokçu
+- çoğulcu
+- çokçu
 ozellikler:
 - - sıfat
   - toplum bilimi

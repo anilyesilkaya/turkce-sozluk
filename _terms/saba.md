@@ -5,7 +5,7 @@ slug: saba
 letter: S
 lisan: Arapça ṣabā
 anlamlar:
-- ► sabah yeli
+- sabah yeli
 ozellikler:
 - - isim
   - coğrafya

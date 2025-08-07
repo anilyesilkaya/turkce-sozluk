@@ -5,7 +5,7 @@ slug: caglar
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağlayan
+- çağlayan
 ozellikler:
 - - isim
 ornekler:

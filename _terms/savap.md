@@ -5,7 +5,7 @@ slug: savap
 letter: S
 lisan: Arapça ṣavāb
 anlamlar:
-- ► doğru
+- doğru
 ozellikler:
 - - sıfat
 ornekler:

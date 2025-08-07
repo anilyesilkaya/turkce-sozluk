@@ -5,7 +5,7 @@ slug: kor-kursun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► serseri kurşun
+- serseri kurşun
 ozellikler:
 - - isim
   - mecaz

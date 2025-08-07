@@ -5,7 +5,7 @@ slug: sahn
 letter: S
 lisan: Arapça ṣaḥn
 anlamlar:
-- ► avlu
+- avlu
 - Cami, medrese ve kiliselerde umumun toplanmasına mahsus üstü kubbeli, örtülü yer
 ozellikler:
 - - isim

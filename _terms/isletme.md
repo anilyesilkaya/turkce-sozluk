@@ -8,7 +8,7 @@ anlamlar:
 - İşletmek işi
 - Tarım, sanayi, ticaret, bankacılık vb. iş alanlarında, kâr amacıyla bir sermaye yatırılarak kurulan kurum
 - Bir kuruluşu verimli bir duruma getirip kazanç sağlama yöntemi
-- ► dükkân
+- dükkân
 ozellikler:
 - - isim
 - - isim

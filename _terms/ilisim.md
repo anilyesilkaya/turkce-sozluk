@@ -5,7 +5,7 @@ slug: ilisim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağlantı
+- bağlantı
 ozellikler:
 - - isim
   - bilişim

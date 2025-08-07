@@ -5,7 +5,7 @@ slug: veziriazam
 letter: V
 lisan: Arapça vezīr + aʿẓām
 anlamlar:
-- ► sadrazam
+- sadrazam
 ozellikler:
 - - isim
   - tarih

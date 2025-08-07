@@ -5,7 +5,7 @@ slug: adap-erkan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yol yordam
+- yol yordam
 ozellikler:
 - - isim
 ornekler:

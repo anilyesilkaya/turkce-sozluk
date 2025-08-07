@@ -5,7 +5,7 @@ slug: saha-amiri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saha komiseri
+- saha komiseri
 ozellikler:
 - - isim
 ornekler:

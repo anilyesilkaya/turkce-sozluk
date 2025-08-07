@@ -5,7 +5,7 @@ slug: sabotaj
 letter: S
 lisan: Fransızca sabotage
 anlamlar:
-- ► baltalama
+- baltalama
 ozellikler:
 - - isim
 ornekler:

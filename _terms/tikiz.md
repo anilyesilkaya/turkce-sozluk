@@ -5,7 +5,7 @@ slug: tikiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıknaz
+- tıknaz
 - Çok sıkıştırılmaktan veya çok sıkı doldurulmaktan katılaşmış; sıkı
 - Yoğunluğu çok ve katı olan
 ozellikler:

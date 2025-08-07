@@ -5,7 +5,7 @@ slug: cozurtmak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cozurdatmak
+- cozurdatmak
 ozellikler:
 - - -i
 ornekler:

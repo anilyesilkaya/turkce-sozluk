@@ -5,7 +5,7 @@ slug: mai
 letter: M
 lisan: Arapça māʾī
 anlamlar:
-- ► mavi
+- mavi
 ozellikler:
 - - isim
   - eskimiş

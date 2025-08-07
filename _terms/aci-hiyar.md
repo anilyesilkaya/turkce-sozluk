@@ -5,7 +5,7 @@ slug: aci-hiyar
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► it hıyarı
+- it hıyarı
 ozellikler:
 - - isim
   - bitki bilimi

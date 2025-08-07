@@ -5,7 +5,7 @@ slug: ekenek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► mezra
+- mezra
 ozellikler:
 - - isim
 ornekler:

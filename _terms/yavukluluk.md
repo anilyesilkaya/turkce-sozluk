@@ -5,7 +5,7 @@ slug: yavukluluk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nişanlılık
+- nişanlılık
 ozellikler:
 - - isim
 ornekler:

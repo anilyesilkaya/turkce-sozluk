@@ -5,7 +5,7 @@ slug: sabreyleme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sabretme
+- sabretme
 ozellikler:
 - - isim
 ornekler:

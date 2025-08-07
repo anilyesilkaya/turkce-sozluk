@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yapmak işi; inşa, imal, konstrüksiyon
 - Ham maddeyi el veya makine ile işleyerek mal üretme; imal
-- ► özümleme
+- özümleme
 - Bir filmin çevrilmesi, bir tiyatro oyununun sahneye konulması veya bir radyo, televizyon programının hazırlanması için gerekli çalışmaların tümü ve bu çalışmaların ürünü; prodüksiyon
 ozellikler:
 - - isim

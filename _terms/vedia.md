@@ -5,7 +5,7 @@ slug: vedia
 letter: V
 lisan: Arapça vedīʿa
 anlamlar:
-- ► emanet
+- emanet
 - Kendine korunması, saklanması için eşya verilen kimsenin durumunu gösteren sözleşme
 ozellikler:
 - - isim

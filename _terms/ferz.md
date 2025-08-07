@@ -5,7 +5,7 @@ slug: ferz
 letter: F
 lisan: Farsça ferz
 anlamlar:
-- ► vezir
+- vezir
 ozellikler:
 - - isim
   - eskimiş

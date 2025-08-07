@@ -5,7 +5,7 @@ slug: divik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► akkarınca
+- akkarınca
 ozellikler:
 - - isim
   - hayvan bilimi

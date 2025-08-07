@@ -5,8 +5,8 @@ slug: spontane
 letter: S
 lisan: Fransızca spontané
 anlamlar:
-- ► anlık (I)
-- ► kendiliğinden
+- anlık (I)
+- kendiliğinden
 ozellikler:
 - - sıfat
 - - sıfat

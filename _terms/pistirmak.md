@@ -5,7 +5,7 @@ slug: pistirmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sindirmek
+- sindirmek
 ozellikler:
 - - -i
 ornekler:

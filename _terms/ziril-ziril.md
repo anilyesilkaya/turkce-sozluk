@@ -5,7 +5,7 @@ slug: ziril-ziril
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► hüngür hüngür
+- hüngür hüngür
 - Sıvı iri damlalar hâlinde akarak
 - Gürültülü ses çıkararak
 - İleri seviyede, aşırı derecede

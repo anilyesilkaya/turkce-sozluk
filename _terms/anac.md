@@ -9,7 +9,7 @@ anlamlar:
 - Yavru yetiştirecek duruma gelmiş olan hayvan
 - Yemiş verecek durumdaki ağaç
 - Kurnaz olan
-- ► deneyimli
+- deneyimli
 - Başına buyruk olan
 ozellikler:
 - - sıfat

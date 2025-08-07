@@ -5,7 +5,7 @@ slug: nedensiz-yere
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

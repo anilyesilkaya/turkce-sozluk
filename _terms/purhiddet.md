@@ -5,7 +5,7 @@ slug: purhiddet
 letter: P
 lisan: Farsça pur + Arapça ḥiddet
 anlamlar:
-- ► öfkeli
+- öfkeli
 ozellikler:
 - - sıfat
   - zarf

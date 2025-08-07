@@ -5,7 +5,7 @@ slug: secimlik-ders
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seçmeli ders
+- seçmeli ders
 ozellikler:
 - - isim
 ornekler:

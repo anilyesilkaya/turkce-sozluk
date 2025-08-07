@@ -5,8 +5,8 @@ slug: skor
 letter: S
 lisan: İngilizce score
 anlamlar:
-- ► sonuç
-- ► sayı
+- sonuç
+- sayı
 ozellikler:
 - - isim
   - spor

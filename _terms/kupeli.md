@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Küpe takmış olan
 - Küpeye benzer bir deri uzantısı olan
-- ► küpe çiçeği
+- küpe çiçeği
 ozellikler:
 - - sıfat
 - - sıfat

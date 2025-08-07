@@ -5,7 +5,7 @@ slug: sumullu
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kapsamlı
+- kapsamlı
 ozellikler:
 - - sıfat
 ornekler:

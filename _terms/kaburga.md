@@ -6,7 +6,7 @@ letter: K
 lisan: Moğolca
 anlamlar:
 - Eğe kemiklerinin oluşturduğu kafes
-- ► eğe (I)
+- eğe (I)
 - Gemilerde dış kaplamanın dayandığı iskelet
 ozellikler:
 - - isim

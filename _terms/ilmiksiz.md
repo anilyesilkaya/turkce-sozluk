@@ -5,7 +5,7 @@ slug: ilmiksiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilmeksiz
+- ilmeksiz
 ozellikler:
 - - sıfat
 ornekler:

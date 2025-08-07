@@ -6,10 +6,10 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - İlkel yaşayan (kimse)
-- ► yabansı
+- yabansı
 - İnsandan ve toplum yaşayışından kaçan, insanlarla ilişkisini kesen
-- ► yabani (bitki)
-- ► yabani (hayvan)
+- yabani (bitki)
+- yabani (hayvan)
 ozellikler:
 - - sıfat
 - - sıfat

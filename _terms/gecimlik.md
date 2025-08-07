@@ -5,7 +5,7 @@ slug: gecimlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► nafaka
+- nafaka
 ozellikler:
 - - isim
 ornekler:

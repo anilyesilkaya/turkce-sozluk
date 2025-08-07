@@ -5,7 +5,7 @@ slug: yalanciktan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yalandan
+- yalandan
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: affolunma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlanma
+- bağışlanma
 ozellikler:
 - - isim
 ornekler:

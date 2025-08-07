@@ -5,7 +5,7 @@ slug: gen-bilimi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kalıtım bilimi
+- kalıtım bilimi
 ozellikler:
 - - isim
 ornekler:

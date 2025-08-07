@@ -5,7 +5,7 @@ slug: dogrudan
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► aracısız
+- aracısız
 - Aracısız olarak, herhangi bir aracı kullanmadan; elden, vasıtasız
 ozellikler:
 - - sıfat

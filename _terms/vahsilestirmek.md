@@ -5,7 +5,7 @@ slug: vahsilestirmek
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yabanileştirmek
+- yabanileştirmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: buzul-donemi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Buzul Çağı
+- Buzul Çağı
 ozellikler:
 - - isim
   - jeoloji

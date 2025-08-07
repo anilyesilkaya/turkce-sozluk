@@ -5,7 +5,7 @@ slug: ergenlik-cagi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ergenlik
+- ergenlik
 ozellikler:
 - - isim
 ornekler:

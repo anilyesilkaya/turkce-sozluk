@@ -5,8 +5,8 @@ slug: fasilali
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► aralıklı
-- ► kesintili
+- aralıklı
+- kesintili
 ozellikler:
 - - sıfat
 - - sıfat

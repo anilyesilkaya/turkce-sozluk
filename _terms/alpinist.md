@@ -5,7 +5,7 @@ slug: alpinist
 letter: A
 lisan: Fransızca alpiniste
 anlamlar:
-- ► dağcı
+- dağcı
 ozellikler:
 - - isim
   - spor

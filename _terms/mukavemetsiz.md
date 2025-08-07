@@ -5,7 +5,7 @@ slug: mukavemetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dayanıksız
+- dayanıksız
 ozellikler:
 - - sıfat
 ornekler:

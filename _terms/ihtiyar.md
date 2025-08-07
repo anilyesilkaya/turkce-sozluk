@@ -5,7 +5,7 @@ slug: ihtiyar
 letter: I
 lisan: Arapça iḫtiyār
 anlamlar:
-- ► seçme
+- seçme
 ozellikler:
 - - isim
   - eskimiş

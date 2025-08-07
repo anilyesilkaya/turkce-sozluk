@@ -5,7 +5,7 @@ slug: sayimlamaci
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► istatistikçi
+- istatistikçi
 ozellikler:
 - - isim
 ornekler:

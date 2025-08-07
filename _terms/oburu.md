@@ -5,7 +5,7 @@ slug: oburu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öteki
+- öteki
 ozellikler:
 - - zamir
 ornekler:

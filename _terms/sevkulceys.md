@@ -5,7 +5,7 @@ slug: sevkulceys
 letter: S
 lisan: Arapça sevḳ + ceyş
 anlamlar:
-- ► strateji
+- strateji
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: baglantisizlik-politikasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlantısızlık siyaseti
+- bağlantısızlık siyaseti
 ozellikler:
 - - isim
 ornekler:

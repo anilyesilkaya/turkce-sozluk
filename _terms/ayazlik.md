@@ -5,7 +5,7 @@ slug: ayazlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► teras
+- teras
 ozellikler:
 - - isim
 ornekler:

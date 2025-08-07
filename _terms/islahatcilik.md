@@ -5,7 +5,7 @@ slug: islahatcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► düzeltmecilik
+- düzeltmecilik
 ozellikler:
 - - isim
 ornekler:

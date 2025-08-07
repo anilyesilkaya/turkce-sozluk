@@ -5,7 +5,7 @@ slug: illegallik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yasa dışılık
+- yasa dışılık
 ozellikler:
 - - isim
 ornekler:

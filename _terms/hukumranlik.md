@@ -5,7 +5,7 @@ slug: hukumranlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► egemenlik
+- egemenlik
 ozellikler:
 - - isim
 ornekler:

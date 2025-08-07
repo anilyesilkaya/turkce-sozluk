@@ -5,7 +5,7 @@ slug: derun
 letter: D
 lisan: Farsça derūn
 anlamlar:
-- ► iç
+- iç
 ozellikler:
 - - isim
   - eskimiş

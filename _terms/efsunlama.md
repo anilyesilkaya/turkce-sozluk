@@ -5,7 +5,7 @@ slug: efsunlama
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► büyüleme
+- büyüleme
 ozellikler:
 - - isim
 ornekler:

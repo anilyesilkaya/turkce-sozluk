@@ -5,7 +5,7 @@ slug: yalamuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► soymuk
+- soymuk
 - Çam ağacının reçineli kabuğundan çıkan öz suyu
 ozellikler:
 - - isim

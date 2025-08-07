@@ -5,7 +5,7 @@ slug: mahalli-idare
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yerel yönetim
+- yerel yönetim
 ozellikler:
 - - isim
   - hukuk

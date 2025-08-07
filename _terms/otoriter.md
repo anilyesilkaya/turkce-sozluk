@@ -5,7 +5,7 @@ slug: otoriter
 letter: O
 lisan: Fransızca autoritaire
 anlamlar:
-- ► otoriteli
+- otoriteli
 ozellikler:
 - - sıfat
 ornekler:

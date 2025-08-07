@@ -5,7 +5,7 @@ slug: tezat
 letter: T
 lisan: Arapça teżādd
 anlamlar:
-- ► karşıtlık
+- karşıtlık
 - Anlatımda birbirine karşıt iki sözü yan yana kullanma sanatı
 ozellikler:
 - - isim

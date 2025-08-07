@@ -5,7 +5,7 @@ slug: ses-kakismasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ses uyumsuzluğu
+- ses uyumsuzluğu
 ozellikler:
 - - isim
   - edebiyat

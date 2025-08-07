@@ -5,7 +5,7 @@ slug: hava-sartlari
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hava durumu
+- hava durumu
 ozellikler:
 - - isim
   - meteoroloji

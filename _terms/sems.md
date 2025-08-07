@@ -5,7 +5,7 @@ slug: sems
 letter: Ş
 lisan: Arapça şems
 anlamlar:
-- ► güneş
+- güneş
 ozellikler:
 - - isim
   - eskimiş

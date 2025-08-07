@@ -5,7 +5,7 @@ slug: cagcillastirma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağdaşlaştırma
+- çağdaşlaştırma
 ozellikler:
 - - isim
 ornekler:

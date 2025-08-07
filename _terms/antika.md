@@ -6,9 +6,9 @@ letter: A
 lisan: İtalyanca antico
 anlamlar:
 - Tarihsel bir döneme ait olan
-- ► antik
+- antik
 - Eski çağlardan kalma eser
-- ► antika işi
+- antika işi
 - Genele, olağana, geleneğe aykırı
 ozellikler:
 - - sıfat

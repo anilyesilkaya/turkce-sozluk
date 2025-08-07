@@ -5,7 +5,7 @@ slug: elin-adami
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► el adamı
+- el adamı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ekskavator
 letter: E
 lisan: Fransızca excavateur
 anlamlar:
-- ► kazaratar
+- kazaratar
 ozellikler:
 - - isim
 ornekler:

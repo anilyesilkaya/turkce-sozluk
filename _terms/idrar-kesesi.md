@@ -5,7 +5,7 @@ slug: idrar-kesesi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► idrar torbası
+- idrar torbası
 ozellikler:
 - - isim
   - anatomi

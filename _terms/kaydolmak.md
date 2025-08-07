@@ -5,7 +5,7 @@ slug: kaydolmak
 letter: K
 lisan: Arapça ḳayd + Türkçe olmak
 anlamlar:
-- ► yazılmak
+- yazılmak
 ozellikler:
 - - -e
 ornekler:

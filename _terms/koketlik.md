@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Koket olma durumu
-- ► hoppalık
+- hoppalık
 ozellikler:
 - - isim
 - - isim

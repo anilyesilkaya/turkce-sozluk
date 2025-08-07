@@ -5,7 +5,7 @@ slug: saskincasina
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şaşkınca
+- şaşkınca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: kucusma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kucaklaşma
+- kucaklaşma
 ozellikler:
 - - isim
 ornekler:

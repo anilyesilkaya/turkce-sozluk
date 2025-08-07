@@ -5,9 +5,9 @@ slug: eksantrik
 letter: E
 lisan: Fransızca excentrique
 anlamlar:
-- ► dış merkezli
-- ► ayrıksı
-- ► ayrıksı
+- dış merkezli
+- ayrıksı
+- ayrıksı
 ozellikler:
 - - sıfat
   - matematik

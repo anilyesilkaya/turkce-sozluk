@@ -5,7 +5,7 @@ slug: eksi-yuz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ekşi surat
+- ekşi surat
 ozellikler:
 - - isim
   - mecaz

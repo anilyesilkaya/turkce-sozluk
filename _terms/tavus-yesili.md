@@ -5,7 +5,7 @@ slug: tavus-yesili
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► zümrüt yeşili
+- zümrüt yeşili
 - Bu renkte olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: panduf
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pantufla
+- pantufla
 ozellikler:
 - - isim
   - ağızlardan

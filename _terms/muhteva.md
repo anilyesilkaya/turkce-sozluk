@@ -5,7 +5,7 @@ slug: muhteva
 letter: M
 lisan: Arapça muḥtevā
 anlamlar:
-- ► içerik
+- içerik
 ozellikler:
 - - isim
 ornekler:

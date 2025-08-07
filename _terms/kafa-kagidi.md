@@ -5,7 +5,7 @@ slug: kafa-kagidi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► nüfus cüzdanı
+- nüfus cüzdanı
 ozellikler:
 - - isim
   - ağızlardan

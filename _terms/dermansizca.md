@@ -5,7 +5,7 @@ slug: dermansizca
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► takatsizce
+- takatsizce
 ozellikler:
 - - zarf
 ornekler:

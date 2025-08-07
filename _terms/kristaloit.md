@@ -5,7 +5,7 @@ slug: kristaloit
 letter: K
 lisan: Fransızca cristalloïde
 anlamlar:
-- ► billursu
+- billursu
 ozellikler:
 - - sıfat
 ornekler:

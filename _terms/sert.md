@@ -15,7 +15,7 @@ anlamlar:
 - Gönül kırıcı, katı, ters bir biçimde
 - Hırçın, öfkeli, hiddetli olan
 - Titizlikle uygulanan; sıkı
-- ► tonsuz
+- tonsuz
 ozellikler:
 - - sıfat
 - - sıfat

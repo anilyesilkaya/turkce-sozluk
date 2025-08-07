@@ -5,7 +5,7 @@ slug: piskoposhane
 letter: P
 lisan: Rumca + Farsça ḫāne
 anlamlar:
-- ► piskoposluk
+- piskoposluk
 ozellikler:
 - - isim
 ornekler:

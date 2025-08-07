@@ -5,7 +5,7 @@ slug: istatistiki
 letter: I
 lisan: Fransızca statistique + Arapça -ī
 anlamlar:
-- ► istatistiksel
+- istatistiksel
 ozellikler:
 - - sıfat
 ornekler:

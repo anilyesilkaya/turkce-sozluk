@@ -5,7 +5,7 @@ slug: kesikleme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► almaş
+- almaş
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: delice-bakla
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► termiye
+- termiye
 ozellikler:
 - - isim
   - bitki bilimi

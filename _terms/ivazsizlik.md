@@ -5,7 +5,7 @@ slug: ivazsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ödünsüzlük
+- ödünsüzlük
 ozellikler:
 - - isim
 ornekler:

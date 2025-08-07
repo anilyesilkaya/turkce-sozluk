@@ -5,7 +5,7 @@ slug: altintop
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► greyfurt
+- greyfurt
 - İki çeneklilerden, uzun dikenli ve kürecikler hâlinde çiçekleri olan bir tür kaktüs (Trollius ranunculoides)
 ozellikler:
 - - isim

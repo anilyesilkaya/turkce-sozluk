@@ -5,7 +5,7 @@ slug: seruvenli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► maceralı
+- maceralı
 ozellikler:
 - - sıfat
 ornekler:

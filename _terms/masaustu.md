@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Bilgisayarda dizin, program vb.ne ait simgelerin yer aldığı ekran görüntüsü
-- ► masaüstü bilgisayar
+- masaüstü bilgisayar
 ozellikler:
 - - isim
   - bilişim

@@ -5,7 +5,7 @@ slug: delikli-demir
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► tüfek
+- tüfek
 ozellikler:
 - - isim
   - mecaz

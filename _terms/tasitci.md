@@ -5,7 +5,7 @@ slug: tasitci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sürücü (I)
+- sürücü (I)
 - Taşıt yapan, satan veya onaran kimse
 ozellikler:
 - - isim

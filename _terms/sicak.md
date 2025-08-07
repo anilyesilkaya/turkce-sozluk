@@ -9,7 +9,7 @@ anlamlar:
 - Isısı yüksek olan, çok ısınmış
 - Havadaki yüksek ısı
 - Sıcak yer
-- ► hamam
+- hamam
 - Dostça olan, sevgi dolu
 - Aniden ve kendiliğinden ortaya çıkmış olan (haber, gelişme vb.)
 ozellikler:

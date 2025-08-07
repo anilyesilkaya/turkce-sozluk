@@ -5,7 +5,7 @@ slug: bibliyografya
 letter: B
 lisan: Yunanca
 anlamlar:
-- ► kaynakça
+- kaynakça
 ozellikler:
 - - isim
 ornekler:

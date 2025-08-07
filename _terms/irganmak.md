@@ -5,7 +5,7 @@ slug: irganmak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sallanmak
+- sallanmak
 ozellikler:
 - - nesnesiz
 ornekler:

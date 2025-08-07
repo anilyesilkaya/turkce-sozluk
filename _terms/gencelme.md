@@ -5,7 +5,7 @@ slug: gencelme
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gençleşme
+- gençleşme
 ozellikler:
 - - isim
 ornekler:

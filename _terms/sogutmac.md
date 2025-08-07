@@ -5,7 +5,7 @@ slug: sogutmac
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğutucu
+- soğutucu
 ozellikler:
 - - isim
 ornekler:

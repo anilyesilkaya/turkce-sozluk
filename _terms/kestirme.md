@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kestirmek işi
 - Oturduğu yerde hafif ve kısa süreli uyuma
-- ► tahmin
+- tahmin
 - Alışılanın dışında kısa olan (yol), kese(II)
 - Amacı fazla uzatmadan anlatan
 - Kısaca, özet olarak

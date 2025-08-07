@@ -5,7 +5,7 @@ slug: yitik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kayıp
+- kayıp
 - Kaybedilmiş, yitirilmiş
 ozellikler:
 - - isim

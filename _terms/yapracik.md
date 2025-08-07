@@ -5,7 +5,7 @@ slug: yapracik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaprakçık
+- yaprakçık
 ozellikler:
 - - isim
   - bitki bilimi

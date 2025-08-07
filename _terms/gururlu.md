@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Kendi kişiliğine önem veren; azametli
-- ► kibirli
+- kibirli
 ozellikler:
 - - sıfat
 - - sıfat

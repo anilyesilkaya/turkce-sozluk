@@ -5,7 +5,7 @@ slug: tas-cagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Taş Devri
+- Taş Devri
 ozellikler:
 - - isim
 ornekler:

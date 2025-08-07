@@ -5,7 +5,7 @@ slug: milletlerarasicilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uluslararasıcılık
+- uluslararasıcılık
 ozellikler:
 - - isim
 ornekler:

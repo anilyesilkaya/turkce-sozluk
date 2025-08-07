@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tabakası (II) olan
-- ► katmanlı
+- katmanlı
 ozellikler:
 - - sıfat
 - - sıfat

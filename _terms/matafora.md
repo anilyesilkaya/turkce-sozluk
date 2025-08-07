@@ -5,7 +5,7 @@ slug: matafora
 letter: M
 lisan: İtalyanca metifore
 anlamlar:
-- ► ocaklık punteli
+- ocaklık punteli
 ozellikler:
 - - isim
   - denizcilik

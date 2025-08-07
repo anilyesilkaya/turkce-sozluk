@@ -5,8 +5,8 @@ slug: ukubet
 letter: U
 lisan: Arapça ʿuḳūbet
 anlamlar:
-- ► ceza
-- ► eziyet
+- ceza
+- eziyet
 - Çok çirkin
 ozellikler:
 - - isim

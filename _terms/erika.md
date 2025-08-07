@@ -5,7 +5,7 @@ slug: erika
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► süpürge otu
+- süpürge otu
 ozellikler:
 - - isim
   - bitki bilimi

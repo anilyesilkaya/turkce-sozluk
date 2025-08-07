@@ -5,8 +5,8 @@ slug: ekseriyetle
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► genellikle
-- ► çoğunlukla
+- genellikle
+- çoğunlukla
 ozellikler:
 - - zarf
 - - zarf

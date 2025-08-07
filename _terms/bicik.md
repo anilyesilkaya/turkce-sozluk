@@ -5,8 +5,8 @@ slug: bicik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► meme
-- ► meme başı
+- meme
+- meme başı
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: katur-kutur
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► katır kutur
+- katır kutur
 ozellikler:
 - - sıfat
   - zarf

@@ -5,7 +5,7 @@ slug: abra
 letter: A
 lisan: Ermenice
 anlamlar:
-- ► dara
+- dara
 - Bir değiş tokuşta üste verilen şey
 ozellikler:
 - - isim

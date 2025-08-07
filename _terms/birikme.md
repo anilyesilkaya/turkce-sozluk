@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Birikmek işi; teraküm
-- ► kümelenme
+- kümelenme
 ozellikler:
 - - isim
 - - isim

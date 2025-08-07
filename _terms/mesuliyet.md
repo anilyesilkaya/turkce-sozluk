@@ -5,7 +5,7 @@ slug: mesuliyet
 letter: M
 lisan: Arapça mesʾūliyyet
 anlamlar:
-- ► sorumluluk
+- sorumluluk
 ozellikler:
 - - isim
 ornekler:

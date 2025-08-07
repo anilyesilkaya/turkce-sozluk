@@ -5,7 +5,7 @@ slug: cakir
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► şarap
+- şarap
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Kolay eğilip bükülen
-- ► bükümlü
+- bükümlü
 ozellikler:
 - - sıfat
 - - sıfat

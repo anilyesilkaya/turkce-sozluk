@@ -5,7 +5,7 @@ slug: yazin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebiyat
+- edebiyat
 ozellikler:
 - - isim
 ornekler:

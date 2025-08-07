@@ -5,7 +5,7 @@ slug: snop
 letter: S
 lisan: Fransızca snob
 anlamlar:
-- ► züppe
+- züppe
 ozellikler:
 - - sıfat
 ornekler:

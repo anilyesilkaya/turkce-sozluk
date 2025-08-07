@@ -5,7 +5,7 @@ slug: bivefalik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► vefasızlık
+- vefasızlık
 ozellikler:
 - - isim
 ornekler:

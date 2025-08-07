@@ -5,7 +5,7 @@ slug: guveyilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► damatlık
+- damatlık
 ozellikler:
 - - isim
 ornekler:

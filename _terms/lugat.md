@@ -5,8 +5,8 @@ slug: lugat
 letter: L
 lisan: Arapça luġat
 anlamlar:
-- ► kelime
-- ► sözlük
+- kelime
+- sözlük
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: problemlilik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sorunluluk
+- sorunluluk
 ozellikler:
 - - isim
 ornekler:

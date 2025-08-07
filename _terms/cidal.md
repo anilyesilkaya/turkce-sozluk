@@ -5,7 +5,7 @@ slug: cidal
 letter: C
 lisan: Arapça cidāl
 anlamlar:
-- ► savaş
+- savaş
 - Birbirine karşı ağır sözler söylemek suretiyle yapılan kavga
 ozellikler:
 - - isim

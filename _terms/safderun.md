@@ -5,7 +5,7 @@ slug: safderun
 letter: S
 lisan: Arapça ṣāf + Farsça derūn
 anlamlar:
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
   - eskimiş

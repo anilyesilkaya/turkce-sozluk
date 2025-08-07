@@ -5,7 +5,7 @@ slug: irkiyat
 letter: I
 lisan: Arapça ʿirḳiyyāt
 anlamlar:
-- ► ırk bilimi
+- ırk bilimi
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: sarihlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► belirginlik
-- ► belginlik
+- belirginlik
+- belginlik
 ozellikler:
 - - isim
 - - isim

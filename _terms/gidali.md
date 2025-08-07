@@ -5,7 +5,7 @@ slug: gidali
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► besinli
+- besinli
 ozellikler:
 - - sıfat
 ornekler:

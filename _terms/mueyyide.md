@@ -5,7 +5,7 @@ slug: mueyyide
 letter: M
 lisan: Arapça muʾeyyide
 anlamlar:
-- ► yaptırım
+- yaptırım
 ozellikler:
 - - isim
   - hukuk

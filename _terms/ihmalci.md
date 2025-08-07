@@ -5,7 +5,7 @@ slug: ihmalci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ihmalkâr
+- ihmalkâr
 ozellikler:
 - - sıfat
 ornekler:

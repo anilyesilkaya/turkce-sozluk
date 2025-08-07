@@ -5,8 +5,8 @@ slug: maksimal
 letter: M
 lisan: Fransızca maximale
 anlamlar:
-- ► azami
-- ► maksimum
+- azami
+- maksimum
 ozellikler:
 - - sıfat
 - - sıfat

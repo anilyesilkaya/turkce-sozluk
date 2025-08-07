@@ -5,7 +5,7 @@ slug: harmaniye
 letter: H
 lisan: Farsça ḫirmen + Arapça -iyye
 anlamlar:
-- ► harmani
+- harmani
 ozellikler:
 - - isim
 ornekler:

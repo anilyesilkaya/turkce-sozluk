@@ -5,7 +5,7 @@ slug: sebze-meyve-toptancisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kabzımal
+- kabzımal
 ozellikler:
 - - isim
   - ticaret

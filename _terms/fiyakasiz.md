@@ -5,7 +5,7 @@ slug: fiyakasiz
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gösterişsiz
+- gösterişsiz
 ozellikler:
 - - sıfat
 ornekler:

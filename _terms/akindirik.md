@@ -5,7 +5,7 @@ slug: akindirik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► reçine
+- reçine
 ozellikler:
 - - isim
   - ağızlardan

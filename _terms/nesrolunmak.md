@@ -5,7 +5,7 @@ slug: nesrolunmak
 letter: N
 lisan: Arapça neşr + Türkçe olunmak
 anlamlar:
-- ► yayımlanmak
+- yayımlanmak
 ozellikler:
 - - nesnesiz
   - eskimiş

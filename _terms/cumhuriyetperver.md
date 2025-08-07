@@ -5,7 +5,7 @@ slug: cumhuriyetperver
 letter: C
 lisan: Arapça cumhūriyyet + Farsça -perver
 anlamlar:
-- ► cumhuriyetçi
+- cumhuriyetçi
 ozellikler:
 - - sıfat
   - eskimiş

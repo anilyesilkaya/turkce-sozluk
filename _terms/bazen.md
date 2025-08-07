@@ -5,7 +5,7 @@ slug: bazen
 letter: B
 lisan: Arapça baʿżen
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

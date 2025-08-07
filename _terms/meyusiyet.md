@@ -5,8 +5,8 @@ slug: meyusiyet
 letter: M
 lisan: Arapça meʾyūsiyyet
 anlamlar:
-- ► üzüntü
-- ► kötümserlik
+- üzüntü
+- kötümserlik
 ozellikler:
 - - isim
   - eskimiş

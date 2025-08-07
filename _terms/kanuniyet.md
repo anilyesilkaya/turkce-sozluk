@@ -5,7 +5,7 @@ slug: kanuniyet
 letter: K
 lisan: Arapça ḳānūniyyet
 anlamlar:
-- ► yasalaşma
+- yasalaşma
 ozellikler:
 - - isim
   - hukuk

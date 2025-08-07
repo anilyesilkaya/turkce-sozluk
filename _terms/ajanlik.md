@@ -5,7 +5,7 @@ slug: ajanlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► casusluk
+- casusluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hissi
 letter: H
 lisan: Arapça ḥissī
 anlamlar:
-- ► duygusal
+- duygusal
 ozellikler:
 - - sıfat
 ornekler:

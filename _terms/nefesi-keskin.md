@@ -5,7 +5,7 @@ slug: nefesi-keskin
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nefesi kuvvetli
+- nefesi kuvvetli
 ozellikler:
 - - sıfat
 ornekler:

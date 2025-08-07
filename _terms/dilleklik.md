@@ -5,7 +5,7 @@ slug: dilleklik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dedikoduculuk
+- dedikoduculuk
 ozellikler:
 - - isim
 ornekler:

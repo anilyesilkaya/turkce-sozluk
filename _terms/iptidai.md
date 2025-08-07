@@ -5,8 +5,8 @@ slug: iptidai
 letter: I
 lisan: Arapça ibtidāʾī
 anlamlar:
-- ► ilkel
-- ► ilkokul
+- ilkel
+- ilkokul
 ozellikler:
 - - sıfat
   - eskimiş

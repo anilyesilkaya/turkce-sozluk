@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Her konuda birbirine uymak; imtizaç etmek
-- ► uzlaşmak
+- uzlaşmak
 ozellikler:
 - - nesnesiz
   - -le

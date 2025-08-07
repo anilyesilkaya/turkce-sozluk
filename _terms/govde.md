@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin asıl bölümü
-- ► beden
+- beden
 - Ağaç ve bitkilerin dallarının dışında kalan ana bölümü
 - Hayvanlarda baş, ayak ve kuyruktan geri kalan bölüm
 - 'Ad ve fiil köklerinden eklerle türetilmiş kelime: evli (ev-li), inanç (inan-ç), sevdirmek (sev-dir-mek)'

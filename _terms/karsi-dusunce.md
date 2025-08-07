@@ -5,7 +5,7 @@ slug: karsi-dusunce
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karşı görüş
+- karşı görüş
 ozellikler:
 - - isim
   - felsefe

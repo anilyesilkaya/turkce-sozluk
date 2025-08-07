@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir görevin yapıldığı yer; ofis
 - İşçinin iş sözleşmesine göre çalıştığı yer
-- ► dükkân
+- dükkân
 ozellikler:
 - - isim
 - - isim

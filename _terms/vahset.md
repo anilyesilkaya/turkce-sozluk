@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vaḥşet
 anlamlar:
 - Yabani, vahşi olma durumu
-- ► acımasızlık
+- acımasızlık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: fakir
 letter: F
 lisan: Arapça faḳīr
 anlamlar:
-- ► yoksul, zengin karşıtı
+- yoksul, zengin karşıtı
 - Olması gerekenden az
 - Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
 - Zavallı, kimsesiz olan

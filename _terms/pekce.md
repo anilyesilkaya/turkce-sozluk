@@ -5,7 +5,7 @@ slug: pekce
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► iyice
+- iyice
 ozellikler:
 - - zarf
 ornekler:

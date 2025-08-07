@@ -5,7 +5,7 @@ slug: saricalik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kloroz
+- kloroz
 ozellikler:
 - - isim
   - bitki bilimi

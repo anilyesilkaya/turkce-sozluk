@@ -5,7 +5,7 @@ slug: susme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► boynuzlama
+- boynuzlama
 ozellikler:
 - - isim
 ornekler:

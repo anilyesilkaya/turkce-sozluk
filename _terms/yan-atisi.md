@@ -5,7 +5,7 @@ slug: yan-atisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► taç atışı
+- taç atışı
 ozellikler:
 - - isim
   - spor

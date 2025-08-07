@@ -12,7 +12,7 @@ anlamlar:
 - Para, mal vb. ile ilgili şey
 - Kendi içinde bütünlüğü olan anlatım
 - Duyularla algılanabilen, bölünebilen, ağırlığı olan nesne; özdek
-- ► molekül
+- molekül
 ozellikler:
 - - isim
 - - isim

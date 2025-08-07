@@ -5,7 +5,7 @@ slug: olumlu-tumce
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olumlu cümle
+- olumlu cümle
 ozellikler:
 - - isim
   - dil bilgisi

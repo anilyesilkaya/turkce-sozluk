@@ -5,8 +5,8 @@ slug: inceden
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ince yapılı
-- ► duygulu
+- ince yapılı
+- duygulu
 ozellikler:
 - - sıfat
 - - sıfat

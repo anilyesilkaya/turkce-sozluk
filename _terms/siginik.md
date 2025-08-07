@@ -5,7 +5,7 @@ slug: siginik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sığınmacı
+- sığınmacı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kurus-kurus
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuruşu kuruşuna
+- kuruşu kuruşuna
 ozellikler:
 - - zarf
 ornekler:

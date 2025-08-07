@@ -5,7 +5,7 @@ slug: secici-kurul
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seçiciler kurulu
+- seçiciler kurulu
 ozellikler:
 - - isim
 ornekler:

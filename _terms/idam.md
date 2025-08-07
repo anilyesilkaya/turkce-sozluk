@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iʿdām
 anlamlar:
 - Kanunun verdiği hükümle öldürme, yok etme
-- ► idam cezası
+- idam cezası
 ozellikler:
 - - isim
   - hukuk

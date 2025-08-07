@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar bir biçimde; medenice
-- ► çağdaş
+- çağdaş
 ozellikler:
 - - zarf
 - - zarf

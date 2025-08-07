@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dişi sığır; sarıkız
 - Çok çalışan öğrenci
-- ► ibne
+- ibne
 - Aptal, bön olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: yedikizkardes
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Ülker
+- Ülker
 ozellikler:
 - - isim
   - gök bilimi

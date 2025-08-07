@@ -5,7 +5,7 @@ slug: anonim-sirket
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anonim ortaklık
+- anonim ortaklık
 ozellikler:
 - - isim
   - ticaret

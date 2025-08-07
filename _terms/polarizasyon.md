@@ -5,8 +5,8 @@ slug: polarizasyon
 letter: P
 lisan: Fransızca polarisation
 anlamlar:
-- ► kutuplanma
-- ► polarma
+- kutuplanma
+- polarma
 ozellikler:
 - - isim
   - fizik

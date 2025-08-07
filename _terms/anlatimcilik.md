@@ -5,7 +5,7 @@ slug: anlatimcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dışa vurumculuk
+- dışa vurumculuk
 ozellikler:
 - - isim
   - felsefe

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kalem veya daktiloyla yazılmış, çizilmiş şeyleri silmeye yarayan, birleşiminde kauçuk olan nesne
 - Tebeşirle yazılmış şeyleri silmeye yarayan keçe, sünger veya kumaş parçaları
-- ► havlu
+- havlu
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: patent-hakki
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► isim hakkı
+- isim hakkı
 ozellikler:
 - - isim
   - ticaret

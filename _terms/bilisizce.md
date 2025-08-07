@@ -5,7 +5,7 @@ slug: bilisizce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilgisizce
+- bilgisizce
 ozellikler:
 - - zarf
 ornekler:

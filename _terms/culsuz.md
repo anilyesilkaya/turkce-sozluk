@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çulu olmayan
-- ► yoksul
+- yoksul
 ozellikler:
 - - sıfat
 - - sıfat

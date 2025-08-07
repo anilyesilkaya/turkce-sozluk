@@ -5,7 +5,7 @@ slug: deliboynuz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► erguvan
+- erguvan
 ozellikler:
 - - isim
   - bitki bilimi

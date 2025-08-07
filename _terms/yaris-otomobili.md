@@ -5,7 +5,7 @@ slug: yaris-otomobili
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yarış arabası
+- yarış arabası
 ozellikler:
 - - isim
   - spor

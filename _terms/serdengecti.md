@@ -5,7 +5,7 @@ slug: serdengecti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► fedai
+- fedai
 ozellikler:
 - - isim
   - eskimiş

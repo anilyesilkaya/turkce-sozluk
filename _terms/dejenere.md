@@ -5,8 +5,8 @@ slug: dejenere
 letter: D
 lisan: Fransızca dégénéré
 anlamlar:
-- ► soysuz
-- ► yoz
+- soysuz
+- yoz
 - Bozunmuş
 ozellikler:
 - - sıfat

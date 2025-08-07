@@ -5,7 +5,7 @@ slug: alyan-anahtari
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alyan
+- alyan
 ozellikler:
 - - isim
   - teknik

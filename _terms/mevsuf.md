@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mevṣūf
 anlamlar:
 - Nitelenmiş, nitelikleriyle belirlenmiş
-- ► tamlanan
+- tamlanan
 ozellikler:
 - - sıfat
   - eskimiş

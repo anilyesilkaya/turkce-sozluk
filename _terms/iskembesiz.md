@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İşkembesi olmayan
-- ► işkembesi geniş
+- işkembesi geniş
 ozellikler:
 - - sıfat
 - - sıfat

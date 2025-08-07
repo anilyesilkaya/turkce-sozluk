@@ -5,7 +5,7 @@ slug: hissetmek
 letter: H
 lisan: Arapça ḥiss + Türkçe etmek
 anlamlar:
-- ► duymak
+- duymak
 - Bir şeyden etkilenmek, duymak
 - Bir şeyi sezmek, farkına varmak, anlamak
 - Saymak, addetmek

@@ -5,7 +5,7 @@ slug: sterilizasyon
 letter: S
 lisan: Fransızca stérilisation
 anlamlar:
-- ► arınıklık
+- arınıklık
 ozellikler:
 - - isim
 ornekler:

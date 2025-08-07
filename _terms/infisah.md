@@ -5,10 +5,10 @@ slug: infisah
 letter: I
 lisan: Arapça infisāḫ
 anlamlar:
-- ► bozulma
+- bozulma
 - Yürürlükten çıkma
-- ► dağılma
-- ► kokuşma
+- dağılma
+- kokuşma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: catik-cehrelilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► asık suratlılık
+- asık suratlılık
 ozellikler:
 - - isim
 ornekler:

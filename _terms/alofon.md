@@ -5,7 +5,7 @@ slug: alofon
 letter: A
 lisan: İngilizce allophone
 anlamlar:
-- ► ses değişkesi
+- ses değişkesi
 ozellikler:
 - - isim
   - dil bilgisi

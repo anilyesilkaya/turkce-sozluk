@@ -5,7 +5,7 @@ slug: devletlestirebilmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kamulaştırabilmek
+- kamulaştırabilmek
 ozellikler:
 - - -i
 ornekler:

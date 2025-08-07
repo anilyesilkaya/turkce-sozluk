@@ -5,7 +5,7 @@ slug: numerik
 letter: N
 lisan: Fransızca numérique
 anlamlar:
-- ► sayısal
+- sayısal
 - Sayı bakımından
 ozellikler:
 - - sıfat

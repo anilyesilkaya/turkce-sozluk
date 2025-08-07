@@ -5,7 +5,7 @@ slug: yari-karanlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► alaca karanlık
+- alaca karanlık
 ozellikler:
 - - isim
 ornekler:

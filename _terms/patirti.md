@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Pat pat çıkan sesin adı
 - Herhangi bir biçimde veya ayakları yere kuvvetle basarak yürüme sonucu çıkan gürültü
-- ► arbede
+- arbede
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: ana-dusunce
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ana fikir
+- ana fikir
 ozellikler:
 - - isim
 ornekler:

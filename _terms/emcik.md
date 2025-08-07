@@ -5,7 +5,7 @@ slug: emcik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► meme
+- meme
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: tikamali
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıkaçlı
+- tıkaçlı
 ozellikler:
 - - sıfat
 ornekler:

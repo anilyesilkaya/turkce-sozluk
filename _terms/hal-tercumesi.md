@@ -5,7 +5,7 @@ slug: hal-tercumesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► öz geçmiş
+- öz geçmiş
 ozellikler:
 - - isim
 ornekler:

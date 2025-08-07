@@ -5,7 +5,7 @@ slug: trenckot
 letter: T
 lisan: İngilizce trench-coat
 anlamlar:
-- ► yağmurluk
+- yağmurluk
 ozellikler:
 - - isim
 ornekler:

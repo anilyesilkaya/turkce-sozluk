@@ -5,7 +5,7 @@ slug: borak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bor (I)
+- bor (I)
 ozellikler:
 - - sıfat
   - ağızlardan

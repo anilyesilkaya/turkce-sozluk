@@ -5,7 +5,7 @@ slug: slovakyali
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Slovak
+- Slovak
 ozellikler:
 - - isim
 ornekler:

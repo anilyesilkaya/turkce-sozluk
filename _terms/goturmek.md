@@ -8,12 +8,12 @@ anlamlar:
 - Taşımak, ulaştırmak veya koymak
 - Bir kimseyi bir yere kadar yanında yürütmek
 - Yerinden ayırıp uzağa atmak veya yok etmek
-- ► öldürmek
+- öldürmek
 - Dayanmak, katlanmak, tahammül etmek
 - Birinin yanında yürüyüp ona bir yere kadar arkadaşlık etmek; bırakmak
 - Bir sonuca vardırmak
 - Kaybolmasına, yok olmasına yol açmak
-- ► vardırmak
+- vardırmak
 - Herhangi bir yiyeceği tek başına ve hızlı bir biçimde yemek
 - Tümüyle sahip olmak
 - Haksız kazanç sağlamak, mal veya para sahibi olmak

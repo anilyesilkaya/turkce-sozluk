@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Genellikle Afrika'nın dağlık bölgelerinde sürüler hâlinde yaşayan, değişik renklerde olan, uzun veya kısa kuyruklu türleri bulunan maymun
 - Çirkin ve arsız (kimse)
-- ► maskara
+- maskara
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: gok-boylami
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sağ açıklık
+- sağ açıklık
 ozellikler:
 - - isim
   - gök bilimi

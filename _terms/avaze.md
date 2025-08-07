@@ -5,7 +5,7 @@ slug: avaze
 letter: A
 lisan: Farsça āvāze
 anlamlar:
-- ► ses
+- ses
 ozellikler:
 - - isim
 ornekler:

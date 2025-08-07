@@ -5,7 +5,7 @@ slug: ittiratli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► düzenli
+- düzenli
 ozellikler:
 - - sıfat
 ornekler:

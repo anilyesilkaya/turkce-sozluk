@@ -5,7 +5,7 @@ slug: zaril-zaril
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► hüngür hüngür
+- hüngür hüngür
 ozellikler:
 - - zarf
 ornekler:

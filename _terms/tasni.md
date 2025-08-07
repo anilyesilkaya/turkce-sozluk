@@ -5,9 +5,9 @@ slug: tasni
 letter: T
 lisan: Arapça taṣnīʿ
 anlamlar:
-- ► yapay
-- ► uydurma
-- ► yapıntı
+- yapay
+- uydurma
+- yapıntı
 ozellikler:
 - - isim
   - eskimiş

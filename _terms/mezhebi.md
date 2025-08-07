@@ -5,7 +5,7 @@ slug: mezhebi
 letter: M
 lisan: Arapça meẕhebī
 anlamlar:
-- ► mezhepsel
+- mezhepsel
 ozellikler:
 - - sıfat
 ornekler:

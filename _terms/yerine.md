@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir şeyin veya bir kimsenin yerini almak üzere
 - Başkasının adına
-- ► alegori
+- alegori
 ozellikler:
 - - zarf
 - - zarf

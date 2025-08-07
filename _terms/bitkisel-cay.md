@@ -5,7 +5,7 @@ slug: bitkisel-cay
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bitki çayı
+- bitki çayı
 ozellikler:
 - - isim
 ornekler:

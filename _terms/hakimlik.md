@@ -5,8 +5,8 @@ slug: hakimlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► yargıçlık
-- ► baskınlık
+- yargıçlık
+- baskınlık
 ozellikler:
 - - isim
 - - isim

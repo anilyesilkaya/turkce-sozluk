@@ -5,7 +5,7 @@ slug: neticelendirilmek
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonuçlandırılmak
+- sonuçlandırılmak
 ozellikler:
 - - nesnesiz
 ornekler:

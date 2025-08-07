@@ -5,7 +5,7 @@ slug: azimet
 letter: A
 lisan: Arapça ʿazīmet
 anlamlar:
-- ► gidiş
+- gidiş
 ozellikler:
 - - isim
   - eskimiş

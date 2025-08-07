@@ -5,7 +5,7 @@ slug: sempatik
 letter: S
 lisan: Fransızca sympathique
 anlamlar:
-- ► sıcakkanlı
+- sıcakkanlı
 - Çok hoş, hoşa giden
 ozellikler:
 - - sıfat

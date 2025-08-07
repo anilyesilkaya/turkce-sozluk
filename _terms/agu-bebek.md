@@ -5,7 +5,7 @@ slug: agu-bebek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► agucuk bebek
+- agucuk bebek
 ozellikler:
 - - isim
   - alay yollu

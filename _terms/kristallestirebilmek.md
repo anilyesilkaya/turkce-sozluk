@@ -5,7 +5,7 @@ slug: kristallestirebilmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► billurlaştırabilmek
+- billurlaştırabilmek
 ozellikler:
 - - -i
 ornekler:

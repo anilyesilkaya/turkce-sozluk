@@ -5,7 +5,7 @@ slug: yildiz-bilimi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gök bilimi
+- gök bilimi
 ozellikler:
 - - isim
 ornekler:

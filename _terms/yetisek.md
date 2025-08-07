@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişmek işi
-- ► program
+- program
 ozellikler:
 - - isim
 - - isim

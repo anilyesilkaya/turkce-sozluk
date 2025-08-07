@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Mesleği yalnız çiftçilik olan varlıksız kimse
-- ► ortakçı
+- ortakçı
 ozellikler:
 - - isim
   - ağızlardan

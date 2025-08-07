@@ -5,7 +5,7 @@ slug: subasman
 letter: S
 lisan: Fransızca soubassement
 anlamlar:
-- ► oturmalık
+- oturmalık
 ozellikler:
 - - isim
   - mimarlık

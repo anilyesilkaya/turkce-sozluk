@@ -5,7 +5,7 @@ slug: teorisyen
 letter: T
 lisan: Fransızca théoricien
 anlamlar:
-- ► kuramcı
+- kuramcı
 ozellikler:
 - - sıfat
 ornekler:

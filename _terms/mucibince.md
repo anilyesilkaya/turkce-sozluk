@@ -5,7 +5,7 @@ slug: mucibince
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gereğince
+- gereğince
 ozellikler:
 - - zarf
 ornekler:

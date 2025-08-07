@@ -5,7 +5,7 @@ slug: ussallasma
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► aklileşme
+- aklileşme
 ozellikler:
 - - isim
 ornekler:

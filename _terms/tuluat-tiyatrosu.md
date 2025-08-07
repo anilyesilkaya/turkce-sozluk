@@ -5,7 +5,7 @@ slug: tuluat-tiyatrosu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğaçlama tiyatro
+- doğaçlama tiyatro
 ozellikler:
 - - isim
 ornekler:

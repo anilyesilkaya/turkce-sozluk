@@ -5,7 +5,7 @@ slug: biilac
 letter: B
 lisan: Farsça bī + Arapça ʿilāc
 anlamlar:
-- ► ilaçsız
+- ilaçsız
 - Umutsuz olarak, çaresiz bir biçimde
 ozellikler:
 - - sıfat

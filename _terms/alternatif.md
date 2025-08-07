@@ -5,11 +5,11 @@ slug: alternatif
 letter: A
 lisan: Fransızca alternatif
 anlamlar:
-- ► seçenek
-- ► farklı
-- ► karşı
-- ► almaşık
-- ► dalgalı
+- seçenek
+- farklı
+- karşı
+- almaşık
+- dalgalı
 ozellikler:
 - - isim
 - - isim

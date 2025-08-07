@@ -5,7 +5,7 @@ slug: pitoresk
 letter: P
 lisan: Fransızca pittoresque
 anlamlar:
-- ► resimsi
+- resimsi
 ozellikler:
 - - sıfat
 ornekler:

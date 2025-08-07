@@ -5,7 +5,7 @@ slug: grafolog
 letter: G
 lisan: Fransızca graphologue
 anlamlar:
-- ► yazı bilimci
+- yazı bilimci
 ozellikler:
 - - isim
 ornekler:

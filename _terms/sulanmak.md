@@ -11,7 +11,7 @@ anlamlar:
 - Göz yaşarmak
 - Ciddiyetini, ağırlığını kaybetmek
 - İmrendiğini açığa vurmak
-- ► asılmak
+- asılmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

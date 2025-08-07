@@ -6,7 +6,7 @@ letter: E
 lisan: Fransızca étiquette
 anlamlar:
 - Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek için üzerlerine konulan küçük kâğıt
-- ► kimlik
+- kimlik
 - Toplum içindeki davranışlarda izlenecek yol
 ozellikler:
 - - isim

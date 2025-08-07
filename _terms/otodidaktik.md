@@ -5,7 +5,7 @@ slug: otodidaktik
 letter: O
 lisan: Fransızca autodidactique
 anlamlar:
-- ► öz öğrenim
+- öz öğrenim
 ozellikler:
 - - isim
 ornekler:

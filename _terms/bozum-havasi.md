@@ -5,7 +5,7 @@ slug: bozum-havasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► utangaçlık
+- utangaçlık
 ozellikler:
 - - isim
   - argo

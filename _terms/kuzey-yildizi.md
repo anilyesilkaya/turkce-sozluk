@@ -5,7 +5,7 @@ slug: kuzey-yildizi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kutup Yıldızı
+- Kutup Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: kebere
 letter: K
 lisan: Latince
 anlamlar:
-- ► gebre otu
+- gebre otu
 ozellikler:
 - - isim
   - bitki bilimi

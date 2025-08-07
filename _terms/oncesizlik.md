@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncesi olmama durumu
-- ► ezel
+- ezel
 ozellikler:
 - - isim
 - - isim

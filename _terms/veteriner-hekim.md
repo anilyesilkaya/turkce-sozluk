@@ -5,7 +5,7 @@ slug: veteriner-hekim
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► veteriner
+- veteriner
 ozellikler:
 - - isim
 ornekler:

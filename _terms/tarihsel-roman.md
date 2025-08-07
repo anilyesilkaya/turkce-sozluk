@@ -5,7 +5,7 @@ slug: tarihsel-roman
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tarihî roman
+- tarihî roman
 ozellikler:
 - - isim
   - edebiyat

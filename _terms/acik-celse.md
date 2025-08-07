@@ -5,8 +5,8 @@ slug: acik-celse
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açık duruşma
-- ► açık oturum, gizli celse karşıtı
+- açık duruşma
+- açık oturum, gizli celse karşıtı
 ozellikler:
 - - isim
   - hukuk

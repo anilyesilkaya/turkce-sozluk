@@ -5,7 +5,7 @@ slug: filan
 letter: F
 lisan: Arapça fulān
 anlamlar:
-- ► falan
+- falan
 ozellikler:
 - - zamir
 ornekler:

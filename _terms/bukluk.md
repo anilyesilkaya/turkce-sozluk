@@ -5,7 +5,7 @@ slug: bukluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bük (II)
+- bük (II)
 ozellikler:
 - - isim
 ornekler:

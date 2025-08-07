@@ -5,7 +5,7 @@ slug: tuvana
 letter: T
 lisan: Farsça tevānā
 anlamlar:
-- ► dinç
+- dinç
 ozellikler:
 - - sıfat
   - eskimiş

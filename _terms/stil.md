@@ -5,8 +5,8 @@ slug: stil
 letter: S
 lisan: Fransızca style
 anlamlar:
-- ► tarz
-- ► üslup
+- tarz
+- üslup
 ozellikler:
 - - isim
 - - isim

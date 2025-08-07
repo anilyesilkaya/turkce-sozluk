@@ -5,7 +5,7 @@ slug: irganma
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sallanma
+- sallanma
 ozellikler:
 - - isim
 ornekler:

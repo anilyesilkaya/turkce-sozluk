@@ -5,9 +5,9 @@ slug: yar
 letter: Y
 lisan: Farsça yār
 anlamlar:
-- ► sevgili
-- ► dost
-- ► yardımcı
+- sevgili
+- dost
+- yardımcı
 ozellikler:
 - - isim
 - - isim

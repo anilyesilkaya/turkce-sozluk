@@ -5,7 +5,7 @@ slug: guldurucu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► komik
+- komik
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: aceleten
 letter: A
 lisan: Arapça ʿaceleten
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

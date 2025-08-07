@@ -5,8 +5,8 @@ slug: nene
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nine
-- ► anne
+- nine
+- anne
 ozellikler:
 - - isim
 - - isim

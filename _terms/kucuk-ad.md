@@ -5,7 +5,7 @@ slug: kucuk-ad
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ön ad
+- ön ad
 ozellikler:
 - - isim
 ornekler:

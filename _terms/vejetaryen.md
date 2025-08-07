@@ -5,7 +5,7 @@ slug: vejetaryen
 letter: V
 lisan: Fransızca végétarien
 anlamlar:
-- ► etyemez
+- etyemez
 ozellikler:
 - - isim
 ornekler:

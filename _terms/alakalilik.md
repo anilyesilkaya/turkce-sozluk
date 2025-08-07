@@ -5,7 +5,7 @@ slug: alakalilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgililik
+- ilgililik
 ozellikler:
 - - isim
 ornekler:

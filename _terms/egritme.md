@@ -5,7 +5,7 @@ slug: egritme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğriltme
+- eğriltme
 ozellikler:
 - - isim
 ornekler:

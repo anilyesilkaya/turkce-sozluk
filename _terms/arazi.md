@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça arāżī
 anlamlar:
 - Yeryüzü parçası; yerey, toprak
-- ► yer
+- yer
 ozellikler:
 - - isim
   - coğrafya

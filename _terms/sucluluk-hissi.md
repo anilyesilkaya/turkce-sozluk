@@ -5,7 +5,7 @@ slug: sucluluk-hissi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► suçluluk duygusu
+- suçluluk duygusu
 ozellikler:
 - - isim
   - ruh bilimi

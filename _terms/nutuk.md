@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nuṭḳ
 anlamlar:
 - Söz, konuşma
-- ► söylev
+- söylev
 ozellikler:
 - - isim
 - - isim

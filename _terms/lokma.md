@@ -6,9 +6,9 @@ letter: L
 lisan: Arapça luḳme
 anlamlar:
 - Ağza bir defada alınıp götürülen yiyecek parçası; sokum
-- ► lokma tatlısı
+- lokma tatlısı
 - Türlü kalınlıktaki cıvataları, boşluğuna geçirip sökmeye veya sıkıştırmaya yarayan metalden alet
-- ► yemek (I)
+- yemek (I)
 - Genellikle haksız olarak ele geçirilen mal veya para
 ozellikler:
 - - isim

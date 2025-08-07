@@ -5,7 +5,7 @@ slug: maktu-fiyat
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kesin fiyat
+- kesin fiyat
 ozellikler:
 - - isim
   - ticaret

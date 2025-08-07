@@ -5,7 +5,7 @@ slug: coklukla
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► genellikle
+- genellikle
 ozellikler:
 - - zarf
 ornekler:

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Aynı boyda olan (kimse)
-- ► akran
+- akran
 ozellikler:
 - - sıfat
 - - sıfat

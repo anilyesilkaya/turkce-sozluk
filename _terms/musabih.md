@@ -5,7 +5,7 @@ slug: musabih
 letter: M
 lisan: Arapça muşābih
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - sıfat
   - eskimiş

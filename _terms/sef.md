@@ -6,7 +6,7 @@ letter: Ş
 lisan: Fransızca chef
 anlamlar:
 - Yetki ve sorumluluğu olan, yöneten kimse
-- ► önder
+- önder
 ozellikler:
 - - isim
 - - isim

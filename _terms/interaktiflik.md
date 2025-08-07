@@ -5,7 +5,7 @@ slug: interaktiflik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► etkileşimlilik
+- etkileşimlilik
 ozellikler:
 - - isim
 ornekler:

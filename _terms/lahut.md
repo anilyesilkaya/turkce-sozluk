@@ -5,7 +5,7 @@ slug: lahut
 letter: L
 lisan: Arapça lāhūt
 anlamlar:
-- ► kutsal
+- kutsal
 - Tanrı âlemi
 ozellikler:
 - - sıfat

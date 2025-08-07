@@ -7,7 +7,7 @@ lisan: Arapça meşġūl
 anlamlar:
 - Bir işle uğraşan, iş görmekte olan
 - Çalışır, kullanılır durumda olan
-- ► dolu (II)
+- dolu (II)
 ozellikler:
 - - sıfat
 - - sıfat

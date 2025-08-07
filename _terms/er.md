@@ -5,7 +5,7 @@ slug: er
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erken
+- erken
 ozellikler:
 - - zarf
   - ağızlardan

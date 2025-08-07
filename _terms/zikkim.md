@@ -5,7 +5,7 @@ slug: zikkim
 letter: Z
 lisan: Arapça zaḳḳūm
 anlamlar:
-- ► zehir
+- zehir
 - İçki ve sigara gibi zararlı alışkanlıklar için kullanılan bir söz
 - Sıkıntı veren kimse veya şey
 ozellikler:

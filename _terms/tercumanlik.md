@@ -5,7 +5,7 @@ slug: tercumanlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çevirmenlik
+- çevirmenlik
 ozellikler:
 - - isim
 ornekler:

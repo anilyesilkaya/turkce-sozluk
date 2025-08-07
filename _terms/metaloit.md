@@ -5,7 +5,7 @@ slug: metaloit
 letter: M
 lisan: Fransızca métalloïde
 anlamlar:
-- ► metalsi
+- metalsi
 ozellikler:
 - - isim
   - kimya

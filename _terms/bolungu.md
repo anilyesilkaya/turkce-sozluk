@@ -5,7 +5,7 @@ slug: bolungu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► hizip
+- hizip
 ozellikler:
 - - isim
   - toplum bilimi

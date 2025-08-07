@@ -5,7 +5,7 @@ slug: tarafcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yandaşlık
+- yandaşlık
 ozellikler:
 - - isim
 ornekler:

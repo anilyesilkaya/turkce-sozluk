@@ -5,7 +5,7 @@ slug: ictenlikli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - sıfat
 ornekler:

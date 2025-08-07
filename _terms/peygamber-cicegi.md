@@ -5,7 +5,7 @@ slug: peygamber-cicegi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► mavikantaron
+- mavikantaron
 ozellikler:
 - - isim
   - bitki bilimi

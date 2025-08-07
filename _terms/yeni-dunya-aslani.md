@@ -5,7 +5,7 @@ slug: yeni-dunya-aslani
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► puma
+- puma
 ozellikler:
 - - isim
   - hayvan bilimi

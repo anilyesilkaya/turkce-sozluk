@@ -5,7 +5,7 @@ slug: adedimurettep
 letter: A
 lisan: Arapça ʿaded + muretteb
 anlamlar:
-- ► tam sayı
+- tam sayı
 ozellikler:
 - - isim
   - eskimiş

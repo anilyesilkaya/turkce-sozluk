@@ -5,7 +5,7 @@ slug: kovalamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kovmak
+- kovmak
 - Kaçanın arkasından koşmak, yakalamaya çalışmak
 - Bir şeyin arkasına düşüp elde etmeye veya bir sonuca bağlamaya çalışmak, izlemek, takip etmek
 - Yarışta, kaçmakta olan koşucu veya koşucuları yakalamaya çalışmak

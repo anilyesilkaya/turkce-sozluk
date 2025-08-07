@@ -5,7 +5,7 @@ slug: kufran
 letter: K
 lisan: Arapça kufrān
 anlamlar:
-- ► nankörlük
+- nankörlük
 ozellikler:
 - - isim
   - eskimiş

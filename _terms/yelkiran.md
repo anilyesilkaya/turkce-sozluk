@@ -5,7 +5,7 @@ slug: yelkiran
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yelkesen
+- yelkesen
 ozellikler:
 - - isim
   - spor

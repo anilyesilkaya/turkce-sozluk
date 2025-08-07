@@ -5,7 +5,7 @@ slug: hacet-penceresi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hacet kapısı
+- hacet kapısı
 ozellikler:
 - - isim
 ornekler:

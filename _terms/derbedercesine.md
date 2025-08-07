@@ -5,7 +5,7 @@ slug: derbedercesine
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► derbederce
+- derbederce
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: otorizasyon
 letter: O
 lisan: Fransızca autorisation
 anlamlar:
-- ► yetkilendirim
+- yetkilendirim
 ozellikler:
 - - isim
 ornekler:

@@ -5,9 +5,9 @@ slug: samimi
 letter: S
 lisan: Arapça ṣamīmī
 anlamlar:
-- ► içten
-- ► açık yürekli
-- ► yapmacıksız
+- içten
+- açık yürekli
+- yapmacıksız
 - İçli dışlı, senli benli olarak
 ozellikler:
 - - sıfat

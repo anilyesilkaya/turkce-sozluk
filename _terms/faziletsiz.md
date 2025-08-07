@@ -5,7 +5,7 @@ slug: faziletsiz
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► erdemsiz
+- erdemsiz
 ozellikler:
 - - sıfat
 ornekler:

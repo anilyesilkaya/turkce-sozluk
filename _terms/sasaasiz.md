@@ -5,8 +5,8 @@ slug: sasaasiz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► görkemsiz
-- ► parıltısız
+- görkemsiz
+- parıltısız
 ozellikler:
 - - sıfat
   - eskimiş

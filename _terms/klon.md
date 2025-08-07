@@ -5,7 +5,7 @@ slug: klon
 letter: K
 lisan: İngilizce clone
 anlamlar:
-- ► kopya
+- kopya
 ozellikler:
 - - isim
   - biyoloji

@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çektirmek işi
-- ► çektiri
+- çektiri
 - Yaklaşık 30-50 grostonluk yelkenli veya yük taşıyan motorlu büyük kayık
 - Sökülebilir elbise, yemek ve salon dolaplarının tablalarını birbirine tutturmak için metal veya plastikten yapılmış bağlantı parçası
 - Arabaların göbek bilyelerini çıkarmak için kullanılan araç

@@ -5,7 +5,7 @@ slug: bezirgan
 letter: B
 lisan: Farsça bāzergān
 anlamlar:
-- ► tüccar
+- tüccar
 - Alışverişte çok kâr amacı güden kimse
 - Yahudiler için kullanılan bir adlandırma
 - Mesleğini sadece kazanç için kullanan kimse

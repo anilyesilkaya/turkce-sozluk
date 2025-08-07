@@ -5,7 +5,7 @@ slug: tilkikuyrugu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hoşkuran
+- hoşkuran
 - Uzun salkımlı bir çeşit üzüm
 - Yağlı güreşte oturak kündesine geçen üstteki güreşçiye, alttakinin elini geri uzatarak çenesinden veya gırtlağından çekmesi
 ozellikler:

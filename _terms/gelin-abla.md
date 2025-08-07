@@ -5,7 +5,7 @@ slug: gelin-abla
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► yenge
+- yenge
 ozellikler:
 - - isim
   - ağızlardan

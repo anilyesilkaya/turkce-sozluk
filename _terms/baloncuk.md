@@ -5,7 +5,7 @@ slug: baloncuk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kabarcık
+- kabarcık
 ozellikler:
 - - isim
 ornekler:

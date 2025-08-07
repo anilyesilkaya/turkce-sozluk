@@ -5,7 +5,7 @@ slug: dag-cayi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ada çayı
+- ada çayı
 ozellikler:
 - - isim
   - bitki bilimi

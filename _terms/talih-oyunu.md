@@ -5,7 +5,7 @@ slug: talih-oyunu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► şans oyunu
+- şans oyunu
 ozellikler:
 - - isim
 ornekler:

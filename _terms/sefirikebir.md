@@ -5,7 +5,7 @@ slug: sefirikebir
 letter: S
 lisan: Arapça sefīr + kebīr
 anlamlar:
-- ► büyükelçi
+- büyükelçi
 ozellikler:
 - - isim
   - eskimiş

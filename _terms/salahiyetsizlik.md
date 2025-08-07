@@ -5,7 +5,7 @@ slug: salahiyetsizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yetkisizlik
+- yetkisizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mustacel
 letter: M
 lisan: Arapça mustaʿcel
 anlamlar:
-- ► acele
+- acele
 ozellikler:
 - - sıfat
   - eskimiş

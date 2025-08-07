@@ -5,8 +5,8 @@ slug: tefsir
 letter: T
 lisan: Arapça tefsīr
 anlamlar:
-- ► yorumlama
-- ► yorum
+- yorumlama
+- yorum
 - Kur'an'ın ayetlerini açıklayarak görüşler ileri sürme ve bunları yazma
 - Kur'an'ın ayetlerini açıklayan eser
 ozellikler:

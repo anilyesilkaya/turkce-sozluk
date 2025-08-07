@@ -5,7 +5,7 @@ slug: sosyal-mesafe
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► fiziksel mesafe
+- fiziksel mesafe
 - İnanç, kültür, görüş vb. bakımlardan farklı sosyal grup üyelerinin birbirlerine karşı hissettikleri yakınlık veya uzaklık derecesini gösteren soyut ölçü
 ozellikler:
 - - isim

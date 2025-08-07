@@ -5,7 +5,7 @@ slug: muannitlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► inatçılık
+- inatçılık
 ozellikler:
 - - isim
 ornekler:

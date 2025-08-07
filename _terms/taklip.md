@@ -5,7 +5,7 @@ slug: taklip
 letter: T
 lisan: Arapça taḳlīb
 anlamlar:
-- ► döndürme
+- döndürme
 - Bir şeyin biçim ve kalıbını değiştirme
 ozellikler:
 - - isim

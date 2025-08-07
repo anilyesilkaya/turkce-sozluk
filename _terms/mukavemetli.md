@@ -5,7 +5,7 @@ slug: mukavemetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dayanıklı
+- dayanıklı
 ozellikler:
 - - sıfat
 ornekler:

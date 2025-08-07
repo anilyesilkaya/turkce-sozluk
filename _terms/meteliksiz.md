@@ -5,7 +5,7 @@ slug: meteliksiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► züğürt
+- züğürt
 - Parası olmadan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: snopluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► züppelik
+- züppelik
 ozellikler:
 - - isim
 ornekler:

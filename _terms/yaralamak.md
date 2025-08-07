@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Silah, bıçak vb. bir araçla veya vurarak yara açmak
-- ► kırmak
+- kırmak
 ozellikler:
 - - -i
 - - -i

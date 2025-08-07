@@ -5,7 +5,7 @@ slug: et-sote
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► et sotesi
+- et sotesi
 ozellikler:
 - - isim
 ornekler:

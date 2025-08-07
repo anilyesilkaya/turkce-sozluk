@@ -7,9 +7,9 @@ lisan: Fransızca action
 anlamlar:
 - Bir kuvvetin, maddi bir etkenin, bir düşüncenin ortaya çıkması
 - İnsan etkinliğinin veya iradesinin açığa çıkması
-- ► hareket
+- hareket
 - Sermayenin belirli bir bölümü
-- ► hisse senedi
+- hisse senedi
 - Bir oyuncunun sahne üzerindeki hareketi
 - Oyunun temasını geliştiren başlıca olay, hikâye; gelişim
 ozellikler:

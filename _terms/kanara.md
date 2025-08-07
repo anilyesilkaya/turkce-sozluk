@@ -5,7 +5,7 @@ slug: kanara
 letter: K
 lisan: Arapça ḳinnāre
 anlamlar:
-- ► kesimevi
+- kesimevi
 ozellikler:
 - - isim
   - eskimiş

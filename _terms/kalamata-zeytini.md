@@ -5,7 +5,7 @@ slug: kalamata-zeytini
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalamata
+- kalamata
 ozellikler:
 - - isim
 ornekler:

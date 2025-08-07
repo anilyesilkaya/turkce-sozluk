@@ -5,7 +5,7 @@ slug: cumhuriyetperverlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cumhuriyetçilik
+- cumhuriyetçilik
 ozellikler:
 - - isim
 ornekler:

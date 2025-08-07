@@ -5,7 +5,7 @@ slug: bayram-ayi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şevval
+- şevval
 ozellikler:
 - - isim
 ornekler:

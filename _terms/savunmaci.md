@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Savunma yapan
 - Savunma özelliği olan
-- ► savunma oyuncusu
+- savunma oyuncusu
 ozellikler:
 - - isim
 - - isim

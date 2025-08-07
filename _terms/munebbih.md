@@ -5,7 +5,7 @@ slug: munebbih
 letter: M
 lisan: Arapça munebbih
 anlamlar:
-- ► uyarıcı
+- uyarıcı
 ozellikler:
 - - sıfat
   - eskimiş

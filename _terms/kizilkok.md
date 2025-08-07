@@ -5,7 +5,7 @@ slug: kizilkok
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kökboyası
+- kökboyası
 ozellikler:
 - - isim
   - bitki bilimi

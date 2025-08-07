@@ -5,7 +5,7 @@ slug: pandul
 letter: P
 lisan: Fransızca pendule
 anlamlar:
-- ► sarkaç
+- sarkaç
 ozellikler:
 - - isim
   - fizik

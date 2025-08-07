@@ -5,7 +5,7 @@ slug: urem
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► faiz
+- faiz
 ozellikler:
 - - isim
   - ekonomi

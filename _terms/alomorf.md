@@ -5,7 +5,7 @@ slug: alomorf
 letter: A
 lisan: İngilizce allomorph
 anlamlar:
-- ► eş biçim birimi
+- eş biçim birimi
 ozellikler:
 - - isim
   - dil bilgisi

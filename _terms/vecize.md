@@ -5,7 +5,7 @@ slug: vecize
 letter: V
 lisan: Arapça vecīze
 anlamlar:
-- ► özdeyiş
+- özdeyiş
 ozellikler:
 - - isim
 ornekler:

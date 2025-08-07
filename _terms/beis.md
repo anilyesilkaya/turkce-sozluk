@@ -5,7 +5,7 @@ slug: beis
 letter: B
 lisan: Arapça beʾs
 anlamlar:
-- ► sakınca
+- sakınca
 ozellikler:
 - - isim
   - eskimiş

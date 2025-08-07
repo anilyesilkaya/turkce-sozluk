@@ -5,7 +5,7 @@ slug: inakcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► dogmacılık
+- dogmacılık
 ozellikler:
 - - isim
   - felsefe

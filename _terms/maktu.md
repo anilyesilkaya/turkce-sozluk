@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maḳṭūʿ
 anlamlar:
 - Kesilmiş
-- ► kesme
+- kesme
 - Kesin olarak değeri biçilmiş
 - Ölçü ile satılmayan, götürü
 ozellikler:

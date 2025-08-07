@@ -5,7 +5,7 @@ slug: lodosluk
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► güney
+- güney
 - Lodostan korunma amaçlı yapılan liman
 ozellikler:
 - - isim

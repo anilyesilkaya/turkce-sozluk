@@ -5,7 +5,7 @@ slug: tunc-uyak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tunç kafiye
+- tunç kafiye
 ozellikler:
 - - isim
   - edebiyat

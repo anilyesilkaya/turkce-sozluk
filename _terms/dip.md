@@ -6,10 +6,10 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Oyuk veya çukur bir şeyin en alt bölümü; derin
-- ► taban (I)
+- taban (I)
 - Dikili duran bir şeyin yerle birleştiği nokta ve çevresi veya bir şeyin yanı başı
 - Kapalı bir yerin kapıya göre en uzak bölümü
-- ► kıç
+- kıç
 ozellikler:
 - - isim
 - - isim

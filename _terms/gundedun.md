@@ -5,7 +5,7 @@ slug: gundedun
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► nostalji
+- nostalji
 ozellikler:
 - - isim
 ornekler:

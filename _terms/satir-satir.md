@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bütün satırların hepsini okuyarak, her satırla ilgilenerek
-- ► tamamen
+- tamamen
 - İnceden inceye, dikkatlice
 ozellikler:
 - - zarf

@@ -5,7 +5,7 @@ slug: envestisman
 letter: E
 lisan: Fransızca investissement
 anlamlar:
-- ► yatırım
+- yatırım
 ozellikler:
 - - isim
   - ekonomi

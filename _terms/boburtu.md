@@ -5,7 +5,7 @@ slug: boburtu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böbürlenme
+- böbürlenme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: icgorec
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► endoskop
+- endoskop
 ozellikler:
 - - isim
   - tıp

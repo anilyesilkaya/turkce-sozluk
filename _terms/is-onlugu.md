@@ -5,7 +5,7 @@ slug: is-onlugu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► önlük
+- önlük
 ozellikler:
 - - isim
 ornekler:

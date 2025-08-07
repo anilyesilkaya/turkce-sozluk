@@ -5,7 +5,7 @@ slug: kiskirtmacilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kışkırtıcılık
+- kışkırtıcılık
 ozellikler:
 - - isim
 ornekler:

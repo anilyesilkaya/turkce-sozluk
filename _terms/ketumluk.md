@@ -5,7 +5,7 @@ slug: ketumluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ağzı sıkılık
+- ağzı sıkılık
 ozellikler:
 - - isim
 ornekler:

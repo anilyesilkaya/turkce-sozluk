@@ -5,7 +5,7 @@ slug: nifakci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► arabozan
+- arabozan
 ozellikler:
 - - sıfat
 ornekler:

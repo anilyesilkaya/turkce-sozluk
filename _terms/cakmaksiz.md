@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çakmağı olmayan
 - Eski, kullanılmaz tabanca veya tüfek
-- ► kibrit
+- kibrit
 ozellikler:
 - - sıfat
 - - sıfat

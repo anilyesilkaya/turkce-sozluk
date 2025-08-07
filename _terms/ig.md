@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Pamuk, yün vb.nden iplik eğirmekte kullanılan, ortası şişkin, iki ucu sivri ve çengelli olan, alt kısmında ağırşak bulunan, ağaçtan yapılmış araç; cehre
 - İplik makinelerinde benzer hareket yaparak aynı işi gerçekleştiren parça
-- ► iğ iplik
+- iğ iplik
 - Araba okunun ekseni
 - Değirmen taşının ortasında bulunan ve yukarıdaki üst taşa geçen demir eksen
 ozellikler:

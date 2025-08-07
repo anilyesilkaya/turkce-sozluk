@@ -5,7 +5,7 @@ slug: gok-sogan
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► taze soğan
+- taze soğan
 ozellikler:
 - - isim
 ornekler:

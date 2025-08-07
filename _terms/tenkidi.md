@@ -5,7 +5,7 @@ slug: tenkidi
 letter: T
 lisan: Arapça tenḳīdī
 anlamlar:
-- ► eleştirel
+- eleştirel
 ozellikler:
 - - sıfat
   - eskimiş

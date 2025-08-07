@@ -5,7 +5,7 @@ slug: didar
 letter: D
 lisan: Farsça dīdār
 anlamlar:
-- ► yüz (II)
+- yüz (II)
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: goruntuluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ekran
+- ekran
 ozellikler:
 - - isim
   - sinema

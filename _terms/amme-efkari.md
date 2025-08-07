@@ -5,7 +5,7 @@ slug: amme-efkari
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kamuoyu
+- kamuoyu
 ozellikler:
 - - isim
 ornekler:

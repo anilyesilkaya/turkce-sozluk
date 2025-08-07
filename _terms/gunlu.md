@@ -5,7 +5,7 @@ slug: gunlu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► tarihli
+- tarihli
 - Belli bir zamanla sınırlı
 ozellikler:
 - - sıfat

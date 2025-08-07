@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyle, bir kimseyle arayarak veya aramadan karşılaşmak
 - Bir şeyi elde etmek
 - Kaybedilen bir şeyi yeniden ele geçirmek
-- ► keşfetmek
+- keşfetmek
 - İcat etmek
 - İstenilen şeye kavuşmak
 - Bir yere, bir noktaya erişmek, ulaşmak
@@ -16,7 +16,7 @@ anlamlar:
 - Uygun görüp seçmek
 - Bir şeyi temin etmek
 - Cezaya uğramak
-- ► anımsamak
+- anımsamak
 - Bir şeyi belirlemek
 ozellikler:
 - - -i

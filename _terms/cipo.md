@@ -5,7 +5,7 @@ slug: cipo
 letter: Ç
 lisan: İtalyanca cipo
 anlamlar:
-- ► çıpa
+- çıpa
 ozellikler:
 - - isim
   - denizcilik

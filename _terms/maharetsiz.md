@@ -5,7 +5,7 @@ slug: maharetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► beceriksiz
+- beceriksiz
 ozellikler:
 - - sıfat
 ornekler:

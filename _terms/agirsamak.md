@@ -8,7 +8,7 @@ anlamlar:
 - Birine karşı soğuk davranarak sıkıntı verdiğini anlatmak
 - Bir işi yavaş yapmak, önemsememek, ilgilenmemek
 - Bir işi ağır bulmak
-- ► yüksünmek
+- yüksünmek
 ozellikler:
 - - -i
 - - -i

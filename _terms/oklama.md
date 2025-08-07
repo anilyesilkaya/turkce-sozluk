@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Oklamak işi
-- ► dart
+- dart
 ozellikler:
 - - isim
 - - isim

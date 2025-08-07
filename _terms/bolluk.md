@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bol olma durumu
-- ► bereket
+- bereket
 - Parasal bakımdan rahatlık
 - Çok, fazla olma durumu; yağmur
 - Her şeyin bol olduğu yer

@@ -5,7 +5,7 @@ slug: sicak-harp
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sıcak savaş
+- sıcak savaş
 ozellikler:
 - - isim
 ornekler:

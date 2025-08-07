@@ -5,7 +5,7 @@ slug: vecih
 letter: V
 lisan: Arapça vech
 anlamlar:
-- ► yüz (II)
+- yüz (II)
 ozellikler:
 - - isim
 ornekler:

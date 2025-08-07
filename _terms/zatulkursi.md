@@ -5,7 +5,7 @@ slug: zatulkursi
 letter: Z
 lisan: Arapça ẕātu'l-kursī
 anlamlar:
-- ► Altıkardeş
+- Altıkardeş
 ozellikler:
 - - isim
   - gök bilimi

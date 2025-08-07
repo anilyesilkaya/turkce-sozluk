@@ -5,7 +5,7 @@ slug: kalplik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sahtelik
+- sahtelik
 - İş yapma isteksizliği
 ozellikler:
 - - isim

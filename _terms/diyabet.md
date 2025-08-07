@@ -5,7 +5,7 @@ slug: diyabet
 letter: D
 lisan: Fransızca diabète
 anlamlar:
-- ► şeker hastalığı
+- şeker hastalığı
 ozellikler:
 - - isim
   - tıp

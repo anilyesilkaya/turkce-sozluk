@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Vurmak işi
 - Bir ölçüyü oluşturan eşit sürelerden her biri; darp
-- ► tempo
+- tempo
 - Bir kuvvetin etkileme süresi ile şiddetinin çarpımından çıkarılan nicelik
 ozellikler:
 - - isim

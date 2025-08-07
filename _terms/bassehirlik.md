@@ -5,7 +5,7 @@ slug: bassehirlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkentlik
+- başkentlik
 ozellikler:
 - - isim
 ornekler:

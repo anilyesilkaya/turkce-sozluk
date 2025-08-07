@@ -5,7 +5,7 @@ slug: tasarrufculuk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► birikimcilik
+- birikimcilik
 ozellikler:
 - - isim
 ornekler:

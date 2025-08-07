@@ -5,7 +5,7 @@ slug: bagin
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► iksa
+- iksa
 ozellikler:
 - - isim
 ornekler:

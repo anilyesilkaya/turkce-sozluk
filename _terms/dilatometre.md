@@ -5,7 +5,7 @@ slug: dilatometre
 letter: D
 lisan: Fransızca dilatomètre
 anlamlar:
-- ► genleşmeölçer
+- genleşmeölçer
 ozellikler:
 - - isim
   - fizik

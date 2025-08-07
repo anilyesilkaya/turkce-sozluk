@@ -5,8 +5,8 @@ slug: produktor
 letter: P
 lisan: Fransızca producteur
 anlamlar:
-- ► yapımcı
-- ► üretici
+- yapımcı
+- üretici
 - Bir sigorta şirketinde yaptığı sigortaya karşılık prim alarak çalışan kimse
 ozellikler:
 - - isim

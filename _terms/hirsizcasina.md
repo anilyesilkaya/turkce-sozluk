@@ -5,7 +5,7 @@ slug: hirsizcasina
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hırsızca
+- hırsızca
 ozellikler:
 - - zarf
 ornekler:

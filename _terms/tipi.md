@@ -5,7 +5,7 @@ slug: tipi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kar fırtınası
+- kar fırtınası
 ozellikler:
 - - isim
 ornekler:

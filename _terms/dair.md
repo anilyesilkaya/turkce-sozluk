@@ -5,7 +5,7 @@ slug: dair
 letter: D
 lisan: Arapça dāʾir
 anlamlar:
-- ► üstüne
+- üstüne
 ozellikler:
 - - edat
 ornekler:

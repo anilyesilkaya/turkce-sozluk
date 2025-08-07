@@ -7,10 +7,10 @@ lisan: Türkçe
 anlamlar:
 - Ölçüsü alınmış, ölçülmüş
 - Belirli bir ölçüde olan; endazeli
-- ► dar (I)
+- dar (I)
 - Tutum ve davranışları uyumlu, dengeli olan; muvazeneli
 - Dikkatli, düşünerek
-- ► ılımlı
+- ılımlı
 - Belli bir ölçüye göre düzenlenmiş olan (manzume, düzyazı); vezinli, mevzun
 ozellikler:
 - - sıfat

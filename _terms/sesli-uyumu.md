@@ -5,7 +5,7 @@ slug: sesli-uyumu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ünlü uyumu
+- ünlü uyumu
 ozellikler:
 - - isim
   - dil bilgisi

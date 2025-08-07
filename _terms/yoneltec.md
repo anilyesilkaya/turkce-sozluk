@@ -5,7 +5,7 @@ slug: yoneltec
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► direksiyon
+- direksiyon
 - Bisikletin ön tekerlek maşası üstüne bağlanmış, iki elle kullanılan yön değiştirme aracı; gidon
 ozellikler:
 - - isim

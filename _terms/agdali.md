@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ağda kıvamına gelmiş
 - Bilinmeyen kelimelerden, anlaşılması güç sözlerden oluşan (deyiş)
-- ► karmaşık
+- karmaşık
 ozellikler:
 - - sıfat
 - - sıfat

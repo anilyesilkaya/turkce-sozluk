@@ -5,7 +5,7 @@ slug: hur-tesebbus
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özel sektör
+- özel sektör
 ozellikler:
 - - isim
   - ticaret

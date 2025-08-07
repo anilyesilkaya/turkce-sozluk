@@ -5,7 +5,7 @@ slug: yulgu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ustura
+- ustura
 ozellikler:
 - - isim
   - ağızlardan

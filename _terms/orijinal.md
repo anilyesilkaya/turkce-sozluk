@@ -5,9 +5,9 @@ slug: orijinal
 letter: O
 lisan: Fransızca original
 anlamlar:
-- ► özgün
+- özgün
 - Fabrikası tarafından yapılan, taklit olmayan (araç ve gereç)
-- ► otantik
+- otantik
 - Alışılagelenden daha değişik, şaşırtıcı nitelikte olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: gufteci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► söz yazarı
+- söz yazarı
 ozellikler:
 - - isim
 ornekler:

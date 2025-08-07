@@ -5,7 +5,7 @@ slug: dugmuk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düğüm
+- düğüm
 ozellikler:
 - - isim
 ornekler:

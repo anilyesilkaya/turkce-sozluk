@@ -5,7 +5,7 @@ slug: zemmetme
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► yerme
+- yerme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fak
 letter: F
 lisan: Arapça faḫḫ
 anlamlar:
-- ► tuzak
+- tuzak
 ozellikler:
 - - isim
   - eskimiş

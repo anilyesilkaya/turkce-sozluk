@@ -6,7 +6,7 @@ letter: N
 lisan: İtalyanca nota
 anlamlar:
 - Bir müzik sesini belirtmeye yarayan işaret
-- ► muhtıra
+- muhtıra
 ozellikler:
 - - isim
   - müzik

@@ -7,7 +7,7 @@ lisan: Fransızca majeur
 anlamlar:
 - Büyük, önemli olan
 - Bir makam, bir akort veya bir aralığın oluşma biçimi
-- ► büyük önerme
+- büyük önerme
 ozellikler:
 - - sıfat
 - - sıfat

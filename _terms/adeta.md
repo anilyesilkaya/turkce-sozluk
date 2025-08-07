@@ -5,7 +5,7 @@ slug: adeta
 letter: Â
 lisan: Arapça ʿādeten sözünden
 anlamlar:
-- ► neredeyse
+- neredeyse
 ozellikler:
 - - zarf
 ornekler:

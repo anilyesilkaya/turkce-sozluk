@@ -5,7 +5,7 @@ slug: cehil
 letter: C
 lisan: Arapça cehl
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 ozellikler:
 - - isim
   - eskimiş

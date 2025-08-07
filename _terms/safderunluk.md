@@ -5,7 +5,7 @@ slug: safderunluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saflık
+- saflık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kapik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köpek
+- köpek
 ozellikler:
 - - isim
   - ağızlardan

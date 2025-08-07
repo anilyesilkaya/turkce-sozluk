@@ -5,10 +5,10 @@ slug: azametli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ulu
-- ► gururlu
-- ► görkemli
-- ► kurumlu (II)
+- ulu
+- gururlu
+- görkemli
+- kurumlu (II)
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: alev-rengi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alev kırmızısı
+- alev kırmızısı
 - Bu renkte olan
 ozellikler:
 - - isim

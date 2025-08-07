@@ -5,7 +5,7 @@ slug: almanak
 letter: A
 lisan: Fransızca almanach
 anlamlar:
-- ► yıllık
+- yıllık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mutemerkiz
 letter: M
 lisan: Arapça mutemerkiz
 anlamlar:
-- ► derişik
+- derişik
 ozellikler:
 - - sıfat
   - eskimiş

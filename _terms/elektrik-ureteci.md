@@ -5,7 +5,7 @@ slug: elektrik-ureteci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► üreteç
+- üreteç
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yolak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► patika
+- patika
 ozellikler:
 - - isim
   - ağızlardan

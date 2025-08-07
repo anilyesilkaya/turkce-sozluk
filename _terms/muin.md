@@ -5,7 +5,7 @@ slug: muin
 letter: M
 lisan: Arapça muʿīn
 anlamlar:
-- ► yardımcı
+- yardımcı
 ozellikler:
 - - isim
   - eskimiş

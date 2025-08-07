@@ -5,7 +5,7 @@ slug: afazi
 letter: A
 lisan: Fransızca aphasie
 anlamlar:
-- ► söz yitimi
+- söz yitimi
 ozellikler:
 - - isim
   - tıp

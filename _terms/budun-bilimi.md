@@ -5,7 +5,7 @@ slug: budun-bilimi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ırk bilimi
+- ırk bilimi
 ozellikler:
 - - isim
 ornekler:

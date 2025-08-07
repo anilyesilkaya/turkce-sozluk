@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İnsafsız bir biçimde; insafsızcasına
-- ► gaddarca
+- gaddarca
 ozellikler:
 - - zarf
 - - zarf

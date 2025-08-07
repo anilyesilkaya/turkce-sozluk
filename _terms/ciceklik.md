@@ -5,7 +5,7 @@ slug: ciceklik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► vazo
+- vazo
 - Çiçek saksılarını koymaya veya çiçek yetiştirmeye ayrılmış yer
 - Eski evlerde süs eşyası konulan raflı duvar oyuğu
 - Çiçeğin üzerinde çanak, taç ve öteki organlarının bulunduğu parça

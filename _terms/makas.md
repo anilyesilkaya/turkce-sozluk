@@ -12,7 +12,7 @@ anlamlar:
 - Çatı ve köprülerde genellikle ağaç veya çelikten yapılan, ağırlığı karşılıklı iki ayağa veya duvara aktaran çatılmış kiriş sistemi
 - Mobilyalarda yukarıdan aşağıya doğru açılan kapakları yatay konumda tutmak amacıyla yapılmış mafsallı, kollu kapak aracı
 - Çalma, kırpma
-- ► dirsek
+- dirsek
 - Üst uçları birbirine bağlı, alt uçları açık olan iki direkten kurulmuş, ağırlık kaldırma düzeni
 - Bazı eklem bacaklı hayvanların ön ayaklarında bulunan, savunma ve saldırmada kullanılan kıskaç
 - Su topunda iki ayağın teker teker yarım daire biçiminde çevrilmesiyle yapılan bir hareket

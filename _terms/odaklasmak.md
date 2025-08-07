@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Bir ışık demeti veya elektron akışı bir noktada toplanmak
-- ► odaklanmak
+- odaklanmak
 - Odak durumuna gelmek
 ozellikler:
 - - -e

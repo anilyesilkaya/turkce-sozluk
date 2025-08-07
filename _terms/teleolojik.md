@@ -5,7 +5,7 @@ slug: teleolojik
 letter: T
 lisan: Fransızca téléologique
 anlamlar:
-- ► erek bilimsel
+- erek bilimsel
 ozellikler:
 - - sıfat
   - felsefe

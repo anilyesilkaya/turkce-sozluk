@@ -5,7 +5,7 @@ slug: potasyum-nitrat
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► güherçile
+- güherçile
 ozellikler:
 - - isim
   - kimya

@@ -5,9 +5,9 @@ slug: argit
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geçit
+- geçit
 - Keklik tutmakta kullanılan, tahtadan kapanların yan taraflarına bağlanan ağaç parça
-- ► arkıt
+- arkıt
 ozellikler:
 - - isim
   - ağızlardan

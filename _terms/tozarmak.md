@@ -5,7 +5,7 @@ slug: tozarmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tozlaşmak
+- tozlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

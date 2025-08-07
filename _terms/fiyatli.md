@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Fiyatı olan
-- ► pahalı
+- pahalı
 ozellikler:
 - - sıfat
 - - sıfat

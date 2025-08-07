@@ -5,7 +5,7 @@ slug: tedric
 letter: T
 lisan: Arapça tedrīc
 anlamlar:
-- ► kerteleme
+- kerteleme
 ozellikler:
 - - isim
   - eskimiş

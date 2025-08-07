@@ -5,8 +5,8 @@ slug: boru-cicegi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çan çiçeği
-- ► tatula
+- çan çiçeği
+- tatula
 ozellikler:
 - - isim
   - bitki bilimi

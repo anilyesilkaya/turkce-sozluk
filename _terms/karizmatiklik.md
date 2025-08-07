@@ -5,7 +5,7 @@ slug: karizmatiklik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► etkileyicilik
+- etkileyicilik
 ozellikler:
 - - isim
 ornekler:

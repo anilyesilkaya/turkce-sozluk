@@ -5,7 +5,7 @@ slug: basrejisorluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başyönetmenlik
+- başyönetmenlik
 ozellikler:
 - - isim
 ornekler:

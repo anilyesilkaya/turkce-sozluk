@@ -5,7 +5,7 @@ slug: muvafik
 letter: M
 lisan: Arapça muvāfiḳ
 anlamlar:
-- ► uygun
+- uygun
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,8 +5,8 @@ slug: mistik
 letter: M
 lisan: Fransızca mystique
 anlamlar:
-- ► gizemci
-- ► gizemsel
+- gizemci
+- gizemsel
 ozellikler:
 - - sıfat
   - felsefe

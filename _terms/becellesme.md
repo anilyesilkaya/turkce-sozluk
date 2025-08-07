@@ -5,7 +5,7 @@ slug: becellesme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► cedelleşme
+- cedelleşme
 ozellikler:
 - - isim
 ornekler:

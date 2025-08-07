@@ -5,7 +5,7 @@ slug: postmature
 letter: P
 lisan: Fransızca postmaturé
 anlamlar:
-- ► geçdoğan
+- geçdoğan
 ozellikler:
 - - isim
   - tıp

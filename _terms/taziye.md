@@ -5,7 +5,7 @@ slug: taziye
 letter: T
 lisan: Arapça taʿziye
 anlamlar:
-- ► başsağlığı
+- başsağlığı
 ozellikler:
 - - isim
 ornekler:

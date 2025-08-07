@@ -5,7 +5,7 @@ slug: kahve-agabeyi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kahve ağası
+- kahve ağası
 ozellikler:
 - - isim
 ornekler:

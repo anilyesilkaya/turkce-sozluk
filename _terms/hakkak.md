@@ -5,7 +5,7 @@ slug: hakkak
 letter: H
 lisan: Arapça ḥakkāk
 anlamlar:
-- ► kakmacı
+- kakmacı
 ozellikler:
 - - isim
   - eskimiş

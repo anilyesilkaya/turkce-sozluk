@@ -5,7 +5,7 @@ slug: firdolayi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► çepeçevre
+- çepeçevre
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: nispet
 letter: N
 lisan: Arapça nisbet
 anlamlar:
-- ► oran
+- oran
 - Bağıntı, ilgi, ilinti
 - Kıskandırmak veya üzmek için
 - Birini üzmek için veya inat olsun diye yapılan iş

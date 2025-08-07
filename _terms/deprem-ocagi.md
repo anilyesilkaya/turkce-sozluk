@@ -5,7 +5,7 @@ slug: deprem-ocagi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► deprem merkezi
+- deprem merkezi
 ozellikler:
 - - isim
   - coğrafya

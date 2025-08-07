@@ -5,7 +5,7 @@ slug: brosur
 letter: B
 lisan: Fransızca brochure
 anlamlar:
-- ► kitapçık
+- kitapçık
 ozellikler:
 - - isim
 ornekler:

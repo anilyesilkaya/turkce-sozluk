@@ -5,7 +5,7 @@ slug: teksir
 letter: T
 lisan: Arapça teks̱īr
 anlamlar:
-- ► çoğaltma
+- çoğaltma
 ozellikler:
 - - isim
 ornekler:

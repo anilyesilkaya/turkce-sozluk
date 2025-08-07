@@ -5,7 +5,7 @@ slug: bereketlenmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çoğalmak
+- çoğalmak
 ozellikler:
 - - nesnesiz
 ornekler:

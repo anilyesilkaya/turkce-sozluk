@@ -5,7 +5,7 @@ slug: sayi-levhasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sayı göstergesi
+- sayı göstergesi
 ozellikler:
 - - isim
 ornekler:

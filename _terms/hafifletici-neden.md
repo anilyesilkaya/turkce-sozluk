@@ -5,7 +5,7 @@ slug: hafifletici-neden
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hafifletici sebep
+- hafifletici sebep
 ozellikler:
 - - isim
   - hukuk

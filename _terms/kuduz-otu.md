@@ -5,7 +5,7 @@ slug: kuduz-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► deli otu
+- deli otu
 ozellikler:
 - - isim
   - bitki bilimi

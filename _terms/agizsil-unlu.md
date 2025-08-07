@@ -5,7 +5,7 @@ slug: agizsil-unlu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağız ünlüsü
+- ağız ünlüsü
 ozellikler:
 - - isim
   - dil bilgisi

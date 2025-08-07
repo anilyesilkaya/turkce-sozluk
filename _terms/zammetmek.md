@@ -5,7 +5,7 @@ slug: zammetmek
 letter: Z
 lisan: Arapça żamm + Türkçe etmek
 anlamlar:
-- ► katmak
+- katmak
 ozellikler:
 - - -i
   - eskimiş

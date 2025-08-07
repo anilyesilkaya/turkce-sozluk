@@ -5,7 +5,7 @@ slug: kalp-aksesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalp krizi
+- kalp krizi
 ozellikler:
 - - isim
   - tıp

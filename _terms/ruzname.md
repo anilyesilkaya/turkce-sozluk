@@ -6,9 +6,9 @@ letter: R
 lisan: Farsça rūz + nāme
 anlamlar:
 - Günlük olayların yazıldığı defter
-- ► gündem
+- gündem
 - Olayların zaman sırasına göre yazılmış bulunduğu defter
-- ► ruznamçe
+- ruznamçe
 ozellikler:
 - - isim
   - eskimiş

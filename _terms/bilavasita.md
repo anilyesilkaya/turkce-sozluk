@@ -5,9 +5,9 @@ slug: bilavasita
 letter: B
 lisan: Arapça bilāvāsiṭa
 anlamlar:
-- ► araçsız
-- ► dolaysız
-- ► aracısız
+- araçsız
+- dolaysız
+- aracısız
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: hatira-defteri
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anı defteri
+- anı defteri
 ozellikler:
 - - isim
 ornekler:

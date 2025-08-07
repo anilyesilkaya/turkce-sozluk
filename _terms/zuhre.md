@@ -5,7 +5,7 @@ slug: zuhre
 letter: Z
 lisan: Arapça zuhre
 anlamlar:
-- ► Çoban Yıldızı
+- Çoban Yıldızı
 ozellikler:
 - - isim
   - gök bilimi

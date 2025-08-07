@@ -5,7 +5,7 @@ slug: tekefful
 letter: T
 lisan: Arapça tekefful
 anlamlar:
-- ► yükümlenme
+- yükümlenme
 - Kefil olma
 ozellikler:
 - - isim

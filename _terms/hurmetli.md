@@ -5,7 +5,7 @@ slug: hurmetli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygılı
+- saygılı
 - Oldukça büyük
 ozellikler:
 - - sıfat

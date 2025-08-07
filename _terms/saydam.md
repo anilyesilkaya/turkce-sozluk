@@ -5,7 +5,7 @@ slug: saydam
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► şeffaf
+- şeffaf
 - Açık seçik, belirgin olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: yuzde-yuz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 - Tam olarak
 ozellikler:
 - - zarf

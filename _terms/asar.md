@@ -5,8 +5,8 @@ slug: asar
 letter: A
 lisan: Arapça aʿşār
 anlamlar:
-- ► öşür
-- ► ondalık
+- öşür
+- ondalık
 ozellikler:
 - - isim
   - tarih

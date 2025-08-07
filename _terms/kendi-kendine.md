@@ -7,10 +7,10 @@ lisan: Türkçe
 anlamlar:
 - Kimseye danışmaksızın
 - Kimseyle ilgisi, ilişkisi olmadan
-- ► tek başına
+- tek başına
 - Kendisine
 - Başkasının yardımı ve ortaklığı olmadan
-- ► kendiliğinden
+- kendiliğinden
 ozellikler:
 - - zarf
 - - zarf

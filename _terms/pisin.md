@@ -5,7 +5,7 @@ slug: pisin
 letter: P
 lisan: Fransızca piscine
 anlamlar:
-- ► yüzme havuzu
+- yüzme havuzu
 ozellikler:
 - - isim
 ornekler:

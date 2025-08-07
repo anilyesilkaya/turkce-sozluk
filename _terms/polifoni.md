@@ -5,7 +5,7 @@ slug: polifoni
 letter: P
 lisan: Fransızca polyphonie
 anlamlar:
-- ► çok seslilik
+- çok seslilik
 ozellikler:
 - - isim
   - müzik

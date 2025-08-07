@@ -5,7 +5,7 @@ slug: irs
 letter: I
 lisan: Arapça irs̱
 anlamlar:
-- ► kalıtım
+- kalıtım
 ozellikler:
 - - isim
   - eskimiş

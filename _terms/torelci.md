@@ -5,7 +5,7 @@ slug: torelci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ahlakçı
+- ahlakçı
 ozellikler:
 - - sıfat
   - felsefe

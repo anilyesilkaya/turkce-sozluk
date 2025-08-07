@@ -5,7 +5,7 @@ slug: muamma
 letter: M
 lisan: Arapça muʿammā
 anlamlar:
-- ► bilmece
+- bilmece
 - Âşıklık geleneğinde manzum bilmece
 - Anlaşılmayan, bilinmeyen şey
 - Anlaşılmayan, bilinmeyen

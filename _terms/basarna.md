@@ -5,7 +5,7 @@ slug: basarna
 letter: B
 lisan: Rumca
 anlamlar:
-- ► kaldıraç
+- kaldıraç
 - Bir cismin bir yanını kaldıraçla yükseltme işi
 - Dalyanın kapak yeri
 ozellikler:

@@ -5,7 +5,7 @@ slug: gambot
 letter: G
 lisan: İngilizce gun-boat
 anlamlar:
-- ► topçeker
+- topçeker
 ozellikler:
 - - isim
   - askerlik

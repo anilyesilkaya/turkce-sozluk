@@ -5,7 +5,7 @@ slug: monist
 letter: M
 lisan: Fransızca moniste
 anlamlar:
-- ► tekçi
+- tekçi
 ozellikler:
 - - sıfat
   - felsefe

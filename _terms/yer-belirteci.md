@@ -5,7 +5,7 @@ slug: yer-belirteci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yer zarfı
+- yer zarfı
 ozellikler:
 - - isim
   - dil bilgisi

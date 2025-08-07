@@ -5,7 +5,7 @@ slug: ad-aktarmasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► mecazımürsel
+- mecazımürsel
 ozellikler:
 - - isim
   - edebiyat

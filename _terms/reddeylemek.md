@@ -5,7 +5,7 @@ slug: reddeylemek
 letter: R
 lisan: Arapça redd + Türkçe eylemek
 anlamlar:
-- ► reddetmek
+- reddetmek
 ozellikler:
 - - -i
 ornekler:

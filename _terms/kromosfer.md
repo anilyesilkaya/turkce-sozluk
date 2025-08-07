@@ -5,7 +5,7 @@ slug: kromosfer
 letter: K
 lisan: Fransızca chromosphère
 anlamlar:
-- ► renk yuvarı
+- renk yuvarı
 ozellikler:
 - - isim
   - gök bilimi

@@ -5,7 +5,7 @@ slug: lop-et
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lop et
+- lop et
 ozellikler:
 - - isim
 ornekler:

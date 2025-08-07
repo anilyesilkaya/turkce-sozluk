@@ -5,7 +5,7 @@ slug: kasaba-kurnazligi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köylü kurnazlığı
+- köylü kurnazlığı
 ozellikler:
 - - isim
   - mecaz

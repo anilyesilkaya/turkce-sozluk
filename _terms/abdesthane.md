@@ -5,7 +5,7 @@ slug: abdesthane
 letter: A
 lisan: Farsça āb + dest + ḫāne
 anlamlar:
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
 ornekler:

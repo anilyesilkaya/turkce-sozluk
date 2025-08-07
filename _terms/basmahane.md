@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe basma + Farsça ḫāne
 anlamlar:
 - Basma adı verilen pamuklu dokumanın üzerine desen basılan yer
-- ► basımevi
+- basımevi
 ozellikler:
 - - isim
 - - isim

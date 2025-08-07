@@ -5,7 +5,7 @@ slug: zendost
 letter: Z
 lisan: Farsça zen + dost
 anlamlar:
-- ► zampara
+- zampara
 ozellikler:
 - - sıfat
   - eskimiş

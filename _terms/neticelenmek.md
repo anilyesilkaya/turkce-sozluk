@@ -5,7 +5,7 @@ slug: neticelenmek
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonuçlanmak
+- sonuçlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: salkim-bombasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► misket bombası
+- misket bombası
 ozellikler:
 - - isim
 ornekler:

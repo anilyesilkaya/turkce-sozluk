@@ -5,7 +5,7 @@ slug: ihbar-tazminati
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bildirim ödencesi
+- bildirim ödencesi
 ozellikler:
 - - isim
   - ticaret

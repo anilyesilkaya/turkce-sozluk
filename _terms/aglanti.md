@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Hafif hafif ağlama
-- ► şikâyet
+- şikâyet
 ozellikler:
 - - isim
 - - isim

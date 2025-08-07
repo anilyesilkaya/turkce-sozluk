@@ -5,7 +5,7 @@ slug: amorfluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► biçimsizlik
+- biçimsizlik
 ozellikler:
 - - isim
 ornekler:

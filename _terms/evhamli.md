@@ -5,7 +5,7 @@ slug: evhamli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kuruntulu
+- kuruntulu
 ozellikler:
 - - sıfat
 ornekler:

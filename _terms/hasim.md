@@ -5,7 +5,7 @@ slug: hasim
 letter: H
 lisan: Arapça ḫaṣm
 anlamlar:
-- ► düşman
+- düşman
 - Bir oyun, dava veya yarışta karşı taraf
 ozellikler:
 - - isim

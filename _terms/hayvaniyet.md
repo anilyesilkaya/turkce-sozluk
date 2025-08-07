@@ -5,7 +5,7 @@ slug: hayvaniyet
 letter: H
 lisan: Arapça ḥayvāniyyet
 anlamlar:
-- ► hayvanlık
+- hayvanlık
 ozellikler:
 - - isim
   - eskimiş

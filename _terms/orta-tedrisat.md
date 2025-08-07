@@ -5,7 +5,7 @@ slug: orta-tedrisat
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► ortaöğretim
+- ortaöğretim
 ozellikler:
 - - isim
   - eskimiş

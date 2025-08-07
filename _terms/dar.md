@@ -5,7 +5,7 @@ slug: dar
 letter: D
 lisan: Arapça dār
 anlamlar:
-- ► yurt
+- yurt
 ozellikler:
 - - isim
   - eskimiş

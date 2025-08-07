@@ -5,7 +5,7 @@ slug: zaman-asimi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► süre aşımı
+- süre aşımı
 ozellikler:
 - - isim
   - hukuk

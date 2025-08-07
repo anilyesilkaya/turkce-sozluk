@@ -5,7 +5,7 @@ slug: bengi-su
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► abıhayat
+- abıhayat
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Çekinip korkmadan kendini tehlike veya güçlüklere atan; acar
-- ► girişken
+- girişken
 ozellikler:
 - - sıfat
 - - sıfat

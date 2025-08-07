@@ -5,7 +5,7 @@ slug: hemsehri
 letter: H
 lisan: Farsça hemşehrī
 anlamlar:
-- ► memleketli
+- memleketli
 ozellikler:
 - - isim
 ornekler:

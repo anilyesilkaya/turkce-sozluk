@@ -5,7 +5,7 @@ slug: fusunkar
 letter: F
 lisan: Farsça fusūnkār
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
   - eskimiş

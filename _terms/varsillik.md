@@ -5,7 +5,7 @@ slug: varsillik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► zenginlik
+- zenginlik
 ozellikler:
 - - isim
 ornekler:

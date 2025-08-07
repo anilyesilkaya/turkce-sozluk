@@ -5,7 +5,7 @@ slug: yer-sarsintisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► deprem
+- deprem
 ozellikler:
 - - isim
   - coğrafya

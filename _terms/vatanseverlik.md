@@ -5,7 +5,7 @@ slug: vatanseverlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yurtseverlik
+- yurtseverlik
 ozellikler:
 - - isim
 ornekler:

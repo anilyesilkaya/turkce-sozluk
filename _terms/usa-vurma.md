@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Usa vurmak işi; uslamlama, muhakeme
-- ► anlık (II)
+- anlık (II)
 ozellikler:
 - - isim
   - felsefe

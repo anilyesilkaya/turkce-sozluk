@@ -5,7 +5,7 @@ slug: halsiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► takatsiz
+- takatsiz
 - Takatsiz bir biçimde
 ozellikler:
 - - sıfat

@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça feẕleke
 anlamlar:
 - Bir kararın kısaca yazılması
-- ► özet
+- özet
 ozellikler:
 - - isim
 - - isim

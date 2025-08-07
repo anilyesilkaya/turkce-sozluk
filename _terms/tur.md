@@ -9,7 +9,7 @@ anlamlar:
 - Ortak özellikleri olan bireylerin tamamı, cinslerin ayrıldığı bölüm; zümre, janr
 - Kendi içinde bir birim olan ve üzerinde cins kavramının bulunduğu mantıksal kavram
 - Eserlerin biçim ve içerik yönüyle ayrıldıkları bölümlerden her biri
-- ► türlü
+- türlü
 ozellikler:
 - - isim
 - - isim

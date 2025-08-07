@@ -5,7 +5,7 @@ slug: jenosit
 letter: J
 lisan: Fransızca génocide
 anlamlar:
-- ► soykırım
+- soykırım
 ozellikler:
 - - isim
   - toplum bilimi

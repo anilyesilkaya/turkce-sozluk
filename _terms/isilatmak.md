@@ -5,7 +5,7 @@ slug: isilatmak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışıldatmak
+- ışıldatmak
 ozellikler:
 - - -i
 ornekler:

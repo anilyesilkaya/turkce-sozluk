@@ -5,7 +5,7 @@ slug: kamillik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► olgunluk
+- olgunluk
 ozellikler:
 - - isim
 ornekler:

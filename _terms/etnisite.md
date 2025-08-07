@@ -5,7 +5,7 @@ slug: etnisite
 letter: E
 lisan: Fransızca ethnicité
 anlamlar:
-- ► etniklik
+- etniklik
 ozellikler:
 - - isim
   - toplum bilimi

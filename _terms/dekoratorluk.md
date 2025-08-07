@@ -5,7 +5,7 @@ slug: dekoratorluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç mimarlık
+- iç mimarlık
 ozellikler:
 - - isim
 ornekler:

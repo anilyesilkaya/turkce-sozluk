@@ -8,9 +8,9 @@ anlamlar:
 - Örme işi veya biçimi
 - Tığ, şiş veya özel makineyle ilmiklerin yan yana getirilmesiyle örülerek yapılmış şey
 - Dokumacılıkta atkı ve çözgü ipliklerinin, dokumayı oluşturacak biçimde belli bir desene göre kesişmesi
-- ► belik
-- ► ağ (I)
-- ► yapı
+- belik
+- ağ (I)
+- yapı
 - Her türlü eylem ve olaydan oluşan akış
 - Örülerek yapılan; örme
 - Bazı sinir veya damarların birbirine geçip dolaşmasından ortaya çıkan oluşum

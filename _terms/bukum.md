@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bükmek işi
-- ► kıvrım
+- kıvrım
 - Bir kerede eğrilmiş iplik, yün miktarı
 - Dil bilgisi görevi veya yapısı gereği kelime kökünün başında, içinde veya sonunda türlü değişikliklerin olması; insiraf
 ozellikler:

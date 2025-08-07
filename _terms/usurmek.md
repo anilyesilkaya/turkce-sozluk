@@ -5,7 +5,7 @@ slug: usurmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► saldırtmak
+- saldırtmak
 ozellikler:
 - - -e
   - -i

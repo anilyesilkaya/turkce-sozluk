@@ -5,7 +5,7 @@ slug: dayatisma
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► inatlaşma
+- inatlaşma
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı
 - Çapalamak işi
-- ► çıpa
+- çıpa
 ozellikler:
 - - isim
 - - isim

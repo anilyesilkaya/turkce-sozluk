@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Üzerinde girinti ve çıkıntı olmayan
 - Üzerine, kesişen iki doğrunun her noktasının dokunması gereken yüzey; müstevi
-- ► ortam
+- ortam
 ozellikler:
 - - sıfat
 - - sıfat

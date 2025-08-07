@@ -5,8 +5,8 @@ slug: usuldan
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► usul (III)
-- ► yavaşça
+- usul (III)
+- yavaşça
 ozellikler:
 - - zarf
 - - zarf

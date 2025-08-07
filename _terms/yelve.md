@@ -5,7 +5,7 @@ slug: yelve
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► florya
+- florya
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: hengame
 letter: H
 lisan: Farsça hengāme
 anlamlar:
-- ► gürültü patırtı
+- gürültü patırtı
 ozellikler:
 - - isim
 ornekler:

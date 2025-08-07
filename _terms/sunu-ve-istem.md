@@ -5,7 +5,7 @@ slug: sunu-ve-istem
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► arz talep
+- arz talep
 ozellikler:
 - - isim
   - ekonomi

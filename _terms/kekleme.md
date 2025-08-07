@@ -5,7 +5,7 @@ slug: kekleme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kandırma
+- kandırma
 ozellikler:
 - - isim
 ornekler:

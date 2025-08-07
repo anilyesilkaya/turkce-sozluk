@@ -5,7 +5,7 @@ slug: cigirtma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çağırtma
+- çağırtma
 - Basit, küçük, kamış veya ağaçtan yapılmış, düdük şeklinde nefesli bir çalgı
 ozellikler:
 - - isim

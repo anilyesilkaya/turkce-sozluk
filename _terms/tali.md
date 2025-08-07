@@ -5,7 +5,7 @@ slug: tali
 letter: T
 lisan: Arapça tālī
 anlamlar:
-- ► ikincil
+- ikincil
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: akil-balig
 letter: A
 lisan: Arapça ʿāḳil + bāliġ
 anlamlar:
-- ► ergen
+- ergen
 ozellikler:
 - - sıfat
 ornekler:

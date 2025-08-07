@@ -5,7 +5,7 @@ slug: ibraname
 letter: I
 lisan: Arapça ibrāʾ + Farsça nāme
 anlamlar:
-- ► aklama belgesi
+- aklama belgesi
 ozellikler:
 - - isim
   - hukuk

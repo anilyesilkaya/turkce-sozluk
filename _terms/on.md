@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyin esas tutulan yüzü; uğur (III), arka karşıtı
-- ► karşı
+- karşı
 - Bir kimsenin ilerisi
 - Yakın gelecek zaman
 - Giyeceklerin genellikle göğsü örten bölümü

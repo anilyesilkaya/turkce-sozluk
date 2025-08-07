@@ -5,7 +5,7 @@ slug: cumbus
 letter: C
 lisan: Farsça cunbiş
 anlamlar:
-- ► eğlence
+- eğlence
 - Aşırı coşku
 - Maden gövdeli, tambura benzer bir saz
 - Gürültü patırtısı olan

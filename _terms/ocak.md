@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Ateş yakmaya yarayan, pişirme, ısıtma, ısınma vb. amaçlarla kullanılan yer; ocaklık
-- ► şömine
+- şömine
 - Isı vererek üzerine veya içine konulan maddeleri ısıtan, pişiren, kaynatan, eriten araç veya alet
 - Kahvelerde, kuruluşlarda çay, kahve vb.nin yapıldığı yer
 - Yer üstünde veya yer altında cevher çıkarılan yer

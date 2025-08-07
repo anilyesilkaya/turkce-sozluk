@@ -5,7 +5,7 @@ slug: vazgelmek
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vazgeçmek
+- vazgeçmek
 ozellikler:
 - - -den
   - ağızlardan

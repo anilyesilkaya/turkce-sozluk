@@ -5,7 +5,7 @@ slug: kitabe
 letter: K
 lisan: Arapça kitābe
 anlamlar:
-- ► yazıt
+- yazıt
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: alim-calim
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çalım
+- çalım
 ozellikler:
 - - isim
 ornekler:

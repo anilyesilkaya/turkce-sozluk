@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Güçlü bir biçimde deşmek, karıştırmak
-- ► araştırmak
+- araştırmak
 ozellikler:
 - - -i
 - - -i

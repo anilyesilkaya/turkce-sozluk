@@ -5,7 +5,7 @@ slug: yaban-feslegeni
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yer fesleğeni
+- yer fesleğeni
 ozellikler:
 - - isim
   - bitki bilimi

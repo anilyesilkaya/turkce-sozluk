@@ -5,7 +5,7 @@ slug: suursuzluk
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçsizlik
+- bilinçsizlik
 ozellikler:
 - - isim
   - ruh bilimi

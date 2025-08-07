@@ -5,7 +5,7 @@ slug: haymatlos
 letter: H
 lisan: Almanca heimatlos
 anlamlar:
-- ► vatansız
+- vatansız
 ozellikler:
 - - sıfat
   - hukuk

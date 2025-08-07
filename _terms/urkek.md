@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok ürken, korkuya çabuk kapılan; ürkekçe
-- ► çekingen
+- çekingen
 ozellikler:
 - - sıfat
 - - sıfat

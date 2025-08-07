@@ -5,7 +5,7 @@ slug: sembollestirilmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► simgeleştirilmek
+- simgeleştirilmek
 ozellikler:
 - - nesnesiz
 ornekler:

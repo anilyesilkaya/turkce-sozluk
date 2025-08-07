@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İkizleri olan (ana)
 - İki kollu (araç)
-- ► ikiz anlamlı
+- ikiz anlamlı
 ozellikler:
 - - sıfat
 - - sıfat

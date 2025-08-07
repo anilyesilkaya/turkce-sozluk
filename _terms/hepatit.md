@@ -5,7 +5,7 @@ slug: hepatit
 letter: H
 lisan: Fransızca hépatite
 anlamlar:
-- ► sarılık
+- sarılık
 ozellikler:
 - - isim
   - tıp

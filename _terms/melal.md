@@ -5,7 +5,7 @@ slug: melal
 letter: M
 lisan: Arapça melāl
 anlamlar:
-- ► usanç
+- usanç
 - Üzüntü, hüzün, dert
 ozellikler:
 - - isim

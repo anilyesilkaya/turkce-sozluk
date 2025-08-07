@@ -5,7 +5,7 @@ slug: vasati
 letter: V
 lisan: Arapça vasaṭī
 anlamlar:
-- ► ortalama
+- ortalama
 ozellikler:
 - - sıfat
   - eskimiş

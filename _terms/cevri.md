@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir söz veya davranışı görünür anlamından başka bir anlamda kabul etme; tevil
-- ► girdap
+- girdap
 ozellikler:
 - - isim
 - - isim

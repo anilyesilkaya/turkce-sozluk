@@ -5,7 +5,7 @@ slug: kaya-lifi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► asbest
+- asbest
 ozellikler:
 - - isim
   - mineraloji

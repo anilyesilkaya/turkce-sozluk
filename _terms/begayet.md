@@ -5,7 +5,7 @@ slug: begayet
 letter: B
 lisan: Farsça be + Arapça ġāyet
 anlamlar:
-- ► son derece
+- son derece
 ozellikler:
 - - zarf
   - eskimiş

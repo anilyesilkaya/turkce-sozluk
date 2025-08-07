@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça murābaḥa
 anlamlar:
 - Bir malı üzerine kâr koyarak satma
-- ► tefecilik
+- tefecilik
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: hiciv
 letter: H
 lisan: Arapça hecv
 anlamlar:
-- ► yergi
+- yergi
 ozellikler:
 - - isim
   - edebiyat

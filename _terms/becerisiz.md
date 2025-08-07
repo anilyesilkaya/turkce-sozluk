@@ -5,7 +5,7 @@ slug: becerisiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beceriksiz
+- beceriksiz
 ozellikler:
 - - sıfat
 ornekler:

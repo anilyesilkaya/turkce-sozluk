@@ -5,7 +5,7 @@ slug: bassehir
 letter: B
 lisan: Türkçe baş + Farsça şehr
 anlamlar:
-- ► başkent
+- başkent
 ozellikler:
 - - isim
 ornekler:

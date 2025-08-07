@@ -5,7 +5,7 @@ slug: hasetlenme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kıskanma
+- kıskanma
 ozellikler:
 - - isim
 ornekler:

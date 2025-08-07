@@ -5,7 +5,7 @@ slug: icerlemek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gücenmek
+- gücenmek
 - İçin için öfkelenmek
 ozellikler:
 - - -e

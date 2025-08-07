@@ -5,7 +5,7 @@ slug: ignedan
 letter: I
 lisan: Türkçe iğne + Farsça -dān
 anlamlar:
-- ► iğnelik
+- iğnelik
 ozellikler:
 - - isim
 ornekler:

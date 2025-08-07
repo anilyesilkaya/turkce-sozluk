@@ -5,7 +5,7 @@ slug: sepet-topu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► basketbol
+- basketbol
 ozellikler:
 - - isim
   - spor

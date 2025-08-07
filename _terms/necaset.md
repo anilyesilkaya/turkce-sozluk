@@ -5,8 +5,8 @@ slug: necaset
 letter: N
 lisan: Arapça necāset
 anlamlar:
-- ► kirlilik
-- ► dışkı
+- kirlilik
+- dışkı
 ozellikler:
 - - isim
   - eskimiş

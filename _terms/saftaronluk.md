@@ -5,7 +5,7 @@ slug: saftaronluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saftiriklik
+- saftiriklik
 ozellikler:
 - - isim
 ornekler:

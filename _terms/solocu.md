@@ -5,7 +5,7 @@ slug: solocu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► solist
+- solist
 ozellikler:
 - - isim
   - müzik

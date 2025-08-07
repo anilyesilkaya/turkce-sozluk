@@ -5,7 +5,7 @@ slug: kesp
 letter: K
 lisan: Arapça kesb
 anlamlar:
-- ► kazanma
+- kazanma
 ozellikler:
 - - isim
   - eskimiş

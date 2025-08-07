@@ -5,7 +5,7 @@ slug: hirtapoz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► zıpır
+- zıpır
 ozellikler:
 - - sıfat
   - argo

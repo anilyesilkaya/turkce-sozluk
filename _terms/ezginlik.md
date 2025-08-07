@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ezgin olma durumu
 - Açlık duygusunu andıran bir tedirginlik
-- ► sıkıntı
+- sıkıntı
 ozellikler:
 - - isim
 - - isim

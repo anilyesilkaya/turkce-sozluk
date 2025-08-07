@@ -5,7 +5,7 @@ slug: sistematik
 letter: S
 lisan: Fransızca systématique
 anlamlar:
-- ► sistemli
+- sistemli
 ozellikler:
 - - sıfat
 ornekler:

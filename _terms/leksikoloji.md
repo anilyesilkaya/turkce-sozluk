@@ -5,7 +5,7 @@ slug: leksikoloji
 letter: L
 lisan: Fransızca lexicologie
 anlamlar:
-- ► sözcük bilimi
+- sözcük bilimi
 ozellikler:
 - - isim
 ornekler:

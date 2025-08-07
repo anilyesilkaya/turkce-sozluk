@@ -5,7 +5,7 @@ slug: yuzeylestirmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüzeyselleştirmek
+- yüzeyselleştirmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: abidelestirmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anıtlaştırmak
+- anıtlaştırmak
 ozellikler:
 - - -i
 ornekler:

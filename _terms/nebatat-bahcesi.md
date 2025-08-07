@@ -5,7 +5,7 @@ slug: nebatat-bahcesi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► botanik bahçesi
+- botanik bahçesi
 ozellikler:
 - - isim
 ornekler:

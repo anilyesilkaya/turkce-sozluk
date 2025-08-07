@@ -5,7 +5,7 @@ slug: bilegili
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bileyli
+- bileyli
 ozellikler:
 - - sıfat
 ornekler:

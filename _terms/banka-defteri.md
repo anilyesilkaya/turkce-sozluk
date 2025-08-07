@@ -5,7 +5,7 @@ slug: banka-defteri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► banka cüzdanı
+- banka cüzdanı
 ozellikler:
 - - isim
 ornekler:

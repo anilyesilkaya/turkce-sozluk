@@ -5,7 +5,7 @@ slug: ankiloz
 letter: A
 lisan: Fransızca ankylose
 anlamlar:
-- ► eklem kaynaşması
+- eklem kaynaşması
 ozellikler:
 - - isim
   - tıp

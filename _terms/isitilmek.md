@@ -5,7 +5,7 @@ slug: isitilmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► duyulmak
+- duyulmak
 ozellikler:
 - - nesnesiz
 ornekler:

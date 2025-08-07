@@ -5,7 +5,7 @@ slug: dunyasal
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dünyevi
+- dünyevi
 ozellikler:
 - - sıfat
   - felsefe

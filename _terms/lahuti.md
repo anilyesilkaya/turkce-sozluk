@@ -5,7 +5,7 @@ slug: lahuti
 letter: L
 lisan: Arapça lāhūtī
 anlamlar:
-- ► ilahi (I)
+- ilahi (I)
 ozellikler:
 - - sıfat
   - eskimiş

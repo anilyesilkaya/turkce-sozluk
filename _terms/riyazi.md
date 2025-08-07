@@ -5,7 +5,7 @@ slug: riyazi
 letter: R
 lisan: Arapça riyāżī
 anlamlar:
-- ► matematiksel
+- matematiksel
 ozellikler:
 - - sıfat
   - eskimiş

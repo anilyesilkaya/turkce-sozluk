@@ -5,7 +5,7 @@ slug: toplumsal-bagisiklik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kitle bağışıklığı
+- kitle bağışıklığı
 ozellikler:
 - - isim
   - tıp

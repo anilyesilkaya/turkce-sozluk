@@ -5,7 +5,7 @@ slug: koyun-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızılyaprak
+- kızılyaprak
 ozellikler:
 - - isim
   - bitki bilimi

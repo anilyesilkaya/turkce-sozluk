@@ -5,7 +5,7 @@ slug: siga
 letter: S
 lisan: Arapça ṣįġa
 anlamlar:
-- ► fiil çekimi
+- fiil çekimi
 ozellikler:
 - - eskimiş
   - dil bilgisi

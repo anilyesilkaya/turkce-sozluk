@@ -5,7 +5,7 @@ slug: osteoporoz
 letter: O
 lisan: Fransızca ostéoporose
 anlamlar:
-- ► kemik erimesi
+- kemik erimesi
 ozellikler:
 - - isim
   - tıp

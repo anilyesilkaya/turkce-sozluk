@@ -5,7 +5,7 @@ slug: hislendirme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygulandırma
+- duygulandırma
 ozellikler:
 - - isim
 ornekler:

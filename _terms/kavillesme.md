@@ -5,7 +5,7 @@ slug: kavillesme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sözleşme
+- sözleşme
 ozellikler:
 - - isim
 ornekler:

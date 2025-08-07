@@ -5,7 +5,7 @@ slug: log-tasi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► loğ
+- loğ
 ozellikler:
 - - isim
 ornekler:

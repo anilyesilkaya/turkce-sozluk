@@ -5,7 +5,7 @@ slug: merkeziyet
 letter: M
 lisan: Arapça merkeziyyet
 anlamlar:
-- ► merkeziyetçilik
+- merkeziyetçilik
 ozellikler:
 - - isim
 ornekler:

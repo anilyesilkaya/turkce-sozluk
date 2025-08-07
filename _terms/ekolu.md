@@ -5,7 +5,7 @@ slug: ekolu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yankılı
+- yankılı
 ozellikler:
 - - sıfat
 ornekler:

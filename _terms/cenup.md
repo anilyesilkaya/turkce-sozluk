@@ -5,7 +5,7 @@ slug: cenup
 letter: C
 lisan: Arapça cenūb
 anlamlar:
-- ► Güney (I)
+- Güney (I)
 ozellikler:
 - - isim
 ornekler:

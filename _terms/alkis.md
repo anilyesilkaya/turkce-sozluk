@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin beğenildiğini, onaylandığını anlatmak için iki eli ses çıkaracak şekilde birbirine vurma hareketi
-- ► dua, kargış karşıtı
+- dua, kargış karşıtı
 - Beğenme, takdir etme
 - Padişah, sadrazam ve vezirlere bayramlarda, bazı törenlerde yüksek sesle yapılan dua
 ozellikler:

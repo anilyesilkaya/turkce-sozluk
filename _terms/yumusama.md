@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yumuşamak işi
 - Dünyada soğuk savaş döneminden sonra stratejik silahların geliştirilmesiyle başlayan siyasal gerginliğin ortadan kaldırılması siyaseti; detant
-- ► tonlulaşma
+- tonlulaşma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: provokator
 letter: P
 lisan: Fransızca provocateur
 anlamlar:
-- ► kışkırtıcı
+- kışkırtıcı
 ozellikler:
 - - sıfat
 ornekler:

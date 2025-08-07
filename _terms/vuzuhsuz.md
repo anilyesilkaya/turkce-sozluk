@@ -5,7 +5,7 @@ slug: vuzuhsuz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► belirsiz
+- belirsiz
 ozellikler:
 - - sıfat
 ornekler:

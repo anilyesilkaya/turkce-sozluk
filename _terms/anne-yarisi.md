@@ -5,7 +5,7 @@ slug: anne-yarisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► teyze
+- teyze
 ozellikler:
 - - isim
   - mecaz

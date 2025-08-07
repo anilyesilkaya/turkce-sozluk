@@ -5,7 +5,7 @@ slug: tevlit
 letter: T
 lisan: Arapça tevlīd
 anlamlar:
-- ► doğurma
+- doğurma
 - Sebep olma, oluşturma
 ozellikler:
 - - isim

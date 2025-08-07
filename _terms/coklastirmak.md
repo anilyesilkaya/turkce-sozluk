@@ -5,7 +5,7 @@ slug: coklastirmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çoğaltmak
+- çoğaltmak
 ozellikler:
 - - -i
 ornekler:

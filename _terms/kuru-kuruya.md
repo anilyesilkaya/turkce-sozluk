@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kuru olarak, yanında başka bir içecek veya yiyecek olmaksızın
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 - - zarf

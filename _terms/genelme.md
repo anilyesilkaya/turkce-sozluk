@@ -5,7 +5,7 @@ slug: genelme
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► genişleme
+- genişleme
 ozellikler:
 - - isim
 ornekler:

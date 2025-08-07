@@ -5,7 +5,7 @@ slug: transformator
 letter: T
 lisan: Fransızca transformateur
 anlamlar:
-- ► dönüştürücü
+- dönüştürücü
 ozellikler:
 - - isim
   - fizik

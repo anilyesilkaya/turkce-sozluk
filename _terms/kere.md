@@ -5,7 +5,7 @@ slug: kere
 letter: K
 lisan: Arapça kerre
 anlamlar:
-- ► kez
+- kez
 ozellikler:
 - - isim
 ornekler:

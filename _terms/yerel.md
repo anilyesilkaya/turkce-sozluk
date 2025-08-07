@@ -5,7 +5,7 @@ slug: yerel
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yöresel
+- yöresel
 - Gözlem yerine veya gözlemcinin bulunduğu yere göre tanımlanan
 - Sınırlı bir yerle ilgili olan; mevzii, lokal
 ozellikler:

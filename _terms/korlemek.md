@@ -5,7 +5,7 @@ slug: korlemek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► körletmek
+- körletmek
 - İsabet etmemek, atıp vuramamak
 ozellikler:
 - - -i

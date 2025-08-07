@@ -5,7 +5,7 @@ slug: kucukseme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küçümseme
+- küçümseme
 ozellikler:
 - - isim
 ornekler:

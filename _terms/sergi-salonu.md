@@ -5,7 +5,7 @@ slug: sergi-salonu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sergievi
+- sergievi
 - Yeni üretilmiş ürünlerin topluma tanıtılması ve satışa sunulması amacıyla sergilendiği yer
 ozellikler:
 - - isim

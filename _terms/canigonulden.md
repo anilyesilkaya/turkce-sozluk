@@ -5,7 +5,7 @@ slug: canigonulden
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► içtenlikle
+- içtenlikle
 - Çok isteyerek
 ozellikler:
 - - zarf

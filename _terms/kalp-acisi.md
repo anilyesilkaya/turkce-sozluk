@@ -5,7 +5,7 @@ slug: kalp-acisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yürek acısı
+- yürek acısı
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: canak-yalayici
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - sıfat
   - mecaz

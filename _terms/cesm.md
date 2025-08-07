@@ -5,7 +5,7 @@ slug: cesm
 letter: Ç
 lisan: Farsça çeşm
 anlamlar:
-- ► göz
+- göz
 ozellikler:
 - - isim
   - eskimiş

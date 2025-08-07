@@ -5,7 +5,7 @@ slug: katolunmak
 letter: K
 lisan: Arapça ḳaṭʿ + Türkçe olunmak
 anlamlar:
-- ► kesilmek
+- kesilmek
 ozellikler:
 - - -den
 ornekler:

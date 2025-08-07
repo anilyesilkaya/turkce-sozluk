@@ -5,7 +5,7 @@ slug: amerikan-salatasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Rus salatası
+- Rus salatası
 ozellikler:
 - - isim
 ornekler:

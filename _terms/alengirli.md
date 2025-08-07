@@ -5,7 +5,7 @@ slug: alengirli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gösterişli
+- gösterişli
 - Karmaşık olan, anlaşılmayan
 - İleride sakınca çıkarabilir, sorun olabilir (iş vb.)
 - Tuhaf, şaşırtıcı

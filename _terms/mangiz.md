@@ -5,7 +5,7 @@ slug: mangiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► para
+- para
 ozellikler:
 - - isim
   - argo

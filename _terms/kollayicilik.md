@@ -5,7 +5,7 @@ slug: kollayicilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koruyuculuk
+- koruyuculuk
 ozellikler:
 - - isim
 ornekler:

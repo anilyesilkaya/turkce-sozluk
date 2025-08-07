@@ -5,7 +5,7 @@ slug: tuz-ruhu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hidroklorik asit
+- hidroklorik asit
 ozellikler:
 - - isim
   - kimya

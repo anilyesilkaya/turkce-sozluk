@@ -5,7 +5,7 @@ slug: variyetsiz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yoksul
+- yoksul
 ozellikler:
 - - sıfat
 ornekler:

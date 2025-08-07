@@ -5,7 +5,7 @@ slug: asit-borik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► borik asit
+- borik asit
 ozellikler:
 - - isim
   - kimya

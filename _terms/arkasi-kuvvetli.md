@@ -5,7 +5,7 @@ slug: arkasi-kuvvetli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arkası sağlam
+- arkası sağlam
 ozellikler:
 - - sıfat
   - mecaz

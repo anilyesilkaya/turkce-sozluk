@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Çirkin, huysuz olan
-- ► sıska
+- sıska
 ozellikler:
 - - sıfat
 - - sıfat

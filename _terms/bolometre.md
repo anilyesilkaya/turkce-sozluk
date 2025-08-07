@@ -5,7 +5,7 @@ slug: bolometre
 letter: B
 lisan: Fransızca bolomètre
 anlamlar:
-- ► ışınımölçer
+- ışınımölçer
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: abhaz-peyniri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Abaza peyniri
+- Abaza peyniri
 ozellikler:
 - - isim
 ornekler:

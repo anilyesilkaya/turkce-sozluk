@@ -5,7 +5,7 @@ slug: pataklamak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dövmek
+- dövmek
 ozellikler:
 - - -i
 ornekler:

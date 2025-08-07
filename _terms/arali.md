@@ -5,7 +5,7 @@ slug: arali
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aralıklı
+- aralıklı
 ozellikler:
 - - sıfat
 ornekler:

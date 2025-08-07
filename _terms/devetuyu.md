@@ -5,7 +5,7 @@ slug: devetuyu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► açık kahverengi
+- açık kahverengi
 - Bu renkte olan
 ozellikler:
 - - isim

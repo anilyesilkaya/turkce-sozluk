@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muṣannif
 anlamlar:
 - Sınıflandırma işlemi yapan kimse
-- ► yazar
+- yazar
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: mustehi
 letter: M
 lisan: Arapça muştehī
 anlamlar:
-- ► istekli
-- ► iştahlı
+- istekli
+- iştahlı
 ozellikler:
 - - sıfat
   - eskimiş

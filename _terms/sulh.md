@@ -5,7 +5,7 @@ slug: sulh
 letter: S
 lisan: Arapça ṣulḥ
 anlamlar:
-- ► barış
+- barış
 ozellikler:
 - - isim
 ornekler:

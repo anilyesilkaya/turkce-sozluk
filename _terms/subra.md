@@ -5,7 +5,7 @@ slug: subra
 letter: S
 lisan: Fransızca sous-bras
 anlamlar:
-- ► koltukluk
+- koltukluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hesaplica
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hesaplı
+- hesaplı
 - (hesaplı'ca) Hesaplı bir biçimde
 ozellikler:
 - - sıfat

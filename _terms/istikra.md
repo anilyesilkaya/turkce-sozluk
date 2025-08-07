@@ -5,7 +5,7 @@ slug: istikra
 letter: I
 lisan: Arapça istiḳrāʾ
 anlamlar:
-- ► tümevarım
+- tümevarım
 ozellikler:
 - - isim
   - eskimiş

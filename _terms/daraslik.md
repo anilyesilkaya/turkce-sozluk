@@ -5,7 +5,7 @@ slug: daraslik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► darlık
+- darlık
 - Sıkıntılı ortam, durum
 ozellikler:
 - - isim

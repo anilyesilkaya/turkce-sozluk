@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gereği olmayan; kıvır zıvır, lüzumsuz, zait
-- ► boşuna
+- boşuna
 ozellikler:
 - - sıfat
 - - sıfat

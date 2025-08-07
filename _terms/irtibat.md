@@ -5,7 +5,7 @@ slug: irtibat
 letter: I
 lisan: Arapça irtibāṭ
 anlamlar:
-- ► bağlantı
+- bağlantı
 ozellikler:
 - - isim
 ornekler:

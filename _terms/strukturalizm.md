@@ -5,7 +5,7 @@ slug: strukturalizm
 letter: S
 lisan: Fransızca structuralisme
 anlamlar:
-- ► yapısalcılık
+- yapısalcılık
 ozellikler:
 - - isim
 ornekler:

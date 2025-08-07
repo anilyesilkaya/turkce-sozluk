@@ -5,7 +5,7 @@ slug: ulestirilebilme
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► paylaştırılabilme
+- paylaştırılabilme
 ozellikler:
 - - isim
 ornekler:

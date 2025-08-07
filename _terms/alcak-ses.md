@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Kuvvetli ve yüksek tonda olmayan, hafif ses
-- ► kalın ses
+- kalın ses
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: hece-vezni
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hece ölçüsü
+- hece ölçüsü
 ozellikler:
 - - isim
   - edebiyat

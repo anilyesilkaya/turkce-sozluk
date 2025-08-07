@@ -5,7 +5,7 @@ slug: tabak
 letter: T
 lisan: Arapça debbāġ
 anlamlar:
-- ► sepici
+- sepici
 ozellikler:
 - - isim
 ornekler:

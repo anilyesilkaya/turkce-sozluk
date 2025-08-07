@@ -5,7 +5,7 @@ slug: sam-fistigi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Antep fıstığı
+- Antep fıstığı
 ozellikler:
 - - isim
 ornekler:

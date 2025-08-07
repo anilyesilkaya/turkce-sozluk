@@ -5,7 +5,7 @@ slug: talebe-yurdu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► öğrenci yurdu
+- öğrenci yurdu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mahrek
 letter: M
 lisan: Arapça maḥrek
 anlamlar:
-- ► yörünge
+- yörünge
 ozellikler:
 - - isim
   - eskimiş

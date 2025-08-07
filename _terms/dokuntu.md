@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dökülmüş, saçılmış şeyler
 - Bir topluluktan geri kalmış kimseler
-- ► bozuntu
+- bozuntu
 - Deniz yüzüne yakın, üzerinde dalgaların çatladığı kaya kümesi
 - Kâğıtçılıkta üretimin herhangi bir safhasında ıskartaya çıkan, genellikle tekrar hamur durumuna getirilen, yaş ve kuru biçimleri olan kâğıt veya karton artığı
 - Değersiz, bayağı, ayaktakımından olan kimse

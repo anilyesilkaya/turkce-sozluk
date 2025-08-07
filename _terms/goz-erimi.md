@@ -5,7 +5,7 @@ slug: goz-erimi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ufuk
+- ufuk
 ozellikler:
 - - isim
   - coğrafya

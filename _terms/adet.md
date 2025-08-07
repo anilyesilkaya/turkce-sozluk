@@ -5,8 +5,8 @@ slug: adet
 letter: A
 lisan: Arapça ʿaded
 anlamlar:
-- ► sayı
-- ► tane
+- sayı
+- tane
 ozellikler:
 - - isim
   - matematik

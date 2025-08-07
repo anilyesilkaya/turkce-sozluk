@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bal konulan kap
 - Bağlarda görülen külleme hastalığı
-- ► ballıbaba
+- ballıbaba
 ozellikler:
 - - isim
 - - isim

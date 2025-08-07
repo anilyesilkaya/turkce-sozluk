@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca amorphe
 anlamlar:
 - Bir bütünü oluşturan parçalardan simetrik olmayan
-- ► biçimsiz
+- biçimsiz
 ozellikler:
 - - sıfat
 - - sıfat

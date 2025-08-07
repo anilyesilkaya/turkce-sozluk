@@ -5,7 +5,7 @@ slug: ibra
 letter: I
 lisan: Arapça ibrāʾ
 anlamlar:
-- ► aklama
+- aklama
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: stres
 letter: S
 lisan: İngilizce stress
 anlamlar:
-- ► ruhsal gerilim
+- ruhsal gerilim
 ozellikler:
 - - isim
 ornekler:

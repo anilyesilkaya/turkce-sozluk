@@ -5,7 +5,7 @@ slug: ede
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ağabey
+- ağabey
 ozellikler:
 - - isim
   - ağızlardan

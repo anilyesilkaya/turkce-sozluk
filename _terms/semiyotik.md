@@ -5,7 +5,7 @@ slug: semiyotik
 letter: S
 lisan: Fransızca sémiotique
 anlamlar:
-- ► gösterge bilimi
+- gösterge bilimi
 - Gösterge bilimi ile ilgili olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: mustacelen
 letter: M
 lisan: Arapça mustaʿcelen
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
   - eskimiş

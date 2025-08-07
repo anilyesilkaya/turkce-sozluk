@@ -5,7 +5,7 @@ slug: ihtiyat-akcesi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yedek akçe
+- yedek akçe
 ozellikler:
 - - isim
 ornekler:

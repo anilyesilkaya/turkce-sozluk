@@ -5,7 +5,7 @@ slug: pay-senedi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► hisse senedi
+- hisse senedi
 ozellikler:
 - - isim
   - ekonomi

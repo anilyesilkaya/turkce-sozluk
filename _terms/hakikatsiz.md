@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Gerçek olmayan
-- ► vefasız
+- vefasız
 ozellikler:
 - - sıfat
 - - sıfat

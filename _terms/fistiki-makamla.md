@@ -5,7 +5,7 @@ slug: fistiki-makamla
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 ozellikler:
 - - zarf
 ornekler:

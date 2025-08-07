@@ -5,7 +5,7 @@ slug: sihhatsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlıksız
+- sağlıksız
 ozellikler:
 - - sıfat
 ornekler:

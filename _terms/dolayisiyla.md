@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaylı olarak, doğrudan ilgili olmayarak
-- ► sebebiyle
+- sebebiyle
 ozellikler:
 - - zarf
 - - zarf

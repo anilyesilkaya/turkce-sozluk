@@ -5,7 +5,7 @@ slug: agarabilmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlayabilmek
+- beyazlayabilmek
 ozellikler:
 - - nesnesiz
 ornekler:

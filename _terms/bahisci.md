@@ -5,7 +5,7 @@ slug: bahisci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► müşterek bahisçi
+- müşterek bahisçi
 ozellikler:
 - - isim
 ornekler:

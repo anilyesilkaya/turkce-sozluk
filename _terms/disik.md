@@ -5,7 +5,7 @@ slug: disik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► cüruf
+- cüruf
 ozellikler:
 - - isim
   - kimya

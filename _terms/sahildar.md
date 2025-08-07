@@ -5,7 +5,7 @@ slug: sahildar
 letter: S
 lisan: Arapça sāḥil + Farsça -dār
 anlamlar:
-- ► kıyıdaş
+- kıyıdaş
 ozellikler:
 - - isim
   - eskimiş

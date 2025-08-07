@@ -5,7 +5,7 @@ slug: fume
 letter: F
 lisan: Fransızca fumé
 anlamlar:
-- ► duman rengi
+- duman rengi
 - Bu renkte olan
 - Tütsü ile kurutulmuş (balık, et)
 ozellikler:

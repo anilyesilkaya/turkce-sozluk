@@ -5,7 +5,7 @@ slug: buymak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► donmak
+- donmak
 - Soğuktan donarak ölmek
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: inhiraf
 letter: I
 lisan: Arapça inḥirāf
 anlamlar:
-- ► sapma
+- sapma
 ozellikler:
 - - isim
   - eskimiş

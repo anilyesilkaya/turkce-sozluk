@@ -5,7 +5,7 @@ slug: paragozlu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► paragöz
+- paragöz
 ozellikler:
 - - sıfat
   - mecaz

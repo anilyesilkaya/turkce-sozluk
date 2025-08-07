@@ -5,7 +5,7 @@ slug: folk
 letter: F
 lisan: İngilizce folk
 anlamlar:
-- ► halk (I)
+- halk (I)
 ozellikler:
 - - isim
 ornekler:

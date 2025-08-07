@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Yalnız dölü alınmak için yetiştirilen yüksek nitelikli (hayvan)
-- ► maya (I)
+- maya (I)
 ozellikler:
 - - sıfat
 - - sıfat

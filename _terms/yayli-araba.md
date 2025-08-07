@@ -5,7 +5,7 @@ slug: yayli-araba
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaylı
+- yaylı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kalifikasyon
 letter: K
 lisan: Fransızca qualification
 anlamlar:
-- ► niteliklilik
+- niteliklilik
 ozellikler:
 - - isim
 ornekler:

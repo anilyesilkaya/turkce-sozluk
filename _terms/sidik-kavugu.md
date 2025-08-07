@@ -5,7 +5,7 @@ slug: sidik-kavugu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar torbası
+- idrar torbası
 ozellikler:
 - - isim
   - anatomi

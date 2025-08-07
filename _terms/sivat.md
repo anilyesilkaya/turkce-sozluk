@@ -5,7 +5,7 @@ slug: sivat
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► suvat
+- suvat
 ozellikler:
 - - isim
 ornekler:

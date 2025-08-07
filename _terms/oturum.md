@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir meclis veya kurulun çözümlenmesi gereken sorunları görüşüp tartışmak için yaptığı birleşimlerden her biri; celse
 - Bilimsel toplantıların aynı anda veya art arda gerçekleştirilen bölümlerinden her biri; seksiyon
-- ► seans
+- seans
 ozellikler:
 - - isim
 - - isim

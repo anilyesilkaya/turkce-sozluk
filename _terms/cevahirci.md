@@ -5,7 +5,7 @@ slug: cevahirci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► kuyumcu
+- kuyumcu
 ozellikler:
 - - isim
 ornekler:

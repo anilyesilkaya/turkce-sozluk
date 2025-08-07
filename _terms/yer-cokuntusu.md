@@ -5,7 +5,7 @@ slug: yer-cokuntusu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► çöküntü hendeği
+- çöküntü hendeği
 ozellikler:
 - - isim
   - coğrafya

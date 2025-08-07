@@ -5,7 +5,7 @@ slug: sarih-meful
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► belirtili nesne
+- belirtili nesne
 ozellikler:
 - - isim
   - eskimiş

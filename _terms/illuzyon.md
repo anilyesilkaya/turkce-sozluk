@@ -5,8 +5,8 @@ slug: illuzyon
 letter: I
 lisan: Fransızca illusion
 anlamlar:
-- ► göz bağı
-- ► yanılsama
+- göz bağı
+- yanılsama
 ozellikler:
 - - isim
 - - isim

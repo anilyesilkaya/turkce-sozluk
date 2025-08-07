@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İnce yufka biçiminde kurutulmuş meyve ezmesi; bastık
 - Çok yorgun, güçsüz
-- ► hasta
+- hasta
 - Tavan ile kömür damarı arasında yer alan ince, yumuşak killi tabaka
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: bibi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► hala
+- hala
 ozellikler:
 - - isim
   - ağızlardan

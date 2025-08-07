@@ -5,7 +5,7 @@ slug: dag-bayir
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kır (II)
+- kır (II)
 ozellikler:
 - - isim
 ornekler:

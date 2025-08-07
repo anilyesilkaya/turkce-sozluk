@@ -5,7 +5,7 @@ slug: aksirik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırık
+- hapşırık
 ozellikler:
 - - isim
 ornekler:

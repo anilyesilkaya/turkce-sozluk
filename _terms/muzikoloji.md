@@ -5,7 +5,7 @@ slug: muzikoloji
 letter: M
 lisan: Fransızca musicologie
 anlamlar:
-- ► müzik bilimi
+- müzik bilimi
 ozellikler:
 - - isim
 ornekler:

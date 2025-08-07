@@ -5,7 +5,7 @@ slug: akla-ziyan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akla zarar
+- akla zarar
 - Şaşırtan, şaşırtıcı olan
 ozellikler:
 - - ünlem

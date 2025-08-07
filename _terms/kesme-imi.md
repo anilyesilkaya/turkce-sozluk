@@ -5,7 +5,7 @@ slug: kesme-imi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kesme işareti
+- kesme işareti
 ozellikler:
 - - isim
   - dil bilgisi

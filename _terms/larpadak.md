@@ -5,7 +5,7 @@ slug: larpadak
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 ornekler:

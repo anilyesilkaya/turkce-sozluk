@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aykırı olma durumu; mugayeret, muhaliflik, tehalüf, marjinallik
-- ► muhalefet
+- muhalefet
 ozellikler:
 - - isim
 - - isim

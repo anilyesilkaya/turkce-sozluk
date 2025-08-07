@@ -5,7 +5,7 @@ slug: yalniz-basina
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tek başına
+- tek başına
 ozellikler:
 - - zarf
 ornekler:

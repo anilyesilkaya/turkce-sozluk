@@ -5,7 +5,7 @@ slug: muhabere-memuru
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► telgrafçı
+- telgrafçı
 ozellikler:
 - - isim
 ornekler:

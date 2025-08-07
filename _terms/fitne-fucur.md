@@ -5,7 +5,7 @@ slug: fitne-fucur
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fitneci
+- fitneci
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: tetikci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kiralık katil
+- kiralık katil
 ozellikler:
 - - isim
 ornekler:

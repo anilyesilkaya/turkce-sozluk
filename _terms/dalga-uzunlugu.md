@@ -5,7 +5,7 @@ slug: dalga-uzunlugu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dalga boyu
+- dalga boyu
 ozellikler:
 - - isim
 ornekler:

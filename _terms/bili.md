@@ -5,7 +5,7 @@ slug: bili
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilgi
+- bilgi
 ozellikler:
 - - isim
 ornekler:

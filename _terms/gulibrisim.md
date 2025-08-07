@@ -5,7 +5,7 @@ slug: gulibrisim
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ipek ağacı
+- ipek ağacı
 ozellikler:
 - - isim
   - bitki bilimi

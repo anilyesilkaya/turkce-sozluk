@@ -9,7 +9,7 @@ anlamlar:
 - Motorda pistonun biri çalışmamak
 - Tabanca bozulup tutukluk yapmak
 - Kalp düzenli çalışmamak
-- ► kekelemek
+- kekelemek
 ozellikler:
 - - -i
 - - -i

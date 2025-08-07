@@ -5,7 +5,7 @@ slug: seviyesizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzeysizlik
+- düzeysizlik
 ozellikler:
 - - isim
 ornekler:

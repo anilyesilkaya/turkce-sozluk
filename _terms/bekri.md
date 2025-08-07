@@ -5,7 +5,7 @@ slug: bekri
 letter: B
 lisan: Arapça bekrī
 anlamlar:
-- ► ayyaş
+- ayyaş
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: yediden-yetmise
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► herkes
+- herkes
 ozellikler:
 - - zamir
   - mecaz

@@ -5,7 +5,7 @@ slug: takigraf
 letter: T
 lisan: Fransızca tachygraphe
 anlamlar:
-- ► hızölçer
+- hızölçer
 ozellikler:
 - - isim
   - fizik

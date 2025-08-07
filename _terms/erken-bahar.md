@@ -5,7 +5,7 @@ slug: erken-bahar
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ilkbahar
+- ilkbahar
 ozellikler:
 - - isim
 ornekler:

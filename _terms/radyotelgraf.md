@@ -5,7 +5,7 @@ slug: radyotelgraf
 letter: R
 lisan: Fransızca radiotélégraphe
 anlamlar:
-- ► telsiz telgraf
+- telsiz telgraf
 ozellikler:
 - - isim
 ornekler:

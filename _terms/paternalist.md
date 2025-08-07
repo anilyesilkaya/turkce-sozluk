@@ -5,7 +5,7 @@ slug: paternalist
 letter: P
 lisan: Fransızca paternaliste
 anlamlar:
-- ► babacı
+- babacı
 ozellikler:
 - - sıfat
   - felsefe

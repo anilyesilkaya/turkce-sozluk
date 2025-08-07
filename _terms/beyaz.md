@@ -9,7 +9,7 @@ anlamlar:
 - Bu renkte olan
 - Beyaz ırktan olan kimse
 - Baskıda koyu biçimde dizilmemiş harf türü
-- ► beyaz zehir
+- beyaz zehir
 ozellikler:
 - - isim
 - - isim

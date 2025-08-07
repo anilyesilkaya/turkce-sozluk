@@ -5,7 +5,7 @@ slug: fototropizm
 letter: F
 lisan: Fransızca phototropisme
 anlamlar:
-- ► ışığa doğrulum
+- ışığa doğrulum
 ozellikler:
 - - isim
   - bitki bilimi

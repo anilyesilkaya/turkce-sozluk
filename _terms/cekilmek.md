@@ -14,7 +14,7 @@ anlamlar:
 - Geri gitmek; ricat etmek
 - Katılmamak, vazgeçmek
 - Katlanmak, üstlenmek, tahammül etmek
-- ► tartılmak
+- tartılmak
 - Parça hâlindeki et kıyma biçimine getirilmek
 - Uzaklaşmak, araya mesafe koymak
 ozellikler:

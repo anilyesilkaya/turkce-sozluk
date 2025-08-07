@@ -5,7 +5,7 @@ slug: bu-meyanda
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bu arada
+- bu arada
 ozellikler:
 - - zarf
   - eskimiş

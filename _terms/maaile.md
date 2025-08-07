@@ -5,7 +5,7 @@ slug: maaile
 letter: M
 lisan: Arapça maʿaʿāʾile
 anlamlar:
-- ► ailece
+- ailece
 ozellikler:
 - - zarf
 ornekler:

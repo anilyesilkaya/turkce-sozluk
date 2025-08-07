@@ -5,7 +5,7 @@ slug: uyusturmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzlaştırmak
+- uzlaştırmak
 ozellikler:
 - - -i
   - -le

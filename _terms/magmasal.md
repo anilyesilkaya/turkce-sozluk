@@ -5,7 +5,7 @@ slug: magmasal
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► magmatik
+- magmatik
 ozellikler:
 - - sıfat
   - jeoloji

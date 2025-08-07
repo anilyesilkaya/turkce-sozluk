@@ -5,7 +5,7 @@ slug: manyezit
 letter: M
 lisan: Fransızca magnésite
 anlamlar:
-- ► lüle taşı
+- lüle taşı
 ozellikler:
 - - isim
   - kimya

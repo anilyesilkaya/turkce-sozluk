@@ -5,7 +5,7 @@ slug: ban-yagi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Hint yağı
+- Hint yağı
 ozellikler:
 - - isim
 ornekler:

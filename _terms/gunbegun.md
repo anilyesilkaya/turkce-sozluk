@@ -5,7 +5,7 @@ slug: gunbegun
 letter: G
 lisan: Türkçe gün + Farsça -be + Türkçe gün
 anlamlar:
-- ► günden güne
+- günden güne
 ozellikler:
 - - zarf
 ornekler:

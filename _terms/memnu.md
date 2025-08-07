@@ -5,7 +5,7 @@ slug: memnu
 letter: M
 lisan: Arapça memnūʿ
 anlamlar:
-- ► yasak
+- yasak
 ozellikler:
 - - sıfat
   - eskimiş

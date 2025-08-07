@@ -5,7 +5,7 @@ slug: botanik-parki
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► botanik bahçesi
+- botanik bahçesi
 ozellikler:
 - - isim
 ornekler:

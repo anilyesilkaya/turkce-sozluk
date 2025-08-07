@@ -10,7 +10,7 @@ anlamlar:
 - Hiçbir eksiği olmayan
 - Kurala uygun olarak, kusursuz bir biçimde
 - Kenar veya ayrıtları ile açıları birbirine eşit olan (biçim)
-- ► fondöten
+- fondöten
 ozellikler:
 - - sıfat
 - - sıfat

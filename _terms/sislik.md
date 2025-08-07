@@ -5,7 +5,7 @@ slug: sislik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şiş (I)
+- şiş (I)
 ozellikler:
 - - isim
 ornekler:

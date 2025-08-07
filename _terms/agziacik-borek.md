@@ -5,7 +5,7 @@ slug: agziacik-borek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağzıaçık
+- ağzıaçık
 ozellikler:
 - - isim
 ornekler:

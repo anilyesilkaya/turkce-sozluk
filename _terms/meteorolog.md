@@ -5,7 +5,7 @@ slug: meteorolog
 letter: M
 lisan: Fransızca météorologue
 anlamlar:
-- ► hava tahmincisi
+- hava tahmincisi
 ozellikler:
 - - isim
 ornekler:

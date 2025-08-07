@@ -6,8 +6,8 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tükenmeyen, bitmeyen
-- ► sonsuz
-- ► tükenmez kalem
+- sonsuz
+- tükenmez kalem
 - Bir kapta ekşitilen ve alındıkça su eklenerek çoğaltılan üzüm veya üzüm, elma, armut karışımı bir içecek türü
 - Bir tür peynirli çorba
 ozellikler:

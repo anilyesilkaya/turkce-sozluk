@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşucu olma durumu
-- ► konuşmacılık
+- konuşmacılık
 ozellikler:
 - - isim
 - - isim

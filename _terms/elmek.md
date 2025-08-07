@@ -5,7 +5,7 @@ slug: elmek
 letter: E
 lisan: (elektronik mektup'tan)
 anlamlar:
-- ► elektronik posta
+- elektronik posta
 ozellikler:
 - - isim
   - bilişim

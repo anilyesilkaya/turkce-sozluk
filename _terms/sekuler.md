@@ -5,7 +5,7 @@ slug: sekuler
 letter: S
 lisan: Fransızca séculier
 anlamlar:
-- ► dünyacı
+- dünyacı
 ozellikler:
 - - sıfat
 ornekler:

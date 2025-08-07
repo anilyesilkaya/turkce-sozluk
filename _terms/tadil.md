@@ -5,7 +5,7 @@ slug: tadil
 letter: T
 lisan: Arapça taʿdīl
 anlamlar:
-- ► değişiklik
+- değişiklik
 ozellikler:
 - - isim
   - eskimiş

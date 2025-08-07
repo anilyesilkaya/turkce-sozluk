@@ -5,7 +5,7 @@ slug: ayakuzeri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ayaküstü
+- ayaküstü
 ozellikler:
 - - zarf
 ornekler:

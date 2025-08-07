@@ -5,7 +5,7 @@ slug: hamilelik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gebelik
+- gebelik
 - Hamile elbisesi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: plackacilik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► çapulculuk
+- çapulculuk
 ozellikler:
 - - isim
 ornekler:

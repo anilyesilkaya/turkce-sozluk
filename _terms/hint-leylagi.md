@@ -5,7 +5,7 @@ slug: hint-leylagi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► oya ağacı
+- oya ağacı
 ozellikler:
 - - isim
   - bitki bilimi

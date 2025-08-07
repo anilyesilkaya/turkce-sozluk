@@ -9,8 +9,8 @@ anlamlar:
 - İç, iç yüzey
 - İç yüzeyde, iç bölümde olan
 - İç yana, iç yana doğru
-- ► gönül
-- ► cezaevi
+- gönül
+- cezaevi
 ozellikler:
 - - isim
 - - isim

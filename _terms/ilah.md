@@ -5,7 +5,7 @@ slug: ilah
 letter: İ
 lisan: Arapça ilāh
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - din bilimi

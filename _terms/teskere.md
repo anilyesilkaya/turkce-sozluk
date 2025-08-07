@@ -5,7 +5,7 @@ slug: teskere
 letter: T
 lisan: Farsça deskere
 anlamlar:
-- ► sedye
+- sedye
 - Özellikle yapılarda malzeme taşımak için kullanılan, dört kollu ve iki kişinin taşıdığı tahta araç
 ozellikler:
 - - isim

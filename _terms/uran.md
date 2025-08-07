@@ -5,7 +5,7 @@ slug: uran
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► sanayi
+- sanayi
 ozellikler:
 - - isim
 ornekler:

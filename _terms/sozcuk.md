@@ -5,7 +5,7 @@ slug: sozcuk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kelime
+- kelime
 ozellikler:
 - - isim
 ornekler:

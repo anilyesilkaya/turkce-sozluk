@@ -5,7 +5,7 @@ slug: plevra
 letter: P
 lisan: İtalyanca pleura
 anlamlar:
-- ► akciğer zarı
+- akciğer zarı
 ozellikler:
 - - isim
   - anatomi

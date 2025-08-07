@@ -5,7 +5,7 @@ slug: karavide
 letter: K
 lisan: Rumca
 anlamlar:
-- ► kerevit
+- kerevit
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kuşlar vb. için ötmek işi
 - Kuşlar vb. için ötme zamanı
-- ► ton (II)
+- ton (II)
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mahlas
 letter: M
 lisan: Arapça maḫlaṣ
 anlamlar:
-- ► takma ad
+- takma ad
 ozellikler:
 - - isim
 ornekler:

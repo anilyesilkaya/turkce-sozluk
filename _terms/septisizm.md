@@ -5,7 +5,7 @@ slug: septisizm
 letter: S
 lisan: Fransızca scepticisme
 anlamlar:
-- ► kuşkuculuk
+- kuşkuculuk
 ozellikler:
 - - isim
   - felsefe

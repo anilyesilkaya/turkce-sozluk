@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ifsād
 anlamlar:
 - Düzeni bozma, karışıklık çıkarma
-- ► kargaşalık
+- kargaşalık
 ozellikler:
 - - isim
   - eskimiş

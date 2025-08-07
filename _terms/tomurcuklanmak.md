@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tomurcuk oluşmak
-- ► tomurmak
+- tomurmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

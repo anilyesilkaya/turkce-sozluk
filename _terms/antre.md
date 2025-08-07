@@ -5,7 +5,7 @@ slug: antre
 letter: A
 lisan: Fransızca entrée
 anlamlar:
-- ► giriş
+- giriş
 ozellikler:
 - - isim
 ornekler:

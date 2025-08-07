@@ -5,7 +5,7 @@ slug: kargilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fişeklik
+- fişeklik
 - Kamış yetişen yer
 ozellikler:
 - - isim

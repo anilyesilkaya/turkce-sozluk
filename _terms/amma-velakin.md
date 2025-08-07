@@ -5,7 +5,7 @@ slug: amma-velakin
 letter: A
 lisan: Arapça ammā + ve + lākin
 anlamlar:
-- ► bununla birlikte
+- bununla birlikte
 - '"Ne var ki" anlamında kullanılan bir söz'
 ozellikler:
 - - bağlaç

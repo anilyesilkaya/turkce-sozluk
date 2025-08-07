@@ -5,7 +5,7 @@ slug: hakikatli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► vefakâr
+- vefakâr
 ozellikler:
 - - sıfat
   - mecaz

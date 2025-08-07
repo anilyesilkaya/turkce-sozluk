@@ -5,7 +5,7 @@ slug: lakacilik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lakçılık
+- lakçılık
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Resmî kurumlarda işlem gören belgeler
 - Kâğıt yaprakları, kitap sayfaları
 - Yazılmış kitaplar, mektuplar veya yazılar
-- ► evrak kayıt
+- evrak kayıt
 ozellikler:
 - - isim
 - - isim

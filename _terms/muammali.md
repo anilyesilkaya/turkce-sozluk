@@ -5,9 +5,9 @@ slug: muammali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tekinsiz
+- tekinsiz
 - Ayrıntısı bilinmeyen, açık olmayan, anlaşılması zor
-- ► bilmeceli
+- bilmeceli
 ozellikler:
 - - sıfat
 - - sıfat

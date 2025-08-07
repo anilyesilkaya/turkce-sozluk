@@ -5,7 +5,7 @@ slug: akordu-bozuk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akortsuz
+- akortsuz
 - Uyumsuz davranışlarda bulunan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: fena
 letter: F
 lisan: Arapça fenāʾ
 anlamlar:
-- ► ölümlülük
+- ölümlülük
 ozellikler:
 - - isim
   - eskimiş

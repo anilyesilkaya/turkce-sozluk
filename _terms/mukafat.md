@@ -5,7 +5,7 @@ slug: mukafat
 letter: M
 lisan: Arapça mukāfāt
 anlamlar:
-- ► ödül
+- ödül
 - Değerlendirici, sevindirici davranış
 ozellikler:
 - - isim

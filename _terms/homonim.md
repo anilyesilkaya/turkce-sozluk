@@ -5,7 +5,7 @@ slug: homonim
 letter: H
 lisan: Fransızca homonyme
 anlamlar:
-- ► sesteş
+- sesteş
 ozellikler:
 - - sıfat
   - dil bilgisi

@@ -13,7 +13,7 @@ anlamlar:
 - Yan, taraf
 - Meclis, parti vb. topluluklarda düşünce yönünden özellik gösteren taraflardan her biri
 - Fırıldak biçiminde olan şeylerde kol
-- ► angıç
+- angıç
 - Pişmiş bir kümes hayvanının kanat kısmından oluşan yiyecek
 - Savaş düzenindeki ordunun iki yanından her biri; kol (I), cenah
 - Topla oynanan bazı takım oyunlarında hücum hattının sağ ve sol bölümü

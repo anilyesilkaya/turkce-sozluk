@@ -5,7 +5,7 @@ slug: urumek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► havlamak
+- havlamak
 ozellikler:
 - - nesnesiz
 ornekler:

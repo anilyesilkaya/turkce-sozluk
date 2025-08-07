@@ -5,7 +5,7 @@ slug: rubik-kupu
 letter: R
 lisan: (Macar heykeltıraş, mimar Ernő Rubik'in adından)
 anlamlar:
-- ► zekâ küpü
+- zekâ küpü
 ozellikler:
 - - isim
 ornekler:

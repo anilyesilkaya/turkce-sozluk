@@ -6,7 +6,7 @@ letter: V
 lisan: Türkçe
 anlamlar:
 - Birbirini vurmak
-- ► çarpışmak
+- çarpışmak
 ozellikler:
 - - nesnesiz
   - -le

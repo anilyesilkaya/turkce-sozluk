@@ -5,7 +5,7 @@ slug: menevisli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hareli
+- hareli
 ozellikler:
 - - sıfat
 ornekler:

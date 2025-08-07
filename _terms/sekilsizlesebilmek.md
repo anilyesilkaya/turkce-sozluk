@@ -5,7 +5,7 @@ slug: sekilsizlesebilmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimsizleşebilmek
+- biçimsizleşebilmek
 ozellikler:
 - - nesnesiz
 ornekler:

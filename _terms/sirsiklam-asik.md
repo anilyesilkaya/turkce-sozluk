@@ -5,7 +5,7 @@ slug: sirsiklam-asik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sırılsıklam âşık
+- sırılsıklam âşık
 ozellikler:
 - - isim
 ornekler:

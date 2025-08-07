@@ -5,7 +5,7 @@ slug: islahat
 letter: I
 lisan: Arapça iṣlāḥāt
 anlamlar:
-- ► düzeltme
+- düzeltme
 ozellikler:
 - - isim
   - eskimiş

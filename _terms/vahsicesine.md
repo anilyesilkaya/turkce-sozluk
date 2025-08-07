@@ -5,7 +5,7 @@ slug: vahsicesine
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vahşice
+- vahşice
 ozellikler:
 - - zarf
 ornekler:

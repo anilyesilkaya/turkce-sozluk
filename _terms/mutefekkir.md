@@ -5,7 +5,7 @@ slug: mutefekkir
 letter: M
 lisan: Arapça mutefekkir
 anlamlar:
-- ► düşünür
+- düşünür
 ozellikler:
 - - isim
   - eskimiş

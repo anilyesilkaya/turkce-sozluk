@@ -5,7 +5,7 @@ slug: kademsiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - sıfat
 ornekler:

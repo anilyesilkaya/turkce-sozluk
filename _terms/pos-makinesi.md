@@ -5,7 +5,7 @@ slug: pos-makinesi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pos cihazı
+- pos cihazı
 ozellikler:
 - - isim
 ornekler:

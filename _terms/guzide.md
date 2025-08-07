@@ -5,7 +5,7 @@ slug: guzide
 letter: G
 lisan: Farsça guzīde
 anlamlar:
-- ► seçkin
+- seçkin
 - Aydın, okumuş, seçkin kimse
 ozellikler:
 - - sıfat

@@ -6,7 +6,7 @@ letter: P
 lisan: Farsça peyk
 anlamlar:
 - Haber ve mektup taşıyan kimse
-- ► uydu
+- uydu
 - Bir başkasına bağımlılığı olan
 ozellikler:
 - - isim

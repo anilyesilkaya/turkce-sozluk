@@ -5,7 +5,7 @@ slug: oligopollesmek
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► azelleşmek
+- azelleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

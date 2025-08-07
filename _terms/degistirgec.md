@@ -5,7 +5,7 @@ slug: degistirgec
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► röle
+- röle
 ozellikler:
 - - isim
   - fizik

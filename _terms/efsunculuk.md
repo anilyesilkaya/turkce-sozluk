@@ -5,7 +5,7 @@ slug: efsunculuk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► büyücülük
+- büyücülük
 ozellikler:
 - - isim
 ornekler:

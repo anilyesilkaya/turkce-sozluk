@@ -5,7 +5,7 @@ slug: ahenktar
 letter: A
 lisan: Farsça āheng-dār
 anlamlar:
-- ► ahenkli
+- ahenkli
 ozellikler:
 - - sıfat
   - eskimiş

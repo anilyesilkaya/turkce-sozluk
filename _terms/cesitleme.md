@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşitlemek işi
-- ► çeşit
+- çeşit
 - Belli bir temayı değişik armoni, melodi ve ritimle süsleyerek yeniden çalma; varyasyon
 ozellikler:
 - - isim

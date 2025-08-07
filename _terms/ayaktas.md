@@ -5,7 +5,7 @@ slug: ayaktas
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► omuzdaş
+- omuzdaş
 ozellikler:
 - - isim
   - ağızlardan

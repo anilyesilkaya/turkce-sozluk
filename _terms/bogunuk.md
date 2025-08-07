@@ -5,7 +5,7 @@ slug: bogunuk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boğuk
+- boğuk
 - İnsanın içini karartan, sıkıntı veren
 ozellikler:
 - - sıfat

@@ -5,8 +5,8 @@ slug: antikite
 letter: A
 lisan: Fransızca antiquité
 anlamlar:
-- ► eskilik
-- ► İlk Çağ
+- eskilik
+- İlk Çağ
 ozellikler:
 - - isim
 - - isim

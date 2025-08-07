@@ -7,7 +7,7 @@ lisan: Farsça ser + māye
 anlamlar:
 - Bir ticaret işinin kurulması, yürütülmesi için gereken anapara ve paraya çevrilebilir malların tamamı; anamal, başmal, kapital, meta, resülmal
 - Elde bulunan servet
-- ► konu
+- konu
 - Genelev kadını
 ozellikler:
 - - isim

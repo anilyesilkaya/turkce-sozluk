@@ -7,7 +7,7 @@ lisan: Arapça ādem + Türkçe baba
 anlamlar:
 - Parasız, aç, en kötü durumdaki mahkûm
 - Hapishanelerde haraççılara yardakçılık eden kimse
-- ► afyonkeş
+- afyonkeş
 - Hayatta hiçbir şeyi olmayan kimse
 - Çırılçıplak kimse
 ozellikler:

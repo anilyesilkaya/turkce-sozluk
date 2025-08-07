@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kor olma durumu
-- ► mangal
+- mangal
 ozellikler:
 - - isim
 - - isim

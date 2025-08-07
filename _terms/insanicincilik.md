@@ -5,7 +5,7 @@ slug: insanicincilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insanmerkezcilik
+- insanmerkezcilik
 ozellikler:
 - - isim
   - felsefe

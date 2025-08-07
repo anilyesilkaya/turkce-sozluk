@@ -5,7 +5,7 @@ slug: mukaveleli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sözleşmeli
+- sözleşmeli
 ozellikler:
 - - sıfat
 ornekler:

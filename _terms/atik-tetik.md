@@ -5,7 +5,7 @@ slug: atik-tetik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çevik
+- çevik
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kalici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sürekli, geçici karşıtı
+- sürekli, geçici karşıtı
 - Her zaman geçerliğini sürdürecek olan
 - Bir süre için belli bir yerde kalan, gidici karşıtı
 ozellikler:

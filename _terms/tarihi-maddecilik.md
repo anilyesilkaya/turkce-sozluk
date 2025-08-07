@@ -5,7 +5,7 @@ slug: tarihi-maddecilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tarihsel özdekçilik
+- tarihsel özdekçilik
 ozellikler:
 - - isim
 ornekler:

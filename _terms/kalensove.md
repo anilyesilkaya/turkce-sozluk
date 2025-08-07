@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳalensuve
 anlamlar:
 - Sivri tepeli külah
-- ► yüksük
+- yüksük
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: isidam
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► hamam
+- hamam
 ozellikler:
 - - isim
   - ağızlardan

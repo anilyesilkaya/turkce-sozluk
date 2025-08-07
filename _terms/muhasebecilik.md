@@ -5,7 +5,7 @@ slug: muhasebecilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► saymanlık
+- saymanlık
 ozellikler:
 - - isim
 ornekler:

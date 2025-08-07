@@ -5,7 +5,7 @@ slug: intikam
 letter: I
 lisan: Arapça intiḳām
 anlamlar:
-- ► öç
+- öç
 ozellikler:
 - - isim
 ornekler:

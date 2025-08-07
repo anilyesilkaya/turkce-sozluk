@@ -5,7 +5,7 @@ slug: yarasik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaraşma
+- yaraşma
 ozellikler:
 - - isim
 ornekler:

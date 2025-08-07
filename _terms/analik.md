@@ -5,11 +5,11 @@ slug: analik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► annelik
+- annelik
 - Anne olma duygusu
 - Anne yerini tutan veya anne kadar yakınlık gösteren kadın
 - Anaya yakışır davranış
-- ► üvey anne
+- üvey anne
 ozellikler:
 - - isim
 - - isim

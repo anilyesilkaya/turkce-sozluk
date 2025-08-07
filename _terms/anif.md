@@ -5,7 +5,7 @@ slug: anif
 letter: A
 lisan: Arapça ʿanīf
 anlamlar:
-- ► kaba
+- kaba
 - Kaba bir biçimde
 ozellikler:
 - - sıfat

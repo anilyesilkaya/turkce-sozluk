@@ -5,7 +5,7 @@ slug: gorecelilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► bağıntılılık
+- bağıntılılık
 ozellikler:
 - - isim
   - felsefe

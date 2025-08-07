@@ -5,7 +5,7 @@ slug: materyalizm
 letter: M
 lisan: Fransızca matérialisme
 anlamlar:
-- ► maddecilik
+- maddecilik
 ozellikler:
 - - isim
   - felsefe

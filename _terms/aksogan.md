@@ -5,7 +5,7 @@ slug: aksogan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ada soğanı
+- ada soğanı
 ozellikler:
 - - isim
   - bitki bilimi

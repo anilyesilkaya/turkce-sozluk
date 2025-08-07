@@ -5,7 +5,7 @@ slug: diyakroni
 letter: D
 lisan: Fransızca diachronie
 anlamlar:
-- ► art zamanlılık
+- art zamanlılık
 ozellikler:
 - - isim
   - dil bilimi

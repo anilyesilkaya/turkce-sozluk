@@ -5,7 +5,7 @@ slug: hurriyetsizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özgürlüksüzlük
+- özgürlüksüzlük
 ozellikler:
 - - isim
 ornekler:

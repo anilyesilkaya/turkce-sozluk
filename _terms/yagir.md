@@ -8,7 +8,7 @@ anlamlar:
 - İki kürek kemiğinin arası
 - Atın omuzları arasındaki yer
 - Çoğunlukla bu yerde eyer ve semerin açtığı yara
-- ► kel
+- kel
 ozellikler:
 - - isim
   - ağızlardan

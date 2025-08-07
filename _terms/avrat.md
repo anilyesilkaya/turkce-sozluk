@@ -5,7 +5,7 @@ slug: avrat
 letter: A
 lisan: Arapça ʿavret
 anlamlar:
-- ► kadın
+- kadın
 - Bir erkeğin eşi, hanımı
 ozellikler:
 - - isim

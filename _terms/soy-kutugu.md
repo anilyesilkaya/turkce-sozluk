@@ -5,7 +5,7 @@ slug: soy-kutugu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soyağacı
+- soyağacı
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: ferdiyetcilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► bireycilik
+- bireycilik
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: belgelikci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► arşivci
+- arşivci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: elbiselik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysilik
+- giysilik
 ozellikler:
 - - isim
   - sıfat

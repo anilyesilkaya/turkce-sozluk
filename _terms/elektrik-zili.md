@@ -5,7 +5,7 @@ slug: elektrik-zili
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektrikli zil
+- elektrikli zil
 ozellikler:
 - - isim
 ornekler:

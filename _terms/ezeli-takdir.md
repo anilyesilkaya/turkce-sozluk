@@ -5,7 +5,7 @@ slug: ezeli-takdir
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
   - din bilimi

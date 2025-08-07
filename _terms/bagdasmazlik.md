@@ -5,8 +5,8 @@ slug: bagdasmazlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► uyuşmazlık
-- ► geçimsizlik
+- uyuşmazlık
+- geçimsizlik
 ozellikler:
 - - isim
 - - isim

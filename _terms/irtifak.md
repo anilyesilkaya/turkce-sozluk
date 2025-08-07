@@ -5,7 +5,7 @@ slug: irtifak
 letter: I
 lisan: Arapça irtifāḳ
 anlamlar:
-- ► dayanma
+- dayanma
 ozellikler:
 - - isim
   - eskimiş

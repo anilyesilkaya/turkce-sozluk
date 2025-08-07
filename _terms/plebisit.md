@@ -6,7 +6,7 @@ letter: P
 lisan: Fransızca plébiscite
 anlamlar:
 - Devletler hukukunda bir ulusun hangi devlete bağlanacağıyla ilgili oylama
-- ► halk oylaması
+- halk oylaması
 ozellikler:
 - - isim
   - hukuk

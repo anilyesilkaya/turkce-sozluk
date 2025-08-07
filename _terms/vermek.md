@@ -12,19 +12,19 @@ anlamlar:
 - Döndürmek, çevirmek, yöneltmek
 - Bir şeyi satmak
 - Kızı, kadını biriyle evlendirmek
-- ► yaymak (I)
+- yaymak (I)
 - Bitki ortaya çıkarmak
 - Herhangi bir şey ortaya çıkarmak, oluşturmak
 - Bir hâli bir kimse veya yerde hâkim kılmak
 - Sahip olmasını sağlamak
-- ► kazandırmak
-- ► katmak
+- kazandırmak
+- katmak
 - Bir şey ayırmak
 - Bir şey harcamak
 - Bir yere dayamak
-- ► doğurmak
+- doğurmak
 - Bilgi edinmesi için göndermek
-- ► belirlemek
+- belirlemek
 - Cinsel yönden kendisini kullandırmak
 - Kök veya gövdeleri sonuna -ı (-i, -u, -ü) zarf-fiil eki almış fiillere gelerek tezlik bildiren birleşik fiiller oluşturur
 - Elindeki parayı kaptırmak; uçlanmak

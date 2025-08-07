@@ -5,7 +5,7 @@ slug: torpido-gozu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► torpido
+- torpido
 ozellikler:
 - - isim
 ornekler:

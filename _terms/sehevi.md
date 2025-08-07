@@ -5,7 +5,7 @@ slug: sehevi
 letter: Ş
 lisan: Arapça şehevī
 anlamlar:
-- ► erotik
+- erotik
 ozellikler:
 - - sıfat
   - eskimiş

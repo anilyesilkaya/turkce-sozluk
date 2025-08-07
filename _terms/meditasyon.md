@@ -5,7 +5,7 @@ slug: meditasyon
 letter: M
 lisan: Fransızca méditation
 anlamlar:
-- ► dalınç
+- dalınç
 ozellikler:
 - - isim
   - ruh bilimi

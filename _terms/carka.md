@@ -5,7 +5,7 @@ slug: carka
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çarha
+- çarha
 ozellikler:
 - - isim
   - tarih

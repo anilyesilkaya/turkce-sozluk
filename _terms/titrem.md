@@ -5,7 +5,7 @@ slug: titrem
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ton (II)
+- ton (II)
 ozellikler:
 - - isim
   - dil bilgisi

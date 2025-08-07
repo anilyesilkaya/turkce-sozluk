@@ -5,7 +5,7 @@ slug: vesayet
 letter: V
 lisan: Arapça veṣāyet
 anlamlar:
-- ► vasilik
+- vasilik
 ozellikler:
 - - isim
   - eskimiş

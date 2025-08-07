@@ -5,7 +5,7 @@ slug: laedriye
 letter: L
 lisan: Arapça lāedriyye
 anlamlar:
-- ► bilinemezcilik
+- bilinemezcilik
 ozellikler:
 - - isim
   - eskimiş

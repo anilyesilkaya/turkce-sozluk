@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça ẓafer
 anlamlar:
 - Savaşta kazanılan başarı; utku
-- ► yengi
+- yengi
 - Bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı
 ozellikler:
 - - isim

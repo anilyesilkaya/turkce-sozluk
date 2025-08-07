@@ -5,7 +5,7 @@ slug: identik
 letter: I
 lisan: Fransızca identique
 anlamlar:
-- ► özdeş
+- özdeş
 ozellikler:
 - - sıfat
   - matematik

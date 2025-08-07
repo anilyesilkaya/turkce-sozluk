@@ -5,7 +5,7 @@ slug: arkeolog
 letter: A
 lisan: Fransızca archéologue
 anlamlar:
-- ► kazı bilimci
+- kazı bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: savsak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ihmalkâr
+- ihmalkâr
 ozellikler:
 - - sıfat
 ornekler:

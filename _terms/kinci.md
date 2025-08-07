@@ -5,7 +5,7 @@ slug: kinci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kindar
+- kindar
 ozellikler:
 - - sıfat
 ornekler:

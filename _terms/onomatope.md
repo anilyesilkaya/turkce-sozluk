@@ -5,7 +5,7 @@ slug: onomatope
 letter: O
 lisan: Fransızca onomatopée
 anlamlar:
-- ► yansımalı kelime
+- yansımalı kelime
 ozellikler:
 - - isim
   - dil bilgisi

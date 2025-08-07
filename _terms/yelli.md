@@ -5,9 +5,9 @@ slug: yelli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► rüzgârlı
+- rüzgârlı
 - Çok yellenen
-- ► fingirdek
+- fingirdek
 ozellikler:
 - - sıfat
 - - sıfat

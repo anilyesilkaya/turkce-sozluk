@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Bilirkişinin görevi
-- ► uzmanlık
+- uzmanlık
 ozellikler:
 - - isim
 - - isim

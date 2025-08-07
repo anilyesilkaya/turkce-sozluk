@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Koyma işine konu olmak
-- ► koyulaşmak
+- koyulaşmak
 - Bir şeye, bir işe girişmek, başlamak, teşebbüs etmek
 ozellikler:
 - - nesnesiz

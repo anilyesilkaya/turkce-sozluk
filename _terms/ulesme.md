@@ -5,7 +5,7 @@ slug: ulesme
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► paylaşma
+- paylaşma
 ozellikler:
 - - isim
 ornekler:

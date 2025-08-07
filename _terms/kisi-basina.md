@@ -5,7 +5,7 @@ slug: kisi-basina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► adam başına
+- adam başına
 ozellikler:
 - - zarf
 ornekler:

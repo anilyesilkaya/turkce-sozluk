@@ -5,7 +5,7 @@ slug: ikinci-tesrin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kasım
+- kasım
 ozellikler:
 - - isim
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Fransızca photographe
 anlamlar:
 - Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme
 - Bu yöntemle aktarılarak çoğaltılan görüntü; resim, suret, foto
-- ► görünüm
+- görünüm
 ozellikler:
 - - isim
 - - isim

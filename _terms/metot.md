@@ -5,7 +5,7 @@ slug: metot
 letter: M
 lisan: Fransızca méthode
 anlamlar:
-- ► yöntem
+- yöntem
 ozellikler:
 - - isim
 ornekler:

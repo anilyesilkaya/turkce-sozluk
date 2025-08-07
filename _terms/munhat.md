@@ -5,7 +5,7 @@ slug: munhat
 letter: M
 lisan: Arapça munḥaṭṭ
 anlamlar:
-- ► engin (II)
+- engin (II)
 ozellikler:
 - - sıfat
   - eskimiş

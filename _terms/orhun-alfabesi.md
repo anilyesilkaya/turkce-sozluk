@@ -5,7 +5,7 @@ slug: orhun-alfabesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► Köktürk alfabesi
+- Köktürk alfabesi
 ozellikler:
 - - isim
 ornekler:

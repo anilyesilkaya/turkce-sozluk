@@ -5,7 +5,7 @@ slug: yer-sakizi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► bitüm
+- bitüm
 ozellikler:
 - - isim
   - jeoloji

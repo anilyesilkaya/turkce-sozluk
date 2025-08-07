@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Vücudun kasıktan tabana kadar olan bölümü
 - Hayvanlarda yürümeye veya atlamaya yarayan organ
-- ► ayak
+- ayak
 - İskambil kâğıtları içinde üzerinde genç erkek resmi olan kâğıt; oğlan, vale
 ozellikler:
 - - isim

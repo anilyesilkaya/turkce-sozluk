@@ -7,7 +7,7 @@ lisan: Arapça maḳṭaʿ
 anlamlar:
 - Kalem ucunu düzeltmeye yarayan kemikten yapılmış araç
 - Divan edebiyatında gazelin veya kasidenin son beyti
-- ► kesit
+- kesit
 ozellikler:
 - - isim
   - eskimiş

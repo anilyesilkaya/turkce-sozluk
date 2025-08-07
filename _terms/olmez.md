@@ -5,7 +5,7 @@ slug: olmez
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölümsüz
+- ölümsüz
 - Çok dayanıklı, kolay eskimeyen
 ozellikler:
 - - sıfat

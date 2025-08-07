@@ -5,7 +5,7 @@ slug: defedilme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovulma
+- kovulma
 ozellikler:
 - - isim
 ornekler:

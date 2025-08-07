@@ -5,8 +5,8 @@ slug: dordul
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kare
-- ► rubai
+- kare
+- rubai
 ozellikler:
 - - isim
   - matematik

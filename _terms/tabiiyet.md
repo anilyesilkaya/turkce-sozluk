@@ -5,7 +5,7 @@ slug: tabiiyet
 letter: T
 lisan: Arapça ṭabiʿiyyet
 anlamlar:
-- ► doğallık
+- doğallık
 ozellikler:
 - - isim
   - eskimiş

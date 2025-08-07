@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Eskiyen bir şeyin yerine yenisi konulmak, yenisi alınmak
 - Bakım yapılarak yeni duruma getirilmek
-- ► canlanmak
+- canlanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

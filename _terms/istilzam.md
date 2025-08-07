@@ -5,7 +5,7 @@ slug: istilzam
 letter: I
 lisan: Arapça istilzām
 anlamlar:
-- ► gerektirme
+- gerektirme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: lakirti-kavafi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - mecaz

@@ -8,7 +8,7 @@ anlamlar:
 - Madde ile ilgili; maddesel, özdeksel, manevi karşıtı
 - Maddeden oluşan
 - Mal, para, varlıkla ilgili olan
-- ► maddesel
+- maddesel
 ozellikler:
 - - sıfat
 - - sıfat

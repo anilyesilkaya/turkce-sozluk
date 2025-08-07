@@ -5,7 +5,7 @@ slug: sefih
 letter: S
 lisan: Arapça sefīh
 anlamlar:
-- ► uçarı
+- uçarı
 ozellikler:
 - - sıfat
 ornekler:

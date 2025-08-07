@@ -5,7 +5,7 @@ slug: politeizm
 letter: P
 lisan: Fransızca polythéisme
 anlamlar:
-- ► çok tanrıcılık
+- çok tanrıcılık
 ozellikler:
 - - isim
   - toplum bilimi

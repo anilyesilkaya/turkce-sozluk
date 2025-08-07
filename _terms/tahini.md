@@ -5,7 +5,7 @@ slug: tahini
 letter: T
 lisan: Arapça ṭaḥīnī
 anlamlar:
-- ► tahin rengi
+- tahin rengi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ilimak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ılınmak
+- ılınmak
 ozellikler:
 - - nesnesiz
 ornekler:

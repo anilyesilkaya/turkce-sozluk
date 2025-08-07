@@ -5,7 +5,7 @@ slug: bilimci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilim adamı
+- bilim adamı
 - Bilginin temeli olarak yalnız bilim yöntemine önem veren; ilimci
 ozellikler:
 - - isim

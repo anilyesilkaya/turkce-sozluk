@@ -5,7 +5,7 @@ slug: kaideci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuralcı
+- kuralcı
 ozellikler:
 - - sıfat
 ornekler:

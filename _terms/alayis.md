@@ -5,7 +5,7 @@ slug: alayis
 letter: A
 lisan: Farsça ālāyiş
 anlamlar:
-- ► görkem
+- görkem
 ozellikler:
 - - isim
 ornekler:

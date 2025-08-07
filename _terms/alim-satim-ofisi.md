@@ -5,7 +5,7 @@ slug: alim-satim-ofisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alım satım bürosu
+- alım satım bürosu
 ozellikler:
 - - isim
 ornekler:

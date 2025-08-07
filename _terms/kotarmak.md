@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Pişen yemeği başka kaba boşaltmak
-- ► hazırlamak
+- hazırlamak
 - Bir işi tamamlamak, bitirmek
 - Üstesinden gelmek
 ozellikler:

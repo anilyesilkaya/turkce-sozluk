@@ -5,7 +5,7 @@ slug: mulayemet
 letter: M
 lisan: Arapça mulāyemet
 anlamlar:
-- ► yumuşaklık
+- yumuşaklık
 - Bağırsakta yumuşaklık
 ozellikler:
 - - isim

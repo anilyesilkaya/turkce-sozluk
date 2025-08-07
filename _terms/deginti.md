@@ -5,7 +5,7 @@ slug: deginti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dokunma (I)
+- dokunma (I)
 ozellikler:
 - - isim
 ornekler:

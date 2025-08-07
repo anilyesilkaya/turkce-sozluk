@@ -5,7 +5,7 @@ slug: ekinsel
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kültürel
+- kültürel
 ozellikler:
 - - sıfat
 ornekler:

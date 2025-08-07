@@ -5,7 +5,7 @@ slug: mink
 letter: M
 lisan: İngilizce mink
 anlamlar:
-- ► vizon
+- vizon
 ozellikler:
 - - isim
   - hayvan bilimi

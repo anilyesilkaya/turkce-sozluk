@@ -5,7 +5,7 @@ slug: nevale
 letter: N
 lisan: Arapça nevāle
 anlamlar:
-- ► azık
+- azık
 ozellikler:
 - - isim
 ornekler:

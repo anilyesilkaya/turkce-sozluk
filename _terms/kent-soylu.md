@@ -5,7 +5,7 @@ slug: kent-soylu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► burjuva
+- burjuva
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: dejenerelesmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► soysuzlaşmak
-- ► yozlaşmak
+- soysuzlaşmak
+- yozlaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

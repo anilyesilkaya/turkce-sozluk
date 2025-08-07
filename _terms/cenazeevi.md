@@ -5,7 +5,7 @@ slug: cenazeevi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ölüevi
+- ölüevi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: koy-baglisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köyaltı
+- köyaltı
 ozellikler:
 - - isim
 ornekler:

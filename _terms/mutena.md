@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muʿtenā
 anlamlar:
 - Özenilmiş, özenli bir biçimde yapılmış
-- ► seçkin
+- seçkin
 ozellikler:
 - - sıfat
   - eskimiş

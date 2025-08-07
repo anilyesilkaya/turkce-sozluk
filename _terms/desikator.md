@@ -5,7 +5,7 @@ slug: desikator
 letter: D
 lisan: Fransızca dessiccateur
 anlamlar:
-- ► kurutma kabı
+- kurutma kabı
 ozellikler:
 - - isim
   - teknik

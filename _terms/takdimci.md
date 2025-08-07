@@ -5,8 +5,8 @@ slug: takdimci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanıtmacı
-- ► sunucu
+- tanıtmacı
+- sunucu
 ozellikler:
 - - isim
 - - isim

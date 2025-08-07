@@ -5,7 +5,7 @@ slug: tipki
 letter: T
 lisan: Arapça ṭıbḳ + Türkçe -ı
 anlamlar:
-- ► aynı
+- aynı
 - Tam olarak; tam
 ozellikler:
 - - isim

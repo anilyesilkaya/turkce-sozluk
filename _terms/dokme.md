@@ -9,7 +9,7 @@ anlamlar:
 - Bir yerden bir yere dökülen, aktarılan
 - Kapların içinde olmayan, yığın biçiminde ortaya dökülmüş olan
 - Kalıba dökülmek yoluyla yapılmış
-- ► dökme yük
+- dökme yük
 ozellikler:
 - - isim
 - - isim

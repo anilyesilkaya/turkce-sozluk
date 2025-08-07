@@ -5,7 +5,7 @@ slug: muddeialeyh
 letter: M
 lisan: Arapça muddeʿī + ʿaleyh
 anlamlar:
-- ► davalı
+- davalı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: sosyallesme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumsallaşma
+- toplumsallaşma
 ozellikler:
 - - isim
   - toplum bilimi

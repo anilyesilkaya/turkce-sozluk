@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Üzerinde ay biçimi bulunan
 - Ay ışığı olan; mehtaplı
-- ► gebe
+- gebe
 ozellikler:
 - - sıfat
 - - sıfat

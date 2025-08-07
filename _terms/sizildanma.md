@@ -5,7 +5,7 @@ slug: sizildanma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mızırdanma
+- mızırdanma
 ozellikler:
 - - isim
 ornekler:

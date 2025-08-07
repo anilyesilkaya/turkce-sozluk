@@ -5,7 +5,7 @@ slug: liberasyon
 letter: L
 lisan: Fransızca libération
 anlamlar:
-- ► liberalizm
+- liberalizm
 ozellikler:
 - - isim
   - ekonomi

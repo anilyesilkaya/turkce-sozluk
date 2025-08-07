@@ -5,7 +5,7 @@ slug: bir-hamlede
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 - Bir atılışta
 ozellikler:
 - - zarf

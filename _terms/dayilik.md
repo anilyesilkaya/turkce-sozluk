@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Dayı olma durumu
 - Dayıya yakışan davranış
-- ► kayırıcılık
-- ► kabadayılık
+- kayırıcılık
+- kabadayılık
 ozellikler:
 - - isim
 - - isim

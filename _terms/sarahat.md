@@ -5,7 +5,7 @@ slug: sarahat
 letter: S
 lisan: Arapça ṣarāḥat
 anlamlar:
-- ► belginlik
+- belginlik
 ozellikler:
 - - isim
 ornekler:

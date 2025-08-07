@@ -5,7 +5,7 @@ slug: fakirlesmek
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yoksullaşmak
+- yoksullaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

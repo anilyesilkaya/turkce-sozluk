@@ -5,7 +5,7 @@ slug: sulu-ziraat
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sulu tarım
+- sulu tarım
 ozellikler:
 - - isim
 ornekler:

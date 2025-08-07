@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cumhūriyyet
 anlamlar:
 - Milletin, egemenliği kendi elinde tuttuğu ve bunu belirli süreler için seçtiği milletvekilleri aracılığıyla kullandığı yönetim biçimi
-- ► cumhuriyet altını
+- cumhuriyet altını
 ozellikler:
 - - isim
 - - isim

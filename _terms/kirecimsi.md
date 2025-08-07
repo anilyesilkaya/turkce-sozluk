@@ -5,7 +5,7 @@ slug: kirecimsi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kireçsi
+- kireçsi
 ozellikler:
 - - sıfat
 ornekler:

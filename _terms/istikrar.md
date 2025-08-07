@@ -8,7 +8,7 @@ anlamlar:
 - Aynı kararda olma, aynı biçimde sürme, bir düzende devam etme; stabilizasyon
 - Yerleşmiş olma, oturmuş olma, sabit duruma gelme; stabilizasyon
 - Ödemeler dengesinde, istihdamda düzen; stabilizasyon
-- ► kararlılık
+- kararlılık
 ozellikler:
 - - isim
 - - isim

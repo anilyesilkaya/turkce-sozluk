@@ -5,7 +5,7 @@ slug: muattar
 letter: M
 lisan: Arapça muʿaṭṭar
 anlamlar:
-- ► ıtırlı
+- ıtırlı
 ozellikler:
 - - sıfat
   - eskimiş

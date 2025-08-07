@@ -5,7 +5,7 @@ slug: art-teker
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arka teker
+- arka teker
 ozellikler:
 - - isim
 ornekler:

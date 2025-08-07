@@ -5,7 +5,7 @@ slug: inhibitor
 letter: I
 lisan: Fransızca inhibiteur
 anlamlar:
-- ► engelleyici
+- engelleyici
 ozellikler:
 - - isim
 ornekler:

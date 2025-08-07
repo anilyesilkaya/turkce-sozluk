@@ -5,7 +5,7 @@ slug: humanistlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► insancıllık
+- insancıllık
 ozellikler:
 - - isim
 ornekler:

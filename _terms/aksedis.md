@@ -5,8 +5,8 @@ slug: aksedis
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yansıyış
-- ► yankılanış
+- yansıyış
+- yankılanış
 ozellikler:
 - - isim
 - - isim

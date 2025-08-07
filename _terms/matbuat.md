@@ -5,7 +5,7 @@ slug: matbuat
 letter: M
 lisan: Arapça maṭbūʿāt
 anlamlar:
-- ► basın
+- basın
 ozellikler:
 - - isim
 ornekler:

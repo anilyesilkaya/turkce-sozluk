@@ -5,8 +5,8 @@ slug: manita
 letter: M
 lisan: Yunanca
 anlamlar:
-- ► sevgili
-- ► manitacılık
+- sevgili
+- manitacılık
 ozellikler:
 - - isim
   - argo

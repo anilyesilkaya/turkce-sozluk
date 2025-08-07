@@ -5,7 +5,7 @@ slug: yardimsever
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayırsever
+- hayırsever
 ozellikler:
 - - sıfat
 ornekler:

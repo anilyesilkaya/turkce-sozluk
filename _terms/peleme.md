@@ -5,7 +5,7 @@ slug: peleme
 letter: P
 lisan: Rumca
 anlamlar:
-- ► pereme
+- pereme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: oren-yeri
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► örenlik
+- örenlik
 ozellikler:
 - - isim
 ornekler:

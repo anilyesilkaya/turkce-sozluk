@@ -5,7 +5,7 @@ slug: amerikan-uzumu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► şekerciboyası
+- şekerciboyası
 ozellikler:
 - - isim
   - bitki bilimi

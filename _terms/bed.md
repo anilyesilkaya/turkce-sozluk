@@ -5,8 +5,8 @@ slug: bed
 letter: B
 lisan: Farsça bed
 anlamlar:
-- ► kötü
-- ► çirkin (ses)
+- kötü
+- çirkin (ses)
 ozellikler:
 - - sıfat
   - eskimiş

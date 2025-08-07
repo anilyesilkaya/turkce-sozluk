@@ -8,7 +8,7 @@ anlamlar:
 - Kara yolunda oluşmuş çukurlar ve tümsekler
 - Yollarda araçların hızını düşürmek için yapılan, türlü biçimlerde tümsek
 - Bir yolun doğrultusunu dik kesen bir yandan öbür yana geçen ark
-- ► engel
+- engel
 ozellikler:
 - - isim
 - - isim

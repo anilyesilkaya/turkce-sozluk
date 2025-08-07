@@ -5,7 +5,7 @@ slug: cikmazlik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► ikilem
+- ikilem
 - Çıkmaz olma durumu
 ozellikler:
 - - isim

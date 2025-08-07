@@ -5,7 +5,7 @@ slug: yukseltgenme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► oksitlenme
+- oksitlenme
 ozellikler:
 - - isim
 ornekler:

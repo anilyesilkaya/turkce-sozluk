@@ -5,7 +5,7 @@ slug: teeddup
 letter: T
 lisan: Arapça teʾeddub
 anlamlar:
-- ► utanma
+- utanma
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: iptida
 letter: I
 lisan: Arapça ibtidāʾ
 anlamlar:
-- ► başlangıç
+- başlangıç
 - Bir işe başlama
 - (i'ptida:) Önceleri, en önce, ilk önce
 ozellikler:

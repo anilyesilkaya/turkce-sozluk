@@ -5,7 +5,7 @@ slug: namaz-bezi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► namaz örtüsü
+- namaz örtüsü
 - Başa örtülen bir örtü türü
 ozellikler:
 - - isim

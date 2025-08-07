@@ -7,7 +7,7 @@ lisan: İtalyanca capitan
 anlamlar:
 - Gemi yönetimiyle ilgili en yüksek görevli
 - Takım oyunlarında lider olarak seçilen, oyun içinde arkadaşlarını yöneten, kolunda özel renkli bir bant taşıyan oyuncu
-- ► kaptan pilot
+- kaptan pilot
 - Yolcu otobüsü sürücüsü
 - Kale komutanı; efe
 - Bir işin başında bulunan, yönetici kimse

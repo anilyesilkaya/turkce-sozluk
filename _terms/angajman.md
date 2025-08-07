@@ -5,7 +5,7 @@ slug: angajman
 letter: A
 lisan: Fransızca engagement
 anlamlar:
-- ► bağlantı
+- bağlantı
 ozellikler:
 - - isim
 ornekler:

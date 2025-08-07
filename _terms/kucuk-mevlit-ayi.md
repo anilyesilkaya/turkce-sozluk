@@ -5,7 +5,7 @@ slug: kucuk-mevlit-ayi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► rebiyülahir
+- rebiyülahir
 ozellikler:
 - - isim
 ornekler:

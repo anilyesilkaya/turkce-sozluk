@@ -5,7 +5,7 @@ slug: aktas
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► lüle taşı
+- lüle taşı
 ozellikler:
 - - isim
   - mineraloji

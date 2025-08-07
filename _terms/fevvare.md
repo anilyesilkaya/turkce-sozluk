@@ -5,7 +5,7 @@ slug: fevvare
 letter: F
 lisan: Arapça fevvāre
 anlamlar:
-- ► fıskiye
+- fıskiye
 ozellikler:
 - - isim
   - eskimiş

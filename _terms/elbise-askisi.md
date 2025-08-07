@@ -5,7 +5,7 @@ slug: elbise-askisi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► askı
+- askı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ameliye
 letter: A
 lisan: Arapça ʿameliyye
 anlamlar:
-- ► uygulama
+- uygulama
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: meymenetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uğurlu
+- uğurlu
 ozellikler:
 - - sıfat
 ornekler:

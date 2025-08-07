@@ -5,7 +5,7 @@ slug: hazmetmek
 letter: H
 lisan: Arapça hażm + Türkçe etmek
 anlamlar:
-- ► sindirmek
+- sindirmek
 - Hoşa gitmeyen bir davranışı karşılıksız bırakmak, içine atmak
 - Herhangi bir olay veya duruma katlanmak, dayanmak, sabretmek
 ozellikler:

@@ -5,7 +5,7 @@ slug: boyana
 letter: B
 lisan: (Bayonne yer adından)
 anlamlar:
-- ► boyna
+- boyna
 ozellikler:
 - - isim
   - denizcilik

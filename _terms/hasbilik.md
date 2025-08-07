@@ -5,7 +5,7 @@ slug: hasbilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gönüllülük
+- gönüllülük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kanseroloji
 letter: K
 lisan: Fransızca cancérologie
 anlamlar:
-- ► kanser bilimi
+- kanser bilimi
 ozellikler:
 - - isim
 ornekler:

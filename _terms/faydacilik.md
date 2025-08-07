@@ -5,7 +5,7 @@ slug: faydacilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararcılık
+- yararcılık
 ozellikler:
 - - isim
   - felsefe

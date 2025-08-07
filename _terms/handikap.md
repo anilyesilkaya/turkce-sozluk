@@ -5,7 +5,7 @@ slug: handikap
 letter: H
 lisan: İngilizce handicap
 anlamlar:
-- ► engel
+- engel
 - At yarışlarında binicilerle eyerin toplam ağırlığının, atların koşuyu kazanma şansını etkileyecek biçimde ayarlanması
 ozellikler:
 - - isim

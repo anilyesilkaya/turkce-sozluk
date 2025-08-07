@@ -5,7 +5,7 @@ slug: haramzade
 letter: H
 lisan: Arapça ḥarām + Farsça zāde
 anlamlar:
-- ► piç
+- piç
 - Soysuz, ahlaksız kimse
 ozellikler:
 - - isim

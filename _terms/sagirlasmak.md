@@ -8,7 +8,7 @@ anlamlar:
 - İşitemez duruma gelmek
 - Tencere güç ısınarak geç pişirmek
 - Soba geç ısıtmak
-- ► boğuklaşmak
+- boğuklaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: ahraz
 letter: A
 lisan: Arapça aḫres
 anlamlar:
-- ► dilsiz
+- dilsiz
 - Sağır ve dilsiz olan (kimse)
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: yunanistanli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yunanlı
+- Yunanlı
 ozellikler:
 - - isim
 ornekler:

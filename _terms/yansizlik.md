@@ -5,7 +5,7 @@ slug: yansizlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tarafsızlık
+- tarafsızlık
 - Asit veya alkali niteliği yok olma, etkisiz hâle gelme; nötralizm
 ozellikler:
 - - isim

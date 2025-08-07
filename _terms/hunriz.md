@@ -5,7 +5,7 @@ slug: hunriz
 letter: H
 lisan: Farsça ḫūnrīz
 anlamlar:
-- ► kanlı
+- kanlı
 ozellikler:
 - - sıfat
   - eskimiş

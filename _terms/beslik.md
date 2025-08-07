@@ -8,8 +8,8 @@ anlamlar:
 - Beşi bir arada, beş taneden oluşmuş, beş tane alabilen
 - Beş birimden oluşan para
 - Beş para, beş kuruş veya beş lira değerinde olan akçe
-- ► beşibirlik
-- ► ata beşibirlik
+- beşibirlik
+- ata beşibirlik
 ozellikler:
 - - sıfat
 - - sıfat

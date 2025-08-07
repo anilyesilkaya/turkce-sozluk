@@ -5,7 +5,7 @@ slug: zalimce
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► acımasız
+- acımasız
 - (zali'mce) ► acımasızca
 ozellikler:
 - - sıfat

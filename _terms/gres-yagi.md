@@ -5,7 +5,7 @@ slug: gres-yagi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► makine yağı
+- makine yağı
 ozellikler:
 - - isim
 ornekler:

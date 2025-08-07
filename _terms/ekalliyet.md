@@ -5,7 +5,7 @@ slug: ekalliyet
 letter: E
 lisan: Arapça aḳalliyyet
 anlamlar:
-- ► azınlık
+- azınlık
 ozellikler:
 - - isim
   - eskimiş

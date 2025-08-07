@@ -5,7 +5,7 @@ slug: enerji-kaynagi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► güç kaynağı
+- güç kaynağı
 ozellikler:
 - - isim
 ornekler:

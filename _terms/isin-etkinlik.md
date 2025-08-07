@@ -5,7 +5,7 @@ slug: isin-etkinlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► radyoaktivite
+- radyoaktivite
 ozellikler:
 - - isim
   - fizik

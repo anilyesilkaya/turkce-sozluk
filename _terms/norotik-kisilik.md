@@ -5,7 +5,7 @@ slug: norotik-kisilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nörotik karakter
+- nörotik karakter
 ozellikler:
 - - isim
   - ruh bilimi

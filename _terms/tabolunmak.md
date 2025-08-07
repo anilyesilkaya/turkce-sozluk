@@ -5,7 +5,7 @@ slug: tabolunmak
 letter: T
 lisan: Arapça ṭabʿ + Türkçe olunmak
 anlamlar:
-- ► basılmak
+- basılmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: terementi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► terebentin
+- terebentin
 ozellikler:
 - - isim
 ornekler:

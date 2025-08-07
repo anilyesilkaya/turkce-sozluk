@@ -5,7 +5,7 @@ slug: fizyoterapi
 letter: F
 lisan: Fransızca physiothérapie
 anlamlar:
-- ► fizik tedavi
+- fizik tedavi
 ozellikler:
 - - isim
   - tıp

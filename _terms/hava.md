@@ -8,16 +8,16 @@ anlamlar:
 - Hava yuvarını oluşturan, bütün canlıların solunumuna yarayan, renksiz, kokusuz, akışkan gaz karışımı
 - Meteoroloji ile ilgili olayların bütünü
 - Canlılar üzerindeki etkisine göre hava yuvarının durumu
-- ► gökyüzü
+- gökyüzü
 - Çevreyi kuşatan boşluk
-- ► esinti
+- esinti
 - Müzik parçalarında tür
 - Müzik aletlerinden çıkan ses perdesi
 - Sonuçsuz, anlamsız, boş (durum, davranış, söz)
 - Görünüş, davranış, söz vb. için bir kimsenin durumunu belirten özellik
-- ► üslup
+- üslup
 - İçinde yaşanılan ve etkisinde kalınan ortam; atmosfer
-- ► çekicilik
+- çekicilik
 - Keyif, âlem
 ozellikler:
 - - isim

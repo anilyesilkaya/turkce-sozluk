@@ -5,7 +5,7 @@ slug: musavirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► danışmanlık
+- danışmanlık
 ozellikler:
 - - isim
 ornekler:

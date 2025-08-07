@@ -5,8 +5,8 @@ slug: umum
 letter: U
 lisan: Arapça ʿumūm
 anlamlar:
-- ► bütün
-- ► ahali
+- bütün
+- ahali
 ozellikler:
 - - sıfat
 - - sıfat

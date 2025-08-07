@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça seyyār
 anlamlar:
 - Belli bir yeri olmayan; gezici
-- ► portatif
+- portatif
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: duzmecilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sahtekârlık
+- sahtekârlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: artezyen-kuyusu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► artezyen
+- artezyen
 ozellikler:
 - - isim
 ornekler:

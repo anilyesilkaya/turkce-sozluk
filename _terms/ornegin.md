@@ -5,7 +5,7 @@ slug: ornegin
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► söz gelişi
+- söz gelişi
 ozellikler:
 - - bağlaç
 ornekler:

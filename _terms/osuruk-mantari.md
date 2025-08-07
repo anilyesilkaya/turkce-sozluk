@@ -5,7 +5,7 @@ slug: osuruk-mantari
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► kurt mantarı
+- kurt mantarı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: merkezcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merkeziyetçilik
+- merkeziyetçilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tumce-bilgisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► cümle bilgisi
+- cümle bilgisi
 ozellikler:
 - - isim
   - dil bilgisi

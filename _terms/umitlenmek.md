@@ -5,7 +5,7 @@ slug: umitlenmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutlanmak
+- umutlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

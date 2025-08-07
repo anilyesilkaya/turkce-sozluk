@@ -5,7 +5,7 @@ slug: yasam-sigortasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat sigortası
+- hayat sigortası
 ozellikler:
 - - isim
 ornekler:

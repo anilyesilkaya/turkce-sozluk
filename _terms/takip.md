@@ -7,7 +7,7 @@ lisan: Arapça taʿḳīb
 anlamlar:
 - Yetişmek, yakalamak veya bulmak amacıyla birinin arkasından gitme; izleme
 - Ardınca gitme veya gelme
-- ► kovuşturma
+- kovuşturma
 - İzinden gitme; izleme
 - Geri çekilmekte olan düşmanı yok etmek için yapılan hareket
 ozellikler:

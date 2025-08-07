@@ -5,7 +5,7 @@ slug: zulmet
 letter: Z
 lisan: Arapça ẓulmet
 anlamlar:
-- ► karanlık
+- karanlık
 ozellikler:
 - - isim
   - eskimiş

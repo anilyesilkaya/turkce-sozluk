@@ -5,7 +5,7 @@ slug: cicegimsi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiçeksi
+- çiçeksi
 ozellikler:
 - - sıfat
 ornekler:

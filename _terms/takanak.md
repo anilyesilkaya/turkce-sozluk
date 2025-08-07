@@ -5,8 +5,8 @@ slug: takanak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► alacak
-- ► borç
+- alacak
+- borç
 - Takıntı hâline gelmiş ilişki
 ozellikler:
 - - isim

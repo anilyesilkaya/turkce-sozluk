@@ -5,7 +5,7 @@ slug: mahzurlu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sakıncalı
+- sakıncalı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: bolalmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bollaşmak
+- bollaşmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

@@ -5,7 +5,7 @@ slug: yumulu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yumuk
+- yumuk
 ozellikler:
 - - sıfat
 ornekler:

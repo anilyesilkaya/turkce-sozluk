@@ -5,7 +5,7 @@ slug: akilli-basli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aklı başında
+- aklı başında
 ozellikler:
 - - sıfat
 ornekler:

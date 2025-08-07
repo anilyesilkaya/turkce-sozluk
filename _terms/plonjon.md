@@ -5,7 +5,7 @@ slug: plonjon
 letter: P
 lisan: Fransızca plongeon
 anlamlar:
-- ► dalış
+- dalış
 ozellikler:
 - - isim
   - spor

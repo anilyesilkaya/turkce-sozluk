@@ -5,7 +5,7 @@ slug: hiyanetlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hıyanet
+- hıyanet
 ozellikler:
 - - isim
 ornekler:

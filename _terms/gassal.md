@@ -5,7 +5,7 @@ slug: gassal
 letter: G
 lisan: Arapça ġassāl
 anlamlar:
-- ► ölü yıkayıcı
+- ölü yıkayıcı
 ozellikler:
 - - isim
   - eskimiş

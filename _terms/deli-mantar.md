@@ -5,7 +5,7 @@ slug: deli-mantar
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sinek mantarı
+- sinek mantarı
 ozellikler:
 - - isim
   - bitki bilimi

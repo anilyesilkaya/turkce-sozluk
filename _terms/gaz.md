@@ -6,10 +6,10 @@ letter: G
 lisan: Fransızca gaz
 anlamlar:
 - Normal basınç ve sıcaklıkta olduğu gibi kalan, içinde bulunduğu kabın her yanına yayılma ve bu kabın iç yüzeyinin her noktasına basınç yapma özelliğine sahip olan akışkan madde
-- ► gaz yağı
+- gaz yağı
 - Sindirim borusunda, ağızdan yutulan hava ile mayalanma sonucu oluşan uçucu maddelerin karışması
-- ► gaz lambası
-- ► doğal gaz
+- gaz lambası
+- doğal gaz
 ozellikler:
 - - isim
 - - isim

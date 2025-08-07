@@ -5,7 +5,7 @@ slug: hacilarkusagi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - meteoroloji

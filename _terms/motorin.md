@@ -5,7 +5,7 @@ slug: motorin
 letter: M
 lisan: Fransızca motorine
 anlamlar:
-- ► mazot
+- mazot
 ozellikler:
 - - isim
   - kimya

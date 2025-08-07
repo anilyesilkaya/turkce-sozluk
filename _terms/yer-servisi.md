@@ -5,7 +5,7 @@ slug: yer-servisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yer çamı
+- yer çamı
 ozellikler:
 - - isim
   - ağızlardan

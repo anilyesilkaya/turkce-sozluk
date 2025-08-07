@@ -5,7 +5,7 @@ slug: ehli
 letter: E
 lisan: Arapça ehlī
 anlamlar:
-- ► evcil
+- evcil
 ozellikler:
 - - sıfat
 ornekler:

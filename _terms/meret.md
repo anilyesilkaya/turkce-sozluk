@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mārid
 anlamlar:
 - Sıkıntı veren, hoşlanılmayan şeyler veya kimseler için kullanılan sövgü sözü
-- ► uğursuz
+- uğursuz
 ozellikler:
 - - isim
 - - isim

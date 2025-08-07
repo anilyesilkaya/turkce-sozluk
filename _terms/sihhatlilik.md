@@ -5,7 +5,7 @@ slug: sihhatlilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlıklılık
+- sağlıklılık
 ozellikler:
 - - isim
 ornekler:

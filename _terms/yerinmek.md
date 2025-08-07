@@ -5,7 +5,7 @@ slug: yerinmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► üzülmek
+- üzülmek
 - Pişman olmak
 ozellikler:
 - - -e

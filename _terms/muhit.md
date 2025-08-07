@@ -5,7 +5,7 @@ slug: muhit
 letter: M
 lisan: Arapça muḥīṭ
 anlamlar:
-- ► çevre
+- çevre
 - Bir kimsenin sürekli ilişkide bulunduğu insanlar topluluğu; çevre
 ozellikler:
 - - isim

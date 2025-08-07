@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Meyve verebilen, gövdesi odun veya kereste olmaya elverişli bulunan ve uzun yıllar yaşayabilen bitki
 - Bu gibi bitkilerin gövdesinden ve dallarından yapılan
-- ► kereste
+- kereste
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,8 +5,8 @@ slug: zibarmak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► ölmek
-- ► uyumak
+- ölmek
+- uyumak
 ozellikler:
 - - nesnesiz
   - kaba konuşmada

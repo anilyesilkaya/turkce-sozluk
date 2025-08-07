@@ -5,7 +5,7 @@ slug: emrivaki
 letter: E
 lisan: Arapça emr + vāḳiʿ
 anlamlar:
-- ► oldubitti
+- oldubitti
 ozellikler:
 - - isim
 ornekler:

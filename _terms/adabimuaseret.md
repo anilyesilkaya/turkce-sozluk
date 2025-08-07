@@ -5,7 +5,7 @@ slug: adabimuaseret
 letter: A
 lisan: Arapça ādāb + muʿāşeret
 anlamlar:
-- ► görgü kuralları
+- görgü kuralları
 ozellikler:
 - - isim
   - toplum bilimi

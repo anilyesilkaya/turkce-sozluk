@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kanmasını sağlamak, inandırmak; çalımlamak, yemek (II), ikna etmek, keklemek
-- ► aldatmak
+- aldatmak
 - İçme, yeme isteğini karşılamak
 ozellikler:
 - - -i

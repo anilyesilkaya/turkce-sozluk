@@ -5,7 +5,7 @@ slug: burunlamak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dışlamak
+- dışlamak
 ozellikler:
 - - -i
   - mecaz

@@ -5,7 +5,7 @@ slug: boa
 letter: B
 lisan: Fransızca boa
 anlamlar:
-- ► boa yılanı
+- boa yılanı
 - Kadınların boyunlarına aldıkları yılan biçiminde dar ve uzun kürk, boyun kürkü
 ozellikler:
 - - isim

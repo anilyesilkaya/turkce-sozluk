@@ -5,7 +5,7 @@ slug: yildiz-kurdu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ateş böceği
+- ateş böceği
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: cifte-nagra
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► nakkare
+- nakkare
 ozellikler:
 - - isim
   - müzik

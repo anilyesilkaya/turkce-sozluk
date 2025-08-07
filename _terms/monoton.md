@@ -5,7 +5,7 @@ slug: monoton
 letter: M
 lisan: Fransızca monotone
 anlamlar:
-- ► tekdüze
+- tekdüze
 ozellikler:
 - - sıfat
 ornekler:

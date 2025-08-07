@@ -8,7 +8,7 @@ anlamlar:
 - Ekleme, ulama
 - Eklenniş parça
 - Arttırma, büyütme, abartma
-- ► ek
+- ek
 ozellikler:
 - - isim
 - - isim

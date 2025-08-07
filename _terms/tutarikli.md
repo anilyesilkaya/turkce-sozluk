@@ -5,7 +5,7 @@ slug: tutarikli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► saralı
+- saralı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: trakunya
 letter: T
 lisan: Rumca
 anlamlar:
-- ► çarpan balığı
+- çarpan balığı
 ozellikler:
 - - isim
   - hayvan bilimi

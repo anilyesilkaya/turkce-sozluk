@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teʾkīd
 anlamlar:
 - Bir şeyi kuvvetleştirme, sağlamlaştırma; pekitme
-- ► üsteleme
+- üsteleme
 ozellikler:
 - - isim
   - eskimiş

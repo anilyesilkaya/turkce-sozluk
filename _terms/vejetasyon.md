@@ -5,8 +5,8 @@ slug: vejetasyon
 letter: V
 lisan: Fransızca végétation
 anlamlar:
-- ► ur
-- ► bitki örtüsü
+- ur
+- bitki örtüsü
 ozellikler:
 - - isim
   - tıp

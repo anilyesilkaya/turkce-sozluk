@@ -5,7 +5,7 @@ slug: cihansumulluk
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► evrensellik
+- evrensellik
 ozellikler:
 - - isim
 ornekler:

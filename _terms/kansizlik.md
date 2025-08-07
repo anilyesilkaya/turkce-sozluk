@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kanda alyuvar sayısının ve hemoglobin miktarının azalmasından ileri gelen bir hastalık durumu; anemi
-- ► korkaklık
-- ► soysuzluk
+- korkaklık
+- soysuzluk
 ozellikler:
 - - isim
   - tıp

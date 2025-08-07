@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça ziyāde
 anlamlar:
 - Çok, daha çok
-- ► fazla
+- fazla
 ozellikler:
 - - zarf
 - - zarf

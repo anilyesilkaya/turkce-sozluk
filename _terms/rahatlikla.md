@@ -5,7 +5,7 @@ slug: rahatlikla
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► kolaylıkla
+- kolaylıkla
 ozellikler:
 - - zarf
 ornekler:

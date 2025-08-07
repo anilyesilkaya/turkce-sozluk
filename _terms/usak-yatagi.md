@@ -5,7 +5,7 @@ slug: usak-yatagi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► döl yatağı
+- döl yatağı
 ozellikler:
 - - isim
   - ağızlardan

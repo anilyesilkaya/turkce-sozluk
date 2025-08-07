@@ -5,7 +5,7 @@ slug: feminenlesme
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kadınsılaşma
+- kadınsılaşma
 ozellikler:
 - - isim
 ornekler:

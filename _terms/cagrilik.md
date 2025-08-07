@@ -5,7 +5,7 @@ slug: cagrilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► davetiye
+- davetiye
 ozellikler:
 - - isim
 ornekler:

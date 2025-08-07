@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Sürücü belgesi olmayan
-- ► yetersiz
+- yetersiz
 ozellikler:
 - - sıfat
 - - sıfat

@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça sārī
 anlamlar:
 - Başkasına geçen
-- ► bulaşıcı
+- bulaşıcı
 ozellikler:
 - - sıfat
   - eskimiş

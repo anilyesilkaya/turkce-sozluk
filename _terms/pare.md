@@ -5,8 +5,8 @@ slug: pare
 letter: P
 lisan: Farsça pāre
 anlamlar:
-- ► parça
-- ► tane
+- parça
+- tane
 ozellikler:
 - - isim
 - - isim

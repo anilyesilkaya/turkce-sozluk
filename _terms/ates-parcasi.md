@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çok canlı, hareketli, becerikli, çalışkan
 - Çok yaramaz (çocuk)
-- ► canlı
+- canlı
 ozellikler:
 - - sıfat
   - mecaz

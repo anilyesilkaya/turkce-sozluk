@@ -5,7 +5,7 @@ slug: tansiyometri
 letter: T
 lisan: Fransızca tansiométrie
 anlamlar:
-- ► gerilim ölçümü
+- gerilim ölçümü
 ozellikler:
 - - isim
   - teknik

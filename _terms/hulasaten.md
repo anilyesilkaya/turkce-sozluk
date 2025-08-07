@@ -5,7 +5,7 @@ slug: hulasaten
 letter: H
 lisan: Arapça ḫulāṣaten
 anlamlar:
-- ► kısaca
+- kısaca
 ozellikler:
 - - zarf
   - eskimiş

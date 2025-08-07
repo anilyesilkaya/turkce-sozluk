@@ -5,9 +5,9 @@ slug: sokel
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► malul
-- ► güçsüz
-- ► hasta
+- malul
+- güçsüz
+- hasta
 ozellikler:
 - - sıfat
   - ağızlardan

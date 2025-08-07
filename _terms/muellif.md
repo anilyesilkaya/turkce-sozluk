@@ -5,7 +5,7 @@ slug: muellif
 letter: M
 lisan: Arapça muʾellif
 anlamlar:
-- ► yazar
+- yazar
 ozellikler:
 - - isim
   - eskimiş

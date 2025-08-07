@@ -5,7 +5,7 @@ slug: fason-imalat
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fason üretim
+- fason üretim
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: gamlilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygılılık
+- kaygılılık
 ozellikler:
 - - isim
 ornekler:

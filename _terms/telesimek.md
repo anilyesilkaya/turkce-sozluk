@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Yorulmak, güçsüz kalmak, yorgunluktan bayılacak duruma gelmek
-- ► zayıflamak
+- zayıflamak
 ozellikler:
 - - nesnesiz
   - ağızlardan

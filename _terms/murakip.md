@@ -5,7 +5,7 @@ slug: murakip
 letter: M
 lisan: Arapça murāḳib
 anlamlar:
-- ► denetçi
+- denetçi
 - Tanrı'ya bağlanarak çile dolduran kimse
 ozellikler:
 - - isim

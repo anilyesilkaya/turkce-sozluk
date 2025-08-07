@@ -5,7 +5,7 @@ slug: kok-kurdu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► danaburnu
+- danaburnu
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: karayandik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► deve dikeni
+- deve dikeni
 ozellikler:
 - - isim
   - bitki bilimi

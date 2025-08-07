@@ -5,7 +5,7 @@ slug: yeminli-muhasebecilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeminli mali müşavirlik
+- yeminli mali müşavirlik
 ozellikler:
 - - isim
   - ekonomi

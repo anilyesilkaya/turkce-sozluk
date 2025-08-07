@@ -5,7 +5,7 @@ slug: entomolojik
 letter: E
 lisan: Fransızca entomologique
 anlamlar:
-- ► böcek bilimsel
+- böcek bilimsel
 ozellikler:
 - - sıfat
 ornekler:

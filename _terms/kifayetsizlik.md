@@ -5,7 +5,7 @@ slug: kifayetsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yetersizlik
+- yetersizlik
 ozellikler:
 - - isim
 ornekler:

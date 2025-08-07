@@ -5,7 +5,7 @@ slug: vehmetme
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► evhamlanma
+- evhamlanma
 ozellikler:
 - - isim
 ornekler:

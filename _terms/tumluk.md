@@ -5,9 +5,9 @@ slug: tumluk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünlük
-- ► ikibuçukluk (II)
-- ► ata ikibuçukluk
+- bütünlük
+- ikibuçukluk (II)
+- ata ikibuçukluk
 ozellikler:
 - - isim
 - - isim

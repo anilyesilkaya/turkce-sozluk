@@ -5,7 +5,7 @@ slug: yasevi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ölüevi
+- ölüevi
 - Ses ve hareket olmayan yer
 ozellikler:
 - - isim

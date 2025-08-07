@@ -5,7 +5,7 @@ slug: rasit
 letter: R
 lisan: Arapça rāṣid
 anlamlar:
-- ► gözlemci
+- gözlemci
 ozellikler:
 - - isim
   - eskimiş

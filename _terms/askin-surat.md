@@ -5,7 +5,7 @@ slug: askin-surat
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► asık surat
+- asık surat
 ozellikler:
 - - zarf
   - mecaz

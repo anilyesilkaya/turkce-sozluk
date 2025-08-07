@@ -5,7 +5,7 @@ slug: sihir
 letter: S
 lisan: Arapça siḥr
 anlamlar:
-- ► büyü
+- büyü
 ozellikler:
 - - isim
 ornekler:

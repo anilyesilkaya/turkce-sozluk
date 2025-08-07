@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça ẓāhirī
 anlamlar:
 - Görünen, görünürdeki
-- ► yapmacık
+- yapmacık
 ozellikler:
 - - sıfat
 - - sıfat

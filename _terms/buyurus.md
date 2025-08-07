@@ -5,7 +5,7 @@ slug: buyurus
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emrediş
+- emrediş
 ozellikler:
 - - isim
 ornekler:

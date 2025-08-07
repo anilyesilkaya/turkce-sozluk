@@ -5,7 +5,7 @@ slug: muaddel
 letter: M
 lisan: Arapça muʿaddel
 anlamlar:
-- ► değişik
+- değişik
 ozellikler:
 - - sıfat
   - eskimiş

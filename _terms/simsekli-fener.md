@@ -5,7 +5,7 @@ slug: simsekli-fener
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► çakar
+- çakar
 ozellikler:
 - - isim
   - denizcilik

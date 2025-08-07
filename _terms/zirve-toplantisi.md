@@ -5,7 +5,7 @@ slug: zirve-toplantisi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► doruk toplantısı
+- doruk toplantısı
 ozellikler:
 - - isim
 ornekler:

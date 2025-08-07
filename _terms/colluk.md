@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çölü çok olan
-- ► çorak
+- çorak
 ozellikler:
 - - sıfat
 - - sıfat

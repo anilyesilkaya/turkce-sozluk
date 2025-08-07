@@ -5,7 +5,7 @@ slug: ulama
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ekleme
+- ekleme
 - Ulanan parça, ek, katkı, ilave
 - 'Art arda gelen iki kelimeden birincisinin sonundaki ünsüzün, ikinci kelimenin başındaki ünlüyle ses bakımından bir hece oluşturacak biçimde bağlanarak söylenmesi; bağlama, vasl: art arda, ayırt etmek vb'
 - Ulanmış, eklenmiş

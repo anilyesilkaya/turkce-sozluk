@@ -5,7 +5,7 @@ slug: endam-aynasi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► boy aynası
+- boy aynası
 ozellikler:
 - - isim
 ornekler:

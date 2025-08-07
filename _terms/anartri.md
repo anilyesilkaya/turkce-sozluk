@@ -5,7 +5,7 @@ slug: anartri
 letter: A
 lisan: Fransızca anarthrie
 anlamlar:
-- ► dil tutukluğu
+- dil tutukluğu
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: arasit
 letter: A
 lisan: Fransızca arachide
 anlamlar:
-- ► yer fıstığı
+- yer fıstığı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -7,7 +7,7 @@ lisan: Yunanca
 anlamlar:
 - Yalan söz; polüm
 - Yalan haber; polüm
-- ► gösteriş
+- gösteriş
 ozellikler:
 - - isim
 - - isim

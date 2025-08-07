@@ -5,7 +5,7 @@ slug: capacul
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► pasaklı
+- pasaklı
 - Düzensiz, özensiz, karışık olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: klas
 letter: K
 lisan: Fransızca classe
 anlamlar:
-- ► sınıf
+- sınıf
 - Üstün nitelikli, üstün yetenekli
 ozellikler:
 - - isim

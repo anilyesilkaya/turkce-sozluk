@@ -5,7 +5,7 @@ slug: sizoit
 letter: Ş
 lisan: Fransızca schizoide
 anlamlar:
-- ► bozuk (I)
+- bozuk (I)
 ozellikler:
 - - sıfat
 ornekler:

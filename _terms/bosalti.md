@@ -5,7 +5,7 @@ slug: bosalti
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boşaltım
+- boşaltım
 - Vücuttan atılan dışkı, balgam, idrar vb. atıkların genel adı
 ozellikler:
 - - isim

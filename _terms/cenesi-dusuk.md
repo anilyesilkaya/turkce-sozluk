@@ -5,7 +5,7 @@ slug: cenesi-dusuk
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - mecaz

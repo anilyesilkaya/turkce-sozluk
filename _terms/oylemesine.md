@@ -5,7 +5,7 @@ slug: oylemesine
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öylesine
+- öylesine
 ozellikler:
 - - zarf
   - ağızlardan

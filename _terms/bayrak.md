@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle özelleştirilmiş, genellikle dikdörtgen biçiminde kumaş; alem
 - Gerektiğinde indirilip kaldırılan, açılıp kapatılan kol
-- ► öncü
+- öncü
 - Benzerlerini temsil edebilecek nitelikte olan
 - Baklagillerde diğerlerinden daha üstte bulunan, daha büyük olan ve çoğunlukla başka bir renkte ve yuvarlakça olan taç yaprağı
 - Atletizmdeki bayrak yarışında dört sporcunun elden ele geçirdiği kısa, yuvarlak sopa

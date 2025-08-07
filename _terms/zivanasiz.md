@@ -6,7 +6,7 @@ letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıvanası olmayan
-- ► kaçık
+- kaçık
 ozellikler:
 - - sıfat
 - - sıfat

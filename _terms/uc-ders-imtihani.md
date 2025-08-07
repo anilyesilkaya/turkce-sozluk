@@ -5,7 +5,7 @@ slug: uc-ders-imtihani
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üç ders sınavı
+- üç ders sınavı
 ozellikler:
 - - isim
   - eğitim

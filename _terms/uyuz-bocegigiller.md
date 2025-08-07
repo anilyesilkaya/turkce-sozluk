@@ -5,7 +5,7 @@ slug: uyuz-bocegigiller
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyuz böcekleri
+- uyuz böcekleri
 ozellikler:
 - - isim
   - hayvan bilimi

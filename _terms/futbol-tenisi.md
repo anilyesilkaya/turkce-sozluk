@@ -5,7 +5,7 @@ slug: futbol-tenisi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ayak tenisi
+- ayak tenisi
 ozellikler:
 - - isim
 ornekler:

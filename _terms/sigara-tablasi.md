@@ -5,7 +5,7 @@ slug: sigara-tablasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► küllük
+- küllük
 ozellikler:
 - - isim
 ornekler:

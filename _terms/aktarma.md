@@ -10,10 +10,10 @@ anlamlar:
 - Bir yolcunun gideceği yere birkaç araç değiştirerek ulaşması
 - Sürülmemiş tarlayı ilk veya ikinci kez sürme
 - Arıları bir kovandan ötekine geçirme
-- ► alıntı
+- alıntı
 - Oyuncunun topu kendi takımından bir başka oyuncuya göndermesi
 - Bir kimsenin herhangi bir hakkını bir başkasına geçirmesini sağlayan iş; transfer
-- ► para aktarımı
+- para aktarımı
 ozellikler:
 - - isim
 - - isim

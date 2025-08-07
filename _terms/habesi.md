@@ -5,7 +5,7 @@ slug: habesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Etiyopyalı
+- Etiyopyalı
 ozellikler:
 - - isim
 ornekler:

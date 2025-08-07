@@ -5,7 +5,7 @@ slug: humus
 letter: H
 lisan: Arapça ḥummuṣ
 anlamlar:
-- ► nohut
+- nohut
 - İyice ezilmiş nohut, tahin ve baharatla hazırlanan bir yemek
 ozellikler:
 - - isim

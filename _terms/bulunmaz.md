@@ -5,7 +5,7 @@ slug: bulunmaz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► eşsiz
+- eşsiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kifayetli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yeterli
+- yeterli
 ozellikler:
 - - sıfat
 ornekler:

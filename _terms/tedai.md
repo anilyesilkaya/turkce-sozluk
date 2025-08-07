@@ -5,7 +5,7 @@ slug: tedai
 letter: T
 lisan: Arapça tedāʿī
 anlamlar:
-- ► çağrışım
+- çağrışım
 ozellikler:
 - - isim
   - eskimiş

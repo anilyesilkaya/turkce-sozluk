@@ -5,7 +5,7 @@ slug: kavmi
 letter: K
 lisan: Arapça ḳavmī
 anlamlar:
-- ► etnik
+- etnik
 ozellikler:
 - - sıfat
   - eskimiş

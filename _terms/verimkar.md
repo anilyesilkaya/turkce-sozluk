@@ -5,7 +5,7 @@ slug: verimkar
 letter: V
 lisan: Türkçe verim + Farsça -kār
 anlamlar:
-- ► verimli
+- verimli
 ozellikler:
 - - sıfat
 ornekler:

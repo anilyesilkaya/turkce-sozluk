@@ -8,7 +8,7 @@ anlamlar:
 - Bakıma gereksinimi olan kimselerin bakıldıkları, barındıkları kuruluş
 - Kurum ve kuruluşlarda motorlu araçların onarıldığı ve korunduğu yer veya birim
 - Belirli noktalarda özellikle kar mücadelesinde kullanılan araç ve gereçlerin barındırıldığı bina
-- ► kademe
+- kademe
 ozellikler:
 - - isim
 - - isim

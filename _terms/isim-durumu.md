@@ -5,7 +5,7 @@ slug: isim-durumu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ad durumu
+- ad durumu
 ozellikler:
 - - isim
   - dil bilgisi

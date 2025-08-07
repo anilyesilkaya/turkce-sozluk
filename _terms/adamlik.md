@@ -5,8 +5,8 @@ slug: adamlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► insanlık
-- ► yabanlık
+- insanlık
+- yabanlık
 ozellikler:
 - - isim
 - - isim

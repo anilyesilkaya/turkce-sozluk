@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Süt karıştırılarak yapılan kahve
-- ► açık kahverengi
+- açık kahverengi
 - Bu renkte olan
 ozellikler:
 - - isim

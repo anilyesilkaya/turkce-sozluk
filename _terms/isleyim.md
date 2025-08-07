@@ -5,7 +5,7 @@ slug: isleyim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► sanayi
+- sanayi
 ozellikler:
 - - isim
 ornekler:

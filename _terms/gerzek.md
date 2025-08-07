@@ -5,7 +5,7 @@ slug: gerzek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► geri zekâlı
+- geri zekâlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Barbut oynatan, barbut kahvehanesi işleten kimse
-- ► kumarbaz
+- kumarbaz
 ozellikler:
 - - isim
   - argo

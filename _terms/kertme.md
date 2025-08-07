@@ -5,7 +5,7 @@ slug: kertme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çentme
+- çentme
 ozellikler:
 - - isim
 ornekler:

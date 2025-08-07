@@ -5,7 +5,7 @@ slug: mevzusuz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► konusuz
+- konusuz
 ozellikler:
 - - sıfat
 ornekler:

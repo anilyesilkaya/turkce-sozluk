@@ -6,8 +6,8 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Ekşi duruma gelmek
-- ► bozulmak
-- ► mayalanmak
+- bozulmak
+- mayalanmak
 - Utanmak, mahcup olmak
 - Sırnaşmak, ısrar etmek
 - Kaşlarını çatıp yüzüne küskün veya dargın bir anlam vermek

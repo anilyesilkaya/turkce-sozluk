@@ -5,7 +5,7 @@ slug: abelardize
 letter: A
 lisan: Fransızca abélardisé
 anlamlar:
-- ► hadım
+- hadım
 ozellikler:
 - - isim
 ornekler:

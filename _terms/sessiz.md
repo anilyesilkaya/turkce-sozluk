@@ -11,7 +11,7 @@ anlamlar:
 - Az konuşan
 - Yumuşak huylu, kendi hâlinde (kimse); sakin
 - Ses ve gürültü çıkarmadan
-- ► ünsüz
+- ünsüz
 ozellikler:
 - - sıfat
 - - sıfat

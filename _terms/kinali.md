@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kına ile boyanmış olan
 - Kınanın renginde veya kızıl renkte olan
-- ► yapıncak (II)
+- yapıncak (II)
 ozellikler:
 - - sıfat
 - - sıfat

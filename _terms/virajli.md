@@ -5,7 +5,7 @@ slug: virajli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► dönemeçli
+- dönemeçli
 ozellikler:
 - - sıfat
 ornekler:

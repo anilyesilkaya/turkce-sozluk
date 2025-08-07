@@ -5,7 +5,7 @@ slug: kalitci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mirasçı
+- mirasçı
 ozellikler:
 - - isim
 ornekler:

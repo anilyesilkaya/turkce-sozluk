@@ -5,7 +5,7 @@ slug: iletisimcilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iletişim uzmanlığı
+- iletişim uzmanlığı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: liberalist
 letter: L
 lisan: Fransızca libéraliste
 anlamlar:
-- ► liberal
+- liberal
 ozellikler:
 - - sıfat
   - ekonomi

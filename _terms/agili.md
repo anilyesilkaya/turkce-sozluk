@@ -5,7 +5,7 @@ slug: agili
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zehirli
+- zehirli
 ozellikler:
 - - sıfat
 ornekler:

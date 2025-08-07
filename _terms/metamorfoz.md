@@ -5,7 +5,7 @@ slug: metamorfoz
 letter: M
 lisan: Fransızca métamorphose
 anlamlar:
-- ► başkalaşma
+- başkalaşma
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: nesredilmek
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► yayımlanmak
+- yayımlanmak
 ozellikler:
 - - nesnesiz
   - eskimiş

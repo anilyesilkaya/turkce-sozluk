@@ -5,7 +5,7 @@ slug: sivalamak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sıvamak (I)
+- sıvamak (I)
 ozellikler:
 - - -i
 ornekler:

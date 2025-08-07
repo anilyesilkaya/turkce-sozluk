@@ -5,7 +5,7 @@ slug: katot
 letter: K
 lisan: Fransızca cathode
 anlamlar:
-- ► eksi uç
+- eksi uç
 ozellikler:
 - - isim
   - fizik

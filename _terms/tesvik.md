@@ -5,8 +5,8 @@ slug: tesvik
 letter: T
 lisan: Arapça teşvīḳ
 anlamlar:
-- ► isteklendirme
-- ► özendirme
+- isteklendirme
+- özendirme
 - Bir kimseyi kötü bir iş yapması için kışkırtma
 ozellikler:
 - - isim

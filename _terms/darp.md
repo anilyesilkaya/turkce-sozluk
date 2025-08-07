@@ -5,9 +5,9 @@ slug: darp
 letter: D
 lisan: Arapça ḍarb
 anlamlar:
-- ► vurma
-- ► çarpma
-- ► vuruş
+- vurma
+- çarpma
+- vuruş
 ozellikler:
 - - isim
   - eskimiş

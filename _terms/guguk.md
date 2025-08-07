@@ -5,7 +5,7 @@ slug: guguk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► guguk kuşu
+- guguk kuşu
 - Guguk kuşunun sesi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: tevkifhane
 letter: T
 lisan: Arapça tevḳīf + Farsça ḫāne
 anlamlar:
-- ► tutukevi
+- tutukevi
 ozellikler:
 - - isim
   - eskimiş

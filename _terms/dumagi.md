@@ -5,7 +5,7 @@ slug: dumagi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► nezle
+- nezle
 ozellikler:
 - - isim
   - ağızlardan

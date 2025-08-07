@@ -5,7 +5,7 @@ slug: muvellidulhumuza
 letter: M
 lisan: Arapça muvellid + ḥumūża
 anlamlar:
-- ► oksijen
+- oksijen
 ozellikler:
 - - isim
   - eskimiş

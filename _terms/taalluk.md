@@ -5,7 +5,7 @@ slug: taalluk
 letter: T
 lisan: Arapça taʿalluḳ
 anlamlar:
-- ► ilgi
+- ilgi
 ozellikler:
 - - isim
   - eskimiş

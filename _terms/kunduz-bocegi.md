@@ -5,7 +5,7 @@ slug: kunduz-bocegi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuduz böceği
+- kuduz böceği
 ozellikler:
 - - isim
   - hayvan bilimi

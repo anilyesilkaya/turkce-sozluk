@@ -5,7 +5,7 @@ slug: taharri-memuru
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sivil polis
+- sivil polis
 ozellikler:
 - - isim
   - eskimiş

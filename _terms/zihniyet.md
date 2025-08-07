@@ -5,8 +5,8 @@ slug: zihniyet
 letter: Z
 lisan: Arapça ẕihniyyet
 anlamlar:
-- ► anlayış
-- ► kafa
+- anlayış
+- kafa
 ozellikler:
 - - isim
 - - isim

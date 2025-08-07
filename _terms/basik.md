@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Basılmış, yassılaşmış
 - Çok yüksek olmayan
-- ► kısık
+- kısık
 - Sıkıntı verici, kasvetli olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: redresor
 letter: R
 lisan: Fransızca redresseur
 anlamlar:
-- ► doğrultmaç
+- doğrultmaç
 ozellikler:
 - - isim
   - fizik

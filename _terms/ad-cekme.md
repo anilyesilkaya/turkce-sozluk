@@ -5,7 +5,7 @@ slug: ad-cekme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kura
+- kura
 ozellikler:
 - - isim
 ornekler:

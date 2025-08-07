@@ -5,7 +5,7 @@ slug: kampanaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► düzenbaz
+- düzenbaz
 ozellikler:
 - - sıfat
   - argo

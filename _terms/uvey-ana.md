@@ -5,7 +5,7 @@ slug: uvey-ana
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üvey anne
+- üvey anne
 ozellikler:
 - - isim
 ornekler:

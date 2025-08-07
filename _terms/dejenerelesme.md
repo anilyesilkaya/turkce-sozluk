@@ -5,8 +5,8 @@ slug: dejenerelesme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► soysuzlaşma
-- ► yozlaşma
+- soysuzlaşma
+- yozlaşma
 ozellikler:
 - - isim
 - - isim

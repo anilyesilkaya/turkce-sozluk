@@ -5,7 +5,7 @@ slug: sehadetname
 letter: Ş
 lisan: Arapça şehādet + Farsça nāme
 anlamlar:
-- ► diploma
+- diploma
 - Bir işin yapıldığını gösteren, yetkilisi tarafından verilmiş olan onaylanmış belge
 ozellikler:
 - - isim

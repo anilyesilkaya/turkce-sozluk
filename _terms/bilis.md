@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Canlının, bir nesne veya olayın varlığına ilişkin bilgili ve bilinçli duruma gelmesi; vukuf
-- ► tanıdık
+- tanıdık
 ozellikler:
 - - isim
   - ruh bilimi

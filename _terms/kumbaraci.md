@@ -5,7 +5,7 @@ slug: kumbaraci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► humbaracı
+- humbaracı
 ozellikler:
 - - isim
   - tarih

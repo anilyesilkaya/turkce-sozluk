@@ -5,7 +5,7 @@ slug: sureyya
 letter: S
 lisan: Arapça s̱ureyyā
 anlamlar:
-- ► Ülker
+- Ülker
 ozellikler:
 - - isim
   - gök bilimi

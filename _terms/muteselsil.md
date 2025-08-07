@@ -5,7 +5,7 @@ slug: muteselsil
 letter: M
 lisan: Arapça muteselsil
 anlamlar:
-- ► zincirleme
+- zincirleme
 ozellikler:
 - - sıfat
   - eskimiş

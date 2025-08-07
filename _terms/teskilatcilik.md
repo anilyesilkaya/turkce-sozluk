@@ -5,7 +5,7 @@ slug: teskilatcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütçülük
+- örgütçülük
 ozellikler:
 - - isim
 ornekler:

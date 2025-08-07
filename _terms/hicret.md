@@ -5,7 +5,7 @@ slug: hicret
 letter: H
 lisan: Arapça hicret
 anlamlar:
-- ► göç
+- göç
 - İslam takviminde tarih başı sayılan Hz. Muhammed'in Mekke'den Medine'ye göç etmesi
 ozellikler:
 - - isim

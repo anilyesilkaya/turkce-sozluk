@@ -5,8 +5,8 @@ slug: taoizm
 letter: T
 lisan: Fransızca taoïsme
 anlamlar:
-- ► Taoculuk
-- ► falcılık
+- Taoculuk
+- falcılık
 ozellikler:
 - - isim
   - felsefe

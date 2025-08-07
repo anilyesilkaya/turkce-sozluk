@@ -5,7 +5,7 @@ slug: itimatsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► güvensizlik
+- güvensizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tanilmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanınmak
+- tanınmak
 ozellikler:
 - - nesnesiz
   - eskimiş

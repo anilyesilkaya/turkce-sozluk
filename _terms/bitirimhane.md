@@ -5,7 +5,7 @@ slug: bitirimhane
 letter: B
 lisan: Türkçe bitirim + Farsça ḫāne
 anlamlar:
-- ► kumarhane
+- kumarhane
 ozellikler:
 - - isim
   - argo

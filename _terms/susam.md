@@ -7,7 +7,7 @@ lisan: Arapça sīsām
 anlamlar:
 - Susamgillerden, sıcak bölgelerde yetişen küçük bir bitki (Sesamum indicum)
 - Bu bitkinin yağ çıkarılan, öğütülerek tahin elde edilen ve simit vb.nin üzerine serpilen küçük sarımtırak tohumu
-- ► süsen
+- süsen
 ozellikler:
 - - isim
   - bitki bilimi

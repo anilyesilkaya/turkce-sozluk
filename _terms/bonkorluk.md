@@ -5,7 +5,7 @@ slug: bonkorluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► cömertlik
+- cömertlik
 ozellikler:
 - - isim
 ornekler:

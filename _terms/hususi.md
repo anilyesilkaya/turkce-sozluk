@@ -5,7 +5,7 @@ slug: hususi
 letter: H
 lisan: Arapça ḫuṣūṣī
 anlamlar:
-- ► özel
+- özel
 - Özel olarak, özel bir biçimde
 ozellikler:
 - - sıfat

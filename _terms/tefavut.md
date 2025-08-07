@@ -5,7 +5,7 @@ slug: tefavut
 letter: T
 lisan: Arapça tefāvut
 anlamlar:
-- ► farklılık
+- farklılık
 ozellikler:
 - - isim
   - eskimiş

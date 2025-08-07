@@ -5,7 +5,7 @@ slug: sensor
 letter: S
 lisan: İngilizce sensor
 anlamlar:
-- ► duyarga
+- duyarga
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: teyzezade
 letter: T
 lisan: Türkçe teyze + Farsça zāde
 anlamlar:
-- ► teyze oğlu
+- teyze oğlu
 ozellikler:
 - - isim
 ornekler:

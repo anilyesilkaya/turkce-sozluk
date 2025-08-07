@@ -5,7 +5,7 @@ slug: murekkep-zaman
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► birleşik çekim
+- birleşik çekim
 ozellikler:
 - - isim
   - müzik

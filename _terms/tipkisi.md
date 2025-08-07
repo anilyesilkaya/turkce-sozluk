@@ -5,7 +5,7 @@ slug: tipkisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► aynısı
+- aynısı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: iskerlet
 letter: I
 lisan: İtalyanca scarlatto
 anlamlar:
-- ► dikenli salyangoz
+- dikenli salyangoz
 ozellikler:
 - - isim
   - hayvan bilimi

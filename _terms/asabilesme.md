@@ -5,7 +5,7 @@ slug: asabilesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sinirlenme
+- sinirlenme
 ozellikler:
 - - isim
 ornekler:

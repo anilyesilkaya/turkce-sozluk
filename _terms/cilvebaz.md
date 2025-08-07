@@ -5,7 +5,7 @@ slug: cilvebaz
 letter: C
 lisan: Farsça cilvebāz
 anlamlar:
-- ► cilveli
+- cilveli
 ozellikler:
 - - sıfat
   - eskimiş

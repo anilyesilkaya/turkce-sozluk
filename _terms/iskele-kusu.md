@@ -5,7 +5,7 @@ slug: iskele-kusu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yalıçapkını
+- yalıçapkını
 ozellikler:
 - - isim
   - hayvan bilimi

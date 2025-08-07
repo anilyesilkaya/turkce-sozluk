@@ -5,7 +5,7 @@ slug: gasil
 letter: G
 lisan: Arapça ġasl
 anlamlar:
-- ► ölü yıkama
+- ölü yıkama
 ozellikler:
 - - isim
   - din bilimi

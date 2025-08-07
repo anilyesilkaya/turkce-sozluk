@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nisbī
 anlamlar:
 - Birbirine göre (olan), önceki duruma göre
-- ► bağıntılı
+- bağıntılı
 ozellikler:
 - - sıfat
 - - sıfat

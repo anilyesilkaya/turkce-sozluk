@@ -5,7 +5,7 @@ slug: takallus
 letter: T
 lisan: Arapça taḳalluṣ
 anlamlar:
-- ► kasılma
+- kasılma
 ozellikler:
 - - isim
   - eskimiş

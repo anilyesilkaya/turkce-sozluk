@@ -6,8 +6,8 @@ letter: U
 lisan: Arapça ʿufūnet
 anlamlar:
 - Pis koku
-- ► irin
-- ► çürüme
+- irin
+- çürüme
 ozellikler:
 - - isim
   - eskimiş

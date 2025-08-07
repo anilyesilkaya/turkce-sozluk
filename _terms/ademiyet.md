@@ -5,7 +5,7 @@ slug: ademiyet
 letter: A
 lisan: Arapça ʿademiyyet
 anlamlar:
-- ► yokluk
+- yokluk
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: sensorlu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► duyargalı
+- duyargalı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: bedahet
 letter: B
 lisan: Arapça bedāhet
 anlamlar:
-- ► muayyenlik
+- muayyenlik
 - Bir konuda hazırlıksız konuşabilme yeteneği
 ozellikler:
 - - isim

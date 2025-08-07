@@ -5,7 +5,7 @@ slug: buut
 letter: B
 lisan: Arapça buʿd
 anlamlar:
-- ► boyut
+- boyut
 ozellikler:
 - - isim
   - eskimiş

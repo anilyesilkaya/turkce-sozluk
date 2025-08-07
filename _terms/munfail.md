@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça munfaʿil
 anlamlar:
 - Gücenmiş, alınmış, kırgın
-- ► edilgin
+- edilgin
 ozellikler:
 - - sıfat
   - eskimiş

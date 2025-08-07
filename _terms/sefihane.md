@@ -5,7 +5,7 @@ slug: sefihane
 letter: S
 lisan: Arapça sefīh + Farsça -āne
 anlamlar:
-- ► alçakça
+- alçakça
 ozellikler:
 - - zarf
   - eskimiş

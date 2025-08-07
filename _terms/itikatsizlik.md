@@ -5,7 +5,7 @@ slug: itikatsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inançsızlık
+- inançsızlık
 ozellikler:
 - - isim
 ornekler:

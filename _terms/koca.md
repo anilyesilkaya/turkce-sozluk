@@ -6,8 +6,8 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük, geniş
-- ► kocaman
-- ► yaşlı (I)
+- kocaman
+- yaşlı (I)
 - Büyük, ulu olan
 ozellikler:
 - - sıfat

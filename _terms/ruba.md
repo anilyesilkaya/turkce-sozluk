@@ -5,7 +5,7 @@ slug: ruba
 letter: R
 lisan: İtalyanca roba
 anlamlar:
-- ► giysi
+- giysi
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: sedalilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonluluk
+- tonluluk
 ozellikler:
 - - isim
   - dil bilgisi

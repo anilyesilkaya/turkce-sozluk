@@ -5,7 +5,7 @@ slug: edebikelam
 letter: E
 lisan: Arapça edeb + kelām
 anlamlar:
-- ► örtmece
+- örtmece
 ozellikler:
 - - isim
   - edebiyat

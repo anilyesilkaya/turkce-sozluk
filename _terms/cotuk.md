@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dışarıda kalmış ağaç kökü
 - Kesilen ağacın topraktan yukarıda kalan bölümü
-- ► tevek
+- tevek
 ozellikler:
 - - isim
 - - isim

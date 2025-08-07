@@ -5,8 +5,8 @@ slug: istikamet
 letter: I
 lisan: Arapça istiḳāmet
 anlamlar:
-- ► yön
-- ► doğrultu
+- yön
+- doğrultu
 ozellikler:
 - - isim
 - - isim

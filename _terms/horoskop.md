@@ -5,7 +5,7 @@ slug: horoskop
 letter: H
 lisan: Yunanca
 anlamlar:
-- ► yıldız haritası
+- yıldız haritası
 ozellikler:
 - - isim
   - gök bilimi

@@ -14,7 +14,9 @@
       <p class="term-count">Toplam <strong>{{ site.terms | size }}</strong> kelime</p>
     {%- endif %}
 
-    {% include search_banner.html %}
+    {%- if page.url == '/' or page.url contains '/terim' %}
+      {% include search_banner.html %}
+    {%- endif %}
   </header>
 
   <main role="main">
@@ -22,6 +24,9 @@
   </main>
 
   <footer role="contentinfo">
+    {%- if page.url == '/' %}  
+      <p><a href="{{ '/liste/A.html' | relative_url }}">İlk harfine göre sıralı kelimeler listesi</a></p>
+    {%- endif %}
     <p>Anıl Yeşilkaya &copy; {{ site.time | date: '%Y' }}</p>
   </footer>
 

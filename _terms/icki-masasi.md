@@ -5,7 +5,7 @@ slug: icki-masasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içki sofrası
+- içki sofrası
 ozellikler:
 - - isim
 ornekler:

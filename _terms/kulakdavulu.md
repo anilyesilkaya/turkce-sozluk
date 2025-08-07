@@ -5,7 +5,7 @@ slug: kulakdavulu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kulak zarı
+- kulak zarı
 ozellikler:
 - - isim
   - anatomi

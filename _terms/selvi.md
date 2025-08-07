@@ -5,7 +5,7 @@ slug: selvi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► servi
+- servi
 ozellikler:
 - - isim
   - bitki bilimi

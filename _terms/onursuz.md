@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Onuru olmayan veya onura aykırı davranışlarda bulunan; haysiyetsiz
-- ► şerefsiz
+- şerefsiz
 ozellikler:
 - - sıfat
 - - sıfat

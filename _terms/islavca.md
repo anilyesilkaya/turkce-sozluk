@@ -5,7 +5,7 @@ slug: islavca
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► Slavca
+- Slavca
 ozellikler:
 - - isim
 ornekler:

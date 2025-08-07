@@ -5,7 +5,7 @@ slug: agrandisman
 letter: A
 lisan: Fransızca agrandissement
 anlamlar:
-- ► büyültme
+- büyültme
 ozellikler:
 - - isim
 ornekler:

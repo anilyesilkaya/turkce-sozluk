@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Atardamar ve toplardamarların içinde dolaşarak hücrelerde özümleme, yadımlama görevlerini sağlayan plazma ve yuvarlardan oluşmuş kırmızı renkli sıvı; dem (II), hun
-- ► soy
+- soy
 ozellikler:
 - - isim
 - - isim

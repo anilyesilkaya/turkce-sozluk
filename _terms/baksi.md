@@ -5,7 +5,7 @@ slug: baksi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şaman
+- şaman
 - Destan söyleme geleneğini devam ettiren kimse
 ozellikler:
 - - isim

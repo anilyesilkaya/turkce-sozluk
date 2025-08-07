@@ -5,7 +5,7 @@ slug: ademimerkeziyet
 letter: A
 lisan: Arapça ʿadem + merkeziyyet
 anlamlar:
-- ► yerinden yönetim
+- yerinden yönetim
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: candas
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► can dostu
+- can dostu
 ozellikler:
 - - isim
 ornekler:

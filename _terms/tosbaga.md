@@ -5,7 +5,7 @@ slug: tosbaga
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaplumbağa
+- kaplumbağa
 ozellikler:
 - - isim
   - ağızlardan

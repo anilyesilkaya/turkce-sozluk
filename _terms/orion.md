@@ -5,7 +5,7 @@ slug: orion
 letter: O
 lisan: İngilizce orion
 anlamlar:
-- ► Avcı
+- Avcı
 ozellikler:
 - - isim
   - gök bilimi

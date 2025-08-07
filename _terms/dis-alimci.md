@@ -5,7 +5,7 @@ slug: dis-alimci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ithalatçı
+- ithalatçı
 ozellikler:
 - - isim
 ornekler:

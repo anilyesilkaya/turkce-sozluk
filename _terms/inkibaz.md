@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça inḳibāż
 anlamlar:
 - Büzülüp toplanma
-- ► keder
-- ► kabız
+- keder
+- kabız
 ozellikler:
 - - isim
   - eskimiş

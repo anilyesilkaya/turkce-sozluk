@@ -5,7 +5,7 @@ slug: gabavet
 letter: G
 lisan: Arapça ġabāvet
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 ozellikler:
 - - isim
   - eskimiş

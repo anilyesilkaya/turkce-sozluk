@@ -5,7 +5,7 @@ slug: tekerlekli-koltuk
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tekerlekli sandalye
+- tekerlekli sandalye
 ozellikler:
 - - isim
 ornekler:

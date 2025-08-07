@@ -5,7 +5,7 @@ slug: zeplin
 letter: Z
 lisan: Almanca Zeppelin
 anlamlar:
-- ► hava gemisi
+- hava gemisi
 ozellikler:
 - - isim
 ornekler:

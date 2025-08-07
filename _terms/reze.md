@@ -5,7 +5,7 @@ slug: reze
 letter: R
 lisan: Arapça rezze
 anlamlar:
-- ► menteşe
+- menteşe
 - Kapıyı içeriden ve dışarıdan açıp kapamaya yarayan ve başparmakla basılarak işletilen düzen
 ozellikler:
 - - isim

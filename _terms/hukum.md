@@ -5,11 +5,11 @@ slug: hukum
 letter: H
 lisan: Arapça ḥukm
 anlamlar:
-- ► yargı
-- ► egemenlik
+- yargı
+- egemenlik
 - Değer, aynı veya benzer nitelik
 - Önem, geçerlilik
-- ► karar
+- karar
 ozellikler:
 - - isim
 - - isim

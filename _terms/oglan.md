@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Erkek çocuk
 - Yetişkin erkek
-- ► (iskambilde) bacak
+- (iskambilde) bacak
 - Cinsel bakımdan erkeklerin zevkine hizmet eden
 - Genç erkek hizmetçi
 - Tiyatro ve sinemada birinci derecede erkek karakter

@@ -5,7 +5,7 @@ slug: saman-sarisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► saman rengi
+- saman rengi
 - Bu renkte olan
 ozellikler:
 - - isim

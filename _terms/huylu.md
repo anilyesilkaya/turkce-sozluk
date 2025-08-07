@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Herhangi bir huyu olan
-- ► kuşkulu
+- kuşkulu
 - Ürkek, sinirli olan (binek hayvanı)
 ozellikler:
 - - sıfat

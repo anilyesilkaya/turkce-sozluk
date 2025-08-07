@@ -5,7 +5,7 @@ slug: sivasmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bulaşmak
+- bulaşmak
 - Sıvık veya sıvışık bir duruma gelmek
 ozellikler:
 - - -e

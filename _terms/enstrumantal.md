@@ -5,8 +5,8 @@ slug: enstrumantal
 letter: E
 lisan: Fransızca instrumental
 anlamlar:
-- ► sözsüz
-- ► araç durumu
+- sözsüz
+- araç durumu
 ozellikler:
 - - sıfat
   - müzik

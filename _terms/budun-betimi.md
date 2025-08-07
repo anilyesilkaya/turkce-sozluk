@@ -5,7 +5,7 @@ slug: budun-betimi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► etnografya
+- etnografya
 ozellikler:
 - - isim
 ornekler:

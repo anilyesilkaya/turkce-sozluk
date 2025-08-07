@@ -10,7 +10,7 @@ anlamlar:
 - Çalışma süresi sona ermiş (iş yeri)
 - Başı örtülü (kadın)
 - Açık ve kesin söz kullanmadan söylenen
-- ► gizli
+- gizli
 - Açık olmayan (giyecek)
 - Bulutlu, karanlık (hava)
 - İçe dönük yaradılışta olan

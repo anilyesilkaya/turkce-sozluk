@@ -5,7 +5,7 @@ slug: obelisk
 letter: O
 lisan: Fransızca obélisque
 anlamlar:
-- ► dikili taş
+- dikili taş
 ozellikler:
 - - isim
 ornekler:

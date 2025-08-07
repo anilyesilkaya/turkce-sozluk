@@ -5,7 +5,7 @@ slug: askmerdiveni
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► eğrelti otu
+- eğrelti otu
 ozellikler:
 - - isim
   - bitki bilimi

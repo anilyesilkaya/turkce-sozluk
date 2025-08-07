@@ -5,7 +5,7 @@ slug: mebiz
 letter: M
 lisan: Arapça mebīż
 anlamlar:
-- ► yumurtalık
+- yumurtalık
 ozellikler:
 - - isim
   - eskimiş

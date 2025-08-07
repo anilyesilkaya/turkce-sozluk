@@ -5,7 +5,7 @@ slug: noksansiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► eksiksiz
+- eksiksiz
 - Eksiksiz bir biçimde
 ozellikler:
 - - sıfat

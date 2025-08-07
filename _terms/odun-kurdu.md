@@ -5,7 +5,7 @@ slug: odun-kurdu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► tahta kurdu
+- tahta kurdu
 ozellikler:
 - - isim
   - hayvan bilimi

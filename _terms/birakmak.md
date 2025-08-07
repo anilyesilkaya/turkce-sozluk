@@ -13,13 +13,13 @@ anlamlar:
 - Geriye kalmasını sağlamak
 - Bir işin sorumluluğunu, yükümlülüğünü başkasına vermek, onu görevlendirmek
 - Birinin bir şeyi yapmasına engel olmamak
-- ► sarkıtmak
+- sarkıtmak
 - Ölen, ayrılan birinden iş, kişi, nesne vb. şeyler kalmak
 - Bir alışkanlıktan veya bir işten vazgeçmek
 - Uğraşmaz olmak, artık uğraşmamak
 - Bıyık veya sakal uzatmak
 - Özgürlük vermek, hürriyetine kavuşmasını sağlamak
-- ► boşamak
+- boşamak
 - Kötü bir durumda terk etmek
 - Koyup gitmek
 - Sınıftan veya sınavdan geçirmemek
@@ -29,10 +29,10 @@ anlamlar:
 - Sahiplik hakkını başkasına vermek
 - Yapışık olan bir şey yapışıklıktan kurtulmak
 - Bulunduğu veya dokunduğu yerde bir şey oluşturmak, meydana getirmek
-- ► koymak
+- koymak
 - Bir şeyi başkasına iletilmek üzere vermek
 - Bir şeyi bir kimse veya belli bir amaç için ayırmak
-- ► götürmek
+- götürmek
 - Kâr getirmek, yarar sağlamak
 - Birilerini koyuvermek, salıvermek
 - Bir yana itmek, önem vermemek

@@ -5,7 +5,7 @@ slug: zaviyevi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► açısal
+- açısal
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: obur-dunya
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ahiret
+- ahiret
 ozellikler:
 - - isim
 ornekler:

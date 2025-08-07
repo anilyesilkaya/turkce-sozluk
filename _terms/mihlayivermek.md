@@ -5,7 +5,7 @@ slug: mihlayivermek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivileyivermek
+- çivileyivermek
 ozellikler:
 - - -i
 ornekler:

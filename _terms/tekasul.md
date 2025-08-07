@@ -5,7 +5,7 @@ slug: tekasul
 letter: T
 lisan: Arapça tekāsul
 anlamlar:
-- ► üşengeçlik
+- üşengeçlik
 ozellikler:
 - - isim
   - eskimiş

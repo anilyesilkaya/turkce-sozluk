@@ -5,7 +5,7 @@ slug: calgic
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► mızrap
+- mızrap
 - Bahçe süpürgesi; çalkı
 ozellikler:
 - - isim

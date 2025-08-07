@@ -5,8 +5,8 @@ slug: ebedi
 letter: E
 lisan: Arapça ebedī
 anlamlar:
-- ► sonsuz
-- ► ölümsüz
+- sonsuz
+- ölümsüz
 ozellikler:
 - - sıfat
 - - sıfat

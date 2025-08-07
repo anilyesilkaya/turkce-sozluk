@@ -5,7 +5,7 @@ slug: ekecek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► tohum
+- tohum
 ozellikler:
 - - isim
   - ağızlardan

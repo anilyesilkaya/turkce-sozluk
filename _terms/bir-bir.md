@@ -5,8 +5,8 @@ slug: bir-bir
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birer birer
-- ► ayrı ayrı
+- birer birer
+- ayrı ayrı
 - Olduğu gibi, tam tamına, eksiksiz olarak
 ozellikler:
 - - zarf

@@ -5,7 +5,7 @@ slug: erkaniharp
 letter: E
 lisan: Arapça erkān + ḥarb
 anlamlar:
-- ► kurmay
+- kurmay
 ozellikler:
 - - isim
   - eskimiş

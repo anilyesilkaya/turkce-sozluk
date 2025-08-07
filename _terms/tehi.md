@@ -5,7 +5,7 @@ slug: tehi
 letter: T
 lisan: Farsça tehī
 anlamlar:
-- ► boş
+- boş
 ozellikler:
 - - sıfat
   - eskimiş

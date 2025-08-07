@@ -5,7 +5,7 @@ slug: munasebetli-munasebetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yerli yersiz
+- yerli yersiz
 ozellikler:
 - - zarf
 ornekler:

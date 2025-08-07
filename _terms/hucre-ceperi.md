@@ -5,7 +5,7 @@ slug: hucre-ceperi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hücre duvarı
+- hücre duvarı
 ozellikler:
 - - isim
   - biyoloji

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydı yapılmamış, deftere veya yazıya geçirilmemiş olan
-- ► ilgisiz
+- ilgisiz
 - Bir şarta bağlı olmayan
 ozellikler:
 - - sıfat

@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Belli olma durumu; bedahet
-- ► belirlilik
+- belirlilik
 ozellikler:
 - - isim
 - - isim

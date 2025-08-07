@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça işbāʿ
 anlamlar:
 - Karnını doyurma
-- ► doyum
-- ► doyma
+- doyum
+- doyma
 ozellikler:
 - - isim
   - eskimiş

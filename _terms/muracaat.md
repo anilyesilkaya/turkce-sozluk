@@ -5,8 +5,8 @@ slug: muracaat
 letter: M
 lisan: Arapça murācaʿat
 anlamlar:
-- ► başvuru
-- ► danışma
+- başvuru
+- danışma
 - Herhangi bir eserden yararlanma
 ozellikler:
 - - isim

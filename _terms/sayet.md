@@ -5,7 +5,7 @@ slug: sayet
 letter: Ş
 lisan: Farsça şāyed
 anlamlar:
-- ► eğer
+- eğer
 ozellikler:
 - - bağlaç
 ornekler:

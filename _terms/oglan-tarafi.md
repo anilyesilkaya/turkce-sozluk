@@ -5,7 +5,7 @@ slug: oglan-tarafi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► erkek tarafı
+- erkek tarafı
 ozellikler:
 - - isim
 ornekler:

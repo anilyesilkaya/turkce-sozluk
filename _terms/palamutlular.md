@@ -5,7 +5,7 @@ slug: palamutlular
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kayıngiller
+- kayıngiller
 ozellikler:
 - - isim
   - bitki bilimi

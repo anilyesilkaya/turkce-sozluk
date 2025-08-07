@@ -5,7 +5,7 @@ slug: moduler
 letter: M
 lisan: Fransızca modulaire
 anlamlar:
-- ► parçalı
+- parçalı
 - Belli bir ölçüye dayanarak oluşturulan (tasarım, yapı)
 ozellikler:
 - - sıfat

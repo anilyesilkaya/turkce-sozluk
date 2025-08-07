@@ -5,7 +5,7 @@ slug: haksinas
 letter: H
 lisan: Arapça ḥaḳḳ + Farsça -şinās
 anlamlar:
-- ► haktanır
+- haktanır
 ozellikler:
 - - sıfat
   - eskimiş

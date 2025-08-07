@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Zamanla ilgisi, başlangıcı ve sonu olmayan varlık
-- ► sonsuzluk
-- ► ölümsüzlük
+- sonsuzluk
+- ölümsüzlük
 ozellikler:
 - - isim
 - - isim

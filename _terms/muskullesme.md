@@ -5,7 +5,7 @@ slug: muskullesme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► zorlaşma
+- zorlaşma
 ozellikler:
 - - isim
 ornekler:

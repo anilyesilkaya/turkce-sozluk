@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Türklerin konuştuğu ve yazdığı dillerin genel adı; Türki
-- ► Türkiye Türkçesi
+- Türkiye Türkçesi
 ozellikler:
 - - isim
 - - isim

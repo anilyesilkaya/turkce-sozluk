@@ -5,7 +5,7 @@ slug: garabet
 letter: G
 lisan: Arapça ġarābet
 anlamlar:
-- ► tuhaflık
+- tuhaflık
 ozellikler:
 - - isim
   - eskimiş

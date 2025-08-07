@@ -5,8 +5,8 @@ slug: sule
 letter: Ş
 lisan: Arapça şuʿle
 anlamlar:
-- ► alev (I)
-- ► parıltı
+- alev (I)
+- parıltı
 ozellikler:
 - - isim
   - eskimiş

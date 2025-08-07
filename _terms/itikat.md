@@ -5,7 +5,7 @@ slug: itikat
 letter: I
 lisan: Arapça iʿtiḳād
 anlamlar:
-- ► inanç
+- inanç
 - Bir dinin ibadet dışında kalan inanç kısmı
 ozellikler:
 - - isim

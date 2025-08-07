@@ -5,7 +5,7 @@ slug: tenkitci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► eleştirmen
+- eleştirmen
 ozellikler:
 - - isim
 ornekler:

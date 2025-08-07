@@ -5,7 +5,7 @@ slug: aksine
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► tersine
+- tersine
 ozellikler:
 - - zarf
 ornekler:

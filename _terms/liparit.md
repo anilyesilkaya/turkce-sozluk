@@ -5,7 +5,7 @@ slug: liparit
 letter: L
 lisan: (Lipari Adaları'nın adından)
 anlamlar:
-- ► riyolit
+- riyolit
 ozellikler:
 - - isim
   - jeoloji

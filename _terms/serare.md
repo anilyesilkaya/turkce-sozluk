@@ -5,7 +5,7 @@ slug: serare
 letter: Ş
 lisan: Arapça şerāre
 anlamlar:
-- ► kıvılcım
+- kıvılcım
 ozellikler:
 - - isim
   - eskimiş

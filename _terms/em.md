@@ -5,7 +5,7 @@ slug: em
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ilaç
+- ilaç
 ozellikler:
 - - isim
   - ağızlardan

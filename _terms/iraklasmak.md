@@ -5,7 +5,7 @@ slug: iraklasmak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uzaklaşmak
+- uzaklaşmak
 ozellikler:
 - - -den
 ornekler:

@@ -5,7 +5,7 @@ slug: burunlama
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dışlama
+- dışlama
 ozellikler:
 - - isim
 ornekler:

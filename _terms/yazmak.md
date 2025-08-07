@@ -5,7 +5,7 @@ slug: yazmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaymak (I)
+- yaymak (I)
 - Yufka durumuna getirmek
 ozellikler:
 - - -i

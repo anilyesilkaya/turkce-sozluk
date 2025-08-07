@@ -5,7 +5,7 @@ slug: islah
 letter: I
 lisan: Arapça iṣlāḥ
 anlamlar:
-- ► iyileştirme
+- iyileştirme
 - Bir hayvan veya bitki türünden daha iyi verim alabilmek amacıyla yapılan işlem
 ozellikler:
 - - isim

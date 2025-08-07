@@ -5,7 +5,7 @@ slug: insan-bilimci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► antropolog
+- antropolog
 ozellikler:
 - - isim
 ornekler:

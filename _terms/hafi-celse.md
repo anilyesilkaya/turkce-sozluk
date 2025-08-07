@@ -5,7 +5,7 @@ slug: hafi-celse
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kapalı oturum
+- kapalı oturum
 ozellikler:
 - - isim
   - eskimiş

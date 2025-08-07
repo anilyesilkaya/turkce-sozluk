@@ -5,7 +5,7 @@ slug: yuze-gulucu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ikiyüzlü
+- ikiyüzlü
 ozellikler:
 - - sıfat
   - mecaz

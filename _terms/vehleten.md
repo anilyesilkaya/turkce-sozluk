@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vehleten
 anlamlar:
 - İlk anda
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
   - eskimiş

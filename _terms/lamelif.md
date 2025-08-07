@@ -6,7 +6,7 @@ letter: L
 lisan: Arapça lām + elif
 anlamlar:
 - Arap alfabesinde elifin lam ile birlikte yazılmış biçimi
-- ► dolambaçlı
+- dolambaçlı
 - Eğri büğrü, çarpık olan
 - Sıkıntılı, karışık olan
 ozellikler:

@@ -5,7 +5,7 @@ slug: bizans-oyunu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► alavere dalavere
+- alavere dalavere
 ozellikler:
 - - isim
   - mecaz

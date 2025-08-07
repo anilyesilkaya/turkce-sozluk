@@ -5,7 +5,7 @@ slug: muptela
 letter: M
 lisan: Arapça mubtelā
 anlamlar:
-- ► bağımlı
+- bağımlı
 - Tutulmuş
 - Âşık, vurgun
 ozellikler:

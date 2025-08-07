@@ -5,7 +5,7 @@ slug: dogal-cografya
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► fiziki coğrafya
+- fiziki coğrafya
 ozellikler:
 - - isim
 ornekler:

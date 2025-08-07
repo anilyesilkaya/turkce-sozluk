@@ -5,7 +5,7 @@ slug: sivi-gaz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sıvılaştırılmış petrol gazı
+- sıvılaştırılmış petrol gazı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bonlesmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► saflaşmak (II)
+- saflaşmak (II)
 ozellikler:
 - - nesnesiz
 ornekler:

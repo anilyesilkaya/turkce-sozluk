@@ -5,7 +5,7 @@ slug: takdiriilahi
 letter: T
 lisan: Arapça taḳdīr + ilāhī
 anlamlar:
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
   - din bilimi

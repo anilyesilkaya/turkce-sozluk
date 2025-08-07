@@ -6,8 +6,8 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Haberleşmek işi; iletişme, muhabere, enformasyon
-- ► iletişim
-- ► yazışma
+- iletişim
+- yazışma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: fonksiyonellik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► işlevsellik
+- işlevsellik
 ozellikler:
 - - isim
 ornekler:

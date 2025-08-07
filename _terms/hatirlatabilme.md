@@ -5,7 +5,7 @@ slug: hatirlatabilme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anımsatabilme
+- anımsatabilme
 ozellikler:
 - - isim
 ornekler:

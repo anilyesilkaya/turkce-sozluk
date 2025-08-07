@@ -5,7 +5,7 @@ slug: evsin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► öneze
+- öneze
 ozellikler:
 - - isim
 ornekler:

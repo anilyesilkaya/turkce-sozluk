@@ -5,8 +5,8 @@ slug: nadanca
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nobranca
-- ► nobranca
+- nobranca
+- nobranca
 ozellikler:
 - - zarf
 - - zarf

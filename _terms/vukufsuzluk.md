@@ -5,7 +5,7 @@ slug: vukufsuzluk
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 ozellikler:
 - - isim
 ornekler:

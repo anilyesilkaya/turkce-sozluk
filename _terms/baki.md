@@ -5,7 +5,7 @@ slug: baki
 letter: B
 lisan: Arapça bāḳī
 anlamlar:
-- ► ölümsüz
+- ölümsüz
 - Kalıcı olan
 - Bir şeyden artan (miktar)
 - Geriye kalan

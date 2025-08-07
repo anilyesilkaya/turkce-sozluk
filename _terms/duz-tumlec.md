@@ -5,7 +5,7 @@ slug: duz-tumlec
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► nesne
+- nesne
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,8 +5,8 @@ slug: aza
 letter: A
 lisan: Arapça aʿżā
 anlamlar:
-- ► üye
-- ► organ
+- üye
+- organ
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: diftong
 letter: D
 lisan: Fransızca diphtongue
 anlamlar:
-- ► ikiz ünlü
+- ikiz ünlü
 ozellikler:
 - - isim
   - dil bilgisi

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yükseğe çıkmak
 - Fiyat, ücret vb. artmak; çıkmak
-- ► çoğalmak
+- çoğalmak
 - Aşaması artmak
 - Ünvan, rütbe, derece vb. ilerlemek
 - Güçlenmek, şiddetlenmek

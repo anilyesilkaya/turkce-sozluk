@@ -5,7 +5,7 @@ slug: son-kanun
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ocak
+- ocak
 ozellikler:
 - - isim
   - eskimiş

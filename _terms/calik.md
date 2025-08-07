@@ -5,7 +5,7 @@ slug: calik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çarpık
+- çarpık
 - Verev kesilmiş
 - Doğal olmaktan uzaklaşmış, kendi renginden olmayan
 - Adı defterden silinmiş
@@ -13,7 +13,7 @@ anlamlar:
 - Yan yan giden
 - Çıban yeri
 - Koyunlarda çiçek hastalığı
-- ► çalgın
+- çalgın
 - Benzeyen, benzer, çalan
 ozellikler:
 - - sıfat

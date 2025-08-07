@@ -5,7 +5,7 @@ slug: yilbik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sara
+- sara
 ozellikler:
 - - isim
   - ağızlardan

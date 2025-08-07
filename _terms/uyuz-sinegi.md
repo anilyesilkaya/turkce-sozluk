@@ -5,7 +5,7 @@ slug: uyuz-sinegi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kaplan böcek
+- kaplan böcek
 ozellikler:
 - - isim
   - hayvan bilimi

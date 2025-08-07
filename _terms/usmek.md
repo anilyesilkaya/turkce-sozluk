@@ -5,7 +5,7 @@ slug: usmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üşüşmek
+- üşüşmek
 ozellikler:
 - - -e
   - ağızlardan

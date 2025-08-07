@@ -5,7 +5,7 @@ slug: kerrat-cetveli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çarpım tablosu
+- çarpım tablosu
 ozellikler:
 - - isim
   - eskimiş

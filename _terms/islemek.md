@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeye emek vererek onu daha elverişli bir duruma getirmek
 - İnce ve süslü şeyler yapmak; nakışlamak
 - İçine girmek, etkilemek; nüfuz etmek
-- ► nakşetmek
+- nakşetmek
 - İyi çalışmak, müşterisi bol olmak
 - Durağan durumdan hareketli duruma geçmek; çalışmak
 - Herhangi bir konuyu ele alarak incelemek, öğretmek

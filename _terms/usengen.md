@@ -5,7 +5,7 @@ slug: usengen
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üşengeç
+- üşengeç
 ozellikler:
 - - sıfat
 ornekler:

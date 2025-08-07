@@ -5,7 +5,7 @@ slug: abidelestirilmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anıtlaştırılmak
+- anıtlaştırılmak
 ozellikler:
 - - nesnesiz
 ornekler:

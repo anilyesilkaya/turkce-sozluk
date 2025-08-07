@@ -5,7 +5,7 @@ slug: ogretim-yili
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► eğitim öğretim yılı
+- eğitim öğretim yılı
 ozellikler:
 - - isim
 ornekler:

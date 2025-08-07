@@ -5,7 +5,7 @@ slug: suzgec-kagidi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süzme kâğıdı
+- süzme kâğıdı
 ozellikler:
 - - isim
 ornekler:

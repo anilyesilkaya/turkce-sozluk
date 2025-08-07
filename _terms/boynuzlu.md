@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Boynuzu olan (hayvan)
 - Eşi veya sevgilisi tarafından aldatılmış (kimse)
-- ► troleybüs
+- troleybüs
 ozellikler:
 - - sıfat
 - - sıfat

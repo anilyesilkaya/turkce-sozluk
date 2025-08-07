@@ -5,7 +5,7 @@ slug: benibeser
 letter: B
 lisan: Arapça benī + beşer
 anlamlar:
-- ► insan
+- insan
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: sohretli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ünlü
+- ünlü
 ozellikler:
 - - sıfat
 ornekler:

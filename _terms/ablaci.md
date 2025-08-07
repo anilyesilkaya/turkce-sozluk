@@ -5,7 +5,7 @@ slug: ablaci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sevici
+- sevici
 ozellikler:
 - - isim
   - argo

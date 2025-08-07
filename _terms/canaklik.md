@@ -5,7 +5,7 @@ slug: canaklik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► vigla
+- vigla
 ozellikler:
 - - isim
   - denizcilik

@@ -5,7 +5,7 @@ slug: badema
 letter: B
 lisan: Arapça baʿdemā
 anlamlar:
-- ► bundan böyle
+- bundan böyle
 ozellikler:
 - - zarf
   - eskimiş

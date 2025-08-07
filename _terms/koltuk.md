@@ -10,10 +10,10 @@ anlamlar:
 - Eski düğünlerde damatla gelinin eve girerken konuklar arasından kol kola geçmeleri töreni
 - Yapıcılıkta yan destek
 - Demirledikten sonra gemiyi iskeleye, rıhtıma veya başka bir gemiye bağlayan ip
-- ► koltuklanma
-- ► kayırma
+- koltuklanma
+- kayırma
 - Yüksek mevki, makam
-- ► genelev
+- genelev
 - Mısır ve buğday fidesinin yanlarından çıkan filizler
 - Kenar, tenha yer
 ozellikler:

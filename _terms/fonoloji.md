@@ -5,7 +5,7 @@ slug: fonoloji
 letter: F
 lisan: Fransızca phonologie
 anlamlar:
-- ► ses bilimi
+- ses bilimi
 ozellikler:
 - - isim
 ornekler:

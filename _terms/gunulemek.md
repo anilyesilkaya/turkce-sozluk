@@ -5,7 +5,7 @@ slug: gunulemek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kıskanmak
+- kıskanmak
 ozellikler:
 - - -i
   - ağızlardan

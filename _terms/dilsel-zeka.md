@@ -5,7 +5,7 @@ slug: dilsel-zeka
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sözel zekâ
+- sözel zekâ
 ozellikler:
 - - isim
 ornekler:

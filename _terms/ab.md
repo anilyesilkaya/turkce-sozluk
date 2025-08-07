@@ -5,7 +5,7 @@ slug: ab
 letter: A
 lisan: Farsça āb
 anlamlar:
-- ► su (I)
+- su (I)
 ozellikler:
 - - isim
   - eskimiş

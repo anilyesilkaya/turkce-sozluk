@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Parası olmayan; zil (II)
-- ► yoksul
+- yoksul
 - Para verilmeden elde edilen; bedava, meccani, müft
 - Para verilmeksizin, bedavadan, bedava
 ozellikler:

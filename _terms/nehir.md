@@ -5,7 +5,7 @@ slug: nehir
 letter: N
 lisan: Arapça nehr
 anlamlar:
-- ► ırmak
+- ırmak
 ozellikler:
 - - isim
 ornekler:

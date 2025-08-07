@@ -5,7 +5,7 @@ slug: motamot
 letter: M
 lisan: Fransızca mot à mot
 anlamlar:
-- ► kelimesi kelimesine
+- kelimesi kelimesine
 - Hiç değiştirmeden
 ozellikler:
 - - sıfat

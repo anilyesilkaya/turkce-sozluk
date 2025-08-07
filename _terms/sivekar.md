@@ -5,7 +5,7 @@ slug: sivekar
 letter: Ş
 lisan: Farsça şīvekār
 anlamlar:
-- ► cilveli
+- cilveli
 ozellikler:
 - - sıfat
   - eskimiş

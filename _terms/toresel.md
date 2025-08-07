@@ -5,7 +5,7 @@ slug: toresel
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► törel
+- törel
 ozellikler:
 - - sıfat
 ornekler:

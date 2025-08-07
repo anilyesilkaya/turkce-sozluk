@@ -5,7 +5,7 @@ slug: tecahuluarifane
 letter: T
 lisan: Arapça tecāhul + ʿārif + Farsça -āne
 anlamlar:
-- ► bilmezlikten gelme
+- bilmezlikten gelme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: isirgin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► isilik
+- isilik
 ozellikler:
 - - isim
   - eskimiş

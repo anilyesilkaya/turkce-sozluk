@@ -5,7 +5,7 @@ slug: belgisiz-zamir
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belirsizlik zamiri
+- belirsizlik zamiri
 ozellikler:
 - - isim
   - dil bilgisi

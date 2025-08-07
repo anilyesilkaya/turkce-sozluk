@@ -5,7 +5,7 @@ slug: multezim
 letter: M
 lisan: Arapça multezim
 anlamlar:
-- ► kesenekçi
+- kesenekçi
 ozellikler:
 - - isim
   - eskimiş

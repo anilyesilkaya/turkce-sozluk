@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yapan, oluşturan, ortaya çıkaran, meydana getiren
 - Önemli ve yararlı işler yapan
-- ► olumlu
+- olumlu
 - Yapı ustası
 ozellikler:
 - - sıfat

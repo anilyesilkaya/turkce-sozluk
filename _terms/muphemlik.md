@@ -5,7 +5,7 @@ slug: muphemlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► belirsizlik
+- belirsizlik
 ozellikler:
 - - isim
 ornekler:

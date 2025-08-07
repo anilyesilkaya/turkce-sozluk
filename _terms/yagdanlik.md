@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Makineleri yağlamakta kullanılan, ince, uzun bir borusu olan yağ kabı
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - isim
 - - isim

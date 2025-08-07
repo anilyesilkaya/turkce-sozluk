@@ -5,7 +5,7 @@ slug: kan-nakli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kan aktarımı
+- kan aktarımı
 ozellikler:
 - - isim
   - tıp

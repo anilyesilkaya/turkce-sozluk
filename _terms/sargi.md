@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Esnek bir maddeden yapılmış uzun, dar ve ince şerit
 - Bir elektrik makinesinde veya aracında aynı devreyi oluşturan iletkenlerin tümü
-- ► sargı bezi
+- sargı bezi
 ozellikler:
 - - isim
 - - isim

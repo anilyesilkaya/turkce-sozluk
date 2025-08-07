@@ -5,7 +5,7 @@ slug: tercuman
 letter: T
 lisan: Arapça tercemān
 anlamlar:
-- ► çevirmen
+- çevirmen
 ozellikler:
 - - isim
 ornekler:

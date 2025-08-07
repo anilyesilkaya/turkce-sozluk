@@ -5,7 +5,7 @@ slug: ampirist
 letter: A
 lisan: Fransızca empiriste
 anlamlar:
-- ► deneyci
+- deneyci
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: buharli-tren
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► buharlı lokomotif
+- buharlı lokomotif
 ozellikler:
 - - isim
 ornekler:

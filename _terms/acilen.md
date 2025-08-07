@@ -5,7 +5,7 @@ slug: acilen
 letter: A
 lisan: Arapça ʿācilen
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

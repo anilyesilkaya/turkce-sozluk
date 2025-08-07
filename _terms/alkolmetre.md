@@ -5,7 +5,7 @@ slug: alkolmetre
 letter: A
 lisan: Fransızca alcoolmètre
 anlamlar:
-- ► alkolölçer
+- alkolölçer
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: ogan
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
   - eskimiş

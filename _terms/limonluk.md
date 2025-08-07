@@ -5,7 +5,7 @@ slug: limonluk
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► sera
+- sera
 - Limon ağaçlarının bulunduğu yer; limon bahçesi
 - Üzerine kesilmiş limon bastırılıp sıkılan, ortası tümsek ve oluklu küçük araç
 - Merdiven, balkon vb. yerlerin kıyılarına çekilen, 20-30 santimetre yüksekliğindeki set

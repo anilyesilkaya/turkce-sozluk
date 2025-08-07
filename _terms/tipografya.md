@@ -5,7 +5,7 @@ slug: tipografya
 letter: T
 lisan: Yunanca
 anlamlar:
-- ► tipografi
+- tipografi
 ozellikler:
 - - isim
 ornekler:

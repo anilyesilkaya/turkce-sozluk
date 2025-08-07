@@ -5,7 +5,7 @@ slug: ugrun
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► gizlice
+- gizlice
 ozellikler:
 - - zarf
 ornekler:

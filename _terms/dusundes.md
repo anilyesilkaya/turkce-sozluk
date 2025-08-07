@@ -5,7 +5,7 @@ slug: dusundes
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► oydaş
+- oydaş
 ozellikler:
 - - isim
 ornekler:

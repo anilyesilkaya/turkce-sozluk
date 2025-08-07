@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Boylu boyunca yatmak
-- ► gitmek
+- gitmek
 - Bir alana yayılmak
 - Bir şey boyunca sıralanmak
 - Bir yere yetişmek, ulaşmak

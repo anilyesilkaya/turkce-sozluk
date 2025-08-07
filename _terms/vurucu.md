@@ -6,7 +6,7 @@ letter: V
 lisan: Türkçe
 anlamlar:
 - Silah attığında hedefini vuran
-- ► etkileyici
+- etkileyici
 ozellikler:
 - - sıfat
 - - sıfat

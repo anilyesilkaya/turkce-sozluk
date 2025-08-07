@@ -5,7 +5,7 @@ slug: numunelik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► örneklik
+- örneklik
 - Örnek alınamayacak kadar tuhaf
 ozellikler:
 - - sıfat

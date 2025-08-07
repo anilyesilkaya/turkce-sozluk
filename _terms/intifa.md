@@ -5,7 +5,7 @@ slug: intifa
 letter: I
 lisan: Arapça intifāʿ
 anlamlar:
-- ► asılanma
+- asılanma
 ozellikler:
 - - isim
   - eskimiş

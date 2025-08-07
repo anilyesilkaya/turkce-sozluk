@@ -5,7 +5,7 @@ slug: butunleme-imtihani
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bütünleme sınavı
+- bütünleme sınavı
 ozellikler:
 - - isim
   - eğitim

@@ -5,7 +5,7 @@ slug: yararsiz-yere
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: siyahi
 letter: S
 lisan: Farsça siyāh + Arapça -ī
 anlamlar:
-- ► zenci
+- zenci
 ozellikler:
 - - isim
 ornekler:

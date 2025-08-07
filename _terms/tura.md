@@ -5,7 +5,7 @@ slug: tura
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tuğra
+- tuğra
 - Metal paranın resimli yüzü
 - Halat gibi örülmüş iplik çilesi
 - Bazı oyunlarda, vurmak için kullanılan düğümlenmiş mendil

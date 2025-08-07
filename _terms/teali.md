@@ -5,7 +5,7 @@ slug: teali
 letter: T
 lisan: Arapça teʿālī
 anlamlar:
-- ► yücelme
+- yücelme
 ozellikler:
 - - isim
   - eskimiş

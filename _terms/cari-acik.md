@@ -5,7 +5,7 @@ slug: cari-acik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► dış ticaret açığı
+- dış ticaret açığı
 ozellikler:
 - - isim
   - ekonomi

@@ -5,7 +5,7 @@ slug: karakavuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► hindiba
+- hindiba
 ozellikler:
 - - isim
   - ağızlardan

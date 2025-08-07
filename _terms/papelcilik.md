@@ -5,7 +5,7 @@ slug: papelcilik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► zarfçılık
+- zarfçılık
 ozellikler:
 - - isim
 ornekler:

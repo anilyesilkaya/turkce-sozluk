@@ -5,7 +5,7 @@ slug: esrik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sarhoş
+- sarhoş
 ozellikler:
 - - sıfat
   - eskimiş

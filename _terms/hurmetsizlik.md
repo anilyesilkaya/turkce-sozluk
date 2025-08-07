@@ -5,7 +5,7 @@ slug: hurmetsizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygısızlık
+- saygısızlık
 ozellikler:
 - - isim
 ornekler:

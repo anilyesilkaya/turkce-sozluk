@@ -5,7 +5,7 @@ slug: vibrasyonlu
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► titreşimli
+- titreşimli
 ozellikler:
 - - sıfat
 ornekler:

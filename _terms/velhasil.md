@@ -5,7 +5,7 @@ slug: velhasil
 letter: V
 lisan: Arapça ve'l-ḥāṣil
 anlamlar:
-- ► kısacası
+- kısacası
 ozellikler:
 - - zarf
 ornekler:

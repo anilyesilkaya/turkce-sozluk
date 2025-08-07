@@ -5,7 +5,7 @@ slug: radyo-etkinligi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► radyoaktivite
+- radyoaktivite
 ozellikler:
 - - isim
 ornekler:

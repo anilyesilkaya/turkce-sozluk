@@ -5,7 +5,7 @@ slug: misafirperverlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► konukseverlik
+- konukseverlik
 ozellikler:
 - - isim
 ornekler:

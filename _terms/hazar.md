@@ -5,7 +5,7 @@ slug: hazar
 letter: H
 lisan: Arapça ḥażar
 anlamlar:
-- ► barış
+- barış
 ozellikler:
 - - isim
   - eskimiş

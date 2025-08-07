@@ -5,7 +5,7 @@ slug: tevkif
 letter: T
 lisan: Arapça tevḳīf
 anlamlar:
-- ► durdurma
+- durdurma
 - Bir suç dolayısıyla birini tutuklama
 ozellikler:
 - - isim

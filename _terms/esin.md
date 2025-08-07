@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Etkilenme, çağrışım veya içe doğmayla akla gelen yaratıcı duygu, düşünce; ilham
-- ► sabah yeli
+- sabah yeli
 ozellikler:
 - - isim
 - - isim

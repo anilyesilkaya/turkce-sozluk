@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫulūṣ + Farsça -kār
 anlamlar:
 - Temiz duygulu, gönlü temiz olan
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - sıfat
   - eskimiş

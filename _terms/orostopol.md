@@ -5,7 +5,7 @@ slug: orostopol
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► orospu çocuğu
+- orospu çocuğu
 ozellikler:
 - - isim
   - argo

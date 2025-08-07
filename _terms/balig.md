@@ -5,7 +5,7 @@ slug: balig
 letter: B
 lisan: Arapça bāliġ
 anlamlar:
-- ► ergen
+- ergen
 ozellikler:
 - - sıfat
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Genç, toy olan
 - Henüz evcilleşmemiş, alışmamış (hergele)
-- ► derviş
+- derviş
 ozellikler:
 - - sıfat
 - - sıfat

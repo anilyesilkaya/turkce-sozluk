@@ -5,7 +5,7 @@ slug: mucellit
 letter: M
 lisan: Arapça mucellid
 anlamlar:
-- ► ciltçi
+- ciltçi
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iştiḳāḳ
 anlamlar:
 - Yarılmış bir şeyin bir bölümünü alma
-- ► türeme
+- türeme
 - Aynı kökten gelen kelimeleri bir arada kullanma sanatı
 ozellikler:
 - - isim

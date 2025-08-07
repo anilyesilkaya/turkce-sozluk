@@ -5,7 +5,7 @@ slug: karaca-kemigi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kol kemiği
+- kol kemiği
 ozellikler:
 - - isim
   - anatomi

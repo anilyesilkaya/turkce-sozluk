@@ -5,7 +5,7 @@ slug: dijitallesmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sayısallaşmak
+- sayısallaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: rantiye
 letter: R
 lisan: Fransızca rentier
 anlamlar:
-- ► getirimci
+- getirimci
 ozellikler:
 - - isim
 ornekler:

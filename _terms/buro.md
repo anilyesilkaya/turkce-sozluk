@@ -9,9 +9,9 @@ anlamlar:
 - Masabaşı işlerin görüldüğü iş yeri
 - Danışma ve yazı işlerinin yürütüldüğü iş yeri; yazıhane, ofis
 - İş yerlerinin içerisinde camekânlı bölme
-- ► şube
-- ► sekreterlik
-- ► yazı masası
+- şube
+- sekreterlik
+- yazı masası
 ozellikler:
 - - isim
 - - isim

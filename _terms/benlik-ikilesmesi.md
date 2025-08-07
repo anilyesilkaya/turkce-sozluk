@@ -5,7 +5,7 @@ slug: benlik-ikilesmesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► duygu durumu bozukluğu
+- duygu durumu bozukluğu
 ozellikler:
 - - isim
   - ruh bilimi

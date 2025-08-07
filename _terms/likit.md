@@ -5,8 +5,8 @@ slug: likit
 letter: L
 lisan: Fransızca liquide
 anlamlar:
-- ► sıvı
-- ► nakit
+- sıvı
+- nakit
 ozellikler:
 - - sıfat
   - fizik

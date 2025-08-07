@@ -9,7 +9,7 @@ anlamlar:
 - Kabul ve onama bildiren bir söz
 - Hafifseme, alay etme belirten bir söz
 - '"Hoş görme" anlamında kullanılan bir söz'
-- ► haydi haydi
+- haydi haydi
 ozellikler:
 - - ünlem
 - - ünlem

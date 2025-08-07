@@ -5,7 +5,7 @@ slug: burunsalik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► burunsak
+- burunsak
 ozellikler:
 - - isim
 ornekler:

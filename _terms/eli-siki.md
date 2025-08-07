@@ -5,7 +5,7 @@ slug: eli-siki
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► cimri
+- cimri
 ozellikler:
 - - sıfat
   - mecaz

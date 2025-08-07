@@ -5,7 +5,7 @@ slug: ada-baligi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► amber balığı
+- amber balığı
 ozellikler:
 - - isim
   - hayvan bilimi

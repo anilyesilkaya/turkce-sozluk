@@ -5,7 +5,7 @@ slug: katiplik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sekreterlik
+- sekreterlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: serh
 letter: Ş
 lisan: Arapça şerḥ
 anlamlar:
-- ► ayırma
-- ► açımlama
+- ayırma
+- açımlama
 - Bir şeyi açıklamak amacıyla yazılmış kitap
 - Açık ve ayrıntılı anlatma
 ozellikler:

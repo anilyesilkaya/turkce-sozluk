@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin kendi ekseni çevresinde sürekli dönmesi
-- ► girdap
+- girdap
 - Çeşitli tahıl karışığı
 ozellikler:
 - - isim

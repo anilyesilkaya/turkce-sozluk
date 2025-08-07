@@ -5,7 +5,7 @@ slug: e-fatura
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik fatura
+- elektronik fatura
 ozellikler:
 - - isim
 ornekler:

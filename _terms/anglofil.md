@@ -5,7 +5,7 @@ slug: anglofil
 letter: A
 lisan: Fransızca anglophile
 anlamlar:
-- ► İngilizsever
+- İngilizsever
 ozellikler:
 - - sıfat
 ornekler:

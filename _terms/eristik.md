@@ -5,7 +5,7 @@ slug: eristik
 letter: E
 lisan: Fransızca éristique
 anlamlar:
-- ► didişim
+- didişim
 ozellikler:
 - - isim
   - felsefe

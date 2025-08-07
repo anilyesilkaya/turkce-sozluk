@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Sevinç, mutluluk, hoşnutluk, kıvanç belirten bir söz
 - '"Yok, kalmadı, tükendi" anlamında kullanılan bir söz'
-- ► idare kandili
-- ► cicili bicili
+- idare kandili
+- cicili bicili
 - Halk müziği ve oyunlarında nakarat sözü
 ozellikler:
 - - ünlem

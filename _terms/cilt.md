@@ -5,7 +5,7 @@ slug: cilt
 letter: C
 lisan: Arapça cild
 anlamlar:
-- ► ten
+- ten
 - Formaları, yaprakları birbirine dikerek veya yapıştırarak kitap, defter, dergi vb.ne geçirilen deri, bez veya kâğıtla kaplı kapak; kap (I)
 - Bir eserin ayrı ayrı basılan bölümlerinden her biri
 ozellikler:

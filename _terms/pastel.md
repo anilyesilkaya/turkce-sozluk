@@ -5,7 +5,7 @@ slug: pastel
 letter: P
 lisan: Fransızca pastel
 anlamlar:
-- ► pastel boya
+- pastel boya
 - Bu boyayla yapılan resim
 - Soluk, mat (renk)
 ozellikler:

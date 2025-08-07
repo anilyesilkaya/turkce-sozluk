@@ -6,7 +6,7 @@ letter: G
 lisan: Arapça ġas̱eyān
 anlamlar:
 - İç bulantısı
-- ► kusma
+- kusma
 ozellikler:
 - - isim
   - eskimiş

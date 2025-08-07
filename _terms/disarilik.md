@@ -5,7 +5,7 @@ slug: disarilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► taşra
+- taşra
 ozellikler:
 - - isim
 ornekler:

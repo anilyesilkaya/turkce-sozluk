@@ -5,7 +5,7 @@ slug: simya
 letter: S
 lisan: Arapça sīmiyā
 anlamlar:
-- ► alşimi
+- alşimi
 ozellikler:
 - - isim
 ornekler:

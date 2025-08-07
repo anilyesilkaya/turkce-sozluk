@@ -5,7 +5,7 @@ slug: tabiat-taklidi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yansımalı kelime
+- yansımalı kelime
 ozellikler:
 - - isim
   - dil bilgisi

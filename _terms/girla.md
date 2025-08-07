@@ -5,7 +5,7 @@ slug: girla
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► alabildiğine
+- alabildiğine
 ozellikler:
 - - zarf
   - teklifsiz konuşmada

@@ -5,7 +5,7 @@ slug: olu-asi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölü yemeği
+- ölü yemeği
 ozellikler:
 - - isim
 ornekler:

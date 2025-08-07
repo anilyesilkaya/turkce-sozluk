@@ -5,7 +5,7 @@ slug: muneccim
 letter: M
 lisan: Arapça muneccim
 anlamlar:
-- ► yıldız falcısı
+- yıldız falcısı
 ozellikler:
 - - isim
 ornekler:

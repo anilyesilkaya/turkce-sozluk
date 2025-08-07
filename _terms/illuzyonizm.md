@@ -5,7 +5,7 @@ slug: illuzyonizm
 letter: I
 lisan: Fransızca illusionnisme
 anlamlar:
-- ► göz bağıcılık
+- göz bağıcılık
 ozellikler:
 - - isim
 ornekler:

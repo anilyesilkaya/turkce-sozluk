@@ -5,7 +5,7 @@ slug: affettiris
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlatış
+- bağışlatış
 ozellikler:
 - - isim
 ornekler:

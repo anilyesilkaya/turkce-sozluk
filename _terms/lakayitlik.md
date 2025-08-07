@@ -5,7 +5,7 @@ slug: lakayitlik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► ilgisizlik
+- ilgisizlik
 ozellikler:
 - - isim
 ornekler:

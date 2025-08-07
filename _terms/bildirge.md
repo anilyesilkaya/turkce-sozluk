@@ -5,7 +5,7 @@ slug: bildirge
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beyanname
+- beyanname
 ozellikler:
 - - isim
 ornekler:

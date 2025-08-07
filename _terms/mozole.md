@@ -5,7 +5,7 @@ slug: mozole
 letter: M
 lisan: Fransızca mausolée
 anlamlar:
-- ► anıt mezar
+- anıt mezar
 ozellikler:
 - - isim
 ornekler:

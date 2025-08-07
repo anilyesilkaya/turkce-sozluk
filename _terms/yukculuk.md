@@ -5,8 +5,8 @@ slug: yukculuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► taşıyıcılık
-- ► hamallık
+- taşıyıcılık
+- hamallık
 ozellikler:
 - - isim
 - - isim

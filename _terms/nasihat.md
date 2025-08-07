@@ -5,7 +5,7 @@ slug: nasihat
 letter: N
 lisan: Arapça naṣīḥat
 anlamlar:
-- ► öğüt
+- öğüt
 ozellikler:
 - - isim
 ornekler:

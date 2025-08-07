@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Satın alınabilen, bütçeye uygun; hesaplıca, ekonomik
-- ► tutumlu
+- tutumlu
 - Ayrıntılarıyla düşünülüp tasarlanmış, planlı olan
 - Ölçülü davranan
 ozellikler:

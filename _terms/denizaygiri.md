@@ -5,7 +5,7 @@ slug: denizaygiri
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► mors
+- mors
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,8 +5,8 @@ slug: becit
 letter: B
 lisan: Farsça be + Arapça cidd
 anlamlar:
-- ► ciddi
-- ► acele
+- ciddi
+- acele
 - Bir işin üzerine çok düşen, önemseyen
 ozellikler:
 - - sıfat

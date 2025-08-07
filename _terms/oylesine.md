@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Aşırı bir biçimde, fazla, o kadar çok, o derece; öylemesine, usulden
-- ► üstünkörü
+- üstünkörü
 ozellikler:
 - - zarf
 - - zarf

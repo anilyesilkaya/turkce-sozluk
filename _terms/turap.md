@@ -5,7 +5,7 @@ slug: turap
 letter: T
 lisan: Arapça turāb
 anlamlar:
-- ► toprak
+- toprak
 ozellikler:
 - - isim
   - eskimiş

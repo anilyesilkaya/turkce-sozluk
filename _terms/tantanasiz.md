@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tantanası olmayan
-- ► görkemsiz
+- görkemsiz
 ozellikler:
 - - sıfat
 - - sıfat

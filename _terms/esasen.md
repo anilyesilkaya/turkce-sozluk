@@ -6,9 +6,9 @@ letter: E
 lisan: Arapça esāsen
 anlamlar:
 - Başından, temelinden, kökeninden
-- ► zaten
+- zaten
 - Nasıl olsa
-- ► aslında
+- aslında
 ozellikler:
 - - zarf
 - - zarf

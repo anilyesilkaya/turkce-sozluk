@@ -5,7 +5,7 @@ slug: gozu-doymazlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► açgözlülük
+- açgözlülük
 ozellikler:
 - - isim
 ornekler:

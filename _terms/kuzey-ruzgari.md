@@ -5,7 +5,7 @@ slug: kuzey-ruzgari
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► poyraz
+- poyraz
 ozellikler:
 - - isim
 ornekler:

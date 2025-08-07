@@ -5,7 +5,7 @@ slug: hevesli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► istekli
+- istekli
 ozellikler:
 - - sıfat
 ornekler:

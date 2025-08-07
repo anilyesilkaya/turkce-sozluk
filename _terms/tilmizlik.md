@@ -5,7 +5,7 @@ slug: tilmizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► öğrencilik
+- öğrencilik
 ozellikler:
 - - isim
 ornekler:

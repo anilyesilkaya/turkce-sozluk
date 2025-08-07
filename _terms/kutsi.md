@@ -5,7 +5,7 @@ slug: kutsi
 letter: K
 lisan: Arapça ḳudsī
 anlamlar:
-- ► kutsal
+- kutsal
 ozellikler:
 - - sıfat
 ornekler:

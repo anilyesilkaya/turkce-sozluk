@@ -5,7 +5,7 @@ slug: mukaddime
 letter: M
 lisan: Arapça muḳaddime
 anlamlar:
-- ► ön söz
+- ön söz
 - Bir olayın başlangıcı
 ozellikler:
 - - isim

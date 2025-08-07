@@ -5,7 +5,7 @@ slug: zinhar
 letter: Z
 lisan: Farsça zinhār
 anlamlar:
-- ► asla
+- asla
 ozellikler:
 - - zarf
   - eskimiş

@@ -5,7 +5,7 @@ slug: inayet
 letter: I
 lisan: Arapça ʿināyet
 anlamlar:
-- ► lütuf
+- lütuf
 ozellikler:
 - - isim
   - eskimiş

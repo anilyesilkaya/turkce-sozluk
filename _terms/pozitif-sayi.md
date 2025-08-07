@@ -5,7 +5,7 @@ slug: pozitif-sayi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► artı sayı
+- artı sayı
 ozellikler:
 - - isim
   - matematik

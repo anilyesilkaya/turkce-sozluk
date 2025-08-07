@@ -5,7 +5,7 @@ slug: ermin
 letter: E
 lisan: Fransızca hermine
 anlamlar:
-- ► kakım
+- kakım
 ozellikler:
 - - isim
   - hayvan bilimi

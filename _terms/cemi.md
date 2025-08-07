@@ -5,7 +5,7 @@ slug: cemi
 letter: C
 lisan: Arapça cemīʿ
 anlamlar:
-- ► bütün
+- bütün
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: siirce
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► mensur şiir
+- mensur şiir
 ozellikler:
 - - isim
   - edebiyat

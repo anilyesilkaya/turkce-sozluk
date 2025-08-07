@@ -8,7 +8,7 @@ anlamlar:
 - Giysilere pile yapan kimse
 - Basılmış formaları katlayan kimse
 - Kırılmış tahıl satıcısı
-- ► değirmenci
+- değirmenci
 ozellikler:
 - - isim
 - - isim

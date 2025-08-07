@@ -5,7 +5,7 @@ slug: fonograf
 letter: F
 lisan: Fransızca phonographe
 anlamlar:
-- ► gramofon
+- gramofon
 ozellikler:
 - - isim
 ornekler:

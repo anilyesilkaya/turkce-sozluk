@@ -5,7 +5,7 @@ slug: dag-servisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sedir (II)
+- sedir (II)
 ozellikler:
 - - isim
   - bitki bilimi

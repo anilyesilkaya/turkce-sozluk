@@ -5,7 +5,7 @@ slug: tecrubesiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► deneyimsiz
+- deneyimsiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,10 +5,10 @@ slug: goygoycu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► şakşakçı
+- şakşakçı
 - Muharrem ayında kapı kapı dolaşıp mâni, kaside vb.ni okuyarak yiyecek maddesi dilenen kimse; hoygoygoycu
 - Bilgisizce ve gereksiz yere çok konuşan kimse; hoygoygoycu
-- ► dilenci
+- dilenci
 ozellikler:
 - - isim
 - - isim

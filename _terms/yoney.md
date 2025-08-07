@@ -5,7 +5,7 @@ slug: yoney
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► vektör
+- vektör
 ozellikler:
 - - isim
   - matematik

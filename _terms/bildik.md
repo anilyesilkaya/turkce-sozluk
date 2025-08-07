@@ -5,7 +5,7 @@ slug: bildik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tanıdık
+- tanıdık
 ozellikler:
 - - sıfat
 ornekler:

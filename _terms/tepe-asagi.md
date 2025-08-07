@@ -5,7 +5,7 @@ slug: tepe-asagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► baş aşağı
+- baş aşağı
 ozellikler:
 - - zarf
 ornekler:

@@ -5,11 +5,11 @@ slug: al
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kırmızı
+- kırmızı
 - Bu renkte olan
 - Dorunun açığı, kızıla çalan at donu
 - Bu renkte olan (at)
-- ► allık
+- allık
 ozellikler:
 - - isim
 - - isim

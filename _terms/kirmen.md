@@ -5,7 +5,7 @@ slug: kirmen
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eğirmen
+- eğirmen
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: tabiplik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hekimlik
+- hekimlik
 ozellikler:
 - - isim
 ornekler:

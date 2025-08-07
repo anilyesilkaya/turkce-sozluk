@@ -5,7 +5,7 @@ slug: tebdil
 letter: T
 lisan: Arapça tebdīl
 anlamlar:
-- ► değiştirme
+- değiştirme
 ozellikler:
 - - isim
   - eskimiş

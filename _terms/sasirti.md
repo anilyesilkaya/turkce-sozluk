@@ -5,7 +5,7 @@ slug: sasirti
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► sürpriz
+- sürpriz
 ozellikler:
 - - isim
 ornekler:

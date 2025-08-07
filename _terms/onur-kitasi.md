@@ -5,7 +5,7 @@ slug: onur-kitasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► tören birliği
+- tören birliği
 ozellikler:
 - - isim
   - askerlik

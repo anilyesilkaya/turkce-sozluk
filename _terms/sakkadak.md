@@ -5,7 +5,7 @@ slug: sakkadak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç
 - Cam silmekte kullanılan, bir sap ve ucunda lastik, plastik, sünger vb. malzeme olan temizlik aracı
-- ► çekpas
+- çekpas
 ozellikler:
 - - isim
 - - isim

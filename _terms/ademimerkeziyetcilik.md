@@ -5,7 +5,7 @@ slug: ademimerkeziyetcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yerinden yönetimcilik
+- yerinden yönetimcilik
 ozellikler:
 - - isim
   - toplum bilimi

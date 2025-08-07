@@ -5,7 +5,7 @@ slug: tokatci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dolandırıcı
+- dolandırıcı
 ozellikler:
 - - isim
   - argo

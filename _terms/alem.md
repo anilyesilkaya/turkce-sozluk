@@ -6,8 +6,8 @@ letter: A
 lisan: Arapça ʿalem
 anlamlar:
 - Minare, kubbe, bayrak direği vb. yüksek şeylerin tepesinde bulunan, pirinçten yapılmış ay yıldız veya lale biçiminde süs; ayça
-- ► bayrak
-- ► simge
+- bayrak
+- simge
 ozellikler:
 - - isim
 - - isim

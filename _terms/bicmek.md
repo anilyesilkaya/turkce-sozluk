@@ -10,7 +10,7 @@ anlamlar:
 - Ekin, ot vb.ni orakla, tırpanla, makine ile kesmek
 - Yaylım ateşiyle öldürmek
 - Değer, paha, fiyat belirlemek
-- ► kestirmek
+- kestirmek
 - Futbolda rakip oyuncuyu, kural dışı olarak ayakları yerden kesilecek bir biçimde düşürmek
 ozellikler:
 - - -i

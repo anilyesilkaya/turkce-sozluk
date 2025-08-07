@@ -5,7 +5,7 @@ slug: korlenmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► körleşmek
+- körleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

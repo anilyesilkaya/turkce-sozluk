@@ -5,7 +5,7 @@ slug: mecruh
 letter: M
 lisan: Arapça mecrūḥ
 anlamlar:
-- ► yaralı
+- yaralı
 - İncinmiş olan (kimse)
 ozellikler:
 - - sıfat

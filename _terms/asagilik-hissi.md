@@ -5,7 +5,7 @@ slug: asagilik-hissi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aşağılık duygusu
+- aşağılık duygusu
 ozellikler:
 - - isim
   - ruh bilimi

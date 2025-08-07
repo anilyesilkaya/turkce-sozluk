@@ -5,7 +5,7 @@ slug: daha-bir
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► farklı
+- farklı
 ozellikler:
 - - sıfat
 ornekler:

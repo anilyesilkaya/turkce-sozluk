@@ -5,7 +5,7 @@ slug: bursiyerlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bursluluk
+- bursluluk
 ozellikler:
 - - isim
 ornekler:

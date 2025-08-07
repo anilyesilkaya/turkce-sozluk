@@ -5,7 +5,7 @@ slug: kentler-arasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehirler arası
+- şehirler arası
 ozellikler:
 - - sıfat
 ornekler:

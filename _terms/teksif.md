@@ -5,7 +5,7 @@ slug: teksif
 letter: T
 lisan: Arapça teks̱īf
 anlamlar:
-- ► yoğunlaştırma
+- yoğunlaştırma
 ozellikler:
 - - isim
   - eskimiş

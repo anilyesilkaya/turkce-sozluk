@@ -5,7 +5,7 @@ slug: cagirtmac
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tellal
+- tellal
 ozellikler:
 - - isim
 ornekler:

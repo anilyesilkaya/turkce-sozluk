@@ -5,7 +5,7 @@ slug: serviyet-bezi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ameliyat örtüsü
+- ameliyat örtüsü
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: pespaye
 letter: P
 lisan: Farsça pest + pāye
 anlamlar:
-- ► alçak
+- alçak
 ozellikler:
 - - sıfat
 ornekler:

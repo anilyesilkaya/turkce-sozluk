@@ -5,7 +5,7 @@ slug: everme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evlendirme
+- evlendirme
 ozellikler:
 - - isim
 ornekler:

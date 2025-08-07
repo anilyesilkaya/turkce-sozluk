@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kirişlemek işi
 - Ahşap döşemelerde yaklaşık 50 santimetre ara ile kirişler koyma
-- ► çaprazlama
+- çaprazlama
 ozellikler:
 - - isim
 - - isim

@@ -8,7 +8,7 @@ anlamlar:
 - Yırtıcı hayvanların ön ayaklarının parmaklarıyla tırnakları
 - Ayakkabının tabanındaki kösele
 - Etkisinden kurtulmak olanaksız, etkisi çok olan güç
-- ► el (I)
+- el (I)
 ozellikler:
 - - isim
 - - isim

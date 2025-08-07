@@ -5,7 +5,7 @@ slug: baharci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baharatçı
+- baharatçı
 ozellikler:
 - - isim
 ornekler:

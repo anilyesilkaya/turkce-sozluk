@@ -5,7 +5,7 @@ slug: meduz
 letter: M
 lisan: Rumca
 anlamlar:
-- ► denizanası
+- denizanası
 ozellikler:
 - - isim
   - hayvan bilimi

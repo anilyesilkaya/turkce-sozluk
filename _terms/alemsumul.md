@@ -5,7 +5,7 @@ slug: alemsumul
 letter: Â
 lisan: Arapça ʿālem + şumūl
 anlamlar:
-- ► evrensel
+- evrensel
 ozellikler:
 - - sıfat
   - eskimiş

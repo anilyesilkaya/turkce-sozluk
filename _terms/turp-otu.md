@@ -5,7 +5,7 @@ slug: turp-otu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yaban turpu
+- yaban turpu
 ozellikler:
 - - isim
   - bitki bilimi

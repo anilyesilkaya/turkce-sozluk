@@ -5,7 +5,7 @@ slug: ateh
 letter: A
 lisan: Arapça ʿateh
 anlamlar:
-- ► bunama
+- bunama
 ozellikler:
 - - isim
   - eskimiş

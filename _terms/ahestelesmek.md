@@ -5,7 +5,7 @@ slug: ahestelesmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaşlamak
+- yavaşlamak
 ozellikler:
 - - nesnesiz
 ornekler:

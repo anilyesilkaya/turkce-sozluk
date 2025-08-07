@@ -5,7 +5,7 @@ slug: neolojizm
 letter: N
 lisan: Fransızca néologisme
 anlamlar:
-- ► türenti
+- türenti
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,8 +5,8 @@ slug: vekalet
 letter: V
 lisan: Arapça vekālet
 anlamlar:
-- ► vekillik
-- ► bakanlık
+- vekillik
+- bakanlık
 ozellikler:
 - - isim
 - - isim

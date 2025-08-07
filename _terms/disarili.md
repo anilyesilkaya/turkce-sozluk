@@ -5,7 +5,7 @@ slug: disarili
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► taşralı
+- taşralı
 ozellikler:
 - - sıfat
 ornekler:

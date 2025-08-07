@@ -5,7 +5,7 @@ slug: otonomluk
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► özerklik
+- özerklik
 ozellikler:
 - - isim
 ornekler:

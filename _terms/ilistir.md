@@ -5,7 +5,7 @@ slug: ilistir
 letter: I
 lisan: Rumca
 anlamlar:
-- ► kevgir
+- kevgir
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: buyukbaba
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dede
+- dede
 ozellikler:
 - - isim
 ornekler:

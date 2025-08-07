@@ -5,7 +5,7 @@ slug: papaganyemi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► yalancı safran
+- yalancı safran
 ozellikler:
 - - isim
   - bitki bilimi

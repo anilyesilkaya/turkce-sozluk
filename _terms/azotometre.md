@@ -5,7 +5,7 @@ slug: azotometre
 letter: A
 lisan: Fransızca azotomètre
 anlamlar:
-- ► azotölçer
+- azotölçer
 ozellikler:
 - - isim
   - kimya

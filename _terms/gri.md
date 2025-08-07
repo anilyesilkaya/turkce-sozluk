@@ -5,7 +5,7 @@ slug: gri
 letter: G
 lisan: Fransızca gris
 anlamlar:
-- ► kül rengi
+- kül rengi
 - Bu renkte olan
 ozellikler:
 - - isim

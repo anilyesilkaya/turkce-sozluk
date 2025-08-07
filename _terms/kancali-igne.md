@@ -5,7 +5,7 @@ slug: kancali-igne
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çengelli iğne
+- çengelli iğne
 ozellikler:
 - - isim
 ornekler:

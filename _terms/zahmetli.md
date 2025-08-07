@@ -5,7 +5,7 @@ slug: zahmetli
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► eziyetli
+- eziyetli
 - Sıkıntı veren
 ozellikler:
 - - sıfat

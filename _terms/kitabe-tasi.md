@@ -5,7 +5,7 @@ slug: kitabe-tasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tabla taşı
+- tabla taşı
 ozellikler:
 - - isim
 ornekler:

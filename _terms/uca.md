@@ -5,7 +5,7 @@ slug: uca
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► yüce
+- yüce
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: peritonit
 letter: P
 lisan: Fransızca péritonite
 anlamlar:
-- ► karın zarı yangısı
+- karın zarı yangısı
 ozellikler:
 - - isim
   - tıp

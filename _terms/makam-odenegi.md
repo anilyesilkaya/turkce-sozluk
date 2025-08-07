@@ -5,7 +5,7 @@ slug: makam-odenegi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► makam tazminatı
+- makam tazminatı
 ozellikler:
 - - isim
 ornekler:

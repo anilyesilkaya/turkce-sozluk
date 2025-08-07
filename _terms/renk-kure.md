@@ -5,7 +5,7 @@ slug: renk-kure
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► renk yuvarı
+- renk yuvarı
 ozellikler:
 - - isim
 ornekler:

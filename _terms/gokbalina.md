@@ -5,7 +5,7 @@ slug: gokbalina
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► mavibalina
+- mavibalina
 ozellikler:
 - - isim
   - hayvan bilimi

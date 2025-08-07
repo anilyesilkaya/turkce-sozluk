@@ -5,7 +5,7 @@ slug: calgi-aleti
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalgı
+- çalgı
 ozellikler:
 - - isim
 ornekler:

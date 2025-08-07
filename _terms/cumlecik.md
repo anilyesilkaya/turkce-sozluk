@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Kısa olan cümle
-- ► önerme
+- önerme
 ozellikler:
 - - isim
 - - isim

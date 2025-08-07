@@ -5,7 +5,7 @@ slug: reflektor
 letter: R
 lisan: Fransızca réflecteur
 anlamlar:
-- ► yansıtıcı
+- yansıtıcı
 ozellikler:
 - - isim
 ornekler:

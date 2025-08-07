@@ -5,7 +5,7 @@ slug: cogul
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çokluk, teklik karşıtı
+- çokluk, teklik karşıtı
 ozellikler:
 - - isim
   - dil bilgisi

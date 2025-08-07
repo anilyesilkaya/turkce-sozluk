@@ -5,10 +5,10 @@ slug: zaviye
 letter: Z
 lisan: Arapça zāviyye
 anlamlar:
-- ► köşe
+- köşe
 - Küçük tekke
-- ► bakış açısı
-- ► açı
+- bakış açısı
+- açı
 ozellikler:
 - - isim
   - eskimiş

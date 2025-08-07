@@ -5,8 +5,8 @@ slug: ispatli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kanıtlı
-- ► tanıtlı
+- kanıtlı
+- tanıtlı
 ozellikler:
 - - sıfat
 - - sıfat

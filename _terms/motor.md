@@ -7,7 +7,7 @@ lisan: Fransızca moteur
 anlamlar:
 - Herhangi bir enerjiyi mekanik enerjiye dönüştüren düzenek
 - Akaryakıtla işleyen deniz aracı
-- ► motosiklet
+- motosiklet
 - Sinema ve televizyon filmleri çekimi sırasında yönetmenin “başla” anlamında verdiği komut
 - Kendisini cinsel bakımdan kullandıran kimse
 ozellikler:

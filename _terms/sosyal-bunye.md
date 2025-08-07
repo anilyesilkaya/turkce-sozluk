@@ -5,7 +5,7 @@ slug: sosyal-bunye
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sosyal yapı
+- sosyal yapı
 ozellikler:
 - - isim
 ornekler:

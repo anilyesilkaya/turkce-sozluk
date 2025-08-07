@@ -5,7 +5,7 @@ slug: planetaryum
 letter: P
 lisan: Fransızca planétarium
 anlamlar:
-- ► gökevi
+- gökevi
 ozellikler:
 - - isim
   - gök bilimi

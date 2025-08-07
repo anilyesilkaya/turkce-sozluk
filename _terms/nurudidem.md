@@ -5,7 +5,7 @@ slug: nurudidem
 letter: N
 lisan: Arapça nūr + Farsça dįde + Türkçe -m
 anlamlar:
-- ► gözümün nuru
+- gözümün nuru
 ozellikler:
 - - ünlem
   - eskimiş

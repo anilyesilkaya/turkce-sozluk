@@ -5,7 +5,7 @@ slug: kukurdumsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kükürtsü
+- kükürtsü
 ozellikler:
 - - sıfat
 ornekler:

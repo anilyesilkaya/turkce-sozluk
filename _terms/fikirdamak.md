@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Fıkır fıkır kaynamak
-- ► cilvelenmek
+- cilvelenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

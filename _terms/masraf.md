@@ -5,7 +5,7 @@ slug: masraf
 letter: M
 lisan: Arapça maṣrif
 anlamlar:
-- ► gider
+- gider
 - Bir şeyin yapımında kullanılan harç vb. malzeme
 ozellikler:
 - - isim

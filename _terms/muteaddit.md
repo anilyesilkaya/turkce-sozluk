@@ -5,7 +5,7 @@ slug: muteaddit
 letter: M
 lisan: Arapça muteʿaddid
 anlamlar:
-- ► birçok
+- birçok
 ozellikler:
 - - sıfat
   - eskimiş

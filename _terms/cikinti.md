@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir yüzeyde ileri doğru çıkan bölüm
 - Bir metni düzeltmek veya ona bir şey eklemek için satır dışına yazılan yazı; çıkma
-- ► kambur
+- kambur
 - Her şeye itiraz eden, huzursuzluk çıkaran (kimse)
 ozellikler:
 - - isim

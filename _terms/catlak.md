@@ -6,9 +6,9 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlamış olan
-- ► deli
+- deli
 - Herhangi bir yerde uzunluğuna olan açıklık; çatlaklık
-- ► ara
+- ara
 - Yer altındaki taş kütlelerinin basınç ve gerilim dolayısıyla yer değiştirmeden çatlayıp yarılması; diyaklaz
 - Deri, mukoza, kemik veya herhangi bir organ üzerinde uzunluğuna olan açıklık; yarık, fissür
 ozellikler:

@@ -8,7 +8,7 @@ anlamlar:
 - Bir kusurun hoş görülmesini gerektiren sebep; mazeret
 - Bir kusurun, bir suçun elde olmadan yapıldığını ileri sürme; mazeret
 - Elverişsiz olma durumu
-- ► bozukluk
+- bozukluk
 ozellikler:
 - - isim
 - - isim

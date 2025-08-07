@@ -5,7 +5,7 @@ slug: baylanlanma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► baylanma
+- baylanma
 ozellikler:
 - - isim
 ornekler:

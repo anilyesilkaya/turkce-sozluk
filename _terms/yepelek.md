@@ -5,7 +5,7 @@ slug: yepelek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► narin
+- narin
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: parafazi
 letter: P
 lisan: Fransızca paraphasie
 anlamlar:
-- ► söz karışıklığı
+- söz karışıklığı
 ozellikler:
 - - isim
   - ruh bilimi

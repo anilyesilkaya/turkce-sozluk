@@ -5,7 +5,7 @@ slug: ispanyol-nezlesi
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► grip
+- grip
 ozellikler:
 - - isim
   - tıp

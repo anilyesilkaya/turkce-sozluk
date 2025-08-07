@@ -5,7 +5,7 @@ slug: izaz
 letter: I
 lisan: Arapça iʿzāz
 anlamlar:
-- ► ağırlama
+- ağırlama
 ozellikler:
 - - isim
   - eskimiş

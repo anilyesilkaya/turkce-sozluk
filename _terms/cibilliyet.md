@@ -5,7 +5,7 @@ slug: cibilliyet
 letter: C
 lisan: Arapça cibilliyyet
 anlamlar:
-- ► yaradılış
+- yaradılış
 ozellikler:
 - - isim
   - eskimiş

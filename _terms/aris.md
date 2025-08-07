@@ -5,7 +5,7 @@ slug: aris
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çözgü
+- çözgü
 ozellikler:
 - - isim
   - ağızlardan

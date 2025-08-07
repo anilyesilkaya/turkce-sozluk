@@ -5,7 +5,7 @@ slug: dirim-bilimci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► biyolog
+- biyolog
 ozellikler:
 - - isim
 ornekler:

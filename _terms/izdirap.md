@@ -5,7 +5,7 @@ slug: izdirap
 letter: I
 lisan: Arapça iżṭirāb
 anlamlar:
-- ► keder
+- keder
 - Ağrı ve acı içinde olma durumu
 ozellikler:
 - - isim

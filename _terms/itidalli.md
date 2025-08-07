@@ -5,7 +5,7 @@ slug: itidalli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ılımlı
+- ılımlı
 ozellikler:
 - - sıfat
 ornekler:

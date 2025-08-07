@@ -5,7 +5,7 @@ slug: bonluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► saflık
+- saflık
 ozellikler:
 - - isim
 ornekler:

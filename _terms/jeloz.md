@@ -5,7 +5,7 @@ slug: jeloz
 letter: J
 lisan: Fransızca gélose
 anlamlar:
-- ► agaragar
+- agaragar
 ozellikler:
 - - isim
 ornekler:

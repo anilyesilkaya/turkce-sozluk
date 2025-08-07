@@ -5,7 +5,7 @@ slug: mana
 letter: M
 lisan: Arapça maʿnā
 anlamlar:
-- ► anlam
+- anlam
 ozellikler:
 - - isim
   - dil bilimi

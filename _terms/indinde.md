@@ -5,7 +5,7 @@ slug: indinde
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yanında
+- yanında
 ozellikler:
 - - zarf
   - eskimiş

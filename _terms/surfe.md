@@ -5,7 +5,7 @@ slug: surfe
 letter: S
 lisan: Arapça surfe
 anlamlar:
-- ► kurtçuk
+- kurtçuk
 ozellikler:
 - - isim
   - eskimiş

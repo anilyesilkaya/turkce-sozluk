@@ -5,7 +5,7 @@ slug: humayun
 letter: H
 lisan: Farsça humāyūn
 anlamlar:
-- ► mutlu
+- mutlu
 - Padişahla ilgili
 - Türk müziğinde dügâh perdesinde karar kılan bir makam
 ozellikler:

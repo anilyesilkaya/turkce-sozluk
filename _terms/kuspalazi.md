@@ -5,7 +5,7 @@ slug: kuspalazi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► difteri
+- difteri
 ozellikler:
 - - isim
   - tıp

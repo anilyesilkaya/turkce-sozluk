@@ -5,7 +5,7 @@ slug: seviyeli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düzeyli
+- düzeyli
 - Değeri yüksek olan
 - Verimli bir biçimde
 ozellikler:

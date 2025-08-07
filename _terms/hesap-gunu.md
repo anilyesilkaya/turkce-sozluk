@@ -5,7 +5,7 @@ slug: hesap-gunu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kıyamet
+- kıyamet
 ozellikler:
 - - isim
   - din bilimi

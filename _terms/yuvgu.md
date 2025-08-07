@@ -5,7 +5,7 @@ slug: yuvgu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► loğ
+- loğ
 ozellikler:
 - - isim
   - ağızlardan

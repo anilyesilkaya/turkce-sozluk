@@ -5,7 +5,7 @@ slug: pabuccu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ayakkabıcı
+- ayakkabıcı
 - Camilerde ayakkabıları bekleyen kimse
 ozellikler:
 - - isim

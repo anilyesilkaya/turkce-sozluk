@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Bir ailede veya bir toplulukta en çok saygı gösterilen kadın
-- ► hamam anası
+- hamam anası
 ozellikler:
 - - isim
 - - isim

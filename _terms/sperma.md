@@ -5,7 +5,7 @@ slug: sperma
 letter: S
 lisan: İtalyanca sperma
 anlamlar:
-- ► meni
+- meni
 - Bir başı, bir gövdesi, hareket etmeye yarayan kuyruğu olan, yumurtadan çok küçük erkek eşey hücresi
 ozellikler:
 - - isim

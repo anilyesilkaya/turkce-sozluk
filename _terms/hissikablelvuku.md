@@ -5,7 +5,7 @@ slug: hissikablelvuku
 letter: H
 lisan: Arapça ḥiss + ḳabl + vuḳūʿ
 anlamlar:
-- ► önsezi
+- önsezi
 ozellikler:
 - - isim
   - eskimiş

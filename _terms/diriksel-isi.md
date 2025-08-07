@@ -5,7 +5,7 @@ slug: diriksel-isi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► diril ısı
+- diril ısı
 ozellikler:
 - - isim
 ornekler:

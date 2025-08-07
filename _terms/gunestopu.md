@@ -5,7 +5,7 @@ slug: gunestopu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Acem lalesi
+- Acem lalesi
 ozellikler:
 - - isim
   - bitki bilimi

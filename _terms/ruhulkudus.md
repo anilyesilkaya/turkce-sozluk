@@ -5,7 +5,7 @@ slug: ruhulkudus
 letter: R
 lisan: Arapça rūh + ḳuds
 anlamlar:
-- ► Cebrail
+- Cebrail
 ozellikler:
 - - isim
   - din bilimi

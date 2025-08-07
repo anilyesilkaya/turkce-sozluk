@@ -5,7 +5,7 @@ slug: dispanser
 letter: D
 lisan: Fransızca dispensaire
 anlamlar:
-- ► sağlık ocağı
+- sağlık ocağı
 ozellikler:
 - - isim
 ornekler:

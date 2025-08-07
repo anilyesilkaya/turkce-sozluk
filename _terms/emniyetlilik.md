@@ -5,7 +5,7 @@ slug: emniyetlilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► güvenlilik
+- güvenlilik
 ozellikler:
 - - isim
 ornekler:

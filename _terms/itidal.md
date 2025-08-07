@@ -5,8 +5,8 @@ slug: itidal
 letter: I
 lisan: Arapça iʿtidāl
 anlamlar:
-- ► ölçülülük
-- ► soğukkanlılık
+- ölçülülük
+- soğukkanlılık
 ozellikler:
 - - isim
 - - isim

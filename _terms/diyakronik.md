@@ -5,7 +5,7 @@ slug: diyakronik
 letter: D
 lisan: Fransızca diachronique
 anlamlar:
-- ► art zamanlı
+- art zamanlı
 ozellikler:
 - - sıfat
 ornekler:

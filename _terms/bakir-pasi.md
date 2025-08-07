@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bakır üzerinde nemli havalarda oluşan ve pası andıran, zehirli bakır hidrokarbonat
-- ► bakır yeşili
+- bakır yeşili
 ozellikler:
 - - isim
   - kimya

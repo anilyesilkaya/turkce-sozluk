@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Kafası sağlam, dayanıklı kimse
-- ► kalın kafalı
+- kalın kafalı
 ozellikler:
 - - isim
 - - isim

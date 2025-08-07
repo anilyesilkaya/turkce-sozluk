@@ -5,7 +5,7 @@ slug: ovucu
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► övgücü
+- övgücü
 ozellikler:
 - - sıfat
 ornekler:

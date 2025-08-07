@@ -5,7 +5,7 @@ slug: ehemmiyet
 letter: E
 lisan: Arapça ehemmiyyet
 anlamlar:
-- ► önem
+- önem
 ozellikler:
 - - isim
 ornekler:

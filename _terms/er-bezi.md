@@ -5,7 +5,7 @@ slug: er-bezi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► taşak
+- taşak
 ozellikler:
 - - isim
   - anatomi

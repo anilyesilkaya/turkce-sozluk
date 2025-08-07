@@ -5,7 +5,7 @@ slug: oz-devim
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özişler
+- özişler
 ozellikler:
 - - isim
 ornekler:

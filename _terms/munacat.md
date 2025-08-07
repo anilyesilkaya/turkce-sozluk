@@ -5,7 +5,7 @@ slug: munacat
 letter: M
 lisan: Arapça munācāt
 anlamlar:
-- ► yakarış
+- yakarış
 - Divan edebiyatında konusu Tanrı’ya yakarış olan şiir
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: simsarlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► komisyonculuk
+- komisyonculuk
 ozellikler:
 - - isim
 ornekler:

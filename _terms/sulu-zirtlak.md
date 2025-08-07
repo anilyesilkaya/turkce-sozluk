@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Gereğinden fazla sulu
 - Oyunlarda kuralları bozup mızıkçılık eden, ağlayan, kaçan (kimse)
-- ► limon
+- limon
 ozellikler:
 - - sıfat
 - - sıfat

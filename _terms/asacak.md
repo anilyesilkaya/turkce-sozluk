@@ -5,7 +5,7 @@ slug: asacak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► askı
+- askı
 ozellikler:
 - - isim
 ornekler:

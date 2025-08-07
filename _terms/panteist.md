@@ -5,7 +5,7 @@ slug: panteist
 letter: P
 lisan: Fransızca panthéiste
 anlamlar:
-- ► tüm tanrıcı
+- tüm tanrıcı
 ozellikler:
 - - sıfat
   - felsefe

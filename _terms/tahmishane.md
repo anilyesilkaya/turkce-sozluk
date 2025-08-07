@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça tahmįs + Farsça ḫāne
 anlamlar:
 - Kahve tanelerinin kavrularak ve öğütülerek  kuru kahve hâline getirildiği yer
-- ► kahvehane
+- kahvehane
 ozellikler:
 - - isim
 - - isim

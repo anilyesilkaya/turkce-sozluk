@@ -5,7 +5,7 @@ slug: nazari
 letter: N
 lisan: Arapça naẓarī
 anlamlar:
-- ► kuramsal
+- kuramsal
 ozellikler:
 - - sıfat
   - eskimiş

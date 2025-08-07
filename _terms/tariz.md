@@ -5,7 +5,7 @@ slug: tariz
 letter: T
 lisan: Arapça taʿrīż
 anlamlar:
-- ► taşlama
+- taşlama
 ozellikler:
 - - isim
   - eskimiş

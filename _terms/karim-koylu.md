@@ -5,7 +5,7 @@ slug: karim-koylu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karısı köylü
+- karısı köylü
 ozellikler:
 - - sıfat
   - mecaz

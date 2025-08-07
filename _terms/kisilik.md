@@ -10,7 +10,7 @@ anlamlar:
 - Bireyin toplumsal hayatı içinde edindiği alışkanlıkların ve davranışların bütünü
 - Herhangi bir kişi için, herhangi bir kişiye yetecek miktarda olan
 - Herhangi bir sayıda kişiden oluşan
-- ► yabanlık
+- yabanlık
 ozellikler:
 - - isim
 - - isim

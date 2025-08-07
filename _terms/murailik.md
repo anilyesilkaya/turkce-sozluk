@@ -5,7 +5,7 @@ slug: murailik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ikiyüzlülük
+- ikiyüzlülük
 ozellikler:
 - - isim
 ornekler:

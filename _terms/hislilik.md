@@ -5,7 +5,7 @@ slug: hislilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygululuk
+- duygululuk
 ozellikler:
 - - isim
 ornekler:

@@ -6,9 +6,9 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Eski duruma gelmek; eskileşmek, köhnemek
-- ► yıpranmak
+- yıpranmak
 - Gözden düşmek, değeri kalmamak
-- ► yaşlanmak
+- yaşlanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: sifahi-edebiyat
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► sözlü edebiyat
+- sözlü edebiyat
 ozellikler:
 - - isim
 ornekler:

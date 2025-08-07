@@ -5,7 +5,7 @@ slug: sarimsak-hardali
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sarımsak otu
+- sarımsak otu
 ozellikler:
 - - isim
   - bitki bilimi

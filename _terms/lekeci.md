@@ -5,7 +5,7 @@ slug: lekeci
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► kuru temizleyici
+- kuru temizleyici
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: endazesiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ölçüsüz
+- ölçüsüz
 ozellikler:
 - - sıfat
 ornekler:

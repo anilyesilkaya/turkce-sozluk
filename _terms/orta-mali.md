@@ -6,8 +6,8 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Herkesin yararlandığı (nesne)
-- ► basmakalıp
-- ► hayat kadını
+- basmakalıp
+- hayat kadını
 ozellikler:
 - - sıfat
   - mecaz

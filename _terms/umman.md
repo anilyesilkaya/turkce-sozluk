@@ -5,7 +5,7 @@ slug: umman
 letter: U
 lisan: Arapça ʿummān
 anlamlar:
-- ► okyanus
+- okyanus
 ozellikler:
 - - isim
   - eskimiş

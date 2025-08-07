@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mutevāzī
 anlamlar:
 - Birbirine paralel olan
-- ► paralel
+- paralel
 ozellikler:
 - - sıfat
   - eskimiş

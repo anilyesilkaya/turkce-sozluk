@@ -5,8 +5,8 @@ slug: iktisat
 letter: I
 lisan: Arapça iḳtiṣād
 anlamlar:
-- ► ekonomi
-- ► tutum
+- ekonomi
+- tutum
 ozellikler:
 - - isim
 - - isim

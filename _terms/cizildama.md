@@ -5,7 +5,7 @@ slug: cizildama
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cızırdama
+- cızırdama
 ozellikler:
 - - isim
 ornekler:

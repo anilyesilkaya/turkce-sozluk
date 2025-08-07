@@ -5,8 +5,8 @@ slug: agartmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlatmak
-- ► beyazlaştırmak
+- beyazlatmak
+- beyazlaştırmak
 - Kuyumculukta gümüşü temizlemek
 ozellikler:
 - - -i

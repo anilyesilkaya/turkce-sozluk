@@ -5,7 +5,7 @@ slug: hasbihal
 letter: H
 lisan: Arapça ḥasb + ḥāl
 anlamlar:
-- ► sohbet
+- sohbet
 ozellikler:
 - - isim
   - eskimiş

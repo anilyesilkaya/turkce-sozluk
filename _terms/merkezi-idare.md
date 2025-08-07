@@ -5,7 +5,7 @@ slug: merkezi-idare
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► merkezî yönetim
+- merkezî yönetim
 ozellikler:
 - - isim
 ornekler:

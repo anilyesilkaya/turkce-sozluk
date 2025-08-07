@@ -5,7 +5,7 @@ slug: esek-dikeni
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kenger
+- kenger
 ozellikler:
 - - isim
   - bitki bilimi

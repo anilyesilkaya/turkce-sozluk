@@ -5,7 +5,7 @@ slug: rolyefli
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► kabartmalı
+- kabartmalı
 ozellikler:
 - - sıfat
 ornekler:

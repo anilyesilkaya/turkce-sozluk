@@ -5,7 +5,7 @@ slug: huylanma
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanma
+- kuşkulanma
 ozellikler:
 - - isim
 ornekler:

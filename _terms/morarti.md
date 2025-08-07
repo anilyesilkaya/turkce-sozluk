@@ -5,7 +5,7 @@ slug: morarti
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► morluk
+- morluk
 ozellikler:
 - - isim
 ornekler:

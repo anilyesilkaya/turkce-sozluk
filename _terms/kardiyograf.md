@@ -5,7 +5,7 @@ slug: kardiyograf
 letter: K
 lisan: Fransızca cardiographe
 anlamlar:
-- ► elektrokardiyograf
+- elektrokardiyograf
 ozellikler:
 - - isim
 ornekler:

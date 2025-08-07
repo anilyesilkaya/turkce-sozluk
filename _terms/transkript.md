@@ -5,7 +5,7 @@ slug: transkript
 letter: T
 lisan: İngilizce transcript
 anlamlar:
-- ► not döküm belgesi
+- not döküm belgesi
 ozellikler:
 - - isim
 ornekler:

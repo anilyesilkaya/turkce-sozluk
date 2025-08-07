@@ -5,7 +5,7 @@ slug: celebiler
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► Çelebiyan
+- Çelebiyan
 ozellikler:
 - - isim
   - din bilimi

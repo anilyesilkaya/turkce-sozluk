@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Arızası olmayan, aksamayan, bozulmadan işleyen
-- ► engebesiz
+- engebesiz
 - Huzurlu, rahat, mutlu bir biçimde
 ozellikler:
 - - sıfat

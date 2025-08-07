@@ -5,7 +5,7 @@ slug: suhunet
 letter: S
 lisan: Arapça suḫūnet
 anlamlar:
-- ► sıcaklık
+- sıcaklık
 ozellikler:
 - - isim
   - eskimiş

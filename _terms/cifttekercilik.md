@@ -5,7 +5,7 @@ slug: cifttekercilik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► bisikletçilik
+- bisikletçilik
 ozellikler:
 - - isim
 ornekler:

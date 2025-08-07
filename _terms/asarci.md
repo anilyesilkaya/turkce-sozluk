@@ -5,7 +5,7 @@ slug: asarci
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► öşürcü
+- öşürcü
 ozellikler:
 - - isim
   - tarih

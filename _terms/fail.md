@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça fāʿil
 anlamlar:
 - Eden, yapan, işleyen
-- ► özne
+- özne
 - Hukuki sonuç doğuracak bir suç işleyen kimse
 ozellikler:
 - - sıfat

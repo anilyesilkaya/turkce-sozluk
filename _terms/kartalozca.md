@@ -5,7 +5,7 @@ slug: kartalozca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kartaloşça
+- kartaloşça
 ozellikler:
 - - zarf
 ornekler:

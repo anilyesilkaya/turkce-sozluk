@@ -5,7 +5,7 @@ slug: endotermik
 letter: E
 lisan: Fransızca endothermique
 anlamlar:
-- ► ısıalan
+- ısıalan
 ozellikler:
 - - sıfat
   - kimya

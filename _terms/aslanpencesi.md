@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, sarı, beyaz çiçekli bir yabani bitki (Alchemilla)
-- ► şirpençe
+- şirpençe
 ozellikler:
 - - isim
   - bitki bilimi

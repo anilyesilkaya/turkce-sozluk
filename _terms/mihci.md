@@ -5,7 +5,7 @@ slug: mihci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çivici
+- çivici
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: rolatif
 letter: R
 lisan: Fransızca relatif
 anlamlar:
-- ► bağıntılı
+- bağıntılı
 ozellikler:
 - - sıfat
   - felsefe

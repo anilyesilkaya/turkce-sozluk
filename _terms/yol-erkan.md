@@ -5,7 +5,7 @@ slug: yol-erkan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yol yordam
+- yol yordam
 ozellikler:
 - - isim
 ornekler:

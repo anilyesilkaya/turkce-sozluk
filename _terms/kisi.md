@@ -8,7 +8,7 @@ anlamlar:
 - Kadın veya erkeğe verilen genel ad; can, şahıs, şahsiyet, zat, nefer, nüfus
 - Çekimli fiillerde ve zamirlerde konuşan, dinleyen, sözü edilen varlık; şahıs
 - Oyun, roman, hikâye vb.nde yer alan kimse
-- ► erkek
+- erkek
 ozellikler:
 - - isim
 - - isim

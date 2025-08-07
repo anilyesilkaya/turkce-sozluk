@@ -5,7 +5,7 @@ slug: ektoderm
 letter: E
 lisan: Fransızca ectoderme
 anlamlar:
-- ► dış deri
+- dış deri
 ozellikler:
 - - isim
   - anatomi

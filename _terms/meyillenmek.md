@@ -5,7 +5,7 @@ slug: meyillenmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► meyletmek
+- meyletmek
 ozellikler:
 - - nesnesiz
 ornekler:

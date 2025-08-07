@@ -5,7 +5,7 @@ slug: devletlestirme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kamulaştırma
+- kamulaştırma
 ozellikler:
 - - isim
 ornekler:

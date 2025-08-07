@@ -5,7 +5,7 @@ slug: futuroloji
 letter: F
 lisan: Fransızca futurologie
 anlamlar:
-- ► gelecek bilimi
+- gelecek bilimi
 ozellikler:
 - - isim
 ornekler:

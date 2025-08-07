@@ -5,7 +5,7 @@ slug: gezimcilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Aristotelesçilik
+- Aristotelesçilik
 ozellikler:
 - - isim
   - felsefe

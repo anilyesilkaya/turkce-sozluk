@@ -5,8 +5,8 @@ slug: nafile
 letter: N
 lisan: Arapça nāfile
 anlamlar:
-- ► yararsız
-- ► boşuna
+- yararsız
+- boşuna
 - Bir kimsenin dinen zorunlu olmadığı hâlde yalnızca Allah rızasını kazanmak amacıyla farz dışında kıldığı namaz, tuttuğu oruç ve yaptığı her türlü hayırlı iş ve davranış
 ozellikler:
 - - sıfat

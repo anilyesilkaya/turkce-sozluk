@@ -5,7 +5,7 @@ slug: feodallik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► derebeylik
+- derebeylik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: pacariz
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► çaparız
+- çaparız
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: antrenmansiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► idmansız
+- idmansız
 ozellikler:
 - - sıfat
 ornekler:

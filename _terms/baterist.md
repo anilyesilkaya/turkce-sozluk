@@ -5,7 +5,7 @@ slug: baterist
 letter: B
 lisan: Fransızca batteriste
 anlamlar:
-- ► baterici
+- baterici
 ozellikler:
 - - isim
   - müzik

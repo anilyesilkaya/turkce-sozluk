@@ -5,7 +5,7 @@ slug: akilsal
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akli
+- akli
 - Düşünceyi ve gerçeği somut değerlerle birbirine bağlayan, hakikati içine alan
 ozellikler:
 - - sıfat

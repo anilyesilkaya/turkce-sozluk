@@ -5,7 +5,7 @@ slug: kredibilite
 letter: K
 lisan: Fransızca crédibilité
 anlamlar:
-- ► güvenilirlik
+- güvenilirlik
 ozellikler:
 - - isim
   - ekonomi

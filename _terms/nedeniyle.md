@@ -5,7 +5,7 @@ slug: nedeniyle
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sebebiyle
+- sebebiyle
 ozellikler:
 - - edat
 ornekler:

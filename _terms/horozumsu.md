@@ -5,7 +5,7 @@ slug: horozumsu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► horozsu
+- horozsu
 ozellikler:
 - - sıfat
 ornekler:

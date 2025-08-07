@@ -5,7 +5,7 @@ slug: celbe
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► avcı çantası
+- avcı çantası
 ozellikler:
 - - isim
 ornekler:

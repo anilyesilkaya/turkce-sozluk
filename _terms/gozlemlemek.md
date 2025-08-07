@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Bir nesneyi, olayı veya bir gerçeği, niteliklerinin bilinmesi amacıyla, dikkatli ve planlı olarak ele alınıp incelemek; müşahede etmek
-- ► gözlemek
+- gözlemek
 ozellikler:
 - - -i
 - - -i

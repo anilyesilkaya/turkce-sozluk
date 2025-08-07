@@ -5,7 +5,7 @@ slug: oksalik-asit
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oksalik
+- oksalik
 ozellikler:
 - - isim
   - kimya

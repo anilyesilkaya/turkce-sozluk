@@ -5,7 +5,7 @@ slug: geri-plan
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► arka plan
+- arka plan
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: endisesizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygısızlık
+- kaygısızlık
 ozellikler:
 - - isim
 ornekler:

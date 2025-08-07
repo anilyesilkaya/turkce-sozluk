@@ -5,7 +5,7 @@ slug: mutedeyyinlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dindarlık
+- dindarlık
 ozellikler:
 - - isim
 ornekler:

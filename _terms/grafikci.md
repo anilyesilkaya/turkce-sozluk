@@ -5,7 +5,7 @@ slug: grafikci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► grafik tasarımcısı
+- grafik tasarımcısı
 ozellikler:
 - - isim
 ornekler:

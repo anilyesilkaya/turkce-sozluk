@@ -5,7 +5,7 @@ slug: zumre
 letter: Z
 lisan: Arapça zumre
 anlamlar:
-- ► topluluk
+- topluluk
 - Tür, cins
 ozellikler:
 - - isim

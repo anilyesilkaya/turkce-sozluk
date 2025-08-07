@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Otomobillerde yağ seviyesi düştüğünde uyarmaya yarayan lamba
-- ► yağ kandili
+- yağ kandili
 ozellikler:
 - - isim
 - - isim

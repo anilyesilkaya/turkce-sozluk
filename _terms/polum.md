@@ -5,7 +5,7 @@ slug: polum
 letter: P
 lisan: Yunanca
 anlamlar:
-- ► polim
+- polim
 ozellikler:
 - - isim
 ornekler:

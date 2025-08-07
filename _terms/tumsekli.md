@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tümseği olan; kemer
-- ► dışbükey
+- dışbükey
 ozellikler:
 - - sıfat
 - - sıfat

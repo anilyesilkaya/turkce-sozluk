@@ -5,7 +5,7 @@ slug: fallop-borusu
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fallop tüpü
+- fallop tüpü
 ozellikler:
 - - isim
   - anatomi

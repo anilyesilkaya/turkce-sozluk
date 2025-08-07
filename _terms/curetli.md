@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kendini bilmez biçimde davranan (kimse); cüretkâr
 - Düşüncesizce, saygısızca davranan (kimse); cüretkâr
-- ► cesaretli
+- cesaretli
 ozellikler:
 - - sıfat
 - - sıfat

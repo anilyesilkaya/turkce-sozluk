@@ -8,7 +8,7 @@ anlamlar:
 - Bir tarafına kauçuk veya yağlı boya sürülerek su geçirmeyecek duruma getirilen kalın bez
 - Bu bezden yapılan
 - Su geçirmeyecek biçimde yapılmış yağmurluk
-- ► linolyum
+- linolyum
 ozellikler:
 - - isim
 - - isim

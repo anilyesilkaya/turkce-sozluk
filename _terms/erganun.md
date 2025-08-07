@@ -5,7 +5,7 @@ slug: erganun
 letter: E
 lisan: Rumca
 anlamlar:
-- ► org
+- org
 ozellikler:
 - - isim
   - müzik

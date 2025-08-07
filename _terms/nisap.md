@@ -5,7 +5,7 @@ slug: nisap
 letter: N
 lisan: Arapça niṣāb
 anlamlar:
-- ► yeter sayı
+- yeter sayı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: belgisiz-sifat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belirsizlik sıfatı
+- belirsizlik sıfatı
 ozellikler:
 - - isim
   - dil bilgisi

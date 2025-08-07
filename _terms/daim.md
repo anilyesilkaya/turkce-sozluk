@@ -6,7 +6,7 @@ letter: D
 lisan: Arapça dāʾim
 anlamlar:
 - Sürekli, sonsuz olan
-- ► daima
+- daima
 ozellikler:
 - - sıfat
   - eskimiş

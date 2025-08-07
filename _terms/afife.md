@@ -5,7 +5,7 @@ slug: afife
 letter: A
 lisan: Arapça ʿafīfe
 anlamlar:
-- ► iffetli (kadın)
+- iffetli (kadın)
 ozellikler:
 - - sıfat
   - eskimiş

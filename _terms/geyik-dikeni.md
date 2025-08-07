@@ -5,7 +5,7 @@ slug: geyik-dikeni
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► alıç
+- alıç
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: okdanlik
 letter: O
 lisan: 'Türkçe '
 anlamlar:
-- ► okluk
+- okluk
 ozellikler:
 - - isim
   - tarih

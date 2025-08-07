@@ -5,7 +5,7 @@ slug: taskiran
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taşkıran otu
+- taşkıran otu
 ozellikler:
 - - isim
   - bitki bilimi

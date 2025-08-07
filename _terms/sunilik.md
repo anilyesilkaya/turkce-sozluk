@@ -5,7 +5,7 @@ slug: sunilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yapaylık
+- yapaylık
 ozellikler:
 - - isim
 ornekler:

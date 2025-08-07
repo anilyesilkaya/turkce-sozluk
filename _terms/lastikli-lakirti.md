@@ -5,7 +5,7 @@ slug: lastikli-lakirti
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lastikli söz
+- lastikli söz
 ozellikler:
 - - isim
 ornekler:

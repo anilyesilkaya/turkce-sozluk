@@ -5,7 +5,7 @@ slug: derya
 letter: D
 lisan: Farsça deryā
 anlamlar:
-- ► deniz
+- deniz
 - Bilgili kimse
 - Bir şeyin bol olduğu yer
 ozellikler:

@@ -5,7 +5,7 @@ slug: peygamberane
 letter: P
 lisan: Farsça peyġamberāne
 anlamlar:
-- ► peygamberce
+- peygamberce
 ozellikler:
 - - zarf
   - eskimiş

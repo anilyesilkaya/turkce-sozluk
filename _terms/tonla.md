@@ -5,7 +5,7 @@ slug: tonla
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tonlarca
+- tonlarca
 ozellikler:
 - - sıfat
 ornekler:

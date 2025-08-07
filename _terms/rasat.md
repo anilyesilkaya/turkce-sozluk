@@ -5,7 +5,7 @@ slug: rasat
 letter: R
 lisan: Arapça raṣad
 anlamlar:
-- ► gözlem
+- gözlem
 ozellikler:
 - - isim
   - gök bilimi

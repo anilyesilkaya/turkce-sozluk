@@ -5,7 +5,7 @@ slug: yetkeli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► otoriteli
+- otoriteli
 ozellikler:
 - - sıfat
 ornekler:

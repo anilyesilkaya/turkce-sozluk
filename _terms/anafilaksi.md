@@ -5,7 +5,7 @@ slug: anafilaksi
 letter: A
 lisan: Fransızca anaphylaxie
 anlamlar:
-- ► aşırı duyarlık
+- aşırı duyarlık
 ozellikler:
 - - isim
   - fizik

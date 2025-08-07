@@ -5,7 +5,7 @@ slug: arizalik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► engebelik
+- engebelik
 ozellikler:
 - - isim
 ornekler:

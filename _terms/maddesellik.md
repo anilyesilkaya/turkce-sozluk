@@ -5,7 +5,7 @@ slug: maddesellik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maddilik
+- maddilik
 ozellikler:
 - - isim
 ornekler:

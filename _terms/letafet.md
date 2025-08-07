@@ -5,8 +5,8 @@ slug: letafet
 letter: L
 lisan: Arapça leṭāfet
 anlamlar:
-- ► hoşluk
-- ► incelik
+- hoşluk
+- incelik
 ozellikler:
 - - isim
 - - isim

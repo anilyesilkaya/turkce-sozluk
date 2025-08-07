@@ -5,7 +5,7 @@ slug: rolativite
 letter: R
 lisan: Fransızca relativité
 anlamlar:
-- ► bağıntılılık
+- bağıntılılık
 ozellikler:
 - - isim
   - felsefe

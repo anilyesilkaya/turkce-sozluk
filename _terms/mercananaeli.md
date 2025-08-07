@@ -5,7 +5,7 @@ slug: mercananaeli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► havvaanaeli
+- havvaanaeli
 ozellikler:
 - - isim
   - bitki bilimi

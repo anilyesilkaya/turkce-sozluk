@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - İçine biber katılmış
-- ► acı
+- acı
 ozellikler:
 - - sıfat
 - - sıfat

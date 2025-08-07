@@ -5,7 +5,7 @@ slug: metin
 letter: M
 lisan: Arapça metīn
 anlamlar:
-- ► dayanıklı
+- dayanıklı
 ozellikler:
 - - sıfat
 ornekler:

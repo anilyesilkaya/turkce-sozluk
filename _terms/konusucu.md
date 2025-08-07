@@ -5,7 +5,7 @@ slug: konusucu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► konuşmacı
+- konuşmacı
 - Kusursuz, düzgün, güzel, tatlı söz söylemesini bilen kimse
 ozellikler:
 - - isim

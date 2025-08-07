@@ -9,7 +9,7 @@ anlamlar:
 - Önem vermek, göz önünde bulundurmak, ayrı tutmak; kovmak
 - Kollamak, beklemek
 - Bir sonuca giderken bütün ayrıntı ve etkenleri dikkate almak
-- ► kayırmak
+- kayırmak
 ozellikler:
 - - -i
 - - -i

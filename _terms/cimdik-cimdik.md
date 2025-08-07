@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Küçük parçacıklar hâlinde
-- ► parça bölük
+- parça bölük
 ozellikler:
 - - zarf
 - - zarf

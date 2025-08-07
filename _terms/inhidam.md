@@ -5,7 +5,7 @@ slug: inhidam
 letter: I
 lisan: Arapça inhidām
 anlamlar:
-- ► yıkılma
+- yıkılma
 ozellikler:
 - - isim
   - eskimiş

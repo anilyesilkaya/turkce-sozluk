@@ -5,7 +5,7 @@ slug: hasili
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kısacası
+- kısacası
 ozellikler:
 - - zarf
 ornekler:

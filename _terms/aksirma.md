@@ -5,7 +5,7 @@ slug: aksirma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırma
+- hapşırma
 ozellikler:
 - - isim
 ornekler:

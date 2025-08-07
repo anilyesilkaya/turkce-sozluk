@@ -5,7 +5,7 @@ slug: yirlamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ırlamak
+- ırlamak
 ozellikler:
 - - nesnesiz
   - ağızlardan

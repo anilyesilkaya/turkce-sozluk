@@ -5,7 +5,7 @@ slug: elastik
 letter: E
 lisan: Fransızca élastique
 anlamlar:
-- ► esnek
+- esnek
 ozellikler:
 - - sıfat
 ornekler:

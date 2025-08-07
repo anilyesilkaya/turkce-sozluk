@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Yerinden oynatıp sallamak
-- ► ilgilendirmek
+- ilgilendirmek
 ozellikler:
 - - -i
 - - -i

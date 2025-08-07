@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - İlk önce
-- ► bir kere
-- ► aslında
+- bir kere
+- aslında
 ozellikler:
 - - zarf
 - - zarf

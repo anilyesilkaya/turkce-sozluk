@@ -5,7 +5,7 @@ slug: olaycilik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► görüngücülük
+- görüngücülük
 ozellikler:
 - - isim
   - felsefe

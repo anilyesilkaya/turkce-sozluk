@@ -5,7 +5,7 @@ slug: debdebeli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► görkemli
+- görkemli
 ozellikler:
 - - sıfat
 ornekler:

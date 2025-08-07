@@ -5,9 +5,9 @@ slug: eflatuni
 letter: E
 lisan: Arapça eflāṭūnī
 anlamlar:
-- ► eflatun
+- eflatun
 - Bu renkte olan
-- ► platonik
+- platonik
 ozellikler:
 - - isim
 - - isim

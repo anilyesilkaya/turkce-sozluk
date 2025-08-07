@@ -5,7 +5,7 @@ slug: sihirkar
 letter: S
 lisan: Arapça siḥr + Farsça -kār
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
 ornekler:

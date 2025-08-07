@@ -5,7 +5,7 @@ slug: iftiraci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► karalamacı
+- karalamacı
 ozellikler:
 - - sıfat
 ornekler:

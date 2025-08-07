@@ -5,7 +5,7 @@ slug: bagan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► düşük
+- düşük
 - Ölü doğan kuzunun derisi
 ozellikler:
 - - isim

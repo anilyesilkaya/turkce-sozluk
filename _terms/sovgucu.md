@@ -5,7 +5,7 @@ slug: sovgucu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► küfürbaz
+- küfürbaz
 ozellikler:
 - - sıfat
 ornekler:

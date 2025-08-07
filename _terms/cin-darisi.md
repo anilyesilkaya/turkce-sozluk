@@ -5,7 +5,7 @@ slug: cin-darisi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cin mısırı
+- cin mısırı
 ozellikler:
 - - isim
 ornekler:

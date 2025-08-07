@@ -5,7 +5,7 @@ slug: sargac
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► korse
+- korse
 ozellikler:
 - - isim
 ornekler:

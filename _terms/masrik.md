@@ -5,7 +5,7 @@ slug: masrik
 letter: M
 lisan: Arapça maşriḳ
 anlamlar:
-- ► doğu
+- doğu
 ozellikler:
 - - isim
   - eskimiş

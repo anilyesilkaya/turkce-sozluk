@@ -5,7 +5,7 @@ slug: koleksiyoner
 letter: K
 lisan: Fransızca collectionneur
 anlamlar:
-- ► koleksiyoncu
+- koleksiyoncu
 ozellikler:
 - - isim
 ornekler:

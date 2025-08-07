@@ -5,7 +5,7 @@ slug: yasama-hakki
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yasama gücü
+- yasama gücü
 ozellikler:
 - - isim
   - hukuk

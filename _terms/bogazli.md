@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazı olan
-- ► iştahlı
+- iştahlı
 ozellikler:
 - - sıfat
 - - sıfat

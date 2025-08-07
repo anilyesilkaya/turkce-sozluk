@@ -5,7 +5,7 @@ slug: kamu-personeli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kamu görevlisi
+- kamu görevlisi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: rasyo
 letter: R
 lisan: Fransızca ratio
 anlamlar:
-- ► oran
+- oran
 ozellikler:
 - - isim
 ornekler:

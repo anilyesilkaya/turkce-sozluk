@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Canlandırmak işi
 - Otel, tatil köyü vb. turistik yerlerde konukları eğlendirmek için çeşitli oyunlar, gösteriler yapma; animasyon
-- ► kişileştirme
+- kişileştirme
 - Tek tek resimleri veya hareketsiz cisimleri gösterim sırasında hareket duygusu verebilecek bir biçimde düzenleme ve filme aktarma işi; animasyon
 - Geçmiş bir olayın gelişmesini ve sonucunu aynı biçimde yansıtarak sunma
 - Solunumu ve kalbi durmuş olan hastaya yaşama döndürülmesi için yapılan işlemler bütünü

@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿalāmet + fāriḳa
 anlamlar:
 - Ayırıcı nitelik, ayırıcı özellik
-- ► marka
+- marka
 ozellikler:
 - - isim
 - - isim

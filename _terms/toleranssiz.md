@@ -5,7 +5,7 @@ slug: toleranssiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hoşgörüsüz
+- hoşgörüsüz
 ozellikler:
 - - sıfat
 ornekler:

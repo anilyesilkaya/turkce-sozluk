@@ -5,7 +5,7 @@ slug: matuh
 letter: M
 lisan: Arapça maʿtūh
 anlamlar:
-- ► bunak
+- bunak
 ozellikler:
 - - sıfat
   - eskimiş

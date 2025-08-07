@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şeyi gerçekleşmiş gibi kabul edip zihninde tasarlayan kimse; ütopist
-- ► karagözcü
+- karagözcü
 - Hayale kapılan, hayal kuran; hayalperest, hayalperver
 ozellikler:
 - - isim

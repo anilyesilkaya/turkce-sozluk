@@ -5,7 +5,7 @@ slug: absurt
 letter: A
 lisan: Fransızca absurde
 anlamlar:
-- ► saçma
+- saçma
 ozellikler:
 - - sıfat
 ornekler:

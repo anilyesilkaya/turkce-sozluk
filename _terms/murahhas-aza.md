@@ -5,7 +5,7 @@ slug: murahhas-aza
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► murahhas üye
+- murahhas üye
 ozellikler:
 - - isim
 ornekler:

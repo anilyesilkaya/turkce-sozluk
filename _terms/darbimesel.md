@@ -5,7 +5,7 @@ slug: darbimesel
 letter: D
 lisan: Arapça ḍarb + mes̱el
 anlamlar:
-- ► atasözü
+- atasözü
 ozellikler:
 - - isim
   - eskimiş

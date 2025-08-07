@@ -5,7 +5,7 @@ slug: isimsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adsızlık
+- adsızlık
 ozellikler:
 - - isim
 ornekler:

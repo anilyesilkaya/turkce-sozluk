@@ -5,8 +5,8 @@ slug: kontekst
 letter: K
 lisan: Fransızca contexte
 anlamlar:
-- ► bağlam
-- ► bağlam
+- bağlam
+- bağlam
 ozellikler:
 - - isim
 - - isim

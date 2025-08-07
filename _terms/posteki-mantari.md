@@ -5,7 +5,7 @@ slug: posteki-mantari
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► söbelen
+- söbelen
 ozellikler:
 - - isim
   - bitki bilimi

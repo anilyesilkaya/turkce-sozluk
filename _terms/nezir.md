@@ -5,7 +5,7 @@ slug: nezir
 letter: N
 lisan: Arapça neẕr
 anlamlar:
-- ► adak
+- adak
 ozellikler:
 - - isim
   - eskimiş

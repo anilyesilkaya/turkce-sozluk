@@ -5,7 +5,7 @@ slug: izah
 letter: I
 lisan: Arapça īżāḥ
 anlamlar:
-- ► açıklama
+- açıklama
 ozellikler:
 - - isim
 ornekler:

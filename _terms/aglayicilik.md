@@ -5,7 +5,7 @@ slug: aglayicilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağıtçılık
+- ağıtçılık
 ozellikler:
 - - isim
 ornekler:

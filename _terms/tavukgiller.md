@@ -5,7 +5,7 @@ slug: tavukgiller
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sülüngiller
+- sülüngiller
 ozellikler:
 - - isim
   - hayvan bilimi

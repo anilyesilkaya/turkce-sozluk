@@ -5,7 +5,7 @@ slug: kristallesmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► billurlaşmak
+- billurlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

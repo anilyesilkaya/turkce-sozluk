@@ -5,7 +5,7 @@ slug: agartilmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlatılmak
+- beyazlatılmak
 ozellikler:
 - - nesnesiz
 ornekler:

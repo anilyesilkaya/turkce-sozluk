@@ -5,7 +5,7 @@ slug: aort
 letter: A
 lisan: Fransızca aorte
 anlamlar:
-- ► ana atardamar
+- ana atardamar
 ozellikler:
 - - isim
   - anatomi

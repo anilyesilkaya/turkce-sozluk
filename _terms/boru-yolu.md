@@ -5,7 +5,7 @@ slug: boru-yolu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boru hattı
+- boru hattı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: uzviyet
 letter: U
 lisan: Arapça ʿużviyyet
 anlamlar:
-- ► organizma
+- organizma
 - Çeşitli organlardan meydana gelmiş şey
 ozellikler:
 - - isim

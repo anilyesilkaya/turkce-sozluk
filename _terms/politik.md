@@ -5,7 +5,7 @@ slug: politik
 letter: P
 lisan: Fransızca politique
 anlamlar:
-- ► siyasal
+- siyasal
 - Belli bir hedefe ulaşabilmek için uzlaşmayı, iyi geçinmeyi amaçlayan
 ozellikler:
 - - sıfat

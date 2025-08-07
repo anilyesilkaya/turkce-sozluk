@@ -5,7 +5,7 @@ slug: evvel-ahir
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önünde sonunda
+- önünde sonunda
 ozellikler:
 - - zarf
 ornekler:

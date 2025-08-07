@@ -5,7 +5,7 @@ slug: kokpit
 letter: K
 lisan: İngilizce cockpit
 anlamlar:
-- ► pilot kabini
+- pilot kabini
 ozellikler:
 - - isim
 ornekler:

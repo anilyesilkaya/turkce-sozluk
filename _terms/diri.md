@@ -5,7 +5,7 @@ slug: diri
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► canlı, ölü karşıtı
+- canlı, ölü karşıtı
 - Güçlü olan; zinde
 - Solmamış, pörsümemiş
 - Gereği kadar pişmemiş

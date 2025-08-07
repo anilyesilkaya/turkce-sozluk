@@ -5,8 +5,8 @@ slug: tekasuf
 letter: T
 lisan: Arapça tekās̱uf
 anlamlar:
-- ► toplanma
-- ► yoğunlaşma
+- toplanma
+- yoğunlaşma
 ozellikler:
 - - isim
   - eskimiş

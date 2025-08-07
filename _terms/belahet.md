@@ -5,7 +5,7 @@ slug: belahet
 letter: B
 lisan: Arapça belāhet
 anlamlar:
-- ► alıklık
+- alıklık
 ozellikler:
 - - isim
   - eskimiş

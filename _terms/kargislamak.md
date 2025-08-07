@@ -5,7 +5,7 @@ slug: kargislamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ilenmek
+- ilenmek
 ozellikler:
 - - -i
 ornekler:

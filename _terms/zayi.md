@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça żāyiʿ
 anlamlar:
 - Kaybolma, yitme
-- ► kayıp
+- kayıp
 - Yok olmuş, elden çıkmış, mahvolmuş
 - İşe yaramayan, yararsız, boş olan
 ozellikler:

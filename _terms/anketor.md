@@ -5,7 +5,7 @@ slug: anketor
 letter: A
 lisan: Fransızca enquêteur
 anlamlar:
-- ► anketçi
+- anketçi
 ozellikler:
 - - isim
 ornekler:

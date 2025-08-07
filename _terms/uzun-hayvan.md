@@ -5,7 +5,7 @@ slug: uzun-hayvan
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► yılan
+- yılan
 ozellikler:
 - - isim
 ornekler:

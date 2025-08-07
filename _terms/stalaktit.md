@@ -5,7 +5,7 @@ slug: stalaktit
 letter: S
 lisan: Fransızca stalactite
 anlamlar:
-- ► sarkıt
+- sarkıt
 ozellikler:
 - - isim
   - mineraloji

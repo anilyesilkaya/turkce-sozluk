@@ -5,7 +5,7 @@ slug: kemiriciler
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kemirgenler
+- kemirgenler
 ozellikler:
 - - isim
   - hayvan bilimi

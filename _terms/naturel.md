@@ -5,7 +5,7 @@ slug: naturel
 letter: N
 lisan: Fransızca naturel
 anlamlar:
-- ► doğal
+- doğal
 ozellikler:
 - - sıfat
 ornekler:

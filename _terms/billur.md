@@ -10,7 +10,7 @@ anlamlar:
 - Bu maddeden yapılmış
 - Duru, temiz ve akıcı olan
 - Çok berrak ve pürüzsüz, parıltılı, ışıklı olan
-- ► koç yumurtası
+- koç yumurtası
 ozellikler:
 - - isim
 - - isim

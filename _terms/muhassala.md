@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muḥaṣṣale
 anlamlar:
 - Elde edilen sonuç
-- ► bileşke
+- bileşke
 ozellikler:
 - - isim
   - eskimiş

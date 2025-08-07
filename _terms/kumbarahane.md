@@ -5,7 +5,7 @@ slug: kumbarahane
 letter: K
 lisan: Farsça ḫumbere + ḫāne
 anlamlar:
-- ► humbarahane
+- humbarahane
 ozellikler:
 - - isim
   - tarih

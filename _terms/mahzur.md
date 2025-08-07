@@ -5,8 +5,8 @@ slug: mahzur
 letter: M
 lisan: Arapça maḥẕūr
 anlamlar:
-- ► sakınca
-- ► engel
+- sakınca
+- engel
 ozellikler:
 - - isim
 - - isim

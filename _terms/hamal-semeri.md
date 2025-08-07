@@ -5,7 +5,7 @@ slug: hamal-semeri
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► arkalık
+- arkalık
 ozellikler:
 - - isim
 ornekler:

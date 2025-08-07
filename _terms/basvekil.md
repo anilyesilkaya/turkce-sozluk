@@ -5,7 +5,7 @@ slug: basvekil
 letter: B
 lisan: Türkçe baş + Arapça vekīl
 anlamlar:
-- ► başbakan
+- başbakan
 ozellikler:
 - - isim
 ornekler:

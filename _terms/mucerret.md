@@ -5,10 +5,10 @@ slug: mucerret
 letter: M
 lisan: Arapça mucerred
 anlamlar:
-- ► soyut
+- soyut
 - Katışık ve karışık olmayan
-- ► bekâr
-- ► yalın durum
+- bekâr
+- yalın durum
 ozellikler:
 - - sıfat
   - eskimiş

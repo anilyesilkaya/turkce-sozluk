@@ -5,7 +5,7 @@ slug: ak-yel
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► lodos
+- lodos
 ozellikler:
 - - isim
   - ağızlardan

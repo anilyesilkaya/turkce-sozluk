@@ -5,7 +5,7 @@ slug: sahsiyetlilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kişiliklilik
+- kişiliklilik
 ozellikler:
 - - isim
 ornekler:

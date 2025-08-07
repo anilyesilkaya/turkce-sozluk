@@ -5,7 +5,7 @@ slug: dubbuekber
 letter: D
 lisan: Arapça dubb + ekber
 anlamlar:
-- ► Büyükayı
+- Büyükayı
 ozellikler:
 - - isim
   - gök bilimi

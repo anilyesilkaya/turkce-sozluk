@@ -5,8 +5,8 @@ slug: davet
 letter: D
 lisan: Arapça daʿvet
 anlamlar:
-- ► çağrı
-- ► çağırma
+- çağrı
+- çağırma
 - Yemekli toplantı
 ozellikler:
 - - isim

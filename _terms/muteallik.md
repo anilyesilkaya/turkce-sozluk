@@ -5,8 +5,8 @@ slug: muteallik
 letter: M
 lisan: Arapça muteʿalliḳ
 anlamlar:
-- ► ilişkin
-- ► ilgili
+- ilişkin
+- ilgili
 ozellikler:
 - - edat
   - eskimiş

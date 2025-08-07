@@ -10,7 +10,7 @@ anlamlar:
 - Lokomotifin, katar katmak veya katar dağıtmak için ileri geri giderek hattan hatta geçmesi
 - Sağa sola, öne arkaya rahatça hareket etme
 - İstenilen amaca ulaşmak için tutulması gereken yol
-- ► tatbikat
+- tatbikat
 ozellikler:
 - - isim
 - - isim

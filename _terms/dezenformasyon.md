@@ -5,7 +5,7 @@ slug: dezenformasyon
 letter: D
 lisan: Fransızca désinformation
 anlamlar:
-- ► bilgi çarpıtma
+- bilgi çarpıtma
 ozellikler:
 - - isim
 ornekler:

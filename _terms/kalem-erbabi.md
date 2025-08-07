@@ -5,7 +5,7 @@ slug: kalem-erbabi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yazar
+- yazar
 ozellikler:
 - - isim
 ornekler:

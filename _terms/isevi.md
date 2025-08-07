@@ -6,7 +6,7 @@ letter: İ
 lisan: Arapça ʿīsevī
 anlamlar:
 - Hz. İsa ile ilgili, Hz. İsa’ya ait
-- ► Hristiyan
+- Hristiyan
 ozellikler:
 - - isim
   - din bilimi

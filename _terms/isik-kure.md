@@ -5,7 +5,7 @@ slug: isik-kure
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ışık yuvarı
+- ışık yuvarı
 ozellikler:
 - - isim
   - gök bilimi

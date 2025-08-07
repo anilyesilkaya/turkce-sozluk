@@ -5,7 +5,7 @@ slug: materyalistlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maddecilik
+- maddecilik
 ozellikler:
 - - isim
 ornekler:

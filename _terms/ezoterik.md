@@ -5,7 +5,7 @@ slug: ezoterik
 letter: E
 lisan: Fransızca ésotérique
 anlamlar:
-- ► içrek
+- içrek
 ozellikler:
 - - sıfat
   - felsefe

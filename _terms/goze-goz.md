@@ -5,7 +5,7 @@ slug: goze-goz
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kısasa kısas
+- kısasa kısas
 ozellikler:
 - - isim
   - mecaz

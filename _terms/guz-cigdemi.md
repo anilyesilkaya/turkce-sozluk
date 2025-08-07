@@ -5,7 +5,7 @@ slug: guz-cigdemi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► acı çiğdem
+- acı çiğdem
 ozellikler:
 - - isim
   - bitki bilimi

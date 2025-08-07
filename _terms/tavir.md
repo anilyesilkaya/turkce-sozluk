@@ -5,7 +5,7 @@ slug: tavir
 letter: T
 lisan: Arapça ṭavr
 anlamlar:
-- ► durum
+- durum
 - Bir olay, bir durum karşısında kişinin takındığı davranış
 - Kişiden beklenen davranış biçimi
 - Mesafeli davranma, uzak durma

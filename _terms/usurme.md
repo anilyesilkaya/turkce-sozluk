@@ -5,7 +5,7 @@ slug: usurme
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► saldırtma
+- saldırtma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kilukal
 letter: K
 lisan: Arapça ḳīl + ḳāl
 anlamlar:
-- ► dedikodu
+- dedikodu
 ozellikler:
 - - isim
   - eskimiş

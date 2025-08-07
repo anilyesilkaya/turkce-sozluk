@@ -5,7 +5,7 @@ slug: termograf
 letter: T
 lisan: Fransızca thermographe
 anlamlar:
-- ► sıcaklıkyazar
+- sıcaklıkyazar
 ozellikler:
 - - isim
   - fizik

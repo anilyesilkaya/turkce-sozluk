@@ -5,7 +5,7 @@ slug: iklil
 letter: I
 lisan: Arapça iḳlįl
 anlamlar:
-- ► taç (I)
+- taç (I)
 - Çiçeklerin taç kısmı
 - Mushaf ve yazmaların başına yapılan taç biçimindeki süsleme
 ozellikler:

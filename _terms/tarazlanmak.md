@@ -8,7 +8,7 @@ anlamlar:
 - Kumaşın üzeri tel tel ipliklerle kaplanmak, iplikleri kabarmak
 - Saç dağınık ve karışık olmak, tel tel kabarmak
 - Deri pütür pütür olmak
-- ► çatallaşmak
+- çatallaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

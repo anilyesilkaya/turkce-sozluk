@@ -5,7 +5,7 @@ slug: yoresellestirme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yerelleştirme
+- yerelleştirme
 ozellikler:
 - - isim
 ornekler:

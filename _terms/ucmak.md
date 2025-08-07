@@ -5,7 +5,7 @@ slug: ucmak
 letter: U
 lisan: Soğdca uştmaḫ
 anlamlar:
-- ► cennet
+- cennet
 ozellikler:
 - - isim
   - eskimiş

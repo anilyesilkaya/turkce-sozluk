@@ -5,7 +5,7 @@ slug: ilk-genclik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ergenlik
+- ergenlik
 - Deneyimsizlik, toyluk
 ozellikler:
 - - isim

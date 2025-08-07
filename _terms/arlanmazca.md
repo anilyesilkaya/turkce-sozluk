@@ -5,7 +5,7 @@ slug: arlanmazca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► utanmazca
+- utanmazca
 ozellikler:
 - - zarf
 ornekler:

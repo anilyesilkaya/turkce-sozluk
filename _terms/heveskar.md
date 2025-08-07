@@ -5,7 +5,7 @@ slug: heveskar
 letter: H
 lisan: Arapça heves + Farsça -kār
 anlamlar:
-- ► istekli
+- istekli
 ozellikler:
 - - sıfat
   - eskimiş

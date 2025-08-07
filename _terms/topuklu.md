@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Topuğu bulunan (ayakkabı, terlik vb.)
 - Topuğu herhangi bir özellikte olan
-- ► ökçeli
+- ökçeli
 ozellikler:
 - - sıfat
 - - sıfat

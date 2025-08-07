@@ -5,7 +5,7 @@ slug: bicimleme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► biçimlendirme
+- biçimlendirme
 - Çeşitli maddelerin biçimsel imkânları ile birbirleri arasındaki düzen ilişkilerini araştırma işi; figürasyon
 ozellikler:
 - - isim

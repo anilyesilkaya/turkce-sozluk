@@ -5,7 +5,7 @@ slug: eksin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► anyon
+- anyon
 ozellikler:
 - - isim
   - kimya

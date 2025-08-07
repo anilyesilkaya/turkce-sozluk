@@ -5,7 +5,7 @@ slug: pecenekce
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► Peçenek Türkçesi
+- Peçenek Türkçesi
 ozellikler:
 - - isim
 ornekler:

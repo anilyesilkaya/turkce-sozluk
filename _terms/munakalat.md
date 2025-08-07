@@ -5,7 +5,7 @@ slug: munakalat
 letter: M
 lisan: Arapça munāḳalāt
 anlamlar:
-- ► ulaştırma
+- ulaştırma
 ozellikler:
 - - isim
   - eskimiş

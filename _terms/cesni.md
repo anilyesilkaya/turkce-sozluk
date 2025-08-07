@@ -6,7 +6,7 @@ letter: Ç
 lisan: Farsça çāşnī
 anlamlar:
 - Yiyeceğin ve içeceğin tadı
-- ► tadımlık
+- tadımlık
 - Bir şeyin kendine has olan özelliği, biçimi
 - Birbirlerine göre aralarındaki farklılık
 ozellikler:

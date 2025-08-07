@@ -6,8 +6,8 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pehlivan olma durumu
-- ► güreşçilik
-- ► güçlülük
+- güreşçilik
+- güçlülük
 ozellikler:
 - - isim
 - - isim

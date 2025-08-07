@@ -5,8 +5,8 @@ slug: hinterlant
 letter: H
 lisan: Almanca Hinterland
 anlamlar:
-- ► iç bölge
-- ► arkabahçe
+- iç bölge
+- arkabahçe
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: muhtariyet
 letter: M
 lisan: Arapça muḫtāriyyet
 anlamlar:
-- ► özerklik
+- özerklik
 ozellikler:
 - - isim
   - eskimiş

@@ -10,7 +10,7 @@ anlamlar:
 - Karnı yuvarlak ve şişkin, boynu dar cam kap
 - Karikatürde içi sözle doldurulan yuvarlak
 - Geriden gelen rüzgârdan yararlanmak amacıyla yatın ana direği üzerine çekilen üç köşeli, hafif yelken
-- ► palavra
+- palavra
 ozellikler:
 - - isim
 - - isim

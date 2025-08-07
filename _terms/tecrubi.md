@@ -5,8 +5,8 @@ slug: tecrubi
 letter: T
 lisan: Arapça tecribī
 anlamlar:
-- ► deneysel
-- ► deneyimsel
+- deneysel
+- deneyimsel
 ozellikler:
 - - sıfat
   - eskimiş

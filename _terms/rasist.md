@@ -5,7 +5,7 @@ slug: rasist
 letter: R
 lisan: Fransızca raciste
 anlamlar:
-- ► ırkçı
+- ırkçı
 ozellikler:
 - - isim
   - toplum bilimi

@@ -5,7 +5,7 @@ slug: pasifik-ates-cemberi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ateş çemberi
+- ateş çemberi
 ozellikler:
 - - isim
   - coğrafya

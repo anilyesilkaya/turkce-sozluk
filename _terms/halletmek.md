@@ -8,7 +8,7 @@ anlamlar:
 - Güç görünen bir olay veya duruma çözüm yolu bulmak
 - Yoluna koymak, olumlu sonuca bağlamak
 - Bir cismi bir sıvı içinde eritmek
-- ► çözmek
+- çözmek
 - Cinsel ilişki kurmak
 - Bir yemeği yenecek duruma getirmek
 ozellikler:

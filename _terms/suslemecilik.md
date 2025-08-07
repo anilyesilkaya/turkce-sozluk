@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Süslemeci olma durumu; bezemecilik
-- ► süsleme sanatları
+- süsleme sanatları
 ozellikler:
 - - isim
 - - isim

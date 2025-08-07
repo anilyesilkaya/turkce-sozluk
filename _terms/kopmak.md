@@ -10,7 +10,7 @@ anlamlar:
 - Gövdeden ayrılmak
 - Gürültülü veya tehlikeli olaylar, birdenbire başlamak veya ortaya çıkmak
 - Bütün ilişkileri kesilip büsbütün ayrılmak veya uzaklaşmak
-- ► kurtulmak
+- kurtulmak
 - Çok ağrımak
 - Koşmak, hızla gitmek
 ozellikler:

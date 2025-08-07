@@ -5,7 +5,7 @@ slug: suruplanmak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şerbetlenmek
+- şerbetlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: erin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ergen
+- ergen
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: dayamak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yaslamak
+- yaslamak
 - Bir yerden, bir kimseden yararlanmak, güç almak
 - Korkutmak için hızla, öfkeyle yaklaştırmak, uzatmak
 - Varmak, ulaşmak

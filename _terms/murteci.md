@@ -5,7 +5,7 @@ slug: murteci
 letter: M
 lisan: Arapça murteciʿ
 anlamlar:
-- ► gerici (I)
+- gerici (I)
 ozellikler:
 - - sıfat
   - eskimiş

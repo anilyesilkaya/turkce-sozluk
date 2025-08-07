@@ -5,7 +5,7 @@ slug: kovculuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dedikoduculuk
+- dedikoduculuk
 ozellikler:
 - - isim
 ornekler:

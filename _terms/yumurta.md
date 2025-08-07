@@ -8,7 +8,7 @@ anlamlar:
 - Bir dişinin vücudunda oluşan, yumurtlama ve döllenmeden sonra aynı türden bir canlı oluşturan hücre
 - Kanatlı hayvanların çoğalmasını sağlayan kabuklu bir besin maddesi
 - Tavuk yumurtası
-- ► taşak
+- taşak
 - Çorap onarmakta kullanılan, yumurta biçiminde, genellikle tahta veya mermerden kalıp
 ozellikler:
 - - isim

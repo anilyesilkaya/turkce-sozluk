@@ -5,7 +5,7 @@ slug: tarafci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yandaş
+- yandaş
 ozellikler:
 - - isim
 ornekler:

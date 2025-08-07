@@ -5,7 +5,7 @@ slug: memnuiyet
 letter: M
 lisan: Arapça memnūʿiyyet
 anlamlar:
-- ► yasaklık
+- yasaklık
 ozellikler:
 - - isim
   - eskimiş

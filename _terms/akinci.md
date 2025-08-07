@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Düşman ülkesine akın yapan savaşçı
 - Osmanlı ordusunda Akıncı Ocağına mensup savaşçı
-- ► ileri uç oyuncusu
+- ileri uç oyuncusu
 ozellikler:
 - - isim
   - tarih

@@ -5,7 +5,7 @@ slug: asabiye
 letter: A
 lisan: Arapça ʿaṣabiyyet
 anlamlar:
-- ► sinir bilimi
+- sinir bilimi
 - Sinir hastalıkları ile ilgili hastane bölümü
 ozellikler:
 - - isim

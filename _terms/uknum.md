@@ -5,8 +5,8 @@ slug: uknum
 letter: U
 lisan: Arapça uḳnūm
 anlamlar:
-- ► esas
-- ► hipostaz
+- esas
+- hipostaz
 ozellikler:
 - - isim
   - eskimiş

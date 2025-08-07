@@ -5,7 +5,7 @@ slug: bukuc
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► köşe
+- köşe
 ozellikler:
 - - isim
 ornekler:

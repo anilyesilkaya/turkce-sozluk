@@ -5,7 +5,7 @@ slug: radyotelefon
 letter: R
 lisan: Fransızca radiotéléphone
 anlamlar:
-- ► telsiz telefon
+- telsiz telefon
 ozellikler:
 - - isim
 ornekler:

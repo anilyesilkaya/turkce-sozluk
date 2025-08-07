@@ -10,7 +10,7 @@ anlamlar:
 - Yontma işlerinde kullanılan ucu sivri veya keskin araç
 - Bir listede, bir hesapta sıra ile yazılmış maddelerden her biri
 - Bazı deyimlerde yazı
-- ► yazar
+- yazar
 - Aşı yapmak için bir ağaçtan kesilen ince çubuk
 - Kaşlara ve gözlere makyaj yapmak, dudak kenarlarını çizmek için kullanılan boyama aracı
 - Kalem biçiminde olan

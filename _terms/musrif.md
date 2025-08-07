@@ -5,7 +5,7 @@ slug: musrif
 letter: M
 lisan: Arapça musrif
 anlamlar:
-- ► tutumsuz
+- tutumsuz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: bursiyer
 letter: B
 lisan: Fransızca boursier
 anlamlar:
-- ► burslu
+- burslu
 ozellikler:
 - - sıfat
 ornekler:

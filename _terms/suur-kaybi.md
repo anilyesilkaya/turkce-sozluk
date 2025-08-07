@@ -5,7 +5,7 @@ slug: suur-kaybi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinç kaybı
+- bilinç kaybı
 ozellikler:
 - - isim
 ornekler:

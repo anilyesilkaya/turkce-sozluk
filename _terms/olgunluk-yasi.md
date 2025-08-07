@@ -5,7 +5,7 @@ slug: olgunluk-yasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► olgunluk çağı
+- olgunluk çağı
 ozellikler:
 - - isim
 ornekler:

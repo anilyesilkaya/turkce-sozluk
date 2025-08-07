@@ -5,7 +5,7 @@ slug: urku
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► panik
+- panik
 ozellikler:
 - - isim
 ornekler:

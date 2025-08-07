@@ -5,7 +5,7 @@ slug: amplifikator
 letter: A
 lisan: Fransızca amplificateur
 anlamlar:
-- ► yükselteç
+- yükselteç
 ozellikler:
 - - isim
   - fizik

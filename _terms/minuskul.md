@@ -5,7 +5,7 @@ slug: minuskul
 letter: M
 lisan: Fransızca minuscule
 anlamlar:
-- ► küçük harf
+- küçük harf
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: demirli-beton
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► betonarme
+- betonarme
 ozellikler:
 - - isim
   - mimarlık

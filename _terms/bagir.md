@@ -5,12 +5,12 @@ slug: bagir
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► göğüs
+- göğüs
 - Ok yayının orta bölümü
 - Dağın orta bölümü
 - Ciğer, bağırsak vb. vücut boşluklarında bulunan organların ortak adı; ahşa
 - Bir şeyin ortası, orta yeri
-- ► sine
+- sine
 ozellikler:
 - - isim
 - - isim

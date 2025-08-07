@@ -5,7 +5,7 @@ slug: varsani
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► sanrı
+- sanrı
 ozellikler:
 - - isim
   - ruh bilimi

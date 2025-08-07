@@ -5,7 +5,7 @@ slug: hurmetlice
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► saygılıca
+- saygılıca
 ozellikler:
 - - zarf
 ornekler:

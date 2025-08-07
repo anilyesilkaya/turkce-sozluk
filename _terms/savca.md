@@ -5,7 +5,7 @@ slug: savca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► iddianame
+- iddianame
 ozellikler:
 - - isim
   - hukuk

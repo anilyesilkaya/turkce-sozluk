@@ -5,7 +5,7 @@ slug: spontaneizm
 letter: S
 lisan: Fransızca spontanéisme
 anlamlar:
-- ► kendiliğindenlik
+- kendiliğindenlik
 ozellikler:
 - - isim
 ornekler:

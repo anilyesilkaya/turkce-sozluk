@@ -5,7 +5,7 @@ slug: hazin
 letter: H
 lisan: Arapça ḥazīn
 anlamlar:
-- ► hüzünlü
+- hüzünlü
 ozellikler:
 - - sıfat
 ornekler:

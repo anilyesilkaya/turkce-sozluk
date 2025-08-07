@@ -5,7 +5,7 @@ slug: lamekan
 letter: L
 lisan: Arapça lāmekān
 anlamlar:
-- ► mekânsız
+- mekânsız
 - Yersiz yurtsuz, belli bir adresi olmayan
 ozellikler:
 - - sıfat

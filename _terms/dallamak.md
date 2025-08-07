@@ -5,7 +5,7 @@ slug: dallamak
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► budamak
+- budamak
 - Bir işten alıkoymak, el çektirmek, pasifleştirmek
 ozellikler:
 - - -i

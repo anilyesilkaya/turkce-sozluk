@@ -5,7 +5,7 @@ slug: girnata
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► klarnet
+- klarnet
 ozellikler:
 - - isim
   - ağızlardan

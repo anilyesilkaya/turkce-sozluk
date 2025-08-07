@@ -5,7 +5,7 @@ slug: tatlisu-frengi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► levanten
+- levanten
 ozellikler:
 - - isim
 ornekler:

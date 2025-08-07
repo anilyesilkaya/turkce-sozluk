@@ -5,8 +5,8 @@ slug: iskonto
 letter: I
 lisan: İtalyanca sconto
 anlamlar:
-- ► indirim
-- ► kırdırma
+- indirim
+- kırdırma
 - Senedin saymaca değeri üzerinden yapılan indirim
 - Sözün bir bölümünü söylenmemiş sayma
 ozellikler:

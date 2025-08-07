@@ -5,7 +5,7 @@ slug: kalem-kalem
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► birer birer
+- birer birer
 ozellikler:
 - - zarf
 ornekler:

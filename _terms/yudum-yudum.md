@@ -5,7 +5,7 @@ slug: yudum-yudum
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► azar azar
+- azar azar
 ozellikler:
 - - zarf
 ornekler:

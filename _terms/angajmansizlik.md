@@ -5,7 +5,7 @@ slug: angajmansizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağlantısızlık
+- bağlantısızlık
 ozellikler:
 - - isim
 ornekler:

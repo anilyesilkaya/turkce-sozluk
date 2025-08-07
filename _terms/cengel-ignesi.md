@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çengel biçiminde ilmiklerden oluşan bir işleme türü
-- ► çengelli iğne
+- çengelli iğne
 ozellikler:
 - - isim
 - - isim

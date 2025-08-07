@@ -5,7 +5,7 @@ slug: amme-hukuku
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kamu hukuku
+- kamu hukuku
 ozellikler:
 - - isim
   - hukuk

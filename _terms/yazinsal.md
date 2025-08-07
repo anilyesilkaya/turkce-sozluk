@@ -5,7 +5,7 @@ slug: yazinsal
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebî
+- edebî
 ozellikler:
 - - sıfat
 ornekler:

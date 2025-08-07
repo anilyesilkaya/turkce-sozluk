@@ -5,7 +5,7 @@ slug: para-siskinligi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► enflasyon
+- enflasyon
 ozellikler:
 - - isim
   - ekonomi

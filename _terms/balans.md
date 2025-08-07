@@ -5,7 +5,7 @@ slug: balans
 letter: B
 lisan: Fransızca balance
 anlamlar:
-- ► denge
+- denge
 ozellikler:
 - - isim
 ornekler:

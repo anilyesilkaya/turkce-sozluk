@@ -5,7 +5,7 @@ slug: asimetrik-paralel
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► asimetrik bar
+- asimetrik bar
 ozellikler:
 - - isim
   - spor

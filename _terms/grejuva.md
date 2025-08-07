@@ -5,7 +5,7 @@ slug: grejuva
 letter: G
 lisan: Fransızca grégeois
 anlamlar:
-- ► Rum ateşi
+- Rum ateşi
 ozellikler:
 - - isim
 ornekler:

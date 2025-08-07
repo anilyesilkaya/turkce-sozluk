@@ -5,7 +5,7 @@ slug: mantinota
 letter: M
 lisan: İtalyanca mantenuto
 anlamlar:
-- ► metres
+- metres
 ozellikler:
 - - isim
   - argo

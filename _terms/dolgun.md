@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dolarak biçimi yuvarlaklaşmış
-- ► balıketinde
+- balıketinde
 - Çok, bol, fazla, yüksek olan (ücret, para vb.)
 - Şişmiş
 - Öfke, kızgınlık, kırgınlık vb. duygularla dolu

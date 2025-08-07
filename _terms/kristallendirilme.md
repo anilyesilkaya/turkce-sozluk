@@ -5,7 +5,7 @@ slug: kristallendirilme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► billurlaştırılma
+- billurlaştırılma
 ozellikler:
 - - isim
 ornekler:

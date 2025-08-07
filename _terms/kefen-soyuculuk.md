@@ -5,7 +5,7 @@ slug: kefen-soyuculuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mezar soygunculuğu
+- mezar soygunculuğu
 ozellikler:
 - - isim
 ornekler:

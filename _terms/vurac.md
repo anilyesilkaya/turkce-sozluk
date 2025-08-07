@@ -5,7 +5,7 @@ slug: vurac
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► raket
+- raket
 ozellikler:
 - - isim
   - spor

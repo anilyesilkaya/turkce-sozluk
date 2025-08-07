@@ -5,7 +5,7 @@ slug: tahta-gogus
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tahta göğüslü
+- tahta göğüslü
 ozellikler:
 - - sıfat
 ornekler:

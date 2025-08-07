@@ -5,7 +5,7 @@ slug: naklen-yayin-araci
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► canlı yayın aracı
+- canlı yayın aracı
 ozellikler:
 - - isim
 ornekler:

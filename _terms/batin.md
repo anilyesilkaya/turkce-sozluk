@@ -5,7 +5,7 @@ slug: batin
 letter: B
 lisan: Arapça bāṭin
 anlamlar:
-- ► içyüz
+- içyüz
 - Gizli, görünmeyen
 ozellikler:
 - - isim

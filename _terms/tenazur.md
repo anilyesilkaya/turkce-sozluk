@@ -5,7 +5,7 @@ slug: tenazur
 letter: T
 lisan: Arapça tenāẓur
 anlamlar:
-- ► bakışım
+- bakışım
 ozellikler:
 - - isim
   - eskimiş

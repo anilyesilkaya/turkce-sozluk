@@ -5,7 +5,7 @@ slug: koordinator
 letter: K
 lisan: Fransızca coordinateur
 anlamlar:
-- ► eş güdümcü
+- eş güdümcü
 ozellikler:
 - - isim
 ornekler:

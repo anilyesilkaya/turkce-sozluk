@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tasfiyeci olma durumu
-- ► özleştirmecilik
+- özleştirmecilik
 ozellikler:
 - - isim
 - - isim

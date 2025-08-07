@@ -8,7 +8,7 @@ anlamlar:
 - Dinî törenlerde, halk hekimliğinde veya çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde; buhur
 - Et, balık vb. yiyeceklerin tutulduğu odun veya saman dumanı
 - Kötü ruhları kovmak, nazardan korunmak ve tedavi amacıyla yakılan madde
-- ► içki
+- içki
 ozellikler:
 - - isim
 - - isim

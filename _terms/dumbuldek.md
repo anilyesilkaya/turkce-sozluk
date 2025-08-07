@@ -5,7 +5,7 @@ slug: dumbuldek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dümbelek
+- dümbelek
 ozellikler:
 - - isim
 ornekler:

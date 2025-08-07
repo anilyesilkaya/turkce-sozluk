@@ -5,7 +5,7 @@ slug: hempalik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► omuzdaşlık
+- omuzdaşlık
 ozellikler:
 - - isim
 ornekler:

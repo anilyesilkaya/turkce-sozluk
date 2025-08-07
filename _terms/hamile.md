@@ -5,7 +5,7 @@ slug: hamile
 letter: H
 lisan: Arapça ḥāmile
 anlamlar:
-- ► gebe
+- gebe
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Hafifçe ağrımak
-- ► yakınmak (II)
+- yakınmak (II)
 ozellikler:
 - - nesnesiz
 - - nesnesiz

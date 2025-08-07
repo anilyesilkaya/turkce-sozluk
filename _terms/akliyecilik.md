@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Akliyecinin yaptığı iş
-- ► akılcılık
+- akılcılık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: habip
 letter: H
 lisan: Arapça ḥabīb
 anlamlar:
-- ► sevgili
+- sevgili
 ozellikler:
 - - isim
   - eskimiş

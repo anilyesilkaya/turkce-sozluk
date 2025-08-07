@@ -5,7 +5,7 @@ slug: bitey
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► flora
+- flora
 ozellikler:
 - - isim
   - bitki bilimi

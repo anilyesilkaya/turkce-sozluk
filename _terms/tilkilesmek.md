@@ -5,7 +5,7 @@ slug: tilkilesmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kurnazlaşmak
+- kurnazlaşmak
 ozellikler:
 - - nesnesiz
   - mecaz

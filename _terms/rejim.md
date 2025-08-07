@@ -5,8 +5,8 @@ slug: rejim
 letter: R
 lisan: Fransızca régime
 anlamlar:
-- ► düzen
-- ► diyet (II)
+- düzen
+- diyet (II)
 - Bir devletin yönetim biçimi
 - Akarsu debisinin yıl boyunca gösterdiği değişikliklerin tümü
 ozellikler:

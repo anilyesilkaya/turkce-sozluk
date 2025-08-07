@@ -5,7 +5,7 @@ slug: zelzele
 letter: Z
 lisan: Arapça zelzele
 anlamlar:
-- ► deprem
+- deprem
 ozellikler:
 - - isim
   - coğrafya

@@ -5,7 +5,7 @@ slug: esek-turpu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yaban turpu
+- yaban turpu
 ozellikler:
 - - isim
   - bitki bilimi

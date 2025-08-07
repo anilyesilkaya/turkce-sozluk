@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Geniş duruma gelmek; büyümek, genelmek
-- ► bollaşmak
+- bollaşmak
 - Rahat bir duruma gelmek, açılmak, ferahlamak
 - Yaygın duruma gelmek
 - Maddi imkânları artmak ve rahatça yetecek duruma gelmek

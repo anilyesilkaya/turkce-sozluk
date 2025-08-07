@@ -5,7 +5,7 @@ slug: ipotek
 letter: I
 lisan: Fransızca hypothèque
 anlamlar:
-- ► tutu
+- tutu
 ozellikler:
 - - isim
   - ticaret

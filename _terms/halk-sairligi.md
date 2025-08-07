@@ -5,7 +5,7 @@ slug: halk-sairligi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► halk ozanlığı
+- halk ozanlığı
 ozellikler:
 - - isim
 ornekler:

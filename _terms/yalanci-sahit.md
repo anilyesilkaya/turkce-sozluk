@@ -5,7 +5,7 @@ slug: yalanci-sahit
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yalancı tanık
+- yalancı tanık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hipopotam
 letter: H
 lisan: Fransızca hippopotame
 anlamlar:
-- ► su aygırı
+- su aygırı
 ozellikler:
 - - isim
   - hayvan bilimi

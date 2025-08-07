@@ -5,7 +5,7 @@ slug: limitet
 letter: L
 lisan: İngilizce limited
 anlamlar:
-- ► sınırlı
+- sınırlı
 ozellikler:
 - - sıfat
 ornekler:

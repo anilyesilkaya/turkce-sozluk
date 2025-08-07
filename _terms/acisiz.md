@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tadı acı olmayan
 - Ağrı, sızı duyulmayan
-- ► üzüntüsüz
+- üzüntüsüz
 ozellikler:
 - - sıfat
 - - sıfat

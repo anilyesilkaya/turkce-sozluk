@@ -5,7 +5,7 @@ slug: vesika
 letter: V
 lisan: Arapça ves̱īḳa
 anlamlar:
-- ► belge
+- belge
 ozellikler:
 - - isim
 ornekler:

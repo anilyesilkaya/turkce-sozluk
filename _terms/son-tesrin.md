@@ -5,7 +5,7 @@ slug: son-tesrin
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kasım
+- kasım
 ozellikler:
 - - isim
   - eskimiş

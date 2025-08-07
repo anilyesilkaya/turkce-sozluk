@@ -5,8 +5,8 @@ slug: ata-lira
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cumhuriyet altını
-- ► sarı lira
+- cumhuriyet altını
+- sarı lira
 ozellikler:
 - - isim
 - - isim

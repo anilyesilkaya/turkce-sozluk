@@ -5,7 +5,7 @@ slug: namutenahilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonsuzluk
+- sonsuzluk
 ozellikler:
 - - isim
 ornekler:

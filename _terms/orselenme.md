@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örselenmek işi
-- ► travma
+- travma
 ozellikler:
 - - isim
 - - isim

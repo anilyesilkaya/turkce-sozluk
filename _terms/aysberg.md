@@ -5,7 +5,7 @@ slug: aysberg
 letter: A
 lisan: Fransızca iceberg
 anlamlar:
-- ► buz dağı
+- buz dağı
 - Birleşikgillerden, ılıman iklimin hâkim olduğu yerlerde yetişen, yaprakları üst üste kapanıp yuvarlak bir top oluşturan, açık yeşil renkli, salatalarda kullanılan tek yıllık otsu bir bitki; atom
 ozellikler:
 - - isim

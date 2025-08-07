@@ -5,7 +5,7 @@ slug: kapital
 letter: K
 lisan: Fransızca capital
 anlamlar:
-- ► sermaye
+- sermaye
 ozellikler:
 - - isim
   - ekonomi

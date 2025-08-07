@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Özellikle resmî işlerde yöntemlere, tüzüklere sıkı sıkıya bağlanıp işlerin yürümesini güçleştiren kimse
-- ► biçimci
+- biçimci
 - Bir işi olduğundan fazla abartan, kurallara gereğinden fazla bağlı olan
 ozellikler:
 - - isim

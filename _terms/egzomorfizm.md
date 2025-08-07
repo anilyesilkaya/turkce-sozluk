@@ -5,7 +5,7 @@ slug: egzomorfizm
 letter: E
 lisan: Fransızca exomorphisme
 anlamlar:
-- ► dış başkalaşım
+- dış başkalaşım
 ozellikler:
 - - isim
   - jeoloji

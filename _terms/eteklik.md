@@ -5,7 +5,7 @@ slug: eteklik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► etek
+- etek
 - Bir şeyin aşağıya doğru uzanan yüzü
 - Etek yapmaya elverişli (kumaş)
 ozellikler:

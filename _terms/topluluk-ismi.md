@@ -5,7 +5,7 @@ slug: topluluk-ismi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► topluluk adı
+- topluluk adı
 ozellikler:
 - - isim
   - dil bilgisi

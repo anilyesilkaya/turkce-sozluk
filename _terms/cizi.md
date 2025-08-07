@@ -5,7 +5,7 @@ slug: cizi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çizgi
+- çizgi
 - Saban demirinin toprakta bıraktığı iz
 - Tutum, davranış
 ozellikler:

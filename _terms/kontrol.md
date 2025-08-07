@@ -5,9 +5,9 @@ slug: kontrol
 letter: K
 lisan: Fransızca contrôle
 anlamlar:
-- ► denetleme
+- denetleme
 - Bir şeyin gerçeğe ve aslına uygunluğuna bakma
-- ► yoklama
+- yoklama
 ozellikler:
 - - isim
 - - isim

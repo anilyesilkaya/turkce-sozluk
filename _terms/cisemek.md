@@ -5,7 +5,7 @@ slug: cisemek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiselemek
+- çiselemek
 ozellikler:
 - - nesnesiz
 ornekler:

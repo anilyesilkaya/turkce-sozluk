@@ -5,7 +5,7 @@ slug: sosyallesmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumsallaşmak
+- toplumsallaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

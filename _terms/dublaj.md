@@ -5,7 +5,7 @@ slug: dublaj
 letter: D
 lisan: Fransızca doublage
 anlamlar:
-- ► seslendirme
+- seslendirme
 - Yabancı bir filmin dilini, olabildiğince eş zamanlı olarak seslendirme yoluyla yerli dile çevirme veya yerli bir filmin dilini yabancı dile çevirme
 - Voleybolda, blok yapan takım arkadaşından seken topları kurtarmak amacıyla yapılan hareket
 ozellikler:

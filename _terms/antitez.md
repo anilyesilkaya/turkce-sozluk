@@ -5,7 +5,7 @@ slug: antitez
 letter: A
 lisan: Fransızca antithèse
 anlamlar:
-- ► karşı sav
+- karşı sav
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: vectli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► coşkun
+- coşkun
 ozellikler:
 - - sıfat
 ornekler:

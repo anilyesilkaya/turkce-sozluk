@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Eşlik eden
-- ► refakatçi
+- refakatçi
 ozellikler:
 - - sıfat
 - - sıfat

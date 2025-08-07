@@ -5,7 +5,7 @@ slug: uyutumcu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► hipnozcu
+- hipnozcu
 ozellikler:
 - - isim
 ornekler:

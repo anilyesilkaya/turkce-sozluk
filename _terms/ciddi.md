@@ -6,13 +6,13 @@ letter: C
 lisan: Arapça ciddī
 anlamlar:
 - Şaka olmayan
-- ► ağırbaşlı
+- ağırbaşlı
 - Titizlik gösterilen, önem verilen; önemlice, becit
 - Tehlikeli ve endişe verici olan
 - Eğlendirme amacı gütmeyen
 - Gülmeyen
 - Güvenilir, sağlam, önemli olan
-- ► gerçek
+- gerçek
 - Önem vererek, gerçek olarak
 - Güvenilir bir biçimde
 - Gülmeden, surat asık biçimde

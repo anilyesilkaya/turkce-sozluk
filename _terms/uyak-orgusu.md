@@ -5,7 +5,7 @@ slug: uyak-orgusu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiye örgüsü
+- kafiye örgüsü
 ozellikler:
 - - isim
   - edebiyat

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çağırma işini yapan, çağırmak için giden kimse; davetçi
 - Sahnede oyuncuları takdim eden kimse
-- ► mübaşir
+- mübaşir
 ozellikler:
 - - isim
 - - isim

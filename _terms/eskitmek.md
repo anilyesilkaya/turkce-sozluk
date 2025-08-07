@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Çok kullanarak eskimiş duruma getirmek
 - Etkisini sürdürememek
-- ► yaşlandırmak
+- yaşlandırmak
 - Daha eski görünmesi için herhangi bir eşya üzerinde boya vb. ile işlem yapmak
 ozellikler:
 - - -i

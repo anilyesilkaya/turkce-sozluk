@@ -5,7 +5,7 @@ slug: sup
 letter: S
 lisan: Fransızca soupe
 anlamlar:
-- ► supangle
+- supangle
 ozellikler:
 - - isim
 ornekler:

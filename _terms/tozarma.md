@@ -5,7 +5,7 @@ slug: tozarma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tozlaşma
+- tozlaşma
 ozellikler:
 - - isim
 ornekler:

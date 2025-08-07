@@ -5,7 +5,7 @@ slug: kati
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► taşlık
+- taşlık
 ozellikler:
 - - isim
   - hayvan bilimi

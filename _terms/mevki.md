@@ -5,10 +5,10 @@ slug: mevki
 letter: M
 lisan: Arapça mevḳiʿ
 anlamlar:
-- ► yer
-- ► makam
+- yer
+- makam
 - Bazı ulaşım araçlarında yolculara veya tiyatro, sinema vb. yerlerde seyircilere sağlanan konfora ve bilet ücretlerine göre düzenlenmiş yer
-- ► durum
+- durum
 ozellikler:
 - - isim
 - - isim

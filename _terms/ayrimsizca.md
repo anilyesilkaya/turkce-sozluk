@@ -5,7 +5,7 @@ slug: ayrimsizca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farksızca
+- farksızca
 ozellikler:
 - - zarf
 ornekler:

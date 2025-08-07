@@ -5,10 +5,10 @@ slug: felek
 letter: F
 lisan: Arapça felek
 anlamlar:
-- ► baht
+- baht
 - Dünya, âlem
 - Askerî mızıkada zilli bir müzik aracı
-- ► gök
+- gök
 ozellikler:
 - - isim
 - - isim

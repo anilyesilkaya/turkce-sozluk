@@ -5,7 +5,7 @@ slug: karincaincitmez
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karıncaezmez
+- karıncaezmez
 ozellikler:
 - - sıfat
   - mecaz

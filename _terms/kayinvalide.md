@@ -5,7 +5,7 @@ slug: kayinvalide
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaynana
+- kaynana
 ozellikler:
 - - isim
 ornekler:

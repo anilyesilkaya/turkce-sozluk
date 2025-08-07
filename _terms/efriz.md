@@ -5,7 +5,7 @@ slug: efriz
 letter: E
 lisan: Fransızca frise
 anlamlar:
-- ► friz
+- friz
 ozellikler:
 - - isim
   - mimarlık

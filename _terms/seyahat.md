@@ -5,8 +5,8 @@ slug: seyahat
 letter: S
 lisan: Arapça siyāḥat
 anlamlar:
-- ► yolculuk
-- ► gezi (I)
+- yolculuk
+- gezi (I)
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: yegni
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hafif
+- hafif
 - Ciddi olmayan
 ozellikler:
 - - sıfat

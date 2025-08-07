@@ -5,7 +5,7 @@ slug: gorevcilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► işlevcilik
+- işlevcilik
 ozellikler:
 - - isim
   - ruh bilimi

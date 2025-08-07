@@ -5,7 +5,7 @@ slug: intizamsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► karışıklık
+- karışıklık
 ozellikler:
 - - isim
 ornekler:

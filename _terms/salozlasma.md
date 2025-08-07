@@ -5,7 +5,7 @@ slug: salozlasma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► salaklaşma
+- salaklaşma
 ozellikler:
 - - isim
 ornekler:

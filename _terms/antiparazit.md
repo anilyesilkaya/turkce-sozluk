@@ -5,7 +5,7 @@ slug: antiparazit
 letter: A
 lisan: Fransızca antiparasite
 anlamlar:
-- ► asalaksavar
+- asalaksavar
 ozellikler:
 - - sıfat
   - tıp

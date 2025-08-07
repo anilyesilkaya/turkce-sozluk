@@ -5,7 +5,7 @@ slug: pena
 letter: P
 lisan: İtalyanca penna
 anlamlar:
-- ► mızrap
+- mızrap
 ozellikler:
 - - isim
 ornekler:

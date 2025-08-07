@@ -5,7 +5,7 @@ slug: oykunce
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► fabl
+- fabl
 ozellikler:
 - - isim
   - edebiyat

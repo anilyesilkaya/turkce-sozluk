@@ -5,7 +5,7 @@ slug: gulden
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► florin
+- florin
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: tiraj
 letter: T
 lisan: Fransızca tirage
 anlamlar:
-- ► baskı sayısı
+- baskı sayısı
 ozellikler:
 - - isim
 ornekler:

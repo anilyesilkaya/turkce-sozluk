@@ -8,7 +8,7 @@ anlamlar:
 - Bakışı bir şey üzerine çevirmek
 - Bir şeyin yüzü bir yöne doğru olmak
 - Bir şeyin gelişmesi veya iyi bir durumda kalması için emek vermek; esermek
-- ► geçindirmek
+- geçindirmek
 - Bir iş birinden beklenmek
 - Hastayı muayene etmek
 - Tedavi etmek için ilgilenmek

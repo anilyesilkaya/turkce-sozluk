@@ -7,7 +7,7 @@ lisan: Fransızca libéral
 anlamlar:
 - Serbest ekonomiden yana olan (kimse, parti vb.); liberalist
 - Özgürlük ve serbestlikle ilgili; erkin, erkinci
-- ► hoşgörülü
+- hoşgörülü
 ozellikler:
 - - sıfat
   - ekonomi

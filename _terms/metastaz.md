@@ -5,7 +5,7 @@ slug: metastaz
 letter: M
 lisan: Fransızca métastase
 anlamlar:
-- ► yayılma
+- yayılma
 ozellikler:
 - - isim
   - tıp

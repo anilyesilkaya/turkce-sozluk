@@ -5,7 +5,7 @@ slug: osteoloji
 letter: O
 lisan: Fransızca ostéologie
 anlamlar:
-- ► kemik bilimi
+- kemik bilimi
 ozellikler:
 - - isim
   - anatomi

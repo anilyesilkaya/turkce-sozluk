@@ -5,7 +5,7 @@ slug: cingene-ahtapotu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► ur
+- ur
 ozellikler:
 - - isim
   - tıp

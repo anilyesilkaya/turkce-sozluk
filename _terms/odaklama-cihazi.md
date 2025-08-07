@@ -5,7 +5,7 @@ slug: odaklama-cihazi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► odaklayıcı
+- odaklayıcı
 ozellikler:
 - - isim
 ornekler:

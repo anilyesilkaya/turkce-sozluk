@@ -5,7 +5,7 @@ slug: agrandisor
 letter: A
 lisan: Fransızca agrandisseur
 anlamlar:
-- ► büyülteç
+- büyülteç
 ozellikler:
 - - isim
 ornekler:

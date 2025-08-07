@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça seyyāle
 anlamlar:
 - Hava, su gibi akıcı olan şey, akıcı madde
-- ► akım
+- akım
 - Bir yeri veya kimseyi etkisi altına alan, kendini hissettiren maddi veya manevi etki
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: adaletli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adil
+- adil
 ozellikler:
 - - sıfat
 ornekler:

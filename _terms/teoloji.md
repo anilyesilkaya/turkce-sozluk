@@ -5,7 +5,7 @@ slug: teoloji
 letter: T
 lisan: Fransızca théologie
 anlamlar:
-- ► tanrı bilimi
+- tanrı bilimi
 ozellikler:
 - - isim
 ornekler:

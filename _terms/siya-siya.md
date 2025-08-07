@@ -5,7 +5,7 @@ slug: siya-siya
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 ozellikler:
 - - zarf
 ornekler:

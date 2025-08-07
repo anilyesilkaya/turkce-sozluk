@@ -6,7 +6,7 @@ letter: Ç
 lisan: Farsça çerāġ
 anlamlar:
 - Mum, kandil, lamba vb. ışık veren araç; çırağ
-- ► ışık
+- ışık
 ozellikler:
 - - isim
   - eskimiş

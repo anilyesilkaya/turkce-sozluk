@@ -5,7 +5,7 @@ slug: ziyadar
 letter: Z
 lisan: Arapça żiyāʾ + Farsça -dār
 anlamlar:
-- ► ışıklı
+- ışıklı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: olu-sessizligi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölüm sessizliği
+- ölüm sessizliği
 ozellikler:
 - - isim
   - mecaz

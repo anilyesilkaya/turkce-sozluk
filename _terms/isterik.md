@@ -5,7 +5,7 @@ slug: isterik
 letter: I
 lisan: Fransızca hystérique
 anlamlar:
-- ► histerik
+- histerik
 ozellikler:
 - - sıfat
 ornekler:

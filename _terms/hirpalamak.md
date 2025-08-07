@@ -5,8 +5,8 @@ slug: hirpalamak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► örselemek
-- ► dövmek
+- örselemek
+- dövmek
 - İtip kakmak, azarlamak veya yıpratmak
 ozellikler:
 - - -i

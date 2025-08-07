@@ -5,7 +5,7 @@ slug: istintak
 letter: I
 lisan: Arapça istinṭāḳ
 anlamlar:
-- ► sorgu
+- sorgu
 - Sorguya çekme
 ozellikler:
 - - isim

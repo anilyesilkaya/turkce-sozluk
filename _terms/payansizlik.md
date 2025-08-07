@@ -5,7 +5,7 @@ slug: payansizlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sonsuzluk
+- sonsuzluk
 ozellikler:
 - - isim
 ornekler:

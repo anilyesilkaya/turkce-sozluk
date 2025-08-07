@@ -5,7 +5,7 @@ slug: usculuk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► akılcılık
+- akılcılık
 ozellikler:
 - - isim
   - felsefe

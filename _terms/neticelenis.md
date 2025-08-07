@@ -5,7 +5,7 @@ slug: neticelenis
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonuçlanış
+- sonuçlanış
 ozellikler:
 - - isim
 ornekler:

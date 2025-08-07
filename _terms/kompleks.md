@@ -5,12 +5,12 @@ slug: kompleks
 letter: K
 lisan: Fransızca complexe
 anlamlar:
-- ► karmaşık
+- karmaşık
 - Vitamin veya proteinlerin oluşturduğu bileşik
-- ► karmaşık
-- ► kuruluşlar bütünü
+- karmaşık
+- kuruluşlar bütünü
 - Sosyal, kültürel veya sportif faaliyetlerin yürütülebileceği tesisler bütünü
-- ► duygu karmaşası
+- duygu karmaşası
 ozellikler:
 - - sıfat
 - - sıfat

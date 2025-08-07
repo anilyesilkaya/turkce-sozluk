@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Canlı, hareketli, atik olan
 - Akıcı, işlek olan; keskin
-- ► aceleci
+- aceleci
 - Güzel, şık, yakışıklı olan
 - İnce tülbent veya ipekli başörtüsü
 - Yerli dokuması kara bezden yapılmış köylü kadın yeldirmesi

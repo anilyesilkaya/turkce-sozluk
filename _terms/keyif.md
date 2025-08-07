@@ -5,13 +5,13 @@ slug: keyif
 letter: K
 lisan: Arapça keyf
 anlamlar:
-- ► sağlık
+- sağlık
 - Canlılık, tasasızlık, iç rahatlığı
 - Rahat, huzur, afiyet
 - İstek, heves, zevk
 - Alkollü içki ve başka uyuşturucu maddeler kullanıldığında insanda görülen durum
 - Yolsuz ve kural dışı istek
-- ► esrar (II)
+- esrar (II)
 ozellikler:
 - - isim
 - - isim

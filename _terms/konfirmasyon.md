@@ -5,9 +5,9 @@ slug: konfirmasyon
 letter: K
 lisan: Fransızca confirmation
 anlamlar:
-- ► doğrulama
-- ► geçerleme
-- ► onaylama
+- doğrulama
+- geçerleme
+- onaylama
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: trake
 letter: T
 lisan: Fransızca trachée
 anlamlar:
-- ► soluk borusu
+- soluk borusu
 - Eklem bacaklılarda bulunan özel solunum kanalları
 ozellikler:
 - - isim

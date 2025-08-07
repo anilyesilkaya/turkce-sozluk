@@ -5,7 +5,7 @@ slug: yakasiz-mintan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kefen
+- kefen
 ozellikler:
 - - isim
 ornekler:

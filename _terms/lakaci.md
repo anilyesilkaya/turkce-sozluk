@@ -5,7 +5,7 @@ slug: lakaci
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lakçı
+- lakçı
 ozellikler:
 - - isim
 ornekler:

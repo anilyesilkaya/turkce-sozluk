@@ -5,7 +5,7 @@ slug: agus
 letter: A
 lisan: Farsça āġūş
 anlamlar:
-- ► kucak
+- kucak
 ozellikler:
 - - isim
   - eskimiş

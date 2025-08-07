@@ -5,7 +5,7 @@ slug: senevi
 letter: S
 lisan: Arapça senevī
 anlamlar:
-- ► yıllık
+- yıllık
 ozellikler:
 - - sıfat
   - eskimiş

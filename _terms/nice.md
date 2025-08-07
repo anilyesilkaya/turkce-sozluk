@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Kaç, ne kadar
-- ► birçok
+- birçok
 - (ni'ce) ► nasıl
 - (ni'ce) Uzun süreden beri
 ozellikler:

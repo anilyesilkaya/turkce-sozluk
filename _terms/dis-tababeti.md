@@ -5,7 +5,7 @@ slug: dis-tababeti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► diş hekimliği
+- diş hekimliği
 ozellikler:
 - - isim
   - tıp

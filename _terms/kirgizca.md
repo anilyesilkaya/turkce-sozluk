@@ -5,7 +5,7 @@ slug: kirgizca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kırgız Türkçesi
+- Kırgız Türkçesi
 ozellikler:
 - - isim
 ornekler:

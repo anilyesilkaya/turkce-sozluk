@@ -5,7 +5,7 @@ slug: amme-davasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kamu davası
+- kamu davası
 ozellikler:
 - - isim
   - hukuk

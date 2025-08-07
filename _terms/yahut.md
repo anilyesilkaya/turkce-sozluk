@@ -5,7 +5,7 @@ slug: yahut
 letter: Y
 lisan: Farsça yā + ḫõd
 anlamlar:
-- ► veya
+- veya
 - Bir düşünceden cayıldığında "daha doğrusu, iyisi" anlamlarında kullanılan bir söz
 ozellikler:
 - - bağlaç

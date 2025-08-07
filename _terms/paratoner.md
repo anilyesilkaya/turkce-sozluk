@@ -5,7 +5,7 @@ slug: paratoner
 letter: P
 lisan: Fransızca paratonnerre
 anlamlar:
-- ► yıldırımsavar
+- yıldırımsavar
 ozellikler:
 - - isim
 ornekler:

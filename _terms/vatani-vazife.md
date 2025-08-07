@@ -5,7 +5,7 @@ slug: vatani-vazife
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vatani görev
+- vatani görev
 ozellikler:
 - - isim
 ornekler:

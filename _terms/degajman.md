@@ -5,7 +5,7 @@ slug: degajman
 letter: D
 lisan: Fransızca dégagement
 anlamlar:
-- ► degaj
+- degaj
 ozellikler:
 - - isim
   - spor

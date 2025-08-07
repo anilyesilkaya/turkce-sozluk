@@ -5,7 +5,7 @@ slug: icsellestirme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özümseme
+- özümseme
 ozellikler:
 - - isim
 ornekler:

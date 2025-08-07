@@ -5,7 +5,7 @@ slug: satlican
 letter: S
 lisan: Arapça ẕāt + cenb
 anlamlar:
-- ► zatülcenp
+- zatülcenp
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: ana-deniz-bilimi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► deniz bilimi
+- deniz bilimi
 ozellikler:
 - - isim
   - coğrafya

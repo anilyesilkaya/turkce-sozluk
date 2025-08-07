@@ -5,7 +5,7 @@ slug: metalik
 letter: M
 lisan: Fransızca métallique
 anlamlar:
-- ► madenî
+- madenî
 - Metal gibi parlak olan (renk)
 ozellikler:
 - - sıfat

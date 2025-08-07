@@ -5,7 +5,7 @@ slug: teavun
 letter: T
 lisan: Arapça teʿāvun
 anlamlar:
-- ► yardımlaşma
+- yardımlaşma
 ozellikler:
 - - isim
   - eskimiş

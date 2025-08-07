@@ -5,7 +5,7 @@ slug: kulliyen
 letter: K
 lisan: Arapça kulliyyen
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
   - eskimiş

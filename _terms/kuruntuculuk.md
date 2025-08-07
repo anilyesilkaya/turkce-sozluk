@@ -5,7 +5,7 @@ slug: kuruntuculuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuruntululuk
+- kuruntululuk
 ozellikler:
 - - isim
 ornekler:

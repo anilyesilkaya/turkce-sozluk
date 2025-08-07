@@ -5,7 +5,7 @@ slug: rasizm
 letter: R
 lisan: Fransızca racisme
 anlamlar:
-- ► ırkçılık
+- ırkçılık
 ozellikler:
 - - isim
   - toplum bilimi

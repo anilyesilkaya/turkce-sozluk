@@ -5,7 +5,7 @@ slug: pedersahilik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ataerkillik
+- ataerkillik
 ozellikler:
 - - isim
   - toplum bilimi

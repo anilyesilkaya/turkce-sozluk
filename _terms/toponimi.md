@@ -5,7 +5,7 @@ slug: toponimi
 letter: T
 lisan: Fransızca toponymie
 anlamlar:
-- ► yer adı bilimi
+- yer adı bilimi
 ozellikler:
 - - isim
 ornekler:

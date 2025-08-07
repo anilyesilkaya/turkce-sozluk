@@ -5,7 +5,7 @@ slug: itri
 letter: I
 lisan: Arapça ʿiṭrī
 anlamlar:
-- ► ıtırlı
+- ıtırlı
 ozellikler:
 - - sıfat
   - eskimiş

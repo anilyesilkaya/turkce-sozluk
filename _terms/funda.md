@@ -5,7 +5,7 @@ slug: funda
 letter: F
 lisan: Rumca
 anlamlar:
-- ► süpürge otu
+- süpürge otu
 ozellikler:
 - - isim
   - bitki bilimi

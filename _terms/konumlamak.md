@@ -5,7 +5,7 @@ slug: konumlamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yerleştirmek
+- yerleştirmek
 ozellikler:
 - - -i
 ornekler:

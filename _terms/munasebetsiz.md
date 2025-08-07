@@ -5,8 +5,8 @@ slug: munasebetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uygunsuz
-- ► ters (I)
+- uygunsuz
+- ters (I)
 - Yakışıksız iş gören, sıra, saygı gözetmeyen (kimse)
 ozellikler:
 - - sıfat

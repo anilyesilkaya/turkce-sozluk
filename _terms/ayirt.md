@@ -5,7 +5,7 @@ slug: ayirt
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► fark
+- fark
 ozellikler:
 - - isim
 ornekler:

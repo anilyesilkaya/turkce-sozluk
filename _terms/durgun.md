@@ -5,7 +5,7 @@ slug: durgun
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sakin
+- sakin
 - Neşesiz, keyifsiz, sessiz olan
 - Sönük, hareketsiz olan; cansız
 ozellikler:

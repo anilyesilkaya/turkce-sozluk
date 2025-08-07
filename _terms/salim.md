@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça sālim
 anlamlar:
 - Sakin, huzurlu olan
-- ► esen
+- esen
 ozellikler:
 - - sıfat
 - - sıfat

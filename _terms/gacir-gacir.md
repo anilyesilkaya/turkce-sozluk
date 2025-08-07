@@ -5,7 +5,7 @@ slug: gacir-gacir
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gacır gucur
+- gacır gucur
 ozellikler:
 - - zarf
 ornekler:

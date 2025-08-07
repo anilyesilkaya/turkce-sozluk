@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yağ çıkaran veya satan kimse
 - Makineleri yağlayan kimse
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - isim
 - - isim

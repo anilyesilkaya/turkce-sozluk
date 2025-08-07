@@ -5,7 +5,7 @@ slug: orman-sinegi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► at sineği
+- at sineği
 ozellikler:
 - - isim
   - hayvan bilimi

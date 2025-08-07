@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mecmūʿ
 anlamlar:
 - Bir araya getirilmiş, toplanmış
-- ► toplam
+- toplam
 ozellikler:
 - - sıfat
   - eskimiş

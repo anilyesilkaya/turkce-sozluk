@@ -5,7 +5,7 @@ slug: himaye
 letter: H
 lisan: Arapça ḥimāye
 anlamlar:
-- ► koruyuculuk
+- koruyuculuk
 - Kayırma, elinden tutma
 ozellikler:
 - - isim

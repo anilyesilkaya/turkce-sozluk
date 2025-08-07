@@ -5,7 +5,7 @@ slug: leksikografi
 letter: L
 lisan: Fransızca lexicographie
 anlamlar:
-- ► sözlükçülük
+- sözlükçülük
 ozellikler:
 - - isim
 ornekler:

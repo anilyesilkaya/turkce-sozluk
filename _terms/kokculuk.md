@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kökçünün yaptığı iş
-- ► köktencilik
+- köktencilik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: musemmen
 letter: M
 lisan: Arapça mus̱emmen
 anlamlar:
-- ► sekizli
+- sekizli
 - Sekizer dizeli bentlerden oluşan şiir
 ozellikler:
 - - sıfat

@@ -6,7 +6,7 @@ letter: S
 lisan: İngilizce spray
 anlamlar:
 - Çok ince damlacıklar durumunda püskürtülen sıvı
-- ► püskürtücü
+- püskürtücü
 - Püskürtüldüğünde saçın üzerinde koruyucu bir tabaka meydana getiren ve ana maddesi reçine olan ürün
 ozellikler:
 - - isim

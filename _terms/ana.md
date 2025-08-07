@@ -5,13 +5,13 @@ slug: ana
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anne
+- anne
 - Yavrusu olan dişi hayvan
 - Dinî bakımdan aziz tanınan bazı kadınlara verilen saygı ünvanı
 - Yaşlı kadınlara saygılı bir seslenme sözü
-- ► velinimet
+- velinimet
 - Alacağın veya borcun, faizin dışında olan bölümü
-- ► temel
+- temel
 - Çizgilerden herhangi birini anlatan kelimeye sıfat olarak geldiğinde o çizginin, belirli bir kural altında hareket ederek bir yüzey oluşturmaya yaradığını anlatan bir söz
 ozellikler:
 - - isim

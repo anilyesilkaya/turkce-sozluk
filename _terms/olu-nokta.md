@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Gözden uzak yer
-- ► kör nokta
+- kör nokta
 ozellikler:
 - - isim
   - mecaz

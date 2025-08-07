@@ -5,7 +5,7 @@ slug: burc
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ökse otu
+- ökse otu
 ozellikler:
 - - isim
   - bitki bilimi

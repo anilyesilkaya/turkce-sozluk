@@ -5,7 +5,7 @@ slug: sila-ozlemi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yurt özlemi
+- yurt özlemi
 ozellikler:
 - - isim
 ornekler:

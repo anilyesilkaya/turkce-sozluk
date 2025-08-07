@@ -6,7 +6,7 @@ letter: U
 lisan: Arapça ʿużvī
 anlamlar:
 - Organla ilgili
-- ► organik
+- organik
 ozellikler:
 - - sıfat
   - eskimiş

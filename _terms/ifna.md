@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça ifnāʾ
 anlamlar:
 - Yok etme
-- ► tüketme
+- tüketme
 ozellikler:
 - - isim
   - eskimiş

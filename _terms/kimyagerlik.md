@@ -5,7 +5,7 @@ slug: kimyagerlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kimyacılık
+- kimyacılık
 ozellikler:
 - - isim
 ornekler:

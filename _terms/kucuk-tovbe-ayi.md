@@ -5,7 +5,7 @@ slug: kucuk-tovbe-ayi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► cemaziyelahir
+- cemaziyelahir
 ozellikler:
 - - isim
 ornekler:

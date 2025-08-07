@@ -5,7 +5,7 @@ slug: yalama-yazi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yontuk düz
+- yontuk düz
 ozellikler:
 - - isim
   - coğrafya

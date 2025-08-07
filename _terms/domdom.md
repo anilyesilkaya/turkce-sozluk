@@ -5,7 +5,7 @@ slug: domdom
 letter: D
 lisan: (Hindistan'daki Dumdum yer adından)
 anlamlar:
-- ► domdom kurşunu
+- domdom kurşunu
 ozellikler:
 - - isim
 ornekler:

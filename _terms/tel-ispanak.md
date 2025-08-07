@@ -5,7 +5,7 @@ slug: tel-ispanak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sirken
+- sirken
 ozellikler:
 - - isim
   - bitki bilimi

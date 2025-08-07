@@ -5,7 +5,7 @@ slug: konglomera
 letter: K
 lisan: Fransızca conglomérat
 anlamlar:
-- ► yığışım
+- yığışım
 ozellikler:
 - - isim
   - jeoloji

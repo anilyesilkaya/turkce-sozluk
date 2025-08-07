@@ -5,7 +5,7 @@ slug: seruvencilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► maceracılık
+- maceracılık
 ozellikler:
 - - isim
 ornekler:

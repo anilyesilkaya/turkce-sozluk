@@ -5,7 +5,7 @@ slug: ornitorenk
 letter: O
 lisan: Fransızca ornithorynque
 anlamlar:
-- ► gagalı memeli
+- gagalı memeli
 ozellikler:
 - - isim
   - hayvan bilimi

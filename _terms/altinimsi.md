@@ -5,7 +5,7 @@ slug: altinimsi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► altınsı
+- altınsı
 ozellikler:
 - - sıfat
 ornekler:

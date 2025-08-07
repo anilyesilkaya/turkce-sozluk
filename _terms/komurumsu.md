@@ -5,7 +5,7 @@ slug: komurumsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kömürsü
+- kömürsü
 ozellikler:
 - - sıfat
 ornekler:

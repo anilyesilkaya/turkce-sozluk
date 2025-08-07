@@ -5,7 +5,7 @@ slug: hususuyla
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özellikle
+- özellikle
 ozellikler:
 - - zarf
 ornekler:

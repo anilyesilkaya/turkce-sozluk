@@ -5,7 +5,7 @@ slug: mah
 letter: M
 lisan: Farsça māh
 anlamlar:
-- ► ay (II)
+- ay (II)
 ozellikler:
 - - isim
 ornekler:

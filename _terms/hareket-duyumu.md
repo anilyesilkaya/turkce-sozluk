@@ -5,7 +5,7 @@ slug: hareket-duyumu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kinestezi
+- kinestezi
 ozellikler:
 - - isim
   - fizyoloji

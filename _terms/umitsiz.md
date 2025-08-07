@@ -5,7 +5,7 @@ slug: umitsiz
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutsuz
+- umutsuz
 ozellikler:
 - - sıfat
 ornekler:

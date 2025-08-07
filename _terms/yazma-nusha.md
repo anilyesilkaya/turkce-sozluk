@@ -5,7 +5,7 @@ slug: yazma-nusha
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yazma (I)
+- yazma (I)
 ozellikler:
 - - isim
 ornekler:

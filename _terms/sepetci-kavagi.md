@@ -5,7 +5,7 @@ slug: sepetci-kavagi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► çalık kavak
+- çalık kavak
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: gozyasi-pinari
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göz pınarı
+- göz pınarı
 ozellikler:
 - - isim
 ornekler:

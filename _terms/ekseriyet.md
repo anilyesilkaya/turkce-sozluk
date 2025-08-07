@@ -5,8 +5,8 @@ slug: ekseriyet
 letter: E
 lisan: Arapça eks̱eriyyet
 anlamlar:
-- ► çoğunluk
-- ► çokluk
+- çoğunluk
+- çokluk
 ozellikler:
 - - isim
 - - isim

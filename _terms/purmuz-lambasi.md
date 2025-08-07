@@ -5,7 +5,7 @@ slug: purmuz-lambasi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► alev lambası
+- alev lambası
 ozellikler:
 - - isim
 ornekler:

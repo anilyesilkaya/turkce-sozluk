@@ -5,7 +5,7 @@ slug: beynelmilel
 letter: B
 lisan: Arapça beyn + milel
 anlamlar:
-- ► uluslararası
+- uluslararası
 ozellikler:
 - - sıfat
   - eskimiş

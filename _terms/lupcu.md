@@ -5,7 +5,7 @@ slug: lupcu
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► bedavacı
+- bedavacı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: termostat
 letter: T
 lisan: Fransızca thermostat
 anlamlar:
-- ► ısıdenetir
+- ısıdenetir
 ozellikler:
 - - isim
   - fizik

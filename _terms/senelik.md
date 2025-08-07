@@ -5,7 +5,7 @@ slug: senelik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yıllık
+- yıllık
 ozellikler:
 - - sıfat
 ornekler:

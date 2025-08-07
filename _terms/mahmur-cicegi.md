@@ -5,7 +5,7 @@ slug: mahmur-cicegi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çiğdem
+- çiğdem
 ozellikler:
 - - isim
   - bitki bilimi

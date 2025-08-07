@@ -5,7 +5,7 @@ slug: vicahen
 letter: V
 lisan: Arapça vicāhen
 anlamlar:
-- ► karşı karşıya
+- karşı karşıya
 ozellikler:
 - - zarf
   - eskimiş

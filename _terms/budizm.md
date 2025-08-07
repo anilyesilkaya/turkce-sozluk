@@ -5,7 +5,7 @@ slug: budizm
 letter: B
 lisan: Fransızca bouddhisme
 anlamlar:
-- ► Budistlik
+- Budistlik
 ozellikler:
 - - isim
   - din bilimi

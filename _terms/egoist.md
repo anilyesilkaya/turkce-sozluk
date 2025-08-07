@@ -5,7 +5,7 @@ slug: egoist
 letter: E
 lisan: Fransızca égoïste
 anlamlar:
-- ► bencil
+- bencil
 ozellikler:
 - - sıfat
 ornekler:

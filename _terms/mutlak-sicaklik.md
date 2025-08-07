@@ -5,7 +5,7 @@ slug: mutlak-sicaklik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► salt sıcaklık
+- salt sıcaklık
 ozellikler:
 - - isim
   - fizik

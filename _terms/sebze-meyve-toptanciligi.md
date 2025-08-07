@@ -5,7 +5,7 @@ slug: sebze-meyve-toptanciligi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kabzımallık
+- kabzımallık
 ozellikler:
 - - isim
 ornekler:

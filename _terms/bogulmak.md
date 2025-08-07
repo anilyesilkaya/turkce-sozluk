@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Boğma işine konu olmak
 - Havasızlıktan ölmek
-- ► bunalmak
+- bunalmak
 - Kumarda hileli oyun sonunda her şeyini yitirmek
 ozellikler:
 - - nesnesiz

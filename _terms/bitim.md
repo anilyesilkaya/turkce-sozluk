@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bitmek işi
-- ► son
+- son
 ozellikler:
 - - isim
 - - isim

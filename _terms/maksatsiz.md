@@ -5,7 +5,7 @@ slug: maksatsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► amaçsız
+- amaçsız
 - Bilmeden, istemeden, kasıtsız olarak
 ozellikler:
 - - sıfat

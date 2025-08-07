@@ -5,7 +5,7 @@ slug: lagvedilmek
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► feshedilmek
+- feshedilmek
 - Hükümsüz kılınmak
 ozellikler:
 - - nesnesiz

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kibar olma durumu
 - Kibar bir insana yakışacak biçimdeki söz veya davranış
-- ► incelik
+- incelik
 ozellikler:
 - - isim
 - - isim

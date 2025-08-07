@@ -5,7 +5,7 @@ slug: alakasizcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgisizce
+- ilgisizce
 ozellikler:
 - - zarf
 ornekler:

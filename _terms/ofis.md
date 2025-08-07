@@ -6,9 +6,9 @@ letter: O
 lisan: Fransızca office
 anlamlar:
 - Bir işletmeyi veya hizmeti yönetmek üzere düzenleme faaliyetlerinin yapıldığı alan
-- ► iş yeri
-- ► daire
-- ► büro
+- iş yeri
+- daire
+- büro
 ozellikler:
 - - isim
 - - isim

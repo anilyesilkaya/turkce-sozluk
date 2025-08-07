@@ -5,7 +5,7 @@ slug: kizilsogut
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızılağaç
+- kızılağaç
 ozellikler:
 - - isim
   - bitki bilimi

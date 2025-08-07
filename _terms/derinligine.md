@@ -5,7 +5,7 @@ slug: derinligine
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► derinlemesine
+- derinlemesine
 ozellikler:
 - - zarf
 ornekler:

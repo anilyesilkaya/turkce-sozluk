@@ -5,7 +5,7 @@ slug: kemiyet
 letter: K
 lisan: Arapça kemmiyyet
 anlamlar:
-- ► nicelik
+- nicelik
 ozellikler:
 - - isim
   - eskimiş

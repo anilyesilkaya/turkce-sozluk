@@ -5,7 +5,7 @@ slug: istikraz
 letter: I
 lisan: Arapça istiḳrāż
 anlamlar:
-- ► borçlanma
+- borçlanma
 ozellikler:
 - - isim
   - eskimiş

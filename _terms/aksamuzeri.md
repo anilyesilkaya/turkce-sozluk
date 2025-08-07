@@ -5,7 +5,7 @@ slug: aksamuzeri
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akşamüstü
+- akşamüstü
 ozellikler:
 - - zarf
 ornekler:

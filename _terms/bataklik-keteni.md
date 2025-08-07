@@ -5,7 +5,7 @@ slug: bataklik-keteni
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► pamuk otu
+- pamuk otu
 ozellikler:
 - - isim
   - bitki bilimi

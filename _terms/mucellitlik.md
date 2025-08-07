@@ -5,7 +5,7 @@ slug: mucellitlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ciltçilik
+- ciltçilik
 ozellikler:
 - - isim
 ornekler:

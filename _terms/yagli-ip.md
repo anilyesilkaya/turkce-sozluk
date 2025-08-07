@@ -5,7 +5,7 @@ slug: yagli-ip
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► darağacı
+- darağacı
 ozellikler:
 - - isim
   - mecaz

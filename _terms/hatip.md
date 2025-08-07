@@ -5,7 +5,7 @@ slug: hatip
 letter: H
 lisan: Arapça ḫaṭīb
 anlamlar:
-- ► konuşmacı
+- konuşmacı
 - Cuma ve bayram namazından önce camilerde hutbe okuyan kimse
 ozellikler:
 - - isim

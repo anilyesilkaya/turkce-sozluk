@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Bileşim içeren
-- ► tamlamalı
+- tamlamalı
 ozellikler:
 - - sıfat
 - - sıfat

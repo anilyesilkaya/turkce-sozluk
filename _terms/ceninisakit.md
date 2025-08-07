@@ -5,7 +5,7 @@ slug: ceninisakit
 letter: C
 lisan: Arapça cenīn + sāḳiṭ
 anlamlar:
-- ► düşük
+- düşük
 ozellikler:
 - - isim
   - eskimiş

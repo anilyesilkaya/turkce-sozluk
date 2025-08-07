@@ -5,7 +5,7 @@ slug: kozak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kozalak
+- kozalak
 - Metalden yapılmış, içine antlaşma ve padişah mektuplarının konulduğu kutu
 ozellikler:
 - - isim

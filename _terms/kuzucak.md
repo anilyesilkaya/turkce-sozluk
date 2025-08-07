@@ -5,7 +5,7 @@ slug: kuzucak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuzucuk
+- kuzucuk
 ozellikler:
 - - isim
 ornekler:

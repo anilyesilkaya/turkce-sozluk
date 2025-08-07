@@ -5,7 +5,7 @@ slug: sosyallestirmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► toplumsallaştırmak
+- toplumsallaştırmak
 - Toplum kurallarına göre davranacak biçimde eğitmek
 ozellikler:
 - - -i

@@ -6,7 +6,7 @@ letter: U
 lisan: Arapça ufūl
 anlamlar:
 - Batma, gözden kaybolma
-- ► ölme
+- ölme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: tek-erkci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► monarşist
+- monarşist
 ozellikler:
 - - sıfat
   - toplum bilimi

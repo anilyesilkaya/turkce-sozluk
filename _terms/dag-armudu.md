@@ -5,7 +5,7 @@ slug: dag-armudu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ahlat (I)
+- ahlat (I)
 ozellikler:
 - - isim
   - bitki bilimi

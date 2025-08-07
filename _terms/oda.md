@@ -8,8 +8,8 @@ anlamlar:
 - Evin veya herhangi bir yapının oturma, çalışma, yatma gibi işlere yarayan, banyo, salon, giriş vb. dışında kalan, bir veya birden fazla çıkışı olan bölmesi; göz
 - Serbest meslek adamlarını içinde toplayan resmî birlik
 - Yeniçeri kışlası
-- ► köy odası
-- ► daire
+- köy odası
+- daire
 ozellikler:
 - - isim
 - - isim

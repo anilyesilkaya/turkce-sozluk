@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Umulmayan, beklenmeyen veya olağanüstü bir olay, bir olgu karşısında şaşkın duruma gelmek, hayret etmek
 - Yolundan sapmak, gidişini değiştirmek veya yanılmak
-- ► şaşırmak
+- şaşırmak
 ozellikler:
 - - -e
 - - -e

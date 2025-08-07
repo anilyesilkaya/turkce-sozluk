@@ -5,7 +5,7 @@ slug: konservator
 letter: K
 lisan: Fransızca conservateur
 anlamlar:
-- ► tutucu
+- tutucu
 ozellikler:
 - - isim
 ornekler:

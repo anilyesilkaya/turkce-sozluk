@@ -5,7 +5,7 @@ slug: tokmakcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► jigololuk
+- jigololuk
 ozellikler:
 - - isim
 ornekler:

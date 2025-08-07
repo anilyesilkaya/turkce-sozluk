@@ -5,7 +5,7 @@ slug: metotsuzluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yöntemsizlik
+- yöntemsizlik
 ozellikler:
 - - isim
 ornekler:

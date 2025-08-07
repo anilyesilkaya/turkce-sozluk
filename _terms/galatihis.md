@@ -5,7 +5,7 @@ slug: galatihis
 letter: G
 lisan: Arapça ġalaṭ + ḥiss
 anlamlar:
-- ► yanılsama
+- yanılsama
 ozellikler:
 - - isim
   - eskimiş

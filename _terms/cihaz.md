@@ -5,8 +5,8 @@ slug: cihaz
 letter: C
 lisan: Arapça cihāz
 anlamlar:
-- ► aygıt
-- ► çeyiz
+- aygıt
+- çeyiz
 ozellikler:
 - - isim
 - - isim

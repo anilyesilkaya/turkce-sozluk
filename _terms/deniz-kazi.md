@@ -5,7 +5,7 @@ slug: deniz-kazi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► akbaş
+- akbaş
 ozellikler:
 - - isim
   - hayvan bilimi

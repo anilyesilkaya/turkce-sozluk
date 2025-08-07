@@ -5,7 +5,7 @@ slug: mukerrer
 letter: M
 lisan: Arapça mukerrer
 anlamlar:
-- ► tekrarlı
+- tekrarlı
 ozellikler:
 - - sıfat
 ornekler:

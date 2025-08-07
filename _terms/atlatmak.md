@@ -11,7 +11,7 @@ anlamlar:
 - Görüşmek, konuşmaktan kaçmak
 - Bir işi savsaklamak
 - Birini aldatmak
-- ► ekmek (II)
+- ekmek (II)
 ozellikler:
 - - -i
 - - -i

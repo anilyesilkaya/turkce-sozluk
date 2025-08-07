@@ -5,7 +5,7 @@ slug: paunt
 letter: P
 lisan: İngilizce pound
 anlamlar:
-- ► sterlin
+- sterlin
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: pasak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kir
+- kir
 ozellikler:
 - - isim
   - ağızlardan

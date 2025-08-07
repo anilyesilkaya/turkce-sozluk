@@ -5,7 +5,7 @@ slug: grimtirak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► grimsi
+- grimsi
 ozellikler:
 - - sıfat
 ornekler:

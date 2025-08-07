@@ -5,7 +5,7 @@ slug: mucip-sebep
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gerekçe
+- gerekçe
 ozellikler:
 - - isim
 ornekler:

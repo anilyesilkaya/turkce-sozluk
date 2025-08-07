@@ -5,7 +5,7 @@ slug: yalincak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► çıplak
+- çıplak
 ozellikler:
 - - sıfat
   - ağızlardan

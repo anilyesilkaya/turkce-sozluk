@@ -5,7 +5,7 @@ slug: tradisyon
 letter: T
 lisan: Fransızca tradition
 anlamlar:
-- ► gelenek
+- gelenek
 ozellikler:
 - - isim
   - toplum bilimi

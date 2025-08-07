@@ -5,7 +5,7 @@ slug: sakirga
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kene
+- kene
 ozellikler:
 - - isim
   - ağızlardan

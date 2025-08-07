@@ -5,7 +5,7 @@ slug: devrolmak
 letter: D
 lisan: Arapça devr + Türkçe olmak
 anlamlar:
-- ► devredilmek
+- devredilmek
 ozellikler:
 - - nesnesiz
 ornekler:

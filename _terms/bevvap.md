@@ -5,7 +5,7 @@ slug: bevvap
 letter: B
 lisan: Arapça bevvāb
 anlamlar:
-- ► kapıcı
+- kapıcı
 - Mahalle okullarında hademe
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: baryum-sulfat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► barit
+- barit
 ozellikler:
 - - isim
   - kimya

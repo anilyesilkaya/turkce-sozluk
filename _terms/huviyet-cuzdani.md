@@ -5,7 +5,7 @@ slug: huviyet-cuzdani
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kimlik
+- kimlik
 ozellikler:
 - - isim
 ornekler:

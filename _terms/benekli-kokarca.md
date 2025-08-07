@@ -5,7 +5,7 @@ slug: benekli-kokarca
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► alacasansar
+- alacasansar
 ozellikler:
 - - isim
   - hayvan bilimi

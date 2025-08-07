@@ -5,7 +5,7 @@ slug: basgarson
 letter: B
 lisan: Türkçe baş + Fransızca garçon
 anlamlar:
-- ► şef garson
+- şef garson
 ozellikler:
 - - isim
 ornekler:

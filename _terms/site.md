@@ -5,7 +5,7 @@ slug: site
 letter: S
 lisan: Fransızca cité
 anlamlar:
-- ► şehir
+- şehir
 - Genellikle belli meslek adamları için yapılmış veya belli amaçlarla kurulmuş konutlar topluluğu, iş merkezi
 - Kentlerde, belirli bir merkezden yönetilen, genellikle güvenliği sağlanmış toplu yerleşim merkezi
 - İlk Çağda kendi yasalarıyla yönetilen bir veya birkaç kentten oluşan devlet

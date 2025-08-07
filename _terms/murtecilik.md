@@ -5,7 +5,7 @@ slug: murtecilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gericilik
+- gericilik
 ozellikler:
 - - isim
 ornekler:

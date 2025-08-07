@@ -5,7 +5,7 @@ slug: kapitalizm
 letter: K
 lisan: Fransızca capitalisme
 anlamlar:
-- ► sermayecilik
+- sermayecilik
 ozellikler:
 - - isim
   - ekonomi

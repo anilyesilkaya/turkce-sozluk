@@ -5,7 +5,7 @@ slug: urodel
 letter: U
 lisan: Fransızca urodèle
 anlamlar:
-- ► kuyruklular
+- kuyruklular
 ozellikler:
 - - isim
   - hayvan bilimi

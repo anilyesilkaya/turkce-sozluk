@@ -5,7 +5,7 @@ slug: tuccar-terzi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kumaşlı terzi
+- kumaşlı terzi
 ozellikler:
 - - isim
 ornekler:

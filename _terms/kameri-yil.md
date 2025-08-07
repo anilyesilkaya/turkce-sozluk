@@ -5,7 +5,7 @@ slug: kameri-yil
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ay yılı
+- ay yılı
 ozellikler:
 - - isim
   - gök bilimi

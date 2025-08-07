@@ -5,7 +5,7 @@ slug: musamahasiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hoşgörüsüz
+- hoşgörüsüz
 ozellikler:
 - - sıfat
 ornekler:

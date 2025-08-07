@@ -5,7 +5,7 @@ slug: kara-talih
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kara yazı
+- kara yazı
 ozellikler:
 - - isim
   - mecaz

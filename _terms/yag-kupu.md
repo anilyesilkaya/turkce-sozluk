@@ -5,7 +5,7 @@ slug: yag-kupu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yağ tulumu
+- yağ tulumu
 ozellikler:
 - - sıfat
   - şaka yollu

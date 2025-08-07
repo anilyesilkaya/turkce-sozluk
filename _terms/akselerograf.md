@@ -5,7 +5,7 @@ slug: akselerograf
 letter: A
 lisan: Fransızca accélérographe
 anlamlar:
-- ► ivmeyazar
+- ivmeyazar
 ozellikler:
 - - isim
   - fizik

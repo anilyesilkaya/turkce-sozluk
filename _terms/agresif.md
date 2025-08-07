@@ -5,7 +5,7 @@ slug: agresif
 letter: A
 lisan: Fransızca agressif
 anlamlar:
-- ► saldırgan
+- saldırgan
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İçi dolu (taneli sebze veya kuru yemiş)
-- ► duygulu
+- duygulu
 - Duygulandıran, etkili
 ozellikler:
 - - sıfat

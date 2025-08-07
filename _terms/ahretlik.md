@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ahret kardeşi olan kadınlardan her biri
 - Öbür dünyada karşılığı görüleceğine inanarak yapılan (iş veya iyilik)
-- ► besleme
+- besleme
 ozellikler:
 - - isim
 - - isim

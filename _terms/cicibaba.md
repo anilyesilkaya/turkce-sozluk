@@ -5,7 +5,7 @@ slug: cicibaba
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► üvey baba
+- üvey baba
 ozellikler:
 - - isim
 ornekler:

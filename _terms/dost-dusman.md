@@ -5,7 +5,7 @@ slug: dost-dusman
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► herkes
+- herkes
 ozellikler:
 - - zamir
   - mecaz

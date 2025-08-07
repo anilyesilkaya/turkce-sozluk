@@ -5,7 +5,7 @@ slug: bayrakalti
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► askerlik
+- askerlik
 ozellikler:
 - - isim
   - askerlik

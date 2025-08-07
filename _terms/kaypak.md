@@ -5,8 +5,8 @@ slug: kaypak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kayağan
-- ► dönek
+- kayağan
+- dönek
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,8 +5,8 @@ slug: ergonomik
 letter: E
 lisan: Fransızca ergonomique
 anlamlar:
-- ► kullanışlı
-- ► elverişli
+- kullanışlı
+- elverişli
 ozellikler:
 - - sıfat
 - - sıfat

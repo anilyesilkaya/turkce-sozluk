@@ -5,7 +5,7 @@ slug: kreator
 letter: K
 lisan: Fransızca créateur
 anlamlar:
-- ► yaratımcı
+- yaratımcı
 ozellikler:
 - - isim
 ornekler:

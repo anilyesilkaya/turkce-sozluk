@@ -5,7 +5,7 @@ slug: mersiyehan
 letter: M
 lisan: Arapça mers̱iye + Farsça -ḫvān
 anlamlar:
-- ► ağıtçı
+- ağıtçı
 ozellikler:
 - - isim
   - eskimiş

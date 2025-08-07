@@ -5,8 +5,8 @@ slug: kavil
 letter: K
 lisan: Arapça ḳavl
 anlamlar:
-- ► söz
-- ► sözleşme
+- söz
+- sözleşme
 ozellikler:
 - - isim
   - eskimiş

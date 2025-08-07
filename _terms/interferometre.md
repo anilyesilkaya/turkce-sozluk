@@ -5,7 +5,7 @@ slug: interferometre
 letter: I
 lisan: Fransızca interféromètre
 anlamlar:
-- ► girişimölçer
+- girişimölçer
 ozellikler:
 - - isim
 ornekler:

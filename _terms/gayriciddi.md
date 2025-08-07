@@ -5,7 +5,7 @@ slug: gayriciddi
 letter: G
 lisan: Arapça ġayr + ciddī
 anlamlar:
-- ► laubali
+- laubali
 ozellikler:
 - - sıfat
   - eskimiş

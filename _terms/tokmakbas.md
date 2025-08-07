@@ -5,7 +5,7 @@ slug: tokmakbas
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaya balığı
+- kaya balığı
 ozellikler:
 - - isim
   - ağızlardan

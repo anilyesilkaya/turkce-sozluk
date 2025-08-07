@@ -5,7 +5,7 @@ slug: cigin
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► omuz
+- omuz
 ozellikler:
 - - isim
   - ağızlardan

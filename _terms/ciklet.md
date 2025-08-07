@@ -5,7 +5,7 @@ slug: ciklet
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► sakız
+- sakız
 ozellikler:
 - - isim
 ornekler:

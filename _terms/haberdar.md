@@ -5,7 +5,7 @@ slug: haberdar
 letter: H
 lisan: Arapça ḫaber + Farsça -dār
 anlamlar:
-- ► haberli
+- haberli
 ozellikler:
 - - sıfat
 ornekler:

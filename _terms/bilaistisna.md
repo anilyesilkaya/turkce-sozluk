@@ -5,7 +5,7 @@ slug: bilaistisna
 letter: B
 lisan: Arapça bilāistis̱nā
 anlamlar:
-- ► istisnasız
+- istisnasız
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: yagli-balli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► içli dışlı
+- içli dışlı
 ozellikler:
 - - sıfat
   - mecaz

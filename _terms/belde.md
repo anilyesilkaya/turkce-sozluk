@@ -5,7 +5,7 @@ slug: belde
 letter: B
 lisan: Arapça belde
 anlamlar:
-- ► kasaba
+- kasaba
 - Bir şeyin yaşandığı veya yaşatıldığı yer
 ozellikler:
 - - isim

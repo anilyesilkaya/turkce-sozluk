@@ -5,7 +5,7 @@ slug: su-kure
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► su yuvarı
+- su yuvarı
 ozellikler:
 - - isim
   - coğrafya

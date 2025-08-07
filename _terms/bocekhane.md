@@ -5,7 +5,7 @@ slug: bocekhane
 letter: B
 lisan: Türkçe böcek + Farsça ḫāne
 anlamlar:
-- ► böceklik
+- böceklik
 ozellikler:
 - - isim
   - eskimiş

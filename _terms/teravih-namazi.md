@@ -5,7 +5,7 @@ slug: teravih-namazi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teravih
+- teravih
 ozellikler:
 - - isim
   - din bilimi

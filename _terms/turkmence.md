@@ -5,7 +5,7 @@ slug: turkmence
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Türkmen Türkçesi
+- Türkmen Türkçesi
 - Bu Türkçeyle yazılmış olan
 ozellikler:
 - - isim

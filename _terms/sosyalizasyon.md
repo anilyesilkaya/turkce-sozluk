@@ -5,7 +5,7 @@ slug: sosyalizasyon
 letter: S
 lisan: Fransızca socialisation
 anlamlar:
-- ► toplumsallaştırma
+- toplumsallaştırma
 ozellikler:
 - - isim
   - ruh bilimi

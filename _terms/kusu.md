@@ -5,7 +5,7 @@ slug: kusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küskünlük
+- küskünlük
 ozellikler:
 - - isim
   - ağızlardan

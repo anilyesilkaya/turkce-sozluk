@@ -6,8 +6,8 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin veya ailenin içinde yaşadığı yer; bark, ev bark, beyit, dar (IV), hane, mekân
-- ► aile
-- ► soy
+- aile
+- soy
 ozellikler:
 - - isim
 - - isim

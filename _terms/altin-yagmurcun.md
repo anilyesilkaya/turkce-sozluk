@@ -5,7 +5,7 @@ slug: altin-yagmurcun
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yağmur kuşu
+- yağmur kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: osmani
 letter: O
 lisan: Arapça ‘Os̱mān + Farsça -į
 anlamlar:
-- ► Osmanlı
+- Osmanlı
 - Osmanlılarla ilgili
 - Osmanlılara ait
 ozellikler:

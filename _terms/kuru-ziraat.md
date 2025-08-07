@@ -5,7 +5,7 @@ slug: kuru-ziraat
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuru tarım
+- kuru tarım
 ozellikler:
 - - isim
 ornekler:

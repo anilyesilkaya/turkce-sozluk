@@ -5,7 +5,7 @@ slug: yalin-hal
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yalın durum
+- yalın durum
 ozellikler:
 - - isim
   - dil bilgisi

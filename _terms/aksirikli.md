@@ -5,7 +5,7 @@ slug: aksirikli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırıklı
+- hapşırıklı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: hali
 letter: H
 lisan: Arapça ḫālī
 anlamlar:
-- ► boş
+- boş
 ozellikler:
 - - sıfat
   - eskimiş

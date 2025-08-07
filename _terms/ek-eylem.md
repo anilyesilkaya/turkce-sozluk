@@ -5,7 +5,7 @@ slug: ek-eylem
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ek-fiil
+- ek-fiil
 ozellikler:
 - - isim
   - dil bilgisi

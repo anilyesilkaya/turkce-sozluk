@@ -5,7 +5,7 @@ slug: tediye-emri
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ödeme emri
+- ödeme emri
 ozellikler:
 - - isim
   - ticaret

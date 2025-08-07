@@ -13,18 +13,18 @@ anlamlar:
 - Bir dileği, bir isteği yerine getirmek; uygulamak, ifa etmek
 - Bir düşünceyi, bir davranışı, bir isteği işe dönüştürmek, gerçekleştirmek
 - Düzenli bir duruma getirmek
-- ► üretmek
+- üretmek
 - Bir harekete, işe başlamak veya bir hareketle, işle uğraşmak
 - Salgılamak, çıkarmak
 - Dışkı çıkarmak
-- ► gerçekleştirmek
+- gerçekleştirmek
 - Tehdit yoluyla birini herhangi bir duruma düşürmek
-- ► evlendirmek
+- evlendirmek
 - Bir durum yaratmak
 - Edinmek, sahip olmak
 - Bir kimseye bir meslek kazandırmak, birini yetiştirmek
 - Davranmak, hareket etmek
-- ► olmak
+- olmak
 ozellikler:
 - - -i
 - - -i

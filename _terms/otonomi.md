@@ -5,7 +5,7 @@ slug: otonomi
 letter: O
 lisan: Fransızca autonomie
 anlamlar:
-- ► özerklik
+- özerklik
 ozellikler:
 - - isim
 ornekler:

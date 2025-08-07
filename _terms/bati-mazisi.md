@@ -5,7 +5,7 @@ slug: bati-mazisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aksedir
+- aksedir
 ozellikler:
 - - isim
   - bitki bilimi

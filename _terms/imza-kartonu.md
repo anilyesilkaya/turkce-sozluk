@@ -5,7 +5,7 @@ slug: imza-kartonu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► karton
+- karton
 ozellikler:
 - - isim
 ornekler:

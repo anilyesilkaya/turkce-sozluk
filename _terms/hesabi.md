@@ -5,7 +5,7 @@ slug: hesabi
 letter: H
 lisan: Arapça ḥisābī
 anlamlar:
-- ► hesapçı
+- hesapçı
 ozellikler:
 - - sıfat
   - eskimiş

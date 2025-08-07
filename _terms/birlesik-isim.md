@@ -5,7 +5,7 @@ slug: birlesik-isim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birleşik ad
+- birleşik ad
 ozellikler:
 - - isim
   - dil bilgisi

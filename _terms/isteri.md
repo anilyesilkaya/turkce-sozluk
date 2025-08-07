@@ -5,7 +5,7 @@ slug: isteri
 letter: I
 lisan: Fransızca hystérie
 anlamlar:
-- ► histeri
+- histeri
 ozellikler:
 - - isim
   - tıp

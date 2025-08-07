@@ -5,7 +5,7 @@ slug: esey
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► cinsiyet
+- cinsiyet
 - Bir organizmanın dişi veya erkek olarak sınıflandırılmasını sağlayan görev, yapı ve karakter topluluğu
 ozellikler:
 - - isim

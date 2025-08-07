@@ -5,7 +5,7 @@ slug: baran
 letter: B
 lisan: Farsça bārān
 anlamlar:
-- ► yağmur
+- yağmur
 ozellikler:
 - - isim
   - eskimiş

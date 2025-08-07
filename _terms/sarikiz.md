@@ -5,9 +5,9 @@ slug: sarikiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► horoz mantarı
-- ► inek
-- ► esrar (II)
+- horoz mantarı
+- inek
+- esrar (II)
 ozellikler:
 - - isim
   - bitki bilimi

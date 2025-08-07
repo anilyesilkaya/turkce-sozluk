@@ -5,7 +5,7 @@ slug: sedefkar
 letter: S
 lisan: Arapça ṣadef + Farsça -kār
 anlamlar:
-- ► sedefçi
+- sedefçi
 ozellikler:
 - - isim
 ornekler:

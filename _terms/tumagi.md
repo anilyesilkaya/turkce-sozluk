@@ -5,7 +5,7 @@ slug: tumagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► nezle
+- nezle
 ozellikler:
 - - isim
   - ağızlardan

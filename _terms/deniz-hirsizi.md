@@ -5,7 +5,7 @@ slug: deniz-hirsizi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► korsan
+- korsan
 ozellikler:
 - - isim
 ornekler:

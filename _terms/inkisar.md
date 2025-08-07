@@ -5,10 +5,10 @@ slug: inkisar
 letter: I
 lisan: Arapça inkisār
 anlamlar:
-- ► kırılma
+- kırılma
 - Gönül kırılması
-- ► ilenme
-- ► kırılma
+- ilenme
+- kırılma
 ozellikler:
 - - isim
   - eskimiş

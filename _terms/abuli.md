@@ -5,7 +5,7 @@ slug: abuli
 letter: A
 lisan: Fransızca aboulie
 anlamlar:
-- ► irade yitimi
+- irade yitimi
 ozellikler:
 - - isim
   - ruh bilimi

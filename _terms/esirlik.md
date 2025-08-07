@@ -5,7 +5,7 @@ slug: esirlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► tutsaklık
+- tutsaklık
 ozellikler:
 - - isim
 ornekler:

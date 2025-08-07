@@ -5,7 +5,7 @@ slug: memnuluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yasaklık
+- yasaklık
 ozellikler:
 - - isim
 ornekler:

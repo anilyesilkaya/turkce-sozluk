@@ -5,7 +5,7 @@ slug: luzumluluk
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gereklilik
+- gereklilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: pastra
 letter: P
 lisan: Rumca
 anlamlar:
-- ► pişti
+- pişti
 ozellikler:
 - - isim
 ornekler:

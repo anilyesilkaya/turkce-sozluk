@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Değeri, saygınlığı olmayan
-- ► onursuz
+- onursuz
 ozellikler:
 - - sıfat
 - - sıfat

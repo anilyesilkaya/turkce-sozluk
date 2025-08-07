@@ -5,7 +5,7 @@ slug: bloksuz-ulkeler
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağlantısız ülkeler
+- bağlantısız ülkeler
 ozellikler:
 - - isim
 ornekler:

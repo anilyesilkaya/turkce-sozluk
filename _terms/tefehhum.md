@@ -5,7 +5,7 @@ slug: tefehhum
 letter: T
 lisan: Arapça tefehhum
 anlamlar:
-- ► anlama
+- anlama
 ozellikler:
 - - isim
   - eskimiş

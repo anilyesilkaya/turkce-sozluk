@@ -5,7 +5,7 @@ slug: budunsal
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► etnik
+- etnik
 ozellikler:
 - - sıfat
   - toplum bilimi

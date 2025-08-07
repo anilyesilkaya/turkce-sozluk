@@ -5,7 +5,7 @@ slug: ihtilas
 letter: I
 lisan: Arapça iḫtilās
 anlamlar:
-- ► aşırma
+- aşırma
 - Bir malı açıkça sahibinden veya evinden hızla kapıp alma
 ozellikler:
 - - isim

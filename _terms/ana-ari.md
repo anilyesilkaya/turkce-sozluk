@@ -5,7 +5,7 @@ slug: ana-ari
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► arı beyi
+- arı beyi
 ozellikler:
 - - isim
   - hayvan bilimi

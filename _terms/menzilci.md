@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Uzak yerlere menzil beygirleriyle giden posta tatarı
-- ► menzil emini
+- menzil emini
 ozellikler:
 - - isim
   - tarih

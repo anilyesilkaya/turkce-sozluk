@@ -11,7 +11,7 @@ anlamlar:
 - Yapmacık olmayan
 - Olağan, alışılmış, her zamanki gibi olan, beklenildiği gibi
 - Sağduyuya, mantığa, olağan düzene uygun olan
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
 - - sıfat

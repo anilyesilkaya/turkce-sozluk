@@ -7,8 +7,8 @@ lisan: Arapça tamr + hindī
 anlamlar:
 - Baklagillerden, odunu oldukça sert olan, sıcak iklimlerde yetişen bir ağaç (Tamarindus indica)
 - Bu ağacın meyvesi
-- ► demirhindi şerbeti
-- ► cimri
+- demirhindi şerbeti
+- cimri
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: tekzip
 letter: T
 lisan: Arapça tekẕīb
 anlamlar:
-- ► yalanlama
+- yalanlama
 ozellikler:
 - - isim
 ornekler:

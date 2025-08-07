@@ -5,7 +5,7 @@ slug: yucelim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► üst geçiş
+- üst geçiş
 ozellikler:
 - - isim
   - gök bilimi

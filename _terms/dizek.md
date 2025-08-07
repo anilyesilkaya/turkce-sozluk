@@ -5,7 +5,7 @@ slug: dizek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► porte
+- porte
 ozellikler:
 - - isim
   - müzik

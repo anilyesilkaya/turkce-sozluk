@@ -5,7 +5,7 @@ slug: bir-lahzacik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir lahza
+- bir lahza
 ozellikler:
 - - zarf
 ornekler:

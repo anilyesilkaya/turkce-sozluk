@@ -5,7 +5,7 @@ slug: yumruk-oyunu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► boks
+- boks
 ozellikler:
 - - isim
   - spor

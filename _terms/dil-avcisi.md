@@ -5,7 +5,7 @@ slug: dil-avcisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► casus
+- casus
 ozellikler:
 - - isim
   - tarih

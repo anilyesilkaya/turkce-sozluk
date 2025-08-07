@@ -5,8 +5,8 @@ slug: formalist
 letter: F
 lisan: Fransızca formaliste
 anlamlar:
-- ► biçimci
-- ► bürokrat
+- biçimci
+- bürokrat
 ozellikler:
 - - sıfat
 - - sıfat

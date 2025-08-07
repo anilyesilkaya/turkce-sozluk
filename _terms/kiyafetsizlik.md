@@ -5,8 +5,8 @@ slug: kiyafetsizlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► giysisizlik
-- ► kılıksızlık
+- giysisizlik
+- kılıksızlık
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naʿl + Farsça -çe
 anlamlar:
 - Ayakkabıların altına çakılan demir
-- ► nal
+- nal
 ozellikler:
 - - isim
 - - isim

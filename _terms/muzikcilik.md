@@ -5,7 +5,7 @@ slug: muzikcilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► müzisyenlik
+- müzisyenlik
 ozellikler:
 - - isim
 ornekler:

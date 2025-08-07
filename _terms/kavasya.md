@@ -5,7 +5,7 @@ slug: kavasya
 letter: K
 lisan: Fransızca quassia
 anlamlar:
-- ► acı ağaç
+- acı ağaç
 ozellikler:
 - - isim
   - bitki bilimi

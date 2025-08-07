@@ -5,7 +5,7 @@ slug: gayriiradi
 letter: G
 lisan: Arapça ġayr + irādī
 anlamlar:
-- ► irade dışı
+- irade dışı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: destani
 letter: D
 lisan: Farsça destān + Arapça -ī
 anlamlar:
-- ► destansı
+- destansı
 ozellikler:
 - - sıfat
   - edebiyat

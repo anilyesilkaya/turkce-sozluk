@@ -5,7 +5,7 @@ slug: varyos
 letter: V
 lisan: Rumca
 anlamlar:
-- ► balyoz
+- balyoz
 ozellikler:
 - - isim
 ornekler:

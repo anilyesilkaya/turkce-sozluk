@@ -5,7 +5,7 @@ slug: citen
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çeten
+- çeten
 ozellikler:
 - - isim
   - ağızlardan

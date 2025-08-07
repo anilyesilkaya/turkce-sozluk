@@ -5,7 +5,7 @@ slug: promosyon
 letter: P
 lisan: Fransızca promotion
 anlamlar:
-- ► özendirme
+- özendirme
 - Firma, kurum, dernek, parti vb. kuruluşların kendi hedef kitlelerinin ilgisini çekmek için üzerine adlarını, logolarını vb. yazdırarak armağan ettiği ürün
 - Satılan ürünlerin yanında ücretsiz verilen başka bir ürün
 ozellikler:

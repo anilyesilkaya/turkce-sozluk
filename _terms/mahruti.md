@@ -5,7 +5,7 @@ slug: mahruti
 letter: M
 lisan: Arapça maḫrūṭī
 anlamlar:
-- ► konik
+- konik
 ozellikler:
 - - sıfat
   - eskimiş

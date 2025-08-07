@@ -6,7 +6,7 @@ letter: G
 lisan: İtalyanca gladio
 anlamlar:
 - Derin devlet içinde yapılanmış gizli örgüt
-- ► kontrgerilla
+- kontrgerilla
 ozellikler:
 - - isim
 - - isim

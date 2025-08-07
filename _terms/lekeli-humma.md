@@ -5,7 +5,7 @@ slug: lekeli-humma
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► tifüs
+- tifüs
 ozellikler:
 - - isim
   - tıp

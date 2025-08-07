@@ -5,7 +5,7 @@ slug: iftariye
 letter: I
 lisan: Arapça ifṭāriyye
 anlamlar:
-- ► iftarlık
+- iftarlık
 ozellikler:
 - - isim
   - din bilimi

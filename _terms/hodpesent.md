@@ -5,7 +5,7 @@ slug: hodpesent
 letter: H
 lisan: Farsça ḫōdpesend
 anlamlar:
-- ► benci
+- benci
 ozellikler:
 - - sıfat
   - eskimiş

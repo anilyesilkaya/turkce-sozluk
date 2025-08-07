@@ -5,7 +5,7 @@ slug: adamcasina
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adamca
+- adamca
 - Tam olarak, gerektiği gibi, eksiksiz bir biçimde
 ozellikler:
 - - zarf

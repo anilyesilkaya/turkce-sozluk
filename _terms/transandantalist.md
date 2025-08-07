@@ -5,7 +5,7 @@ slug: transandantalist
 letter: T
 lisan: Fransızca transcendantaliste
 anlamlar:
-- ► deneyüstücü
+- deneyüstücü
 ozellikler:
 - - sıfat
   - felsefe

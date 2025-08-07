@@ -5,7 +5,7 @@ slug: hamurumsu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hamursu
+- hamursu
 ozellikler:
 - - sıfat
 ornekler:

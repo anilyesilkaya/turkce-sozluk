@@ -5,9 +5,9 @@ slug: cenabet
 letter: C
 lisan: Arapça cenābet
 anlamlar:
-- ► cünüp
+- cünüp
 - Pis, kötü, hoşlanılmayan (kimse veya şey)
-- ► cünüplük
+- cünüplük
 ozellikler:
 - - sıfat
   - din bilimi

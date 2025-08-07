@@ -5,7 +5,7 @@ slug: isyankar
 letter: I
 lisan: Arapça ʿiṣyān + Farsça -kār
 anlamlar:
-- ► başkaldırıcı
+- başkaldırıcı
 ozellikler:
 - - sıfat
 ornekler:

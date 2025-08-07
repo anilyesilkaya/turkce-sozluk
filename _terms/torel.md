@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Töreye uygun; töreli, töresel
 - Töre ile ilgili
-- ► ahlaki
+- ahlaki
 ozellikler:
 - - sıfat
 - - sıfat

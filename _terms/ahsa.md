@@ -5,7 +5,7 @@ slug: ahsa
 letter: A
 lisan: Arapça aḥşā
 anlamlar:
-- ► bağır
+- bağır
 ozellikler:
 - - isim
   - eskimiş

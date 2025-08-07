@@ -6,8 +6,8 @@ letter: F
 lisan: Arapça faʿāliyyet
 anlamlar:
 - Bir yerde bulunan canlılık, hareketlilik durumu
-- ► çalışma
-- ► etkinlik
+- çalışma
+- etkinlik
 ozellikler:
 - - isim
 - - isim

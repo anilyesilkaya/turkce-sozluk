@@ -5,7 +5,7 @@ slug: embriyo
 letter: E
 lisan: Fransızca embryon
 anlamlar:
-- ► oğulcuk
+- oğulcuk
 ozellikler:
 - - isim
   - anatomi

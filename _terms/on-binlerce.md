@@ -5,7 +5,7 @@ slug: on-binlerce
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► pek çok
+- pek çok
 ozellikler:
 - - sıfat
 ornekler:

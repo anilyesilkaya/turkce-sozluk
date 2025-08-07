@@ -5,7 +5,7 @@ slug: takdir-yetkisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► takdir hakkı
+- takdir hakkı
 ozellikler:
 - - isim
   - hukuk

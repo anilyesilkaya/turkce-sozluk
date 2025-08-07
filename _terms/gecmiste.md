@@ -5,7 +5,7 @@ slug: gecmiste
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► eskiden
+- eskiden
 ozellikler:
 - - zarf
 ornekler:

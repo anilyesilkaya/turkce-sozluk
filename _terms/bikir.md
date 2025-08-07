@@ -5,7 +5,7 @@ slug: bikir
 letter: B
 lisan: Arapça bikr
 anlamlar:
-- ► kızlık
+- kızlık
 ozellikler:
 - - isim
   - eskimiş

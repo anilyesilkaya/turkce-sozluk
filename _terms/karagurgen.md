@@ -5,7 +5,7 @@ slug: karagurgen
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gürgen
+- gürgen
 ozellikler:
 - - isim
   - bitki bilimi

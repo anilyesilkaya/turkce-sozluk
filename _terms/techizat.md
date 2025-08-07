@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça techīzāt
 anlamlar:
 - Silah dışındaki savaş gereçleri; donatı
-- ► araç gereç
+- araç gereç
 ozellikler:
 - - isim
 - - isim

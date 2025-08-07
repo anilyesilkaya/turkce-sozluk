@@ -5,7 +5,7 @@ slug: cikarsever
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıkarcı
+- çıkarcı
 ozellikler:
 - - sıfat
 ornekler:

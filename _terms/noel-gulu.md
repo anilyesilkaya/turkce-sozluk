@@ -5,7 +5,7 @@ slug: noel-gulu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► karaçöpleme
+- karaçöpleme
 ozellikler:
 - - isim
   - bitki bilimi

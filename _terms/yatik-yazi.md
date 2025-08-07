@@ -5,7 +5,7 @@ slug: yatik-yazi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► eğik yazı
+- eğik yazı
 ozellikler:
 - - isim
 ornekler:

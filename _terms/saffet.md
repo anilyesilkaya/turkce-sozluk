@@ -5,8 +5,8 @@ slug: saffet
 letter: S
 lisan: Arapça ṣafvet
 anlamlar:
-- ► temizlik
-- ► saflık
+- temizlik
+- saflık
 ozellikler:
 - - isim
   - eskimiş

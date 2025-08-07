@@ -5,7 +5,7 @@ slug: umarsizca
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çaresizce
+- çaresizce
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: kanunsuzluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasasızlık
+- yasasızlık
 ozellikler:
 - - isim
 ornekler:

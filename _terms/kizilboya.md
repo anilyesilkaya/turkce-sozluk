@@ -5,7 +5,7 @@ slug: kizilboya
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kökboyası
+- kökboyası
 ozellikler:
 - - isim
 ornekler:

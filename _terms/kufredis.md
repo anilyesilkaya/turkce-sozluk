@@ -5,7 +5,7 @@ slug: kufredis
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sövme
+- sövme
 ozellikler:
 - - isim
 ornekler:

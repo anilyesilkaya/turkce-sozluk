@@ -5,7 +5,7 @@ slug: milliyet
 letter: M
 lisan: Arapça milliyyet
 anlamlar:
-- ► millîlik
+- millîlik
 - Bağlı bulunulan millet
 ozellikler:
 - - isim

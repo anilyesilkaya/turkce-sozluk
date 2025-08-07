@@ -5,7 +5,7 @@ slug: uray
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► belediye
+- belediye
 ozellikler:
 - - isim
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Püskürme işini yaptırmak
 - Hızla ve savurtarak çıkarmak
-- ► fışkırtmak
+- fışkırtmak
 - Geri dönmek zorunda bırakmak
 ozellikler:
 - - -i

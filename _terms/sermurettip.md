@@ -5,7 +5,7 @@ slug: sermurettip
 letter: S
 lisan: Farsça ser + Arapça murettib
 anlamlar:
-- ► başdizgici
+- başdizgici
 ozellikler:
 - - isim
   - eskimiş

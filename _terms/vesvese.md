@@ -5,7 +5,7 @@ slug: vesvese
 letter: V
 lisan: Arapça vesvese
 anlamlar:
-- ► kuruntu
+- kuruntu
 ozellikler:
 - - isim
 ornekler:

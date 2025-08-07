@@ -5,7 +5,7 @@ slug: dillek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dedikoducu
+- dedikoducu
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Koku çıkarmak
-- ► kokuşmak
+- kokuşmak
 - Olacağıyla ilgili belirtiler göstermek, olacağı hissedilmek
 - Kokusu gelmek
 ozellikler:

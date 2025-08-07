@@ -5,7 +5,7 @@ slug: ruzgarolcer
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► yelölçer
+- yelölçer
 ozellikler:
 - - isim
 ornekler:

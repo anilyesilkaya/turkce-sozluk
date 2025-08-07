@@ -5,7 +5,7 @@ slug: fiil-tasrifi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fiil çekimi
+- fiil çekimi
 ozellikler:
 - - isim
   - eskimiş

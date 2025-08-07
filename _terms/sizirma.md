@@ -5,7 +5,7 @@ slug: sizirma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sızdırma
+- sızdırma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: anofel
 letter: A
 lisan: Fransızca anophèle
 anlamlar:
-- ► sıtma sivrisineği
+- sıtma sivrisineği
 ozellikler:
 - - isim
   - hayvan bilimi

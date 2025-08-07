@@ -5,7 +5,7 @@ slug: urbasiz
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► giysisiz
+- giysisiz
 ozellikler:
 - - sıfat
 ornekler:

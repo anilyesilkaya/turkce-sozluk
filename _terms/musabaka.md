@@ -5,8 +5,8 @@ slug: musabaka
 letter: M
 lisan: Arapça musābaḳa
 anlamlar:
-- ► yarışma
-- ► karşılaşma
+- yarışma
+- karşılaşma
 ozellikler:
 - - isim
   - spor

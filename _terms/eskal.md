@@ -6,8 +6,8 @@ letter: E
 lisan: Arapça eşkāl
 anlamlar:
 - Dıştan görünüş
-- ► biçim (II)
-- ► kılık
+- biçim (II)
+- kılık
 ozellikler:
 - - isim
 - - isim

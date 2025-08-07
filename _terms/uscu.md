@@ -5,7 +5,7 @@ slug: uscu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► akılcı
+- akılcı
 - Aklını kullanmasını bilen
 ozellikler:
 - - sıfat

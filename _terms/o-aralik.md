@@ -5,7 +5,7 @@ slug: o-aralik
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► o sırada
+- o sırada
 ozellikler:
 - - zarf
 ornekler:

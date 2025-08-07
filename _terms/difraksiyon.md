@@ -5,7 +5,7 @@ slug: difraksiyon
 letter: D
 lisan: Fransızca diffraction
 anlamlar:
-- ► kırınım
+- kırınım
 ozellikler:
 - - isim
   - fizik

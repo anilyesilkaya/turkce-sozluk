@@ -5,7 +5,7 @@ slug: beles
 letter: B
 lisan: Arapça bilāşeyʾ
 anlamlar:
-- ► bedava
+- bedava
 ozellikler:
 - - sıfat
   - argo

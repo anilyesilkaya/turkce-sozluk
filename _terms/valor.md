@@ -5,8 +5,8 @@ slug: valor
 letter: V
 lisan: Fransızca valeur
 anlamlar:
-- ► değer
-- ► geçerlilik
+- değer
+- geçerlilik
 ozellikler:
 - - isim
 - - isim

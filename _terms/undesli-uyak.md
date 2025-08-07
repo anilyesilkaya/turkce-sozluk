@@ -5,7 +5,7 @@ slug: undesli-uyak
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► cinaslı kafiye
+- cinaslı kafiye
 ozellikler:
 - - isim
   - edebiyat

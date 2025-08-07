@@ -5,7 +5,7 @@ slug: temedduh
 letter: T
 lisan: Arapça temedduḥ
 anlamlar:
-- ► övünme
+- övünme
 ozellikler:
 - - isim
   - eskimiş

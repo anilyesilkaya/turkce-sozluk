@@ -5,9 +5,9 @@ slug: mesele
 letter: M
 lisan: Arapça mesʾele
 anlamlar:
-- ► sorun
+- sorun
 - Güç iş
-- ► problem
+- problem
 ozellikler:
 - - isim
 - - isim

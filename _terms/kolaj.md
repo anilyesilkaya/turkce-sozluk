@@ -5,7 +5,7 @@ slug: kolaj
 letter: K
 lisan: Fransızca collage
 anlamlar:
-- ► kesyap
+- kesyap
 - Kesip yapıştırılarak bir araya getirilmiş nesne
 ozellikler:
 - - isim

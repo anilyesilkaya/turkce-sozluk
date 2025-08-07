@@ -36,6 +36,7 @@ def safe_slug(term: str) -> str:
 
 def to_md(term: str, fields: dict) -> str:
     """Build the Markdown text (front‑matter + trailing ---) for one term."""
+    # Generate the metadata
     front_matter = {
         "layout": "term",
         "title": term,  # keep the original Turkish spelling in the meta‑data

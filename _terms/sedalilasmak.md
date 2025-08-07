@@ -5,7 +5,7 @@ slug: sedalilasmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonlulaşmak
+- tonlulaşmak
 ozellikler:
 - - nesnesiz
   - dil bilgisi

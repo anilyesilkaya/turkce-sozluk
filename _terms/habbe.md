@@ -7,7 +7,7 @@ lisan: Arapça ḥabbe
 anlamlar:
 - Tahıl tanesi; evin
 - Değerli madenleri ölçmekte ve kuyumculukta kullanılan, değişken bir ağırlık ölçüsü
-- ► zerre
+- zerre
 - Orta oyunundaki tiplerin "yemek yeme" anlamında kullandığı söz
 ozellikler:
 - - isim

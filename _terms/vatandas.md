@@ -5,7 +5,7 @@ slug: vatandas
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► yurttaş
+- yurttaş
 ozellikler:
 - - isim
 ornekler:

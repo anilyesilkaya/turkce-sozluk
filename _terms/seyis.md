@@ -5,7 +5,7 @@ slug: seyis
 letter: S
 lisan: Arapça sāyis
 anlamlar:
-- ► at bakıcısı
+- at bakıcısı
 ozellikler:
 - - isim
 ornekler:

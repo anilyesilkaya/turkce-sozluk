@@ -5,7 +5,7 @@ slug: naturalist
 letter: N
 lisan: Fransızca naturaliste
 anlamlar:
-- ► doğalcı
+- doğalcı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: konstruktif
 letter: K
 lisan: Fransızca constructive
 anlamlar:
-- ► yapısal
+- yapısal
 ozellikler:
 - - isim
 ornekler:

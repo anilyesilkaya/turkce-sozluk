@@ -5,7 +5,7 @@ slug: dilmac
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çevirmen
+- çevirmen
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: oynak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► hareketli
+- hareketli
 - Hareket, canlılık veren
 - Değişken, kararsız olan
 - Cilveli, neşeli, hareketli olan

@@ -5,7 +5,7 @@ slug: meccani
 letter: M
 lisan: Arapça meccānī
 anlamlar:
-- ► parasız
+- parasız
 ozellikler:
 - - sıfat
   - eskimiş

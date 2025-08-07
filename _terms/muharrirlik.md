@@ -5,7 +5,7 @@ slug: muharrirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yazarlık
+- yazarlık
 ozellikler:
 - - isim
 ornekler:

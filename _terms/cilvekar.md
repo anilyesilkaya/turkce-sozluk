@@ -5,7 +5,7 @@ slug: cilvekar
 letter: C
 lisan: Farsça cilvekār
 anlamlar:
-- ► cilveli
+- cilveli
 ozellikler:
 - - sıfat
   - eskimiş

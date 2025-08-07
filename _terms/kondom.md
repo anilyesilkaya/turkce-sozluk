@@ -5,7 +5,7 @@ slug: kondom
 letter: K
 lisan: Fransızca condom
 anlamlar:
-- ► prezervatif
+- prezervatif
 ozellikler:
 - - isim
 ornekler:

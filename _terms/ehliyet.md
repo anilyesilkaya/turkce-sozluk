@@ -5,9 +5,9 @@ slug: ehliyet
 letter: E
 lisan: Arapça ehliyyet
 anlamlar:
-- ► sürücü belgesi
-- ► uzluk
-- ► yeterlilik
+- sürücü belgesi
+- uzluk
+- yeterlilik
 ozellikler:
 - - isim
 - - isim

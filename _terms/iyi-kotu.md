@@ -5,7 +5,7 @@ slug: iyi-kotu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► şöyle böyle
+- şöyle böyle
 ozellikler:
 - - zarf
   - mecaz

@@ -5,7 +5,7 @@ slug: mahallilesme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yerelleşme
+- yerelleşme
 ozellikler:
 - - isim
 ornekler:

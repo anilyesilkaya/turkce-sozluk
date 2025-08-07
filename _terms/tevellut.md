@@ -5,7 +5,7 @@ slug: tevellut
 letter: T
 lisan: Arapça tevellud
 anlamlar:
-- ► doğum
+- doğum
 ozellikler:
 - - isim
   - eskimiş

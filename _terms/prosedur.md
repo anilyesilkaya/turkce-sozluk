@@ -5,8 +5,8 @@ slug: prosedur
 letter: P
 lisan: Fransızca procédure
 anlamlar:
-- ► işlem
-- ► yöntem
+- işlem
+- yöntem
 ozellikler:
 - - isim
 - - isim

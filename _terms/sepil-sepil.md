@@ -5,7 +5,7 @@ slug: sepil-sepil
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 ozellikler:
 - - zarf
   - ağızlardan

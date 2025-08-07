@@ -5,9 +5,9 @@ slug: beygir
 letter: B
 lisan: Farsça bārgīr
 anlamlar:
-- ► at
+- at
 - Sadece yük taşımakta veya araba çekmekte kullanılan at
-- ► atlama beygiri
+- atlama beygiri
 ozellikler:
 - - isim
 - - isim

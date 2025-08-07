@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teḳāʿud
 anlamlar:
 - Emekliye ayrılma
-- ► emekli
+- emekli
 ozellikler:
 - - isim
   - eskimiş

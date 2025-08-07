@@ -6,7 +6,7 @@ letter: L
 lisan: Arapça lāyiḥa
 anlamlar:
 - Herhangi bir konuda bir görüş ve düşünceyi bildiren yazı
-- ► tasarı
+- tasarı
 ozellikler:
 - - isim
   - eskimiş

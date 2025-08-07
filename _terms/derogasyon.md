@@ -5,7 +5,7 @@ slug: derogasyon
 letter: D
 lisan: Fransızca derogation
 anlamlar:
-- ► ayrıklık
+- ayrıklık
 ozellikler:
 - - isim
   - hukuk

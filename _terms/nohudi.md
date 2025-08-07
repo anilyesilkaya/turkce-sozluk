@@ -5,7 +5,7 @@ slug: nohudi
 letter: N
 lisan: Farsça noḫūd + Arapça -ī
 anlamlar:
-- ► nohut rengi
+- nohut rengi
 - Bu renkte olan
 ozellikler:
 - - isim

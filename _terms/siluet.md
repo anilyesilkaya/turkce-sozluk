@@ -6,7 +6,7 @@ letter: S
 lisan: Fransızca silhouette
 anlamlar:
 - Bir şeyin yalnız kenar çizgileriyle beliren görüntüsü
-- ► gölge
+- gölge
 ozellikler:
 - - isim
 - - isim

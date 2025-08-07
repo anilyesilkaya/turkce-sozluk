@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Birini sevindirmek, mutlu etmek, onurlandırmak, kutlamak için veya anı olarak verilen şey; hediye, bergüzar, peşkeş
 - Bir kimsenin emek verdiği dalda onu anmak için hazırlanan ve başka kişilerin bilimsel makalelerini içeren eser
-- ► lütuf
+- lütuf
 ozellikler:
 - - isim
 - - isim

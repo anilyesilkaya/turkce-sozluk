@@ -5,7 +5,7 @@ slug: cakal-armudu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► ahlat (I)
+- ahlat (I)
 ozellikler:
 - - isim
 ornekler:

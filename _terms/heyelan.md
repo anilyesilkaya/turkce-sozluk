@@ -5,7 +5,7 @@ slug: heyelan
 letter: H
 lisan: Arapça heyelān
 anlamlar:
-- ► toprak kayması
+- toprak kayması
 ozellikler:
 - - isim
   - jeoloji

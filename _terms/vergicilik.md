@@ -5,7 +5,7 @@ slug: vergicilik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► tahsildarlık
+- tahsildarlık
 ozellikler:
 - - isim
 ornekler:

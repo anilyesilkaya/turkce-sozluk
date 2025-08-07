@@ -5,7 +5,7 @@ slug: bayramuzeri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bayramüstü
+- bayramüstü
 ozellikler:
 - - zarf
 ornekler:

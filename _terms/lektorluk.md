@@ -5,7 +5,7 @@ slug: lektorluk
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► okutmanlık
+- okutmanlık
 ozellikler:
 - - isim
 ornekler:

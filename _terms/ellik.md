@@ -5,7 +5,7 @@ slug: ellik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eldiven
+- eldiven
 - Ekin biçerken sol elin parmaklarına geçirilen, eldiven biçiminde, tahtadan yapılan bir araç
 - Yelken dikenlerin kullandığı, madenî yüksüğü olan meşin eldiven
 ozellikler:

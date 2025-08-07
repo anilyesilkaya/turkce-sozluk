@@ -5,7 +5,7 @@ slug: tekil
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teklik
+- teklik
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: mukoza
 letter: M
 lisan: Latince
 anlamlar:
-- ► sümük doku
+- sümük doku
 ozellikler:
 - - isim
   - anatomi

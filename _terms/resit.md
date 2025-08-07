@@ -5,7 +5,7 @@ slug: resit
 letter: R
 lisan: Arapça reşīd
 anlamlar:
-- ► ergin
+- ergin
 ozellikler:
 - - sıfat
   - hukuk

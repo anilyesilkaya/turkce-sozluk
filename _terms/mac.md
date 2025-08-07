@@ -5,7 +5,7 @@ slug: mac
 letter: M
 lisan: Fransızca match
 anlamlar:
-- ► karşılaşma
+- karşılaşma
 ozellikler:
 - - isim
   - spor

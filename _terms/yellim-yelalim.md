@@ -5,7 +5,7 @@ slug: yellim-yelalim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
   - ağızlardan

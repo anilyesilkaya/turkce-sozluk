@@ -5,7 +5,7 @@ slug: meydan
 letter: M
 lisan: Arapça meydān
 anlamlar:
-- ► alan
+- alan
 - Yarışma, eğlence veya karşılaşma yeri
 - Bulunulan yer ve çevresi, ortalık
 - Fırsat, imkân veya vakit

@@ -5,8 +5,8 @@ slug: tabi
 letter: T
 lisan: Arapça ṭābiʿ
 anlamlar:
-- ► basıcı
-- ► yayımcı
+- basıcı
+- yayımcı
 ozellikler:
 - - isim
   - eskimiş

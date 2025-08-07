@@ -5,7 +5,7 @@ slug: muheyya
 letter: M
 lisan: Arapça muheyyā
 anlamlar:
-- ► hazır
+- hazır
 ozellikler:
 - - sıfat
   - eskimiş

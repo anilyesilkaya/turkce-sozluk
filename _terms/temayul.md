@@ -5,9 +5,9 @@ slug: temayul
 letter: T
 lisan: Arapça temāyul
 anlamlar:
-- ► meyletme
-- ► eğilim
-- ► yönseme
+- meyletme
+- eğilim
+- yönseme
 - Bir kimseye veya bir şeye ilgi duyma
 ozellikler:
 - - isim

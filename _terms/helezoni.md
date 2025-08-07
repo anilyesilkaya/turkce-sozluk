@@ -5,7 +5,7 @@ slug: helezoni
 letter: H
 lisan: Arapça ḥalezūnī
 anlamlar:
-- ► sarmal
+- sarmal
 ozellikler:
 - - sıfat
   - fizik

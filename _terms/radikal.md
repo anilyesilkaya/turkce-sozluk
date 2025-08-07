@@ -5,8 +5,8 @@ slug: radikal
 letter: R
 lisan: Fransızca radical
 anlamlar:
-- ► kökten
-- ► köktenci
+- kökten
+- köktenci
 ozellikler:
 - - sıfat
 - - sıfat

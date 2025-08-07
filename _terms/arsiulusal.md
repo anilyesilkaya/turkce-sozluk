@@ -5,7 +5,7 @@ slug: arsiulusal
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uluslararası
+- uluslararası
 ozellikler:
 - - sıfat
   - eskimiş

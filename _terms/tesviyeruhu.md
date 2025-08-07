@@ -5,7 +5,7 @@ slug: tesviyeruhu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► su terazisi
+- su terazisi
 ozellikler:
 - - isim
   - teknik

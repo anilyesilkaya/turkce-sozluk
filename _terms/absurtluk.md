@@ -5,7 +5,7 @@ slug: absurtluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► saçmalık
+- saçmalık
 - Herhangi bir yaratıcı olmadığından insanlığın evrende bir anlam bulmasına yönelik uğraşlarının boşa bir çaba olduğunu ve önünde sonunda bu anlamsız uğraşının başarısız olacağını savunan düşünce akımı; absürdizm
 ozellikler:
 - - isim

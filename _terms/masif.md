@@ -5,7 +5,7 @@ slug: masif
 letter: M
 lisan: Fransızca massif
 anlamlar:
-- ► som (I)
+- som (I)
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: peygamber-dikeni
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► deve dikeni
+- deve dikeni
 ozellikler:
 - - isim
   - bitki bilimi

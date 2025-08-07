@@ -5,7 +5,7 @@ slug: hiddetsizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► öfkesizlik
+- öfkesizlik
 ozellikler:
 - - isim
 ornekler:

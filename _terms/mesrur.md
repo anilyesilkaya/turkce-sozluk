@@ -5,7 +5,7 @@ slug: mesrur
 letter: M
 lisan: Arapça mesrūr
 anlamlar:
-- ► sevinçli
+- sevinçli
 ozellikler:
 - - sıfat
   - eskimiş

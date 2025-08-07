@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pek olma durumu
-- ► kabız
+- kabız
 - Sağlamlık, dayanıklılık, direnç
 ozellikler:
 - - isim

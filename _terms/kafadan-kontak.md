@@ -5,7 +5,7 @@ slug: kafadan-kontak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kafadan sakat
+- kafadan sakat
 ozellikler:
 - - sıfat
   - mecaz

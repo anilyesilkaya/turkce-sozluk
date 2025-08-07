@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kamu veya özel sektördeki üst düzey yöneticinin görüşmelerinin düzenlendiği, gizlilik derecesi bulunan yazışmalarını yapıldığı yer
-- ► özel kalem müdürü
+- özel kalem müdürü
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: munekkitlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► eleştirmenlik
+- eleştirmenlik
 ozellikler:
 - - isim
 ornekler:

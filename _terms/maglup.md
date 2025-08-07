@@ -5,7 +5,7 @@ slug: maglup
 letter: M
 lisan: Arapça maġlūb
 anlamlar:
-- ► yenik (II)
+- yenik (II)
 ozellikler:
 - - sıfat
 ornekler:

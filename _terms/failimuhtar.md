@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça fāʿil + muḫtār
 anlamlar:
 - Kendi isteğiyle hareket eden, isteğini yapmakta serbest olan
-- ► başına buyruk
+- başına buyruk
 ozellikler:
 - - sıfat
   - eskimiş

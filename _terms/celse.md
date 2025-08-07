@@ -5,7 +5,7 @@ slug: celse
 letter: C
 lisan: Arapça celse
 anlamlar:
-- ► oturum
+- oturum
 ozellikler:
 - - isim
 ornekler:

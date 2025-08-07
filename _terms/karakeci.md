@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Sazana benzer bir tatlı su balığı (Barbus fluviatilis)
-- ► kıl keçisi
+- kıl keçisi
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: itaatkarlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► itaatlilik
+- itaatlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: basim
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► basımcılık
+- basımcılık
 - Bası işi; tipografi
 - Bir basım aygıtında, boş filmi dolu filmin karşısına koyup kopyasını çıkarma işi
 ozellikler:

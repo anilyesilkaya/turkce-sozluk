@@ -5,7 +5,7 @@ slug: yesillenmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yeşermek
+- yeşermek
 - Yeşil duruma gelmek, yeşil olmak; zümrütlenmek
 - Birine karşı duyduğu cinsel isteği kendisine sezdirmek
 - Başkasının malında gözü olmak, elde etmeye çalışmak

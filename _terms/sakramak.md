@@ -5,7 +5,7 @@ slug: sakramak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şakımak
+- şakımak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: kiyye
 letter: K
 lisan: Arapça ḳiyye
 anlamlar:
-- ► okka
+- okka
 ozellikler:
 - - isim
   - eskimiş

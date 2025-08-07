@@ -5,7 +5,7 @@ slug: rastgele
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gelişigüzel
+- gelişigüzel
 - (ra'stgele) Seçmeden, iyisini kötüsünü ayırmadan; gelişigüzel, lalettayin
 ozellikler:
 - - sıfat

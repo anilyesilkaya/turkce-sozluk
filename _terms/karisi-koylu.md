@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Karısının yakınlarını benimseyip kendi yakınlarını unutan (erkek); karım köylü
-- ► kılıbık
+- kılıbık
 ozellikler:
 - - sıfat
   - mecaz

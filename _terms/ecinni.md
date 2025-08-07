@@ -5,7 +5,7 @@ slug: ecinni
 letter: E
 lisan: Arapça ecinnī
 anlamlar:
-- ► cin
+- cin
 ozellikler:
 - - isim
 ornekler:

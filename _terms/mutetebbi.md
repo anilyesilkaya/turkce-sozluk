@@ -5,7 +5,7 @@ slug: mutetebbi
 letter: M
 lisan: Arapça mutetebbiʿ
 anlamlar:
-- ► araştırmacı
+- araştırmacı
 ozellikler:
 - - sıfat
   - eskimiş

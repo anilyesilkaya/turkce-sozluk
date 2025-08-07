@@ -5,8 +5,8 @@ slug: siklet
 letter: S
 lisan: Arapça s̱iḳlet
 anlamlar:
-- ► ağırlık
-- ► eziyet
+- ağırlık
+- eziyet
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: piyano-mentese
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► boy menteşe
+- boy menteşe
 ozellikler:
 - - isim
 ornekler:

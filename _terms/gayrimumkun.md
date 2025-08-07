@@ -5,7 +5,7 @@ slug: gayrimumkun
 letter: G
 lisan: Arapça ġayr + mumkin
 anlamlar:
-- ► imkânsız
+- imkânsız
 ozellikler:
 - - sıfat
   - eskimiş

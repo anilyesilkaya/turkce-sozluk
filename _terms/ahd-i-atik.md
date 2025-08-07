@@ -5,7 +5,7 @@ slug: ahd-i-atik
 letter: A
 lisan: Arapça ʿahd + ʿatīḳ
 anlamlar:
-- ► Tevrat
+- Tevrat
 ozellikler:
 - - isim
   - din bilimi

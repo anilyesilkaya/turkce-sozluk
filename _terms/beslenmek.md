@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kendini beslemek
 - Besleme işine konu olmak
-- ► desteklenmek
+- desteklenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

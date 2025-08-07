@@ -5,7 +5,7 @@ slug: alti-ustu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alt tarafı
+- alt tarafı
 ozellikler:
 - - zarf
 ornekler:

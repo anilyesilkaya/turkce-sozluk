@@ -5,7 +5,7 @@ slug: alaca-bulaca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alacalı bulacalı
+- alacalı bulacalı
 ozellikler:
 - - sıfat
 ornekler:

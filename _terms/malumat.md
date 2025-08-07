@@ -5,7 +5,7 @@ slug: malumat
 letter: M
 lisan: Arapça maʿlūmāt
 anlamlar:
-- ► bilgi
+- bilgi
 ozellikler:
 - - isim
 ornekler:

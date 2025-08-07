@@ -5,7 +5,7 @@ slug: kumulus
 letter: K
 lisan: Fransızca cumulus
 anlamlar:
-- ► küme bulut
+- küme bulut
 ozellikler:
 - - isim
 ornekler:

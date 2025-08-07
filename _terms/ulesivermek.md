@@ -5,7 +5,7 @@ slug: ulesivermek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► paylaşıvermek
+- paylaşıvermek
 ozellikler:
 - - -i
 ornekler:

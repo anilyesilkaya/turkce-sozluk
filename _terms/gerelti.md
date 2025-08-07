@@ -5,7 +5,7 @@ slug: gerelti
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► perde
+- perde
 - Gerilmiş olan
 ozellikler:
 - - isim

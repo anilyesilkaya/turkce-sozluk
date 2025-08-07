@@ -5,7 +5,7 @@ slug: dunyasallasma
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dünyevileşme
+- dünyevileşme
 - Dünyaya ait olma, dünyanın her tarafına yayılmış olma
 ozellikler:
 - - isim

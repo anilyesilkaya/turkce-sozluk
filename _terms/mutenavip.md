@@ -5,7 +5,7 @@ slug: mutenavip
 letter: M
 lisan: Arapça mutenāvib
 anlamlar:
-- ► almaşık
+- almaşık
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: varis
 letter: V
 lisan: Arapça vāris̱
 anlamlar:
-- ► mirasçı
+- mirasçı
 ozellikler:
 - - isim
 ornekler:

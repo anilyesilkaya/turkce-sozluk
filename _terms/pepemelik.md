@@ -5,7 +5,7 @@ slug: pepemelik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pepelik
+- pepelik
 ozellikler:
 - - isim
 ornekler:

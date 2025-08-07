@@ -5,7 +5,7 @@ slug: hazzetme
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hoşlanma
+- hoşlanma
 ozellikler:
 - - isim
 ornekler:

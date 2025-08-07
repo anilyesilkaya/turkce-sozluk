@@ -5,7 +5,7 @@ slug: gayriihtiyarilik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► istem dışılık
+- istem dışılık
 ozellikler:
 - - isim
 ornekler:

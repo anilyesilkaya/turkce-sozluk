@@ -5,7 +5,7 @@ slug: karpuz-lamba
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lamba karpuzu
+- lamba karpuzu
 ozellikler:
 - - isim
 ornekler:

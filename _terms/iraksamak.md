@@ -5,7 +5,7 @@ slug: iraksamak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uzaksamak
+- uzaksamak
 ozellikler:
 - - -i
 ornekler:

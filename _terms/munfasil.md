@@ -5,7 +5,7 @@ slug: munfasil
 letter: M
 lisan: Arapça munfaṣil
 anlamlar:
-- ► ayrık
+- ayrık
 ozellikler:
 - - sıfat
   - eskimiş

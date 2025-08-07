@@ -5,7 +5,7 @@ slug: dikimhane
 letter: D
 lisan: Türkçe dikim + Farsça ḫāne
 anlamlar:
-- ► dikimevi
+- dikimevi
 ozellikler:
 - - isim
   - eskimiş

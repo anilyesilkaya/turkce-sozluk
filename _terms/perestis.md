@@ -5,7 +5,7 @@ slug: perestis
 letter: P
 lisan: Farsça perestiş
 anlamlar:
-- ► tapınma
+- tapınma
 - Delicesine, taparcasına sevme
 ozellikler:
 - - isim

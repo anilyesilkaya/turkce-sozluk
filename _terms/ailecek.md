@@ -5,7 +5,7 @@ slug: ailecek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ailece
+- ailece
 ozellikler:
 - - zarf
 ornekler:

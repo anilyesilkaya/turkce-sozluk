@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Puşt olma durumu
-- ► kalleşlik
+- kalleşlik
 ozellikler:
 - - isim
 - - isim

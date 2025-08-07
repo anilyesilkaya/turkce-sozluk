@@ -5,7 +5,7 @@ slug: tirtilimsi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tırtılsı
+- tırtılsı
 ozellikler:
 - - sıfat
 ornekler:

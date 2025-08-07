@@ -4,6 +4,7 @@
 :root {
   --accent:       #2563eb;
   --accent-dark:  #1e40af;
+  --accent-cont:  #992323;
   --gray-light:   #f1f5f9;
   --border:       #e5e7eb;
   --radius:       .25rem;
@@ -31,7 +32,7 @@ body {
   text-align: center;
 }
 
-/* Controls bar */
+/* ---------- Controls bar ---------- */
 .header-controls {
   margin-top: 1rem;
   display: flex;
@@ -138,6 +139,19 @@ footer {
   color: #666;
 }
 
+footer a {
+  color: var(--accent-dark);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+footer a:hover,
+footer a:focus {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 /* ---------- 404 Page ---------- */
 body.error-404 {
   display: flex;
@@ -199,6 +213,7 @@ body.error-404 {
   }
 }
 
+/* ---------- Letters page ---------- */
 .letter-nav{
   text-align:center;
   margin:1rem 0 .5rem;

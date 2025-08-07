@@ -5,7 +5,7 @@ slug: nufus-tezkeresi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nüfus cüzdanı
+- nüfus cüzdanı
 ozellikler:
 - - isim
 ornekler:

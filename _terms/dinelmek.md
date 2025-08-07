@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Ayakta durmak
 - Ayağa kalkmak, dik durmak
-- ► diklenmek
+- diklenmek
 ozellikler:
 - - nesnesiz
   - ağızlardan

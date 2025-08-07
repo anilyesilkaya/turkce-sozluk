@@ -5,7 +5,7 @@ slug: muhkem
 letter: M
 lisan: Arapça muḥkem
 anlamlar:
-- ► sağlam
+- sağlam
 ozellikler:
 - - sıfat
 ornekler:

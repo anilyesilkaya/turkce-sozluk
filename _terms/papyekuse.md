@@ -5,7 +5,7 @@ slug: papyekuse
 letter: P
 lisan: Fransızca papier couché
 anlamlar:
-- ► kuşe
+- kuşe
 ozellikler:
 - - isim
 ornekler:

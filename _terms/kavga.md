@@ -7,7 +7,7 @@ lisan: Farsça ġavġā
 anlamlar:
 - Düşmanca davranış ve sözlerle ortaya çıkan çekişme veya dövüş; çıngar
 - Herhangi bir amaca erişmek, bir şeyi elde etmek veya bir şeye karşı koyabilmek için harcanan çaba, verilen mücadele
-- ► mücadele
+- mücadele
 ozellikler:
 - - isim
 - - isim

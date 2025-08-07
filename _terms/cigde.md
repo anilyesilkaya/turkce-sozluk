@@ -5,7 +5,7 @@ slug: cigde
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► hünnap
+- hünnap
 - Bu ağacın kırmızı kabuklu, sert çekirdekli, iri zeytin biçiminde ve büyüklüğünde, güzün olgunlaşan yemişi
 ozellikler:
 - - isim

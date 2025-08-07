@@ -5,7 +5,7 @@ slug: ilgecli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► edatlı
+- edatlı
 ozellikler:
 - - sıfat
 ornekler:

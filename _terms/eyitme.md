@@ -5,7 +5,7 @@ slug: eyitme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► deme
+- deme
 ozellikler:
 - - isim
 ornekler:

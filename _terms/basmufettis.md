@@ -5,7 +5,7 @@ slug: basmufettis
 letter: B
 lisan: Türkçe baş + Arapça mufettiş
 anlamlar:
-- ► başdenetmen
+- başdenetmen
 ozellikler:
 - - isim
 ornekler:

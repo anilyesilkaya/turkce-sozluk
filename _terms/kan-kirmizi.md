@@ -5,7 +5,7 @@ slug: kan-kirmizi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kan kırmızısı
+- kan kırmızısı
 ozellikler:
 - - sıfat
 ornekler:

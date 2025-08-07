@@ -5,7 +5,7 @@ slug: curetsizlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cesaretsizlik
+- cesaretsizlik
 ozellikler:
 - - isim
 ornekler:

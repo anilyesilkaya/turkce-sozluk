@@ -7,7 +7,7 @@ lisan: Farsça āzād
 anlamlar:
 - Serbest bırakma
 - Okullarda paydos
-- ► özgür
+- özgür
 ozellikler:
 - - isim
 - - isim

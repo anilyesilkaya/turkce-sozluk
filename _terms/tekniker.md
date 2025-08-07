@@ -5,7 +5,7 @@ slug: tekniker
 letter: T
 lisan: Almanca Techniker
 anlamlar:
-- ► teknikçi
+- teknikçi
 ozellikler:
 - - isim
 ornekler:

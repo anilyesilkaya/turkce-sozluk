@@ -5,7 +5,7 @@ slug: dusa-kabin
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duş kabini
+- duş kabini
 ozellikler:
 - - isim
 ornekler:

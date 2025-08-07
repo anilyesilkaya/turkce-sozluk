@@ -5,7 +5,7 @@ slug: peripatetist
 letter: P
 lisan: Fransızca péripatétiste
 anlamlar:
-- ► Aristotelesçi
+- Aristotelesçi
 ozellikler:
 - - sıfat
 ornekler:

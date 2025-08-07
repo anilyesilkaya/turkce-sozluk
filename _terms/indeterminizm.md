@@ -5,7 +5,7 @@ slug: indeterminizm
 letter: I
 lisan: Fransızca indéterminisme
 anlamlar:
-- ► belirlenmezcilik
+- belirlenmezcilik
 ozellikler:
 - - isim
   - felsefe

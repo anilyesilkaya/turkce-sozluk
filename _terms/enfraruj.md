@@ -5,7 +5,7 @@ slug: enfraruj
 letter: E
 lisan: Fransızca infrarouge
 anlamlar:
-- ► kızılötesi
+- kızılötesi
 ozellikler:
 - - isim
   - fizik

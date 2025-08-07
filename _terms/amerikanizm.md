@@ -5,7 +5,7 @@ slug: amerikanizm
 letter: A
 lisan: Fransızca américanisme
 anlamlar:
-- ► Amerikancılık
+- Amerikancılık
 ozellikler:
 - - isim
 ornekler:

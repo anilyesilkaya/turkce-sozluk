@@ -5,7 +5,7 @@ slug: umumilik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genellik
+- genellik
 ozellikler:
 - - isim
 ornekler:

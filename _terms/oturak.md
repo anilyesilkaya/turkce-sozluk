@@ -8,7 +8,7 @@ anlamlar:
 - Oturulacak yer veya şey
 - Alçak iskemle
 - Bir şeyin yere gelen tarafı; taban (I)
-- ► ördek
+- ördek
 - İçkili, çalgılı eğlence
 - Boru mengenesinin tezgâha oturduğu ve vidalandığı bölüm
 - Bacaklarında veya başka bir yerinde, gezmesine engel olacak bir özrü olduğundan hep evde oturan (kimse); kötürüm

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Belli bir süreyi aşmış, ötesine geçmiş
 - Benzerlerinden üstün
-- ► fazla
+- fazla
 - Daha yüksek
 ozellikler:
 - - sıfat

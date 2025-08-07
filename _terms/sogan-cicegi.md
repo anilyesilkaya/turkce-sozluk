@@ -5,7 +5,7 @@ slug: sogan-cicegi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► fulya
+- fulya
 ozellikler:
 - - isim
   - ağızlardan

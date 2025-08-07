@@ -8,7 +8,7 @@ anlamlar:
 - Yürüyerek giden kimse; piyade (I)
 - Benzerlerine ayak uydurup ilerleyememiş, gelişememiş kimse
 - Osmanlılarda Yeniçeri Ocağından önceki dönemlerde Türklerden kurulan piyade teşkilatı ve askeri
-- ► yayan
+- yayan
 ozellikler:
 - - isim
 - - isim

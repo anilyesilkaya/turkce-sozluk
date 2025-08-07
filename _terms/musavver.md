@@ -5,7 +5,7 @@ slug: musavver
 letter: M
 lisan: Arapça muṣavver
 anlamlar:
-- ► resimli
+- resimli
 - Zihinde tasarlanmış, düşünülmüş olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: pragmatiklik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► yararcılık
+- yararcılık
 ozellikler:
 - - isim
   - felsefe

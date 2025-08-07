@@ -5,7 +5,7 @@ slug: emrolunmak
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► emredilmek
+- emredilmek
 ozellikler:
 - - nesnesiz
 ornekler:

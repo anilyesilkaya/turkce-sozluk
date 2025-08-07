@@ -5,7 +5,7 @@ slug: su-mermeri
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kaymak taşı
+- kaymak taşı
 ozellikler:
 - - isim
   - mineraloji

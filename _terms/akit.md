@@ -5,8 +5,8 @@ slug: akit
 letter: A
 lisan: Arapça ʿaḳd
 anlamlar:
-- ► sözleşme
-- ► nikâh
+- sözleşme
+- nikâh
 ozellikler:
 - - isim
   - eskimiş

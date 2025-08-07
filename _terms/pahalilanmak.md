@@ -5,7 +5,7 @@ slug: pahalilanmak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pahalanmak
+- pahalanmak
 ozellikler:
 - - nesnesiz
 ornekler:

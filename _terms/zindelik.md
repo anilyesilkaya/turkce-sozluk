@@ -5,7 +5,7 @@ slug: zindelik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► dirilik
+- dirilik
 ozellikler:
 - - isim
 ornekler:

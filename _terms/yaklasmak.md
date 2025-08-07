@@ -9,7 +9,7 @@ anlamlar:
 - Aradaki süreyi azaltmak veya büsbütün ortadan kaldırmak; yakınlamak
 - Benzemek, andırmak, uygun olmak
 - Bir konuyu, bir sorunu ele alarak değerlendirmek
-- ► yakınlaşmak
+- yakınlaşmak
 ozellikler:
 - - -e
 - - -e

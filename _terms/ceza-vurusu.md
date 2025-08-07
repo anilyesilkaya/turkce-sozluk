@@ -5,8 +5,8 @@ slug: ceza-vurusu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ceza atışı
-- ► penaltı
+- ceza atışı
+- penaltı
 ozellikler:
 - - isim
   - spor

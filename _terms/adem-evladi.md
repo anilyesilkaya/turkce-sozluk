@@ -5,7 +5,7 @@ slug: adem-evladi
 letter: Â
 lisan: Türkçe
 anlamlar:
-- ► insan evladı
+- insan evladı
 ozellikler:
 - - isim
 ornekler:

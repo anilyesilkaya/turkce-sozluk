@@ -5,7 +5,7 @@ slug: esrarengiz
 letter: E
 lisan: Arapça esrār + Farsça -engīz
 anlamlar:
-- ► gizemli
+- gizemli
 ozellikler:
 - - sıfat
 ornekler:

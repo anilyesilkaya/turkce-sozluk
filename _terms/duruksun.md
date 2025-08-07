@@ -5,7 +5,7 @@ slug: duruksun
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kararsız
+- kararsız
 ozellikler:
 - - sıfat
   - ağızlardan

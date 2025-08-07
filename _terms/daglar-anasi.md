@@ -5,7 +5,7 @@ slug: daglar-anasi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dağ anası
+- dağ anası
 ozellikler:
 - - isim
   - mecaz

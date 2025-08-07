@@ -7,7 +7,7 @@ lisan: Arapça ziyāret
 anlamlar:
 - Birini görmeye, biriyle görüşmeye gitme, görüşme
 - Bir yeri görmeye gitme
-- ► ziyaret yeri
+- ziyaret yeri
 ozellikler:
 - - isim
 - - isim

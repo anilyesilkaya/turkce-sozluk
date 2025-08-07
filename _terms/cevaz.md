@@ -5,7 +5,7 @@ slug: cevaz
 letter: C
 lisan: Arapça cevāz
 anlamlar:
-- ► izin
+- izin
 ozellikler:
 - - isim
   - eskimiş

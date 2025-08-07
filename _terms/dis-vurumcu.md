@@ -5,7 +5,7 @@ slug: dis-vurumcu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dışa vurumcu
+- dışa vurumcu
 ozellikler:
 - - sıfat
   - felsefe

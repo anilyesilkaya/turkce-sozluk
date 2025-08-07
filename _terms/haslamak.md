@@ -10,7 +10,7 @@ anlamlar:
 - Suda kaynatarak pişirmek
 - Kaynar sıvı bir şeyi yakmak
 - Don, kırağı bitkilere zarar vermek
-- ► dalamak
+- dalamak
 - Sızı vermek, acı vermek
 - Sertçe paylamak, azarlamak
 ozellikler:

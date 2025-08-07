@@ -5,7 +5,7 @@ slug: ugur-boncugu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► nazar boncuğu
+- nazar boncuğu
 ozellikler:
 - - isim
 ornekler:

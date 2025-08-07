@@ -6,7 +6,7 @@ letter: E
 lisan: Arapça erkān
 anlamlar:
 - Bir topluluğun ileri gelenleri, büyükler, üstler
-- ► yol yordam
+- yol yordam
 - General veya amiral aşamasındaki askerler
 ozellikler:
 - - isim

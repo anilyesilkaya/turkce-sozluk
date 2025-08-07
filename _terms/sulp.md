@@ -7,7 +7,7 @@ lisan: Arapça ṣulb
 anlamlar:
 - Bel kemiği, omurga
 - Döl, nesil, zürriyet
-- ► katı (I)
+- katı (I)
 ozellikler:
 - - isim
   - eskimiş

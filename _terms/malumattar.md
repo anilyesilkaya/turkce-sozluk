@@ -5,7 +5,7 @@ slug: malumattar
 letter: M
 lisan: Arapça maʿlūmāt + Farsça -dār
 anlamlar:
-- ► bilgili
+- bilgili
 ozellikler:
 - - sıfat
   - eskimiş

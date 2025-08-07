@@ -5,7 +5,7 @@ slug: mudrir
 letter: M
 lisan: Arapça mudrir
 anlamlar:
-- ► idrar söktürücü
+- idrar söktürücü
 ozellikler:
 - - sıfat
   - eskimiş

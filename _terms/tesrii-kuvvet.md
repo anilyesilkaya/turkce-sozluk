@@ -5,7 +5,7 @@ slug: tesrii-kuvvet
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yasama gücü
+- yasama gücü
 ozellikler:
 - - isim
   - hukuk

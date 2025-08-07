@@ -5,7 +5,7 @@ slug: haya
 letter: H
 lisan: Arapça ḥayāʾ
 anlamlar:
-- ► utanma
+- utanma
 ozellikler:
 - - isim
 ornekler:

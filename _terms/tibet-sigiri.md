@@ -5,7 +5,7 @@ slug: tibet-sigiri
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yak
+- yak
 ozellikler:
 - - isim
   - hayvan bilimi

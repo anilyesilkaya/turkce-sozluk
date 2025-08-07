@@ -5,7 +5,7 @@ slug: yaprak-sarmasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sarma
+- sarma
 ozellikler:
 - - isim
 ornekler:

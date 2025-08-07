@@ -5,7 +5,7 @@ slug: can-yelegi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cankurtaran yeleği
+- cankurtaran yeleği
 ozellikler:
 - - isim
   - denizcilik

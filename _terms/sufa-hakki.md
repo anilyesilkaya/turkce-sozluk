@@ -5,7 +5,7 @@ slug: sufa-hakki
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ön alım hakkı
+- ön alım hakkı
 ozellikler:
 - - isim
   - hukuk

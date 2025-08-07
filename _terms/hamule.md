@@ -5,7 +5,7 @@ slug: hamule
 letter: H
 lisan: Arapça ḥamūle
 anlamlar:
-- ► yük
+- yük
 - Kâğıt dolgu maddesi
 ozellikler:
 - - isim

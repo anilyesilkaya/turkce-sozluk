@@ -5,7 +5,7 @@ slug: mecalsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► takatsiz
+- takatsiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: musareket-fiili
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► işteş fiil
+- işteş fiil
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: tam-manasiyla
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tam anlamıyla
+- tam anlamıyla
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: kadarinca
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kadar
+- kadar
 ozellikler:
 - - edat
 ornekler:

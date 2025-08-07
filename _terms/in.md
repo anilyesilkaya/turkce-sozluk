@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Yaban hayvanlarının kendilerine yuva edindikleri kovuk
-- ► mağara
+- mağara
 ozellikler:
 - - isim
 - - isim

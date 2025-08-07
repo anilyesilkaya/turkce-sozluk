@@ -5,7 +5,7 @@ slug: pehlivan
 letter: P
 lisan: Farsça pehlevān
 anlamlar:
-- ► güreşçi
+- güreşçi
 - Boylu boslu ve güçlü kimse
 ozellikler:
 - - isim

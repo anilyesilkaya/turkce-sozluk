@@ -5,7 +5,7 @@ slug: basnokta
 letter: B
 lisan: Türkçe baş + Arapça noḳṭa
 anlamlar:
-- ► başlangıç noktası
+- başlangıç noktası
 ozellikler:
 - - isim
   - matematik

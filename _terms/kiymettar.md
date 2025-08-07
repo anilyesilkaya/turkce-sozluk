@@ -5,7 +5,7 @@ slug: kiymettar
 letter: K
 lisan: Arapça ḳiymet + Farsça -dār
 anlamlar:
-- ► değerli
+- değerli
 ozellikler:
 - - sıfat
   - eskimiş

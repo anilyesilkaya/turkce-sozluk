@@ -5,7 +5,7 @@ slug: kara-boya
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sülfürik asit
+- sülfürik asit
 ozellikler:
 - - isim
   - kimya

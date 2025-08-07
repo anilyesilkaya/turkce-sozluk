@@ -5,7 +5,7 @@ slug: destroyer
 letter: D
 lisan: Fransızca destroyer
 anlamlar:
-- ► muhrip
+- muhrip
 ozellikler:
 - - isim
   - askerlik

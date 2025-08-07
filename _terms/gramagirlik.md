@@ -5,7 +5,7 @@ slug: gramagirlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gramkuvvet
+- gramkuvvet
 ozellikler:
 - - isim
   - fizik

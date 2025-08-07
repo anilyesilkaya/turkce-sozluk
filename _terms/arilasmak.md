@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Yabancı şeylerden arınmış duruma gelmek; arılanmak
-- ► özleşmek
+- özleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

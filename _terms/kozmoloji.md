@@ -5,7 +5,7 @@ slug: kozmoloji
 letter: K
 lisan: Fransızca cosmologie
 anlamlar:
-- ► uzay bilimi
+- uzay bilimi
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: R
 lisan: Fransızca résidence
 anlamlar:
 - Yüksek devlet görevlileri, elçiler vb.nin oturmalarına ayrılan konut
-- ► saray konut
+- saray konut
 ozellikler:
 - - isim
 - - isim

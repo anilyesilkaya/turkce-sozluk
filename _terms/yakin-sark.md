@@ -5,7 +5,7 @@ slug: yakin-sark
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yakın Doğu
+- Yakın Doğu
 ozellikler:
 - - isim
 ornekler:

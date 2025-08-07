@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Azmak işi
-- ► melez
+- melez
 ozellikler:
 - - isim
 - - isim

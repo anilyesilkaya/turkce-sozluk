@@ -5,7 +5,7 @@ slug: teksir-kagidi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► saman kâğıdı
+- saman kâğıdı
 - Çoğaltma makinesinde kullanılan baskı kâğıdı
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: arzulatma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istetme
+- istetme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bezelye-cicegi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► ıtırşahi
+- ıtırşahi
 ozellikler:
 - - isim
   - bitki bilimi

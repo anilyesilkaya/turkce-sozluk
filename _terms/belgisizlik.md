@@ -5,7 +5,7 @@ slug: belgisizlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belirsizlik
+- belirsizlik
 ozellikler:
 - - isim
 ornekler:

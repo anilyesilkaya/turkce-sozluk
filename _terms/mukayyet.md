@@ -7,7 +7,7 @@ lisan: Arapça muḳayyed
 anlamlar:
 - Bağlı olan, bağlanmış
 - Bir şart veya kayıtla bağlı olan
-- ► kayıtlı
+- kayıtlı
 ozellikler:
 - - sıfat
   - eskimiş

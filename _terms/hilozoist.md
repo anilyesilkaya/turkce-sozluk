@@ -5,7 +5,7 @@ slug: hilozoist
 letter: H
 lisan: Fransızca hylozoïste
 anlamlar:
-- ► canlı özdekçi
+- canlı özdekçi
 ozellikler:
 - - sıfat
   - felsefe

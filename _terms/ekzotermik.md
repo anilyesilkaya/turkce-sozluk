@@ -5,7 +5,7 @@ slug: ekzotermik
 letter: E
 lisan: Fransızca exothermique
 anlamlar:
-- ► ısıveren
+- ısıveren
 ozellikler:
 - - sıfat
   - kimya

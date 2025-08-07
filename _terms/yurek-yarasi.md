@@ -5,7 +5,7 @@ slug: yurek-yarasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gönül yarası
+- gönül yarası
 ozellikler:
 - - isim
 ornekler:

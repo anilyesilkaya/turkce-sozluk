@@ -5,7 +5,7 @@ slug: iktisatci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ekonomist
+- ekonomist
 ozellikler:
 - - isim
 ornekler:

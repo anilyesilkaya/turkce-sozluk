@@ -5,7 +5,7 @@ slug: orhun-turkcesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► Köktürk Türkçesi
+- Köktürk Türkçesi
 ozellikler:
 - - isim
 ornekler:

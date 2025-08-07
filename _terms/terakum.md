@@ -5,7 +5,7 @@ slug: terakum
 letter: T
 lisan: Arapça terākum
 anlamlar:
-- ► birikme
+- birikme
 ozellikler:
 - - isim
   - eskimiş

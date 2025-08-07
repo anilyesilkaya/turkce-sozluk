@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mutaṣarrif
 anlamlar:
 - Kendinde kullanım hakkı olan, elinde bulunduran
-- ► sancak beyi
+- sancak beyi
 ozellikler:
 - - sıfat
 - - sıfat

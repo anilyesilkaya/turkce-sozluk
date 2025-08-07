@@ -5,7 +5,7 @@ slug: alavere-tulumbasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► emme basma tulumba
+- emme basma tulumba
 ozellikler:
 - - isim
 ornekler:

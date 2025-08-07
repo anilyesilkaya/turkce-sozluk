@@ -5,7 +5,7 @@ slug: altuni
 letter: A
 lisan: Türkçe altun + Arapça -ī
 anlamlar:
-- ► altın sarısı
+- altın sarısı
 - Bu renkte olan
 ozellikler:
 - - isim

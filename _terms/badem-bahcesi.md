@@ -5,7 +5,7 @@ slug: badem-bahcesi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bademlik
+- bademlik
 ozellikler:
 - - isim
 ornekler:

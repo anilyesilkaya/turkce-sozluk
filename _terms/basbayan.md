@@ -5,7 +5,7 @@ slug: basbayan
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkadın
+- başkadın
 ozellikler:
 - - isim
 ornekler:

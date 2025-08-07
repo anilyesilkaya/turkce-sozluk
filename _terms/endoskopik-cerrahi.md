@@ -5,7 +5,7 @@ slug: endoskopik-cerrahi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► endoskopik ameliyat
+- endoskopik ameliyat
 ozellikler:
 - - isim
   - tıp

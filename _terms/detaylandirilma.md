@@ -5,7 +5,7 @@ slug: detaylandirilma
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ayrıntılandırılma
+- ayrıntılandırılma
 ozellikler:
 - - isim
 ornekler:

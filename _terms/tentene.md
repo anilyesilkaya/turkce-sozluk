@@ -5,7 +5,7 @@ slug: tentene
 letter: T
 lisan: Fransızca dentelle
 anlamlar:
-- ► dantel
+- dantel
 ozellikler:
 - - isim
   - ağızlardan

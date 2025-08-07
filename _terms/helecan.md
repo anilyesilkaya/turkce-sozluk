@@ -5,7 +5,7 @@ slug: helecan
 letter: H
 lisan: Arapça ḫalecān
 anlamlar:
-- ► kalp çarpıntısı
+- kalp çarpıntısı
 ozellikler:
 - - isim
   - eskimiş

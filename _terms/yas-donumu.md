@@ -5,8 +5,8 @@ slug: yas-donumu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► menopoz
-- ► andropoz
+- menopoz
+- andropoz
 ozellikler:
 - - isim
   - tıp

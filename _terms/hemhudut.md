@@ -5,7 +5,7 @@ slug: hemhudut
 letter: H
 lisan: Farsça hem + Arapça ḥudūd
 anlamlar:
-- ► sınırdaş
+- sınırdaş
 ozellikler:
 - - isim
   - eskimiş

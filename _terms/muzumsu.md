@@ -5,7 +5,7 @@ slug: muzumsu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► muzsu
+- muzsu
 ozellikler:
 - - sıfat
 ornekler:

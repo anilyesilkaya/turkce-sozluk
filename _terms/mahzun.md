@@ -5,7 +5,7 @@ slug: mahzun
 letter: M
 lisan: Arapça maḥzūn
 anlamlar:
-- ► üzgün
+- üzgün
 ozellikler:
 - - sıfat
 ornekler:

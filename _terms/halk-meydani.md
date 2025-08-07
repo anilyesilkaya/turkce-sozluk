@@ -5,7 +5,7 @@ slug: halk-meydani
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► agora
+- agora
 ozellikler:
 - - isim
 ornekler:

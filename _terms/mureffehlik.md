@@ -5,7 +5,7 @@ slug: mureffehlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gönençlilik
+- gönençlilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: halis
 letter: H
 lisan: Arapça ḫāliṣ
 anlamlar:
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
 ornekler:

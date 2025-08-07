@@ -5,7 +5,7 @@ slug: hurluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► özgürlük
+- özgürlük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tek-ornek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tekdüze
+- tekdüze
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kabala
 letter: K
 lisan: Arapça ḳabāle
 anlamlar:
-- ► götürü
+- götürü
 ozellikler:
 - - zarf
   - ticaret

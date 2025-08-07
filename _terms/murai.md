@@ -5,7 +5,7 @@ slug: murai
 letter: M
 lisan: Arapça murāʾī
 anlamlar:
-- ► ikiyüzlü
+- ikiyüzlü
 ozellikler:
 - - sıfat
   - eskimiş

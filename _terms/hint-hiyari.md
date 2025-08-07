@@ -5,7 +5,7 @@ slug: hint-hiyari
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hıyarşembe
+- hıyarşembe
 ozellikler:
 - - isim
   - bitki bilimi

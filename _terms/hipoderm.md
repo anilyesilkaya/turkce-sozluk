@@ -5,7 +5,7 @@ slug: hipoderm
 letter: H
 lisan: Fransızca hypoderme
 anlamlar:
-- ► alt deri
+- alt deri
 ozellikler:
 - - isim
   - bitki bilimi

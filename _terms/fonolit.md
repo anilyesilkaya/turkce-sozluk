@@ -5,7 +5,7 @@ slug: fonolit
 letter: F
 lisan: Fransızca phonolite
 anlamlar:
-- ► sesli taş
+- sesli taş
 ozellikler:
 - - isim
   - mineraloji

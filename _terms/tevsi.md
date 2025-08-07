@@ -5,8 +5,8 @@ slug: tevsi
 letter: T
 lisan: Arapça tevsīʿ
 anlamlar:
-- ► genişletme
-- ► yayma
+- genişletme
+- yayma
 ozellikler:
 - - isim
   - eskimiş

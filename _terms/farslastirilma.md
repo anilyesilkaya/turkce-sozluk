@@ -5,7 +5,7 @@ slug: farslastirilma
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► Acemleştirilme
+- Acemleştirilme
 ozellikler:
 - - isim
 ornekler:

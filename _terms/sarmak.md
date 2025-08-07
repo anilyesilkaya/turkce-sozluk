@@ -6,11 +6,11 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Çevresini çevirmek, çepeçevre dolanmak
-- ► kuşatmak
+- kuşatmak
 - Dolayında yer almak
-- ► kaplamak
+- kaplamak
 - Bir şeyi üzerine başka bir şey koyarak kaplamak
-- ► kucaklamak
+- kucaklamak
 - Yumak yapmak
 - Şerit, ip vb.ni başka bir şeyin üzerine dolamak
 - Kâğıt veya bir bitki yaprağıyla dürmek

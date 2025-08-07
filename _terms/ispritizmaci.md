@@ -5,7 +5,7 @@ slug: ispritizmaci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ruhçu
+- ruhçu
 ozellikler:
 - - sıfat
 ornekler:

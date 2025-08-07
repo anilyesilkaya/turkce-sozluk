@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Nesneler, iç basıncın etkisiyle ve çoğunlukla büyük ses çıkararak dağılmak, infilak etmek
 - Yırtılıp açılmak
-- ► yarılmak
+- yarılmak
 - Görünür duruma gelmek, ortaya çıkmak, yeşermek
 - Top, taşıt lastiği vb. şeyler değişik nedenlerle havası inmek
 - Ansızın tehlikeli bir şey meydana gelmek

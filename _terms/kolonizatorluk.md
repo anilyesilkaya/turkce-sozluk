@@ -5,7 +5,7 @@ slug: kolonizatorluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sömürgecilik
+- sömürgecilik
 - Kolonizatör olma durumu
 ozellikler:
 - - isim

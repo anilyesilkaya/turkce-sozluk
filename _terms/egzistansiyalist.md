@@ -5,7 +5,7 @@ slug: egzistansiyalist
 letter: E
 lisan: Fransızca existentialiste
 anlamlar:
-- ► varoluşçu
+- varoluşçu
 ozellikler:
 - - sıfat
   - felsefe

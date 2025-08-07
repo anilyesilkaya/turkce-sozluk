@@ -5,7 +5,7 @@ slug: sessiz-uyumu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ünsüz uyumu
+- ünsüz uyumu
 ozellikler:
 - - isim
   - dil bilgisi

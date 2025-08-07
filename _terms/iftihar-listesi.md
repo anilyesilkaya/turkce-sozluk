@@ -5,7 +5,7 @@ slug: iftihar-listesi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► övünç çizelgesi
+- övünç çizelgesi
 ozellikler:
 - - isim
 ornekler:

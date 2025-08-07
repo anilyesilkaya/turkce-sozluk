@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Süzme işine konu olmak
-- ► akmak
+- akmak
 - Kuş kanatları gerili olarak görünür bir hareket yapmadan havada ilerlemek
 - Sessizce ve görünür bir hareket yapmadan ilerlemek
 - İnsan sessiz, gizlice ve kayıyormuş gibi gitmek

@@ -5,7 +5,7 @@ slug: tezevvuc
 letter: T
 lisan: Arapça tezevvuc
 anlamlar:
-- ► evlenme
+- evlenme
 ozellikler:
 - - isim
   - eskimiş

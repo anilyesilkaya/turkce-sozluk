@@ -5,7 +5,7 @@ slug: agaris
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlayış
+- beyazlayış
 ozellikler:
 - - isim
 ornekler:

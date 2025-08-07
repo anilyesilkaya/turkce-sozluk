@@ -5,7 +5,7 @@ slug: bolusturulme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaştırılma
+- paylaştırılma
 ozellikler:
 - - isim
 ornekler:

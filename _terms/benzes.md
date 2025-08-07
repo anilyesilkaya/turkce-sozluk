@@ -5,7 +5,7 @@ slug: benzes
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: teshis-ve-intak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kişileştirme
+- kişileştirme
 ozellikler:
 - - isim
   - edebiyat

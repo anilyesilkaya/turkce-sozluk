@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Toplanarak büzülmüş
-- ► anüs
+- anüs
 ozellikler:
 - - sıfat
 - - sıfat

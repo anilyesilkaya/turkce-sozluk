@@ -5,7 +5,7 @@ slug: likidasyon
 letter: L
 lisan: Fransızca liquidation
 anlamlar:
-- ► tasfiye
+- tasfiye
 ozellikler:
 - - isim
   - ticaret

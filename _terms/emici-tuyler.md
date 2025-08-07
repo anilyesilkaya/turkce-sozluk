@@ -5,7 +5,7 @@ slug: emici-tuyler
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► emici kıllar
+- emici kıllar
 ozellikler:
 - - isim
   - bitki bilimi

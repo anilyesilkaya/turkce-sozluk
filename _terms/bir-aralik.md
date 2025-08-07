@@ -5,7 +5,7 @@ slug: bir-aralik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir ara
+- bir ara
 ozellikler:
 - - zarf
 ornekler:

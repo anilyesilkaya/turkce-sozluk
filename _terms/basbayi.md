@@ -5,7 +5,7 @@ slug: basbayi
 letter: B
 lisan: Türkçe baş + Arapça bāyiʿ
 anlamlar:
-- ► ana bayi
+- ana bayi
 ozellikler:
 - - isim
 ornekler:

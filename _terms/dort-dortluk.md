@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Tam, kusursuz olan
-- ► birlik
+- birlik
 ozellikler:
 - - sıfat
   - mecaz

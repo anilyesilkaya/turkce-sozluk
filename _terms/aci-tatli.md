@@ -5,7 +5,7 @@ slug: aci-tatli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► şöyle böyle
+- şöyle böyle
 ozellikler:
 - - zarf
 ornekler:

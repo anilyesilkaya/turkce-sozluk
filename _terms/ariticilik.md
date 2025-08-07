@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtıcı olma durumu
-- ► arıtmacılık
+- arıtmacılık
 ozellikler:
 - - isim
 - - isim

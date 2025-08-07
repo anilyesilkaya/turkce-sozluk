@@ -5,7 +5,7 @@ slug: ardic-recinesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akgünlük
+- akgünlük
 ozellikler:
 - - isim
 ornekler:

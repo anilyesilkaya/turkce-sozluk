@@ -5,7 +5,7 @@ slug: yanginci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► itfaiyeci
+- itfaiyeci
 ozellikler:
 - - isim
 ornekler:

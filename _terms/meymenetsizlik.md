@@ -5,7 +5,7 @@ slug: meymenetsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uğursuzluk
+- uğursuzluk
 ozellikler:
 - - isim
 ornekler:

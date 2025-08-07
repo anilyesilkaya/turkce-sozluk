@@ -5,7 +5,7 @@ slug: dongel
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► muşmula
+- muşmula
 ozellikler:
 - - isim
   - ağızlardan

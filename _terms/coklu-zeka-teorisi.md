@@ -5,7 +5,7 @@ slug: coklu-zeka-teorisi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çoklu zekâ kuramı
+- çoklu zekâ kuramı
 ozellikler:
 - - isim
 ornekler:

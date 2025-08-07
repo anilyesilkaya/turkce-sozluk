@@ -32,7 +32,7 @@ anlamlar:
 - Sıkıntısını gidermek, içine, gönlüne ferahlık vermek
 - Sıkılganlığını, utangaçlığını gidermek
 - Savaşla almak
-- ► yarmak
+- yarmak
 ozellikler:
 - - -i
 - - -i

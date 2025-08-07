@@ -5,7 +5,7 @@ slug: sembollesme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► simgeleşme
+- simgeleşme
 ozellikler:
 - - isim
 ornekler:

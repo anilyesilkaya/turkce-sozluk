@@ -5,7 +5,7 @@ slug: olusu-kinali
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölüsü kandilli
+- ölüsü kandilli
 ozellikler:
 - - isim
   - argo

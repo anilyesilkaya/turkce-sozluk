@@ -5,7 +5,7 @@ slug: kisaltmali-kelime
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kısaltma ad
+- kısaltma ad
 ozellikler:
 - - isim
   - dil bilgisi

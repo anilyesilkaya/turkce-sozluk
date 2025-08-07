@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Eklemle birleştirmek
-- ► bağdaştırmak
+- bağdaştırmak
 ozellikler:
 - - -i
 - - -i

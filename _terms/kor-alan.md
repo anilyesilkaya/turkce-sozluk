@@ -5,7 +5,7 @@ slug: kor-alan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kör nokta
+- kör nokta
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: evelemek-develemek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► evelemek gevelemek
+- evelemek gevelemek
 ozellikler:
 - - -i
 ornekler:

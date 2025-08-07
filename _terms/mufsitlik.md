@@ -5,7 +5,7 @@ slug: mufsitlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► arabozanlık
+- arabozanlık
 ozellikler:
 - - isim
 ornekler:

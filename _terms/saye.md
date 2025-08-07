@@ -5,7 +5,7 @@ slug: saye
 letter: S
 lisan: Farsça sāye
 anlamlar:
-- ► gölge
+- gölge
 - Koruma, yardım
 ozellikler:
 - - isim

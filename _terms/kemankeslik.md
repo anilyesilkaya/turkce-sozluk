@@ -5,7 +5,7 @@ slug: kemankeslik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► okçuluk
+- okçuluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: vakar
 letter: V
 lisan: Arapça vaḳār
 anlamlar:
-- ► ağırbaşlılık
+- ağırbaşlılık
 ozellikler:
 - - isim
 ornekler:

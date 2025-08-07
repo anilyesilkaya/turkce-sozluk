@@ -5,7 +5,7 @@ slug: kasavet
 letter: K
 lisan: Arapça ḳasāvet
 anlamlar:
-- ► sıkıntı
+- sıkıntı
 ozellikler:
 - - isim
   - eskimiş

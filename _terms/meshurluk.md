@@ -5,7 +5,7 @@ slug: meshurluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► ünlülük
+- ünlülük
 ozellikler:
 - - isim
 ornekler:

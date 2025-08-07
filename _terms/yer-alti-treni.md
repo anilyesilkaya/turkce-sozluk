@@ -5,7 +5,7 @@ slug: yer-alti-treni
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► metro
+- metro
 ozellikler:
 - - isim
 ornekler:

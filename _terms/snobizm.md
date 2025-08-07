@@ -5,7 +5,7 @@ slug: snobizm
 letter: S
 lisan: Fransızca snobisme
 anlamlar:
-- ► züppelik
+- züppelik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gozu-ac
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► açgözlü
+- açgözlü
 ozellikler:
 - - sıfat
   - mecaz

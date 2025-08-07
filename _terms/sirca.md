@@ -5,7 +5,7 @@ slug: sirca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► cam
+- cam
 - Camdan yapılmış
 ozellikler:
 - - isim

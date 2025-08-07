@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anıtsal olma durumu
-- ► görkemlilik
+- görkemlilik
 ozellikler:
 - - isim
 - - isim

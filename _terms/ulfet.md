@@ -5,9 +5,9 @@ slug: ulfet
 letter: Ü
 lisan: Arapça ulfet
 anlamlar:
-- ► alışma
+- alışma
 - Anlaşabileceği kişilerle güzel bir şekilde görüşüp konuşma
-- ► dostluk
+- dostluk
 ozellikler:
 - - isim
   - eskimiş

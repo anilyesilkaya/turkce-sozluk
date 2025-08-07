@@ -5,7 +5,7 @@ slug: takir-tukur
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► takır takır
+- takır takır
 ozellikler:
 - - sıfat
 ornekler:

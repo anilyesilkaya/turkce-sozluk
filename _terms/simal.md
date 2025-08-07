@@ -5,7 +5,7 @@ slug: simal
 letter: Ş
 lisan: Arapça şimāl
 anlamlar:
-- ► Kuzey
+- Kuzey
 ozellikler:
 - - isim
   - eskimiş

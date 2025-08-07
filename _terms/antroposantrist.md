@@ -5,7 +5,7 @@ slug: antroposantrist
 letter: A
 lisan: Fransızca anthropocentriste
 anlamlar:
-- ► insanmerkezci
+- insanmerkezci
 ozellikler:
 - - sıfat
   - felsefe

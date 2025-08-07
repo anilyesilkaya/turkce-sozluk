@@ -5,7 +5,7 @@ slug: itinalica
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özenlice
+- özenlice
 ozellikler:
 - - zarf
 ornekler:

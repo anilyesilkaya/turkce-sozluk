@@ -5,7 +5,7 @@ slug: meshur
 letter: M
 lisan: Arapça meşhūr
 anlamlar:
-- ► ünlü
+- ünlü
 ozellikler:
 - - sıfat
 ornekler:

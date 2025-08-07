@@ -5,7 +5,7 @@ slug: cenesi-kuvvetli
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çenebaz
+- çenebaz
 ozellikler:
 - - sıfat
   - mecaz

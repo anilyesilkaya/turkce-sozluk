@@ -5,7 +5,7 @@ slug: feodalite
 letter: F
 lisan: Fransızca féodalité
 anlamlar:
-- ► derebeylik
+- derebeylik
 ozellikler:
 - - isim
   - tarih

@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nisbeten
 anlamlar:
 - Bir dereceye kadar, oldukça
-- ► oranla
+- oranla
 ozellikler:
 - - zarf
 - - zarf

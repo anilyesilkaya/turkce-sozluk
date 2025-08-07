@@ -6,7 +6,7 @@ letter: N
 lisan: İtalyanca numero
 anlamlar:
 - Bir şeyin bir dizi içindeki yerini gösteren sayı, rakam
-- ► ölçü
+- ölçü
 - Benzer şeyleri ayırt etmek için her birinin üzerine işaret olarak yazılan sayı
 - Öğrenciye verilen not
 - Okullarda öğrencileri birbirinden ayırt etmek için her birine verilen sayı

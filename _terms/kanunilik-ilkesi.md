@@ -5,7 +5,7 @@ slug: kanunilik-ilkesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasallık ilkesi
+- yasallık ilkesi
 ozellikler:
 - - isim
   - hukuk

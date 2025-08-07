@@ -5,7 +5,7 @@ slug: gayrimakulluk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► akıl dışılık
+- akıl dışılık
 ozellikler:
 - - isim
 ornekler:

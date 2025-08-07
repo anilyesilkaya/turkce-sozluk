@@ -5,7 +5,7 @@ slug: kuvertur
 letter: K
 lisan: Fransızca couverture
 anlamlar:
-- ► örtü
+- örtü
 ozellikler:
 - - isim
 ornekler:

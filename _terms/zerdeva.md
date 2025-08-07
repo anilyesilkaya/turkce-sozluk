@@ -5,7 +5,7 @@ slug: zerdeva
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► ağaç sansarı
+- ağaç sansarı
 ozellikler:
 - - isim
   - hayvan bilimi

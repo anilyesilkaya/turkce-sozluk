@@ -5,7 +5,7 @@ slug: calkandirma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► dalgalandırma
+- dalgalandırma
 ozellikler:
 - - isim
 ornekler:

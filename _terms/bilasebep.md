@@ -5,7 +5,7 @@ slug: bilasebep
 letter: B
 lisan: Arapça bilāsebeb
 anlamlar:
-- ► sebepsiz
+- sebepsiz
 ozellikler:
 - - zarf
   - eskimiş

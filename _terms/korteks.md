@@ -5,7 +5,7 @@ slug: korteks
 letter: K
 lisan: Fransızca cortex
 anlamlar:
-- ► beyin kabuğu
+- beyin kabuğu
 - Bir organ veya yapının dış katmanı
 ozellikler:
 - - isim

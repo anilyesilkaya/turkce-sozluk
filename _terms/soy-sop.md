@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bütün soy ve hısımlar; cins cibilliyet, hasep nesep
-- ► döl
+- döl
 ozellikler:
 - - isim
 - - isim

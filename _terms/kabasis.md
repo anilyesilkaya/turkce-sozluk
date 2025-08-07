@@ -5,7 +5,7 @@ slug: kabasis
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kabakulak
+- kabakulak
 ozellikler:
 - - isim
   - ağızlardan

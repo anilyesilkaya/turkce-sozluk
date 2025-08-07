@@ -5,7 +5,7 @@ slug: makroekonomi
 letter: M
 lisan: Fransızca macroéconomie
 anlamlar:
-- ► bütüncü ekonomi
+- bütüncü ekonomi
 ozellikler:
 - - isim
   - ekonomi

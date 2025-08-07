@@ -5,7 +5,7 @@ slug: yildirmacilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► terörizm
+- terörizm
 ozellikler:
 - - isim
 ornekler:

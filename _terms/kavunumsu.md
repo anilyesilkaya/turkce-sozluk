@@ -5,7 +5,7 @@ slug: kavunumsu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kavunsu
+- kavunsu
 ozellikler:
 - - sıfat
 ornekler:

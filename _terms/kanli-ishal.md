@@ -5,7 +5,7 @@ slug: kanli-ishal
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dizanteri
+- dizanteri
 ozellikler:
 - - isim
   - tıp

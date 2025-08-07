@@ -5,7 +5,7 @@ slug: soguk-harp
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► soğuk savaş
+- soğuk savaş
 ozellikler:
 - - isim
 ornekler:

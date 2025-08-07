@@ -5,7 +5,7 @@ slug: kultur-sitesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kültür merkezi
+- kültür merkezi
 ozellikler:
 - - isim
 ornekler:

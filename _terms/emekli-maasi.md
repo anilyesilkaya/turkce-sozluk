@@ -5,7 +5,7 @@ slug: emekli-maasi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► emekli aylığı
+- emekli aylığı
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: mertebe
 letter: M
 lisan: Arapça mertebe
 anlamlar:
-- ► aşama
-- ► evre
+- aşama
+- evre
 ozellikler:
 - - isim
 - - isim

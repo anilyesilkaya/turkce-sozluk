@@ -5,7 +5,7 @@ slug: zingildamak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zangırdamak
+- zangırdamak
 - Elden çıkmak
 ozellikler:
 - - nesnesiz

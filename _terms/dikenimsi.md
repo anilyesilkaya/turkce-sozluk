@@ -5,7 +5,7 @@ slug: dikenimsi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dikensi
+- dikensi
 ozellikler:
 - - sıfat
 ornekler:

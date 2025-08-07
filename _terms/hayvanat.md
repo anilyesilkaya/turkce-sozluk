@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥayvānāt
 anlamlar:
 - Hayvanlar
-- ► hayvan bilimi
+- hayvan bilimi
 ozellikler:
 - - isim
   - eskimiş

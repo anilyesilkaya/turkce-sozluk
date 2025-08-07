@@ -5,7 +5,7 @@ slug: agir-aksak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaş
+- yavaş
 - Kesintili, düzensiz bir biçimde olan
 - Yavaş ve düzensiz bir biçimde
 - Klasik Türk müziğinde dokuz zamanlı ve altı vuruşlu bir küçük usul

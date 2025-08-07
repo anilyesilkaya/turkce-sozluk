@@ -5,7 +5,7 @@ slug: sempati
 letter: S
 lisan: Fransızca sympathie
 anlamlar:
-- ► sıcakkanlılık
+- sıcakkanlılık
 ozellikler:
 - - isim
 ornekler:

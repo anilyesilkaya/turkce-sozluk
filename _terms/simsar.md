@@ -5,7 +5,7 @@ slug: simsar
 letter: S
 lisan: Arapça simsār
 anlamlar:
-- ► komisyoncu
+- komisyoncu
 ozellikler:
 - - isim
   - ticaret

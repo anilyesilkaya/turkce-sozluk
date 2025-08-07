@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir adet
-- ► biricik
+- biricik
 ozellikler:
 - - sıfat
 - - sıfat

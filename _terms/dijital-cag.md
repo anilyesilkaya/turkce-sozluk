@@ -5,7 +5,7 @@ slug: dijital-cag
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bilişim çağı
+- bilişim çağı
 ozellikler:
 - - isim
 ornekler:

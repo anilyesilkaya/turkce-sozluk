@@ -5,7 +5,7 @@ slug: eseysellik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► cinsellik
+- cinsellik
 ozellikler:
 - - isim
 ornekler:

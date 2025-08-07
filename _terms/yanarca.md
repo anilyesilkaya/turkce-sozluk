@@ -5,7 +5,7 @@ slug: yanarca
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► meşale
+- meşale
 ozellikler:
 - - isim
 ornekler:

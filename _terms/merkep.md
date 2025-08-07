@@ -5,7 +5,7 @@ slug: merkep
 letter: M
 lisan: Arapça merkeb
 anlamlar:
-- ► eşek
+- eşek
 ozellikler:
 - - isim
   - hayvan bilimi

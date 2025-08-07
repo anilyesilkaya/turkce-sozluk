@@ -5,7 +5,7 @@ slug: frenkce
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► Fransızca
+- Fransızca
 - Frenklere özgü olan
 - Avrupalı gibi
 ozellikler:

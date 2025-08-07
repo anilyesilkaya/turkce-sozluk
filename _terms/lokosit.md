@@ -5,7 +5,7 @@ slug: lokosit
 letter: L
 lisan: Fransızca leucocyte
 anlamlar:
-- ► akyuvar
+- akyuvar
 ozellikler:
 - - isim
   - anatomi

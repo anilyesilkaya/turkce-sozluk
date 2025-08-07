@@ -5,7 +5,7 @@ slug: multeci
 letter: M
 lisan: Arapça multecī
 anlamlar:
-- ► sığınmacı
+- sığınmacı
 ozellikler:
 - - isim
 ornekler:

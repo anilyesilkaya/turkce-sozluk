@@ -5,7 +5,7 @@ slug: dikiz
 letter: D
 lisan: Rumca
 anlamlar:
-- ► gözetleme
+- gözetleme
 ozellikler:
 - - isim
   - argo

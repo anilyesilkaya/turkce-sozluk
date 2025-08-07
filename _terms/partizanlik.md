@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Partizan olma durumu
 - Partizanca davranma
-- ► particilik
+- particilik
 ozellikler:
 - - isim
 - - isim

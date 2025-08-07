@@ -5,7 +5,7 @@ slug: bon
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► saf (II)
+- saf (II)
 ozellikler:
 - - sıfat
 ornekler:

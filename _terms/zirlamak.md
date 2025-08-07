@@ -5,7 +5,7 @@ slug: zirlamak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırıldamak
+- zırıldamak
 - Zil vb. ötmek
 ozellikler:
 - - nesnesiz

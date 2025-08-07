@@ -5,7 +5,7 @@ slug: sera-beyazsinegi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► beyazsinek
+- beyazsinek
 ozellikler:
 - - isim
   - hayvan bilimi

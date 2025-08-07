@@ -5,7 +5,7 @@ slug: meskun-mahal
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yerleşim merkezi
+- yerleşim merkezi
 ozellikler:
 - - isim
   - coğrafya

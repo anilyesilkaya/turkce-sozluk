@@ -5,7 +5,7 @@ slug: taninli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tınlamalı
+- tınlamalı
 ozellikler:
 - - sıfat
 ornekler:

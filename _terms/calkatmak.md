@@ -5,7 +5,7 @@ slug: calkatmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalkalatmak
+- çalkalatmak
 ozellikler:
 - - -e
   - -i

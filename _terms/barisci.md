@@ -5,7 +5,7 @@ slug: barisci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► barışsever
+- barışsever
 - Barışı amaçlayan, barışı öngören
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: lakirti
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► söz
+- söz
 - Boş söz, dedikodu, laf
 ozellikler:
 - - isim

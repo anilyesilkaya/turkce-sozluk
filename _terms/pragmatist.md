@@ -5,7 +5,7 @@ slug: pragmatist
 letter: P
 lisan: Fransızca pragmatiste
 anlamlar:
-- ► pragmacı
+- pragmacı
 ozellikler:
 - - sıfat
   - felsefe

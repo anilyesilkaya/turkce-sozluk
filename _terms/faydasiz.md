@@ -5,7 +5,7 @@ slug: faydasiz
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararsız
+- yararsız
 ozellikler:
 - - sıfat
 ornekler:

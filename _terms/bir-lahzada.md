@@ -5,7 +5,7 @@ slug: bir-lahzada
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
   - eskimiş

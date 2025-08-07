@@ -5,7 +5,7 @@ slug: kitaplik-bilimi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kütüphanecilik
+- kütüphanecilik
 ozellikler:
 - - isim
 ornekler:

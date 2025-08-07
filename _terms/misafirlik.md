@@ -5,7 +5,7 @@ slug: misafirlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► konukluk
+- konukluk
 - Konuk için, konuğa özgü
 ozellikler:
 - - isim

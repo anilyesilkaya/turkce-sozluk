@@ -5,7 +5,7 @@ slug: diyaklaz
 letter: D
 lisan: Fransızca diaclase
 anlamlar:
-- ► çatlak
+- çatlak
 ozellikler:
 - - isim
   - jeoloji

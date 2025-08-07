@@ -6,7 +6,7 @@ letter: F
 lisan: Fransızca finaliste
 anlamlar:
 - Şampiyonu belirleyecek son yarışmaya kalan sporcu veya takım
-- ► erekçi
+- erekçi
 ozellikler:
 - - isim
 - - isim

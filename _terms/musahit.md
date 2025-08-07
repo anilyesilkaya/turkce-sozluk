@@ -5,7 +5,7 @@ slug: musahit
 letter: M
 lisan: Arapça muşāhid
 anlamlar:
-- ► gözlemci
+- gözlemci
 ozellikler:
 - - isim
   - eskimiş

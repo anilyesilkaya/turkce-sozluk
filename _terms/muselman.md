@@ -5,7 +5,7 @@ slug: muselman
 letter: M
 lisan: Arapça muslim + Farsça -ān
 anlamlar:
-- ► Müslüman
+- Müslüman
 ozellikler:
 - - isim
   - eskimiş

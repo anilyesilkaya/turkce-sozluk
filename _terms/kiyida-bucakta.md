@@ -5,7 +5,7 @@ slug: kiyida-bucakta
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kıyıda köşede
+- kıyıda köşede
 ozellikler:
 - - zarf
 ornekler:

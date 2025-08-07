@@ -5,7 +5,7 @@ slug: amade
 letter: A
 lisan: Farsça āmāde
 anlamlar:
-- ► hazır
+- hazır
 ozellikler:
 - - sıfat
   - eskimiş

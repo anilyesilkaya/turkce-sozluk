@@ -5,8 +5,8 @@ slug: mevkufiyet
 letter: M
 lisan: Arapça mevḳūfiyyet
 anlamlar:
-- ► tutukluluk
-- ► alıkonulma
+- tutukluluk
+- alıkonulma
 ozellikler:
 - - isim
   - eskimiş

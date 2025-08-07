@@ -5,7 +5,7 @@ slug: moldovan
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Moldovalı
+- Moldovalı
 ozellikler:
 - - isim
 ornekler:

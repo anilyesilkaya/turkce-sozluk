@@ -5,7 +5,7 @@ slug: hazzetmek
 letter: H
 lisan: Arapça ḥaẓẓ + Türkçe etmek
 anlamlar:
-- ► hoşlanmak
+- hoşlanmak
 ozellikler:
 - - -den
 ornekler:

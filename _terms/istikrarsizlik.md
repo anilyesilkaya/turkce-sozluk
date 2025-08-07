@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İstikrarsız olma durumu
-- ► zikzak
+- zikzak
 ozellikler:
 - - isim
 - - isim

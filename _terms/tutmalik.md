@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tutmaya yarayan nesne
-- ► krampon
+- krampon
 ozellikler:
 - - isim
 - - isim

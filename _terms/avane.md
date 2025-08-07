@@ -5,8 +5,8 @@ slug: avane
 letter: A
 lisan: Arapça ʿavene
 anlamlar:
-- ► yardakçı
-- ► yardımcı
+- yardakçı
+- yardımcı
 ozellikler:
 - - isim
   - eskimiş

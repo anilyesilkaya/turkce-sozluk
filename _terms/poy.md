@@ -5,7 +5,7 @@ slug: poy
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► boy otu
+- boy otu
 ozellikler:
 - - isim
   - bitki bilimi

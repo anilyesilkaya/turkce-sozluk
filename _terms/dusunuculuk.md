@@ -5,7 +5,7 @@ slug: dusunuculuk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► düşünürlük
+- düşünürlük
 ozellikler:
 - - isim
 ornekler:

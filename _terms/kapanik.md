@@ -8,7 +8,7 @@ anlamlar:
 - Kapanmış
 - Sisli, bulutlu olan
 - İç karartıcı, ruh sıkıcı olan
-- ► kaçınık
+- kaçınık
 ozellikler:
 - - sıfat
 - - sıfat

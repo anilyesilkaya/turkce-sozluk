@@ -5,7 +5,7 @@ slug: haris
 letter: H
 lisan: Arapça ḥarīṣ
 anlamlar:
-- ► açgözlü
+- açgözlü
 ozellikler:
 - - sıfat
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyi bir yere bırakmak, belli bir yere yerleştirmek
 - Bir kimseyi işe yerleştirmek, birine iş sağlamak
 - Gitmesine engel olmamak, gitmesine izin vermek; bırakmak
-- ► eklemek
+- eklemek
 - İmza, tarih, adres yazmak
 - Uyulması gereken kuralları belirlemek, ortaya çıkarmak; vazetmek
 - Etkilemek, dokunmak

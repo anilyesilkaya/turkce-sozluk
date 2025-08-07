@@ -5,7 +5,7 @@ slug: vaktikerahet
 letter: V
 lisan: Arapça vaḳt + kerāhet
 anlamlar:
-- ► kerahet vakti
+- kerahet vakti
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: el-ulakligi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yamaklık
+- yamaklık
 ozellikler:
 - - isim
 ornekler:

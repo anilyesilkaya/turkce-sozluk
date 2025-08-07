@@ -5,7 +5,7 @@ slug: duvarsedefi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dalak otu
+- dalak otu
 ozellikler:
 - - isim
   - bitki bilimi

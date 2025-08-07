@@ -5,7 +5,7 @@ slug: ruhiyat
 letter: R
 lisan: Arapça rūḥiyyāt
 anlamlar:
-- ► psikoloji
+- psikoloji
 - Psikolojik durum
 ozellikler:
 - - isim

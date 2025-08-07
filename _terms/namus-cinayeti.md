@@ -6,7 +6,7 @@ letter: N
 lisan: Türkçe
 anlamlar:
 - Ahlak ve onuruna ters düşen bir durumdan kurtulmak için işlenen cinayet
-- ► töre cinayeti
+- töre cinayeti
 ozellikler:
 - - isim
 - - isim

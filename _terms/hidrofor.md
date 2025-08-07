@@ -5,7 +5,7 @@ slug: hidrofor
 letter: H
 lisan: Fransızca hydrophore
 anlamlar:
-- ► subasar
+- subasar
 ozellikler:
 - - isim
 ornekler:

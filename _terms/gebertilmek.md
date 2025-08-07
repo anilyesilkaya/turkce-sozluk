@@ -5,7 +5,7 @@ slug: gebertilmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► öldürülmek
+- öldürülmek
 ozellikler:
 - - nesnesiz
   - teklifsiz konuşmada

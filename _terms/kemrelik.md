@@ -5,7 +5,7 @@ slug: kemrelik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gübrelik
+- gübrelik
 ozellikler:
 - - isim
 ornekler:

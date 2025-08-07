@@ -5,7 +5,7 @@ slug: hodkamlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bencillik
+- bencillik
 ozellikler:
 - - isim
 ornekler:

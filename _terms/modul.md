@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca module
 anlamlar:
 - Bir uzay taşıtının yapısı içinde yer alan ve kendi başına hareket edebilen bağımsız bölüm
-- ► parça
+- parça
 - Bir yapının çeşitli bölümleri arasında orantıyı sağlamak için kullanılan ölçü birimi
 - Herhangi bir mekanik özelliği belirten katsayı
 ozellikler:

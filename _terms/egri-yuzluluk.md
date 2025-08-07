@@ -5,7 +5,7 @@ slug: egri-yuzluluk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► asık suratlılık
+- asık suratlılık
 ozellikler:
 - - isim
 ornekler:

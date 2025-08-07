@@ -5,7 +5,7 @@ slug: kayetmek
 letter: K
 lisan: Arapça ḳayʾ + Türkçe etmek
 anlamlar:
-- ► kusmak
+- kusmak
 ozellikler:
 - - -i
 ornekler:

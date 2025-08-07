@@ -5,7 +5,7 @@ slug: basyapit
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şaheser
+- şaheser
 ozellikler:
 - - isim
 ornekler:

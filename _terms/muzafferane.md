@@ -5,7 +5,7 @@ slug: muzafferane
 letter: M
 lisan: Arapça muẓaffer + Farsça -āne
 anlamlar:
-- ► muzafferce
+- muzafferce
 ozellikler:
 - - zarf
   - eskimiş

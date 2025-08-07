@@ -5,7 +5,7 @@ slug: demci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sarhoş
+- sarhoş
 ozellikler:
 - - isim
 ornekler:

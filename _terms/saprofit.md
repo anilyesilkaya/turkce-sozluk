@@ -5,7 +5,7 @@ slug: saprofit
 letter: S
 lisan: Fransızca saprophyte
 anlamlar:
-- ► çürükçül
+- çürükçül
 ozellikler:
 - - sıfat
   - biyoloji

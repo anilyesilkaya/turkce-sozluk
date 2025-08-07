@@ -5,7 +5,7 @@ slug: luzumsuzluk
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gereksizlik
+- gereksizlik
 ozellikler:
 - - isim
 ornekler:

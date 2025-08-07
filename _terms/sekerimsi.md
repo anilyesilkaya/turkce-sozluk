@@ -5,7 +5,7 @@ slug: sekerimsi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şekersi
+- şekersi
 ozellikler:
 - - sıfat
 ornekler:

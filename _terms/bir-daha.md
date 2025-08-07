@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir defa daha
-- ► yeni baştan
+- yeni baştan
 - Bundan sonra
 ozellikler:
 - - zarf

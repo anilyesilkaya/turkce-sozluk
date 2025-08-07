@@ -5,7 +5,7 @@ slug: mesuliyetsizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorumsuzluk
+- sorumsuzluk
 ozellikler:
 - - isim
 ornekler:

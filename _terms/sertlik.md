@@ -8,7 +8,7 @@ anlamlar:
 - Sert, katı olma durumu; berklik
 - Sert, kırıcı, katı davranış; şiddet, huşunet
 - Minerallerin çizilmeye karşı gösterdikleri direnç
-- ► tonsuzluk
+- tonsuzluk
 ozellikler:
 - - isim
 - - isim

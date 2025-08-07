@@ -5,7 +5,7 @@ slug: ovuculuk
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► övgücülük
+- övgücülük
 ozellikler:
 - - isim
 ornekler:

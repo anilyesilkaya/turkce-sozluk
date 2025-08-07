@@ -8,7 +8,7 @@ anlamlar:
 - '"Kıkır kıkır" diye ses çıkararak gülmek'
 - Donacak kadar üşümek
 - Soğuktan donmak
-- ► ölmek
+- ölmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

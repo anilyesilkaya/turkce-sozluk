@@ -5,7 +5,7 @@ slug: ruhi
 letter: R
 lisan: Arapça rūḥī
 anlamlar:
-- ► ruhsal
+- ruhsal
 ozellikler:
 - - sıfat
 ornekler:

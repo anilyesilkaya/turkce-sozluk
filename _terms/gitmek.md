@@ -15,16 +15,16 @@ anlamlar:
 - Götürülmek, gönderilmek
 - Yeter olmak, yetmek, yetişmek
 - Yürümek, yol almak
-- ► dayanmak
+- dayanmak
 - Sona ermek
 - Herhangi bir durumda olmak
 - Yok olmak, elden çıkmak
-- ► ölmek
-- ► başvurmak
+- ölmek
+- başvurmak
 - Bir şey zarar görmüş olmak
 - Makine, işlemek, çalışmak
-- ► satılmak
-- ► yapmak
+- satılmak
+- yapmak
 - Bir duruma, bir sonuca ulaşmak, varmak; yuvarlanmak
 - Değerlendirmek, saymak, karşılamak
 ozellikler:

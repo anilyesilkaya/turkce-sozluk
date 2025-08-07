@@ -5,7 +5,7 @@ slug: ilkten
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilk önce
+- ilk önce
 ozellikler:
 - - zarf
   - ağızlardan

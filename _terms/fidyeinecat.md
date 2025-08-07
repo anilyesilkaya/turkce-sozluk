@@ -5,7 +5,7 @@ slug: fidyeinecat
 letter: F
 lisan: Arapça fidye + necāt
 anlamlar:
-- ► fidye
+- fidye
 ozellikler:
 - - eskimiş
 ornekler:

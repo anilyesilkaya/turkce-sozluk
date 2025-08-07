@@ -5,7 +5,7 @@ slug: komunikasyon
 letter: K
 lisan: Fransızca communication
 anlamlar:
-- ► iletişim
+- iletişim
 ozellikler:
 - - isim
   - teknik

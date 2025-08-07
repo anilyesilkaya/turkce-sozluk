@@ -5,7 +5,7 @@ slug: bordro
 letter: B
 lisan: Fransızca bordereau
 anlamlar:
-- ► maaş bordrosu
+- maaş bordrosu
 ozellikler:
 - - isim
 ornekler:

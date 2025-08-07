@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Onurlanmak işi
-- ► şereflenme
+- şereflenme
 ozellikler:
 - - isim
 - - isim

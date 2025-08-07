@@ -5,7 +5,7 @@ slug: yeni-yetme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ergen
+- ergen
 - Toy, acemi
 ozellikler:
 - - sıfat

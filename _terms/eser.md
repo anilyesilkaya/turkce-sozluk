@@ -6,7 +6,7 @@ letter: E
 lisan: Arapça es̱er
 anlamlar:
 - Emek sonucu ortaya konan ürün; yapıt
-- ► iz
+- iz
 - Soyut kavramlarda belirti
 ozellikler:
 - - isim

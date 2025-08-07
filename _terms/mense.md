@@ -5,7 +5,7 @@ slug: mense
 letter: M
 lisan: Arapça menşeʾ
 anlamlar:
-- ► köken
+- köken
 ozellikler:
 - - isim
   - eskimiş

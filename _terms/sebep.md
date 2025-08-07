@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça sebeb
 anlamlar:
 - Bir şeyin olmasına veya belli bir hâlde bulunmasına yol açan şey; neden, saik, saika, vesile
-- ► neden
+- neden
 ozellikler:
 - - isim
 - - isim

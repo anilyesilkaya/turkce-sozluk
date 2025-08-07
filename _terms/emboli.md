@@ -5,7 +5,7 @@ slug: emboli
 letter: E
 lisan: Fransızca embolie
 anlamlar:
-- ► damar tıkanıklığı
+- damar tıkanıklığı
 ozellikler:
 - - isim
   - tıp

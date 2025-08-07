@@ -5,7 +5,7 @@ slug: imaj
 letter: I
 lisan: Fransızca image
 anlamlar:
-- ► imge
+- imge
 ozellikler:
 - - isim
 ornekler:

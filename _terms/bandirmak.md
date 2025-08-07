@@ -5,7 +5,7 @@ slug: bandirmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► banmak
+- banmak
 - Üzüm salkımlarını, inciri çabuk kuruması ve renginin parlak olması için küllü veya potaslı ılık suya daldırıp çıkarmak
 ozellikler:
 - - -e

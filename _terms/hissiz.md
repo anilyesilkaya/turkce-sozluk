@@ -5,7 +5,7 @@ slug: hissiz
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygusuz
+- duygusuz
 ozellikler:
 - - sıfat
 ornekler:

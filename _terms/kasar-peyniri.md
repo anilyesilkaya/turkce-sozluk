@@ -5,7 +5,7 @@ slug: kasar-peyniri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaşar
+- kaşar
 ozellikler:
 - - isim
 ornekler:

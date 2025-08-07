@@ -5,7 +5,7 @@ slug: zumruduanka
 letter: Z
 lisan: Farsça sī + murġ + Arapça ʿanḳā
 anlamlar:
-- ► Anka
+- Anka
 ozellikler:
 - - isim
 ornekler:

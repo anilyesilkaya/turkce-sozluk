@@ -5,7 +5,7 @@ slug: affediverme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlayıverme
+- bağışlayıverme
 ozellikler:
 - - isim
 ornekler:

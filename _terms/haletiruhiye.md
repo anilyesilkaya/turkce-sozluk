@@ -5,7 +5,7 @@ slug: haletiruhiye
 letter: H
 lisan: Arapça ḥālet + rūḥiyye
 anlamlar:
-- ► ruhsal durum
+- ruhsal durum
 ozellikler:
 - - isim
   - eskimiş

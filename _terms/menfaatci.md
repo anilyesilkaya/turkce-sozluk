@@ -5,7 +5,7 @@ slug: menfaatci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çıkarcı
+- çıkarcı
 ozellikler:
 - - isim
 ornekler:

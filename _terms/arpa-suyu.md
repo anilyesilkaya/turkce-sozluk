@@ -5,7 +5,7 @@ slug: arpa-suyu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bira
+- bira
 ozellikler:
 - - isim
   - mecaz

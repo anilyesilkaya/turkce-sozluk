@@ -5,7 +5,7 @@ slug: kursor
 letter: K
 lisan: Fransızca curseur
 anlamlar:
-- ► imleç
+- imleç
 ozellikler:
 - - isim
 ornekler:

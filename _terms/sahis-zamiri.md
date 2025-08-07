@@ -5,7 +5,7 @@ slug: sahis-zamiri
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kişi zamiri
+- kişi zamiri
 ozellikler:
 - - isim
   - dil bilgisi

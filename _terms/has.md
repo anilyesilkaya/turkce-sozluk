@@ -5,11 +5,11 @@ slug: has
 letter: H
 lisan: Arapça ḫāṣṣ
 anlamlar:
-- ► özgü
-- ► saf (II)
+- özgü
+- saf (II)
 - Hükümdara özgü olan
 - İyi nitelikleri kendinde toplamış olan (kimse)
-- ► başmaklık
+- başmaklık
 - Yıllık geliri yüz bin akçeyi aşan dirlik
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: yaban-sumbulu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kedi nanesi
+- kedi nanesi
 ozellikler:
 - - isim
   - bitki bilimi

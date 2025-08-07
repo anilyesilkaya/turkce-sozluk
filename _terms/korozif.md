@@ -5,7 +5,7 @@ slug: korozif
 letter: K
 lisan: Fransızca corrosive
 anlamlar:
-- ► aşındırıcı
+- aşındırıcı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: antropoit
 letter: A
 lisan: Fransızca anthropoïde
 anlamlar:
-- ► insansı
+- insansı
 ozellikler:
 - - sıfat
 ornekler:

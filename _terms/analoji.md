@@ -5,9 +5,9 @@ slug: analoji
 letter: A
 lisan: Fransızca analogie
 anlamlar:
-- ► benzeşim
-- ► örnekseme
-- ► andırışma
+- benzeşim
+- örnekseme
+- andırışma
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Kükürtle birleştirmek için yapılan işlem
-- ► kükürtleme
+- kükürtleme
 ozellikler:
 - - isim
   - kimya

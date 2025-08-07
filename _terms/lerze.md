@@ -5,7 +5,7 @@ slug: lerze
 letter: L
 lisan: Farsça lerze
 anlamlar:
-- ► titreme
+- titreme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: nasyonalizm
 letter: N
 lisan: Fransızca nationalisme
 anlamlar:
-- ► milliyetçilik
+- milliyetçilik
 ozellikler:
 - - isim
 ornekler:

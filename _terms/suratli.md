@@ -5,7 +5,7 @@ slug: suratli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yüzlü
+- yüzlü
 ozellikler:
 - - sıfat
 ornekler:

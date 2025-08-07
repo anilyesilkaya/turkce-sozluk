@@ -5,7 +5,7 @@ slug: kiymetlenmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerlenmek
+- değerlenmek
 ozellikler:
 - - nesnesiz
 ornekler:

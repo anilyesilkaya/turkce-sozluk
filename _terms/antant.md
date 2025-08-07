@@ -5,8 +5,8 @@ slug: antant
 letter: A
 lisan: Fransızca entente
 anlamlar:
-- ► anlaşma
-- ► uzlaşma
+- anlaşma
+- uzlaşma
 ozellikler:
 - - isim
 - - isim

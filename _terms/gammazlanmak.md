@@ -5,7 +5,7 @@ slug: gammazlanmak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ispiyonlanmak
+- ispiyonlanmak
 ozellikler:
 - - nesnesiz
 ornekler:

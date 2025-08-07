@@ -5,8 +5,8 @@ slug: ikaz
 letter: I
 lisan: Arapça īḳāẓ
 anlamlar:
-- ► uyarı
-- ► uyandırma
+- uyarı
+- uyandırma
 ozellikler:
 - - isim
 - - isim

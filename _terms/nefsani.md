@@ -5,7 +5,7 @@ slug: nefsani
 letter: N
 lisan: Arapça nefsānī
 anlamlar:
-- ► nefsî
+- nefsî
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: altimetre
 letter: A
 lisan: Fransızca altimètre
 anlamlar:
-- ► yükseklikölçer
+- yükseklikölçer
 ozellikler:
 - - isim
 ornekler:

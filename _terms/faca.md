@@ -6,7 +6,7 @@ letter: F
 lisan: İtalyanca faccia
 anlamlar:
 - İskambil destesinin en altındaki kâğıt
-- ► yüz (II)
+- yüz (II)
 - Kişinin genel görünümü, kılık kıyafeti
 - Yüklü geminin bordasındaki su düzeyi ile boş geminin bordasındaki su düzeyi arasında kalan bölüm
 - Yüzdeki bıçak yarası

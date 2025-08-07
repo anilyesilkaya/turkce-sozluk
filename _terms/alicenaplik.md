@@ -5,8 +5,8 @@ slug: alicenaplik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cömertlik
-- ► onur
+- cömertlik
+- onur
 ozellikler:
 - - isim
 - - isim

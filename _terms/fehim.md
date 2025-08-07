@@ -5,7 +5,7 @@ slug: fehim
 letter: F
 lisan: Arapça fehm
 anlamlar:
-- ► anlama
+- anlama
 ozellikler:
 - - isim
   - eskimiş

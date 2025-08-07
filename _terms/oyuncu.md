@@ -8,7 +8,7 @@ anlamlar:
 - Herhangi bir takımda oynayan sporcu
 - Sinema, perde veya bir gösteride rol alan sanatçı; aktör, aktris
 - Oyunu seven
-- ► hileci
+- hileci
 - Çok oyun yapan, oyundan oyuna geçen (kimse)
 ozellikler:
 - - isim

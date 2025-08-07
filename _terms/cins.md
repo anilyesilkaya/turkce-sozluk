@@ -5,8 +5,8 @@ slug: cins
 letter: C
 lisan: Arapça cins
 anlamlar:
-- ► tür
-- ► soy
+- tür
+- soy
 - Diğerlerine göre üstün nitelikleri olan
 - Garip, tuhaf olan
 - Pek çok ortak özelliği bulunan türler topluluğu

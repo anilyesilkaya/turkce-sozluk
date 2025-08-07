@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Süt çocuklarının neşelendikleri zaman çıkardıkları ses
-- ► agucuk
+- agucuk
 ozellikler:
 - - isim
 - - isim

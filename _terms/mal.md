@@ -9,8 +9,8 @@ anlamlar:
 - Büyükbaş hayvan
 - Alınıp satılabilen her türlü ticaret eşyası; emtia
 - Bayağı, aşağılık, kötü kimse
-- ► esrar (II)
-- ► fahişe
+- esrar (II)
+- fahişe
 ozellikler:
 - - isim
 - - isim

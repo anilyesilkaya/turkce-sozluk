@@ -5,7 +5,7 @@ slug: keke
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kekeme
+- kekeme
 ozellikler:
 - - sıfat
   - ağızlardan

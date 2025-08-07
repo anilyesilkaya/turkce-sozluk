@@ -5,7 +5,7 @@ slug: kilkiran
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► saçkıran
+- saçkıran
 ozellikler:
 - - isim
   - tıp

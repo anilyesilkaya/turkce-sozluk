@@ -5,7 +5,7 @@ slug: yel
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► rüzgâr
+- rüzgâr
 - Romatizma ağrısı
 - Kalın bağırsaktaki gaz
 ozellikler:

@@ -5,7 +5,7 @@ slug: firak
 letter: F
 lisan: Arapça firāḳ
 anlamlar:
-- ► ayrılık
+- ayrılık
 ozellikler:
 - - isim
   - eskimiş

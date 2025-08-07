@@ -5,7 +5,7 @@ slug: vasektomi
 letter: V
 lisan: Fransızca vasectomie
 anlamlar:
-- ► kısırlaştırma
+- kısırlaştırma
 ozellikler:
 - - isim
 ornekler:

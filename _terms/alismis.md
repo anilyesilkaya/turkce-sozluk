@@ -5,7 +5,7 @@ slug: alismis
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alışkın
+- alışkın
 ozellikler:
 - - sıfat
 ornekler:

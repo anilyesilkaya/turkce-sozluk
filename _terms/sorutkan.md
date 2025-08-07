@@ -5,7 +5,7 @@ slug: sorutkan
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► somurtkan
+- somurtkan
 ozellikler:
 - - sıfat
 ornekler:

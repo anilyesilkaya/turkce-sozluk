@@ -5,7 +5,7 @@ slug: talimat
 letter: T
 lisan: Arapça taʿlīmāt
 anlamlar:
-- ► yönerge
+- yönerge
 - Görevin gerektirdiği türlü hizmetlerin başarıyla yürütülmesi için kumandan, başkan veya daire başkanları tarafından verilen, o hizmetle ilgili sorumluluk, düzen ve ilkeleri içine alan buyruklar
 ozellikler:
 - - isim

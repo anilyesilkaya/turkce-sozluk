@@ -5,7 +5,7 @@ slug: is-akdi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iş sözleşmesi
+- iş sözleşmesi
 ozellikler:
 - - isim
   - hukuk

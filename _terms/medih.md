@@ -5,7 +5,7 @@ slug: medih
 letter: M
 lisan: Arapça medḥ
 anlamlar:
-- ► övme
+- övme
 ozellikler:
 - - isim
 ornekler:

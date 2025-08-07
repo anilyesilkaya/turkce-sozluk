@@ -5,7 +5,7 @@ slug: fotometri
 letter: F
 lisan: Fransızca photométrie
 anlamlar:
-- ► ışık ölçümü
+- ışık ölçümü
 ozellikler:
 - - isim
   - fizik

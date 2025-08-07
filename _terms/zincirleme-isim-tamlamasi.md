@@ -5,7 +5,7 @@ slug: zincirleme-isim-tamlamasi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zincirleme ad tamlaması
+- zincirleme ad tamlaması
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: taktir
 letter: T
 lisan: Arapça taḳṭīr
 anlamlar:
-- ► damıtma
+- damıtma
 ozellikler:
 - - isim
   - eskimiş

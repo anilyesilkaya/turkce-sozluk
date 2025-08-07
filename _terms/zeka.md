@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça ẕekāʾ
 anlamlar:
 - İnsanın düşünme, akıl yürütme, öğrenme, kavramları ve nesneleri zihinde canlandırabilme, objektif gerçekleri algılama, yargılama, sonuç çıkarma, bedeni kontrol edebilme, duyguları doğru algılayabilme, değerlendirebilme, icat edebilme vb. yeteneklerinin ve becerilerinin tamamı; anlak, dirayet, feraset
-- ► kafa
+- kafa
 ozellikler:
 - - isim
   - ruh bilimi

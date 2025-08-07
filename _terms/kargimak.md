@@ -5,7 +5,7 @@ slug: kargimak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ilenmek
+- ilenmek
 ozellikler:
 - - -i
   - ağızlardan

@@ -5,7 +5,7 @@ slug: pigment
 letter: P
 lisan: Fransızca pigment
 anlamlar:
-- ► boyar madde
+- boyar madde
 ozellikler:
 - - isim
   - biyoloji

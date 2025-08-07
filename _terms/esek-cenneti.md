@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Ölüm sonrasındaki dünya
-- ► zindan
+- zindan
 ozellikler:
 - - isim
   - argo

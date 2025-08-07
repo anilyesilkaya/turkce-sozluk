@@ -6,12 +6,12 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir halkın hâkim olduğu, üzerinde yaşadığı, kültürünü oluşturduğu toprak parçası; el (III), il, dar (III), vatan
-- ► memleket
+- memleket
 - Bakıma ve barınmaya muhtaç bir grup insanın oturduğu, yetiştirildiği veya bakıldığı kurum
 - Sahip olunan arazi; emlak
 - Göçebe Türklerin oturduğu çadır
 - Öğrencilerin kaldığı, barındığı yer
-- ► diyar
+- diyar
 - Ana vatan olan yer
 - Yörüklerin yazın veya kışın oturdukları yer
 ozellikler:

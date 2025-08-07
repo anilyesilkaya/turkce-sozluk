@@ -5,7 +5,7 @@ slug: kaliklik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► eksiklik
+- eksiklik
 - Kalık olma durumu
 ozellikler:
 - - isim

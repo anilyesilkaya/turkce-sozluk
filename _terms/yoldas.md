@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yol arkadaşı
-- ► arkadaş
+- arkadaş
 - Eşlerden her biri
 - Ortak bir görüşü benimseyenlerden her biri
 ozellikler:

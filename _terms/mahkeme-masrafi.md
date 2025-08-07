@@ -5,7 +5,7 @@ slug: mahkeme-masrafi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dava gideri
+- dava gideri
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: gamsiz
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygısız
+- kaygısız
 - Olayları kendine dert etmeden geçiştiren, aldırış etmeyen; tasasız
 ozellikler:
 - - sıfat

@@ -6,7 +6,7 @@ letter: O
 lisan: Fransızca optimum
 anlamlar:
 - En uygun, en elverişli
-- ► uygun değer
+- uygun değer
 ozellikler:
 - - sıfat
 - - sıfat

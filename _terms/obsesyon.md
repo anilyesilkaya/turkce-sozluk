@@ -5,7 +5,7 @@ slug: obsesyon
 letter: O
 lisan: İngilizce obsession
 anlamlar:
-- ► takıntı
+- takıntı
 ozellikler:
 - - isim
   - ruh bilimi

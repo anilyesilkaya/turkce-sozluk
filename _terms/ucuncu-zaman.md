@@ -5,7 +5,7 @@ slug: ucuncu-zaman
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► Üçüncü Çağ
+- Üçüncü Çağ
 ozellikler:
 - - isim
   - jeoloji

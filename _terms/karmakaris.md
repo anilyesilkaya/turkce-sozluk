@@ -5,7 +5,7 @@ slug: karmakaris
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karmakarışık
+- karmakarışık
 ozellikler:
 - - sıfat
 ornekler:

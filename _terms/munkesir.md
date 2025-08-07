@@ -5,7 +5,7 @@ slug: munkesir
 letter: M
 lisan: Arapça munkesir
 anlamlar:
-- ► kırık (I)
+- kırık (I)
 - Kırgın, gücenmiş
 ozellikler:
 - - sıfat

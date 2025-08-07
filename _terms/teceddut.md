@@ -5,7 +5,7 @@ slug: teceddut
 letter: T
 lisan: Arapça teceddud
 anlamlar:
-- ► yenilik
+- yenilik
 ozellikler:
 - - isim
   - eskimiş

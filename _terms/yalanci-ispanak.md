@@ -5,7 +5,7 @@ slug: yalanci-ispanak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sirken
+- sirken
 ozellikler:
 - - isim
   - bitki bilimi

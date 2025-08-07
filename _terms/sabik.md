@@ -5,7 +5,7 @@ slug: sabik
 letter: S
 lisan: Arapça sābiḳ
 anlamlar:
-- ► önceki
+- önceki
 ozellikler:
 - - sıfat
 ornekler:

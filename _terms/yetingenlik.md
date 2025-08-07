@@ -5,7 +5,7 @@ slug: yetingenlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kanaatkârlık
+- kanaatkârlık
 ozellikler:
 - - isim
 ornekler:

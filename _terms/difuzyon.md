@@ -5,8 +5,8 @@ slug: difuzyon
 letter: D
 lisan: Fransızca diffusion
 anlamlar:
-- ► geçişme
-- ► yayılım
+- geçişme
+- yayılım
 ozellikler:
 - - isim
   - fizik

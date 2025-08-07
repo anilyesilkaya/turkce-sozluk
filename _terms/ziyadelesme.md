@@ -5,7 +5,7 @@ slug: ziyadelesme
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► çoğalma
+- çoğalma
 ozellikler:
 - - isim
 ornekler:

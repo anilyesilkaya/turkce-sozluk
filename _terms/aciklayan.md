@@ -5,7 +5,7 @@ slug: aciklayan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açıklanan
+- açıklanan
 ozellikler:
 - - isim
   - mantık

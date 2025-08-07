@@ -5,7 +5,7 @@ slug: fazlaca
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► çokça
+- çokça
 ozellikler:
 - - zarf
 ornekler:

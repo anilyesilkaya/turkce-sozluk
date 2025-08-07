@@ -5,7 +5,7 @@ slug: imtizacsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uyumsuzluk
+- uyumsuzluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: cerh
 letter: C
 lisan: Arapça cerḥ
 anlamlar:
-- ► yaralama
+- yaralama
 - Bir düşünce, inanç veya iddiayı çürütme
 ozellikler:
 - - isim

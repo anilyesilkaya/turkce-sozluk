@@ -5,7 +5,7 @@ slug: fitir-sadakasi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fitre
+- fitre
 ozellikler:
 - - isim
   - din bilimi

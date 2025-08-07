@@ -5,7 +5,7 @@ slug: kumluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kumsal
+- kumsal
 - Kumu çok olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: fatalist
 letter: F
 lisan: Fransızca fataliste
 anlamlar:
-- ► yazgıcı
+- yazgıcı
 ozellikler:
 - - sıfat
   - felsefe

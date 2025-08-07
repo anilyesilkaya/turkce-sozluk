@@ -5,7 +5,7 @@ slug: iftihar
 letter: I
 lisan: Arapça iftiḫār
 anlamlar:
-- ► övünme
+- övünme
 ozellikler:
 - - isim
 ornekler:

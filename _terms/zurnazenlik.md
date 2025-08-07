@@ -5,7 +5,7 @@ slug: zurnazenlik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zurnacılık
+- zurnacılık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: butuncul
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► totaliter
+- totaliter
 - Bütüne önem veren, bütünü gören, bir konuyu bütün olarak değerlendiren, bütünü esas alan; holistik
 - Birbirini tamamlayan, birlikte bir bütün oluşturan
 ozellikler:

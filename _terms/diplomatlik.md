@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Diplomat olma durumu
-- ► diplomasi
+- diplomasi
 ozellikler:
 - - isim
 - - isim

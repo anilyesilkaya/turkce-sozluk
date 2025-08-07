@@ -5,7 +5,7 @@ slug: perisani
 letter: P
 lisan: Farsça perīşān + ī
 anlamlar:
-- ► perişanlık
+- perişanlık
 - Külah, kavuk, fes vb. bir başlığa özensizce sarılmış sarık
 ozellikler:
 - - isim

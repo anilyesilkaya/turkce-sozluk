@@ -5,7 +5,7 @@ slug: eylemsi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► fiilimsi
+- fiilimsi
 ozellikler:
 - - isim
   - dil bilgisi

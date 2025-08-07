@@ -5,7 +5,7 @@ slug: giybet
 letter: G
 lisan: Arapça ġiybet
 anlamlar:
-- ► dedikodu
+- dedikodu
 ozellikler:
 - - isim
 ornekler:

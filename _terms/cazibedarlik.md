@@ -5,7 +5,7 @@ slug: cazibedarlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► çekicilik
+- çekicilik
 ozellikler:
 - - isim
 ornekler:

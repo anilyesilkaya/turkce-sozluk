@@ -6,7 +6,7 @@ letter: G
 lisan: Arapça ġalaṭ
 anlamlar:
 - Yanlış kelime veya söz
-- ► yanılma
+- yanılma
 ozellikler:
 - - isim
 - - isim

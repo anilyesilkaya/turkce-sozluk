@@ -5,7 +5,7 @@ slug: rabit
 letter: R
 lisan: Arapça rābīṭ
 anlamlar:
-- ► bağlaç
+- bağlaç
 ozellikler:
 - - isim
   - eskimiş

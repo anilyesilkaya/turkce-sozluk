@@ -5,7 +5,7 @@ slug: basvekalet
 letter: B
 lisan: Türkçe baş + Arapça vekālet
 anlamlar:
-- ► başbakanlık
+- başbakanlık
 ozellikler:
 - - isim
 ornekler:

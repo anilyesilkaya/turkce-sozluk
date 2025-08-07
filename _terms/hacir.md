@@ -5,7 +5,7 @@ slug: hacir
 letter: H
 lisan: Arapça ḥacr
 anlamlar:
-- ► kısıt
+- kısıt
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: du
 letter: D
 lisan: Farsça dū
 anlamlar:
-- ► iki
+- iki
 ozellikler:
 - - isim
 ornekler:

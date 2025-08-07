@@ -5,7 +5,7 @@ slug: muennes
 letter: M
 lisan: Arapça muʾennes̱
 anlamlar:
-- ► dişil
+- dişil
 ozellikler:
 - - sıfat
   - eskimiş

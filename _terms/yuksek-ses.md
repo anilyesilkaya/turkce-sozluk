@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Uzaktan işitilecek nitelikte ses
-- ► ince ses
+- ince ses
 - Kuvvetli ses
 ozellikler:
 - - isim

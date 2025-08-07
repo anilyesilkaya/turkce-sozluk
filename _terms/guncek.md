@@ -5,7 +5,7 @@ slug: guncek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► şemsiye
+- şemsiye
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: hemoroitli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► basurlu
+- basurlu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: mutemadiyen
 letter: M
 lisan: Arapça mutemādiyen
 anlamlar:
-- ► aralıksız
-- ► sürekli
+- aralıksız
+- sürekli
 ozellikler:
 - - zarf
 - - zarf

@@ -5,7 +5,7 @@ slug: viyolonselist
 letter: V
 lisan: Fransızca violoncelliste
 anlamlar:
-- ► viyolonselci
+- viyolonselci
 ozellikler:
 - - isim
 ornekler:

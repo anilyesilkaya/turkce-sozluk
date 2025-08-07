@@ -5,7 +5,7 @@ slug: selektif
 letter: S
 lisan: Fransızca sélectif
 anlamlar:
-- ► seçmeli
+- seçmeli
 ozellikler:
 - - sıfat
 ornekler:

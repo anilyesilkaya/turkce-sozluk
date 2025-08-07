@@ -5,7 +5,7 @@ slug: kaymak-takimi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaymak tabakası
+- kaymak tabakası
 ozellikler:
 - - isim
 ornekler:

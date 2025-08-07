@@ -6,11 +6,11 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gediği olan
-- ► müdavim
+- müdavim
 - Bulunduğu makam veya mevkiyi ısrarla bırakmayan
 - Görev ve sorumluluk hiyerarşisi içinde eski ve kıdemli (kimse)
 - Eskiden ordunun orta kademe eleman ihtiyacını karşılayan, terfi almaksızın aynı görevde çalışan, bilgi ve becerisi gelişmiş olan (kimse)
-- ► astsubay
+- astsubay
 ozellikler:
 - - sıfat
 - - sıfat

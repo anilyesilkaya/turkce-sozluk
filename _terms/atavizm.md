@@ -5,7 +5,7 @@ slug: atavizm
 letter: A
 lisan: Fransızca atavisme
 anlamlar:
-- ► atacılık
+- atacılık
 ozellikler:
 - - isim
   - antropoloji

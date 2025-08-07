@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok ayaklılardan, sarımtırak renkte, zehirli bir böcek (Scolopendra)
-- ► hain
+- hain
 ozellikler:
 - - isim
   - hayvan bilimi

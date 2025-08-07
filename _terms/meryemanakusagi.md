@@ -5,7 +5,7 @@ slug: meryemanakusagi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
   - ağızlardan

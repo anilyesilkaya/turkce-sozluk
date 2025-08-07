@@ -5,7 +5,7 @@ slug: mirlanmak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mırıldanmak
+- mırıldanmak
 ozellikler:
 - - nesnesiz
 ornekler:

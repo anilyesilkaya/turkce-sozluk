@@ -5,7 +5,7 @@ slug: kakinc
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► öfke
+- öfke
 ozellikler:
 - - isim
   - ağızlardan

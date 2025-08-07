@@ -5,7 +5,7 @@ slug: hazarca
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Hazar Türkçesi
+- Hazar Türkçesi
 ozellikler:
 - - isim
 ornekler:

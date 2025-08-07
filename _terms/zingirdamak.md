@@ -5,7 +5,7 @@ slug: zingirdamak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zangırdamak
+- zangırdamak
 ozellikler:
 - - nesnesiz
 ornekler:

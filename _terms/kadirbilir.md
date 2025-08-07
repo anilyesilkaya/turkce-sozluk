@@ -5,7 +5,7 @@ slug: kadirbilir
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► değerbilir
+- değerbilir
 ozellikler:
 - - sıfat
 ornekler:

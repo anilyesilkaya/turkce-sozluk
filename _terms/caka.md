@@ -5,7 +5,7 @@ slug: caka
 letter: C
 lisan: İtalyanca giacca
 anlamlar:
-- ► gösteriş
+- gösteriş
 ozellikler:
 - - isim
   - argo

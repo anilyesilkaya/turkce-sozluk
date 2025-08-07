@@ -5,7 +5,7 @@ slug: bahtiyarlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► mutluluk
+- mutluluk
 ozellikler:
 - - isim
 ornekler:

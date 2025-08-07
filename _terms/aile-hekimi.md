@@ -5,7 +5,7 @@ slug: aile-hekimi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aile doktoru
+- aile doktoru
 - Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis ve tedavi edici sağlık hizmetleri sunan hekim
 ozellikler:
 - - isim

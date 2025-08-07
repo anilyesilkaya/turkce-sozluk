@@ -5,7 +5,7 @@ slug: nihayetinde
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonunda
+- sonunda
 ozellikler:
 - - zarf
 ornekler:

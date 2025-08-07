@@ -5,7 +5,7 @@ slug: ersiz
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kocasız
+- kocasız
 ozellikler:
 - - sıfat
 ornekler:

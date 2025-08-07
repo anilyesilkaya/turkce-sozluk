@@ -5,7 +5,7 @@ slug: kaniklanma
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yetinme
+- yetinme
 ozellikler:
 - - isim
 ornekler:

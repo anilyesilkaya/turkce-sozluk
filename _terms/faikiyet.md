@@ -5,7 +5,7 @@ slug: faikiyet
 letter: F
 lisan: Arapça fāʾiḳiyyet
 anlamlar:
-- ► üstünlük
+- üstünlük
 ozellikler:
 - - isim
   - eskimiş

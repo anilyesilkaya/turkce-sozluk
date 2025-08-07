@@ -5,7 +5,7 @@ slug: mazuryum
 letter: M
 lisan: Fransızca masurium
 anlamlar:
-- ► teknetyum
+- teknetyum
 ozellikler:
 - - isim
   - eskimiş

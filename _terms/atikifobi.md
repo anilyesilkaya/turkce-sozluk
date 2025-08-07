@@ -5,7 +5,7 @@ slug: atikifobi
 letter: A
 lisan: Fransızca atyciphobie
 anlamlar:
-- ► başarısızlık korkusu
+- başarısızlık korkusu
 ozellikler:
 - - isim
   - ruh bilimi

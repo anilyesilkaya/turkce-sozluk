@@ -5,7 +5,7 @@ slug: ananelesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gelenekleşme
+- gelenekleşme
 ozellikler:
 - - isim
 ornekler:

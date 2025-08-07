@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Pompası olan
-- ► pompalı tüfek
+- pompalı tüfek
 ozellikler:
 - - sıfat
 - - sıfat

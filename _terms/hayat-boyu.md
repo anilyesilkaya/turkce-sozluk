@@ -5,7 +5,7 @@ slug: hayat-boyu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► ömür boyu
+- ömür boyu
 ozellikler:
 - - zarf
 ornekler:

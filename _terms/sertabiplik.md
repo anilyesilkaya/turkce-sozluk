@@ -5,7 +5,7 @@ slug: sertabiplik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► başhekimlik
+- başhekimlik
 ozellikler:
 - - isim
 ornekler:

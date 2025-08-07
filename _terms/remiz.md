@@ -5,7 +5,7 @@ slug: remiz
 letter: R
 lisan: Arapça remz
 anlamlar:
-- ► simge
+- simge
 ozellikler:
 - - isim
   - eskimiş

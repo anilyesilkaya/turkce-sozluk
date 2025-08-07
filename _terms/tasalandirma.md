@@ -5,7 +5,7 @@ slug: tasalandirma
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygılandırma
+- kaygılandırma
 ozellikler:
 - - isim
 ornekler:

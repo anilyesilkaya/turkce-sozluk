@@ -5,8 +5,8 @@ slug: itikatli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► inançlı
-- ► imanlı
+- inançlı
+- imanlı
 ozellikler:
 - - sıfat
 - - sıfat

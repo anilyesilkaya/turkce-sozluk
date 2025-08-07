@@ -5,7 +5,7 @@ slug: meseleli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorunlu
+- sorunlu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: son-ek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ek
+- ek
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: encam
 letter: E
 lisan: Farsça encām
 anlamlar:
-- ► son
+- son
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca abscisse
 anlamlar:
 - Düzlemdeki bir noktayı belirten sıralı ikilinin birinci bileşeni
-- ► koordinat
+- koordinat
 ozellikler:
 - - isim
   - matematik

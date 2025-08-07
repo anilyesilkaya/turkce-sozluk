@@ -5,7 +5,7 @@ slug: asanlikla
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kolaylıkla
+- kolaylıkla
 ozellikler:
 - - zarf
 ornekler:

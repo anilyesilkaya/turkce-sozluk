@@ -6,7 +6,7 @@ letter: H
 lisan: Farsça henūz
 anlamlar:
 - Az önce; daha
-- ► hâlâ
+- hâlâ
 ozellikler:
 - - zarf
 - - zarf

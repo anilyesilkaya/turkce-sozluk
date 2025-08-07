@@ -5,8 +5,8 @@ slug: dejenerelik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► soysuzluk
-- ► yozluk
+- soysuzluk
+- yozluk
 ozellikler:
 - - isim
 - - isim

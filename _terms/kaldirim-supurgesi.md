@@ -5,7 +5,7 @@ slug: kaldirim-supurgesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► hayat kadını
+- hayat kadını
 ozellikler:
 - - isim
 ornekler:

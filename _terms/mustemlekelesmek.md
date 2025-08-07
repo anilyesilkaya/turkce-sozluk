@@ -5,7 +5,7 @@ slug: mustemlekelesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sömürgeleşmek
+- sömürgeleşmek
 ozellikler:
 - - -i
 ornekler:

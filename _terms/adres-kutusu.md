@@ -5,7 +5,7 @@ slug: adres-kutusu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► adres çubuğu
+- adres çubuğu
 ozellikler:
 - - isim
   - bilişim

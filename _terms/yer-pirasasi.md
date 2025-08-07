@@ -5,7 +5,7 @@ slug: yer-pirasasi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► aslankuyruğu
+- aslankuyruğu
 ozellikler:
 - - isim
   - bitki bilimi

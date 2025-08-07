@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Küf ve çürük gibi kokmak; tefessüh etmek
-- ► kokuşmak
+- kokuşmak
 - Tatsız duruma gelmek
 ozellikler:
 - - nesnesiz

@@ -5,9 +5,9 @@ slug: liva
 letter: L
 lisan: Arapça livā
 anlamlar:
-- ► sancak
-- ► tugay
-- ► tuğgeneral
+- sancak
+- tugay
+- tuğgeneral
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: femur
 letter: F
 lisan: Fransızca femur
 anlamlar:
-- ► uyluk kemiği
+- uyluk kemiği
 ozellikler:
 - - isim
 ornekler:

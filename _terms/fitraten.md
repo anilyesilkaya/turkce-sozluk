@@ -5,7 +5,7 @@ slug: fitraten
 letter: F
 lisan: Arapça fiṭraten
 anlamlar:
-- ► yaradılışça
+- yaradılışça
 ozellikler:
 - - zarf
   - eskimiş

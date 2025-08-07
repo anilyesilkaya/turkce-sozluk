@@ -5,8 +5,8 @@ slug: desarj
 letter: D
 lisan: Fransızca décharge
 anlamlar:
-- ► boşalma
-- ► rahatlama
+- boşalma
+- rahatlama
 ozellikler:
 - - isim
   - fizik

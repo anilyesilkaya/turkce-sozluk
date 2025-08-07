@@ -5,7 +5,7 @@ slug: cali-dikeni
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► karaçalı
+- karaçalı
 ozellikler:
 - - isim
   - bitki bilimi

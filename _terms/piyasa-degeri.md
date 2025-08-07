@@ -5,7 +5,7 @@ slug: piyasa-degeri
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► piyasa fiyatı
+- piyasa fiyatı
 ozellikler:
 - - isim
   - ticaret

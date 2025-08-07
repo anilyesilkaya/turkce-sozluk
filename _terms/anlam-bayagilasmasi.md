@@ -5,7 +5,7 @@ slug: anlam-bayagilasmasi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anlam kötüleşmesi
+- anlam kötüleşmesi
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: latifeci
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► şakacı
+- şakacı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tahta-havale
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tahta perde
+- tahta perde
 ozellikler:
 - - isim
 ornekler:

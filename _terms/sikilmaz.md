@@ -5,7 +5,7 @@ slug: sikilmaz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► utanmaz
+- utanmaz
 ozellikler:
 - - sıfat
 ornekler:

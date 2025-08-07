@@ -5,7 +5,7 @@ slug: ahlakiyet
 letter: A
 lisan: Arapça aḫlākiyyet
 anlamlar:
-- ► ahlaklılık
+- ahlaklılık
 ozellikler:
 - - isim
 ornekler:

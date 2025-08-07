@@ -7,7 +7,7 @@ lisan: Arapça taḳdīr
 anlamlar:
 - Beğenip belirtme, değer verme; beğeni
 - Bir şeyin değerini, önemini, gerekliliğini anlama
-- ► takdirname
+- takdirname
 - Değer biçme
 ozellikler:
 - - isim

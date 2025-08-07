@@ -5,7 +5,7 @@ slug: ararot-kamisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► maranta
+- maranta
 ozellikler:
 - - isim
   - bitki bilimi

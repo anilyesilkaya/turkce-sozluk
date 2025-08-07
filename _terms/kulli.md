@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça kullī
 anlamlar:
 - Bütüne ve genele ilişkin
-- ► tümel
+- tümel
 ozellikler:
 - - sıfat
   - eskimiş

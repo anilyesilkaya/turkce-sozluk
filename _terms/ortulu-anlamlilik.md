@@ -5,7 +5,7 @@ slug: ortulu-anlamlilik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► alt anlamlılık
+- alt anlamlılık
 ozellikler:
 - - isim
 ornekler:

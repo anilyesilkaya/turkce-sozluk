@@ -5,7 +5,7 @@ slug: tarumarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► darmadağınlık
+- darmadağınlık
 ozellikler:
 - - isim
 ornekler:

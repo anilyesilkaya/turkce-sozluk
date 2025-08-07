@@ -5,7 +5,7 @@ slug: affeyleme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlama
+- bağışlama
 ozellikler:
 - - isim
 ornekler:

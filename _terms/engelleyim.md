@@ -5,7 +5,7 @@ slug: engelleyim
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ambargo
+- ambargo
 ozellikler:
 - - isim
 ornekler:

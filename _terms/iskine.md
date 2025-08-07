@@ -5,7 +5,7 @@ slug: iskine
 letter: I
 lisan: Rumca
 anlamlar:
-- ► taş balığı
+- taş balığı
 ozellikler:
 - - isim
   - hayvan bilimi

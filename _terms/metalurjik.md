@@ -5,7 +5,7 @@ slug: metalurjik
 letter: M
 lisan: Fransızca métallurgique
 anlamlar:
-- ► metal bilimsel
+- metal bilimsel
 ozellikler:
 - - sıfat
 ornekler:

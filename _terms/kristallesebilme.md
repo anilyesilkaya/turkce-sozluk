@@ -5,7 +5,7 @@ slug: kristallesebilme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► billurlaşabilme
+- billurlaşabilme
 ozellikler:
 - - isim
 ornekler:

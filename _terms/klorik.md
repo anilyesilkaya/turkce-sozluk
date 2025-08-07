@@ -5,7 +5,7 @@ slug: klorik
 letter: K
 lisan: Fransızca chlorique
 anlamlar:
-- ► klorik asit
+- klorik asit
 ozellikler:
 - - isim
   - kimya

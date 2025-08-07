@@ -5,7 +5,7 @@ slug: mesleksel
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mesleki
+- mesleki
 ozellikler:
 - - sıfat
 ornekler:

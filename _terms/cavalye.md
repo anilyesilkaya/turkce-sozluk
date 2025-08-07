@@ -5,7 +5,7 @@ slug: cavalye
 letter: Ç
 lisan: İtalyanca cavagno
 anlamlar:
-- ► çavela
+- çavela
 ozellikler:
 - - isim
   - denizcilik

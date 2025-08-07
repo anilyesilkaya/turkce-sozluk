@@ -5,7 +5,7 @@ slug: bilinmez
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilinmeyen
+- bilinmeyen
 ozellikler:
 - - sıfat
   - matematik

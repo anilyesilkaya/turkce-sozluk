@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Torunu olan erkek; büyükbaba, büyükpeder
-- ► ata
+- ata
 - Mevlevi tarikatında çile doldurmuş olan dervişlere verilen ünvan
 - Yaşlı erkeklere söylenen bir seslenme sözü
 ozellikler:

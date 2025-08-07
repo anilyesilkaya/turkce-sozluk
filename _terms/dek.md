@@ -5,7 +5,7 @@ slug: dek
 letter: D
 lisan: Farsça dek
 anlamlar:
-- ► entrika
+- entrika
 ozellikler:
 - - isim
   - eskimiş

@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi ile gösterilmiş
-- ► doğrusal
+- doğrusal
 ozellikler:
 - - sıfat
 - - sıfat

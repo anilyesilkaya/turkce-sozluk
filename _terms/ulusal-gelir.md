@@ -5,7 +5,7 @@ slug: ulusal-gelir
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî gelir
+- millî gelir
 ozellikler:
 - - isim
 ornekler:

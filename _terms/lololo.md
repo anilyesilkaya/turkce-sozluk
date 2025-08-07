@@ -5,7 +5,7 @@ slug: lololo
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lolo
+- lolo
 - Göz alıcı ve gösterişli olma durumu
 ozellikler:
 - - isim

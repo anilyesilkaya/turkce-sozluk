@@ -5,7 +5,7 @@ slug: ev-hanimligi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ev kadınlığı
+- ev kadınlığı
 ozellikler:
 - - isim
 ornekler:

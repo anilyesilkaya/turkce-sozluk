@@ -5,7 +5,7 @@ slug: sikemperverlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► boğazına düşkünlük
+- boğazına düşkünlük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yemisci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► meyveci
+- meyveci
 ozellikler:
 - - isim
 ornekler:

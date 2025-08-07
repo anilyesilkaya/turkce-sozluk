@@ -5,7 +5,7 @@ slug: ruh-hekimi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikiyatr
+- psikiyatr
 ozellikler:
 - - isim
   - tıp

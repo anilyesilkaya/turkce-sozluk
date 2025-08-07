@@ -5,7 +5,7 @@ slug: genotip
 letter: G
 lisan: Fransızca génotype
 anlamlar:
-- ► soy yapısı
+- soy yapısı
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: moruklasma
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► yaşlanma
+- yaşlanma
 ozellikler:
 - - isim
   - argo

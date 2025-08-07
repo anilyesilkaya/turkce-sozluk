@@ -5,7 +5,7 @@ slug: pahalilanma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pahalanma
+- pahalanma
 ozellikler:
 - - isim
 ornekler:

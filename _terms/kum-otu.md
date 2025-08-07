@@ -5,7 +5,7 @@ slug: kum-otu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► uyuz otu
+- uyuz otu
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: inhisarci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tekelci
+- tekelci
 ozellikler:
 - - isim
 ornekler:

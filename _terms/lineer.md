@@ -5,7 +5,7 @@ slug: lineer
 letter: L
 lisan: Fransızca linéaire
 anlamlar:
-- ► doğrusal
+- doğrusal
 ozellikler:
 - - sıfat
   - matematik

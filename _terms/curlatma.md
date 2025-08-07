@@ -5,7 +5,7 @@ slug: curlatma
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► hızlandırma
+- hızlandırma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tatbilir
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► gurme
+- gurme
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: icin-icin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► gizli gizli
+- gizli gizli
 - İçten gelerek
 ozellikler:
 - - zarf

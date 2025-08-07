@@ -6,8 +6,8 @@ letter: S
 lisan: Arapça ṣarf
 anlamlar:
 - Harcama, tüketme, kullanma
-- ► biçim bilgisi
-- ► fiil çekimi
+- biçim bilgisi
+- fiil çekimi
 ozellikler:
 - - isim
 - - isim

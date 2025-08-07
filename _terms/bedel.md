@@ -5,10 +5,10 @@ slug: bedel
 letter: B
 lisan: Arapça bedel
 anlamlar:
-- ► fiyat
+- fiyat
 - Bir şeyin yerini tutabilen başka bir şey
 - Başkasının adına ve onun parası ile hacca giden kimse
-- ► denk (II)
+- denk (II)
 - Askerlik yapmamak veya yapılacak süreyi kısaltmak isteyenlerin devlete ödedikleri para
 - Bir ücret karşılığında çalışan kimse
 - Karşılık olarak

@@ -5,7 +5,7 @@ slug: basmurakiplik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başdenetçilik
+- başdenetçilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: klozet
 letter: K
 lisan: Fransızca closette
 anlamlar:
-- ► alafranga tuvalet
+- alafranga tuvalet
 ozellikler:
 - - isim
 ornekler:

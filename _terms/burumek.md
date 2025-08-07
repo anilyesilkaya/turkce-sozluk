@@ -5,7 +5,7 @@ slug: burumek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kaplamak
+- kaplamak
 - Çok, güçlü etkilemek
 ozellikler:
 - - -i

@@ -5,7 +5,7 @@ slug: dokmeci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dökümcü
+- dökümcü
 ozellikler:
 - - isim
 ornekler:

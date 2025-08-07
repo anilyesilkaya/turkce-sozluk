@@ -5,7 +5,7 @@ slug: bilgi-soleni
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sempozyum
+- sempozyum
 ozellikler:
 - - isim
 ornekler:

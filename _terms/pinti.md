@@ -5,7 +5,7 @@ slug: pinti
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► cimri
+- cimri
 ozellikler:
 - - sıfat
 ornekler:

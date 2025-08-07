@@ -5,7 +5,7 @@ slug: koknar-recinesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köknar sakızı
+- köknar sakızı
 ozellikler:
 - - isim
   - bitki bilimi

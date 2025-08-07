@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yüzey üzerinde yağın oluşturduğu tabaka
-- ► deri altı tabaka
+- deri altı tabaka
 ozellikler:
 - - isim
 - - isim

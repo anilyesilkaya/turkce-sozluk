@@ -5,7 +5,7 @@ slug: geri-kalmislik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► az gelişmişlik
+- az gelişmişlik
 ozellikler:
 - - isim
 ornekler:

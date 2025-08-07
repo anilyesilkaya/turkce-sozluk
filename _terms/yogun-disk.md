@@ -5,7 +5,7 @@ slug: yogun-disk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► disk
+- disk
 ozellikler:
 - - isim
   - bilişim

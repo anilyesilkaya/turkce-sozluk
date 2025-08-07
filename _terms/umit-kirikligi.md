@@ -5,7 +5,7 @@ slug: umit-kirikligi
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umut kırıklığı
+- umut kırıklığı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: muddei
 letter: M
 lisan: Arapça muddeʿī
 anlamlar:
-- ► davacı
+- davacı
 ozellikler:
 - - sıfat
   - eskimiş

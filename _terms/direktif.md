@@ -5,7 +5,7 @@ slug: direktif
 letter: D
 lisan: Fransızca directive
 anlamlar:
-- ► yönerge
+- yönerge
 ozellikler:
 - - isim
 ornekler:

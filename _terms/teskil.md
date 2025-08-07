@@ -6,8 +6,8 @@ letter: T
 lisan: Arapça teşkīl
 anlamlar:
 - Oluşturma, ortaya çıkarma, meydana getirme
-- ► oluşum
-- ► örgütleme
+- oluşum
+- örgütleme
 ozellikler:
 - - isim
 - - isim

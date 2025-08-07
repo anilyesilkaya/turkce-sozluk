@@ -5,7 +5,7 @@ slug: uykusu-derin
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uykusu ağır
+- uykusu ağır
 ozellikler:
 - - sıfat
 ornekler:

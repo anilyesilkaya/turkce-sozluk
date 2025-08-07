@@ -5,7 +5,7 @@ slug: oglende
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► öğleyin
+- öğleyin
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: genetik
 letter: G
 lisan: Almanca Genetik
 anlamlar:
-- ► kalıtım bilimi
+- kalıtım bilimi
 - Genlerle ilgili, genlerin belirlediği, genlerle geçen
 - Genlerle ilgili, kalıtımla ilgili
 ozellikler:

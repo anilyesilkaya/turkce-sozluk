@@ -5,8 +5,8 @@ slug: muharrik
 letter: M
 lisan: Arapça muḥarrik
 anlamlar:
-- ► devitken
-- ► kışkırtıcı
+- devitken
+- kışkırtıcı
 ozellikler:
 - - sıfat
   - eskimiş

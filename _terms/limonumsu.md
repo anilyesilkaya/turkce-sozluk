@@ -5,7 +5,7 @@ slug: limonumsu
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► limonsu
+- limonsu
 ozellikler:
 - - sıfat
 ornekler:

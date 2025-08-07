@@ -5,7 +5,7 @@ slug: kalemlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kalem kutusu
+- kalem kutusu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: olu-fiyatina
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► yok pahasına
+- yok pahasına
 ozellikler:
 - - zarf
   - mecaz

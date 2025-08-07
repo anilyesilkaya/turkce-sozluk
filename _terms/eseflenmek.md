@@ -5,7 +5,7 @@ slug: eseflenmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► üzülmek
+- üzülmek
 ozellikler:
 - - nesnesiz
 ornekler:

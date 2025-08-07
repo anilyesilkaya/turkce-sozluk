@@ -5,7 +5,7 @@ slug: vere
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vire
+- vire
 ozellikler:
 - - isim
   - tarih

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Anıt niteliğinde olan, anıta benzeyen; abidevi
-- ► görkemli
+- görkemli
 ozellikler:
 - - sıfat
 - - sıfat

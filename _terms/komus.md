@@ -5,7 +5,7 @@ slug: komus
 letter: K
 lisan: Farsça gāvmīş
 anlamlar:
-- ► manda (I)
+- manda (I)
 ozellikler:
 - - isim
   - ağızlardan

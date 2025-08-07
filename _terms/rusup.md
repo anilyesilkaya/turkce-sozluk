@@ -5,7 +5,7 @@ slug: rusup
 letter: R
 lisan: Arapça rusūb
 anlamlar:
-- ► çökelti
+- çökelti
 ozellikler:
 - - isim
   - eskimiş

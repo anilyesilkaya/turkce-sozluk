@@ -5,7 +5,7 @@ slug: pirekapan
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pire otu
+- pire otu
 ozellikler:
 - - isim
   - bitki bilimi

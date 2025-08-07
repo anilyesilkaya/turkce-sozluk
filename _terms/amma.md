@@ -5,7 +5,7 @@ slug: amma
 letter: A
 lisan: Arapça ammā
 anlamlar:
-- ► ama
+- ama
 - Yanına getirildiği kelimenin anlamına aşırılık katarak şaşma veya hayranlık anlatan bir söz
 ozellikler:
 - - bağlaç

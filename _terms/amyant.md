@@ -5,7 +5,7 @@ slug: amyant
 letter: A
 lisan: Fransızca amiante
 anlamlar:
-- ► asbest
+- asbest
 ozellikler:
 - - isim
   - kimya

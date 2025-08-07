@@ -5,7 +5,7 @@ slug: devre-potansiyeli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► devre voltajı
+- devre voltajı
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: evolusyon
 letter: E
 lisan: Fransızca évolution
 anlamlar:
-- ► gelişme
+- gelişme
 ozellikler:
 - - isim
 ornekler:

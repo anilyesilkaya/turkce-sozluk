@@ -5,7 +5,7 @@ slug: topografik-harita
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► topoğrafya haritası
+- topoğrafya haritası
 ozellikler:
 - - isim
   - coğrafya

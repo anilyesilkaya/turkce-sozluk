@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Kocanın getirdiği ekmek
-- ► sahur yemeği
+- sahur yemeği
 ozellikler:
 - - isim
 - - isim

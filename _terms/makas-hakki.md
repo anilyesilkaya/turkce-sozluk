@@ -5,7 +5,7 @@ slug: makas-hakki
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► makas payı
+- makas payı
 ozellikler:
 - - isim
 ornekler:

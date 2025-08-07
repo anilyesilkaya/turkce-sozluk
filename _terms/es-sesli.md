@@ -5,7 +5,7 @@ slug: es-sesli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sesteş
+- sesteş
 ozellikler:
 - - sıfat
   - dil bilgisi

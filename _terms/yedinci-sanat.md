@@ -5,7 +5,7 @@ slug: yedinci-sanat
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sinema
+- sinema
 ozellikler:
 - - isim
 ornekler:

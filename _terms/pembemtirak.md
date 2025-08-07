@@ -5,7 +5,7 @@ slug: pembemtirak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pembemsi
+- pembemsi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: camekanli-kutu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► televizyon
+- televizyon
 ozellikler:
 - - isim
 ornekler:

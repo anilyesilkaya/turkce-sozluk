@@ -5,7 +5,7 @@ slug: nukleer-reaktor
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► atom reaktörü
+- atom reaktörü
 ozellikler:
 - - isim
   - fizik

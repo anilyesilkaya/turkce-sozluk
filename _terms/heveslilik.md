@@ -5,7 +5,7 @@ slug: heveslilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► isteklilik
+- isteklilik
 ozellikler:
 - - isim
 ornekler:

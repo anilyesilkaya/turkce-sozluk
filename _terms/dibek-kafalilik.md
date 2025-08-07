@@ -5,7 +5,7 @@ slug: dibek-kafalilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 ozellikler:
 - - isim
 ornekler:

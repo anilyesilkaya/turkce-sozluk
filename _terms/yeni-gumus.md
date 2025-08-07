@@ -5,7 +5,7 @@ slug: yeni-gumus
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Alman gümüşü
+- Alman gümüşü
 ozellikler:
 - - isim
   - kimya

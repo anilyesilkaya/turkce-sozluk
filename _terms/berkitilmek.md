@@ -5,7 +5,7 @@ slug: berkitilmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaştırılmak
+- sağlamlaştırılmak
 ozellikler:
 - - nesnesiz
 ornekler:

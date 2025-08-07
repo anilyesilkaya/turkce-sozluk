@@ -5,7 +5,7 @@ slug: calgi-oragi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► tırpan
+- tırpan
 ozellikler:
 - - isim
 ornekler:

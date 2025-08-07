@@ -6,7 +6,7 @@ letter: O
 lisan: Fransızca honneur
 anlamlar:
 - İnsanın kendine karşı duyduğu saygı; alicenaplık
-- ► şeref
+- şeref
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: bulut-mutfak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► gölge mutfak
+- gölge mutfak
 ozellikler:
 - - isim
 ornekler:

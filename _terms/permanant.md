@@ -5,7 +5,7 @@ slug: permanant
 letter: P
 lisan: Fransızca permanente
 anlamlar:
-- ► perma
+- perma
 ozellikler:
 - - isim
 ornekler:

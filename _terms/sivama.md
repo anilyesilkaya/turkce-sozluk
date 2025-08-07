@@ -8,7 +8,7 @@ anlamlar:
 - Sıvamak işi; sıvalama
 - Sıvanır gibi üstüne kaplanmış, örtülmüş veya çok sık takılmış
 - Zemini hemen hiç görülmeyecek kadar kaplanmış, örtülmüş veya takılmış olarak
-- ► silme
+- silme
 ozellikler:
 - - isim
 - - isim

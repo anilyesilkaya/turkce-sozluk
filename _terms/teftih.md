@@ -5,8 +5,8 @@ slug: teftih
 letter: T
 lisan: Arapça teftīḥ
 anlamlar:
-- ► açma
-- ► geğirme
+- açma
+- geğirme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: tuzeci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hukukçu
+- hukukçu
 ozellikler:
 - - isim
 ornekler:

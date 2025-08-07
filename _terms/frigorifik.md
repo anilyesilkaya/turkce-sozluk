@@ -5,7 +5,7 @@ slug: frigorifik
 letter: F
 lisan: Fransızca frigorigique
 anlamlar:
-- ► soğutucu
+- soğutucu
 ozellikler:
 - - sıfat
 ornekler:

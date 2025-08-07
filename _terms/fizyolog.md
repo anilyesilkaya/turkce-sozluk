@@ -5,7 +5,7 @@ slug: fizyolog
 letter: F
 lisan: Fransızca physiologue
 anlamlar:
-- ► fizyolojist
+- fizyolojist
 ozellikler:
 - - isim
 ornekler:

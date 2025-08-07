@@ -5,7 +5,7 @@ slug: yazdirim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dikte
+- dikte
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Titreşim yapmayan veya titreşim oluşturmayan
-- ► tonsuz
+- tonsuz
 ozellikler:
 - - sıfat
 - - sıfat

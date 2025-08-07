@@ -5,7 +5,7 @@ slug: dogu-turkcesi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► Çağatay Türkçesi
+- Çağatay Türkçesi
 ozellikler:
 - - isim
 ornekler:

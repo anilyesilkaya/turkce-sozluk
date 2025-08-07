@@ -5,8 +5,8 @@ slug: demo
 letter: D
 lisan: İngilizce demo
 anlamlar:
-- ► tanıtım ürünü
-- ► tanıtım sunumu
+- tanıtım ürünü
+- tanıtım sunumu
 ozellikler:
 - - isim
 - - isim

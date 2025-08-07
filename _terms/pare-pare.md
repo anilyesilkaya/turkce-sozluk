@@ -5,7 +5,7 @@ slug: pare-pare
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► parça parça
+- parça parça
 ozellikler:
 - - zarf
 ornekler:

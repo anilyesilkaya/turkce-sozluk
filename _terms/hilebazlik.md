@@ -5,7 +5,7 @@ slug: hilebazlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hilecilik
+- hilecilik
 ozellikler:
 - - isim
 ornekler:

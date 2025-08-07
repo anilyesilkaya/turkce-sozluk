@@ -5,7 +5,7 @@ slug: gut
 letter: G
 lisan: Fransızca goutte
 anlamlar:
-- ► damla hastalığı
+- damla hastalığı
 ozellikler:
 - - isim
   - tıp

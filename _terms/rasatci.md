@@ -5,7 +5,7 @@ slug: rasatci
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gözlemci
+- gözlemci
 ozellikler:
 - - isim
 ornekler:

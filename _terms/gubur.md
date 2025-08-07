@@ -5,7 +5,7 @@ slug: gubur
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► çöp
+- çöp
 ozellikler:
 - - isim
   - ağızlardan

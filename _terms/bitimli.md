@@ -5,7 +5,7 @@ slug: bitimli
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sonlu
+- sonlu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,8 +5,8 @@ slug: kusumlenmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuşkulanmak
-- ► kaygılanmak
+- kuşkulanmak
+- kaygılanmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

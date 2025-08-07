@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mevḳūf
 anlamlar:
 - Vakfedilmiş
-- ► tutuklu
+- tutuklu
 ozellikler:
 - - sıfat
   - eskimiş

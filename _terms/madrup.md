@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maḍrūb
 anlamlar:
 - Dövülmüş (kimse)
-- ► çarpılan
+- çarpılan
 ozellikler:
 - - sıfat
   - eskimiş

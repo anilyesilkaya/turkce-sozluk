@@ -5,7 +5,7 @@ slug: bir-keresinde
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir zamanlar
+- bir zamanlar
 ozellikler:
 - - zarf
 ornekler:

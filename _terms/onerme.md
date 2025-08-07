@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önermek işi
-- ► teklif
+- teklif
 - Bir savı öne süren veya bir durumu dile getiren cümle, belli bir yorumda belli bir doğruluk değeri kazanan düzgün deyim; cümlecik, kaziye
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: siber-silah
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► casus yazılım
+- casus yazılım
 ozellikler:
 - - isim
   - bilişim

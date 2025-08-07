@@ -5,7 +5,7 @@ slug: sarki
 letter: Ş
 lisan: Ar. şarḳį
 anlamlar:
-- ► doğu
+- doğu
 - Doğuyla ilgili, doğuya özgü olan
 ozellikler:
 - - sıfat

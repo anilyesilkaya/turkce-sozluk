@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Germe işi yapılmak, gergin duruma gelmek, belirli bir uzama ile çekilmek
 - Gergin bir biçimde açılmak
-- ► kasılmak
+- kasılmak
 - Kızmak, öfkelenmek, sinirlenmek
 - İlişki ve davranış bozulacak duruma gelmek
 ozellikler:

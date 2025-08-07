@@ -5,7 +5,7 @@ slug: musekkin
 letter: M
 lisan: Arapça musekkin
 anlamlar:
-- ► sakinleştirici
+- sakinleştirici
 ozellikler:
 - - sıfat
   - eskimiş

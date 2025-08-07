@@ -5,7 +5,7 @@ slug: reisicumhur
 letter: R
 lisan: Arapça reʾīs + cumhūr
 anlamlar:
-- ► cumhurbaşkanı
+- cumhurbaşkanı
 ozellikler:
 - - isim
 ornekler:

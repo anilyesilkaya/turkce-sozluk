@@ -5,7 +5,7 @@ slug: batil-itikat
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► batıl inanç
+- batıl inanç
 ozellikler:
 - - isim
 ornekler:

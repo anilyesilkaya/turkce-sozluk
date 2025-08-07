@@ -5,8 +5,8 @@ slug: intihap
 letter: I
 lisan: Arapça intiḫāb
 anlamlar:
-- ► seçme
-- ► seçim
+- seçme
+- seçim
 ozellikler:
 - - isim
   - eskimiş

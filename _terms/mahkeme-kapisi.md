@@ -5,7 +5,7 @@ slug: mahkeme-kapisi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mahkeme
+- mahkeme
 ozellikler:
 - - isim
 ornekler:

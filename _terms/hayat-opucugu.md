@@ -5,7 +5,7 @@ slug: hayat-opucugu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► yapay solunum
+- yapay solunum
 ozellikler:
 - - isim
   - mecaz

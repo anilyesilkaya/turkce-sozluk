@@ -5,7 +5,7 @@ slug: altipas
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kale alanı
+- kale alanı
 ozellikler:
 - - isim
   - spor

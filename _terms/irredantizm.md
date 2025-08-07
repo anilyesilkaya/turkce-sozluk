@@ -5,7 +5,7 @@ slug: irredantizm
 letter: I
 lisan: Fransızca irrédentisme
 anlamlar:
-- ► kurtarımcılık
+- kurtarımcılık
 ozellikler:
 - - isim
 ornekler:

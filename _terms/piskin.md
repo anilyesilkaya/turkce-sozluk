@@ -8,8 +8,8 @@ anlamlar:
 - Gereğince pişmiş
 - Çabuk pişen; pişeğen, pişek
 - Saygısızca davranarak işini yürüten
-- ► utanmaz
-- ► olgun
+- utanmaz
+- olgun
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: bicim-bilimi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yapı bilimi
+- yapı bilimi
 ozellikler:
 - - isim
 ornekler:

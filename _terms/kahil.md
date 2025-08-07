@@ -5,7 +5,7 @@ slug: kahil
 letter: K
 lisan: Arapça kāhil
 anlamlar:
-- ► erişkin
+- erişkin
 ozellikler:
 - - sıfat
   - eskimiş

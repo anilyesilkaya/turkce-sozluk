@@ -5,8 +5,8 @@ slug: artagan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bereketli
-- ► artımlı
+- bereketli
+- artımlı
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -5,7 +5,7 @@ slug: asinma-payi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yıpranma payı
+- yıpranma payı
 ozellikler:
 - - isim
 ornekler:

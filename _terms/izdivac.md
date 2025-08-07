@@ -5,7 +5,7 @@ slug: izdivac
 letter: I
 lisan: Arapça izdivāc
 anlamlar:
-- ► evlenme
+- evlenme
 ozellikler:
 - - isim
   - eskimiş

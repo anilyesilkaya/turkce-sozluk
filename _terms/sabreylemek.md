@@ -5,7 +5,7 @@ slug: sabreylemek
 letter: S
 lisan: Arapça ṣabr + Türkçe eylemek
 anlamlar:
-- ► sabretmek
+- sabretmek
 ozellikler:
 - - nesnesiz
 ornekler:

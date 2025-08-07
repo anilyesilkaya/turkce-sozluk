@@ -5,8 +5,8 @@ slug: cazibe
 letter: C
 lisan: Arapça cāẕibe
 anlamlar:
-- ► çekicilik
-- ► çekim
+- çekicilik
+- çekim
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: feminen
 letter: F
 lisan: Fransızca féminin
 anlamlar:
-- ► kadınsı
+- kadınsı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: candan-yurekten
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► içtenlikle
+- içtenlikle
 ozellikler:
 - - zarf
   - mecaz

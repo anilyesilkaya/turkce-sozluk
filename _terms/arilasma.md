@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Arılaşmak durumu; arılanma
-- ► özleşme
+- özleşme
 ozellikler:
 - - isim
 - - isim

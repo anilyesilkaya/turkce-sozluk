@@ -5,7 +5,7 @@ slug: arinma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► temizlenme
+- temizlenme
 - Ruhun tutkulardan temizlenmesi
 - Duyguların sanat yoluyla arı duruma getirilmesi
 ozellikler:

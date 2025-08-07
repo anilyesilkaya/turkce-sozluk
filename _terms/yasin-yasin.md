@@ -5,7 +5,7 @@ slug: yasin-yasin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gizli gizli
+- gizli gizli
 ozellikler:
 - - zarf
   - ağızlardan

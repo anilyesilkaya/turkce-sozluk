@@ -9,7 +9,7 @@ anlamlar:
 - Dar, uzun kıyı parçası
 - Herhangi bir maddenin dar, düz, ince ve uzun parçası
 - Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri
-- ► tenya
+- tenya
 ozellikler:
 - - isim
 - - isim

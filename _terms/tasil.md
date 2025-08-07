@@ -5,7 +5,7 @@ slug: tasil
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► fosil
+- fosil
 ozellikler:
 - - isim
 ornekler:

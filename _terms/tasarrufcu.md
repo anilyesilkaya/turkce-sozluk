@@ -5,7 +5,7 @@ slug: tasarrufcu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► birikimci
+- birikimci
 ozellikler:
 - - isim
 ornekler:

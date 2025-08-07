@@ -5,7 +5,7 @@ slug: revani-tatlisi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► revani
+- revani
 ozellikler:
 - - isim
 ornekler:

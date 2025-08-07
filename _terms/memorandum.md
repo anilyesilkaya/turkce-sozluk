@@ -5,7 +5,7 @@ slug: memorandum
 letter: M
 lisan: Fransızca mémorandum
 anlamlar:
-- ► muhtıra
+- muhtıra
 ozellikler:
 - - isim
 ornekler:

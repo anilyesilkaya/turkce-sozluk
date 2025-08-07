@@ -5,7 +5,7 @@ slug: kuskut
 letter: K
 lisan: Fransızca cuscute
 anlamlar:
-- ► küsküt otu
+- küsküt otu
 ozellikler:
 - - isim
   - bitki bilimi

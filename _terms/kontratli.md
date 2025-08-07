@@ -5,7 +5,7 @@ slug: kontratli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sözleşmeli
+- sözleşmeli
 ozellikler:
 - - sıfat
 ornekler:

@@ -11,7 +11,7 @@ anlamlar:
 - Ters, kaba, görgüsüz (kimse)
 - Çilli, çopur yüzlü, gözleri açık renk olan (kimse)
 - Atın tüysüz yerlerinde görülen uyuza benzer bir hastalık
-- ► alaca hastalığı
+- alaca hastalığı
 - Dokuma malzemelerinin kötü boyanmalarından dolayı üzerlerinde açık veya koyu lekeler görünen, deseni bozuk halı
 ozellikler:
 - - sıfat

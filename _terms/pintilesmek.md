@@ -5,7 +5,7 @@ slug: pintilesmek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► cimrileşmek
+- cimrileşmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: abu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► abo
+- abo
 ozellikler:
 - - ünlem
   - ağızlardan

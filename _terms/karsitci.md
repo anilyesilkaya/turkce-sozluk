@@ -5,7 +5,7 @@ slug: karsitci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► aleyhtar
+- aleyhtar
 ozellikler:
 - - sıfat
 ornekler:

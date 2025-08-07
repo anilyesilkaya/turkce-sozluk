@@ -5,7 +5,7 @@ slug: gozukmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► görünmek
+- görünmek
 ozellikler:
 - - nesnesiz
 ornekler:

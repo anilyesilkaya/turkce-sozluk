@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Vazgeçip işin ardını bırakan, kararlı olmayan, verdiği sözden cayan
-- ► dönek
+- dönek
 ozellikler:
 - - sıfat
   - ağızlardan

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Rahat bir biçimde soluk almak
-- ► dinlenmek (I)
+- dinlenmek (I)
 ozellikler:
 - - nesnesiz
 - - nesnesiz

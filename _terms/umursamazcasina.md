@@ -5,7 +5,7 @@ slug: umursamazcasina
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► umursamazca
+- umursamazca
 ozellikler:
 - - zarf
 ornekler:

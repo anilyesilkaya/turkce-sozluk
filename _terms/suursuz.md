@@ -5,7 +5,7 @@ slug: suursuz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçsiz
+- bilinçsiz
 - Bilinçsiz bir biçimde
 ozellikler:
 - - sıfat

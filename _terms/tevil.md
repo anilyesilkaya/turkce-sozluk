@@ -5,7 +5,7 @@ slug: tevil
 letter: T
 lisan: Arapça teʾvīl
 anlamlar:
-- ► çevri
+- çevri
 ozellikler:
 - - isim
   - eskimiş

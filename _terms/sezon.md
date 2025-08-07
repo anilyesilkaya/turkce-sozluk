@@ -5,7 +5,7 @@ slug: sezon
 letter: S
 lisan: Fransızca saison
 anlamlar:
-- ► mevsim
+- mevsim
 - Belirli bir süre
 - Genellikle sporda belli bir etkinlik süresi
 ozellikler:

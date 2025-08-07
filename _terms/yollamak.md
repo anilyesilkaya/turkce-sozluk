@@ -5,7 +5,7 @@ slug: yollamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► göndermek
+- göndermek
 - Birini yolcu etmek
 - Biri aracılığı ile bir şeyin başka birinin eline geçmesini sağlamak
 - Aracılık ederek birini bir yerde hizmet etmesini sağlamak amacı ile ilgili yere tavsiye ile göndermek

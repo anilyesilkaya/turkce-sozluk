@@ -5,7 +5,7 @@ slug: kayinbaba
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kaynata
+- kaynata
 ozellikler:
 - - isim
 ornekler:

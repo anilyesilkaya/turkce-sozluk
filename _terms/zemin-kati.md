@@ -5,7 +5,7 @@ slug: zemin-kati
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► giriş katı
+- giriş katı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: mustear
 letter: M
 lisan: Arapça musteʿār
 anlamlar:
-- ► takma
+- takma
 - Klasik Türk müziğinde bir makam
 ozellikler:
 - - sıfat

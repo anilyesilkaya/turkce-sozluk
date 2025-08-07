@@ -5,7 +5,7 @@ slug: organizator
 letter: O
 lisan: Fransızca organisateur
 anlamlar:
-- ► düzenleyici
+- düzenleyici
 ozellikler:
 - - isim
 ornekler:

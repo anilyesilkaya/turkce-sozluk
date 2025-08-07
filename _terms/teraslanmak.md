@@ -5,7 +5,7 @@ slug: teraslanmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sekilenmek
+- sekilenmek
 ozellikler:
 - - nesnesiz
 ornekler:

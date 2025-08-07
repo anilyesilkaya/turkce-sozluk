@@ -5,7 +5,7 @@ slug: talihli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bahtlı
+- bahtlı
 ozellikler:
 - - sıfat
 ornekler:

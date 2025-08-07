@@ -5,7 +5,7 @@ slug: carnacar
 letter: Ç
 lisan: Farsça çārnāçār
 anlamlar:
-- ► ister istemez
+- ister istemez
 - Çaresiz bir biçimde
 ozellikler:
 - - zarf

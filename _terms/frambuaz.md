@@ -5,7 +5,7 @@ slug: frambuaz
 letter: F
 lisan: Fransızca framboise
 anlamlar:
-- ► ahududu
+- ahududu
 ozellikler:
 - - isim
 ornekler:

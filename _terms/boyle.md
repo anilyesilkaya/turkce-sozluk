@@ -9,7 +9,7 @@ anlamlar:
 - Bu yolda; bu biçimde
 - Bu derece
 - İçinde "ne, nasıl" vb. sorular bulunan cümlelerin sonuna geldiğinde o cümlede anlatılan şeyin hoş karşılanmadığını veya ona şaşıldığını anlatan bir söz
-- ► bundan böyle
+- bundan böyle
 ozellikler:
 - - sıfat
 - - sıfat

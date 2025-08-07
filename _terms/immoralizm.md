@@ -5,7 +5,7 @@ slug: immoralizm
 letter: I
 lisan: Fransızca immoralisme
 anlamlar:
-- ► töretanımazlık
+- töretanımazlık
 ozellikler:
 - - isim
   - felsefe

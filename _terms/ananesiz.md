@@ -5,7 +5,7 @@ slug: ananesiz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geleneksiz
+- geleneksiz
 ozellikler:
 - - sıfat
 ornekler:

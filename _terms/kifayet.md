@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça kifāyet
 anlamlar:
 - Yeterli miktarda olma, yetme, kâfi gelme
-- ► yeterlilik
+- yeterlilik
 ozellikler:
 - - isim
 - - isim

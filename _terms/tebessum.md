@@ -5,7 +5,7 @@ slug: tebessum
 letter: T
 lisan: Arapça tebessum
 anlamlar:
-- ► gülümseme
+- gülümseme
 ozellikler:
 - - isim
 ornekler:

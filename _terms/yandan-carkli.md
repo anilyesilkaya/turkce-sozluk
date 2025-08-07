@@ -8,7 +8,7 @@ anlamlar:
 - Her iki yanında birer çarkı bulunan ve bu çarklarla ağır hareket eden (vapur); padıl
 - Bir yanına eğilerek yürüyen
 - Şekeri yanına konulmuş olan kahve veya çay
-- ► çaçaron
+- çaçaron
 ozellikler:
 - - sıfat
 - - sıfat

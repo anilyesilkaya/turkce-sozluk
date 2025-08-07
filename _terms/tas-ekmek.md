@@ -5,7 +5,7 @@ slug: tas-ekmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► taş fırın ekmeği
+- taş fırın ekmeği
 ozellikler:
 - - isim
 ornekler:

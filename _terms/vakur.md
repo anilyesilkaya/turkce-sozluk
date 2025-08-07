@@ -5,7 +5,7 @@ slug: vakur
 letter: V
 lisan: Arapça vaḳūr
 anlamlar:
-- ► ağırbaşlı
+- ağırbaşlı
 ozellikler:
 - - sıfat
 ornekler:

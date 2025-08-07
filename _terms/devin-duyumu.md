@@ -5,7 +5,7 @@ slug: devin-duyumu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kinestezi
+- kinestezi
 ozellikler:
 - - isim
   - fizyoloji

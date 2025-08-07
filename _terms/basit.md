@@ -10,7 +10,7 @@ anlamlar:
 - Süsü, gösterişi olmayan
 - Bilgi ve görgüsü sınırlı olan, bayağı, görgüsüz olan
 - Her zaman rastlanandan farklı bir özelliği olmayan
-- ► yalınç
+- yalınç
 ozellikler:
 - - sıfat
 - - sıfat

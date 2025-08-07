@@ -5,7 +5,7 @@ slug: mihtepesi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mıhbaşı
+- mıhbaşı
 ozellikler:
 - - isim
   - bitki bilimi

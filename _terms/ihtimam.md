@@ -5,7 +5,7 @@ slug: ihtimam
 letter: I
 lisan: Arapça ihtimām
 anlamlar:
-- ► özen
+- özen
 - Özenli bakım
 ozellikler:
 - - isim

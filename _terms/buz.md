@@ -5,7 +5,7 @@ slug: buz
 letter: B
 lisan: Fransızca buse
 anlamlar:
-- ► künk
+- künk
 ozellikler:
 - - isim
 ornekler:

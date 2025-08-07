@@ -5,7 +5,7 @@ slug: kutup-bozkiri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tundra
+- tundra
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: agri-kesimi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağrı yitimi
+- ağrı yitimi
 ozellikler:
 - - isim
   - tıp

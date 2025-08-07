@@ -5,7 +5,7 @@ slug: meydanlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► açıklık
+- açıklık
 ozellikler:
 - - isim
 ornekler:

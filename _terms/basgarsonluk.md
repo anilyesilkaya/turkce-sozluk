@@ -5,7 +5,7 @@ slug: basgarsonluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► şef garsonluk
+- şef garsonluk
 ozellikler:
 - - isim
 ornekler:

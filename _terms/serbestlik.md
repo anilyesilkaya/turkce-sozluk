@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Serbest olma durumu; azadelik, serbestî
-- ► liberalizm
+- liberalizm
 ozellikler:
 - - isim
 - - isim

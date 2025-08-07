@@ -5,7 +5,7 @@ slug: sorca
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Şor Türkçesi
+- Şor Türkçesi
 ozellikler:
 - - isim
 ornekler:

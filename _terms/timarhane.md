@@ -5,7 +5,7 @@ slug: timarhane
 letter: T
 lisan: Farsça tīmār + ḫāne
 anlamlar:
-- ► akıl hastanesi
+- akıl hastanesi
 ozellikler:
 - - isim
 ornekler:

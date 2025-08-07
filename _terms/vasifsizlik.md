@@ -5,7 +5,7 @@ slug: vasifsizlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► niteliksizlik
+- niteliksizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: simiotaksi
 letter: Ş
 lisan: Fransızca chimiotaxie
 anlamlar:
-- ► kimya göçümü
+- kimya göçümü
 ozellikler:
 - - isim
   - biyoloji

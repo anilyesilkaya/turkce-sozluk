@@ -5,7 +5,7 @@ slug: tavsankulagi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► siklamen
+- siklamen
 ozellikler:
 - - isim
   - bitki bilimi

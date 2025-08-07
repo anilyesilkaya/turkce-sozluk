@@ -5,7 +5,7 @@ slug: nazikane
 letter: N
 lisan: Farsça nāzukāne
 anlamlar:
-- ► nazikçe
+- nazikçe
 ozellikler:
 - - zarf
 ornekler:

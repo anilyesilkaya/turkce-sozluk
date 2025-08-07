@@ -9,7 +9,7 @@ anlamlar:
 - Ahşap yapılarda pencere ve kapı yanlarına dikilen direklerden her biri
 - Bir evde aileyi sürdürecek olan tek çocuk
 - Ağaçtan direk
-- ► fidan
+- fidan
 - Yük kaldırmakta kullanılan bir direkli maçuna
 - Dikey olan doğru veya düzlem; amut
 ozellikler:

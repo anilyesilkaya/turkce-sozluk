@@ -5,7 +5,7 @@ slug: kelam
 letter: K
 lisan: Arapça kelām
 anlamlar:
-- ► söz
+- söz
 - Söyleyiş biçimi
 - Başta Tanrı'nın varlığı, birliği, peygamberlik ve ahiret olmak üzere İslamiyet'in ana ilkelerini konu edinen bilim
 ozellikler:

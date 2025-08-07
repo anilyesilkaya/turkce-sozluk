@@ -5,7 +5,7 @@ slug: sele
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sele zeytini
+- sele zeytini
 ozellikler:
 - - isim
 ornekler:

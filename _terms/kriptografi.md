@@ -5,7 +5,7 @@ slug: kriptografi
 letter: K
 lisan: Fransızca cryptographie
 anlamlar:
-- ► şifreleme
+- şifreleme
 ozellikler:
 - - isim
 ornekler:

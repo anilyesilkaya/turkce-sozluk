@@ -5,7 +5,7 @@ slug: ihtisamsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► görkemsizlik
+- görkemsizlik
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Birbirini itmek
 - Birbirini iterek şakalaşmak
-- ► çekişmek
+- çekişmek
 ozellikler:
 - - nesnesiz
   - -le

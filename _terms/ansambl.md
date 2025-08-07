@@ -5,7 +5,7 @@ slug: ansambl
 letter: A
 lisan: Fransızca ensemble
 anlamlar:
-- ► topluluk
+- topluluk
 ozellikler:
 - - isim
   - müzik

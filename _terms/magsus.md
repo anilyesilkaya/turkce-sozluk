@@ -5,7 +5,7 @@ slug: magsus
 letter: M
 lisan: Arapça maġşūş
 anlamlar:
-- ► karışık
+- karışık
 - Hileli olan
 ozellikler:
 - - sıfat

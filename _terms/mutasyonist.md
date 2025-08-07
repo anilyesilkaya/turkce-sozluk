@@ -5,7 +5,7 @@ slug: mutasyonist
 letter: M
 lisan: Fransızca mutationiste
 anlamlar:
-- ► değişinimci
+- değişinimci
 ozellikler:
 - - sıfat
   - biyoloji

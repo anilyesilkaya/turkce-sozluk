@@ -5,7 +5,7 @@ slug: madensel
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► madenî
+- madenî
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tipalanmak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapalanmak
+- tapalanmak
 ozellikler:
 - - nesnesiz
 ornekler:

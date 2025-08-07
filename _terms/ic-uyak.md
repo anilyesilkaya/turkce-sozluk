@@ -5,7 +5,7 @@ slug: ic-uyak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iç kafiye
+- iç kafiye
 ozellikler:
 - - isim
   - edebiyat

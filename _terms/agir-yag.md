@@ -5,7 +5,7 @@ slug: agir-yag
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kalın yağ
+- kalın yağ
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: steps
 letter: S
 lisan: İngilizce steps
 anlamlar:
-- ► hatalı yürüme
+- hatalı yürüme
 ozellikler:
 - - isim
   - spor

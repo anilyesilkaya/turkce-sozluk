@@ -5,7 +5,7 @@ slug: denetim-pulu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► bandrol
+- bandrol
 ozellikler:
 - - isim
 ornekler:

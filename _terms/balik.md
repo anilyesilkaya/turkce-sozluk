@@ -5,7 +5,7 @@ slug: balik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► Balık Burcu
+- Balık Burcu
 ozellikler:
 - - isim
   - gök bilimi

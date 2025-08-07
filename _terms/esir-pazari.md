@@ -5,7 +5,7 @@ slug: esir-pazari
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► tutsak pazarı
+- tutsak pazarı
 ozellikler:
 - - isim
 ornekler:

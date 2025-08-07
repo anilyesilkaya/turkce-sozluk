@@ -5,7 +5,7 @@ slug: mudrike
 letter: M
 lisan: Arapça mudrike
 anlamlar:
-- ► anlık (II)
+- anlık (II)
 ozellikler:
 - - isim
   - eskimiş

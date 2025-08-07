@@ -5,7 +5,7 @@ slug: kozmolojik
 letter: K
 lisan: Fransızca cosmologique
 anlamlar:
-- ► uzay bilimsel
+- uzay bilimsel
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: nakdi-ceza
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► para cezası
+- para cezası
 ozellikler:
 - - isim
 ornekler:

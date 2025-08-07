@@ -5,7 +5,7 @@ slug: manidar
 letter: M
 lisan: Arapça maʿnī + Farsça -dār
 anlamlar:
-- ► anlamlı
+- anlamlı
 ozellikler:
 - - sıfat
 ornekler:

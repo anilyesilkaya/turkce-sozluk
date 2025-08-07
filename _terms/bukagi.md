@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Ağır cezalıların ayaklarına takılıp ucuna pranga bağlanan demir halka
-- ► köstek
+- köstek
 ozellikler:
 - - isim
   - eskimiş

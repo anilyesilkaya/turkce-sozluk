@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tıkma işi yapılmak
 - Dar, sıkıntılı bir yerde bulunmak, sıkışmak
-- ► hapsedilmek
+- hapsedilmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

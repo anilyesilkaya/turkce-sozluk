@@ -5,7 +5,7 @@ slug: dizgelilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sistemlilik
+- sistemlilik
 ozellikler:
 - - isim
 ornekler:

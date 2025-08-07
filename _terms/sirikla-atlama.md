@@ -5,7 +5,7 @@ slug: sirikla-atlama
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sırıkla yüksek atlama
+- sırıkla yüksek atlama
 ozellikler:
 - - isim
   - spor

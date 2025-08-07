@@ -5,7 +5,7 @@ slug: yemek-salonu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yemek odası
+- yemek odası
 ozellikler:
 - - isim
 ornekler:

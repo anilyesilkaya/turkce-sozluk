@@ -5,7 +5,7 @@ slug: yelpik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nefes darlığı
+- nefes darlığı
 ozellikler:
 - - isim
   - ağızlardan

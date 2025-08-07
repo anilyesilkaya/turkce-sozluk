@@ -5,7 +5,7 @@ slug: kiyginlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mağdurluk
+- mağdurluk
 ozellikler:
 - - isim
 ornekler:

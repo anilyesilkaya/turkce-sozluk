@@ -5,7 +5,7 @@ slug: fideizm
 letter: F
 lisan: Fransızca fidéisme
 anlamlar:
-- ► inancılık
+- inancılık
 ozellikler:
 - - isim
   - din bilimi

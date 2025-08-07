@@ -5,7 +5,7 @@ slug: farba
 letter: F
 lisan: Fransızca falbala'dan
 anlamlar:
-- ► fırfır
+- fırfır
 ozellikler:
 - - isim
 ornekler:

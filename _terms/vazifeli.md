@@ -5,8 +5,8 @@ slug: vazifeli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► görevli
-- ► ödevli
+- görevli
+- ödevli
 ozellikler:
 - - sıfat
 - - sıfat

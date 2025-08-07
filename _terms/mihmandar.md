@@ -5,7 +5,7 @@ slug: mihmandar
 letter: M
 lisan: Farsça mihmāndār
 anlamlar:
-- ► konukçu
+- konukçu
 ozellikler:
 - - isim
 ornekler:

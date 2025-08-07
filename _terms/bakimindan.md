@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bakış veya görüş açısı yönünden, değerlendirme açısından; itibarıyla
-- ► göre
+- göre
 ozellikler:
 - - edat
 - - edat

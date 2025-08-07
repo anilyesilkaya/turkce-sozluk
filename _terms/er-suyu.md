@@ -5,7 +5,7 @@ slug: er-suyu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► meni
+- meni
 ozellikler:
 - - isim
   - fizyoloji

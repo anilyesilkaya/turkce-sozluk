@@ -5,7 +5,7 @@ slug: antrenorluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çalıştırıcılık
+- çalıştırıcılık
 ozellikler:
 - - isim
 ornekler:

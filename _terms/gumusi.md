@@ -5,7 +5,7 @@ slug: gumusi
 letter: G
 lisan: Türkçe gümüş + Arapça -ī
 anlamlar:
-- ► gümüş rengi
+- gümüş rengi
 - Bu renkte olan
 ozellikler:
 - - isim

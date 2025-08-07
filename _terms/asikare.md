@@ -5,7 +5,7 @@ slug: asikare
 letter: A
 lisan: Farsça āşikāre
 anlamlar:
-- ► açıkça
+- açıkça
 ozellikler:
 - - zarf
 ornekler:

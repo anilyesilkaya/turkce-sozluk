@@ -5,7 +5,7 @@ slug: anot
 letter: A
 lisan: Fransızca anode
 anlamlar:
-- ► artı uç
+- artı uç
 ozellikler:
 - - isim
   - fizik

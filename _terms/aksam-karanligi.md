@@ -5,7 +5,7 @@ slug: aksam-karanligi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alaca karanlık
+- alaca karanlık
 ozellikler:
 - - isim
 ornekler:

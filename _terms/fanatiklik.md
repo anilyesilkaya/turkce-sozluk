@@ -5,7 +5,7 @@ slug: fanatiklik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► bağnazlık
+- bağnazlık
 ozellikler:
 - - isim
 ornekler:

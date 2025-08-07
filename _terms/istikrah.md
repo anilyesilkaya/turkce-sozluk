@@ -5,7 +5,7 @@ slug: istikrah
 letter: I
 lisan: Arapça istikrāh
 anlamlar:
-- ► tiksinme
+- tiksinme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: takriben
 letter: T
 lisan: Arapça taḳrīben
 anlamlar:
-- ► aşağı yukarı
+- aşağı yukarı
 ozellikler:
 - - zarf
   - eskimiş

@@ -5,7 +5,7 @@ slug: haykiris
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haykırma
+- haykırma
 ozellikler:
 - - isim
 ornekler:

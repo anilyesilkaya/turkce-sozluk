@@ -9,7 +9,7 @@ anlamlar:
 - Bir nesne veya bir kimseyi kilitli bir yere kapamak
 - Karşılıklı çıkıntı ve girintileri olan şeyleri birbirine geçirmek, kenetlemek
 - Sıkıca tutmak
-- ► kapatmak
+- kapatmak
 ozellikler:
 - - -i
 - - -i

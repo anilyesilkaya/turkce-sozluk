@@ -5,7 +5,7 @@ slug: fideist
 letter: F
 lisan: Fransızca fidéiste
 anlamlar:
-- ► inancı
+- inancı
 ozellikler:
 - - sıfat
   - din bilimi

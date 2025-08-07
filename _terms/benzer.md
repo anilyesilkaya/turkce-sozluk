@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Nitelik, görünüş ve yapı bakımından bir başkasına benzeyen veya ona eş olan; benzeri, benzeş, emsal, menent, misal, mümasil, müşabih, nazir, analog, model
-- ► benzeşim
-- ► dublör
+- benzeşim
+- dublör
 ozellikler:
 - - sıfat
 - - sıfat

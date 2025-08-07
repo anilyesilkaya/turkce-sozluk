@@ -5,7 +5,7 @@ slug: kurevi
 letter: K
 lisan: Arapça kurevī
 anlamlar:
-- ► küresel
+- küresel
 ozellikler:
 - - sıfat
   - eskimiş

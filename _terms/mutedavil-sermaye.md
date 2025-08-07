@@ -5,7 +5,7 @@ slug: mutedavil-sermaye
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► döner sermaye
+- döner sermaye
 ozellikler:
 - - isim
 ornekler:

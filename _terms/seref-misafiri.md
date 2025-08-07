@@ -5,7 +5,7 @@ slug: seref-misafiri
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şeref konuğu
+- şeref konuğu
 ozellikler:
 - - isim
 ornekler:

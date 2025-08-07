@@ -5,7 +5,7 @@ slug: ironi
 letter: I
 lisan: Fransızca ironie
 anlamlar:
-- ► gülmece
+- gülmece
 - Söylenen sözün tersini kastederek kişiyle veya olayla alay etme
 ozellikler:
 - - isim

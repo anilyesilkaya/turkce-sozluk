@@ -5,7 +5,7 @@ slug: yeni-ay
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hilal
+- hilal
 ozellikler:
 - - isim
 ornekler:

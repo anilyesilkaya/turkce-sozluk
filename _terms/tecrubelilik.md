@@ -5,7 +5,7 @@ slug: tecrubelilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► deneyimlilik
+- deneyimlilik
 ozellikler:
 - - isim
 ornekler:

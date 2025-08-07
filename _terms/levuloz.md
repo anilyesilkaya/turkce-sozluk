@@ -5,7 +5,7 @@ slug: levuloz
 letter: L
 lisan: Fransızca lévulose
 anlamlar:
-- ► meyve şekeri
+- meyve şekeri
 ozellikler:
 - - isim
   - kimya

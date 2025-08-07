@@ -5,7 +5,7 @@ slug: mubareze
 letter: M
 lisan: Arapça mubāreze
 anlamlar:
-- ► çekişme
+- çekişme
 - Düşman olan taraflardan birer kişinin çıkarak çarpışması
 ozellikler:
 - - isim

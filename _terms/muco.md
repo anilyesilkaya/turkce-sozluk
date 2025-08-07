@@ -5,7 +5,7 @@ slug: muco
 letter: M
 lisan: İtalyanca mozzo
 anlamlar:
-- ► miço
+- miço
 ozellikler:
 - - isim
   - denizcilik

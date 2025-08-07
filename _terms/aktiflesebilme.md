@@ -5,7 +5,7 @@ slug: aktiflesebilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► etkinleşebilme
+- etkinleşebilme
 ozellikler:
 - - isim
 ornekler:

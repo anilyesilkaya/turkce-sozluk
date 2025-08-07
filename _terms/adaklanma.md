@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Adaklanmak işi
-- ► nişanlanma
+- nişanlanma
 ozellikler:
 - - isim
 - - isim

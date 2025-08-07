@@ -5,7 +5,7 @@ slug: baritin
 letter: B
 lisan: Fransızca barytine
 anlamlar:
-- ► barit
+- barit
 ozellikler:
 - - isim
   - kimya

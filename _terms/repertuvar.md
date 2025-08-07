@@ -6,10 +6,10 @@ letter: R
 lisan: Fransızca répertoire
 anlamlar:
 - Sanatçının söylemek üzere çalışıp hazırlandığı şarkı veya türkü listesi
-- ► birikim
+- birikim
 - Bir tiyatro kurulunun oynamak için seçip hazırlamış olduğu oyunların listesi
 - Bir oyuncunun ezberlediği ve oynadığı rollerin listesi
-- ► dağarcık
+- dağarcık
 ozellikler:
 - - isim
 - - isim

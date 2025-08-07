@@ -5,7 +5,7 @@ slug: yer-mesesi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► kurtluca
+- kurtluca
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: siretunnebevi
 letter: S
 lisan: Arapça sīret + nebevī
 anlamlar:
-- ► siretünnebi
+- siretünnebi
 ozellikler:
 - - isim
 ornekler:

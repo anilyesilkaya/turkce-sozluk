@@ -5,7 +5,7 @@ slug: yurekten
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► içten
+- içten
 ozellikler:
 - - zarf
 ornekler:

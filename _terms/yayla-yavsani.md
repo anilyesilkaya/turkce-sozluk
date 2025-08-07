@@ -5,7 +5,7 @@ slug: yayla-yavsani
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tüylü dalak otu
+- tüylü dalak otu
 ozellikler:
 - - isim
   - ağızlardan

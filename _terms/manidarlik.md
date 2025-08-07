@@ -5,7 +5,7 @@ slug: manidarlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► anlamlılık
+- anlamlılık
 ozellikler:
 - - isim
 ornekler:

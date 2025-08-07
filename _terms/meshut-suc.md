@@ -5,7 +5,7 @@ slug: meshut-suc
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► suçüstü
+- suçüstü
 ozellikler:
 - - isim
   - hukuk

@@ -5,8 +5,8 @@ slug: laedri
 letter: L
 lisan: Arapça lāedrī
 anlamlar:
-- ► anonim
-- ► bilinemezci
+- anonim
+- bilinemezci
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: islamak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ıslatmak
+- ıslatmak
 ozellikler:
 - - -i
 ornekler:

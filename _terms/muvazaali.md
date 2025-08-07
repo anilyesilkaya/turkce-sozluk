@@ -5,7 +5,7 @@ slug: muvazaali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► danışıklı
+- danışıklı
 ozellikler:
 - - sıfat
 ornekler:

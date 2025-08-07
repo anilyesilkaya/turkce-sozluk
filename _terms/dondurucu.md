@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Donduran
-- ► derin dondurucu
+- derin dondurucu
 ozellikler:
 - - sıfat
 - - sıfat

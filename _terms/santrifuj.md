@@ -5,7 +5,7 @@ slug: santrifuj
 letter: S
 lisan: Fransızca centrifuge
 anlamlar:
-- ► merkezkaç
+- merkezkaç
 - Merkezkaç kuvvetten yararlanarak bir karışımın taşıdığı çökebilir ögeleri ayırıp çöktürmekte kullanılan laboratuvar aleti; santrifüjör
 ozellikler:
 - - sıfat

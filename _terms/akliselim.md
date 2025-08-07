@@ -5,7 +5,7 @@ slug: akliselim
 letter: A
 lisan: Arapça ʿaḳl + selīm
 anlamlar:
-- ► sağduyu
+- sağduyu
 - Sağduyu sahibi olan
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: mevsuk
 letter: M
 lisan: Arapça mevs̱ūḳ
 anlamlar:
-- ► sağlam
+- sağlam
 ozellikler:
 - - sıfat
   - eskimiş

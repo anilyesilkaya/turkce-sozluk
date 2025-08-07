@@ -5,7 +5,7 @@ slug: artikulasyon
 letter: A
 lisan: Fransızca articulation
 anlamlar:
-- ► telaffuz
+- telaffuz
 ozellikler:
 - - isim
   - dil bilimi

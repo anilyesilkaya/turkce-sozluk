@@ -5,7 +5,7 @@ slug: katiyet
 letter: K
 lisan: Arapça ḳaṭʿiyyet
 anlamlar:
-- ► kesinlik
+- kesinlik
 ozellikler:
 - - isim
   - eskimiş

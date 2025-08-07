@@ -5,7 +5,7 @@ slug: multefit
 letter: M
 lisan: Arapça multefit
 anlamlar:
-- ► iltifatkâr
+- iltifatkâr
 ozellikler:
 - - sıfat
   - eskimiş

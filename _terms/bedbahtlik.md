@@ -5,7 +5,7 @@ slug: bedbahtlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► mutsuzluk
+- mutsuzluk
 ozellikler:
 - - isim
 ornekler:

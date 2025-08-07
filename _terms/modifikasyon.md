@@ -5,7 +5,7 @@ slug: modifikasyon
 letter: M
 lisan: Fransızca modification
 anlamlar:
-- ► değişke
+- değişke
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: alternatifli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► seçenekli
+- seçenekli
 ozellikler:
 - - sıfat
 ornekler:

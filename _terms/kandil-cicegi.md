@@ -5,7 +5,7 @@ slug: kandil-cicegi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► civanperçemi
+- civanperçemi
 ozellikler:
 - - isim
   - bitki bilimi

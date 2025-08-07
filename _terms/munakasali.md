@@ -5,7 +5,7 @@ slug: munakasali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► tartışmalı
+- tartışmalı
 ozellikler:
 - - sıfat
 ornekler:

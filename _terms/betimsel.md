@@ -5,7 +5,7 @@ slug: betimsel
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► betimlemeli
+- betimlemeli
 ozellikler:
 - - sıfat
 ornekler:

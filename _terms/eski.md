@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Çoktan beri var olan, üzerinden çok zaman geçmiş bulunan; ezelî, ihtiyar (I), yeni karşıtı
-- ► önceki
+- önceki
 - Geçerli olmayan
 - Herhangi bir meslekte uzun süreden beri çalışmış olan
 - Mesleğinde uzmanlaşmış, deneyimi olan

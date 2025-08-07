@@ -5,7 +5,7 @@ slug: cedit
 letter: C
 lisan: Arapça cedīd
 anlamlar:
-- ► yeni
+- yeni
 ozellikler:
 - - sıfat
   - eskimiş

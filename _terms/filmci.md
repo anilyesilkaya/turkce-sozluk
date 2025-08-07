@@ -5,8 +5,8 @@ slug: filmci
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► sinemacı
-- ► hileci
+- sinemacı
+- hileci
 ozellikler:
 - - isim
 - - isim

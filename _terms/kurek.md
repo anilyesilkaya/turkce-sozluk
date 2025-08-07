@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Toprak, kömür vb.ni bir yerden bir yere alıp atmaya, taşımaya yarayan ve yayvan bir bölümü, buna bağlı uzun bir sapı bulunan araç
 - Küçük deniz teknelerini yürütmeye yarayan, bir ucu yassı, uzun ağaç
-- ► kürek cezası
+- kürek cezası
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: pozitivizm
 letter: P
 lisan: Fransızca positivisme
 anlamlar:
-- ► olguculuk
+- olguculuk
 ozellikler:
 - - isim
   - felsefe

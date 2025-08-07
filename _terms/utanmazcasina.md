@@ -5,7 +5,7 @@ slug: utanmazcasina
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► utanmazca
+- utanmazca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: arz-cazibesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yer çekimi
+- yer çekimi
 ozellikler:
 - - isim
   - fizik

@@ -5,8 +5,8 @@ slug: diger
 letter: D
 lisan: Farsça dīger
 anlamlar:
-- ► öteki
-- ► başka
+- öteki
+- başka
 ozellikler:
 - - sıfat
 - - sıfat

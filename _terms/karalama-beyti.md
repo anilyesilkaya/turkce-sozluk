@@ -5,7 +5,7 @@ slug: karalama-beyti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► mühür beyti
+- mühür beyti
 ozellikler:
 - - isim
 ornekler:

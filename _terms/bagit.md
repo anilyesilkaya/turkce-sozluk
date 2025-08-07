@@ -5,7 +5,7 @@ slug: bagit
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sözleşme
+- sözleşme
 ozellikler:
 - - isim
   - hukuk

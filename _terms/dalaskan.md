@@ -5,7 +5,7 @@ slug: dalaskan
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kavgacı
+- kavgacı
 ozellikler:
 - - sıfat
 ornekler:

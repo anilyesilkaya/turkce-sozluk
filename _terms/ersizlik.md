@@ -5,7 +5,7 @@ slug: ersizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kocasızlık
+- kocasızlık
 ozellikler:
 - - isim
 ornekler:

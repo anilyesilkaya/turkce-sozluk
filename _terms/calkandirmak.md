@@ -5,7 +5,7 @@ slug: calkandirmak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► dalgalandırmak
+- dalgalandırmak
 ozellikler:
 - - -i
 ornekler:

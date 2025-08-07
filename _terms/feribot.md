@@ -5,7 +5,7 @@ slug: feribot
 letter: F
 lisan: İngilizce ferryboat
 anlamlar:
-- ► arabalı vapur
+- arabalı vapur
 ozellikler:
 - - isim
 ornekler:

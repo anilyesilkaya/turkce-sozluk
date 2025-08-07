@@ -5,7 +5,7 @@ slug: incik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► baldır
+- baldır
 - Bazı bölgelerde diz, ayak bileği, baldır veya kaval kemikleri
 ozellikler:
 - - isim

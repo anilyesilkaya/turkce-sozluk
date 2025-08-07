@@ -5,7 +5,7 @@ slug: kesre
 letter: K
 lisan: Arapça kesre
 anlamlar:
-- ► esre
+- esre
 ozellikler:
 - - isim
   - eskimiş

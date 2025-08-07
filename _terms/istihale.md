@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça istiḥāle
 anlamlar:
 - Biçim değiştirme
-- ► başkalaşma
-- ► başkalaşım
+- başkalaşma
+- başkalaşım
 ozellikler:
 - - isim
   - eskimiş

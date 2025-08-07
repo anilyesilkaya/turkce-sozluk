@@ -5,7 +5,7 @@ slug: limon-bahcesi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► limonluk
+- limonluk
 ozellikler:
 - - isim
 ornekler:

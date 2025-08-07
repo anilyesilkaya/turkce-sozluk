@@ -5,7 +5,7 @@ slug: veteriner-hekimligi
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► veterinerlik
+- veterinerlik
 ozellikler:
 - - isim
 ornekler:

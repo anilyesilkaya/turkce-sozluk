@@ -5,7 +5,7 @@ slug: buyma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► donma
+- donma
 ozellikler:
 - - isim
   - ağızlardan

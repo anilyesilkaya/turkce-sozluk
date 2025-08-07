@@ -5,7 +5,7 @@ slug: tasasiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kaygısız
+- kaygısız
 - Hiçbir şeyi kendine dert edinmeden
 ozellikler:
 - - sıfat

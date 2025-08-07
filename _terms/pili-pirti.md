@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Eski eşya
-- ► eşya
+- eşya
 ozellikler:
 - - isim
 - - isim

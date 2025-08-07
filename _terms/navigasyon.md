@@ -5,7 +5,7 @@ slug: navigasyon
 letter: N
 lisan: Fransızca navigation
 anlamlar:
-- ► yolbul
+- yolbul
 ozellikler:
 - - isim
   - denizcilik

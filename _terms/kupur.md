@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca coupure
 anlamlar:
 - Giyside kesim
-- ► kesik
+- kesik
 ozellikler:
 - - isim
 - - isim

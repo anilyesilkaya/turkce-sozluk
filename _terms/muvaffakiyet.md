@@ -5,7 +5,7 @@ slug: muvaffakiyet
 letter: M
 lisan: Arapça muvaffaḳiyyet
 anlamlar:
-- ► başarı
+- başarı
 ozellikler:
 - - isim
   - eskimiş

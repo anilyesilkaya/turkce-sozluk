@@ -5,7 +5,7 @@ slug: takaddum
 letter: T
 lisan: Arapça taḳaddum
 anlamlar:
-- ► öncelik
+- öncelik
 ozellikler:
 - - isim
   - eskimiş

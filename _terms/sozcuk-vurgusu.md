@@ -5,7 +5,7 @@ slug: sozcuk-vurgusu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kelime vurgusu
+- kelime vurgusu
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: sidik-sokturucu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar söktürücü
+- idrar söktürücü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: terorcu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► terörist
+- terörist
 ozellikler:
 - - isim
 ornekler:

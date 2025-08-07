@@ -5,7 +5,7 @@ slug: pohrenk
 letter: P
 lisan: Ermenice
 anlamlar:
-- ► künk
+- künk
 ozellikler:
 - - ''
 ornekler:

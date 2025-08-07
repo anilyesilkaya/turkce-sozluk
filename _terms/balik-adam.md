@@ -5,7 +5,7 @@ slug: balik-adam
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dalgıç
+- dalgıç
 ozellikler:
 - - isim
 ornekler:

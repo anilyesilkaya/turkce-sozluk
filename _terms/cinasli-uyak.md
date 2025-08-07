@@ -5,7 +5,7 @@ slug: cinasli-uyak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cinaslı kafiye
+- cinaslı kafiye
 ozellikler:
 - - isim
   - edebiyat

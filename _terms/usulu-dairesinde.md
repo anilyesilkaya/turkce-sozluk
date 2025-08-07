@@ -5,7 +5,7 @@ slug: usulu-dairesinde
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► gereğince
+- gereğince
 ozellikler:
 - - zarf
 ornekler:

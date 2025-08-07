@@ -6,7 +6,7 @@ letter: B
 lisan: Farsça bārī
 anlamlar:
 - Bu durum karşısında; hiç değilse, hiç olmazsa
-- ► keşke
+- keşke
 ozellikler:
 - - zarf
 - - zarf

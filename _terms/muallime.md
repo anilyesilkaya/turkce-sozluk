@@ -5,7 +5,7 @@ slug: muallime
 letter: M
 lisan: Arapça muʿallime
 anlamlar:
-- ► (kadın) öğretmen
+- (kadın) öğretmen
 ozellikler:
 - - isim
   - eskimiş

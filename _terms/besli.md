@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Beş parçadan oluşan, kendinde herhangi bir şeyden beş tane bulunan; muhammes
 - İskambil, domino vb. oyunlarda üzerinde beş işareti bulunan kâğıt veya taş
-- ► beşibirlik
-- ► ata beşibirlik
+- beşibirlik
+- ata beşibirlik
 - Divan edebiyatında beş dizeli bölümlerden oluşmuş manzume; muhammes
 - Halk edebiyatında üçlemeli bir bende, konu ile ilgili aynı ölçüde bir çift dizenin bağlanmasıyla oluşan manzume; muhammes
 - Beş ses veya beş müzik aracı için yazılan müzik eseri; kentet, kuintet

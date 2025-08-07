@@ -12,8 +12,8 @@ anlamlar:
 - Teneke ve çinko eşyaların üstüne süs yapmak için kullanılan araç
 - Bir yere girip çıkmayı denetim altına almak için görevlilerden oluşturulan dizi
 - Kıyı şeridi
-- ► göbek bağı
-- ► kıyı dili
+- göbek bağı
+- kıyı dili
 ozellikler:
 - - isim
 - - isim

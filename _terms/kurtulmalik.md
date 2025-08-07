@@ -5,7 +5,7 @@ slug: kurtulmalik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fidye
+- fidye
 ozellikler:
 - - isim
 ornekler:

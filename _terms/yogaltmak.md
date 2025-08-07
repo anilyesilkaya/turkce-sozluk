@@ -5,7 +5,7 @@ slug: yogaltmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► tüketmek
+- tüketmek
 ozellikler:
 - - -i
 ornekler:

@@ -5,7 +5,7 @@ slug: anemon
 letter: A
 lisan: Fransızca anémone
 anlamlar:
-- ► dağ lalesi
+- dağ lalesi
 ozellikler:
 - - isim
   - bitki bilimi

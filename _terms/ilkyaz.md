@@ -5,7 +5,7 @@ slug: ilkyaz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilkbahar
+- ilkbahar
 ozellikler:
 - - isim
   - gök bilimi

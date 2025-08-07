@@ -5,7 +5,7 @@ slug: yirtim
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► manifatura
+- manifatura
 - Yalnız bir elbiselik, şalvar vb. dikilebilir büyüklükte olan (kumaş)
 ozellikler:
 - - isim

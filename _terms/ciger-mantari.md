@@ -5,7 +5,7 @@ slug: ciger-mantari
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► biftek mantarı
+- biftek mantarı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: pest
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pes (II)
+- pes (II)
 ozellikler:
 - - sıfat
 ornekler:

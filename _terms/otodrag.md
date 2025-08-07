@@ -5,7 +5,7 @@ slug: otodrag
 letter: O
 lisan: İngilizce autodrag
 anlamlar:
-- ► kalkış yarışı
+- kalkış yarışı
 ozellikler:
 - - isim
 ornekler:

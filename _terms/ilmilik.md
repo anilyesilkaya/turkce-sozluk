@@ -5,7 +5,7 @@ slug: ilmilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bilimsellik
+- bilimsellik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: beyhude-yere
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► boşuna
+- boşuna
 ozellikler:
 - - zarf
 ornekler:

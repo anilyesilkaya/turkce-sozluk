@@ -5,7 +5,7 @@ slug: kok-bilgisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köken bilimi
+- köken bilimi
 ozellikler:
 - - isim
 ornekler:

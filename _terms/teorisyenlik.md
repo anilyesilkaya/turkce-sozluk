@@ -5,7 +5,7 @@ slug: teorisyenlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kuramcılık
+- kuramcılık
 ozellikler:
 - - isim
 ornekler:

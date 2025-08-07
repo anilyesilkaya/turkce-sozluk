@@ -5,7 +5,7 @@ slug: felekiyat
 letter: F
 lisan: Arapça felekiyyāt
 anlamlar:
-- ► gök bilimi
+- gök bilimi
 ozellikler:
 - - isim
   - eskimiş

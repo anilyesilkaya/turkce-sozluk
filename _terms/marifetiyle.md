@@ -5,7 +5,7 @@ slug: marifetiyle
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aracılığıyla
+- aracılığıyla
 ozellikler:
 - - zarf
 ornekler:

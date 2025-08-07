@@ -5,7 +5,7 @@ slug: vakit-vakit
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

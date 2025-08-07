@@ -5,7 +5,7 @@ slug: muslim
 letter: M
 lisan: Arapça muslim
 anlamlar:
-- ► Müslüman
+- Müslüman
 ozellikler:
 - - isim
   - din bilimi

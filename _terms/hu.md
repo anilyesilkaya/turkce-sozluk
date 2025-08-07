@@ -5,7 +5,7 @@ slug: hu
 letter: H
 lisan: Arapça hū
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
 ornekler:

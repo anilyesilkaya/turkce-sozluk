@@ -5,7 +5,7 @@ slug: kesis
 letter: K
 lisan: Farsça keşīş
 anlamlar:
-- ► rahip
+- rahip
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fit
 letter: F
 lisan: İngilizce feet
 anlamlar:
-- ► ayak
+- ayak
 ozellikler:
 - - isim
 ornekler:

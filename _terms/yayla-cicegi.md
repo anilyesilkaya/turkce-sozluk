@@ -5,7 +5,7 @@ slug: yayla-cicegi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ölmez çiçek
+- ölmez çiçek
 ozellikler:
 - - isim
   - bitki bilimi

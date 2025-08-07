@@ -5,7 +5,7 @@ slug: hezimet
 letter: H
 lisan: Arapça hezīmet
 anlamlar:
-- ► bozgun
+- bozgun
 ozellikler:
 - - isim
 ornekler:

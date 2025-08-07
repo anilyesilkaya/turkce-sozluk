@@ -5,7 +5,7 @@ slug: korpus
 letter: K
 lisan: Fransızca corpus
 anlamlar:
-- ► derlem
+- derlem
 - Herhangi bir konuda oluşturulan külliyat
 ozellikler:
 - - isim

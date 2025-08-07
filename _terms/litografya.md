@@ -5,7 +5,7 @@ slug: litografya
 letter: L
 lisan: Yunanca
 anlamlar:
-- ► taş basması
+- taş basması
 - Bu yöntemle basılmış (yazı, resim)
 ozellikler:
 - - isim

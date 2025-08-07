@@ -5,7 +5,7 @@ slug: baba-yarisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► amca
+- amca
 - Çok sevilen ve sayılan, baba yerine konulan kimse
 ozellikler:
 - - isim

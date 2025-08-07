@@ -8,7 +8,7 @@ anlamlar:
 - Asıl veya en belirgin özellik
 - Su, elektrik, telefon, gaz vb.ndeki hatların dağıtımının yapıldığı merkezî hat
 - Atık su giderlerinin toplandığı merkezî hat
-- ► ana yol
+- ana yol
 ozellikler:
 - - isim
 - - isim

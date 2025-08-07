@@ -5,8 +5,8 @@ slug: lalettayin
 letter: L
 lisan: Arapça lā ʿalāʿt-taʿyīn
 anlamlar:
-- ► gelişigüzel
-- ► sıradan
+- gelişigüzel
+- sıradan
 ozellikler:
 - - sıfat
   - eskimiş

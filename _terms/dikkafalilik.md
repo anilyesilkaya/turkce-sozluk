@@ -5,7 +5,7 @@ slug: dikkafalilik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dikbaşlılık
+- dikbaşlılık
 ozellikler:
 - - isim
 ornekler:

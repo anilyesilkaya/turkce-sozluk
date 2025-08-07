@@ -5,7 +5,7 @@ slug: agnostisizm
 letter: A
 lisan: Fransızca agnosticisme
 anlamlar:
-- ► bilinemezcilik
+- bilinemezcilik
 ozellikler:
 - - isim
   - felsefe

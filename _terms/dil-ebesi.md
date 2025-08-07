@@ -5,7 +5,7 @@ slug: dil-ebesi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► laf ebesi
+- laf ebesi
 ozellikler:
 - - isim
   - mecaz

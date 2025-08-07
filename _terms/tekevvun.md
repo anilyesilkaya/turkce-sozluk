@@ -5,7 +5,7 @@ slug: tekevvun
 letter: T
 lisan: Arapça tekevvun
 anlamlar:
-- ► oluş
+- oluş
 ozellikler:
 - - isim
   - eskimiş

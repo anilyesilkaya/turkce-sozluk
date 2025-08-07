@@ -5,7 +5,7 @@ slug: karakarga
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuzgun
+- kuzgun
 ozellikler:
 - - isim
   - hayvan bilimi

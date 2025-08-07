@@ -5,7 +5,7 @@ slug: sirtcilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► hamallık
+- hamallık
 ozellikler:
 - - isim
 ornekler:

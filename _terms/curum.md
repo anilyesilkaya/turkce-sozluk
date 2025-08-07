@@ -5,7 +5,7 @@ slug: curum
 letter: C
 lisan: Arapça curm
 anlamlar:
-- ► suç
+- suç
 - Yanlışlık, kusur veya hata
 ozellikler:
 - - isim

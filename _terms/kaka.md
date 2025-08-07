@@ -5,7 +5,7 @@ slug: kaka
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dışkı
+- dışkı
 - Çocuk dilinde kötü, çirkin
 ozellikler:
 - - isim

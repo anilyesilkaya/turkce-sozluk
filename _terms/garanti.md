@@ -5,7 +5,7 @@ slug: garanti
 letter: G
 lisan: Fransızca garantie
 anlamlar:
-- ► güvence
+- güvence
 - Kesinlikle, kesin olarak, ne olursa olsun
 ozellikler:
 - - isim

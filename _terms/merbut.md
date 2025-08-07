@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça merbūṭ
 anlamlar:
 - Bağlı, bağlanmış
-- ► ilişkin
+- ilişkin
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: menfur
 letter: M
 lisan: Arapça menfūr
 anlamlar:
-- ► tiksindirici
+- tiksindirici
 ozellikler:
 - - sıfat
 ornekler:

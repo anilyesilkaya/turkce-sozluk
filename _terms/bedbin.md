@@ -5,7 +5,7 @@ slug: bedbin
 letter: B
 lisan: Farsça bed-bīn
 anlamlar:
-- ► kötümser
+- kötümser
 ozellikler:
 - - sıfat
   - felsefe

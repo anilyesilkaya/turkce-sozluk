@@ -5,7 +5,7 @@ slug: kutsamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kutsallaştırmak
+- kutsallaştırmak
 - Kutlu ve aziz kılmak; takdis etmek
 ozellikler:
 - - -i

@@ -5,10 +5,10 @@ slug: inkisaf
 letter: I
 lisan: Arapça inkişāf
 anlamlar:
-- ► gelişme
-- ► gelişim
+- gelişme
+- gelişim
 - Meydana çıkma, aşikâr olma
-- ► açınım
+- açınım
 ozellikler:
 - - isim
   - eskimiş

@@ -7,8 +7,8 @@ lisan: Arapça iḥsān
 anlamlar:
 - İyilik etme, iyi davranma
 - Bağışlama, bağışta bulunma
-- ► lütuf
-- ► iyilik
+- lütuf
+- iyilik
 ozellikler:
 - - isim
 - - isim

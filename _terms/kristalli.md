@@ -5,7 +5,7 @@ slug: kristalli
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► billurlu
+- billurlu
 ozellikler:
 - - sıfat
 ornekler:

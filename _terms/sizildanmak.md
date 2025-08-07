@@ -5,7 +5,7 @@ slug: sizildanmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► mızırdanmak
+- mızırdanmak
 ozellikler:
 - - nesnesiz
 ornekler:

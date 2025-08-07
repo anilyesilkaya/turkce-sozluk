@@ -5,7 +5,7 @@ slug: macaristanli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► Macar
+- Macar
 ozellikler:
 - - isim
 ornekler:

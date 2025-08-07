@@ -5,7 +5,7 @@ slug: kontratsiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sözleşmesiz
+- sözleşmesiz
 ozellikler:
 - - sıfat
 ornekler:

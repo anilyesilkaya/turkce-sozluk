@@ -5,7 +5,7 @@ slug: basyargici
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başhakem
+- başhakem
 ozellikler:
 - - isim
   - spor

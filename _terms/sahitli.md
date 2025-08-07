@@ -5,7 +5,7 @@ slug: sahitli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tanıklı
+- tanıklı
 ozellikler:
 - - sıfat
 ornekler:

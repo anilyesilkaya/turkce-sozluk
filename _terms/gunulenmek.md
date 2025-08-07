@@ -5,7 +5,7 @@ slug: gunulenmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kıskanılmak
+- kıskanılmak
 ozellikler:
 - - nesnesiz
 ornekler:

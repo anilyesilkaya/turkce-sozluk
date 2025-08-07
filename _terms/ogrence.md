@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğrenmek amacıyla deneme olarak yapma
-- ► simülasyon
+- simülasyon
 ozellikler:
 - - isim
 - - isim

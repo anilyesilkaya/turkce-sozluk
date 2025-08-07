@@ -5,7 +5,7 @@ slug: lagvolmak
 letter: L
 lisan: Arapça laġv + Türkçe olmak
 anlamlar:
-- ► fesholmak
+- fesholmak
 - Hükümsüz kılınmak
 ozellikler:
 - - nesnesiz

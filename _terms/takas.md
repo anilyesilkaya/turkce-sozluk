@@ -5,7 +5,7 @@ slug: takas
 letter: T
 lisan: Arapça taḳāṣṣ
 anlamlar:
-- ► değişim
+- değişim
 - İki ülke arasında yapılan alışverişin karşılıklı olarak malla ödenmesi
 ozellikler:
 - - isim

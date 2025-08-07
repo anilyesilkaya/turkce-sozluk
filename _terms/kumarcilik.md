@@ -5,7 +5,7 @@ slug: kumarcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kumarbazlık
+- kumarbazlık
 ozellikler:
 - - isim
 ornekler:

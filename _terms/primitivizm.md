@@ -5,7 +5,7 @@ slug: primitivizm
 letter: P
 lisan: Fransızca primitivisme
 anlamlar:
-- ► ilkelcilik
+- ilkelcilik
 ozellikler:
 - - isim
   - felsefe

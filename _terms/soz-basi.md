@@ -5,7 +5,7 @@ slug: soz-basi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ön söz
+- ön söz
 ozellikler:
 - - isim
 ornekler:

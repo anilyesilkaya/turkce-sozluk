@@ -5,8 +5,8 @@ slug: protez
 letter: P
 lisan: Fransızca prothèse
 anlamlar:
-- ► takma
-- ► ön ses türemesi
+- takma
+- ön ses türemesi
 ozellikler:
 - - sıfat
   - tıp

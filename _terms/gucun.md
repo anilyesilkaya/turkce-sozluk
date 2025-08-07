@@ -5,8 +5,8 @@ slug: gucun
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► dara dar
-- ► ancak
+- dara dar
+- ancak
 ozellikler:
 - - zarf
   - ağızlardan

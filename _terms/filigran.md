@@ -5,7 +5,7 @@ slug: filigran
 letter: F
 lisan: Fransızca filigrane
 anlamlar:
-- ► suyolu
+- suyolu
 ozellikler:
 - - isim
 ornekler:

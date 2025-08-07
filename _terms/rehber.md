@@ -5,8 +5,8 @@ slug: rehber
 letter: R
 lisan: Farsça rehber
 anlamlar:
-- ► kılavuz
-- ► turist rehberi
+- kılavuz
+- turist rehberi
 - Bazı bilgileri bulmayı kolaylaştıran fihrist mahiyetindeki kitap
 - Birinin doğruyu bulmasına yardımcı olan, yol gösteren kimse veya şey, delil
 ozellikler:

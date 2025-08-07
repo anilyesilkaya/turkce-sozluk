@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Kayırılarak yapılan (iş)
-- ► arkalı
+- arkalı
 ozellikler:
 - - sıfat
 - - sıfat

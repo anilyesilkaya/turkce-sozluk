@@ -5,7 +5,7 @@ slug: bayir-kusu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çalı bülbülü
+- çalı bülbülü
 ozellikler:
 - - isim
   - hayvan bilimi

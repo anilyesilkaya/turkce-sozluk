@@ -5,7 +5,7 @@ slug: dugmelenmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iliklenmek
+- iliklenmek
 ozellikler:
 - - nesnesiz
 ornekler:

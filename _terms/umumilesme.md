@@ -5,7 +5,7 @@ slug: umumilesme
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genelleşme
+- genelleşme
 ozellikler:
 - - isim
 ornekler:

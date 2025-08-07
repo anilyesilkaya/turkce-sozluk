@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça istiḫfāf
 anlamlar:
 - Küçümseme, hor görme
-- ► hafifseme
+- hafifseme
 ozellikler:
 - - isim
   - eskimiş

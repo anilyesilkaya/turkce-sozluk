@@ -5,7 +5,7 @@ slug: ikametgah-kagidi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yerleşim belgesi
+- yerleşim belgesi
 ozellikler:
 - - isim
 ornekler:

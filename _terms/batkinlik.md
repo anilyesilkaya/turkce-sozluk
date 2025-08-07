@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Batmış, çökmüş olma durumu
-- ► müflislik
+- müflislik
 ozellikler:
 - - isim
   - ticaret

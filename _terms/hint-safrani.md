@@ -5,7 +5,7 @@ slug: hint-safrani
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► zerdeçal
+- zerdeçal
 ozellikler:
 - - isim
   - bitki bilimi

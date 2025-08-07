@@ -5,7 +5,7 @@ slug: formatlama
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► biçimlendirme
+- biçimlendirme
 ozellikler:
 - - isim
 ornekler:

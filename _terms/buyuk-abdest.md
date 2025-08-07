@@ -5,7 +5,7 @@ slug: buyuk-abdest
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dışkı
+- dışkı
 ozellikler:
 - - isim
 ornekler:

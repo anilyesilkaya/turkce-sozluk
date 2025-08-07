@@ -5,7 +5,7 @@ slug: mutlak-nem
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► salt nem
+- salt nem
 ozellikler:
 - - isim
   - coğrafya

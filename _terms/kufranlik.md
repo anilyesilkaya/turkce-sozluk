@@ -5,7 +5,7 @@ slug: kufranlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► nankörlük
+- nankörlük
 ozellikler:
 - - isim
 ornekler:

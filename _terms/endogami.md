@@ -5,7 +5,7 @@ slug: endogami
 letter: E
 lisan: Fransızca endogamie
 anlamlar:
-- ► iç evlilik
+- iç evlilik
 ozellikler:
 - - isim
   - toplum bilimi

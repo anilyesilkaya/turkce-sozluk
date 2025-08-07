@@ -5,7 +5,7 @@ slug: sigla
 letter: S
 lisan: Rumca
 anlamlar:
-- ► günlük ağacı
+- günlük ağacı
 ozellikler:
 - - isim
   - bitki bilimi

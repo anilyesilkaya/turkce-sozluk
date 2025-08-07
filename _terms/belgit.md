@@ -5,7 +5,7 @@ slug: belgit
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► senet
+- senet
 - Bir önermeyi tanıtlamak için gösterilen ve daha önce doğru diye kabul edilen başka önerme; hüccet, burhan
 ozellikler:
 - - isim

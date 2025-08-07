@@ -5,7 +5,7 @@ slug: celtikkargasi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► karaleylek
+- karaleylek
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: taravet
 letter: T
 lisan: Arapça ṭarāvet
 anlamlar:
-- ► körpelik
+- körpelik
 ozellikler:
 - - isim
   - eskimiş

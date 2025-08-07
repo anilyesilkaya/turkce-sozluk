@@ -5,7 +5,7 @@ slug: insanci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insancıl
+- insancıl
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: gozu-bagli
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► aymaz
+- aymaz
 - Sorup soruşturmaksızın, bakıp anlamadan
 ozellikler:
 - - sıfat

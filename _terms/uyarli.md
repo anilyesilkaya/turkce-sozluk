@@ -5,7 +5,7 @@ slug: uyarli
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyumlu
+- uyumlu
 ozellikler:
 - - sıfat
 ornekler:

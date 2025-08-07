@@ -5,7 +5,7 @@ slug: sehbender
 letter: Ş
 lisan: Farsça şeh + bender
 anlamlar:
-- ► konsolos
+- konsolos
 ozellikler:
 - - isim
   - eskimiş

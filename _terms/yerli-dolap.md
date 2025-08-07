@@ -5,7 +5,7 @@ slug: yerli-dolap
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► gömme dolap
+- gömme dolap
 ozellikler:
 - - isim
   - mimarlık

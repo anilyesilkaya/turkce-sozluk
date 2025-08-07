@@ -5,7 +5,7 @@ slug: referandum
 letter: R
 lisan: Fransızca référendum
 anlamlar:
-- ► halk oylaması
+- halk oylaması
 ozellikler:
 - - isim
   - hukuk

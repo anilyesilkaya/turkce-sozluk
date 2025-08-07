@@ -5,8 +5,8 @@ slug: velut
 letter: V
 lisan: Arapça velūd
 anlamlar:
-- ► doğurgan
-- ► verimli
+- doğurgan
+- verimli
 ozellikler:
 - - sıfat
   - eskimiş

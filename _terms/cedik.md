@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Mesh üzerine giyilen sarı pabuç
-- ► terlik
+- terlik
 ozellikler:
 - - isim
   - ağızlardan

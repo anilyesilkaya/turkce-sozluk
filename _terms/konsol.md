@@ -7,7 +7,7 @@ lisan: Fransızca console
 anlamlar:
 - Duvar kenarına yerleştirilen, üstüne ayna ve başka süs eşyası konulan, çekmeceli, dolaplı mobilya
 - Yalnız bir yanındaki dayanak tarafından taşınan, diğer bölümleri boşlukta olan yatay yapı ögesi
-- ► oyun konsolu
+- oyun konsolu
 ozellikler:
 - - isim
 - - isim

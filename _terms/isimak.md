@@ -5,7 +5,7 @@ slug: isimak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► aydınlanmak
+- aydınlanmak
 - Işık saçmak
 ozellikler:
 - - nesnesiz

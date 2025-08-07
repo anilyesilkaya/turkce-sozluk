@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bazı yiyecek ve içecekler için koruyucu kap olarak kullanılan, önü yarılmadan bütün olarak yüzülmüş hayvan derisi; tuluk
 - Gövdesi bu deriden yapılmış üflemeli çalgı
-- ► tüp
+- tüp
 - Göğüs ve pantolon bölümü bitişik giysi
 - Şişman, tombul olan
 ozellikler:

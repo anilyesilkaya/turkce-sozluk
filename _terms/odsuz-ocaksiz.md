@@ -5,7 +5,7 @@ slug: odsuz-ocaksiz
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► evsiz barksız
+- evsiz barksız
 - Yoksul olan (kimse)
 ozellikler:
 - - sıfat

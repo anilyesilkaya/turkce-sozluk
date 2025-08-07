@@ -5,7 +5,7 @@ slug: uzunc
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üzüntü
+- üzüntü
 ozellikler:
 - - isim
 ornekler:

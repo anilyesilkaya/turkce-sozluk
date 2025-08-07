@@ -5,7 +5,7 @@ slug: motto
 letter: M
 lisan: İtalyanca motto
 anlamlar:
-- ► özdeyiş
+- özdeyiş
 ozellikler:
 - - isim
 ornekler:

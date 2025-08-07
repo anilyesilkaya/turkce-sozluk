@@ -5,7 +5,7 @@ slug: erim
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► muştu
+- muştu
 ozellikler:
 - - isim
 ornekler:

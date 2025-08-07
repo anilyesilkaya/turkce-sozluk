@@ -5,7 +5,7 @@ slug: didona-sakalli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► didon sakallı
+- didon sakallı
 ozellikler:
 - - sıfat
 ornekler:

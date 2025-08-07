@@ -10,7 +10,7 @@ anlamlar:
 - Belli bir amaca yönelik olarak olup gerçekleşmiş iş, yapılıp gerçekleşmiş hareket veya davranış, kasıtlı kasıtsız her türlü iş; fiil
 - Toplu hâlde veya kişisel olarak bir olayı, hareketi, kurum veya kuruluşu protesto etmek amacıyla yapılan izinli veya izinsiz gösteri
 - Siyasal veya toplumsal amaçlarla yasa dışı gerçekleştirilen silahlı hareket
-- ► fiil
+- fiil
 ozellikler:
 - - isim
 - - isim

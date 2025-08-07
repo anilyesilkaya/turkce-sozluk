@@ -5,7 +5,7 @@ slug: koygun
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► acıklı
+- acıklı
 ozellikler:
 - - sıfat
   - ağızlardan

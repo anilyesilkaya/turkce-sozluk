@@ -5,7 +5,7 @@ slug: izometri
 letter: I
 lisan: Fransızca isométrie
 anlamlar:
-- ► eş ölçüm
+- eş ölçüm
 ozellikler:
 - - isim
   - geometri

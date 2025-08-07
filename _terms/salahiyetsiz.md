@@ -5,7 +5,7 @@ slug: salahiyetsiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yetkisiz
+- yetkisiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: nazariyecilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kuramcılık
+- kuramcılık
 ozellikler:
 - - isim
 ornekler:

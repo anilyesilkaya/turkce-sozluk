@@ -5,8 +5,8 @@ slug: inikas
 letter: I
 lisan: Arapça inʿikās
 anlamlar:
-- ► yansı
-- ► yankı
+- yansı
+- yankı
 - Piyasada tepki veya etki
 ozellikler:
 - - isim

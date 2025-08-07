@@ -5,7 +5,7 @@ slug: sendrom
 letter: S
 lisan: Fransızca syndrome
 anlamlar:
-- ► belirge
+- belirge
 - Bir durumun insan üzerinde bıraktığı olumsuz etki
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: fatalite
 letter: F
 lisan: Fransızca fatalité
 anlamlar:
-- ► yazgı
+- yazgı
 ozellikler:
 - - isim
 ornekler:

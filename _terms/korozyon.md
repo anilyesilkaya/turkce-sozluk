@@ -5,7 +5,7 @@ slug: korozyon
 letter: K
 lisan: Fransızca corrosion
 anlamlar:
-- ► aşındırma
+- aşındırma
 ozellikler:
 - - isim
   - kimya

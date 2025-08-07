@@ -5,7 +5,7 @@ slug: tereddi
 letter: T
 lisan: Arapça tereddī
 anlamlar:
-- ► yozlaşma
+- yozlaşma
 ozellikler:
 - - isim
   - eskimiş

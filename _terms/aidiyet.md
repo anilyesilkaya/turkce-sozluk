@@ -5,7 +5,7 @@ slug: aidiyet
 letter: A
 lisan: Arapça ʿāʾidiyyet
 anlamlar:
-- ► aitlik
+- aitlik
 ozellikler:
 - - isim
 ornekler:

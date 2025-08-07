@@ -5,7 +5,7 @@ slug: hak-kusu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► bataklık baykuşu
+- bataklık baykuşu
 ozellikler:
 - - isim
   - hayvan bilimi

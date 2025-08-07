@@ -5,7 +5,7 @@ slug: seytani
 letter: Ş
 lisan: Arapça şeyṭānī
 anlamlar:
-- ► şeytanca
+- şeytanca
 - Şeytanla ilgili
 ozellikler:
 - - sıfat

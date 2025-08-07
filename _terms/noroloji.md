@@ -5,7 +5,7 @@ slug: noroloji
 letter: N
 lisan: Fransızca neurologie
 anlamlar:
-- ► sinir bilimi
+- sinir bilimi
 - Hastanelerde sinir hastalıklarıyla ilgili bölüm
 ozellikler:
 - - isim

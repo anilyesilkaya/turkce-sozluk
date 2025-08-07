@@ -5,8 +5,8 @@ slug: cirlak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cırcır böceği
-- ► cırtlak
+- cırcır böceği
+- cırtlak
 ozellikler:
 - - isim
   - ağızlardan

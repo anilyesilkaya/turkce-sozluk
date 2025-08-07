@@ -5,7 +5,7 @@ slug: paravana
 letter: P
 lisan: İtalyanca paravento
 anlamlar:
-- ► paravan
+- paravan
 ozellikler:
 - - isim
 ornekler:

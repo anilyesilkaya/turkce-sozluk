@@ -5,9 +5,9 @@ slug: burgu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başörtüsü
-- ► çarşaf
-- ► atkı
+- başörtüsü
+- çarşaf
+- atkı
 - İnce perde
 ozellikler:
 - - isim

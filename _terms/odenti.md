@@ -5,7 +5,7 @@ slug: odenti
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► aidat
+- aidat
 ozellikler:
 - - isim
 ornekler:

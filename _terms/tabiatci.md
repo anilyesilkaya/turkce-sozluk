@@ -5,7 +5,7 @@ slug: tabiatci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğa bilimci
+- doğa bilimci
 ozellikler:
 - - isim
 ornekler:

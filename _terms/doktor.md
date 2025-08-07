@@ -5,7 +5,7 @@ slug: doktor
 letter: D
 lisan: Fransızca docteur
 anlamlar:
-- ► hekim
+- hekim
 - Bir fakülteyi veya bir yüksekokulu bitirdikten sonra belli bir bilim dalında en yükseköğrenim basamağına vardığını, geçirdiği özel sınavla ve başarılı bir eserle gösterenlere verilen akademik ünvan
 ozellikler:
 - - isim

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Parmakların kapanmasıyla elin aldığı biçim
 - Elin bu biçimiyle yapılan vuruş; sumsuk, panç
-- ► baskı
+- baskı
 ozellikler:
 - - isim
 - - isim

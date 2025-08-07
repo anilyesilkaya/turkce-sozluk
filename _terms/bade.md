@@ -5,7 +5,7 @@ slug: bade
 letter: B
 lisan: Farsça bāde
 anlamlar:
-- ► şarap
+- şarap
 ozellikler:
 - - isim
   - eskimiş

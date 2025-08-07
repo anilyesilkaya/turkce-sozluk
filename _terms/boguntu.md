@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Zor soluk alma
-- ► bunalma
+- bunalma
 - Bir şeyi değerinden çok yükseğe satma işi, vurgunculuk, ihtikâr
 ozellikler:
 - - isim

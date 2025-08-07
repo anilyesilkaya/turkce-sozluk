@@ -5,7 +5,7 @@ slug: hesabilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hesapçılık
+- hesapçılık
 ozellikler:
 - - isim
 ornekler:

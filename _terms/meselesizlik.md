@@ -5,7 +5,7 @@ slug: meselesizlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorunsuzluk
+- sorunsuzluk
 ozellikler:
 - - isim
 ornekler:

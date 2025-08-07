@@ -5,7 +5,7 @@ slug: seffaflastirmak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► saydamlaştırmak
+- saydamlaştırmak
 ozellikler:
 - - -i
 ornekler:

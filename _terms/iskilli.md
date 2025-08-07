@@ -5,7 +5,7 @@ slug: iskilli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kuşkucu
+- kuşkucu
 ozellikler:
 - - sıfat
 ornekler:

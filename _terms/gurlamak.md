@@ -5,7 +5,7 @@ slug: gurlamak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► guruldamak
+- guruldamak
 ozellikler:
 - - nesnesiz
 ornekler:

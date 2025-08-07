@@ -5,7 +5,7 @@ slug: demografik
 letter: D
 lisan: Fransızca démographique
 anlamlar:
-- ► nüfus bilimsel
+- nüfus bilimsel
 ozellikler:
 - - sıfat
 ornekler:

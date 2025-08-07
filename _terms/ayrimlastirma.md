@@ -5,7 +5,7 @@ slug: ayrimlastirma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► farklılaştırma
+- farklılaştırma
 ozellikler:
 - - isim
 ornekler:

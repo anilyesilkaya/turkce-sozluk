@@ -6,8 +6,8 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Her yiyeceği canı çeken
-- ► asalak
-- ► cimri
+- asalak
+- cimri
 - Anası ve babası olmayan veya atılmış, bırakılmış çocuk
 - Arsız, yüzsüz, görgüsüz (kimse)
 - Anası ölüp başka bir koyuna alıştırılan veya elle beslenen (kuzu)

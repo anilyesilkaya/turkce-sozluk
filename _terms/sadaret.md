@@ -5,7 +5,7 @@ slug: sadaret
 letter: S
 lisan: Arapça ṣadāret
 anlamlar:
-- ► sadrazamlık
+- sadrazamlık
 ozellikler:
 - - isim
   - tarih

@@ -5,7 +5,7 @@ slug: kinali-yapincak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yapıncak (II)
+- yapıncak (II)
 ozellikler:
 - - isim
   - bitki bilimi

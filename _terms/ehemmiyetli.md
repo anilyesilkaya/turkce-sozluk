@@ -5,7 +5,7 @@ slug: ehemmiyetli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► önemli
+- önemli
 ozellikler:
 - - sıfat
 ornekler:

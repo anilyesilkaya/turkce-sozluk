@@ -5,7 +5,7 @@ slug: lopur
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lopur
+- lopur
 ozellikler:
 - - isim
 ornekler:

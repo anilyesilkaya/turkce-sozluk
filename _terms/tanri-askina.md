@@ -5,7 +5,7 @@ slug: tanri-askina
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Allah aşkına
+- Allah aşkına
 ozellikler:
 - - ünlem
 ornekler:

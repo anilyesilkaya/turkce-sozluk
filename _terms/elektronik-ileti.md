@@ -5,7 +5,7 @@ slug: elektronik-ileti
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik posta
+- elektronik posta
 ozellikler:
 - - isim
   - bilişim

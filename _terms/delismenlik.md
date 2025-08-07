@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Delişmen olma durumu
-- ► hoppalık
+- hoppalık
 ozellikler:
 - - isim
 - - isim

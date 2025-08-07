@@ -5,7 +5,7 @@ slug: mebzul
 letter: M
 lisan: Arapça mebẕūl
 anlamlar:
-- ► bol (I)
+- bol (I)
 ozellikler:
 - - sıfat
   - eskimiş

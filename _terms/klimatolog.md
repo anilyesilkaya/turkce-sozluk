@@ -5,7 +5,7 @@ slug: klimatolog
 letter: K
 lisan: Fransızca climatologue
 anlamlar:
-- ► iklim bilimci
+- iklim bilimci
 ozellikler:
 - - isim
 ornekler:

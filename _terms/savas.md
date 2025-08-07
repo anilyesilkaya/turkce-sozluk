@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Devletlerin diplomatik ilişkilerini keserek giriştikleri silahlı mücadele; harp (I), cenk, cidal, kıtal
-- ► mücadele
+- mücadele
 - Bir şeyi ortadan kaldırmak, yok etmek amacıyla girişilen çaba
 ozellikler:
 - - isim

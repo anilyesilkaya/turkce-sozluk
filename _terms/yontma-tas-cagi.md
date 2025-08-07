@@ -5,7 +5,7 @@ slug: yontma-tas-cagi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Yontma Taş Devri
+- Yontma Taş Devri
 ozellikler:
 - - isim
 ornekler:

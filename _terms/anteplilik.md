@@ -5,7 +5,7 @@ slug: anteplilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Gazianteplilik
+- Gazianteplilik
 ozellikler:
 - - isim
 ornekler:

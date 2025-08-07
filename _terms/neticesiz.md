@@ -5,7 +5,7 @@ slug: neticesiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sonuçsuz
+- sonuçsuz
 ozellikler:
 - - sıfat
 ornekler:

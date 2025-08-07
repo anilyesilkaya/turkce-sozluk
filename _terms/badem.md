@@ -5,7 +5,7 @@ slug: badem
 letter: B
 lisan: Farsça bādām
 anlamlar:
-- ► badem ağacı
+- badem ağacı
 - Bu ağacın yaş veya kuru yenilen yemişi
 ozellikler:
 - - isim

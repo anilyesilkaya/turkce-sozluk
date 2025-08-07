@@ -9,7 +9,7 @@ anlamlar:
 - Hoş ve latif bir şekilde görünme ortaya çıkma
 - Göz alıcı hareketlilik
 - Bir olayın veya durumun bir kişiyi şaşırtan ve beklenmedik yanı
-- ► tecelli
+- tecelli
 ozellikler:
 - - isim
 - - isim

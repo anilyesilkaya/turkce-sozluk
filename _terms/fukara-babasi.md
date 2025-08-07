@@ -5,7 +5,7 @@ slug: fukara-babasi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fakir fukara babası
+- fakir fukara babası
 ozellikler:
 - - sıfat
   - mecaz

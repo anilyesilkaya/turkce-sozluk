@@ -5,7 +5,7 @@ slug: e-kayit
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik kayıt
+- elektronik kayıt
 ozellikler:
 - - isim
 ornekler:

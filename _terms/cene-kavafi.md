@@ -5,7 +5,7 @@ slug: cene-kavafi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► geveze
+- geveze
 ozellikler:
 - - sıfat
   - mecaz

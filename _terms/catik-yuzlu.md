@@ -5,7 +5,7 @@ slug: catik-yuzlu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► asık suratlı
+- asık suratlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: kirmizifener
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► genelev
+- genelev
 ozellikler:
 - - isim
   - argo

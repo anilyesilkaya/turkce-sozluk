@@ -12,7 +12,7 @@ anlamlar:
 - Bir duyguyu, bir olguyu içinde veya üzerinde fazlaca bulunduran
 - Çok sarhoş
 - Paralı, varlıklı
-- ► gebe
+- gebe
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,8 +5,8 @@ slug: belenmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kundaklanmak
-- ► bulanmak
+- kundaklanmak
+- bulanmak
 ozellikler:
 - - -e
   - ağızlardan

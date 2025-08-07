@@ -5,7 +5,7 @@ slug: tahaccum
 letter: T
 lisan: Arapça taḥaccum
 anlamlar:
-- ► büyüme
+- büyüme
 ozellikler:
 - - isim
   - eskimiş

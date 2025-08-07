@@ -5,7 +5,7 @@ slug: ahret
 letter: A
 lisan: Arapça āḫiret
 anlamlar:
-- ► ahiret
+- ahiret
 ozellikler:
 - - isim
 ornekler:

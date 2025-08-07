@@ -5,7 +5,7 @@ slug: insaniyet
 letter: I
 lisan: Arapça insāniyyet
 anlamlar:
-- ► insanlık
+- insanlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: limnolojik
 letter: L
 lisan: Fransızca limnologique
 anlamlar:
-- ► göl bilimsel
+- göl bilimsel
 ozellikler:
 - - sıfat
 ornekler:

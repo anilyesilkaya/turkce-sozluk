@@ -5,7 +5,7 @@ slug: yeregecen
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► havuç
+- havuç
 ozellikler:
 - - isim
   - bitki bilimi

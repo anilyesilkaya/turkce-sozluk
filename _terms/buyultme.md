@@ -5,7 +5,7 @@ slug: buyultme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büyütme
+- büyütme
 - Fotoğraf ve resimlere boyut kazandırma işlemi; agrandisman
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: gasyolma
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► esrime
+- esrime
 ozellikler:
 - - isim
 ornekler:

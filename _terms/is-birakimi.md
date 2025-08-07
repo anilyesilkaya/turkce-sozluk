@@ -5,7 +5,7 @@ slug: is-birakimi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► grev
+- grev
 ozellikler:
 - - isim
 ornekler:

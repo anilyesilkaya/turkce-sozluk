@@ -5,7 +5,7 @@ slug: atraksiyon
 letter: A
 lisan: Fransızca attraction
 anlamlar:
-- ► eğlendiri
+- eğlendiri
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Saray ve konaklarda kadınlara ayrılan bölüm, selamlık karşıtı
 - Bu bölümde oturan kadınların hepsi
 - Sarayda padişahın özel hayatının geçtiği bölüm
-- ► hanım
+- hanım
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: azeri
 letter: A
 lisan: Farsça āẕārī
 anlamlar:
-- ► Azerbaycan Türkü
+- Azerbaycan Türkü
 ozellikler:
 - - isim
 ornekler:

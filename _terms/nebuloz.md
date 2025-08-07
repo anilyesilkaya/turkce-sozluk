@@ -5,7 +5,7 @@ slug: nebuloz
 letter: N
 lisan: Fransızca nébuleuse
 anlamlar:
-- ► bulutsu
+- bulutsu
 ozellikler:
 - - isim
   - gök bilimi

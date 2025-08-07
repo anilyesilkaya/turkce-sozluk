@@ -5,7 +5,7 @@ slug: duyar
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duygulu
+- duygulu
 - Beden üzerinde uyarıldığında hızlı ve güçlü tepkilere yol açan
 ozellikler:
 - - sıfat

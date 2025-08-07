@@ -5,9 +5,9 @@ slug: lutfetmek
 letter: L
 lisan: Arapça luṭf + Türkçe etmek
 anlamlar:
-- ► vermek
+- vermek
 - İyilikte bulunmak
-- ► söylemek
+- söylemek
 - İzin vermek, müsaade etmek
 - Yüksek veya saygın bir kimse alçak gönüllülük göstermek
 ozellikler:

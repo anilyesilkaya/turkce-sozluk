@@ -5,7 +5,7 @@ slug: kilkapan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kehribar
+- kehribar
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: lifcik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► telcik
+- telcik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hafiye
 letter: H
 lisan: Arapça ḫafiyye
 anlamlar:
-- ► dedektif
+- dedektif
 ozellikler:
 - - isim
   - eskimiş

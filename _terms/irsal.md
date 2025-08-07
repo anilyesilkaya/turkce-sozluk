@@ -5,7 +5,7 @@ slug: irsal
 letter: I
 lisan: Arapça irsāl
 anlamlar:
-- ► gönderme
+- gönderme
 ozellikler:
 - - isim
   - eskimiş

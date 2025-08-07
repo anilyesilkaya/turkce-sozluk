@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Baloncunun yaptığı iş
-- ► palavracılık
+- palavracılık
 ozellikler:
 - - isim
 - - isim

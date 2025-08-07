@@ -5,7 +5,7 @@ slug: kinizm
 letter: K
 lisan: Fransızca cynisme
 anlamlar:
-- ► sinizm
+- sinizm
 ozellikler:
 - - isim
   - felsefe

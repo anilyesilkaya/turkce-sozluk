@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Yabancı kimse; elin oğlu
-- ► damat
+- damat
 - Eşlerden erkek
 ozellikler:
 - - isim

@@ -7,7 +7,7 @@ lisan: Farsça kerāste
 anlamlar:
 - Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç
 - Ayakkabı yapımında kullanılan gereç
-- ► kalas
+- kalas
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: zit-anlamlilik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► karşıt anlamlılık
+- karşıt anlamlılık
 ozellikler:
 - - isim
 ornekler:

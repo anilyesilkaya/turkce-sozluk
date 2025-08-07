@@ -5,8 +5,8 @@ slug: lakin
 letter: L
 lisan: Arapça lākin
 anlamlar:
-- ► ama
-- ► ancak
+- ama
+- ancak
 ozellikler:
 - - bağlaç
 - - bağlaç

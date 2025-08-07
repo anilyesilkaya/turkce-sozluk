@@ -5,7 +5,7 @@ slug: muessis
 letter: M
 lisan: Arapça muʾessis
 anlamlar:
-- ► kurucu
+- kurucu
 ozellikler:
 - - sıfat
   - eskimiş

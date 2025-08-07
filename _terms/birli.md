@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Bir parçadan oluşan, kendinde herhangi bir şeyden bir tane bulunan
-- ► as (II)
+- as (II)
 ozellikler:
 - - sıfat
 - - sıfat

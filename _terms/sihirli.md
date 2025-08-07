@@ -5,7 +5,7 @@ slug: sihirli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► büyülü
+- büyülü
 ozellikler:
 - - sıfat
 ornekler:

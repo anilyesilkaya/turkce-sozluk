@@ -5,7 +5,7 @@ slug: kabul-yeri
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kabul salonu
+- kabul salonu
 - Otel vb. bir kuruluşta müşterilerle ilgilenen bölüm; resepsiyon
 ozellikler:
 - - isim

@@ -8,7 +8,7 @@ anlamlar:
 - Dumanı olan, duman çıkaran
 - Sisli, sisle örtülü
 - Sıkıntılı, bulanık
-- ► sarhoş
+- sarhoş
 ozellikler:
 - - sıfat
 - - sıfat

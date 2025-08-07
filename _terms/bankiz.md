@@ -5,7 +5,7 @@ slug: bankiz
 letter: B
 lisan: Fransızca banquise
 anlamlar:
-- ► buzla
+- buzla
 ozellikler:
 - - isim
   - coğrafya

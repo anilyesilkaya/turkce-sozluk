@@ -5,8 +5,8 @@ slug: cirakma
 letter: Ç
 lisan: Farsça çerāġ + pā
 anlamlar:
-- ► şamdan
-- ► meşale
+- şamdan
+- meşale
 ozellikler:
 - - isim
   - ağızlardan

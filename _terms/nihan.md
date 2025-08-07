@@ -5,7 +5,7 @@ slug: nihan
 letter: N
 lisan: Farsça nihān
 anlamlar:
-- ► gizli
+- gizli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: siki-siki
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - sıfat
 ornekler:

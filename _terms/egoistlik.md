@@ -5,7 +5,7 @@ slug: egoistlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bencillik
+- bencillik
 ozellikler:
 - - isim
 ornekler:

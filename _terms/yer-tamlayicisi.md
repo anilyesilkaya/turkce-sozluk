@@ -5,7 +5,7 @@ slug: yer-tamlayicisi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dolaylı tümleç
+- dolaylı tümleç
 ozellikler:
 - - isim
   - dil bilgisi

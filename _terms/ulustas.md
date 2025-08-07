@@ -5,7 +5,7 @@ slug: ulustas
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millettaş
+- millettaş
 ozellikler:
 - - isim
 ornekler:

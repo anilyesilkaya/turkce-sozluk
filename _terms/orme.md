@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örmek işi
-- ► örgü
+- örgü
 ozellikler:
 - - isim
 - - isim

@@ -7,10 +7,10 @@ lisan: Türkçe
 anlamlar:
 - Yarım olma durumu
 - Sakat ve sağlıksız olma durumu
-- ► yarım altın
-- ► ata yarımlık
-- ► kasık fıtığı
-- ► fıtık
+- yarım altın
+- ata yarımlık
+- kasık fıtığı
+- fıtık
 - Şiniğin yarısı
 ozellikler:
 - - isim

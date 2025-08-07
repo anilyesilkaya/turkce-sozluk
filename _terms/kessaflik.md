@@ -5,7 +5,7 @@ slug: kessaflik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► izcilik
+- izcilik
 ozellikler:
 - - isim
 ornekler:

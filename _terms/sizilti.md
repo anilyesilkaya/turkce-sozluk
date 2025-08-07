@@ -5,8 +5,8 @@ slug: sizilti
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sızlanma
-- ► hoşnutsuzluk
+- sızlanma
+- hoşnutsuzluk
 ozellikler:
 - - isim
 - - isim

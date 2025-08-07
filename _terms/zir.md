@@ -5,8 +5,8 @@ slug: zir
 letter: Z
 lisan: Farsça
 anlamlar:
-- ► alt
-- ► aşağı
+- alt
+- aşağı
 ozellikler:
 - - isim
   - eskimiş

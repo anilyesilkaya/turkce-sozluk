@@ -5,7 +5,7 @@ slug: aile-bahcesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aile çay bahçesi
+- aile çay bahçesi
 ozellikler:
 - - isim
 ornekler:

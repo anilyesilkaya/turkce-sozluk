@@ -5,7 +5,7 @@ slug: libasli
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► giysili
+- giysili
 ozellikler:
 - - sıfat
 ornekler:

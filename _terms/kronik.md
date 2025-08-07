@@ -5,7 +5,7 @@ slug: kronik
 letter: K
 lisan: Fransızca chronique
 anlamlar:
-- ► süreğen
+- süreğen
 - Günü gününe yazılmış olayları içine alan eser; vakayiname
 - Uzun süredir bir çözüm getirilmemiş
 ozellikler:

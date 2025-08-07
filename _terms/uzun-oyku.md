@@ -5,7 +5,7 @@ slug: uzun-oyku
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzun hikâye
+- uzun hikâye
 ozellikler:
 - - isim
   - edebiyat

@@ -5,7 +5,7 @@ slug: kedi-bali
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ağaç balı
+- ağaç balı
 ozellikler:
 - - isim
 ornekler:

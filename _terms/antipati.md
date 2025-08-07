@@ -5,8 +5,8 @@ slug: antipati
 letter: A
 lisan: Fransızca antipathie
 anlamlar:
-- ► sevimsizlik
-- ► karşıt duygu
+- sevimsizlik
+- karşıt duygu
 ozellikler:
 - - isim
 - - isim

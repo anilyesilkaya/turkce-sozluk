@@ -5,7 +5,7 @@ slug: hasebiyle
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sebebiyle
+- sebebiyle
 ozellikler:
 - - edat
   - eskimiş

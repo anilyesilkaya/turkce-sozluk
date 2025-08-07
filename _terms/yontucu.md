@@ -5,7 +5,7 @@ slug: yontucu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► heykelci
+- heykelci
 ozellikler:
 - - isim
 ornekler:

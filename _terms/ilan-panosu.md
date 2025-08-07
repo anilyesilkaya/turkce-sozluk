@@ -5,7 +5,7 @@ slug: ilan-panosu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► duyurumluk
+- duyurumluk
 ozellikler:
 - - isim
 ornekler:

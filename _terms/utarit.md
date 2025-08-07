@@ -5,7 +5,7 @@ slug: utarit
 letter: U
 lisan: Arapça ʿuṭārid
 anlamlar:
-- ► Merkür
+- Merkür
 ozellikler:
 - - isim
   - gök bilimi

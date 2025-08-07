@@ -5,7 +5,7 @@ slug: mandal
 letter: M
 lisan: Rumca
 anlamlar:
-- ► sofra bezi
+- sofra bezi
 ozellikler:
 - - isim
 ornekler:

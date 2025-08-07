@@ -5,7 +5,7 @@ slug: ariklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zayıflık
+- zayıflık
 ozellikler:
 - - isim
 ornekler:

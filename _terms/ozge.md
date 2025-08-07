@@ -5,7 +5,7 @@ slug: ozge
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► başka
+- başka
 ozellikler:
 - - sıfat
 ornekler:

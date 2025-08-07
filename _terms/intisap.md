@@ -5,9 +5,9 @@ slug: intisap
 letter: I
 lisan: Arapça intisāb
 anlamlar:
-- ► bağlanma
-- ► girme
-- ► kapılanma
+- bağlanma
+- girme
+- kapılanma
 ozellikler:
 - - isim
   - eskimiş

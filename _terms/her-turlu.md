@@ -5,7 +5,7 @@ slug: her-turlu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► türlü türlü
+- türlü türlü
 ozellikler:
 - - sıfat
 ornekler:

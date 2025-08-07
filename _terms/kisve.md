@@ -5,7 +5,7 @@ slug: kisve
 letter: K
 lisan: Arapça kisve
 anlamlar:
-- ► kılık kıyafet
+- kılık kıyafet
 - Hacıların Kâbe'de giydikleri beyaz üstlük
 ozellikler:
 - - isim

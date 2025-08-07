@@ -5,7 +5,7 @@ slug: batilica
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► alafranga
+- alafranga
 ozellikler:
 - - sıfat
 ornekler:

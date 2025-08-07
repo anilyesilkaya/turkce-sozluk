@@ -5,8 +5,8 @@ slug: zamazingo
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zımbırtı
-- ► metres
+- zımbırtı
+- metres
 ozellikler:
 - - isim
   - argo

@@ -5,7 +5,7 @@ slug: cirit-oyunu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cirit
+- cirit
 ozellikler:
 - - isim
   - spor

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Boyu uzanabildiği kadar, boyu uzunluğunca; boylu boyuna
 - Bir baştan diğer başa kadar
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
 - - zarf

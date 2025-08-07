@@ -5,7 +5,7 @@ slug: yildirak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► şimşek
+- şimşek
 - Parıldayıcı, parıldayan
 ozellikler:
 - - isim

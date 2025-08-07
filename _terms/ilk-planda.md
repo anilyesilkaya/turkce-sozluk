@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İlk olarak
-- ► başlangıçta
+- başlangıçta
 ozellikler:
 - - zarf
   - mecaz

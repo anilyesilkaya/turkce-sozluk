@@ -5,8 +5,8 @@ slug: mapus
 letter: M
 lisan: Arapça maḥbūs
 anlamlar:
-- ► mahpus
-- ► cezaevi
+- mahpus
+- cezaevi
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: acelelesme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çabuklaşma
+- çabuklaşma
 ozellikler:
 - - isim
 ornekler:

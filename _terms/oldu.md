@@ -5,8 +5,8 @@ slug: oldu
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► evet
-- ► başüstüne
+- evet
+- başüstüne
 ozellikler:
 - - ünlem
 - - ünlem

@@ -5,7 +5,7 @@ slug: cicek-durbunu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► kaleydoskop
+- kaleydoskop
 ozellikler:
 - - isim
 ornekler:

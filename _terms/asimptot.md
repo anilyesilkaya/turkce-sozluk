@@ -5,7 +5,7 @@ slug: asimptot
 letter: A
 lisan: Fransızca asymptote
 anlamlar:
-- ► sonuşmaz
+- sonuşmaz
 ozellikler:
 - - isim
   - matematik

@@ -5,7 +5,7 @@ slug: mulahham
 letter: M
 lisan: Arapça mulaḥḥam
 anlamlar:
-- ► şişman
+- şişman
 ozellikler:
 - - sıfat
   - eskimiş

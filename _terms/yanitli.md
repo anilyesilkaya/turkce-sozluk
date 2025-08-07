@@ -5,7 +5,7 @@ slug: yanitli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevaplı
+- cevaplı
 ozellikler:
 - - sıfat
 ornekler:

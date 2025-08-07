@@ -5,7 +5,7 @@ slug: ozengen
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► amatör
+- amatör
 ozellikler:
 - - sıfat
 ornekler:

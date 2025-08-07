@@ -5,7 +5,7 @@ slug: yikkinlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► haraplık
+- haraplık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: adilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► aşağılık
+- aşağılık
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Fransızca origine
 anlamlar:
 - Soy sop
 - Başlangıç, kaynak
-- ► köken
+- köken
 ozellikler:
 - - isim
 - - isim

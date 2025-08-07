@@ -5,7 +5,7 @@ slug: kabiliyet
 letter: K
 lisan: Arapça ḳābiliyyet
 anlamlar:
-- ► yetenek
+- yetenek
 ozellikler:
 - - isim
 ornekler:

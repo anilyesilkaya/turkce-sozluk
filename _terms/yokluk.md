@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Yok olma, bulunmama durumu; adem, ademiyet, fıkdan
 - Göz önünde bulunmama; gaybubet
-- ► yoksulluk
-- ► hiçlik
+- yoksulluk
+- hiçlik
 ozellikler:
 - - isim
 - - isim

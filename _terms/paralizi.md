@@ -5,7 +5,7 @@ slug: paralizi
 letter: P
 lisan: Fransızca paralysie
 anlamlar:
-- ► inme
+- inme
 ozellikler:
 - - isim
   - tıp

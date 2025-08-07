@@ -5,7 +5,7 @@ slug: egzotik
 letter: E
 lisan: Fransızca exotique
 anlamlar:
-- ► yabancıl
+- yabancıl
 ozellikler:
 - - sıfat
 ornekler:

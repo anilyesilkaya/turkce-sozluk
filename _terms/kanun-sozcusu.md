@@ -5,7 +5,7 @@ slug: kanun-sozcusu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yasa sözcüsü
+- yasa sözcüsü
 ozellikler:
 - - isim
 ornekler:

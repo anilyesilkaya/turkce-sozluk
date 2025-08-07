@@ -5,7 +5,7 @@ slug: mansip
 letter: M
 lisan: Arapça manṣib
 anlamlar:
-- ► makam
+- makam
 ozellikler:
 - - isim
   - eskimiş

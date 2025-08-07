@@ -5,7 +5,7 @@ slug: katip
 letter: K
 lisan: Arapça kātib
 anlamlar:
-- ► sekreter
+- sekreter
 ozellikler:
 - - isim
 ornekler:

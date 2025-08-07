@@ -5,7 +5,7 @@ slug: oburcasina
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oburca
+- oburca
 ozellikler:
 - - zarf
 ornekler:

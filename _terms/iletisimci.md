@@ -5,7 +5,7 @@ slug: iletisimci
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iletişim uzmanı
+- iletişim uzmanı
 ozellikler:
 - - isim
 ornekler:

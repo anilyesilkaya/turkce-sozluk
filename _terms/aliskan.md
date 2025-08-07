@@ -5,7 +5,7 @@ slug: aliskan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alışkın
+- alışkın
 ozellikler:
 - - sıfat
 ornekler:

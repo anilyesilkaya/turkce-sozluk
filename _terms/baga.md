@@ -5,10 +5,10 @@ slug: baga
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kaplumbağa
+- kaplumbağa
 - Deniz kaplumbağasının kabuğu
 - Kaplumbağa kabuğu
-- ► ur
+- ur
 - Kaplumbağa kabuğundan yapılmış veya bu kabuğu andırır biçimde olan
 ozellikler:
 - - isim

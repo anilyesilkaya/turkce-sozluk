@@ -5,7 +5,7 @@ slug: kapi-kahyasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kapı kethüdası
+- kapı kethüdası
 ozellikler:
 - - isim
   - tarih

@@ -5,7 +5,7 @@ slug: nahircilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► sığırtmaçlık
+- sığırtmaçlık
 ozellikler:
 - - isim
 ornekler:

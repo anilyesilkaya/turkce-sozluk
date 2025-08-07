@@ -5,7 +5,7 @@ slug: aktris
 letter: A
 lisan: Fransızca actrice
 anlamlar:
-- ► (kadın) oyuncu
+- (kadın) oyuncu
 ozellikler:
 - - isim
   - sinema

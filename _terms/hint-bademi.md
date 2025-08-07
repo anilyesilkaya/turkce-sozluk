@@ -5,7 +5,7 @@ slug: hint-bademi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kakao
+- kakao
 ozellikler:
 - - isim
   - bitki bilimi

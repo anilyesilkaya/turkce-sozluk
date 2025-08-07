@@ -5,7 +5,7 @@ slug: tahassur
 letter: T
 lisan: Arapça taḥassur
 anlamlar:
-- ► özlem
+- özlem
 - Kavuşmak istenen şey veya kimse için üzülme, yanıp yakılma
 ozellikler:
 - - isim

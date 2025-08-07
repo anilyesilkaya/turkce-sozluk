@@ -5,7 +5,7 @@ slug: serlevhali
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► başlıklı
+- başlıklı
 ozellikler:
 - - sıfat
 ornekler:

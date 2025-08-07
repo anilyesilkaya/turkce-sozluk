@@ -5,7 +5,7 @@ slug: define-avcisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► defineci
+- defineci
 ozellikler:
 - - isim
 ornekler:

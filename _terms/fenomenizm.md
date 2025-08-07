@@ -5,7 +5,7 @@ slug: fenomenizm
 letter: F
 lisan: Fransızca phénoménisme
 anlamlar:
-- ► görüngücülük
+- görüngücülük
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: refuj
 letter: R
 lisan: Fransızca refuge
 anlamlar:
-- ► orta kaldırım
+- orta kaldırım
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: memleketler-arasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uluslararası
+- uluslararası
 ozellikler:
 - - sıfat
 ornekler:

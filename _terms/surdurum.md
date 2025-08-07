@@ -5,7 +5,7 @@ slug: surdurum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► abonman
+- abonman
 ozellikler:
 - - isim
 ornekler:

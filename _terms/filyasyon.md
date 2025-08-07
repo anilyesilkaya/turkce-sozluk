@@ -5,7 +5,7 @@ slug: filyasyon
 letter: F
 lisan: Fransızca filiation
 anlamlar:
-- ► temas takibi
+- temas takibi
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: strateji
 letter: S
 lisan: Fransızca stratégie
 anlamlar:
-- ► izlem
+- izlem
 - Bir ulusun veya uluslar topluluğunun, barış ve savaşta benimsenen politikalara destek vermek amacıyla politik, ekonomik, psikolojik ve askerî güçleri bir arada kullanma bilimi ve sanatı; sevkülceyş
 ozellikler:
 - - isim

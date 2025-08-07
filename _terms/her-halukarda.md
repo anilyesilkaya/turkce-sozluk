@@ -5,7 +5,7 @@ slug: her-halukarda
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kesinlikle
+- kesinlikle
 ozellikler:
 - - zarf
   - mecaz

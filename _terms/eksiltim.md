@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Eksiltmek işi
-- ► eksilti
+- eksilti
 ozellikler:
 - - isim
 - - isim

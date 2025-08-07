@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı
-- ► süline
+- süline
 ozellikler:
 - - isim
 - - isim

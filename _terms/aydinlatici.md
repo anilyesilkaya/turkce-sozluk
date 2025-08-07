@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlatma işini yapan
-- ► cilt parlatıcı
+- cilt parlatıcı
 ozellikler:
 - - sıfat
 - - sıfat

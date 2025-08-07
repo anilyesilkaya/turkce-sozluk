@@ -7,7 +7,7 @@ lisan: Fransızca académie
 anlamlar:
 - Birçok ülkede bilim ve sanat alanında akademik çalışmalar yapan bilimsel kurum
 - Çıplak modelden yapılmış insan resmi
-- ► yüksekokul
+- yüksekokul
 - Bilginler, yazarlar, sanatçılar kurulu
 ozellikler:
 - - isim

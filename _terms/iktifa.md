@@ -5,7 +5,7 @@ slug: iktifa
 letter: I
 lisan: Arapça iktifā
 anlamlar:
-- ► yetinme
+- yetinme
 ozellikler:
 - - isim
   - eskimiş

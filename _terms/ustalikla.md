@@ -5,8 +5,8 @@ slug: ustalikla
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ustaca
-- ► kurnazca
+- ustaca
+- kurnazca
 ozellikler:
 - - zarf
 - - zarf

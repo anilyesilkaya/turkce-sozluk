@@ -5,7 +5,7 @@ slug: morto
 letter: M
 lisan: İtalyanca morto
 anlamlar:
-- ► ölü
+- ölü
 ozellikler:
 - - isim
   - argo

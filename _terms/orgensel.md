@@ -5,7 +5,7 @@ slug: orgensel
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► organik
+- organik
 ozellikler:
 - - sıfat
 ornekler:

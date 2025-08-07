@@ -5,7 +5,7 @@ slug: akak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yatak
+- yatak
 - Eğimi, inişi fazla olan yer
 ozellikler:
 - - isim

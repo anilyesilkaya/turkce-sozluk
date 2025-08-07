@@ -5,7 +5,7 @@ slug: ic-tumce
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iç cümle
+- iç cümle
 ozellikler:
 - - isim
   - dil bilgisi

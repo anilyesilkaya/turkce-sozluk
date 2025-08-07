@@ -5,7 +5,7 @@ slug: duygunluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► duyarlılık
+- duyarlılık
 ozellikler:
 - - isim
 ornekler:

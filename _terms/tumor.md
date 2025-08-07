@@ -5,7 +5,7 @@ slug: tumor
 letter: T
 lisan: Fransızca tumeur
 anlamlar:
-- ► ur
+- ur
 ozellikler:
 - - isim
   - tıp

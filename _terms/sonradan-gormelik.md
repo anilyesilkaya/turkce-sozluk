@@ -5,7 +5,7 @@ slug: sonradan-gormelik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonradan görmüşlük
+- sonradan görmüşlük
 ozellikler:
 - - isim
 ornekler:

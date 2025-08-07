@@ -5,7 +5,7 @@ slug: hurriyetperver
 letter: H
 lisan: Arapça ḥurriyyet + Farsça -perver
 anlamlar:
-- ► özgürlükçü
+- özgürlükçü
 ozellikler:
 - - sıfat
   - eskimiş

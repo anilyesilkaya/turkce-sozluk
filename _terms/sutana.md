@@ -5,7 +5,7 @@ slug: sutana
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sütanne
+- sütanne
 ozellikler:
 - - isim
 ornekler:

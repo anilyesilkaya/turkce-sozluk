@@ -5,7 +5,7 @@ slug: duzence
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► disiplin
+- disiplin
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Uygulamak işi; kılgı, uygu, tatbik, tatbikat, pratik
 - Kuramsal bir bilgiyi, ilkeyi, düşünceyi herhangi bir alanda hayata tatbik etme; tatbik
 - Bir sanat ve bilim dalının ilkelerini düşünce alanından uygulama alanına geçirip gerçekleştirme işi; kılgı, tatbik, ameliye, pratik, aplikasyon
-- ► infaz
+- infaz
 ozellikler:
 - - isim
 - - isim

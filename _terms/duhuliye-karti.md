@@ -5,7 +5,7 @@ slug: duhuliye-karti
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► giriş kartı
+- giriş kartı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gaz-yagi-sobasi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gaz sobası
+- gaz sobası
 ozellikler:
 - - isim
 ornekler:

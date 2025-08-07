@@ -5,7 +5,7 @@ slug: humor
 letter: H
 lisan: Fransızca humour
 anlamlar:
-- ► gülmece
+- gülmece
 - Alay, dalga geçme, hafife alma, boş verme
 ozellikler:
 - - isim

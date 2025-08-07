@@ -5,7 +5,7 @@ slug: ananesizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► geleneksizlik
+- geleneksizlik
 ozellikler:
 - - isim
 ornekler:

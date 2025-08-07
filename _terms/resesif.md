@@ -5,7 +5,7 @@ slug: resesif
 letter: R
 lisan: Fransızca récessif
 anlamlar:
-- ► çekinik
+- çekinik
 ozellikler:
 - - sıfat
   - biyoloji

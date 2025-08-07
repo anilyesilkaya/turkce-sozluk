@@ -5,7 +5,7 @@ slug: gagavuzca
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Gagavuz Türkçesi
+- Gagavuz Türkçesi
 ozellikler:
 - - isim
 ornekler:

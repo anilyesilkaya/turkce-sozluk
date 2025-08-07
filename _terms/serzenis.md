@@ -5,7 +5,7 @@ slug: serzenis
 letter: S
 lisan: Farsça serzeniş
 anlamlar:
-- ► yakınma (II)
+- yakınma (II)
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yokculuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nihilizm
+- nihilizm
 ozellikler:
 - - isim
   - felsefe

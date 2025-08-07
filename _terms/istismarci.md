@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Birinin iyi niyetini kötüye kullanan (kimse)
-- ► sömürücü
+- sömürücü
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: tas-pamugu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► asbest
+- asbest
 ozellikler:
 - - isim
   - mineraloji

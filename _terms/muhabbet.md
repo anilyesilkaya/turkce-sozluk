@@ -5,8 +5,8 @@ slug: muhabbet
 letter: M
 lisan: Arapça maḥabbet
 anlamlar:
-- ► sevgi
-- ► yârenlik
+- sevgi
+- yârenlik
 ozellikler:
 - - isim
 - - isim

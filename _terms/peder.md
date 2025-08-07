@@ -5,8 +5,8 @@ slug: peder
 letter: P
 lisan: Farsça peder
 anlamlar:
-- ► baba
-- ► papaz
+- baba
+- papaz
 ozellikler:
 - - isim
 - - isim

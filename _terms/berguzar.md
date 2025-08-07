@@ -5,8 +5,8 @@ slug: berguzar
 letter: B
 lisan: Farsça berguẕār
 anlamlar:
-- ► hatıra
-- ► armağan
+- hatıra
+- armağan
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: bedaheten
 letter: B
 lisan: Arapça bedāheten
 anlamlar:
-- ► ansızın
+- ansızın
 - Düşünmeksizin
 ozellikler:
 - - zarf

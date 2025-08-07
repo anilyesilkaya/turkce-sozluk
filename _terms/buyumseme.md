@@ -5,7 +5,7 @@ slug: buyumseme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büyükseme
+- büyükseme
 ozellikler:
 - - isim
 ornekler:

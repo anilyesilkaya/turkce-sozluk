@@ -5,7 +5,7 @@ slug: enayicesine
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► enayice
+- enayice
 ozellikler:
 - - zarf
 ornekler:

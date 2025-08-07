@@ -5,7 +5,7 @@ slug: necat
 letter: N
 lisan: Arapça necāt
 anlamlar:
-- ► kurtuluş
+- kurtuluş
 ozellikler:
 - - isim
   - eskimiş

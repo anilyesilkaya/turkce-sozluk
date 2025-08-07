@@ -5,7 +5,7 @@ slug: suyek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► cebire
+- cebire
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naṣṣ
 anlamlar:
 - Açıklık, açık ve kesin yargı
-- ► dogma
+- dogma
 ozellikler:
 - - isim
 - - isim

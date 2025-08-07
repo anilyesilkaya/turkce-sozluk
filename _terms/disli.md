@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dişleri olan
 - Dişleri olan çark
-- ► kaya balığı
+- kaya balığı
 - Ayakkabıcıların sayayı kalıba çekmek için kullandıkları kerpeten gibi bir araç
 - Sözünü geçiren, istediğini yaptırabilen, güçlü (kimse)
 - Beklenmedik düzeyde olan

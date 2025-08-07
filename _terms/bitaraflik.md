@@ -5,7 +5,7 @@ slug: bitaraflik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tarafsızlık
+- tarafsızlık
 ozellikler:
 - - isim
 ornekler:

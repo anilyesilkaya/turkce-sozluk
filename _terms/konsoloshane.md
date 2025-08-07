@@ -5,7 +5,7 @@ slug: konsoloshane
 letter: K
 lisan: Rumca + Farsça ḫāne
 anlamlar:
-- ► konsolosluk
+- konsolosluk
 ozellikler:
 - - isim
   - eskimiş

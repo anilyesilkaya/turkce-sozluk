@@ -5,7 +5,7 @@ slug: onur-uyesi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şeref üyesi
+- şeref üyesi
 ozellikler:
 - - isim
 ornekler:

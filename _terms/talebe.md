@@ -5,7 +5,7 @@ slug: talebe
 letter: T
 lisan: Arapça ṭalebe
 anlamlar:
-- ► öğrenci
+- öğrenci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gurubi-saat
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► alaturka saat
+- alaturka saat
 ozellikler:
 - - isim
 ornekler:

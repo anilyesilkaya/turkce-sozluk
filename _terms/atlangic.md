@@ -5,7 +5,7 @@ slug: atlangic
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atlama taşı
+- atlama taşı
 ozellikler:
 - - isim
   - ağızlardan

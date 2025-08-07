@@ -5,8 +5,8 @@ slug: vesile
 letter: V
 lisan: Arapça vesīle
 anlamlar:
-- ► sebep
-- ► fırsat
+- sebep
+- fırsat
 ozellikler:
 - - isim
 - - isim

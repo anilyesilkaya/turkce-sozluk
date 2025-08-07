@@ -5,8 +5,8 @@ slug: metodik
 letter: M
 lisan: Fransızca méthodique
 anlamlar:
-- ► yöntemli
-- ► düzenli
+- yöntemli
+- düzenli
 ozellikler:
 - - sıfat
 - - sıfat

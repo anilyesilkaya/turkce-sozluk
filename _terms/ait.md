@@ -6,7 +6,7 @@ letter: A
 lisan: Arapça ʿāʾid
 anlamlar:
 - “İlgilendiren” anlamında kullanılan bir söz; ilişkin, değgin
-- ► ilişik
+- ilişik
 ozellikler:
 - - edat
 - - edat

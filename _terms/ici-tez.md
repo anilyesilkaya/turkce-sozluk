@@ -5,7 +5,7 @@ slug: ici-tez
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► aceleci
+- aceleci
 ozellikler:
 - - sıfat
   - mecaz

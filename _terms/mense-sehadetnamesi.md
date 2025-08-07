@@ -5,7 +5,7 @@ slug: mense-sehadetnamesi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► köken belgesi
+- köken belgesi
 ozellikler:
 - - isim
   - eskimiş

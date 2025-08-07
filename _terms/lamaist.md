@@ -5,7 +5,7 @@ slug: lamaist
 letter: L
 lisan: Fransızca lamaïst
 anlamlar:
-- ► lamacı
+- lamacı
 ozellikler:
 - - sıfat
 ornekler:

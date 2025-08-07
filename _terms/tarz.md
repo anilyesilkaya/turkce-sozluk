@@ -8,7 +8,7 @@ anlamlar:
 - Anlatma, oluş, deyiş veya yapış biçimi; minval, usul (II), üslup, vetire, stil, janr, ambiyans
 - Bir kimsenin kendine özgü anlatım biçimi
 - Güzel sanatlarda kendine özgü teknik, renk ve biçimlendirme biçimi; üslup, stil, konsept
-- ► biçim (II)
+- biçim (II)
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: guzel-duyusal
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► estetik
+- estetik
 ozellikler:
 - - sıfat
 ornekler:

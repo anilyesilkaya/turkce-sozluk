@@ -6,7 +6,7 @@ letter: E
 lisan: Farsça rişte
 anlamlar:
 - İnce ince kesilip kurutulan hamur
-- ► deniz yosunu
+- deniz yosunu
 ozellikler:
 - - isim
 - - isim

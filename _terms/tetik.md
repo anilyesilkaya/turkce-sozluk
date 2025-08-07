@@ -5,8 +5,8 @@ slug: tetik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► çevik
-- ► nazik
+- çevik
+- nazik
 ozellikler:
 - - sıfat
 - - sıfat

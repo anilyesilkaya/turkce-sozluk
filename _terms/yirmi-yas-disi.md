@@ -5,7 +5,7 @@ slug: yirmi-yas-disi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yirmilik diş
+- yirmilik diş
 ozellikler:
 - - isim
 ornekler:

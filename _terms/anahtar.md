@@ -6,7 +6,7 @@ letter: A
 lisan: Rumca
 anlamlar:
 - Kilidi açıp kapamak için kullanılan araç; açacak, açar, açkı, miftah, dil (I)
-- ► kurgu
+- kurgu
 - Şifre yazmak ve çözmek için kararlaştırılmış olan yol
 - Somunları veya vidaları çevirerek sıkıştırıp gevşetmek için kullanılan çelik saplı araç
 - Konserve kutularının kapağını keserek açmaya yarayan alet; açacak
@@ -15,7 +15,7 @@ anlamlar:
 - İstenilen yere veya aygıta, isteğe göre elektrik akımının geçmesini sağlamak için kullanılan düzen; çevirici, çevirgeç, şalter, komütatör
 - Notaların müzik merdivenindeki yükseklik derecelerini göstermek ve buna göre okunmasını sağlamak için portenin başına konulan işaret
 - Piyano, ut, kanun gibi çalgılarda ayar aleti
-- ► rüşvet
+- rüşvet
 ozellikler:
 - - isim
 - - isim

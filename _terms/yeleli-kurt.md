@@ -5,7 +5,7 @@ slug: yeleli-kurt
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sırtlan
+- sırtlan
 ozellikler:
 - - isim
   - ağızlardan

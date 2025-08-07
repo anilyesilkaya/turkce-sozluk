@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kişinin hayatı boyunca geçirdiği önemli olaylar ve evrelerin bütünü; hayat öyküsü
-- ► öz geçmiş
+- öz geçmiş
 ozellikler:
 - - isim
 - - isim

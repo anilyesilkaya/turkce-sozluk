@@ -5,7 +5,7 @@ slug: fikir-teatisi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fikir alışverişi
+- fikir alışverişi
 ozellikler:
 - - isim
 ornekler:

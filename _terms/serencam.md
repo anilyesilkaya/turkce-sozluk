@@ -5,7 +5,7 @@ slug: serencam
 letter: S
 lisan: Farsça ser + encām
 anlamlar:
-- ► akıbet
+- akıbet
 - Başa gelen bir durum veya olay
 ozellikler:
 - - isim

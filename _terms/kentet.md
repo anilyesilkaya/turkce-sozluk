@@ -5,7 +5,7 @@ slug: kentet
 letter: K
 lisan: Fransızca quintette
 anlamlar:
-- ► beşli
+- beşli
 ozellikler:
 - - isim
   - müzik

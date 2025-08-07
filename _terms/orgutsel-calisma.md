@@ -5,7 +5,7 @@ slug: orgutsel-calisma
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► örgütsel faaliyet
+- örgütsel faaliyet
 ozellikler:
 - - isim
 ornekler:

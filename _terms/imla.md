@@ -6,8 +6,8 @@ letter: I
 lisan: Arapça imlāʾ
 anlamlar:
 - Söyleyerek birine yazdırma
-- ► yazım
-- ► doldurulma
+- yazım
+- doldurulma
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: montajlamak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kurgulamak
+- kurgulamak
 - Bir makine, cihaz veya mobilyanın parçalarını yerli yerine takmak
 ozellikler:
 - - -i

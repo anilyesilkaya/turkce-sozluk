@@ -5,7 +5,7 @@ slug: ic-gorumlu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► endoskopik
+- endoskopik
 ozellikler:
 - - sıfat
 ornekler:

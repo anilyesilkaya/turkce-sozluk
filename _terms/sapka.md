@@ -8,7 +8,7 @@ anlamlar:
 - Keçe, hasır, kumaş, ip vb. ile yapılan başlık; kapela
 - Boru, baca, direk vb. şeylerin açık olan üst bölümünü havanın etkisinden korumak için takılan başlık
 - Bazı bitkilerde, özellikle mantarlarda sapın üstünde bulunan, üreme organlarını taşıyan şapka biçimindeki organ
-- ► düzeltme işareti
+- düzeltme işareti
 ozellikler:
 - - isim
 - - isim

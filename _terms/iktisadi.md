@@ -5,7 +5,7 @@ slug: iktisadi
 letter: I
 lisan: Arapça iḳtiṣādī
 anlamlar:
-- ► ekonomik
+- ekonomik
 ozellikler:
 - - sıfat
 ornekler:

@@ -8,8 +8,8 @@ anlamlar:
 - Elli tanesi bir arada olan veya içinde aynı şeyden elli tane bulunan
 - Elli yaş dolaylarında olan veya görünen (kimse)
 - Elli kuruş veya elli lira değerinde para
-- ► yarım altın
-- ► ata yarımlık
+- yarım altın
+- ata yarımlık
 ozellikler:
 - - sıfat
 - - sıfat

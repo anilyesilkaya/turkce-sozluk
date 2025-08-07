@@ -5,7 +5,7 @@ slug: obskurantist
 letter: O
 lisan: Fransızca obscurantisme
 anlamlar:
-- ► bilmesinlerci
+- bilmesinlerci
 ozellikler:
 - - sıfat
   - toplum bilimi

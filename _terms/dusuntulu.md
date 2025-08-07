@@ -5,7 +5,7 @@ slug: dusuntulu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kurgusal
+- kurgusal
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: hint-baklasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Hint yağı ağacı
+- Hint yağı ağacı
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,8 +5,8 @@ slug: yalaka
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkavuk
-- ► arsız
+- dalkavuk
+- arsız
 ozellikler:
 - - isim
   - ağızlardan

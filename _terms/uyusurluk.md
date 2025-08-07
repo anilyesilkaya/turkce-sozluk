@@ -5,7 +5,7 @@ slug: uyusurluk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uyuşum
+- uyuşum
 ozellikler:
 - - isim
 ornekler:

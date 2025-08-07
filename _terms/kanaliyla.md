@@ -5,7 +5,7 @@ slug: kanaliyla
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► aracılığıyla
+- aracılığıyla
 ozellikler:
 - - zarf
 ornekler:

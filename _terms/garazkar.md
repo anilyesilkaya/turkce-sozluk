@@ -5,7 +5,7 @@ slug: garazkar
 letter: G
 lisan: Arapça ġaraż + Farsça -kār
 anlamlar:
-- ► garazlı
+- garazlı
 ozellikler:
 - - sıfat
   - eskimiş

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Pençesi olan
 - Pençe vurulmuş (ayakkabı)
-- ► güçlü
+- güçlü
 - Sataşkan olan
 ozellikler:
 - - sıfat

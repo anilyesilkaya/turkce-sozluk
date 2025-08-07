@@ -5,7 +5,7 @@ slug: idari
 letter: I
 lisan: Arapça idārī
 anlamlar:
-- ► yönetimsel
+- yönetimsel
 ozellikler:
 - - sıfat
 ornekler:

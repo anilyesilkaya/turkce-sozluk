@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Kırarak, ovarak veya ezerek ufak parçalara ayırmak
-- ► dövmek
+- dövmek
 - Ağzının payını vermek
 - Hakkı olmayan bir şeyi bir kimseden azar azar almak
 ozellikler:

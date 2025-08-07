@@ -5,8 +5,8 @@ slug: hidrofil
 letter: H
 lisan: Fransızca hydrophile
 anlamlar:
-- ► sucul
-- ► su böceği
+- sucul
+- su böceği
 ozellikler:
 - - sıfat
 - - sıfat

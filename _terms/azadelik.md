@@ -5,8 +5,8 @@ slug: azadelik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► serbestlik
-- ► özgürlük
+- serbestlik
+- özgürlük
 ozellikler:
 - - isim
 - - isim

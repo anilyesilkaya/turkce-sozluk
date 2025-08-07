@@ -5,7 +5,7 @@ slug: fonolog
 letter: F
 lisan: Fransızca phonologue
 anlamlar:
-- ► ses bilimci
+- ses bilimci
 ozellikler:
 - - isim
 ornekler:

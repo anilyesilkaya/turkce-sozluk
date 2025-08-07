@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iʿmāl
 anlamlar:
 - Ham maddeyi işleyip mal üretme
-- ► yapım
+- yapım
 ozellikler:
 - - isim
 - - isim

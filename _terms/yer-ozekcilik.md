@@ -5,7 +5,7 @@ slug: yer-ozekcilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yermerkezcilik
+- yermerkezcilik
 ozellikler:
 - - isim
 ornekler:

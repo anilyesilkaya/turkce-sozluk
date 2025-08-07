@@ -6,7 +6,7 @@ letter: C
 lisan: Arapça cesūr + Farsça -āne
 anlamlar:
 - Cesura yakışan
-- ► cesurca
+- cesurca
 ozellikler:
 - - sıfat
   - eskimiş

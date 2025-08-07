@@ -5,7 +5,7 @@ slug: aniklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uyanıklık
+- uyanıklık
 ozellikler:
 - - isim
 ornekler:

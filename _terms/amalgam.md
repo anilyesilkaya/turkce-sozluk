@@ -5,7 +5,7 @@ slug: amalgam
 letter: A
 lisan: Fransızca amalgame
 anlamlar:
-- ► malgama
+- malgama
 ozellikler:
 - - isim
   - kimya

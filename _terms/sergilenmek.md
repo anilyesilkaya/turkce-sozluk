@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sergileme işi yapılmak
-- ► oynanmak
+- oynanmak
 - Verilmek veya sunulmak
 ozellikler:
 - - nesnesiz

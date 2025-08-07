@@ -6,7 +6,7 @@ letter: R
 lisan: Türkçe
 anlamlar:
 - Ruzname tutan kimse
-- ► ruznamçeci
+- ruznamçeci
 ozellikler:
 - - isim
   - tarih

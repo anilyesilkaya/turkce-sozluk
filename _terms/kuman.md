@@ -5,7 +5,7 @@ slug: kuman
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kıpçak
+- Kıpçak
 ozellikler:
 - - isim
   - tarih

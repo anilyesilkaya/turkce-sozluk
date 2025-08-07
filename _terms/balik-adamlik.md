@@ -5,7 +5,7 @@ slug: balik-adamlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dalgıçlık
+- dalgıçlık
 ozellikler:
 - - isim
 ornekler:

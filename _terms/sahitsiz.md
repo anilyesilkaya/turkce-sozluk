@@ -5,8 +5,8 @@ slug: sahitsiz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► tanıksız
-- ► tanıksız
+- tanıksız
+- tanıksız
 ozellikler:
 - - sıfat
 - - sıfat

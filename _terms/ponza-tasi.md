@@ -5,7 +5,7 @@ slug: ponza-tasi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sünger taşı
+- sünger taşı
 ozellikler:
 - - isim
   - mineraloji

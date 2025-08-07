@@ -8,7 +8,7 @@ anlamlar:
 - Daha küçük
 - Bir makam, bir akort, bir gam, bir aralık özelliği olan
 - Majörden yarım ses daha küçük olan
-- ► küçük önerme
+- küçük önerme
 ozellikler:
 - - sıfat
 - - sıfat

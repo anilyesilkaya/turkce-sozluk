@@ -5,7 +5,7 @@ slug: kul-kethudasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kul kâhyası
+- kul kâhyası
 ozellikler:
 - - isim
   - tarih

@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumulmuş olan, yumulmuş gibi duran; yumulu
-- ► tombul
+- tombul
 ozellikler:
 - - sıfat
 - - sıfat

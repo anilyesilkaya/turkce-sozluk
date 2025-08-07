@@ -5,7 +5,7 @@ slug: tasmim
 letter: T
 lisan: Arapça taṣmīm
 anlamlar:
-- ► tasımlama
+- tasımlama
 ozellikler:
 - - isim
   - eskimiş

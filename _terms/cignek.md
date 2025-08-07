@@ -5,8 +5,8 @@ slug: cignek
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çiğnemik
-- ► çiğnemlik
+- çiğnemik
+- çiğnemlik
 ozellikler:
 - - isim
 - - isim

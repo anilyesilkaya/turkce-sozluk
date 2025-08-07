@@ -5,7 +5,7 @@ slug: fiskirik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fıskiye
+- fıskiye
 ozellikler:
 - - isim
 ornekler:

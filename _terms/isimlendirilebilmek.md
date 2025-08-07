@@ -5,7 +5,7 @@ slug: isimlendirilebilmek
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adlandırılabilmek
+- adlandırılabilmek
 ozellikler:
 - - nesnesiz
 ornekler:

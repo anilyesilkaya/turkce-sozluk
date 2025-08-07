@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dirliği olmayan
-- ► geçimsiz
+- geçimsiz
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: analist
 letter: A
 lisan: Fransızca analyste
 anlamlar:
-- ► çözümleyici
+- çözümleyici
 ozellikler:
 - - isim
 ornekler:

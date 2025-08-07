@@ -5,7 +5,7 @@ slug: hidrometre
 letter: H
 lisan: Fransızca hydromètre
 anlamlar:
-- ► suölçer
+- suölçer
 ozellikler:
 - - isim
 ornekler:

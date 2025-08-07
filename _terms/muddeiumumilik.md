@@ -5,7 +5,7 @@ slug: muddeiumumilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► savcılık
+- savcılık
 ozellikler:
 - - isim
 ornekler:

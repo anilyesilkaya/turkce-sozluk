@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca anonyme
 anlamlar:
 - Adı sanı bilinmeyen
-- ► çok ortaklı
+- çok ortaklı
 - Yazanı, yapanı, söyleyeni bilinmeyen; laedri
 ozellikler:
 - - sıfat

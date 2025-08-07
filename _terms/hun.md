@@ -5,7 +5,7 @@ slug: hun
 letter: H
 lisan: Farsça ḫūn
 anlamlar:
-- ► kan
+- kan
 ozellikler:
 - - isim
   - eskimiş

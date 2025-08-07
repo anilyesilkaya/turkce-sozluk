@@ -5,7 +5,7 @@ slug: fransali
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► Fransız
+- Fransız
 ozellikler:
 - - isim
 ornekler:

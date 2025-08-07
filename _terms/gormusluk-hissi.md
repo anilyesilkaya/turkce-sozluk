@@ -5,7 +5,7 @@ slug: gormusluk-hissi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► görmüşlük duygusu
+- görmüşlük duygusu
 ozellikler:
 - - isim
   - ruh bilimi

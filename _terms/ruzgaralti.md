@@ -5,7 +5,7 @@ slug: ruzgaralti
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► boca, orsa karşıtı
+- boca, orsa karşıtı
 ozellikler:
 - - isim
   - denizcilik

@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Düzmek işi
-- ► uydurma
-- ► sahte
+- uydurma
+- sahte
 ozellikler:
 - - isim
 - - isim

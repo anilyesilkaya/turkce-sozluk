@@ -5,9 +5,9 @@ slug: harharali
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► horultulu
+- horultulu
 - Gürültüsü olan
-- ► hırıltılı
+- hırıltılı
 ozellikler:
 - - sıfat
 - - sıfat

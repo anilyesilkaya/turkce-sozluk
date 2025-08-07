@@ -5,7 +5,7 @@ slug: humanist
 letter: H
 lisan: Fransızca humaniste
 anlamlar:
-- ► insancıl
+- insancıl
 ozellikler:
 - - sıfat
   - felsefe

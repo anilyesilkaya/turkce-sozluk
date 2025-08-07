@@ -5,7 +5,7 @@ slug: sekant
 letter: S
 lisan: Fransızca sécant
 anlamlar:
-- ► kesen
+- kesen
 ozellikler:
 - - isim
   - matematik

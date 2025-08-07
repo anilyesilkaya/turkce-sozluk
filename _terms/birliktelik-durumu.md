@@ -5,7 +5,7 @@ slug: birliktelik-durumu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► araç durumu
+- araç durumu
 ozellikler:
 - - isim
   - dil bilgisi

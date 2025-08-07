@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tanılamak işi
-- ► tanı
+- tanı
 ozellikler:
 - - isim
   - tıp

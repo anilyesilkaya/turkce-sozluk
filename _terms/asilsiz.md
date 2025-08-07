@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Doğru olmayan, temelsiz, köksüz, dayanaksız, yalan (haber)
-- ► uydurma
+- uydurma
 ozellikler:
 - - sıfat
 - - sıfat

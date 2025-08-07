@@ -5,7 +5,7 @@ slug: anmalik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hatıra
+- hatıra
 ozellikler:
 - - isim
 ornekler:

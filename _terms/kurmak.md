@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Makine, cihaz, mobilya vb.ni oluşturan parçaları birleştirerek bütün durumuna getirmek; monte etmek
-- ► hazırlamak
+- hazırlamak
 - Yaylı, zemberekli şeylerde yayı veya zembereği germek
 - Gereken şartları hazırlayıp kendi kendine olmaya bırakmak
 - Etkisi ve önemi geniş şeyler meydana getirmek; tesis etmek
@@ -15,7 +15,7 @@ anlamlar:
 - Ortaklık sağlamak
 - Belli bir işte beraber çalışacak kimseleri belirlemek
 - Bir araya getirmek, toplamak
-- ► düşünmek
+- düşünmek
 - Aklına koymak
 - Zihinde büyütmek
 - Sağlamak, oluşturmak

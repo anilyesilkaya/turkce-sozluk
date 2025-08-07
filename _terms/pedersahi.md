@@ -5,7 +5,7 @@ slug: pedersahi
 letter: P
 lisan: Farsça peder + şāh + Arapça -ī
 anlamlar:
-- ► ataerkil
+- ataerkil
 ozellikler:
 - - sıfat
   - eskimiş

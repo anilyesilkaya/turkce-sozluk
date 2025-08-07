@@ -5,7 +5,7 @@ slug: seyyar-kablo
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► uzatma kablosu
+- uzatma kablosu
 ozellikler:
 - - isim
 ornekler:

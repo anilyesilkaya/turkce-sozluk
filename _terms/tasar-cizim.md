@@ -5,7 +5,7 @@ slug: tasar-cizim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tasarım
+- tasarım
 ozellikler:
 - - isim
 ornekler:

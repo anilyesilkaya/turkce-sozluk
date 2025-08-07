@@ -5,9 +5,9 @@ slug: mutabakat
 letter: M
 lisan: Arapça muṭābaḳat
 anlamlar:
-- ► uzlaşma
-- ► uygunluk
-- ► uyum
+- uzlaşma
+- uygunluk
+- uyum
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: variyetli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► zengin
+- zengin
 ozellikler:
 - - sıfat
 ornekler:

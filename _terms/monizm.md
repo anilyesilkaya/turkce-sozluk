@@ -5,7 +5,7 @@ slug: monizm
 letter: M
 lisan: Fransızca monisme
 anlamlar:
-- ► tekçilik
+- tekçilik
 ozellikler:
 - - isim
   - felsefe

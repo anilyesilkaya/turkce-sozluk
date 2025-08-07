@@ -5,7 +5,7 @@ slug: on-kosul
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ön şart
+- ön şart
 ozellikler:
 - - isim
 ornekler:

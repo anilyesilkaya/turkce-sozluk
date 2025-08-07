@@ -5,7 +5,7 @@ slug: guldeste
 letter: G
 lisan: Farsça gul + deste
 anlamlar:
-- ► seçki
+- seçki
 ozellikler:
 - - isim
   - eskimiş

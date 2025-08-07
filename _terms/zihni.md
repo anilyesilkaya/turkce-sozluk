@@ -5,7 +5,7 @@ slug: zihni
 letter: Z
 lisan: Arapça ẕihnī
 anlamlar:
-- ► zihinsel
+- zihinsel
 ozellikler:
 - - sıfat
 ornekler:

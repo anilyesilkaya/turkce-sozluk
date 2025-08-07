@@ -5,7 +5,7 @@ slug: terakkiperver
 letter: T
 lisan: Arapça teraḳḳī + Farsça -perver
 anlamlar:
-- ► ilerici
+- ilerici
 ozellikler:
 - - sıfat
   - eskimiş

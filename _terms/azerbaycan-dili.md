@@ -5,7 +5,7 @@ slug: azerbaycan-dili
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Azerbaycan Türkçesi
+- Azerbaycan Türkçesi
 ozellikler:
 - - isim
 ornekler:

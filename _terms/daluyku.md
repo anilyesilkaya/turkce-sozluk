@@ -5,7 +5,7 @@ slug: daluyku
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► derin uyku
+- derin uyku
 ozellikler:
 - - isim
 ornekler:

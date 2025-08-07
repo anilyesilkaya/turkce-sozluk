@@ -5,7 +5,7 @@ slug: zoolog
 letter: Z
 lisan: Fransızca zoologue
 anlamlar:
-- ► hayvan bilimci
+- hayvan bilimci
 ozellikler:
 - - isim
 ornekler:

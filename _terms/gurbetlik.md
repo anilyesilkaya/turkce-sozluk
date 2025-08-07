@@ -5,7 +5,7 @@ slug: gurbetlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gurbet
+- gurbet
 ozellikler:
 - - isim
 ornekler:

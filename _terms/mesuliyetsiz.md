@@ -5,7 +5,7 @@ slug: mesuliyetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► sorumsuz
+- sorumsuz
 - Sorumluluk gerektirmeyen
 ozellikler:
 - - sıfat

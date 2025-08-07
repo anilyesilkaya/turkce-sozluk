@@ -5,7 +5,7 @@ slug: hunsa
 letter: H
 lisan: Arapça ḫuns̱ā
 anlamlar:
-- ► erdişi
+- erdişi
 ozellikler:
 - - sıfat
   - eskimiş

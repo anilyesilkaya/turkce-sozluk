@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Malları, eşyayı istif eden görevli
-- ► stokçu
+- stokçu
 ozellikler:
 - - isim
 - - isim

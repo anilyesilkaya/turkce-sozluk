@@ -5,7 +5,7 @@ slug: fenomenist
 letter: F
 lisan: Fransızca phénoméniste
 anlamlar:
-- ► görüngücü
+- görüngücü
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: hicviye
 letter: H
 lisan: Arapça hecviyye
 anlamlar:
-- ► yergi
+- yergi
 ozellikler:
 - - isim
   - edebiyat

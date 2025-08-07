@@ -5,7 +5,7 @@ slug: sen-satir
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şen şakrak
+- şen şakrak
 ozellikler:
 - - sıfat
   - zarf

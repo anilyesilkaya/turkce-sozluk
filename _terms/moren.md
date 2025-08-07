@@ -5,7 +5,7 @@ slug: moren
 letter: M
 lisan: Fransızca moraine
 anlamlar:
-- ► buzul taş
+- buzul taş
 ozellikler:
 - - isim
   - mineraloji

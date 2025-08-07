@@ -5,7 +5,7 @@ slug: uye-aidati
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üyelik aidatı
+- üyelik aidatı
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça naḳḳāş
 anlamlar:
 - Yapıların duvar ve tavanlarına birtakım resim veya şekillerle süslemeler yapan usta; bezekçi
-- ► nakışçı
+- nakışçı
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: tebsir
 letter: T
 lisan: Arapça tebşīr
 anlamlar:
-- ► muştulama
+- muştulama
 ozellikler:
 - - isim
   - eskimiş

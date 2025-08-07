@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Büzülerek alan hacmini küçültmek
-- ► ilişmek
-- ► kasılmak
+- ilişmek
+- kasılmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

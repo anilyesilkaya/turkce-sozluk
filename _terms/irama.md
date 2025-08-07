@@ -5,7 +5,7 @@ slug: irama
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uzaklaşma
+- uzaklaşma
 ozellikler:
 - - isim
 ornekler:

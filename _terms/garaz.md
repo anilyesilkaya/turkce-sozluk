@@ -5,8 +5,8 @@ slug: garaz
 letter: G
 lisan: Arapça ġaraż
 anlamlar:
-- ► kin
-- ► amaç
+- kin
+- amaç
 ozellikler:
 - - isim
 - - isim

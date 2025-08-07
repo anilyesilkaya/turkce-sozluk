@@ -5,7 +5,7 @@ slug: astik
 letter: A
 lisan: Ermenice
 anlamlar:
-- ► pezevenk
+- pezevenk
 ozellikler:
 - - isim
   - argo

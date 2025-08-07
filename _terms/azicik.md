@@ -5,7 +5,7 @@ slug: azicik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► biraz
+- biraz
 - (azı'cık) Kısa bir süre
 - Belli belirsiz bir miktarda
 ozellikler:

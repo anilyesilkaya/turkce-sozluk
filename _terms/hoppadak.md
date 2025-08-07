@@ -5,7 +5,7 @@ slug: hoppadak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

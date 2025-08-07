@@ -5,7 +5,7 @@ slug: namzetlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► adaylık
+- adaylık
 ozellikler:
 - - isim
 ornekler:

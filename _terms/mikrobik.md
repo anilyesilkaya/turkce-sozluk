@@ -5,7 +5,7 @@ slug: mikrobik
 letter: M
 lisan: Fransızca microbique
 anlamlar:
-- ► mikroplu
+- mikroplu
 - Mikropla ilgili, mikroba dayalı
 ozellikler:
 - - sıfat

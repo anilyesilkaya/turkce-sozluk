@@ -5,7 +5,7 @@ slug: benmerkezci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beniçinci
+- beniçinci
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: spesiyalite
 letter: S
 lisan: Fransızca spécialité
 anlamlar:
-- ► özellik
+- özellik
 ozellikler:
 - - isim
   - eskimiş

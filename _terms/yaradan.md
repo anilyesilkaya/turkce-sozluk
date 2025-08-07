@@ -5,7 +5,7 @@ slug: yaradan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► Allah
+- Allah
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: serirlik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kötülükçülük
+- kötülükçülük
 ozellikler:
 - - isim
 ornekler:

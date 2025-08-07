@@ -5,7 +5,7 @@ slug: sebep-bilimi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► neden bilimi
+- neden bilimi
 ozellikler:
 - - isim
 ornekler:

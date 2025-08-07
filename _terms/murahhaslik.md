@@ -5,7 +5,7 @@ slug: murahhaslik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► delegelik
+- delegelik
 ozellikler:
 - - isim
 ornekler:

@@ -5,9 +5,9 @@ slug: mesafe
 letter: M
 lisan: Arapça mesāfe
 anlamlar:
-- ► ara
+- ara
 - İlişkilerde çok içten olmama durumu; resmiyet
-- ► uzaklık
+- uzaklık
 ozellikler:
 - - isim
 - - isim

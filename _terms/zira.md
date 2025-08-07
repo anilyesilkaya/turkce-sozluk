@@ -5,7 +5,7 @@ slug: zira
 letter: Z
 lisan: Farsça zīrā
 anlamlar:
-- ► çünkü
+- çünkü
 ozellikler:
 - - bağlaç
 ornekler:

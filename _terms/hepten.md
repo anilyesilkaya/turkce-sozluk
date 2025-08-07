@@ -5,7 +5,7 @@ slug: hepten
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
   - ağızlardan

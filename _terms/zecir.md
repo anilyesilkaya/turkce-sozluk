@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça zecr
 anlamlar:
 - Yaptırmama, yasaklama
-- ► zorlama
+- zorlama
 - Eziyet etme
 ozellikler:
 - - isim

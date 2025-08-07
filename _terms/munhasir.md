@@ -5,8 +5,8 @@ slug: munhasir
 letter: M
 lisan: Arapça munḥaṣir
 anlamlar:
-- ► mahsus (I)
-- ► sınırlı
+- mahsus (I)
+- sınırlı
 ozellikler:
 - - sıfat
 - - sıfat

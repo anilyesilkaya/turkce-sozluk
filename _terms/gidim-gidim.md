@@ -5,7 +5,7 @@ slug: gidim-gidim
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► azar azar
+- azar azar
 ozellikler:
 - - zarf
   - ağızlardan

@@ -5,7 +5,7 @@ slug: yoresellesmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yerelleşmek
+- yerelleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

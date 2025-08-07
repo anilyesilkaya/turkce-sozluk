@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça suflī
 anlamlar:
 - Aşağı, aşağılık, bayağı, adi
-- ► kılıksız
+- kılıksız
 - Bir yere veya bir şeye göre aşağıda, alçakta bulunan
 ozellikler:
 - - sıfat

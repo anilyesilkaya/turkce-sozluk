@@ -5,7 +5,7 @@ slug: tevellutlu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğumlu
+- doğumlu
 ozellikler:
 - - sıfat
   - eskimiş

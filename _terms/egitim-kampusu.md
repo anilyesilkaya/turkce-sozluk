@@ -5,7 +5,7 @@ slug: egitim-kampusu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğitim yerleşkesi
+- eğitim yerleşkesi
 ozellikler:
 - - isim
   - eğitim

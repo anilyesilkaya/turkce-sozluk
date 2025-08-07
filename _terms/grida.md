@@ -5,7 +5,7 @@ slug: grida
 letter: G
 lisan: İngilizce grida
 anlamlar:
-- ► lagos
+- lagos
 ozellikler:
 - - isim
 ornekler:

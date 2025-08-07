@@ -5,7 +5,7 @@ slug: on-gun
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► arife
+- arife
 ozellikler:
 - - isim
 ornekler:

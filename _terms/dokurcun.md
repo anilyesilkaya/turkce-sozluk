@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Ot veya ekin yığını
-- ► dokuztaş
+- dokuztaş
 - Çizgili şayak kumaş; tokurcun
 ozellikler:
 - - isim

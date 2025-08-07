@@ -5,7 +5,7 @@ slug: konkordato
 letter: K
 lisan: İtalyanca concordato
 anlamlar:
-- ► anlaşmalı iflas
+- anlaşmalı iflas
 - Papalık makamıyla başka hükûmetler arasında yapılan anlaşma
 ozellikler:
 - - isim

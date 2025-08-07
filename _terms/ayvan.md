@@ -5,7 +5,7 @@ slug: ayvan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► eyvan
+- eyvan
 ozellikler:
 - - isim
   - ağızlardan

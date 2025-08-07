@@ -8,7 +8,7 @@ anlamlar:
 - Sevgi ve bağlılık duymak
 - Birine sevgiyle bağlanmak; gönül vermek
 - Çok hoşlanmak
-- ► okşamak
+- okşamak
 - Yerini, şartlarını uygun bulmak
 ozellikler:
 - - -i

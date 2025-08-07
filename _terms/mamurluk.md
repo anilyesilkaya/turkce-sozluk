@@ -5,7 +5,7 @@ slug: mamurluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bayındırlık
+- bayındırlık
 ozellikler:
 - - isim
 ornekler:

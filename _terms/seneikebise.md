@@ -5,7 +5,7 @@ slug: seneikebise
 letter: S
 lisan: Arapça sene + kebīse
 anlamlar:
-- ► artık yıl
+- artık yıl
 ozellikler:
 - - isim
   - eskimiş

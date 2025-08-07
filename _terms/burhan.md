@@ -5,8 +5,8 @@ slug: burhan
 letter: B
 lisan: Arapça burhān
 anlamlar:
-- ► kanıt
-- ► belgit
+- kanıt
+- belgit
 ozellikler:
 - - isim
 - - isim

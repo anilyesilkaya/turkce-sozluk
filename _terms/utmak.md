@@ -5,7 +5,7 @@ slug: utmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ütmek (II)
+- ütmek (II)
 ozellikler:
 - - -i
 ornekler:

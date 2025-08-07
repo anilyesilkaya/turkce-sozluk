@@ -5,7 +5,7 @@ slug: fototaktizm
 letter: F
 lisan: Fransızca phototactisme
 anlamlar:
-- ► ışığa göçüm
+- ışığa göçüm
 ozellikler:
 - - isim
   - bitki bilimi

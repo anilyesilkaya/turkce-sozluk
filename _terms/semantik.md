@@ -5,8 +5,8 @@ slug: semantik
 letter: S
 lisan: Fransızca sémantique
 anlamlar:
-- ► anlam bilimi
-- ► anlam bilimsel
+- anlam bilimi
+- anlam bilimsel
 ozellikler:
 - - isim
   - dil bilimi

@@ -5,7 +5,7 @@ slug: masalimsi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► masalsı
+- masalsı
 ozellikler:
 - - sıfat
 ornekler:

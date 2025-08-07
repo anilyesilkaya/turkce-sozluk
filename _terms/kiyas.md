@@ -7,8 +7,8 @@ lisan: Arapça ḳiyās
 anlamlar:
 - Bir şeyi başka bir şeye benzeterek değerlendirme, hakkında hüküm verme; oranlama
 - Bir tutma, denk sayma
-- ► örnekseme
-- ► tasım
+- örnekseme
+- tasım
 ozellikler:
 - - isim
 - - isim

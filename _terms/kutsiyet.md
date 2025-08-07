@@ -5,7 +5,7 @@ slug: kutsiyet
 letter: K
 lisan: Arapça ḳudsiyyet
 anlamlar:
-- ► kutsallık
+- kutsallık
 ozellikler:
 - - isim
   - eskimiş

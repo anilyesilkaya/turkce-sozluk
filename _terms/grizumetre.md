@@ -5,7 +5,7 @@ slug: grizumetre
 letter: G
 lisan: Fransızca grisoumètre
 anlamlar:
-- ► grizuölçer
+- grizuölçer
 ozellikler:
 - - isim
 ornekler:

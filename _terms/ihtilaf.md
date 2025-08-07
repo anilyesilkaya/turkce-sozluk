@@ -5,7 +5,7 @@ slug: ihtilaf
 letter: I
 lisan: Arapça iḫtilāf
 anlamlar:
-- ► anlaşmazlık
+- anlaşmazlık
 ozellikler:
 - - isim
 ornekler:

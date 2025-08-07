@@ -5,8 +5,8 @@ slug: muhasara
 letter: M
 lisan: Arapça muḥāṣara
 anlamlar:
-- ► kuşatma
-- ► çevirme
+- kuşatma
+- çevirme
 ozellikler:
 - - isim
   - eskimiş

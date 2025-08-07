@@ -5,7 +5,7 @@ slug: makastar
 letter: M
 lisan: Arapça miḳaṣṣ + Farsça -dār
 anlamlar:
-- ► makasçı
+- makasçı
 ozellikler:
 - - isim
   - eskimiş

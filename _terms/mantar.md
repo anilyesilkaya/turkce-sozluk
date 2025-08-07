@@ -13,7 +13,7 @@ anlamlar:
 - Balık ağlarını su yüzünde tutmaya veya olta sarmaya yarayan mantar parçası
 - Hayvanların burun ucu
 - Uydurma, yalan olan söz
-- ► mantar hastalığı
+- mantar hastalığı
 - Mantar hastalığına neden olan mikroskobik canlı
 ozellikler:
 - - isim

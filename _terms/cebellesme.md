@@ -5,7 +5,7 @@ slug: cebellesme
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cedelleşme
+- cedelleşme
 ozellikler:
 - - isim
 ornekler:

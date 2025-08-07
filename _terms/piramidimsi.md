@@ -5,7 +5,7 @@ slug: piramidimsi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► piramitsi
+- piramitsi
 ozellikler:
 - - sıfat
 ornekler:

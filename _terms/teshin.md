@@ -5,7 +5,7 @@ slug: teshin
 letter: T
 lisan: Arapça tesḫīn
 anlamlar:
-- ► ısıtma
+- ısıtma
 ozellikler:
 - - isim
   - eskimiş

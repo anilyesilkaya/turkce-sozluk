@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Gürültüyle ve sürekli olarak akmak
-- ► yanmak
+- yanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

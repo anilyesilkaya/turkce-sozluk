@@ -5,7 +5,7 @@ slug: kalimsiz
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ölümlü
+- ölümlü
 ozellikler:
 - - sıfat
 ornekler:

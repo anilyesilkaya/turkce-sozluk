@@ -5,7 +5,7 @@ slug: gidis-gelis
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► trafik
+- trafik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yuzukoyun
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüzüstü
+- yüzüstü
 ozellikler:
 - - zarf
 ornekler:

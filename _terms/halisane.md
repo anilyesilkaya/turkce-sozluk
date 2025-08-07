@@ -5,7 +5,7 @@ slug: halisane
 letter: H
 lisan: Arapça ḫāliṣ + Farsça -āne
 anlamlar:
-- ► içtenlikle
+- içtenlikle
 ozellikler:
 - - zarf
 ornekler:

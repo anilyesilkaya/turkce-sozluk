@@ -5,7 +5,7 @@ slug: objektivite
 letter: O
 lisan: Fransızca objectivité
 anlamlar:
-- ► nesnellik
+- nesnellik
 ozellikler:
 - - isim
   - felsefe

@@ -5,7 +5,7 @@ slug: antet
 letter: A
 lisan: Fransızca en-tête
 anlamlar:
-- ► başlık
+- başlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: devimsiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► devinimsiz
+- devinimsiz
 ozellikler:
 - - sıfat
   - zarf

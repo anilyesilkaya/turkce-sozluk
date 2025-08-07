@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Puslu, puslanmış, sisli
-- ► serap
+- serap
 ozellikler:
 - - sıfat
 - - sıfat

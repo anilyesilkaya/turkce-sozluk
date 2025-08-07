@@ -5,7 +5,7 @@ slug: alacamenekse
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hercai menekşe
+- hercai menekşe
 ozellikler:
 - - isim
   - bitki bilimi

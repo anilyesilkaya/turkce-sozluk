@@ -5,7 +5,7 @@ slug: akillara-zarar
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akla zarar
+- akla zarar
 ozellikler:
 - - ünlem
 ornekler:

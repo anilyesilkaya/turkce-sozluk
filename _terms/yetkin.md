@@ -5,7 +5,7 @@ slug: yetkin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► olgun
+- olgun
 ozellikler:
 - - sıfat
 ornekler:

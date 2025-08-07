@@ -5,7 +5,7 @@ slug: davranis-tablosu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► davranış çizelgesi
+- davranış çizelgesi
 ozellikler:
 - - isim
 ornekler:

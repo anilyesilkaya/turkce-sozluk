@@ -5,7 +5,7 @@ slug: laparoskopik-cerrahi
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► laparoskopik ameliyat
+- laparoskopik ameliyat
 ozellikler:
 - - isim
   - tıp

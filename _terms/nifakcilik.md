@@ -5,7 +5,7 @@ slug: nifakcilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► arabozanlık
+- arabozanlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hamsi-ezmesi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► ançüez
+- ançüez
 ozellikler:
 - - isim
 ornekler:

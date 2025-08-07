@@ -5,7 +5,7 @@ slug: bir-yol
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bir kere
+- bir kere
 ozellikler:
 - - zarf
 ornekler:

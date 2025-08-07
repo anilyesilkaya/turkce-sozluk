@@ -5,7 +5,7 @@ slug: rolativizm
 letter: R
 lisan: Fransızca relativisme
 anlamlar:
-- ► bağıntılılık
+- bağıntılılık
 ozellikler:
 - - isim
   - felsefe

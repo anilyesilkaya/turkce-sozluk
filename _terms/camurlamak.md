@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamur sürmek, çamurla sıvamak
-- ► kötülemek
+- kötülemek
 ozellikler:
 - - -i
 - - -i

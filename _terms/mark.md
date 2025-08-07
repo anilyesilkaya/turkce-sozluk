@@ -6,7 +6,7 @@ letter: M
 lisan: Almanca Mark
 anlamlar:
 - Alman para birimi
-- ► markka
+- markka
 ozellikler:
 - - isim
   - eskimiş

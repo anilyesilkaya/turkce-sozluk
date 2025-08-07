@@ -5,7 +5,7 @@ slug: ayriksizca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istisnasızca
+- istisnasızca
 ozellikler:
 - - zarf
 ornekler:

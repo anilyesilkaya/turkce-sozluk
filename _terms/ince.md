@@ -6,10 +6,10 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - Kendi cinsinden olanlara göre dar ve kalınlığı az olan; cılız, narin, kalın karşıtı
-- ► zayıf
+- zayıf
 - Taneleri ufak, iri karşıtı
 - Aşırı özen gerektiren, kaba karşıtı
-- ► ayrıntılı
+- ayrıntılı
 - Akışkanlığı çok olan, yoğun ve koyu olmayan (sıvılar)
 - Tiz (ses), kalın karşıtı
 - Hafif, gücü az

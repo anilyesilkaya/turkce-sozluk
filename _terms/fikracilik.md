@@ -5,7 +5,7 @@ slug: fikracilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► köşe yazarlığı
+- köşe yazarlığı
 - Fıkra anlatma işi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: naziklik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nezaket
+- nezaket
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ic-ag
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yerel ağ
+- yerel ağ
 ozellikler:
 - - isim
 ornekler:

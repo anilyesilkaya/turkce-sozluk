@@ -5,7 +5,7 @@ slug: konteyner
 letter: K
 lisan: Fransızca conteneur
 anlamlar:
-- ► taşımalık
+- taşımalık
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: elkizi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► gelin
+- gelin
 - Eşlerden kadın
 ozellikler:
 - - isim

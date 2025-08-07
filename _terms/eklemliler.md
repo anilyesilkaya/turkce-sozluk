@@ -5,7 +5,7 @@ slug: eklemliler
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eklem bacaklılar
+- eklem bacaklılar
 ozellikler:
 - - isim
   - hayvan bilimi

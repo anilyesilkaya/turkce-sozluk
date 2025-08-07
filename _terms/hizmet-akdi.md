@@ -5,7 +5,7 @@ slug: hizmet-akdi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► iş sözleşmesi
+- iş sözleşmesi
 ozellikler:
 - - isim
   - hukuk

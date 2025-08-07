@@ -5,7 +5,7 @@ slug: kartografya
 letter: K
 lisan: Yunanca
 anlamlar:
-- ► haritacılık
+- haritacılık
 ozellikler:
 - - isim
   - coğrafya

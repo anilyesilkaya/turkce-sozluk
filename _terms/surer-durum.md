@@ -5,7 +5,7 @@ slug: surer-durum
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► statüko
+- statüko
 ozellikler:
 - - isim
 ornekler:

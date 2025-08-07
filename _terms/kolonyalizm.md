@@ -5,7 +5,7 @@ slug: kolonyalizm
 letter: K
 lisan: Fransızca colonialisme
 anlamlar:
-- ► sömürgecilik
+- sömürgecilik
 ozellikler:
 - - isim
 ornekler:

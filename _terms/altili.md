@@ -8,7 +8,7 @@ anlamlar:
 - Altı parçadan oluşan, kendinde herhangi bir şeyden altı tane bulunan
 - İskambil, domino vb. oyunlarda üzerinde altı işareti bulunan kâğıt veya pul
 - Divan edebiyatında her bendi altı dizeden oluşan nazım biçimi
-- ► altılı ganyan
+- altılı ganyan
 ozellikler:
 - - sıfat
 - - sıfat

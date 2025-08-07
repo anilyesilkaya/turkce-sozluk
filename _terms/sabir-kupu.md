@@ -5,7 +5,7 @@ slug: sabir-kupu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► zekâ küpü
+- zekâ küpü
 - Çok sabırlı kimse
 ozellikler:
 - - isim

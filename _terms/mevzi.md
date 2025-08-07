@@ -5,7 +5,7 @@ slug: mevzi
 letter: M
 lisan: Arapça mevżiʿ
 anlamlar:
-- ► yer
+- yer
 - Askerî birliğin savaş sırasında savunma tedbirleri alarak yerleştiği yer
 ozellikler:
 - - isim

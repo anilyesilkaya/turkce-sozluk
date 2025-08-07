@@ -5,7 +5,7 @@ slug: bukunmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bükülmek
+- bükülmek
 - Ağrıdan, sancıdan kıvranmak
 ozellikler:
 - - nesnesiz

@@ -5,7 +5,7 @@ slug: sebatkarlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sebatlılık
+- sebatlılık
 ozellikler:
 - - isim
 ornekler:

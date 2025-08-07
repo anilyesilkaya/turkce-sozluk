@@ -5,7 +5,7 @@ slug: tenafur
 letter: T
 lisan: Arapça tenāfur
 anlamlar:
-- ► ses uyumsuzluğu
+- ses uyumsuzluğu
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: yangi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iltihap
+- iltihap
 ozellikler:
 - - isim
   - tıp

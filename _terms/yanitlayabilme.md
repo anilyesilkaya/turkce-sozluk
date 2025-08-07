@@ -5,7 +5,7 @@ slug: yanitlayabilme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► cevaplayabilme
+- cevaplayabilme
 ozellikler:
 - - isim
 ornekler:

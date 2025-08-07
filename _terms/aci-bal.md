@@ -5,7 +5,7 @@ slug: aci-bal
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► deli bal
+- deli bal
 ozellikler:
 - - isim
 ornekler:

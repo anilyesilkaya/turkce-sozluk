@@ -5,7 +5,7 @@ slug: zit
 letter: Z
 lisan: Arapça żidd
 anlamlar:
-- ► karşıt
+- karşıt
 ozellikler:
 - - sıfat
 ornekler:

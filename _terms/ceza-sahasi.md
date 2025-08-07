@@ -5,7 +5,7 @@ slug: ceza-sahasi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ceza alanı
+- ceza alanı
 ozellikler:
 - - isim
   - spor

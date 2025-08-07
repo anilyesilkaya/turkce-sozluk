@@ -5,7 +5,7 @@ slug: muteverrim
 letter: M
 lisan: Arapça muteverrim
 anlamlar:
-- ► veremli
+- veremli
 ozellikler:
 - - sıfat
   - eskimiş

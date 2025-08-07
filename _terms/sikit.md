@@ -5,7 +5,7 @@ slug: sikit
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► komprime
+- komprime
 ozellikler:
 - - isim
 ornekler:

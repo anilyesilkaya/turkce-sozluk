@@ -5,7 +5,7 @@ slug: gardiropculuk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giydiricilik
+- giydiricilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: musamaha
 letter: M
 lisan: Arapça musāmaḥa
 anlamlar:
-- ► hoşgörü
+- hoşgörü
 - Görmezlikten gelme, göz yumma
 ozellikler:
 - - isim

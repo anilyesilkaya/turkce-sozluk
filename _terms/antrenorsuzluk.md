@@ -5,7 +5,7 @@ slug: antrenorsuzluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çalıştırıcısızlık
+- çalıştırıcısızlık
 ozellikler:
 - - isim
 ornekler:

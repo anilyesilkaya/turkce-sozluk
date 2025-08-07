@@ -5,7 +5,7 @@ slug: komisyon
 letter: K
 lisan: Fransızca commission
 anlamlar:
-- ► alt kurul
+- alt kurul
 - Bir işte aracılık yapan kimseye bırakılan yüzde; simsariye
 ozellikler:
 - - isim

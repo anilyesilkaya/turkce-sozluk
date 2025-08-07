@@ -5,7 +5,7 @@ slug: enfrastruktur
 letter: E
 lisan: Fransızca infrastructure
 anlamlar:
-- ► altyapı
+- altyapı
 ozellikler:
 - - isim
   - toplum bilimi

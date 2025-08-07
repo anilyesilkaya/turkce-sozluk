@@ -5,7 +5,7 @@ slug: bildirme-kipi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► zaman
+- zaman
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: matbua
 letter: M
 lisan: Arapça maṭbūʿa
 anlamlar:
-- ► basma
+- basma
 ozellikler:
 - - isim
   - eskimiş

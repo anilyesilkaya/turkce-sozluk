@@ -5,9 +5,9 @@ slug: dikelmek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dikleşmek
+- dikleşmek
 - Ayakta durmak
-- ► diklenmek
+- diklenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

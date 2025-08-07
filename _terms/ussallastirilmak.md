@@ -5,7 +5,7 @@ slug: ussallastirilmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► aklileştirilmek
+- aklileştirilmek
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: lutr
 letter: L
 lisan: Fransızca loutre
 anlamlar:
-- ► su samuru
+- su samuru
 - Su samurundan elde edilen post
 - Bu posttan yapılan
 ozellikler:

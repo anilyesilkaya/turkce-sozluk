@@ -5,7 +5,7 @@ slug: tahassus
 letter: T
 lisan: Arapça taḥassus
 anlamlar:
-- ► duygulanma
+- duygulanma
 ozellikler:
 - - isim
   - eskimiş

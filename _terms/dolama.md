@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dolamak işi
 - Giysilerin üstüne giyilen, önü açık bir tür üstlük
-- ► poşu
+- poşu
 - Çeşitli eserlerdeki barok ve rokoko üslubunda iç içe süsleme motifi
 - Tırnak etrafındaki yumuşak bölümlerin, bazen de kemiğin iltihaplanmasından ileri gelen ağrılı şiş
 ozellikler:

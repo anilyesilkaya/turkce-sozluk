@@ -5,7 +5,7 @@ slug: kalavra
 letter: K
 lisan: Rumca
 anlamlar:
-- ► yemeni
+- yemeni
 - Deriden yapılmış eşya
 ozellikler:
 - - isim

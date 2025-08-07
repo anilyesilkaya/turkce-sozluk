@@ -5,8 +5,8 @@ slug: muttasil
 letter: M
 lisan: Arapça muttaṣil
 anlamlar:
-- ► bitişik
-- ► biteviye
+- bitişik
+- biteviye
 ozellikler:
 - - sıfat
   - eskimiş

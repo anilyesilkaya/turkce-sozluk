@@ -5,7 +5,7 @@ slug: hafif-muzik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► pop müzik
+- pop müzik
 ozellikler:
 - - isim
   - müzik

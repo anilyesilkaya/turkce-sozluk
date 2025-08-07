@@ -5,7 +5,7 @@ slug: dervisane
 letter: D
 lisan: Farsça dervīşāne
 anlamlar:
-- ► dervişçe
+- dervişçe
 ozellikler:
 - - zarf
   - eskimiş

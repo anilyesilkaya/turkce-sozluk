@@ -5,7 +5,7 @@ slug: yavuklama
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nişanlama
+- nişanlama
 ozellikler:
 - - isim
 ornekler:

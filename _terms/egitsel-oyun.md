@@ -5,7 +5,7 @@ slug: egitsel-oyun
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eğitici oyun
+- eğitici oyun
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça ʿinād
 anlamlar:
 - Bir konuda direnme, ayak direme; direnim
 - Birine karşı çıkma, karşı düşünce ileri sürme
-- ► inatçı
+- inatçı
 ozellikler:
 - - isim
 - - isim

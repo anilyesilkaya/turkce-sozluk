@@ -5,7 +5,7 @@ slug: ozdekcilik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► maddecilik
+- maddecilik
 ozellikler:
 - - isim
   - felsefe

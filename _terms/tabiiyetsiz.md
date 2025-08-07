@@ -5,7 +5,7 @@ slug: tabiiyetsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uyruksuz
+- uyruksuz
 ozellikler:
 - - sıfat
 ornekler:

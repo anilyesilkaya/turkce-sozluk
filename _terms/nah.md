@@ -5,7 +5,7 @@ slug: nah
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► işte
+- işte
 ozellikler:
 - - ünlem
 ornekler:

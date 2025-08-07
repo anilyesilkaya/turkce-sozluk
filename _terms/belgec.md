@@ -5,7 +5,7 @@ slug: belgec
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belgegeçer
+- belgegeçer
 ozellikler:
 - - isim
 ornekler:

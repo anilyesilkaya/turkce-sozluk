@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Fındık yetiştiren veya satan kimse
-- ► fingirdek
+- fingirdek
 ozellikler:
 - - isim
 - - isim

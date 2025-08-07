@@ -5,7 +5,7 @@ slug: narsistlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► özseverlik
+- özseverlik
 ozellikler:
 - - isim
 ornekler:

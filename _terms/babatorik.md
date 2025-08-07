@@ -5,7 +5,7 @@ slug: babatorik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - argo

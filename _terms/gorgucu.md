@@ -5,7 +5,7 @@ slug: gorgucu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► deneyci
+- deneyci
 ozellikler:
 - - sıfat
 ornekler:

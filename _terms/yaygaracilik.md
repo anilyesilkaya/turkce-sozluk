@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaygaracı olma durumu; vayvaycılık
-- ► şirretlik
+- şirretlik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: kirsal-motorin
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kırsal mazot
+- kırsal mazot
 ozellikler:
 - - isim
 ornekler:

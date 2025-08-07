@@ -5,7 +5,7 @@ slug: cocukcu
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çocuk doktoru
+- çocuk doktoru
 ozellikler:
 - - isim
 ornekler:

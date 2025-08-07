@@ -5,7 +5,7 @@ slug: nasfet
 letter: N
 lisan: Arapça naṣfet
 anlamlar:
-- ► hakkaniyet
+- hakkaniyet
 ozellikler:
 - - isim
   - eskimiş

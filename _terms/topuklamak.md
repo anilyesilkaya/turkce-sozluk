@@ -5,7 +5,7 @@ slug: topuklamak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► mahmuzlamak
+- mahmuzlamak
 - Topukla pas atmak
 - Bir taşıtın hızını artırmak
 ozellikler:

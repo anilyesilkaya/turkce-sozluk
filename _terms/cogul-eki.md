@@ -5,7 +5,7 @@ slug: cogul-eki
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çokluk eki
+- çokluk eki
 ozellikler:
 - - isim
   - dil bilgisi

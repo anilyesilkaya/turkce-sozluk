@@ -5,7 +5,7 @@ slug: feminenlesmek
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kadınsılaşmak
+- kadınsılaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: demirkapan
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► mıknatıs
+- mıknatıs
 ozellikler:
 - - isim
 ornekler:

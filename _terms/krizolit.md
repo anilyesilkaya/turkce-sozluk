@@ -5,7 +5,7 @@ slug: krizolit
 letter: K
 lisan: Fransızca chrysolite
 anlamlar:
-- ► zebercet
+- zebercet
 ozellikler:
 - - isim
   - mineraloji

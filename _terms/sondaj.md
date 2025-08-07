@@ -5,7 +5,7 @@ slug: sondaj
 letter: S
 lisan: Fransızca sondage
 anlamlar:
-- ► sondalama
+- sondalama
 - Bir durum, bir düşünce ile ilgili olarak yapılan yoklama, araştırma
 ozellikler:
 - - isim

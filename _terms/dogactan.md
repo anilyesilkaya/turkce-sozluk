@@ -5,7 +5,7 @@ slug: dogactan
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► doğaçlama
+- doğaçlama
 ozellikler:
 - - zarf
 ornekler:

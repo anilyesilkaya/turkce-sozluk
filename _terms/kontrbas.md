@@ -6,7 +6,7 @@ letter: K
 lisan: Fransızca contrebasse
 anlamlar:
 - Keman türünden, en kalın sesli yaylı saz
-- ► kontrbasçı
+- kontrbasçı
 ozellikler:
 - - isim
   - müzik

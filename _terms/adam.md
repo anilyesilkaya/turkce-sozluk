@@ -5,7 +5,7 @@ slug: adam
 letter: A
 lisan: Arapça ādem
 anlamlar:
-- ► insan
+- insan
 - Erkek kişi; herif
 - Birinin yanında bulunan ve işini yapan kimse
 - Birinin yararlandığı, kullandığı kimse

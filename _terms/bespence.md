@@ -5,7 +5,7 @@ slug: bespence
 letter: B
 lisan: Türkçe + Farsça pence
 anlamlar:
-- ► beşparmak
+- beşparmak
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: averaj
 letter: A
 lisan: Fransızca avérage
 anlamlar:
-- ► ortalama
-- ► sayı farkı
+- ortalama
+- sayı farkı
 ozellikler:
 - - isim
 - - isim

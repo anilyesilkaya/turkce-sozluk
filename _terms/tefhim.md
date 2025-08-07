@@ -5,7 +5,7 @@ slug: tefhim
 letter: T
 lisan: Arapça tefhīm
 anlamlar:
-- ► anlatma
+- anlatma
 ozellikler:
 - - isim
   - eskimiş

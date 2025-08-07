@@ -5,7 +5,7 @@ slug: gastroenteroloji
 letter: G
 lisan: Fransızca gastro-entérologie
 anlamlar:
-- ► sindirim bilimi
+- sindirim bilimi
 - Hastanelerde sindirim organları hastalıklarının incelendiği, tedavi edildiği bölüm
 ozellikler:
 - - isim

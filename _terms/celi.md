@@ -7,7 +7,7 @@ lisan: Arapça celī
 anlamlar:
 - Açık, aşikâr olan
 - Parlak, cilalı olan
-- ► celi yazı
+- celi yazı
 ozellikler:
 - - sıfat
   - eskimiş

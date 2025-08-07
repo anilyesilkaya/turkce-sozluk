@@ -5,8 +5,8 @@ slug: ingin
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► engin (II)
-- ► nezle
+- engin (II)
+- nezle
 ozellikler:
 - - sıfat
 - - sıfat

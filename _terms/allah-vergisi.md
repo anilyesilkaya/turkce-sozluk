@@ -5,7 +5,7 @@ slug: allah-vergisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Tanrı vergisi
+- Tanrı vergisi
 ozellikler:
 - - isim
 ornekler:

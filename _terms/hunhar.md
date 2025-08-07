@@ -6,7 +6,7 @@ letter: H
 lisan: Farsça ḫūnḫvār
 anlamlar:
 - Kan döken
-- ► kasap
+- kasap
 ozellikler:
 - - sıfat
 - - sıfat

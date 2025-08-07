@@ -5,7 +5,7 @@ slug: enternasyonalci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► uluslararasıcı
+- uluslararasıcı
 ozellikler:
 - - sıfat
 ornekler:

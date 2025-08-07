@@ -5,7 +5,7 @@ slug: yad-gerekirci
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► belirlenmezci
+- belirlenmezci
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: ide
 letter: I
 lisan: Fransızca idée
 anlamlar:
-- ► düşünce
+- düşünce
 ozellikler:
 - - isim
 ornekler:

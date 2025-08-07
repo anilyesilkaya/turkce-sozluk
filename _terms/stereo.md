@@ -5,7 +5,7 @@ slug: stereo
 letter: S
 lisan: Fransızca stéréo
 anlamlar:
-- ► stereofoni
+- stereofoni
 ozellikler:
 - - isim
 ornekler:

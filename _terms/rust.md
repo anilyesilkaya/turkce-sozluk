@@ -5,7 +5,7 @@ slug: rust
 letter: R
 lisan: Arapça ruşd
 anlamlar:
-- ► erginlik
+- erginlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gammaz
 letter: G
 lisan: Arapça ġammāz
 anlamlar:
-- ► ispiyoncu
+- ispiyoncu
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: tenakuz
 letter: T
 lisan: Arapça tenāḳuż
 anlamlar:
-- ► çelişki
+- çelişki
 ozellikler:
 - - isim
   - eskimiş

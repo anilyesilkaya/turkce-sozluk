@@ -5,7 +5,7 @@ slug: ilmiahlak
 letter: I
 lisan: Arapça ʿilm + aḫlāḳ
 anlamlar:
-- ► ahlak bilimi
+- ahlak bilimi
 ozellikler:
 - - isim
   - toplum bilimi

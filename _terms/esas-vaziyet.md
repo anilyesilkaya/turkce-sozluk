@@ -5,7 +5,7 @@ slug: esas-vaziyet
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► esas duruş
+- esas duruş
 ozellikler:
 - - isim
   - askerlik

@@ -5,7 +5,7 @@ slug: maharetlilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► beceriklilik
+- beceriklilik
 ozellikler:
 - - isim
 ornekler:

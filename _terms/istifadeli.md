@@ -5,7 +5,7 @@ slug: istifadeli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► yararlı
+- yararlı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: yag-salgami
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► küçük şalgam
+- küçük şalgam
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: ozanlasma
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şairleşme
+- şairleşme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ittisal
 letter: I
 lisan: Arapça ittiṣāl
 anlamlar:
-- ► bitişme
+- bitişme
 - Dokunma, değme, temas etme
 ozellikler:
 - - isim

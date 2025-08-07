@@ -9,7 +9,7 @@ anlamlar:
 - Özenle yapılmış
 - Çok az kullanılmış veya hiç kullanılmamış olan, özrü olmayan
 - Ahlakça lekesiz
-- ► sabıkasız
+- sabıkasız
 - Kirli, lekeli, bulaşık olmayan bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: hematit
 letter: H
 lisan: Fransızca hématite
 anlamlar:
-- ► kan taşı
+- kan taşı
 ozellikler:
 - - isim
   - mineraloji

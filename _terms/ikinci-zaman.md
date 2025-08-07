@@ -5,7 +5,7 @@ slug: ikinci-zaman
 letter: İ
 lisan: Türkçe
 anlamlar:
-- ► İkinci Çağ
+- İkinci Çağ
 ozellikler:
 - - isim
   - jeoloji

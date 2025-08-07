@@ -5,7 +5,7 @@ slug: inovasyon
 letter: I
 lisan: İngilizce innovation
 anlamlar:
-- ► yenileşim
+- yenileşim
 ozellikler:
 - - isim
 ornekler:

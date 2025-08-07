@@ -5,7 +5,7 @@ slug: ceyiz-cemen
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çeyiz
+- çeyiz
 ozellikler:
 - - isim
 ornekler:

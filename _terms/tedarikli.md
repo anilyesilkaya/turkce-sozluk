@@ -5,7 +5,7 @@ slug: tedarikli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► hazırlıklı
+- hazırlıklı
 - Her şeyi önceden sağlamış olarak, hazırlıklı bir biçimde
 ozellikler:
 - - sıfat

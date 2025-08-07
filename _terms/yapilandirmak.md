@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılı duruma getirmek
-- ► düzenlemek
+- düzenlemek
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: afsun
 letter: A
 lisan: Farsça efsūn
 anlamlar:
-- ► büyü
+- büyü
 ozellikler:
 - - isim
   - ağızlardan

@@ -5,7 +5,7 @@ slug: aval-aval
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► avalca
+- avalca
 ozellikler:
 - - zarf
   - argo

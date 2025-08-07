@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - İç organlarda duyulan kasılma vb. hareketler
-- ► üzüntü
+- üzüntü
 ozellikler:
 - - isim
 - - isim

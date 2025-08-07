@@ -5,7 +5,7 @@ slug: telase-naziri
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► telaşe müdürü
+- telaşe müdürü
 ozellikler:
 - - isim
   - mecaz

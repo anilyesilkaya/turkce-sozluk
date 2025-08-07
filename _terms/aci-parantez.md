@@ -5,7 +5,7 @@ slug: aci-parantez
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açı ayraç
+- açı ayraç
 ozellikler:
 - - isim
 ornekler:

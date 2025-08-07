@@ -5,7 +5,7 @@ slug: dizgesel
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sistemli
+- sistemli
 ozellikler:
 - - sıfat
 ornekler:

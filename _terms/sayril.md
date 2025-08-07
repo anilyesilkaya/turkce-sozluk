@@ -5,7 +5,7 @@ slug: sayril
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► marazi
+- marazi
 ozellikler:
 - - sıfat
   - eskimiş

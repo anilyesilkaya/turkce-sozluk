@@ -5,7 +5,7 @@ slug: diya
 letter: D
 lisan: Fransızca diapositive sözünün kısaltılmış biçimi
 anlamlar:
-- ► slayt
+- slayt
 ozellikler:
 - - isim
 ornekler:

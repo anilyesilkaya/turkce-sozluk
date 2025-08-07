@@ -5,7 +5,7 @@ slug: asirlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yüzyıllık
+- yüzyıllık
 ozellikler:
 - - sıfat
 ornekler:

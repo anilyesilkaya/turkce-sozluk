@@ -5,8 +5,8 @@ slug: lesker
 letter: L
 lisan: Farsça leşker
 anlamlar:
-- ► asker
-- ► ordu
+- asker
+- ordu
 ozellikler:
 - - isim
   - eskimiş

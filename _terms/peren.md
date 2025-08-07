@@ -5,7 +5,7 @@ slug: peren
 letter: P
 lisan: Farsça peren
 anlamlar:
-- ► Ülker
+- Ülker
 ozellikler:
 - - isim
   - eskimiş

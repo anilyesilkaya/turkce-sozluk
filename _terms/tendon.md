@@ -5,7 +5,7 @@ slug: tendon
 letter: T
 lisan: Fransızca tendon
 anlamlar:
-- ► kiriş
+- kiriş
 ozellikler:
 - - isim
   - anatomi

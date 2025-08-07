@@ -5,7 +5,7 @@ slug: yermeli
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pejoratif
+- pejoratif
 ozellikler:
 - - sıfat
 ornekler:

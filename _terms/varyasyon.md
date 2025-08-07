@@ -6,9 +6,9 @@ letter: V
 lisan: Fransızca variation
 anlamlar:
 - Değişik biçim; varyete
-- ► değişim
-- ► çeşitleme
-- ► değişkenlik
+- değişim
+- çeşitleme
+- değişkenlik
 ozellikler:
 - - isim
 - - isim

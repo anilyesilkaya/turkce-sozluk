@@ -5,7 +5,7 @@ slug: ayinicem
 letter: A
 lisan: Farsça āyīn + cemʿ
 anlamlar:
-- ► cem ayini
+- cem ayini
 ozellikler:
 - - isim
   - eskimiş

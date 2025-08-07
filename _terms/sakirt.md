@@ -5,8 +5,8 @@ slug: sakirt
 letter: Ş
 lisan: Farsça şāgird
 anlamlar:
-- ► öğrenci
-- ► çırak
+- öğrenci
+- çırak
 ozellikler:
 - - isim
 - - isim

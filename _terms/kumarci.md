@@ -5,7 +5,7 @@ slug: kumarci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kumarbaz
+- kumarbaz
 ozellikler:
 - - sıfat
 ornekler:

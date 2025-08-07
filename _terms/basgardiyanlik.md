@@ -5,7 +5,7 @@ slug: basgardiyanlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► infaz ve koruma başmemurluğu
+- infaz ve koruma başmemurluğu
 ozellikler:
 - - isim
 ornekler:

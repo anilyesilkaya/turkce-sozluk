@@ -5,7 +5,7 @@ slug: zengin-uyak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zengin kafiye
+- zengin kafiye
 ozellikler:
 - - isim
   - edebiyat

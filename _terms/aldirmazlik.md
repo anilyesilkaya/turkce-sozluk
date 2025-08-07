@@ -5,7 +5,7 @@ slug: aldirmazlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgisizlik
+- ilgisizlik
 ozellikler:
 - - isim
 ornekler:

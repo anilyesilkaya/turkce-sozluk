@@ -5,7 +5,7 @@ slug: hurmetkarane
 letter: H
 lisan: Arapça ḥurmet + Farsça -kār-āne
 anlamlar:
-- ► saygılıca
+- saygılıca
 ozellikler:
 - - zarf
   - eskimiş

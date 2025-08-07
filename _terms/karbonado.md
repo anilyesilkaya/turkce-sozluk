@@ -5,7 +5,7 @@ slug: karbonado
 letter: K
 lisan: İspanyolca carbonado
 anlamlar:
-- ► kara elmas
+- kara elmas
 ozellikler:
 - - isim
   - mineraloji

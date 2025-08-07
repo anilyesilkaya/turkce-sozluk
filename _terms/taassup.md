@@ -5,7 +5,7 @@ slug: taassup
 letter: T
 lisan: Arapça taʿaṣṣub
 anlamlar:
-- ► bağnazlık
+- bağnazlık
 ozellikler:
 - - isim
 ornekler:

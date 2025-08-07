@@ -5,7 +5,7 @@ slug: ferih-fahur
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► ferah fahur
+- ferah fahur
 ozellikler:
 - - zarf
 ornekler:

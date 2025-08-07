@@ -5,7 +5,7 @@ slug: bilisiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bilgisiz
+- bilgisiz
 ozellikler:
 - - sıfat
 ornekler:

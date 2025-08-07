@@ -5,7 +5,7 @@ slug: fenalik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kötülük
+- kötülük
 - Bayılacak gibi olma, baygınlık hissetme durumu
 ozellikler:
 - - isim

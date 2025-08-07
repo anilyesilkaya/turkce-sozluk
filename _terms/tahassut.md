@@ -5,8 +5,8 @@ slug: tahassut
 letter: T
 lisan: Arapça taḥaşşud
 anlamlar:
-- ► yığınak
-- ► yığılma
+- yığınak
+- yığılma
 ozellikler:
 - - isim
   - eskimiş

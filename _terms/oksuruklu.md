@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksürüğü olan, sürekli öksüren
-- ► hastalıklı
+- hastalıklı
 ozellikler:
 - - sıfat
 - - sıfat

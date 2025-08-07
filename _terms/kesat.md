@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça kesād
 anlamlar:
 - Alışverişte durgunluk
-- ► kıtlık
+- kıtlık
 ozellikler:
 - - isim
 - - isim

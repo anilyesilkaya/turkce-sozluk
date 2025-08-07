@@ -5,7 +5,7 @@ slug: nesil
 letter: N
 lisan: Arapça nesl
 anlamlar:
-- ► kuşak
+- kuşak
 - Hayvanlarda döl
 ozellikler:
 - - isim

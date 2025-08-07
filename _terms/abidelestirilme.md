@@ -5,7 +5,7 @@ slug: abidelestirilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anıtlaştırılma
+- anıtlaştırılma
 ozellikler:
 - - isim
 ornekler:

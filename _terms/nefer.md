@@ -5,8 +5,8 @@ slug: nefer
 letter: N
 lisan: Arapça nefer
 anlamlar:
-- ► er (I)
-- ► kişi
+- er (I)
+- kişi
 ozellikler:
 - - isim
   - eskimiş

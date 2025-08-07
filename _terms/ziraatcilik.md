@@ -5,7 +5,7 @@ slug: ziraatcilik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► tarımcılık
+- tarımcılık
 ozellikler:
 - - isim
 ornekler:

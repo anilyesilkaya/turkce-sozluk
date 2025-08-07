@@ -6,7 +6,7 @@ letter: M
 lisan: Türkçe
 anlamlar:
 - Muhalif olma durumu
-- ► aykırılık
+- aykırılık
 ozellikler:
 - - isim
 - - isim

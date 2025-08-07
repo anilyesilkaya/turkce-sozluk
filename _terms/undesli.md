@@ -5,7 +5,7 @@ slug: undesli
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► cinaslı
+- cinaslı
 ozellikler:
 - - sıfat
 ornekler:

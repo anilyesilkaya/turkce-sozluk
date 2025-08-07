@@ -5,7 +5,7 @@ slug: futuristlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gelecekçilik
+- gelecekçilik
 ozellikler:
 - - isim
 ornekler:

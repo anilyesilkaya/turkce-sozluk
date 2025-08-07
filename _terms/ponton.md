@@ -8,7 +8,7 @@ anlamlar:
 - Batmış gemileri askıya alma işinde kullanılan büyük duba
 - Yat limanlarında yatların yanaşması için zincirle karaya bağlı sabit duba
 - Gemi kapaklarından geçemeyecek yükseklikteki birtakım malzemelerin deniz yoluyla taşınması için kullanılan yüzer vasıta
-- ► tombaz
+- tombaz
 ozellikler:
 - - isim
   - denizcilik

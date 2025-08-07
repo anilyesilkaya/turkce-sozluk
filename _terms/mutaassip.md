@@ -5,7 +5,7 @@ slug: mutaassip
 letter: M
 lisan: Arapça mutaʿaṣṣib
 anlamlar:
-- ► bağnaz
+- bağnaz
 ozellikler:
 - - sıfat
 ornekler:

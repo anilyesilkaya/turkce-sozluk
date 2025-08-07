@@ -5,7 +5,7 @@ slug: sedasiz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonsuz
+- tonsuz
 ozellikler:
 - - sıfat
   - dil bilgisi

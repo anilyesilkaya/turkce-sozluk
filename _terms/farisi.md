@@ -5,7 +5,7 @@ slug: farisi
 letter: F
 lisan: Farsça fārs + Arapça -ī
 anlamlar:
-- ► Farsça
+- Farsça
 ozellikler:
 - - isim
   - eskimiş

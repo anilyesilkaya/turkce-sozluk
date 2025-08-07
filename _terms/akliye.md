@@ -7,7 +7,7 @@ lisan: Arapça ʿaḳliyye
 anlamlar:
 - Akıl hastalıkları ile ilgili hekimlik kolu
 - Akıl hastalıkları ile ilgili hastane bölümü
-- ► akılcılık
+- akılcılık
 ozellikler:
 - - isim
   - eskimiş

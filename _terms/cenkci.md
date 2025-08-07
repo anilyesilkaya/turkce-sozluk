@@ -5,7 +5,7 @@ slug: cenkci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► savaşçı
+- savaşçı
 ozellikler:
 - - sıfat
 ornekler:

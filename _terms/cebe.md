@@ -5,8 +5,8 @@ slug: cebe
 letter: C
 lisan: Moğolca
 anlamlar:
-- ► zırh (I)
-- ► silah
+- zırh (I)
+- silah
 ozellikler:
 - - isim
   - eskimiş

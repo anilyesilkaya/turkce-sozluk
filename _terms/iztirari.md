@@ -5,7 +5,7 @@ slug: iztirari
 letter: I
 lisan: Arapça iżṭirārī
 anlamlar:
-- ► zorunlu
+- zorunlu
 ozellikler:
 - - sıfat
   - eskimiş

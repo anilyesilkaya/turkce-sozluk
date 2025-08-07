@@ -5,7 +5,7 @@ slug: guvenceci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► garantör
+- garantör
 ozellikler:
 - - sıfat
 ornekler:

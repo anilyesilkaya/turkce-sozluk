@@ -5,7 +5,7 @@ slug: sedali-unsuz
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonlu ünsüz
+- tonlu ünsüz
 ozellikler:
 - - isim
   - dil bilgisi

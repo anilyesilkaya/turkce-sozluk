@@ -5,7 +5,7 @@ slug: fiks-menu
 letter: F
 lisan: Fransızca fixe menu
 anlamlar:
-- ► tek liste
+- tek liste
 ozellikler:
 - - isim
 ornekler:

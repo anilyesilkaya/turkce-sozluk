@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Küsmüş olan (kimse)
-- ► küstüm otu
+- küstüm otu
 - Gelişmemiş, küçük kalmış
 ozellikler:
 - - sıfat

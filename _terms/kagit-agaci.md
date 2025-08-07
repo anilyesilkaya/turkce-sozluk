@@ -5,7 +5,7 @@ slug: kagit-agaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kâğıt dutu
+- kâğıt dutu
 ozellikler:
 - - isim
   - bitki bilimi

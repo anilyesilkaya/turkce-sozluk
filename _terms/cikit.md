@@ -5,7 +5,7 @@ slug: cikit
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çıkak
+- çıkak
 ozellikler:
 - - isim
 ornekler:

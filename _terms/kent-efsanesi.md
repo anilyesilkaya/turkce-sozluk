@@ -5,7 +5,7 @@ slug: kent-efsanesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şehir efsanesi
+- şehir efsanesi
 ozellikler:
 - - isim
 ornekler:

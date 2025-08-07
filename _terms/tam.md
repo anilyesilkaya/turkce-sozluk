@@ -5,10 +5,10 @@ slug: tam
 letter: T
 lisan: Arapça tāmm
 anlamlar:
-- ► eksiksiz
+- eksiksiz
 - Bir bütün olarak ele alınan; bütün
 - En elverişli, en uygun
-- ► tıpkı
+- tıpkı
 - O sırada, o anda
 - Eksiksiz olarak, bütün olarak; iyice
 - Gerçek, kusursuz olan

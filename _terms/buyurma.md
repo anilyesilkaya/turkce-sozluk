@@ -5,7 +5,7 @@ slug: buyurma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► emretme
+- emretme
 ozellikler:
 - - isim
 ornekler:

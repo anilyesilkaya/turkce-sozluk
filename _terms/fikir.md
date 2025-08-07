@@ -5,9 +5,9 @@ slug: fikir
 letter: F
 lisan: Arapça fikr
 anlamlar:
-- ► düşünce
-- ► düşün
-- ► kuruntu
+- düşünce
+- düşün
+- kuruntu
 ozellikler:
 - - isim
 - - isim

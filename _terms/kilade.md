@@ -5,7 +5,7 @@ slug: kilade
 letter: K
 lisan: Arapça ḳilāde
 anlamlar:
-- ► gerdanlık
+- gerdanlık
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tumleyici
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► bütünleyen
+- bütünleyen
 ozellikler:
 - - sıfat
 ornekler:

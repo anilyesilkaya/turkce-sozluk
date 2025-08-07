@@ -5,7 +5,7 @@ slug: ketumiyet
 letter: K
 lisan: Arapça ketūmiyyet
 anlamlar:
-- ► ağzı sıkılık
+- ağzı sıkılık
 ozellikler:
 - - isim
   - eskimiş

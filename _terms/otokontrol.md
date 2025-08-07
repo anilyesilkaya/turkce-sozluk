@@ -5,7 +5,7 @@ slug: otokontrol
 letter: O
 lisan: Fransızca autocontrôle
 anlamlar:
-- ► öz denetim
+- öz denetim
 ozellikler:
 - - isim
   - ruh bilimi

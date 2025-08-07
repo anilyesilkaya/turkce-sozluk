@@ -5,7 +5,7 @@ slug: susmek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► boynuzlamak
+- boynuzlamak
 ozellikler:
 - - -i
 ornekler:

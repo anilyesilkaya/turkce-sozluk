@@ -5,7 +5,7 @@ slug: fasistlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► faşizm
+- faşizm
 ozellikler:
 - - isim
 ornekler:

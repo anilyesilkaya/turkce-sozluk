@@ -5,7 +5,7 @@ slug: mevt
 letter: M
 lisan: Arapça mevt
 anlamlar:
-- ► ölüm
+- ölüm
 ozellikler:
 - - isim
   - eskimiş

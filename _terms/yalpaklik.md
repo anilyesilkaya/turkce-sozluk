@@ -5,7 +5,7 @@ slug: yalpaklik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dalkavukluk
+- dalkavukluk
 ozellikler:
 - - isim
   - ağızlardan

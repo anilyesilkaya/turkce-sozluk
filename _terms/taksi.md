@@ -5,7 +5,7 @@ slug: taksi
 letter: T
 lisan: Fransızca taxie
 anlamlar:
-- ► göçüm
+- göçüm
 ozellikler:
 - - isim
   - biyoloji

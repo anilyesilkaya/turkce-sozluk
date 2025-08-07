@@ -5,7 +5,7 @@ slug: konferansci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► konuşmacı
+- konuşmacı
 ozellikler:
 - - isim
 ornekler:

@@ -5,9 +5,9 @@ slug: ispat
 letter: I
 lisan: Arapça is̱bāt
 anlamlar:
-- ► kanıt
-- ► kanıtlama
-- ► tanıtlama
+- kanıt
+- kanıtlama
+- tanıtlama
 ozellikler:
 - - isim
 - - isim

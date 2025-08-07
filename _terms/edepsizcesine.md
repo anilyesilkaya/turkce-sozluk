@@ -5,7 +5,7 @@ slug: edepsizcesine
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► edepsizce
+- edepsizce
 ozellikler:
 - - zarf
 ornekler:

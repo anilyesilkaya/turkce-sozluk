@@ -5,7 +5,7 @@ slug: yavasa
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► burunduruk
+- burunduruk
 ozellikler:
 - - isim
   - ağızlardan

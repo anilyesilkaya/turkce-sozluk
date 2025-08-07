@@ -5,7 +5,7 @@ slug: hatirlanmak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► anımsanmak
+- anımsanmak
 ozellikler:
 - - nesnesiz
 ornekler:

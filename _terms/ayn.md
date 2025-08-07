@@ -5,7 +5,7 @@ slug: ayn
 letter: A
 lisan: Arapça ʿayn
 anlamlar:
-- ► göz
+- göz
 ozellikler:
 - - isim
   - eskimiş

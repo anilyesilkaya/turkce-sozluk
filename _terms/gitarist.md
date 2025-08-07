@@ -5,7 +5,7 @@ slug: gitarist
 letter: G
 lisan: Fransızca guitariste
 anlamlar:
-- ► gitarcı
+- gitarcı
 ozellikler:
 - - isim
 ornekler:

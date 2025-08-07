@@ -5,7 +5,7 @@ slug: konkur
 letter: K
 lisan: Fransızca concours
 anlamlar:
-- ► yarışma
+- yarışma
 ozellikler:
 - - isim
   - spor

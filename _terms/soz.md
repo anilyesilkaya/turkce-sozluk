@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Bir düşünceyi eksiksiz olarak anlatan kelime dizisi; lakırtı, kal (II), kavil, kelam, laf
-- ► kelime
+- kelime
 - Bir konuyu yazılı veya sözlü olarak açıklamaya yarayan kelime dizisi
 - Kesinlik kazanmayan haber, söylenti
 - Bir işi yapacağını kesin olarak vadetme

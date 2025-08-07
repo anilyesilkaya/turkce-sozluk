@@ -5,7 +5,7 @@ slug: esleksel
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Ekvatoral
+- Ekvatoral
 ozellikler:
 - - sıfat
   - coğrafya

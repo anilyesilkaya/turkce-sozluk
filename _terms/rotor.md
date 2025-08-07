@@ -5,7 +5,7 @@ slug: rotor
 letter: R
 lisan: Fransızca rotor
 anlamlar:
-- ► döneç
+- döneç
 ozellikler:
 - - isim
   - fizik

@@ -6,7 +6,7 @@ letter: Z
 lisan: Farsça zārī + zārī
 anlamlar:
 - İnleyerek
-- ► hüngür hüngür
+- hüngür hüngür
 ozellikler:
 - - zarf
   - ağızlardan

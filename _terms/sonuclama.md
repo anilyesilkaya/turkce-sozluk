@@ -5,7 +5,7 @@ slug: sonuclama
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sonuçlandırma
+- sonuçlandırma
 ozellikler:
 - - isim
 ornekler:

@@ -8,7 +8,7 @@ anlamlar:
 - Birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak; zor kullanmak, mecbur etmek, cebretmek
 - Açılması, kırılması, sökülmesi gereken şeyler için güç kullanmak
 - Üstelemek, ısrar etmek
-- ► yüklenmek
+- yüklenmek
 ozellikler:
 - - -i
 - - -i

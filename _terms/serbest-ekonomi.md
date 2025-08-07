@@ -5,7 +5,7 @@ slug: serbest-ekonomi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► serbest piyasa ekonomisi
+- serbest piyasa ekonomisi
 ozellikler:
 - - isim
   - ekonomi

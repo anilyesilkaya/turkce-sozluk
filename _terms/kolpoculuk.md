@@ -5,7 +5,7 @@ slug: kolpoculuk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► dalaverecilik
+- dalaverecilik
 ozellikler:
 - - isim
 ornekler:

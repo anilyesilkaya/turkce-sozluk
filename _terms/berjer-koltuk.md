@@ -5,7 +5,7 @@ slug: berjer-koltuk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► berjer
+- berjer
 ozellikler:
 - - isim
 ornekler:

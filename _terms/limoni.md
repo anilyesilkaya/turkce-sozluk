@@ -5,7 +5,7 @@ slug: limoni
 letter: L
 lisan: Farsça līmūn + -î
 anlamlar:
-- ► limon rengi
+- limon rengi
 - Bu renkte olan
 - Bozulmuş veya bozulmaya yüz tutmuş olan (dostluk ilişkisi); mayhoş
 - Alıngan, beklenmeyen bir zamanda öfkelenen

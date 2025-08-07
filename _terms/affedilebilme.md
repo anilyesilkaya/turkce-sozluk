@@ -5,7 +5,7 @@ slug: affedilebilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlanabilme
+- bağışlanabilme
 ozellikler:
 - - isim
 ornekler:

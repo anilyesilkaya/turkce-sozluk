@@ -5,7 +5,7 @@ slug: antrenorlu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çalıştırıcılı
+- çalıştırıcılı
 ozellikler:
 - - sıfat
 ornekler:

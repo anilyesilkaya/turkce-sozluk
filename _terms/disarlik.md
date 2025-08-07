@@ -5,7 +5,7 @@ slug: disarlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► taşra
+- taşra
 - Yaşadığı yerden başka bir yere giderken giyilen kıyafet
 ozellikler:
 - - isim

@@ -5,9 +5,9 @@ slug: vasl
 letter: V
 lisan: Arapça vaṣl
 anlamlar:
-- ► kavuşma
-- ► birleşme
-- ► ulama
+- kavuşma
+- birleşme
+- ulama
 ozellikler:
 - - isim
 - - isim

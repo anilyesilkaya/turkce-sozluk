@@ -5,8 +5,8 @@ slug: anons
 letter: A
 lisan: Fransızca annonce
 anlamlar:
-- ► duyuru
-- ► sesli duyuru
+- duyuru
+- sesli duyuru
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: resimlendirmek
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► resimlemek
+- resimlemek
 ozellikler:
 - - -i
 ornekler:

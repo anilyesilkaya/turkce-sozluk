@@ -5,7 +5,7 @@ slug: camiz
 letter: C
 lisan: Arapça cāmūs
 anlamlar:
-- ► manda (I)
+- manda (I)
 ozellikler:
 - - isim
   - hayvan bilimi

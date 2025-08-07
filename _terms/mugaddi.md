@@ -5,7 +5,7 @@ slug: mugaddi
 letter: M
 lisan: Arapça muġaddī
 anlamlar:
-- ► besleyici
+- besleyici
 ozellikler:
 - - sıfat
   - eskimiş

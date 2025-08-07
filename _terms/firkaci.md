@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Parti üyesi
-- ► partici
+- partici
 ozellikler:
 - - isim
 - - isim

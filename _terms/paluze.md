@@ -5,7 +5,7 @@ slug: paluze
 letter: P
 lisan: Farsça pālūde
 anlamlar:
-- ► pelte
+- pelte
 ozellikler:
 - - isim
 ornekler:

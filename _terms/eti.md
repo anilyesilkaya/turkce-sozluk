@@ -5,7 +5,7 @@ slug: eti
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Hitit
+- Hitit
 ozellikler:
 - - isim
   - tarih

@@ -5,7 +5,7 @@ slug: monadist
 letter: M
 lisan: Fransızca monadiste
 anlamlar:
-- ► monatçı
+- monatçı
 ozellikler:
 - - sıfat
   - felsefe

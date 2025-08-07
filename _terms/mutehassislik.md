@@ -5,7 +5,7 @@ slug: mutehassislik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uzmanlık
+- uzmanlık
 ozellikler:
 - - isim
 ornekler:

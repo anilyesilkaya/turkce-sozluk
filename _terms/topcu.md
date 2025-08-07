@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Topların kullanılışı, bakımı üzerine yetiştirilen asker sınıfı
-- ► futbolcu
+- futbolcu
 - Sınıfta kalmış öğrenci
 ozellikler:
 - - isim

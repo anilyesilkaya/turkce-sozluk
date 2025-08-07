@@ -5,7 +5,7 @@ slug: ferasetsiz
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► anlayışsız
+- anlayışsız
 ozellikler:
 - - sıfat
 ornekler:

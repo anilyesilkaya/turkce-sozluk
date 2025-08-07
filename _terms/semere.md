@@ -6,7 +6,7 @@ letter: S
 lisan: Arapça s̱emere
 anlamlar:
 - Yemiş, meyve, ürün
-- ► verim
+- verim
 ozellikler:
 - - isim
   - eskimiş

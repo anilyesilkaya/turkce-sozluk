@@ -5,7 +5,7 @@ slug: sidik-zoru
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► idrar zoru
+- idrar zoru
 ozellikler:
 - - isim
   - tıp

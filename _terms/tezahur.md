@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça teẓāhur
 anlamlar:
 - Ortaya çıkma
-- ► belirti
+- belirti
 ozellikler:
 - - isim
   - eskimiş

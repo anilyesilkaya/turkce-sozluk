@@ -5,7 +5,7 @@ slug: viskozite
 letter: V
 lisan: Fransızca viscosité
 anlamlar:
-- ► ağdalılık
+- ağdalılık
 ozellikler:
 - - isim
 ornekler:

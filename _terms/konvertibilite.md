@@ -5,7 +5,7 @@ slug: konvertibilite
 letter: K
 lisan: Fransızca convertibilité
 anlamlar:
-- ► çevrilgenlik
+- çevrilgenlik
 ozellikler:
 - - isim
   - ekonomi

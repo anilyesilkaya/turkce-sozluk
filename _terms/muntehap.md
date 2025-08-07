@@ -5,8 +5,8 @@ slug: muntehap
 letter: M
 lisan: Arapça muntaḫab
 anlamlar:
-- ► seçilmiş
-- ► seçme
+- seçilmiş
+- seçme
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,7 +5,7 @@ slug: kavilestirme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaştırma
+- sağlamlaştırma
 ozellikler:
 - - isim
 ornekler:

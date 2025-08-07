@@ -5,7 +5,7 @@ slug: viraj
 letter: V
 lisan: Fransızca virage
 anlamlar:
-- ► dönemeç
+- dönemeç
 ozellikler:
 - - isim
 ornekler:

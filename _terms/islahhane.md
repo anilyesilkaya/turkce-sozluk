@@ -5,7 +5,7 @@ slug: islahhane
 letter: I
 lisan: Arapça iṣlāḥ + Farsça ḫāne
 anlamlar:
-- ► ıslahevi
+- ıslahevi
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: punez
 letter: P
 lisan: Fransızca punaise
 anlamlar:
-- ► raptiye
+- raptiye
 ozellikler:
 - - isim
 ornekler:

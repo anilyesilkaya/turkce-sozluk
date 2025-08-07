@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Konmak işi
 - Bütün imkânlar göz önünde tutularak kara, hava ve deniz birliklerinin yerleştirilmesi biçimi
-- ► konum
+- konum
 ozellikler:
 - - isim
 - - isim

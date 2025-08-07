@@ -5,7 +5,7 @@ slug: transformizm
 letter: T
 lisan: Fransızca transformisme
 anlamlar:
-- ► dönüşümcülük
+- dönüşümcülük
 ozellikler:
 - - isim
   - felsefe

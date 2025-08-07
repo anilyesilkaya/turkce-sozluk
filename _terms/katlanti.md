@@ -5,7 +5,7 @@ slug: katlanti
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► katlanma
+- katlanma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: zumrudi
 letter: Z
 lisan: Arapça zumurrudī
 anlamlar:
-- ► zümrüt yeşili
+- zümrüt yeşili
 - Bu renkte olan
 ozellikler:
 - - isim

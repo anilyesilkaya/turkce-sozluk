@@ -5,7 +5,7 @@ slug: tefekkur
 letter: T
 lisan: Arapça tefekkur
 anlamlar:
-- ► düşünme
+- düşünme
 ozellikler:
 - - isim
   - eskimiş

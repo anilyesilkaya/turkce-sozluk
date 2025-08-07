@@ -5,7 +5,7 @@ slug: vesvesecilik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► kuruntululuk
+- kuruntululuk
 ozellikler:
 - - isim
 ornekler:

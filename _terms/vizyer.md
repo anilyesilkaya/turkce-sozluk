@@ -5,7 +5,7 @@ slug: vizyer
 letter: V
 lisan: Fransızca visière
 anlamlar:
-- ► terek
+- terek
 ozellikler:
 - - isim
 ornekler:

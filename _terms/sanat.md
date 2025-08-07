@@ -9,7 +9,7 @@ anlamlar:
 - Belli bir uygarlığın veya topluluğun anlayış ve zevk ölçülerine uygun olarak yaratılmış anlatım
 - Bir şey yapmada gösterilen ustalık
 - Bir meslekte uyulması gereken kuralların tümü
-- ► zanaat
+- zanaat
 ozellikler:
 - - isim
 - - isim

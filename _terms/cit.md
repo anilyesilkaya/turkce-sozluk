@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pamuktan dokunmuş basma
-- ► yemeni
+- yemeni
 ozellikler:
 - - isim
   - ağızlardan

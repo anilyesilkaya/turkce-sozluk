@@ -5,7 +5,7 @@ slug: alakasizlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ilgisizlik
+- ilgisizlik
 ozellikler:
 - - isim
 ornekler:

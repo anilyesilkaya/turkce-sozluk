@@ -5,7 +5,7 @@ slug: kezalik
 letter: K
 lisan: Arapça keẕālik
 anlamlar:
-- ► keza
+- keza
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: luti
 letter: L
 lisan: Arapça lūṭī
 anlamlar:
-- ► oğlancı
+- oğlancı
 ozellikler:
 - - isim
   - kaba konuşmada

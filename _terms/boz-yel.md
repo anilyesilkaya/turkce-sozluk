@@ -5,7 +5,7 @@ slug: boz-yel
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► lodos
+- lodos
 ozellikler:
 - - isim
   - ağızlardan

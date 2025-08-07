@@ -5,7 +5,7 @@ slug: sogdakca
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► Soğdca
+- Soğdca
 ozellikler:
 - - isim
 ornekler:

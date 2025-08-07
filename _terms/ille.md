@@ -5,7 +5,7 @@ slug: ille
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► illa
+- illa
 ozellikler:
 - - zarf
   - ağızlardan

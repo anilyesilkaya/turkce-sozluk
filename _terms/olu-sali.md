@@ -5,7 +5,7 @@ slug: olu-sali
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tabut
+- tabut
 ozellikler:
 - - isim
 ornekler:

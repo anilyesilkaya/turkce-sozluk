@@ -5,7 +5,7 @@ slug: zorlu
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► şiddetli
+- şiddetli
 - Tuttuğunu koparan, baskı yapabilecek ölçüde güçlü (kimse)
 - Zor, güç yapılan; çetin
 - Zorbalık yapan

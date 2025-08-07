@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Boş yeri kalmamış; meşbu
-- ► dolu (II)
+- dolu (II)
 - Yolcu taşımaya yarayan kayık, motor, otomobil, minibüs vb. küçük taşıt
 ozellikler:
 - - sıfat

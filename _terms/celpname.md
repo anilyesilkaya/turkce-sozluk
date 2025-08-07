@@ -5,7 +5,7 @@ slug: celpname
 letter: C
 lisan: Arapça celb + Farsça nāme
 anlamlar:
-- ► çağrı belgesi
+- çağrı belgesi
 ozellikler:
 - - isim
   - hukuk

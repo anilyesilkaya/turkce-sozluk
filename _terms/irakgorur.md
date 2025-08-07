@@ -5,7 +5,7 @@ slug: irakgorur
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► teleskop
+- teleskop
 ozellikler:
 - - isim
   - gök bilimi

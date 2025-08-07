@@ -8,8 +8,8 @@ anlamlar:
 - Yolunda giden bir süreçte ani olarak beliren aykırılık; bunluk, buhran, kriz
 - Tehlikeli sonuç doğurabilecek gerginlik
 - Uyaranlara karşı duyarlığın, iş yapabilme gücünün, kendine güvenin azalarak karamsarlığın, umutsuzluğun güçlenmesiyle ortaya çıkan ruhsal bozukluk; ruhsal çöküntü, depresyon, kriz
-- ► kriz
-- ► çöküntü
+- kriz
+- çöküntü
 ozellikler:
 - - isim
 - - isim

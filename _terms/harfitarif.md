@@ -5,7 +5,7 @@ slug: harfitarif
 letter: H
 lisan: Arapça ḥarf + taʿrīf
 anlamlar:
-- ► tanımlık
+- tanımlık
 ozellikler:
 - - isim
   - eskimiş

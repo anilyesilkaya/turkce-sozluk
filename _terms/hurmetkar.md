@@ -5,7 +5,7 @@ slug: hurmetkar
 letter: H
 lisan: Arapça ḥurmet + Farsça -kār
 anlamlar:
-- ► saygılı
+- saygılı
 ozellikler:
 - - sıfat
   - eskimiş

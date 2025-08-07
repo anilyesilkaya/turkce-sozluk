@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Değişmek işi
-- ► değişim
+- değişim
 ozellikler:
 - - isim
 - - isim

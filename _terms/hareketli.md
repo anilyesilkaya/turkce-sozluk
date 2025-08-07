@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Hareketi olan, yer değiştirebilen; devingen, oynak, müteharrik, mobilize
-- ► canlı
+- canlı
 ozellikler:
 - - sıfat
 - - sıfat

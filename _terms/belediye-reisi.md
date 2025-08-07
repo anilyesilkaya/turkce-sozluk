@@ -5,7 +5,7 @@ slug: belediye-reisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belediye başkanı
+- belediye başkanı
 ozellikler:
 - - isim
 ornekler:

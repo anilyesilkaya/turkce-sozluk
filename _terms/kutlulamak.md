@@ -5,7 +5,7 @@ slug: kutlulamak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kutlamak
+- kutlamak
 ozellikler:
 - - -i
 ornekler:

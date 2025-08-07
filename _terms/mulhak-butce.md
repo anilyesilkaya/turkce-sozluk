@@ -5,7 +5,7 @@ slug: mulhak-butce
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► katma bütçe
+- katma bütçe
 ozellikler:
 - - isim
   - ekonomi

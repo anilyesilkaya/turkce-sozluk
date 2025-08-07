@@ -6,7 +6,7 @@ letter: I
 lisan: Arapça iḳbāl
 anlamlar:
 - Baht açıklığı veya yüksek bir makama, duruma erişmiş olma durumu
-- ► odalık
+- odalık
 - İstek, arzu
 ozellikler:
 - - isim

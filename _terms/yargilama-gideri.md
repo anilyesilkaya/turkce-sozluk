@@ -5,7 +5,7 @@ slug: yargilama-gideri
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► dava gideri
+- dava gideri
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: plisiz
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pilesiz
+- pilesiz
 ozellikler:
 - - sıfat
 ornekler:

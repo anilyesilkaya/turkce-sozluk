@@ -7,7 +7,7 @@ lisan: Arapça ẓarf
 anlamlar:
 - İçine mektup veya başka kâğıtlar konulan kâğıttan kese
 - İçine fincan veya bardak oturtulan metal kap
-- ► kılıf
+- kılıf
 - Fiilin, sıfatın veya zarfın anlamını zaman, durum, yer, ölçü, nitelik ve soru kavramları bakımından belirleyen veya sınırlayan kelime; belirteç
 ozellikler:
 - - isim

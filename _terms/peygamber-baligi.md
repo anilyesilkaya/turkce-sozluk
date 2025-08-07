@@ -5,7 +5,7 @@ slug: peygamber-baligi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dülger balığı
+- dülger balığı
 ozellikler:
 - - isim
   - hayvan bilimi

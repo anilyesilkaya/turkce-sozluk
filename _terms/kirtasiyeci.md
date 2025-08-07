@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kırtasiye satan kimse
-- ► bürokrat
+- bürokrat
 ozellikler:
 - - isim
 - - isim

@@ -5,8 +5,8 @@ slug: ajitator
 letter: A
 lisan: Fransızca agitateur
 anlamlar:
-- ► körükleyici
-- ► kışkırtıcı
+- körükleyici
+- kışkırtıcı
 ozellikler:
 - - sıfat
 - - sıfat

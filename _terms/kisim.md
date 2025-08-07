@@ -5,9 +5,9 @@ slug: kisim
 letter: K
 lisan: Arapça ḳism
 anlamlar:
-- ► bölüm
+- bölüm
 - Bir cinsten veya meslekten olanların tümü
-- ► kol (I)
+- kol (I)
 ozellikler:
 - - isim
 - - isim

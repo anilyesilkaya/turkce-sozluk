@@ -5,7 +5,7 @@ slug: mutehammil
 letter: M
 lisan: Arapça muteḥammil
 anlamlar:
-- ► dayanıklı
+- dayanıklı
 ozellikler:
 - - sıfat
   - eskimiş

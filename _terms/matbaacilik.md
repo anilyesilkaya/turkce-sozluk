@@ -5,7 +5,7 @@ slug: matbaacilik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► basımcılık
+- basımcılık
 ozellikler:
 - - isim
 ornekler:

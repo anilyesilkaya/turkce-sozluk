@@ -5,7 +5,7 @@ slug: bozkir-tavugu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bağırtlak
+- bağırtlak
 ozellikler:
 - - isim
   - hayvan bilimi

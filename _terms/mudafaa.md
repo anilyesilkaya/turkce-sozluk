@@ -5,7 +5,7 @@ slug: mudafaa
 letter: M
 lisan: Arapça mudāfaʿa
 anlamlar:
-- ► savunma
+- savunma
 ozellikler:
 - - isim
 ornekler:

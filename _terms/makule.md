@@ -5,8 +5,8 @@ slug: makule
 letter: M
 lisan: Arapça maḳūle
 anlamlar:
-- ► çeşit
-- ► ulam
+- çeşit
+- ulam
 ozellikler:
 - - isim
   - eskimiş

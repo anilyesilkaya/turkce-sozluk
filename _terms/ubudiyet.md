@@ -5,7 +5,7 @@ slug: ubudiyet
 letter: U
 lisan: Arapça ʿubūdiyyet
 anlamlar:
-- ► kulluk (I)
+- kulluk (I)
 ozellikler:
 - - isim
   - eskimiş

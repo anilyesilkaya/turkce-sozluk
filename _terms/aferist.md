@@ -5,7 +5,7 @@ slug: aferist
 letter: A
 lisan: Fransızca affairiste
 anlamlar:
-- ► dalavereci
+- dalavereci
 ozellikler:
 - - isim
 ornekler:

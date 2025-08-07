@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Birinin sırrını bilecek kadar ona yakın olan kimse; cankulağı, mahrem
-- ► karakutu
+- karakutu
 ozellikler:
 - - isim
 - - isim

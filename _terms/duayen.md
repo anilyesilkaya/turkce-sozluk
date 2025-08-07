@@ -5,7 +5,7 @@ slug: duayen
 letter: D
 lisan: Fransızca doyen
 anlamlar:
-- ► aksakal
+- aksakal
 - Kordiplomatikte kıdemlilik bakımından başta gelen diplomat
 ozellikler:
 - - isim

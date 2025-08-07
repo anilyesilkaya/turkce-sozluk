@@ -5,8 +5,8 @@ slug: baypas
 letter: B
 lisan: İngilizce by-pass
 anlamlar:
-- ► köprüleme
-- ► devre dışı
+- köprüleme
+- devre dışı
 ozellikler:
 - - isim
   - tıp

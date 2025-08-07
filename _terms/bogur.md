@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - İnsan ve hayvan vücudunun kaburga ile kalça arasındaki bölümü
 - Yan taraf
-- ► yamaç
+- yamaç
 ozellikler:
 - - isim
 - - isim

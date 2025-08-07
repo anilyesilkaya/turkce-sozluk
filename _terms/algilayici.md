@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Algı yetisi olan (kimse)
-- ► dedektör
+- dedektör
 ozellikler:
 - - sıfat
   - felsefe

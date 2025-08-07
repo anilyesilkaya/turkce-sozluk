@@ -5,7 +5,7 @@ slug: ziypak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kaygan
+- kaygan
 ozellikler:
 - - sıfat
   - ağızlardan

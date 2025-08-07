@@ -5,7 +5,7 @@ slug: vaktizamaninda
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► bir zamanlar
+- bir zamanlar
 ozellikler:
 - - zarf
 ornekler:

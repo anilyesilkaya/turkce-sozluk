@@ -5,7 +5,7 @@ slug: soz-yarisi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► söz düellosu
+- söz düellosu
 ozellikler:
 - - isim
   - mecaz

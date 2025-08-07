@@ -5,7 +5,7 @@ slug: hidroloji
 letter: H
 lisan: Fransızca hydrologie
 anlamlar:
-- ► su bilimi
+- su bilimi
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tanitim-gosterisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tanıtım sunumu
+- tanıtım sunumu
 ozellikler:
 - - isim
 ornekler:

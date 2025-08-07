@@ -5,7 +5,7 @@ slug: gorguculuk
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► deneycilik
+- deneycilik
 ozellikler:
 - - isim
   - felsefe

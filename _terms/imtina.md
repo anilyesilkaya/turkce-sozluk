@@ -5,7 +5,7 @@ slug: imtina
 letter: I
 lisan: Arapça imtināʾ
 anlamlar:
-- ► çekinme
+- çekinme
 ozellikler:
 - - isim
   - eskimiş

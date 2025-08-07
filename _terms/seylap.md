@@ -5,7 +5,7 @@ slug: seylap
 letter: S
 lisan: Arapça seyl + Farsça āb
 anlamlar:
-- ► su baskını
+- su baskını
 ozellikler:
 - - isim
   - eskimiş

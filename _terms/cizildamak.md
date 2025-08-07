@@ -5,7 +5,7 @@ slug: cizildamak
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cızırdamak
+- cızırdamak
 ozellikler:
 - - nesnesiz
 ornekler:

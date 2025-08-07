@@ -5,7 +5,7 @@ slug: astronom
 letter: A
 lisan: Fransızca astronome
 anlamlar:
-- ► gök bilimci
+- gök bilimci
 ozellikler:
 - - isim
 ornekler:

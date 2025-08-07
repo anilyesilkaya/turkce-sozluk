@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tek yönü olan
-- ► tek taraflı
+- tek taraflı
 ozellikler:
 - - sıfat
 - - sıfat

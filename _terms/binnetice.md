@@ -5,7 +5,7 @@ slug: binnetice
 letter: B
 lisan: Arapça bi'n-netīce
 anlamlar:
-- ► sonuçta
+- sonuçta
 ozellikler:
 - - zarf
   - eskimiş

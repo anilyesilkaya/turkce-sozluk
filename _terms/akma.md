@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Akmak işi
-- ► reçine
+- reçine
 ozellikler:
 - - isim
 - - isim

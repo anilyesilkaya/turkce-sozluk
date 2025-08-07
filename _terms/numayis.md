@@ -5,7 +5,7 @@ slug: numayis
 letter: N
 lisan: Farsça numāyiş
 anlamlar:
-- ► gösteri
+- gösteri
 ozellikler:
 - - isim
   - eskimiş

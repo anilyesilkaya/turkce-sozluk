@@ -5,8 +5,8 @@ slug: popularite
 letter: P
 lisan: Fransızca popularité
 anlamlar:
-- ► tutulma
-- ► beğenilme
+- tutulma
+- beğenilme
 ozellikler:
 - - isim
 - - isim

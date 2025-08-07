@@ -5,7 +5,7 @@ slug: hamis
 letter: H
 lisan: Arapça hāmiş
 anlamlar:
-- ► çıkma
+- çıkma
 ozellikler:
 - - isim
   - eskimiş

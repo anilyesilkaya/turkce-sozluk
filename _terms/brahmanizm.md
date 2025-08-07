@@ -5,7 +5,7 @@ slug: brahmanizm
 letter: B
 lisan: Fransızca brahmanisme
 anlamlar:
-- ► Brahmanlık
+- Brahmanlık
 ozellikler:
 - - isim
 ornekler:

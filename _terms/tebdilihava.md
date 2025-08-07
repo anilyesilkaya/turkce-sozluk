@@ -5,7 +5,7 @@ slug: tebdilihava
 letter: T
 lisan: Arapça tebdīl + havā
 anlamlar:
-- ► hava değişimi
+- hava değişimi
 ozellikler:
 - - isim
   - eskimiş

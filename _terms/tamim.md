@@ -5,9 +5,9 @@ slug: tamim
 letter: T
 lisan: Arapça taʿmīm
 anlamlar:
-- ► genelge
-- ► genelleştirme
-- ► genelleme
+- genelge
+- genelleştirme
+- genelleme
 ozellikler:
 - - isim
 - - isim

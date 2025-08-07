@@ -5,7 +5,7 @@ slug: paklik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► temizlik
+- temizlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: keriz
 letter: K
 lisan: (Çingenece keres'ten)
 anlamlar:
-- ► kumar
+- kumar
 - Kolayca kandırılabilen kimse; aptal
 - Bir çeşit sazlı sözlü oyun
 - Bu oyunun havası

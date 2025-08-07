@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Siniri olmayan
-- ► sakin
+- sakin
 ozellikler:
 - - sıfat
 - - sıfat

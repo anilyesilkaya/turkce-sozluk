@@ -5,7 +5,7 @@ slug: nar-balinasi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► narval
+- narval
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -7,7 +7,7 @@ lisan: Farsça cānāver
 anlamlar:
 - Masallarda sözü geçen yabani, yırtıcı hayvan
 - Acımasız, kötü ruhlu, zalim (kimse)
-- ► köpek balığı
+- köpek balığı
 - Haşarı, yaramaz çocuk
 - Kurt, domuz vb. cana kıyan yaban hayvanı
 - Herhangi bir şeye çok düşkün olan

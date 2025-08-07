@@ -5,7 +5,7 @@ slug: etcilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kasaplık
+- kasaplık
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça velī
 anlamlar:
 - Bir çocuğu koruyan, işlerine bakan ve her türlü davranışından sorumlu kimse; ege, iye
-- ► ermiş
+- ermiş
 ozellikler:
 - - isim
 - - isim

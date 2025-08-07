@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Bir gemi direğine, bir yelkene veya başka bir parçaya bağlı bulunan halat ve makara vb. manevra araçları
-- ► tesisat
+- tesisat
 - Bir bilgisayarda bulunan fiziksel birimler
 - Portede sol anahtarının önüne yazılan, tonalite veya makama ait değiştirici işaretlere verilen ad; armatür
 ozellikler:

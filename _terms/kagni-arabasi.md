@@ -5,7 +5,7 @@ slug: kagni-arabasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kağnı
+- kağnı
 ozellikler:
 - - isim
 ornekler:

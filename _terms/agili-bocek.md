@@ -5,7 +5,7 @@ slug: agili-bocek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► karafatma
+- karafatma
 ozellikler:
 - - isim
   - hayvan bilimi

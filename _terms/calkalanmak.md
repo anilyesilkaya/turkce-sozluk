@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalkama işine konu olmak
-- ► dalgalanmak
+- dalgalanmak
 - Üzerinde çok konuşulmak
 ozellikler:
 - - nesnesiz

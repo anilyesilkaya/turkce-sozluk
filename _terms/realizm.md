@@ -5,7 +5,7 @@ slug: realizm
 letter: R
 lisan: Fransızca réalisme
 anlamlar:
-- ► gerçekçilik
+- gerçekçilik
 ozellikler:
 - - isim
 ornekler:

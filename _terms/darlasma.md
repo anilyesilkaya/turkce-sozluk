@@ -5,7 +5,7 @@ slug: darlasma
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► daralma
+- daralma
 ozellikler:
 - - isim
 ornekler:

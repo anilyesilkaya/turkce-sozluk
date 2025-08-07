@@ -5,10 +5,10 @@ slug: kabine
 letter: K
 lisan: Fransızca cabinet
 anlamlar:
-- ► bakanlar kurulu
+- bakanlar kurulu
 - Hekim muayenehanesi
-- ► kabin
-- ► tuvalet
+- kabin
+- tuvalet
 ozellikler:
 - - isim
 - - isim

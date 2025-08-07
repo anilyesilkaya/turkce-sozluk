@@ -5,7 +5,7 @@ slug: mutlakiyet
 letter: M
 lisan: Arapça muṭlaḳiyyet
 anlamlar:
-- ► saltçılık
+- saltçılık
 ozellikler:
 - - isim
   - eskimiş

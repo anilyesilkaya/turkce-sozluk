@@ -6,7 +6,7 @@ letter: Ü
 lisan: Türkçe
 anlamlar:
 - İkisi arkada, biri önde üç tekerleği olan, çocukların düşmeden binmesi için yapılmış araç
-- ► triportör
+- triportör
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mesul
 letter: M
 lisan: Arapça mesʾūl
 anlamlar:
-- ► sorumlu
+- sorumlu
 ozellikler:
 - - sıfat
   - eskimiş

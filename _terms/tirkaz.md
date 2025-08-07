@@ -5,8 +5,8 @@ slug: tirkaz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kapı mandalı
-- ► sürgü
+- kapı mandalı
+- sürgü
 ozellikler:
 - - isim
   - ağızlardan

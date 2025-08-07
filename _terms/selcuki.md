@@ -7,7 +7,7 @@ lisan: Türkçe Selçuk + Arapça ī
 anlamlar:
 - Selçuklularla ilgili
 - Selçuklulara ait
-- ► Selçuklu (I)
+- Selçuklu (I)
 ozellikler:
 - - sıfat
   - eskimiş

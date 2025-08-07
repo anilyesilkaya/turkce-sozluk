@@ -5,7 +5,7 @@ slug: pesimist
 letter: P
 lisan: Fransızca pessimiste
 anlamlar:
-- ► kötümser, optimist karşıtı
+- kötümser, optimist karşıtı
 ozellikler:
 - - sıfat
   - felsefe

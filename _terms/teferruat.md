@@ -5,7 +5,7 @@ slug: teferruat
 letter: T
 lisan: Arapça teferruʿāt
 anlamlar:
-- ► ayrıntı
+- ayrıntı
 ozellikler:
 - - isim
 ornekler:

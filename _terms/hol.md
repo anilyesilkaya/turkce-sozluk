@@ -5,7 +5,7 @@ slug: hol
 letter: H
 lisan: İngilizce hall
 anlamlar:
-- ► sofa
+- sofa
 ozellikler:
 - - isim
 ornekler:

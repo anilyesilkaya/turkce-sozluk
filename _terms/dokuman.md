@@ -5,7 +5,7 @@ slug: dokuman
 letter: D
 lisan: Fransızca document
 anlamlar:
-- ► belge
+- belge
 ozellikler:
 - - isim
 ornekler:

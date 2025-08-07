@@ -5,7 +5,7 @@ slug: fikir-hayati
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► düşünce hayatı
+- düşünce hayatı
 ozellikler:
 - - isim
 ornekler:

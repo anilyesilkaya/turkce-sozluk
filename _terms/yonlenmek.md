@@ -5,7 +5,7 @@ slug: yonlenmek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yönelmek
+- yönelmek
 ozellikler:
 - - -e
 ornekler:

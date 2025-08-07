@@ -5,7 +5,7 @@ slug: otokritik
 letter: O
 lisan: Fransızca autocritique
 anlamlar:
-- ► öz eleştiri
+- öz eleştiri
 ozellikler:
 - - isim
 ornekler:

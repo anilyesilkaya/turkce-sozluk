@@ -5,7 +5,7 @@ slug: tezelzul
 letter: T
 lisan: Arapça tezelzul
 anlamlar:
-- ► sallanma
+- sallanma
 ozellikler:
 - - isim
   - eskimiş

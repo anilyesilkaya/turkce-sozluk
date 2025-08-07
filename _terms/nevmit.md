@@ -5,7 +5,7 @@ slug: nevmit
 letter: N
 lisan: Farsça nevmīd
 anlamlar:
-- ► umutsuz
+- umutsuz
 - Umutsuz bir biçimde
 ozellikler:
 - - sıfat

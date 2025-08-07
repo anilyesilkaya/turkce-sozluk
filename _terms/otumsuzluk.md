@@ -5,7 +5,7 @@ slug: otumsuzluk
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tonsuzluk
+- tonsuzluk
 ozellikler:
 - - isim
 ornekler:

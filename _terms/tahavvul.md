@@ -5,7 +5,7 @@ slug: tahavvul
 letter: T
 lisan: Arapça taḥavvul
 anlamlar:
-- ► dönüşüm
+- dönüşüm
 ozellikler:
 - - isim
   - eskimiş

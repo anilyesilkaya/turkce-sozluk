@@ -5,7 +5,7 @@ slug: garantili
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güvenceli
+- güvenceli
 ozellikler:
 - - sıfat
 ornekler:

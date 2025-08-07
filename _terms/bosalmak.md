@@ -9,7 +9,7 @@ anlamlar:
 - Dışarıya akmak, dökülmek
 - Bir şey gevşemek, açılmak
 - Memuriyet, makam, kadro vb. açık duruma gelmek; inhilal etmek
-- ► boşanmak
+- boşanmak
 - Cinsel doyuma ulaşmak
 - Derdini, sıkıntısını birine anlatarak ferahlamak; deşarj olmak
 ozellikler:

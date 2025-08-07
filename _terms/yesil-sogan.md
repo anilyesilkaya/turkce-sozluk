@@ -5,7 +5,7 @@ slug: yesil-sogan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► taze soğan
+- taze soğan
 ozellikler:
 - - isim
 ornekler:

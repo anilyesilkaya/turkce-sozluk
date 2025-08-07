@@ -5,7 +5,7 @@ slug: haymana-mandasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haymana öküzü
+- haymana öküzü
 ozellikler:
 - - isim
   - mecaz

@@ -5,7 +5,7 @@ slug: istilah
 letter: I
 lisan: Arapça iṣṭilāḥ
 anlamlar:
-- ► terim
+- terim
 - Herkesin anlayamayacağı anlamda kullanılan söz
 ozellikler:
 - - isim

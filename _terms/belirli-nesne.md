@@ -5,7 +5,7 @@ slug: belirli-nesne
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belirtili nesne
+- belirtili nesne
 ozellikler:
 - - isim
   - dil bilgisi

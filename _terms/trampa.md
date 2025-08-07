@@ -5,7 +5,7 @@ slug: trampa
 letter: T
 lisan: Rumca
 anlamlar:
-- ► değişim
+- değişim
 ozellikler:
 - - isim
 ornekler:

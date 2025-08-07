@@ -5,7 +5,7 @@ slug: konducu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gecekonducu
+- gecekonducu
 ozellikler:
 - - isim
 ornekler:

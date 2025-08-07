@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Cılız olma durumu
-- ► sıskalık
+- sıskalık
 ozellikler:
 - - isim
 - - isim

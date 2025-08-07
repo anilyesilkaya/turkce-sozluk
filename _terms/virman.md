@@ -5,7 +5,7 @@ slug: virman
 letter: V
 lisan: Fransızca virement
 anlamlar:
-- ► para aktarımı
+- para aktarımı
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: boy
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► hikâye
+- hikâye
 ozellikler:
 - - isim
   - eskimiş

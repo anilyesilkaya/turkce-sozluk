@@ -5,7 +5,7 @@ slug: simetrisizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bakışımsızlık
+- bakışımsızlık
 ozellikler:
 - - isim
 ornekler:

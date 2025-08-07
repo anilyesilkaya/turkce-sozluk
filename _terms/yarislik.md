@@ -5,7 +5,7 @@ slug: yarislik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► pist (II)
+- pist (II)
 ozellikler:
 - - isim
   - spor

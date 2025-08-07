@@ -5,7 +5,7 @@ slug: alakadar
 letter: A
 lisan: Arapça ʿalāḳa + Farsça -dār
 anlamlar:
-- ► ilgili
+- ilgili
 ozellikler:
 - - sıfat
 ornekler:

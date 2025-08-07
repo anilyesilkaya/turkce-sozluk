@@ -5,7 +5,7 @@ slug: toplu-calisim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► toplu çalışma
+- toplu çalışma
 ozellikler:
 - - isim
 ornekler:

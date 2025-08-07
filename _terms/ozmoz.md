@@ -5,8 +5,8 @@ slug: ozmoz
 letter: O
 lisan: Fransızca osmose
 anlamlar:
-- ► geçişme
-- ► geçişim
+- geçişme
+- geçişim
 ozellikler:
 - - isim
   - fizik

@@ -5,7 +5,7 @@ slug: basmufettislik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başdenetmenlik
+- başdenetmenlik
 ozellikler:
 - - isim
 ornekler:

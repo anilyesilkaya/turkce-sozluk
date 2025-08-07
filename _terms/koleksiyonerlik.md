@@ -5,7 +5,7 @@ slug: koleksiyonerlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koleksiyonculuk
+- koleksiyonculuk
 ozellikler:
 - - isim
 ornekler:

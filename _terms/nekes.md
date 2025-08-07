@@ -5,7 +5,7 @@ slug: nekes
 letter: N
 lisan: Farsça nākes
 anlamlar:
-- ► cimri
+- cimri
 ozellikler:
 - - sıfat
 ornekler:

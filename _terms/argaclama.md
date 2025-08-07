@@ -5,7 +5,7 @@ slug: argaclama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► atkılama
+- atkılama
 ozellikler:
 - - isim
 ornekler:

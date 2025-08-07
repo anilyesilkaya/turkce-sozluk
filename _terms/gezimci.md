@@ -5,7 +5,7 @@ slug: gezimci
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Aristotelesçi
+- Aristotelesçi
 ozellikler:
 - - sıfat
   - felsefe

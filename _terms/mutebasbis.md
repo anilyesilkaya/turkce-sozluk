@@ -5,7 +5,7 @@ slug: mutebasbis
 letter: M
 lisan: Arapça mutebaṣbiṣ
 anlamlar:
-- ► dalkavuk
+- dalkavuk
 ozellikler:
 - - sıfat
   - eskimiş

@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ağırlığını yaklaşık olarak anlayabilmek için elle yoklamak
-- ► pohpohlamak
+- pohpohlamak
 ozellikler:
 - - -i
 - - -i

@@ -5,7 +5,7 @@ slug: alengir
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gösteriş
+- gösteriş
 - İleride sakıncalı tarafları çıkabilecek olan şey
 ozellikler:
 - - isim

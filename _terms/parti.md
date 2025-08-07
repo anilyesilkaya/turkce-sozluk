@@ -12,7 +12,7 @@ anlamlar:
 - Bir araya gelinerek tavla, konken, okey vb. oynanan oyunlardan her biri
 - Bir yere bölümler hâlinde gönderilmekte olan bir malın veya bir bütünün parçası
 - Herhangi bir ürünün tek seferde bir yerden başka bir yere gönderilen bölümü
-- ► tutam (II)
+- tutam (II)
 - Çok ucuza elde edilen şey; kelepir
 - Vurgun, kazanç
 - Armoniyi oluşturan ezgilerden her biri

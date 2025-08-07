@@ -5,7 +5,7 @@ slug: donem-sonu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yarıyıl sonu
+- yarıyıl sonu
 ozellikler:
 - - isim
 ornekler:

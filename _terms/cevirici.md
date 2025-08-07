@@ -5,10 +5,10 @@ slug: cevirici
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çevirmen
+- çevirmen
 - Başka bir duruma dönüştüren, dönüştürme, çevirme işini yapan
 - Çevirme, döndürme görevi yapan
-- ► anahtar
+- anahtar
 ozellikler:
 - - isim
 - - isim

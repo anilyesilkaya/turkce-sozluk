@@ -5,7 +5,7 @@ slug: hemhudutluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınırdaşlık
+- sınırdaşlık
 ozellikler:
 - - isim
 ornekler:

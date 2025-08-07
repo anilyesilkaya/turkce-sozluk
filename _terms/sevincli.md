@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sevinci olan ve sevinç veren; mesrur
-- ► şen
+- şen
 ozellikler:
 - - sıfat
 - - sıfat

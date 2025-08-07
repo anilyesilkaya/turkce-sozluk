@@ -5,7 +5,7 @@ slug: kefen-bezi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kefen
+- kefen
 ozellikler:
 - - isim
 ornekler:

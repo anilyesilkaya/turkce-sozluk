@@ -5,7 +5,7 @@ slug: ashabikehf
 letter: A
 lisan: Arapça aṣḥāb + kehf
 anlamlar:
-- ► Yedi Uyurlar
+- Yedi Uyurlar
 ozellikler:
 - - isim
   - din bilimi

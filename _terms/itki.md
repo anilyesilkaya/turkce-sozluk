@@ -5,7 +5,7 @@ slug: itki
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► tepi
+- tepi
 ozellikler:
 - - isim
   - ruh bilimi

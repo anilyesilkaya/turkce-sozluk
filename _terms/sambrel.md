@@ -5,7 +5,7 @@ slug: sambrel
 letter: Ş
 lisan: Fransızca chambre a air
 anlamlar:
-- ► iç lastik
+- iç lastik
 ozellikler:
 - - isim
 ornekler:

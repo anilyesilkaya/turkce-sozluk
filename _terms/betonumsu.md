@@ -5,7 +5,7 @@ slug: betonumsu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► betonsu
+- betonsu
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İnce duruma getirmek
-- ► seyreltmek
+- seyreltmek
 ozellikler:
 - - -i
 - - -i

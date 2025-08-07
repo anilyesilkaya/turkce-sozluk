@@ -5,7 +5,7 @@ slug: catkin
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çatık
+- çatık
 ozellikler:
 - - sıfat
 ornekler:

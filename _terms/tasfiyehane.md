@@ -5,7 +5,7 @@ slug: tasfiyehane
 letter: T
 lisan: Arapça taṣfiye + Farsça ḫāne
 anlamlar:
-- ► arıtımevi
+- arıtımevi
 ozellikler:
 - - isim
   - eskimiş

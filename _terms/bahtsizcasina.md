@@ -5,7 +5,7 @@ slug: bahtsizcasina
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bahtsızca
+- bahtsızca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: denetisim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç denetim
+- iç denetim
 ozellikler:
 - - isim
 ornekler:

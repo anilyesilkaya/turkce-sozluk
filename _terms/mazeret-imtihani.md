@@ -5,7 +5,7 @@ slug: mazeret-imtihani
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mazeret sınavı
+- mazeret sınavı
 ozellikler:
 - - isim
   - eğitim

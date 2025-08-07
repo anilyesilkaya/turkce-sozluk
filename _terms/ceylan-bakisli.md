@@ -5,7 +5,7 @@ slug: ceylan-bakisli
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ahu bakışlı
+- ahu bakışlı
 ozellikler:
 - - sıfat
   - mecaz

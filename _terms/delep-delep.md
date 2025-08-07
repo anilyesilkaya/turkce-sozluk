@@ -5,7 +5,7 @@ slug: delep-delep
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► parıl parıl
+- parıl parıl
 ozellikler:
 - - zarf
   - ağızlardan

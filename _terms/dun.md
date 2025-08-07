@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Bugünden bir önceki gün
-- ► geçmiş
+- geçmiş
 - Bugünden bir önceki günde
 - Kısa bir süre önce
 ozellikler:

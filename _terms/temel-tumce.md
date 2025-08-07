@@ -5,7 +5,7 @@ slug: temel-tumce
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► temel cümle
+- temel cümle
 ozellikler:
 - - isim
   - dil bilgisi

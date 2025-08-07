@@ -5,7 +5,7 @@ slug: kadincasina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kadınca
+- kadınca
 ozellikler:
 - - zarf
 ornekler:

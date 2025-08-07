@@ -5,7 +5,7 @@ slug: romanimsi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► romansı
+- romansı
 ozellikler:
 - - sıfat
 ornekler:

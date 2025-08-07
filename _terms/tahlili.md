@@ -5,7 +5,7 @@ slug: tahlili
 letter: T
 lisan: Arapça taḥlīlī
 anlamlar:
-- ► çözümlemeli
+- çözümlemeli
 ozellikler:
 - - sıfat
   - eskimiş

@@ -5,8 +5,8 @@ slug: deflemek
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kovmak
-- ► savmak
+- kovmak
+- savmak
 ozellikler:
 - - -i
   - teklifsiz konuşmada

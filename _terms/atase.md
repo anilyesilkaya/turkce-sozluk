@@ -5,7 +5,7 @@ slug: atase
 letter: A
 lisan: Fransızca attaché
 anlamlar:
-- ► elçilik uzmanı
+- elçilik uzmanı
 ozellikler:
 - - isim
 ornekler:

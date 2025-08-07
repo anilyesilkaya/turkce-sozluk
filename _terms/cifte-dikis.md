@@ -5,7 +5,7 @@ slug: cifte-dikis
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çift dikiş
+- çift dikiş
 ozellikler:
 - - isim
   - argo

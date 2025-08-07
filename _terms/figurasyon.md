@@ -5,7 +5,7 @@ slug: figurasyon
 letter: F
 lisan: Fransızca figuration
 anlamlar:
-- ► biçimleme
+- biçimleme
 ozellikler:
 - - isim
 ornekler:

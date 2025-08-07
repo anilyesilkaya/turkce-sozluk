@@ -5,7 +5,7 @@ slug: ulussever
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► milletsever
+- milletsever
 ozellikler:
 - - sıfat
 ornekler:

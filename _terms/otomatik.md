@@ -7,7 +7,7 @@ lisan: Fransızca automatique
 anlamlar:
 - Mekanik yollarla hareket ettirilen veya kendi kendini yöneten (alet)
 - İrade dışında yapılan (davranış)
-- ► otomatikman
+- otomatikman
 ozellikler:
 - - sıfat
 - - sıfat

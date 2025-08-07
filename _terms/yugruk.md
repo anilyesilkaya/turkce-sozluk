@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - İyi yürüyen, iyi koşan
-- ► çalışkan
+- çalışkan
 - Çevik ve güçlü olan
 ozellikler:
 - - sıfat

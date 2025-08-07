@@ -6,7 +6,7 @@ letter: Ş
 lisan: Arapça şīʿa
 anlamlar:
 - İslamiyet'te Hz. Ali'ye yandaş olan kimseler
-- ► Şiilik
+- Şiilik
 ozellikler:
 - - isim
   - din bilimi

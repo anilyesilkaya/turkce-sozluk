@@ -5,7 +5,7 @@ slug: ruz
 letter: R
 lisan: Farsça rūz
 anlamlar:
-- ► gün
+- gün
 ozellikler:
 - - isim
   - eskimiş

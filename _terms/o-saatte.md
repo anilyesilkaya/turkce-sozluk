@@ -5,7 +5,7 @@ slug: o-saatte
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► o saat
+- o saat
 ozellikler:
 - - zarf
 ornekler:

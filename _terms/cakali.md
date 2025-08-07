@@ -5,7 +5,7 @@ slug: cakali
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► gösterişli
+- gösterişli
 ozellikler:
 - - sıfat
 ornekler:

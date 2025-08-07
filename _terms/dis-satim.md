@@ -5,7 +5,7 @@ slug: dis-satim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ihracat
+- ihracat
 ozellikler:
 - - isim
   - ekonomi

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bozulmak, ekşiyip çürümek
 - Yemiş dura dura olgunlaşmak, yumuşamak
-- ► erimek
+- erimek
 ozellikler:
 - - nesnesiz
   - ağızlardan

@@ -5,7 +5,7 @@ slug: lejitimist
 letter: L
 lisan: Fransızca légitimiste
 anlamlar:
-- ► meşruiyetçi
+- meşruiyetçi
 ozellikler:
 - - sıfat
 ornekler:

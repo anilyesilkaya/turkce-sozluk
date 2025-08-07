@@ -5,7 +5,7 @@ slug: maddesel
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► maddi
+- maddi
 - Madde özelliğinde olan; maddi
 ozellikler:
 - - sıfat

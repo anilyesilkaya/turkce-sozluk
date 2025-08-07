@@ -5,7 +5,7 @@ slug: zingirdama
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zangırdama
+- zangırdama
 ozellikler:
 - - isim
 ornekler:

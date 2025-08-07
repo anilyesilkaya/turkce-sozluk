@@ -5,8 +5,8 @@ slug: kulte
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► külçe
-- ► kayaç
+- külçe
+- kayaç
 ozellikler:
 - - isim
 - - isim

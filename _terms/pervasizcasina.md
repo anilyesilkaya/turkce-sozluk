@@ -5,7 +5,7 @@ slug: pervasizcasina
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pervasızca
+- pervasızca
 ozellikler:
 - - zarf
 ornekler:

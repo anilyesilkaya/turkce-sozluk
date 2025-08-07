@@ -5,7 +5,7 @@ slug: girisik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► girift
+- girift
 ozellikler:
 - - sıfat
 ornekler:

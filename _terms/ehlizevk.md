@@ -5,7 +5,7 @@ slug: ehlizevk
 letter: E
 lisan: Arapça ehl + ẕevḳ
 anlamlar:
-- ► zevk ehli
+- zevk ehli
 ozellikler:
 - - sıfat
   - eskimiş

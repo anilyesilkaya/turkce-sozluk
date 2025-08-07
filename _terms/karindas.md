@@ -5,7 +5,7 @@ slug: karindas
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kardeş
+- kardeş
 ozellikler:
 - - isim
   - eskimiş

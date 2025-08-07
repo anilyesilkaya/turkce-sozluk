@@ -5,7 +5,7 @@ slug: seytanimsi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şeytansı
+- şeytansı
 ozellikler:
 - - sıfat
 ornekler:

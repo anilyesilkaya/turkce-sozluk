@@ -5,7 +5,7 @@ slug: muessiriyet
 letter: M
 lisan: Arapça muʾes̱s̱iriyyet
 anlamlar:
-- ► etkililik
+- etkililik
 ozellikler:
 - - isim
   - eskimiş

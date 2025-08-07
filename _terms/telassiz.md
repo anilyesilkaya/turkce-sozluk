@@ -5,7 +5,7 @@ slug: telassiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► soğukkanlı
+- soğukkanlı
 - Soğukkanlılıkla, şaşırmadan, telaş etmeden
 ozellikler:
 - - sıfat

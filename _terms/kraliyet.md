@@ -5,7 +5,7 @@ slug: kraliyet
 letter: K
 lisan: Sırpça + Arapça -iyyet
 anlamlar:
-- ► krallık
+- krallık
 ozellikler:
 - - isim
 ornekler:

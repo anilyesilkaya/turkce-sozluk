@@ -5,7 +5,7 @@ slug: capraz-uyak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çapraz kafiye
+- çapraz kafiye
 ozellikler:
 - - isim
   - edebiyat

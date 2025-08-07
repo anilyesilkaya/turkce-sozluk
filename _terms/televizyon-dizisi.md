@@ -5,7 +5,7 @@ slug: televizyon-dizisi
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dizi film
+- dizi film
 ozellikler:
 - - televizyon
 ornekler:

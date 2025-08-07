@@ -5,8 +5,8 @@ slug: biganelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► yabancılık
-- ► ilgisizlik
+- yabancılık
+- ilgisizlik
 ozellikler:
 - - isim
 - - isim

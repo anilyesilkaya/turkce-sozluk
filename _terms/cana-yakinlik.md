@@ -5,7 +5,7 @@ slug: cana-yakinlik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► sıcakkanlılık
+- sıcakkanlılık
 ozellikler:
 - - isim
 ornekler:

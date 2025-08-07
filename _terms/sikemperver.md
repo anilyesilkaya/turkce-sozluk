@@ -5,7 +5,7 @@ slug: sikemperver
 letter: Ş
 lisan: Farsça şikemperver
 anlamlar:
-- ► boğazına düşkün
+- boğazına düşkün
 ozellikler:
 - - sıfat
   - eskimiş

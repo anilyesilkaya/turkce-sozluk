@@ -5,8 +5,8 @@ slug: muvazeneli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dengeli
-- ► ölçülü
+- dengeli
+- ölçülü
 ozellikler:
 - - sıfat
 - - sıfat

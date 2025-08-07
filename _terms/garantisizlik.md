@@ -5,7 +5,7 @@ slug: garantisizlik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güvencesizlik
+- güvencesizlik
 ozellikler:
 - - isim
 ornekler:

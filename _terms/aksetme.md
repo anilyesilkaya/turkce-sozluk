@@ -5,8 +5,8 @@ slug: aksetme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yansıma
-- ► yankılanma
+- yansıma
+- yankılanma
 ozellikler:
 - - isim
 - - isim

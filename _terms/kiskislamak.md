@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle kümes hayvanlarını "kış kış" diye kovalamak
-- ► uzaklaştırmak
+- uzaklaştırmak
 ozellikler:
 - - -e
   - -i

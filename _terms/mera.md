@@ -5,7 +5,7 @@ slug: mera
 letter: M
 lisan: Arapça merʿā
 anlamlar:
-- ► otlak
+- otlak
 - Kullanılmayan boş arazi
 ozellikler:
 - - isim

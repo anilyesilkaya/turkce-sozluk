@@ -5,7 +5,7 @@ slug: aktiflestirici
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► etkinleştirici
+- etkinleştirici
 ozellikler:
 - - isim
 ornekler:

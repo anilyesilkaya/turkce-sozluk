@@ -5,7 +5,7 @@ slug: dag-kirlangici
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ebabil
+- ebabil
 ozellikler:
 - - isim
   - hayvan bilimi

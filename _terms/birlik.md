@@ -10,7 +10,7 @@ anlamlar:
 - Bağlılık ve üslup benzerliği
 - Belli bir topluluğun yararlarını korumak için kurulmuş dernek
 - Bir taneden oluşmuş, bir tane alabilen
-- ► sarı lira
+- sarı lira
 - Bölük, tabur, alay vb. bir bütün sayılan topluluk
 - Konunun bir ana düşünce çevresinde toplanması
 - Bölünmezliği içeren yalın bütün

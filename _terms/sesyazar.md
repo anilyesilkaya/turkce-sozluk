@@ -5,7 +5,7 @@ slug: sesyazar
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► gramofon
+- gramofon
 ozellikler:
 - - isim
 ornekler:

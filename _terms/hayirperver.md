@@ -5,7 +5,7 @@ slug: hayirperver
 letter: H
 lisan: Arapça ḫayr + Farsça -perver
 anlamlar:
-- ► hayırsever
+- hayırsever
 ozellikler:
 - - sıfat
   - eskimiş

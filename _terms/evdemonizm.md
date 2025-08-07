@@ -5,7 +5,7 @@ slug: evdemonizm
 letter: E
 lisan: Fransızca eudémonisme
 anlamlar:
-- ► mutçuluk
+- mutçuluk
 ozellikler:
 - - isim
   - felsefe

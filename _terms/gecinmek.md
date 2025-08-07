@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yaşamak için gerekeni sağlamak
 - Uzlaşmak, anlaşmak
-- ► taslamak
+- taslamak
 - Kendi gereksinimlerini başkalarından sağlamak
 ozellikler:
 - - nesnesiz

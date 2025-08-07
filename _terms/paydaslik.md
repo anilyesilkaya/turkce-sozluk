@@ -5,7 +5,7 @@ slug: paydaslik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► hissedarlık
+- hissedarlık
 - Ortaklık, ortak olma; iştirak
 ozellikler:
 - - isim

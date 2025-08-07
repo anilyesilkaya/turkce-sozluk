@@ -5,7 +5,7 @@ slug: prospektus
 letter: P
 lisan: Fransızca prospectus
 anlamlar:
-- ► tanıtmalık
+- tanıtmalık
 ozellikler:
 - - isim
 ornekler:

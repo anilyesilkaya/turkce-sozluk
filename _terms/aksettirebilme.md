@@ -5,8 +5,8 @@ slug: aksettirebilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yansıtabilme
-- ► yankılatabilme
+- yansıtabilme
+- yankılatabilme
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: toksik
 letter: T
 lisan: Fransızca toxic
 anlamlar:
-- ► zehirli
+- zehirli
 ozellikler:
 - - sıfat
   - tıp

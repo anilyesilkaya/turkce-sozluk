@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde olan; şekilli
 - Biçimi güzel olan
-- ► düzgün
+- düzgün
 - Uygun olarak, yakışacak bir biçimde
 ozellikler:
 - - sıfat

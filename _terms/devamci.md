@@ -5,7 +5,7 @@ slug: devamci
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► müdavim
+- müdavim
 ozellikler:
 - - isim
 ornekler:

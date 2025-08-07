@@ -5,7 +5,7 @@ slug: hancer-cicegi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Latin çiçeği
+- Latin çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

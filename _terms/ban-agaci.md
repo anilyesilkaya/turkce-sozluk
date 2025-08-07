@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Asya'nın tropik bölgelerinde ve Afrika'nın kuzeyinde yetişen, yaprakları telek damarlı, çiçekleri salkım durumunda, meyvesinden kokusuz bir yağ elde edilen ağaç (Moringa oleifera)
-- ► sepetçi söğüdü
+- sepetçi söğüdü
 ozellikler:
 - - isim
   - bitki bilimi

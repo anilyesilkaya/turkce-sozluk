@@ -5,9 +5,9 @@ slug: pozisyon
 letter: P
 lisan: Fransızca position
 anlamlar:
-- ► konum
-- ► durum
-- ► statü
+- konum
+- durum
+- statü
 ozellikler:
 - - isim
 - - isim

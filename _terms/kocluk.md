@@ -5,7 +5,7 @@ slug: kocluk
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çalıştırıcılık
+- çalıştırıcılık
 - Kişilerin liderlik veya yöneticilik özelliklerini, becerilerini geliştirmeye yönelik, belli bir amacı hedefleyerek daha etkili sonuçlara ulaşmasını sağlamak üzere verilen hizmet
 ozellikler:
 - - isim

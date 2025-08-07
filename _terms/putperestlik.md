@@ -5,7 +5,7 @@ slug: putperestlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► fetişizm
+- fetişizm
 ozellikler:
 - - isim
   - ruh bilimi

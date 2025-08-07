@@ -5,7 +5,7 @@ slug: milliyetperver
 letter: M
 lisan: Arapça milliyyet + Farsça -perver
 anlamlar:
-- ► milliyetçi
+- milliyetçi
 ozellikler:
 - - sıfat
   - eskimiş

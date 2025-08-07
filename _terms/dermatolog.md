@@ -5,7 +5,7 @@ slug: dermatolog
 letter: D
 lisan: Fransızca dermatologue
 anlamlar:
-- ► cildiyeci
+- cildiyeci
 ozellikler:
 - - isim
   - tıp

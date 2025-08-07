@@ -5,8 +5,8 @@ slug: nafilelik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► yararsızlık
-- ► boşunalık
+- yararsızlık
+- boşunalık
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: konstruktivist
 letter: K
 lisan: Fransızca constructiviste
 anlamlar:
-- ► kurmacı
+- kurmacı
 ozellikler:
 - - sıfat
 ornekler:

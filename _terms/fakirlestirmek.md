@@ -5,7 +5,7 @@ slug: fakirlestirmek
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yoksullaştırmak
+- yoksullaştırmak
 ozellikler:
 - - -i
 ornekler:

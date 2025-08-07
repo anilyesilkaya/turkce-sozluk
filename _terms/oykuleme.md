@@ -6,7 +6,7 @@ letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öykülemek işi
-- ► anlatı
+- anlatı
 ozellikler:
 - - isim
 - - isim

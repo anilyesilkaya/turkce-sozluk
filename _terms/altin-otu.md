@@ -5,7 +5,7 @@ slug: altin-otu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ölmez çiçek
+- ölmez çiçek
 ozellikler:
 - - isim
 ornekler:

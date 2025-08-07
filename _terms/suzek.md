@@ -5,7 +5,7 @@ slug: suzek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► süzgeç
+- süzgeç
 - Işığın önüne konulan, ince kumaş veya tülden yarı saydam yayındırıcı
 ozellikler:
 - - isim

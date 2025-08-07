@@ -7,7 +7,7 @@ lisan: Fransızca stock
 anlamlar:
 - Bir satış yerinde satışa hazır bulundurulan malların tümü; yığılım, istif
 - Bir gereksinimi karşılayacak maddeden çok miktarda yığma; yığılım, istif
-- ► yığımlık
+- yığımlık
 ozellikler:
 - - isim
 - - isim

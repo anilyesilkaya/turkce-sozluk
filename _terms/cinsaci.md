@@ -5,7 +5,7 @@ slug: cinsaci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► küsküt otu
+- küsküt otu
 ozellikler:
 - - isim
 ornekler:

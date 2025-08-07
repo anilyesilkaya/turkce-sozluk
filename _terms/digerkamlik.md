@@ -5,7 +5,7 @@ slug: digerkamlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► özgecilik
+- özgecilik
 ozellikler:
 - - isim
 ornekler:

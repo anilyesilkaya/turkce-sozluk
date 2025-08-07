@@ -5,7 +5,7 @@ slug: tedvin
 letter: T
 lisan: Arapça tedvīn
 anlamlar:
-- ► derleme
+- derleme
 ozellikler:
 - - isim
   - eskimiş

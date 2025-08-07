@@ -5,7 +5,7 @@ slug: komite
 letter: K
 lisan: Fransızca comité
 anlamlar:
-- ► alt kurul
+- alt kurul
 ozellikler:
 - - isim
 ornekler:

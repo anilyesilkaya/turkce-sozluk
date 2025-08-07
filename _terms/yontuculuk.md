@@ -5,7 +5,7 @@ slug: yontuculuk
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► heykelcilik
+- heykelcilik
 ozellikler:
 - - isim
 ornekler:

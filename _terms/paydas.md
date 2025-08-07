@@ -5,7 +5,7 @@ slug: paydas
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► hissedar
+- hissedar
 ozellikler:
 - - isim
 ornekler:

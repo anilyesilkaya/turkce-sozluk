@@ -5,7 +5,7 @@ slug: seytancasina
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şeytanca
+- şeytanca
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: munsap
 letter: M
 lisan: Arapça munṣabb
 anlamlar:
-- ► kavşak
+- kavşak
 - Deniz, göl veya ırmağa dökülen, karışan (akarsu)
 - Birbirine kavuşmuş olan
 ozellikler:

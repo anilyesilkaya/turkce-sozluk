@@ -5,7 +5,7 @@ slug: beseriyetci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► insancıl
+- insancıl
 ozellikler:
 - - sıfat
   - felsefe

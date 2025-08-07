@@ -5,7 +5,7 @@ slug: satih
 letter: S
 lisan: Arapça saṭḥ
 anlamlar:
-- ► yüzey
+- yüzey
 - Görünen bölüm
 ozellikler:
 - - isim

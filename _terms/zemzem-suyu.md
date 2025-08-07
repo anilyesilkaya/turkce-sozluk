@@ -5,7 +5,7 @@ slug: zemzem-suyu
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zemzem
+- zemzem
 ozellikler:
 - - isim
 ornekler:

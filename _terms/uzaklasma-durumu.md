@@ -5,7 +5,7 @@ slug: uzaklasma-durumu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çıkma durumu
+- çıkma durumu
 ozellikler:
 - - isim
   - dil bilgisi

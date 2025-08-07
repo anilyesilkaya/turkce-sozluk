@@ -5,7 +5,7 @@ slug: hipotetik
 letter: H
 lisan: Fransızca hypothétique
 anlamlar:
-- ► varsayımsal
+- varsayımsal
 ozellikler:
 - - sıfat
 ornekler:

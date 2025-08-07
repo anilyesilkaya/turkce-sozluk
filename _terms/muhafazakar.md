@@ -5,7 +5,7 @@ slug: muhafazakar
 letter: M
 lisan: Arapça muḥāfaẓa + Farsça -kār
 anlamlar:
-- ► tutucu
+- tutucu
 ozellikler:
 - - sıfat
 ornekler:

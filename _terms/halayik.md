@@ -5,7 +5,7 @@ slug: halayik
 letter: H
 lisan: Arapça ḫalāʾiḳ
 anlamlar:
-- ► cariye
+- cariye
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: silindir-makinesi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► silindir
+- silindir
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yaban-keteni
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► su keteni
+- su keteni
 ozellikler:
 - - isim
   - bitki bilimi

@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Aşılanmak işi
-- ► döllenme
+- döllenme
 ozellikler:
 - - isim
 - - isim

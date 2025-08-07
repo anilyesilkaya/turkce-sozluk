@@ -5,7 +5,7 @@ slug: hafi
 letter: H
 lisan: Arapça ḫafī
 anlamlar:
-- ► gizli
+- gizli
 ozellikler:
 - - sıfat
   - eskimiş

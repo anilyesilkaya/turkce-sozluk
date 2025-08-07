@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzü olmayan
-- ► utanmaz
+- utanmaz
 ozellikler:
 - - sıfat
 - - sıfat

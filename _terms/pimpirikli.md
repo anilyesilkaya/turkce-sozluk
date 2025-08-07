@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Gereksiz yere titizlik gösteren
-- ► kuşkucu
+- kuşkucu
 ozellikler:
 - - sıfat
 - - sıfat

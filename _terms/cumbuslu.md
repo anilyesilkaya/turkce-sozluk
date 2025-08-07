@@ -5,7 +5,7 @@ slug: cumbuslu
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► eğlenceli
+- eğlenceli
 - Gürültülü patırtılı olan
 ozellikler:
 - - sıfat

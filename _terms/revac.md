@@ -5,7 +5,7 @@ slug: revac
 letter: R
 lisan: Arapça revāc
 anlamlar:
-- ► sürüm
+- sürüm
 ozellikler:
 - - isim
   - ticaret

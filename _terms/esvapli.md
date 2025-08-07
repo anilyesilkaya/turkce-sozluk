@@ -5,7 +5,7 @@ slug: esvapli
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► giysili
+- giysili
 ozellikler:
 - - sıfat
 ornekler:

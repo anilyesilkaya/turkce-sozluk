@@ -5,7 +5,7 @@ slug: menevis
 letter: M
 lisan: Farsça meneviş
 anlamlar:
-- ► hare
+- hare
 - Terementi ağacının tohumu
 - Demir çelik sanayisinde düşük sıcaklıkta gerçekleşen, su verme sırasında oluşan gerilim ve gevrekliği ortadan kaldırarak parçaların özelliklerini iyileştirmek amacıyla uygulanan bir ısıl işlem
 ozellikler:

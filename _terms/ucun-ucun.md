@@ -5,9 +5,9 @@ slug: ucun-ucun
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ucu ucuna
-- ► azar azar
-- ► yavaş yavaş
+- ucu ucuna
+- azar azar
+- yavaş yavaş
 - Yan gözle; yan yan
 ozellikler:
 - - zarf

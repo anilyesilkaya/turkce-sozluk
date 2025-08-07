@@ -5,7 +5,7 @@ slug: dis-dudak-unsuzu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► diş eti-dudak ünsüzü
+- diş eti-dudak ünsüzü
 ozellikler:
 - - isim
   - dil bilgisi

@@ -5,7 +5,7 @@ slug: cingoz
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► açıkgöz
+- açıkgöz
 ozellikler:
 - - sıfat
   - mecaz

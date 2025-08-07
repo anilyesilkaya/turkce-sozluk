@@ -5,7 +5,7 @@ slug: naklen-yayin
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► canlı yayın
+- canlı yayın
 - Olay, gösteri, toplantı, etkinlik vb.nin yaşandığı andan daha sonra olduğu gibi bire bir aktarıldığı yayın
 ozellikler:
 - - isim

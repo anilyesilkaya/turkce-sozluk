@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Dua edilip dilek dilenen yer
-- ► tuvalet
+- tuvalet
 ozellikler:
 - - isim
 - - isim

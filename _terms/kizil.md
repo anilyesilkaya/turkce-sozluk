@@ -8,7 +8,7 @@ anlamlar:
 - Parlak kırmızı renk
 - Bu renkte olan
 - Aşırı derecede olan
-- ► komünist
+- komünist
 - Genellikle küçük yaşlarda görülen, bulaşıcı, yüksek ateşli, kırmızı renkte geniş lekeler döktüren, kuluçka dönemi üç dört gün süren tehlikeli hastalık
 ozellikler:
 - - isim

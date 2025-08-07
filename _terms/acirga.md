@@ -5,7 +5,7 @@ slug: acirga
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yaban turpu
+- yaban turpu
 ozellikler:
 - - isim
   - ağızlardan

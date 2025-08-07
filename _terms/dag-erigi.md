@@ -5,7 +5,7 @@ slug: dag-erigi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çakal eriği
+- çakal eriği
 ozellikler:
 - - isim
   - bitki bilimi

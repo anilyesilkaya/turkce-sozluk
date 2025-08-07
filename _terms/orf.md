@@ -5,7 +5,7 @@ slug: orf
 letter: Ö
 lisan: Arapça ʿurf
 anlamlar:
-- ► gelenek
+- gelenek
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: jeodezi
 letter: J
 lisan: Fransızca géodésie
 anlamlar:
-- ► yer ölçümü
+- yer ölçümü
 ozellikler:
 - - isim
   - jeoloji

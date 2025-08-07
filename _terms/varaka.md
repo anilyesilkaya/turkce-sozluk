@@ -5,7 +5,7 @@ slug: varaka
 letter: V
 lisan: Arapça varaḳa
 anlamlar:
-- ► varak
+- varak
 ozellikler:
 - - isim
   - eskimiş

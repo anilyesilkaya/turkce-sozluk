@@ -9,11 +9,11 @@ anlamlar:
 - Bu yapraktan yapılmış
 - Üzerine yazı yazılmış bu tür malzeme
 - Yazılı sınav kâğıdı
-- ► iskambil kâğıdı
+- iskambil kâğıdı
 - Belge ve doküman
 - Menkul kıymetler borsasında işlem gören tahvil, hisse senedi gibi mali değeri olan senet
-- ► menkul kıymetler
-- ► kâğıt para
+- menkul kıymetler
+- kâğıt para
 ozellikler:
 - - isim
 - - isim

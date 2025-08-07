@@ -5,7 +5,7 @@ slug: serbest-muhasebecilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► serbest muhasebeci mali müşavirlik
+- serbest muhasebeci mali müşavirlik
 ozellikler:
 - - isim
   - ekonomi

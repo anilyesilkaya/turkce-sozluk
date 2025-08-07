@@ -5,7 +5,7 @@ slug: zag
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► kılağı
+- kılağı
 ozellikler:
 - - isim
   - ağızlardan

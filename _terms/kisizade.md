@@ -5,7 +5,7 @@ slug: kisizade
 letter: K
 lisan: Türkçe kişi + Farsça zāde
 anlamlar:
-- ► soylu
+- soylu
 ozellikler:
 - - sıfat
   - eskimiş

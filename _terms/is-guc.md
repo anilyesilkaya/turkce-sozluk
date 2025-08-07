@@ -5,7 +5,7 @@ slug: is-guc
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uğraş
+- uğraş
 ozellikler:
 - - isim
 ornekler:

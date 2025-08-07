@@ -5,7 +5,7 @@ slug: kotasyon
 letter: K
 lisan: Fransızca cotation
 anlamlar:
-- ► geçer değer
+- geçer değer
 ozellikler:
 - - isim
 ornekler:

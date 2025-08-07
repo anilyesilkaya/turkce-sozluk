@@ -5,7 +5,7 @@ slug: deontolojik
 letter: D
 lisan: Fransızca déontologique
 anlamlar:
-- ► ödev bilimsel
+- ödev bilimsel
 ozellikler:
 - - sıfat
 ornekler:

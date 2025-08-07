@@ -5,7 +5,7 @@ slug: seyran
 letter: S
 lisan: Arapça seyrān
 anlamlar:
-- ► gezinme
+- gezinme
 ozellikler:
 - - isim
 ornekler:

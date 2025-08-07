@@ -5,7 +5,7 @@ slug: hazirlik-calismasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► idman
+- idman
 ozellikler:
 - - isim
   - spor

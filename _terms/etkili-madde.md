@@ -5,7 +5,7 @@ slug: etkili-madde
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► etken madde
+- etken madde
 ozellikler:
 - - isim
   - kimya

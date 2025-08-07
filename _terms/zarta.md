@@ -5,7 +5,7 @@ slug: zarta
 letter: Z
 lisan: Arapça żarṭa
 anlamlar:
-- ► yellenme
+- yellenme
 ozellikler:
 - - isim
 ornekler:

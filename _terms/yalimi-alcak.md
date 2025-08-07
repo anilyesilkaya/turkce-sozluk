@@ -5,7 +5,7 @@ slug: yalimi-alcak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüreksiz
+- yüreksiz
 ozellikler:
 - - sıfat
   - mecaz

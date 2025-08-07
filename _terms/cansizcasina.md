@@ -5,7 +5,7 @@ slug: cansizcasina
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cansızca
+- cansızca
 ozellikler:
 - - zarf
 ornekler:

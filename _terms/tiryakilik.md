@@ -5,7 +5,7 @@ slug: tiryakilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► düşkünlük
+- düşkünlük
 ozellikler:
 - - isim
 ornekler:

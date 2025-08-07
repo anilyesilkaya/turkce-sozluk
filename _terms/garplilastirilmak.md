@@ -5,7 +5,7 @@ slug: garplilastirilmak
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► Batılılaştırılmak
+- Batılılaştırılmak
 ozellikler:
 - - nesnesiz
 ornekler:

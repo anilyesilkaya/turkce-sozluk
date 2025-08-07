@@ -5,7 +5,7 @@ slug: bastan-basa
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 - Başından sonuna kadar, bir uçtan bir uca; baştan aşağı, baştan sona, serapa
 ozellikler:
 - - zarf

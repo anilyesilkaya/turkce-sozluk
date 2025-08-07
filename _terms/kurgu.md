@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyin zembereğini kurmak için kullanılan araç; anahtar
 - Zembereğin kurulmuş olma durumu
 - Bir işe hazırlamak için yapılan telkin
-- ► çatı
+- çatı
 - Uygulamaya geçmeyen, sadece bilmek ve açıklamak amacını güden düşünce, kuramsal araştırma; spekülasyon
 - Bir filmin değişik süre ve yerlerde çekilen bölümlerini, bir uyum ve anlam bütünlüğü sağlayarak birleştirme; montaj
 - Gerçek olmayan olay ve kahramanlardan oluşan eser

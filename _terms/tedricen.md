@@ -5,8 +5,8 @@ slug: tedricen
 letter: T
 lisan: Arapça tedrīcen
 anlamlar:
-- ► gittikçe
-- ► derece derece
+- gittikçe
+- derece derece
 ozellikler:
 - - zarf
   - eskimiş

@@ -5,7 +5,7 @@ slug: mesgale
 letter: M
 lisan: Arapça meşġale
 anlamlar:
-- ► uğraşı
+- uğraşı
 ozellikler:
 - - isim
 ornekler:

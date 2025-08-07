@@ -6,7 +6,7 @@ letter: F
 lisan: İtalyanca fino
 anlamlar:
 - Küçük boylu, çok tüylü, yuvarlak başlı, kısa burunlu bir ev köpeği türü
-- ► esrar (II)
+- esrar (II)
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: deduksiyon
 letter: D
 lisan: Fransızca déduction
 anlamlar:
-- ► tümdengelim
+- tümdengelim
 ozellikler:
 - - isim
   - felsefe

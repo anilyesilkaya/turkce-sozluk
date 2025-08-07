@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Horoz, hindi vb.nin tepesinde bulunan kırmızı deri uzantısı
 - Bazı kemiklerde bulunan ve kasların tutunmasına yarayan, çizgi durumunda pürtüklü çıkıntı
-- ► emzik
+- emzik
 - Köşe, kenar, uç
 ozellikler:
 - - isim

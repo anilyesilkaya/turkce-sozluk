@@ -5,7 +5,7 @@ slug: kul
 letter: K
 lisan: Arapça kull
 anlamlar:
-- ► bütün
+- bütün
 ozellikler:
 - - isim
   - eskimiş

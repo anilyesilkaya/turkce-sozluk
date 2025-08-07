@@ -5,7 +5,7 @@ slug: sisko
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şişman
+- şişman
 - Toplu, dolgun olan
 - Şişman olan kimse
 ozellikler:

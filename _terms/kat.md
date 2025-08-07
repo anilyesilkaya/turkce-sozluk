@@ -5,10 +5,10 @@ slug: kat
 letter: K
 lisan: Arapça ḳaṭʿ
 anlamlar:
-- ► kesme
+- kesme
 - İlgiyi kesme
 - Bir işi sonuca bağlama, bitirme
-- ► kesme
+- kesme
 ozellikler:
 - - isim
   - eskimiş

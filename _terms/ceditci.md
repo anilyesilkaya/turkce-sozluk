@@ -5,7 +5,7 @@ slug: ceditci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yenilikçi
+- yenilikçi
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: setaretli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şenlikli
+- şenlikli
 ozellikler:
 - - sıfat
 ornekler:

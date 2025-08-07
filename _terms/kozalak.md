@@ -5,7 +5,7 @@ slug: kozalak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koza
+- koza
 - Kozalaklıların, genellikle dibi yuvarlak, tepesi koni biçiminde ve odunsu dokulu meyvesi; kozak
 - Olmamış, kuru, ham meyve
 - Bal mumuna basılmış mührün bozulmaması için üzerine yapıştırılan fil dişinden kapakçık

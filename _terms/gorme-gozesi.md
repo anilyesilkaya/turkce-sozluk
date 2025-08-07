@@ -5,7 +5,7 @@ slug: gorme-gozesi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► görme hücresi
+- görme hücresi
 ozellikler:
 - - isim
   - hayvan bilimi

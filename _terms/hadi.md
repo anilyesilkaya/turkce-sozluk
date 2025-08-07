@@ -5,7 +5,7 @@ slug: hadi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► haydi
+- haydi
 ozellikler:
 - - ünlem
 ornekler:

@@ -6,7 +6,7 @@ letter: E
 lisan: Arapça ehven
 anlamlar:
 - Zararı az, en zararsız
-- ► ucuz
+- ucuz
 ozellikler:
 - - sıfat
 - - sıfat

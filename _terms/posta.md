@@ -11,7 +11,7 @@ anlamlar:
 - Takım, kol
 - Haberci, ulak
 - Kez, defa, sefer
-- ► vardiya
+- vardiya
 - Bir sanayi veya ticaret işletmesinde aynı süre içinde çalışanların tümü
 - Hizmet nöbetinde bulunan er
 - Vapur, tren, uçak vb. taşıtlarla yapılan yolculuk

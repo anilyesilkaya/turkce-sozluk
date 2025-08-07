@@ -5,7 +5,7 @@ slug: safcasina
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► safça
+- safça
 ozellikler:
 - - zarf
 ornekler:

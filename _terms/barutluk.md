@@ -5,7 +5,7 @@ slug: barutluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► barut kabağı
+- barut kabağı
 ozellikler:
 - - isim
 ornekler:

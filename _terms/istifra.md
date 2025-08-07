@@ -5,7 +5,7 @@ slug: istifra
 letter: I
 lisan: Arapça istifrāġ
 anlamlar:
-- ► kusma
+- kusma
 ozellikler:
 - - isim
   - eskimiş

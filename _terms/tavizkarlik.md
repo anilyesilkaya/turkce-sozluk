@@ -5,7 +5,7 @@ slug: tavizkarlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ödüncülük
+- ödüncülük
 ozellikler:
 - - isim
 ornekler:

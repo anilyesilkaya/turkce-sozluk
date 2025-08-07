@@ -5,8 +5,8 @@ slug: percem
 letter: P
 lisan: Farsça perçem
 anlamlar:
-- ► kâkül
-- ► yele
+- kâkül
+- yele
 - Başlarını tıraş edenlerin tepede bıraktıkları saç tutamı
 ozellikler:
 - - isim

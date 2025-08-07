@@ -5,7 +5,7 @@ slug: delepme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► parlama
+- parlama
 ozellikler:
 - - isim
 ornekler:

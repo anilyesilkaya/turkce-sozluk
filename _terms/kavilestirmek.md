@@ -5,7 +5,7 @@ slug: kavilestirmek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sağlamlaştırmak
+- sağlamlaştırmak
 ozellikler:
 - - -i
 ornekler:

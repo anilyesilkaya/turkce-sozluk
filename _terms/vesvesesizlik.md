@@ -5,7 +5,7 @@ slug: vesvesesizlik
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► kuruntusuzluk
+- kuruntusuzluk
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: yekta
 letter: Y
 lisan: Farsça yektā
 anlamlar:
-- ► eşsiz
+- eşsiz
 ozellikler:
 - - sıfat
   - eskimiş

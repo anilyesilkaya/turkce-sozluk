@@ -5,7 +5,7 @@ slug: dalan
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► lobi
+- lobi
 ozellikler:
 - - isim
   - mimarlık

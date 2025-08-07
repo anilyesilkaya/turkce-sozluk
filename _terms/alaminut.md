@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca à la minute
 anlamlar:
 - Beklemeye gerek kalmadan hemen hazırlanıveren
-- ► şipşak
+- şipşak
 ozellikler:
 - - sıfat
 - - sıfat

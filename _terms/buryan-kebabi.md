@@ -5,7 +5,7 @@ slug: buryan-kebabi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büryan
+- büryan
 ozellikler:
 - - isim
 ornekler:

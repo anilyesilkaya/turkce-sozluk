@@ -5,7 +5,7 @@ slug: dah
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► deh
+- deh
 ozellikler:
 - - ünlem
 ornekler:

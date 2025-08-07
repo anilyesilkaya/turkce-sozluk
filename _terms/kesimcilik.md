@@ -5,7 +5,7 @@ slug: kesimcilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kesenekçilik
+- kesenekçilik
 ozellikler:
 - - isim
 ornekler:

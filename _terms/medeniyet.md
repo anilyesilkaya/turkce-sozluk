@@ -5,7 +5,7 @@ slug: medeniyet
 letter: M
 lisan: Arapça medeniyyet
 anlamlar:
-- ► uygarlık
+- uygarlık
 ozellikler:
 - - isim
   - toplum bilimi

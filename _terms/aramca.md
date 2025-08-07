@@ -5,7 +5,7 @@ slug: aramca
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► Aramice
+- Aramice
 ozellikler:
 - - isim
 ornekler:

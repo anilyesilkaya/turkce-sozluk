@@ -5,7 +5,7 @@ slug: nispetsizlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► oransızlık
+- oransızlık
 ozellikler:
 - - isim
 ornekler:

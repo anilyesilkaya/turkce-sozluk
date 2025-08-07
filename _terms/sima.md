@@ -5,7 +5,7 @@ slug: sima
 letter: S
 lisan: Farsça sīmā
 anlamlar:
-- ► yüz (II)
+- yüz (II)
 - Kimse, insan, tip
 ozellikler:
 - - isim

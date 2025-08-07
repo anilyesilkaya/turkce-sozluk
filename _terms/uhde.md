@@ -6,7 +6,7 @@ letter: U
 lisan: Arapça ʿuhde
 anlamlar:
 - Birinin yapmakla yükümlü olduğu iş, görev
-- ► sorumluluk
+- sorumluluk
 ozellikler:
 - - isim
 - - isim

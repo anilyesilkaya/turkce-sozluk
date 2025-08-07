@@ -5,7 +5,7 @@ slug: aroma
 letter: A
 lisan: İtalyanca aroma
 anlamlar:
-- ► hoş koku
+- hoş koku
 ozellikler:
 - - isim
 ornekler:

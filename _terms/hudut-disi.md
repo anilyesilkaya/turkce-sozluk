@@ -5,7 +5,7 @@ slug: hudut-disi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sınır dışı
+- sınır dışı
 ozellikler:
 - - isim
 ornekler:

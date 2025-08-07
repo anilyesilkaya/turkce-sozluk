@@ -5,7 +5,7 @@ slug: sebzevat
 letter: S
 lisan: Farsça sebze + Arapça -vāt
 anlamlar:
-- ► sebze
+- sebze
 ozellikler:
 - - isim
   - eskimiş

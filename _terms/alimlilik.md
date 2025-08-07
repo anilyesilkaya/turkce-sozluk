@@ -5,7 +5,7 @@ slug: alimlilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çekicilik
+- çekicilik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: suurlanabilmek
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçlenebilmek
+- bilinçlenebilmek
 ozellikler:
 - - nesnesiz
 ornekler:

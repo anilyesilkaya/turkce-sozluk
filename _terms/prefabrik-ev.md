@@ -5,7 +5,7 @@ slug: prefabrik-ev
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► prefabrik konut
+- prefabrik konut
 ozellikler:
 - - isim
 ornekler:

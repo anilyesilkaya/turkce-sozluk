@@ -5,8 +5,8 @@ slug: vezinsiz
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► ölçüsüz
-- ► tartısız
+- ölçüsüz
+- tartısız
 ozellikler:
 - - sıfat
   - edebiyat

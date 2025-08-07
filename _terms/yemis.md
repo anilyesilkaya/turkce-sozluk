@@ -5,8 +5,8 @@ slug: yemis
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► meyve
-- ► incir
+- meyve
+- incir
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: mahkumiyet
 letter: M
 lisan: Arapça maḥkūmiyyet
 anlamlar:
-- ► hükümlülük
+- hükümlülük
 - Hüküm giyilen süre
 ozellikler:
 - - isim

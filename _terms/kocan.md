@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Marul, lahana vb. sebzelerde yaprakların çıktığı sert gövde
 - Mısırın tanelerini taşıyan, üzeri yaprakla sarılı, püsküllü meyvesi
-- ► mısır koçanı
+- mısır koçanı
 - Defter biçimindeki makbuz ve biletlerin zımbalı bölümü koparıldıktan sonra cilde bağlı kalan parçası
 - Tapu senedi
 ozellikler:

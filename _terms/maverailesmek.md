@@ -5,7 +5,7 @@ slug: maverailesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uhrevileşmek
+- uhrevileşmek
 ozellikler:
 - - nesnesiz
 ornekler:

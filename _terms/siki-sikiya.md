@@ -5,8 +5,8 @@ slug: siki-sikiya
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sımsıkı
-- ► iyice
+- sımsıkı
+- iyice
 ozellikler:
 - - zarf
 - - zarf

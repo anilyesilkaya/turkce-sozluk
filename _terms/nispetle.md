@@ -5,8 +5,8 @@ slug: nispetle
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► oranla
-- ► yanında
+- oranla
+- yanında
 ozellikler:
 - - edat
 - - edat

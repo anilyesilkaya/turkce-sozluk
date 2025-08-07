@@ -5,7 +5,7 @@ slug: elastikiyet
 letter: E
 lisan: Fransızca élastique + Arapça -iyyet
 anlamlar:
-- ► esneklik
+- esneklik
 ozellikler:
 - - isim
 ornekler:

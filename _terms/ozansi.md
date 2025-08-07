@@ -5,7 +5,7 @@ slug: ozansi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► şairimsi
+- şairimsi
 ozellikler:
 - - sıfat
 ornekler:

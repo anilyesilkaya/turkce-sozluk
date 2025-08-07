@@ -5,7 +5,7 @@ slug: yuklem-birligi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüklem öbeği
+- yüklem öbeği
 ozellikler:
 - - isim
   - dil bilgisi

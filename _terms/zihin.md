@@ -6,9 +6,9 @@ letter: Z
 lisan: Arapça ẕihn
 anlamlar:
 - Canlının duygu ve davranışlar dışındaki ruhsal süreç ve etkinliklerinin bütünü
-- ► bellek
-- ► kavrayış
-- ► kafa
+- bellek
+- kavrayış
+- kafa
 ozellikler:
 - - isim
 - - isim

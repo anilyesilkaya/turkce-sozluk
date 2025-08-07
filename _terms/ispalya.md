@@ -5,7 +5,7 @@ slug: ispalya
 letter: I
 lisan: Fransızca espalier
 anlamlar:
-- ► sırık
+- sırık
 ozellikler:
 - - isim
 ornekler:

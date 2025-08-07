@@ -5,7 +5,7 @@ slug: mukrim
 letter: M
 lisan: Arapça mukrim
 anlamlar:
-- ► ikramcı
+- ikramcı
 ozellikler:
 - - sıfat
   - eskimiş

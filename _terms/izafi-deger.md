@@ -5,7 +5,7 @@ slug: izafi-deger
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bağıl değer
+- bağıl değer
 ozellikler:
 - - isim
   - matematik

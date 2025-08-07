@@ -5,7 +5,7 @@ slug: ezinc
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► azap (I)
+- azap (I)
 ozellikler:
 - - isim
 ornekler:

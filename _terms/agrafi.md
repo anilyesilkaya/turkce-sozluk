@@ -5,7 +5,7 @@ slug: agrafi
 letter: A
 lisan: Fransızca agraphie
 anlamlar:
-- ► yazma yitimi
+- yazma yitimi
 ozellikler:
 - - isim
   - ruh bilimi

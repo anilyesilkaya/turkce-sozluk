@@ -5,8 +5,8 @@ slug: buhran
 letter: B
 lisan: Arapça buḥrān
 anlamlar:
-- ► bunalım
-- ► kriz
+- bunalım
+- kriz
 ozellikler:
 - - isim
 - - isim

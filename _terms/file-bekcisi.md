@@ -5,7 +5,7 @@ slug: file-bekcisi
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► kaleci
+- kaleci
 ozellikler:
 - - isim
   - mecaz

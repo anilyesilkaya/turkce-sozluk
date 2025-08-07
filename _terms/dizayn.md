@@ -5,7 +5,7 @@ slug: dizayn
 letter: D
 lisan: İngilizce design
 anlamlar:
-- ► tasarım
+- tasarım
 ozellikler:
 - - isim
 ornekler:

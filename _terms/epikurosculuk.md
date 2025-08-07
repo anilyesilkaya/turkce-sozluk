@@ -5,7 +5,7 @@ slug: epikurosculuk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Epikürcülük
+- Epikürcülük
 ozellikler:
 - - isim
   - felsefe

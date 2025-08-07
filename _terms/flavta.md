@@ -5,7 +5,7 @@ slug: flavta
 letter: F
 lisan: İtalyanca flauto
 anlamlar:
-- ► flüt
+- flüt
 ozellikler:
 - - isim
 ornekler:

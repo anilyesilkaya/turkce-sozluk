@@ -5,7 +5,7 @@ slug: sutanalik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sütannelik
+- sütannelik
 ozellikler:
 - - isim
 ornekler:

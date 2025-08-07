@@ -5,7 +5,7 @@ slug: tenevvu
 letter: T
 lisan: Arapça tenevvuʿ
 anlamlar:
-- ► çeşitlilik
+- çeşitlilik
 ozellikler:
 - - isim
   - eskimiş

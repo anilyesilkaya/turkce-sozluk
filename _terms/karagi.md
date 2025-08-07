@@ -5,7 +5,7 @@ slug: karagi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► gece körlüğü
+- gece körlüğü
 ozellikler:
 - - isim
   - ağızlardan

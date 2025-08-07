@@ -5,7 +5,7 @@ slug: mutavaat-fiili
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dönüşlü fiil
+- dönüşlü fiil
 ozellikler:
 - - isim
   - dil bilgisi

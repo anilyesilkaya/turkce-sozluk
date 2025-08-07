@@ -5,7 +5,7 @@ slug: kaniklanmak
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yetinmek
+- yetinmek
 ozellikler:
 - - -le
   - ağızlardan

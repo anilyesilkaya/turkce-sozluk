@@ -5,8 +5,8 @@ slug: kilolu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ağır
-- ► şişman
+- ağır
+- şişman
 ozellikler:
 - - sıfat
 - - sıfat

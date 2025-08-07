@@ -5,7 +5,7 @@ slug: ulusal-guvenlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî güvenlik
+- millî güvenlik
 ozellikler:
 - - isim
 ornekler:

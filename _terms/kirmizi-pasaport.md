@@ -5,7 +5,7 @@ slug: kirmizi-pasaport
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► geçici pasaport
+- geçici pasaport
 ozellikler:
 - - isim
 ornekler:

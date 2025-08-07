@@ -5,7 +5,7 @@ slug: suursuzlasma
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçsizleşme
+- bilinçsizleşme
 ozellikler:
 - - isim
 ornekler:

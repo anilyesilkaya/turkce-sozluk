@@ -5,7 +5,7 @@ slug: teleme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► teleme peyniri
+- teleme peyniri
 - Sütten doğal yollarla ve bazı bitki özlerini kullanarak bir çeşit peynir elde etme
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kandili olan
-- ► kör kandil
+- kör kandil
 ozellikler:
 - - sıfat
 - - sıfat

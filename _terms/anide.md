@@ -5,7 +5,7 @@ slug: anide
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
   - eskimiş

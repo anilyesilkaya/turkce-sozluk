@@ -5,7 +5,7 @@ slug: ziraat-yumurtasi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► çiftlik yumurtası
+- çiftlik yumurtası
 ozellikler:
 - - isim
 ornekler:

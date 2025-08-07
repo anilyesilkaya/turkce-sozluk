@@ -8,7 +8,7 @@ anlamlar:
 - Benzer duruma getirmek
 - Bir şeyde başka şeye benzeyen yönler bulmak
 - Olduğu biçimden daha kötü bir duruma getirmek
-- ► dövmek
+- dövmek
 ozellikler:
 - - -e
   - -i

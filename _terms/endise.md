@@ -5,9 +5,9 @@ slug: endise
 letter: E
 lisan: Farsça endīşe
 anlamlar:
-- ► kaygı
-- ► kuruntu
-- ► niyet
+- kaygı
+- kuruntu
+- niyet
 ozellikler:
 - - isim
 - - isim

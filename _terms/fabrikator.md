@@ -5,7 +5,7 @@ slug: fabrikator
 letter: F
 lisan: Fransızca fabricateur
 anlamlar:
-- ► fabrikacı
+- fabrikacı
 ozellikler:
 - - isim
 ornekler:

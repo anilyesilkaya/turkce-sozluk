@@ -5,7 +5,7 @@ slug: bahis-mevzusu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► söz konusu
+- söz konusu
 ozellikler:
 - - sıfat
 ornekler:

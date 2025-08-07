@@ -5,7 +5,7 @@ slug: betik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kitap
+- kitap
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: acar
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anahtar
-- ► ön içki
+- anahtar
+- ön içki
 ozellikler:
 - - isim
 - - isim

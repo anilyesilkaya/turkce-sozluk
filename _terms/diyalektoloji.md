@@ -5,7 +5,7 @@ slug: diyalektoloji
 letter: D
 lisan: Fransızca dialectologie
 anlamlar:
-- ► lehçe bilimi
+- lehçe bilimi
 ozellikler:
 - - isim
   - dil bilimi

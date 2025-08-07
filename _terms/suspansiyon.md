@@ -5,7 +5,7 @@ slug: suspansiyon
 letter: S
 lisan: Fransızca suspension
 anlamlar:
-- ► asıltı
+- asıltı
 - Bir otomobil şasisinin yayla sağlanmış esnekliği
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: cafcaf
 letter: C
 lisan: Farsça cāfcāf
 anlamlar:
-- ► gösteriş
+- gösteriş
 - Ağız kalabalığı ile bir şeyi elde eden
 ozellikler:
 - - isim

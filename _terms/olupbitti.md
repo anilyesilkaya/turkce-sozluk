@@ -5,7 +5,7 @@ slug: olupbitti
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► oldubitti
+- oldubitti
 ozellikler:
 - - isim
 ornekler:

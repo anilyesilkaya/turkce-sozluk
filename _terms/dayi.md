@@ -8,8 +8,8 @@ anlamlar:
 - Annenin erkek kardeşi
 - Cesur olan
 - Yaşlı erkeklere söylenen bir seslenme sözü
-- ► kayırıcı
-- ► kabadayı
+- kayırıcı
+- kabadayı
 - Osmanlı Devleti'nde Tunus, Cezayir ve Trablusgarp'ta seçimle başa getirilen yönetici
 ozellikler:
 - - isim

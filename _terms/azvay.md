@@ -5,7 +5,7 @@ slug: azvay
 letter: A
 lisan: Farsça āzvāy
 anlamlar:
-- ► sarısabır
+- sarısabır
 ozellikler:
 - - isim
   - bitki bilimi

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Veli olma durumu; velayet
 - Velinin görev ve ödevi; velayet
-- ► ermişlik
+- ermişlik
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: cevirgec
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► anahtar
+- anahtar
 ozellikler:
 - - isim
   - fizik

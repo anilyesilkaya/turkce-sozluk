@@ -5,7 +5,7 @@ slug: sinirce
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► nevroz
+- nevroz
 ozellikler:
 - - isim
   - ruh bilimi

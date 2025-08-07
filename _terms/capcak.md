@@ -5,7 +5,7 @@ slug: capcak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çamçak
+- çamçak
 - Ağzı açık fıçı
 ozellikler:
 - - isim

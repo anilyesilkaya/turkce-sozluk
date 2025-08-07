@@ -5,7 +5,7 @@ slug: yuksek-tahsil
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yükseköğrenim
+- yükseköğrenim
 ozellikler:
 - - isim
 ornekler:

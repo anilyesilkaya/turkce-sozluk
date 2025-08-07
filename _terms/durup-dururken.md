@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Gereği veya nedeni yokken; yekten
-- ► ansızın
+- ansızın
 ozellikler:
 - - zarf
   - mecaz

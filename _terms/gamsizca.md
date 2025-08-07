@@ -5,7 +5,7 @@ slug: gamsizca
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► kaygısızca
+- kaygısızca
 ozellikler:
 - - zarf
 ornekler:

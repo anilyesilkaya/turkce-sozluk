@@ -5,7 +5,7 @@ slug: sogusleme
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► dolandırma
+- dolandırma
 ozellikler:
 - - isim
   - argo

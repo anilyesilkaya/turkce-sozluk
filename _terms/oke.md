@@ -5,7 +5,7 @@ slug: oke
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► dâhi
+- dâhi
 ozellikler:
 - - isim
 ornekler:

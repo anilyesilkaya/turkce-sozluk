@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sığınmak işi; iltica
-- ► tahassun
+- tahassun
 - Yarış sırasında, rüzgârın etkisinden korunmak için başka bir yarışçının arkasına sinme
 ozellikler:
 - - isim

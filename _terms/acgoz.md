@@ -5,7 +5,7 @@ slug: acgoz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► açgözlü
+- açgözlü
 ozellikler:
 - - sıfat
   - mecaz

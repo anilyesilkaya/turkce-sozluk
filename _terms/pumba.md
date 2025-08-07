@@ -5,7 +5,7 @@ slug: pumba
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pufla
+- pufla
 ozellikler:
 - - sıfat
   - ağızlardan

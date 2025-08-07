@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Dışarıya doğru biraz fırlamış göz; lokma göz
-- ► patlak gözlü
+- patlak gözlü
 ozellikler:
 - - isim
 - - isim

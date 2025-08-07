@@ -5,7 +5,7 @@ slug: zem
 letter: Z
 lisan: Arapça ẕemm
 anlamlar:
-- ► yerme
+- yerme
 ozellikler:
 - - isim
   - eskimiş

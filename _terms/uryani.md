@@ -5,7 +5,7 @@ slug: uryani
 letter: Ü
 lisan: Arapça ʿuryānī
 anlamlar:
-- ► üryani eriği
+- üryani eriği
 ozellikler:
 - - isim
   - bitki bilimi

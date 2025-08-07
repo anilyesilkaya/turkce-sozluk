@@ -5,7 +5,7 @@ slug: endoderm
 letter: E
 lisan: Fransızca endoderme
 anlamlar:
-- ► iç deri
+- iç deri
 ozellikler:
 - - isim
   - bitki bilimi

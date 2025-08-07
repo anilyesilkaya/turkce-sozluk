@@ -5,7 +5,7 @@ slug: uyaklandirilmak
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyelendirilmek
+- kafiyelendirilmek
 ozellikler:
 - - nesnesiz
   - edebiyat

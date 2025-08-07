@@ -6,7 +6,7 @@ letter: D
 lisan: Arapça dāḫiliyye
 anlamlar:
 - Devlet yönetiminde iç işleri
-- ► iç hastalıkları
+- iç hastalıkları
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: tenvir
 letter: T
 lisan: Arapça tenvīr
 anlamlar:
-- ► aydınlatma
+- aydınlatma
 - Bilgi verme, aydınlatma
 ozellikler:
 - - isim

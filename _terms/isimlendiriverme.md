@@ -5,7 +5,7 @@ slug: isimlendiriverme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► adlandırıverme
+- adlandırıverme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: kontrolor
 letter: K
 lisan: Fransızca contrôleur
 anlamlar:
-- ► denetçi
+- denetçi
 ozellikler:
 - - isim
 ornekler:

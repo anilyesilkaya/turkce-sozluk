@@ -5,7 +5,7 @@ slug: demir-para
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► madenî para
+- madenî para
 ozellikler:
 - - isim
 ornekler:

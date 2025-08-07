@@ -5,7 +5,7 @@ slug: hususiyet
 letter: H
 lisan: Arapça ḫuṣūṣiyyet
 anlamlar:
-- ► özellik
+- özellik
 - İleri derecede tanışıklık, ahbaplık, yakınlık
 ozellikler:
 - - isim

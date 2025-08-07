@@ -5,7 +5,7 @@ slug: zeker
 letter: Z
 lisan: Arapça ẕeker
 anlamlar:
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - eskimiş

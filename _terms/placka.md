@@ -5,7 +5,7 @@ slug: placka
 letter: P
 lisan: Arnavutça
 anlamlar:
-- ► çapul
+- çapul
 ozellikler:
 - - isim
 ornekler:

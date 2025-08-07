@@ -5,7 +5,7 @@ slug: erinme
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► üşenme
+- üşenme
 ozellikler:
 - - isim
 ornekler:

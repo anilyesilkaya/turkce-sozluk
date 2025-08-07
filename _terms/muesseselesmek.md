@@ -5,7 +5,7 @@ slug: muesseselesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kurumlaşmak
+- kurumlaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

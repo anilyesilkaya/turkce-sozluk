@@ -5,7 +5,7 @@ slug: alayisli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► görkemli
+- görkemli
 ozellikler:
 - - sıfat
 ornekler:

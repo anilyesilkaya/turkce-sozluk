@@ -5,7 +5,7 @@ slug: buyultmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büyütmek
+- büyütmek
 - Resim, harita vb.nin daha büyük örneğini yapmak
 - Bir nesneyi veya durumu olduğundan daha önemli, büyük göstermek
 ozellikler:

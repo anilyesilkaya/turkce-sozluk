@@ -5,7 +5,7 @@ slug: seyrusefer
 letter: S
 lisan: Arapça seyr + sefer
 anlamlar:
-- ► trafik
+- trafik
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: samimiyet
 letter: S
 lisan: Arapça ṣamīmiyyet
 anlamlar:
-- ► içtenlik
-- ► açık yüreklilik
+- içtenlik
+- açık yüreklilik
 - Senli benli olma durumu
 ozellikler:
 - - isim

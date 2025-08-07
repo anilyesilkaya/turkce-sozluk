@@ -5,7 +5,7 @@ slug: bolusumculuk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaşımcılık
+- paylaşımcılık
 ozellikler:
 - - isim
 ornekler:

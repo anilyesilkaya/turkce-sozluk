@@ -5,7 +5,7 @@ slug: hassaslik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duyarlılık
+- duyarlılık
 ozellikler:
 - - isim
 ornekler:

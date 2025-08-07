@@ -5,8 +5,8 @@ slug: kiyici
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► cani
-- ► gaddar
+- cani
+- gaddar
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: cadde
 letter: C
 lisan: Arapça cādde
 anlamlar:
-- ► ana yol
+- ana yol
 ozellikler:
 - - isim
 ornekler:

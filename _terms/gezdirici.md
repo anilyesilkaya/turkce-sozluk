@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gezdiren kimse
-- ► seyyar satıcı
+- seyyar satıcı
 ozellikler:
 - - isim
 - - isim

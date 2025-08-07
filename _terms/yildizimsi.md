@@ -5,7 +5,7 @@ slug: yildizimsi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıldızsı
+- yıldızsı
 ozellikler:
 - - sıfat
 ornekler:

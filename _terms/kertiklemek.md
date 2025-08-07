@@ -5,7 +5,7 @@ slug: kertiklemek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çentiklemek
+- çentiklemek
 ozellikler:
 - - -i
 ornekler:

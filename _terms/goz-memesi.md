@@ -5,7 +5,7 @@ slug: goz-memesi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► göz etçiği
+- göz etçiği
 ozellikler:
 - - isim
   - anatomi

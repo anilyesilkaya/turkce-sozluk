@@ -5,7 +5,7 @@ slug: ulusal-hakem
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► millî hakem
+- millî hakem
 ozellikler:
 - - isim
   - spor

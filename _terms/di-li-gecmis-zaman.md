@@ -5,7 +5,7 @@ slug: di-li-gecmis-zaman
 letter: '-'
 lisan: Türkçe
 anlamlar:
-- ► görülen geçmiş zaman
+- görülen geçmiş zaman
 ozellikler:
 - - isim
   - dil bilgisi

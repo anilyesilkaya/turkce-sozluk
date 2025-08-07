@@ -6,9 +6,9 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Aşağılık bir durumda olan
-- ► sıradan
+- sıradan
 - (ba'yağı) ► neredeyse
-- ► gerçekten
+- gerçekten
 - Oldukça çok
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: mutecanislik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bağdaşıklık
+- bağdaşıklık
 ozellikler:
 - - isim
 ornekler:

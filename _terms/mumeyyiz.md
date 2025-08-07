@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mumeyyiz
 anlamlar:
 - İyiyi, kötüyü, doğru ve yanlışı ayıran, seçen
-- ► ayırtman
+- ayırtman
 - Yazıları beyaz kâğıda temize çeken kimse
 ozellikler:
 - - sıfat

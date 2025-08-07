@@ -5,7 +5,7 @@ slug: tahkik
 letter: T
 lisan: Arapça taḥḳīḳ
 anlamlar:
-- ► soruşturma
+- soruşturma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tinselcilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ruhçuluk
+- ruhçuluk
 ozellikler:
 - - isim
   - felsefe

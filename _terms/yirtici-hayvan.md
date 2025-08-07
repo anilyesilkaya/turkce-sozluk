@@ -5,7 +5,7 @@ slug: yirtici-hayvan
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yabani hayvan
+- yabani hayvan
 ozellikler:
 - - isim
   - hayvan bilimi

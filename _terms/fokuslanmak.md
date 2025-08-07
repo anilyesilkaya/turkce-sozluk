@@ -5,7 +5,7 @@ slug: fokuslanmak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► odaklanmak
+- odaklanmak
 ozellikler:
 - - -e
 ornekler:

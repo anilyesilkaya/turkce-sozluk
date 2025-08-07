@@ -5,7 +5,7 @@ slug: ispirto-ocagi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ispirtoluk
+- ispirtoluk
 ozellikler:
 - - isim
 ornekler:

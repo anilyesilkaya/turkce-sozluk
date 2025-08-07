@@ -5,7 +5,7 @@ slug: kontrat
 letter: K
 lisan: Fransızca contrat
 anlamlar:
-- ► sözleşme
+- sözleşme
 ozellikler:
 - - isim
   - hukuk

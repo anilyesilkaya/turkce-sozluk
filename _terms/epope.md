@@ -5,7 +5,7 @@ slug: epope
 letter: E
 lisan: Fransızca épopée
 anlamlar:
-- ► destan
+- destan
 ozellikler:
 - - isim
   - edebiyat

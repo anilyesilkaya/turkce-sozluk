@@ -5,7 +5,7 @@ slug: kuzey-kure
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuzey yarım küre
+- kuzey yarım küre
 ozellikler:
 - - isim
   - coğrafya

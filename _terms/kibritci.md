@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kibrit satan kimse
-- ► cimri
+- cimri
 ozellikler:
 - - isim
 - - isim

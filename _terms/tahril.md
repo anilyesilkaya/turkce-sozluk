@@ -5,7 +5,7 @@ slug: tahril
 letter: T
 lisan: Arapça taḥrīr
 anlamlar:
-- ► tahrir
+- tahrir
 ozellikler:
 - - isim
   - eskimiş

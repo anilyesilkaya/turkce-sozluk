@@ -5,7 +5,7 @@ slug: sofor
 letter: Ş
 lisan: Fransızca chauffeur
 anlamlar:
-- ► sürücü (I)
+- sürücü (I)
 - Mesleği araba kullanmak olan sürücü
 ozellikler:
 - - isim

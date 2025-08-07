@@ -5,7 +5,7 @@ slug: zuyuf-akce
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► züyuf
+- züyuf
 ozellikler:
 - - isim
   - eskimiş

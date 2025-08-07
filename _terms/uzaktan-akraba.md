@@ -5,7 +5,7 @@ slug: uzaktan-akraba
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzak akraba
+- uzak akraba
 ozellikler:
 - - isim
 ornekler:

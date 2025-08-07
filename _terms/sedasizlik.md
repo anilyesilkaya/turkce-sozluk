@@ -5,7 +5,7 @@ slug: sedasizlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► tonsuzluk
+- tonsuzluk
 ozellikler:
 - - isim
 ornekler:

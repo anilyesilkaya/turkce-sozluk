@@ -5,7 +5,7 @@ slug: seyyahlik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► gezginlik
+- gezginlik
 ozellikler:
 - - isim
 ornekler:

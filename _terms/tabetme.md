@@ -5,7 +5,7 @@ slug: tabetme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► basma
+- basma
 ozellikler:
 - - isim
 ornekler:

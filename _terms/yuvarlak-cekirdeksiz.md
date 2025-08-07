@@ -5,7 +5,7 @@ slug: yuvarlak-cekirdeksiz
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► çekirdeksiz üzüm
+- çekirdeksiz üzüm
 ozellikler:
 - - isim
   - bitki bilimi

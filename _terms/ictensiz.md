@@ -5,7 +5,7 @@ slug: ictensiz
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içtenliksiz
+- içtenliksiz
 ozellikler:
 - - sıfat
 ornekler:

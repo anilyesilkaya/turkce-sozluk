@@ -5,7 +5,7 @@ slug: e-belge
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik belge
+- elektronik belge
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: teskilatli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütlü
+- örgütlü
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: nan
 letter: N
 lisan: Farsça nān
 anlamlar:
-- ► ekmek (I)
+- ekmek (I)
 ozellikler:
 - - isim
   - eskimiş

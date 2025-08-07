@@ -5,7 +5,7 @@ slug: deniz-tavsancili
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► balık kartalı
+- balık kartalı
 ozellikler:
 - - isim
   - hayvan bilimi

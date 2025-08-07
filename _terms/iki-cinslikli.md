@@ -5,7 +5,7 @@ slug: iki-cinslikli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iki eşeyli
+- iki eşeyli
 ozellikler:
 - - sıfat
   - biyoloji

@@ -5,7 +5,7 @@ slug: saten
 letter: S
 lisan: Fransızca satin
 anlamlar:
-- ► atlas (I)
+- atlas (I)
 - Parlak, pamuklu kumaş
 - Bu kumaştan yapılmış
 ozellikler:

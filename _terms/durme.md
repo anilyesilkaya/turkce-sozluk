@@ -6,8 +6,8 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dürmek işi
-- ► gözleme (II)
-- ► lahana
+- gözleme (II)
+- lahana
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Cenaze gereçleri satan kimse
-- ► zorba
+- zorba
 ozellikler:
 - - isim
 - - isim

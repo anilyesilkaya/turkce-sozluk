@@ -5,7 +5,7 @@ slug: debriyaj-pedali
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► debriyaj
+- debriyaj
 ozellikler:
 - - isim
 ornekler:

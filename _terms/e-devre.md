@@ -5,7 +5,7 @@ slug: e-devre
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► elektronik devre
+- elektronik devre
 ozellikler:
 - - isim
 ornekler:

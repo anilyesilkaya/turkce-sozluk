@@ -5,7 +5,7 @@ slug: dag-tavugu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► çil (I)
+- çil (I)
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: obruma
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► çökme
+- çökme
 ozellikler:
 - - isim
 ornekler:

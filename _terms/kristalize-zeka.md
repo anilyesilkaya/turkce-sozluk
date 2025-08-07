@@ -5,7 +5,7 @@ slug: kristalize-zeka
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► akışkan zekâ
+- akışkan zekâ
 ozellikler:
 - - isim
 ornekler:

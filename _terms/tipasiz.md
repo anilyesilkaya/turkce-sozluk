@@ -5,7 +5,7 @@ slug: tipasiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tapasız
+- tapasız
 ozellikler:
 - - sıfat
 ornekler:

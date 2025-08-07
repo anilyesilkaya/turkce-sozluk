@@ -5,7 +5,7 @@ slug: koy-ihtiyar-meclisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► köy ihtiyar heyeti
+- köy ihtiyar heyeti
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: giyinmek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giymek
+- giymek
 - Giysiyi belli bir yerden almak veya belli bir yerde diktirmek
 - Ağır bir söze veya davranışa, sesini çıkarmadan içerlemek
 ozellikler:

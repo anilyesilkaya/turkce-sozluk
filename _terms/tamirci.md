@@ -5,7 +5,7 @@ slug: tamirci
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► onarıcı
+- onarıcı
 - Onarım yapılan yer
 ozellikler:
 - - isim

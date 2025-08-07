@@ -5,7 +5,7 @@ slug: dalgi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► aymazlık
+- aymazlık
 ozellikler:
 - - isim
   - ağızlardan

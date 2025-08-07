@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Değişik olma durumu; başkalık
-- ► farklılık
+- farklılık
 - Bir bütünün bir bölümünün değişmesiyle ortaya çıkan yeni durum
 - Amaca uygun biçime getirmek için yapılan değiştirme; tadil
 ozellikler:

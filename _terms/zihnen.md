@@ -5,7 +5,7 @@ slug: zihnen
 letter: Z
 lisan: Arapça ẕihnen
 anlamlar:
-- ► zihince
+- zihince
 ozellikler:
 - - zarf
 ornekler:

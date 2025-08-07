@@ -6,7 +6,7 @@ letter: I
 lisan: Türkçe
 anlamlar:
 - İdare etmesini bilmeyen, gevşek, beceriksiz (kimse)
-- ► tutumsuz
+- tutumsuz
 ozellikler:
 - - sıfat
 - - sıfat

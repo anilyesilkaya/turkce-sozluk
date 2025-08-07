@@ -5,7 +5,7 @@ slug: sukreylemek
 letter: Ş
 lisan: Arapça şukr + Türkçe eylemek
 anlamlar:
-- ► şükretmek
+- şükretmek
 ozellikler:
 - - -e
 ornekler:

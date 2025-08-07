@@ -5,7 +5,7 @@ slug: ruhiyatcilik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► psikologluk
+- psikologluk
 ozellikler:
 - - isim
 ornekler:

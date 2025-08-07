@@ -5,7 +5,7 @@ slug: ad-tumcesi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ad cümlesi
+- ad cümlesi
 ozellikler:
 - - isim
   - dil bilgisi

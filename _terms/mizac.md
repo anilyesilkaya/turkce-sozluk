@@ -5,7 +5,7 @@ slug: mizac
 letter: M
 lisan: Arapça mizāc
 anlamlar:
-- ► huy
+- huy
 - İnsan vücudunun fizyolojik yapısı
 ozellikler:
 - - isim

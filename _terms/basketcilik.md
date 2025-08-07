@@ -5,7 +5,7 @@ slug: basketcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► basketbolculuk
+- basketbolculuk
 ozellikler:
 - - isim
 ornekler:

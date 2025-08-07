@@ -5,8 +5,8 @@ slug: makbuz
 letter: M
 lisan: Arapça maḳbūż
 anlamlar:
-- ► alındı
-- ► fiş
+- alındı
+- fiş
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: akillara-ziyan
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► akla zarar
+- akla zarar
 ozellikler:
 - - ünlem
 ornekler:

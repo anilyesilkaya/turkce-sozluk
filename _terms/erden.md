@@ -5,7 +5,7 @@ slug: erden
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bakire
+- bakire
 - Bakire olarak, bakire bir biçimde
 ozellikler:
 - - sıfat

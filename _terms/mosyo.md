@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca monsieur
 anlamlar:
 - Erkeklere verilen bir ünvan
-- ► bay (II)
+- bay (II)
 ozellikler:
 - - isim
 - - isim

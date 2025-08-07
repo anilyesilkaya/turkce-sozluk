@@ -5,7 +5,7 @@ slug: acul
 letter: A
 lisan: Arapça ʿacūl
 anlamlar:
-- ► aceleci
+- aceleci
 - Hızlı hareket eden
 - Aceleyle, hızlı biçimde
 ozellikler:

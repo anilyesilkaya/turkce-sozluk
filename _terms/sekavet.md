@@ -5,7 +5,7 @@ slug: sekavet
 letter: Ş
 lisan: Arapça şeḳāvet
 anlamlar:
-- ► haydutluk
+- haydutluk
 ozellikler:
 - - isim
   - eskimiş

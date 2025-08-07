@@ -5,7 +5,7 @@ slug: dunya-alem
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► herkes
+- herkes
 ozellikler:
 - - zamir
 ornekler:

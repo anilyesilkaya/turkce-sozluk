@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mulāzim
 anlamlar:
 - Bir işe girmek için bir süre parasız olarak o işe devam eden
-- ► teğmen
+- teğmen
 ozellikler:
 - - sıfat
 - - sıfat

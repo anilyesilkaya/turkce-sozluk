@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Renkli kısmı çizgi çizgi olan (göz); tahrilli
 - Kenarına çizgi çekilmiş olan
-- ► çizgili
+- çizgili
 ozellikler:
 - - sıfat
 - - sıfat

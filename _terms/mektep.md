@@ -5,7 +5,7 @@ slug: mektep
 letter: M
 lisan: Arapça mekteb
 anlamlar:
-- ► okul
+- okul
 ozellikler:
 - - isim
   - eskimiş

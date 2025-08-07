@@ -5,7 +5,7 @@ slug: yani-sira
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► birlikte
+- birlikte
 - '...nın yanında'
 ozellikler:
 - - edat

@@ -5,7 +5,7 @@ slug: rafinaj
 letter: R
 lisan: Fransızca raffinage
 anlamlar:
-- ► arıtım
+- arıtım
 ozellikler:
 - - isim
 ornekler:

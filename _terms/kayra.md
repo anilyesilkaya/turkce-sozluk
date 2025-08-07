@@ -5,7 +5,7 @@ slug: kayra
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► lütuf
+- lütuf
 ozellikler:
 - - isim
 ornekler:

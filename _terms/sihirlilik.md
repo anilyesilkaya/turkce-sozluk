@@ -5,7 +5,7 @@ slug: sihirlilik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► büyülülük
+- büyülülük
 ozellikler:
 - - isim
 ornekler:

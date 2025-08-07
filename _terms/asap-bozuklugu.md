@@ -5,7 +5,7 @@ slug: asap-bozuklugu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sinirlilik
+- sinirlilik
 ozellikler:
 - - isim
 ornekler:

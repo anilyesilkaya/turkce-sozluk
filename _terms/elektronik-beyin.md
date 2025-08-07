@@ -5,7 +5,7 @@ slug: elektronik-beyin
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► bilgisayar
+- bilgisayar
 ozellikler:
 - - isim
   - bilişim

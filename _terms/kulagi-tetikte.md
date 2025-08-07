@@ -5,7 +5,7 @@ slug: kulagi-tetikte
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kulağı kirişte
+- kulağı kirişte
 ozellikler:
 - - sıfat
   - mecaz

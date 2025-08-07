@@ -5,7 +5,7 @@ slug: azar-azar
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yavaş yavaş
+- yavaş yavaş
 - Küçük ölçülerde; az az, damla damla, gıdım gıdım, ucun ucun, yudum yudum
 ozellikler:
 - - zarf

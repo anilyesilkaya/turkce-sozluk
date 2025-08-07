@@ -5,7 +5,7 @@ slug: cevza
 letter: C
 lisan: Arapça cevzā
 anlamlar:
-- ► İkizler Burcu
+- İkizler Burcu
 ozellikler:
 - - isim
   - eskimiş

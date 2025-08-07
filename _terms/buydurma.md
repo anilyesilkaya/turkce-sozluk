@@ -5,7 +5,7 @@ slug: buydurma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dondurma
+- dondurma
 ozellikler:
 - - isim
 ornekler:

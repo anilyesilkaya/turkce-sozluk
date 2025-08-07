@@ -5,7 +5,7 @@ slug: endiselenmek
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kaygılanmak
+- kaygılanmak
 ozellikler:
 - - nesnesiz
 ornekler:

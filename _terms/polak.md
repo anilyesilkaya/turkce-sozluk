@@ -5,7 +5,7 @@ slug: polak
 letter: P
 lisan: Fransızca Polaque
 anlamlar:
-- ► Polonyalı
+- Polonyalı
 ozellikler:
 - - isim
 ornekler:

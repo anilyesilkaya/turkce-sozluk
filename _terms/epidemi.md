@@ -5,7 +5,7 @@ slug: epidemi
 letter: E
 lisan: Fransızca épidémie
 anlamlar:
-- ► salgın
+- salgın
 ozellikler:
 - - isim
   - tıp

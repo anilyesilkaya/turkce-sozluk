@@ -5,7 +5,7 @@ slug: okuz-kafalilik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► kalın kafalılık
+- kalın kafalılık
 ozellikler:
 - - isim
 ornekler:

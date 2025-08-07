@@ -5,7 +5,7 @@ slug: kokak-agac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kokar ağaç
+- kokar ağaç
 ozellikler:
 - - isim
   - bitki bilimi

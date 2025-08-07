@@ -5,7 +5,7 @@ slug: payen
 letter: P
 lisan: Fransızca païen
 anlamlar:
-- ► çok tanrıcı
+- çok tanrıcı
 ozellikler:
 - - sıfat
   - din bilimi

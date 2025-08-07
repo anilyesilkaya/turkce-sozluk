@@ -5,7 +5,7 @@ slug: kaplanbogan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurtboğan
+- kurtboğan
 ozellikler:
 - - isim
   - bitki bilimi

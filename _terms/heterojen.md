@@ -5,7 +5,7 @@ slug: heterojen
 letter: H
 lisan: Fransızca hétérogène
 anlamlar:
-- ► ayrışık
+- ayrışık
 ozellikler:
 - - sıfat
   - kimya

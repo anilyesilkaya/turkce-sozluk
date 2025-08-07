@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça maṣṣ + Türkçe etmek
 anlamlar:
 - Emmek, içine çekmek
-- ► soğurmak
+- soğurmak
 ozellikler:
 - - -i
   - eskimiş

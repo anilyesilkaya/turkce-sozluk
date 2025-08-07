@@ -5,7 +5,7 @@ slug: iktisap
 letter: I
 lisan: Arapça iktisāb
 anlamlar:
-- ► edinme
+- edinme
 ozellikler:
 - - isim
   - eskimiş

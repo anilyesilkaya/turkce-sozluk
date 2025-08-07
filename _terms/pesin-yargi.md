@@ -5,7 +5,7 @@ slug: pesin-yargi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► ön yargı
+- ön yargı
 ozellikler:
 - - isim
 ornekler:

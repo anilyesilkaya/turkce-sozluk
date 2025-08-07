@@ -5,7 +5,7 @@ slug: iskambil
 letter: I
 lisan: (Briscambille özel adından)
 anlamlar:
-- ► iskambil kâğıdı
+- iskambil kâğıdı
 - Bu kâğıt destesiyle oynanan oyun
 ozellikler:
 - - ''

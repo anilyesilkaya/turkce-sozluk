@@ -5,7 +5,7 @@ slug: yasasin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yaşa, kahrolsun karşıtı
+- yaşa, kahrolsun karşıtı
 ozellikler:
 - - ünlem
 ornekler:

@@ -5,7 +5,7 @@ slug: itilaf
 letter: I
 lisan: Arapça iʾtilāf
 anlamlar:
-- ► anlaşma
+- anlaşma
 ozellikler:
 - - isim
   - eskimiş

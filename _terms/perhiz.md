@@ -5,7 +5,7 @@ slug: perhiz
 letter: P
 lisan: Farsça perhīz
 anlamlar:
-- ► diyet (II)
+- diyet (II)
 - Hristiyanların ve Yahudilerin belli günlerde et, yağ vb. yiyecekleri yemeden tuttukları oruç
 - İnsanı Allah’tan uzaklaştıracak şeylerden uzak durma
 ozellikler:

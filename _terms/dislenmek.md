@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Dişleme işine konu olmak, dişle ısırılmak
-- ► tanelenmek
+- tanelenmek
 - Güçlenmek, dediğini yaptırır olmak
 ozellikler:
 - - nesnesiz

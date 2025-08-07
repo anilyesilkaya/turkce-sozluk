@@ -5,7 +5,7 @@ slug: engin-gonullu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► alçak gönüllü
+- alçak gönüllü
 - Alçak gönüllü olarak
 ozellikler:
 - - sıfat

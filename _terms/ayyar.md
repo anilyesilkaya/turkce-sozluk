@@ -5,7 +5,7 @@ slug: ayyar
 letter: A
 lisan: Arapça ʿayyār
 anlamlar:
-- ► dolandırıcı
+- dolandırıcı
 ozellikler:
 - - sıfat
   - eskimiş

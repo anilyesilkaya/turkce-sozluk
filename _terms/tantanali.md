@@ -5,7 +5,7 @@ slug: tantanali
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► görkemli
+- görkemli
 - Gürültülü, patırtılı olan
 ozellikler:
 - - sıfat

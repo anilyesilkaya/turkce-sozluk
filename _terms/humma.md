@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥummā
 anlamlar:
 - Hastalıkla gelen şiddetli ateş
-- ► sıtma nöbeti
+- sıtma nöbeti
 ozellikler:
 - - isim
   - tıp

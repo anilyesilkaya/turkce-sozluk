@@ -5,7 +5,7 @@ slug: jakobenizm
 letter: J
 lisan: Fransızca jacobinisme
 anlamlar:
-- ► tepeden inmecilik
+- tepeden inmecilik
 ozellikler:
 - - isim
 ornekler:

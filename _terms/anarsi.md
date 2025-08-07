@@ -5,7 +5,7 @@ slug: anarsi
 letter: A
 lisan: Fransızca anarchie
 anlamlar:
-- ► kargaşa
+- kargaşa
 - Devlet otoritesinin zayıflayıp hükmünü kaybetmesi yüzünden meydana gelen düzensizlik
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde bal bulunan
-- ► şanslı
+- şanslı
 ozellikler:
 - - sıfat
 - - sıfat

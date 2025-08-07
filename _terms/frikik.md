@@ -5,7 +5,7 @@ slug: frikik
 letter: F
 lisan: İngilizce free-kick
 anlamlar:
-- ► serbest vuruş
+- serbest vuruş
 - Giysinin kazara açılmasıyla göğüs veya bacağın görünmesi
 ozellikler:
 - - isim

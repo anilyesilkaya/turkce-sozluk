@@ -5,7 +5,7 @@ slug: ilave-cizgisi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ek çizgisi
+- ek çizgisi
 ozellikler:
 - - isim
   - müzik

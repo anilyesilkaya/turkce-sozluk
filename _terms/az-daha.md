@@ -5,7 +5,7 @@ slug: az-daha
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► neredeyse
+- neredeyse
 ozellikler:
 - - zarf
 ornekler:

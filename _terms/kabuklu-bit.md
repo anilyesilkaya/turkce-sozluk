@@ -5,7 +5,7 @@ slug: kabuklu-bit
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koşnil
+- koşnil
 ozellikler:
 - - isim
   - hayvan bilimi

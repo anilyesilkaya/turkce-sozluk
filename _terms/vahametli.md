@@ -5,7 +5,7 @@ slug: vahametli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vahim
+- vahim
 ozellikler:
 - - sıfat
 ornekler:

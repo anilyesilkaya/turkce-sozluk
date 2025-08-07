@@ -5,7 +5,7 @@ slug: metanet
 letter: M
 lisan: Arapça metānet
 anlamlar:
-- ► dayanma
+- dayanma
 ozellikler:
 - - isim
 ornekler:

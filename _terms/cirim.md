@@ -5,7 +5,7 @@ slug: cirim
 letter: C
 lisan: Arapça cirm
 anlamlar:
-- ► hacim
+- hacim
 ozellikler:
 - - isim
   - eskimiş

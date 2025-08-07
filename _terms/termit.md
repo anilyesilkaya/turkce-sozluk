@@ -5,7 +5,7 @@ slug: termit
 letter: T
 lisan: Fransızca termite
 anlamlar:
-- ► akkarınca
+- akkarınca
 ozellikler:
 - - isim
   - hayvan bilimi

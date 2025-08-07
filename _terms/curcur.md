@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Lapina familyasından, eti pek sevilmeyen, küçük bir deniz balığı (Crenilabrus)
-- ► önemsiz
+- önemsiz
 ozellikler:
 - - isim
   - hayvan bilimi

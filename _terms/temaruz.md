@@ -5,7 +5,7 @@ slug: temaruz
 letter: T
 lisan: Arapça temāruż
 anlamlar:
-- ► sayrımsama
+- sayrımsama
 ozellikler:
 - - isim
   - eskimiş

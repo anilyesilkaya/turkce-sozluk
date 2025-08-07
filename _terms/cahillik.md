@@ -5,7 +5,7 @@ slug: cahillik
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► bilgisizlik
+- bilgisizlik
 - Genç, toy, deneyimsiz olma durumu
 - Gençlik, toyluk, deneyimsizlik yüzünden işlenen kusur
 ozellikler:

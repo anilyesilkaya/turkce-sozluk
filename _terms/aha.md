@@ -5,7 +5,7 @@ slug: aha
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► işte
+- işte
 ozellikler:
 - - ünlem
   - ağızlardan

@@ -5,7 +5,7 @@ slug: hisset
 letter: H
 lisan: Arapça ḫisset
 anlamlar:
-- ► cimrilik
+- cimrilik
 ozellikler:
 - - isim
   - eskimiş

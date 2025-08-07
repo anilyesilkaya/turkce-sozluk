@@ -7,7 +7,7 @@ lisan: Arapça ānī
 anlamlar:
 - Ansızın yapılan
 - Ansızın ortaya çıkan
-- ► ansızın
+- ansızın
 ozellikler:
 - - sıfat
 - - sıfat

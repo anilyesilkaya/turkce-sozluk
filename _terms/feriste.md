@@ -5,7 +5,7 @@ slug: feriste
 letter: F
 lisan: Farsça firişte
 anlamlar:
-- ► melek
+- melek
 ozellikler:
 - - isim
   - eskimiş

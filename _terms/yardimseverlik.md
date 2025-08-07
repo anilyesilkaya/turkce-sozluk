@@ -5,7 +5,7 @@ slug: yardimseverlik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayırseverlik
+- hayırseverlik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: ustacasina
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► ustaca
+- ustaca
 ozellikler:
 - - zarf
 ornekler:

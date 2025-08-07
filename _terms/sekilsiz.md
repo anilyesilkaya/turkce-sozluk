@@ -5,7 +5,7 @@ slug: sekilsiz
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► biçimsiz
+- biçimsiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Karşılıklı atılan silahların sesi
-- ► kuru gürültü
+- kuru gürültü
 ozellikler:
 - - isim
 - - isim

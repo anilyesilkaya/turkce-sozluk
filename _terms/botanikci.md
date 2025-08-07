@@ -5,7 +5,7 @@ slug: botanikci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bitki bilimci
+- bitki bilimci
 ozellikler:
 - - isim
 ornekler:

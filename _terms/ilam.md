@@ -5,7 +5,7 @@ slug: ilam
 letter: I
 lisan: Arapça iʿlām
 anlamlar:
-- ► bildirme
+- bildirme
 - Bir davanın mahkemece nasıl bir hükme bağlandığını gösteren resmî belge
 ozellikler:
 - - isim

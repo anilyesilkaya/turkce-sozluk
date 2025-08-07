@@ -5,9 +5,9 @@ slug: irat
 letter: I
 lisan: Arapça īrād
 anlamlar:
-- ► gelir
+- gelir
 - Gelir getiren mülk
-- ► söyleme
+- söyleme
 ozellikler:
 - - isim
 - - isim

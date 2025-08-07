@@ -6,8 +6,8 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Muktedir olmama durumu
-- ► nüfuzsuzluk
-- ► başsızlık
+- nüfuzsuzluk
+- başsızlık
 ozellikler:
 - - isim
 - - isim

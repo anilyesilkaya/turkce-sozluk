@@ -5,7 +5,7 @@ slug: sag-esen
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sağlıkla
+- sağlıkla
 ozellikler:
 - - zarf
 ornekler:

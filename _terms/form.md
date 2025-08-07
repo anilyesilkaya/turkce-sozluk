@@ -5,7 +5,7 @@ slug: form
 letter: F
 lisan: Fransızca forme
 anlamlar:
-- ► biçim (II)
+- biçim (II)
 - Bir şeyin istenilen ve olması gereken durumu
 - İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge
 ozellikler:

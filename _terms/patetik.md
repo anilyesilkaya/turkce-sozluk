@@ -5,7 +5,7 @@ slug: patetik
 letter: P
 lisan: Fransızca pathétique
 anlamlar:
-- ► etkili
+- etkili
 ozellikler:
 - - sıfat
 ornekler:

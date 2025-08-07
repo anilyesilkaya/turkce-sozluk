@@ -5,7 +5,7 @@ slug: katci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kat görevlisi
+- kat görevlisi
 ozellikler:
 - - isim
 ornekler:

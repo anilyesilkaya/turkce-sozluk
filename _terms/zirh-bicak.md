@@ -5,7 +5,7 @@ slug: zirh-bicak
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zırh (II)
+- zırh (II)
 ozellikler:
 - - isim
 ornekler:

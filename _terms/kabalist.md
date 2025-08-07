@@ -5,7 +5,7 @@ slug: kabalist
 letter: K
 lisan: Fransızca cabaliste
 anlamlar:
-- ► kabalacı (I)
+- kabalacı (I)
 ozellikler:
 - - isim
   - din bilimi

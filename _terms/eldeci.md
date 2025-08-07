@@ -5,7 +5,7 @@ slug: eldeci
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► zilyet
+- zilyet
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: hirsizlamak
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► çalmak
+- çalmak
 ozellikler:
 - - -i
 ornekler:

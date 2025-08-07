@@ -5,7 +5,7 @@ slug: icgudulu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içgüdüsel
+- içgüdüsel
 ozellikler:
 - - sıfat
 ornekler:

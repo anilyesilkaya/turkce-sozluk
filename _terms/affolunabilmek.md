@@ -5,7 +5,7 @@ slug: affolunabilmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bağışlanabilmek
+- bağışlanabilmek
 ozellikler:
 - - nesnesiz
 ornekler:

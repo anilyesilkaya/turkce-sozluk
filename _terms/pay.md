@@ -9,7 +9,7 @@ anlamlar:
 - Eşit bölüm
 - Ticari bir işlemde zarar tehlikesine karşı ayrılan para; marj
 - Bayağı kesirlerden birinin eşit parçalardan kaç tane aldığını gösteren sayı
-- ► katkı
+- katkı
 ozellikler:
 - - isim
 - - isim

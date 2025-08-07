@@ -5,7 +5,7 @@ slug: parlamentarizm
 letter: P
 lisan: Fransızca parlementarisme
 anlamlar:
-- ► parlamenter sistem
+- parlamenter sistem
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: partenogenez
 letter: P
 lisan: Fransızca parthénogenése
 anlamlar:
-- ► döllenmesiz üreme
+- döllenmesiz üreme
 ozellikler:
 - - isim
   - biyoloji

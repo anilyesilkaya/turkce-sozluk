@@ -5,7 +5,7 @@ slug: dibace
 letter: D
 lisan: Arapça dībāce
 anlamlar:
-- ► ön söz
+- ön söz
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kosum-takimi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koşum
+- koşum
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: sogrumsama
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yüze soğurma
+- yüze soğurma
 ozellikler:
 - - isim
   - kimya

@@ -5,8 +5,8 @@ slug: iktiza
 letter: I
 lisan: Arapça iḳtiżā
 anlamlar:
-- ► gereklik
-- ► gerekme
+- gereklik
+- gerekme
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: kurlagan
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► etyaran
+- etyaran
 ozellikler:
 - - isim
   - tıp

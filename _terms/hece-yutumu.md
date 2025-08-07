@@ -5,7 +5,7 @@ slug: hece-yutumu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hece tekleşmesi
+- hece tekleşmesi
 ozellikler:
 - - isim
   - dil bilgisi

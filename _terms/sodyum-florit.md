@@ -5,7 +5,7 @@ slug: sodyum-florit
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sodyum florür
+- sodyum florür
 ozellikler:
 - - isim
   - kimya

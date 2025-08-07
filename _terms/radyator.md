@@ -7,7 +7,7 @@ lisan: Fransızca radiateur
 anlamlar:
 - Hava, su veya buharı ısıtmak veya soğutmak suretiyle meydana gelen sıcaklığı veya soğukluğu yayan, böylece ısıtma ve soğutmada kullanılan cihaz
 - Bağlı bulunduğu motordaki ısı derecesinin yükselmesini önleyen soğutucu
-- ► petek
+- petek
 ozellikler:
 - - isim
 - - isim

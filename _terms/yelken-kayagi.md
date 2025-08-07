@@ -5,7 +5,7 @@ slug: yelken-kayagi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► sörf
+- sörf
 ozellikler:
 - - isim
 ornekler:

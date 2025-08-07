@@ -5,7 +5,7 @@ slug: sohretlilik
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► ünlülük
+- ünlülük
 ozellikler:
 - - isim
 ornekler:

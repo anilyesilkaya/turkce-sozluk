@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Esrimek işi; gaşiy, gaşyolma
-- ► vect
+- vect
 ozellikler:
 - - isim
 - - isim

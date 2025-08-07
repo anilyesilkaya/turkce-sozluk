@@ -5,7 +5,7 @@ slug: muzevir
 letter: M
 lisan: Arapça muzevvir
 anlamlar:
-- ► arabozan
+- arabozan
 ozellikler:
 - - sıfat
 ornekler:

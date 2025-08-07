@@ -5,7 +5,7 @@ slug: tecim
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ticaret
+- ticaret
 ozellikler:
 - - isim
   - eskimiş

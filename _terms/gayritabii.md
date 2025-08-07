@@ -5,8 +5,8 @@ slug: gayritabii
 letter: G
 lisan: Arapça ġayr + ṭabīʿī
 anlamlar:
-- ► sıra dışı
-- ► doğa dışı
+- sıra dışı
+- doğa dışı
 - Acayip bir biçimde
 ozellikler:
 - - sıfat

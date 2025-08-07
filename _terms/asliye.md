@@ -5,7 +5,7 @@ slug: asliye
 letter: A
 lisan: Arapça aṣliyye
 anlamlar:
-- ► esas
+- esas
 ozellikler:
 - - isim
   - eskimiş

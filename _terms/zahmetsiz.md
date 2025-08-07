@@ -5,7 +5,7 @@ slug: zahmetsiz
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► eziyetsiz
+- eziyetsiz
 - Sıkıntı çekmeden, güçlükle karşılaşmadan
 ozellikler:
 - - sıfat

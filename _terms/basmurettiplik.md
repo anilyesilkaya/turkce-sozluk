@@ -5,7 +5,7 @@ slug: basmurettiplik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başdizgicilik
+- başdizgicilik
 ozellikler:
 - - isim
 ornekler:

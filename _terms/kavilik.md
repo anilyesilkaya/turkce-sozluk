@@ -5,7 +5,7 @@ slug: kavilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► sağlamlık
+- sağlamlık
 ozellikler:
 - - isim
 ornekler:

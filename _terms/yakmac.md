@@ -5,7 +5,7 @@ slug: yakmac
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► brülör
+- brülör
 ozellikler:
 - - isim
   - teknik

@@ -5,7 +5,7 @@ slug: supruntuluk
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► çöplük
+- çöplük
 ozellikler:
 - - isim
 ornekler:

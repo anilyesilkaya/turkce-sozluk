@@ -5,7 +5,7 @@ slug: serhat
 letter: S
 lisan: Farsça ser + Arapça ḥadd
 anlamlar:
-- ► sınır boyu
+- sınır boyu
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: menafiiumumiye
 letter: M
 lisan: Arapça menāfiʿ + ʿumūmiyye
 anlamlar:
-- ► kamu yararı
+- kamu yararı
 ozellikler:
 - - isim
   - hukuk

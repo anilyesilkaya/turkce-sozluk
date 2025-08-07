@@ -5,7 +5,7 @@ slug: rehabilite
 letter: R
 lisan: Fransızca réhabilite
 anlamlar:
-- ► iyileştirme
+- iyileştirme
 ozellikler:
 - - isim
 ornekler:

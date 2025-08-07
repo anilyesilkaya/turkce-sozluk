@@ -5,7 +5,7 @@ slug: cazbantci
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► cazcı
+- cazcı
 ozellikler:
 - - isim
 ornekler:

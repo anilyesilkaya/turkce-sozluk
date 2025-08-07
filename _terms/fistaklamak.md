@@ -5,7 +5,7 @@ slug: fistaklamak
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► fişteklemek
+- fişteklemek
 ozellikler:
 - - -i
 ornekler:

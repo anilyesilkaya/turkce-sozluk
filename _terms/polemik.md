@@ -5,8 +5,8 @@ slug: polemik
 letter: P
 lisan: Fransızca polémique
 anlamlar:
-- ► söz dalaşı
-- ► kalem kavgası
+- söz dalaşı
+- kalem kavgası
 ozellikler:
 - - isim
 - - isim

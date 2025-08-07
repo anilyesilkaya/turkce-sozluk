@@ -5,7 +5,7 @@ slug: buz-serabi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► buz ışığı
+- buz ışığı
 ozellikler:
 - - isim
   - denizcilik

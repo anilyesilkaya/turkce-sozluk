@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Masallarda geçen, kılıksız, saçı başı karmakarışık kadın
-- ► alkarısı
+- alkarısı
 ozellikler:
 - - isim
   - mecaz

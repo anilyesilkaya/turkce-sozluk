@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kılçığı olmayan
-- ► pürüzsüz
+- pürüzsüz
 ozellikler:
 - - sıfat
 - - sıfat

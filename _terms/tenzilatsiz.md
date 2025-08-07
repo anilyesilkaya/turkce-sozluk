@@ -5,7 +5,7 @@ slug: tenzilatsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► indirimsiz
+- indirimsiz
 ozellikler:
 - - sıfat
 ornekler:

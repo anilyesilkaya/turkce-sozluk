@@ -6,7 +6,7 @@ letter: A
 lisan: Fransızca arythmique
 anlamlar:
 - Ritimli olmayan
-- ► düzensiz
+- düzensiz
 ozellikler:
 - - sıfat
 - - sıfat

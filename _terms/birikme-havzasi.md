@@ -5,7 +5,7 @@ slug: birikme-havzasi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► birikim alanı
+- birikim alanı
 ozellikler:
 - - isim
   - coğrafya

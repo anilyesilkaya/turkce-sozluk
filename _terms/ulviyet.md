@@ -5,7 +5,7 @@ slug: ulviyet
 letter: U
 lisan: Arapça ʿulviyyet
 anlamlar:
-- ► yücelik
+- yücelik
 ozellikler:
 - - isim
   - eskimiş

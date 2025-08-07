@@ -5,7 +5,7 @@ slug: milim
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► milimetre
+- milimetre
 - En küçük veya en az miktarda
 ozellikler:
 - - isim

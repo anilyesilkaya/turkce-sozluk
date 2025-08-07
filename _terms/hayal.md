@@ -7,8 +7,8 @@ lisan: Arapça ḫayāl
 anlamlar:
 - Zihinde tasarlanan, canlandırılan ve gerçekleşmesi özlenen şey; imge, hülya
 - Belli belirsiz görülen şey; gölge
-- ► görüntü
-- ► imge
+- görüntü
+- imge
 - Aydınlatılan bir perde arkasında deri veya kartondan yapılmış, hareket edebilen resimler ve bunlarla oynatılan oyun
 ozellikler:
 - - isim

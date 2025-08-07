@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Ağmak işi
-- ► akan yıldız
+- akan yıldız
 ozellikler:
 - - isim
 - - isim

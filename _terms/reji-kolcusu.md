@@ -5,7 +5,7 @@ slug: reji-kolcusu
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► tütün kolcusu
+- tütün kolcusu
 ozellikler:
 - - isim
 ornekler:

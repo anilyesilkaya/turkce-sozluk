@@ -5,7 +5,7 @@ slug: acil-ihtiyac-kredisi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► artı para
+- artı para
 - Bankalar tarafından müşterilerine acil durumlar için kullandırılan kredi
 ozellikler:
 - - isim

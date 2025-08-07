@@ -5,7 +5,7 @@ slug: tarti
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► ağırlık
+- ağırlık
 - Tartma aleti; çeki, vezin
 - Oran, ölçü, karar
 - Yelkenleri indirip kaldırmaya yarayan ip

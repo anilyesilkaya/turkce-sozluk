@@ -5,7 +5,7 @@ slug: munasebet
 letter: M
 lisan: Arapça munāsebet
 anlamlar:
-- ► ilişki
+- ilişki
 - İki şey arasındaki uygunluk
 - Sebep, vesile, gerekçe, neden
 ozellikler:

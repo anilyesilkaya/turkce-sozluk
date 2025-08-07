@@ -5,7 +5,7 @@ slug: dijital-kutuphane
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► elektronik kütüphane
+- elektronik kütüphane
 ozellikler:
 - - isim
 ornekler:

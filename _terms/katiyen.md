@@ -5,8 +5,8 @@ slug: katiyen
 letter: K
 lisan: Arapça ḳaṭʿiyyen
 anlamlar:
-- ► asla
-- ► kesinlikle
+- asla
+- kesinlikle
 ozellikler:
 - - zarf
 - - zarf

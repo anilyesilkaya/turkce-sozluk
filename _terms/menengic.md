@@ -5,7 +5,7 @@ slug: menengic
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► çitlembik
+- çitlembik
 ozellikler:
 - - isim
   - ağızlardan

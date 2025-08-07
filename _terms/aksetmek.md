@@ -5,8 +5,8 @@ slug: aksetmek
 letter: A
 lisan: Arapça ʿaks + Türkçe etmek
 anlamlar:
-- ► yansımak
-- ► yankılanmak
+- yansımak
+- yankılanmak
 - Birileri aracılığıyla duyulmak
 ozellikler:
 - - -e

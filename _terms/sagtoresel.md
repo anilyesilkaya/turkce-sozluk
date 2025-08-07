@@ -5,7 +5,7 @@ slug: sagtoresel
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► ahlaki
+- ahlaki
 ozellikler:
 - - sıfat
 ornekler:

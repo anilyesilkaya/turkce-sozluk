@@ -5,8 +5,8 @@ slug: mahsul
 letter: M
 lisan: Arapça maḥṣūl
 anlamlar:
-- ► ürün
-- ► verim
+- ürün
+- verim
 - Ortaya çıkan, elde edilen şey
 ozellikler:
 - - isim

@@ -6,7 +6,7 @@ letter: F
 lisan: Türkçe
 anlamlar:
 - Fahri olma durumu
-- ► onursallık
+- onursallık
 ozellikler:
 - - isim
 - - isim

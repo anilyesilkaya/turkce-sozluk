@@ -5,7 +5,7 @@ slug: kamer
 letter: K
 lisan: Arapça ḳamer
 anlamlar:
-- ► Ay
+- Ay
 ozellikler:
 - - isim
   - eskimiş

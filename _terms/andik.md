@@ -5,7 +5,7 @@ slug: andik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sırtlan
+- sırtlan
 ozellikler:
 - - isim
   - ağızlardan

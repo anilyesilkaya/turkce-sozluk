@@ -5,7 +5,7 @@ slug: promiyer
 letter: P
 lisan: Fransızca première
 anlamlar:
-- ► ilk gösteri
+- ilk gösteri
 ozellikler:
 - - isim
   - tiyatro

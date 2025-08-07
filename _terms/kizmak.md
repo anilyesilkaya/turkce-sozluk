@@ -8,7 +8,7 @@ anlamlar:
 - Isıtılan veya ısınan bir nesnenin sıcaklığı çok artmak
 - At, eşek vb. hayvanlar çiftleşmek istemek, kösnümek
 - Dişi kuşlar zamanı gelip kuluçkaya yatma isteği göstermek
-- ► öfkelenmek
+- öfkelenmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

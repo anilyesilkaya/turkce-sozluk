@@ -5,7 +5,7 @@ slug: omur-boyunca
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ömür boyu
+- ömür boyu
 ozellikler:
 - - zarf
 ornekler:

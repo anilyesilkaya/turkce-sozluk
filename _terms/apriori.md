@@ -5,7 +5,7 @@ slug: apriori
 letter: A
 lisan: Fransızca à priori
 anlamlar:
-- ► önsel
+- önsel
 ozellikler:
 - - sıfat
   - felsefe

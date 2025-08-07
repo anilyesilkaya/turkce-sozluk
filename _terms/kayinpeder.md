@@ -5,7 +5,7 @@ slug: kayinpeder
 letter: K
 lisan: Türkçe kayın + Farsça peder
 anlamlar:
-- ► kaynata
+- kaynata
 ozellikler:
 - - isim
 ornekler:

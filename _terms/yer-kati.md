@@ -5,7 +5,7 @@ slug: yer-kati
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► giriş katı
+- giriş katı
 ozellikler:
 - - isim
 ornekler:

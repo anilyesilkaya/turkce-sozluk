@@ -5,7 +5,7 @@ slug: vakit-kaybetmeden
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: umarsizlik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► çaresizlik
+- çaresizlik
 ozellikler:
 - - isim
 ornekler:

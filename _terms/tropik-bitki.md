@@ -5,7 +5,7 @@ slug: tropik-bitki
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tropikal bitki
+- tropikal bitki
 ozellikler:
 - - isim
   - bitki bilimi

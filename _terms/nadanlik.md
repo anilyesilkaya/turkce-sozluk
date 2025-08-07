@@ -5,7 +5,7 @@ slug: nadanlik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nobranlık
+- nobranlık
 ozellikler:
 - - ''
 ornekler:

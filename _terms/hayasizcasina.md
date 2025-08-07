@@ -5,7 +5,7 @@ slug: hayasizcasina
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayâsızca
+- hayâsızca
 ozellikler:
 - - zarf
 ornekler:

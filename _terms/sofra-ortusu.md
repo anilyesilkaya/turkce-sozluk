@@ -5,7 +5,7 @@ slug: sofra-ortusu
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sofra bezi
+- sofra bezi
 ozellikler:
 - - isim
 ornekler:

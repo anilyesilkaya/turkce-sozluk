@@ -5,7 +5,7 @@ slug: bilegisiz
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bileysiz
+- bileysiz
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: zilgit
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► azarlama
+- azarlama
 - Güneydoğu Anadolu Bölgesi'nin bazı yerlerinde genellikle düğünlerde eğlenmek amacıyla dili ağız içinde değişik bir biçimde oynatarak ahenkli bir ses çıkarma
 ozellikler:
 - - isim

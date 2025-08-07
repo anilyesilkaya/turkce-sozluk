@@ -5,7 +5,7 @@ slug: ananecilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gelenekçilik
+- gelenekçilik
 ozellikler:
 - - isim
 ornekler:

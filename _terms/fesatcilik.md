@@ -5,7 +5,7 @@ slug: fesatcilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► arabozanlık
+- arabozanlık
 ozellikler:
 - - isim
 ornekler:

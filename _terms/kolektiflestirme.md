@@ -5,7 +5,7 @@ slug: kolektiflestirme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ortaklaştırma
+- ortaklaştırma
 ozellikler:
 - - isim
 ornekler:

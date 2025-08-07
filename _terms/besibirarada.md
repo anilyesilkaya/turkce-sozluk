@@ -5,7 +5,7 @@ slug: besibirarada
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beşibirlik
+- beşibirlik
 ozellikler:
 - - isim
 ornekler:

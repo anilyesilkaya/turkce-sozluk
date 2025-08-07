@@ -5,7 +5,7 @@ slug: anamnezi
 letter: A
 lisan: Fransızca anamnèsie
 anlamlar:
-- ► anamnez
+- anamnez
 ozellikler:
 - - isim
   - tıp

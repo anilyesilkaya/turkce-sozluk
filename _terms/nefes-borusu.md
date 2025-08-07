@@ -5,7 +5,7 @@ slug: nefes-borusu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► soluk borusu
+- soluk borusu
 ozellikler:
 - - isim
   - anatomi

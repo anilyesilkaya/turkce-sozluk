@@ -5,7 +5,7 @@ slug: degimli
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► liyakatli
+- liyakatli
 ozellikler:
 - - sıfat
 ornekler:

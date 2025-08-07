@@ -5,7 +5,7 @@ slug: manca
 letter: M
 lisan: İtalyanca mangia
 anlamlar:
-- ► yemek (I)
+- yemek (I)
 - Kedi, köpek yiyeceği
 ozellikler:
 - - isim

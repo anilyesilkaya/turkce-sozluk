@@ -5,7 +5,7 @@ slug: agartilis
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlatılış
+- beyazlatılış
 ozellikler:
 - - isim
 ornekler:

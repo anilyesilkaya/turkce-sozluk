@@ -5,7 +5,7 @@ slug: suurlu
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► bilinçli
+- bilinçli
 ozellikler:
 - - sıfat
 ornekler:

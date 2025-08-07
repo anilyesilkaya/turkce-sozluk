@@ -5,7 +5,7 @@ slug: yapakcilik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yapağıcılık
+- yapağıcılık
 ozellikler:
 - - isim
 ornekler:

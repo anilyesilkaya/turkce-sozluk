@@ -5,7 +5,7 @@ slug: kestirim
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tahmin
+- tahmin
 ozellikler:
 - - isim
 ornekler:

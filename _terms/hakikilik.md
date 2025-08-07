@@ -5,7 +5,7 @@ slug: hakikilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► gerçeklik
+- gerçeklik
 - Hakiki olma durumu
 ozellikler:
 - - isim

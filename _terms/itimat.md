@@ -5,7 +5,7 @@ slug: itimat
 letter: I
 lisan: Arapça iʿtimād
 anlamlar:
-- ► güven
+- güven
 ozellikler:
 - - isim
 ornekler:

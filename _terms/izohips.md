@@ -5,7 +5,7 @@ slug: izohips
 letter: I
 lisan: Fransızca isohypse
 anlamlar:
-- ► eş yükselti
+- eş yükselti
 ozellikler:
 - - isim
   - coğrafya

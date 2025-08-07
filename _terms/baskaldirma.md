@@ -5,7 +5,7 @@ slug: baskaldirma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkaldırı
+- başkaldırı
 ozellikler:
 - - isim
 ornekler:

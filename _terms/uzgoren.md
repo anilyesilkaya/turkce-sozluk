@@ -5,7 +5,7 @@ slug: uzgoren
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzgörür
+- uzgörür
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: acik-bolge
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► serbest bölge
+- serbest bölge
 ozellikler:
 - - isim
   - ekonomi

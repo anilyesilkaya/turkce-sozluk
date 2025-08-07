@@ -5,7 +5,7 @@ slug: naniaziz
 letter: N
 lisan: Farsça nān + Arapça ʿazīz
 anlamlar:
-- ► ekmek (I)
+- ekmek (I)
 ozellikler:
 - - isim
   - eskimiş

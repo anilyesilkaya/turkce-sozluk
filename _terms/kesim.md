@@ -12,7 +12,7 @@ anlamlar:
 - İşaretlenmiş belli yer
 - Terzinin belli bir ölçü ve örneğe göre kumaşa biçim verme işi; fason
 - Hazineye ait herhangi bir gelirin belli bir bedel karşılığı keseneğe verilmesi; mukataa
-- ► boy bos
+- boy bos
 - Ödenecek miktarı belirleme, alışverişte anlaşma
 ozellikler:
 - - isim

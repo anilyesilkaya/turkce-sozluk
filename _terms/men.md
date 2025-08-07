@@ -5,7 +5,7 @@ slug: men
 letter: M
 lisan: Arapça menʿ
 anlamlar:
-- ► yasaklama
+- yasaklama
 - Engel olma
 ozellikler:
 - - isim

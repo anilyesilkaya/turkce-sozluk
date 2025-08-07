@@ -5,8 +5,8 @@ slug: enformasyon
 letter: E
 lisan: Fransızca information
 anlamlar:
-- ► danışma
-- ► haberleşme
+- danışma
+- haberleşme
 ozellikler:
 - - isim
 - - isim

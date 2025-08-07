@@ -5,7 +5,7 @@ slug: pusurukluk
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pısırıklık
+- pısırıklık
 ozellikler:
 - - isim
 ornekler:

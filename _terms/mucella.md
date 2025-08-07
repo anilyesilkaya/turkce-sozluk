@@ -5,7 +5,7 @@ slug: mucella
 letter: M
 lisan: Arapça mucellā
 anlamlar:
-- ► cilalı
+- cilalı
 ozellikler:
 - - sıfat
   - eskimiş

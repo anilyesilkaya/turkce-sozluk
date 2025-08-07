@@ -5,7 +5,7 @@ slug: imtiyazli
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ayrıcalıklı
+- ayrıcalıklı
 ozellikler:
 - - sıfat
 ornekler:

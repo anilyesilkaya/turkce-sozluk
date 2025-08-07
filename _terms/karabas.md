@@ -5,9 +5,9 @@ slug: karabas
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► çoban köpeği
+- çoban köpeği
 - Bir hücreli özel bir asalağın, hindinin karaciğerine yerleşerek yaptığı, büyük ölçüde ölümlere yol açan kümes hastalığı
-- ► rahip
+- rahip
 - Evlenmemiş, evlenmek istemeyen erkek
 - Ballıbabagillerden, çiçekleri mavi veya menekşe renginde başakçıklar durumunda olan güzel kokulu bir bitki (Lavandula stoechas)
 - Kışa dayanıklı sert buğday

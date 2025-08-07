@@ -5,7 +5,7 @@ slug: kalemsor
 letter: K
 lisan: Arapça ḳalem + Farsça -şor
 anlamlar:
-- ► kalem savaşçısı
+- kalem savaşçısı
 ozellikler:
 - - isim
   - alay yollu

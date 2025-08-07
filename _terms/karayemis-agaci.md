@@ -5,7 +5,7 @@ slug: karayemis-agaci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► taflan
+- taflan
 ozellikler:
 - - isim
   - bitki bilimi

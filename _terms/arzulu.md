@@ -5,7 +5,7 @@ slug: arzulu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istekli
+- istekli
 ozellikler:
 - - sıfat
 ornekler:

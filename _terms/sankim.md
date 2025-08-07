@@ -5,7 +5,7 @@ slug: sankim
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sanki
+- sanki
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: baturluk
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bahadırlık
+- bahadırlık
 ozellikler:
 - - isim
 ornekler:

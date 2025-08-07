@@ -5,7 +5,7 @@ slug: duhuliye
 letter: D
 lisan: Arapça duḫūliyye
 anlamlar:
-- ► giriş ücreti
+- giriş ücreti
 ozellikler:
 - - isim
   - eskimiş

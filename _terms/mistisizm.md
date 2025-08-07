@@ -6,7 +6,7 @@ letter: M
 lisan: Fransızca mysticisme
 anlamlar:
 - Bir konuda en üst derecede bulunabilme tutkusu
-- ► gizemcilik
+- gizemcilik
 ozellikler:
 - - isim
 - - isim

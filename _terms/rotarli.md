@@ -5,7 +5,7 @@ slug: rotarli
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gecikmeli
+- gecikmeli
 ozellikler:
 - - sıfat
 ornekler:

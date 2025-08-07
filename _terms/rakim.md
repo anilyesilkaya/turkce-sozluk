@@ -5,7 +5,7 @@ slug: rakim
 letter: R
 lisan: Arapça rāḳim
 anlamlar:
-- ► yükselti
+- yükselti
 ozellikler:
 - - isim
   - coğrafya

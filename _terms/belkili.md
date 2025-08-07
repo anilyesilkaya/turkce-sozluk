@@ -5,7 +5,7 @@ slug: belkili
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► muhtemel
+- muhtemel
 - Doğru olabileceği gibi yanlış da olabilen, belli ve kesin olmayan; olasılı, ihtimalî
 ozellikler:
 - - sıfat

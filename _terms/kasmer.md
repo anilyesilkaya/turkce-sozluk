@@ -5,7 +5,7 @@ slug: kasmer
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► soytarı
+- soytarı
 ozellikler:
 - - isim
 ornekler:

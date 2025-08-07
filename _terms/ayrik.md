@@ -7,9 +7,9 @@ lisan: Türkçe
 anlamlar:
 - Ayrılmış, ayrı duran; ayrılı, munfasıl
 - Ayrı tutulan, başkalarına benzemeyen; ayrıcalı
-- ► kural dışı
+- kural dışı
 - Düzgün ve uygun olmayan, çarpık olan
-- ► ayrık otu
+- ayrık otu
 ozellikler:
 - - sıfat
 - - sıfat

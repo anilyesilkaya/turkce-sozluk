@@ -5,7 +5,7 @@ slug: link
 letter: L
 lisan: İngilizce link
 anlamlar:
-- ► bağlantı
+- bağlantı
 ozellikler:
 - - isim
   - bilişim

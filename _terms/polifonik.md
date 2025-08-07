@@ -5,9 +5,9 @@ slug: polifonik
 letter: P
 lisan: Fransızca polyphonique
 anlamlar:
-- ► çok sesli
+- çok sesli
 - Çok seslilikle ilgili, çok sesliliğe ilişkin
-- ► çok yönlü
+- çok yönlü
 ozellikler:
 - - sıfat
   - müzik

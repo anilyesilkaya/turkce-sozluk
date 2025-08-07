@@ -6,8 +6,8 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Dağın veya tepenin herhangi bir yanı; bögür, yalpı
-- ► karşı
-- ► yan
+- karşı
+- yan
 ozellikler:
 - - isim
 - - isim

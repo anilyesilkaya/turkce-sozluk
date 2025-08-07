@@ -5,7 +5,7 @@ slug: yuzdelik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yüzde
+- yüzde
 ozellikler:
 - - isim
 ornekler:

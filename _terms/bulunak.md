@@ -5,7 +5,7 @@ slug: bulunak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► adres
+- adres
 ozellikler:
 - - isim
 ornekler:

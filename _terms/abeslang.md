@@ -5,7 +5,7 @@ slug: abeslang
 letter: A
 lisan: Fransızca abaisse langue
 anlamlar:
-- ► dilbasar
+- dilbasar
 ozellikler:
 - - isim
 ornekler:

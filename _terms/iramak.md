@@ -5,7 +5,7 @@ slug: iramak
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uzaklaşmak
+- uzaklaşmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

@@ -5,7 +5,7 @@ slug: yevmiye
 letter: Y
 lisan: Arapça yevmiyye
 anlamlar:
-- ► gündelik
+- gündelik
 - Her gün
 ozellikler:
 - - isim

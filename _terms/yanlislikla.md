@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanılarak, bilmeyerek
-- ► sehven
+- sehven
 ozellikler:
 - - zarf
 - - zarf

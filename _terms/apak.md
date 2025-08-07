@@ -5,7 +5,7 @@ slug: apak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bembeyaz
+- bembeyaz
 - Çok beyaz bir biçimde
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: kara-kehribar
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Oltu taşı
+- Oltu taşı
 ozellikler:
 - - isim
   - mineraloji

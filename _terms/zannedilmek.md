@@ -5,7 +5,7 @@ slug: zannedilmek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sanılmak
+- sanılmak
 ozellikler:
 - - nesnesiz
 ornekler:

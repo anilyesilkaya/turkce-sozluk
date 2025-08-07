@@ -5,8 +5,8 @@ slug: irtifa
 letter: I
 lisan: Arapça irtifāʿ
 anlamlar:
-- ► yükseklik
-- ► yükselti
+- yükseklik
+- yükselti
 ozellikler:
 - - isim
 - - isim

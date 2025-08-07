@@ -5,7 +5,7 @@ slug: istenmeyen-adam
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► istenmeyen kişi
+- istenmeyen kişi
 ozellikler:
 - - isim
 ornekler:

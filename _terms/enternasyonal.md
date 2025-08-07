@@ -5,7 +5,7 @@ slug: enternasyonal
 letter: E
 lisan: Fransızca international
 anlamlar:
-- ► uluslararası
+- uluslararası
 - Devletlerin proletaryasının katıldığı uluslararası topluluk
 ozellikler:
 - - isim

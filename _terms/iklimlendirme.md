@@ -5,7 +5,7 @@ slug: iklimlendirme
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iklimleme
+- iklimleme
 ozellikler:
 - - isim
 ornekler:

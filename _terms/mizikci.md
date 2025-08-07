@@ -5,7 +5,7 @@ slug: mizikci
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► oyunbozan
+- oyunbozan
 ozellikler:
 - - sıfat
 ornekler:

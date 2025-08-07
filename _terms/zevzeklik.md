@@ -5,7 +5,7 @@ slug: zevzeklik
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► gevezelik
+- gevezelik
 ozellikler:
 - - isim
 ornekler:

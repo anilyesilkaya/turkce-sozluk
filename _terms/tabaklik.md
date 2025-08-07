@@ -5,7 +5,7 @@ slug: tabaklik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► sepicilik
+- sepicilik
 ozellikler:
 - - isim
 ornekler:

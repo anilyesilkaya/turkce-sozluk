@@ -5,7 +5,7 @@ slug: kapaklik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kapak taşı
+- kapak taşı
 - Kapak yapmaya özgü
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: antropozoik
 letter: A
 lisan: Fransızca anthropozoïque
 anlamlar:
-- ► Dördüncü Çağ
+- Dördüncü Çağ
 - Bu çağla ilgili
 ozellikler:
 - - isim

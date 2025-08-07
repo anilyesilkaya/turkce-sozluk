@@ -5,7 +5,7 @@ slug: istirahat
 letter: I
 lisan: Arapça istirāḥat
 anlamlar:
-- ► dinlenme (I)
+- dinlenme (I)
 ozellikler:
 - - isim
 ornekler:

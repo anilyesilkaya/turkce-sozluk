@@ -5,7 +5,7 @@ slug: fetvahane
 letter: F
 lisan: Arapça fetvā + Farsça ḫāne
 anlamlar:
-- ► şeyhülislam kapısı
+- şeyhülislam kapısı
 ozellikler:
 - - isim
   - eskimiş

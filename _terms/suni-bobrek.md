@@ -5,7 +5,7 @@ slug: suni-bobrek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► yapay böbrek
+- yapay böbrek
 ozellikler:
 - - isim
 ornekler:

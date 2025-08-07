@@ -5,7 +5,7 @@ slug: mugayir
 letter: M
 lisan: Arapça muġāyir
 anlamlar:
-- ► aykırı
+- aykırı
 ozellikler:
 - - sıfat
   - eskimiş

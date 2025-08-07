@@ -5,7 +5,7 @@ slug: ruh-hastaligi
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► akıl hastalığı
+- akıl hastalığı
 ozellikler:
 - - isim
 ornekler:

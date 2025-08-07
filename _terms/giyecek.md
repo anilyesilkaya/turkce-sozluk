@@ -5,7 +5,7 @@ slug: giyecek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► giysi
+- giysi
 ozellikler:
 - - isim
 ornekler:

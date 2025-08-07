@@ -5,7 +5,7 @@ slug: matem
 letter: M
 lisan: Arapça mātem
 anlamlar:
-- ► yas
+- yas
 ozellikler:
 - - isim
 ornekler:

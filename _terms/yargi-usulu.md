@@ -5,7 +5,7 @@ slug: yargi-usulu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yargılama usulü
+- yargılama usulü
 ozellikler:
 - - isim
   - hukuk

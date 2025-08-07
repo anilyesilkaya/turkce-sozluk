@@ -5,7 +5,7 @@ slug: ladini
 letter: L
 lisan: Arapça lādīnī
 anlamlar:
-- ► din dışı
+- din dışı
 ozellikler:
 - - sıfat
   - eskimiş

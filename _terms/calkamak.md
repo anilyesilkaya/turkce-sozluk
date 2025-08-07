@@ -5,7 +5,7 @@ slug: calkamak
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çalkalamak
+- çalkalamak
 - Tahıl elemek
 ozellikler:
 - - -i

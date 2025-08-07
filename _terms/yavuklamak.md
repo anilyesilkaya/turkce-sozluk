@@ -5,7 +5,7 @@ slug: yavuklamak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► nişanlamak
+- nişanlamak
 ozellikler:
 - - -e
   - -i

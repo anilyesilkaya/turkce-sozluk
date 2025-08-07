@@ -5,7 +5,7 @@ slug: azili
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► azgın
+- azgın
 - Çok şiddetli, korkunç olan
 ozellikler:
 - - sıfat

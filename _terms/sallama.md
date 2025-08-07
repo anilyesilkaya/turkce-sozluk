@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sallamak işi
-- ► poşet çay
+- poşet çay
 ozellikler:
 - - isim
 - - isim

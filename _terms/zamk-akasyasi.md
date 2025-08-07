@@ -5,7 +5,7 @@ slug: zamk-akasyasi
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zamk ağacı
+- zamk ağacı
 ozellikler:
 - - isim
   - bitki bilimi

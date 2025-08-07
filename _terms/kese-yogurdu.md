@@ -5,7 +5,7 @@ slug: kese-yogurdu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► süzme yoğurt
+- süzme yoğurt
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: hadiseli
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► olaylı
+- olaylı
 - Olaylı bir biçimde
 ozellikler:
 - - sıfat

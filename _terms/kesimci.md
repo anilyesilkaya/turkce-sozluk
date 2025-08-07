@@ -5,7 +5,7 @@ slug: kesimci
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kesenekçi
+- kesenekçi
 ozellikler:
 - - isim
 ornekler:

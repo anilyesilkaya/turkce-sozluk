@@ -5,8 +5,8 @@ slug: bastaslik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► kafadarlık
-- ► akranlık
+- kafadarlık
+- akranlık
 ozellikler:
 - - isim
 - - isim

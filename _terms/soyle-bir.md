@@ -5,7 +5,7 @@ slug: soyle-bir
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► üstünkörü
+- üstünkörü
 - Kısa süreli
 ozellikler:
 - - zarf

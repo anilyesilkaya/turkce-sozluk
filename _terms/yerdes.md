@@ -5,7 +5,7 @@ slug: yerdes
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► memleketli
+- memleketli
 ozellikler:
 - - isim
 ornekler:

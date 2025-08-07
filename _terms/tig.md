@@ -5,7 +5,7 @@ slug: tig
 letter: T
 lisan: Farsça tīġ
 anlamlar:
-- ► kılıç
+- kılıç
 ozellikler:
 - - isim
   - eskimiş

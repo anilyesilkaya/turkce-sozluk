@@ -5,7 +5,7 @@ slug: gravyer
 letter: G
 lisan: Fransızca gruyère
 anlamlar:
-- ► gravyer peyniri
+- gravyer peyniri
 ozellikler:
 - - isim
 ornekler:

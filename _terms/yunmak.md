@@ -5,7 +5,7 @@ slug: yunmak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yıkanmak
+- yıkanmak
 ozellikler:
 - - nesnesiz
   - ağızlardan

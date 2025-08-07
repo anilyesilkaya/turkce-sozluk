@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Yabancı şeylerden arınmış duruma getirmek
-- ► özleştirmek
+- özleştirmek
 ozellikler:
 - - -i
 - - -i

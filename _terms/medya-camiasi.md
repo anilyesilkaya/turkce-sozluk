@@ -5,7 +5,7 @@ slug: medya-camiasi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► basın dünyası
+- basın dünyası
 ozellikler:
 - - isim
 ornekler:

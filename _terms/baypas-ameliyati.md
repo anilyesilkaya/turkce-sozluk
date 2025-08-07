@@ -5,7 +5,7 @@ slug: baypas-ameliyati
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► köprüleme ameliyatı
+- köprüleme ameliyatı
 ozellikler:
 - - isim
   - tıp

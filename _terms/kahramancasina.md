@@ -5,7 +5,7 @@ slug: kahramancasina
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kahramanca
+- kahramanca
 ozellikler:
 - - zarf
 ornekler:

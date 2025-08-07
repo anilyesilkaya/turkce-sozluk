@@ -5,7 +5,7 @@ slug: budalalastirma
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► aptallaştırma
+- aptallaştırma
 ozellikler:
 - - isim
 ornekler:

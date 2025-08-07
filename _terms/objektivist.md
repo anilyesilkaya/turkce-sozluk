@@ -5,7 +5,7 @@ slug: objektivist
 letter: O
 lisan: Fransızca objectiviste
 anlamlar:
-- ► nesnelci
+- nesnelci
 ozellikler:
 - - sıfat
   - felsefe

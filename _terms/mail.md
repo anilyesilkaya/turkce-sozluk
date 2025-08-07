@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça māʾil
 anlamlar:
 - Eğilimi olan
-- ► eğik
+- eğik
 - Benzeyen, andıran
 ozellikler:
 - - sıfat

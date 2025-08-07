@@ -5,7 +5,7 @@ slug: minkale
 letter: M
 lisan: Arapça minḳale
 anlamlar:
-- ► iletki
+- iletki
 ozellikler:
 - - isim
   - eskimiş

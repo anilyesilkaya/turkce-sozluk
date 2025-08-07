@@ -5,7 +5,7 @@ slug: diyapozitif
 letter: D
 lisan: Fransızca diapositive
 anlamlar:
-- ► slayt
+- slayt
 ozellikler:
 - - isim
 ornekler:

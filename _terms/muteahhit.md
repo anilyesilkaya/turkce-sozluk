@@ -5,7 +5,7 @@ slug: muteahhit
 letter: M
 lisan: Arapça muteʿahhid
 anlamlar:
-- ► yüklenici
+- yüklenici
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: tekst
 letter: T
 lisan: Fransızca texte
 anlamlar:
-- ► metin
+- metin
 ozellikler:
 - - isim
 ornekler:

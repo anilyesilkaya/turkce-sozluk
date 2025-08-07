@@ -5,7 +5,7 @@ slug: sehadet-parmagi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► işaret parmağı
+- işaret parmağı
 ozellikler:
 - - isim
 ornekler:

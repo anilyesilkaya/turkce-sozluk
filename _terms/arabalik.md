@@ -5,7 +5,7 @@ slug: arabalik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► garaj
+- garaj
 - Araba dolduracak miktarda olan
 - Araba sığacak genişlikte olan
 ozellikler:

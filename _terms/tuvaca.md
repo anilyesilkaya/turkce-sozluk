@@ -5,7 +5,7 @@ slug: tuvaca
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► Tuva Türkçesi
+- Tuva Türkçesi
 ozellikler:
 - - isim
 ornekler:

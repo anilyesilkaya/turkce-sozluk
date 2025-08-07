@@ -5,7 +5,7 @@ slug: tesirsiz
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► etkisiz
+- etkisiz
 ozellikler:
 - - sıfat
 ornekler:

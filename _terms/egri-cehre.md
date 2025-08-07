@@ -5,7 +5,7 @@ slug: egri-cehre
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► asık surat
+- asık surat
 ozellikler:
 - - sıfat
   - mecaz

@@ -5,7 +5,7 @@ slug: kartoteks
 letter: K
 lisan: Fransızca cartotéques
 anlamlar:
-- ► kartotek
+- kartotek
 ozellikler:
 - - isim
 ornekler:

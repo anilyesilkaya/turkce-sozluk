@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kuzu barınağı, ağıl
 - Yumuşak huyluluk
-- ► kuzu kapı
+- kuzu kapı
 ozellikler:
 - - isim
 - - isim

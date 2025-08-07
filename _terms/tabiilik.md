@@ -5,7 +5,7 @@ slug: tabiilik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► doğallık
+- doğallık
 ozellikler:
 - - isim
 ornekler:

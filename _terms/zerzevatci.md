@@ -5,7 +5,7 @@ slug: zerzevatci
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► sebzeci
+- sebzeci
 ozellikler:
 - - isim
 ornekler:

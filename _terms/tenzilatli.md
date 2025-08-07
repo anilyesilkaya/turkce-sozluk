@@ -5,7 +5,7 @@ slug: tenzilatli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► indirimli
+- indirimli
 ozellikler:
 - - sıfat
 ornekler:

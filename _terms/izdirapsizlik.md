@@ -5,7 +5,7 @@ slug: izdirapsizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kedersizlik
+- kedersizlik
 - Ağrısı ve acısı olmama durumu
 ozellikler:
 - - isim

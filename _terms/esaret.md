@@ -5,8 +5,8 @@ slug: esaret
 letter: E
 lisan: Arapça esāret
 anlamlar:
-- ► tutsaklık
-- ► boyunduruk
+- tutsaklık
+- boyunduruk
 - Hâkimiyet altında bulunma
 ozellikler:
 - - isim

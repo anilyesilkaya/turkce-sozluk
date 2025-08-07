@@ -5,7 +5,7 @@ slug: hendesi
 letter: H
 lisan: Arapça hendesī
 anlamlar:
-- ► geometrik
+- geometrik
 ozellikler:
 - - sıfat
   - eskimiş

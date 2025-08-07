@@ -5,7 +5,7 @@ slug: ensefalit
 letter: E
 lisan: Fransızca encéphalite
 anlamlar:
-- ► beyin yangısı
+- beyin yangısı
 ozellikler:
 - - isim
   - tıp

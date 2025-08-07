@@ -5,7 +5,7 @@ slug: manometre
 letter: M
 lisan: Fransızca manomètre
 anlamlar:
-- ► basıölçer
+- basıölçer
 ozellikler:
 - - isim
   - fizik

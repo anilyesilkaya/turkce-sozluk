@@ -5,7 +5,7 @@ slug: sanayiinefise
 letter: S
 lisan: Arapça ṣanāyiʿ + nefīse
 anlamlar:
-- ► güzel sanatlar
+- güzel sanatlar
 ozellikler:
 - - isim
   - eskimiş

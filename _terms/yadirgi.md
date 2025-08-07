@@ -5,7 +5,7 @@ slug: yadirgi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yabancı
+- yabancı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: klikleme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tıklama
+- tıklama
 ozellikler:
 - - isim
 ornekler:

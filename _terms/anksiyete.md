@@ -5,7 +5,7 @@ slug: anksiyete
 letter: A
 lisan: İngilizce anxiety
 anlamlar:
-- ► kaygı bozukluğu
+- kaygı bozukluğu
 ozellikler:
 - - isim
   - ruh bilimi

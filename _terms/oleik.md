@@ -5,7 +5,7 @@ slug: oleik
 letter: O
 lisan: Fransızca oléique
 anlamlar:
-- ► oleik asit
+- oleik asit
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: alelumum
 letter: A
 lisan: Arapça ʿalā'l-ʿumūm
 anlamlar:
-- ► genellikle
+- genellikle
 ozellikler:
 - - zarf
   - eskimiş

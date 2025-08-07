@@ -5,7 +5,7 @@ slug: hamlecilik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► atılımcılık
+- atılımcılık
 ozellikler:
 - - isim
 ornekler:

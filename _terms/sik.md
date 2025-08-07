@@ -5,7 +5,7 @@ slug: sik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► erkeklik organı
+- erkeklik organı
 ozellikler:
 - - isim
   - kaba konuşmada

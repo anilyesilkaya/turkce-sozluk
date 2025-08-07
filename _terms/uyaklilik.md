@@ -5,7 +5,7 @@ slug: uyaklilik
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► kafiyelilik
+- kafiyelilik
 ozellikler:
 - - isim
   - edebiyat

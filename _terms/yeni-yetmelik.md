@@ -5,7 +5,7 @@ slug: yeni-yetmelik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► ergenlik
+- ergenlik
 ozellikler:
 - - isim
 ornekler:

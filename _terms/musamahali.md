@@ -5,7 +5,7 @@ slug: musamahali
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► hoşgörülü
+- hoşgörülü
 ozellikler:
 - - sıfat
 ornekler:

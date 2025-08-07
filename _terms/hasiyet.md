@@ -5,7 +5,7 @@ slug: hasiyet
 letter: H
 lisan: Arapça ḫāṣiyyet
 anlamlar:
-- ► özellik
+- özellik
 - Yiyecek ve içeceğin yararı, etki
 ozellikler:
 - - isim

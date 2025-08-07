@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça varaḳ + Farsça pāre
 anlamlar:
 - Kâğıt parçası
-- ► mektup
+- mektup
 ozellikler:
 - - isim
   - eskimiş

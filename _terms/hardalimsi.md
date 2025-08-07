@@ -5,7 +5,7 @@ slug: hardalimsi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hardalsı
+- hardalsı
 ozellikler:
 - - sıfat
 ornekler:

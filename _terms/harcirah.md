@@ -5,7 +5,7 @@ slug: harcirah
 letter: H
 lisan: Arapça ḫarc + Farsça rāh
 anlamlar:
-- ► yolluk
+- yolluk
 ozellikler:
 - - isim
 ornekler:

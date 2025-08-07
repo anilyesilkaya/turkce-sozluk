@@ -5,7 +5,7 @@ slug: maznun
 letter: M
 lisan: Arapça maẓnūn
 anlamlar:
-- ► sanık
+- sanık
 ozellikler:
 - - isim
   - eskimiş

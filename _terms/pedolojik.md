@@ -5,8 +5,8 @@ slug: pedolojik
 letter: P
 lisan: Fransızca pédologique
 anlamlar:
-- ► çocuk bilimsel
-- ► toprak bilimsel
+- çocuk bilimsel
+- toprak bilimsel
 ozellikler:
 - - sıfat
 - - sıfat

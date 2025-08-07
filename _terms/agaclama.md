@@ -5,7 +5,7 @@ slug: agaclama
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ağaçlandırma
+- ağaçlandırma
 ozellikler:
 - - isim
 ornekler:

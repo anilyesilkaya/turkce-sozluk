@@ -5,7 +5,7 @@ slug: milliyetseverlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► milliyetçilik
+- milliyetçilik
 ozellikler:
 - - isim
 ornekler:

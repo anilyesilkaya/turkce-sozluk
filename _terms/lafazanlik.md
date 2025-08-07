@@ -5,7 +5,7 @@ slug: lafazanlik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► gevezelik
+- gevezelik
 ozellikler:
 - - isim
 ornekler:

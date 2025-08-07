@@ -5,7 +5,7 @@ slug: degim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► liyakat
+- liyakat
 ozellikler:
 - - isim
 ornekler:

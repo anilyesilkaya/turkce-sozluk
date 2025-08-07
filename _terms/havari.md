@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥavārī
 anlamlar:
 - Hz. İsa'nın öğüt ve inançlarını yayma işiyle görevlendirdiği on iki yardımcısından her biri; apotr
-- ► yardımcı
+- yardımcı
 - Bağlı olduğu önderinin düşünce ve inançlarını yayan kimse; apotr
 ozellikler:
 - - isim

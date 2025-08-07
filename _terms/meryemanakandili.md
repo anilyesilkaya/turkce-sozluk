@@ -5,7 +5,7 @@ slug: meryemanakandili
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► siklamen
+- siklamen
 ozellikler:
 - - isim
 ornekler:

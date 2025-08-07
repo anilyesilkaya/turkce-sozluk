@@ -5,7 +5,7 @@ slug: kurutac
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kurutma kabı
+- kurutma kabı
 ozellikler:
 - - isim
   - teknik

@@ -5,7 +5,7 @@ slug: kaldirim
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► yaya kaldırımı
+- yaya kaldırımı
 - Yollarda taşlarla yapılan döşeme
 ozellikler:
 - - isim

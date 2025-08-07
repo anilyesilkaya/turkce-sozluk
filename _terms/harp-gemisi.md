@@ -5,7 +5,7 @@ slug: harp-gemisi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► savaş gemisi
+- savaş gemisi
 ozellikler:
 - - isim
   - askerlik

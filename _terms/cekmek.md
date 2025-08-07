@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir şeyi tutup kendine veya başka bir yöne doğru yürütmek
 - Taşıtı bir yere bırakmak, koymak
-- ► germek
+- germek
 - İçine almak, emmek
 - Bir yerden başka bir yere taşımak
 - Bir amaçla ortadan kaldırmak
@@ -16,7 +16,7 @@ anlamlar:
 - Bir kimseyi veya bir şeyi geri almak
 - Güç durumlara dayanmak, katlanmak
 - Tartıda ağırlığı olmak
-- ► döşemek
+- döşemek
 - Herhangi bir engel kurmak
 - Şans denemek amacıyla hazırlanmış kâğıtlardan birini almak
 - İmbik yardımı ile elde etmek

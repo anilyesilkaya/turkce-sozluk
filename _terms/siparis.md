@@ -5,7 +5,7 @@ slug: siparis
 letter: S
 lisan: Farsça sipāriş
 anlamlar:
-- ► ısmarlama
+- ısmarlama
 - Yapılması ısmarlanan şey
 - Birinin kendi maaşından kesilerek başkasına gönderdiği, ödediği aylık para
 ozellikler:

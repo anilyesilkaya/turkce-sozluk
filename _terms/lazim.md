@@ -5,8 +5,8 @@ slug: lazim
 letter: L
 lisan: Arapça lāzim
 anlamlar:
-- ► gerek
-- ► geçişsiz
+- gerek
+- geçişsiz
 ozellikler:
 - - sıfat
 - - sıfat

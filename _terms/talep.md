@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça ṭaleb
 anlamlar:
 - Bir kimseden bir şeyi yapmasını veya yapmamasını isteme
-- ► istek
+- istek
 ozellikler:
 - - isim
 - - isim

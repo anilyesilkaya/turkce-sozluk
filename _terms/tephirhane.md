@@ -5,7 +5,7 @@ slug: tephirhane
 letter: T
 lisan: Arapça tebḫīr + Farsça ḫāne
 anlamlar:
-- ► buğuevi
+- buğuevi
 ozellikler:
 - - isim
   - eskimiş

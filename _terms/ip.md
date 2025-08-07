@@ -5,7 +5,7 @@ slug: ip
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iplik
+- iplik
 - Asarak öldürme cezası
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: calisim
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► idman
+- idman
 ozellikler:
 - - isim
   - spor

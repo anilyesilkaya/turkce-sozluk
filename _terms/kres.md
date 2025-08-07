@@ -5,7 +5,7 @@ slug: kres
 letter: K
 lisan: Fransızca crèche
 anlamlar:
-- ► yuva
+- yuva
 ozellikler:
 - - isim
 ornekler:

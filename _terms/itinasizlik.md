@@ -5,7 +5,7 @@ slug: itinasizlik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► özensizlik
+- özensizlik
 ozellikler:
 - - isim
 ornekler:

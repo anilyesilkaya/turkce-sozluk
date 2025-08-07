@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pamuk çekirdeği
-- ► çekirdek
+- çekirdek
 ozellikler:
 - - isim
   - ağızlardan

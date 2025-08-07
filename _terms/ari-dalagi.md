@@ -5,7 +5,7 @@ slug: ari-dalagi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► bal peteği
+- bal peteği
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: lenf-kanseri
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lenfoma
+- lenfoma
 ozellikler:
 - - isim
   - tıp

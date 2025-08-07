@@ -5,7 +5,7 @@ slug: agami
 letter: A
 lisan: Fransızca agami
 anlamlar:
-- ► borazan kuşu
+- borazan kuşu
 ozellikler:
 - - isim
   - hayvan bilimi

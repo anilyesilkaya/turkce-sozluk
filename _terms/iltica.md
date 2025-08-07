@@ -5,7 +5,7 @@ slug: iltica
 letter: I
 lisan: Arapça ilticāʾ
 anlamlar:
-- ► sığınma
+- sığınma
 ozellikler:
 - - isim
 ornekler:

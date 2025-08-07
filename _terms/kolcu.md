@@ -5,7 +5,7 @@ slug: kolcu
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► muhafız
+- muhafız
 - Hizmetçilere çalışacak ev bulan kimse
 ozellikler:
 - - isim

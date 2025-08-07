@@ -5,7 +5,7 @@ slug: fantom
 letter: F
 lisan: Fransızca fantôme
 anlamlar:
-- ► hayalet
+- hayalet
 ozellikler:
 - - isim
 ornekler:

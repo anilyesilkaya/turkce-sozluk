@@ -5,7 +5,7 @@ slug: ara-bulma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► uzlaştırma
+- uzlaştırma
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: gecenek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► koridor
+- koridor
 ozellikler:
 - - isim
 ornekler:

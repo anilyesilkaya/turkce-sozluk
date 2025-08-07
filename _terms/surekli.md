@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Kesintisiz olarak süren, devamlı; kalıcı, temelli, daimî, paso
 - Uzun süreli olarak, daima, durmaksızın; mütemadi, mütemadiyen
-- ► sızıcı
+- sızıcı
 ozellikler:
 - - sıfat
 - - sıfat

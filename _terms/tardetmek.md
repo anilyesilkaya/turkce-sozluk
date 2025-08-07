@@ -5,7 +5,7 @@ slug: tardetmek
 letter: T
 lisan: Arapça ṭard + Türkçe etmek
 anlamlar:
-- ► savmak
+- savmak
 ozellikler:
 - - -i
   - eskimiş

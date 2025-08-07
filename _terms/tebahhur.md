@@ -5,7 +5,7 @@ slug: tebahhur
 letter: T
 lisan: Arapça tebaḫḫur
 anlamlar:
-- ► buharlaşma
+- buharlaşma
 ozellikler:
 - - isim
   - eskimiş

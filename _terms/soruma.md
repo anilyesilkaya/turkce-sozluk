@@ -5,7 +5,7 @@ slug: soruma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► somurma
+- somurma
 ozellikler:
 - - isim
 ornekler:

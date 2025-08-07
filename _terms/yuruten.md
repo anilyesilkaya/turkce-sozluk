@@ -5,7 +5,7 @@ slug: yuruten
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yürüteç
+- yürüteç
 ozellikler:
 - - isim
 ornekler:

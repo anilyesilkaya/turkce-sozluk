@@ -5,7 +5,7 @@ slug: lugatcilik
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► sözlükçülük
+- sözlükçülük
 ozellikler:
 - - isim
 ornekler:

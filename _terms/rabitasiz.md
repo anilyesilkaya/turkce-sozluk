@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Düzensiz, birbirini tutmaz
 - Ağırbaşlı olmayan, tutarsız
-- ► bağlantısız
+- bağlantısız
 - Birbirine bağlı veya tutarlı olmadan
 ozellikler:
 - - sıfat

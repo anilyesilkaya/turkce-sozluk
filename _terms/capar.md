@@ -6,7 +6,7 @@ letter: Ç
 lisan: Farsça çepār
 anlamlar:
 - Benekli, alacalı (hayvan ve bitki)
-- ► akşın
+- akşın
 - Çiçek bozuğu olmuş yüz
 ozellikler:
 - - sıfat

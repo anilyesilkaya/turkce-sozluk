@@ -5,7 +5,7 @@ slug: mayi
 letter: M
 lisan: Arapça māyiʿ
 anlamlar:
-- ► sıvı
+- sıvı
 ozellikler:
 - - isim
 ornekler:

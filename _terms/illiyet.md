@@ -5,8 +5,8 @@ slug: illiyet
 letter: I
 lisan: Arapça ʿilliyyet
 anlamlar:
-- ► nedensellik
-- ► illiyet bağı
+- nedensellik
+- illiyet bağı
 ozellikler:
 - - isim
   - eskimiş

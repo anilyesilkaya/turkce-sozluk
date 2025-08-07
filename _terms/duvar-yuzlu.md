@@ -5,7 +5,7 @@ slug: duvar-yuzlu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► vurdumduymaz
+- vurdumduymaz
 ozellikler:
 - - sıfat
   - mecaz

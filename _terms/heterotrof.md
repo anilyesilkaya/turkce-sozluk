@@ -5,7 +5,7 @@ slug: heterotrof
 letter: H
 lisan: Fransızca hétérotrophe
 anlamlar:
-- ► dışbeslenen
+- dışbeslenen
 ozellikler:
 - - sıfat
   - biyoloji

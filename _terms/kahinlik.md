@@ -5,7 +5,7 @@ slug: kahinlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kehanet
+- kehanet
 ozellikler:
 - - isim
 ornekler:

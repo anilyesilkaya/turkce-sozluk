@@ -5,7 +5,7 @@ slug: keskulufukara
 letter: K
 lisan: Farsça keşkūl + Arapça fuḳarā
 anlamlar:
-- ► keşkül
+- keşkül
 ozellikler:
 - - isim
 ornekler:

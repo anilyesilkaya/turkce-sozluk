@@ -5,7 +5,7 @@ slug: akil
 letter: A
 lisan: Arapça ʿāḳil
 anlamlar:
-- ► akıllı
+- akıllı
 ozellikler:
 - - sıfat
   - eskimiş

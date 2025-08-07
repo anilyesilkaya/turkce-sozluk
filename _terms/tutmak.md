@@ -7,10 +7,10 @@ lisan: Türkçe
 anlamlar:
 - Elde bulundurmak, ele almak
 - Ele geçirmek, yakalamak
-- ► avlamak
+- avlamak
 - Yanında bulundurmak, alıkoymak
 - Hürriyetinden yoksun bırakıp bir yere kapamak, tevkif etmek
-- ► kaplamak
+- kaplamak
 - Kırağı, çiğ veya kar bir yüzeyde görünür durumda olmak, kalmak
 - Denetimi ve yetkisi altına almak
 - Desteklemek, birinden yana çıkmak
@@ -29,13 +29,13 @@ anlamlar:
 - Alacağa veya vereceğe saymak
 - Bir yere yaklaştırmak
 - Bir aleti kullanabilmek
-- ► bağlamak
+- bağlamak
 - Beklenen sonucu vermek
 - İş görebilmek
 - Sürmek, zaman almak
 - Yapışarak veya sokularak çıkmaz olmak
 - Bir şeyi kullanması için uzatmak
-- ► sunmak
+- sunmak
 - İşgal etmek
 - Takip etmek, izlemek
 - Bırakmamak

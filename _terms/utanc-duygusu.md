@@ -5,7 +5,7 @@ slug: utanc-duygusu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► utanma duygusu
+- utanma duygusu
 ozellikler:
 - - isim
   - ruh bilimi

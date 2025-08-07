@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Gagası olan
-- ► gagaburun
+- gagaburun
 ozellikler:
 - - sıfat
 - - sıfat

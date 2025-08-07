@@ -5,7 +5,7 @@ slug: bir-cirpida
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► çabucak
+- çabucak
 ozellikler:
 - - zarf
 ornekler:

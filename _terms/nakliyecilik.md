@@ -5,7 +5,7 @@ slug: nakliyecilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► taşımacılık
+- taşımacılık
 ozellikler:
 - - isim
 ornekler:

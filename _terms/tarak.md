@@ -9,7 +9,7 @@ anlamlar:
 - Bahçıvanlıkta toprağın taşını ayıklamak için kullanılan, ucu bu biçimde olan araç; tırmık
 - Dokuma tezgâhlarında, dişleri arasından arış ipliklerinin geçtiği tarak biçiminde sık telli araç
 - Bazı kuşların başında bulunan yelpaze biçiminde tepelik
-- ► ayak tarağı
+- ayak tarağı
 - Suda yaşayan hayvanlarda solungaç
 - Yassı solungaçlılardan, kabukları yuvarlak, yelpaze biçiminde bir yumuşakça (Pecten)
 ozellikler:

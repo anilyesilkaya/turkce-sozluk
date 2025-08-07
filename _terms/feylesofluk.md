@@ -5,7 +5,7 @@ slug: feylesofluk
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► filozofluk
+- filozofluk
 ozellikler:
 - - isim
 ornekler:

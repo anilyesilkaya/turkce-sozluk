@@ -5,7 +5,7 @@ slug: kestirmece
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tahminî
+- tahminî
 - (kesti'rmece) Kısa yoldan, kısaca
 ozellikler:
 - - sıfat

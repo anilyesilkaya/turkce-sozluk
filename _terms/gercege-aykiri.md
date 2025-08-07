@@ -5,7 +5,7 @@ slug: gercege-aykiri
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gerçek dışı
+- gerçek dışı
 ozellikler:
 - - sıfat
 ornekler:

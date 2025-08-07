@@ -5,7 +5,7 @@ slug: goze-bilimi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hücre bilimi
+- hücre bilimi
 ozellikler:
 - - isim
   - biyoloji

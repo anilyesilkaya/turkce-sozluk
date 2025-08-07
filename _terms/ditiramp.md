@@ -6,7 +6,7 @@ letter: D
 lisan: Fransızca dithyrambe
 anlamlar:
 - Eski Yunanların Dionysos şerefine okudukları tören şarkısı
-- ► lirik şiir
+- lirik şiir
 ozellikler:
 - - isim
 - - isim

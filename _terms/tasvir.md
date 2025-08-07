@@ -5,8 +5,8 @@ slug: tasvir
 letter: T
 lisan: Arapça taṣvīr
 anlamlar:
-- ► betimleme
-- ► betim
+- betimleme
+- betim
 - Bir şeyin veya kimsenin resmini yapma
 ozellikler:
 - - isim

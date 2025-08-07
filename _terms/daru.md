@@ -5,7 +5,7 @@ slug: daru
 letter: D
 lisan: Farsça dārū
 anlamlar:
-- ► ilaç
+- ilaç
 ozellikler:
 - - isim
   - eskimiş

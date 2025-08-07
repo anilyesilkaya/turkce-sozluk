@@ -5,7 +5,7 @@ slug: vezaret
 letter: V
 lisan: Arapça vezāret
 anlamlar:
-- ► vezirlik
+- vezirlik
 ozellikler:
 - - isim
   - eskimiş

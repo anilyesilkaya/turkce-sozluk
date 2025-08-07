@@ -5,7 +5,7 @@ slug: nuvazis
 letter: N
 lisan: Farsça nevaziş
 anlamlar:
-- ► nevaziş
+- nevaziş
 ozellikler:
 - - isim
 ornekler:

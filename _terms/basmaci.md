@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Basma yapan veya satan kimse
 - Pamuklu, tülbent vb. üzerine kalıpla desen basan kimse
-- ► bohçacı
+- bohçacı
 ozellikler:
 - - isim
 - - isim

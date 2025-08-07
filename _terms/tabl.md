@@ -5,7 +5,7 @@ slug: tabl
 letter: T
 lisan: Arapça ṭabl
 anlamlar:
-- ► davul
+- davul
 ozellikler:
 - - isim
   - eskimiş

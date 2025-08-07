@@ -5,7 +5,7 @@ slug: tahfif
 letter: T
 lisan: Arapça taḫfīf
 anlamlar:
-- ► hafifletme
+- hafifletme
 ozellikler:
 - - isim
   - eskimiş

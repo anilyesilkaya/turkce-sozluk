@@ -5,7 +5,7 @@ slug: gunde
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► her gün
+- her gün
 ozellikler:
 - - zarf
 ornekler:

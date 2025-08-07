@@ -5,7 +5,7 @@ slug: jeotropizma
 letter: J
 lisan: Fransızca géotropisme
 anlamlar:
-- ► yere yönelim
+- yere yönelim
 ozellikler:
 - - isim
   - bitki bilimi

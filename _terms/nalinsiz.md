@@ -5,7 +5,7 @@ slug: nalinsiz
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► takunyasız
+- takunyasız
 ozellikler:
 - - sıfat
 ornekler:

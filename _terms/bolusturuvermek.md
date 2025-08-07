@@ -5,7 +5,7 @@ slug: bolusturuvermek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► paylaştırıvermek
+- paylaştırıvermek
 ozellikler:
 - - -e
   - -i

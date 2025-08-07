@@ -5,7 +5,7 @@ slug: lokman-ruhu
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► eter
+- eter
 ozellikler:
 - - isim
 ornekler:

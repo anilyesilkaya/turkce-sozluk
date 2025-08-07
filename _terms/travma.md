@@ -5,7 +5,7 @@ slug: travma
 letter: T
 lisan: Fransızca trauma
 anlamlar:
-- ► sarsıntı
+- sarsıntı
 - Bir doku veya organın yapısını, biçimini bozan ve dıştan mekanik bir tepki sonucu oluşan yerel yara; örselenme
 ozellikler:
 - - isim

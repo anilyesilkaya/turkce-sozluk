@@ -5,7 +5,7 @@ slug: formen
 letter: F
 lisan: İngilizce foreman
 anlamlar:
-- ► ustabaşı
+- ustabaşı
 - İşçilerin düzenli ve verimli çalışmasını sağlayan ve işçiler üzerinde otoritesi olan işçi
 ozellikler:
 - - isim

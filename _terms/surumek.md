@@ -5,7 +5,7 @@ slug: surumek
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sürüklemek
+- sürüklemek
 - Hafif bir şeyi sürüklemek
 - Herhangi bir sebepten dolayı güçlükle yürümek
 - Bir şeyi peşine takmak, alıp götürmek

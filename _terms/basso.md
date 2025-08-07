@@ -5,7 +5,7 @@ slug: basso
 letter: B
 lisan: İtalyanca basso
 anlamlar:
-- ► bas
+- bas
 - En kalın sesli orkestra çalgısı
 ozellikler:
 - - isim

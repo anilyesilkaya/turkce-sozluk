@@ -5,7 +5,7 @@ slug: eksperimantalizm
 letter: E
 lisan: Fransızca expérimentalisme
 anlamlar:
-- ► deneyselcilik
+- deneyselcilik
 ozellikler:
 - - isim
   - felsefe

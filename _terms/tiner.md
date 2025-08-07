@@ -5,7 +5,7 @@ slug: tiner
 letter: T
 lisan: İngilizce thinner
 anlamlar:
-- ► inceltici
+- inceltici
 ozellikler:
 - - isim
   - kimya

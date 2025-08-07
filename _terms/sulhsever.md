@@ -5,7 +5,7 @@ slug: sulhsever
 letter: S
 lisan: Arapça ṣulḥ + Türkçe sever
 anlamlar:
-- ► barışsever
+- barışsever
 ozellikler:
 - - sıfat
 ornekler:

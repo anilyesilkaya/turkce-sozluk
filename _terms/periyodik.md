@@ -5,8 +5,8 @@ slug: periyodik
 letter: P
 lisan: Fransızca périodique
 anlamlar:
-- ► süreli
-- ► süreli yayın
+- süreli
+- süreli yayın
 ozellikler:
 - - sıfat
 - - sıfat

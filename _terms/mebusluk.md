@@ -5,7 +5,7 @@ slug: mebusluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► milletvekilliği
+- milletvekilliği
 ozellikler:
 - - isim
 ornekler:

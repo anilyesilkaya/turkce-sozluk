@@ -5,7 +5,7 @@ slug: hayvanimsi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hayvansı
+- hayvansı
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: urkekce
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► ürkek
+- ürkek
 - (ürke'kçe) Ürkek bir biçimde
 ozellikler:
 - - sıfat

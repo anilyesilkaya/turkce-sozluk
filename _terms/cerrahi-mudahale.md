@@ -5,7 +5,7 @@ slug: cerrahi-mudahale
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► ameliyat
+- ameliyat
 ozellikler:
 - - isim
 ornekler:

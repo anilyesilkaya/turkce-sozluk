@@ -6,7 +6,7 @@ letter: C
 lisan: Türkçe
 anlamlar:
 - Öldükten sonra yerinin cehennem olacağı sanılan, cehenneme layık (kimse)
-- ► külhan
+- külhan
 - Modern ekmek fırınlarında, kalorifer kazanlarında ateşin bulunduğu en sıcak bölüm
 ozellikler:
 - - sıfat

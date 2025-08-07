@@ -5,7 +5,7 @@ slug: tenkis
 letter: T
 lisan: Arapça tenḳīṣ
 anlamlar:
-- ► eksiltme
+- eksiltme
 ozellikler:
 - - isim
   - eskimiş

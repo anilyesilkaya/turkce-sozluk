@@ -5,7 +5,7 @@ slug: monadizm
 letter: M
 lisan: Fransızca monadisme
 anlamlar:
-- ► monatçılık
+- monatçılık
 ozellikler:
 - - isim
   - felsefe

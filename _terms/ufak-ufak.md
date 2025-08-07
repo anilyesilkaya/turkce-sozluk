@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Küçük küçük, hafif hafif
 - Küçük parçalar durumunda
-- ► yavaş yavaş
+- yavaş yavaş
 ozellikler:
 - - zarf
 - - zarf

@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe boru + Farsça -zen
 anlamlar:
 - Üfleyerek çalınan, perdesiz çalgı; boru
-- ► borazancı
+- borazancı
 ozellikler:
 - - isim
   - müzik

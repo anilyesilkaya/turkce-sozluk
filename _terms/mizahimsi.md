@@ -5,7 +5,7 @@ slug: mizahimsi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mizahsı
+- mizahsı
 ozellikler:
 - - sıfat
 ornekler:

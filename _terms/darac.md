@@ -5,7 +5,7 @@ slug: darac
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dar (I)
+- dar (I)
 ozellikler:
 - - sıfat
 ornekler:

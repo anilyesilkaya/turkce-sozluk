@@ -5,8 +5,8 @@ slug: fasil
 letter: F
 lisan: Arapça faṣl
 anlamlar:
-- ► bölüm
-- ► devre (I)
+- bölüm
+- devre (I)
 - Belli bir sürede yapılan iş, karşılaşılan durum veya olay
 - Bütçede ayrı ayrı gösterilen bölümler
 - Aynı makamdan eserlerin belli bir sıraya göre icra edildiği, eserlerin arasında saz taksimlerinin yer aldığı konser

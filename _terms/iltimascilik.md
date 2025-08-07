@@ -5,7 +5,7 @@ slug: iltimascilik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► kayırıcılık
+- kayırıcılık
 ozellikler:
 - - isim
 ornekler:

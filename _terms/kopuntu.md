@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Kopmuş parça
-- ► diaspora
+- diaspora
 ozellikler:
 - - isim
 - - isim

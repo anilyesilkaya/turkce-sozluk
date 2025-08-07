@@ -5,7 +5,7 @@ slug: yegane
 letter: Y
 lisan: Farsça yegāne
 anlamlar:
-- ► tek (I)
+- tek (I)
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: ozel-girisim
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► özel sektör
+- özel sektör
 - Bir konu üzerinde harcanan özel çaba
 ozellikler:
 - - isim

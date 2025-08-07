@@ -5,7 +5,7 @@ slug: mastara
 letter: M
 lisan: Arapça misṭara
 anlamlar:
-- ► iletki
+- iletki
 ozellikler:
 - - isim
   - eskimiş

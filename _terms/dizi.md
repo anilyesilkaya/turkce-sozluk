@@ -5,14 +5,14 @@ slug: dizi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sıra
+- sıra
 - Herhangi bakımdan bir bütün oluşturan şeylerin tümü; seri (I)
 - Yan yana, art arda veya zaman sırasına göre sıralanmış birbiriyle ilişkili nesne veya olayların oluşturduğu bütün sıra; sekans
 - Bir söz dizimsel bağlam içinde birbirinin yerini alabilen ve karşıtlık bağlantısı kuran ögelerin oluşturduğu bütün; paradigma
 - Saf durumundaki bir kıtada, birbiri arkasında duran erler
 - Kurallı veya kuralsız olarak sıralanmış terimler takımı
 - Bir oktavın içinde sıralanan sekiz sesin bütünü
-- ► dizi film
+- dizi film
 ozellikler:
 - - isim
 - - isim

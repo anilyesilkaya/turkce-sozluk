@@ -5,7 +5,7 @@ slug: determinizm
 letter: D
 lisan: Fransızca déterminisme
 anlamlar:
-- ► belirlenimcilik
+- belirlenimcilik
 ozellikler:
 - - isim
   - felsefe

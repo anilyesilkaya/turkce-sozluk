@@ -5,7 +5,7 @@ slug: coklari
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► birçoğu
+- birçoğu
 ozellikler:
 - - zamir
 ornekler:

@@ -5,7 +5,7 @@ slug: devri
 letter: D
 lisan: Arapça devrī
 anlamlar:
-- ► devirli
+- devirli
 - Devirle ilgili; çevrimsel
 ozellikler:
 - - sıfat

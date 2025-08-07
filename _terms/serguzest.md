@@ -5,7 +5,7 @@ slug: serguzest
 letter: S
 lisan: Farsça ser + guẕeşt
 anlamlar:
-- ► macera
+- macera
 ozellikler:
 - - isim
   - eskimiş

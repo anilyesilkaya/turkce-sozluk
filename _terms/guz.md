@@ -5,7 +5,7 @@ slug: guz
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► sonbahar
+- sonbahar
 - 22 Eylül ile 21 Aralık arasındaki mevsim
 ozellikler:
 - - isim

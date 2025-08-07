@@ -5,7 +5,7 @@ slug: pornografi
 letter: P
 lisan: Fransızca pornographie
 anlamlar:
-- ► porno
+- porno
 ozellikler:
 - - isim
 ornekler:

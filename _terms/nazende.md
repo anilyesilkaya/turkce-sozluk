@@ -5,7 +5,7 @@ slug: nazende
 letter: N
 lisan: Farsça nāzende
 anlamlar:
-- ► nazlı
+- nazlı
 ozellikler:
 - - sıfat
   - eskimiş

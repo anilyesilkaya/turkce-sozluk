@@ -5,7 +5,7 @@ slug: struktur
 letter: S
 lisan: Fransızca structure
 anlamlar:
-- ► yapı
+- yapı
 ozellikler:
 - - isim
   - toplum bilimi

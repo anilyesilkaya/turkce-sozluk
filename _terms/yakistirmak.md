@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yakışacak bir duruma getirmek, uygun duruma koymak
 - Uygun ve yerinde görmek
-- ► uydurmak
+- uydurmak
 - Bir durum veya niteliği bir kimse için düşünmek; yormak
 ozellikler:
 - - -e

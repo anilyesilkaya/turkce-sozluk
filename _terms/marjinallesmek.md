@@ -5,7 +5,7 @@ slug: marjinallesmek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► aykırılaşmak
+- aykırılaşmak
 ozellikler:
 - - nesnesiz
 ornekler:

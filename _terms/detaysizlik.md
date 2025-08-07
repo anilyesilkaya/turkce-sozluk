@@ -5,7 +5,7 @@ slug: detaysizlik
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ayrıntısızlık
+- ayrıntısızlık
 ozellikler:
 - - isim
 ornekler:

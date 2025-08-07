@@ -5,7 +5,7 @@ slug: sebnem
 letter: Ş
 lisan: Farsça şebnem
 anlamlar:
-- ► çiy
+- çiy
 ozellikler:
 - - isim
   - eskimiş

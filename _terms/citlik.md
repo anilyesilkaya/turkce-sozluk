@@ -5,7 +5,7 @@ slug: citlik
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çitlembik
+- çitlembik
 ozellikler:
 - - isim
   - ağızlardan

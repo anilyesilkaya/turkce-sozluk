@@ -5,7 +5,7 @@ slug: misilleme
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► kısasa kısas
+- kısasa kısas
 ozellikler:
 - - isim
 ornekler:

@@ -5,8 +5,8 @@ slug: tastamam
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tıpatıp
-- ► tamamen
+- tıpatıp
+- tamamen
 ozellikler:
 - - sıfat
 - - sıfat

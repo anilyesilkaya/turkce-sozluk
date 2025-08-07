@@ -5,7 +5,7 @@ slug: kurelemek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► küremek
+- küremek
 ozellikler:
 - - -i
 ornekler:

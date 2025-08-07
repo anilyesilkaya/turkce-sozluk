@@ -10,7 +10,7 @@ anlamlar:
 - Vurma veya sıkıştırma yüzünden vücutta oluşan mor leke
 - İş göremez, hastalıklı olan
 - Sağlam bir temele veya kanıtlara dayanmayan
-- ► sakat
+- sakat
 ozellikler:
 - - sıfat
 - - sıfat

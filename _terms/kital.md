@@ -6,7 +6,7 @@ letter: K
 lisan: Arapça ḳitāl
 anlamlar:
 - Vuruşma, birbirini öldürme
-- ► savaş
+- savaş
 ozellikler:
 - - isim
   - eskimiş

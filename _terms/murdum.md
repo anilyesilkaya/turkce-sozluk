@@ -5,7 +5,7 @@ slug: murdum
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mürdüm eriği
+- mürdüm eriği
 - Mürdüm eriğinin mora çalan rengi
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: nakil-vasitasi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► taşıt
+- taşıt
 ozellikler:
 - - isim
 ornekler:

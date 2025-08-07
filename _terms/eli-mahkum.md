@@ -5,7 +5,7 @@ slug: eli-mahkum
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► mecbur
+- mecbur
 ozellikler:
 - - sıfat
   - mecaz

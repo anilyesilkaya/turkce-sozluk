@@ -5,7 +5,7 @@ slug: naksilik
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► Nakşibendilik
+- Nakşibendilik
 ozellikler:
 - - isim
 ornekler:

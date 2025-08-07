@@ -5,7 +5,7 @@ slug: demir-rengi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► kül rengi
+- kül rengi
 - Bu renkte olan
 ozellikler:
 - - isim

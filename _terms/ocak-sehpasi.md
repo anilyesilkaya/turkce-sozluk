@@ -5,7 +5,7 @@ slug: ocak-sehpasi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► sacayağı
+- sacayağı
 ozellikler:
 - - isim
 ornekler:

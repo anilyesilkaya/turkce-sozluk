@@ -5,7 +5,7 @@ slug: karikaturistlik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► karikatürcülük
+- karikatürcülük
 ozellikler:
 - - isim
 ornekler:

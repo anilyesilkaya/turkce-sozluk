@@ -5,7 +5,7 @@ slug: daltonizm
 letter: D
 lisan: Fransızca daltonisme
 anlamlar:
-- ► renk körlüğü
+- renk körlüğü
 ozellikler:
 - - isim
   - tıp

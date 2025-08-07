@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥirṣ
 anlamlar:
 - Bir şeyi elde etmek için duyulan, önüne geçilmez derecede kuvvetli istek, aşırı tutku
-- ► öfke
+- öfke
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: billurumsu
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► billursu
+- billursu
 ozellikler:
 - - sıfat
 ornekler:

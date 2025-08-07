@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Serpme işine konu olmak
 - Gelişmek, büyümek
-- ► yayılmak
+- yayılmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

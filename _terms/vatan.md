@@ -5,7 +5,7 @@ slug: vatan
 letter: V
 lisan: Arapça vaṭan
 anlamlar:
-- ► yurt
+- yurt
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: bevliye
 letter: B
 lisan: Arapça bevliyye
 anlamlar:
-- ► üroloji
+- üroloji
 ozellikler:
 - - isim
   - tıp

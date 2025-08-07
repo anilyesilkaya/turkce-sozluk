@@ -5,7 +5,7 @@ slug: isale
 letter: I
 lisan: Arapça isāle
 anlamlar:
-- ► akıtma
+- akıtma
 ozellikler:
 - - isim
   - eskimiş

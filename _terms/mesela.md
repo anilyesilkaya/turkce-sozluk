@@ -5,7 +5,7 @@ slug: mesela
 letter: M
 lisan: Arapça mes̱elā
 anlamlar:
-- ► söz gelişi
+- söz gelişi
 ozellikler:
 - - bağlaç
 ornekler:

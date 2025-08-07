@@ -5,7 +5,7 @@ slug: isgaliye-resmi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► işgaliye
+- işgaliye
 ozellikler:
 - - isim
   - eskimiş

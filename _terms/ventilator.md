@@ -5,7 +5,7 @@ slug: ventilator
 letter: V
 lisan: İngilizce ventilator
 anlamlar:
-- ► solunum cihazı
+- solunum cihazı
 ozellikler:
 - - isim
   - tıp

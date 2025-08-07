@@ -5,7 +5,7 @@ slug: gulunc
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► komik
+- komik
 - Alay edilecek durumda olan; tuhaf
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: debbag
 letter: D
 lisan: Arapça debbāġ
 anlamlar:
-- ► sepici
+- sepici
 ozellikler:
 - - isim
   - eskimiş

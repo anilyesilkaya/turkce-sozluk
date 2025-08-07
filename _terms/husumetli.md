@@ -6,8 +6,8 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Husumeti olan
-- ► düşman
-- ► düşmanca
+- düşman
+- düşmanca
 ozellikler:
 - - sıfat
 - - sıfat

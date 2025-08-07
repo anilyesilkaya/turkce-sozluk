@@ -5,7 +5,7 @@ slug: uygulayim-bilimi
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► teknoloji
+- teknoloji
 ozellikler:
 - - isim
 ornekler:

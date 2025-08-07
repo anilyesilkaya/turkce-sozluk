@@ -5,7 +5,7 @@ slug: parazitolojik
 letter: P
 lisan: Fransızca parasitologique
 anlamlar:
-- ► asalak bilimsel
+- asalak bilimsel
 ozellikler:
 - - sıfat
 ornekler:

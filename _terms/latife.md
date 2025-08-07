@@ -5,7 +5,7 @@ slug: latife
 letter: L
 lisan: Arapça laṭīfe
 anlamlar:
-- ► şaka
+- şaka
 ozellikler:
 - - isim
 ornekler:

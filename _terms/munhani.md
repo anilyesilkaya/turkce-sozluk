@@ -5,7 +5,7 @@ slug: munhani
 letter: M
 lisan: Arapça munḥanī
 anlamlar:
-- ► eğri
+- eğri
 ozellikler:
 - - sıfat
   - eskimiş

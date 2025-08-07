@@ -8,7 +8,7 @@ anlamlar:
 - Bir yöne doğru akma
 - Bir şeyin gelişme, olma durumu
 - Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket
-- ► akım
+- akım
 ozellikler:
 - - isim
 - - isim

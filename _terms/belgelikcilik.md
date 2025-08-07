@@ -5,7 +5,7 @@ slug: belgelikcilik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► arşivcilik
+- arşivcilik
 ozellikler:
 - - isim
 ornekler:

@@ -6,7 +6,7 @@ letter: H
 lisan: Türkçe
 anlamlar:
 - Değeri, saygınlığı olan
-- ► onurlu
+- onurlu
 ozellikler:
 - - sıfat
 - - sıfat

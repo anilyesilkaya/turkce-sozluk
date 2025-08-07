@@ -5,7 +5,7 @@ slug: giyim-gosterisi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► defile
+- defile
 ozellikler:
 - - isim
 ornekler:

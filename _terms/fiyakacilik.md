@@ -5,7 +5,7 @@ slug: fiyakacilik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► gösterişçilik
+- gösterişçilik
 ozellikler:
 - - isim
 ornekler:

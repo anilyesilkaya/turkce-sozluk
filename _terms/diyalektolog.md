@@ -5,7 +5,7 @@ slug: diyalektolog
 letter: D
 lisan: Fransızca dialectologue
 anlamlar:
-- ► lehçeci
+- lehçeci
 ozellikler:
 - - isim
   - dil bilimi

@@ -5,7 +5,7 @@ slug: bombelesme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bombelenme
+- bombelenme
 ozellikler:
 - - isim
 ornekler:

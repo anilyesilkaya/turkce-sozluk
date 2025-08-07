@@ -5,7 +5,7 @@ slug: nervurlu-demir
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► nervürlü çelik
+- nervürlü çelik
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: basit-tumce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► basit cümle
+- basit cümle
 ozellikler:
 - - isim
   - dil bilgisi

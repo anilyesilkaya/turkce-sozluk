@@ -5,7 +5,7 @@ slug: hanim-bocegi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► uğur böceği
+- uğur böceği
 ozellikler:
 - - isim
   - hayvan bilimi

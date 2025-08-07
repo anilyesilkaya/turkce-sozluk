@@ -5,7 +5,7 @@ slug: tesirli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► etkili
+- etkili
 ozellikler:
 - - sıfat
 ornekler:

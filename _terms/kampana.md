@@ -5,7 +5,7 @@ slug: kampana
 letter: K
 lisan: İtalyanca campana
 anlamlar:
-- ► çan
+- çan
 - Tekerleğin dingil üzerindeki fren mekanizması
 ozellikler:
 - - isim

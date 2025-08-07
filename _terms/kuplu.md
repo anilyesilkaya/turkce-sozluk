@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Küpü olan
-- ► ayyaş
+- ayyaş
 - Rakısı bol, ucuz meyhane
 ozellikler:
 - - sıfat

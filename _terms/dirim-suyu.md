@@ -5,7 +5,7 @@ slug: dirim-suyu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► abıhayat
+- abıhayat
 ozellikler:
 - - isim
 ornekler:

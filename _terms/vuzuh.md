@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça vużūḥ
 anlamlar:
 - Açık olma durumu
-- ► açıklık
+- açıklık
 ozellikler:
 - - isim
   - eskimiş

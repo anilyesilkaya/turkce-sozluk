@@ -5,7 +5,7 @@ slug: anane
 letter: A
 lisan: Arapça ʿanʿane
 anlamlar:
-- ► gelenek
+- gelenek
 ozellikler:
 - - isim
   - eskimiş

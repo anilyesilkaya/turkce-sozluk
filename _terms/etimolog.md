@@ -5,7 +5,7 @@ slug: etimolog
 letter: E
 lisan: Fransızca étymologue
 anlamlar:
-- ► köken bilimci
+- köken bilimci
 ozellikler:
 - - isim
 ornekler:

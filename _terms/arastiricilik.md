@@ -5,7 +5,7 @@ slug: arastiricilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► araştırmacılık
+- araştırmacılık
 ozellikler:
 - - isim
 ornekler:

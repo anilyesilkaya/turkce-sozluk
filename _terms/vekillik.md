@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Vekil olma durumu; vekâlet, asalet karşıtı
 - Birinin yerine iş görme yetkisi
-- ► bakanlık
+- bakanlık
 ozellikler:
 - - isim
 - - isim

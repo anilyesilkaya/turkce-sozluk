@@ -5,7 +5,7 @@ slug: kotu-haber
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kara haber
+- kara haber
 ozellikler:
 - - isim
 ornekler:

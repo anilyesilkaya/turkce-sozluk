@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Üzeri pireyle dolmak
 - Pirelerini ayıklamak
-- ► kuşkulanmak
+- kuşkulanmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

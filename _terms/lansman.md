@@ -5,7 +5,7 @@ slug: lansman
 letter: L
 lisan: Fransızca lancement
 anlamlar:
-- ► tanıtım
+- tanıtım
 ozellikler:
 - - isim
 ornekler:

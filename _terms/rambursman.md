@@ -5,7 +5,7 @@ slug: rambursman
 letter: R
 lisan: Fransızca remboursement
 anlamlar:
-- ► geri ödeme
+- geri ödeme
 - Ödeme emrini vermesi gereken bankanın talimatına göre akreditif bedelini ödeyen aracı banka
 ozellikler:
 - - isim

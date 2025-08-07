@@ -7,7 +7,7 @@ lisan: Arapça muʿādele
 anlamlar:
 - Eşitlik, beraberlik, denklik
 - Anlaşılmaz iş
-- ► denklem
+- denklem
 ozellikler:
 - - isim
   - eskimiş

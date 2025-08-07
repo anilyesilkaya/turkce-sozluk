@@ -5,7 +5,7 @@ slug: klasman
 letter: K
 lisan: Fransızca classement
 anlamlar:
-- ► bölümleme
+- bölümleme
 - Belli bir sınıf, küme
 ozellikler:
 - - isim

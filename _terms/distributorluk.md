@@ -5,7 +5,7 @@ slug: distributorluk
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► dağıtıcılık
+- dağıtıcılık
 ozellikler:
 - - isim
 ornekler:

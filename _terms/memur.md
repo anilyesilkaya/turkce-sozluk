@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça meʾmūr
 anlamlar:
 - Devlet hizmetinde aylıkla çalışan kimse; görevli, işyar
-- ► yükümlü
+- yükümlü
 ozellikler:
 - - isim
 - - isim

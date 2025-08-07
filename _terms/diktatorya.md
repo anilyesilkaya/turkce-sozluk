@@ -5,7 +5,7 @@ slug: diktatorya
 letter: D
 lisan: Fransızca dictatoriat
 anlamlar:
-- ► diktatörlük
+- diktatörlük
 ozellikler:
 - - isim
 ornekler:

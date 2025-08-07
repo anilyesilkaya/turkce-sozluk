@@ -5,7 +5,7 @@ slug: legal
 letter: L
 lisan: Fransızca légal
 anlamlar:
-- ► yasal
+- yasal
 ozellikler:
 - - sıfat
   - hukuk

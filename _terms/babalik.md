@@ -6,8 +6,8 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Baba olma durumu
-- ► üvey baba
-- ► kaynata
+- üvey baba
+- kaynata
 - Yaşlı veya küçümsenen adamlara söylenen bir seslenme sözü
 - Babaca davranış
 ozellikler:

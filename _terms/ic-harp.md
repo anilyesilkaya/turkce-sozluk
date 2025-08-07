@@ -5,7 +5,7 @@ slug: ic-harp
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► iç savaş
+- iç savaş
 ozellikler:
 - - isim
   - askerlik

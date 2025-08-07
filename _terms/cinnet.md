@@ -5,7 +5,7 @@ slug: cinnet
 letter: C
 lisan: Arapça cinnet
 anlamlar:
-- ► delilik
+- delilik
 ozellikler:
 - - isim
 ornekler:

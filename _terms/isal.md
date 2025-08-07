@@ -5,7 +5,7 @@ slug: isal
 letter: I
 lisan: Arapça īṣāl
 anlamlar:
-- ► ulaştırma
+- ulaştırma
 ozellikler:
 - - isim
   - eskimiş

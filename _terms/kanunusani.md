@@ -5,7 +5,7 @@ slug: kanunusani
 letter: K
 lisan: Arapça kānūn + s̱ānī
 anlamlar:
-- ► ocak
+- ocak
 ozellikler:
 - - isim
   - eskimiş

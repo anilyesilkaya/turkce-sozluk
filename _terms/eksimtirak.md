@@ -5,7 +5,7 @@ slug: eksimtirak
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► ekşimsi
+- ekşimsi
 ozellikler:
 - - sıfat
 ornekler:

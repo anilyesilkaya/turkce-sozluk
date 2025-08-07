@@ -5,7 +5,7 @@ slug: yeltek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hercai
+- hercai
 ozellikler:
 - - sıfat
 ornekler:

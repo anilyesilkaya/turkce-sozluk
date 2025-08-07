@@ -5,7 +5,7 @@ slug: luzum
 letter: L
 lisan: Arapça luzūm
 anlamlar:
-- ► gerek
+- gerek
 ozellikler:
 - - isim
 ornekler:

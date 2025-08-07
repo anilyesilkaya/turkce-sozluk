@@ -5,7 +5,7 @@ slug: kaidecilik
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kuralcılık
+- kuralcılık
 ozellikler:
 - - isim
 ornekler:

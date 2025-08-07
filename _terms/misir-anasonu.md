@@ -5,7 +5,7 @@ slug: misir-anasonu
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► diş otu
+- diş otu
 ozellikler:
 - - isim
   - bitki bilimi

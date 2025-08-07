@@ -5,7 +5,7 @@ slug: muttarit
 letter: M
 lisan: Arapça muṭṭarid
 anlamlar:
-- ► tekdüze
+- tekdüze
 ozellikler:
 - - sıfat
   - eskimiş

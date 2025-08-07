@@ -5,7 +5,7 @@ slug: pisek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► pişkin
+- pişkin
 ozellikler:
 - - sıfat
   - ağızlardan

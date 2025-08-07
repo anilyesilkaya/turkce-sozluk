@@ -5,7 +5,7 @@ slug: tarik
 letter: T
 lisan: Arapça ṭarīḳ
 anlamlar:
-- ► yol
+- yol
 ozellikler:
 - - isim
   - eskimiş

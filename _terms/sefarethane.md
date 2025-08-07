@@ -5,7 +5,7 @@ slug: sefarethane
 letter: S
 lisan: Arapça sefāret + Farsça ḫāne
 anlamlar:
-- ► elçilik
+- elçilik
 ozellikler:
 - - isim
 ornekler:

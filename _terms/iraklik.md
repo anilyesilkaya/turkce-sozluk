@@ -5,7 +5,7 @@ slug: iraklik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► uzaklık
+- uzaklık
 ozellikler:
 - - isim
 ornekler:

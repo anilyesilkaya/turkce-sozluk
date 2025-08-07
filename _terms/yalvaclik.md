@@ -5,7 +5,7 @@ slug: yalvaclik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► peygamberlik
+- peygamberlik
 ozellikler:
 - - isim
 ornekler:

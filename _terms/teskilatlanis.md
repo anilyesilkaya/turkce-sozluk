@@ -5,7 +5,7 @@ slug: teskilatlanis
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütleniş
+- örgütleniş
 ozellikler:
 - - isim
 ornekler:

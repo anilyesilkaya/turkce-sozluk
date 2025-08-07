@@ -5,8 +5,8 @@ slug: paha
 letter: P
 lisan: Farsça bahā
 anlamlar:
-- ► fiyat
-- ► değer
+- fiyat
+- değer
 ozellikler:
 - - isim
 - - isim

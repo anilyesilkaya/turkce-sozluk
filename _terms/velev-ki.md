@@ -6,7 +6,7 @@ letter: V
 lisan: Arapça velev
 anlamlar:
 - Öyle olsa bile, kaldı ki öyle
-- ► hatta
+- hatta
 ozellikler:
 - - bağlaç
 - - bağlaç

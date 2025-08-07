@@ -8,7 +8,7 @@ anlamlar:
 - Bağlamak işi
 - Yapılarda duvarları birbirine bağlayan kiriş; putrel
 - Türk halk müziğinde kullanılan, gövdesi ağaçtan oyularak yapılmış, üç telli, uzun saplı çalgı; saz (II)
-- ► ulama
+- ulama
 ozellikler:
 - - isim
 - - isim

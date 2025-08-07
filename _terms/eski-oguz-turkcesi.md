@@ -5,7 +5,7 @@ slug: eski-oguz-turkcesi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► Eski Anadolu Türkçesi
+- Eski Anadolu Türkçesi
 ozellikler:
 - - isim
   - dil bilimi

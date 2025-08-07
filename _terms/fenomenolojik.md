@@ -5,7 +5,7 @@ slug: fenomenolojik
 letter: F
 lisan: Fransızca phénoménologique
 anlamlar:
-- ► görüngü bilimsel
+- görüngü bilimsel
 ozellikler:
 - - sıfat
   - felsefe

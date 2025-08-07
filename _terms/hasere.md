@@ -5,7 +5,7 @@ slug: hasere
 letter: H
 lisan: Arapça ḥaşere
 anlamlar:
-- ► böcek
+- böcek
 ozellikler:
 - - isim
   - hayvan bilimi

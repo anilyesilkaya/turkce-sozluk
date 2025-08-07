@@ -5,7 +5,7 @@ slug: sar-sar
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şarıl şarıl
+- şarıl şarıl
 ozellikler:
 - - zarf
 ornekler:

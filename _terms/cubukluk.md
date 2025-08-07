@@ -11,7 +11,7 @@ anlamlar:
 - Bir çubuğu dolduracak miktarda olan
 - Çubuğa sarılmış olan
 - Kulak çubuklarını koymak için yapılmış özel kap
-- ► bağ (II)
+- bağ (II)
 ozellikler:
 - - isim
   - eskimiş

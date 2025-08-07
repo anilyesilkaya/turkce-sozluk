@@ -5,7 +5,7 @@ slug: karizmatik
 letter: K
 lisan: Fransızca charismatique
 anlamlar:
-- ► etkileyici
+- etkileyici
 ozellikler:
 - - sıfat
 ornekler:

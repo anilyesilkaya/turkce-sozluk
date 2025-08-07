@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muntesib
 anlamlar:
 - Bir yere, birine bağlanmış, kapılanmış, intisap etmiş olan (kimse)
-- ► ilgili
+- ilgili
 ozellikler:
 - - sıfat
   - eskimiş

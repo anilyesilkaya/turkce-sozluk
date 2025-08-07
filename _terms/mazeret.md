@@ -5,8 +5,8 @@ slug: mazeret
 letter: M
 lisan: Arapça maʿẕeret
 anlamlar:
-- ► özür
-- ► bahane
+- özür
+- bahane
 ozellikler:
 - - isim
 - - isim

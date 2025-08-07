@@ -5,7 +5,7 @@ slug: meyyit
 letter: M
 lisan: Arapça meyyit
 anlamlar:
-- ► ölü
+- ölü
 ozellikler:
 - - isim
   - eskimiş

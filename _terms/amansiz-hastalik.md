@@ -5,7 +5,7 @@ slug: amansiz-hastalik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► kanser
+- kanser
 ozellikler:
 - - isim
 ornekler:

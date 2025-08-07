@@ -5,8 +5,8 @@ slug: yegin
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► şiddetli
-- ► üstün (I)
+- şiddetli
+- üstün (I)
 ozellikler:
 - - sıfat
   - ağızlardan

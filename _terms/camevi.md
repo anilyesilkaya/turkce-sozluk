@@ -5,8 +5,8 @@ slug: camevi
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► camcı
-- ► cam yuvası
+- camcı
+- cam yuvası
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üretim sonucu ortaya çıkan ürün, girdi karşıtı
-- ► artık
+- artık
 - Bilgisayardaki bir metnin, şeklin veya çizimin yazıcı kullanılarak kâğıda dökülmüş biçimi; çıkış
 - Mezuniyet belgesi
 ozellikler:

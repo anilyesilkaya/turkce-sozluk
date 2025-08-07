@@ -5,7 +5,7 @@ slug: kay
 letter: K
 lisan: Arapça ḳayʾ
 anlamlar:
-- ► kusma
+- kusma
 ozellikler:
 - - isim
   - eskimiş

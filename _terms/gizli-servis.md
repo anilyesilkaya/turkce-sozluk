@@ -5,7 +5,7 @@ slug: gizli-servis
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► istihbarat servisi
+- istihbarat servisi
 ozellikler:
 - - isim
 ornekler:

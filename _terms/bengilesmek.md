@@ -5,8 +5,8 @@ slug: bengilesmek
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► sonsuzlaşmak
-- ► ölümsüzleşmek
+- sonsuzlaşmak
+- ölümsüzleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

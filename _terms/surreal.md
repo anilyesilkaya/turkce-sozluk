@@ -5,7 +5,7 @@ slug: surreal
 letter: S
 lisan: Fransızca surréal
 anlamlar:
-- ► gerçeküstü
+- gerçeküstü
 ozellikler:
 - - sıfat
 ornekler:

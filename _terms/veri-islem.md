@@ -5,7 +5,7 @@ slug: veri-islem
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► bilgi işlem
+- bilgi işlem
 ozellikler:
 - - isim
 ornekler:

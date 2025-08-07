@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğunluğa dayanılarak; ekseriyetle
-- ► genellikle
+- genellikle
 ozellikler:
 - - zarf
 - - zarf

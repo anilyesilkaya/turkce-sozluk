@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça muḥaḳḳiḳ
 anlamlar:
 - Gerçeği araştıran
-- ► soruşturmacı
+- soruşturmacı
 ozellikler:
 - - sıfat
 - - sıfat

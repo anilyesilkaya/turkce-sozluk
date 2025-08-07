@@ -5,7 +5,7 @@ slug: ilgim
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► serap
+- serap
 ozellikler:
 - - isim
 ornekler:

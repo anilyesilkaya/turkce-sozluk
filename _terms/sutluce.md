@@ -5,7 +5,7 @@ slug: sutluce
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► düğün çiçeği
+- düğün çiçeği
 ozellikler:
 - - isim
   - bitki bilimi

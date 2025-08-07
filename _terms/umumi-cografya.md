@@ -5,7 +5,7 @@ slug: umumi-cografya
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► genel coğrafya
+- genel coğrafya
 ozellikler:
 - - isim
   - eskimiş

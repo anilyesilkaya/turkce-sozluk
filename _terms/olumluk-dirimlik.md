@@ -5,7 +5,7 @@ slug: olumluk-dirimlik
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► ölümlük kalımlık
+- ölümlük kalımlık
 ozellikler:
 - - sıfat
   - mecaz

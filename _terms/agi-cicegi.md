@@ -5,7 +5,7 @@ slug: agi-cicegi
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zakkum
+- zakkum
 ozellikler:
 - - isim
   - bitki bilimi

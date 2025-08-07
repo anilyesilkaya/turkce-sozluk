@@ -5,7 +5,7 @@ slug: mustebit
 letter: M
 lisan: Arapça mustebidd
 anlamlar:
-- ► zorba
+- zorba
 ozellikler:
 - - sıfat
   - eskimiş

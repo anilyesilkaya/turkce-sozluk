@@ -5,7 +5,7 @@ slug: nisif
 letter: N
 lisan: Arapça niṣf
 anlamlar:
-- ► yarı
+- yarı
 ozellikler:
 - - isim
   - eskimiş

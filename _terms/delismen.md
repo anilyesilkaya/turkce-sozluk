@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Sözleri ve davranışları ölçüsüz olan
 - Davranışları daha çok keyif ve isteğine bağlı olan
-- ► hoppa
+- hoppa
 ozellikler:
 - - sıfat
 - - sıfat

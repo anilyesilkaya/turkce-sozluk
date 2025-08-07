@@ -5,7 +5,7 @@ slug: sekans
 letter: S
 lisan: Fransızca séquence
 anlamlar:
-- ► dizi
+- dizi
 - Bir bütün meydana getiren planlar dizisi
 - Bir melodi veya ritim motifinin gamın değişik derecelerinde tekrarı
 ozellikler:

@@ -5,7 +5,7 @@ slug: pek-canli
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► dayanıklı
+- dayanıklı
 ozellikler:
 - - sıfat
   - mecaz

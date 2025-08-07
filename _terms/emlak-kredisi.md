@@ -5,7 +5,7 @@ slug: emlak-kredisi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► konut kredisi
+- konut kredisi
 ozellikler:
 - - isim
 ornekler:

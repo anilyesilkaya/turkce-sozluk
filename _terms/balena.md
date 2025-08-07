@@ -5,7 +5,7 @@ slug: balena
 letter: B
 lisan: İtalyanca balena
 anlamlar:
-- ► balen
+- balen
 ozellikler:
 - - isim
 ornekler:

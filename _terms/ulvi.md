@@ -5,9 +5,9 @@ slug: ulvi
 letter: U
 lisan: Arapça ʿulvī
 anlamlar:
-- ► yüce
+- yüce
 - Eşsiz, benzersiz özellikler taşıyan
-- ► semavi
+- semavi
 - Manevi ve ruhani âlemle ilgili
 ozellikler:
 - - sıfat

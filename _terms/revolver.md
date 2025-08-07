@@ -5,7 +5,7 @@ slug: revolver
 letter: R
 lisan: Fransızca revolver
 anlamlar:
-- ► altıpatlar
+- altıpatlar
 ozellikler:
 - - isim
 ornekler:

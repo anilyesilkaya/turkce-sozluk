@@ -5,7 +5,7 @@ slug: gelin-otu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► güveyfeneri
+- güveyfeneri
 ozellikler:
 - - isim
   - bitki bilimi

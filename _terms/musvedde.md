@@ -5,7 +5,7 @@ slug: musvedde
 letter: M
 lisan: Arapça musvedde
 anlamlar:
-- ► karalama
+- karalama
 - Bir şeyin kötü benzeri
 ozellikler:
 - - isim

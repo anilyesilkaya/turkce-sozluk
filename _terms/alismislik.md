@@ -5,7 +5,7 @@ slug: alismislik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► alışkanlık
+- alışkanlık
 ozellikler:
 - - isim
 ornekler:

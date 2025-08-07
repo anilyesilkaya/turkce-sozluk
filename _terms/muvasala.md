@@ -5,8 +5,8 @@ slug: muvasala
 letter: M
 lisan: Arapça muvāṣala
 anlamlar:
-- ► ulaşım
-- ► kavuşma
+- ulaşım
+- kavuşma
 ozellikler:
 - - isim
   - eskimiş

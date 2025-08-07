@@ -5,7 +5,7 @@ slug: ablacilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sevicilik
+- sevicilik
 ozellikler:
 - - isim
   - argo

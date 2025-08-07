@@ -5,7 +5,7 @@ slug: itayagi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► çintemani
+- çintemani
 ozellikler:
 - - isim
 ornekler:

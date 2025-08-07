@@ -5,7 +5,7 @@ slug: dag-kedisi
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► yaban kedisi
+- yaban kedisi
 ozellikler:
 - - isim
   - hayvan bilimi

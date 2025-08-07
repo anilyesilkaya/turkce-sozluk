@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Fiyatı veya ücreti toptan belirlenen (iş vb.)
 - Fiyatını toptan belirleyerek; kabala (II)
-- ► zarar
+- zarar
 ozellikler:
 - - sıfat
   - ticaret

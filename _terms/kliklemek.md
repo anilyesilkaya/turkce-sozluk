@@ -5,7 +5,7 @@ slug: kliklemek
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► tıklamak
+- tıklamak
 ozellikler:
 - - -i
 ornekler:

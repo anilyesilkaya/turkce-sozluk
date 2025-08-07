@@ -5,7 +5,7 @@ slug: dest
 letter: D
 lisan: Farsça dest
 anlamlar:
-- ► el (I)
+- el (I)
 ozellikler:
 - - isim
 ornekler:

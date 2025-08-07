@@ -6,7 +6,7 @@ letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuşturmak işi
-- ► anestezi
+- anestezi
 ozellikler:
 - - isim
 - - isim

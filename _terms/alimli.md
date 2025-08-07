@@ -5,7 +5,7 @@ slug: alimli
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çekici
+- çekici
 ozellikler:
 - - sıfat
 ornekler:

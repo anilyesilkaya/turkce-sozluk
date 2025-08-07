@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kargaşayı, ayaklanmayı bastırmak
-- ► sakinleştirmek
+- sakinleştirmek
 - Yumuşatmak, razı etmek
 ozellikler:
 - - -i

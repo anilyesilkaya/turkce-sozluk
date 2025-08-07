@@ -5,7 +5,7 @@ slug: sine
 letter: S
 lisan: Farsça sīne
 anlamlar:
-- ► göğüs
+- göğüs
 - Bir şeyin içi, derinliği, özü; bağır, gönül, yürek
 ozellikler:
 - - isim

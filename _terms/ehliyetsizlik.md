@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Ehliyetsiz olma durumu
-- ► yetersizlik
+- yetersizlik
 ozellikler:
 - - isim
 - - isim

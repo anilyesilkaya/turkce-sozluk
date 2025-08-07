@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bir yerden başka bir yere gitme; tebdilimekân
 - Bir birimde çalışan görevlilerin düzenli bir biçimde başka birimlere geçmesi; rotasyon
-- ► göçüşme
+- göçüşme
 - Laboratuvarlarda gazları toplamakta izlenen yöntem
 ozellikler:
 - - isim

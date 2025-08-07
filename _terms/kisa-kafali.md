@@ -5,7 +5,7 @@ slug: kisa-kafali
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► brakisefal
+- brakisefal
 ozellikler:
 - - sıfat
   - anatomi

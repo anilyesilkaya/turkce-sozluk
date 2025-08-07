@@ -5,7 +5,7 @@ slug: ana-defter
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► büyük defter
+- büyük defter
 ozellikler:
 - - isim
   - ticaret

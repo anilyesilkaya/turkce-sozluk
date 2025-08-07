@@ -5,7 +5,7 @@ slug: hilkat
 letter: H
 lisan: Arapça ḫilḳat
 anlamlar:
-- ► yaradılış
+- yaradılış
 ozellikler:
 - - isim
   - eskimiş

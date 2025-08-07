@@ -5,7 +5,7 @@ slug: telaro
 letter: T
 lisan: İtalyanca telaio
 anlamlar:
-- ► ip iskelesi
+- ip iskelesi
 ozellikler:
 - - isim
 ornekler:

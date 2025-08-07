@@ -5,7 +5,7 @@ slug: eflatunsu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► eflatunumsu
+- eflatunumsu
 ozellikler:
 - - sıfat
 ornekler:

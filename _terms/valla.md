@@ -5,7 +5,7 @@ slug: valla
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vallahi
+- vallahi
 ozellikler:
 - - ünlem
   - ağızlardan

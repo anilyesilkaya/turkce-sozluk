@@ -5,7 +5,7 @@ slug: risale
 letter: R
 lisan: Arapça risāle
 anlamlar:
-- ► kitapçık
+- kitapçık
 ozellikler:
 - - isim
   - eskimiş

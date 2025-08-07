@@ -5,7 +5,7 @@ slug: belgelik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► arşiv
+- arşiv
 - Belge almayı hak eden
 ozellikler:
 - - isim

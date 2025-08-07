@@ -5,7 +5,7 @@ slug: degimsiz
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► liyakatsiz
+- liyakatsiz
 ozellikler:
 - - sıfat
 ornekler:

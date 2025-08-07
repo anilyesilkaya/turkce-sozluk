@@ -5,7 +5,7 @@ slug: sirlagan
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► susam yağı
+- susam yağı
 ozellikler:
 - - isim
   - ağızlardan

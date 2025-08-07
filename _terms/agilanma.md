@@ -5,7 +5,7 @@ slug: agilanma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► zehirlenme
+- zehirlenme
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: muhim
 letter: M
 lisan: Arapça muhimm
 anlamlar:
-- ► önemli
+- önemli
 ozellikler:
 - - sıfat
 ornekler:

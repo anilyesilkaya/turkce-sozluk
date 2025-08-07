@@ -5,7 +5,7 @@ slug: moralist
 letter: M
 lisan: Fransızca moraliste
 anlamlar:
-- ► ahlakçı
+- ahlakçı
 ozellikler:
 - - sıfat
   - felsefe

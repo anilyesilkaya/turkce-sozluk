@@ -5,7 +5,7 @@ slug: yigitleme
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► koçaklama
+- koçaklama
 ozellikler:
 - - isim
   - edebiyat

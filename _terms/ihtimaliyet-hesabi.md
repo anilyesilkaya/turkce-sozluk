@@ -5,7 +5,7 @@ slug: ihtimaliyet-hesabi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► olasılık hesabı
+- olasılık hesabı
 ozellikler:
 - - isim
   - matematik

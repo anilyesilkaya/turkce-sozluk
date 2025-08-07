@@ -5,7 +5,7 @@ slug: giderek
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► gittikçe
+- gittikçe
 ozellikler:
 - - zarf
 ornekler:

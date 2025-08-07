@@ -5,7 +5,7 @@ slug: oylasma
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► müzakere
+- müzakere
 ozellikler:
 - - isim
 ornekler:

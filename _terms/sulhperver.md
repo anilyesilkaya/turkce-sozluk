@@ -5,7 +5,7 @@ slug: sulhperver
 letter: S
 lisan: Arapça ṣulḥ + Farsça -perver
 anlamlar:
-- ► barışsever
+- barışsever
 ozellikler:
 - - sıfat
   - eskimiş

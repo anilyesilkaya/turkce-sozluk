@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Küçük kutu
 - Test biçiminde yapılan sınavda şıkları gösteren, içi doldurularak cevabın işaretlendiği yuvarlak küçük alan
-- ► kaset
+- kaset
 ozellikler:
 - - isim
 - - isim

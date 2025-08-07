@@ -5,10 +5,10 @@ slug: menfi
 letter: M
 lisan: Arapça menfī
 anlamlar:
-- ► olumsuz
+- olumsuz
 - Her şeyi olumsuz ve kötü yanlarıyla ele alan
-- ► olumsuz
-- ► eksi
+- olumsuz
+- eksi
 ozellikler:
 - - sıfat
 - - sıfat

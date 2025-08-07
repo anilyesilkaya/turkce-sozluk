@@ -5,7 +5,7 @@ slug: yetke
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► otorite
+- otorite
 - Yeterliğine herkesi inandırarak bir kimsenin kendisine sağladığı itaat ve güven; sulta, velayet
 ozellikler:
 - - isim

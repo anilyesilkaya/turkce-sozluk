@@ -5,7 +5,7 @@ slug: produktivite
 letter: P
 lisan: Fransızca productivité
 anlamlar:
-- ► üretkenlik
+- üretkenlik
 ozellikler:
 - - isim
 ornekler:

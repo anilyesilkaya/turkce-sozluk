@@ -5,7 +5,7 @@ slug: dekont
 letter: D
 lisan: Fransızca décompte
 anlamlar:
-- ► hesap belgesi
+- hesap belgesi
 ozellikler:
 - - isim
   - ekonomi

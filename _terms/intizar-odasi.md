@@ -5,7 +5,7 @@ slug: intizar-odasi
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► bekleme salonu
+- bekleme salonu
 ozellikler:
 - - isim
 ornekler:

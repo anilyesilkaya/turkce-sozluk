@@ -5,7 +5,7 @@ slug: korunma-mesafesi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► fiziksel mesafe
+- fiziksel mesafe
 ozellikler:
 - - isim
 ornekler:

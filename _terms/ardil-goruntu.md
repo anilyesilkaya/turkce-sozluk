@@ -5,7 +5,7 @@ slug: ardil-goruntu
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► ardışık görüntü
+- ardışık görüntü
 ozellikler:
 - - isim
   - ruh bilimi

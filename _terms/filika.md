@@ -5,7 +5,7 @@ slug: filika
 letter: F
 lisan: İtalyanca feluca
 anlamlar:
-- ► cankurtaran sandalı
+- cankurtaran sandalı
 ozellikler:
 - - isim
   - denizcilik

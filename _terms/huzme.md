@@ -5,7 +5,7 @@ slug: huzme
 letter: H
 lisan: Arapça ḥuzme
 anlamlar:
-- ► ışık demeti
+- ışık demeti
 ozellikler:
 - - isim
 ornekler:

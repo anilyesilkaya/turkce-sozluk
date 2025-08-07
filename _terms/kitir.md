@@ -6,7 +6,7 @@ letter: K
 lisan: Türkçe
 anlamlar:
 - Minderin sertleşmesini sağlayan içindeki saman parçaları
-- ► yalan
+- yalan
 - Patlamış mısır
 ozellikler:
 - - isim

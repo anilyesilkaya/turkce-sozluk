@@ -5,7 +5,7 @@ slug: mutealiye
 letter: M
 lisan: Arapça muteʿāliye
 anlamlar:
-- ► deneyüstücülük
+- deneyüstücülük
 ozellikler:
 - - isim
   - eskimiş

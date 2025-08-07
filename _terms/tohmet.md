@@ -5,7 +5,7 @@ slug: tohmet
 letter: T
 lisan: Arapça tuhmet
 anlamlar:
-- ► suçlama
+- suçlama
 ozellikler:
 - - isim
 ornekler:

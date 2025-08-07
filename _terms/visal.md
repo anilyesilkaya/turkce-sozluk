@@ -5,7 +5,7 @@ slug: visal
 letter: V
 lisan: Arapça viṣāl
 anlamlar:
-- ► kavuşma
+- kavuşma
 ozellikler:
 - - isim
   - eskimiş

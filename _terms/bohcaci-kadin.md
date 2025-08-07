@@ -5,7 +5,7 @@ slug: bohcaci-kadin
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bohçacı
+- bohçacı
 ozellikler:
 - - isim
 ornekler:

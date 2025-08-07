@@ -8,7 +8,7 @@ anlamlar:
 - Görülür duruma gelmek, görülür olmak; gözükmek
 - İzlenim uyandırmak
 - Benzemek, görünüşünde olmak
-- ► azarlamak
+- azarlamak
 - Gözdağı vermek
 ozellikler:
 - - nesnesiz

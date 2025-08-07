@@ -5,7 +5,7 @@ slug: limit
 letter: L
 lisan: Fransızca limite
 anlamlar:
-- ► sınır
+- sınır
 ozellikler:
 - - isim
 ornekler:

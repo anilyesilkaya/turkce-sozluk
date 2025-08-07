@@ -5,7 +5,7 @@ slug: vesveseli
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► kuruntulu
+- kuruntulu
 ozellikler:
 - - sıfat
 ornekler:

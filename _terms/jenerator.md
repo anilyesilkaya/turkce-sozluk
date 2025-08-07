@@ -5,7 +5,7 @@ slug: jenerator
 letter: J
 lisan: Fransızca générateur
 anlamlar:
-- ► üreteç
+- üreteç
 ozellikler:
 - - isim
   - fizik

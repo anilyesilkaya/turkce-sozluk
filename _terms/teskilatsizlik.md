@@ -5,7 +5,7 @@ slug: teskilatsizlik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütsüzlük
+- örgütsüzlük
 ozellikler:
 - - isim
 ornekler:

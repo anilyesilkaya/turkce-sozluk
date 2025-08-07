@@ -5,7 +5,7 @@ slug: kristallestirme
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► billurlaştırma
+- billurlaştırma
 ozellikler:
 - - isim
 ornekler:

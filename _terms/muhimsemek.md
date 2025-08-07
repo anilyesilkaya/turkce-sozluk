@@ -5,7 +5,7 @@ slug: muhimsemek
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► önemsemek
+- önemsemek
 ozellikler:
 - - -i
   - eskimiş

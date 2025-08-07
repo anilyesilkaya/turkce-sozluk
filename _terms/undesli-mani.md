@@ -5,7 +5,7 @@ slug: undesli-mani
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► cinaslı mâni
+- cinaslı mâni
 ozellikler:
 - - isim
   - edebiyat

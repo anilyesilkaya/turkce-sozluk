@@ -6,8 +6,8 @@ letter: C
 lisan: Arapça cenāḥ
 anlamlar:
 - Kuşun kanadı
-- ► taraf
-- ► kanat
+- taraf
+- kanat
 ozellikler:
 - - isim
   - eskimiş

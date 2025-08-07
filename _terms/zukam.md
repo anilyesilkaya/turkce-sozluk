@@ -5,7 +5,7 @@ slug: zukam
 letter: Z
 lisan: Arapça zukām
 anlamlar:
-- ► nezle
+- nezle
 ozellikler:
 - - isim
   - eskimiş

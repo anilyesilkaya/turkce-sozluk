@@ -5,7 +5,7 @@ slug: cihansumul
 letter: C
 lisan: Farsça cihān + Arapça şumūl
 anlamlar:
-- ► evrensel
+- evrensel
 ozellikler:
 - - sıfat
   - eskimiş

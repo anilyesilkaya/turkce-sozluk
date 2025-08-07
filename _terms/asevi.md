@@ -6,7 +6,7 @@ letter: A
 lisan: Türkçe
 anlamlar:
 - Yoksullara parasız yemek yedirilen veya dağıtılan yer; aşhane
-- ► lokanta
+- lokanta
 - Düğün, nişan vb. toplantılarda, verilecek yemekleri hazırlamak için geçici olarak mutfak gibi kullanılan yer
 - Tekkelerde yemek pişirilen yer
 ozellikler:

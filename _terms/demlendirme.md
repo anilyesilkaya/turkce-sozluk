@@ -5,7 +5,7 @@ slug: demlendirme
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► demleme
+- demleme
 ozellikler:
 - - isim
 ornekler:

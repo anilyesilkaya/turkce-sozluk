@@ -5,7 +5,7 @@ slug: banyo-kuveti
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► küvet
+- küvet
 ozellikler:
 - - isim
 ornekler:

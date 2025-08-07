@@ -5,7 +5,7 @@ slug: yeke-yek
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► teke tek
+- teke tek
 ozellikler:
 - - zarf
 ornekler:

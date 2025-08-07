@@ -5,9 +5,9 @@ slug: reaksiyon
 letter: R
 lisan: Fransızca réaction
 anlamlar:
-- ► tepki
-- ► tepkime
-- ► yanıt
+- tepki
+- tepkime
+- yanıt
 ozellikler:
 - - isim
 - - isim

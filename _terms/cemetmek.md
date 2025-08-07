@@ -5,7 +5,7 @@ slug: cemetmek
 letter: C
 lisan: Arapça cemʿ + Türkçe etmek
 anlamlar:
-- ► toplamak
+- toplamak
 ozellikler:
 - - -i
   - eskimiş

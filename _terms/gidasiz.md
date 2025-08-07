@@ -5,7 +5,7 @@ slug: gidasiz
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► besinsiz
+- besinsiz
 ozellikler:
 - - sıfat
 ornekler:

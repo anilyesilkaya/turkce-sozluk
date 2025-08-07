@@ -5,7 +5,7 @@ slug: ziyadelesmek
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► çoğalmak
+- çoğalmak
 ozellikler:
 - - nesnesiz
 ornekler:

@@ -5,7 +5,7 @@ slug: helezonlu
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► sarmal
+- sarmal
 ozellikler:
 - - sıfat
 ornekler:

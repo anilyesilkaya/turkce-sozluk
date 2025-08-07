@@ -5,7 +5,7 @@ slug: takat-siniri
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► dayanma gücü
+- dayanma gücü
 ozellikler:
 - - isim
 ornekler:

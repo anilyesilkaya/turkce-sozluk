@@ -5,7 +5,7 @@ slug: koruma-gorevlisi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► koruma
+- koruma
 ozellikler:
 - - isim
 ornekler:

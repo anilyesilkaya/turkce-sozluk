@@ -5,7 +5,7 @@ slug: muddetsiz
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► süresiz
+- süresiz
 ozellikler:
 - - sıfat
 ornekler:

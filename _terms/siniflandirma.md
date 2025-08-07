@@ -5,7 +5,7 @@ slug: siniflandirma
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bölümlendirme
+- bölümlendirme
 - Sınıflandırmak işi
 ozellikler:
 - - isim

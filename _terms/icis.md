@@ -5,7 +5,7 @@ slug: icis
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içim
+- içim
 ozellikler:
 - - isim
 ornekler:

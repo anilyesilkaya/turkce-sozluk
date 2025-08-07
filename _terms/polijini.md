@@ -5,7 +5,7 @@ slug: polijini
 letter: P
 lisan: Fransızca polygynie
 anlamlar:
-- ► çok karılılık
+- çok karılılık
 ozellikler:
 - - isim
   - toplum bilimi

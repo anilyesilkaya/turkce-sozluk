@@ -5,7 +5,7 @@ slug: baskumandanlik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkomutanlık
+- başkomutanlık
 ozellikler:
 - - isim
 ornekler:

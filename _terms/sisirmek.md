@@ -8,7 +8,7 @@ anlamlar:
 - Üfleyerek veya araç kullanarak şişkin bir duruma getirmek
 - Darbe, vb. yollarla şişmesine sebep olmak
 - Herhangi bir yiyecek mideyi gazla doldurup şişmesine sebep olmak
-- ► abartmak
+- abartmak
 - Bir sözü veya yazıyı gereksiz yere uzatmak
 - Baştan savma iş görmek
 - Bir kimsenin öfkesinin, üzüntüsünün, sıkıntısının artmasına sebep olacak biçimde konuşmak

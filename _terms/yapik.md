@@ -5,7 +5,7 @@ slug: yapik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► belleme (II)
+- belleme (II)
 - Yeniçerilerin giydikleri üstlük
 ozellikler:
 - - isim

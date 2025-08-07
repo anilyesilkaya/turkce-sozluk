@@ -5,7 +5,7 @@ slug: vahdetivucut
 letter: V
 lisan: Arapça vaḥdet + vücūd
 anlamlar:
-- ► varlık birliği
+- varlık birliği
 ozellikler:
 - - isim
   - felsefe

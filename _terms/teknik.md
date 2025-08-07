@@ -9,7 +9,7 @@ anlamlar:
 - Fizik, kimya, matematik vb. bilimlerden elde edilen verileri iş ve yapım alanında uygulama; fen
 - Bu uygulamaya dayanan, bu uygulamaya ilişkin
 - Yol, beceri, yöntem
-- ► uygulayım
+- uygulayım
 ozellikler:
 - - isim
 - - isim

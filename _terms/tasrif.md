@@ -5,7 +5,7 @@ slug: tasrif
 letter: T
 lisan: Arapça taṣrīf
 anlamlar:
-- ► çekim
+- çekim
 ozellikler:
 - - isim
   - eskimiş

@@ -5,7 +5,7 @@ slug: randimanli
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► verimli
+- verimli
 ozellikler:
 - - sıfat
 ornekler:

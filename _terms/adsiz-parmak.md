@@ -5,7 +5,7 @@ slug: adsiz-parmak
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► yüzük parmağı
+- yüzük parmağı
 ozellikler:
 - - isim
 ornekler:

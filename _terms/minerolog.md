@@ -5,7 +5,7 @@ slug: minerolog
 letter: M
 lisan: Fransızca minéralogue
 anlamlar:
-- ► mineral bilimci
+- mineral bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: uhuvvet
 letter: U
 lisan: Arapça uḫuvvet
 anlamlar:
-- ► kardeşlik
+- kardeşlik
 - Dostluk, bağlılık
 ozellikler:
 - - isim

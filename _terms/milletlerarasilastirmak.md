@@ -5,7 +5,7 @@ slug: milletlerarasilastirmak
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► uluslararasılaştırmak
+- uluslararasılaştırmak
 ozellikler:
 - - -i
 ornekler:

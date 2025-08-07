@@ -6,7 +6,7 @@ letter: B
 lisan: Arapça baḥr
 anlamlar:
 - Mevlidin bölümlerinden her biri
-- ► deniz
+- deniz
 - Aruzdaki vezin takımlarından her biri
 ozellikler:
 - - isim

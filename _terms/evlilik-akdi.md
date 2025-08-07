@@ -5,7 +5,7 @@ slug: evlilik-akdi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► nikâh
+- nikâh
 ozellikler:
 - - isim
 ornekler:

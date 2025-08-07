@@ -5,7 +5,7 @@ slug: duygu-durumu
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ruhsal durum
+- ruhsal durum
 ozellikler:
 - - isim
   - ruh bilimi

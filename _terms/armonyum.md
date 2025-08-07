@@ -5,7 +5,7 @@ slug: armonyum
 letter: A
 lisan: Fransızca harmonium
 anlamlar:
-- ► harmonyum
+- harmonyum
 ozellikler:
 - - isim
   - müzik

@@ -5,8 +5,8 @@ slug: usulsuzluk
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► yöntemsizlik
-- ► yolsuzluk
+- yöntemsizlik
+- yolsuzluk
 ozellikler:
 - - isim
 - - isim

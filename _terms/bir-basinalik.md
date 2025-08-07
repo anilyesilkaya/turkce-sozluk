@@ -5,7 +5,7 @@ slug: bir-basinalik
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tek başınalık
+- tek başınalık
 ozellikler:
 - - isim
 ornekler:

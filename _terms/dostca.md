@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Dosta yakışır, dost gibi
 - (do'stça) Dosta yakışır bir biçimde; dostane
-- ► kardeşçe
+- kardeşçe
 ozellikler:
 - - sıfat
 - - sıfat

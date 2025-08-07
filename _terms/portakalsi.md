@@ -5,7 +5,7 @@ slug: portakalsi
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► portakalımsı
+- portakalımsı
 ozellikler:
 - - sıfat
 ornekler:

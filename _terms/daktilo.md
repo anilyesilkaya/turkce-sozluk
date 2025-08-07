@@ -5,8 +5,8 @@ slug: daktilo
 letter: D
 lisan: Fransızca dactylo
 anlamlar:
-- ► yazı makinesi
-- ► daktilograf
+- yazı makinesi
+- daktilograf
 ozellikler:
 - - isim
 - - isim

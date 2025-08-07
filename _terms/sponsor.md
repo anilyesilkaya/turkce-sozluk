@@ -5,7 +5,7 @@ slug: sponsor
 letter: S
 lisan: İngilizce sponsor
 anlamlar:
-- ► destekleyici
+- destekleyici
 ozellikler:
 - - isim
 ornekler:

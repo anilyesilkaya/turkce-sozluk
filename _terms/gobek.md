@@ -11,11 +11,11 @@ anlamlar:
 - Bazı sebze ve meyvelerin orta kısmı
 - Bahçe, halı, tavan, tepsi vb. süslü şeylerin ortalarındaki biçim
 - Hızı azaltarak trafiği yönetmek amacıyla bir kavşağın girişine yerleştirilen çember veya üçgen biçimindeki ada
-- ► poyra
+- poyra
 - Değirmen taşının ortası
 - Kilitleme sistemlerinde, anahtar dişlerinin tam olarak birbirine oturduğu pirinç yuva
 - Dölütte, yumurtanın dölüt dışında kalan bölümlerle ilişkisini sağlayan organların çıktığı yer
-- ► kuşak
+- kuşak
 - Ön ve arka tekerlerin ortasına oturtulmuş mil üzerinde dönen ve teker tellerinin takılmasına yarayan parça
 ozellikler:
 - - isim

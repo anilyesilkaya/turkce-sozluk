@@ -5,7 +5,7 @@ slug: tansik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► mucize
+- mucize
 ozellikler:
 - - isim
   - eskimiş

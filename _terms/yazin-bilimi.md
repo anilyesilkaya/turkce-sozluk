@@ -5,7 +5,7 @@ slug: yazin-bilimi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► edebiyat bilimi
+- edebiyat bilimi
 ozellikler:
 - - isim
 ornekler:

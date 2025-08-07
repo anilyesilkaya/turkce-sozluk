@@ -5,7 +5,7 @@ slug: hara
 letter: H
 lisan: Farsça ḫārā
 anlamlar:
-- ► hare
+- hare
 ozellikler:
 - - isim
   - eskimiş

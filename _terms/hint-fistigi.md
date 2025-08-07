@@ -5,7 +5,7 @@ slug: hint-fistigi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kürkas
+- kürkas
 ozellikler:
 - - isim
   - bitki bilimi

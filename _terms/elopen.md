@@ -5,7 +5,7 @@ slug: elopen
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kertenkele
+- kertenkele
 ozellikler:
 - - isim
   - ağızlardan

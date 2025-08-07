@@ -5,7 +5,7 @@ slug: kimi-zaman
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: odence
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tazminat
+- tazminat
 ozellikler:
 - - isim
   - hukuk

@@ -5,7 +5,7 @@ slug: dis-alim
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► ithalat
+- ithalat
 ozellikler:
 - - isim
   - ticaret

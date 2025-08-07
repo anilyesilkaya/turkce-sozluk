@@ -5,7 +5,7 @@ slug: jeosantrizm
 letter: J
 lisan: Fransızca géocentrisme
 anlamlar:
-- ► yermerkezcilik
+- yermerkezcilik
 ozellikler:
 - - isim
 ornekler:

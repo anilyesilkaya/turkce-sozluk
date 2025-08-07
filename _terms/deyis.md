@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Deme, söyleme işi
 - Bir kimsenin bir konuyla ilgili düşücelerini anlatım biçimi, üslubu; ifade
-- ► halk şiiri
+- halk şiiri
 - Semahla birlikte yalnızca bağlama eşliğinde ağır tempoda söylenen bir beste türü
 ozellikler:
 - - isim

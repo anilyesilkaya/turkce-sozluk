@@ -5,7 +5,7 @@ slug: entrikacilik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► düzenbazlık
+- düzenbazlık
 ozellikler:
 - - isim
 ornekler:

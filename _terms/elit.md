@@ -5,7 +5,7 @@ slug: elit
 letter: E
 lisan: Fransızca élite
 anlamlar:
-- ► seçkin
+- seçkin
 ozellikler:
 - - sıfat
 ornekler:

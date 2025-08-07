@@ -5,7 +5,7 @@ slug: minval
 letter: M
 lisan: Arapça minvāl
 anlamlar:
-- ► tarz
+- tarz
 ozellikler:
 - - isim
   - eskimiş

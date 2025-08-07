@@ -7,7 +7,7 @@ lisan: Arapça taṭmīn
 anlamlar:
 - İstenen bir şeyin gerçekleşmesini sağlama, gönül doygunluğuna erme; doyum
 - Cinsel isteklerini giderme
-- ► doygunluk
+- doygunluk
 ozellikler:
 - - isim
 - - isim

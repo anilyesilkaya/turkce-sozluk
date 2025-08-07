@@ -6,7 +6,7 @@ letter: K
 lisan: Farsça kūtek
 anlamlar:
 - Baston, sopa
-- ► dayak (I)
+- dayak (I)
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: alaten
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► cüzzamlı
+- cüzzamlı
 ozellikler:
 - - sıfat
   - ağızlardan

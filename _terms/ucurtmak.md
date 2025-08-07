@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Uçma işini yaptırmak
 - Uçmasına yol açmak
-- ► uçurmak
+- uçurmak
 ozellikler:
 - - -e
   - -i

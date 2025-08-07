@@ -5,7 +5,7 @@ slug: nim
 letter: N
 lisan: Farsça nīm
 anlamlar:
-- ► yarı
+- yarı
 ozellikler:
 - - sıfat
   - eskimiş

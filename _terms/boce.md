@@ -5,7 +5,7 @@ slug: boce
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► böcek
+- böcek
 ozellikler:
 - - isim
   - ağızlardan

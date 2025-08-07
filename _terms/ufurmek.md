@@ -5,7 +5,7 @@ slug: ufurmek
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► üflemek
+- üflemek
 - Üfleyerek bulunduğu yerden uzaklaştırmak
 - Rüzgâr esmek
 - Üflemeli bir çalgıyı üfleyerek çalmak

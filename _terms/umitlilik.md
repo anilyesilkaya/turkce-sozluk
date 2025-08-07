@@ -5,7 +5,7 @@ slug: umitlilik
 letter: Ü
 lisan: Türkçe
 anlamlar:
-- ► umutluluk
+- umutluluk
 ozellikler:
 - - isim
 ornekler:

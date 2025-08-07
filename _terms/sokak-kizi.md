@@ -5,7 +5,7 @@ slug: sokak-kizi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sokak kadını
+- sokak kadını
 ozellikler:
 - - isim
 ornekler:

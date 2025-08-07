@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça feḫāmet
 anlamlar:
 - Büyük, ulu olma durumu
-- ► değer
+- değer
 ozellikler:
 - - isim
   - eskimiş

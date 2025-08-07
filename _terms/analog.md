@@ -5,7 +5,7 @@ slug: analog
 letter: A
 lisan: Fransızca analogue
 anlamlar:
-- ► benzer
+- benzer
 ozellikler:
 - - sıfat
 ornekler:

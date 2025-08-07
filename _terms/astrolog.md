@@ -5,7 +5,7 @@ slug: astrolog
 letter: A
 lisan: Fransızca astrologue
 anlamlar:
-- ► yıldız falcısı
+- yıldız falcısı
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dane
 letter: D
 lisan: Farsça dāne
 anlamlar:
-- ► kuş yemi
+- kuş yemi
 ozellikler:
 - - isim
 ornekler:

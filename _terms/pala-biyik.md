@@ -6,7 +6,7 @@ letter: P
 lisan: Türkçe
 anlamlar:
 - Gür, uzun, yanaklara doğru kıvrık bıyık
-- ► pala bıyıklı
+- pala bıyıklı
 ozellikler:
 - - isim
 - - isim

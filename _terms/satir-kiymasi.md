@@ -5,7 +5,7 @@ slug: satir-kiymasi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► zırh kıyması
+- zırh kıyması
 ozellikler:
 - - isim
 ornekler:

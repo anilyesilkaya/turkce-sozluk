@@ -7,9 +7,9 @@ lisan: Arapça taʿbiye
 anlamlar:
 - Yerli yerine koyup hazırlama, yerleştirme
 - İstenen sonuca ulaşmak için izlenen yol; taktik
-- ► taktik
+- taktik
 - Askerlik sanatı
-- ► tabya
+- tabya
 ozellikler:
 - - isim
 - - isim

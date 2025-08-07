@@ -5,7 +5,7 @@ slug: cift-tirnaklilar
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çift parmaklılar
+- çift parmaklılar
 ozellikler:
 - - isim
   - hayvan bilimi

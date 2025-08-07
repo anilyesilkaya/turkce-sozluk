@@ -8,7 +8,7 @@ anlamlar:
 - Bir şeyden ayrılan küçük parça; parçacık, kırık (I)
 - Kurumak için kesilip yerde bırakılan odun
 - Küçük kalıntı
-- ► iz
+- iz
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: parlamenterlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► milletvekilliği
+- milletvekilliği
 ozellikler:
 - - isim
 ornekler:

@@ -11,8 +11,8 @@ anlamlar:
 - Ahşap yapıların direk ve çatmalardan oluşan kaplama tahtaları dışında kalan iskeleti
 - Kayık, sandal vb. şeylerin iskelet kısmı
 - Cami, tekke vb. yerlerde kadınlara ayrılan yer
-- ► şimşirlik
-- ► cezaevi
+- şimşirlik
+- cezaevi
 ozellikler:
 - - isim
 - - isim

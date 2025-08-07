@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - İnatçı, bildiğinden dönmeyen, başkasına boyun eğmeyen (kimse); dikkafalı
-- ► kurumlu (II)
+- kurumlu (II)
 ozellikler:
 - - sıfat
   - mecaz

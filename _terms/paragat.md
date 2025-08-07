@@ -5,7 +5,7 @@ slug: paragat
 letter: P
 lisan: İtalyanca barchetta
 anlamlar:
-- ► paraketa
+- paraketa
 ozellikler:
 - - isim
   - denizcilik

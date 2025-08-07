@@ -5,7 +5,7 @@ slug: antrenorsuz
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çalıştırıcısız
+- çalıştırıcısız
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: halic
 letter: H
 lisan: Arapça ḫalīc
 anlamlar:
-- ► körfez
+- körfez
 - Gelgit akıntılarının etkisiyle akarsu ağzının huni biçiminde genişleyen kısmı
 ozellikler:
 - - isim

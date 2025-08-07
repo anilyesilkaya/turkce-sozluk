@@ -5,7 +5,7 @@ slug: bezenme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► süslenme
+- süslenme
 ozellikler:
 - - isim
 ornekler:

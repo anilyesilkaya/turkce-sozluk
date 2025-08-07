@@ -5,7 +5,7 @@ slug: buyuk-fotograf
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► büyük resim
+- büyük resim
 ozellikler:
 - - isim
   - mecaz

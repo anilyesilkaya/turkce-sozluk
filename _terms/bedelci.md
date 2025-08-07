@@ -5,7 +5,7 @@ slug: bedelci
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► bedelli
+- bedelli
 ozellikler:
 - - isim
 ornekler:

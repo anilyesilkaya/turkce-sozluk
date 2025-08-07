@@ -5,7 +5,7 @@ slug: ostaki
 letter: Ö
 lisan: (Eustachio özel adından)
 anlamlar:
-- ► östaki borusu
+- östaki borusu
 ozellikler:
 - - isim
   - anatomi

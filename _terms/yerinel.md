@@ -5,7 +5,7 @@ slug: yerinel
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► alegorik
+- alegorik
 ozellikler:
 - - sıfat
   - edebiyat

@@ -5,9 +5,9 @@ slug: spekulasyon
 letter: S
 lisan: Fransızca spéculation
 anlamlar:
-- ► vurgunculuk
-- ► saptırma
-- ► kurgu
+- vurgunculuk
+- saptırma
+- kurgu
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: bende
 letter: B
 lisan: Farsça bende
 anlamlar:
-- ► köle
+- köle
 ozellikler:
 - - isim
   - eskimiş

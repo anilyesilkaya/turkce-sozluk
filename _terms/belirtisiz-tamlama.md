@@ -5,7 +5,7 @@ slug: belirtisiz-tamlama
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► belirtisiz ad tamlaması
+- belirtisiz ad tamlaması
 ozellikler:
 - - isim
   - dil bilgisi

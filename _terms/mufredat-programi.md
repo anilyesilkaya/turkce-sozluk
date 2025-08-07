@@ -5,7 +5,7 @@ slug: mufredat-programi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► öğretim programı
+- öğretim programı
 ozellikler:
 - - isim
   - eğitim

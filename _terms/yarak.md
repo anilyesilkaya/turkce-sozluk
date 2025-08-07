@@ -5,8 +5,8 @@ slug: yarak
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► silah
-- ► erkeklik organı
+- silah
+- erkeklik organı
 ozellikler:
 - - isim
   - eskimiş

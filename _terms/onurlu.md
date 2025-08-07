@@ -6,7 +6,7 @@ letter: O
 lisan: Türkçe
 anlamlar:
 - Onuru olan veya onurunu üstün tutan; haysiyetli, alicenap
-- ► şerefli
+- şerefli
 ozellikler:
 - - sıfat
 - - sıfat

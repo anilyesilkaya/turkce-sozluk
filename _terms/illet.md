@@ -5,11 +5,11 @@ slug: illet
 letter: I
 lisan: Arapça ʿillet
 anlamlar:
-- ► hastalık
+- hastalık
 - Hastalık derecesine varan alışkanlık
-- ► bozukluk
+- bozukluk
 - Kızdıran, sinirlendiren (şey veya kimse)
-- ► neden
+- neden
 ozellikler:
 - - isim
 - - isim

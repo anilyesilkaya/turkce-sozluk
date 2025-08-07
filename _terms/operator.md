@@ -5,10 +5,10 @@ slug: operator
 letter: O
 lisan: Fransızca opérateur
 anlamlar:
-- ► cerrah
-- ► işletmeci
+- cerrah
+- işletmeci
 - Santrale bakan kimse
-- ► işletmen
+- işletmen
 - Basılacak metinleri dizgi makinesinde dizen kimse
 ozellikler:
 - - isim

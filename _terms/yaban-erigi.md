@@ -5,7 +5,7 @@ slug: yaban-erigi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► çakal eriği
+- çakal eriği
 ozellikler:
 - - isim
   - bitki bilimi

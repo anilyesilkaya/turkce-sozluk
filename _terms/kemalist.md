@@ -5,7 +5,7 @@ slug: kemalist
 letter: K
 lisan: (Kemal Atatürk'ün adından)
 anlamlar:
-- ► Atatürkçü
+- Atatürkçü
 ozellikler:
 - - sıfat
 ornekler:

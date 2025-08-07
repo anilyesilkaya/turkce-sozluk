@@ -5,7 +5,7 @@ slug: zaman-belirteci
 letter: Z
 lisan: Türkçe
 anlamlar:
-- ► zaman zarfı
+- zaman zarfı
 ozellikler:
 - - isim
   - dil bilgisi

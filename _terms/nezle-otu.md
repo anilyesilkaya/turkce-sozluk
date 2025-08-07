@@ -5,7 +5,7 @@ slug: nezle-otu
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► pisik otu
+- pisik otu
 ozellikler:
 - - isim
   - bitki bilimi

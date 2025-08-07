@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Şaşırıp bir süre ne yapacağını, ne diyeceğini bilememek
-- ► taşlaşmak
+- taşlaşmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

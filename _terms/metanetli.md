@@ -5,7 +5,7 @@ slug: metanetli
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► dayanıklı
+- dayanıklı
 ozellikler:
 - - sıfat
 ornekler:

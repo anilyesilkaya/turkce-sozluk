@@ -5,9 +5,9 @@ slug: dejenerasyon
 letter: D
 lisan: Fransızca dégénération
 anlamlar:
-- ► yozlaşma
-- ► soysuzlaşma
-- ► bozunum
+- yozlaşma
+- soysuzlaşma
+- bozunum
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: beyaz-cam
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► televizyon
+- televizyon
 ozellikler:
 - - isim
 ornekler:

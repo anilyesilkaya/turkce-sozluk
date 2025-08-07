@@ -5,7 +5,7 @@ slug: gugu-cicegi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hüsnüyusuf
+- hüsnüyusuf
 ozellikler:
 - - isim
   - bitki bilimi

@@ -5,7 +5,7 @@ slug: ipek-gulu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ipek ağacı
+- ipek ağacı
 ozellikler:
 - - isim
   - bitki bilimi

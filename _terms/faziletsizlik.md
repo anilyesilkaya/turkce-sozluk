@@ -5,7 +5,7 @@ slug: faziletsizlik
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► erdemsizlik
+- erdemsizlik
 ozellikler:
 - - isim
 ornekler:

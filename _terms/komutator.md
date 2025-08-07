@@ -5,7 +5,7 @@ slug: komutator
 letter: K
 lisan: Fransızca commutateur
 anlamlar:
-- ► anahtar
+- anahtar
 ozellikler:
 - - isim
   - fizik

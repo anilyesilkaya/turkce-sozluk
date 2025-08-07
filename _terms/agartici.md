@@ -5,7 +5,7 @@ slug: agartici
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► beyazlatıcı
+- beyazlatıcı
 ozellikler:
 - - sıfat
 ornekler:

@@ -6,7 +6,7 @@ letter: T
 lisan: Arapça taḥḳīr
 anlamlar:
 - Aşağılama, onur kırma, onuruna dokunma
-- ► hakaret
+- hakaret
 ozellikler:
 - - isim
 - - isim

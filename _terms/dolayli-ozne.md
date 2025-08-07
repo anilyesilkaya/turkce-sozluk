@@ -5,7 +5,7 @@ slug: dolayli-ozne
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► sözde özne
+- sözde özne
 ozellikler:
 - - isim
   - dil bilgisi

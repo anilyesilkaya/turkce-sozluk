@@ -5,7 +5,7 @@ slug: terbiyeli
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► uslu
+- uslu
 - Terbiye işlemi yapılmış (yemek)
 ozellikler:
 - - sıfat

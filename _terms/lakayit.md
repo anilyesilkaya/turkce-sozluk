@@ -5,7 +5,7 @@ slug: lakayit
 letter: L
 lisan: Arapça lāḳayd
 anlamlar:
-- ► ilgisiz
+- ilgisiz
 - İlgisiz bir biçimde
 ozellikler:
 - - sıfat

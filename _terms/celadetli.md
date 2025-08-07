@@ -5,7 +5,7 @@ slug: celadetli
 letter: C
 lisan: Türkçe
 anlamlar:
-- ► yiğit
+- yiğit
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: hissizlik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► duygusuzluk
+- duygusuzluk
 ozellikler:
 - - isim
 ornekler:

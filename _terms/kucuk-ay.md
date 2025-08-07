@@ -5,7 +5,7 @@ slug: kucuk-ay
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► şubat
+- şubat
 ozellikler:
 - - isim
 ornekler:

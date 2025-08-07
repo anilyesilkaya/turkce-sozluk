@@ -5,7 +5,7 @@ slug: carpuk-curpuk
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► eğri büğrü
+- eğri büğrü
 ozellikler:
 - - sıfat
 ornekler:

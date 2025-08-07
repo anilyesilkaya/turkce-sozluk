@@ -5,7 +5,7 @@ slug: matriarkal
 letter: M
 lisan: Fransızca matriarcal
 anlamlar:
-- ► anaerkil
+- anaerkil
 ozellikler:
 - - sıfat
   - toplum bilimi

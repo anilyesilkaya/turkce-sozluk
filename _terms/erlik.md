@@ -5,7 +5,7 @@ slug: erlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► yiğitlik
+- yiğitlik
 - Er olma durumu
 ozellikler:
 - - isim

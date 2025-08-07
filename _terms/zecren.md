@@ -6,7 +6,7 @@ letter: Z
 lisan: Arapça zecren
 anlamlar:
 - Yasaklayarak
-- ► zorla
+- zorla
 - Eziyet ederek
 ozellikler:
 - - zarf

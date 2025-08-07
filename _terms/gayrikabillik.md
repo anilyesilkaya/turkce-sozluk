@@ -5,7 +5,7 @@ slug: gayrikabillik
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► imkânsızlık
+- imkânsızlık
 ozellikler:
 - - isim
 ornekler:

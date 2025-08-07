@@ -5,7 +5,7 @@ slug: yuk-katari
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► yük treni
+- yük treni
 ozellikler:
 - - isim
 ornekler:

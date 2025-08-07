@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Medreselerde müderrisin hizmetine bakan ve ondan ders alan öğrenci
 - Birinin kendi işini öğreterek yetiştirmeye başladığı kimse
-- ► acemi
+- acemi
 ozellikler:
 - - isim
   - eskimiş

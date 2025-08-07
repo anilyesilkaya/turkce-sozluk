@@ -6,7 +6,7 @@ letter: M
 lisan: Arapça mevdūʿāt
 anlamlar:
 - Belli bir süre sonunda veya istenildiğinde çekilmek üzere bankalara faizle yatırılan para; tevdiat
-- ► yatırım
+- yatırım
 ozellikler:
 - - isim
   - ekonomi

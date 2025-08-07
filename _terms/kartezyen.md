@@ -5,7 +5,7 @@ slug: kartezyen
 letter: K
 lisan: Fransızca cartésien
 anlamlar:
-- ► Dekartçı
+- Dekartçı
 ozellikler:
 - - sıfat
   - felsefe

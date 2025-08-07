@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Ekseni çevresinde döndürülmek
-- ► sancımak
+- sancımak
 - Alınarak küskünlük göstermek
 ozellikler:
 - - nesnesiz

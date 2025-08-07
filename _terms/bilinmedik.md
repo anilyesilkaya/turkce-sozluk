@@ -6,7 +6,7 @@ letter: B
 lisan: Türkçe
 anlamlar:
 - Önceden bilinmeyen, tanınmayan
-- ► bilinmeyen
+- bilinmeyen
 ozellikler:
 - - sıfat
 - - sıfat

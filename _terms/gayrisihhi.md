@@ -5,7 +5,7 @@ slug: gayrisihhi
 letter: G
 lisan: Arapça ġayr + ṣiḥḥī
 anlamlar:
-- ► sağlıksız
+- sağlıksız
 ozellikler:
 - - sıfat
   - eskimiş

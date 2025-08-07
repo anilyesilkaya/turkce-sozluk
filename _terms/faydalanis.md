@@ -5,7 +5,7 @@ slug: faydalanis
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► yararlanış
+- yararlanış
 ozellikler:
 - - isim
 ornekler:

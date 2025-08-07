@@ -5,7 +5,7 @@ slug: barbarizm
 letter: B
 lisan: Fransızca barbarisme
 anlamlar:
-- ► barbarlık
+- barbarlık
 - Bir sözün fonetik veya morfolojik yapısında yapılan büyük yanlışlık
 ozellikler:
 - - isim

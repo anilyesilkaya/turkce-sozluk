@@ -5,7 +5,7 @@ slug: olagan-disi
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► sıra dışı
+- sıra dışı
 ozellikler:
 - - sıfat
 ornekler:

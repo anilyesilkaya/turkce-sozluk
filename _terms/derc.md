@@ -6,7 +6,7 @@ letter: D
 lisan: Arapça derc
 anlamlar:
 - Bir araya getirme
-- ► kaydetme
+- kaydetme
 ozellikler:
 - - isim
   - eskimiş

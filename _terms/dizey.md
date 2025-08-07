@@ -5,7 +5,7 @@ slug: dizey
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► matris
+- matris
 ozellikler:
 - - isim
   - matematik

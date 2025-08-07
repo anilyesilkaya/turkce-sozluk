@@ -5,7 +5,7 @@ slug: kapya-biber
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► Kapya biberi
+- Kapya biberi
 ozellikler:
 - - isim
 ornekler:

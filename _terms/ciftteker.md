@@ -5,7 +5,7 @@ slug: ciftteker
 letter: Ç
 lisan: Farsça cuft + Türkçe teker
 anlamlar:
-- ► bisiklet
+- bisiklet
 ozellikler:
 - - isim
 ornekler:

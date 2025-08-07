@@ -5,7 +5,7 @@ slug: perdedar
 letter: P
 lisan: Farsça perdedār
 anlamlar:
-- ► perdeci
+- perdeci
 ozellikler:
 - - isim
   - tarih

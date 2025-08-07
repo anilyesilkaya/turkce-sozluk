@@ -5,7 +5,7 @@ slug: lenfa
 letter: L
 lisan: Fransızca lymphe
 anlamlar:
-- ► lenf
+- lenf
 ozellikler:
 - - isim
   - anatomi

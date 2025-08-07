@@ -5,7 +5,7 @@ slug: usulsuz
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► yöntemsiz
+- yöntemsiz
 - Yasalara aykırı olan
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: goze-yutarligi
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► hücre yutarlığı
+- hücre yutarlığı
 ozellikler:
 - - isim
   - biyoloji

@@ -5,7 +5,7 @@ slug: tombilya
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tombik (I)
+- tombik (I)
 ozellikler:
 - - isim
   - hayvan bilimi

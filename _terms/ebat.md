@@ -5,7 +5,7 @@ slug: ebat
 letter: E
 lisan: Arapça ebʿād
 anlamlar:
-- ► boyut
+- boyut
 ozellikler:
 - - isim
 ornekler:

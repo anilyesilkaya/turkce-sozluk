@@ -5,7 +5,7 @@ slug: ananelesmek
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► gelenekleşmek
+- gelenekleşmek
 ozellikler:
 - - nesnesiz
 ornekler:

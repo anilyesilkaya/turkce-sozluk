@@ -5,7 +5,7 @@ slug: sarkli
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► Doğulu
+- Doğulu
 ozellikler:
 - - sıfat
 ornekler:

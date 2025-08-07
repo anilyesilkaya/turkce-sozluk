@@ -5,7 +5,7 @@ slug: nakli-mazi
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► duyulan geçmiş zaman
+- duyulan geçmiş zaman
 ozellikler:
 - - isim
   - eskimiş

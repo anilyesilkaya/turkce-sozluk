@@ -5,7 +5,7 @@ slug: efor
 letter: E
 lisan: Fransızca effort
 anlamlar:
-- ► güç (I)
+- güç (I)
 ozellikler:
 - - isim
 ornekler:

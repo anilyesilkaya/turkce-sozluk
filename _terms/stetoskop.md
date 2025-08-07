@@ -5,7 +5,7 @@ slug: stetoskop
 letter: S
 lisan: Fransızca stéthoscope
 anlamlar:
-- ► dinleme cihazı
+- dinleme cihazı
 ozellikler:
 - - isim
   - tıp

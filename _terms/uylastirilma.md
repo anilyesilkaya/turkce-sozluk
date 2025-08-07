@@ -5,7 +5,7 @@ slug: uylastirilma
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► uzlaştırılma
+- uzlaştırılma
 ozellikler:
 - - isim
 ornekler:

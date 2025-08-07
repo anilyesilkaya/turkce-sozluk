@@ -5,7 +5,7 @@ slug: eneze
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► sıska
+- sıska
 ozellikler:
 - - sıfat
   - ağızlardan

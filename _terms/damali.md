@@ -6,7 +6,7 @@ letter: D
 lisan: Türkçe
 anlamlar:
 - Üstünde dama tahtasındaki gibi kareler bulunan
-- ► kareli
+- kareli
 ozellikler:
 - - sıfat
 - - sıfat

@@ -5,7 +5,7 @@ slug: realistlik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► gerçekçilik
+- gerçekçilik
 ozellikler:
 - - isim
 ornekler:

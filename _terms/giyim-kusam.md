@@ -5,7 +5,7 @@ slug: giyim-kusam
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► üst baş
+- üst baş
 ozellikler:
 - - isim
 ornekler:

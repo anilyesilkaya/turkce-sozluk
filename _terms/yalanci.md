@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalan söylemeyi huy edinmiş olan kimse; kaltaban
-- ► sahte
+- sahte
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: katedral
 letter: K
 lisan: Fransızca cathédrale
 anlamlar:
-- ► başkilise
+- başkilise
 ozellikler:
 - - isim
   - din bilimi

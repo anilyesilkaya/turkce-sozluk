@@ -5,7 +5,7 @@ slug: butunuyle
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► tamamen
+- tamamen
 ozellikler:
 - - zarf
 ornekler:

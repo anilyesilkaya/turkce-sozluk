@@ -5,7 +5,7 @@ slug: engel-sinavi
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► mazeret sınavı
+- mazeret sınavı
 ozellikler:
 - - isim
   - eğitim

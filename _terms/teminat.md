@@ -5,7 +5,7 @@ slug: teminat
 letter: T
 lisan: Arapça teʾmīnāt
 anlamlar:
-- ► güvence
+- güvence
 ozellikler:
 - - isim
 ornekler:

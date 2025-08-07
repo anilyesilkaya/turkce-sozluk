@@ -5,7 +5,7 @@ slug: sarlamak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► şarıldamak
+- şarıldamak
 - Bağırıp çağırmak, hakaret etmek
 ozellikler:
 - - nesnesiz

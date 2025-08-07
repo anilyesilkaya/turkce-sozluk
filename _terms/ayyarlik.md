@@ -5,7 +5,7 @@ slug: ayyarlik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► dolandırıcılık
+- dolandırıcılık
 ozellikler:
 - - isim
 ornekler:

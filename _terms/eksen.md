@@ -7,8 +7,8 @@ lisan: Türkçe
 anlamlar:
 - Bir cismi iki eşit parçaya bölen çizgi; mihver
 - Üzerinde bir pozitif yön varsayılan sonsuz doğru
-- ► dingil
-- ► çizgi
+- dingil
+- çizgi
 ozellikler:
 - - isim
 - - isim

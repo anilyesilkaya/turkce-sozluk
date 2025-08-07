@@ -5,7 +5,7 @@ slug: mahrut
 letter: M
 lisan: Arapça maḫrūṭ
 anlamlar:
-- ► koni
+- koni
 ozellikler:
 - - isim
   - eskimiş

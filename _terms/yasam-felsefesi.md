@@ -5,7 +5,7 @@ slug: yasam-felsefesi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► hayat felsefesi
+- hayat felsefesi
 ozellikler:
 - - isim
 ornekler:

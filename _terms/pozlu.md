@@ -5,7 +5,7 @@ slug: pozlu
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► çalımlı
+- çalımlı
 ozellikler:
 - - sıfat
   - mecaz

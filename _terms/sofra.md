@@ -7,9 +7,9 @@ lisan: Arapça sufre
 anlamlar:
 - Masa, sini vb. şeylerin, yemek yemek üzere hazırlanmış durumu
 - Birlikte yemek yiyenlerin tümü
-- ► sofra tahtası
+- sofra tahtası
 - Halı göbeğinde daire biçimindeki çiçekli bölüm
-- ► anüs
+- anüs
 ozellikler:
 - - isim
 - - isim

@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Temeli sağlamlaşmak, temelleşmek
-- ► kökleşmek
+- kökleşmek
 ozellikler:
 - - nesnesiz
 - - nesnesiz

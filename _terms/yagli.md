@@ -8,7 +8,7 @@ anlamlar:
 - Üzerinde veya içinde yağı olan
 - Yağı çok olan
 - Yağla yapılmış
-- ► besili
+- besili
 - Yağdan kirlenmiş veya lekelenmiş olan
 - Bol ve kolay kazanç sağlayan
 ozellikler:

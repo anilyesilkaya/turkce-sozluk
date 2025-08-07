@@ -5,7 +5,7 @@ slug: kenar-tasi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► bordür
+- bordür
 ozellikler:
 - - isim
 ornekler:

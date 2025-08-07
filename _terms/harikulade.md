@@ -5,7 +5,7 @@ slug: harikulade
 letter: H
 lisan: Arapça ḫāriḳ + ʿāde
 anlamlar:
-- ► olağanüstü
+- olağanüstü
 ozellikler:
 - - sıfat
 ornekler:

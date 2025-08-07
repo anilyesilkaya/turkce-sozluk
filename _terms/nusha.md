@@ -6,7 +6,7 @@ letter: N
 lisan: Arapça nusḫa
 anlamlar:
 - Birbirinin tıpkısı olan yazılı şeylerin her biri
-- ► sayı
+- sayı
 - Benzer, aynı, kopya
 ozellikler:
 - - isim

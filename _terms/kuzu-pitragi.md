@@ -5,7 +5,7 @@ slug: kuzu-pitragi
 letter: K
 lisan: Türkçe
 anlamlar:
-- ► kızılyaprak
+- kızılyaprak
 ozellikler:
 - - isim
   - bitki bilimi

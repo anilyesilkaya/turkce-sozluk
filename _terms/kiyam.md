@@ -9,7 +9,7 @@ anlamlar:
 - Namazda ayakta durma
 - Ayağa kalkma, ayakta durma
 - Bir işe girişme, kalkışma, teşebbüs etme
-- ► başkaldırı
+- başkaldırı
 ozellikler:
 - - isim
   - din bilimi

@@ -5,7 +5,7 @@ slug: hatiplik
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► konuşmacılık
+- konuşmacılık
 ozellikler:
 - - isim
 ornekler:

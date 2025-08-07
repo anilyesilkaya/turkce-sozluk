@@ -5,7 +5,7 @@ slug: icine-kapanik
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► içe kapanık
+- içe kapanık
 ozellikler:
 - - sıfat
   - ruh bilimi

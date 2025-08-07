@@ -5,7 +5,7 @@ slug: sorusmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► kurumak
+- kurumak
 - Çamaşır kurumaya başlamak
 ozellikler:
 - - nesnesiz

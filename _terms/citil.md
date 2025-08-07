@@ -5,7 +5,7 @@ slug: citil
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► sitil (I)
+- sitil (I)
 ozellikler:
 - - isim
 ornekler:

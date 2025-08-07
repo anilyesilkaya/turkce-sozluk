@@ -8,7 +8,7 @@ anlamlar:
 - Kalmış, artmış
 - Eskimiş
 - Evlenme çağı geçmiş, evde kalmış (kız)
-- ► eksik
+- eksik
 ozellikler:
 - - sıfat
   - ağızlardan

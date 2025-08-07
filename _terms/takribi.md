@@ -5,7 +5,7 @@ slug: takribi
 letter: T
 lisan: Arapça taḳrībī
 anlamlar:
-- ► yaklaşık
+- yaklaşık
 ozellikler:
 - - sıfat
   - eskimiş

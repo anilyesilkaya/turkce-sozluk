@@ -5,7 +5,7 @@ slug: laponyali
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► Lapon
+- Lapon
 ozellikler:
 - - isim
 ornekler:

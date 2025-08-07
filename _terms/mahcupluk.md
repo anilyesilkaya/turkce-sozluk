@@ -5,7 +5,7 @@ slug: mahcupluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► utangaçlık
+- utangaçlık
 ozellikler:
 - - isim
 ornekler:

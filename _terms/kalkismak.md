@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Yetenek, imkân ve gücü aşan bir işe girişmek
 - Yersiz bir işi yapmaya kalkmak
-- ► başkaldırmak
+- başkaldırmak
 ozellikler:
 - - -e
 - - -e

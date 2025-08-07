@@ -5,9 +5,9 @@ slug: muzlim
 letter: M
 lisan: Arapça muẓlim
 anlamlar:
-- ► karanlık
-- ► gizli
-- ► uğursuz
+- karanlık
+- gizli
+- uğursuz
 ozellikler:
 - - sıfat
   - eskimiş

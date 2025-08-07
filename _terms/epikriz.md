@@ -5,7 +5,7 @@ slug: epikriz
 letter: E
 lisan: Fransızca épicrise
 anlamlar:
-- ► hikâye
+- hikâye
 ozellikler:
 - - isim
   - tıp

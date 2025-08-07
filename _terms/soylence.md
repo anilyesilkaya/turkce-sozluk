@@ -5,7 +5,7 @@ slug: soylence
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► efsane
+- efsane
 ozellikler:
 - - isim
 ornekler:

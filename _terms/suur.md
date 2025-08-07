@@ -5,7 +5,7 @@ slug: suur
 letter: Ş
 lisan: Arapça şuʿūr
 anlamlar:
-- ► bilinç
+- bilinç
 ozellikler:
 - - isim
   - ruh bilimi

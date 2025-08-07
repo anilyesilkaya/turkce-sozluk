@@ -5,8 +5,8 @@ slug: nesic
 letter: N
 lisan: Arapça nesc
 anlamlar:
-- ► doku
-- ► dokuma
+- doku
+- dokuma
 - Yapı, özellik
 ozellikler:
 - - isim

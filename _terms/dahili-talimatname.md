@@ -5,7 +5,7 @@ slug: dahili-talimatname
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç yönetmelik
+- iç yönetmelik
 ozellikler:
 - - isim
   - eskimiş

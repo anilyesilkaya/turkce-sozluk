@@ -5,7 +5,7 @@ slug: hak-dini
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► Müslümanlık
+- Müslümanlık
 ozellikler:
 - - isim
   - din bilimi

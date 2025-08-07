@@ -7,7 +7,7 @@ lisan: Farsça pīşīn
 anlamlar:
 - Bir alışverişte, alışveriş yapıldığı anda, alınan şeyin tesliminden önce veya teslimiyle birlikte ödenen; tirink, veresiye karşıtı
 - Çalışmadan verilen (ücret, aylık)
-- ► spot
+- spot
 - Daha önce, önceden
 ozellikler:
 - - sıfat

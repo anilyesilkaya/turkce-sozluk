@@ -5,7 +5,7 @@ slug: dembedem
 letter: D
 lisan: Farsça dembedem
 anlamlar:
-- ► ara sıra
+- ara sıra
 ozellikler:
 - - zarf
   - eskimiş

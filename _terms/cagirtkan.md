@@ -5,7 +5,7 @@ slug: cagirtkan
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çığırtkan
+- çığırtkan
 ozellikler:
 - - isim
 ornekler:

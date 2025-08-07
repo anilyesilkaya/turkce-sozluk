@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḫuṣūmet + Farsça -kār
 anlamlar:
 - Düşmanlık besleyen, kin güden (kimse)
-- ► düşmanca
+- düşmanca
 ozellikler:
 - - sıfat
   - eskimiş

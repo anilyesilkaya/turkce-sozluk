@@ -5,7 +5,7 @@ slug: luzucet
 letter: L
 lisan: Arapça luzūcet
 anlamlar:
-- ► yapışkanlık
+- yapışkanlık
 - Yapışıp uzayan şeyin durumu
 ozellikler:
 - - isim

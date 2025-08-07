@@ -5,7 +5,7 @@ slug: beklenilme
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beklenme
+- beklenme
 ozellikler:
 - - isim
 ornekler:

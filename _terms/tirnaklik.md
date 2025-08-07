@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Bir kutunun kapağı üzerinde bulunan ve kapağın tırnakla çekilip açılmasını sağlayan yanlamasına çentik
-- ► tırnak yeri
+- tırnak yeri
 - Namlunun üzerinde bulunan kertik
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: kriminolojik
 letter: K
 lisan: Fransızca criminologique
 anlamlar:
-- ► suç bilimsel
+- suç bilimsel
 ozellikler:
 - - sıfat
 ornekler:

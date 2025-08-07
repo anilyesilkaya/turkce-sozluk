@@ -5,7 +5,7 @@ slug: evvel
 letter: E
 lisan: Arapça evvel
 anlamlar:
-- ► önce
+- önce
 - İlk gelen, ilk olan
 ozellikler:
 - - zarf

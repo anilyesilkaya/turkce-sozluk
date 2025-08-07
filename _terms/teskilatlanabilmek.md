@@ -5,7 +5,7 @@ slug: teskilatlanabilmek
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► örgütlenebilmek
+- örgütlenebilmek
 ozellikler:
 - - nesnesiz
 ornekler:

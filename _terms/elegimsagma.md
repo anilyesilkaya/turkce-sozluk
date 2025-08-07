@@ -5,7 +5,7 @@ slug: elegimsagma
 letter: E
 lisan: Arapça ʿalā´m + semā
 anlamlar:
-- ► gökkuşağı
+- gökkuşağı
 ozellikler:
 - - isim
 ornekler:

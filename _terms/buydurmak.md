@@ -5,7 +5,7 @@ slug: buydurmak
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► dondurmak
+- dondurmak
 ozellikler:
 - - -i
 ornekler:

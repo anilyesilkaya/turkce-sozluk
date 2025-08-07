@@ -5,7 +5,7 @@ slug: hasetlenmek
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► kıskanmak
+- kıskanmak
 ozellikler:
 - - nesnesiz
 ornekler:

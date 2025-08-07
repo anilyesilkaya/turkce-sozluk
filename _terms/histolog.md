@@ -5,7 +5,7 @@ slug: histolog
 letter: H
 lisan: Fransızca histologue
 anlamlar:
-- ► doku bilimci
+- doku bilimci
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: fleol
 letter: F
 lisan: Fransızca phléole
 anlamlar:
-- ► çayır otu
+- çayır otu
 ozellikler:
 - - isim
   - bitki bilimi

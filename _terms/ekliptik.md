@@ -5,7 +5,7 @@ slug: ekliptik
 letter: E
 lisan: Fransızca écliptique
 anlamlar:
-- ► tutulum
+- tutulum
 ozellikler:
 - - isim
   - gök bilimi

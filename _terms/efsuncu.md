@@ -5,7 +5,7 @@ slug: efsuncu
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► büyücü
+- büyücü
 ozellikler:
 - - isim
 ornekler:

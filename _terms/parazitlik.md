@@ -5,7 +5,7 @@ slug: parazitlik
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► asalaklık
+- asalaklık
 ozellikler:
 - - isim
 ornekler:

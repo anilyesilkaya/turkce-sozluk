@@ -6,7 +6,7 @@ letter: E
 lisan: Fransızca épisode
 anlamlar:
 - Bir romandaki veya hikâyedeki olay
-- ► dilim
+- dilim
 ozellikler:
 - - isim
   - edebiyat

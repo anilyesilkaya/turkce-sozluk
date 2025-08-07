@@ -13,7 +13,7 @@ anlamlar:
 - Anlayışlı, iyi huylu erkek
 - Silah kaçakçılığı, kara para aklama ve uyuşturucu madde ticareti vb. kirli ve gizli işler yapan çetenin başı
 - Koruyucu, babalık duyguları ile dolu kimse
-- ► ata
+- ata
 - Çok kaliteli, üstün nitelikli
 - Tarikatların bazısında tekke büyüğü
 - Bu gibi kimselere verilen ünvan

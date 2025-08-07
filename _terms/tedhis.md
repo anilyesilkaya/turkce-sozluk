@@ -5,7 +5,7 @@ slug: tedhis
 letter: T
 lisan: Arapça tedhīş
 anlamlar:
-- ► terör
+- terör
 - Dehşet uyandırma, dehşete düşürme
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: ilbay
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► vali
+- vali
 ozellikler:
 - - isim
   - eskimiş

@@ -5,8 +5,8 @@ slug: atiklik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► çabukluk
-- ► çeviklik
+- çabukluk
+- çeviklik
 ozellikler:
 - - isim
 - - isim

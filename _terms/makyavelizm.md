@@ -5,7 +5,7 @@ slug: makyavelizm
 letter: M
 lisan: Fransızca machiavélisme
 anlamlar:
-- ► Makyavelcilik
+- Makyavelcilik
 ozellikler:
 - - isim
 ornekler:

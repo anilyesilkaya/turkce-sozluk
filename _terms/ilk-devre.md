@@ -5,7 +5,7 @@ slug: ilk-devre
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ilk yarı
+- ilk yarı
 ozellikler:
 - - isim
   - spor

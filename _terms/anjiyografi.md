@@ -5,7 +5,7 @@ slug: anjiyografi
 letter: A
 lisan: Fransızca angiographie
 anlamlar:
-- ► damar görüntüleme
+- damar görüntüleme
 ozellikler:
 - - isim
   - tıp

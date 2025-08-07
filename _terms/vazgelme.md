@@ -5,7 +5,7 @@ slug: vazgelme
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► vazgeçme
+- vazgeçme
 ozellikler:
 - - isim
 ornekler:

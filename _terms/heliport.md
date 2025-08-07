@@ -5,7 +5,7 @@ slug: heliport
 letter: H
 lisan: Fransızca héliport
 anlamlar:
-- ► helikopter pisti
+- helikopter pisti
 ozellikler:
 - - isim
 ornekler:

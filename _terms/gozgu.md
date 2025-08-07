@@ -5,7 +5,7 @@ slug: gozgu
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► ayna
+- ayna
 ozellikler:
 - - isim
   - eskimiş

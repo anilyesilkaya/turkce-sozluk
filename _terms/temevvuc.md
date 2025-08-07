@@ -5,7 +5,7 @@ slug: temevvuc
 letter: T
 lisan: Arapça temevvuc
 anlamlar:
-- ► dalgalanma
+- dalgalanma
 ozellikler:
 - - isim
   - eskimiş

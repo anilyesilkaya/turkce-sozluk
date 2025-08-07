@@ -5,7 +5,7 @@ slug: tumselme
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tümsekleşme
+- tümsekleşme
 ozellikler:
 - - isim
 ornekler:

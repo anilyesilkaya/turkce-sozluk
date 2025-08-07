@@ -5,7 +5,7 @@ slug: hacibektas-tasi
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► balgam taşı
+- balgam taşı
 ozellikler:
 - - isim
   - mineraloji

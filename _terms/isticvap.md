@@ -5,7 +5,7 @@ slug: isticvap
 letter: I
 lisan: Arapça isticvāb
 anlamlar:
-- ► sorgulama
+- sorgulama
 ozellikler:
 - - isim
   - eskimiş

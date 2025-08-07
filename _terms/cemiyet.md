@@ -5,12 +5,12 @@ slug: cemiyet
 letter: C
 lisan: Arapça cemʿiyyet
 anlamlar:
-- ► dernek
-- ► düğün
+- dernek
+- düğün
 - Bir olayı veya kişiyi kutlamak amacıyla bir araya gelen topluluk
-- ► yüksek sosyete
+- yüksek sosyete
 - Birbirine uygun veya zıt anlamlı kelimeleri tenasüp, tezat sanatları yoluyla bir araya getirme
-- ► toplum
+- toplum
 ozellikler:
 - - isim
 - - isim

@@ -5,7 +5,7 @@ slug: dolanli-iflas
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► hileli iflas
+- hileli iflas
 ozellikler:
 - - isim
   - ticaret

@@ -5,7 +5,7 @@ slug: tagallup
 letter: T
 lisan: Arapça taġallub
 anlamlar:
-- ► zorbalık
+- zorbalık
 ozellikler:
 - - isim
   - eskimiş

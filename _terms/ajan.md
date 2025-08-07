@@ -5,7 +5,7 @@ slug: ajan
 letter: A
 lisan: Fransızca agent
 anlamlar:
-- ► casus
+- casus
 - Bir kimsenin, bir ortaklığın veya bir devletin bazı işlerini yapan kimse; temsilci
 ozellikler:
 - - isim

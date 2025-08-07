@@ -5,7 +5,7 @@ slug: anamalcilik
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► sermayecilik
+- sermayecilik
 ozellikler:
 - - isim
   - ekonomi

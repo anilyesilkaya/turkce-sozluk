@@ -7,7 +7,7 @@ lisan: Arapça mudīr
 anlamlar:
 - Bir kurum veya kuruluşu yöneten kimse
 - Bir kurum veya kuruluşta daire, şube vb. bölümleri yöneten kimse
-- ► başöğretmen
+- başöğretmen
 ozellikler:
 - - isim
 - - isim

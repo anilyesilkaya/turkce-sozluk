@@ -5,7 +5,7 @@ slug: turani
 letter: T
 lisan: Farsça tūrān + Arapça -ī
 anlamlar:
-- ► Turanlı
+- Turanlı
 - Turan’a ait, Turan’a özgü olan
 - Turancılıkla ilgili, Turancılığa özgü olan
 ozellikler:

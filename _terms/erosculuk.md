@@ -5,7 +5,7 @@ slug: erosculuk
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► erotizm
+- erotizm
 ozellikler:
 - - isim
 ornekler:

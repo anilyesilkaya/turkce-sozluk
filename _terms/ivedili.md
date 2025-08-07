@@ -5,7 +5,7 @@ slug: ivedili
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► acil
+- acil
 ozellikler:
 - - sıfat
 ornekler:

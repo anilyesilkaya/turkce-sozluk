@@ -5,8 +5,8 @@ slug: mukaddem
 letter: M
 lisan: Arapça muḳaddem
 anlamlar:
-- ► önceki
-- ► öncül
+- önceki
+- öncül
 ozellikler:
 - - sıfat
   - eskimiş

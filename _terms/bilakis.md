@@ -5,7 +5,7 @@ slug: bilakis
 letter: B
 lisan: Arapça bi'l-ʿaks
 anlamlar:
-- ► tersine
+- tersine
 ozellikler:
 - - zarf
 ornekler:

@@ -5,7 +5,7 @@ slug: orijinalite
 letter: O
 lisan: Fransızca originalité
 anlamlar:
-- ► özgünlük
+- özgünlük
 - Alışılagelenden değişik, şaşırtıcı nitelikte olma durumu
 ozellikler:
 - - isim

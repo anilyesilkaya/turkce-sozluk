@@ -5,7 +5,7 @@ slug: taammuden
 letter: T
 lisan: Arapça taʿammuden
 anlamlar:
-- ► bilerek
+- bilerek
 ozellikler:
 - - hukuk
 ornekler:

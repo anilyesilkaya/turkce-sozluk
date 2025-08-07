@@ -5,8 +5,8 @@ slug: batki
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► hüsran
-- ► iflas
+- hüsran
+- iflas
 ozellikler:
 - - isim
 - - isim

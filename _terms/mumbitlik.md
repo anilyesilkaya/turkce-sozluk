@@ -5,7 +5,7 @@ slug: mumbitlik
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► verimlilik
+- verimlilik
 ozellikler:
 - - isim
 ornekler:

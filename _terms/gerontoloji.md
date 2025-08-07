@@ -5,7 +5,7 @@ slug: gerontoloji
 letter: G
 lisan: Fransızca gérontologie
 anlamlar:
-- ► yaşlılık bilimi
+- yaşlılık bilimi
 ozellikler:
 - - isim
   - tıp

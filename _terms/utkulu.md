@@ -5,7 +5,7 @@ slug: utkulu
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► muzaffer
+- muzaffer
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,9 +5,9 @@ slug: lavta
 letter: L
 lisan: Rumca
 anlamlar:
-- ► ebe
+- ebe
 - Erkek doğum hekimi
-- ► tutçek
+- tutçek
 ozellikler:
 - - isim
 - - isim

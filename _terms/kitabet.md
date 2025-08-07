@@ -5,8 +5,8 @@ slug: kitabet
 letter: K
 lisan: Arapça kitābet
 anlamlar:
-- ► sekreterlik
-- ► kompozisyon
+- sekreterlik
+- kompozisyon
 ozellikler:
 - - isim
   - eskimiş

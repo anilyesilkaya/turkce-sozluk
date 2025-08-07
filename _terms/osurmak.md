@@ -5,7 +5,7 @@ slug: osurmak
 letter: O
 lisan: Türkçe
 anlamlar:
-- ► yellenmek
+- yellenmek
 ozellikler:
 - - nesnesiz
   - kaba konuşmada

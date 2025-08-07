@@ -5,7 +5,7 @@ slug: lop
 letter: L
 lisan: Türkçe
 anlamlar:
-- ► lop (I)
+- lop (I)
 ozellikler:
 - - sıfat
 ornekler:

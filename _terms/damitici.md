@@ -5,7 +5,7 @@ slug: damitici
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► imbik
+- imbik
 - Endüstride türlü ham maddeleri damıtan kimse
 ozellikler:
 - - isim

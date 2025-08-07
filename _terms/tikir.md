@@ -6,7 +6,7 @@ letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkırdayan, birbirine vuran, çarpan şeylerin çıkardığı ses
-- ► para
+- para
 ozellikler:
 - - isim
 - - isim

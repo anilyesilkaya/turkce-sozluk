@@ -5,7 +5,7 @@ slug: yasmik
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► mercimek
+- mercimek
 ozellikler:
 - - isim
   - ağızlardan

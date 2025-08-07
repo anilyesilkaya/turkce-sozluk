@@ -5,7 +5,7 @@ slug: ufki
 letter: U
 lisan: Arapça ufḳī
 anlamlar:
-- ► yatay
+- yatay
 ozellikler:
 - - sıfat
   - eskimiş

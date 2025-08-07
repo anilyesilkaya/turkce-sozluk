@@ -5,7 +5,7 @@ slug: aksirabilme
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► hapşırabilme
+- hapşırabilme
 ozellikler:
 - - isim
 ornekler:

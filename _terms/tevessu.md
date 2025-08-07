@@ -5,8 +5,8 @@ slug: tevessu
 letter: T
 lisan: Arapça tevessuʿ
 anlamlar:
-- ► genişleme
-- ► yayılma
+- genişleme
+- yayılma
 ozellikler:
 - - isim
   - eskimiş

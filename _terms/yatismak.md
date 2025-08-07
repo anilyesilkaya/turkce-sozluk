@@ -6,7 +6,7 @@ letter: Y
 lisan: Türkçe
 anlamlar:
 - Hızı, etkisi azalmak, aşırılığı geçmek
-- ► sakinleşmek
+- sakinleşmek
 - Ayaklanma, kargaşa durulmak
 - Yan yana, kucak kucağa yatmak
 ozellikler:

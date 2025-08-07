@@ -5,7 +5,7 @@ slug: pisma
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sinme
+- sinme
 ozellikler:
 - - isim
 ornekler:

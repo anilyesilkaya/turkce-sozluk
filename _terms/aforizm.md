@@ -5,7 +5,7 @@ slug: aforizm
 letter: A
 lisan: Fransızca aphorisme
 anlamlar:
-- ► özdeyiş
+- özdeyiş
 ozellikler:
 - - isim
 ornekler:

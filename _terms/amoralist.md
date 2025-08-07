@@ -5,7 +5,7 @@ slug: amoralist
 letter: A
 lisan: Fransızca amoraliste
 anlamlar:
-- ► töre dışıcı
+- töre dışıcı
 ozellikler:
 - - sıfat
   - felsefe

@@ -5,7 +5,7 @@ slug: toycu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► düğüncü
+- düğüncü
 ozellikler:
 - - isim
 ornekler:

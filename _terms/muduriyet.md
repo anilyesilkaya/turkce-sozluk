@@ -5,7 +5,7 @@ slug: muduriyet
 letter: M
 lisan: Arapça mudīriyyet
 anlamlar:
-- ► müdürlük
+- müdürlük
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Arapça ḥarūn
 anlamlar:
 - Bir şeyden huylanıp yürümeyen, geri geri giden (hayvan)
 - Hain, huysuz
-- ► obur
+- obur
 ozellikler:
 - - sıfat
   - ağızlardan

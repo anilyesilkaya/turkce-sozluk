@@ -5,7 +5,7 @@ slug: sallak
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► çıplak
+- çıplak
 - Giyimine özen göstermeyen kimse
 ozellikler:
 - - sıfat

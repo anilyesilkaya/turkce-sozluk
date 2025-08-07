@@ -5,7 +5,7 @@ slug: yayin-organi
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► iletişim araçları
+- iletişim araçları
 - Ait olduğu kuruluşların bilgi ve düşüncelerini yayımlayan televizyon, radyo, dergi ve gazete
 ozellikler:
 - - isim

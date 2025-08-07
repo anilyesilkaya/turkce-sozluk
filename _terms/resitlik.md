@@ -5,7 +5,7 @@ slug: resitlik
 letter: R
 lisan: Türkçe
 anlamlar:
-- ► erginlik
+- erginlik
 ozellikler:
 - - isim
 ornekler:

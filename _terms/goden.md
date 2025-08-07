@@ -6,7 +6,7 @@ letter: G
 lisan: Türkçe
 anlamlar:
 - Kalın bağırsağın son bölümü; göden bağırsağı, rektum
-- ► işkembe
+- işkembe
 - Hayvanın midesi
 ozellikler:
 - - isim

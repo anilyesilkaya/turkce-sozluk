@@ -5,7 +5,7 @@ slug: evhamsizlik
 letter: E
 lisan: Türkçe
 anlamlar:
-- ► kuruntusuzluk
+- kuruntusuzluk
 ozellikler:
 - - isim
 ornekler:

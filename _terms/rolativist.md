@@ -5,7 +5,7 @@ slug: rolativist
 letter: R
 lisan: Fransızca relativiste
 anlamlar:
-- ► bağıntıcı
+- bağıntıcı
 ozellikler:
 - - sıfat
   - felsefe

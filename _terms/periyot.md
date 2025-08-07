@@ -5,8 +5,8 @@ slug: periyot
 letter: P
 lisan: Fransızca période
 anlamlar:
-- ► dönem
-- ► devir
+- dönem
+- devir
 ozellikler:
 - - isim
 - - isim

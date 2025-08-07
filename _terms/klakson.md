@@ -5,7 +5,7 @@ slug: klakson
 letter: K
 lisan: Fransızca klaxon
 anlamlar:
-- ► korna
+- korna
 ozellikler:
 - - isim
 ornekler:

@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Bakıcının yaptığı iş
 - Bakıcı olma durumu
-- ► falcılık
+- falcılık
 ozellikler:
 - - isim
 - - isim

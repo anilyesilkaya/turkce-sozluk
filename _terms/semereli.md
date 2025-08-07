@@ -5,7 +5,7 @@ slug: semereli
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► verimli
+- verimli
 ozellikler:
 - - sıfat
 ornekler:

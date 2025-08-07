@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökme işi
-- ► yıkılma
+- yıkılma
 - Çömelip yere oturuş
 - Devletlerin veya uygarlıkların son bulması, mahvolması; dekadans
 ozellikler:

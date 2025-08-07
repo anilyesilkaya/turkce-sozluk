@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sayı veya ölçü yönünden çok olma durumu; çoğul, ekseriyet, kesafet, kesret, teklik karşıtı
-- ► çoğunluk
+- çoğunluk
 - 'İsimlerin, zamirlerin, iyelik eklerinin ve fiil çekimlerinin belirli dil bilgisel yollarla birden çok varlığı veya kişiyi bildirme biçimi; çoğul, cem: ağaçlar, biz, evimiz, beş elma, göreceksiniz vb'
 - Sık sık, çokça, çok kez
 ozellikler:

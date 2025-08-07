@@ -5,7 +5,7 @@ slug: apraksi
 letter: A
 lisan: Fransızca apraxie
 anlamlar:
-- ► beceri yitimi
+- beceri yitimi
 ozellikler:
 - - isim
   - tıp

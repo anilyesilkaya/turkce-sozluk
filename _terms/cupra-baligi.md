@@ -5,7 +5,7 @@ slug: cupra-baligi
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► çipura
+- çipura
 ozellikler:
 - - isim
   - hayvan bilimi

@@ -5,7 +5,7 @@ slug: muft
 letter: M
 lisan: Farsça muft
 anlamlar:
-- ► parasız
+- parasız
 ozellikler:
 - - sıfat
   - eskimiş

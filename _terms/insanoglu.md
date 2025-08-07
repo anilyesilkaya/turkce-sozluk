@@ -5,7 +5,7 @@ slug: insanoglu
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► insan
+- insan
 ozellikler:
 - - isim
 ornekler:

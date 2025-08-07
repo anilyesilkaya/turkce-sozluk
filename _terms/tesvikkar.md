@@ -5,8 +5,8 @@ slug: tesvikkar
 letter: T
 lisan: Arapça teşvīḳ + Farsça -kār
 anlamlar:
-- ► isteklendirici
-- ► özendirici
+- isteklendirici
+- özendirici
 ozellikler:
 - - sıfat
   - eskimiş

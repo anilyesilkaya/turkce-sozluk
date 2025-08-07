@@ -5,7 +5,7 @@ slug: bir-digeri
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► başkası
+- başkası
 ozellikler:
 - - zamir
 ornekler:

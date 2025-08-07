@@ -5,8 +5,8 @@ slug: pislemek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► kirletmek
-- ► pisletmek
+- kirletmek
+- pisletmek
 ozellikler:
 - - -i
 - - -i

@@ -14,7 +14,7 @@ anlamlar:
 - Kaba, hırçın, sert olmayan, kolay yola gelen
 - Okşayıcı, tatlı, hoş
 - Sessiz, hafif
-- ► tonlu
+- tonlu
 ozellikler:
 - - sıfat
 - - sıfat

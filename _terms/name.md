@@ -5,7 +5,7 @@ slug: name
 letter: N
 lisan: Farsça nāme
 anlamlar:
-- ► mektup
+- mektup
 ozellikler:
 - - isim
   - eskimiş

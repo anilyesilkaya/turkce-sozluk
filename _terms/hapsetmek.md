@@ -6,7 +6,7 @@ letter: H
 lisan: Arapça ḥabs + Türkçe etmek
 anlamlar:
 - Bir suçluyu hapishaneye koymak
-- ► kapamak
+- kapamak
 - Engellemek, sınırlamak
 - Bir kimseyi veya bir şeyi boşu boşuna tutmak, alıkoymak
 ozellikler:

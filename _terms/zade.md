@@ -5,7 +5,7 @@ slug: zade
 letter: Z
 lisan: Farsça zāde
 anlamlar:
-- ► oğul
+- oğul
 - Doğmuş
 ozellikler:
 - - isim

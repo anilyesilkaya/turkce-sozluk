@@ -5,7 +5,7 @@ slug: mevzu
 letter: M
 lisan: Arapça mevżūʿ
 anlamlar:
-- ► konu
+- konu
 ozellikler:
 - - isim
 ornekler:

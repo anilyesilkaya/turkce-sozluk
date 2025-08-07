@@ -5,7 +5,7 @@ slug: sermesti
 letter: S
 lisan: Farsça ser + mest + Arapça -ī
 anlamlar:
-- ► sarhoşluk
+- sarhoşluk
 ozellikler:
 - - isim
   - eskimiş

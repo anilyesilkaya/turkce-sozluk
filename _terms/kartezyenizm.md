@@ -5,7 +5,7 @@ slug: kartezyenizm
 letter: K
 lisan: Fransızca cartésianisme
 anlamlar:
-- ► Dekartçılık
+- Dekartçılık
 ozellikler:
 - - isim
   - felsefe

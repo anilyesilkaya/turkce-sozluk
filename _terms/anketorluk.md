@@ -5,7 +5,7 @@ slug: anketorluk
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► anketçilik
+- anketçilik
 ozellikler:
 - - isim
 ornekler:

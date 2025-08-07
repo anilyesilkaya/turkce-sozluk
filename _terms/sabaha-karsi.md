@@ -5,7 +5,7 @@ slug: sabaha-karsi
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► sabaha doğru
+- sabaha doğru
 ozellikler:
 - - zarf
 ornekler:

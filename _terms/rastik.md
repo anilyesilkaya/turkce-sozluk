@@ -6,7 +6,7 @@ letter: R
 lisan: Farsça rāsuḫt
 anlamlar:
 - Kadınların kaşlarını veya saçlarını boyamak için sürdükleri siyah boya
-- ► sürme (II)
+- sürme (II)
 ozellikler:
 - - isim
 - - isim

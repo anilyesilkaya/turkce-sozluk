@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Sepetleme işi yapılmak
-- ► kovulmak
+- kovulmak
 ozellikler:
 - - nesnesiz
 - - nesnesiz

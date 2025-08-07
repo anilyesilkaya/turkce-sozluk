@@ -7,7 +7,7 @@ lisan: Arapça maḳbūl
 anlamlar:
 - Kabul edilen
 - Beğenilen, hoş karşılanan
-- ► geçer
+- geçer
 ozellikler:
 - - sıfat
 - - sıfat

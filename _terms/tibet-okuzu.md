@@ -5,7 +5,7 @@ slug: tibet-okuzu
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► yak
+- yak
 ozellikler:
 - - isim
   - hayvan bilimi

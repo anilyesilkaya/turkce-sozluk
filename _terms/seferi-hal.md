@@ -5,7 +5,7 @@ slug: seferi-hal
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► seferî durum
+- seferî durum
 ozellikler:
 - - isim
   - din bilimi

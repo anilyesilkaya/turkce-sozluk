@@ -6,7 +6,7 @@ letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltma işini gerçekleştiren düzenek
-- ► müstensih
+- müstensih
 - Çoğaltma etkisi bulunan
 ozellikler:
 - - isim

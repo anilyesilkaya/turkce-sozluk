@@ -5,7 +5,7 @@ slug: nodul
 letter: N
 lisan: Fransızca nodule
 anlamlar:
-- ► düğümcük
+- düğümcük
 ozellikler:
 - - isim
   - tıp

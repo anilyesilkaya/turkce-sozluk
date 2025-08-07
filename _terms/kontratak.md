@@ -5,7 +5,7 @@ slug: kontratak
 letter: K
 lisan: Fransızca contre-attaque
 anlamlar:
-- ► karşı atak
+- karşı atak
 ozellikler:
 - - isim
   - spor

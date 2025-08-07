@@ -5,7 +5,7 @@ slug: hit
 letter: H
 lisan: İngilizce hit
 anlamlar:
-- ► liste başı
+- liste başı
 ozellikler:
 - - isim
 ornekler:

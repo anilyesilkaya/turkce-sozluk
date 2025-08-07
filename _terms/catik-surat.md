@@ -5,7 +5,7 @@ slug: catik-surat
 letter: Ç
 lisan: Türkçe
 anlamlar:
-- ► asık surat
+- asık surat
 ozellikler:
 - - isim
   - mecaz

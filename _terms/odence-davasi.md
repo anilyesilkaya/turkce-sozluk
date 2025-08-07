@@ -5,7 +5,7 @@ slug: odence-davasi
 letter: Ö
 lisan: Türkçe
 anlamlar:
-- ► tazminat davası
+- tazminat davası
 ozellikler:
 - - isim
   - hukuk

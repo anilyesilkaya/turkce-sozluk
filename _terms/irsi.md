@@ -5,7 +5,7 @@ slug: irsi
 letter: I
 lisan: Arapça irs̱ī
 anlamlar:
-- ► kalıtımsal
+- kalıtımsal
 ozellikler:
 - - sıfat
   - eskimiş

@@ -7,16 +7,16 @@ lisan: Türkçe
 anlamlar:
 - Görme organı; basar, ayn, çeşm, dide
 - Bazı deyimlerde, görme ve bakma
-- ► oda
+- oda
 - Bakış, görüş
-- ► kaynak (I)
+- kaynak (I)
 - Delik, boşluk
-- ► çekmece
+- çekmece
 - Terazi kefesi
-- ► nazar
+- nazar
 - Sevgi, ilgi, gönül bağlantısı
 - Ağacın tomurcuk veren yerlerinden her biri
-- ► hane
+- hane
 - Bazı yaraların uç bölümü
 ozellikler:
 - - isim

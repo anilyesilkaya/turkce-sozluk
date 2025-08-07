@@ -5,7 +5,7 @@ slug: arzulanma
 letter: A
 lisan: Türkçe
 anlamlar:
-- ► istenme
+- istenme
 ozellikler:
 - - isim
 ornekler:

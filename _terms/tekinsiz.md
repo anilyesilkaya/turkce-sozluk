@@ -7,7 +7,7 @@ lisan: Türkçe
 anlamlar:
 - Tekin olmayan; uğursuz
 - Güvenilir olmayan; muammalı (kişi, yer)
-- ► tabu
+- tabu
 ozellikler:
 - - sıfat
 - - sıfat

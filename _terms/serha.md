@@ -5,7 +5,7 @@ slug: serha
 letter: Ş
 lisan: Arapça şerḥa
 anlamlar:
-- ► parça
+- parça
 - Bıçak yarası
 ozellikler:
 - - isim

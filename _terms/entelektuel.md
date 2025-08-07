@@ -5,7 +5,7 @@ slug: entelektuel
 letter: E
 lisan: Fransızca intellectuel
 anlamlar:
-- ► aydın
+- aydın
 - Fikir sorunlarıyla ilgili
 ozellikler:
 - - sıfat

@@ -5,7 +5,7 @@ slug: simetriklik
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► bakışımlılık
+- bakışımlılık
 ozellikler:
 - - isim
 ornekler:

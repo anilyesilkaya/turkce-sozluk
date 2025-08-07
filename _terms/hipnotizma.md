@@ -5,7 +5,7 @@ slug: hipnotizma
 letter: H
 lisan: Fransızca hypnotisme
 anlamlar:
-- ► hipnoz
+- hipnoz
 ozellikler:
 - - isim
 ornekler:

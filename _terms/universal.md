@@ -5,7 +5,7 @@ slug: universal
 letter: Ü
 lisan: Fransızca universal
 anlamlar:
-- ► evrensel
+- evrensel
 ozellikler:
 - - sıfat
 ornekler:

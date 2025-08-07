@@ -5,7 +5,7 @@ slug: sivilize
 letter: S
 lisan: Fransızca civilisé
 anlamlar:
-- ► uygar
+- uygar
 ozellikler:
 - - sıfat
 ornekler:

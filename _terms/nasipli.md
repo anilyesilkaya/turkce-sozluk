@@ -5,7 +5,7 @@ slug: nasipli
 letter: N
 lisan: Türkçe
 anlamlar:
-- ► kısmetli
+- kısmetli
 - Her istediğine kolayca ulaşan
 ozellikler:
 - - sıfat

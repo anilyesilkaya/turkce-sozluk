@@ -5,8 +5,8 @@ slug: yapit
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► eser
-- ► yayın
+- eser
+- yayın
 ozellikler:
 - - isim
 - - isim

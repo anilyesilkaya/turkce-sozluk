@@ -5,7 +5,7 @@ slug: trankilizan
 letter: T
 lisan: Fransızca tranquillisant
 anlamlar:
-- ► sakinleştirici
+- sakinleştirici
 ozellikler:
 - - isim
 ornekler:

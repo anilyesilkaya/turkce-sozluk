@@ -5,7 +5,7 @@ slug: mahrum
 letter: M
 lisan: Arapça maḥrūm
 anlamlar:
-- ► yoksun
+- yoksun
 ozellikler:
 - - sıfat
 ornekler:

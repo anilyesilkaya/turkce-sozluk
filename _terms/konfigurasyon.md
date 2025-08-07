@@ -5,7 +5,7 @@ slug: konfigurasyon
 letter: K
 lisan: Fransızca configuration
 anlamlar:
-- ► yapılandırma
+- yapılandırma
 ozellikler:
 - - isim
   - bilişim

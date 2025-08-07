@@ -5,8 +5,8 @@ slug: maestroluk
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► bestecilik
-- ► orkestra şefliği
+- bestecilik
+- orkestra şefliği
 ozellikler:
 - - isim
   - müzik

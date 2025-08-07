@@ -5,7 +5,7 @@ slug: mercan-baligi
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► mercan
+- mercan
 ozellikler:
 - - isim
   - hayvan bilimi

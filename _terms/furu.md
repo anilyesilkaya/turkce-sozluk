@@ -6,7 +6,7 @@ letter: F
 lisan: Arapça furūʿ
 anlamlar:
 - Dallar, kollar, ayrıntılar
-- ► alt soy
+- alt soy
 ozellikler:
 - - isim
   - eskimiş

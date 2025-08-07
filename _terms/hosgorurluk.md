@@ -5,7 +5,7 @@ slug: hosgorurluk
 letter: H
 lisan: Türkçe
 anlamlar:
-- ► hoşgörülülük
+- hoşgörülülük
 ozellikler:
 - - isim
 ornekler:

@@ -5,7 +5,7 @@ slug: dahili-harp
 letter: D
 lisan: Türkçe
 anlamlar:
-- ► iç savaş
+- iç savaş
 ozellikler:
 - - isim
   - eskimiş

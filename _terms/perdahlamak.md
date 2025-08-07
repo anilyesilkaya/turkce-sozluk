@@ -5,7 +5,7 @@ slug: perdahlamak
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► aprelemek
+- aprelemek
 - Bir şeyin yüzeyini bir alet veya sert bir cisimle parlatmak
 - Birini asılsız sözlerle kandırmaya çalışmak
 - Sövmek, küfretmek

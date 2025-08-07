@@ -5,7 +5,7 @@ slug: ikide-birde
 letter: I
 lisan: Türkçe
 anlamlar:
-- ► ikide bir
+- ikide bir
 ozellikler:
 - - zarf
   - mecaz

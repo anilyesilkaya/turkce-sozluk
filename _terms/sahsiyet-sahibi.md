@@ -5,7 +5,7 @@ slug: sahsiyet-sahibi
 letter: Ş
 lisan: Türkçe
 anlamlar:
-- ► kişilikli
+- kişilikli
 ozellikler:
 - - isim
 ornekler:

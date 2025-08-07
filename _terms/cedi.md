@@ -5,7 +5,7 @@ slug: cedi
 letter: C
 lisan: Arapça cedī
 anlamlar:
-- ► Oğlak Burcu
+- Oğlak Burcu
 ozellikler:
 - - isim
   - eskimiş

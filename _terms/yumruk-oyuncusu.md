@@ -5,7 +5,7 @@ slug: yumruk-oyuncusu
 letter: Y
 lisan: Türkçe
 anlamlar:
-- ► boksör
+- boksör
 ozellikler:
 - - isim
   - spor

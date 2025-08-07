@@ -5,7 +5,7 @@ slug: tugrakeslik
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► nişancılık
+- nişancılık
 ozellikler:
 - - isim
 ornekler:

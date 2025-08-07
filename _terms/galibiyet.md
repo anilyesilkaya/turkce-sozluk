@@ -5,7 +5,7 @@ slug: galibiyet
 letter: G
 lisan: Arapça ġālibiyyet
 anlamlar:
-- ► yengi
+- yengi
 ozellikler:
 - - isim
 ornekler:

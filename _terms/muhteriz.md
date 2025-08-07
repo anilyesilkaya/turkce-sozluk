@@ -5,7 +5,7 @@ slug: muhteriz
 letter: M
 lisan: Arapça muḥteriz
 anlamlar:
-- ► çekingen
+- çekingen
 ozellikler:
 - - sıfat
   - eskimiş

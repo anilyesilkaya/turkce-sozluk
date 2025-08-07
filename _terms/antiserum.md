@@ -5,7 +5,7 @@ slug: antiserum
 letter: A
 lisan: Fransızca antisérum
 anlamlar:
-- ► bağışık serum
+- bağışık serum
 ozellikler:
 - - isim
   - tıp

@@ -5,7 +5,7 @@ slug: farika
 letter: F
 lisan: Arapça fāriḳa
 anlamlar:
-- ► ayırmaç
+- ayırmaç
 ozellikler:
 - - isim
   - eskimiş

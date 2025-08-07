@@ -5,7 +5,7 @@ slug: velhasilikelam
 letter: V
 lisan: Arapça ve'l-ḥāṣil + kelām
 anlamlar:
-- ► kısacası
+- kısacası
 ozellikler:
 - - zarf
 ornekler:

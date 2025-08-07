@@ -5,7 +5,7 @@ slug: son-deyis
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► son söz
+- son söz
 ozellikler:
 - - isim
   - edebiyat

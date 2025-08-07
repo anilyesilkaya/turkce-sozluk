@@ -6,7 +6,7 @@ letter: E
 lisan: Türkçe
 anlamlar:
 - Aynı evde oturanlardan her biri
-- ► eş
+- eş
 ozellikler:
 - - isim
   - ağızlardan

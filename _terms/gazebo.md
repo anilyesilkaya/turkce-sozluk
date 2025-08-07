@@ -5,7 +5,7 @@ slug: gazebo
 letter: G
 lisan: İngilizce gazebo
 anlamlar:
-- ► kameriye
+- kameriye
 ozellikler:
 - - isim
 ornekler:

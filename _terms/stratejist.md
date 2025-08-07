@@ -5,7 +5,7 @@ slug: stratejist
 letter: S
 lisan: Fransızca stratégiste
 anlamlar:
-- ► izlemci
+- izlemci
 ozellikler:
 - - isim
 ornekler:

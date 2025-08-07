@@ -5,7 +5,7 @@ slug: salozlasmak
 letter: S
 lisan: Türkçe
 anlamlar:
-- ► salaklaşmak
+- salaklaşmak
 ozellikler:
 - - nesnesiz
   - argo

@@ -6,7 +6,7 @@ letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürme işinde kullanılan araç
-- ► elektrikli süpürge
+- elektrikli süpürge
 ozellikler:
 - - isim
 - - isim

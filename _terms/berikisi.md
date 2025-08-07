@@ -5,7 +5,7 @@ slug: berikisi
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► beriki
+- beriki
 ozellikler:
 - - zamir
 ornekler:

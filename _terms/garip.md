@@ -7,7 +7,7 @@ lisan: Arapça ġarīb
 anlamlar:
 - Kimsesiz, zavallı olan
 - Yabancı, gurbette yaşayan; elgin
-- ► acayip
+- acayip
 - Şaşılacak bir şey karşısında söylenen söz
 - Dokunaklı, hüzün veren
 ozellikler:

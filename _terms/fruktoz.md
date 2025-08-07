@@ -5,7 +5,7 @@ slug: fruktoz
 letter: F
 lisan: Fransızca fructose
 anlamlar:
-- ► meyve şekeri
+- meyve şekeri
 ozellikler:
 - - isim
   - kimya

@@ -5,7 +5,7 @@ slug: mihsicti
 letter: M
 lisan: Türkçe
 anlamlar:
-- ► cimri
+- cimri
 ozellikler:
 - - sıfat
   - argo

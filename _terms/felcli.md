@@ -5,7 +5,7 @@ slug: felcli
 letter: F
 lisan: Türkçe
 anlamlar:
-- ► inmeli
+- inmeli
 ozellikler:
 - - sıfat
 ornekler:

@@ -5,7 +5,7 @@ slug: bogaz-tokluguna
 letter: B
 lisan: Türkçe
 anlamlar:
-- ► karın tokluğuna
+- karın tokluğuna
 ozellikler:
 - - zarf
   - mecaz

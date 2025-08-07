@@ -8,7 +8,7 @@ anlamlar:
 - Kabakgillerden, sürüngen gövdeli, sarı çiçekli, birçok türü olan bir bitki (Cucurbita)
 - Bu bitkinin türlerine göre yemeği ve tatlısı yapılan ürünü
 - Esrarkeşlerin kullandığı bir tür nargile
-- ► kabak kemane
+- kabak kemane
 - Ham, tatsız (kavun, karpuz)
 - Tüysüz, dazlak olan
 - Dişleri aşınarak yüzeyi düzleşmiş olan (taşıt lastiği)

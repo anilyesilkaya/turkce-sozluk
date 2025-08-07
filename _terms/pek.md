@@ -5,7 +5,7 @@ slug: pek
 letter: P
 lisan: Türkçe
 anlamlar:
-- ► sert
+- sert
 - Sağlam, dayanıklı
 - Gereken, beklenen veya alışılmış olandan çok
 - Hızlı olarak

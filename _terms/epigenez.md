@@ -5,7 +5,7 @@ slug: epigenez
 letter: E
 lisan: Fransızca épigénèse
 anlamlar:
-- ► sıralı oluş
+- sıralı oluş
 ozellikler:
 - - isim
   - biyoloji

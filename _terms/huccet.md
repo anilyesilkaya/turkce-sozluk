@@ -5,7 +5,7 @@ slug: huccet
 letter: H
 lisan: Arapça ḥuccet
 anlamlar:
-- ► belgit
+- belgit
 - Resmî belge
 ozellikler:
 - - isim

@@ -5,7 +5,7 @@ slug: tas-firin
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► kara fırın
+- kara fırın
 ozellikler:
 - - isim
 ornekler:

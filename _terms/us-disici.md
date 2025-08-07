@@ -5,7 +5,7 @@ slug: us-disici
 letter: U
 lisan: Türkçe
 anlamlar:
-- ► akıl dışıcı
+- akıl dışıcı
 ozellikler:
 - - sıfat
   - felsefe

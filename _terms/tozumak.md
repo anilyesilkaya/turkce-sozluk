@@ -5,7 +5,7 @@ slug: tozumak
 letter: T
 lisan: Türkçe
 anlamlar:
-- ► tozmak
+- tozmak
 ozellikler:
 - - nesnesiz
 ornekler:

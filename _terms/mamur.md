@@ -5,7 +5,7 @@ slug: mamur
 letter: M
 lisan: Arapça maʿmūr
 anlamlar:
-- ► bayındır
+- bayındır
 ozellikler:
 - - sıfat
 ornekler:

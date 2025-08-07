@@ -5,11 +5,11 @@ slug: tecrit
 letter: T
 lisan: Arapça tecrīd
 anlamlar:
-- ► ayırma
+- ayırma
 - Bir insanı dış dünyadan kopararak kendi hâline bırakma
 - Bulaşıcı hastalığın daha fazla canlıya bulaşmasını önlemek amacıyla hastanın diğer canlılarla olan ilişkilerinin en az seviyeye indirilmesi veya kesilmesi
-- ► soyutlama
-- ► yalıtım
+- soyutlama
+- yalıtım
 - Mahkûmu cezasını tek başına çekmesi için diğer hükümlülerden ayırma
 ozellikler:
 - - isim

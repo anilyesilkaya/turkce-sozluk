@@ -5,7 +5,7 @@ slug: gok
 letter: G
 lisan: Türkçe
 anlamlar:
-- ► uzay
+- uzay
 - Yeryüzü üzerine mavi bir kubbe gibi kapanan boşluk; gök kubbe, asuman, felek, sema (I)
 - Mavi ile açık yeşil arası olan renk
 - Bu renkte olan

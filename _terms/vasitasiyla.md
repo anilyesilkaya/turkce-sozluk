@@ -5,7 +5,7 @@ slug: vasitasiyla
 letter: V
 lisan: Türkçe
 anlamlar:
-- ► aracılığıyla
+- aracılığıyla
 ozellikler:
 - - zarf
 ornekler:
