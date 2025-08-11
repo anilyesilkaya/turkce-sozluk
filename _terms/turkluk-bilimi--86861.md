@@ -1,0 +1,16 @@
+---
+layout: term
+title: Türklük bilimi
+slug: turkluk-bilimi
+letter: T
+indeks: 86861
+lisan: Türkçe
+anlamlar:
+- Türk dili, tarihi, edebiyatı ve halk bilimi araştırmalarını konu edinen bilim dalı; Türklük bilgisi, Türkiyat, Türkoloji
+ozellikler:
+- - isim
+ornekler:
+- Sakaoğlu ile birlikte eşi, çocukları, öğrencileri ve Türklük bilimi çalışanları ne kadar övünseler haklarıdır.
+orneklerkaynak:
+- Ali Berat Alptekin
+---

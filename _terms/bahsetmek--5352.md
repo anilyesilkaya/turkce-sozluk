@@ -1,0 +1,17 @@
+---
+layout: term
+title: bahşetmek
+slug: bahsetmek
+letter: B
+indeks: 5352
+lisan: Farsça baḫş + Türkçe etmek
+anlamlar:
+- bağışlamak
+ozellikler:
+- - -e
+  - -i
+ornekler:
+- Ayrıca Saray Kütüphanesine dilediğim kadar girip çıkma müsaadesi bahşettiler.
+orneklerkaynak:
+- Ahmet Kabaklı
+---

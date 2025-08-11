@@ -1,0 +1,14 @@
+---
+layout: term
+title: sınır dışı
+slug: sinir-disi
+letter: S
+indeks: 62494
+lisan: Türkçe
+anlamlar:
+- Ülke sınırlarının ötesi; hudut dışı
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

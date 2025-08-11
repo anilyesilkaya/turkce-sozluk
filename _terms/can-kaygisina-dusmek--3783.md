@@ -1,0 +1,16 @@
+---
+layout: term
+title: can kaygısına düşmek
+slug: can-kaygisina-dusmek
+letter: C
+indeks: 3783
+lisan: Türkçe
+anlamlar:
+- her şeyden vazgeçip sadece kendi hayatını koruma veya kurtarma çabasında olmak
+ozellikler:
+- []
+ornekler:
+- Rifat Bey can kaygısına düşmüş bir hayvanın bilinçsiz yırtıcılığı ile kükredi.
+orneklerkaynak:
+- Avni Givda
+---

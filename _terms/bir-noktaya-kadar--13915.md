@@ -1,0 +1,14 @@
+---
+layout: term
+title: bir noktaya kadar
+slug: bir-noktaya-kadar
+letter: B
+indeks: 13915
+lisan: Türkçe
+anlamlar:
+- belli bir sınıra kadar
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

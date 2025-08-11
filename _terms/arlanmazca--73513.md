@@ -1,0 +1,16 @@
+---
+layout: term
+title: arlanmazca
+slug: arlanmazca
+letter: A
+indeks: 73513
+lisan: Türkçe
+anlamlar:
+- utanmazca
+ozellikler:
+- - zarf
+ornekler:
+- Düğünden sonra utanmazca, arlanmazca çıkıp geldi.
+orneklerkaynak:
+- Şükran Engin Atmaca
+---

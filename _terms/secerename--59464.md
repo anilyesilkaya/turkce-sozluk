@@ -1,0 +1,15 @@
+---
+layout: term
+title: şecerename
+slug: secerename
+letter: Ş
+indeks: 59464
+lisan: Arapça ṣecere + Farsça nāme
+anlamlar:
+- Soyağacını gösteren kitap veya yazı
+ozellikler:
+- - isim
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

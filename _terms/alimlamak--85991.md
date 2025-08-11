@@ -1,0 +1,16 @@
+---
+layout: term
+title: alımlamak
+slug: alimlamak
+letter: A
+indeks: 85991
+lisan: Türkçe
+anlamlar:
+- Herhangi bir şeyi kendi bilgi ve tecrübe birikimine göre anlamak
+ozellikler:
+- - -i
+ornekler:
+- Ağır ağır iyileşen Handan, gerçekliği alımlar alımlamaz tekrar günah saplantısıyla dolup taşar, yüreğinin isyanlarını bastırır, bu kez vicdan azabının pençesine düşer.
+orneklerkaynak:
+- Selim İleri
+---

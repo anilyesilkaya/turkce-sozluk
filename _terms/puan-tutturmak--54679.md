@@ -1,0 +1,18 @@
+---
+layout: term
+title: puan tutturmak
+slug: puan-tutturmak
+letter: P
+indeks: 54679
+lisan: Türkçe
+anlamlar:
+- gereken sayıda puan kazanmak
+- sınavlarda istenen yere girebilmek için gerekli puanı elde etmek
+ozellikler:
+- []
+- []
+ornekler:
+- Dışarıda kalanlar, puan tutturamayanlar çığ gibi büyüyor her yıl.
+orneklerkaynak:
+- Tomris Uyar
+---

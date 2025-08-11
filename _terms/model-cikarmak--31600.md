@@ -1,0 +1,18 @@
+---
+layout: term
+title: model çıkarmak
+slug: model-cikarmak
+letter: M
+indeks: 31600
+lisan: Türkçe
+anlamlar:
+- kumaş kesiminden önce kâğıt vb. malzeme üzerine parçanın örneğini hazırlamak
+- bir şeyi vurarak izini çıkarmak
+ozellikler:
+- - mecaz
+- - mecaz
+ornekler:
+- Bir tuğla işçisi kerpiç kalıbını kapmış, karısının sırtında model çıkarmış, kadın ciyak ciyak.
+orneklerkaynak:
+- Aka Gündüz
+---

@@ -1,0 +1,18 @@
+---
+layout: term
+title: açıklaşmak
+slug: aciklasmak
+letter: A
+indeks: 6589
+lisan: Türkçe
+anlamlar:
+- Açık duruma gelmek
+- Rengi açılmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+ornekler:
+- Gitgide şekiller daha açıklaştı, renk ve mana almaya başladı.
+orneklerkaynak:
+- M. Turhan Tan
+---

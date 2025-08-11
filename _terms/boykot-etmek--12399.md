@@ -1,0 +1,16 @@
+---
+layout: term
+title: boykot etmek
+slug: boykot-etmek
+letter: B
+indeks: 12399
+lisan: Türkçe
+anlamlar:
+- bir işi, bir davranışı yapmama kararı almak
+ozellikler:
+- []
+ornekler:
+- Ben bu sarı kâğıtlardan o kadar bezmişimdir ki güzelim sarı rengi de ondan dolayı boykot ettim.
+orneklerkaynak:
+- Burhan Felek
+---

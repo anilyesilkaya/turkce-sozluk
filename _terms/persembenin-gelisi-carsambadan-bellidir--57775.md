@@ -1,0 +1,14 @@
+---
+layout: term
+title: perşembenin gelişi çarşambadan bellidir
+slug: persembenin-gelisi-carsambadan-bellidir
+letter: P
+indeks: 57775
+lisan: Türkçe
+anlamlar:
+- '"bir işin sonunun nasıl olacağı şimdiki gidişinden belli olur" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

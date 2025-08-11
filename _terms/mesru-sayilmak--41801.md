@@ -1,0 +1,16 @@
+---
+layout: term
+title: meşru sayılmak
+slug: mesru-sayilmak
+letter: M
+indeks: 41801
+lisan: Türkçe
+anlamlar:
+- geçerli bulunmak
+ozellikler:
+- []
+ornekler:
+- Meşru sayılan adilik ve faziletsizliklerden hiçbiri onda yoktu.
+orneklerkaynak:
+- Peyami Safa
+---

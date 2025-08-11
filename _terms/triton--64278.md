@@ -1,0 +1,16 @@
+---
+layout: term
+title: triton
+slug: triton
+letter: T
+indeks: 64278
+lisan: Fransızca triton
+anlamlar:
+- Trityumun, bir protondan ve iki nötrondan oluşan atom çekirdeği
+ozellikler:
+- - isim
+  - kimya
+  - fizik
+ornekler: []
+orneklerkaynak: []
+---

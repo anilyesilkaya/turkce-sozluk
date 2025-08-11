@@ -1,0 +1,16 @@
+---
+layout: term
+title: taburcu olmak
+slug: taburcu-olmak
+letter: T
+indeks: 96138
+lisan: Türkçe
+anlamlar:
+- tedavi edilerek hastaneden çıkmak
+ozellikler:
+- []
+ornekler:
+- Her şey iki saat içinde gerçekleşti ve eşyalarımı toplayıp taburcu oldum.
+orneklerkaynak:
+- Emine Can
+---

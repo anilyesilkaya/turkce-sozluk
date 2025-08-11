@@ -1,0 +1,16 @@
+---
+layout: term
+title: veznedarlık
+slug: veznedarlik
+letter: V
+indeks: 67207
+lisan: Türkçe
+anlamlar:
+- veznecilik
+- Banka vb. kurum ve kuruluşlarda veznenin bulunduğu yer
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

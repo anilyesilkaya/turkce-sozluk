@@ -1,0 +1,16 @@
+---
+layout: term
+title: 'ölü aşı '
+slug: olu-asi
+letter: Ö
+indeks: 98846
+lisan: Türkçe
+anlamlar:
+- ölü yemeği
+ozellikler:
+- - isim
+ornekler:
+- Ölü aşı hakkında Oğuzların inanış ve anlayışları Salur Kazan’ın tekfurun karısıyla yaptığı konuşmada açıkça görülmektedir.
+orneklerkaynak:
+- Abdülkadir İnan
+---

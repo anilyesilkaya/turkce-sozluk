@@ -1,0 +1,16 @@
+---
+layout: term
+title: şikâyetçi
+slug: sikayetci
+letter: Ş
+indeks: 61126
+lisan: Türkçe
+anlamlar:
+- Sızlanan, sızıltısı olan, yakınan, şikâyet eden; müşteki, şekvacı
+ozellikler:
+- - sıfat
+ornekler:
+- Üzgündü hatta dertliydi ve buna sebep onlarmış gibi şikâyetçi bir edası vardı.
+orneklerkaynak:
+- Tarık Buğra
+---

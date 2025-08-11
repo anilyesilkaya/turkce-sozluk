@@ -1,0 +1,16 @@
+---
+layout: term
+title: yerleştirilebilmek
+slug: yerlestirilebilmek
+letter: Y
+indeks: 90343
+lisan: Türkçe
+anlamlar:
+- Yerleştirme ihtimali veya imkânı bulunmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Köy, birdenbire ayaklanıp kırk günlük yola gitmiş gibi uzaktadır, iki avucun orta yerine yerleştirilebilecek kadar ufacıktır.
+orneklerkaynak:
+- Nâzım Hikmet
+---

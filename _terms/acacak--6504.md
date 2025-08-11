@@ -1,0 +1,24 @@
+---
+layout: term
+title: açacak
+slug: acacak
+letter: A
+indeks: 6504
+lisan: Türkçe
+anlamlar:
+- Şişelenmiş bazı içeceklerin kapaklarını açmaya yarayan araç
+- Teneke kutu içinde korunmuş yiyeceklerin kapağını açmaya yarayan araç
+- anahtar
+ozellikler:
+- - isim
+  - halk ağzında
+- - isim
+  - halk ağzında
+- - isim
+  - halk ağzında
+ornekler:
+- Bana bir kutu çivi, bir tornavida, bir çapa, bir gazoz açacağı al gel.
+- Salçanın tenekesini açacakla zor açtım.
+orneklerkaynak:
+- Afşar Timuçin
+---

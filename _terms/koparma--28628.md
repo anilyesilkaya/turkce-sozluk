@@ -1,0 +1,20 @@
+---
+layout: term
+title: koparma
+slug: koparma
+letter: K
+indeks: 28628
+lisan: Türkçe
+anlamlar:
+- Koparmak işi
+- Halterde ayakları açarak halteri bir çırpıda baş üstüne, dirsekleri bükmeden kaldırma biçimi
+ozellikler:
+- - isim
+  - spor
+- - isim
+  - spor
+ornekler:
+- Öte yandan canavar düdükleri de ilk çığlıklarını koparmaya başlamışlardı.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: tapınmak
+slug: tapinmak
+letter: T
+indeks: 62233
+lisan: Türkçe
+anlamlar:
+- Tapma işi yapılmak
+ozellikler:
+- - -e
+ornekler:
+- Beyaz esvaplı bakireler, altın saçlı delikanlılar, kollarını çaprazlamış, diz üstü ona tapınmaktadır.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: köşe dolabı
+slug: kose-dolabi
+letter: K
+indeks: 27293
+lisan: Türkçe
+anlamlar:
+- Köşe yere yerleştirilen dik açı biçiminde yapılmış dolap
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

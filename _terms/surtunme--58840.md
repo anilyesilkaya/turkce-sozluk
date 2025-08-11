@@ -1,0 +1,21 @@
+---
+layout: term
+title: sürtünme
+slug: surtunme
+letter: S
+indeks: 58840
+lisan: Türkçe
+anlamlar:
+- Sürtünmek işi
+- Yüzeyleri birbirinin üstüne gelerek biri veya her ikisi ötekine göre ters doğrultuda kayan iki cismin durumu; delk
+ozellikler:
+- - isim
+  - fizik
+- - isim
+  - fizik
+ornekler:
+- Bir ayağın yerlere sürtünmesinden çıkan, silik ve belirsiz sesi işitti.
+- Sürtünme, kinetik enerjinin bir bölümünü ısıl enerjiye çevirdiğinden motorun verimini azaltır.
+orneklerkaynak:
+- Peyami Safa
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: ikbal düşkünlüğü
+slug: ikbal-duskunlugu
+letter: I
+indeks: 33142
+lisan: Türkçe
+anlamlar:
+- İkbal düşkünü olma durumu
+ozellikler:
+- - isim
+ornekler:
+- İkbal düşkünlüğü babama tesir etmemiş gibiydi.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

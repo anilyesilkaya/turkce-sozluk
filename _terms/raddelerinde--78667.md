@@ -1,0 +1,17 @@
+---
+layout: term
+title: raddelerinde
+slug: raddelerinde
+letter: R
+indeks: 78667
+lisan: Türkçe
+anlamlar:
+- sularında
+ozellikler:
+- - zarf
+  - eskimiş
+ornekler:
+- Ertesi sabah on iki raddelerinde kalkılır ve beyler iki buçuğa, üçe doğru işlerine giderlerdi.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

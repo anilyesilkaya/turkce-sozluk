@@ -1,0 +1,15 @@
+---
+layout: term
+title: kredi sözleşmesi
+slug: kredi-sozlesmesi
+letter: K
+indeks: 27439
+lisan: Türkçe
+anlamlar:
+- Banka veya mali kuruluşların kredi açarken müşteriyle yaptıkları sözleşme
+ozellikler:
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

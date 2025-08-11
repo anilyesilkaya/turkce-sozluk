@@ -1,0 +1,17 @@
+---
+layout: term
+title: akaret
+slug: akaret
+letter: A
+indeks: 1209
+lisan: Arapça ʿaḳārāt sözünden
+anlamlar:
+- akar (I)
+ozellikler:
+- - isim
+  - eskimiş
+ornekler:
+- Başladı her ay akaretlerinden kira toplar gibi tıkır tıkır faizleri toplamaya.
+orneklerkaynak:
+- Ercüment Ekrem Talu
+---

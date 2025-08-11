@@ -1,0 +1,16 @@
+---
+layout: term
+title: tüccar
+slug: tuccar
+letter: T
+indeks: 64622
+lisan: Arapça tuccār
+anlamlar:
+- Ticaret yapan, ticaretle uğraşan kimse; tacir, tecimen, bezirgân
+ozellikler:
+- - isim
+ornekler:
+- Ova köylerinde sözü geçen bir koyun tüccarı ile orada buluşacaktı.
+orneklerkaynak:
+- Tarık Buğra
+---

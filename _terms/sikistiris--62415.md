@@ -1,0 +1,14 @@
+---
+layout: term
+title: sıkıştırış
+slug: sikistiris
+letter: S
+indeks: 62415
+lisan: Türkçe
+anlamlar:
+- Sıkıştırmak işi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: bağ bayırda, tarla çayırda
+slug: bag-bayirda-tarla-cayirda
+letter: B
+indeks: 11988
+lisan: Türkçe
+anlamlar:
+- '"her şey kendisi için en elverişli ortamda gelişir, verimli duruma gelir" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

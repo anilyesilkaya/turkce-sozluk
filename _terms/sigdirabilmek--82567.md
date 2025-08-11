@@ -1,0 +1,18 @@
+---
+layout: term
+title: sığdırabilmek
+slug: sigdirabilmek
+letter: S
+indeks: 82567
+lisan: Türkçe
+anlamlar:
+- Sığdırma ihtimali veya imkânı bulunmak
+- Sığdırma becerisi bulunmak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+ornekler: []
+orneklerkaynak: []
+---

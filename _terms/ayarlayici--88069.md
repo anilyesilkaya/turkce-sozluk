@@ -1,0 +1,20 @@
+---
+layout: term
+title: ayarlayıcı
+slug: ayarlayici
+letter: A
+indeks: 88069
+lisan: Türkçe
+anlamlar:
+- Ayar veya düzen veren kimse veya nesne; regülatör
+- Ayarlama özelliği taşıyan
+ozellikler:
+- - isim
+  - sıfat
+- - isim
+  - sıfat
+ornekler:
+- Ama gereken yerlere araştırıcı, değiştirici, düzeltici ve ayarlayıcı prizmalar konmuştur.
+orneklerkaynak:
+- İsmail Kara
+---

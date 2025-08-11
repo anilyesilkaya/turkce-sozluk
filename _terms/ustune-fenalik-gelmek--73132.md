@@ -1,0 +1,16 @@
+---
+layout: term
+title: üstüne fenalık gelmek
+slug: ustune-fenalik-gelmek
+letter: Ü
+indeks: 73132
+lisan: Türkçe
+anlamlar:
+- aşırı derecede sıkılmak, pek bunalmak
+ozellikler:
+- []
+ornekler:
+- Bütün kan başıma çıktı, üstüme bir fenalık gelir gibiydi.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

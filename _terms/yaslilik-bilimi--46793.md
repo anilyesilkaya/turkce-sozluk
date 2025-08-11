@@ -1,0 +1,14 @@
+---
+layout: term
+title: yaşlılık bilimi
+slug: yaslilik-bilimi
+letter: Y
+indeks: 46793
+lisan: Türkçe
+anlamlar:
+- Yaşlılık ve yaşlanmaya bağlı tüm klinik, biyolojik ve sosyolojik tıbbi sorunlarla ilgilenen bilim dalı; geriatri, gerontoloji
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

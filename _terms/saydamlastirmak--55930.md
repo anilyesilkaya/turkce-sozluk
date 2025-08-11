@@ -1,0 +1,14 @@
+---
+layout: term
+title: saydamlaştırmak
+slug: saydamlastirmak
+letter: S
+indeks: 55930
+lisan: Türkçe
+anlamlar:
+- Saydam duruma getirmek; şeffaflaştırmak
+ozellikler:
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

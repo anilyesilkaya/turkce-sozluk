@@ -1,0 +1,18 @@
+---
+layout: term
+title: özenli
+slug: ozenli
+letter: Ö
+indeks: 50841
+lisan: Türkçe
+anlamlar:
+- Özen gösterilerek yapılan (iş); itinalı
+- Özenle çalışan (kimse)
+- Temiz, zarif  ve özenle giyinmiş (kimse); tirendaz
+ozellikler:
+- - sıfat
+- - sıfat
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

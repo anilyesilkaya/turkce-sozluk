@@ -1,0 +1,14 @@
+---
+layout: term
+title: ekelik
+slug: ekelik
+letter: E
+indeks: 87963
+lisan: Türkçe
+anlamlar:
+- Eke olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

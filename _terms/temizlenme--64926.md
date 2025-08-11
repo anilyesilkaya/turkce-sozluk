@@ -1,0 +1,16 @@
+---
+layout: term
+title: temizlenme
+slug: temizlenme
+letter: T
+indeks: 64926
+lisan: Türkçe
+anlamlar:
+- Temizlenmek işi; arınma, paklanma
+ozellikler:
+- - isim
+ornekler:
+- Odasına gitti ve aynanın karşısına geçip temizlenmeye başladı.
+orneklerkaynak:
+- Tarık Buğra
+---

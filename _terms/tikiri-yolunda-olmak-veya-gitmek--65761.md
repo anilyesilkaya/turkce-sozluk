@@ -1,0 +1,14 @@
+---
+layout: term
+title: tıkırı yolunda olmak (veya gitmek)
+slug: tikiri-yolunda-olmak-veya-gitmek
+letter: T
+indeks: 65761
+lisan: Türkçe
+anlamlar:
+- varlıklı olmak, parasal yönden sıkıntısı olmamak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

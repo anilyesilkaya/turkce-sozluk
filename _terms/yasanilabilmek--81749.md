@@ -1,0 +1,16 @@
+---
+layout: term
+title: yaşanılabilmek
+slug: yasanilabilmek
+letter: Y
+indeks: 81749
+lisan: Türkçe
+anlamlar:
+- Yaşanılma ihtimali veya imkânı bulunmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Dünyanın bir ucunda ölüp öbür ucunda yaşanılabileceğine benim aklım pek ermedi.
+orneklerkaynak:
+- Nâzım Hikmet
+---

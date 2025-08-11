@@ -1,0 +1,14 @@
+---
+layout: term
+title: donanma şenliği
+slug: donanma-senligi
+letter: D
+indeks: 81887
+lisan: Türkçe
+anlamlar:
+- donanma gecesi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

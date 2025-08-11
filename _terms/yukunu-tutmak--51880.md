@@ -1,0 +1,16 @@
+---
+layout: term
+title: yükünü tutmak
+slug: yukunu-tutmak
+letter: Y
+indeks: 51880
+lisan: Türkçe
+anlamlar:
+- çok zengin olmak, zenginleşmek
+ozellikler:
+- []
+ornekler:
+- Zira bazı insanlar da vardır ki yüklerini tuttuktan ve biraz da yaşlandıktan sonra kendilerini bir nevi santimantal veya dinî mistisizme verirler.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

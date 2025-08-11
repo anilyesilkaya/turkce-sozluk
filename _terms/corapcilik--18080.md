@@ -1,0 +1,16 @@
+---
+layout: term
+title: çorapçılık
+slug: corapcilik
+letter: Ç
+indeks: 18080
+lisan: Türkçe
+anlamlar:
+- Çorapçının yaptığı iş
+ozellikler:
+- - isim
+ornekler:
+- Kasabadan İstanbul’a gitmiş çok sayıda insan çorapçılık üzerine iş kurmuşlardır.
+orneklerkaynak:
+- Bilâl Bülent Alperen
+---

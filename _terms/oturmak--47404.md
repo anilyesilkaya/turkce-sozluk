@@ -1,0 +1,159 @@
+---
+layout: term
+title: oturmak
+slug: oturmak
+letter: O
+indeks: 47404
+lisan: Türkçe
+anlamlar:
+- Vücudun belden yukarısı dik duracak biçimde ağırlığı kaba etlere vererek bir yere yerleşmek
+- Bu biçimde yerleştiği yerde kalmak
+- Uygun gelmek, ölçüleri tam olmak
+- Bir yerde sürekli olarak kalmak, ikamet etmek
+- Hiçbir iş yapmadan boş vakit geçirmek, boş durmak
+- Toprak veya yapı çökmek, aşağı inmek
+- Biriyle beraber yaşamak
+- Bir işi yapmakta olmak, bir işe başlamak üzere olmak
+- Yer almak, geçmek
+- Benimsenmek, yerleşmek, kökleşmek
+- Belli bir yörüngede dönmeye başlamak
+- Sıvı tortuları dibe çökmek, dipte toplanmak
+- Herhangi bir durumda belli bir süre kalmak
+ozellikler:
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -i
+  - -de
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - nesnesiz
+ornekler:
+- Bir sandalyenin üzerinde oturmuş, önüne bakıyordu.
+- Bakın, hikâye zordur, acımasız ve hoşgörüsüzdür. Oturursunuz ve başından kalkamazsınız.
+- Ütüsüz ve beli oturmamış pantolonunu çekti.
+- Aynı semtte oturdukları için komşu da sayılırlar.
+- Böyle oturacağınıza çalışsanız olmaz mı?
+- Temelin bu tarafı on santim oturmuş.
+- O günden beri enişte beyle oturuyorum.
+- Valilik makamına oturdu.
+- Gelenekler gün geçtikçe iyice oturdu.
+- Uydu yörüngeye oturdu.
+- Arif gibi bir adamla çene yarışına girmek istememekle beraber susup oturamazdı.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+- Tarık Dursun K
+- Tarık Buğra
+- Burhan Felek
+- Sermet Muhtar Alus
+- Memduh Şevket Esendal
+---

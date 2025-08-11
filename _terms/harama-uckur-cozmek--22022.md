@@ -1,0 +1,14 @@
+---
+layout: term
+title: harama uçkur çözmek
+slug: harama-uckur-cozmek
+letter: H
+indeks: 22022
+lisan: Türkçe
+anlamlar:
+- nikâhsız olarak cinsel ilişkide bulunmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

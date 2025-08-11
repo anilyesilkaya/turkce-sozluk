@@ -1,0 +1,19 @@
+---
+layout: term
+title: aklan
+slug: aklan
+letter: A
+indeks: 1491
+lisan: Türkçe
+anlamlar:
+- Sularını bir denize veya göle gönderen su havzası; maile
+- Bir dağ sırasının yamaçlarından her biri
+ozellikler:
+- - isim
+  - coğrafya
+- - isim
+  - coğrafya
+ornekler:
+- Karadeniz aklanı.
+orneklerkaynak: []
+---

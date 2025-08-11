@@ -1,0 +1,14 @@
+---
+layout: term
+title: Uygur alfabesi
+slug: uygur-alfabesi
+letter: U
+indeks: 97613
+lisan: Türkçe
+anlamlar:
+- VIII-XV. yüzyıllar arasında Ötüken, Turfan ve Kansu Uygurlarınca kullanılan, Soğd alfabesinden türemiş, Uygur Türklerine özgü alfabe; Uygur harfleri
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

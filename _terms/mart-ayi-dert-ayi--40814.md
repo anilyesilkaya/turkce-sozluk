@@ -1,0 +1,14 @@
+---
+layout: term
+title: mart ayı dert ayı
+slug: mart-ayi-dert-ayi
+letter: M
+indeks: 40814
+lisan: Türkçe
+anlamlar:
+- '"mart ayında havalar sık sık değiştiği için insan kendisini koruyamaz ve hasta olur" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

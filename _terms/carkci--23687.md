@@ -1,0 +1,20 @@
+---
+layout: term
+title: çarkçı
+slug: carkci
+letter: Ç
+indeks: 23687
+lisan: Türkçe
+anlamlar:
+- Kesici aletleri çarkla bileyen kimse; bileyici
+- Vapurlarda makine bölümünü yöneten kimse
+ozellikler:
+- - isim
+  - denizcilik
+- - isim
+  - denizcilik
+ornekler:
+- Karısı bir deniz çarkçı subayının kızıdır.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: askın surat
+slug: askin-surat
+letter: A
+indeks: 90365
+lisan: Türkçe
+anlamlar:
+- asık surat
+ozellikler:
+- - zarf
+  - mecaz
+ornekler:
+- Bu mektubu yazmak için askın surat girdiğim yazı odasından içim gülerek çıktım.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: dost edinmek (veya kazanmak)
+slug: dost-edinmek-veya-kazanmak
+letter: D
+indeks: 3292
+lisan: Türkçe
+anlamlar:
+- bir kişiyi dost olarak kabul etmek
+ozellikler:
+- []
+ornekler:
+- Yolda iki dost edinip on gün birisinin, on gün ötekinin erzak torbasından karnını doyurdu.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: cesaret etmek
+slug: cesaret-etmek
+letter: C
+indeks: 4281
+lisan: Türkçe
+anlamlar:
+- korkulması gereken bir işe korkmadan girişmek, göze almak
+ozellikler:
+- []
+ornekler:
+- Bana bir şey söylemeye cesaret ettiğini gördünüz mü şimdiye kadar?
+orneklerkaynak:
+- Tarık Buğra
+---

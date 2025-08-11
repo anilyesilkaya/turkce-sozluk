@@ -1,0 +1,14 @@
+---
+layout: term
+title: her işte bir hayır vardır
+slug: her-iste-bir-hayir-vardir
+letter: H
+indeks: 23059
+lisan: Türkçe
+anlamlar:
+- '"kişi, kötümserliğe kapılmamak için olup biten her işi hayra yormalıdır" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

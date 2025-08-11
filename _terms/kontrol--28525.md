@@ -1,0 +1,21 @@
+---
+layout: term
+title: kontrol
+slug: kontrol
+letter: K
+indeks: 28525
+lisan: Fransızca contrôle
+anlamlar:
+- denetleme
+- Bir şeyin gerçeğe ve aslına uygunluğuna bakma
+- yoklama
+ozellikler:
+- - isim
+- - isim
+- - isim
+ornekler:
+- Duygululuk olsa olsa akılla bağdaştığı, aklın kontrolünde kaldığı ölçüde bir değer taşır.
+- Gümrük kontrolü.
+orneklerkaynak:
+- Necati Cumalı
+---

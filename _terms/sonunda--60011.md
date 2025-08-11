@@ -1,0 +1,16 @@
+---
+layout: term
+title: sonunda
+slug: sonunda
+letter: S
+indeks: 60011
+lisan: Türkçe
+anlamlar:
+- Son anda; nihayetinde, ahir, akıbet
+ozellikler:
+- - zarf
+ornekler:
+- Akşama kadar düşünüp sonunda bir çare buldu.
+orneklerkaynak:
+- İhsan Oktay Anar
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: Allah kısmet ederse
+slug: allah-kismet-ederse
+letter: A
+indeks: 8765
+lisan: Türkçe
+anlamlar:
+- '"Tanrı izin verirse" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler:
+- Yokluğum seni de üzmüş / Allah kısmet ederse / Kalkıp gideceğim
+orneklerkaynak:
+- Behçet Necatigil
+---

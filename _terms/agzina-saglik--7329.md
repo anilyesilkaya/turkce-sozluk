@@ -1,0 +1,16 @@
+---
+layout: term
+title: ağzına sağlık
+slug: agzina-saglik
+letter: A
+indeks: 7329
+lisan: Türkçe
+anlamlar:
+- bir sözü yerinde söyleyen kişilere söylenen bir beğenme sözü
+- yapılan konuşmanın beğenildiğini belirtmek için söylenen söz
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

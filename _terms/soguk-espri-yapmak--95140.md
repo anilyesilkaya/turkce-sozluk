@@ -1,0 +1,16 @@
+---
+layout: term
+title: soğuk espri yapmak
+slug: soguk-espri-yapmak
+letter: S
+indeks: 95140
+lisan: Türkçe
+anlamlar:
+- güldürmeyen, niteliksiz, yersiz espri yapmak
+ozellikler:
+- []
+ornekler:
+- Hayatımda bunun kadar soğuk espri yapan görmedim.
+orneklerkaynak:
+- Candan Esin
+---

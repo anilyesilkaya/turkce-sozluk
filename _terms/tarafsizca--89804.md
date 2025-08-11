@@ -1,0 +1,14 @@
+---
+layout: term
+title: tarafsızca
+slug: tarafsizca
+letter: T
+indeks: 89804
+lisan: Türkçe
+anlamlar:
+- Tarafsız bir biçimde
+ozellikler:
+- - zarf
+ornekler: []
+orneklerkaynak: []
+---

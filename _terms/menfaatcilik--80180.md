@@ -1,0 +1,14 @@
+---
+layout: term
+title: menfaatçilik
+slug: menfaatcilik
+letter: M
+indeks: 80180
+lisan: Türkçe
+anlamlar:
+- çıkarcılık
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

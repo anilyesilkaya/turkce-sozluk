@@ -1,0 +1,16 @@
+---
+layout: term
+title: ipliği pazara çıkmak
+slug: ipligi-pazara-cikmak
+letter: I
+indeks: 35521
+lisan: Türkçe
+anlamlar:
+- kötü nitelik ve suçları ortaya çıkmak
+ozellikler:
+- []
+ornekler:
+- Geçenki müfettişin ipliği pazara çıktı galiba...
+orneklerkaynak:
+- Orhan Kemal
+---

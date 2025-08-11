@@ -1,0 +1,16 @@
+---
+layout: term
+title: türedilik
+slug: turedilik
+letter: T
+indeks: 92175
+lisan: Türkçe
+anlamlar:
+- Türedi olma durumu; zıpçıktılık
+ozellikler:
+- - isim
+ornekler:
+- Bu hâller, işsizlik, karaborsacılık, sonradan görmelik, türedilik, vatana millete hayırsızlık hâlleridir.
+orneklerkaynak:
+- Ahmet Kabaklı
+---

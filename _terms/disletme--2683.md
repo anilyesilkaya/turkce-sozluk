@@ -1,0 +1,14 @@
+---
+layout: term
+title: dişletme
+slug: disletme
+letter: D
+indeks: 2683
+lisan: Türkçe
+anlamlar:
+- Dişletmek işi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

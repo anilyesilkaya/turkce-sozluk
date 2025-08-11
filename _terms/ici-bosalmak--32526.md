@@ -1,0 +1,16 @@
+---
+layout: term
+title: içi boşalmak
+slug: ici-bosalmak
+letter: I
+indeks: 32526
+lisan: Türkçe
+anlamlar:
+- önemi ve anlamı kalmamak
+ozellikler:
+- []
+ornekler:
+- Biliyorum; bütün sözler yavan, bütün sözcüklerin içi boşalmış, bütün anlamlar kullanılmış.
+orneklerkaynak:
+- Murathan Mungan
+---

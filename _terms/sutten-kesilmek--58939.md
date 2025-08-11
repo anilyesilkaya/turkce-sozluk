@@ -1,0 +1,14 @@
+---
+layout: term
+title: sütten kesilmek
+slug: sutten-kesilmek
+letter: S
+indeks: 58939
+lisan: Türkçe
+anlamlar:
+- hastalık, üzüntü veya bebeğin emmemesi nedeniyle anneye süt gelmemek
+ozellikler:
+- - tıp
+ornekler: []
+orneklerkaynak: []
+---

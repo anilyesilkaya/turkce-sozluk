@@ -1,0 +1,14 @@
+---
+layout: term
+title: elini vicdanına koymak
+slug: elini-vicdanina-koymak
+letter: E
+indeks: 24590
+lisan: Türkçe
+anlamlar:
+- doğru, yansız, hakça davranmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

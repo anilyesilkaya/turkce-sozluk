@@ -1,0 +1,14 @@
+---
+layout: term
+title: Doğu Bloku
+slug: dogu-bloku
+letter: D
+indeks: 2952
+lisan: Türkçe
+anlamlar:
+- Doğu Avrupa ülkelerinin İkinci Dünya Savaşı'ndan sonra oluşturduğu, 1990'lı yılların başında dağılan siyasi blok
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

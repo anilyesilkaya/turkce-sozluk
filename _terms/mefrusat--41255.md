@@ -1,0 +1,16 @@
+---
+layout: term
+title: mefruşat
+slug: mefrusat
+letter: M
+indeks: 41255
+lisan: Arapça mefrūşāt
+anlamlar:
+- Ev, iş yeri vb. yerleri döşemek için gereklihalı, kilim, koltuk vb. eşya; döşeme
+ozellikler:
+- - isim
+ornekler:
+- Burası, yeni mefruşatla döşenmiş zarif bir yatak odası.
+orneklerkaynak:
+- Peyami Safa
+---

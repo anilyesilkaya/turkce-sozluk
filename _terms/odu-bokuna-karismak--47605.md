@@ -1,0 +1,16 @@
+---
+layout: term
+title: ödü bokuna karışmak
+slug: odu-bokuna-karismak
+letter: Ö
+indeks: 47605
+lisan: Türkçe
+anlamlar:
+- çok korkmak
+ozellikler:
+- - kaba konuşmada
+ornekler:
+- Fırsatını bulsa pencereden atlayıp kaçacak, öyle de ödü bokuna karışmış.
+orneklerkaynak:
+- Ahmet Ümit
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: istavrit azmanı
+slug: istavrit-azmani
+letter: I
+indeks: 35814
+lisan: Türkçe
+anlamlar:
+- ton balığı
+ozellikler:
+- - isim
+ornekler:
+- Bunların can düşmanları da yunus ve istavrit azmanı denilen orkinos.
+orneklerkaynak:
+- Sermet Muhtar Alus
+---

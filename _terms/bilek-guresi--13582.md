@@ -1,0 +1,16 @@
+---
+layout: term
+title: bilek güreşi
+slug: bilek-guresi
+letter: B
+indeks: 13582
+lisan: Türkçe
+anlamlar:
+- İki kişinin, dirseklerini bir yere dayayarak birbirlerinin bileğini bükmeye çalışması
+ozellikler:
+- - isim
+ornekler:
+- Onları merakla seyreden bir kalabalık önünde bilek güreşi yapıyorlardı.
+orneklerkaynak:
+- Melih Cevdet Anday
+---

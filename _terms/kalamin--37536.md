@@ -1,0 +1,18 @@
+---
+layout: term
+title: kalamin
+slug: kalamin
+letter: K
+indeks: 37536
+lisan: Fransızca calamine
+anlamlar:
+- Doğada az bulunan, güç işlenen, hidratlı çinko silikat
+- Havada, yüksek ısıda işlenen metal parçaların yüzeyinde oluşan oksit katmanı
+ozellikler:
+- - isim
+  - mineraloji
+- - isim
+  - mineraloji
+ornekler: []
+orneklerkaynak: []
+---

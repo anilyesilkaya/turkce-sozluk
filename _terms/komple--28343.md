@@ -1,0 +1,27 @@
+---
+layout: term
+title: komple
+slug: komple
+letter: K
+indeks: 28343
+lisan: Fransızca complet
+anlamlar:
+- dolu (II)
+- Eksiksiz, gerekli her şeyi tamam olan
+- Bütünü aynı şeyden olup bir takım oluşturan
+- Üstün nitelikleri kendinde toplayan, mükemmel olan
+ozellikler:
+- - sıfat
+  - mecaz
+- - sıfat
+  - mecaz
+- - sıfat
+  - mecaz
+- - sıfat
+  - mecaz
+ornekler:
+- Komple sofra takımı.
+- O, eşi ender bulunur komple sanat insanlarından biriydi.
+orneklerkaynak:
+- Aydın Boysan
+---

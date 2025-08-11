@@ -1,0 +1,16 @@
+---
+layout: term
+title: harekete geçirmek (veya getirmek)
+slug: harekete-gecirmek-veya-getirmek
+letter: H
+indeks: 22090
+lisan: Türkçe
+anlamlar:
+- bir işin yapılmasına sebep olmak, kımıldatmak, canlandırmak
+ozellikler:
+- []
+ornekler:
+- İlçelerinde ne kadar dernek varsa hepsini harekete geçirdiler.
+orneklerkaynak:
+- Ayşe Kulin
+---

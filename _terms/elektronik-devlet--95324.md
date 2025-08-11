@@ -1,0 +1,14 @@
+---
+layout: term
+title: elektronik devlet
+slug: elektronik-devlet
+letter: E
+indeks: 95324
+lisan: Türkçe
+anlamlar:
+- Devlet hizmetlerinin sağlanmasında ve işleyişinde bilgisayar, genel ağ vb. elektronik teknolojilerin kullanıldığı ortam; e-devlet
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

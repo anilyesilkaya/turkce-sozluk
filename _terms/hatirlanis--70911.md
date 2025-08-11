@@ -1,0 +1,16 @@
+---
+layout: term
+title: hatırlanış
+slug: hatirlanis
+letter: H
+indeks: 70911
+lisan: Türkçe
+anlamlar:
+- anımsanış
+ozellikler:
+- - isim
+ornekler:
+- Yıllarca süren sığıntı ezikliğinin hatırlanışı da vardır amcasında.
+orneklerkaynak:
+- Tarık Buğra
+---

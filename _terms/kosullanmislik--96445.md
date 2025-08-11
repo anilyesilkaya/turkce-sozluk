@@ -1,0 +1,16 @@
+---
+layout: term
+title: koşullanmışlık
+slug: kosullanmislik
+letter: K
+indeks: 96445
+lisan: Türkçe
+anlamlar:
+- Koşullanmış olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Benim koşullanmışlıklarıma karşı çıkarken sendeki kalıntılardan da kurtulmayı umuyorsun değil mi?
+orneklerkaynak:
+- İnci Aral
+---

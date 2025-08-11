@@ -1,0 +1,14 @@
+---
+layout: term
+title: iç kapak
+slug: ic-kapak
+letter: I
+indeks: 32709
+lisan: Türkçe
+anlamlar:
+- Kitabın dış kapaktan sonra gelen, adını ve bazı özelliklerini içeren sayfa
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: dönüştürme
+slug: donusturme
+letter: D
+indeks: 3477
+lisan: Türkçe
+anlamlar:
+- Dönüştürmek işi; tahvil
+ozellikler:
+- - isim
+ornekler:
+- İşi uzatmanın, yaşadığımız her günü işkenceye dönüştürmenin de bir anlamı yoktu.
+orneklerkaynak:
+- Ahmet Ümit
+---

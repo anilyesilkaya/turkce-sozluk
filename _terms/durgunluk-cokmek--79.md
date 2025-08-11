@@ -1,0 +1,16 @@
+---
+layout: term
+title: durgunluk çökmek
+slug: durgunluk-cokmek
+letter: D
+indeks: 79
+lisan: Türkçe
+anlamlar:
+- sessiz, sakin duruma girmek
+ozellikler:
+- []
+ornekler:
+- Posta kâtibi eskiden çok sert bir adamdı. Fakat gitgide ona garip bir durgunluk çökmüştü.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

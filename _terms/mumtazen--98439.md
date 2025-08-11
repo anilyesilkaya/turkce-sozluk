@@ -1,0 +1,16 @@
+---
+layout: term
+title: mümtazen
+slug: mumtazen
+letter: M
+indeks: 98439
+lisan: Türkçe
+anlamlar:
+- Seçkin olarak
+ozellikler:
+- - zarf
+ornekler:
+- Sicili tertemiz, hiçbir kararı geri çevrilmemiş, hep mümtazen terfi etmiş.
+orneklerkaynak:
+- Tuna Ertem
+---

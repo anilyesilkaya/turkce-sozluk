@@ -1,0 +1,28 @@
+---
+layout: term
+title: dalgalanmak
+slug: dalgalanmak
+letter: D
+indeks: 16138
+lisan: Türkçe
+anlamlar:
+- Üzerinde dalga oluşmak; çalkalanmak, talazlanmak
+- Renk, ton değiştirmek
+- Hareketli olmak
+- Tutarlı olamamak, tutarlı davranışlarda bulunamamak; yüzmek (I)
+ozellikler:
+- - nesnesiz
+  - mecaz
+- - nesnesiz
+  - mecaz
+- - nesnesiz
+  - mecaz
+- - nesnesiz
+  - mecaz
+ornekler:
+- Yüzünde belli belirsiz bir pembelik dalgalanmıştı.
+- Kadının simsiyah saçları, gelişigüzel rüzgârın önüne bırakılmış, dalgalanıyor.
+orneklerkaynak:
+- Haldun Taner
+- Esat Mahmut Karakurt
+---

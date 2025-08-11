@@ -1,0 +1,17 @@
+---
+layout: term
+title: bütünleme sınavı
+slug: butunleme-sinavi
+letter: B
+indeks: 13300
+lisan: Türkçe
+anlamlar:
+- Eğitim kurumlarında başarısız olan öğrenciler için yarıyıl sonu veya öğretim yılı sonunda yapılan ek sınav; bütünleme, bütünleme imtihanı, ikmal, ikmal imtihanı
+ozellikler:
+- - isim
+  - eğitim
+ornekler:
+- Bütünleme sınavı dersten geçmek için son şans olduğundan öğrenci üzerinde stres yaratabilir.
+orneklerkaynak:
+- Funda Özlem Şeran
+---

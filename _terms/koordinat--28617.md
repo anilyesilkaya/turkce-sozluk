@@ -1,0 +1,20 @@
+---
+layout: term
+title: koordinat
+slug: koordinat
+letter: K
+indeks: 28617
+lisan: Fransızca coordinat
+anlamlar:
+- Belirli bir molekül içinde özel bir konuma sahip bir atoma bağlı olan atom veya atom grubu
+- Bir yüzey üzerinde veya uzayda bir noktanın yerini belirten sıralı ikili veya üçlü; apsis
+ozellikler:
+- - isim
+  - kimya
+  - matematik
+- - isim
+  - kimya
+  - matematik
+ornekler: []
+orneklerkaynak: []
+---

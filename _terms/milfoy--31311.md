@@ -1,0 +1,14 @@
+---
+layout: term
+title: milföy
+slug: milfoy
+letter: M
+indeks: 31311
+lisan: Fransızca mille-feuille
+anlamlar:
+- milföy hamuru
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

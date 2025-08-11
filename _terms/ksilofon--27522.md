@@ -1,0 +1,15 @@
+---
+layout: term
+title: ksilofon
+slug: ksilofon
+letter: K
+indeks: 27522
+lisan: Fransızca xylophone
+anlamlar:
+- Değişik sayıda akortlu tahta veya metal çubukların gam sırasıyla dizilmesinden oluşan, iki değnekle vurularak çalınan bir çalgı
+ozellikler:
+- - isim
+  - müzik
+ornekler: []
+orneklerkaynak: []
+---

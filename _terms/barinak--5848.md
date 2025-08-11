@@ -1,0 +1,16 @@
+---
+layout: term
+title: barınak
+slug: barinak
+letter: B
+indeks: 5848
+lisan: Türkçe
+anlamlar:
+- Barınılacak yer
+ozellikler:
+- - isim
+ornekler:
+- Çocuklara yılda bir kez barınakları temizleme sırası gelirdi.
+orneklerkaynak:
+- Ayla Kutlu
+---

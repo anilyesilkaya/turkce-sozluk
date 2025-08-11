@@ -1,0 +1,18 @@
+---
+layout: term
+title: menetmek
+slug: menetmek
+letter: M
+indeks: 41457
+lisan: Arapça menʿ + Türkçe etmek
+anlamlar:
+- yasaklamak
+- Engel olmak
+ozellikler:
+- - -i
+- - -i
+ornekler:
+- Bildiğim bir şey varsa o da patronun odanızdan dışarıya çıkmayı size menettiğidir.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+---

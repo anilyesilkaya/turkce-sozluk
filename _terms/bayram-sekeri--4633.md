@@ -1,0 +1,16 @@
+---
+layout: term
+title: bayram şekeri
+slug: bayram-sekeri
+letter: B
+indeks: 4633
+lisan: Türkçe
+anlamlar:
+- Özellikle dinî bayramlarda konuklara ikram edilen şeker veya çikolata
+ozellikler:
+- - isim
+ornekler:
+- Daha komşu teyzenin ot minderli kerevetinde oturup bayram şekerini beklerken ellerimiz çaktırmadan ceplerimize gider, verilen kuruşları saymaya çalışırdık.
+orneklerkaynak:
+- Orhan Okay
+---

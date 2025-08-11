@@ -1,0 +1,16 @@
+---
+layout: term
+title: çağ dışı olmak (veya kalmak)
+slug: cag-disi-olmak-veya-kalmak
+letter: Ç
+indeks: 23212
+lisan: Türkçe
+anlamlar:
+- çağın gerektirdiği şartların gerisinde kalmak
+- yedek askerlik çağını doldurmuş olmak
+ozellikler:
+- - askerlik
+- - askerlik
+ornekler: []
+orneklerkaynak: []
+---

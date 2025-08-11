@@ -1,0 +1,135 @@
+---
+layout: term
+title: aralık
+slug: aralik
+letter: A
+indeks: 7481
+lisan: Türkçe
+anlamlar:
+- İki şey arasındaki mesafe, iki şeyin arasındaki boşluk; fasıla
+- Elverişli durum, uygun fırsat
+- koridor
+- Yılın on ikinci ayı; birinci kânun, ilk kânun, kânunuevvel
+- tuvalet
+- Basımcılıkta harfler veya satırlar arasındaki açıklık; espas
+- Yarı açık, tam kapanmamış
+- Yarı açık olarak
+- Borsada hisse senetlerinin alım satım emirlerinin verildiği süre
+- Bir sesi bir başka sesten, kalına veya inceye doğru ayıran uzaklık
+- İki nota arasındaki perde uzaklığı
+- Portenin paralel çizgileri arasındaki boşluk
+- Toplu beden eğitiminde art arda dizilenlerin arasındaki açıklık
+ozellikler:
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+- - isim
+  - sıfat
+  - zarf
+  - ekonomi
+  - fizik
+  - müzik
+  - müzik
+  - spor
+ornekler:
+- İki masa arasında bir metre aralık var.
+- Aralık kapıdan yatağı görmüştü demin.
+- İyice kararmış çarpık bir tahta kapı aralık duruyordu.
+- Portenin beş çizgisi arasında dört aralık vardır.
+orneklerkaynak:
+- Oktay Akbal
+- Çetin Altan
+---

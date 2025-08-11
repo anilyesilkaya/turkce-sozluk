@@ -1,0 +1,16 @@
+---
+layout: term
+title: sürgülemek
+slug: surgulemek
+letter: S
+indeks: 58791
+lisan: Türkçe
+anlamlar:
+- Sürgü sürerek kapamak
+- Sürgü ile bastırarak düzeltmek
+ozellikler:
+- - -i
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

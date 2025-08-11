@@ -1,0 +1,16 @@
+---
+layout: term
+title: özveri
+slug: ozveri
+letter: Ö
+indeks: 50960
+lisan: Türkçe
+anlamlar:
+- Bir amaç uğruna veya gerçekleştirilmesi istenen herhangi bir şey için kendi çıkarlarından vazgeçme; fedakârlık
+ozellikler:
+- - isim
+ornekler:
+- Daha bilgili olmalı, daha çok özveride bulunmalı ve zekice davranmalıyız.
+orneklerkaynak:
+- Ahmet Ümit
+---

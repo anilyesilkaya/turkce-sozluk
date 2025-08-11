@@ -1,0 +1,134 @@
+---
+layout: term
+title: keskin
+slug: keskin
+letter: K
+indeks: 31856
+lisan: Türkçe
+anlamlar:
+- Çok kesici, iyi kesen
+- Tiz olan
+- Kırıcı, incitici olan
+- Etkili, sert olan
+- kıvrak
+- hassas
+- Dikkatli olan
+- Yoğun bir biçimde
+- zampara
+- İşini iyi yapan
+ozellikler:
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+- - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+  - argo
+ornekler:
+- Sonunda keskin bir taşı testere gibi kullanarak ipi incelte incelte kopardı.
+- Bir kadın sesiydi bu. İnce ve keskin, dikkati hemen kapan ve bırakmayan bir ses.
+- En yakın dostlarının bile kusurlarını keskin bir dille yüzlerine vururmuş.
+- Masanın başında, güneşten yanmış yüzü, sert ve derin çizgilerle dolu, keskin bakışlı, kıranta bir adam oturuyor.
+- Bu çeneyle atbaşı giden keskin bir zekâsı var.
+- Gözcüm tepenin üstüne varınca, karşımızdaki sırttan bir keskin nişancı ateşi ile vuruldu.
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+- Peyami Safa
+- Haldun Taner
+- Esat Mahmut Karakurt
+- Cahit Sıtkı Tarancı
+- Turhan Seçer
+---

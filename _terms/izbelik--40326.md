@@ -1,0 +1,16 @@
+---
+layout: term
+title: izbelik
+slug: izbelik
+letter: I
+indeks: 40326
+lisan: Türkçe
+anlamlar:
+- İzbe yer
+ozellikler:
+- - isim
+ornekler:
+- Ortalama yarım dönümlük bu arsanın gerisinde, komşunun bahçe duvarının hemen dibinde mağara, in, kulübe karışımı bir izbelik, Ebüzziya Caddesi’nde gidip gelenlerin dikkatinden kaçardı.
+orneklerkaynak:
+- Rasin Örsan
+---

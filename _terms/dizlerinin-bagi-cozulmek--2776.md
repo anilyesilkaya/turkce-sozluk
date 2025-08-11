@@ -1,0 +1,16 @@
+---
+layout: term
+title: dizlerinin bağı çözülmek
+slug: dizlerinin-bagi-cozulmek
+letter: D
+indeks: 2776
+lisan: Türkçe
+anlamlar:
+- korkudan ayakta duramayacak duruma gelmek
+ozellikler:
+- []
+ornekler:
+- Mengene gibi bir el, cerrahın yakasına yapışınca zavallının dizlerinin bağı çözülecek gibi oldu.
+orneklerkaynak:
+- İhsan Oktay Anar
+---

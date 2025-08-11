@@ -1,0 +1,16 @@
+---
+layout: term
+title: dili boğazına akmak
+slug: dili-bogazina-akmak
+letter: D
+indeks: 15634
+lisan: Türkçe
+anlamlar:
+- konuşamaz olmak, sesi soluğu çıkmamak
+ozellikler:
+- []
+ornekler:
+- Kılıcı görünce dili boğazına aktı hayranlığından.
+orneklerkaynak:
+- Yaşar Kemal
+---

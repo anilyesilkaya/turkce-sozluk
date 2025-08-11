@@ -1,0 +1,16 @@
+---
+layout: term
+title: dilbaz
+slug: dilbaz
+letter: D
+indeks: 15692
+lisan: Türkçe dil + Farsça -bāz
+anlamlar:
+- Güzel söz söyleyen, konuşmasıyla ikna eden
+ozellikler:
+- - sıfat
+ornekler:
+- Benli küheylan çok yaman, çok dilbaz, çok dessas bir karı.
+orneklerkaynak:
+- Osman Cemal Kaygılı
+---

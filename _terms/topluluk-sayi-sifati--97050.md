@@ -1,0 +1,15 @@
+---
+layout: term
+title: topluluk sayı sıfatı
+slug: topluluk-sayi-sifati
+letter: T
+indeks: 97050
+lisan: Türkçe
+anlamlar:
+- 'Sayı adlarına -ız eki getirildiğinde nesneye topluluk kavramı kazandıran sayı sıfatı: ikiz kule, üçüz bebek vb'
+ozellikler:
+- - isim
+  - dil bilgisi
+ornekler: []
+orneklerkaynak: []
+---

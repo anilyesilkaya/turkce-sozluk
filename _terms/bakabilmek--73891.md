@@ -1,0 +1,20 @@
+---
+layout: term
+title: bakabilmek
+slug: bakabilmek
+letter: B
+indeks: 73891
+lisan: Türkçe
+anlamlar:
+- Bakma ihtimali veya imkânı bulunmak
+- Bakma becerisi bulunmak
+ozellikler:
+- - -e
+  - nesnesiz
+- - -e
+  - nesnesiz
+ornekler:
+- Olaya dışarıdan bakabilseydin gerçeği hemen görürdün.
+orneklerkaynak:
+- Ahmet Ümit
+---

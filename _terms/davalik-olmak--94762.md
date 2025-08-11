@@ -1,0 +1,16 @@
+---
+layout: term
+title: davalık olmak
+slug: davalik-olmak
+letter: D
+indeks: 94762
+lisan: Türkçe
+anlamlar:
+- birbirinden şikâyetçi olup mahkemeye başvurmak
+ozellikler:
+- []
+ornekler:
+- Sanıklar, avukatlar, bilirkişiler, savcılar birbirleriyle davalık oldu.
+orneklerkaynak:
+- Turgay Erdağ
+---

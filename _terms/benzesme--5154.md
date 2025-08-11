@@ -1,0 +1,18 @@
+---
+layout: term
+title: benzeşme
+slug: benzesme
+letter: B
+indeks: 5154
+lisan: Türkçe
+anlamlar:
+- Benzeşmek işi; temessül
+- 'Kelimede bir sesin boğumlanma noktası bakımından bir başka sesle yakın veya denk duruma gelmesi; asimilasyon: çarşanba > çarşamba, yurt-daş > yurttaş, sadef > sedef vb'
+ozellikler:
+- - isim
+  - dil bilgisi
+- - isim
+  - dil bilgisi
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: yüreği daralmak
+slug: yuregi-daralmak
+letter: Y
+indeks: 51997
+lisan: Türkçe
+anlamlar:
+- sıkılmak, bunalmak, içi daralmak
+ozellikler:
+- []
+ornekler:
+- Yusuf bütün olayları korkuyla, yüreği daralarak izliyordu.
+orneklerkaynak:
+- Yaşar Kemal
+---

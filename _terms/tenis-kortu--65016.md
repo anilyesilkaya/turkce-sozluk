@@ -1,0 +1,17 @@
+---
+layout: term
+title: tenis kortu
+slug: tenis-kortu
+letter: T
+indeks: 65016
+lisan: Türkçe
+anlamlar:
+- kort
+ozellikler:
+- - isim
+  - spor
+ornekler:
+- Futbol sahasının karşısında, sağ tarafta yüksek tel örgüyle çevrilmiş iki tenis kortu bulunuyordu.
+orneklerkaynak:
+- Ayla Kutlu
+---

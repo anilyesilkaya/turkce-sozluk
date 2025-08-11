@@ -1,0 +1,16 @@
+---
+layout: term
+title: havadis
+slug: havadis
+letter: H
+indeks: 22488
+lisan: Arapça ḥavādis̱
+anlamlar:
+- İlgi ile karşılanabilecek haber
+ozellikler:
+- - isim
+ornekler:
+- Şiirde gazete havadisini andıran bir mısra da bulunabilir.
+orneklerkaynak:
+- Asaf Halet Çelebi
+---

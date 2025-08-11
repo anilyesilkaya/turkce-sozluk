@@ -1,0 +1,16 @@
+---
+layout: term
+title: ahenk vermek
+slug: ahenk-vermek
+letter: A
+indeks: 1036
+lisan: Türkçe
+anlamlar:
+- düzeni, uyumu sağlamak
+ozellikler:
+- []
+ornekler:
+- Türk diline en asil ahengini veren sanatkârı düşüneceğiz.
+orneklerkaynak:
+- Orhan Seyfi Orhon
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: kendiliğindenlik
+slug: kendiligindenlik
+letter: K
+indeks: 43746
+lisan: Türkçe
+anlamlar:
+- Dıştan bir belirleme ile değil, kendi kendine gerçekleşen etkinlik; spontaneizm
+ozellikler:
+- - isim
+  - felsefe
+ornekler:
+- Aşk bile kuralları olan bir oyun bizde. Göze almak, kendiliğindenlik beklenmiyor.
+orneklerkaynak:
+- Tomris Uyar
+---

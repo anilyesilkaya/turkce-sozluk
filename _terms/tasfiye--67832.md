@@ -1,0 +1,35 @@
+---
+layout: term
+title: tasfiye
+slug: tasfiye
+letter: T
+indeks: 67832
+lisan: Arapça taṣfiye
+anlamlar:
+- Arıtma, ayıklama, temizleme
+- özleştirme
+- Bir ticaret kuruluşunun batması, kapanması vb. sebepler üzerine hesapların kesilmesi, alacaklılara, ortada kalan mal ve paradan paylarına düşen miktarın verilmesi; likidasyon
+- Bir kurum veya iş yerinde türlü sebeplerle birçok kimsenin görevine son verme
+ozellikler:
+- - isim
+  - dil bilimi
+  - ticaret
+  - mecaz
+- - isim
+  - dil bilimi
+  - ticaret
+  - mecaz
+- - isim
+  - dil bilimi
+  - ticaret
+  - mecaz
+- - isim
+  - dil bilimi
+  - ticaret
+  - mecaz
+ornekler:
+- Yoksa mutlu bir şansla bir uzlaşma olacak, bu da yumuşak bir tasfiyeye imkân bırakacak mıydı?
+- Dilde tasfiye.
+orneklerkaynak:
+- Tarık Buğra
+---

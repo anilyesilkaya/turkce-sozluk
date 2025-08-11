@@ -1,0 +1,18 @@
+---
+layout: term
+title: dozunu ayarlamak
+slug: dozunu-ayarlamak
+letter: D
+indeks: 3359
+lisan: Türkçe
+anlamlar:
+- ilacın ölçüsünü aşmamak, gerektiği kadar vermek
+- ölçüyü aşmamak, aşırı davranmamak
+ozellikler:
+- - mecaz
+- - mecaz
+ornekler:
+- Saygının ve sevginin dozunu iyi ayarlayabilmeli insan.
+orneklerkaynak:
+- Attilâ İlhan
+---

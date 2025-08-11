@@ -1,0 +1,14 @@
+---
+layout: term
+title: şevketli
+slug: sevketli
+letter: Ş
+indeks: 59725
+lisan: Türkçe
+anlamlar:
+- '"Büyüklük, güç sahibi" anlamında padişahlara verilen bir san'
+ozellikler:
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

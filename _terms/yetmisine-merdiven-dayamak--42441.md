@@ -1,0 +1,14 @@
+---
+layout: term
+title: yetmişine merdiven dayamak
+slug: yetmisine-merdiven-dayamak
+letter: Y
+indeks: 42441
+lisan: Türkçe
+anlamlar:
+- ileri yaşlara ulaşmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

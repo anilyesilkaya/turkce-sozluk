@@ -1,0 +1,14 @@
+---
+layout: term
+title: tıkızlaşma
+slug: tikizlasma
+letter: T
+indeks: 65777
+lisan: Türkçe
+anlamlar:
+- Tıkızlaşmak işi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

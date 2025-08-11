@@ -1,0 +1,14 @@
+---
+layout: term
+title: ensesine binmek
+slug: ensesine-binmek
+letter: E
+indeks: 25197
+lisan: Türkçe
+anlamlar:
+- birine bir işi yaptırmak için sürekli baskı altında bulundurmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

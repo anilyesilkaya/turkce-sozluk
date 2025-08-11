@@ -1,0 +1,18 @@
+---
+layout: term
+title: köşe bucağa dağılmak
+slug: kose-bucaga-dagilmak
+letter: K
+indeks: 27290
+lisan: Türkçe
+anlamlar:
+- her tarafa yayılmak
+- darmadağın olmak
+ozellikler:
+- []
+- []
+ornekler:
+- Köşe bucağa dağılmış ürkek hizmetçilerini çağırır.
+orneklerkaynak:
+- Azra Erhat
+---

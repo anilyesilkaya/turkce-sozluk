@@ -1,0 +1,16 @@
+---
+layout: term
+title: sahtiyan
+slug: sahtiyan
+letter: S
+indeks: 53778
+lisan: Farsça saḫtiyān
+anlamlar:
+- Tabaklanarak boyanmış ve cilalanmış genellikle keçi derisi
+ozellikler:
+- - isim
+ornekler:
+- Buna rağmen imparatorluğun muhtelif bölgelerinde imal edilen tabaklanmış sığır derisi, meşin ve sahtiyan gibi ürünler hâlâ eski özelliklerini korumaktaydı.
+orneklerkaynak:
+- Rifat Önsoy
+---

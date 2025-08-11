@@ -1,0 +1,16 @@
+---
+layout: term
+title: ağız burun birbirine karışmak
+slug: agiz-burun-birbirine-karismak
+letter: A
+indeks: 7268
+lisan: Türkçe
+anlamlar:
+- dayak sonucunda yüz yara bere içinde kalmak
+- yüzde aşırı öfke, üzüntü, yorgunluk vb. durumların izleri görünmek
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

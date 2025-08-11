@@ -1,0 +1,15 @@
+---
+layout: term
+title: entübe
+slug: entube
+letter: E
+indeks: 95440
+lisan: İngilizce intubate
+anlamlar:
+- Herhangi bir vücut kanalına veya boşluğuna özellikle solunum yoluna tüp yerleştirilmiş (hasta)
+ozellikler:
+- - sıfat
+  - tıp
+ornekler: []
+orneklerkaynak: []
+---

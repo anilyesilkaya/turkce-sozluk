@@ -1,0 +1,18 @@
+---
+layout: term
+title: getirim
+slug: getirim
+letter: G
+indeks: 29781
+lisan: Türkçe
+anlamlar:
+- Getirmek işi
+- Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir; rant
+ozellikler:
+- - isim
+  - ekonomi
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

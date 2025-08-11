@@ -1,0 +1,16 @@
+---
+layout: term
+title: canına geçmek (veya işlemek veya kâr etmek)
+slug: canina-gecmek-veya-islemek-veya-kar-etmek
+letter: C
+indeks: 3830
+lisan: Türkçe
+anlamlar:
+- çok etkilemek
+ozellikler:
+- []
+ornekler:
+- Yalnızlık canıma kâr etti, bilmem neylesem.
+orneklerkaynak:
+- Ruhi
+---

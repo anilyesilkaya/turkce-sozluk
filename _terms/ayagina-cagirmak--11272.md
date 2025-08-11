@@ -1,0 +1,16 @@
+---
+layout: term
+title: ayağına çağırmak
+slug: ayagina-cagirmak
+letter: A
+indeks: 11272
+lisan: Türkçe
+anlamlar:
+- yanına gelmesini istemek
+ozellikler:
+- []
+ornekler:
+- Neden buraya gelmiyor da seni ayağına çağırıyor?
+orneklerkaynak:
+- Tahsin Yücel
+---

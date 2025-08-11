@@ -1,0 +1,16 @@
+---
+layout: term
+title: kartalkanadı
+slug: kartalkanadi
+letter: K
+indeks: 95770
+lisan: Türkçe
+anlamlar:
+- Çapraz düğmeli, ipek veya sırma işlemeli bir tür kısa yelek
+ozellikler:
+- - isim
+ornekler:
+- Kısa, kolsuz, ön tarafı iliksiz bir yelek. Omuzlarından dikili kumaş parçaları kartal kanadını tasvir ettiği için kartalkanadı da denir.
+orneklerkaynak:
+- Yener Altuntaş
+---

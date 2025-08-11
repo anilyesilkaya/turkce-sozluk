@@ -1,0 +1,16 @@
+---
+layout: term
+title: meyvecilik
+slug: meyvecilik
+letter: M
+indeks: 31044
+lisan: Türkçe
+anlamlar:
+- Meyve yetiştirme işi
+- Meyve alıp satma işi
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

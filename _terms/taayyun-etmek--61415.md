@@ -1,0 +1,16 @@
+---
+layout: term
+title: taayyün etmek
+slug: taayyun-etmek
+letter: T
+indeks: 61415
+lisan: Türkçe
+anlamlar:
+- belirmek
+ozellikler:
+- []
+ornekler:
+- 'Mutlak varlık için iki itibar daha vardır: Biri taayyün etmemektir, öbürü de taayyün etmek.'
+orneklerkaynak:
+- Abdülbaki Gölpınarlı
+---

@@ -1,0 +1,18 @@
+---
+layout: term
+title: montajlanmak
+slug: montajlanmak
+letter: M
+indeks: 93874
+lisan: Türkçe
+anlamlar:
+- kurgulanmak
+- ' Bir makine, cihaz veya mobilyanın parçaları yerli yerine takılmak'
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+ornekler:
+- Bilgisayardan çıkan metinler bir aydıngerden çıktı alınır ve bu aydıngerler matbaanın grafik bölümünde montajlanır.
+orneklerkaynak:
+- Filiz Serdar
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: kullanılmış
+slug: kullanilmis
+letter: K
+indeks: 30157
+lisan: Türkçe
+anlamlar:
+- Az veya çok bir zaman için başkasının malı olmuş, yeni olmayan, müstamel
+ozellikler:
+- - sıfat
+ornekler:
+- Kullanılmış saat.
+orneklerkaynak: []
+---

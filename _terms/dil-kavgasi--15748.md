@@ -1,0 +1,15 @@
+---
+layout: term
+title: dil kavgası
+slug: dil-kavgasi
+letter: D
+indeks: 15748
+lisan: Türkçe
+anlamlar:
+- ağız dalaşı
+ozellikler:
+- - isim
+  - mecaz
+ornekler: []
+orneklerkaynak: []
+---

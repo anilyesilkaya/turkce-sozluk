@@ -1,0 +1,17 @@
+---
+layout: term
+title: lafzen
+slug: lafzen
+letter: L
+indeks: 48952
+lisan: Arapça lafẓen
+anlamlar:
+- Sözün gelişine, söylenişine, yapısına göre, yazılı olmayarak
+ozellikler:
+- - zarf
+  - eskimiş
+ornekler:
+- Şantajcılıkla şarlatanlık arasında lafzen ve maddeten benzerlik var.
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+---

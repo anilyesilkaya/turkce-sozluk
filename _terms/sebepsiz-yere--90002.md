@@ -1,0 +1,16 @@
+---
+layout: term
+title: sebepsiz yere
+slug: sebepsiz-yere
+letter: S
+indeks: 90002
+lisan: Türkçe
+anlamlar:
+- boşuna
+ozellikler:
+- - zarf
+ornekler:
+- Orada zaman zaman sebepsiz yere burnu sızlardı insanın.
+orneklerkaynak:
+- Murathan Mungan
+---

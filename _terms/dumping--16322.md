@@ -1,0 +1,15 @@
+---
+layout: term
+title: dumping
+slug: dumping
+letter: D
+indeks: 16322
+lisan: İngilizce dumping
+anlamlar:
+- 343 düşürüm
+ozellikler:
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: isteksizce
+slug: isteksizce
+letter: I
+indeks: 35829
+lisan: Türkçe
+anlamlar:
+- İstek göstermeksizin; isteksiz, arzusuzca, hevessizce
+ozellikler:
+- - zarf
+ornekler:
+- Köylü de beklenilmeyen bir cesaretle kendisine isteksizce verilen yere sıkıştı.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+---

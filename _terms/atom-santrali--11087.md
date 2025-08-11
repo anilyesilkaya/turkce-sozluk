@@ -1,0 +1,17 @@
+---
+layout: term
+title: atom santrali
+slug: atom-santrali
+letter: A
+indeks: 11087
+lisan: Türkçe
+anlamlar:
+- Atomdan yararlanarak enerji elde eden santral; nükleer santral
+ozellikler:
+- - isim
+  - fizik
+ornekler:
+- Ona atom santrali ile ilgili bir görev verdirmiş.
+orneklerkaynak:
+- Sami Gürtürk
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: frapan
+slug: frapan
+letter: F
+indeks: 19251
+lisan: Fransızca frappant
+anlamlar:
+- Göz alıcı, göze çarpıcı, alımlı olan
+ozellikler:
+- - sıfat
+ornekler:
+- Frapan kız. Frapan renk.
+orneklerkaynak: []
+---

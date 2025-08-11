@@ -1,0 +1,14 @@
+---
+layout: term
+title: gelen gideni aratır
+slug: gelen-gideni-aratir
+letter: G
+indeks: 96258
+lisan: Türkçe
+anlamlar:
+- “bazı kusurları var fakat gelen daha kusurlu, daha da geçimsiz olabilir” anlamında kullanılan bir söz
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: geçersizleşmek
+slug: gecersizlesmek
+letter: G
+indeks: 29250
+lisan: Türkçe
+anlamlar:
+- Geçersiz duruma düşmek, geçerliğini yitirmek
+ozellikler:
+- - nesnesiz
+ornekler: []
+orneklerkaynak: []
+---

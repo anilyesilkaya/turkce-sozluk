@@ -1,0 +1,16 @@
+---
+layout: term
+title: malumatlı
+slug: malumatli
+letter: M
+indeks: 45358
+lisan: Türkçe
+anlamlar:
+- bilgili
+ozellikler:
+- - sıfat
+ornekler:
+- Malumatlı ve kuvvetli bir vükela heyeti zalim olamaz.
+orneklerkaynak:
+- Ahmet Hikmet Müftüoğlu
+---

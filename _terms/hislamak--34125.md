@@ -1,0 +1,16 @@
+---
+layout: term
+title: hışlamak
+slug: hislamak
+letter: H
+indeks: 34125
+lisan: Türkçe
+anlamlar:
+- Hışıldamak, hışıltı çıkarmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Masalların en korkunç devi olur, hışlaya hışlaya üstüme yürür.
+orneklerkaynak:
+- Orhan Seyfi Orhon
+---

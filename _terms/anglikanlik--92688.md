@@ -1,0 +1,14 @@
+---
+layout: term
+title: Anglikanlık
+slug: anglikanlik
+letter: A
+indeks: 92688
+lisan: Türkçe
+anlamlar:
+- İngiltere’nin resmî kilisesinin, Katoliklik ve Protestanlıktan farklı olarak tuttuğu inanç yolu; Anglikanizm
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

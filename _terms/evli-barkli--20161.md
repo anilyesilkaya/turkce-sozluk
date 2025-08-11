@@ -1,0 +1,16 @@
+---
+layout: term
+title: evli barklı
+slug: evli-barkli
+letter: E
+indeks: 20161
+lisan: Türkçe
+anlamlar:
+- Evlenmiş, çocukları olan (kimse)
+ozellikler:
+- - sıfat
+ornekler:
+- Hem evli barklı bir kadın olduğundan haberi yok mu bu salak şeyin?
+orneklerkaynak:
+- Ayla Kutlu
+---

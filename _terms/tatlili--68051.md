@@ -1,0 +1,15 @@
+---
+layout: term
+title: tatlılı
+slug: tatlili
+letter: T
+indeks: 68051
+lisan: Türkçe
+anlamlar:
+- Tatlısı olan, içinde tatlı bulunan
+ozellikler:
+- - sıfat
+ornekler:
+- Tatlılı, börekli bir yemek.
+orneklerkaynak: []
+---

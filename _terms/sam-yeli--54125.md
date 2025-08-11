@@ -1,0 +1,16 @@
+---
+layout: term
+title: sam yeli
+slug: sam-yeli
+letter: S
+indeks: 54125
+lisan: Türkçe
+anlamlar:
+- Çölden esen sıcak rüzgâr; sam (I)
+ozellikler:
+- - isim
+ornekler:
+- Serin rüzgârlarını deniz kesti keseli / Tıkıyor göğüsleri kum karışık sam yeli
+orneklerkaynak:
+- Faruk Nafiz Çamlıbel
+---

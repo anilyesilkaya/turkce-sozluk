@@ -1,0 +1,16 @@
+---
+layout: term
+title: merhamet duymak
+slug: merhamet-duymak
+letter: M
+indeks: 41593
+lisan: Türkçe
+anlamlar:
+- acıma veya şefkat duygusu uyanmak veya kabarmak
+ozellikler:
+- []
+ornekler:
+- Ömrümde hiç kimseye bu kadar saf ve derin merhamet duymamıştım.
+orneklerkaynak:
+- Peyami Safa
+---

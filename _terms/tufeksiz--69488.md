@@ -1,0 +1,22 @@
+---
+layout: term
+title: tüfeksiz
+slug: tufeksiz
+letter: T
+indeks: 69488
+lisan: Türkçe
+anlamlar:
+- Tüfeği olmayan
+- Tüfek olmadan
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Tüfeksiz düşman, en az tüfekli düşman kadar önemlidir...
+- Bu gâvurun ağır silahlarına karşı tüfeksiz olmaz ağam. Tüfeksiz olmaz...
+orneklerkaynak:
+- Yılmaz Çetiner
+- Hasan Mahir
+---

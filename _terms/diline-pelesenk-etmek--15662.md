@@ -1,0 +1,16 @@
+---
+layout: term
+title: diline pelesenk etmek
+slug: diline-pelesenk-etmek
+letter: D
+indeks: 15662
+lisan: Türkçe
+anlamlar:
+- diline dolamak
+ozellikler:
+- []
+ornekler:
+- Hacı Kasap, âdeta bu sözleri aferin tarzında diline pelesenk etmişti.
+orneklerkaynak:
+- Ömer Seyfettin
+---

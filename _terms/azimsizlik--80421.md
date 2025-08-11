@@ -1,0 +1,16 @@
+---
+layout: term
+title: azimsizlik
+slug: azimsizlik
+letter: A
+indeks: 80421
+lisan: Türkçe
+anlamlar:
+- Azimsiz olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Maksadından yarı yerde dönmek azimsizlikti.
+orneklerkaynak:
+- Ömer Seyfettin
+---

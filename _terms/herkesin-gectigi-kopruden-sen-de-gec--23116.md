@@ -1,0 +1,14 @@
+---
+layout: term
+title: herkesin geçtiği köprüden sen de geç
+slug: herkesin-gectigi-kopruden-sen-de-gec
+letter: H
+indeks: 23116
+lisan: Türkçe
+anlamlar:
+- '"herkesin tuttuğu yoldan sen de git" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

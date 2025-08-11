@@ -1,0 +1,16 @@
+---
+layout: term
+title: delicesine
+slug: delicesine
+letter: D
+indeks: 16904
+lisan: Türkçe
+anlamlar:
+- Aşırı bir biçimde; delice
+ozellikler:
+- - zarf
+ornekler:
+- Seni delicesine sevmeye başladım. Sevgime cevap istiyorum.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

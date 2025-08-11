@@ -1,0 +1,14 @@
+---
+layout: term
+title: butik otel
+slug: butik-otel
+letter: B
+indeks: 71191
+lisan: Türkçe
+anlamlar:
+- Seçkin müşterileri için kendilerini evlerinde hissedebilecekleri konforu sağlayan, oda sayısı az, şık bir otel türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

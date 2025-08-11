@@ -1,0 +1,14 @@
+---
+layout: term
+title: 'paylaştırılabilme '
+slug: paylastirilabilme
+letter: P
+indeks: 99032
+lisan: Türkçe
+anlamlar:
+- Paylaştırılabilmek işi; bölüştürülebilme, üleştirilebilme
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

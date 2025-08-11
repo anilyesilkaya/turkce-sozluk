@@ -1,0 +1,16 @@
+---
+layout: term
+title: cızır cızır
+slug: cizir-cizir
+letter: C
+indeks: 10608
+lisan: Türkçe
+anlamlar:
+- Cızır sesi çıkararak (pişmek, kızarmak vb.)
+ozellikler:
+- - zarf
+ornekler:
+- O köfteler böyle nazlı nazlı, cızır cızır pişer ki dinlemesi yemesinden tatlı.
+orneklerkaynak:
+- Turgut Özakman
+---

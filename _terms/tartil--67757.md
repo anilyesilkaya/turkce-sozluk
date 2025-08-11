@@ -1,0 +1,16 @@
+---
+layout: term
+title: tartıl
+slug: tartil
+letter: T
+indeks: 67757
+lisan: Türkçe
+anlamlar:
+- Tartıya dayanan
+ozellikler:
+- - sıfat
+  - kimya
+ornekler:
+- Tartıl çözümleme.
+orneklerkaynak: []
+---

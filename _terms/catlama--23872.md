@@ -1,0 +1,24 @@
+---
+layout: term
+title: çatlama
+slug: catlama
+letter: Ç
+indeks: 23872
+lisan: Türkçe
+anlamlar:
+- Çatlamak işi
+- Dalgaların sığ kıyıya geldikleri zaman dökülüp köpürmesi, çatlak
+- Uygun olmayan kuruma sonucu ağacın boyu yönündeki lif ayrılması
+- Tohumların dağılması için meyve kabuğunun yarılması; açılma
+ozellikler:
+- - isim
+  - bitki bilimi
+- - isim
+  - bitki bilimi
+- - isim
+  - bitki bilimi
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: 'odak uzunluğu '
+slug: odak-uzunlugu
+letter: O
+indeks: 98636
+lisan: Türkçe
+anlamlar:
+- Fotoğraf objektifinde ve mercekte, optik merkezle odak arasındaki mesafe
+ozellikler:
+- - isim
+  - fizik
+ornekler: []
+orneklerkaynak: []
+---

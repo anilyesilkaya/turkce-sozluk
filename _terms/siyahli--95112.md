@@ -1,0 +1,16 @@
+---
+layout: term
+title: siyahlı
+slug: siyahli
+letter: S
+indeks: 95112
+lisan: Türkçe
+anlamlar:
+- Siyahı bulunan
+ozellikler:
+- - sıfat
+ornekler:
+- Kavisli yollarına kakılmış beyazlı siyahlı çakıl taşları henüz sulanmış.
+orneklerkaynak:
+- Refik Halit Karay
+---

@@ -1,0 +1,20 @@
+---
+layout: term
+title: hoşgörü
+slug: hosgoru
+letter: H
+indeks: 34625
+lisan: Türkçe
+anlamlar:
+- Yapılan yanlış veya kötü davranışları anlayışla karşılayarak affetme, sert ve katı hükümlü olmama; müsamaha, tolerans
+- Bir boksörün ağırlık sınıfında kabul edilebilir nitelikte görülen ağırlığı
+ozellikler:
+- - isim
+  - spor
+- - isim
+  - spor
+ornekler:
+- Pek az kimseye göstermiş olduğu bir hoşgörüden yararlandım.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

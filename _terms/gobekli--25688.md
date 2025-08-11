@@ -1,0 +1,18 @@
+---
+layout: term
+title: göbekli
+slug: gobekli
+letter: G
+indeks: 25688
+lisan: Türkçe
+anlamlar:
+- Karnı yağlanıp şişmanlamış
+- Yaprakları büyüyüp sıklaşmış (marul, lahana)
+ozellikler:
+- - sıfat
+- - sıfat
+ornekler:
+- Orta boylu, geniş göğüslü ve hafif göbekliydi.
+orneklerkaynak:
+- Çetin Altan
+---

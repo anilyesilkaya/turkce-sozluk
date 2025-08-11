@@ -1,0 +1,14 @@
+---
+layout: term
+title: cazibeleşme
+slug: cazibelesme
+letter: C
+indeks: 4028
+lisan: Türkçe
+anlamlar:
+- çekicileşme
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,29 @@
+---
+layout: term
+title: insanca
+slug: insanca
+letter: I
+indeks: 35355
+lisan: Türkçe
+anlamlar:
+- İnsana yakışan, insana özgü olan, insanla ilgili; insani
+- (insa'nca) İnsana yakışır bir biçimde; insancasına
+- (insa'nca) İnsan bakımından
+ozellikler:
+- - sıfat
+  - zarf
+  - zarf
+- - sıfat
+  - zarf
+  - zarf
+- - sıfat
+  - zarf
+  - zarf
+ornekler:
+- İnsana daha insanca ortamlar yaratmak için bütün hesaplarımız.
+- İnsana insanca muamele etmek, Türk geleneğinde bir fevkaladelik sayılmazdı.
+- İnsanca kayıp yok.
+orneklerkaynak:
+- Azra Erhat
+- Sâmiha Ayverdi
+---

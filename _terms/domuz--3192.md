@@ -1,0 +1,22 @@
+---
+layout: term
+title: domuz
+slug: domuz
+letter: D
+indeks: 3192
+lisan: Türkçe
+anlamlar:
+- Çift parmaklılardan, eti, yağı, derisi veya kılı için beslenen, evcil hayvan; hınzır (Susacrofa domestica)
+- Hain, aksi, ters, inatçı, hınzır kimse
+ozellikler:
+- - isim
+  - hayvan bilimi
+  - mecaz
+- - isim
+  - hayvan bilimi
+  - mecaz
+ornekler:
+- Domuzun malı için can tüketmeye mi geldik dünyaya?
+orneklerkaynak:
+- Refik Halit Karay
+---

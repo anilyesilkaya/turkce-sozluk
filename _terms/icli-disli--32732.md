@@ -1,0 +1,17 @@
+---
+layout: term
+title: içli dışlı
+slug: icli-disli
+letter: I
+indeks: 32732
+lisan: Türkçe
+anlamlar:
+- Senli benli, aşırı teklifsiz; sıkı fıkı, yağlı ballı
+ozellikler:
+- - sıfat
+  - mecaz
+ornekler:
+- En çok yurdumdan söz ettim / Doğayla, insanla içli dışlı
+orneklerkaynak:
+- Cahit Külebi
+---

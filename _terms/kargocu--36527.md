@@ -1,0 +1,16 @@
+---
+layout: term
+title: kargocu
+slug: kargocu
+letter: K
+indeks: 36527
+lisan: Türkçe
+anlamlar:
+- Bir yerden bir yere yük veya posta taşıyan kimse
+ozellikler:
+- - isim
+ornekler:
+- Kargocu zili çaldığında saat tam 17:00 idi.
+orneklerkaynak:
+- Cihat Furkan Şendil
+---

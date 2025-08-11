@@ -1,0 +1,16 @@
+---
+layout: term
+title: iki katlı
+slug: iki-katli
+letter: I
+indeks: 33226
+lisan: Türkçe
+anlamlar:
+- İki katı olan; dubleks
+ozellikler:
+- - sıfat
+ornekler:
+- Evimiz iki katlıydı.
+orneklerkaynak:
+- Ayla Kutlu
+---

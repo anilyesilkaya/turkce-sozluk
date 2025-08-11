@@ -1,0 +1,14 @@
+---
+layout: term
+title: elmayı çayıra, armudu bayıra
+slug: elmayi-cayira-armudu-bayira
+letter: E
+indeks: 24857
+lisan: Türkçe
+anlamlar:
+- '"elma fidanını düz ve sulak yere, armut fidanını bayıra, su tutmayan yere dikmelidir" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

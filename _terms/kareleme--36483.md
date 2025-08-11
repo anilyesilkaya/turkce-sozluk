@@ -1,0 +1,28 @@
+---
+layout: term
+title: kareleme
+slug: kareleme
+letter: K
+indeks: 36483
+lisan: Türkçe
+anlamlar:
+- Karelemek işi
+- Bir resmin, büyüterek veya küçülterek kopyasını çıkarma yöntemi
+- Herhangi bir çokgenle eş değerli bir kare çizme
+- Eş değer bir kare ile hesaplama
+ozellikler:
+- - isim
+  - matematik
+  - matematik
+- - isim
+  - matematik
+  - matematik
+- - isim
+  - matematik
+  - matematik
+- - isim
+  - matematik
+  - matematik
+ornekler: []
+orneklerkaynak: []
+---

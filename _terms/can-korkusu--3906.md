@@ -1,0 +1,16 @@
+---
+layout: term
+title: can korkusu
+slug: can-korkusu
+letter: C
+indeks: 3906
+lisan: Türkçe
+anlamlar:
+- ölüm korkusu
+ozellikler:
+- - isim
+ornekler:
+- Sormayın, can korkusuyla insan ne yaptığını bilemez.
+orneklerkaynak:
+- Hıfzı Topuz
+---

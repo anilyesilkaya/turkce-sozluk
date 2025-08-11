@@ -1,0 +1,16 @@
+---
+layout: term
+title: kamanço etmek
+slug: kamanco-etmek
+letter: K
+indeks: 37900
+lisan: Türkçe
+anlamlar:
+- yüklemek, aktarmak, elden ele geçirmek
+ozellikler:
+- []
+ornekler:
+- Bu ödev kendisine kamanço edilen eleştirmen arkadaş...
+orneklerkaynak:
+- Haldun Taner
+---

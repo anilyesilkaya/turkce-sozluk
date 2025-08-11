@@ -1,0 +1,16 @@
+---
+layout: term
+title: 'oturma banyosu '
+slug: oturma-banyosu
+letter: O
+indeks: 98792
+lisan: Türkçe
+anlamlar:
+- Rahatsızlıkları gidermek için makat bölgesinin sıcak suya sokulmasıyla yapılan işlem
+- Bu işlemin yapıldığı özel küvet
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

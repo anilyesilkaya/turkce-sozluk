@@ -1,0 +1,16 @@
+---
+layout: term
+title: güreşme
+slug: guresme
+letter: G
+indeks: 21150
+lisan: Türkçe
+anlamlar:
+- Güreşmek işi; yıkışma
+ozellikler:
+- - isim
+ornekler:
+- 1972’de gene dünya şampiyonluğuna yarışacak kuşaktan olsaydı daha kolaylıkla şampiyon olurdu, çünkü onun güreşme tarzı, bugünün  güreşme  tarzıdır.
+orneklerkaynak:
+- Nimet Arzık
+---

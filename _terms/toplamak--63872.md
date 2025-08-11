@@ -1,0 +1,109 @@
+---
+layout: term
+title: toplamak
+slug: toplamak
+letter: T
+indeks: 63872
+lisan: Türkçe
+anlamlar:
+- Bir araya getirmek; cemetmek
+- devşirmek
+- Devşirip kaldırmak
+- Dağınıklıktan kurtarmak; kaldırmak
+- Bir araya getirmek, düzene sokmak, düzeltmek
+- Artırıp biriktirmek
+- Hizmete çağırmak
+- Vergi veya bağışı verecek olanlardan almak
+- Şişmanlamak, kilo almak
+- Çıban, yara irinlenmek
+- Sayıları veya nicelikleri birbirine ekleyip toplamını bulmak
+ozellikler:
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - matematik
+ornekler:
+- Şairin bütün eserlerini, bütün hatıralarını toplayacak.
+- Kırlardan çiçek topladık.
+- Sofrayı toplamak. Yatakları toplamak.
+- Bu odayı biraz toplamak gerek.
+- Uzun yağlı saçlarını parmaklarıyla taradı, kalpağının altında topladı.
+- Epey servet toplamış.
+- Asker toplamak.
+orneklerkaynak:
+- Orhan Seyfi Orhon
+- Memduh Şevket Esendal
+---

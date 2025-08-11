@@ -1,0 +1,15 @@
+---
+layout: term
+title: canavar otugiller
+slug: canavar-otugiller
+letter: C
+indeks: 3872
+lisan: Türkçe
+anlamlar:
+- Bitişik taç yapraklı iki çeneklilerden, tarım bitkilerine zarar veren asalak bir bitki familyası
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

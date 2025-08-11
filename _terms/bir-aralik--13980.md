@@ -1,0 +1,16 @@
+---
+layout: term
+title: bir aralık
+slug: bir-aralik
+letter: B
+indeks: 13980
+lisan: Türkçe
+anlamlar:
+- bir ara
+ozellikler:
+- - zarf
+ornekler:
+- Bir aralık bir odada yalnız kalmış oluyoruz.
+orneklerkaynak:
+- Adalet Ağaoğlu
+---

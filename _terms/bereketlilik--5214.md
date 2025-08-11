@@ -1,0 +1,16 @@
+---
+layout: term
+title: bereketlilik
+slug: bereketlilik
+letter: B
+indeks: 5214
+lisan: Türkçe
+anlamlar:
+- Bereketli olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Bereketlilik ve etkililik bakımından birbirine eşit değildir bu yollar ama hepsi de varlığı ve yazgısı üstüne aranış içinde olan insanın doğrulduğu yollardır.
+orneklerkaynak:
+- Server Tanilli
+---

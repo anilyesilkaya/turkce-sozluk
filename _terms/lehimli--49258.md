@@ -1,0 +1,16 @@
+---
+layout: term
+title: lehimli
+slug: lehimli
+letter: L
+indeks: 49258
+lisan: Türkçe
+anlamlar:
+- Lehimle tutturulmuş
+ozellikler:
+- - sıfat
+ornekler:
+- Yapılan iş bütün olarak ele alınır. Bu sebepten lehimli bakırlar gibi kopma riski yoktur.
+orneklerkaynak:
+- Hasan Mahir
+---

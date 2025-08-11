@@ -1,0 +1,16 @@
+---
+layout: term
+title: böylelikle
+slug: boylelikle
+letter: B
+indeks: 12668
+lisan: Türkçe
+anlamlar:
+- böylece
+ozellikler:
+- - zarf
+ornekler:
+- İstanbul'a dönmelerine üç gün kala böylelikle kurtulmuş oluyordu bu devletten.
+orneklerkaynak:
+- Necati Cumalı
+---

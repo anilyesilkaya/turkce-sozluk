@@ -1,0 +1,16 @@
+---
+layout: term
+title: terbiyesizlik
+slug: terbiyesizlik
+letter: T
+indeks: 65203
+lisan: Türkçe
+anlamlar:
+- Terbiyesiz olma durumu; edepsizlik
+- Terbiyesizce davranış; edepsizlik
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

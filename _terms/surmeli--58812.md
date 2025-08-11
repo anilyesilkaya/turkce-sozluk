@@ -1,0 +1,20 @@
+---
+layout: term
+title: sürmeli
+slug: surmeli
+letter: S
+indeks: 58812
+lisan: Türkçe
+anlamlar:
+- Sürme ile boyanmış olan
+- Sürgü ile kapatılmış olan, sürmelenmiş olan
+ozellikler:
+- - sıfat
+- - sıfat
+ornekler:
+- Kirpikleri kudretten sürmelidir.
+- Yavaşça vitrinin sürmeli camını açtı.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+- Sait Faik Abasıyanık
+---

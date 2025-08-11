@@ -1,0 +1,18 @@
+---
+layout: term
+title: kapı gibi
+slug: kapi-gibi
+letter: K
+indeks: 35992
+lisan: Türkçe
+anlamlar:
+- iri vücutlu (kimse)
+- dayanak noktası güçlü, sağlam olan
+ozellikler:
+- []
+- []
+ornekler:
+- İçlerinden biri atından inerek celladın burnuna kapı gibi bir fermanı dayadı.
+orneklerkaynak:
+- İhsan Oktay Anar
+---

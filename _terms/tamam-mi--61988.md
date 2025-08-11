@@ -1,0 +1,14 @@
+---
+layout: term
+title: tamam mı?
+slug: tamam-mi
+letter: T
+indeks: 61988
+lisan: Türkçe
+anlamlar:
+- '"oldu mu, anlaştık mı?" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

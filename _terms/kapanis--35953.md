@@ -1,0 +1,16 @@
+---
+layout: term
+title: kapanış
+slug: kapanis
+letter: K
+indeks: 35953
+lisan: Türkçe
+anlamlar:
+- Kapanmak işi
+ozellikler:
+- - isim
+ornekler:
+- Yerlere serilmiş yapraklar, sonbaharın bir anne hâlinde büyük mateme kapanışını düşündürüyor.
+orneklerkaynak:
+- İbrahim Alâeddin Gövsa
+---

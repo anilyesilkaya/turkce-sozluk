@@ -1,0 +1,9 @@
+{
+  "syntaxfix": {
+    "prompt": "Check if the following Python syntax is correct",
+    "context": {
+      "selection": true
+    },
+    "mode": "edit"
+  }
+}

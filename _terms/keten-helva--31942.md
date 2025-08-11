@@ -1,0 +1,16 @@
+---
+layout: term
+title: keten helva
+slug: keten-helva
+letter: K
+indeks: 31942
+lisan: Türkçe
+anlamlar:
+- Kavrulmuş şekerden yapılan, pamuk görünüşünde bir helva türü
+ozellikler:
+- - isim
+ornekler:
+- Keten helvacı, keten helvam nakaratlı bir türkü ile methederek satardı.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

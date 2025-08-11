@@ -1,0 +1,16 @@
+---
+layout: term
+title: vefalı
+slug: vefali
+letter: V
+indeks: 67016
+lisan: Türkçe
+anlamlar:
+- vefakâr
+ozellikler:
+- - sıfat
+ornekler:
+- Hatırda kalan şey değişmez zamanla / Ne vefalı komşumuzdun sen Fahriye Abla
+orneklerkaynak:
+- Ahmet Muhip Dıranas
+---

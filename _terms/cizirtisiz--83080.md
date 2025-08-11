@@ -1,0 +1,22 @@
+---
+layout: term
+title: cızırtısız
+slug: cizirtisiz
+letter: C
+indeks: 83080
+lisan: Türkçe
+anlamlar:
+- Cızırdamayan, cızırtısı olmayan; cızıltısız
+- Cızırdamadan
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Cızırtısız arabanın, özellikle çocuklarda nasıl bir eziklik yarattığını çok iyi bilen büyükler buna önem verirlerdi.
+- Galiba iyice sabunlandığı için kağnıların dingilleri de cızırtısız dönüyordu...
+orneklerkaynak:
+- Ali Kurdoğlu
+- Sadettin Kaplan
+---

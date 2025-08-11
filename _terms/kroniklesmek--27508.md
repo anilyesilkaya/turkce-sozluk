@@ -1,0 +1,14 @@
+---
+layout: term
+title: kronikleşmek
+slug: kroniklesmek
+letter: K
+indeks: 27508
+lisan: Türkçe
+anlamlar:
+- Kronik bir durum almak
+ozellikler:
+- - nesnesiz
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,18 @@
+---
+layout: term
+title: sevinçli
+slug: sevincli
+letter: S
+indeks: 56851
+lisan: Türkçe
+anlamlar:
+- Sevinci olan ve sevinç veren; mesrur
+- şen
+ozellikler:
+- - sıfat
+- - sıfat
+ornekler:
+- Bu kederi dağıtmak için ha bire sevinçli türküler söylüyordu.
+orneklerkaynak:
+- Yaşar Kemal
+---

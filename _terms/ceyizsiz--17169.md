@@ -1,0 +1,20 @@
+---
+layout: term
+title: çeyizsiz
+slug: ceyizsiz
+letter: Ç
+indeks: 17169
+lisan: Türkçe
+anlamlar:
+- Çeyizi olmayan
+- Çeyizi olmadan
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Tebessüm göstermek şöyle dursun, kadın gayet resmî bir inatla, babalarının çeyizsiz geldiğine dair Halilhan’a kâğıt imzalatmıştı.
+orneklerkaynak:
+- Lâtife Tekin
+---

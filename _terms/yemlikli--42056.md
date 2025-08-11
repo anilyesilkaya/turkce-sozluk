@@ -1,0 +1,16 @@
+---
+layout: term
+title: yemlikli
+slug: yemlikli
+letter: Y
+indeks: 42056
+lisan: Türkçe
+anlamlar:
+- Yemliği olan
+ozellikler:
+- - sıfat
+ornekler:
+- Şu gördüğün yer için her ne söylesen caiz / Ahırdan farkı o yemliklidir bu yemliksiz
+orneklerkaynak:
+- Mehmet Akif Ersoy
+---

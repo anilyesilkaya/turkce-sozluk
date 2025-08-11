@@ -1,0 +1,16 @@
+---
+layout: term
+title: organize olmak
+slug: organize-olmak
+letter: O
+indeks: 98769
+lisan: Türkçe
+anlamlar:
+- düzenlenmek
+ozellikler:
+- []
+ornekler:
+- Sabahın erken saatlerinde açık görüş için organize olur sevdiklerin.
+orneklerkaynak:
+- Turgay Erdağ
+---

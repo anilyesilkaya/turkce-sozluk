@@ -1,0 +1,17 @@
+---
+layout: term
+title: bitirim yeri
+slug: bitirim-yeri
+letter: B
+indeks: 14195
+lisan: Türkçe
+anlamlar:
+- kumarhane
+ozellikler:
+- - isim
+  - argo
+ornekler:
+- Cihangir'deki konağı satmıştım, elime geçen parayı üç günün içinde bitirim yerlerinde temizledim.
+orneklerkaynak:
+- Mahmut Yesari
+---

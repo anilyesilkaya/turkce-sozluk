@@ -1,0 +1,89 @@
+---
+layout: term
+title: birlik
+slug: birlik
+letter: B
+indeks: 14125
+lisan: Türkçe
+anlamlar:
+- Tek, bir olma durumu
+- Bir arada olma durumu
+- Bağlılık ve üslup benzerliği
+- Belli bir topluluğun yararlarını korumak için kurulmuş dernek
+- Bir taneden oluşmuş, bir tane alabilen
+- sarı lira
+- Bölük, tabur, alay vb. bir bütün sayılan topluluk
+- Konunun bir ana düşünce çevresinde toplanması
+- Bölünmezliği içeren yalın bütün
+- Dört vuruş değerindeki nota; dört dörtlük
+ozellikler:
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+- - isim
+  - sıfat
+  - askerlik
+  - edebiyat
+  - felsefe
+  - müzik
+ornekler:
+- Tanrı'nın birliğine inanır.
+- Türk milletinin birliği.
+- Dil birliği. Ülkü birliği.
+- Mühendisler birliği. Öğretmenler birliği.
+- Birlik cezve.
+- Birliğine dönerken karısını kendi anasının babasının yanına bıraktı.
+orneklerkaynak:
+- Necati Cumalı
+---

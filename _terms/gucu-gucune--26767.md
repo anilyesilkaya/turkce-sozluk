@@ -1,0 +1,16 @@
+---
+layout: term
+title: gücü gücüne
+slug: gucu-gucune
+letter: G
+indeks: 26767
+lisan: Türkçe
+anlamlar:
+- Zorlayarak, zorlukla, güç bela
+ozellikler:
+- - zarf
+ornekler:
+- Gücü gücüne Sansaroğulları'nın yanında bir yazıcılık bulabildim.
+orneklerkaynak:
+- Nâzım Hikmet
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: kalem savaşçısı
+slug: kalem-savascisi
+letter: K
+indeks: 90195
+lisan: Türkçe
+anlamlar:
+- Yazılarıyla sürekli olarak başkalarına saldıran yazar; kalemşor
+ozellikler:
+- - isim
+  - mecaz
+ornekler:
+- Onun çıkardığı Yarım Ay'da yine pırıltılı, hücumcu yazıları ile güçlü bir kalem savaşçısı kesildi.
+orneklerkaynak:
+- Haldun Taner
+---

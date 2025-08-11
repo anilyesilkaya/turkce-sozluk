@@ -1,0 +1,20 @@
+---
+layout: term
+title: kloroz
+slug: kloroz
+letter: K
+indeks: 27963
+lisan: Fransızca chlorose
+anlamlar:
+- Kanda alyuvar sayısının azalmasından ileri gelen, genellikle genç kızlarda görülen kansızlık
+- Yaprakların sarımtırak bir renk aldığı bitki hastalığı; sarıcalık
+ozellikler:
+- - isim
+  - tıp
+  - bitki bilimi
+- - isim
+  - tıp
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

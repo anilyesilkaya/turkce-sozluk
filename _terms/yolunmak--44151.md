@@ -1,0 +1,20 @@
+---
+layout: term
+title: yolunmak
+slug: yolunmak
+letter: Y
+indeks: 44151
+lisan: Türkçe
+anlamlar:
+- Yolma işi yapılmak, çekilip koparılmak
+- Çok kederlenerek çırpınmak
+ozellikler:
+- - nesnesiz
+  - mecaz
+- - nesnesiz
+  - mecaz
+ornekler:
+- Kaşları tıraş edilmiş yahut yolunmuş, yerine hilal kaşlar kalemle çekilmiş.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

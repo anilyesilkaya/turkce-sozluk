@@ -1,0 +1,16 @@
+---
+layout: term
+title: saplanıvermek
+slug: saplanivermek
+letter: S
+indeks: 90556
+lisan: Türkçe
+anlamlar:
+- Aniden saplanmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Nereden geldiği belli olmayan oklar havada ıslık çalıp meraklı komşuların kapılarına saplanıverdi.
+orneklerkaynak:
+- İhsan Oktay Anar
+---

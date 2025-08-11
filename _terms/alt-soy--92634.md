@@ -1,0 +1,15 @@
+---
+layout: term
+title: alt soy
+slug: alt-soy
+letter: A
+indeks: 92634
+lisan: Türkçe
+anlamlar:
+- Kişinin kendi çocukları ve çocuklarının çocukları; füru
+ozellikler:
+- - isim
+  - hukuk
+ornekler: []
+orneklerkaynak: []
+---

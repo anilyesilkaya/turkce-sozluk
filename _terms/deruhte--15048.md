@@ -1,0 +1,15 @@
+---
+layout: term
+title: deruhte
+slug: deruhte
+letter: D
+indeks: 15048
+lisan: Farsça der + Arapça ʿuhde
+anlamlar:
+- üstlenme
+ozellikler:
+- - isim
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

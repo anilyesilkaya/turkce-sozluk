@@ -1,0 +1,14 @@
+---
+layout: term
+title: toplum bilimi
+slug: toplum-bilimi
+letter: T
+indeks: 63906
+lisan: Türkçe
+anlamlar:
+- Toplumun oluşum, işleyiş ve gelişim yasalarını inceleyen bilim dalı; toplumsal bilim, içtimaiyat, sosyoloji
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,116 @@
+---
+layout: term
+title: sökmek
+slug: sokmek
+letter: S
+indeks: 60216
+lisan: Türkçe
+anlamlar:
+- Bir şeyi bulunduğu yerden kuvvet kullanarak veya gevşeterek çıkarmak, çekip ayırmak
+- Kurulmuş bir şeyi parçalarına ayırmak
+- Rüzgâr, sel, akarsu, bir şeyi yerinden çıkarmak, götürmek
+- Geçip gitmeye engel olan zorlukları atlatmak
+- Karışık bir yazıyı okumak
+- Örülmüş, dikilmiş şeyin, örgüsünü veya dikişini ayırmak
+- Balgam vb.nin çıkmasını, akmasını kolaylaştırmak
+- Ayırmak, uzaklaştırmak, vazgeçirmek
+- Okuyabilme becerisini kazanmak
+- Geçmek, etki yapmak
+- Gelmeye başlamak veya çıkagelmek
+ozellikler:
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+- - -i
+  - -den
+  - mecaz
+  - nesnesiz
+  - argo
+  - nesnesiz
+  - teklifsiz konuşmada
+ornekler:
+- Bu çoban öyle güçlü görünüyor ki şu yandaki ağacı kavrasa dibinden söker götürür.
+- Makineyi sökmek.
+- Araba çamuru sökemedi. Gemi akıntıyı söktü.
+- Çok okunaksız bir yazı. Ben söker gibi oldum.
+- Özellikle gıcık şeklindeki öksürüklerde balgamı sökerek rahatlamaya yardımcı olur.
+- Saplandığı fikirlerden sökemezdiniz.
+- Bunların Fransızcasını sökmek bir mesele, manalarını sökmek ikinci bir meseledir.
+- Ne yaparsın, dedi, burada böyle söküyor!
+- Şermin'le Nermin tam bir saat sonra yani saat beş buçukta söktüler.
+orneklerkaynak:
+- Yaşar Kemal
+- Haldun Taner
+- İbrahim Sarı
+- Yusuf Ziya Ortaç
+- Reşat Nuri Güntekin
+- Falih Rıfkı Atay
+- Halide Edip Adıvar
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: dövmeli
+slug: dovmeli
+letter: D
+indeks: 82046
+lisan: Türkçe
+anlamlar:
+- Dövmesi olan
+ozellikler:
+- - sıfat
+ornekler:
+- Çevresi dövmeli gümüş taslar içinde içilen buzlu bir ahududu şurubunun bir yaz sonu ılıklığıyla dolu kokusuna doyum olmadığını söylerler.
+orneklerkaynak:
+- Nâzım Hikmet
+---

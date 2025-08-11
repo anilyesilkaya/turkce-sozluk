@@ -1,0 +1,16 @@
+---
+layout: term
+title: hanımefendilik
+slug: hanimefendilik
+letter: H
+indeks: 21943
+lisan: Türkçe
+anlamlar:
+- Hanımefendi olma durumu ve özelliği
+ozellikler:
+- - isim
+ornekler:
+- Annem ata, arabaya, kendi tabirince mansıba, mesnede, hanımefendiliğe can atan bir kadındı.
+orneklerkaynak:
+- Halide Edip Adıvar
+---

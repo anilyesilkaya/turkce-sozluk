@@ -1,0 +1,16 @@
+---
+layout: term
+title: alçalabilmek
+slug: alcalabilmek
+letter: A
+indeks: 70747
+lisan: Türkçe
+anlamlar:
+- Alçalma eğilimi veya ihtimali bulunmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Sen ne diyorsun Orhan? diyorum, karşımdaki kişinin bu kadar alçalabileceğine inanamayarak.
+orneklerkaynak:
+- Ahmet Ümit
+---

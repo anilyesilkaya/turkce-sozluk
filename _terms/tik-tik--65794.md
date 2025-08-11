@@ -1,0 +1,16 @@
+---
+layout: term
+title: tık tık
+slug: tik-tik
+letter: T
+indeks: 65794
+lisan: Türkçe
+anlamlar:
+- '"Tık" sesi çıkararak'
+ozellikler:
+- - zarf
+ornekler:
+- Vaktinden önce büyümüş kocaman bir kuş, gagasıyla tık tık vurmuş kapıya.
+orneklerkaynak:
+- Rıfat Ilgaz
+---

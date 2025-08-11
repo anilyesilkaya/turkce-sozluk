@@ -1,0 +1,16 @@
+---
+layout: term
+title: başkalaştırmak
+slug: baskalastirmak
+letter: B
+indeks: 10014
+lisan: Türkçe
+anlamlar:
+- Başka bir duruma getirmek
+ozellikler:
+- - -i
+ornekler:
+- Herkes doğru anlaşılmak isterken bir de bakarsınız ki gelecek sizi başkalaştırmış.
+orneklerkaynak:
+- Küçük İskender
+---

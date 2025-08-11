@@ -1,0 +1,16 @@
+---
+layout: term
+title: öğle uykusu
+slug: ogle-uykusu
+letter: Ö
+indeks: 47685
+lisan: Türkçe
+anlamlar:
+- Genellikle öğle yemeğinden sonraki kısa süreli uyku
+ozellikler:
+- - isim
+ornekler:
+- Öğle uykusuna dalmış yalı sakinleri. Rehavet çökmüş.
+orneklerkaynak:
+- Abidin Dino
+---

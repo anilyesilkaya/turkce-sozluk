@@ -1,0 +1,14 @@
+---
+layout: term
+title: şırınga etmek
+slug: siringa-etmek
+letter: Ş
+indeks: 59836
+lisan: Türkçe
+anlamlar:
+- gaz veya sıvı bir maddeyi gözenekli başka bir maddenin içine şırınga ile doldurmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

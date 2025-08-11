@@ -1,0 +1,16 @@
+---
+layout: term
+title: arsızlaştırmak
+slug: arsizlastirmak
+letter: A
+indeks: 73518
+lisan: Türkçe
+anlamlar:
+- Arsız bir duruma getirmek, arsızlaşmasına yol açmak
+ozellikler:
+- - -i
+ornekler:
+- İğrenmesini açıkça anladı, gene de itmedi, karşı koymadı; bu da adamı arsızlaştırdı.
+orneklerkaynak:
+- Füruzan
+---

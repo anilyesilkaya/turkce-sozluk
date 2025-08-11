@@ -1,0 +1,22 @@
+---
+layout: term
+title: göğüslemek
+slug: goguslemek
+letter: G
+indeks: 25762
+lisan: Türkçe
+anlamlar:
+- Göğsünü dayayarak zorlamak
+- Karşı durmak, engel olmak, direnmek
+ozellikler:
+- - -i
+  - mecaz
+- - -i
+  - mecaz
+ornekler:
+- Vapurlara, trenlere ihtiyarları itip, çocukları ezip, kadınları göğüsleyip biniyoruz.
+- Senin gerçekleri göğüslemek âdetin değildir.
+orneklerkaynak:
+- Orhan Seyfi Orhon
+- Ayşe Kulin
+---

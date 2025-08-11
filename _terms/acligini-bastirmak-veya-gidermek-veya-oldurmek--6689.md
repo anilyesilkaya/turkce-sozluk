@@ -1,0 +1,16 @@
+---
+layout: term
+title: açlığını bastırmak (veya gidermek veya öldürmek)
+slug: acligini-bastirmak-veya-gidermek-veya-oldurmek
+letter: A
+indeks: 6689
+lisan: Türkçe
+anlamlar:
+- açlık duygusunu yatıştırmak
+ozellikler:
+- []
+ornekler:
+- Kaldırılmış harman yerlerinden buğday toplayıp açlığımızı öldürdük.
+orneklerkaynak:
+- Orhan Kemal
+---

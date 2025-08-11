@@ -1,0 +1,14 @@
+---
+layout: term
+title: hohlamak
+slug: hohlamak
+letter: H
+indeks: 34477
+lisan: Türkçe
+anlamlar:
+- Ağzını yaklaştırıp soluğunu bir şeyin üzerine hızla vermek
+ozellikler:
+- - -e
+ornekler: []
+orneklerkaynak: []
+---

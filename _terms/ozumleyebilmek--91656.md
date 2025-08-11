@@ -1,0 +1,14 @@
+---
+layout: term
+title: özümleyebilmek
+slug: ozumleyebilmek
+letter: Ö
+indeks: 91656
+lisan: Türkçe
+anlamlar:
+- Özümleme ihtimali veya imkânı bulunmak
+ozellikler:
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

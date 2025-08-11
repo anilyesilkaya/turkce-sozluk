@@ -1,0 +1,16 @@
+---
+layout: term
+title: mesut olmak
+slug: mesut-olmak
+letter: M
+indeks: 41760
+lisan: Türkçe
+anlamlar:
+- mutlu olmak, onmak
+ozellikler:
+- []
+ornekler:
+- O olmasa ne kadar rahat edeceğim, ne kadar mesut olacağım!
+orneklerkaynak:
+- Hüseyin Cahit Yalçın
+---

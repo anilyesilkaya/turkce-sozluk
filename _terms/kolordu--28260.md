@@ -1,0 +1,17 @@
+---
+layout: term
+title: kolordu
+slug: kolordu
+letter: K
+indeks: 28260
+lisan: Türkçe
+anlamlar:
+- Değişik sayıda tümen ve savaş destek birliklerinden kurulu büyük askerî birlik
+ozellikler:
+- - isim
+  - askerlik
+ornekler:
+- Kurmay başkanının ailesi, dün kolorduya gideceklerini söyledi.
+orneklerkaynak:
+- Halide Edip Adıvar
+---

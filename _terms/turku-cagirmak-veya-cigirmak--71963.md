@@ -1,0 +1,18 @@
+---
+layout: term
+title: türkü çağırmak (veya çığırmak)
+slug: turku-cagirmak-veya-cigirmak
+letter: T
+indeks: 71963
+lisan: Türkçe
+anlamlar:
+- türkü söylemek
+ozellikler:
+- []
+ornekler:
+- Türkü çağırmak şöyle dursun, konuşamıyorduk bile.
+- Gazi Rahman gene türküler çığıracaktır, eski türküleri çığıracaktır.
+orneklerkaynak:
+- Azra Erhat
+- Tarık Buğra
+---

@@ -1,0 +1,20 @@
+---
+layout: term
+title: cedelleşmek
+slug: cedellesmek
+letter: C
+indeks: 76500
+lisan: Türkçe
+anlamlar:
+- Karşısındakini susturmak amacıyla tartışmak; becelleşmek, cebelleşmek
+- Uğraşmak, çabalamak, mücadele etmek; becelleşmek, cebelleşmek
+ozellikler:
+- - -le
+  - halk ağzında
+- - -le
+  - halk ağzında
+ornekler:
+- Nail Bey'den sonraki müdürüm Celâleddin Kişmir Bey de gezici kütüphane işini devam ettirmek için çok çabaladı, Ankara ile çok cedelleşti.
+orneklerkaynak:
+- Mehmet Serhan Tayşi
+---

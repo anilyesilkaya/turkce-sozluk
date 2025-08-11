@@ -1,0 +1,16 @@
+---
+layout: term
+title: dertop etmek
+slug: dertop-etmek
+letter: D
+indeks: 94921
+lisan: Türkçe
+anlamlar:
+- toplayıp bir araya getirmek, toparlamak
+ozellikler:
+- []
+ornekler:
+- Tam hıçkırıkları boşanacağı zaman cebinden mendilini çıkarır, dertop eder, yuvarlak bir yumak hâlinde ağzına tıkar.
+orneklerkaynak:
+- Şevket Süreyya Aydemir
+---

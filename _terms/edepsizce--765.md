@@ -1,0 +1,20 @@
+---
+layout: term
+title: edepsizce
+slug: edepsizce
+letter: E
+indeks: 765
+lisan: Türkçe
+anlamlar:
+- Terbiyesiz olan
+- (edepsi'zce) Terbiyesizce, utanmadan; edepsizcesine
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Kanepenin üzerine oturup da bağırarak söylediğin edepsizce lakırtıları unuttun mu?
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+---

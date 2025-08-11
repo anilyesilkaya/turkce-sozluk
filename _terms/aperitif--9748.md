@@ -1,0 +1,18 @@
+---
+layout: term
+title: aperitif
+slug: aperitif
+letter: A
+indeks: 9748
+lisan: Fransızca apéritif
+anlamlar:
+- ön içki
+- Yemek öncesinde yenen çerez vb. yiyecek
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Hatta öğle yemeğinden önce birer aperitif alsak daha iyi olmaz mı?
+orneklerkaynak:
+- Refik Halit Karay
+---

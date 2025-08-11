@@ -1,0 +1,14 @@
+---
+layout: term
+title: çiçek bahçesi
+slug: cicek-bahcesi
+letter: Ç
+indeks: 17483
+lisan: Türkçe
+anlamlar:
+- Çiçek yetiştirilen veya çiçeklerle kaplanmış süslü bahçe
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

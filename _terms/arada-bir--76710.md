@@ -1,0 +1,16 @@
+---
+layout: term
+title: arada bir
+slug: arada-bir
+letter: A
+indeks: 76710
+lisan: Türkçe
+anlamlar:
+- ara sıra
+ozellikler:
+- - zarf
+ornekler:
+- Arada bir yorgun başımı dinlendirmek üzere Suadiye taraflarında tek başıma gezmeye çıkıyorum.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

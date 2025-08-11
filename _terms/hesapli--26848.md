@@ -1,0 +1,34 @@
+---
+layout: term
+title: hesaplı
+slug: hesapli
+letter: H
+indeks: 26848
+lisan: Türkçe
+anlamlar:
+- Satın alınabilen, bütçeye uygun; hesaplıca, ekonomik
+- tutumlu
+- Ayrıntılarıyla düşünülüp tasarlanmış, planlı olan
+- Ölçülü davranan
+ozellikler:
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+ornekler:
+- Hesaplı bir alışveriş.
+- Hesaplı adam.
+- Servetini, bu çalışması, bu hesaplı yaşayışıyla yaptığı kanısındaydı.
+- Sana şu aşağıda yazacaklarıma ciddi, hesaplı, zeki olmayı kararlaştırdığım sabahların birinde başlamıştım.
+orneklerkaynak:
+- Necati Cumalı
+- Sait Faik Abasıyanık
+---

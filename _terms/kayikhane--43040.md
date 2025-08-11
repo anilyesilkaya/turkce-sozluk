@@ -1,0 +1,16 @@
+---
+layout: term
+title: kayıkhane
+slug: kayikhane
+letter: K
+indeks: 43040
+lisan: Türkçe kayık + Farsça ḫāne
+anlamlar:
+- Kayıkların çekildiği, korunduğu üstü örtülü yer
+ozellikler:
+- - isim
+ornekler:
+- Yalı kayıkhanesinin demir parmaklıklı kapısı kapalı olduğundan Ali Nizami Bey suyun içinde bu kapının altından geçer.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

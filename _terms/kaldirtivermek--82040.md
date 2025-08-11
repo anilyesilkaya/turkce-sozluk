@@ -1,0 +1,16 @@
+---
+layout: term
+title: kaldırtıvermek
+slug: kaldirtivermek
+letter: K
+indeks: 82040
+lisan: Türkçe
+anlamlar:
+- kaldırıvermek
+ozellikler:
+- - -i
+ornekler:
+- Saatte bu iki yere ayrı iki vapur kaldırtıverin, ne olur?
+orneklerkaynak:
+- Nâzım Hikmet
+---

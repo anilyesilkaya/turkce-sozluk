@@ -1,0 +1,16 @@
+---
+layout: term
+title: tik tak
+slug: tik-tak
+letter: T
+indeks: 63567
+lisan: Türkçe
+anlamlar:
+- Genellikle saatin çalışırken çıkardığı ses
+ozellikler:
+- - isim
+ornekler:
+- Ocağın üzerindeki saatin kırık bir kalp gibi vuran kuvvetsiz ve mahzun tik taklarını duydu.
+orneklerkaynak:
+- Ömer Seyfettin
+---

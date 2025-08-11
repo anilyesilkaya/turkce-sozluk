@@ -1,0 +1,16 @@
+---
+layout: term
+title: yüzünü duvara yapıştırmak
+slug: yuzunu-duvara-yapistirmak
+letter: Y
+indeks: 57066
+lisan: Türkçe
+anlamlar:
+- ilgiyi kesmek
+ozellikler:
+- []
+ornekler:
+- Artık anlaşabileceğimizi sanmıyorum, diyerek herifin yüzünü duvara yapıştırıyor Mustafa.
+orneklerkaynak:
+- Ahmet Ümit
+---

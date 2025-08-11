@@ -1,0 +1,16 @@
+---
+layout: term
+title: öyle (yağma) yok!
+slug: oyle-yagma-yok
+letter: Ö
+indeks: 50756
+lisan: Türkçe
+anlamlar:
+- '"öyle bir şey olmaz, öyle bir şey yapılmamalı" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler:
+- Öyle yok, her ettiğine göz yummak! Dert de haddini bilecek.
+orneklerkaynak:
+- Neslihan Nur Türk
+---

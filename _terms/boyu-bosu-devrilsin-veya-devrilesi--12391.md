@@ -1,0 +1,16 @@
+---
+layout: term
+title: boyu bosu devrilsin (veya devrilesi)
+slug: boyu-bosu-devrilsin-veya-devrilesi
+letter: B
+indeks: 12391
+lisan: Türkçe
+anlamlar:
+- '`ölsün` anlamında kullanılan bir ilenme sözü'
+ozellikler:
+- []
+ornekler:
+- İlahi, boyun bosun devrilsin.
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: kök sap
+slug: kok-sap
+letter: K
+indeks: 27035
+lisan: Türkçe
+anlamlar:
+- Süsende olduğu gibi her yıl kök süren ve yer üstüne sap çıkaran, çok yıllık yer altı gövdesi; kök (I)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

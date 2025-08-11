@@ -1,0 +1,14 @@
+---
+layout: term
+title: konut kredisi
+slug: konut-kredisi
+letter: K
+indeks: 74209
+lisan: Türkçe
+anlamlar:
+- Konut almak için banka vb. kurumlardan belli bir vadeye yayılmış olarak ödünç alınan para; emlak kredisi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

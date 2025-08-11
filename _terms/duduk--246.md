@@ -1,0 +1,26 @@
+---
+layout: term
+title: düdük
+slug: duduk
+letter: D
+indeks: 246
+lisan: Türkçe
+anlamlar:
+- İçinden hava veya buhar geçirildiğinde keskin ses çıkaran ve işaret vermek için kullanılan araç
+- Taşıtlarda karşı tarafı uyaran korna
+- Akılsız, boş kafalı olan
+ozellikler:
+- - isim
+  - sıfat
+  - argo
+- - isim
+  - sıfat
+  - argo
+- - isim
+  - sıfat
+  - argo
+ornekler:
+- Derinlerden gelen kesik düdük sesleri arasında, evimin ve çocuklarımın çığlığını yakalamak için bir hayli uğraştım.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

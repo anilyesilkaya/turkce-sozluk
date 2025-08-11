@@ -1,0 +1,14 @@
+---
+layout: term
+title: göz doyurmak
+slug: goz-doyurmak
+letter: G
+indeks: 26274
+lisan: Türkçe
+anlamlar:
+- bir şey görünüşü ile umulduğundan çok etkilemek
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

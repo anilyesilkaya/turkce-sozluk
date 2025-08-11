@@ -1,0 +1,14 @@
+---
+layout: term
+title: arkasında yumurta küfesi yok ya! (veya olmamak)
+slug: arkasinda-yumurta-kufesi-yok-ya-veya-olmamak
+letter: A
+indeks: 7737
+lisan: Türkçe
+anlamlar:
+- sırtında yumurta küfesi olmamak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

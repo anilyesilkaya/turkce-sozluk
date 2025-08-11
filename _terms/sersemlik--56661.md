@@ -1,0 +1,18 @@
+---
+layout: term
+title: sersemlik
+slug: sersemlik
+letter: S
+indeks: 56661
+lisan: Türkçe
+anlamlar:
+- Sersem olma durumu
+- Sersemce iş
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Padişah içeriye geçince asilerin bir an önceki sersemliği geçti.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

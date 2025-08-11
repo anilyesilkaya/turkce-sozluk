@@ -1,0 +1,15 @@
+---
+layout: term
+title: şahteregiller
+slug: sahteregiller
+letter: Ş
+indeks: 59098
+lisan: Türkçe
+anlamlar:
+- İki çeneklilerden, şahtere vb. türleri içine alan küçük bir bitki familyası
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

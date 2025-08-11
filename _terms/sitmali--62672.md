@@ -1,0 +1,18 @@
+---
+layout: term
+title: sıtmalı
+slug: sitmali
+letter: S
+indeks: 62672
+lisan: Türkçe
+anlamlar:
+- Sıtmaya tutulmuş (kimse)
+- Sıtmanın salgın denecek kadar çok görüldüğü (yer)
+ozellikler:
+- - sıfat
+- - sıfat
+ornekler:
+- Bunların ikisi güzelce idi ama pek zayıf ve sıtmalı idiler.
+orneklerkaynak:
+- Ömer Seyfettin
+---

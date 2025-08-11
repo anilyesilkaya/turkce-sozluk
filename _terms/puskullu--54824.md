@@ -1,0 +1,16 @@
+---
+layout: term
+title: püsküllü
+slug: puskullu
+letter: P
+indeks: 54824
+lisan: Türkçe
+anlamlar:
+- Püskülü olan, püskül takılmış olan
+ozellikler:
+- - sıfat
+ornekler:
+- Bu püsküllü şapka, boyunu biraz daha uzatmış.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: dilini yutmak
+slug: dilini-yutmak
+letter: D
+indeks: 15673
+lisan: Türkçe
+anlamlar:
+- sevinç, korku, heyecan vb. sebeplerle konuşamaz olmak
+ozellikler:
+- []
+ornekler:
+- Satılmış'ın hiddetli hiddetli çıkışması üzerine dilini yutup ters yüzüne mutfağına döndü.
+orneklerkaynak:
+- Ercüment Ekrem Talu
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: atağa kalkmak
+slug: ataga-kalkmak
+letter: A
+indeks: 92849
+lisan: Türkçe
+anlamlar:
+- rakibin sahasına akın yapmak
+- yarışın son anlarında hızı artırmak
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

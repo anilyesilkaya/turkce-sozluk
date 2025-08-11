@@ -1,0 +1,16 @@
+---
+layout: term
+title: mesabesinde
+slug: mesabesinde
+letter: M
+indeks: 70337
+lisan: Türkçe
+anlamlar:
+- Yerinde, değerinde, hükmünde
+ozellikler:
+- - zarf
+ornekler:
+- Bu davetler, âdeta diplomasi tarikatının ayinleri mesabesindedir.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

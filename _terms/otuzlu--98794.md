@@ -1,0 +1,18 @@
+---
+layout: term
+title: otuzlu
+slug: otuzlu
+letter: O
+indeks: 98794
+lisan: Türkçe
+anlamlar:
+- Otuz parçası bulunan, otuz parçadan oluşan
+- İçinde otuz tane aynı nesneden bulunan
+- Otuz ile kırk arasında olan
+ozellikler:
+- - sıfat
+- - sıfat
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

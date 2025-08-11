@@ -1,0 +1,14 @@
+---
+layout: term
+title: sosyal değerler
+slug: sosyal-degerler
+letter: S
+indeks: 60111
+lisan: Türkçe
+anlamlar:
+- Toplumun fertlerini birbirine yaklaştıran, bir arada tutan, toplumun devamını sağlayan temel yargılar, değerler
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

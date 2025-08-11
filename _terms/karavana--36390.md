@@ -1,0 +1,28 @@
+---
+layout: term
+title: karavana
+slug: karavana
+letter: K
+indeks: 36390
+lisan: İtalyanca carovana
+anlamlar:
+- Genellikle orduda yemek dağıtımında kullanılan büyük metal kap
+- Bu kaptan dağıtılan yemek
+- İnce, yassı elmas
+- Atış taliminde hedef tahtasını bile vuramama
+ozellikler:
+- - isim
+  - argo
+- - isim
+  - argo
+- - isim
+  - argo
+- - isim
+  - argo
+ornekler:
+- İki günden beri karavana taşıttırdığın yetmiyormuş gibi bulaşık yıkamaya da götürüyorsun.
+- Askerlik âlemini yakından görmeyen ve karavana başında samimi asker şakalarının tadını bilmeyen bu hayatı takdir edemezmiş.
+orneklerkaynak:
+- Hilmi Taşkın
+- Bahri Özdeniz
+---

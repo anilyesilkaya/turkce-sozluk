@@ -1,0 +1,16 @@
+---
+layout: term
+title: sonuncu
+slug: sonuncu
+letter: S
+indeks: 87664
+lisan: Türkçe
+anlamlar:
+- Zaman, yer, sıra bakımından başkalarına göre sonda olan kimse, şey
+- Sırada, önem sırasında sonda olan kimse
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

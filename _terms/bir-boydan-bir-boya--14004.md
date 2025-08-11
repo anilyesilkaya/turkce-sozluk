@@ -1,0 +1,16 @@
+---
+layout: term
+title: bir boydan bir boya
+slug: bir-boydan-bir-boya
+letter: B
+indeks: 14004
+lisan: Türkçe
+anlamlar:
+- bir yerin bir ucundan öbür ucuna kadar, baştan başa
+ozellikler:
+- []
+ornekler:
+- Önce bir boydan bir boya sokağı gözden geçirdik.
+orneklerkaynak:
+- Erhan Bener
+---

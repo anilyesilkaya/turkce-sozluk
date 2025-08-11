@@ -1,0 +1,16 @@
+---
+layout: term
+title: aşağı (veya aşağısı) kurtarmaz
+slug: asagi-veya-asagisi-kurtarmaz
+letter: A
+indeks: 8269
+lisan: Türkçe
+anlamlar:
+- '"bundan daha ucuza olmaz" anlamında kullanılan bir söz'
+- '"daha aşağı bir durumu kendine layık görmez" anlamında kullanılan bir söz'
+ozellikler:
+- - alay yollu
+- - alay yollu
+ornekler: []
+orneklerkaynak: []
+---

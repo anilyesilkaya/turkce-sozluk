@@ -1,0 +1,16 @@
+---
+layout: term
+title: katkılanmak
+slug: katkilanmak
+letter: K
+indeks: 37121
+lisan: Türkçe
+anlamlar:
+- İçine bir katkı karışmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Tartışmalar, sohbetler, görüş alışverişleri bir şeyler unutulmuştur, kaybolmuştur; hiç değilse sislenmiştir, katkılanmıştır.
+orneklerkaynak:
+- Tarık Buğra
+---

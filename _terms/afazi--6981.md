@@ -1,0 +1,17 @@
+---
+layout: term
+title: afazi
+slug: afazi
+letter: A
+indeks: 6981
+lisan: Fransızca aphasie
+anlamlar:
+- söz yitimi
+ozellikler:
+- - isim
+  - tıp
+ornekler:
+- Afazi olan biri duygu ve düşüncelerini kelimelere döküp anlatamaz.
+orneklerkaynak:
+- Özkan Öze
+---

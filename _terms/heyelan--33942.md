@@ -1,0 +1,17 @@
+---
+layout: term
+title: heyelan
+slug: heyelan
+letter: H
+indeks: 33942
+lisan: Arapça heyelān
+anlamlar:
+- toprak kayması
+ozellikler:
+- - isim
+  - jeoloji
+ornekler:
+- Bizi belimize kadar gömen heyelanın altından başlarımızı güç doğrultmuştuk.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

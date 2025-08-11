@@ -1,0 +1,21 @@
+---
+layout: term
+title: çözücü
+slug: cozucu
+letter: Ç
+indeks: 18208
+lisan: Türkçe
+anlamlar:
+- Başka bir maddeyi çözme özelliği olan şey
+- Elektronik alıcılar için şifre veya bilgi çözümleyen; dekoder
+ozellikler:
+- - isim
+  - kimya
+  - teknik
+- - isim
+  - kimya
+  - teknik
+ornekler:
+- Altın suyu altının çözücüsüdür.
+orneklerkaynak: []
+---

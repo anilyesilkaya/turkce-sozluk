@@ -1,0 +1,14 @@
+---
+layout: term
+title: toplum polisi
+slug: toplum-polisi
+letter: T
+indeks: 63917
+lisan: Türkçe
+anlamlar:
+- Toplumsal olayları izlemek ve denetlemek amacıyla oluşturulmuş polis birimi ve polisiye güç
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

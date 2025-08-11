@@ -1,0 +1,16 @@
+---
+layout: term
+title: cepken
+slug: cepken
+letter: C
+indeks: 4238
+lisan: Türkçe
+anlamlar:
+- Kolları yırtmaçlı ve uzun, harçla işlenmiş bir tür kısa, yakasız üst giysisi
+ozellikler:
+- - isim
+ornekler:
+- Cepkenini, damalı mintanını çıkarmış, kolalı gömleğine kravatını bağlıyordu.
+orneklerkaynak:
+- Tarık Buğra
+---

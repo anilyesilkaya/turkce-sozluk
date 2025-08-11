@@ -1,0 +1,24 @@
+---
+layout: term
+title: güreşmek
+slug: guresmek
+letter: G
+indeks: 21151
+lisan: Türkçe
+anlamlar:
+- İki kişi türlü oyunlarla birbirinin sırtını yere getirmeye çalışmak; yıkışmak
+- Mücadele etmek
+ozellikler:
+- - nesnesiz
+  - -le
+  - spor
+  - mecaz
+- - nesnesiz
+  - -le
+  - spor
+  - mecaz
+ornekler:
+- Artık çayırlıklarda soyunup yağlanıp güreşemiyorlardı.
+orneklerkaynak:
+- Ömer Seyfettin
+---

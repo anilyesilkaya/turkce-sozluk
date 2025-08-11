@@ -1,0 +1,18 @@
+---
+layout: term
+title: anons
+slug: anons
+letter: A
+indeks: 9602
+lisan: Fransızca annonce
+anlamlar:
+- duyuru
+- sesli duyuru
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Sonra yolcuları uçağa çağıran anons duyuluyor, yerinden kalkıyor, ceketinin cebinden biletini çıkarıp kuyruğa yürüyorsun.
+orneklerkaynak:
+- Murathan Mungan
+---

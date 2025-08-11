@@ -1,0 +1,16 @@
+---
+layout: term
+title: kantarlı
+slug: kantarli
+letter: K
+indeks: 38290
+lisan: Türkçe
+anlamlar:
+- Çok ağır
+ozellikler:
+- - sıfat
+  - argo
+ornekler:
+- Yapabilse, bir an evvel kurtulmak isterdi bu kantarlı külfetten.
+orneklerkaynak: []
+---

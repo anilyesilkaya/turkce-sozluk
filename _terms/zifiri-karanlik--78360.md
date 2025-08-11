@@ -1,0 +1,16 @@
+---
+layout: term
+title: zifirî karanlık
+slug: zifiri-karanlik
+letter: Z
+indeks: 78360
+lisan: Türkçe
+anlamlar:
+- Çok koyu karanlık
+ozellikler:
+- - isim
+ornekler:
+- Sanki o saniye gözlerime perde inmiş de her taraf zifirî karanlık olmuş.
+orneklerkaynak:
+- Sermet Muhtar Alus
+---

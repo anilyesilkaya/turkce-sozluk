@@ -1,0 +1,15 @@
+---
+layout: term
+title: diferansiyel hesap
+slug: diferansiyel-hesap
+letter: D
+indeks: 15475
+lisan: Türkçe
+anlamlar:
+- Değişkenlerin sonsuz küçük dizi farklarındaki artma değerlerini bulmaya yarayan hesap
+ozellikler:
+- - isim
+  - matematik
+ornekler: []
+orneklerkaynak: []
+---

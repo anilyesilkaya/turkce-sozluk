@@ -1,0 +1,15 @@
+---
+layout: term
+title: matrah
+slug: matrah
+letter: M
+indeks: 41011
+lisan: Arapça maṭraḥ
+anlamlar:
+- Bir verginin miktarını belirtmek için temel olarak alınan değer
+ozellikler:
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

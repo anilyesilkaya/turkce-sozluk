@@ -1,0 +1,14 @@
+---
+layout: term
+title: Eski Dünya
+slug: eski-dunya
+letter: E
+indeks: 19568
+lisan: Türkçe
+anlamlar:
+- Avrupa, Asya ve Afrika'ya topluca verilen ad
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

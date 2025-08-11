@@ -1,0 +1,15 @@
+---
+layout: term
+title: tatile girmek
+slug: tatile-girmek
+letter: T
+indeks: 68028
+lisan: Türkçe
+anlamlar:
+- belirli bir süre için çalışmalara ara vermek
+ozellikler:
+- []
+ornekler:
+- Üniversite haziranda tatile girecek.
+orneklerkaynak: []
+---

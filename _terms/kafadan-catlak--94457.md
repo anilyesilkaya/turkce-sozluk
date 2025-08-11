@@ -1,0 +1,16 @@
+---
+layout: term
+title: 'kafadan çatlak '
+slug: kafadan-catlak
+letter: K
+indeks: 94457
+lisan: Türkçe
+anlamlar:
+- kafadan sakat
+ozellikler:
+- - sıfat
+ornekler:
+- Kız deli, bu oğlana neden entariler giydirirsin, sen kafadan çatlak mısın, gayrimüsellah mısın, bu mısır püskülü saçları neden uzatırsın?
+orneklerkaynak:
+- Mehmet Seyda
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: motosiklet
+slug: motosiklet
+letter: M
+indeks: 31761
+lisan: Fransızca motocyclette
+anlamlar:
+- Motor silindirinin hacmi 125 santimetreküpten büyük olan, iki tekerlekli motorlu taşıt; motor
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

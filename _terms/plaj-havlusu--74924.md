@@ -1,0 +1,15 @@
+---
+layout: term
+title: plaj havlusu
+slug: plaj-havlusu
+letter: P
+indeks: 74924
+lisan: Türkçe
+anlamlar:
+- Plaj, havuz vb. yerlerde yüzüldükten sonra kurulanmak için kullanılan havlu
+ozellikler:
+- - isim
+ornekler:
+- Güneşli ve sıcak bir pazar sabahı Sera, üzerinde plaj havlusu, başında şapka, gözünde güneş gözlüğü ... evin bahçesindeki havuza doğru yürüdü.
+orneklerkaynak: []
+---

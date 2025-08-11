@@ -1,0 +1,14 @@
+---
+layout: term
+title: dünyada tasasız baş bostan korkuluğunda bulunur
+slug: dunyada-tasasiz-bas-bostan-korkulugunda-bulunur
+letter: D
+indeks: 374
+lisan: Türkçe
+anlamlar:
+- '"bu dünyada tasasız olan insan yoktur" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

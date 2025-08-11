@@ -1,0 +1,16 @@
+---
+layout: term
+title: nükteci
+slug: nukteci
+letter: N
+indeks: 50072
+lisan: Türkçe
+anlamlar:
+- İnce anlamlı, düşündürücü, hoş sözler söyleyen (kimse); nekre, nüktedan
+ozellikler:
+- - sıfat
+ornekler:
+- Bu hazırcevap, nükteci ve biraz da tok sözlü Barba ile hemen ahbap olduk.
+orneklerkaynak:
+- Osman Cemal Kaygılı
+---

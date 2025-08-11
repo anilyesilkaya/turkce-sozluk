@@ -1,0 +1,16 @@
+---
+layout: term
+title: sözü bağlamak
+slug: sozu-baglamak
+letter: S
+indeks: 60363
+lisan: Türkçe
+anlamlar:
+- lafı bağlamak
+ozellikler:
+- []
+ornekler:
+- 'Sözü şöyle mi bağlayacağız: Aydın kişinin hem akıllı hem bilgili hem zeki olması zorunludur.'
+orneklerkaynak:
+- Attilâ İlhan
+---

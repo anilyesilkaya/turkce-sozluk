@@ -1,0 +1,20 @@
+---
+layout: term
+title: didik didik
+slug: didik-didik
+letter: D
+indeks: 15450
+lisan: Türkçe
+anlamlar:
+- Didiklenmiş biçimde
+- En ince ayrıntısına kadar
+ozellikler:
+- - zarf
+- - zarf
+ornekler:
+- Topraklar bile ateş ve demir sağanaklarıyla didik didik karışmıştı.
+- Her hazır yargıyı yeniden didik didik inceleyeceğiz.
+orneklerkaynak:
+- Hüseyin Cahit Yalçın
+- Haldun Taner
+---

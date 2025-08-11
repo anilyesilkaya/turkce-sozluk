@@ -1,0 +1,16 @@
+---
+layout: term
+title: saçı (veya saçları) değirmende ağartmamak
+slug: saci-veya-saclari-degirmende-agartmamak
+letter: S
+indeks: 53462
+lisan: Türkçe
+anlamlar:
+- deneyimli olmak
+ozellikler:
+- []
+ornekler:
+- Bu saçları değirmende ağartmadık, siz birbirinize âşıksınız sanırım
+orneklerkaynak:
+- Osman Aysu
+---

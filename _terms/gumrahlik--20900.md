@@ -1,0 +1,14 @@
+---
+layout: term
+title: gümrahlık
+slug: gumrahlik
+letter: G
+indeks: 20900
+lisan: Türkçe
+anlamlar:
+- Gümrah olma durumu; bolluk, sıklık, gürlük
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: tutarsız
+slug: tutarsiz
+letter: T
+indeks: 64502
+lisan: Türkçe
+anlamlar:
+- Tutarlı olmayan, aralarında çelişki bulunan; insicamsız
+ozellikler:
+- - sıfat
+ornekler:
+- Tutarsız her olayı, her davranışı alaturkadır diyerek Doğu'ya yükledik.
+orneklerkaynak:
+- Necati Cumalı
+---

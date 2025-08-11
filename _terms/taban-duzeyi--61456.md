@@ -1,0 +1,15 @@
+---
+layout: term
+title: taban düzeyi
+slug: taban-duzeyi
+letter: T
+indeks: 61456
+lisan: Türkçe
+anlamlar:
+- Bir akarsuyun, aşındırma ile erişebileceği en alçak yer
+ozellikler:
+- - isim
+  - jeoloji
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,18 @@
+---
+layout: term
+title: paçayı kaptırmak
+slug: pacayi-kaptirmak
+letter: P
+indeks: 50993
+lisan: Türkçe
+anlamlar:
+- yakalanmak, ele geçirilmek
+- karıştığı ancak sonradan ayrılmak istediği bir işten kendini kurtaramamak
+- etki altında kalarak dilediği gibi davranamamak
+ozellikler:
+- []
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

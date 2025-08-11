@@ -1,0 +1,17 @@
+---
+layout: term
+title: evliya
+slug: evliya
+letter: E
+indeks: 20166
+lisan: Arapça evliyā
+anlamlar:
+- ermiş
+ozellikler:
+- - isim
+  - din bilimi
+ornekler:
+- Yeşil sarıklı evliya yataklarının huzurunda gibiyim.
+orneklerkaynak:
+- Refik Halit Karay
+---

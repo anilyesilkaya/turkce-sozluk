@@ -1,0 +1,15 @@
+---
+layout: term
+title: karaburçak
+slug: karaburcak
+letter: K
+indeks: 36189
+lisan: Türkçe
+anlamlar:
+- Baklagillerden, hayvan yemi ve gübre olarak kullanılan bir tür; küşne (Ervum ervilla)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

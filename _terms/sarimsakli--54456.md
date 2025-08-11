@@ -1,0 +1,16 @@
+---
+layout: term
+title: sarımsaklı
+slug: sarimsakli
+letter: S
+indeks: 54456
+lisan: Türkçe
+anlamlar:
+- İçinde sarımsak bulunan
+ozellikler:
+- - sıfat
+ornekler:
+- Fransızların yüz türlü çervişli yemeği varsa doksan dokuzu bol sarımsaklıdır.
+orneklerkaynak:
+- Aka Gündüz
+---

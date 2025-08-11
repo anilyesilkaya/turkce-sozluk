@@ -1,0 +1,14 @@
+---
+layout: term
+title: kanotiye
+slug: kanotiye
+letter: K
+indeks: 38262
+lisan: Fransızca canotier
+anlamlar:
+- Düz kenarlı şapka
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

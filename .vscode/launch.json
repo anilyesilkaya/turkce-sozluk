@@ -16,20 +16,32 @@
       "request": "launch",
       "program": "${workspaceFolder}/utils/json2markdown.py",
       "args": [
-        "${workspaceFolder}/utils/database_sozluk/v12/processed_gts.json",   // <json-file>
-        "${workspaceFolder}/_terms"             // [output-dir]
+        "--input", "${workspaceFolder}/utils/database_sozluk/v12/gts_processed.json", // <input-json-file>
+        "--output", "${workspaceFolder}/_terms" // <output-json-file>
       ],
       "console": "integratedTerminal"
     },
     {
-      // F5 on this entry to run tdk_word_processor.py
-      "name": "Python: tdk_word_processor",
+      // F5 on this entry to run morph_analyzer.py input.json output.json
+      "name": "Python: morph_analyzer",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}/utils/tdk_word_processor.py",
+      "program": "${workspaceFolder}/utils/morph_analyzer.py",
       "args": [
-        "${workspaceFolder}/utils/database_sozluk/v12/gts.json",
-        "${workspaceFolder}/utils/database_sozluk/v12/processed_gts.json" 
+        "--input", "${workspaceFolder}/utils/database_sozluk/v12/gts.json",   // <json-file>
+        "--output", "${workspaceFolder}/utils/database_sozluk/v12/lemmas.json"         // <json-file>
+      ],
+      "console": "integratedTerminal"
+    },
+    {
+      // F5 on this entry to run tdk_sozluk_processor.py
+      "name": "Python: tdk_sozluk_processor",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/utils/tdk_sozluk_processor.py",
+      "args": [
+        "--input", "${workspaceFolder}/utils/database_sozluk/v12/gts.json",
+        "--output", "${workspaceFolder}/utils/database_sozluk/v12/gts_processed.json"
       ],
       "console": "integratedTerminal"
     }

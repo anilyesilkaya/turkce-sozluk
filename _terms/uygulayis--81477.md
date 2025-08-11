@@ -1,0 +1,16 @@
+---
+layout: term
+title: uygulayış
+slug: uygulayis
+letter: U
+indeks: 81477
+lisan: Türkçe
+anlamlar:
+- Uygulamak işi
+ozellikler:
+- - isim
+ornekler:
+- Fakat, bu huyunu insanlar üzerinde uygulayışın çok acı idi.
+orneklerkaynak:
+- Kerime Nadir
+---

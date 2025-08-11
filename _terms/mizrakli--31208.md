@@ -1,0 +1,16 @@
+---
+layout: term
+title: mızraklı
+slug: mizrakli
+letter: M
+indeks: 31208
+lisan: Türkçe
+anlamlar:
+- Mızrağı olan, mızrak taşıyan
+ozellikler:
+- - sıfat
+ornekler:
+- Kazığın yanında mızraklı bir asker nöbet beklesin!
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

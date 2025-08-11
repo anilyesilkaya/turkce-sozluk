@@ -1,0 +1,16 @@
+---
+layout: term
+title: göz hapsinde olmak
+slug: goz-hapsinde-olmak
+letter: G
+indeks: 96593
+lisan: Türkçe
+anlamlar:
+- göz hapsine alınmak
+ozellikler:
+- []
+ornekler:
+- Selim ise göz hapsinde olduğunu asla anlamayarak, hatta ne yaptığını bile pek bilmeyerek bir şeylerle uğraşıyordu.
+orneklerkaynak:
+- Hüseyin Nihal Atsız
+---

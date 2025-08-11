@@ -1,0 +1,115 @@
+---
+layout: term
+title: ayırmak
+slug: ayirmak
+letter: A
+indeks: 11512
+lisan: Türkçe
+anlamlar:
+- Bir bütünü kendi içinde parçalara bölmek
+- Bir bütünden bir parçayı herhangi bir amaçla bir tarafa koymak
+- Bir yeri bir engelle bölmek
+- Birbirinden uzaklaştırmak; fasletmek
+- Nitelik değişikliğini anlamak, fark etmek
+- İki veya daha çok kimse arasındaki anlaşmayı, uzlaşmayı bozmak
+- Farklı davranmak, ayrı tutmak
+- Bir şey veya yeri bir kimsenin hizmetine hazır tutmak; tahsis etmek
+ozellikler:
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -e
+  - -i
+  - -e
+  - -den
+  - -i
+  - -den
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+ornekler:
+- Elmayı dörde ayırmak.
+- Günün fıkralarından bu kitaba ayırdıklarım pek azdır.
+- Paraydı bunlar, anayı kızdan ayıran.
+- Karıyı kocasından ayırmak.
+- Odayı çocuklara ayırmak.
+orneklerkaynak:
+- Falih Rıfkı Atay
+- Orhan Kemal
+---

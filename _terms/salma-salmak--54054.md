@@ -1,0 +1,16 @@
+---
+layout: term
+title: salma salmak
+slug: salma-salmak
+letter: S
+indeks: 54054
+lisan: Türkçe
+anlamlar:
+- genellikle köylerde işlerin görülmesi için ihtiyar heyetinin kararıyla her evden para toplamak
+- yardım amacıyla varlıklı kişilerden gücüne göre para istemek
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

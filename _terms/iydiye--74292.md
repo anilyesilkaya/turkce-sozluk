@@ -1,0 +1,24 @@
+---
+layout: term
+title: ıydiye
+slug: iydiye
+letter: I
+indeks: 74292
+lisan: Arapça ʿiydiyye
+anlamlar:
+- Bayram kutlaması
+- Bayramlarda din ve devlet büyüklerine sunulan kaside
+- Bayramda verilen hediye, bahşiş
+ozellikler:
+- - isim
+  - eskimiş
+  - edebiyat
+- - isim
+  - eskimiş
+  - edebiyat
+- - isim
+  - eskimiş
+  - edebiyat
+ornekler: []
+orneklerkaynak: []
+---

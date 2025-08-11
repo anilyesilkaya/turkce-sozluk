@@ -1,0 +1,15 @@
+---
+layout: term
+title: ayrılma durumu
+slug: ayrilma-durumu
+letter: A
+indeks: 80678
+lisan: Türkçe
+anlamlar:
+- çıkma durumu
+ozellikler:
+- - isim
+  - dil bilgisi
+ornekler: []
+orneklerkaynak: []
+---

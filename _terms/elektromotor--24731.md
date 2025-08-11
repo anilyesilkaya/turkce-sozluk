@@ -1,0 +1,18 @@
+---
+layout: term
+title: elektromotor
+slug: elektromotor
+letter: E
+indeks: 24731
+lisan: Fransızca électromoteur
+anlamlar:
+- Elektrik enerjisini mekanik enerjiye çeviren cihaz
+- Mekanik veya kimyasal bir etki altında elektrik üreten araç
+ozellikler:
+- - isim
+  - fizik
+- - isim
+  - fizik
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: kriz masası
+slug: kriz-masasi
+letter: K
+indeks: 75759
+lisan: Türkçe
+anlamlar:
+- Bir afetin zararlarını belirlemek ve yardım çalışmalarını yürütmek amacıyla geçici bir süre için uzmanlardan oluşturulan kurul
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

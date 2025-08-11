@@ -38,8 +38,8 @@ layout: default
     {%- for t in list -%}
       {%- assign slug  = t.slug | default: t.basename_without_ext -%}
       <li>
-        <a href="{{ '/terim/' | append: slug | append: '.html' | relative_url }}">
-          {{ t.title | default: slug }}
+        <a href="{{ t.url | relative_url }}">
+          {{ t.title | default: t.basename_without_ext }}
         </a>
       </li>
     {%- endfor -%}

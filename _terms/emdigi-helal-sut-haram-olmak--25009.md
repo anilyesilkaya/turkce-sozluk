@@ -1,0 +1,16 @@
+---
+layout: term
+title: emdiği (helal) süt haram olmak
+slug: emdigi-helal-sut-haram-olmak
+letter: E
+indeks: 25009
+lisan: Türkçe
+anlamlar:
+- herhangi bir isteğinin yapılmamasından sonra ilenmek
+ozellikler:
+- []
+ornekler:
+- Altı mikrobun canını daha cehenneme göndermeden gidersem emdiğim helal süt haram olmaz mı?
+orneklerkaynak:
+- Haldun Taner
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: kozmografya
+slug: kozmografya
+letter: K
+indeks: 26961
+lisan: Yunanca
+anlamlar:
+- Gök biliminin, matematik ve fiziğin yalnız temel kavramlarından yararlanarak  belli başlı olaylarını ele alan dalı
+ozellikler:
+- - isim
+  - gök bilimi
+ornekler: []
+orneklerkaynak: []
+---

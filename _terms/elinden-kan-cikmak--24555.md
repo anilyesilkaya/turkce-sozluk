@@ -1,0 +1,16 @@
+---
+layout: term
+title: elinden kan çıkmak
+slug: elinden-kan-cikmak
+letter: E
+indeks: 24555
+lisan: Türkçe
+anlamlar:
+- cinayet işlemek
+ozellikler:
+- []
+ornekler:
+- Kırk kanını Allah'a affettirmeye çalışırken kazara elinden yeni bir kan çıkmıştı.
+orneklerkaynak:
+- Ömer Seyfettin
+---

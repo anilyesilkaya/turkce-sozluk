@@ -1,0 +1,16 @@
+---
+layout: term
+title: klişecilik
+slug: klisecilik
+letter: K
+indeks: 27944
+lisan: Türkçe
+anlamlar:
+- Klişecinin yaptığı iş
+ozellikler:
+- - isim
+ornekler:
+- Klişeciliğin henüz tek renkten öteye gidemediği o günlerde, taş baskı ile renk verilirdi resimlere.
+orneklerkaynak:
+- Yusuf Ziya Ortaç
+---

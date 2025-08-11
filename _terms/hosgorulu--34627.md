@@ -1,0 +1,16 @@
+---
+layout: term
+title: hoşgörülü
+slug: hosgorulu
+letter: H
+indeks: 34627
+lisan: Türkçe
+anlamlar:
+- Hoşgörüsü olan, hoşgörüyle davranan, hoşgörü sahibi; hoşgörücü, anlayışlı, müsamahalı, müsamahakâr, toleranslı
+ozellikler:
+- - sıfat
+ornekler:
+- Neyse ki Salâh Birsel dünyanın en hoşgörülü, en alçak gönüllü sanatçısı...
+orneklerkaynak:
+- Selim İleri
+---

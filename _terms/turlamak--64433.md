@@ -1,0 +1,15 @@
+---
+layout: term
+title: turlamak
+slug: turlamak
+letter: T
+indeks: 64433
+lisan: Türkçe
+anlamlar:
+- Tur atmak, dolaşmak, dönüp durmak; turalamak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Futbolcular Kuşadası'nda turluyor.
+orneklerkaynak: []
+---

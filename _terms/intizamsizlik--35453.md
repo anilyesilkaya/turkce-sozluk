@@ -1,0 +1,16 @@
+---
+layout: term
+title: intizamsızlık
+slug: intizamsizlik
+letter: I
+indeks: 35453
+lisan: Türkçe
+anlamlar:
+- karışıklık
+ozellikler:
+- - isim
+ornekler:
+- … ona mukabil büyük bir intizamsızlık ve ümransızlık, feci bir cansızlık ve ziyasızlık vardı.
+orneklerkaynak:
+- Raif Necdet Kestelli
+---

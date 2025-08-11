@@ -1,0 +1,22 @@
+---
+layout: term
+title: fethetmek
+slug: fethetmek
+letter: F
+indeks: 18457
+lisan: Arapça fetḥ + Türkçe etmek
+anlamlar:
+- Bir yeri veya ülkeyi savaşarak almak, ülke açmak
+- Herkesin takdirini, övgüsünü kazanıp kendine hayran bırakmak
+ozellikler:
+- - -i
+  - mecaz
+- - -i
+  - mecaz
+ornekler:
+- Mekânı fethetmek bir marifettir fakat mekânla beraber zamanı da fethetmek yüz misli değerindedir.
+- Fettan bir kızcağız, İstanbul'u fethetmişti.
+orneklerkaynak:
+- Yahya Kemal Beyatlı
+- Ercüment Ekrem Talu
+---

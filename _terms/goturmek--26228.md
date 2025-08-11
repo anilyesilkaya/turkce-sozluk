@@ -1,0 +1,176 @@
+---
+layout: term
+title: götürmek
+slug: goturmek
+letter: G
+indeks: 26228
+lisan: Türkçe
+anlamlar:
+- Taşımak, ulaştırmak veya koymak
+- Bir kimseyi bir yere kadar yanında yürütmek
+- Yerinden ayırıp uzağa atmak veya yok etmek
+- öldürmek
+- Dayanmak, katlanmak, tahammül etmek
+- Birinin yanında yürüyüp ona bir yere kadar arkadaşlık etmek; bırakmak
+- Bir sonuca vardırmak
+- Kaybolmasına, yok olmasına yol açmak
+- vardırmak
+- Herhangi bir yiyeceği tek başına ve hızlı bir biçimde yemek
+- Tümüyle sahip olmak
+- Haksız kazanç sağlamak, mal veya para sahibi olmak
+ozellikler:
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -e
+  - -i
+  - -e
+  - mecaz
+  - argo
+  - argo
+ornekler:
+- Yemeği götürmek için o an en uygun kişiydim.
+- Bir mermi bacağını götürdü. Duvarı su götürdü.
+- Hastalık çok insan götürdü.
+- Beni evime kadar götürdü.
+- Bitirmeden şunu da söyleyeyim, ahlaka, gerçek ahlaka götüren başlıca yollardan biri de aşktır.
+- Eksiler artıları götürdü.
+orneklerkaynak:
+- Ayla Kutlu
+- Nurullah Ataç
+---

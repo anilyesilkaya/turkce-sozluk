@@ -1,0 +1,16 @@
+---
+layout: term
+title: palikarya
+slug: palikarya
+letter: P
+indeks: 51125
+lisan: Rumca
+anlamlar:
+- Yunan delikanlısı
+ozellikler:
+- - isim
+ornekler:
+- Karısını ve evlatlarını öpüp palikaryaların arasında uzaklaştı.
+orneklerkaynak:
+- Erendiz Atasü
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: yeise kapılmak
+slug: yeise-kapilmak
+letter: Y
+indeks: 30907
+lisan: Türkçe
+anlamlar:
+- çok üzülmek
+ozellikler:
+- []
+ornekler:
+- Şimdi bu ümidin boşa çıktığını anlayınca birden yeise kapıldı.
+orneklerkaynak:
+- Refik Halit Karay
+---

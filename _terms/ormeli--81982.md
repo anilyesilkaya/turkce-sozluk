@@ -1,0 +1,16 @@
+---
+layout: term
+title: örmeli
+slug: ormeli
+letter: Ö
+indeks: 81982
+lisan: Türkçe
+anlamlar:
+- Örülerek yapılmış
+ozellikler:
+- - sıfat
+ornekler:
+- Valde Paşa'nın üç çifte kayığındaki gümüş kafes örmeli ve kenarları balık şeklinde yine gümüş saçaklı ihramı meşhurdu.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

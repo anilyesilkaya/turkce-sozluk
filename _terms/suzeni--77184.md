@@ -1,0 +1,16 @@
+---
+layout: term
+title: suzeni
+slug: suzeni
+letter: S
+indeks: 77184
+lisan: Farsça sūzen + Arapça -ī
+anlamlar:
+- Kasnağa gerilmiş kumaşa iğne veya tığla yapılan bir nakış türü
+ozellikler:
+- - isim
+ornekler:
+- Tülbent üzerine suzeni işinde büyük bir ustalıkla muvaffakiyetler gösterdiğinden bahsedenler vardı.
+orneklerkaynak:
+- Halit Ziya Uşaklıgil
+---

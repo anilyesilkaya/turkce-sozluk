@@ -1,0 +1,14 @@
+---
+layout: term
+title: triportör
+slug: triportor
+letter: T
+indeks: 64275
+lisan: Fransızca triporteur
+anlamlar:
+- Eşya taşımak için bir kasası bulunan, çoğu kez motorlu, üç tekerlekli küçük taşıt; üçteker
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

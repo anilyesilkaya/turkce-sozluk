@@ -1,0 +1,15 @@
+---
+layout: term
+title: su piresi
+slug: su-piresi
+letter: S
+indeks: 60892
+lisan: Türkçe
+anlamlar:
+- Kabuklulardan, durgun sularda yaşayan bir hayvan; su biti (Daphnia pulex)
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler: []
+orneklerkaynak: []
+---

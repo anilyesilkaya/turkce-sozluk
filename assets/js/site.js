@@ -31,23 +31,21 @@ layout: null      /* makes Jekyll run Liquid but output raw JS */
     try {
       terms = JSON.parse(cached);
     } catch {
-      /* corrupted JSON – ignore */
       sessionStorage.removeItem('terms');
     }
   }
 
   if (!terms) {
     terms = await fetch(TERMS_URL).then(r => r.json());
-    /* try to cache, but don’t break if quota is full */
     try {
       sessionStorage.setItem('terms', JSON.stringify(terms));
-    } catch {
-      /* silently continue without storage */
-    }
+    } catch { /* ignore quota */ }
   }
 
   /* ────────────────── autocomplete ────────────────── */
   function filter() {
+    if (!$search || !$list) return;
+
     const q = $search.value.toLowerCase().trim();
 
     if (!q) {
@@ -69,34 +67,65 @@ layout: null      /* makes Jekyll run Liquid but output raw JS */
     $search.setAttribute('aria-expanded', open);
   }
 
-  $search.addEventListener('input', filter);
+  if ($search) $search.addEventListener('input', filter);
 
   /* click on a suggestion */
-  $list.addEventListener('click', ev => {
-    const li = ev.target.closest('li');
-    if (li) window.location.href = li.dataset.url;
-  });
+  if ($list) {
+    $list.addEventListener('click', ev => {
+      const li = ev.target.closest('li');
+      if (li) window.location.href = li.dataset.url;
+    });
+  }
 
-  /* Enter key → jump straight to slug */
-  $search.addEventListener('keydown', ev => {
-    if (ev.key !== 'Enter') return;
-    const raw = $search.value.trim();
-    if (raw) {
-      window.location.href =
-        `{{ '/terim/' | relative_url }}${safeSlug(raw)}.html`;
-    }
-  });
+  /* Enter key → go to the best matching term's URL (NOT a constructed slug path) */
+  if ($search) {
+    $search.addEventListener('keydown', ev => {
+      if (ev.key !== 'Enter') return;
+      const raw = $search.value.trim();
+      if (!raw) return;
+
+      const rawLower = raw.toLowerCase();
+
+      // 1) exact title match (case-insensitive)
+      let hit = terms.find(t => t.title.toLowerCase() === rawLower);
+
+      // 2) same-slug title match (handles diacritics → slug collapse)
+      if (!hit) {
+        const targetSlug = safeSlug(raw);
+        hit = terms.find(t => safeSlug(t.title) === targetSlug);
+      }
+
+      // 3) startsWith fallback
+      if (!hit) {
+        hit = terms.find(t => t.title.toLowerCase().startsWith(rawLower));
+      }
+
+      if (hit) {
+        window.location.href = hit.url;
+      } else {
+        // nothing found: close dropdown (or you could keep it open)
+        if ($list) {
+          $list.style.display = 'none';
+          $list.innerHTML = '';
+        }
+        $search.setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
 
   /* ────────────────── random term ────────────────── */
-  $random.addEventListener('click', () => {
-    if (!terms.length) return;
+  if ($random) {
+    $random.addEventListener('click', () => {
+      if (!terms.length) return;
 
-    /* hide any open dropdown */
-    $list.style.display = 'none';
-    $search.setAttribute('aria-expanded', 'false');
-    $list.innerHTML = '';
+      if ($list && $search) {
+        $list.style.display = 'none';
+        $search.setAttribute('aria-expanded', 'false');
+        $list.innerHTML = '';
+      }
 
-    const { url } = terms[Math.floor(Math.random() * terms.length)];
-    window.location.href = url;
-  });
+      const { url } = terms[Math.floor(Math.random() * terms.length)];
+      window.location.href = url;
+    });
+  }
 })();

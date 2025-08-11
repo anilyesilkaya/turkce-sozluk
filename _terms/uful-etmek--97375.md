@@ -1,0 +1,20 @@
+---
+layout: term
+title: uful etmek
+slug: uful-etmek
+letter: U
+indeks: 97375
+lisan: Türkçe
+anlamlar:
+- batmak, gözden kaybolmak, sönmek
+- ölmek
+ozellikler:
+- - mecaz
+- - mecaz
+ornekler:
+- 'Yıldızlar sönünce şöyle dedi: Ben, uful eden, sönüp giden, batan şeyleri sevmem!'
+- Tabiatın senelerden beri kâh kudret veren, kâh kahreden hamlelerle ruhumda yaşattığı o ilahi emel ve elemler uful etti!..
+orneklerkaynak:
+- Mahmut Erol Kılıç
+- Raif Necdet Kestelli
+---

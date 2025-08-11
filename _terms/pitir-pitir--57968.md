@@ -1,0 +1,16 @@
+---
+layout: term
+title: pıtır pıtır
+slug: pitir-pitir
+letter: P
+indeks: 57968
+lisan: Türkçe
+anlamlar:
+- Sık ve düzgün bir biçimde hafifçe ses çıkararak
+ozellikler:
+- - zarf
+ornekler:
+- Sol gözünden pıtır pıtır iki damla yaş dökülüverdi.
+orneklerkaynak:
+- Tarık Buğra
+---

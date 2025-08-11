@@ -1,0 +1,14 @@
+---
+layout: term
+title: bileğinin hakkıyla (veya gücüyle veya kuvvetiyle veya zoruyla)
+slug: bileginin-hakkiyla-veya-gucuyle-veya-kuvvetiyle-veya-zoruyla
+letter: B
+indeks: 13580
+lisan: Türkçe
+anlamlar:
+- kendi gücü ve kendi çalışması ile
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

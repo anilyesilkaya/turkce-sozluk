@@ -1,0 +1,14 @@
+---
+layout: term
+title: ayranım budur, yarısı sudur
+slug: ayranim-budur-yarisi-sudur
+letter: A
+indeks: 11604
+lisan: Türkçe
+anlamlar:
+- bir iş yarım yamalak yapıldığında özür dilemek için söylenen bir söz
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

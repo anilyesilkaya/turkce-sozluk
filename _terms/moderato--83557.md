@@ -1,0 +1,18 @@
+---
+layout: term
+title: moderato
+slug: moderato
+letter: M
+indeks: 83557
+lisan: İtalyanca moderato
+anlamlar:
+- Tek başına kullanıldığında orta hızda bir tempoyu belirten bir söz
+- Başka bir terimle birlikte kullanıldığında gösterilen temponun biraz yavaşlatılması gerektiğini anlatan bir söz
+ozellikler:
+- - isim
+  - müzik
+- - isim
+  - müzik
+ornekler: []
+orneklerkaynak: []
+---

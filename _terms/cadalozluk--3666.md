@@ -1,0 +1,16 @@
+---
+layout: term
+title: cadalozluk
+slug: cadalozluk
+letter: C
+indeks: 3666
+lisan: Türkçe
+anlamlar:
+- Cadaloz olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Salt kabadayılık vardı, külhanbeylik vardı, cadalozluk vardı.
+orneklerkaynak:
+- Sezgin Kaymaz
+---

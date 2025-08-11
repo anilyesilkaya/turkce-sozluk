@@ -1,0 +1,26 @@
+---
+layout: term
+title: zehir gibi
+slug: zehir-gibi
+letter: Z
+indeks: 78052
+lisan: Türkçe
+anlamlar:
+- çok acı
+- çok soğuk (hava)
+- çok becerikli, usta
+- çok üstün
+- çok iyi
+ozellikler:
+- []
+- []
+- []
+- []
+- []
+ornekler:
+- Zehir gibi şoför.
+- Zehir gibi bir zekâ.
+- Oğlan süngerlerin çeşidini zehir gibi tanıyordu.
+orneklerkaynak:
+- Halikarnas Balıkçısı
+---

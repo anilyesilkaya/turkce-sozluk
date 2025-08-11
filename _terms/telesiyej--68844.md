@@ -1,0 +1,14 @@
+---
+layout: term
+title: telesiyej
+slug: telesiyej
+letter: T
+indeks: 68844
+lisan: Fransızca télésiège
+anlamlar:
+- Kayakçıları veya turistleri sürekli hareket hâlindeki bir kabloya asılı oturma yerlerinde taşıyan bir teleferik türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

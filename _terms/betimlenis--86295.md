@@ -1,0 +1,16 @@
+---
+layout: term
+title: betimleniş
+slug: betimlenis
+letter: B
+indeks: 86295
+lisan: Türkçe
+anlamlar:
+- Betimlenmek işi
+ozellikler:
+- - isim
+ornekler:
+- Yazar, damat Behçet Bey'in betimlenişinde olağanüstü bir başarı gösterir.
+orneklerkaynak:
+- Selim İleri
+---

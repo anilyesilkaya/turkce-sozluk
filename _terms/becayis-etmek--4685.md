@@ -1,0 +1,16 @@
+---
+layout: term
+title: becayiş etmek
+slug: becayis-etmek
+letter: B
+indeks: 4685
+lisan: Türkçe
+anlamlar:
+- değişik yerdeki görevliler, karşılıklı yer değiştirmek
+ozellikler:
+- []
+ornekler:
+- Büyük fedakârlıklar yaparak piyadeden süvariliğe becayiş etti.
+orneklerkaynak:
+- Ömer Seyfettin
+---

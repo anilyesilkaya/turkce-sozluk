@@ -1,0 +1,22 @@
+---
+layout: term
+title: fukara
+slug: fukara
+letter: F
+indeks: 19309
+lisan: Arapça fuḳarā
+anlamlar:
+- yoksul
+- zavallı
+ozellikler:
+- - sıfat
+  - mecaz
+- - sıfat
+  - mecaz
+ornekler:
+- Biriktirdiği bütün parasını sadaka olarak fukaraya verir.
+- Ama fukara denizcilerin durumları, onlara bu gibi lüks elvedaları yasak eder.
+orneklerkaynak:
+- Yahya Kemal Beyatlı
+- Halikarnas Balıkçısı
+---

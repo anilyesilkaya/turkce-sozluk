@@ -1,0 +1,14 @@
+---
+layout: term
+title: baş dille tartılır
+slug: bas-dille-tartilir
+letter: B
+indeks: 6075
+lisan: Türkçe
+anlamlar:
+- '"kişinin aklı, söylediği sözlerle ölçülür" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

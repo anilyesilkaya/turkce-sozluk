@@ -1,0 +1,18 @@
+---
+layout: term
+title: polarma
+slug: polarma
+letter: P
+indeks: 58312
+lisan: Türkçe
+anlamlar:
+- Doğrudan doğruya kendi kaynağından çıkan bir ışığın, yansıdıktan veya kırıldıktan sonra gösterdiği özelliklerin tümü; polarizasyon
+- Kimyasal tepkimeler dolayısıyla bir pildeki gerilimin düşmesi
+ozellikler:
+- - isim
+  - fizik
+- - isim
+  - fizik
+ornekler: []
+orneklerkaynak: []
+---

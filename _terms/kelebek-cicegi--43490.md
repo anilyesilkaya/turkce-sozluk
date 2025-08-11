@@ -1,0 +1,15 @@
+---
+layout: term
+title: kelebek çiçeği
+slug: kelebek-cicegi
+letter: K
+indeks: 43490
+lisan: Türkçe
+anlamlar:
+- İki çeneklilerden, aydınlık ortamlarda yetiştirilen çok renkli ve çok dallı bir süs bitkisi
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

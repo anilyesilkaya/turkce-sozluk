@@ -1,0 +1,15 @@
+---
+layout: term
+title: garazkârane
+slug: garazkarane
+letter: G
+indeks: 95860
+lisan: Arapça ġaraż + Farsça -kār-āne
+anlamlar:
+- Kinli biçimde, kinli olarak, kin duyarak
+ozellikler:
+- - zarf
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

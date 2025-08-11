@@ -1,0 +1,15 @@
+---
+layout: term
+title: sarıçiçek
+slug: saricicek
+letter: S
+indeks: 54414
+lisan: Türkçe
+anlamlar:
+- ölmez çiçek
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

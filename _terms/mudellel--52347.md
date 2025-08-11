@@ -1,0 +1,20 @@
+---
+layout: term
+title: müdellel
+slug: mudellel
+letter: M
+indeks: 52347
+lisan: Arapça mudellel
+anlamlar:
+- Kanıtlanmış, kanıtlı
+- Kanıta dayanarak
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Mantıki söylenmiş, müdellel söylenmiş, her cihetten işi kesip atmıştı.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: Türkçeleştirme
+slug: turkcelestirme
+letter: T
+indeks: 71942
+lisan: Türkçe
+anlamlar:
+- Türkçeleştirmek işi
+ozellikler:
+- - isim
+ornekler:
+- Türkçeleştirme adına Reşat Nuri’nin diline dokunulmamış; iyi ki dokunulmamış, çünkü Reşat Nuri’nin romanlarının Türkçeleştirilmeye gereksinimleri yok.
+orneklerkaynak:
+- Fethi Naci
+---

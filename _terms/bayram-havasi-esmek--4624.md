@@ -1,0 +1,16 @@
+---
+layout: term
+title: bayram havası esmek
+slug: bayram-havasi-esmek
+letter: B
+indeks: 4624
+lisan: Türkçe
+anlamlar:
+- ortam neşeli, sevinçli bir duruma gelmek
+ozellikler:
+- []
+ornekler:
+- Ziyaret günleri hapishanelerde bir bayram havası eser.
+orneklerkaynak:
+- Peyami Safa
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: kalaylanmak
+slug: kalaylanmak
+letter: K
+indeks: 37555
+lisan: Türkçe
+anlamlar:
+- Kalaylanma işi yapılmak veya kalaylama işine konu olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Kalaylanmış kaplarda kaba parlaklığını görürsünüz.
+orneklerkaynak:
+- Refik Halit Karay
+---

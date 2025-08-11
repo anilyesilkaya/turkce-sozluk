@@ -1,0 +1,20 @@
+---
+layout: term
+title: eli zayıf
+slug: eli-zayif
+letter: E
+indeks: 95352
+lisan: Türkçe
+anlamlar:
+- İmkânları az
+- Borçlu olduğu veya koz verdiği için kendini istediği oranda savunamayan
+ozellikler:
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+ornekler:
+- Bu da ülkemizin hâlâ dünya ticaretinde eli zayıf ülkelerden biri olduğunu göstermektedir.
+orneklerkaynak:
+- Hakan Akın
+---

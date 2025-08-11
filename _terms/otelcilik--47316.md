@@ -1,0 +1,18 @@
+---
+layout: term
+title: otelcilik
+slug: otelcilik
+letter: O
+indeks: 47316
+lisan: Türkçe
+anlamlar:
+- Otel sahibi olma durumu
+- Otel işletme işi
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Çölden geçecekler hep bu köyde kaldıkları için burada bir çeşit ilkel otelcilik hissi vardı.
+orneklerkaynak:
+- Halide Edip Adıvar
+---

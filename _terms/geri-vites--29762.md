@@ -1,0 +1,14 @@
+---
+layout: term
+title: geri vites
+slug: geri-vites
+letter: G
+indeks: 29762
+lisan: Türkçe
+anlamlar:
+- Vitesteki dişlilerden otomobilin geri gitmesini sağlayan dişli
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: korumaya almak
+slug: korumaya-almak
+letter: K
+indeks: 28779
+lisan: Türkçe
+anlamlar:
+- tehlikede olduğu düşünülen bir kimseyi veya eseri saldırılardan korumak üzere önlem almak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

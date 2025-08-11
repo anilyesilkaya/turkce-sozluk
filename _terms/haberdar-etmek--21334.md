@@ -1,0 +1,16 @@
+---
+layout: term
+title: haberdar etmek
+slug: haberdar-etmek
+letter: H
+indeks: 21334
+lisan: Türkçe
+anlamlar:
+- haber vermek, bildirmek
+ozellikler:
+- []
+ornekler:
+- Kararımızdan Nedret'in arkadaşlarını da haberdar etmeliyiz.
+orneklerkaynak:
+- Mahmut Yesari
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: yamaklık
+slug: yamaklik
+letter: Y
+indeks: 46026
+lisan: Türkçe
+anlamlar:
+- Yamak olma durumu; el ulaklığı
+ozellikler:
+- - isim
+ornekler:
+- Ancak günün birinde, yeryüzü bu, bilinmez, belki taksinin birinde şoför yamaklığı yaparım.
+orneklerkaynak:
+- Nâzım Hikmet
+---

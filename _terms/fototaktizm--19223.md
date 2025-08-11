@@ -1,0 +1,15 @@
+---
+layout: term
+title: fototaktizm
+slug: fototaktizm
+letter: F
+indeks: 19223
+lisan: Fransızca phototactisme
+anlamlar:
+- ışığa göçüm
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

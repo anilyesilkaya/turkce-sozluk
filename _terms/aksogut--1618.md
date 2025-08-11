@@ -1,0 +1,15 @@
+---
+layout: term
+title: aksöğüt
+slug: aksogut
+letter: A
+indeks: 1618
+lisan: Türkçe
+anlamlar:
+- Söğütgillerden, kabukları eczacılıkta kullanılan bir tür söğüt (Salix alba)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

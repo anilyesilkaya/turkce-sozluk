@@ -1,0 +1,16 @@
+---
+layout: term
+title: afacan
+slug: afacan
+letter: A
+indeks: 6965
+lisan: Türkçe
+anlamlar:
+- Zeki ve yaramaz (çocuk)
+ozellikler:
+- - sıfat
+ornekler:
+- Güneş ise afacan bir çocuk gibi bulutlarla saklambaç oynuyor, bir kaybolup bir gözüküyordu.
+orneklerkaynak:
+- Ayşe Kulin
+---

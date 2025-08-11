@@ -1,0 +1,15 @@
+---
+layout: term
+title: gülgiller
+slug: gulgiller
+letter: G
+indeks: 20825
+lisan: Türkçe
+anlamlar:
+- Çilek, armut, elma, badem vb. türleri içine alan, ayrı taç yapraklı iki çeneklilerden, örneği gül olan bir bitki familyası
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

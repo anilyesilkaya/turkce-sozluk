@@ -1,0 +1,15 @@
+---
+layout: term
+title: torpido bot
+slug: torpido-bot
+letter: T
+indeks: 64036
+lisan: İngilizce torpedo-boat
+anlamlar:
+- Torpil atmaya yarar, küçük ve çok hızlı giden savaş gemisi; torpido
+ozellikler:
+- - isim
+  - denizcilik
+ornekler: []
+orneklerkaynak: []
+---

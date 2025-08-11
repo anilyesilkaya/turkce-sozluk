@@ -1,0 +1,16 @@
+---
+layout: term
+title: elle tutulur gözle görülür (veya dille anlatılır)
+slug: elle-tutulur-gozle-gorulur-veya-dille-anlatilir
+letter: E
+indeks: 24599
+lisan: Türkçe
+anlamlar:
+- çok belirgin, çok açık
+ozellikler:
+- []
+ornekler:
+- Sevim'in güzelliği elle tutulur, dille anlatılır makbul bir güzellik değildir.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

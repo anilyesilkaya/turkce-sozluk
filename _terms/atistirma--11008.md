@@ -1,0 +1,16 @@
+---
+layout: term
+title: atıştırma
+slug: atistirma
+letter: A
+indeks: 11008
+lisan: Türkçe
+anlamlar:
+- Atıştırmak işi
+ozellikler:
+- - isim
+ornekler:
+- Sabahları sağlıklı bir kahvaltı etmişsem öğleyi zor bekleyip arada bir şeyler atıştırma ihtiyacı duyuyordum.
+orneklerkaynak:
+- Nil Gün
+---

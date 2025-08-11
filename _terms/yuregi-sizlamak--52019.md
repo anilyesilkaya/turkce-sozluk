@@ -1,0 +1,16 @@
+---
+layout: term
+title: yüreği sızlamak
+slug: yuregi-sizlamak
+letter: Y
+indeks: 52019
+lisan: Türkçe
+anlamlar:
+- çok acımak, çok üzülmek
+ozellikler:
+- []
+ornekler:
+- O, inledikçe benim de yüreğim sızlıyor, sıkıntıdan damarlarımı saran yağ eriyor.
+orneklerkaynak:
+- Etem İzzet Benice
+---

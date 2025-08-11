@@ -1,0 +1,16 @@
+---
+layout: term
+title: çizmeci
+slug: cizmeci
+letter: Ç
+indeks: 17884
+lisan: Türkçe
+anlamlar:
+- Çizme yapan veya satan kimse
+ozellikler:
+- - isim
+ornekler:
+- Örneğin 1545 tarihli çizmeciler grubundaki şakirtler arasında Yusuf Macar ve Kasım Hırvat’ın üstadı, çizmeci ustaları arasında yer almayan Muhyiddin yazılıdır.
+orneklerkaynak:
+- Bahattin Yaman
+---

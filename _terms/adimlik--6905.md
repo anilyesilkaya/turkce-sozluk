@@ -1,0 +1,16 @@
+---
+layout: term
+title: adımlık
+slug: adimlik
+letter: A
+indeks: 6905
+lisan: Türkçe
+anlamlar:
+- Adım uzunluğunda olan
+ozellikler:
+- - sıfat
+ornekler:
+- Ayak basacak tek adımlık temiz yer yok.
+orneklerkaynak:
+- Adalet Ağaoğlu
+---

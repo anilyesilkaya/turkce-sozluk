@@ -1,0 +1,17 @@
+---
+layout: term
+title: maatteessüf
+slug: maatteessuf
+letter: M
+indeks: 44828
+lisan: Arapça maʿa't-teʾessuf
+anlamlar:
+- maalesef
+ozellikler:
+- - zarf
+  - eskimiş
+ornekler:
+- Hayır, Belediye Nizamnamesi'nde maatteessüf -evet aynen böyle söyledi- maatteessüf buna dair bir kayda tesadüf edemedik.
+orneklerkaynak:
+- Haldun Taner
+---

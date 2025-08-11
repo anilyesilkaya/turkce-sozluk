@@ -1,0 +1,16 @@
+---
+layout: term
+title: zıtlaşma
+slug: zitlasma
+letter: Z
+indeks: 78344
+lisan: Türkçe
+anlamlar:
+- Zıtlaşmak işi; zıtlanma
+ozellikler:
+- - isim
+ornekler:
+- Çok katlı apartmanlarda oturanlar arasında zıtlaşmalar olağan oldu.
+orneklerkaynak:
+- Aydın Boysan
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: dünyanın dört bucağı
+slug: dunyanin-dort-bucagi
+letter: D
+indeks: 378
+lisan: Türkçe
+anlamlar:
+- dünyanın her yanı, her yönü
+ozellikler:
+- []
+ornekler:
+- Dünyanın dört bucağından gelen gezginler.
+orneklerkaynak: []
+---

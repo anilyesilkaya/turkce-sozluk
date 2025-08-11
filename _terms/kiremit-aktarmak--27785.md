@@ -1,0 +1,16 @@
+---
+layout: term
+title: kiremit aktarmak
+slug: kiremit-aktarmak
+letter: K
+indeks: 27785
+lisan: Türkçe
+anlamlar:
+- çatı aktarmak
+ozellikler:
+- []
+ornekler:
+- Geçen gün kiremitleri aktarmak için dama çıkmıştı.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

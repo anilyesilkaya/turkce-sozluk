@@ -1,0 +1,16 @@
+---
+layout: term
+title: alkışçılık
+slug: alkiscilik
+letter: A
+indeks: 8703
+lisan: Türkçe
+anlamlar:
+- Alkışçı olma durumu
+ozellikler:
+- - isim
+ornekler:
+- İrlandalılar niçin bir kurtuluş hareketi yapmıyorlar da böyle alkışçılık ediyorlar diye titizleniyor.
+orneklerkaynak:
+- Orhan Burian
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: durağanlaşmak
+slug: duraganlasmak
+letter: D
+indeks: 43
+lisan: Türkçe
+anlamlar:
+- Durağan duruma gelmek
+ozellikler:
+- - nesnesiz
+ornekler:
+- Yenilikler, yıllarca üst üste durağanlaşmış toplumların yaşamına ekleniyordu.
+orneklerkaynak:
+- Aydın Boysan
+---

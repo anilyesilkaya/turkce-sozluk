@@ -1,0 +1,14 @@
+---
+layout: term
+title: anestezik
+slug: anestezik
+letter: A
+indeks: 70896
+lisan: Fransızca anesthésique
+anlamlar:
+- Eter, kloroform gibi uyuşturma özelliği olan
+ozellikler:
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

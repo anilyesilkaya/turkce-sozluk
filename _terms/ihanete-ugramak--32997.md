@@ -1,0 +1,16 @@
+---
+layout: term
+title: ihanete uğramak
+slug: ihanete-ugramak
+letter: I
+indeks: 32997
+lisan: Türkçe
+anlamlar:
+- aldatılmak, sadakatsizlik görmek
+ozellikler:
+- []
+ornekler:
+- Nerede sadakat beklersek orada ihanete uğrarız.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

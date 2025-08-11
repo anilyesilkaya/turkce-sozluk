@@ -1,0 +1,24 @@
+---
+layout: term
+title: modülasyon
+slug: modulasyon
+letter: M
+indeks: 31619
+lisan: Fransızca modulation
+anlamlar:
+- Bir sesin yayılmasında ortaya çıkan yeğinlik, vurgu, ton değişimlerinden her biri
+- Bir dalganın genlik, evre ve sıklığının bir yasaya göre zaman içinde farklılaşması
+- Bir müzik eserinde esas tondan başka bir tona geçiş
+ozellikler:
+- - isim
+  - fizik
+  - müzik
+- - isim
+  - fizik
+  - müzik
+- - isim
+  - fizik
+  - müzik
+ornekler: []
+orneklerkaynak: []
+---

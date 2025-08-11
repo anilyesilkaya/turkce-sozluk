@@ -1,0 +1,15 @@
+---
+layout: term
+title: şakır şukur
+slug: sakir-sukur
+letter: Ş
+indeks: 59148
+lisan: Türkçe
+anlamlar:
+- Fazlaca şakırtı çıkararak
+ozellikler:
+- - zarf
+ornekler:
+- Celil ansızın öksürüyordu işte o sırada, gözlerini belerte belerte öksürüyor, belki dikildiği yerde kıpırdanıyor ve kaşlarını bir çift kılıç gibi şakır şukur oynatıyordu.
+orneklerkaynak: []
+---

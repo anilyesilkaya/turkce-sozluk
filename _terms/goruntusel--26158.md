@@ -1,0 +1,16 @@
+---
+layout: term
+title: görüntüsel
+slug: goruntusel
+letter: G
+indeks: 26158
+lisan: Türkçe
+anlamlar:
+- Görüntüye dayanan
+ozellikler:
+- - sıfat
+ornekler:
+- Her yapının hem görüntüsel hem manevi bir bütünlüğü vardır.
+orneklerkaynak:
+- Haldun Taner
+---

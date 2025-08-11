@@ -1,0 +1,16 @@
+---
+layout: term
+title: savlamak
+slug: savlamak
+letter: S
+indeks: 55872
+lisan: Türkçe
+anlamlar:
+- İddia etmek
+ozellikler:
+- - -i
+ornekler:
+- Nasıl eleştirmen yazarın kişisel yaşamını bildiğini iddia ediyorsa romancı da falancanınkini bildiğini savlayacak.
+orneklerkaynak:
+- Selim İleri
+---

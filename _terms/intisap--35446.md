@@ -1,0 +1,21 @@
+---
+layout: term
+title: intisap
+slug: intisap
+letter: I
+indeks: 35446
+lisan: Arapça intisāb
+anlamlar:
+- bağlanma
+- girme
+- kapılanma
+ozellikler:
+- - isim
+  - eskimiş
+- - isim
+  - eskimiş
+- - isim
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

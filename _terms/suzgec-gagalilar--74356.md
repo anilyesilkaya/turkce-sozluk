@@ -1,0 +1,15 @@
+---
+layout: term
+title: süzgeç gagalılar
+slug: suzgec-gagalilar
+letter: S
+indeks: 74356
+lisan: Türkçe
+anlamlar:
+- Ördek, kaz, flaman vb. perde ayaklı kuşları içine alan alt takım
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler: []
+orneklerkaynak: []
+---

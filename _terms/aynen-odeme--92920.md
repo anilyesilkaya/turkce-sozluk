@@ -1,0 +1,15 @@
+---
+layout: term
+title: aynen ödeme
+slug: aynen-odeme
+letter: A
+indeks: 92920
+lisan: Türkçe
+anlamlar:
+- Bir borcu mal veya eşya gibi nakit dışında maddi bir değerle ödeme
+ozellikler:
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

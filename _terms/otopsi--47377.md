@@ -1,0 +1,17 @@
+---
+layout: term
+title: otopsi
+slug: otopsi
+letter: O
+indeks: 47377
+lisan: Fransızca autopsie
+anlamlar:
+- Ölüm sebebini belirlemek amacıyla bir cesedi inceleme işi; ölü açımı
+ozellikler:
+- - isim
+  - tıp
+ornekler:
+- Fahhar’ın otopsi sonuçları da geldi, çocuk denizde boğulmuş.
+orneklerkaynak:
+- Ahmet Ümit
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: minnet duymak
+slug: minnet-duymak
+letter: M
+indeks: 31445
+lisan: Türkçe
+anlamlar:
+- birinin iyiliğine karşı kendini ona borçlu saymak
+ozellikler:
+- []
+ornekler:
+- Bana karşı gösterilen bu güven ve sevgiden dolayı çok minnet duymama rağmen, siyasi hayata atılmak istemiyordum.
+orneklerkaynak:
+- Halide Edip Adıvar
+---

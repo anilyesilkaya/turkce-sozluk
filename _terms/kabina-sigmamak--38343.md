@@ -1,0 +1,16 @@
+---
+layout: term
+title: kabına sığmamak
+slug: kabina-sigmamak
+letter: K
+indeks: 38343
+lisan: Türkçe
+anlamlar:
+- duygularına engel olamayıp taşkın davranışlarda bulunmak
+ozellikler:
+- []
+ornekler:
+- Aynı yazar bu kabına sığamayan oyuncunun el, kol, yüz kıpırtılarını da şöyle dile getirir.
+orneklerkaynak:
+- Salâh Birsel
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: dayılanmak
+slug: dayilanmak
+letter: D
+indeks: 16593
+lisan: Türkçe
+anlamlar:
+- Güç gösterisinde bulunmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Şuna bak ya! Terbiyesiz, hem biletsiz binmiş hem dayılanıyor.
+orneklerkaynak:
+- Çınar Özhan Özcan
+---

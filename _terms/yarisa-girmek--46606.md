@@ -1,0 +1,16 @@
+---
+layout: term
+title: yarışa girmek
+slug: yarisa-girmek
+letter: Y
+indeks: 46606
+lisan: Türkçe
+anlamlar:
+- yarışmak
+ozellikler:
+- []
+ornekler:
+- Mısır'ın değme ağıtçıları bile sanırım vaveylalarında benimle yarışa giremezlerdi.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

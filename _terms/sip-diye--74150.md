@@ -1,0 +1,20 @@
+---
+layout: term
+title: şıp diye
+slug: sip-diye
+letter: Ş
+indeks: 74150
+lisan: Türkçe
+anlamlar:
+- '"şıp" sesi çıkararak'
+- ansızın
+- hemen
+ozellikler:
+- []
+- []
+- []
+ornekler:
+- Öyle bir suratla karşılayacak ki seninki hiç istenmediğini şıp diye anlayıp defolacak.
+orneklerkaynak:
+- Attilâ İlhan
+---

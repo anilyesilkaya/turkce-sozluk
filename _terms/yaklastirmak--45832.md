@@ -1,0 +1,25 @@
+---
+layout: term
+title: yaklaştırmak
+slug: yaklastirmak
+letter: Y
+indeks: 45832
+lisan: Türkçe
+anlamlar:
+- Bir şeyi kendine yakın duruma getirmek
+- İki şeyi birbirine yakın duruma getirmek
+- Aralarında sıkı ilgi veya duygusal bağın oluşmasına sebep olmak
+ozellikler:
+- - -i
+  - mecaz
+- - -i
+  - mecaz
+- - -i
+  - mecaz
+ornekler:
+- Yüzümü ellerinin arasına alır, kendi yüzüne yaklaştırırdı.
+- Orhan ile Nuri'nin arkadaşlıkları bizi çok kişiye yaklaştırıyordu.
+orneklerkaynak:
+- Ayla Kutlu
+- Ayla Kutlu
+---

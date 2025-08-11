@@ -1,0 +1,16 @@
+---
+layout: term
+title: bölüntülü
+slug: boluntulu
+letter: B
+indeks: 83885
+lisan: Türkçe
+anlamlar:
+- Bölüntüsü olan
+ozellikler:
+- - sıfat
+ornekler:
+- Arnavutlar kendi aralarında daima bölüntülü ve mücadeleli kaldılar.
+orneklerkaynak:
+- Şevket Süreyya Aydemir
+---

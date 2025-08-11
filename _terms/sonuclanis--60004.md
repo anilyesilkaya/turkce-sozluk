@@ -1,0 +1,14 @@
+---
+layout: term
+title: sonuçlanış
+slug: sonuclanis
+letter: S
+indeks: 60004
+lisan: Türkçe
+anlamlar:
+- Sonuçlanmak işi; neticeleniş
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

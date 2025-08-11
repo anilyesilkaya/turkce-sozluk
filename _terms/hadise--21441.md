@@ -1,0 +1,16 @@
+---
+layout: term
+title: hadise
+slug: hadise
+letter: H
+indeks: 21441
+lisan: Arapça ḥādis̱e
+anlamlar:
+- olay
+ozellikler:
+- - isim
+ornekler:
+- Bir gece evvelki hadiseyi unutmak mümkün müydü?
+orneklerkaynak:
+- Peyami Safa
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: potlaç
+slug: potlac
+letter: P
+indeks: 58504
+lisan: Fransızca potlatch
+anlamlar:
+- Kızılderililerin birbirlerine armağanlar verdikleri dinî bayram
+ozellikler:
+- - isim
+  - din bilimi
+ornekler:
+- Dede Korkut hikâyelerinde yer alan bu yağma geleneği, ‘yağma şöleni’ ve ‘potlaç törenleri’ ile ilişkilendirilebilir.
+orneklerkaynak:
+- Aysun Dursun
+---

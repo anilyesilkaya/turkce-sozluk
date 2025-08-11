@@ -1,0 +1,15 @@
+---
+layout: term
+title: morkaraman
+slug: morkaraman
+letter: M
+indeks: 76086
+lisan: Türkçe
+anlamlar:
+- Doğu Anadolu Bölgesi ile kuzeydoğu illerimizde yetiştirilen, kızıldan mora kadar değişen renklerde, göz, ağız, burun etrafı daha açık, baş ve ayaklar vücuduna göre daha koyu renkte, kaba karışık yapağılı bir tür koyun
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler: []
+orneklerkaynak: []
+---

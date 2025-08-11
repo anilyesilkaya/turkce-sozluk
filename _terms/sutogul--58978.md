@@ -1,0 +1,16 @@
+---
+layout: term
+title: sütoğul
+slug: sutogul
+letter: S
+indeks: 58978
+lisan: Türkçe
+anlamlar:
+- Bir kadının kendi çocuğu değilken emzirdiği ve kocasıyla birlikte evlat olarak benimsediği erkek çocuk
+ozellikler:
+- - isim
+ornekler:
+- Benden başka eve gelen erkekler hep hısım akraba, hep süt oğul, ahret evladı filandı.
+orneklerkaynak:
+- Ömer Seyfettin
+---

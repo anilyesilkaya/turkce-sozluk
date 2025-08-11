@@ -1,0 +1,16 @@
+---
+layout: term
+title: birliktelik
+slug: birliktelik
+letter: B
+indeks: 14129
+lisan: Türkçe
+anlamlar:
+- Birlikte olma durumu; beraberlik
+ozellikler:
+- - isim
+ornekler:
+- Kim bilir belki onunla, kuşkularımızı ve aptallıklarımızı yenecek bir birlikteliği yeniden kurabiliriz.
+orneklerkaynak:
+- Erhan Bener
+---

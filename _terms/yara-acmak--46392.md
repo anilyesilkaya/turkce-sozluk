@@ -1,0 +1,16 @@
+---
+layout: term
+title: yara açmak
+slug: yara-acmak
+letter: Y
+indeks: 46392
+lisan: Türkçe
+anlamlar:
+- vücutta veya bir şeyin yüzünde yara oluşmasına sebep olmak
+- büyük üzüntü vermek
+ozellikler:
+- - mecaz
+- - mecaz
+ornekler: []
+orneklerkaynak: []
+---

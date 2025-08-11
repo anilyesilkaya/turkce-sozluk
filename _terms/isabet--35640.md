@@ -1,0 +1,34 @@
+---
+layout: term
+title: isabet
+slug: isabet
+letter: I
+indeks: 35640
+lisan: Arapça iṣābet
+anlamlar:
+- Hedefe varma, hedefi vurma
+- Piyango vb. şans oyunlarında, kazanma, çıkma, vurma
+- Öneri, düşünce veya söz yerinde olma
+- Yanılmama
+- Güzel rastlantı
+- '"Çok güzel, iyi oldu" anlamlarında kullanılan bir seslenme sözü'
+ozellikler:
+- - isim
+  - ünlem
+- - isim
+  - ünlem
+- - isim
+  - ünlem
+- - isim
+  - ünlem
+- - isim
+  - ünlem
+- - isim
+  - ünlem
+ornekler:
+- Bir kurşun isabetiyle öldü.
+- Gönderilecek askerin sekiz tabur olmasında büyük isabet vardır.
+- Bize uğramanız isabet, biz de sizi arıyorduk.
+orneklerkaynak:
+- Salâh Birsel
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: iç asalak
+slug: ic-asalak
+letter: I
+indeks: 32620
+lisan: Türkçe
+anlamlar:
+- Konakçının içinde yaşayan asalak
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler:
+- Sığır tenyası bir iç asalaktır.
+orneklerkaynak: []
+---

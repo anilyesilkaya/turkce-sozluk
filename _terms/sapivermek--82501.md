@@ -1,0 +1,16 @@
+---
+layout: term
+title: sapıvermek
+slug: sapivermek
+letter: S
+indeks: 82501
+lisan: Türkçe
+anlamlar:
+- Ansızın veya çabucak sapmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Dört yol ağzında fazla durmayalım, fazla tereddüt etmeyelim, bir tanesine sapıverelim.
+orneklerkaynak:
+- Peyami Safa
+---

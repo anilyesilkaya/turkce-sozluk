@@ -1,0 +1,20 @@
+---
+layout: term
+title: nişancı
+slug: nisanci
+letter: N
+indeks: 49814
+lisan: Türkçe
+anlamlar:
+- Attığı kurşun, taş vb. ile hedefi vurmakta ustalık kazanmış olan
+- Padişah divanı üyesi olan, antlaşma, berat, menşur, name ve fermanların başına tuğra çeken görevli; tevkici, tuğrakeş
+ozellikler:
+- - sıfat
+  - isim
+  - tarih
+- - sıfat
+  - isim
+  - tarih
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: bağdaştırmak
+slug: bagdastirmak
+letter: B
+indeks: 12028
+lisan: Türkçe
+anlamlar:
+- Bağdaşmasını sağlamak; eklemlemek
+ozellikler:
+- - -i
+  - -le
+ornekler:
+- İnsana yakışan susma ile konuşmayı ustaca bağdaştırmaktır.
+orneklerkaynak:
+- Nermi Uygur
+---

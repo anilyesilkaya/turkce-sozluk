@@ -1,0 +1,104 @@
+---
+layout: term
+title: saklamak
+slug: saklamak
+letter: S
+indeks: 53899
+lisan: Türkçe
+anlamlar:
+- Elinde bulundurmak, tutmak
+- Kaybolmaması, görünmemesi için gizli bir yere koymak, kaldırmak; hıfzetmek
+- Görünmesine engel olmak, ortalıkta bulundurmamak
+- Bozulmadan doğal durumları ile durmasını sağlamak; muhafaza etmek
+- Gizli tutmak, duyurmamak
+- Birine vermek için ayırmak
+- Korumak, esirgemek
+ozellikler:
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - -de
+  - -i
+  - -de
+  - -i
+  - -den
+  - -e
+  - -i
+  - nesnesiz
+  - mecaz
+ornekler:
+- Sarayın sükûnu bir kederli muammayı saklar gibi ağırdı.
+- Paralarını kasada saklıyor.
+- Eti buzdolabında saklamak. Peyniri tuzlu suda saklamak.
+- Batı, o büyük kaynaktan sık sık faydalanır ama iktibaslarını titizce saklar.
+- Bu kitabı size sakladım.
+- Allah saklasın.
+orneklerkaynak:
+- İbrahim Alâeddin Gövsa
+- Cemil Meriç
+---

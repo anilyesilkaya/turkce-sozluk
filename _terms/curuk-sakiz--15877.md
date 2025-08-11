@@ -1,0 +1,18 @@
+---
+layout: term
+title: çürük sakız
+slug: curuk-sakiz
+letter: Ç
+indeks: 15877
+lisan: Türkçe
+anlamlar:
+- Tadı bozulmuş, çiğnenmez duruma gelmiş sakız
+- Çok kullanılan söz veya düşünce
+ozellikler:
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+ornekler: []
+orneklerkaynak: []
+---

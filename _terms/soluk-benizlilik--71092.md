@@ -1,0 +1,14 @@
+---
+layout: term
+title: soluk benizlilik
+slug: soluk-benizlilik
+letter: S
+indeks: 71092
+lisan: Türkçe
+anlamlar:
+- Soluk benizli olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

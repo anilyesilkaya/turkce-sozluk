@@ -1,0 +1,17 @@
+---
+layout: term
+title: ölüm dirim
+slug: olum-dirim
+letter: Ö
+indeks: 47899
+lisan: Türkçe
+anlamlar:
+- ölüm kalım
+ozellikler:
+- - sıfat
+  - mecaz
+ornekler:
+- Onlarla bir ölüm dirim çarpışmasına girmekten çekinmeyeceği de belliydi.
+orneklerkaynak:
+- Hüseyin Nihal Atsız
+---

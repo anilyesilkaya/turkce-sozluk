@@ -1,0 +1,14 @@
+---
+layout: term
+title: selamünaleyküm
+slug: selamunaleykum
+letter: S
+indeks: 56294
+lisan: Arapça selāmun + ʿaleykum
+anlamlar:
+- '"Allah''ın selamı sizin üzerinize olsun" anlamında kullanılan bir selamlama sözü'
+ozellikler:
+- - ünlem
+ornekler: []
+orneklerkaynak: []
+---

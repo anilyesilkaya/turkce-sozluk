@@ -1,0 +1,16 @@
+---
+layout: term
+title: perdelenmek
+slug: perdelenmek
+letter: P
+indeks: 57703
+lisan: Türkçe
+anlamlar:
+- Perdeleme işine konu olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Gene o perdelenmiş gözlerinden kudurtucu bir manasızlık fışkırıyor.
+orneklerkaynak:
+- Peyami Safa
+---

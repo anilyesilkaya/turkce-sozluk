@@ -1,0 +1,16 @@
+---
+layout: term
+title: esinlenmek
+slug: esinlenmek
+letter: E
+indeks: 25572
+lisan: Türkçe
+anlamlar:
+- Bir şeyden ilham almak, içine doğmak; mülhem olmak
+ozellikler:
+- - -den
+ornekler:
+- Namık Kemal, yazarın tarihî tiyatro eserlerinden ve ülkesinin sorunlarından sorumlu aydın kimliğinin bizzat kendisinden esinlenir.
+orneklerkaynak:
+- Gül Mete Yuva
+---

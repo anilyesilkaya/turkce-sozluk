@@ -1,0 +1,16 @@
+---
+layout: term
+title: kartpostalcı
+slug: kartpostalci
+letter: K
+indeks: 36812
+lisan: Türkçe
+anlamlar:
+- Kartpostal basan veya satan kimse
+ozellikler:
+- - isim
+ornekler:
+- Gündüzün kartpostalcınız işportasını serdiği kaldırımda duruyordu.
+orneklerkaynak:
+- Haldun Taner
+---

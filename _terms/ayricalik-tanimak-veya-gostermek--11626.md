@@ -1,0 +1,16 @@
+---
+layout: term
+title: ayrıcalık tanımak (veya göstermek)
+slug: ayricalik-tanimak-veya-gostermek
+letter: A
+indeks: 11626
+lisan: Türkçe
+anlamlar:
+- birine özel hak vermek
+- birini kayırmak
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

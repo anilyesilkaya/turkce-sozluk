@@ -1,0 +1,20 @@
+---
+layout: term
+title: fasarya
+slug: fasarya
+letter: F
+indeks: 20559
+lisan: Rumca
+anlamlar:
+- Boş, anlamsız olan (söz)
+- İşe yaramaz, yeteneksiz olan
+ozellikler:
+- - sıfat
+  - argo
+- - sıfat
+  - argo
+ornekler:
+- Öylesine fasarya, semt takımında bile yer alamaz, her zaman yedek dururdu.
+orneklerkaynak:
+- Haldun Taner
+---

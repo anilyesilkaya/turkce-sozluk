@@ -1,0 +1,16 @@
+---
+layout: term
+title: oturmuşluk
+slug: oturmusluk
+letter: O
+indeks: 47409
+lisan: Türkçe
+anlamlar:
+- Benimsenmiş, yerleşmiş olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Kontrbas öğretmeni Rıza'nın daha bir oturmuşluğu vardır rolüne.
+orneklerkaynak:
+- Haldun Taner
+---

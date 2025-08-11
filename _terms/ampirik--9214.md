@@ -1,0 +1,20 @@
+---
+layout: term
+title: ampirik
+slug: ampirik
+letter: A
+indeks: 9214
+lisan: Fransızca empirique
+anlamlar:
+- görgül
+- deneysel
+- deneyimsel
+ozellikler:
+- - sıfat
+- - sıfat
+- - sıfat
+ornekler:
+- Bunu sadece eğitim uzmanları değil, çocuk yetiştiren ana babalar da ampirik olarak bilirler.
+orneklerkaynak:
+- Haldun Taner
+---

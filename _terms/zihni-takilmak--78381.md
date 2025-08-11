@@ -1,0 +1,18 @@
+---
+layout: term
+title: zihni takılmak
+slug: zihni-takilmak
+letter: Z
+indeks: 78381
+lisan: Türkçe
+anlamlar:
+- yanlış bir kanıya takılıp kalmak
+- çözülmesi gerekli bir konu üzerinde durmak
+ozellikler:
+- []
+- []
+ornekler:
+- Yalnız bir köşede zihni takıldı. Evlenecekler, çocukları ne olacak?
+orneklerkaynak:
+- Burhan Cahit Morkaya
+---

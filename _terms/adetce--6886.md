@@ -1,0 +1,16 @@
+---
+layout: term
+title: adetçe
+slug: adetce
+letter: A
+indeks: 6886
+lisan: Türkçe
+anlamlar:
+- sayıca
+ozellikler:
+- - zarf
+ornekler:
+- Adetçe çok fazla olmasına rağmen Timur ordusu, istilalar sırasında muhtelif ülkelerden toplanmış bir kalabalıktı.
+orneklerkaynak:
+- Zuhuri Danışman
+---

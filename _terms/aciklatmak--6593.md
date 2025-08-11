@@ -1,0 +1,17 @@
+---
+layout: term
+title: açıklatmak
+slug: aciklatmak
+letter: A
+indeks: 6593
+lisan: Türkçe
+anlamlar:
+- Açıklamasını sağlamak
+ozellikler:
+- - -e
+  - -i
+ornekler:
+- Hapishanemin duvarları arasında Asım Bey, on on bir yıllık, doymadan kalbimde toplanan istekleri birdenbire kalbimi parçalayacak, bütün varlığımı dağıtacak bir güçle açıklattı.
+orneklerkaynak:
+- Halide Edip Adıvar
+---

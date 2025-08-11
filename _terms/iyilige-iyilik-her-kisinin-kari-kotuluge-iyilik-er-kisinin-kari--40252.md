@@ -1,0 +1,14 @@
+---
+layout: term
+title: iyiliğe iyilik her kişinin kârı, kötülüğe iyilik er kişinin kârı
+slug: iyilige-iyilik-her-kisinin-kari-kotuluge-iyilik-er-kisinin-kari
+letter: I
+indeks: 40252
+lisan: Türkçe
+anlamlar:
+- '"iyiliğe karşı iyiliği herkes yapabilir, önemli olan kötülüğe karşı iyilik yapabilmektir" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

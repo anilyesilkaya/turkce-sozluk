@@ -1,0 +1,16 @@
+---
+layout: term
+title: sembol
+slug: sembol
+letter: S
+indeks: 56343
+lisan: Fransızca symbole
+anlamlar:
+- simge
+ozellikler:
+- - isim
+ornekler:
+- Bir amaç uğruna göze alınacak sıkıntı ve zorlukların sabit sembolleri işimize yaramayabilir.
+orneklerkaynak:
+- İsmet Özel
+---

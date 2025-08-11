@@ -1,0 +1,20 @@
+---
+layout: term
+title: ezik büzük
+slug: ezik-buzuk
+letter: E
+indeks: 20315
+lisan: Türkçe
+anlamlar:
+- Ezilmiş ve büzülmüş olan
+- Ezilmiş ve büzülmüş bir biçimde
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Karşısında ezik büzük duran yorgun adamın yüzüne bakıyor hâkim.
+orneklerkaynak:
+- Ayşe Kulin
+---

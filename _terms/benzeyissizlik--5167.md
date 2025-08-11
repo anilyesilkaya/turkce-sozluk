@@ -1,0 +1,16 @@
+---
+layout: term
+title: benzeyişsizlik
+slug: benzeyissizlik
+letter: B
+indeks: 5167
+lisan: Türkçe
+anlamlar:
+- Benzeşmemek durumu
+ozellikler:
+- - isim
+ornekler:
+- O kadar çok değişiklik, o kadar büyük bir eskiden ayrılık ve benzeyişsizlik var.
+orneklerkaynak:
+- Çetin Altan
+---

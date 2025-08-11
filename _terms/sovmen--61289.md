@@ -1,0 +1,16 @@
+---
+layout: term
+title: şovmen
+slug: sovmen
+letter: Ş
+indeks: 61289
+lisan: İngilizce showman
+anlamlar:
+- gösteri adamı
+ozellikler:
+- - isim
+ornekler:
+- Taşlamalı güldürü alanında ön plana geçen yazarlardan biri şovmen yazar Ferhan Şensoy’dur.
+orneklerkaynak:
+- Özdemir Nutku
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: ekolojist
+slug: ekolojist
+letter: E
+indeks: 2383
+lisan: Fransızca écologiste
+anlamlar:
+- Ekolojizmi savunan kimse
+ozellikler:
+- - isim
+  - felsefe
+ornekler:
+- Altı yıldır ekolojist akımın her faaliyeti ile ilgileniyorum.
+orneklerkaynak:
+- Haldun Taner
+---

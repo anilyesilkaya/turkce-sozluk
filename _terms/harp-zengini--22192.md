@@ -1,0 +1,16 @@
+---
+layout: term
+title: harp zengini
+slug: harp-zengini
+letter: H
+indeks: 22192
+lisan: Türkçe
+anlamlar:
+- Savaş sırasında yolsuz kazançlar sağlayarak kısa sürede zengin olan kimse
+ozellikler:
+- - isim
+ornekler:
+- İlk harp zengini de bendim galiba.
+orneklerkaynak:
+- Yusuf Ziya Ortaç
+---

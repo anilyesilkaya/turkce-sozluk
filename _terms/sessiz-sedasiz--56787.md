@@ -1,0 +1,24 @@
+---
+layout: term
+title: sessiz sedasız
+slug: sessiz-sedasiz
+letter: S
+indeks: 56787
+lisan: Türkçe
+anlamlar:
+- Sakin, kendi hâlinde (kimse)
+- Kimse duymadan, görmeden, sessiz ve gürültüsüz bir biçimde
+ozellikler:
+- - sıfat
+  - mecaz
+  - zarf
+- - sıfat
+  - mecaz
+  - zarf
+ornekler:
+- Bizim damat da sessiz sedasız, koyun gibi adam.
+- Suat daha fazla dayanamayıp sessiz sedasız odasına çekildi.
+orneklerkaynak:
+- Ahmet Ümit
+- Attilâ İlhan
+---

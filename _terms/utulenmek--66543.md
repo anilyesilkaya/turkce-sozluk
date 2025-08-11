@@ -1,0 +1,16 @@
+---
+layout: term
+title: ütülenmek
+slug: utulenmek
+letter: Ü
+indeks: 66543
+lisan: Türkçe
+anlamlar:
+- Ütüleme işine konu olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Benim lacivert pantolon yine ütülenmedi mi?
+orneklerkaynak:
+- Refik Halit Karay
+---

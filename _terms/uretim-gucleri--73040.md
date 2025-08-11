@@ -1,0 +1,15 @@
+---
+layout: term
+title: üretim güçleri
+slug: uretim-gucleri
+letter: Ü
+indeks: 73040
+lisan: Türkçe
+anlamlar:
+- Bir toplumdaki insan ögesi, üretim araçları, üretim deneyleri ve alışkanlıklarının bütünü
+ozellikler:
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

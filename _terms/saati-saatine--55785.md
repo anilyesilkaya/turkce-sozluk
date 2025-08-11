@@ -1,0 +1,16 @@
+---
+layout: term
+title: saati saatine
+slug: saati-saatine
+letter: S
+indeks: 55785
+lisan: Türkçe
+anlamlar:
+- Tam vaktinde
+ozellikler:
+- - zarf
+ornekler:
+- O adam neyi münasip gördüyse kumaş ve biçim, hepsini kabul etmiş, provalara da saati saatine gitmişti.
+orneklerkaynak:
+- Refik Halit Karay
+---

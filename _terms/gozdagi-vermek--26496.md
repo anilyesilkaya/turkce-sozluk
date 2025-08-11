@@ -1,0 +1,16 @@
+---
+layout: term
+title: gözdağı vermek
+slug: gozdagi-vermek
+letter: G
+indeks: 26496
+lisan: Türkçe
+anlamlar:
+- sonradan verilecek bir ceza ile korkutmak, yıldırmak, tehdit etmek, caydırmaya çalışmak
+ozellikler:
+- []
+ornekler:
+- Sarhoş ağabeyi, parası pulu ile gözdağı vermeye kalktı onlara.
+orneklerkaynak:
+- Necati Cumalı
+---

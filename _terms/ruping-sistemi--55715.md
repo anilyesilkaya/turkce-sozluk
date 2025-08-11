@@ -1,0 +1,14 @@
+---
+layout: term
+title: rüping sistemi
+slug: ruping-sistemi
+letter: R
+indeks: 55715
+lisan: Türkçe
+anlamlar:
+- Kapalı kazanlarda önce basıncı artırıp sonra düşürerek uygulanan ağaca koruyucu sıvı emdirme yöntemi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: tütün içmek
+slug: tutun-icmek
+letter: T
+indeks: 71994
+lisan: Türkçe
+anlamlar:
+- tütünü yakıp dumanını içine çekmek
+ozellikler:
+- []
+ornekler:
+- Hemşireler, hasta yakınları, neferler, bazı hafif yaralılar, tütün içerek bekleşiyor.
+orneklerkaynak:
+- Attilâ İlhan
+---

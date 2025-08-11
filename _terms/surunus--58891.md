@@ -1,0 +1,16 @@
+---
+layout: term
+title: sürünüş
+slug: surunus
+letter: S
+indeks: 58891
+lisan: Türkçe
+anlamlar:
+- Sürünmek işi
+ozellikler:
+- - isim
+ornekler:
+- Kolay değil doğrusu, enginlerde kanat çırpmaya alışık bir kuşun böyle han avlularında sürünüşü.
+orneklerkaynak:
+- Haldun Taner
+---

@@ -1,0 +1,63 @@
+---
+layout: term
+title: kapalı
+slug: kapali
+letter: K
+indeks: 38361
+lisan: Türkçe
+anlamlar:
+- Kapanmış olan, açılmamış, açık karşıtı
+- Geçilmez durumda olan
+- Çalışma süresi sona ermiş (iş yeri)
+- Başı örtülü (kadın)
+- Açık ve kesin söz kullanmadan söylenen
+- gizli
+- Açık olmayan (giyecek)
+- Bulutlu, karanlık (hava)
+- İçe dönük yaradılışta olan
+- Dış çevreyle ilişki içerisinde olmayan
+ozellikler:
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+- - sıfat
+  - mecaz
+  - mecaz
+ornekler:
+- Şimdi oğlunu kanlı göğsü, kapalı gözleri, mor dudaklarıyla görür gibi oluyordu.
+- Meclisler, iç tüzük hükümlerine uygun olarak kapalı oturumlar yapabilir.
+- Damalı bir eteklik, açık mavi kapalı bir yün kazak giymişti.
+- Ankara'nın soğuk, kapalı havalı günlerinden biriydi.
+- Ateşoğlu ile yirmi yıldır denizde yoldaşlık ederim. Ben böyle kapalı adama hiç rastlamadım.
+- Ayrıca ben, oldukça kapalı bir çevrede yetişmiştim.
+orneklerkaynak:
+- Nâzım Hikmet
+- Necati Cumalı
+- 'Yakup Kadri Karaosmanoğlu '
+- Halikarnas Balıkçısı
+- Adalet Ağaoğlu
+---

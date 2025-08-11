@@ -1,0 +1,16 @@
+---
+layout: term
+title: emekliye ayrılmak (veya çıkmak)
+slug: emekliye-ayrilmak-veya-cikmak
+letter: E
+indeks: 24952
+lisan: Türkçe
+anlamlar:
+- emekli olmak, tekaüde sevk olunmak
+ozellikler:
+- []
+ornekler:
+- Sakatlığımı öne sürerek emekliye ayrılmamı isteyebilirim.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

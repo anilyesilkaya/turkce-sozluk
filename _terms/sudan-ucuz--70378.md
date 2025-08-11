@@ -1,0 +1,16 @@
+---
+layout: term
+title: sudan ucuz
+slug: sudan-ucuz
+letter: S
+indeks: 70378
+lisan: Türkçe
+anlamlar:
+- Çok ucuz, bedava olan
+ozellikler:
+- - sıfat
+ornekler:
+- O zaman gelsin o kolay, o hafif, o sudan ucuz iş, şiir.
+orneklerkaynak:
+- Melih Cevdet Anday
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: cafcafından geçilmemek
+slug: cafcafindan-gecilmemek
+letter: C
+indeks: 3677
+lisan: Türkçe
+anlamlar:
+- her zaman ve her yerde gösteriş yapmak
+ozellikler:
+- []
+ornekler:
+- Seçildikten sonra havasından, rüzgârından, cafcafından geçilmiyor adamın.
+orneklerkaynak:
+- Cüneyt Arcayürek
+---

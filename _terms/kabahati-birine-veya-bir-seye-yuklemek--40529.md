@@ -1,0 +1,16 @@
+---
+layout: term
+title: kabahati (birine veya bir şeye) yüklemek
+slug: kabahati-birine-veya-bir-seye-yuklemek
+letter: K
+indeks: 40529
+lisan: Türkçe
+anlamlar:
+- işlediği bir suçu başkasının üzerine atmak
+ozellikler:
+- []
+ornekler:
+- Bu işte kabahati sobaya yüklemek lazım geliyor.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+---

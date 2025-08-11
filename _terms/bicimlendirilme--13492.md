@@ -1,0 +1,14 @@
+---
+layout: term
+title: biçimlendirilme
+slug: bicimlendirilme
+letter: B
+indeks: 13492
+lisan: Türkçe
+anlamlar:
+- Biçimlendirilmek işi; şekillendirilme
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,18 @@
+---
+layout: term
+title: vıcırdamak
+slug: vicirdamak
+letter: V
+indeks: 67214
+lisan: Türkçe
+anlamlar:
+- Serçe vb. ötmek
+- Böcek kıvıl kıvıl oynaşmak, hareket etmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+ornekler:
+- İçeride aynanın önünde kavanozda vıcırdayan sülük sürüsünü seyredersiniz.
+orneklerkaynak:
+- Refik Halit Karay
+---

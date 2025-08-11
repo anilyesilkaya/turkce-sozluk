@@ -1,0 +1,16 @@
+---
+layout: term
+title: hüsrana uğramak
+slug: husrana-ugramak
+letter: H
+indeks: 34924
+lisan: Türkçe
+anlamlar:
+- beklenilen sonucun elde edilememesi sebebiyle çok üzülmek, acı çekmek
+ozellikler:
+- []
+ornekler:
+- Bunun aksini umanlar aldanacaktır, hüsrana uğrayacaktır.
+orneklerkaynak:
+- Kerim Korcan
+---

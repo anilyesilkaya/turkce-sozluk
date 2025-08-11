@@ -1,0 +1,16 @@
+---
+layout: term
+title: uydurukçacılık
+slug: uydurukcacilik
+letter: U
+indeks: 97599
+lisan: Türkçe
+anlamlar:
+- Uydurukçacı olma durumu
+- Kurallara uymayan kelime kullanma akımı
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

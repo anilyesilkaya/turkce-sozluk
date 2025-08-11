@@ -1,0 +1,16 @@
+---
+layout: term
+title: latifeci
+slug: latifeci
+letter: L
+indeks: 49149
+lisan: Türkçe
+anlamlar:
+- şakacı
+ozellikler:
+- - sıfat
+ornekler:
+- Acaba küçük hanım, latifeci bir adam diye işittiği için benimle böyle, zarifane bir şaka mı ediyordu?
+orneklerkaynak:
+- Refik Halit Karay
+---

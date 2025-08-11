@@ -1,0 +1,16 @@
+---
+layout: term
+title: rahatlıkla
+slug: rahatlikla
+letter: R
+indeks: 77720
+lisan: Türkçe
+anlamlar:
+- kolaylıkla
+ozellikler:
+- - zarf
+ornekler:
+- Birkaç yabancı dili rahatlıkla konuşurken ana dilini bilmeyen ve bigâne düşmüş dudaklar susmalıdır.
+orneklerkaynak:
+- Sâmiha Ayverdi
+---

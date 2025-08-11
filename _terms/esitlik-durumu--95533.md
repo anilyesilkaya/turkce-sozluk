@@ -1,0 +1,15 @@
+---
+layout: term
+title: eşitlik durumu
+slug: esitlik-durumu
+letter: E
+indeks: 95533
+lisan: Türkçe
+anlamlar:
+- Ad soylu sözlerde eşitlik veya benzerlik bildiren, gibi, kadar edatları veya -ca eki ile kurulan durum; eşitlik hâli
+ozellikler:
+- - isim
+  - dil bilgisi
+ornekler: []
+orneklerkaynak: []
+---

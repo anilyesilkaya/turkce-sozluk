@@ -1,0 +1,16 @@
+---
+layout: term
+title: el bezi
+slug: el-bezi
+letter: E
+indeks: 24624
+lisan: Türkçe
+anlamlar:
+- Kurulama ve temizleme işlerinde kullanılan bez
+ozellikler:
+- - isim
+ornekler:
+- Ruhsar Hanım, biri sabunlu, öbürü sadece ıslak iki el beziyle dönmüştü.
+orneklerkaynak:
+- Attilâ İlhan
+---

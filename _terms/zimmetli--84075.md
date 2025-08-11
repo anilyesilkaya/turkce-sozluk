@@ -1,0 +1,16 @@
+---
+layout: term
+title: zimmetli
+slug: zimmetli
+letter: Z
+indeks: 84075
+lisan: Türkçe
+anlamlar:
+- Zimmet edilmiş
+ozellikler:
+- - sıfat
+ornekler:
+- Üstelik kitapları yalnızca zimmetli mallar olarak görür, sadece resimli olanlarına değer verirdim.
+orneklerkaynak:
+- Sema Kaygusuz
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: garanti altına almak
+slug: garanti-altina-almak
+letter: G
+indeks: 28917
+lisan: Türkçe
+anlamlar:
+- güvence altına almak
+ozellikler:
+- []
+ornekler:
+- Ondan sonra da zavallı kuzunun artakalan birkaç kemiğini garanti altına aldılar.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

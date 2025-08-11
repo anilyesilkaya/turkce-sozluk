@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Modern Türkçe Sözlük
+title: Sözlük Pro
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Modern, bağlantılı, açık kaynak Türkçe sözlük.
+  Modern, açık kaynaklı ve geliştirici dostu Türkçe sözlük projesi.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sozluk.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -30,7 +30,7 @@ markdown: kramdown
 collections:
   terms:
     output: true
-    permalink: /terim/:name
+    permalink: /terim/:name.html   # :name = filename without .md (e.g., slug--indeks)
 
 # Build settings
 theme: null

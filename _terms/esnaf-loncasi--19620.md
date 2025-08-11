@@ -1,0 +1,17 @@
+---
+layout: term
+title: esnaf loncası
+slug: esnaf-loncasi
+letter: E
+indeks: 19620
+lisan: Türkçe
+anlamlar:
+- Herhangi bir meslek dalında esnafların kurduğu dernek
+ozellikler:
+- - isim
+  - tarih
+ornekler:
+- Seyirlik oyunlarının esnaf loncalarıyla, gedikleriyle de yakın ilintisi vardır.
+orneklerkaynak:
+- Metin And
+---

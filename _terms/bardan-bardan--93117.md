@@ -1,0 +1,16 @@
+---
+layout: term
+title: bardan bardan
+slug: bardan-bardan
+letter: B
+indeks: 93117
+lisan: Türkçe
+anlamlar:
+- Beyaz bir biçimde
+ozellikler:
+- - zarf
+ornekler:
+- Kar yağar bardan bardan / Yollar kapandı kardan / Ne gelen var ne giden / Haber gelmedi yârden
+orneklerkaynak:
+- Halk türküsü
+---

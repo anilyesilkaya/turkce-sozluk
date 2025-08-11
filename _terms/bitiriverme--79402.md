@@ -1,0 +1,16 @@
+---
+layout: term
+title: bitiriverme
+slug: bitiriverme
+letter: B
+indeks: 79402
+lisan: Türkçe
+anlamlar:
+- Bitirivermek işi
+ozellikler:
+- - isim
+ornekler:
+- Bir mektupla, bir sözle aramızda her şeyin bitivermesi nasıl kabil olur?
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

@@ -1,0 +1,20 @@
+---
+layout: term
+title: çizgilik
+slug: cizgilik
+letter: Ç
+indeks: 17855
+lisan: Türkçe
+anlamlar:
+- cetvel
+- … çizgi miktarı olan
+ozellikler:
+- - isim
+  - sıfat
+- - isim
+  - sıfat
+ornekler:
+- İşte bu üç çizgilik tarihçe köşesinden bütün insanlığın en muazzam bir muhasebe devresine girdiği şu anda seyredilecek Türk cemiyeti…
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

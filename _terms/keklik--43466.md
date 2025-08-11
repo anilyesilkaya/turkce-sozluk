@@ -1,0 +1,22 @@
+---
+layout: term
+title: keklik
+slug: keklik
+letter: K
+indeks: 43466
+lisan: Türkçe
+anlamlar:
+- Sülüngillerden, güvercin büyüklüğünde, eti için avlanan, tüyü boz, ayakları ve gagası kırmızı renkte bir kuş (Perdrix)
+- Alımlı, güzel kadın
+ozellikler:
+- - isim
+  - hayvan bilimi
+  - mecaz
+- - isim
+  - hayvan bilimi
+  - mecaz
+ornekler:
+- Keklik gibi taştan taşa sekerek / Gerdan açıp gelişini sevdiğim
+orneklerkaynak:
+- Âşık Ruhsati
+---

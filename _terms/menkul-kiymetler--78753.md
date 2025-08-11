@@ -1,0 +1,15 @@
+---
+layout: term
+title: menkul kıymetler
+slug: menkul-kiymetler
+letter: M
+indeks: 78753
+lisan: Türkçe
+anlamlar:
+- Senet, bono, tahvil, hisse senedi vb. taşınır değerler; kâğıt
+ozellikler:
+- - isim
+  - ekonomi
+ornekler: []
+orneklerkaynak: []
+---

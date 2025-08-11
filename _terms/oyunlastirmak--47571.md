@@ -1,0 +1,16 @@
+---
+layout: term
+title: oyunlaştırmak
+slug: oyunlastirmak
+letter: O
+indeks: 47571
+lisan: Türkçe
+anlamlar:
+- Tiyatro türünden olmayan herhangi bir eseri teknik yönden oynanabilir duruma getirmek
+ozellikler:
+- - -i
+ornekler:
+- 1957’de ilk basımı yapılan ve 1980 yılına değin on iki kez basılan Hababam Sınıfı romanını Rıfat Ilgaz sonradan oyunlaştırdı.
+orneklerkaynak:
+- Asım Bezirci
+---

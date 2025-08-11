@@ -1,0 +1,20 @@
+---
+layout: term
+title: hecelemek
+slug: hecelemek
+letter: H
+indeks: 22889
+lisan: Türkçe
+anlamlar:
+- Bir kelimenin hecelerini teker teker söylemek
+- Bir kelimeyi ilk bakışta okuyamayıp heceleri teker teker okumak
+ozellikler:
+- - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+ornekler:
+- Kendisine eski bir alfabe kitabı bulmuş, ara sıra heceliyor.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

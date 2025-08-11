@@ -1,0 +1,17 @@
+---
+layout: term
+title: yel yepelek
+slug: yel-yepelek
+letter: Y
+indeks: 76057
+lisan: Türkçe
+anlamlar:
+- yel yeperek
+ozellikler:
+- - zarf
+  - mecaz
+ornekler:
+- Birdenbire genel sekreterin yel yepelek odadan içeriye girdiğini gördüm.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

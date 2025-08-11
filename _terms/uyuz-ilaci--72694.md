@@ -1,0 +1,16 @@
+---
+layout: term
+title: uyuz ilacı
+slug: uyuz-ilaci
+letter: U
+indeks: 72694
+lisan: Türkçe
+anlamlar:
+- Uyuz hastalığına karşı koruyucu olarak kullanılan bir ilaç türü
+ozellikler:
+- - isim
+ornekler:
+- Günlerce kaşındıktan sonra, silah zoruyla göçerlerden uyuz ilacı istediler.
+orneklerkaynak:
+- Osman Şahin
+---

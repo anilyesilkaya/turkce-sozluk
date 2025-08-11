@@ -1,0 +1,15 @@
+---
+layout: term
+title: kararlamadan
+slug: kararlamadan
+letter: K
+indeks: 36345
+lisan: Türkçe
+anlamlar:
+- Kararlama yoluyla, görmeden
+ozellikler:
+- - zarf
+ornekler:
+- Karanlıkta kapıyı kararlamadan buldu.
+orneklerkaynak: []
+---

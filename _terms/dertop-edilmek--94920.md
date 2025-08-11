@@ -1,0 +1,16 @@
+---
+layout: term
+title: dertop edilmek
+slug: dertop-edilmek
+letter: D
+indeks: 94920
+lisan: Türkçe
+anlamlar:
+- toplanıp bir araya getirilmek, büzülmek
+ozellikler:
+- []
+ornekler:
+- İskemlenin üzerine dertop edilerek atılmış duran pantolonunu ayağına geçirdi.
+orneklerkaynak:
+- Ercüment Ekrem Talu
+---

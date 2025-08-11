@@ -1,0 +1,16 @@
+---
+layout: term
+title: uygulatmak
+slug: uygulatmak
+letter: U
+indeks: 70266
+lisan: Türkçe
+anlamlar:
+- Uygulama işini yaptırmak
+ozellikler:
+- - -i
+ornekler:
+- Ayrıca, geleneksel Türk tiyatrosu programı çerçevesinde, Gözlemeci adlı ortaoyununu uygulattı.
+orneklerkaynak:
+- Muhsin Ertuğrul
+---

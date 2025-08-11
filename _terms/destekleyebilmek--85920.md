@@ -1,0 +1,14 @@
+---
+layout: term
+title: destekleyebilmek
+slug: destekleyebilmek
+letter: D
+indeks: 85920
+lisan: Türkçe
+anlamlar:
+- Destekleme ihtimali veya imkânı bulunmak
+ozellikler:
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,20 @@
+---
+layout: term
+title: ayarsızlık
+slug: ayarsizlik
+letter: A
+indeks: 11398
+lisan: Türkçe
+anlamlar:
+- Ayarsız olma durumu
+- Tutarsız ve dengesiz olma durumu
+ozellikler:
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+ornekler:
+- Ya halkın arzusunda bir ayarsızlık ya politikacıların politikasında bir potluk vardı.
+orneklerkaynak:
+- Üstün Dökmen
+---

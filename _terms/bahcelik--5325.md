@@ -1,0 +1,20 @@
+---
+layout: term
+title: bahçelik
+slug: bahcelik
+letter: B
+indeks: 5325
+lisan: Türkçe
+anlamlar:
+- Bağları, bahçeleri olan yer
+- Bahçe özelliği taşıyan
+ozellikler:
+- - isim
+  - sıfat
+- - isim
+  - sıfat
+ornekler:
+- Bu sokakları arşınlarken eserleri hâlâ canlı tutan bu anılara ve bir zamanlar bütün bu yamaçların bağlık bahçelik olduğuna bir türlü inanası gelmiyor insanın.
+orneklerkaynak:
+- Haldun Hürel
+---

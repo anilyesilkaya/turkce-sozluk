@@ -1,0 +1,17 @@
+---
+layout: term
+title: tedrisat
+slug: tedrisat
+letter: T
+indeks: 68437
+lisan: Arapça tedrīsāt
+anlamlar:
+- öğretim
+ozellikler:
+- - isim
+  - eskimiş
+ornekler:
+- Ankara'da gündüz tedrisat yapan bu fakülteye devam edebilmek için bir iş aradım.
+orneklerkaynak:
+- Nâzım Hikmet
+---

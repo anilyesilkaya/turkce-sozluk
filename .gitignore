@@ -1,3 +1,4 @@
 utils/database_sozluk/
 utils/_site/database_sozluk/
 _site/utils/database_sozluk/v12/
+utils/morph_analyzer.py

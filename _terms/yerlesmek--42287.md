@@ -1,0 +1,95 @@
+---
+layout: term
+title: yerleşmek
+slug: yerlesmek
+letter: Y
+indeks: 42287
+lisan: Türkçe
+anlamlar:
+- Yerine iyice oturmak, yerinde sabit olmak
+- Yer bulup oturmak
+- Çalışmak üzere bir iş yerine başlamak
+- Bir yerde oturmaya, yaşamaya başlamak
+- Eşyayı yerli yerine koymak
+- Rahat bir biçimde oturmak
+- Yaygın duruma gelmek, tutunmak
+- Alışılmak, kullanılır olmak
+- Sınav sonucuna göre herhangi bir eğitim kurumunda okumaya hak kazanmak, okumaya başlamak
+ozellikler:
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - -e
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+ornekler:
+- Bu taş buraya adamakıllı yerleşmiş.
+- Arabaya, birbirine sıkışarak yerleştiler.
+- Oğlu bankaya yerleşmiş.
+- Rıza böylece ahırın üst katındaki dairesine yerleşti.
+- Taşındık, ama daha yerleşemedik.
+- Koltuğa iyice yerleşti.
+- Demokrasinin ne suretle yerleşip kalabileceği hakkında garip fikirleri vardır.
+- Birtakım yeni kelimeler zamanla yerleşiyor.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+- Haldun Taner
+- Halide Edip Adıvar
+---

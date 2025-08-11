@@ -1,0 +1,14 @@
+---
+layout: term
+title: iki bir
+slug: iki-bir
+letter: I
+indeks: 33204
+lisan: Türkçe
+anlamlar:
+- Zarla oynanan oyunlarda zarlardan birinin bir, öbürünün iki benekli olan yüzünün üste gelmesi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

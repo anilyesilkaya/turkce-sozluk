@@ -1,0 +1,15 @@
+---
+layout: term
+title: kardeşkanı ağacı
+slug: kardeskani-agaci
+letter: K
+indeks: 36453
+lisan: Türkçe
+anlamlar:
+- Baklagillerden, en çok Asya'nın sıcak bölgelerinde yetişen bir ağaç (Draceane draco)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

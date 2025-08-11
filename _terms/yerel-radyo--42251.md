@@ -1,0 +1,14 @@
+---
+layout: term
+title: yerel radyo
+slug: yerel-radyo
+letter: Y
+indeks: 42251
+lisan: Türkçe
+anlamlar:
+- Belli bir bölgeye yayın yapan, düşük frekanslı radyo istasyonu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

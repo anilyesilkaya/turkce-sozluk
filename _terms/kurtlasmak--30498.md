@@ -1,0 +1,16 @@
+---
+layout: term
+title: kurtlaşmak
+slug: kurtlasmak
+letter: K
+indeks: 30498
+lisan: Türkçe
+anlamlar:
+- Kurt durumuna gelmek, kurt gibi olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Birkaç vurgun yaptın mı alışır, kurtlaşırsın.
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: bekârlık maskaralık
+slug: bekarlik-maskaralik
+letter: B
+indeks: 4802
+lisan: Türkçe
+anlamlar:
+- '"bekâr kimse bakımsızdır, derbeder bir yaşayışı vardır ve herkesin eğlencesi olur" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

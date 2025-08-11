@@ -1,0 +1,21 @@
+---
+layout: term
+title: bindirme
+slug: bindirme
+letter: B
+indeks: 13782
+lisan: Türkçe
+anlamlar:
+- Bindirmek işi
+- Birbiri üzerine gelerek eklenen levha, kiremit, ahşap parçalarının durumu
+- Çıkarma harekâtına katılacak birliklerin, çıkarma yerine gitmek için kendilerine ayrılan deniz araçlarına binmeleri
+ozellikler:
+- - isim
+  - askerlik
+- - isim
+  - askerlik
+- - isim
+  - askerlik
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: müşahhas
+slug: musahhas
+letter: M
+indeks: 52776
+lisan: Arapça muşaḫḫaṣ
+anlamlar:
+- somut
+ozellikler:
+- - sıfat
+  - eskimiş
+ornekler:
+- Bazen hayalim daha müşahhas olur, tanıdığım İstanbul sebillerini, mahallemizin küçük ve fakir süslü çeşmesini görür gibi olurdum.
+orneklerkaynak:
+- Ahmet Hamdi Tanpınar
+---

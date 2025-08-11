@@ -1,0 +1,16 @@
+---
+layout: term
+title: yılmazlık
+slug: yilmazlik
+letter: Y
+indeks: 42628
+lisan: Türkçe
+anlamlar:
+- Yılmaz olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Yükseköğrenim yapmışlardaki çekingenliğe, hatta sinmişliğe karşı, Karcı Yusuf ve arkadaşlarındaki ataklık, savaşçılık, yılmazlık ve korkusuzluk halkı sarıyor, hatta büyülüyordu.
+orneklerkaynak:
+- Tarık Buğra
+---

@@ -1,0 +1,18 @@
+---
+layout: term
+title: gece gündüz dememek
+slug: gece-gunduz-dememek
+letter: G
+indeks: 29190
+lisan: Türkçe
+anlamlar:
+- vaktin uygun olup olmadığına bakmamak, vakit seçmemek
+- bir işi sürekli olarak, ara vermeksizin yapmak
+ozellikler:
+- []
+- []
+ornekler:
+- Gece gündüz demez ha bire okurlardı. Sonra başlarlardı yazmaya.
+orneklerkaynak:
+- Ahmet Ümit
+---

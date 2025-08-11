@@ -1,0 +1,18 @@
+---
+layout: term
+title: pas tutmak
+slug: pas-tutmak
+letter: P
+indeks: 51533
+lisan: Türkçe
+anlamlar:
+- paslı duruma gelmek, paslanmak
+- çalışamaz duruma gelmek
+ozellikler:
+- []
+- []
+ornekler:
+- Hokkaların içinde mürekkep kurumuş, kalemler pas tutmuştu.
+orneklerkaynak:
+- Ercüment Ekrem Talu
+---

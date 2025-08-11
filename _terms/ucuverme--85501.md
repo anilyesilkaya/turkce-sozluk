@@ -1,0 +1,14 @@
+---
+layout: term
+title: uçuverme
+slug: ucuverme
+letter: U
+indeks: 85501
+lisan: Türkçe
+anlamlar:
+- Uçuvermek işi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

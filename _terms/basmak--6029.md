@@ -1,0 +1,282 @@
+---
+layout: term
+title: basmak
+slug: basmak
+letter: B
+indeks: 6029
+lisan: Türkçe
+anlamlar:
+- Vücudun ağırlığını verecek bir biçimde ayak tabanını bir yere veya bir şeyin üzerine koymak
+- Küçük çocuk ayakta durabilmek
+- Bir şeyi üzerine kuvvet vererek itmek
+- Sıkıştırarak yerleştirmek
+- Bası işi yapmak; tabetmek
+- kaplamak
+- Bir şey üzerinde kalıp, mühür vb.yle iz yapmak
+- Bir yere baskın yapmak
+- Bir kimse bir yaşa girmek
+- Duman, sis vb. bir yere çökmek
+- Basınç yaparak sıvı ve gazları itmek
+- Kümes hayvanı kuluçkaya yatmak
+- Uygunsuz vaziyette yakalamak
+- Bir şeyin etkisinde kalıp eziklik, üzüntü ve ağırlık duymak
+ozellikler:
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+- - -e
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - mecaz
+ornekler:
+- Bastığın yerlerde güller açtı, sarıldı ayaklarına.
+- Motor çalıştıktan sonra debriyaja basarsınız.
+- Peyniri küpe basmak.
+- Yollarını ot basmış, çamları yükselip saçaklarına el atmış olan bu büyük köşk.
+- Şuraya başparmağını bas, dediler, ben de bastım.
+- Ölen kızın intikamını almak için köyü basıp yakmış.
+- On dokuz yaşına yeni basmış, ürkek ve utangaç bir kızdım.
+- Şehri akşamüstü sis basmıştı.
+- Pompa bozulmuş, suyu basmıyor. Otomobilin lastiğine hava basmak.
+- Yüreğinin acısını duyuyordu. Sıkıntı basmış, terlemeye başlamıştı. İzin istedi.
+orneklerkaynak:
+- Cahit Külebi
+- Halide Edip Adıvar
+- Memduh Şevket Esendal
+- Sait Faik Abasıyanık
+- Etem İzzet Benice
+- Azra Erhat
+- Sait Faik Abasıyanık
+- Yusuf Ziya Bahadınlı
+---

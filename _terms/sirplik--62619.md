@@ -1,0 +1,14 @@
+---
+layout: term
+title: Sırplık
+slug: sirplik
+letter: S
+indeks: 62619
+lisan: Türkçe
+anlamlar:
+- Sırp olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

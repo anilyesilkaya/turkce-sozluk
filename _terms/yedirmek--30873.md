@@ -1,0 +1,51 @@
+---
+layout: term
+title: yedirmek
+slug: yedirmek
+letter: Y
+indeks: 30873
+lisan: Türkçe
+anlamlar:
+- Yemesini sağlamak
+- Ağzına yiyecek vermek, karnını doyurmak; beslemek
+- Bir şeyi azar azar başka bir şeyin içine karıştırarak belli olmayacak duruma getirmek
+- Bir fazlalığı göze çarpmayacak, dikkat çekmeyecek şekilde kullanmak
+- Nefis, namus, şan, kibir vb. kavramlarla kullanıldığında yakıştırmak, yaraştırmak
+- Bir kimseye rüşvet vermek
+ozellikler:
+- - -e
+  - -i
+  - -e
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - -e
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - -e
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - -e
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - -e
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - -e
+  - -e
+  - mecaz
+ornekler:
+- Çocuğu yedirmek.
+- Yağı hamura yedirmek.
+- Kumaşın fazlasını büzgüye yedirdi.
+orneklerkaynak: []
+---

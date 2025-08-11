@@ -1,0 +1,18 @@
+---
+layout: term
+title: kırkikindi
+slug: kirkikindi
+letter: K
+indeks: 38472
+lisan: Türkçe
+anlamlar:
+- Genellikle Orta Anadolu'da ikindi zamanı yağan sürekli yağmurlar
+- Bu yağmurun yağdığı dönem
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Onları ancak kırkikindi vakti yağan yağmur kamçılar, yatıştırırdı.
+orneklerkaynak:
+- Ruşen Eşref Ünaydın
+---

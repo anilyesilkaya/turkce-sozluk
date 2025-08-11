@@ -1,0 +1,18 @@
+---
+layout: term
+title: salıvermek
+slug: salivermek
+letter: S
+indeks: 54012
+lisan: Türkçe
+anlamlar:
+- Bırakmak, koyuvermek, serbest bırakmak
+- Altına etmek
+ozellikler:
+- - -i
+- - -i
+ornekler:
+- Siz onları ben gelene kadar salıvermeyin lütfen, dedi.
+orneklerkaynak:
+- Ayşe Kulin
+---

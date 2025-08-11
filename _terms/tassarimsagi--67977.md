@@ -1,0 +1,15 @@
+---
+layout: term
+title: taşsarımsağı
+slug: tassarimsagi
+letter: T
+indeks: 67977
+lisan: Türkçe
+anlamlar:
+- Genç yaprakları soğan yerine kullanılan bir tür bitki (Allium scorodoprasum)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

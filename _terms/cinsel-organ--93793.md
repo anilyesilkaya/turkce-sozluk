@@ -1,0 +1,16 @@
+---
+layout: term
+title: cinsel organ
+slug: cinsel-organ
+letter: C
+indeks: 93793
+lisan: Türkçe
+anlamlar:
+- Vücudun cinsellikle ilgili görev yapan bölümü
+ozellikler:
+- - isim
+ornekler:
+- Sırf cinsel organının yok edilmesi ile insanın vücudundaki erkeklik hormonları yok edilemiyordu.
+orneklerkaynak:
+- İsmail Metin An
+---

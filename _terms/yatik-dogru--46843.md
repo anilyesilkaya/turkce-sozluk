@@ -1,0 +1,14 @@
+---
+layout: term
+title: yatık doğru
+slug: yatik-dogru
+letter: Y
+indeks: 46843
+lisan: Türkçe
+anlamlar:
+- Yatık biçimde çizilen doğru
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

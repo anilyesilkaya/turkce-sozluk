@@ -1,0 +1,20 @@
+---
+layout: term
+title: müzelik
+slug: muzelik
+letter: M
+indeks: 52958
+lisan: Türkçe
+anlamlar:
+- Müzeye konulacak değerde veya eskilikte olan
+- Eskimiş, köhnemiş olan
+ozellikler:
+- - sıfat
+  - alay yollu
+- - sıfat
+  - alay yollu
+ornekler:
+- Şimdi bunlar sırf müzelik birer obje olarak duruyorlar.
+orneklerkaynak:
+- Haldun Taner
+---

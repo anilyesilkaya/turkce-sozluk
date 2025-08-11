@@ -1,0 +1,14 @@
+---
+layout: term
+title: biyesiz
+slug: biyesiz
+letter: B
+indeks: 14257
+lisan: Türkçe
+anlamlar:
+- Biyesi olmayan, biye geçirilmemiş olan
+ozellikler:
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

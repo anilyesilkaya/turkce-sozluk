@@ -1,0 +1,14 @@
+---
+layout: term
+title: zemzem kuyusuna işemek
+slug: zemzem-kuyusuna-isemek
+letter: Z
+indeks: 78108
+lisan: Türkçe
+anlamlar:
+- ünlü olsun, adı anılsın diye herkesi iğrendirip kızdıran kötü bir iş yapmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: başına vur, ağzından lokmasını al
+slug: basina-vur-agzindan-lokmasini-al
+letter: B
+indeks: 9841
+lisan: Türkçe
+anlamlar:
+- uysal ve sessiz kimseler için kullanılan bir söz
+ozellikler:
+- []
+ornekler:
+- Temizdim, sakindim, başıma vur, ağzımdan lokmamı al.
+orneklerkaynak:
+- Aka Gündüz
+---

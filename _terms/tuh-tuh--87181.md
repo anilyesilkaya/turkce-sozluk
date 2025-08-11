@@ -1,0 +1,16 @@
+---
+layout: term
+title: tüh tüh
+slug: tuh-tuh
+letter: T
+indeks: 87181
+lisan: Türkçe
+anlamlar:
+- '"Yazık oldu" anlamında pişmanlık bildiren bir söz'
+ozellikler:
+- - zarf
+ornekler:
+- 'Hayrettin Ağa dövünmeye başladı: Tüh, tüh, tüh... Ne var ne oldu be Hayrettin Ağa?'
+orneklerkaynak:
+- Necati Cumalı
+---

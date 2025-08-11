@@ -1,0 +1,14 @@
+---
+layout: term
+title: aile hekimliği
+slug: aile-hekimligi
+letter: A
+indeks: 74698
+lisan: Türkçe
+anlamlar:
+- Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis ve tedavi edici sağlık hizmetleri sunan hekimlik dalı
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

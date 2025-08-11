@@ -1,0 +1,16 @@
+---
+layout: term
+title: nazlanma
+slug: nazlanma
+letter: N
+indeks: 49309
+lisan: Türkçe
+anlamlar:
+- Nazlanmak işi; mırın kırın
+ozellikler:
+- - isim
+ornekler:
+- En çok babama nazlanmayı özlüyordum.
+orneklerkaynak:
+- Ayla Kutlu
+---

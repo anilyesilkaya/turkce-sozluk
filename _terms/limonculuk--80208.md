@@ -1,0 +1,16 @@
+---
+layout: term
+title: limonculuk
+slug: limonculuk
+letter: L
+indeks: 80208
+lisan: Türkçe
+anlamlar:
+- Limoncunun yaptığı iş
+ozellikler:
+- - isim
+ornekler:
+- Semt pazarlarında limonculuk yapmak yerine, bir arkadaşımın önerisiyle ansiklopedi pazarlamaya başladım.
+orneklerkaynak:
+- Gülsüm Cengiz
+---

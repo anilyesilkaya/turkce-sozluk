@@ -1,0 +1,16 @@
+---
+layout: term
+title: liyakatli
+slug: liyakatli
+letter: L
+indeks: 44623
+lisan: Türkçe
+anlamlar:
+- Liyakati olan; değimli
+ozellikler:
+- - sıfat
+ornekler:
+- Ciddi bir gazetede liyakatli, genç bir muharririn şu sözleri beni hâlâ düşündürüyor.
+orneklerkaynak:
+- Orhan Seyfi Orhon
+---

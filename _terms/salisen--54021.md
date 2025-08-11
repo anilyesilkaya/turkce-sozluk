@@ -1,0 +1,15 @@
+---
+layout: term
+title: salisen
+slug: salisen
+letter: S
+indeks: 54021
+lisan: Arapça s̱ālis̱en
+anlamlar:
+- Üçüncü olarak
+ozellikler:
+- - zarf
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

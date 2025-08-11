@@ -1,0 +1,26 @@
+---
+layout: term
+title: ağrısız
+slug: agrisiz
+letter: A
+indeks: 970
+lisan: Türkçe
+anlamlar:
+- Ağrısı olmayan
+- Dertsiz, tasasız olan
+- Ağrı olmaksızın
+ozellikler:
+- - sıfat
+  - mecaz
+  - zarf
+- - sıfat
+  - mecaz
+  - zarf
+- - sıfat
+  - mecaz
+  - zarf
+ornekler:
+- Kim bilir, belki bir mucize olur ve ağrıyan dişleri ya kendi kendine ağızlarının içine düşüverir, ya ağrısız, sızısız kendiliğinden doluverir.
+orneklerkaynak:
+- Nâzım Hikmet
+---

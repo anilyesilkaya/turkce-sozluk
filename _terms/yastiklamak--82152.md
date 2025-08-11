@@ -1,0 +1,18 @@
+---
+layout: term
+title: yastıklamak
+slug: yastiklamak
+letter: Y
+indeks: 82152
+lisan: Türkçe
+anlamlar:
+- Otururken dayanmak için arkasına yastık koymak
+- Sürülen tarlanın iki başına ters yönde birkaç çizgi çekmek
+- Kömürü ocakta yastık durumuna getirmek, yığmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+- - nesnesiz
+ornekler: []
+orneklerkaynak: []
+---

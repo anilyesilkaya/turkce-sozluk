@@ -1,0 +1,20 @@
+---
+layout: term
+title: literatür
+slug: literatur
+letter: L
+indeks: 44606
+lisan: Fransızca littérature
+anlamlar:
+- edebiyat
+- kaynak (I)
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Bu olgu, tiyatro literatürümüze bir fıkra olarak geçmiştir.
+- Alman subaylarıyla ilerlettiği Almancası ile askerî literatürü günü gününe takip eder.
+orneklerkaynak:
+- Adalet Ağaoğlu
+- Haldun Taner
+---

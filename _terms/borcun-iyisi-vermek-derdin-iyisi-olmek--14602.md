@@ -1,0 +1,14 @@
+---
+layout: term
+title: borcun iyisi vermek, derdin iyisi ölmek
+slug: borcun-iyisi-vermek-derdin-iyisi-olmek
+letter: B
+indeks: 14602
+lisan: Türkçe
+anlamlar:
+- '"borçlu ve dertli bir biçimde yaşanılmaz; borçtan kurtulmanın yolu onu vermek, onulmaz dertten kurtulmanın çıkar yolu ise ölmektir" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

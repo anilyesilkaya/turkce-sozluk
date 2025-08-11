@@ -1,0 +1,16 @@
+---
+layout: term
+title: otomatikman
+slug: otomatikman
+letter: O
+indeks: 75932
+lisan: Fransızca automatiqement
+anlamlar:
+- Otomatik olarak; otomatik
+ozellikler:
+- - zarf
+ornekler:
+- Ailesinin yaşam tarzı olması sayesinde otomatikman öğrenmişti.
+orneklerkaynak:
+- Sema Ezgü
+---

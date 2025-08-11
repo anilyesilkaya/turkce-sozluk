@@ -1,0 +1,18 @@
+---
+layout: term
+title: esneklik
+slug: esneklik
+letter: E
+indeks: 19627
+lisan: Türkçe
+anlamlar:
+- Esnek olma durumu; elastikiyet, suples
+- Boya veya vernik filminin, pul pul kalkmadan ve çatlamadan boyanan yüzeyin hareketlerine uyum sağlaması
+ozellikler:
+- - isim
+  - kimya
+- - isim
+  - kimya
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: paralıca
+slug: paralica
+letter: P
+indeks: 51359
+lisan: Türkçe
+anlamlar:
+- Epey parası olan
+ozellikler:
+- - sıfat
+ornekler:
+- O, bizim arkadaşı oraya dilber Çingene kızları ile gönlünü eğlendirmeye gelmiş, paralıca bir delikanlı sanıyordu.
+orneklerkaynak:
+- Osman Cemal Kaygılı
+---

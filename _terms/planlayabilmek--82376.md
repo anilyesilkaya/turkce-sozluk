@@ -1,0 +1,16 @@
+---
+layout: term
+title: planlayabilmek
+slug: planlayabilmek
+letter: P
+indeks: 82376
+lisan: Türkçe
+anlamlar:
+- Planlama ihtimali veya imkânı bulunmak
+- Planlama becerisi bulunmak
+ozellikler:
+- - -i
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

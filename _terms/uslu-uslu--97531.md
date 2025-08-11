@@ -1,0 +1,16 @@
+---
+layout: term
+title: uslu uslu
+slug: uslu-uslu
+letter: U
+indeks: 97531
+lisan: Türkçe
+anlamlar:
+- Bir taşkınlık yapmadan, sakin, terbiyeli biçimde; efendi efendi
+ozellikler:
+- - zarf
+ornekler:
+- Allah için, bir süre gerçekten uslu uslu radyo dinledim...
+orneklerkaynak:
+- Atilla Atalay
+---

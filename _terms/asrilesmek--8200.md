@@ -1,0 +1,16 @@
+---
+layout: term
+title: asrileşmek
+slug: asrilesmek
+letter: A
+indeks: 8200
+lisan: Türkçe
+anlamlar:
+- çağdaşlaşmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Bu eski köşk son yıllarda betonlu, çimentolu ilavelerle biraz asrileşti.
+orneklerkaynak:
+- Hikmet Birand
+---

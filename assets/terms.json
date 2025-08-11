@@ -4,7 +4,10 @@ permalink: /assets/terms.json
 ---
 [
 {% for term in site.terms %}
-  {"title": {{ term.title | jsonify }}, "slug": {{ term.slug | jsonify }}, "url": {{ term.url | relative_url | jsonify }}}
-  {% unless forloop.last %},{% endunless %}
+  {
+    "title": {{ term.title | jsonify }},
+    "url":   {{ term.url | relative_url | jsonify }},
+    "search": {{ term.title | downcase | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]

@@ -1,0 +1,16 @@
+---
+layout: term
+title: boş bırakmamak
+slug: bos-birakmamak
+letter: B
+indeks: 12250
+lisan: Türkçe
+anlamlar:
+- para, yiyecek vb. şeylerle yardım ederek, yanında bulunarak ilgi göstermek
+- bir işle meşgul olmasını sağlamak
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

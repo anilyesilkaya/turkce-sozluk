@@ -1,0 +1,18 @@
+---
+layout: term
+title: kenarortay
+slug: kenarortay
+letter: K
+indeks: 43654
+lisan: Türkçe
+anlamlar:
+- Bir üçgende her tepeden karşı kenarın ortasına indirilen doğru parçası
+- Bir dikdörtgenin karşılıklı iki kenar ortasını birleştiren doğru parçası
+ozellikler:
+- - isim
+  - matematik
+- - isim
+  - matematik
+ornekler: []
+orneklerkaynak: []
+---

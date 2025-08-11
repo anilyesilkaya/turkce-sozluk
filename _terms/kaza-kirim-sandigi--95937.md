@@ -1,0 +1,14 @@
+---
+layout: term
+title: 'kaza kırım sandığı '
+slug: kaza-kirim-sandigi
+letter: K
+indeks: 95937
+lisan: Türkçe
+anlamlar:
+- Kaza kırım ekibinin ihtiyaç duyduğu araç gereçlerin bulunduğu sandık
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

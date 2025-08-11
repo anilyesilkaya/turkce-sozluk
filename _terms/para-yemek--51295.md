@@ -1,0 +1,18 @@
+---
+layout: term
+title: para yemek
+slug: para-yemek
+letter: P
+indeks: 51295
+lisan: Türkçe
+anlamlar:
+- gereksiz olarak çok para harcamak
+- çok para harcatmak
+- görevli bulunduğu yerin imkânlarından yararlanarak para çalmak, rüşvet almak
+ozellikler:
+- []
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

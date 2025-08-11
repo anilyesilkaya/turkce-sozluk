@@ -1,0 +1,16 @@
+---
+layout: term
+title: vahamet
+slug: vahamet
+letter: V
+indeks: 66689
+lisan: Arapça vaḫāmet
+anlamlar:
+- Güçlük, korkulacak tehlikeli durum
+ozellikler:
+- - isim
+ornekler:
+- İşin aramızda mutlak bir ayrılıkla halledilmesi lazım gelecek derecede vahameti olmadığını anlıyorum.
+orneklerkaynak:
+- Hüseyin Cahit Yalçın
+---

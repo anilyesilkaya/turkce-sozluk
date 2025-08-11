@@ -1,0 +1,16 @@
+---
+layout: term
+title: uyku (veya uykusunu) çekmek
+slug: uyku-veya-uykusunu-cekmek
+letter: U
+indeks: 72591
+lisan: Türkçe
+anlamlar:
+- iyice uyumak
+ozellikler:
+- []
+ornekler:
+- Erkenden yattığı biraz bunlu, gamlı gecelerde geniş kanepelerin üstünde uykusunu çekiyordu.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

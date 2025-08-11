@@ -1,0 +1,16 @@
+---
+layout: term
+title: eğiliş
+slug: egilis
+letter: E
+indeks: 2128
+lisan: Türkçe
+anlamlar:
+- Eğilmek işi
+ozellikler:
+- - isim
+ornekler:
+- Soylu ve çetin savaşçılık gururuna, bu eğiliş ağır geldi.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

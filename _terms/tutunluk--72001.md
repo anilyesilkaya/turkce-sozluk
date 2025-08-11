@@ -1,0 +1,26 @@
+---
+layout: term
+title: tütünlük
+slug: tutunluk
+letter: T
+indeks: 72001
+lisan: Türkçe
+anlamlar:
+- Tütün ekilen yer, tütün tarlası
+- Hayvanın sırt bölgesinden çıkarılan pastırmalık et
+- Sırtın kuyruğa yakın yerinden yapılmış en gevrek pastırma
+- Kadınların iş yaparken giydiği genellikle eskimiş olan giysi
+ozellikler:
+- - isim
+  - halk ağzında
+- - isim
+  - halk ağzında
+- - isim
+  - halk ağzında
+- - isim
+  - halk ağzında
+ornekler:
+- Değirmen başında vurdular beni / Kirli tütünlüğe sardılar beni
+orneklerkaynak:
+- Halk türküsü
+---

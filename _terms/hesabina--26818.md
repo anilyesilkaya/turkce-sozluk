@@ -1,0 +1,16 @@
+---
+layout: term
+title: hesabına
+slug: hesabina
+letter: H
+indeks: 26818
+lisan: Türkçe
+anlamlar:
+- yönünden, için, ... adına, yararına
+ozellikler:
+- []
+ornekler:
+- Zaten kendi hesabıma üzülüyorum, ortada ciddi bir mesele yok.
+orneklerkaynak:
+- Refik Halit Karay
+---

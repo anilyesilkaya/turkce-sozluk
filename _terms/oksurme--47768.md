@@ -1,0 +1,16 @@
+---
+layout: term
+title: öksürme
+slug: oksurme
+letter: Ö
+indeks: 47768
+lisan: Türkçe
+anlamlar:
+- Öksürmek işi
+ozellikler:
+- - isim
+ornekler:
+- Güldükten sonra hemen öksürmesinin de ilk önce sandığım gibi hastalık değil, bir nevi tik olduğu anlaşılıyordu.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

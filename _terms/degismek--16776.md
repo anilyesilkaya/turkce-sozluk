@@ -1,0 +1,30 @@
+---
+layout: term
+title: değişmek
+slug: degismek
+letter: D
+indeks: 16776
+lisan: Türkçe
+anlamlar:
+- Başka bir biçim veya duruma girmek; tahavvül etmek
+- Yerine başka şey veya kimse gelmek
+- Karşılıklı alıp vermek; mübadele etmek
+- değiştirmek
+ozellikler:
+- - nesnesiz
+  - -i
+- - nesnesiz
+  - -i
+- - nesnesiz
+  - -i
+- - nesnesiz
+  - -i
+ornekler:
+- Beş yılda her şey ne kadar çabuk değişmişti.
+- Eskiler arasında duvardaki saatli maarif takvimleri de değişmiş oluyordu.
+- Onunla saatlerimizi değiştik.
+- Üstümü değiştim.
+orneklerkaynak:
+- Adalet Ağaoğlu
+- Necati Cumalı
+---

@@ -1,0 +1,28 @@
+---
+layout: term
+title: kesmece
+slug: kesmece
+letter: K
+indeks: 31867
+lisan: Türkçe
+anlamlar:
+- Kesilip müşteriye gösterilerek satılan (kavun, karpuz)
+- (ke'smece) Kesip bakarak beğenmek şartıyla
+- (ke'smece) Aradaki değer ayrımını gözetmeksizin hepsi bir fiyattan
+ozellikler:
+- - sıfat
+  - zarf
+  - zarf
+- - sıfat
+  - zarf
+  - zarf
+- - sıfat
+  - zarf
+  - zarf
+ornekler:
+- Kesmece kavun, kesmece beyim, daha bir diyeceğin var mı / Kes kes al karpuzlarımı
+- Karpuzu kesmece aldım.
+- Bu kitapları kesmece yüzer liradan aldım.
+orneklerkaynak:
+- Behçet Necatigil
+---

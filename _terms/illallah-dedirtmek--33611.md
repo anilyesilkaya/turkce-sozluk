@@ -1,0 +1,15 @@
+---
+layout: term
+title: illallah dedirtmek
+slug: illallah-dedirtmek
+letter: I
+indeks: 33611
+lisan: Türkçe
+anlamlar:
+- bezdirmek, usandırmak
+ozellikler:
+- []
+ornekler:
+- Keza, kaç zamandır apartman sakinlerine illallah dedirten çöp kokusunun nispeten en az hissedildiği yer de gene burasıydı.
+orneklerkaynak: []
+---

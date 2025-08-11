@@ -1,0 +1,22 @@
+---
+layout: term
+title: noksansız
+slug: noksansiz
+letter: N
+indeks: 49914
+lisan: Türkçe
+anlamlar:
+- eksiksiz
+- Eksiksiz bir biçimde
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Uysal, belli belirsiz mahzun, böylece de analığıyla, yârlik ve eşliği ile noksansız bir kadınlık özlediğini sezdirten bir mizaç...
+- Hafızasının kuvvetiyle bütün dersleri sınıfta dinlemekle noksansız öğrenirdi.
+orneklerkaynak:
+- Tarık Buğra
+- Oğuz Atay
+---

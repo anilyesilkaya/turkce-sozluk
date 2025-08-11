@@ -1,0 +1,22 @@
+---
+layout: term
+title: ciğersiz
+slug: cigersiz
+letter: C
+indeks: 93763
+lisan: Türkçe
+anlamlar:
+- İçerisinde ciğer bulunmayan
+- Korkak, yüreksiz olan (kimse)
+ozellikler:
+- - sıfat
+  - argo
+- - sıfat
+  - argo
+ornekler:
+- 'Ciğersiz ölü bir gece canlanıp kulübeye gelir ve birden bağırır: Ver benim ciğerimi!'
+- Oktay Sinanoğlu, millî değerlerini kaybetmiş, yabancı hayranı aydın bozuntularını ciğersiz diye tarif eder.
+orneklerkaynak:
+- Aziz Nesin
+- Doğan Gürpınar
+---

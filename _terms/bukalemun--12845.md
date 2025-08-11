@@ -1,0 +1,20 @@
+---
+layout: term
+title: bukalemun
+slug: bukalemun
+letter: B
+indeks: 12845
+lisan: Arapça buḳalemūn
+anlamlar:
+- Bukalemungillerden, 20-30 santimetre boyunda, bulunduğu ortama uygun renk değiştirmesiyle ünlü bir tür sürüngen; kaya keleri (Chamaeleo chamaeleon)
+- Davranışını, görüşünü çıkarına göre sık sık değiştiren kimse
+ozellikler:
+- - isim
+  - hayvan bilimi
+  - mecaz
+- - isim
+  - hayvan bilimi
+  - mecaz
+ornekler: []
+orneklerkaynak: []
+---

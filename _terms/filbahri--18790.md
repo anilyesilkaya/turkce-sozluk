@@ -1,0 +1,15 @@
+---
+layout: term
+title: filbahri
+slug: filbahri
+letter: F
+indeks: 18790
+lisan: Arapça fūl + Farsça bahār
+anlamlar:
+- Düğün çiçeğigillerden, ilkbaharda beyaz ve güzel kokulu çiçekler açan, park ve bahçelerde süs bitkisi olarak yetiştirilen ağaççık (Philadelphus)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

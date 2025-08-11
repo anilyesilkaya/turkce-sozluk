@@ -1,0 +1,16 @@
+---
+layout: term
+title: cevaplandırmak
+slug: cevaplandirmak
+letter: C
+indeks: 4327
+lisan: Türkçe
+anlamlar:
+- Bir şeyin cevabını, karşılığını vermek; yanıtlandırmak
+ozellikler:
+- - -i
+ornekler:
+- Mustafa Kemal Paşa, bu isteği ilk önce şakaya alarak şöyle cevaplandırmıştı.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

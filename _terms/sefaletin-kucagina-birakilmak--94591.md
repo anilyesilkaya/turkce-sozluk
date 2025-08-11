@@ -1,0 +1,16 @@
+---
+layout: term
+title: sefaletin kucağına bırakılmak
+slug: sefaletin-kucagina-birakilmak
+letter: S
+indeks: 94591
+lisan: Türkçe
+anlamlar:
+- açlık, yokluk vb. çaresiz durumlara itilmek
+ozellikler:
+- []
+ornekler:
+- Küçük bir çocuk gibi sefaletin kucağına bırakılıyordu.
+orneklerkaynak:
+- Hüseyin Nihal Atsız
+---

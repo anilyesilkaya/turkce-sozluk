@@ -1,0 +1,14 @@
+---
+layout: term
+title: sayısını Allah bilir
+slug: sayisini-allah-bilir
+letter: S
+indeks: 55962
+lisan: Türkçe
+anlamlar:
+- '"o kadar çok ki saymakla bitmez" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

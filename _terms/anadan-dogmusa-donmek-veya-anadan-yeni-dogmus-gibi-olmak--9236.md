@@ -1,0 +1,18 @@
+---
+layout: term
+title: anadan doğmuşa dönmek (veya anadan yeni doğmuş gibi olmak)
+slug: anadan-dogmusa-donmek-veya-anadan-yeni-dogmus-gibi-olmak
+letter: A
+indeks: 9236
+lisan: Türkçe
+anlamlar:
+- dertsiz, tasasız bir duruma gelmek
+- günahlardan arınmış duruma gelmek
+- sağlıklı duruma gelmek, sağlığına kavuşmak
+ozellikler:
+- []
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

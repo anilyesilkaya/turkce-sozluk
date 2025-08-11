@@ -1,0 +1,14 @@
+---
+layout: term
+title: tebyiz etmek
+slug: tebyiz-etmek
+letter: T
+indeks: 68340
+lisan: Türkçe
+anlamlar:
+- temize çekmek
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

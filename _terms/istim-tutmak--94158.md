@@ -1,0 +1,14 @@
+---
+layout: term
+title: istim tutmak
+slug: istim-tutmak
+letter: I
+indeks: 94158
+lisan: Türkçe
+anlamlar:
+- gerekli koşulların olgunlaşmasını beklemek
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

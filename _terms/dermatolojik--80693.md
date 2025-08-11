@@ -1,0 +1,15 @@
+---
+layout: term
+title: dermatolojik
+slug: dermatolojik
+letter: D
+indeks: 80693
+lisan: Fransızca dermatologique
+anlamlar:
+- Dermatoloji ile ilgili
+ozellikler:
+- - sıfat
+  - tıp
+ornekler: []
+orneklerkaynak: []
+---

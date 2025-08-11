@@ -1,0 +1,16 @@
+---
+layout: term
+title: bahtsızlık
+slug: bahtsizlik
+letter: B
+indeks: 5372
+lisan: Türkçe
+anlamlar:
+- Bahtsız olma durumu;  talihsizlik
+ozellikler:
+- - isim
+ornekler:
+- İnananların bahtsızlıkları, inanmayanların bahtsızlıkları yanında hakiki bir saadet.
+orneklerkaynak:
+- Aka Gündüz
+---

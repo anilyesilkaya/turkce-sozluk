@@ -1,0 +1,16 @@
+---
+layout: term
+title: zıvanalı vida
+slug: zivanali-vida
+letter: Z
+indeks: 76032
+lisan: Türkçe
+anlamlar:
+- Zıvanası olan vida
+ozellikler:
+- - isim
+ornekler:
+- Bunlar birer karış uzunluğunda üç para çubuğun zıvanalı vidalarla birbirlerine eklenmelerinden meydana gelir.
+orneklerkaynak:
+- Salâh Birsel
+---

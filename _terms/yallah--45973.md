@@ -1,0 +1,16 @@
+---
+layout: term
+title: yallah
+slug: yallah
+letter: Y
+indeks: 45973
+lisan: Arapça yā + Allāh
+anlamlar:
+- '"Haydi, yürü, kalk, git" anlamlarında kullanılan bir söz'
+ozellikler:
+- - ünlem
+ornekler:
+- Millet, muharebenin başladığını, Gazi'nin Sivas'a geldiğini duyar duymaz yallah demiş, Salihli'ye gitmiş.
+orneklerkaynak:
+- Aka Gündüz
+---

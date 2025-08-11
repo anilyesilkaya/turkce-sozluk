@@ -1,0 +1,20 @@
+---
+layout: term
+title: varagele
+slug: varagele
+letter: V
+indeks: 66804
+lisan: Türkçe
+anlamlar:
+- Bir şeyi, bir yerden bir yere çekerek götürüp getirmeye yarayan araç
+- belirsizlik
+ozellikler:
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+ornekler:
+- Bir varagele içindeyiz. Mekanizmanın ipi ya şu yana ya bu yana ağdıracak ülkeyi.
+orneklerkaynak:
+- Adalet Ağaoğlu
+---

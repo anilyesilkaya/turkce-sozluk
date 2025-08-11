@@ -1,0 +1,15 @@
+---
+layout: term
+title: münderiç
+slug: munderic
+letter: M
+indeks: 52567
+lisan: Arapça munderic
+anlamlar:
+- Bir şeyin içinde yer almış
+ozellikler:
+- - sıfat
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

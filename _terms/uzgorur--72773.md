@@ -1,0 +1,15 @@
+---
+layout: term
+title: uzgörür
+slug: uzgorur
+letter: U
+indeks: 72773
+lisan: Türkçe
+anlamlar:
+- Gerçeği önceden görebilen, ileri görüşlü olan; uzgören
+ozellikler:
+- - sıfat
+  - mecaz
+ornekler: []
+orneklerkaynak: []
+---

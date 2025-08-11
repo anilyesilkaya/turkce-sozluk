@@ -1,0 +1,16 @@
+---
+layout: term
+title: kanatlı
+slug: kanatli
+letter: K
+indeks: 38120
+lisan: Türkçe
+anlamlar:
+- Kanadı olan
+ozellikler:
+- - sıfat
+ornekler:
+- Senelerden beri leylek görmüyorum. Hatta bu kanatlı yaz seyyahlarının son senelerde İstanbul'a rağbetleri az.
+orneklerkaynak:
+- Ahmet Haşim
+---

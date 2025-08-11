@@ -1,0 +1,15 @@
+---
+layout: term
+title: kadındüğmesi
+slug: kadindugmesi
+letter: K
+indeks: 79187
+lisan: Türkçe
+anlamlar:
+- Süs bitkisi olarak yetiştirilen, düğme biçiminde çiçek açan otsu bir bitki
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

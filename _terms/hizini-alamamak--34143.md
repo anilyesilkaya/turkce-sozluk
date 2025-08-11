@@ -1,0 +1,18 @@
+---
+layout: term
+title: hızını alamamak
+slug: hizini-alamamak
+letter: H
+indeks: 34143
+lisan: Türkçe
+anlamlar:
+- hızlı gidişini yavaşlatamamak
+- öfkesini yenememek, yatışamamak
+ozellikler:
+- - mecaz
+- - mecaz
+ornekler:
+- Münakaşa tekrar eski hızını alamayarak biraz sonra söndü.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

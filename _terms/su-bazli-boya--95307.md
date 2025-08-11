@@ -1,0 +1,14 @@
+---
+layout: term
+title: su bazlı boya
+slug: su-bazli-boya
+letter: S
+indeks: 95307
+lisan: Türkçe
+anlamlar:
+- İçeriğindeki suyun buharlaşması ile kısa sürede kuruyan boya türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

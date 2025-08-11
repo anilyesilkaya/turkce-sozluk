@@ -1,0 +1,16 @@
+---
+layout: term
+title: dosta düşmana karşı
+slug: dosta-dusmana-karsi
+letter: D
+indeks: 3298
+lisan: Türkçe
+anlamlar:
+- ele güne karşı
+- dostlara üzüntü vermemek, düşmanları da sevindirmemek için
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

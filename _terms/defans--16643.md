@@ -1,0 +1,17 @@
+---
+layout: term
+title: defans
+slug: defans
+letter: D
+indeks: 16643
+lisan: Fransızca défense
+anlamlar:
+- savunma
+ozellikler:
+- - isim
+  - spor
+ornekler:
+- Herkes kendini forvette görmek, atacağı gollerle kahraman olmak isteğinden kimse defansta durmak istemez.
+orneklerkaynak:
+- Oğuz Tektaş
+---

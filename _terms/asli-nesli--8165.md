@@ -1,0 +1,16 @@
+---
+layout: term
+title: aslı nesli
+slug: asli-nesli
+letter: A
+indeks: 8165
+lisan: Türkçe
+anlamlar:
+- Bir kimsenin soyu sopu
+ozellikler:
+- - isim
+ornekler:
+- Vayna'nın aslı nesli çok büyüktür. O benim kaynımın kızının oğludur.
+orneklerkaynak:
+- Ömer Seyfettin
+---

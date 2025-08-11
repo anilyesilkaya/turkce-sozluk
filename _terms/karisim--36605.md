@@ -1,0 +1,20 @@
+---
+layout: term
+title: karışım
+slug: karisim
+letter: K
+indeks: 36605
+lisan: Türkçe
+anlamlar:
+- Birden çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey; kokteyl
+- İki veya daha çok maddenin kimyasal tepkimeye girmeden bir araya gelmesi; mahlut
+ozellikler:
+- - isim
+  - kimya
+- - isim
+  - kimya
+ornekler:
+- Melez bir insan ırkının karışımı, bu adama kuvvet vermiş.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

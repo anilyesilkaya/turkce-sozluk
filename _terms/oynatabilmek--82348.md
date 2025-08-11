@@ -1,0 +1,16 @@
+---
+layout: term
+title: oynatabilmek
+slug: oynatabilmek
+letter: O
+indeks: 82348
+lisan: Türkçe
+anlamlar:
+- Oynatma ihtimali veya imkânı bulunmak
+ozellikler:
+- - -i
+ornekler:
+- Sizinle iki gün daha çalışsam aklımı oynatabilirim.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: gerginleştirmek
+slug: gerginlestirmek
+letter: G
+indeks: 29703
+lisan: Türkçe
+anlamlar:
+- Gergin duruma getirmek
+ozellikler:
+- - -i
+ornekler:
+- Seçim, havayı büsbütün elektriklendirmiş, sinirleri iyice gerginleştirmişti.
+orneklerkaynak:
+- Tarık Buğra
+---

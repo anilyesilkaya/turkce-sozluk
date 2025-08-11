@@ -1,0 +1,16 @@
+---
+layout: term
+title: dalavere çevirmek (veya dalaveresini döndürmek)
+slug: dalavere-cevirmek-veya-dalaveresini-dondurmek
+letter: D
+indeks: 16097
+lisan: Türkçe
+anlamlar:
+- yalan dolanla gizlice kötü iş görmek, düzenbazlık etmek
+ozellikler:
+- []
+ornekler:
+- Beyefendi dalaveresini döndüreceği yerleri adamlarından hiç kimseye söylemedi.
+orneklerkaynak:
+- Ömer Seyfettin
+---

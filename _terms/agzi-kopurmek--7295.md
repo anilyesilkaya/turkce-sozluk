@@ -1,0 +1,16 @@
+---
+layout: term
+title: ağzı köpürmek
+slug: agzi-kopurmek
+letter: A
+indeks: 7295
+lisan: Türkçe
+anlamlar:
+- çok öfkelenmek
+ozellikler:
+- []
+ornekler:
+- Ramazan, kavağın altında durmuş, başını ağacın tepesine kaldırmış, ağzı köpürerek sövüyordu.
+orneklerkaynak:
+- Halide Edip Adıvar
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: katranlamak
+slug: katranlamak
+letter: K
+indeks: 42788
+lisan: Türkçe
+anlamlar:
+- Bir yere, bir şeye katran sürerek katranla kaplamak
+ozellikler:
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

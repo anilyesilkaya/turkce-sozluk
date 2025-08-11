@@ -1,0 +1,16 @@
+---
+layout: term
+title: cin gibi
+slug: cin-gibi
+letter: C
+indeks: 10756
+lisan: Türkçe
+anlamlar:
+- anlayışlı ve zeki
+ozellikler:
+- []
+ornekler:
+- Bir kedi kadar çevik, açıkgöz olan İzmirli Nusret, lisenin onuna kadar okumuş, cin gibi bir delikanlıydı.
+orneklerkaynak:
+- Orhan Kemal
+---

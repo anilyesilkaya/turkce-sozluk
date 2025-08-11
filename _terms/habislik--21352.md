@@ -1,0 +1,16 @@
+---
+layout: term
+title: habislik
+slug: habislik
+letter: H
+indeks: 21352
+lisan: Türkçe
+anlamlar:
+- Habis olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Bu evde her türlü habislik Mesut Bey'in namına dönerdi.
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+---

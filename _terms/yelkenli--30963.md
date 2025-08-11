@@ -1,0 +1,17 @@
+---
+layout: term
+title: yelkenli
+slug: yelkenli
+letter: Y
+indeks: 30963
+lisan: Türkçe
+anlamlar:
+- Yelkeni olan, yelkenle giden deniz veya göl taşıtı; yelken
+ozellikler:
+- - isim
+  - denizcilik
+ornekler:
+- Bizi bulmak için denizlerin öbür kıyısından bir yelkenli yola çıktı.
+orneklerkaynak:
+- Arif Nihat Asya
+---

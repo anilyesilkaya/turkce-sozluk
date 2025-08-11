@@ -1,0 +1,16 @@
+---
+layout: term
+title: yazıvermek
+slug: yazivermek
+letter: Y
+indeks: 85848
+lisan: Türkçe
+anlamlar:
+- Çabucak veya kısa sürede yazmak
+ozellikler:
+- - -i
+ornekler:
+- Arada fıkra da yazıver diye kulağıma çıtlatıverdi.
+orneklerkaynak:
+- Nâzım Hikmet
+---

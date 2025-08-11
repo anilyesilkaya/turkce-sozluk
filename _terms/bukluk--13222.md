@@ -1,0 +1,16 @@
+---
+layout: term
+title: büklük
+slug: bukluk
+letter: B
+indeks: 13222
+lisan: Türkçe
+anlamlar:
+- bük (II)
+ozellikler:
+- - isim
+ornekler:
+- Çukurova'nın çok yeri büklük, çok yeri bataklık.
+orneklerkaynak:
+- Yaşar Kemal
+---

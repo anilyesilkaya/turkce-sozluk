@@ -1,0 +1,15 @@
+---
+layout: term
+title: toksikoloji
+slug: toksikoloji
+letter: T
+indeks: 63743
+lisan: Fransızca toxicologie
+anlamlar:
+- Zehirle, onların organizmaya olan etkileriyle ve zehirlerin belirlenmesiyle uğraşan bilim dalı
+ozellikler:
+- - isim
+  - tıp
+ornekler: []
+orneklerkaynak: []
+---

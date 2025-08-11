@@ -1,0 +1,14 @@
+---
+layout: term
+title: atıf yapmak (veya atıfta bulunmak)
+slug: atif-yapmak-veya-atifta-bulunmak
+letter: A
+indeks: 10988
+lisan: Türkçe
+anlamlar:
+- bir başkasının daha önce yayımlanmış bir çalışmasına gönderme yapmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

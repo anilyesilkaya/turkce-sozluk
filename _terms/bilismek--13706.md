@@ -1,0 +1,17 @@
+---
+layout: term
+title: bilişmek
+slug: bilismek
+letter: B
+indeks: 13706
+lisan: Türkçe
+anlamlar:
+- Birbirini tanımak; muarefesi olmak
+ozellikler:
+- - nesnesiz
+  - -le
+ornekler:
+- Hep Trabzonlular kalabalık bir toplantıda istif hâlindeyiz, aramızda yabancı yok, hep bilişip tanışan hemşehrileriz.
+orneklerkaynak:
+- İhsan Hamamizade
+---

@@ -1,0 +1,21 @@
+---
+layout: term
+title: yaptırabilmek
+slug: yaptirabilmek
+letter: Y
+indeks: 85759
+lisan: Türkçe
+anlamlar:
+- Yaptırma ihtimali veya imkânı bulunmak
+- Yaptırmaya gücü yetmek
+- Yaptırma becerisi bulunmak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+- - -e
+  - -i
+ornekler: []
+orneklerkaynak: []
+---

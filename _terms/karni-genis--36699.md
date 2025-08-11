@@ -1,0 +1,23 @@
+---
+layout: term
+title: karnı geniş
+slug: karni-genis
+letter: K
+indeks: 36699
+lisan: Türkçe
+anlamlar:
+- Çok yemek yiyen, obur (kimse)
+- İçi geniş olan (kap vb.)
+- Vurdumduymaz, tasasız (kimse)
+ozellikler:
+- - sıfat
+  - mecaz
+- - sıfat
+  - mecaz
+- - sıfat
+  - mecaz
+ornekler:
+- Ben de bir karnı geniş cezve geçirdim elime / Başladım kaynatarak vermeye fincan fincan.
+orneklerkaynak:
+- Mehmet Akif Ersoy
+---

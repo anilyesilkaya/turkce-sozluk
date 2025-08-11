@@ -1,0 +1,16 @@
+---
+layout: term
+title: idareimaslahat politikası
+slug: idareimaslahat-politikasi
+letter: I
+indeks: 32814
+lisan: Türkçe
+anlamlar:
+- Bir işi, gerektiği gibi değil de günün şartlarına göre yapma tutumu
+- İşi oluruna bırakma tutumu
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

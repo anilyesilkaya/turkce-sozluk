@@ -1,0 +1,17 @@
+---
+layout: term
+title: eski göz ağrısı
+slug: eski-goz-agrisi
+letter: E
+indeks: 77373
+lisan: Türkçe
+anlamlar:
+- Eski sevgili
+ozellikler:
+- - isim
+  - mecaz
+ornekler:
+- Niye buraya bu kadar kılıksız, üstelik de bir karış sakallı geldim. Bak eski göz ağrılarına rastlayacakmışız.
+orneklerkaynak:
+- Haldun Taner
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: müstahaklık
+slug: mustahaklik
+letter: M
+indeks: 92052
+lisan: Türkçe
+anlamlar:
+- Müstahak olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

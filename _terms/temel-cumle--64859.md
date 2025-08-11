@@ -1,0 +1,15 @@
+---
+layout: term
+title: temel cümle
+slug: temel-cumle
+letter: T
+indeks: 64859
+lisan: Türkçe
+anlamlar:
+- Birleşik veya girişik cümlelerde, yan cümle, ara cümle ve iç cümlelerin bağlı olduğu asıl yargıyı belirten cümle; temel tümce
+ozellikler:
+- - isim
+  - dil bilgisi
+ornekler: []
+orneklerkaynak: []
+---

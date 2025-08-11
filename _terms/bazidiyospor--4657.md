@@ -1,0 +1,15 @@
+---
+layout: term
+title: bazidiyospor
+slug: bazidiyospor
+letter: B
+indeks: 4657
+lisan: Fransızca basidiospore
+anlamlar:
+- Bazitli mantarların sporları
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler: []
+orneklerkaynak: []
+---

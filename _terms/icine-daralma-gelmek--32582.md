@@ -1,0 +1,16 @@
+---
+layout: term
+title: içine daralma gelmek
+slug: icine-daralma-gelmek
+letter: I
+indeks: 32582
+lisan: Türkçe
+anlamlar:
+- sıkıntı basmak, sıkılmak
+ozellikler:
+- []
+ornekler:
+- Hava kararmaya yüz tutunca, içine bir daralma geliyor çocuğun.
+orneklerkaynak:
+- Ayşe Kulin
+---

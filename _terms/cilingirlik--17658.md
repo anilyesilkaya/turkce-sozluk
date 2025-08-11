@@ -1,0 +1,16 @@
+---
+layout: term
+title: çilingirlik
+slug: cilingirlik
+letter: Ç
+indeks: 17658
+lisan: Türkçe
+anlamlar:
+- anahtarcılık
+ozellikler:
+- - isim
+ornekler:
+- Trabzon şehrinde kuyumculuk, bakırcılık, marangozculuk ve çilingirlik oldukça ileri seviyedeydi.
+orneklerkaynak:
+- Mesut Çapa
+---

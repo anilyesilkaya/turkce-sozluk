@@ -1,0 +1,251 @@
+---
+layout: term
+title: kaçırmak
+slug: kacirmak
+letter: K
+indeks: 40709
+lisan: Türkçe
+anlamlar:
+- Kaçmasını sağlamak veya kaçmasına imkân yaratmak
+- Bir işi belirlenen zamanda yapamamak
+- Zor kullanarak yanında götürmek; kaldırmak
+- Bir daha ele geçmemek üzere yitirmek
+- Yararlanamamak
+- Gitmek, kaçmak zorunda bırakmak
+- Çalmak, kimsenin haberi olmadan götürmek
+- Yasal olmayan yoldan bir ülkeye mal sokmak veya çıkarmak
+- Ölçüyü, sınırı aşmak, fazlasına gitmek
+- Sıvı, gaz vb. sızdırmak
+- İstemeyerek altını kirletmek
+- delirmek
+- Bir araç veya aletle iş görürken aracı iyi kullanamama yüzünden kendine veya bir başkasına zarar vermek
+- Birini veya bir şeyi göstermemek
+- Yarışan bir koşucu diğeri tarafından hızla geçilip ara açılmak
+- Futbol veya basketbolda savunma yaptığı oyuncunun topla yanından geçmesine engel olamamak
+ozellikler:
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - hukuk
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -i
+  - -den
+  - spor
+  - spor
+ornekler:
+- Maçı kaçırdım.
+- Kız kaçırmak.
+- Fırsatı kaçırdım.
+- Penaltıyı kaçırdı.
+- Söylene söylene adamı kaçırdı.
+- İcradan eşya kaçırdılar.
+- Uyuşturucu kaçırmak.
+- Kulübün yemeğinde biraz fazlaca kaçırmıştım.
+- Çakmak, gaz kaçırıyor.
+- Makine buhar kaçırıyor.
+- Donuna kaçırmak.
+- Zavallı kaçırmış.
+- Usturayı elimden kaçırdım, yanağımı kestim.
+- Karısını benden kaçırıyor.
+orneklerkaynak:
+- Haldun Taner
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: etobur
+slug: etobur
+letter: E
+indeks: 20033
+lisan: Türkçe
+anlamlar:
+- Dişleri et yiyecek biçimde gelişmiş, omurgalı, memeli (hayvan); etçil, karnivor
+ozellikler:
+- - sıfat
+  - hayvan bilimi
+ornekler: []
+orneklerkaynak: []
+---

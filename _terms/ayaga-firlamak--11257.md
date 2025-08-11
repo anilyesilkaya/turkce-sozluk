@@ -1,0 +1,16 @@
+---
+layout: term
+title: ayağa fırlamak
+slug: ayaga-firlamak
+letter: A
+indeks: 11257
+lisan: Türkçe
+anlamlar:
+- hızla ayağa kalkmak
+ozellikler:
+- []
+ornekler:
+- Derken balıkçı öfkeyle ayağa fırladı, kafese kapatılmış bir kaplan gibi dolandı güvertede.
+orneklerkaynak:
+- Azra Erhat
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: dirlikçi
+slug: dirlikci
+letter: D
+indeks: 86976
+lisan: Türkçe
+anlamlar:
+- Dirlik sahibi olan kimse
+ozellikler:
+- - isim
+  - tarih
+ornekler:
+- İlk dirlikçi aza kanaat eden, gözü toprakta olmayan, millet fedaisi bir halk memuru alptır.
+orneklerkaynak:
+- Selâhattin Hilav
+---

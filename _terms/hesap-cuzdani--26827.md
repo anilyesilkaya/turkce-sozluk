@@ -1,0 +1,14 @@
+---
+layout: term
+title: hesap cüzdanı
+slug: hesap-cuzdani
+letter: H
+indeks: 26827
+lisan: Türkçe
+anlamlar:
+- Bir bankada hesabı olanların yatırdığı veya çektiği paralarının yazılmasına yarayan defter
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

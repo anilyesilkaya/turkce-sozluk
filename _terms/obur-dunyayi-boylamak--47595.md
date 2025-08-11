@@ -1,0 +1,16 @@
+---
+layout: term
+title: öbür dünyayı boylamak
+slug: obur-dunyayi-boylamak
+letter: Ö
+indeks: 47595
+lisan: Türkçe
+anlamlar:
+- ahireti boylamak
+ozellikler:
+- - teklifsiz konuşmada
+ornekler:
+- O rahmetli katırın yerine ben öbür dünyayı boylardım.
+orneklerkaynak:
+- Osman Cemal Kaygılı
+---

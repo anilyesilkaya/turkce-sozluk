@@ -1,0 +1,16 @@
+---
+layout: term
+title: çevirtilmek
+slug: cevirtilmek
+letter: Ç
+indeks: 88779
+lisan: Türkçe
+anlamlar:
+- Çevrilmesi sağlanmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Bu mektepte ders veren hocaların hepsi henüz Garp lisanlarını bilmediklerinden bu dillerde yazılmış muhtelif ilmî ve askerî eserler tercümanlar vasıtasıyla Türkçeye çevirtilir.
+orneklerkaynak:
+- Mümtaz Turhan
+---

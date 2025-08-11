@@ -1,0 +1,14 @@
+---
+layout: term
+title: Kayserililik
+slug: kayserililik
+letter: K
+indeks: 70129
+lisan: Türkçe
+anlamlar:
+- Kayserili olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

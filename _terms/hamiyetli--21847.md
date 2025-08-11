@@ -1,0 +1,14 @@
+---
+layout: term
+title: hamiyetli
+slug: hamiyetli
+letter: H
+indeks: 21847
+lisan: Türkçe
+anlamlar:
+- Hamiyeti olan, hamiyet sahibi; hamiyetperver
+ozellikler:
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

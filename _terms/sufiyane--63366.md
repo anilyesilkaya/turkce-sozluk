@@ -1,0 +1,14 @@
+---
+layout: term
+title: sufiyane
+slug: sufiyane
+letter: S
+indeks: 63366
+lisan: Arapça ṣūfī + Farsça -āne
+anlamlar:
+- Tasavvufla ilgili veya mutasavvıflara yakışır biçimde olan
+ozellikler:
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

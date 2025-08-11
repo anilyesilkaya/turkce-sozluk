@@ -1,0 +1,16 @@
+---
+layout: term
+title: göğüsleme
+slug: gogusleme
+letter: G
+indeks: 25761
+lisan: Türkçe
+anlamlar:
+- Göğüslemek işi
+ozellikler:
+- - isim
+ornekler:
+- Şimdi, ikisinin suçlamalarını göğüslemeye çalışıyordum.
+orneklerkaynak:
+- Adalet Ağaoğlu
+---

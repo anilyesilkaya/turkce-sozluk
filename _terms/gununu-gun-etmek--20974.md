@@ -1,0 +1,16 @@
+---
+layout: term
+title: gününü gün etmek
+slug: gununu-gun-etmek
+letter: G
+indeks: 20974
+lisan: Türkçe
+anlamlar:
+- hiçbir şeyi dert edinmeyip gününü hoş geçirmek
+ozellikler:
+- []
+ornekler:
+- Sevmek, sevilmek, eğlenip yan gelmek, çubuğunu yakıp gününü gün etmek mi?
+orneklerkaynak:
+- Haldun Taner
+---

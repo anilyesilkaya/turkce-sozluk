@@ -1,0 +1,18 @@
+---
+layout: term
+title: öylece
+slug: oylece
+letter: Ö
+indeks: 50757
+lisan: Türkçe
+anlamlar:
+- Tam öyle; o biçimde, o şekilde
+- öylelikle
+ozellikler:
+- - zarf
+- - zarf
+ornekler:
+- Dudaklarının kenarını kırıştıran bir nefret duygusuyla öylece kaldı.
+orneklerkaynak:
+- Peyami Safa
+---

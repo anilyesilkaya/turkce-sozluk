@@ -1,0 +1,15 @@
+---
+layout: term
+title: kesyapıştır
+slug: kesyapistir
+letter: K
+indeks: 74963
+lisan: Türkçe
+anlamlar:
+- Seçilen bir metin veya nesneyi bulunduğu yerden silip bir başka yere taşıma işlemi
+ozellikler:
+- - isim
+  - bilişim
+ornekler: []
+orneklerkaynak: []
+---

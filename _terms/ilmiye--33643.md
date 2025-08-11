@@ -1,0 +1,21 @@
+---
+layout: term
+title: ilmiye
+slug: ilmiye
+letter: I
+indeks: 33643
+lisan: Arapça ʿilmiyye
+anlamlar:
+- Din işleriyle uğraşan hocalar sınıfı
+- Din işleriyle uğraşanların mesleği
+ozellikler:
+- - isim
+  - eskimiş
+  - din bilimi
+- - isim
+  - eskimiş
+  - din bilimi
+ornekler:
+- İlmiyeden bir zat.
+orneklerkaynak: []
+---

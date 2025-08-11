@@ -1,0 +1,16 @@
+---
+layout: term
+title: kısarak
+slug: kisarak
+letter: K
+indeks: 38589
+lisan: Türkçe
+anlamlar:
+- kısacık
+ozellikler:
+- - sıfat
+ornekler:
+- Kısarak boylu, kara kuru Nadir Hanım'ın yerinde şimdi şişman denilecek kadar etlenmiş bir hanım var.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: narsist kompleksi
+slug: narsist-kompleksi
+letter: N
+indeks: 75393
+lisan: Türkçe
+anlamlar:
+- Kendini sevme özelliğini ön plana çıkarma duygusu
+ozellikler:
+- - isim
+  - ruh bilimi
+ornekler:
+- Narsist kompleksi az buçuk herkeste vardır.
+orneklerkaynak:
+- Haldun Taner
+---

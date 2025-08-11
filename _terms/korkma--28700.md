@@ -1,0 +1,16 @@
+---
+layout: term
+title: korkma
+slug: korkma
+letter: K
+indeks: 28700
+lisan: Türkçe
+anlamlar:
+- Korkmak işi
+ozellikler:
+- - isim
+ornekler:
+- İnsanların korkması icap eden en büyük felaket, kötü ahlaktır.
+orneklerkaynak:
+- Sâmiha Ayverdi
+---

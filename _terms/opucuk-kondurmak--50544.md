@@ -1,0 +1,16 @@
+---
+layout: term
+title: öpücük kondurmak
+slug: opucuk-kondurmak
+letter: Ö
+indeks: 50544
+lisan: Türkçe
+anlamlar:
+- hafifçe öpmek
+ozellikler:
+- []
+ornekler:
+- Avucunun içine çikolata kokulu buz gibi bir dudak, bir öpücük kondurdu.
+orneklerkaynak:
+- Sait Faik Abasıyanık
+---

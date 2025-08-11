@@ -1,0 +1,14 @@
+---
+layout: term
+title: askere gitmek
+slug: askere-gitmek
+letter: A
+indeks: 8104
+lisan: Türkçe
+anlamlar:
+- askerlik ödevini yapmak için orduya katılmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

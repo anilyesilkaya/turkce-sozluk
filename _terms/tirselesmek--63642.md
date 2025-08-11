@@ -1,0 +1,16 @@
+---
+layout: term
+title: tirşeleşmek
+slug: tirselesmek
+letter: T
+indeks: 63642
+lisan: Türkçe
+anlamlar:
+- Tirşe rengine dönüşmek
+ozellikler:
+- - nesnesiz
+ornekler:
+- Mor denizde gittikçe tirşeleşen bir renk beliriyordu.
+orneklerkaynak:
+- Aka Gündüz
+---

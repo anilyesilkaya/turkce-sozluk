@@ -1,0 +1,15 @@
+---
+layout: term
+title: bir şey yapmak
+slug: bir-sey-yapmak
+letter: B
+indeks: 13934
+lisan: Türkçe
+anlamlar:
+- birine kötülükte bulunmak
+ozellikler:
+- []
+ornekler:
+- Ben ona bir şey yaptım mı?
+orneklerkaynak: []
+---

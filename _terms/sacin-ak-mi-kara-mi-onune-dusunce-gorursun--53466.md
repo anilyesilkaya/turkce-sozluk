@@ -1,0 +1,14 @@
+---
+layout: term
+title: saçın ak mı kara mı, önüne düşünce görürsün
+slug: sacin-ak-mi-kara-mi-onune-dusunce-gorursun
+letter: S
+indeks: 53466
+lisan: Türkçe
+anlamlar:
+- '"acele etme, sonucun ne olduğunu biraz sonra anlarsın" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

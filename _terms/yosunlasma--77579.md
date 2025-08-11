@@ -1,0 +1,16 @@
+---
+layout: term
+title: yosunlaşma
+slug: yosunlasma
+letter: Y
+indeks: 77579
+lisan: Türkçe
+anlamlar:
+- Yosunlaşmak durumu
+ozellikler:
+- - isim
+ornekler:
+- Sarı iken mor olan, mordan kırmızıya dönen, kırmızı iken yosunlaşan sular...
+orneklerkaynak:
+- Reşat Enis Aygen
+---

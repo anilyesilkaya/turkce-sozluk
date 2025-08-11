@@ -1,0 +1,16 @@
+---
+layout: term
+title: ağaçlandırabilmek
+slug: agaclandirabilmek
+letter: A
+indeks: 70617
+lisan: Türkçe
+anlamlar:
+- Bir yeri fidanlar dikerek ağaçlı duruma getirme ihtimali veya imkânı bulunmak
+- Ağaçlandırmaya gücü yetmek
+ozellikler:
+- - -i
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

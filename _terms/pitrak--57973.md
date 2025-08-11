@@ -1,0 +1,27 @@
+---
+layout: term
+title: pıtrak
+slug: pitrak
+letter: P
+indeks: 57973
+lisan: Türkçe
+anlamlar:
+- Sarı çiçekli, dikenli bir yıllık otsu bitki (Xantium spinosum)
+- Bu bitkinin hayvanların kıllarına ve insanların giysilerine takılan dikenli tohumu
+- Çok taneli, sık
+ozellikler:
+- - isim
+  - bitki bilimi
+  - sıfat
+  - mecaz
+- - isim
+  - bitki bilimi
+  - sıfat
+  - mecaz
+- - isim
+  - bitki bilimi
+  - sıfat
+  - mecaz
+ornekler: []
+orneklerkaynak: []
+---

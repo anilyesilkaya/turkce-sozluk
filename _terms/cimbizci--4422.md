@@ -1,0 +1,16 @@
+---
+layout: term
+title: cımbızcı
+slug: cimbizci
+letter: C
+indeks: 4422
+lisan: Türkçe
+anlamlar:
+- Dokumacılıkta cımbızlama işini yapan kimse
+ozellikler:
+- - isim
+ornekler:
+- Cımbızcılar dokunmuş ham kumaşta göze görünen büküm ve dokuma hatalarını cımbız ve makas yardımı ile düzeltip temizlemeye çalışırlar.
+orneklerkaynak:
+- Ayhan Aktar
+---

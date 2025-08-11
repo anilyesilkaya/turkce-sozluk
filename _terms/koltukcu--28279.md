@@ -1,0 +1,32 @@
+---
+layout: term
+title: koltukçu
+slug: koltukcu
+letter: K
+indeks: 28279
+lisan: Türkçe
+anlamlar:
+- Koltuk yapan veya satan kimse
+- Eski ev eşyası alıp satan kimse
+- Koltuk meyhanesi işleten kimse
+- Koltuğunun altına elbise ve halı atıp sokak sokak dolaştırarak satan kimse
+- Düğünlerde ev düzenlenmesine yardım edip gelinle damada destek olan kimse
+- Yüze karşı övmeyi huy edinmiş kimse
+ozellikler:
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+- - isim
+  - mecaz
+ornekler:
+- Ertesi cuma günü koltukçular gelip gelin odasını düzeltecekler.
+orneklerkaynak:
+- Memduh Şevket Esendal
+---

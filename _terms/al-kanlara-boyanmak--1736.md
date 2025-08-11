@@ -1,0 +1,18 @@
+---
+layout: term
+title: al kanlara boyanmak
+slug: al-kanlara-boyanmak
+letter: A
+indeks: 1736
+lisan: Türkçe
+anlamlar:
+- yaralanmak
+- vurularak ölmek
+- şehit olmak
+ozellikler:
+- []
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

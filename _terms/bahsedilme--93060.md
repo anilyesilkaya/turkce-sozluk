@@ -1,0 +1,16 @@
+---
+layout: term
+title: bahşedilme
+slug: bahsedilme
+letter: B
+indeks: 93060
+lisan: Türkçe
+anlamlar:
+- bağışlanma
+ozellikler:
+- - isim
+ornekler:
+- Kapitülasyonlardaki bahşedilme unsuru ve padişahın antlaşmada taraf değil yalnızca onaylayan makam olması nedeniyle kapitülasyonlar kendine devletler arası hukuk terimleri içerisinde bir yer bulamamaktadır.
+orneklerkaynak:
+- Mehmet Emin Elmacı
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: şedaraban
+slug: sedaraban
+letter: Ş
+indeks: 59466
+lisan: Arapça şedd + ʿarabān
+anlamlar:
+- Klasik Türk müziğinde bir şet makam
+ozellikler:
+- - isim
+  - müzik
+ornekler: []
+orneklerkaynak: []
+---

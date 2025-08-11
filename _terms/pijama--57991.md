@@ -1,0 +1,16 @@
+---
+layout: term
+title: pijama
+slug: pijama
+letter: P
+indeks: 57991
+lisan: Fransızca pyjama
+anlamlar:
+- Alt ve üst olmak üzere iki parçadan oluşan yatak giysisi
+ozellikler:
+- - isim
+ornekler:
+- Üçü de pijamalarının üstünü masaya bırakarak aşağı koştular.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

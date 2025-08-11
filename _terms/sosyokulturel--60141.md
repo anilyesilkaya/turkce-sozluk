@@ -1,0 +1,14 @@
+---
+layout: term
+title: sosyokültürel
+slug: sosyokulturel
+letter: S
+indeks: 60141
+lisan: Fransızca socio-culturel
+anlamlar:
+- Aynı anda bir toplumu veya toplumsal bir grubu ve kendine özgü olan kültürü ilgilendiren
+ozellikler:
+- - sıfat
+ornekler: []
+orneklerkaynak: []
+---

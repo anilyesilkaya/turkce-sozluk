@@ -1,0 +1,16 @@
+---
+layout: term
+title: brifing
+slug: brifing
+letter: B
+indeks: 12686
+lisan: İngilizce briefing
+anlamlar:
+- bilgilendirme
+ozellikler:
+- - isim
+ornekler:
+- Brifingde verdiğim bilgiler esasen kitapta ayrıntılı biçimde yer almaktadır.
+orneklerkaynak:
+- Numan Hazar
+---

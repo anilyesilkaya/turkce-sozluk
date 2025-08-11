@@ -1,0 +1,16 @@
+---
+layout: term
+title: üşengeç
+slug: usengec
+letter: Ü
+indeks: 66509
+lisan: Türkçe
+anlamlar:
+- Çok üşenen; üşengen
+ozellikler:
+- - sıfat
+ornekler:
+- Hatta Filipinler’de, üşengeç seçmenleri kışkırtmak için kabara kabara gezen kazların boynuna küçük pankartlar bağlamışlar.
+orneklerkaynak:
+- Haldun Taner
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: bademsiz
+slug: bademsiz
+letter: B
+indeks: 80642
+lisan: Türkçe
+anlamlar:
+- İçinde badem bulunmayan
+ozellikler:
+- - sıfat
+ornekler:
+- En üst katına yine bademsiz olarak yedi kat yufka konur. Keskin bir bıçakla yufkalar baklava biçiminde kesilir.
+orneklerkaynak:
+- Hüseyin Çimrin
+---

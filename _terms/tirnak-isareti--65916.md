@@ -1,0 +1,15 @@
+---
+layout: term
+title: tırnak işareti
+slug: tirnak-isareti
+letter: T
+indeks: 65916
+lisan: Türkçe
+anlamlar:
+- Metinde alıntıları veya özellikle vurgulanmak istenen ifadeleri göstermek üzere kullanılan noktalama işaretinin adı, (“...”); tırnak, çift tırnak işareti
+ozellikler:
+- - isim
+  - dil bilgisi
+ornekler: []
+orneklerkaynak: []
+---

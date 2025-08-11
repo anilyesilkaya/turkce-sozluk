@@ -1,0 +1,16 @@
+---
+layout: term
+title: karınca yuvası gibi kaynamak
+slug: karinca-yuvasi-gibi-kaynamak
+letter: K
+indeks: 75627
+lisan: Türkçe
+anlamlar:
+- çok kalabalık ve hareketli olmak
+ozellikler:
+- []
+ornekler:
+- Vapur karınca yuvası gibi kaynıyor.
+orneklerkaynak:
+- Refik Halit Karay
+---

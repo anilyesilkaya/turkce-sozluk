@@ -1,0 +1,16 @@
+---
+layout: term
+title: karikatürist
+slug: karikaturist
+letter: K
+indeks: 36628
+lisan: Fransızca caricaturiste
+anlamlar:
+- karikatürcü
+ozellikler:
+- - isim
+ornekler:
+- Her gelen karikatürist nüktesini duvara çizgilemiş.
+orneklerkaynak:
+- Haldun Taner
+---

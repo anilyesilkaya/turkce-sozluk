@@ -1,0 +1,16 @@
+---
+layout: term
+title: hipnoz
+slug: hipnoz
+letter: H
+indeks: 35535
+lisan: Fransızca hypnose
+anlamlar:
+- Sözle, bakışla telkinle sağlanan bir tür uyku durumu; uyutum, hipnotizma
+ozellikler:
+- - isim
+ornekler:
+- Siz ilk defa Türkiye’de hipnoz konusunda doktora yapmış insansınız.
+orneklerkaynak:
+- Ergun Göze
+---

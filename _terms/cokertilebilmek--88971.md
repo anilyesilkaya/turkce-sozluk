@@ -1,0 +1,16 @@
+---
+layout: term
+title: çökertilebilmek
+slug: cokertilebilmek
+letter: Ç
+indeks: 88971
+lisan: Türkçe
+anlamlar:
+- Çökertilme ihtimali veya imkânı bulunmak
+ozellikler:
+- - -i
+ornekler:
+- Bir tıklama ile devlete ait binlerce internet sitesi aynı anda çökertilebilir.
+orneklerkaynak:
+- Halil İbrahim Bahar
+---

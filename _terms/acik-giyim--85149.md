@@ -1,0 +1,14 @@
+---
+layout: term
+title: açık giyim
+slug: acik-giyim
+letter: A
+indeks: 85149
+lisan: Türkçe
+anlamlar:
+- Kadın giyiminin kolları, göğsü veya sırtı açıkta bırakan biçimi; dekolte
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

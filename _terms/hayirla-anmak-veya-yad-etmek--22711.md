@@ -1,0 +1,14 @@
+---
+layout: term
+title: hayırla anmak (veya yâd etmek)
+slug: hayirla-anmak-veya-yad-etmek
+letter: H
+indeks: 22711
+lisan: Türkçe
+anlamlar:
+- ölmüş bir kimsenin ardından iyi konuşmak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,17 @@
+---
+layout: term
+title: koyma akıl
+slug: koyma-akil
+letter: K
+indeks: 26891
+lisan: Türkçe
+anlamlar:
+- Denenmemiş, etkisi kısa süren, o an için ortaya atılmış bir öğüt türü
+ozellikler:
+- - isim
+  - mecaz
+ornekler:
+- 'Atalarımızın çok güzel bir sözü vardır. Aklı ikiye ayırırlar: Koyma akıl, oyma akıl. Koyma akıl ancak kapıya kadar sürer. Oyma akıl ise bütün hayata siner, derler.'
+orneklerkaynak:
+- Haldun Taner
+---

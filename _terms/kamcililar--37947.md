@@ -1,0 +1,15 @@
+---
+layout: term
+title: kamçılılar
+slug: kamcililar
+letter: K
+indeks: 37947
+lisan: Türkçe
+anlamlar:
+- Bir hücreli hayvanların, önlerinde hareketi sağlayan bir veya dört tane kamçı biçiminde duyargası bulunan, uzunlamasına ikiye bölünerek çoğalan bir sınıfı
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler: []
+orneklerkaynak: []
+---

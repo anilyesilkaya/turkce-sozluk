@@ -1,0 +1,16 @@
+---
+layout: term
+title: çimdirme
+slug: cimdirme
+letter: Ç
+indeks: 17674
+lisan: Türkçe
+anlamlar:
+- Çimdirmek işi
+ozellikler:
+- - isim
+ornekler:
+- Bu çimdirme işi bazen birkaç gün üst üste devam ettirilerek yağmurun yağacağına inanılır.
+orneklerkaynak:
+- Filiz Özdem
+---

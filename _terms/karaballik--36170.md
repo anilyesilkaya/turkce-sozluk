@@ -1,0 +1,16 @@
+---
+layout: term
+title: karaballık
+slug: karaballik
+letter: K
+indeks: 36170
+lisan: Türkçe
+anlamlar:
+- Birtakım böceklerin çıkardıkları şekerli sıvıya yapışarak yaprak, filiz ve meyvelerin kurum karası bir renkte kaplanmasına yol açan ilkel mantar
+- Bu mantarın sebep olduğu hastalık
+ozellikler:
+- - isim
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

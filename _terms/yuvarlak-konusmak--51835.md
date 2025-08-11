@@ -1,0 +1,16 @@
+---
+layout: term
+title: yuvarlak konuşmak
+slug: yuvarlak-konusmak
+letter: Y
+indeks: 51835
+lisan: Türkçe
+anlamlar:
+- bir şeyin ayrıntılarını gereği gibi belirtmeden genel konuşmak
+ozellikler:
+- []
+ornekler:
+- Yuvarlak konuşmayı bırak da söyleyeceğini açıkça söyle diye hatibe müdahale etti.
+orneklerkaynak:
+- Haldun Taner
+---

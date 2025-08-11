@@ -1,0 +1,17 @@
+---
+layout: term
+title: üstüne basmak
+slug: ustune-basmak
+letter: Ü
+indeks: 73126
+lisan: Türkçe
+anlamlar:
+- yerinde bir düşünce ileri sürmek
+- iyice belirtmek
+ozellikler:
+- []
+- []
+ornekler:
+- Üstüne basa basa olmaz, dedi.
+orneklerkaynak: []
+---

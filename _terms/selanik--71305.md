@@ -1,0 +1,14 @@
+---
+layout: term
+title: selanik
+slug: selanik
+letter: S
+indeks: 71305
+lisan: Türkçe
+anlamlar:
+- Atkı, hırka vb.nde kullanılan bir tür örgü biçimi
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

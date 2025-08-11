@@ -1,0 +1,122 @@
+---
+layout: term
+title: koltuk
+slug: koltuk
+letter: K
+indeks: 28268
+lisan: Türkçe
+anlamlar:
+- Omuz başının altında, kolun gövde ile birleştiği yer
+- Kol dayayacak yerleri olan geniş ve rahat sandalye
+- Eski düğünlerde damatla gelinin eve girerken konuklar arasından kol kola geçmeleri töreni
+- Yapıcılıkta yan destek
+- Demirledikten sonra gemiyi iskeleye, rıhtıma veya başka bir gemiye bağlayan ip
+- koltuklanma
+- kayırma
+- Yüksek mevki, makam
+- genelev
+- Mısır ve buğday fidesinin yanlarından çıkan filizler
+- Kenar, tenha yer
+ozellikler:
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+- - isim
+  - denizcilik
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - halk ağzında
+  - eskimiş
+ornekler:
+- Gazetelerini bir koltuğunun altına koydu, zayıf kollarıyla kutulara sarıldı.
+- Ta yan beline kadar gömüldüğü koltuğunun içinden ileriye doğru uzandı.
+- Babamız, annemizi gelin geldiği ilk gün şu merdivenin alt başında karşılamış, koltuk yapılmıştı.
+- O koltuktan hoşlanmaz.
+- Dayısının koltuğunda sırtı yere gelmez.
+- Koltuk kavgası.
+- Burası Mesut Bey adında bir herifin koltuğudur.
+orneklerkaynak:
+- Halide Edip Adıvar
+- 'Yakup Kadri Karaosmanoğlu '
+- Hüseyin Cahit Yalçın
+- Hüseyin Rahmi Gürpınar
+---

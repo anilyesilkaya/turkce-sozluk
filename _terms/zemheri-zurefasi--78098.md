@@ -1,0 +1,17 @@
+---
+layout: term
+title: zemheri zürefası
+slug: zemheri-zurefasi
+letter: Z
+indeks: 78098
+lisan: Türkçe
+anlamlar:
+- Kışın ince giysi ile gezen kimse
+ozellikler:
+- - isim
+  - alay yollu
+ornekler:
+- Çünkü mangal bile yakılmadığı için zemheri zürefası gibi tiril tiril titriyordum.
+orneklerkaynak:
+- Ahmet Rasim
+---

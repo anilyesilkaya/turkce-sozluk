@@ -1,0 +1,16 @@
+---
+layout: term
+title: çocuk lafı
+slug: cocuk-lafi
+letter: Ç
+indeks: 87015
+lisan: Türkçe
+anlamlar:
+- Çocukça söylenen basit söz
+ozellikler:
+- - isim
+ornekler:
+- Gücünüze gitmesin. Çocuk lafı deyip geçin buna.
+orneklerkaynak:
+- İlhan Tarus
+---

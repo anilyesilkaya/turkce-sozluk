@@ -1,0 +1,16 @@
+---
+layout: term
+title: uzak tutmak
+slug: uzak-tutmak
+letter: U
+indeks: 72708
+lisan: Türkçe
+anlamlar:
+- uzakta kalmasını sağlamak
+ozellikler:
+- []
+ornekler:
+- Hayatımızın o dönemlerdeki durallığı, biteviyeliği, romanı toplumumuzdan uzak tutmuştur.
+orneklerkaynak:
+- Selim İleri
+---

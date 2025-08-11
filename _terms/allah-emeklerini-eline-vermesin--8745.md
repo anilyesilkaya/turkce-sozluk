@@ -1,0 +1,14 @@
+---
+layout: term
+title: Allah emeklerini eline vermesin
+slug: allah-emeklerini-eline-vermesin
+letter: A
+indeks: 8745
+lisan: Türkçe
+anlamlar:
+- '"Tanrı emeklerini boşa çıkarmasın" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

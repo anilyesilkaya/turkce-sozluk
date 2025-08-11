@@ -1,0 +1,16 @@
+---
+layout: term
+title: siyahlaşmak
+slug: siyahlasmak
+letter: S
+indeks: 63258
+lisan: Türkçe
+anlamlar:
+- Rengi siyaha dönmek
+ozellikler:
+- - nesnesiz
+ornekler:
+- O mor karanlıkların siyahlaştığı yere yaklaşıyordu.
+orneklerkaynak:
+- Ömer Seyfettin
+---

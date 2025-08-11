@@ -1,0 +1,16 @@
+---
+layout: term
+title: para çıkarmak
+slug: para-cikarmak
+letter: P
+indeks: 51275
+lisan: Türkçe
+anlamlar:
+- para basmak
+- başka yerde bulunan kimseye posta veya banka ile para göndermek
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

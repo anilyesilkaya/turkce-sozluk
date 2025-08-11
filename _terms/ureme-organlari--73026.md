@@ -1,0 +1,15 @@
+---
+layout: term
+title: üreme organları
+slug: ureme-organlari
+letter: Ü
+indeks: 73026
+lisan: Türkçe
+anlamlar:
+- Organizmada üreme görevi için birlikte oluşmuş organlar bütünü
+ozellikler:
+- - isim
+  - biyoloji
+ornekler: []
+orneklerkaynak: []
+---

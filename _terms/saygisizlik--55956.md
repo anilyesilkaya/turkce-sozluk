@@ -1,0 +1,18 @@
+---
+layout: term
+title: saygısızlık
+slug: saygisizlik
+letter: S
+indeks: 55956
+lisan: Türkçe
+anlamlar:
+- Saygısız olma durumu; hürmetsizlik
+- Saygısızca davranış; hürmetsizlik
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Gelgelelim dil saygısızlığına aklım ermiyor.
+orneklerkaynak:
+- Nermi Uygur
+---

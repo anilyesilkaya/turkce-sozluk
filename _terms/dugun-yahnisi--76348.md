@@ -1,0 +1,14 @@
+---
+layout: term
+title: düğün yahnisi
+slug: dugun-yahnisi
+letter: D
+indeks: 76348
+lisan: Türkçe
+anlamlar:
+- Hafifçe kavrulan bol soğan içinde kemikli kuzu etinin ağır ateşte pişirilmesiyle hazırlanan, az sulu yemek türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

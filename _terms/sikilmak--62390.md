@@ -1,0 +1,29 @@
+---
+layout: term
+title: sıkılmak
+slug: sikilmak
+letter: S
+indeks: 62390
+lisan: Türkçe
+anlamlar:
+- Sıkma işi yapılmak
+- Can sıkıntısı duymak
+- Utanıp çekinmek
+- Sıkıntıya düşmek
+ozellikler:
+- - nesnesiz
+  - -den
+- - nesnesiz
+  - -den
+- - nesnesiz
+  - -den
+- - nesnesiz
+  - -den
+ornekler:
+- Çamaşırlar sıkıldı.
+- Ama lunaparkların işlemeli dönme dolaplarına bakmaktan hiç sıkılmadı.
+- O dakikadan dakikaya daha ziyade şaşırıyor, sıkılıyor, buradan kurtulmak istiyordu.
+orneklerkaynak:
+- Adalet Ağaoğlu
+- Memduh Şevket Esendal
+---

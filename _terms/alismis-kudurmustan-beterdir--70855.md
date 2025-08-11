@@ -1,0 +1,14 @@
+---
+layout: term
+title: alışmış kudurmuştan beterdir
+slug: alismis-kudurmustan-beterdir
+letter: A
+indeks: 70855
+lisan: Türkçe
+anlamlar:
+- '"alışılan bir şeyden kolayca vazgeçilmez" anlamında kullanılan bir söz'
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

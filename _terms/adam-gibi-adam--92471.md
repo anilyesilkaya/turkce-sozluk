@@ -1,0 +1,16 @@
+---
+layout: term
+title: adam gibi adam
+slug: adam-gibi-adam
+letter: A
+indeks: 92471
+lisan: Türkçe
+anlamlar:
+- her yönüyle örnek insan
+ozellikler:
+- []
+ornekler:
+- Zordur adam gibi adam olmak; doğarsın, büyürsün ama öyle kolay kolay adam olamazsın.
+orneklerkaynak:
+- Sinan Yıldızlı
+---

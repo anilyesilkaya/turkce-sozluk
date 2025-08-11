@@ -1,0 +1,16 @@
+---
+layout: term
+title: iç güveyisinden hâllice
+slug: ic-guveyisinden-hallice
+letter: I
+indeks: 32669
+lisan: Türkçe
+anlamlar:
+- '"nasılsın" sorusuna "eh işte, fena değil" anlamında verilen karşılık'
+ozellikler:
+- - şaka yollu
+ornekler:
+- ‘Arkadaş nasılsın?’ demişler. ‘Nasıl olacağım, hamdolsun, iç güveyisinden hâlliceyim.’ demiş.
+orneklerkaynak:
+- Ahmet Midhat Efendi
+---

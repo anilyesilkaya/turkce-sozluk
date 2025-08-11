@@ -1,0 +1,16 @@
+---
+layout: term
+title: denklemek
+slug: denklemek
+letter: D
+indeks: 14819
+lisan: Türkçe
+anlamlar:
+- Denk duruma getirmek
+ozellikler:
+- - -i
+ornekler:
+- Emri alır almaz yatağı, yorganı, bakırı, çamaşırı denkledi.
+orneklerkaynak:
+- Etem İzzet Benice
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: mayhoşluk
+slug: mayhosluk
+letter: M
+indeks: 41071
+lisan: Türkçe
+anlamlar:
+- Mayhoş olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

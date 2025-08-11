@@ -1,0 +1,18 @@
+---
+layout: term
+title: topa tutmak
+slug: topa-tutmak
+letter: T
+indeks: 63823
+lisan: Türkçe
+anlamlar:
+- üzerine topla ateş etmek
+- kötü eleştiri amaçlı saldırmak
+ozellikler:
+- - mecaz
+- - mecaz
+ornekler:
+- İngilizlerin topa tuttuğu yerlere gidip bir saat kadar muhtelif çapta birçok mermi ölçtüm.
+orneklerkaynak:
+- Falih Rıfkı Atay
+---

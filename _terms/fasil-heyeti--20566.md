@@ -1,0 +1,15 @@
+---
+layout: term
+title: fasıl heyeti
+slug: fasil-heyeti
+letter: F
+indeks: 20566
+lisan: Türkçe
+anlamlar:
+- Bir faslı icra eden alaturka ses ve saz topluluğu
+ozellikler:
+- - isim
+  - müzik
+ornekler: []
+orneklerkaynak: []
+---

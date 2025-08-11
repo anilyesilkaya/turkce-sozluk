@@ -1,0 +1,14 @@
+---
+layout: term
+title: Hint kumaşı
+slug: hint-kumasi
+letter: H
+indeks: 34355
+lisan: Türkçe
+anlamlar:
+- Hindistan'da dokunan ve Batı ülkelerinde ender bulunan ipekli bir kumaş türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

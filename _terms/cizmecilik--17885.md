@@ -1,0 +1,16 @@
+---
+layout: term
+title: çizmecilik
+slug: cizmecilik
+letter: Ç
+indeks: 17885
+lisan: Türkçe
+anlamlar:
+- Çizmecinin yaptığı iş
+ozellikler:
+- - isim
+ornekler:
+- Sürülerin derisinden debbağlık, ayakkabıcılık, çizmecilik, saraçlık için gereken malzemeleri sağlamışlardır.
+orneklerkaynak:
+- Aysun Dursun
+---

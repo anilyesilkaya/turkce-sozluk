@@ -1,0 +1,20 @@
+---
+layout: term
+title: acı yeşil
+slug: aci-yesil
+letter: A
+indeks: 92271
+lisan: Türkçe
+anlamlar:
+- Çarpıcı, göz alıcı yeşil
+- Bu renkte olan
+ozellikler:
+- - isim
+  - sıfat
+- - isim
+  - sıfat
+ornekler:
+- Sıcak iklimlerde bu mevsim tek renktedir, sadece acı yeşildir.
+orneklerkaynak:
+- Refik Halit Karay
+---

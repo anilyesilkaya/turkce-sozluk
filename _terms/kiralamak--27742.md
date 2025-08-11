@@ -1,0 +1,35 @@
+---
+layout: term
+title: kiralamak
+slug: kiralamak
+letter: K
+indeks: 27742
+lisan: Türkçe
+anlamlar:
+- Kiraya vermek
+- Kira ile tutmak
+- Birini belli bir ücretle belirli bir süre çalıştırmak
+ozellikler:
+- - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+- - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+- - -e
+  - -i
+  - -i
+  - nesnesiz
+  - -i
+ornekler:
+- Evi ona kiraladım.
+- Oturduğunuz evin alt katını bir terzi kiralamıştı.
+- Haydutların reisiyle anlaşıp üç adamını bir ay süreyle kiraladı.
+orneklerkaynak:
+- Necati Cumalı
+- İhsan Oktay Anar
+---

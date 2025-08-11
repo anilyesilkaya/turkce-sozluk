@@ -1,0 +1,17 @@
+---
+layout: term
+title: keyfi yerinde
+slug: keyfi-yerinde
+letter: K
+indeks: 31966
+lisan: Türkçe
+anlamlar:
+- Neşesi, sağlığı yerinde olan (kimse); keyfi yolunda
+ozellikler:
+- - sıfat
+  - mecaz
+ornekler:
+- Başıma yüzlerce adam topluyordum, yeni sahibimin keyfi yerinde idi.
+orneklerkaynak:
+- Refik Halit Karay
+---

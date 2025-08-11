@@ -1,0 +1,16 @@
+---
+layout: term
+title: unutulabilmek
+slug: unutulabilmek
+letter: U
+indeks: 85540
+lisan: Türkçe
+anlamlar:
+- Unutulma ihtimali veya imkânı bulunmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- Son haftaları unutmalıydı; yaz unutulabilir, dokuz yıl önceki tatil, Munch’un boğuntusu unutulabilir.
+orneklerkaynak:
+- Selim İleri
+---

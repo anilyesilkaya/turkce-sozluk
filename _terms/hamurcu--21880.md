@@ -1,0 +1,14 @@
+---
+layout: term
+title: hamurcu
+slug: hamurcu
+letter: H
+indeks: 21880
+lisan: Türkçe
+anlamlar:
+- Fırında hamur yoğuran işçi; hamurkâr
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

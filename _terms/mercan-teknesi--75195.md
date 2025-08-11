@@ -1,0 +1,15 @@
+---
+layout: term
+title: mercan teknesi
+slug: mercan-teknesi
+letter: M
+indeks: 75195
+lisan: Türkçe
+anlamlar:
+- Mercan avlamak için yapılan özel bir tekne türü
+ozellikler:
+- - isim
+  - denizcilik
+ornekler: []
+orneklerkaynak: []
+---

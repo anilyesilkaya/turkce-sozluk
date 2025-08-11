@@ -1,0 +1,16 @@
+---
+layout: term
+title: sürtüp durmak
+slug: surtup-durmak
+letter: S
+indeks: 58833
+lisan: Türkçe
+anlamlar:
+- yersiz, sebepsiz olarak durmadan dolaşmak
+ozellikler:
+- - teklifsiz konuşmada
+ornekler:
+- Galiba bu tarihî günün yüzü suyu hürmetine Beyoğlu'nda sürtüp durdukları yanlarına kâr kaldı idi.
+orneklerkaynak:
+- Haldun Taner
+---

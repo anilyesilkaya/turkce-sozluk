@@ -1,0 +1,15 @@
+---
+layout: term
+title: çinçilya
+slug: cincilya
+letter: Ç
+indeks: 17703
+lisan: Fransızca chinchilla
+anlamlar:
+- Çinçilyagillerden, postu için avlanan, yumuşak ve gümüş rengi tüyleri olan kemirici hayvan (Chinchilla laniger)
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler: []
+orneklerkaynak: []
+---

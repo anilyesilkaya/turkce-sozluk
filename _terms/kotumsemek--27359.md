@@ -1,0 +1,14 @@
+---
+layout: term
+title: kötümsemek
+slug: kotumsemek
+letter: K
+indeks: 27359
+lisan: Türkçe
+anlamlar:
+- Bir olay, bir konu vb.ni yalnız olumsuz yönleriyle düşünmek veya ele almak
+ozellikler:
+- - -i
+ornekler: []
+orneklerkaynak: []
+---

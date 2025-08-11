@@ -1,0 +1,14 @@
+---
+layout: term
+title: frize kaplama
+slug: frize-kaplama
+letter: F
+indeks: 19300
+lisan: Türkçe
+anlamlar:
+- Ağacın yıl halkalarının kaplama yüzeyinde paralel çizgiler hâlinde görülmesiyle elde edilen bir kaplama türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

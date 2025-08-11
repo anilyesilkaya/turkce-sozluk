@@ -1,0 +1,15 @@
+---
+layout: term
+title: zirkonyum
+slug: zirkonyum
+letter: Z
+indeks: 78474
+lisan: Fransızca zirconium
+anlamlar:
+- Atom numarası 40, atom ağırlığı 91,22, yoğunluğu 6,25, siyah toz biçiminde bir element (simgesi Zr)
+ozellikler:
+- - isim
+  - kimya
+ornekler: []
+orneklerkaynak: []
+---

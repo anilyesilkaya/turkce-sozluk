@@ -1,0 +1,16 @@
+---
+layout: term
+title: canına tükürdüğümün (veya üfürdüğümün)
+slug: canina-tukurdugumun-veya-ufurdugumun
+letter: C
+indeks: 3838
+lisan: Türkçe
+anlamlar:
+- kızgınlık ve öfke belirten bir söz
+ozellikler:
+- - argo
+ornekler:
+- O gece birçok muvaffakiyet rüyaları gördükten sonra ertesi günü malum yere damladım. Vay canına tükürdüğümün, ağaç var, şeftali yok!
+orneklerkaynak:
+- Hüseyin Rahmi Gürpınar
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: beklenmez
+slug: beklenmez
+letter: B
+indeks: 76258
+lisan: Türkçe
+anlamlar:
+- Beklenmeyen, umulmayan
+ozellikler:
+- - sıfat
+ornekler:
+- Beklenmez bir tehlike karşısında şaşkınlıktan kendini o tehlikenin ta göbeğine kaldırıp atan bir adam gibi misafirlerin önüne fırladım.
+orneklerkaynak:
+- Reşat Nuri Güntekin
+---

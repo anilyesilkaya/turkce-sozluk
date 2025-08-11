@@ -1,0 +1,17 @@
+---
+layout: term
+title: mütedair
+slug: mutedair
+letter: M
+indeks: 52843
+lisan: Arapça mutedāʾir
+anlamlar:
+- Ait, için, dolayı, üzerine, ... ile ilgili
+ozellikler:
+- - sıfat
+  - eskimiş
+ornekler:
+- Bu meseleye mütedair verdiğim cevapları, şu suretle hülasa edebilirim.
+orneklerkaynak:
+- Atatürk
+---

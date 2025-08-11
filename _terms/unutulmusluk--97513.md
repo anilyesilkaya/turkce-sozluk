@@ -1,0 +1,16 @@
+---
+layout: term
+title: unutulmuşluk
+slug: unutulmusluk
+letter: U
+indeks: 97513
+lisan: Türkçe
+anlamlar:
+- Unutulmuş olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Bir hüzün vardı sesinde. Bir unutulmuşluğa karşı isyan.
+orneklerkaynak:
+- Nazlı Eray
+---

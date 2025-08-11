@@ -1,0 +1,17 @@
+---
+layout: term
+title: hebenneka
+slug: hebenneka
+letter: H
+indeks: 22883
+lisan: (Hebenneka özel isminden)
+anlamlar:
+- Zeki ve becerikli olmadığı hâlde kendini öyle sanan kimse
+ozellikler:
+- - isim
+  - eskimiş
+ornekler:
+- Ben bir hebenneka olmasaydım, başıma bir şey gelmezdi. Anladın mı?
+orneklerkaynak:
+- Ruşen Eşref Ünaydın
+---

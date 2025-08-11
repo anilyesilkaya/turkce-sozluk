@@ -1,0 +1,22 @@
+---
+layout: term
+title: argolu
+slug: argolu
+letter: A
+indeks: 83021
+lisan: Türkçe
+anlamlar:
+- İçinde argo söz bulunan
+- Argo kullanarak (konuşmak)
+ozellikler:
+- - sıfat
+  - zarf
+- - sıfat
+  - zarf
+ornekler:
+- Bol argolu, küfürlü, insanlarla sürekli alay eden oyunlarda bol kahkaha duyuluyor.
+- Yolda bir omzu düşük yürümesi, küfürlü, argolu konuşması da bu türden davranışlardı.
+orneklerkaynak:
+- Nail Tan
+- Deniz Kavukçuoğlu
+---

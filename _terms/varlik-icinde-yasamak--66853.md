@@ -1,0 +1,14 @@
+---
+layout: term
+title: varlık içinde yaşamak
+slug: varlik-icinde-yasamak
+letter: V
+indeks: 66853
+lisan: Türkçe
+anlamlar:
+- bolluk içinde sıkıntısız yaşamak
+ozellikler:
+- []
+ornekler: []
+orneklerkaynak: []
+---

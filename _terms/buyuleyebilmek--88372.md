@@ -1,0 +1,18 @@
+---
+layout: term
+title: büyüleyebilmek
+slug: buyuleyebilmek
+letter: B
+indeks: 88372
+lisan: Türkçe
+anlamlar:
+- Büyüleme ihtimali veya imkânı bulunmak
+- Büyüleme becerisi bulunmak
+ozellikler:
+- - -i
+- - -i
+ornekler:
+- Yoksa alçak gönüllü, içten ve konuşkan bir İstanbul kızı bunların hepsini büyüleyebilir, hepsinden tatlı birer arkadaş yaratabilirdi.
+orneklerkaynak:
+- Hasan İzzettin Dinamo
+---

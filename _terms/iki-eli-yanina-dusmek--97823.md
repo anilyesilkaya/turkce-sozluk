@@ -1,0 +1,16 @@
+---
+layout: term
+title: iki eli yanına düşmek
+slug: iki-eli-yanina-dusmek
+letter: I
+indeks: 97823
+lisan: Türkçe
+anlamlar:
+- büyük bir şaşkınlıkla olduğu yerde donakalmak
+ozellikler:
+- []
+ornekler:
+- Tam bu sırada kovuktan dışarı çıkan ana, gelenleri görünce donakaldı. İki eli yanına düştü
+orneklerkaynak:
+- Nâzım Hikmet
+---

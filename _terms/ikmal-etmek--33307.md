@@ -1,0 +1,18 @@
+---
+layout: term
+title: ikmal etmek
+slug: ikmal-etmek
+letter: I
+indeks: 33307
+lisan: Türkçe
+anlamlar:
+- eksik bir şeyi tamamlamak
+- bir şeyi sona erdirmek
+ozellikler:
+- []
+- []
+ornekler:
+- Bugün başlanır, bin senede ikmal edilir.
+orneklerkaynak:
+- Necip Fazıl Kısakürek
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: çengel
+slug: cengel
+letter: Ç
+indeks: 24236
+lisan: Farsça çengāl
+anlamlar:
+- Bir yere takılmaya, geçirilmeye yarayan eğri ve ucu sivri demir
+ozellikler:
+- - isim
+ornekler:
+- Alaturka, eski tahta kapısının dışarıdan da içeriden de çengelleri var.
+orneklerkaynak:
+- Ayla Kutlu
+---

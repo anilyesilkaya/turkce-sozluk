@@ -1,0 +1,14 @@
+---
+layout: term
+title: şevksizlik
+slug: sevksizlik
+letter: Ş
+indeks: 59728
+lisan: Türkçe
+anlamlar:
+- Şevksiz olma durumu
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

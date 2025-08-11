@@ -1,0 +1,15 @@
+---
+layout: term
+title: cehennem taşı
+slug: cehennem-tasi
+letter: C
+indeks: 4099
+lisan: Türkçe
+anlamlar:
+- Gümüşün nitrik asitte ergitilmesiyle elde edilen, havaya dayanıklı, ışıkta bozulmayan beyaz kristal
+ozellikler:
+- - isim
+  - mineraloji
+ornekler: []
+orneklerkaynak: []
+---

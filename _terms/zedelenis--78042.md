@@ -1,0 +1,16 @@
+---
+layout: term
+title: zedeleniş
+slug: zedelenis
+letter: Z
+indeks: 78042
+lisan: Türkçe
+anlamlar:
+- Zedelenmek işi
+ozellikler:
+- - isim
+ornekler:
+- Senatoya ait yetkilerin zedelenişleri gibi hadiseler birbirini takip etmeye başlamıştı.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

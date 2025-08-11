@@ -1,0 +1,16 @@
+---
+layout: term
+title: saltanat sürmek
+slug: saltanat-surmek
+letter: S
+indeks: 54076
+lisan: Türkçe
+anlamlar:
+- hükümdarlık etmek
+- bolluk içinde yaşamak
+ozellikler:
+- []
+- []
+ornekler: []
+orneklerkaynak: []
+---

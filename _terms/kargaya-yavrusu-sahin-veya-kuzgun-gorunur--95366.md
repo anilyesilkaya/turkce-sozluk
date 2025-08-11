@@ -1,0 +1,16 @@
+---
+layout: term
+title: kargaya yavrusu şahin (veya kuzgun) görünür
+slug: kargaya-yavrusu-sahin-veya-kuzgun-gorunur
+letter: K
+indeks: 95366
+lisan: Türkçe
+anlamlar:
+- “sevdiklerimizin kusurlu yönleri de güzel görünür” anlamında kullanılan bir söz
+ozellikler:
+- []
+ornekler:
+- Güner’in oğlu tam da ‘kargaya yavrusu kuzgun görünür’ meselinin kanıtı.
+orneklerkaynak:
+- Adalet Ağaoğlu
+---

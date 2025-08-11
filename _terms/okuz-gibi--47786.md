@@ -1,0 +1,16 @@
+---
+layout: term
+title: öküz gibi
+slug: okuz-gibi
+letter: Ö
+indeks: 47786
+lisan: Türkçe
+anlamlar:
+- aptal, anlayışsız bir biçimde
+ozellikler:
+- []
+ornekler:
+- Usta şoför olsa tramvay fren yapınca bunu sezer, gelip öyle öküz gibi bindirmezdi.
+orneklerkaynak:
+- Haldun Taner
+---

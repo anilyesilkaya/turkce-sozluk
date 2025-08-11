@@ -1,0 +1,18 @@
+---
+layout: term
+title: eşkıyalık
+slug: eskiyalik
+letter: E
+indeks: 19810
+lisan: Türkçe
+anlamlar:
+- Eşkıya olma durumu
+- Eşkıyaca davranış
+ozellikler:
+- - isim
+- - isim
+ornekler:
+- Bu adam bir aralık eşkıyalık yapmış çok nemrut bir herif.
+orneklerkaynak:
+- Peyami Safa
+---

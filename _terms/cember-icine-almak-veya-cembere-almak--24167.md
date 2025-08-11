@@ -1,0 +1,16 @@
+---
+layout: term
+title: çember içine almak (veya çembere almak)
+slug: cember-icine-almak-veya-cembere-almak
+letter: Ç
+indeks: 24167
+lisan: Türkçe
+anlamlar:
+- kuşatmak
+ozellikler:
+- []
+ornekler:
+- İktidar, muhalefet partilerini gittikçe daralan bir çember içine alıyor.
+orneklerkaynak:
+- 'Yakup Kadri Karaosmanoğlu '
+---

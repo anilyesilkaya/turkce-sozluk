@@ -1,0 +1,16 @@
+---
+layout: term
+title: ruh ikizliği
+slug: ruh-ikizligi
+letter: R
+indeks: 94302
+lisan: Türkçe
+anlamlar:
+- Düşündükleri, hissettikleri birbirinin aynı olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Hemen bütün hayatı çeşitli ızdıraplar içinde geçmiş Strindberg’le (Auguste) bazen bana ruh ikizliğimiz var gibi geliyor.
+orneklerkaynak:
+- Selim İleri
+---

@@ -1,0 +1,20 @@
+---
+layout: term
+title: mistisizm
+slug: mistisizm
+letter: M
+indeks: 31525
+lisan: Fransızca mysticisme
+anlamlar:
+- Bir konuda en üst derecede bulunabilme tutkusu
+- gizemcilik
+ozellikler:
+- - isim
+  - felsefe
+- - isim
+  - felsefe
+ornekler:
+- Bizi sıhhatimize iman ettiren, kuvvetlerimizin arttığını duyuran spor mistisizmi daha teessüs etmemişti.
+orneklerkaynak:
+- Abdülhak Şinasi Hisar
+---

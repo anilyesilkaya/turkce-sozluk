@@ -1,0 +1,14 @@
+---
+layout: term
+title: Beyağaç
+slug: beyagac
+letter: B
+indeks: 71728
+lisan: Türkçe
+anlamlar:
+- Denizli iline bağlı ilçelerden biri
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

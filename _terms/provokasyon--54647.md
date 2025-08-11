@@ -1,0 +1,16 @@
+---
+layout: term
+title: provokasyon
+slug: provokasyon
+letter: P
+indeks: 54647
+lisan: Fransızca provocation
+anlamlar:
+- kışkırtma
+ozellikler:
+- - isim
+ornekler:
+- Devleti savaşa sokmak kolay değildi, bunun için ağır bir provokasyon gerekiyordu.
+orneklerkaynak:
+- Hıfzı Topuz
+---

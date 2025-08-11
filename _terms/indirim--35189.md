@@ -1,0 +1,17 @@
+---
+layout: term
+title: indirim
+slug: indirim
+letter: I
+indeks: 35189
+lisan: Türkçe
+anlamlar:
+- Fiyatta yapılan değer düşürümü; tenzilat, iskonto
+ozellikler:
+- - isim
+  - ticaret
+ornekler:
+- Ankara Palas'ta kendisine dörtte üç oranında indirim yapılırdı.
+orneklerkaynak:
+- Çetin Altan
+---

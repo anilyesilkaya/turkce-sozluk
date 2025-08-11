@@ -1,0 +1,16 @@
+---
+layout: term
+title: hınzırca
+slug: hinzirca
+letter: H
+indeks: 34007
+lisan: Türkçe
+anlamlar:
+- Hınzır bir biçimde; hınzırcasına
+ozellikler:
+- - zarf
+ornekler:
+- Türkiye’ye gitmek istiyordun ya Toby diye mırıldandı Yıldız hınzırca gülerek, al sana Türkiye.
+orneklerkaynak:
+- Ahmet Ümit
+---

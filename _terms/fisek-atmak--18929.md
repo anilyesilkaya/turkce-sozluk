@@ -1,0 +1,16 @@
+---
+layout: term
+title: fişek atmak
+slug: fisek-atmak
+letter: F
+indeks: 18929
+lisan: Türkçe
+anlamlar:
+- ortalığı karıştıracak bir söz söylemek
+- cinsel birleşmede bulunmak
+ozellikler:
+- - kaba konuşmada
+- - kaba konuşmada
+ornekler: []
+orneklerkaynak: []
+---

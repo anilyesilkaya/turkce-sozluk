@@ -1,0 +1,16 @@
+---
+layout: term
+title: Uzay Çağı
+slug: uzay-cagi
+letter: U
+indeks: 97660
+lisan: Türkçe
+anlamlar:
+- İnsanın uzayda çalışma yapmaya başladığı çağ
+ozellikler:
+- - isim
+ornekler:
+- Uzay Çağı’na memleketimiz henüz girmemiş olmakla beraber havacılık alanında kadınlarımız üzerinde bazı tecrübelere de sahip bulunmaktayız.
+orneklerkaynak:
+- Burhan Göksel
+---

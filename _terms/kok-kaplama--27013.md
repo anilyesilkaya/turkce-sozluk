@@ -1,0 +1,14 @@
+---
+layout: term
+title: kök kaplama
+slug: kok-kaplama
+letter: K
+indeks: 27013
+lisan: Türkçe
+anlamlar:
+- Ağacın köklerinden elde edilen, güzel desenli bir kaplama türü
+ozellikler:
+- - isim
+ornekler: []
+orneklerkaynak: []
+---

@@ -1,0 +1,16 @@
+---
+layout: term
+title: keyiflenmek
+slug: keyiflenmek
+letter: K
+indeks: 31990
+lisan: Türkçe
+anlamlar:
+- Keyifli duruma gelmek
+ozellikler:
+- - nesnesiz
+ornekler:
+- Bir rivayete göre, kaplanın dayısı olan kedinin keyiflenip miyavlaması işte bu zamandan kalmadır.
+orneklerkaynak:
+- Nâzım Hikmet
+---

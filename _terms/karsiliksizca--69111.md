@@ -1,0 +1,16 @@
+---
+layout: term
+title: karşılıksızca
+slug: karsiliksizca
+letter: K
+indeks: 69111
+lisan: Türkçe
+anlamlar:
+- Karşılıksız bir biçimde
+ozellikler:
+- - zarf
+ornekler:
+- Çünkü sevgi, özündeki verme duygusuyla insana karşılıksızca emek harcarken hem veren hem de alan insanı mutlulukla çoğaltır ve büyütür.
+orneklerkaynak:
+- Sema Özher
+---

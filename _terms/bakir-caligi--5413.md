@@ -1,0 +1,26 @@
+---
+layout: term
+title: bakır çalığı
+slug: bakir-caligi
+letter: B
+indeks: 5413
+lisan: Türkçe
+anlamlar:
+- bakır yeşili
+- Bu renkte olan
+- Bakır tuzları ile zehirli duruma gelmiş
+ozellikler:
+- - isim
+  - sıfat
+  - sıfat
+- - isim
+  - sıfat
+  - sıfat
+- - isim
+  - sıfat
+  - sıfat
+ornekler:
+- Dudakları inceydi, kahverengi, daha doğrusu bakır çalığı.
+orneklerkaynak:
+- Tomris Uyar
+---

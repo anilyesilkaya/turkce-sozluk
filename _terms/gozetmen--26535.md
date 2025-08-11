@@ -1,0 +1,22 @@
+---
+layout: term
+title: gözetmen
+slug: gozetmen
+letter: G
+indeks: 26535
+lisan: Türkçe
+anlamlar:
+- Sınavın kurallara uygun bir biçimde yapılmasını sağlayan kimse; gözcü
+- Film çalışmalarında yapımcı adına filmin sanat, teknik ve para yönünü düzenleyen kimse
+ozellikler:
+- - isim
+  - eğitim
+  - sinema
+  - televizyon
+- - isim
+  - eğitim
+  - sinema
+  - televizyon
+ornekler: []
+orneklerkaynak: []
+---

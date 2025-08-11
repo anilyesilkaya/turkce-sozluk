@@ -1,0 +1,15 @@
+---
+layout: term
+title: gayrimeskûn
+slug: gayrimeskun
+letter: G
+indeks: 29060
+lisan: Arapça ġayr + meskūn
+anlamlar:
+- Yerleşilmemiş, üstünde oturulmayan boş (yer)
+ozellikler:
+- - sıfat
+  - eskimiş
+ornekler: []
+orneklerkaynak: []
+---

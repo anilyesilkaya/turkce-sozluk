@@ -1,0 +1,17 @@
+---
+layout: term
+title: saplantı
+slug: saplanti
+letter: S
+indeks: 54321
+lisan: Türkçe
+anlamlar:
+- Kişinin etkisinden kendini kurtaramadığı, yersiz saçma düşünce; sabit fikir, fikrisabit, idefiks
+ozellikler:
+- - isim
+  - ruh bilimi
+ornekler:
+- Yıllardan beri böyleyim işte. Bir saplantıya mı uğradım?
+orneklerkaynak:
+- Nermi Uygur
+---

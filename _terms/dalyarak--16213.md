@@ -1,0 +1,17 @@
+---
+layout: term
+title: dalyarak
+slug: dalyarak
+letter: D
+indeks: 16213
+lisan: Türkçe
+anlamlar:
+- “Budalalığı yüzünden her zaman densizlik, küstahlık eden (kimse)” anlamında kullanılan bir hakaret sözü
+ozellikler:
+- - sıfat
+  - hakaret yollu
+ornekler:
+- E ne konuşuyorsun o zaman, dalyarak.
+orneklerkaynak:
+- Hamdi Koç
+---

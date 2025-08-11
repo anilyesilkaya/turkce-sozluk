@@ -1,0 +1,16 @@
+---
+layout: term
+title: lacivertlik
+slug: lacivertlik
+letter: L
+indeks: 48848
+lisan: Türkçe
+anlamlar:
+- Lacivert renkli olma durumu
+ozellikler:
+- - isim
+ornekler:
+- Fakat Emma, uzakta ilk mimozaların arasında tropikal bir lacivertlikle uzanan denize dalmıştı.
+orneklerkaynak:
+- Ahmet Hamdi Tanpınar
+---

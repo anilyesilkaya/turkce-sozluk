@@ -1,0 +1,16 @@
+---
+layout: term
+title: çizik çekmek
+slug: cizik-cekmek
+letter: Ç
+indeks: 94669
+lisan: Türkçe
+anlamlar:
+- çizmek
+ozellikler:
+- []
+ornekler:
+- Bir ayağıyla boydan boya incecik bir çizik çekti, boz toprağın yüzüne.
+orneklerkaynak:
+- Osman Şahin
+---
