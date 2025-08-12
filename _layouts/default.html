@@ -4,6 +4,18 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% assign desc = page.description | default: site.description | strip_html | strip_newlines | escape %}
+  <meta name="description" content="{{ desc }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ desc }}">
+  <meta property="og:type" content="{% if page.layout == 'term' or page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="{{ desc }}">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -11,6 +23,7 @@
     <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
 
     {%- if page.url == '/' %}
+      <p class="tagline">{{ site.description }}</p>
       <p class="term-count">Toplam <strong>{{ site.terms | size }}</strong> kelime</p>
     {%- endif %}
 

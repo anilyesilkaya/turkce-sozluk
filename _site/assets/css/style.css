@@ -1,4 +1,9 @@
 /* ---------- Global Reset & Variables ---------- */
+html { scrollbar-gutter: stable; }
+@supports not (scrollbar-gutter: stable) {
+  html { overflow-y: scroll; } /* always show (or reserve) the scrollbar */
+}
+
 *, *::before, *::after { box-sizing: border-box; }
 
 :root {
@@ -7,6 +12,7 @@
   --accent-cont:  #992323;
   --gray-light:   #f1f5f9;
   --border:       #e5e7eb;
+  --muted:        #6b7280;
   --radius:       .25rem;
   --space:        .75rem;
 }
@@ -21,6 +27,15 @@ body {
                "Segoe UI", Roboto, "Helvetica Neue", Arial,
                "Noto Sans", sans-serif;
 }
+
+.tagline {
+  margin: .5rem 0 1.25rem;
+  font-size: clamp(1rem, 1.1rem + 0.4vw, 1.25rem);
+  color: var(--muted, #6b7280);
+  line-height: 1.5;
+  text-align: center;
+}
+
 
 /* ---------- Header ---------- */
 .site-header {
@@ -54,8 +69,9 @@ body {
   transition: background-color .2s ease;
 }
 
-#random-word:hover,
-#random-word:focus {
+#random-word a:hover,
+#random-word a:focus-visible,
+#random-word a:active {
   background: var(--accent);
 }
 
@@ -110,7 +126,8 @@ body {
 }
 
 .site-title a:hover,
-.site-title a:focus {
+.site-title a:focus-visible,
+.site-title a:active {
   color: var(--accent);
   text-decoration: none;
   text-underline-offset: 4px;
@@ -145,8 +162,10 @@ footer a {
   font-weight: 600;
 }
 
+/* Hover (mouse), Focus-Visible (keyboard), and Active (touch) share styles */
 footer a:hover,
-footer a:focus {
+footer a:focus-visible,
+footer a:active {
   color: var(--accent);
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -226,4 +245,18 @@ body.error-404 {
 .letter-nav a.current{
   font-weight:700;
   text-decoration:underline;
+}
+
+.letter-list a {
+  color: var(--accent-dark);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.letter-list a:hover,
+.letter-list a:focus-visible,
+.letter-list a:active {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
