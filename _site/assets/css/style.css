@@ -239,9 +239,19 @@ body.error-404 {
   font-size:1.05rem;
 }
 .letter-nav a{
-  text-decoration:none;
-  color:var(--accent-dark);
+  color: var(--accent-dark);
+  text-decoration: none;
+  font-weight: 500;
 }
+
+.letter-nav a:hover,
+.letter-nav a:focus-visible,
+.letter-nav a:active {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 .letter-nav a.current{
   font-weight:700;
   text-decoration:underline;
@@ -250,7 +260,7 @@ body.error-404 {
 .letter-list a {
   color: var(--accent-dark);
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .letter-list a:hover,
