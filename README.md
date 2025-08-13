@@ -81,3 +81,4 @@ git commit -m "Yeni özellik eklendi"
 
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın
+- Kodlar: [MIT Lisansı](./LICENSE)  
