@@ -1,5 +1,10 @@
 # Modern Türkçe Sözlük
 
+## Canlı Önizleme
+
+👉 [Proje Sitesi - sozluk.pro](https://sozluk.pro)  
+👉 [GitHub Reposu](https://github.com/anilyesilkaya/turkce-sozluk)
+
 **Modern Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir Türkçe sözlük projesidir.  
 Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zekâ tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
 
@@ -11,11 +16,6 @@ Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik 
 - 🌐 **Jekyll tabanlı statik site** — GitHub Pages uyumlu
 - 🔍 **LLM uyumlu JSON formatı** ile veri sunumu
 - 🎨 Minimal, modern ve mobil uyumlu arayüz
-
-## Canlı Önizleme
-
-👉 [Proje Sitesi](https://sozluk.pro)  
-👉 [GitHub Reposu](https://github.com/anilyesilkaya/turkce-sozluk)
 
 ## Kurulum
 
