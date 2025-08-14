@@ -13,9 +13,10 @@ layout: default
     {% assign i = forloop.index0 %}
 
     <li>
-      {% if page.ozellikler[i] %}
+      {% assign ozellikler_filtered = page.ozellikler[i] | reject: "" %}
+      {% if ozellikler_filtered and ozellikler_filtered.size > 0 %}
         <span class="ozellikler">
-          [{{ page.ozellikler[i] | join: ", " }}]
+          [{{ ozellikler_filtered | join: ", " }}]
         </span>&nbsp;
       {% endif %}
 

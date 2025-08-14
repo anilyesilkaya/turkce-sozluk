@@ -1,4 +1,7 @@
 # Modern Türkçe Sözlük
+<p align="center">
+  <img src="assets/cover.png" alt="Türkçe Sözlük Projesi" width="300">
+</p>
 
 ## Canlı Önizleme
 
