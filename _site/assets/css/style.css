@@ -268,5 +268,4 @@ body.error-404 {
 .letter-list a:active {
   color: var(--accent);
   text-decoration: underline;
-  text-underline-offset: 4px;
 }
