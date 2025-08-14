@@ -22,13 +22,13 @@
   <header class="site-header" role="banner">
     <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
 
+    {%- if page.url == '/' or page.url contains '/terim' %}
+      {% include search_banner.html %}
+    {%- endif %}
+
     {%- if page.url == '/' %}
       <p class="tagline">{{ site.description }}</p>
       <p class="term-count">Toplam <strong>{{ site.terms | size }}</strong> kelime</p>
-    {%- endif %}
-
-    {%- if page.url == '/' or page.url contains '/terim' %}
-      {% include search_banner.html %}
     {%- endif %}
   </header>
 
