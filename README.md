@@ -2,7 +2,7 @@
 
 ## Canlı Önizleme
 
-👉 [Proje Sitesi - sozluk.pro](https://www.sozluk.pro)
+👉 [Proje Sitesi - sozluk.pro](https://sozluk.pro/)
 
 **Modern Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir Türkçe sözlük projesidir.  
 Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zekâ tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
