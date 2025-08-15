@@ -23,7 +23,7 @@ Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik 
 
 Bu projeyi yerel ortamda çalıştırmak için:
 
-1. Repoyu klonlayın:
+1. Depoyu klonlayın:
    ```bash
    git clone https://github.com/anilyesilkaya/turkce-sozluk.git
    cd turkce-sozluk
