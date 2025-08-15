@@ -1,6 +1,6 @@
 # Modern Türkçe Sözlük
 **Modern Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir Türkçe sözlük projesidir.  
-Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zekâ tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
+Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zeka tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
 
 <p align="center">
   <img src="assets/cover.png" alt="Türkçe Sözlük Projesi" width="300">
