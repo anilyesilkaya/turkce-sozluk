@@ -1,14 +1,14 @@
-# Modern Türkçe Sözlük
+# Türkçe Sözlük++
+**Türkçe Sözlük-artı-artı**, açık kaynak kodlu ve LLM dostu bir çağdaş Türkçe sözlük projesidir.  
+Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zeka tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
+
 <p align="center">
   <img src="assets/cover.png" alt="Türkçe Sözlük Projesi" width="300">
 </p>
 
 ## Canlı Önizleme
 
-👉 [Proje Sitesi - sozluk.pro](https://www.sozluk.pro)
-
-**Modern Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir Türkçe sözlük projesidir.  
-Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zekâ tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
+👉 [Proje Sitesi - sozluk.pro](https://sozluk.pro)
 
 ## Özellikler
 
@@ -23,7 +23,7 @@ Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik 
 
 Bu projeyi yerel ortamda çalıştırmak için:
 
-1. Repoyu klonlayın:
+1. Depoyu klonlayın:
    ```bash
    git clone https://github.com/anilyesilkaya/turkce-sozluk.git
    cd turkce-sozluk
@@ -83,4 +83,10 @@ git commit -m "Yeni özellik eklendi"
 
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın
-- Kodlar: [MIT Lisansı](./LICENSE)  
+- Kodlar: [MIT Lisansı](./LICENSE)
+
+Bu projede kullanılan sözlük verisi, (`v12.gts.json.tar.gz` arşiv dosyası içindeki JSON dosyası) [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) deposundan alınmıştır.
+
+- **Depodaki konum**: `sozluk/v12/v12.gts.json.tar.gz`
+- **Erişim tarihi**: 15 Ağustos 2025
+- **Lisans**: Orijinal depodaki lisans bilgisine bakınız (örn. MIT, Apache vb.).
