@@ -8,7 +8,7 @@ Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik 
 
 ## Canlı Önizleme
 
-👉 [Proje Sitesi - sozluk.turkdil.com](https://sozluk.turkdil.com))
+👉 [Proje Sitesi - sozluk.pro](https://sozluk.pro))
 
 ## Özellikler
 
