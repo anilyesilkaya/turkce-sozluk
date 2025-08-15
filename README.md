@@ -83,4 +83,10 @@ git commit -m "Yeni özellik eklendi"
 
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın
-- Kodlar: [MIT Lisansı](./LICENSE)  
+- Kodlar: [MIT Lisansı](./LICENSE)
+
+Bu projede kullanılan sözlük verisi, `v12.gts.json.tar.gz` arşiv dosyası içindeki JSON dosyası [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) deposundan alınmıştır.
+
+- **Depodaki konum**: `sozluk/v12/v12.gts.json.tar.gz`
+- **Erişim tarihi**: 15 Ağustos 2025
+- **Lisans**: Orijinal depodaki lisans bilgisine bakınız (örn. MIT, Apache vb.).
