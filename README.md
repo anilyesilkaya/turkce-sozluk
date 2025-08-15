@@ -1,5 +1,5 @@
-# Modern Türkçe Sözlük
-**Modern Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir Türkçe sözlük projesidir.  
+# Türkçe Sözlük++
+**Türkçe Sözlük-artı-artı**, açık kaynak kodlu ve LLM dostu bir çağdaş Türkçe sözlük projesidir.  
 Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zeka tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
 
 <p align="center">
@@ -8,7 +8,7 @@ Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik 
 
 ## Canlı Önizleme
 
-👉 [Proje Sitesi - sozluk.pro](https://sozluk.pro/)
+👉 [Proje Sitesi - sozluk.turkdil.com](https://sozluk.turkdil.com))
 
 ## Özellikler
 
