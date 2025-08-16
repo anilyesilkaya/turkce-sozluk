@@ -77,7 +77,7 @@ body {
 
 /* ---------- Search ---------- */
 #search {
-  width: 18rem;
+  width: 20rem;
   max-width: 100%;
   font-size: 1rem;
   padding: .5rem .75rem;
@@ -140,7 +140,7 @@ body {
 
 /* ---------- Term Page Elements ---------- */
 .term-title {
-  font-size: 2.5rem;
+  font-size: 2.4rem;
   margin: 1.5rem 0 .5rem;
   line-height: 1.2;
 }
