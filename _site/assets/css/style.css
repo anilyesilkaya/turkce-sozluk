@@ -117,7 +117,7 @@ body {
 
 /* Search result subtitle (slug) */
 .res-desc {
-  display: block;            /* put it on its own line under the title */
+  /* display: block;            /* put it on its own line under the title */
   font-size: 0.8rem;         /* smaller text */
   color: var(--muted, #6b7280);  /* use your muted color if defined */
   margin-top: 0.1rem;
