@@ -29,7 +29,7 @@
 
     {%- if page.url == '/' %}
       <p class="tagline">{{ site.description }}</p>
-      <p class="term-count">Toplam <strong>{{ site.terms | size }}</strong> kelime</p>
+      <p class="term-count">Sözlükte toplam <strong>{{ site.terms | size }}</strong> madde mevcutç</p>
     {%- endif %}
   </header>
 
@@ -37,12 +37,8 @@
     {{ content }}
   </main>
 
-  <footer role="contentinfo">
-    {%- if page.url == '/' %}  
-      <p><a href="{{ '/liste/A.html' | relative_url }}">İlk harfine göre sıralı kelimeler listesi</a></p>
-    {%- endif %}
-    <p>Anıl Yeşilkaya &copy; {{ site.time | date: '%Y' }}</p>
-  </footer>
+  <!-- Footer -->
+  {% include footer.html %}
 
   <!-- JS & data needed by both the home page and every term page -->
   <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
