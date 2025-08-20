@@ -60,25 +60,19 @@ body {
 
 /* ---------- Buttons ---------- */
 #random-word {
-  background-color: var(--accent-dark);
+  background: var(--accent-dark);
   color: #fff;
   border: 0;
   padding: .5rem 1rem;
   border-radius: var(--radius);
   cursor: pointer;
-  transition: transform .06s ease,
-              background-color .15s ease,
-              box-shadow .15s ease;
+  transition: transform .06s ease, background-color .15s ease, box-shadow .15s ease;
 }
-
 #random-word:hover,
-#random-word:focus-visible {
-  background-color: var(--accent);
-}
-
+#random-word:focus-visible,
 #random-word:active {
-  background-color: var(--accent-dark);
-  transform: translateY(1px);
+  background: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in oklab, var(--accent) 30%, transparent);
 }
 
 /* ---------- Search ---------- */
@@ -119,6 +113,14 @@ body {
 /* Hide the box altogether when it has no <li> children */
 #results:empty {
   display: none;
+}
+
+/* Search result subtitle (slug) */
+.res-desc {
+  display: block;            /* put it on its own line under the title */
+  font-size: 0.8rem;         /* smaller text */
+  color: var(--muted, #6b7280);  /* use your muted color if defined */
+  margin-top: 0.1rem;
 }
 
 /* ---------- Typography ---------- */
