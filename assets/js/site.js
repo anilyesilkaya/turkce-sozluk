@@ -68,7 +68,7 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
       <li role="option" data-url="${t.url}">
         <a href="${t.url}">
           <span class="res-title">${t.title}</span>
-          ${t._id ? `<small class="res-desc">${t._slug}</small>` : ""}
+          ${t._id ? `<small class="res-desc">(${t._slug})—${t._id})</small>` : ""}
         </a>
       </li>
     `).join("");
