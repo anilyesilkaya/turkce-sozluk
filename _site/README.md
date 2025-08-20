@@ -1,5 +1,5 @@
-# Türkçe Sözlük++
-**Türkçe Sözlük-artı-artı** (**Türkçe Sözlük-plus-plus**), açık kaynak kodlu ve LLM dostu bir çağdaş Türkçe sözlük projesidir.  
+# Modern Türkçe Sözlük
+**Modern Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir çağdaş Türkçe sözlük projesidir.  
 Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zeka tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
 
 <p align="center">
