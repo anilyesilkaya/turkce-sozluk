@@ -29,20 +29,21 @@ layout: default
 
 <h1 class="letter-heading">{{ page.letter }} harfiyle başlayan sözcükler</h1>
 
-{%- assign list = site.terms
+{% assign list = site.terms
      | where_exp: "t", "t.letter == page.letter"
-     | sort:      "title" -%}
+     | sort:      "title" %}
 
 {% if list and list.size > 0 %}
+  <p class="term-count">Toplam <strong>{{ list.size }}</strong> madde</p>
   <ul class="letter-list">
-    {%- for t in list -%}
-      {%- assign slug  = t.slug | default: t.basename_without_ext -%}
+    {% for t in list %}
+      {% assign slug  = t.slug | default: t.basename_without_ext %}
       <li>
         <a href="{{ t.url | relative_url }}">
           {{ t.title | default: t.basename_without_ext }}
         </a>
       </li>
-    {%- endfor -%}
+    {% endfor %}
   </ul>
 {% else %}
   <p>Henüz bu harfle başlayan sözcük eklenmedi.</p>

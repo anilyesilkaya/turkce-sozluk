@@ -19,7 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Türkçe Sözlük
+author: Anıl Yeşilkaya
 email: 
+github:
+  repository_url: https://github.com/anilyesilkaya/turkce-sozluk
 description: >- # this means to ignore newlines until "baseurl:"
   Açık kaynaklı, geliştirici dostu çağdaş Türkçe sözlük
 baseurl: "" # the subpath of your site, e.g. /blog
