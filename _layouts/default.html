@@ -16,7 +16,12 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% assign desc = page.description | default: site.description | strip_html | strip_newlines | escape %}
+  {%- if page.layout == 'term' and page.anlamlar and page.anlamlar.size > 0 -%}
+    {%- assign first_def = page.anlamlar[0] -%}
+    {%- assign desc = page.title | append: ' ne demek? ' | append: first_def | strip_html | strip_newlines | escape -%}
+  {%- else -%}
+    {%- assign desc = page.description | default: site.description | strip_html | strip_newlines | escape -%}
+  {%- endif -%}
   <meta name="description" content="{{ desc }}">
 
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
