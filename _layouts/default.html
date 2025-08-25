@@ -2,11 +2,23 @@
 <html lang="tr">
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  {%- assign base_title = site.title -%}
+
+  {%- comment -%} Build page title {%- endcomment -%}
+  {%- if page.layout == 'term' and page.title -%}
+    {%- assign title_text = page.title | append: ' ne demek?' -%}
+  {%- elsif page.title -%}
+    {%- assign title_text = page.title -%}
+  {%- else -%}
+    {%- assign title_text = base_title -%}
+  {%- endif -%}
+  <title>{{ title_text }} | {{ base_title }}</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% assign desc = page.description | default: site.description | strip_html | strip_newlines | escape %}
   <meta name="description" content="{{ desc }}">
+
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
   <meta property="og:description" content="{{ desc }}">
   <meta property="og:type" content="{% if page.layout == 'term' or page.layout == 'post' %}article{% else %}website{% endif %}">
