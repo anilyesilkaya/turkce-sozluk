@@ -2,65 +2,107 @@
 <html lang="tr">
 <head>
   <meta charset="utf-8">
-  {%- assign base_title = site.title -%}
-
-  {%- comment -%} Build page title {%- endcomment -%}
-  {%- if page.layout == 'term' and page.title -%}
-    {%- assign title_text = page.title | append: ' ne demek?' -%}
-  {%- elsif page.title -%}
-    {%- assign title_text = page.title -%}
-  {%- else -%}
-    {%- assign title_text = base_title -%}
-  {%- endif -%}
-  <title>{{ title_text }} | {{ base_title }}</title>
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {%- if page.layout == 'term' and page.anlamlar and page.anlamlar.size > 0 -%}
-    {%- assign first_def = page.anlamlar[0] -%}
-    {%- assign desc = page.title | append: ' ne demek? ' | append: first_def | strip_html | strip_newlines | escape -%}
-  {%- else -%}
-    {%- assign desc = page.description | default: site.description | strip_html | strip_newlines | escape -%}
-  {%- endif -%}
+  {%- comment -%}Detect term pages safely{%- endcomment -%}
+  {% if page.collection == 'terms' or page.url contains '/terim/' %}
+    {% assign is_term = true %}
+  {% else %}
+    {% assign is_term = false %}
+  {% endif %}
+
+  {%- assign base_title = site.title -%}
+
+  {%- comment -%}SEO title text{%- endcomment -%}
+  {% if is_term and page.title %}
+    {% assign title_text = page.title | append: ' ne demek?' %}
+  {% elsif page.title %}
+    {% assign title_text = page.title %}
+  {% else %}
+    {% assign title_text = base_title %}
+  {% endif %}
+  <title>{{ title_text }} | {{ base_title }}</title>
+
+  {%- comment -%}Meta description{%- endcomment -%}
+  {% if is_term and page.anlamlar and page.anlamlar.size > 0 %}
+    {% assign first_def = page.anlamlar[0] %}
+    {% assign desc = page.title | append: ' ne demek? ' | append: first_def | strip_html | strip_newlines | escape %}
+  {% else %}
+    {% assign desc = page.description | default: site.description | strip_html | strip_newlines | escape %}
+  {% endif %}
   <meta name="description" content="{{ desc }}">
 
-  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  {%- comment -%}OG / Twitter (use computed title_text){%- endcomment -%}
+  <meta property="og:title" content="{{ title_text | escape }}">
   <meta property="og:description" content="{{ desc }}">
-  <meta property="og:type" content="{% if page.layout == 'term' or page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:type" content="{% if is_term %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:locale" content="tr_TR">
   <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ title_text | escape }}">
   <meta name="twitter:description" content="{{ desc }}">
 
+  {%- assign ogimg = page.og_image | default: site.og_image -%}
+  {% if ogimg %}
+    <meta property="og:image" content="{{ ogimg | absolute_url }}">
+    <meta name="twitter:image" content="{{ ogimg | absolute_url }}">
+  {% endif %}
+
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" href="{{ page.url | absolute_url }}" hreflang="tr">
+  <meta name="content-language" content="tr">
+
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
+
+  <!-- JS libraries -->
+  <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
+
+  {%- comment -%}
+    JSON-LD: WebSite + SearchAction
+    Build target safely to avoid Liquid parsing errors with {search_term_string}.
+  {%- endcomment -%}
+  {% assign _siteurl = site.url | default: site.github.url | default: '/' | absolute_url %}
+  {% assign _qph = '{search_term_string}' %}
+  {% assign _target = _siteurl | append: '?q=' | append: _qph %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": {{ _siteurl | jsonify }},
+    "name": {{ site.title | jsonify }},
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {{ _target | jsonify }},
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
 </head>
+
 <body>
   <header class="site-header" role="banner">
     <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
 
-    {%- if page.url == '/' or page.url contains '/terim' %}
+    {% if page.url == '/' or is_term %}
       {% include search_banner.html %}
-    {%- endif %}
+    {% endif %}
 
-    {%- if page.url == '/' %}
+    {% if page.url == '/' %}
       <p class="tagline">{{ site.description }}</p>
-      <p class="term-count">Sözlükte toplam <strong>{{ site.terms | size }}</strong> madde mevcut.</p>
-    {%- endif %}
+      <p class="term-count">Sözlükte toplam <strong>{{ site.terms | size }}</strong> madde bulunuyor.</p>
+    {% endif %}
   </header>
 
   <main role="main">
     {{ content }}
   </main>
 
-  <!-- Footer -->
   {% include footer.html %}
 
-  <!-- JS & data needed by both the home page and every term page -->
-  <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
-
-  <!-- Terms payload for search (kept inline for performance) -->
+  <!-- Site logic (search etc.) -->
   <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
 
   <noscript>

@@ -17,6 +17,7 @@ import argparse
 import yaml  # pip install pyyaml
 from slugify import slugify  # pip install python-slugify
 from collections import Counter, defaultdict
+from datetime import datetime
 
 # Local function definitions
 
@@ -58,6 +59,7 @@ def to_md(term: str, fields: dict) -> str:
         "title": term,  # keep the original Turkish spelling in the meta‑data
         "slug": safe_slug(term),
         "letter": term[0].upper(),
+        "processed_at" : datetime.now().isoformat(timespec="seconds"),
         **fields,
     }
 

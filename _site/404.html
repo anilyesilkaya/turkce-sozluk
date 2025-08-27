@@ -1,25 +1,53 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="utf-8"><title>Sayfa Bulunamadı | Modern Türkçe Sözlük</title>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Açık kaynaklı, geliştirici dostu çağdaş Türkçe sözlük">
-
-  <meta property="og:title" content="Sayfa Bulunamadı">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sayfa Bulunamadı | Modern Türkçe Sözlük</title>
+  <meta name="description" content="Açık kaynaklı, geliştirici dostu çağdaş Türkçe sözlük"><meta property="og:title" content="Sayfa Bulunamadı">
   <meta property="og:description" content="Açık kaynaklı, geliştirici dostu çağdaş Türkçe sözlük">
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://localhost:4000/404.html">
   <meta property="og:site_name" content="Modern Türkçe Sözlük">
+  <meta property="og:locale" content="tr_TR">
   <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Sayfa Bulunamadı">
   <meta name="twitter:description" content="Açık kaynaklı, geliştirici dostu çağdaş Türkçe sözlük">
 
   <link rel="canonical" href="http://localhost:4000/404.html">
+  <link rel="alternate" href="http://localhost:4000/404.html" hreflang="tr">
+  <meta name="content-language" content="tr">
+
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+
+  <!-- JS libraries -->
+  <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
+  
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "http://localhost:4000",
+    "name": "Modern Türkçe Sözlük",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "http://localhost:4000?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
 </head>
+
 <body>
   <header class="site-header" role="banner">
     <h1 class="site-title"><a href="/">Modern Türkçe Sözlük</a></h1>
+
+    
+
+    
   </header>
 
   <main role="main">
@@ -34,7 +62,6 @@
 
   </main>
 
-  <!-- Footer -->
   <footer class="site-footer" role="contentinfo">
   <nav aria-label="Alt gezinme" class="footer-nav">
     <ul>
@@ -65,10 +92,7 @@
 </footer>
 
 
-  <!-- JS & data needed by both the home page and every term page -->
-  <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
-
-  <!-- Terms payload for search (kept inline for performance) -->
+  <!-- Site logic (search etc.) -->
   <script defer src="/assets/js/site.js"></script>
 
   <noscript>
