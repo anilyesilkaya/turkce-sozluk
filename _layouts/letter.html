@@ -9,7 +9,7 @@ layout: default
 <nav class="letter-nav" aria-label="Harfe göre gezinme (üst)">
   {% for L in letters %}
     <a href="{{ '/liste/' | append: L | append: '.html' | relative_url }}"
-       {% if L == page.letter %} class="current" aria-current="page"{% endif %}>
+      {% if L == page.letter %} class="current" aria-current="page"{% endif %}>
       {{ L }}
     </a>{% unless forloop.last %} · {% endunless %}
   {% endfor %}
