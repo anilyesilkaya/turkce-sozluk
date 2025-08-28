@@ -14,7 +14,7 @@ Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik 
 
 - 📖 **Güncel ve kapsamlı** Türkçe kelime veritabanı
 - ⚡ **Hızlı erişim**: Harf bazlı ve arama çubuğu ile kelime bulma
-- 🎲 **Rastgele kelime** butonu ile keşfetme
+- 🎲 **Rastgele kelime** butonu ile yeni kelime keşfetme
 - 🌐 **Jekyll tabanlı statik site** — GitHub Pages uyumlu
 - 🔍 **LLM uyumlu JSON formatı** ile veri sunumu
 - 🎨 Minimal, modern ve mobil uyumlu arayüz
