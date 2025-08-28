@@ -33,7 +33,11 @@ markdown: kramdown
 collections:
   terms:
     output: true
-    permalink: /terim/:name.html   # :name = filename without .md (e.g., slug--indeks)
+    permalink: /terim/:name.html   # :name = filename without .md (e.g., slug-indeks)
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build settings
 theme: null
