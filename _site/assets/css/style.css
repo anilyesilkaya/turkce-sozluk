@@ -47,7 +47,7 @@ body {
   text-align: center;
 }
 
-.hero-search { max-width: 720px; margin: 0 auto; }
+.hero-search { max-width: 640px; margin: 0 auto; }
 
 /* Input + buton “pill” grubu */
 .searchbar {
