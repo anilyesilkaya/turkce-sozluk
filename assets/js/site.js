@@ -68,7 +68,7 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
       <li role="option" data-url="${t.url}">
         <a href="${t.url}">
           <span class="res-title">${t.title}</span>
-          ${t._id ? `<small class="res-desc">(${t._slug})—${t._id})</small>` : ""}
+          ${t._id ? `<small class="res-desc">(${t._slug}—${t._id})</small>` : ""}
         </a>
       </li>
     `).join("");
@@ -89,28 +89,15 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
       return;
     }
 
-    // Support typing "slug--id" or "slug-id"
-    const m = raw.match(/^(.+?)[-]{1,2}(\d+)$/);
-    const typedSlugPart = m ? makeSlug(m[1]) : null;
-    const typedIdPart   = m ? m[2] : null;
-
+    // Support typing term/slug/id
     const score = (t) => {
-      if (t._titleFold === qFold) return 100;                 // exact title
-      if (t._slug === qSlug)     return 90;                   // exact slug
-
-      if (typedSlugPart) {                                    // slug-id pattern
-        const slugOk = t._slug.startsWith(typedSlugPart);
-        const idOk   = typedIdPart ? t._id.startsWith(typedIdPart) : false;
-        if (slugOk && idOk) return 85;
-        if (slugOk)         return 80;
-      }
-
-      if (t._titleFold.startsWith(qFold)) return 70;          // prefix title
-      if (t._slug.startsWith(qSlug))     return 65;           // prefix slug
-
-      if (t._titleFold.includes(qFold)) return 50;            // contains title
-      if (t.search && t.search.includes(qFold)) return 45;    // contains normalized search (from terms.json)
-
+      if (t._titleFold === qFold) return 100;              // matches exact title
+      if (t._slug === qSlug) return 90;                    // matches exact slug
+      if (t._titleFold.startsWith(qFold)) return 80;       // starts with the title
+      if (t._slug.startsWith(qSlug)) return 70;            // starts with the slug
+      if (t._titleFold.includes(qFold)) return 60;         // contains title
+      if (t.search && t.search.includes(qFold)) return 40; // contains normalized (no-accents) search
+      if (t._id.includes(qFold)) return 20;                // contains term id
       return 0;
     };
 
@@ -121,14 +108,14 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
       .slice(0, 15)
       .map(x => x.t);
 
-    render(matches);
+    return matches;
   }
 
   // Input handler (light debounce)
   let timer;
   $search?.addEventListener("input", () => {
     clearTimeout(timer);
-    timer = setTimeout(filter, 60);
+    timer = setTimeout(render(filter()), 60);
   });
 
   // Click on a suggestion
@@ -155,16 +142,7 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
     const raw = ($search.value || "").trim();
     if (!raw) return;
 
-    const rawFold = foldTR(raw);
-    const rawSlug = makeSlug(raw);
-    const m = raw.match(/^(.+?)[-]{1,2}(\d+)$/);
-
-    let hit =
-      terms.find(t => t._titleFold === rawFold) ||
-      terms.find(t => t._slug === rawSlug) ||
-      (m && terms.find(t => t._slug.startsWith(makeSlug(m[1])) && t._id.startsWith(m[2]))) ||
-      terms.find(t => t._titleFold.startsWith(rawFold)) ||
-      terms.find(t => t._slug.startsWith(rawSlug));
+    let hit = filter()[0];
 
     if (hit) {
       go(hit.url);
