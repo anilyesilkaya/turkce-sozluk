@@ -27,6 +27,8 @@
   const $list   = document.getElementById("results");
   const $random = document.getElementById("random-word");
 
+  let selectedIdx = 0;
+
   /* ────────────────── load term list ────────────────── */
   const TERMS_URL = '/assets/terms.json';
 
@@ -53,7 +55,7 @@
 
   function render(items) {
     if (!$list) return;
-    if (!items.length) {
+    if (!items || items.length == 0) {
       $list.innerHTML = "";
       $list.style.display = "none";
       $search?.setAttribute("aria-expanded", "false");
@@ -107,11 +109,27 @@
     return matches;
   }
 
+  function selectListItem(selectedIdx) {
+    const items = $list.querySelectorAll('li[data-url]');
+
+    if (!items) return;
+
+    // Remove all the highlights first
+    items.forEach(item => item.classList.remove('selected'));
+
+    // Add highlight to the selected item
+    items[selectedIdx].classList.add('selected');
+
+    // Ensure the selected item is visible
+    items[selectedIdx].scrollIntoView({block: 'nearest'}); 
+  }
+
   // Input handler (light debounce)
   let timer;
   $search?.addEventListener("input", () => {
     clearTimeout(timer);
     timer = setTimeout(render(filter()), 60);
+    selectedIdx = 0;
   });
 
   // Click on a suggestion
@@ -139,12 +157,29 @@
     if (!raw) return;
 
     let hit = filter()[0];
+    const items = $list.querySelectorAll('li[data-url]');
 
-    if (hit) {
+    if (hit && selectedIdx==0) {
       go(hit.url);
-    } else {
+    } else if (hit) {
+      go(items[selectedIdx-1].getAttribute("data-url"));
+    } 
+    else {
       render([]);
     }
+  });
+
+  // Keyboard: ArrowUp/ArrowDown selection
+  $search?.addEventListener("keydown", (ev) => {
+    const numElements = $list.querySelectorAll('li[data-url]').length;
+    if (ev.key == "ArrowDown") {
+      ev.preventDefault(); // This stops default browser behavior
+      selectedIdx += 1;
+    } else if (ev.key == "ArrowUp" && selectedIdx!=0) {
+      ev.preventDefault(); // This stops default browser behavior
+      selectedIdx -= 1;
+    } else return;
+    selectListItem((((selectedIdx-1) % numElements) + numElements) % numElements);
   });
 
   /* ────────────────── random term ────────────────── */
@@ -155,3 +190,18 @@
     go(url);
   });
 })();
+
+// Add CSS for highlighting selected item
+const style = document.createElement('style');
+style.textContent = `
+  #results.autocomplete li.selected {
+    background-color: #f0f8ff; /* Light blue background */
+  }
+  
+  #results.autocomplete li.selected a {
+    color: #0066cc; /* Darker blue text */
+    font-weight: bold;
+  }
+`;
+document.head.appendChild(style);
+
