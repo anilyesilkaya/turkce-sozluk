@@ -57,16 +57,16 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
 
   /* ────────────────── autocomplete ────────────────── */
 
-  function render(items) {
+  function render(nodeList) {
     if (!$list) return;
-    if (!items || items.length == 0) {
+    if (!nodeList || nodeList.length == 0) {
       $list.innerHTML = "";
       $list.style.display = "none";
       $search?.setAttribute("aria-expanded", "false");
       return;
     }
 
-    $list.innerHTML = items.map(t => `
+    $list.innerHTML = nodeList.map(t => `
       <li role="option" data-url="${t.url}">
         <a href="${t.url}">
           <span class="res-title">${t.title}</span>
@@ -114,18 +114,18 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
   }
 
   function selectListItem(selectedIdx) {
-    const items = $list.querySelectorAll('li[data-url]');
+    const nodeList = $list.querySelectorAll('li[data-url]');
 
-    if (!items) return;
+    if (!nodeList) return;
 
     // Remove all the highlights first
-    items.forEach(item => item.classList.remove('selected'));
+    nodeList.forEach(item => item.classList.remove('selected'));
 
     // Add highlight to the selected item
-    items[selectedIdx].classList.add('selected');
+    nodeList[selectedIdx].classList.add('selected');
 
     // Ensure the selected item is visible
-    items[selectedIdx].scrollIntoView({block: 'nearest'}); 
+    nodeList[selectedIdx].scrollIntoView({block: 'nearest'}); 
   }
 
   // Input handler (light debounce)
@@ -161,12 +161,13 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
     if (!raw) return;
 
     let hit = filter()[0];
-    const items = $list.querySelectorAll('li[data-url]');
+    const nodeList = $list.querySelectorAll('li');
+    selectedIdx = Array.from(nodeList).findIndex(li => li.classList.contains('selected'));
 
-    if (hit && selectedIdx==0) {
+    if (hit && selectedIdx === 0) {
       go(hit.url);
-    } else if (hit) {
-      go(items[selectedIdx-1].getAttribute("data-url"));
+    } else if (hit && selectedIdx !== 0) {
+      go(nodeList[selectedIdx].getAttribute("data-url"));
     } 
     else {
       render([]);
@@ -176,12 +177,14 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
   // Keyboard: ArrowUp/ArrowDown selection
   $search?.addEventListener("keydown", (ev) => {
     const numElements = $list.querySelectorAll('li[data-url]').length;
-    if (ev.key == "ArrowDown") {
+    if (ev.key === "ArrowDown") {
       ev.preventDefault(); // This stops default browser behavior
       selectedIdx += 1;
-    } else if (ev.key == "ArrowUp" && selectedIdx!=0) {
+    } else if (ev.key === "ArrowUp" && selectedIdx !== 0) {
       ev.preventDefault(); // This stops default browser behavior
       selectedIdx -= 1;
+    } else if (ev.key === "ArrowUp" && selectedIdx === 0) {
+      ev.preventDefault(); // This stops default browser behavior
     } else return;
     selectListItem((((selectedIdx-1) % numElements) + numElements) % numElements);
   });
