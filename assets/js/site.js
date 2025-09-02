@@ -31,8 +31,6 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
   const $list   = document.getElementById("results");
   const $random = document.getElementById("random-word");
 
-  let selectedIdx = 0;
-
   /* ────────────────── load term list ────────────────── */
   const TERMS_URL = '{{ "/assets/terms.json" | relative_url }}';
 
@@ -177,16 +175,20 @@ layout: null      /* Let Jekyll process Liquid, output raw JS */
   // Keyboard: ArrowUp/ArrowDown selection
   $search?.addEventListener("keydown", (ev) => {
     const numElements = $list.querySelectorAll('li[data-url]').length;
+    const nodeList = $list.querySelectorAll('li');
+    selectedIdx = Array.from(nodeList).findIndex(li => li.classList.contains('selected'));
+
     if (ev.key === "ArrowDown") {
       ev.preventDefault(); // This stops default browser behavior
       selectedIdx += 1;
-    } else if (ev.key === "ArrowUp" && selectedIdx !== 0) {
+    } else if (ev.key === "ArrowUp" && selectedIdx !== -1) {
       ev.preventDefault(); // This stops default browser behavior
       selectedIdx -= 1;
-    } else if (ev.key === "ArrowUp" && selectedIdx === 0) {
+    } else if (ev.key === "ArrowUp" && selectedIdx === -1) {
       ev.preventDefault(); // This stops default browser behavior
+      selectedIdx += numElements
     } else return;
-    selectListItem((((selectedIdx-1) % numElements) + numElements) % numElements);
+    selectListItem(((selectedIdx % numElements) + numElements) % numElements);
   });
 
   /* ────────────────── random term ────────────────── */
