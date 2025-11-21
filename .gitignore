@@ -2,4 +2,3 @@ _terms_test
 .vscode/
 _site/utils/database_sozluk/v12/
 utils/*
-!utils/tdk_sozluk_processor_sqlite.py
