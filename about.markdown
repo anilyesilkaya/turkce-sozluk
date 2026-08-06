@@ -2,7 +2,7 @@
 layout: default
 title: Hakkında
 permalink: /hakkinda/
-description: "Modern Türkçe Sözlük projesi hakkında."
+description: "Çağdaş Türkçe Sözlük projesi hakkında."
 ---
 
 # Hakkında
