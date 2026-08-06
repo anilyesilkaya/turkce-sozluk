@@ -1,6 +1,6 @@
 ---
-layout: null      /* Let Jekyll process Liquid, output raw JS */
 ---
+/* Let Jekyll process Liquid, output raw JS */
 
 /* assets/js/site.js */
 (async () => {
