@@ -1,74 +1,57 @@
 # Çağdaş Türkçe Sözlük
-**Çağdaş Türkçe Sözlük**, açık kaynak kodlu ve LLM dostu bir çağdaş Türkçe sözlük projesidir.  
-Amacı, mevcut çevrim içi sözlüklerden daha hızlı, erişilebilir, estetik ve yapay zeka tarafından kolay işlenebilir bir sözlük altyapısı sunmaktır.
+
+**Çağdaş Türkçe Sözlük**, açık kaynak kodlu, hızlı ve LLM-dostu bir Türkçe sözlük projesidir.
+
+Projenin amacı; Türkçe kelimelere erişimi kolaylaştıran, modern bir kullanıcı deneyimi sunan ve aynı zamanda yapay zekâ uygulamaları tarafından kolayca işlenebilen açık bir sözlük altyapısı oluşturmaktır.
 
 <p align="center">
-  <img src="assets/cover.png" alt="Türkçe Sözlük Projesi" width="300">
+  <img src="assets/cover.png" alt="Çağdaş Türkçe Sözlük" width="300">
 </p>
 
-## Canlı Önizleme
+## 🌐 Canlı Site
 
-👉 [Proje Sitesi - sozluk.online](https://sozluk.online)
+👉 [sozluk.online](https://sozluk.online)
 
-## Özellikler
+## ✨ Özellikler
 
-- 📖 **Güncel ve kapsamlı** Türkçe kelime veritabanı
-- ⚡ **Hızlı erişim**: Harf bazlı ve arama çubuğu ile kelime bulma
-- 🎲 **Rastgele kelime** butonu ile yeni kelime keşfetme
-- 🌐 **Jekyll tabanlı statik site** — GitHub Pages uyumlu
-- 🔍 **LLM uyumlu JSON formatı** ile veri sunumu
-- 🎨 Minimal, modern ve mobil uyumlu arayüz
+* 📖 Güncel ve kapsamlı Türkçe kelime veritabanı
+* 🔍 Arama çubuğu ve harf bazlı gezinme
+* 🎲 Rastgele kelime keşfi
+* ⚡ Hızlı, statik ve mobil uyumlu arayüz
+* 🌐 Jekyll tabanlı yapı ve GitHub Pages desteği
+* 🤖 LLM ve diğer yazılım uygulamaları için JSON tabanlı veri erişimi
+* 🎨 Minimal ve modern kullanıcı arayüzü
 
-## Kurulum
+## 🚀 Yerel Kurulum
 
-Bu projeyi yerel ortamda çalıştırmak için:
+Depoyu klonlayın:
 
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/anilyesilkaya/turkce-sozluk.git
-   cd turkce-sozluk
-   ```
-
-## Proje Yapısı
+```bash
+git clone https://github.com/anilyesilkaya/turkce-sozluk.git
+cd turkce-sozluk
 ```
+
+Ardından projeyi standart Jekyll geliştirme ortamınızda çalıştırabilirsiniz.
+
+## 📁 Proje Yapısı
+
+```text
 _turkce-sozluk/
-├── _terms/               # Her bir kelime için Markdown formatlı içerik dosyaları
-├── assets/               # CSS, JS ve medya dosyaları
-├── _layouts/             # Sayfa şablonları (default, term vb.)
-├── _includes/            # Ortak HTML parçaları (header, footer vb.)
+├── _terms/               # Kelimeler için Markdown içerik dosyaları
+├── assets/               # CSS, JavaScript ve medya dosyaları
+├── _layouts/             # Sayfa şablonları
+├── _includes/            # Ortak HTML bileşenleri
 ├── assets/terms.json     # JSON formatında kelime listesi
 └── index.html            # Ana sayfa
 ```
 
-## JSON Formatı
-Her kelime aşağıdaki yapıda saklanır:
-```
-{
-  "dulda": {
-    "lisan": "Türkçe",
-    "anlamlar": [
-      "Yağmur, güneş ve rüzgârın etkileyemediği gizli, kuytu yer; siper",
-      "Birine yapılan himaye"
-    ],
-    "ozellikler": [
-      ["isim", "ağızlardan"],
-      ["isim", "ağızlardan", "mecaz"]
-    ],
-    "ornekler": [
-      ["Demirkır, güney tepelerinin duldalarına çektiği atları gece yarısına doğru yeniden ovaya indirdi."],
-      ["Yiğit duldasında yiğit saklanır."]
-    ],
-    "orneklerkaynak": [
-      ["Abbas Sayar"],
-      ["Karacaoğlan"]
-    ]
-  }
-}
-```
+Bu yapı, sözlük verisinin web uygulamaları, araştırma araçları ve LLM tabanlı sistemler tarafından doğrudan işlenebilmesini kolaylaştırır.
 
-## Katkıda Bulunma
-1. Fork yapın.
+## 🤝 Katkıda Bulunma
 
+Projeye katkıda bulunmak için:
+
+1. Depoyu fork edin.
 2. Yeni bir branch oluşturun:
 
 ```bash
@@ -76,17 +59,25 @@ git checkout -b yeni-ozellik
 ```
 
 3. Değişikliklerinizi yapın ve commit edin:
+
 ```bash
 git commit -m "Yeni özellik eklendi"
 ```
+
 4. Pull request gönderin.
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın
-- Kodlar: [MIT Lisansı](./LICENSE)
+## 📄 Lisans ve Veri Kaynağı
 
-Bu projede kullanılan sözlük verisi, (`v12.gts.json.tar.gz` arşiv dosyası içindeki JSON dosyası) [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) deposundan alınmıştır.
+Proje kodu **MIT Lisansı** ile lisanslanmıştır. Ayrıntılar için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
 
-- **Depodaki konum**: `sozluk/v12/v12.gts.json.tar.gz`
-- **Erişim tarihi**: 15 Ağustos 2025
-- **Lisans**: Orijinal depodaki lisans bilgisine bakınız (örn. MIT, Apache vb.).
+Sözlük verisi, `v12.gts.json.tar.gz` arşivindeki JSON dosyasından alınmıştır:
+
+* **Kaynak:** [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk)
+* **Depodaki konum:** `sozluk/v12/v12.gts.json.tar.gz`
+* **Erişim tarihi:** 15 Ağustos 2025
+* **Veri lisansı:** Orijinal deponun lisans koşullarına tabidir.
+
+---
+
+**Çağdaş Türkçe Sözlük**
+Açık, hızlı ve makine tarafından okunabilir Türkçe sözlük altyapısı.
