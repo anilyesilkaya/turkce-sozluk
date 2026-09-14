@@ -1,3 +1,5 @@
 .vscode/
-_site/utils/
+_site/
 utils/
+.jekyll-cache/
+.jekyll-metadata
